@@ -234,7 +234,7 @@ def main():
         page_links = [page_element.find('a')['href'] for page_element in page_elements]
         # The game pass list uses a different format, page links must be adjusted accordingly.
         if output_file == 'xbox_game_pass_games.csv':
-            page_links = [f'https://www.trueachievements.com/xbox-game-pass/games?page={i}' for i in range(1, 6)]
+            page_links = [f'https://www.trueachievements.com/xbox-game-pass/games?page={i}' for i in range(1, 5)]
             
         for page in tqdm(page_links):
             # Update the soup
