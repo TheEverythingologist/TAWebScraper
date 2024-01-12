@@ -207,6 +207,11 @@ def adjust_time(time_string):
     return str(time_val)
 
 
+def csv_to_pandas_loader(csv_path):
+    _df = pd.read_csv(csv_path)
+    return _df
+
+
 def main():
     urls = ['https://www.trueachievements.com/xbox-game-pass/games', "https://www.trueachievements.com/xbox-one/games", "https://www.trueachievements.com/xbox-360/games", "https://www.trueachievements.com/windows/games"]
     output_files = ['xbox_game_pass_games.csv' ,'xbox_one_games.csv', 'xbox_360_games.csv', 'windows_games.csv']
