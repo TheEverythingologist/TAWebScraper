@@ -138,8 +138,8 @@ class Game:
                 else:
                     for li_style in ul_class.find_all("li"):
                         self.base_num_achievements += 1
-                        ach_ta = str_to_int(ul_class.find('a')['data-af'])
-                        ach_gs = int(((ul_class.find('p')['data-bf']).split(' '))[0])
+                        ach_ta = str_to_int(li_style.find('a')['data-af'])
+                        ach_gs = int(((li_style.find('p')['data-bf']).split(' '))[0])
                         if ach_gs == 0:
                             continue
                         ach_ratio = ach_ta / ach_gs
@@ -147,8 +147,8 @@ class Game:
             except AttributeError:
                 for li_style in ul_class.find_all("li"):
                     self.base_num_achievements += 1
-                    ach_ta = str_to_int(ul_class.find('a')['data-af'])
-                    ach_gs = int(((ul_class.find('p')['data-bf']).split(' '))[0])
+                    ach_ta = str_to_int(li_style.find('a')['data-af'])
+                    ach_gs = int(((li_style.find('p')['data-bf']).split(' '))[0])
                     if ach_gs == 0:
                         continue
                     ach_ratio = ach_ta / ach_gs
@@ -166,8 +166,8 @@ class Game:
         for ul_class in ul_classes:
             for li_style in ul_class.find_all("li"):
                 self.overall_num_achievements += 1
-                ach_ta = str_to_int(ul_class.find('a')['data-af'])
-                ach_gs = int(((ul_class.find('p')['data-bf']).split(' '))[0])
+                ach_ta = str_to_int(li_style.find('a')['data-af'])
+                ach_gs = int(((li_style.find('p')['data-bf']).split(' '))[0])
                 if ach_gs == 0:
                     continue
                 ach_ratio = ach_ta / ach_gs
@@ -210,6 +210,17 @@ def adjust_time(time_string):
 def csv_to_pandas_loader(csv_path):
     _df = pd.read_csv(csv_path)
     return _df
+
+
+def check_game_for_rescan_need(output_file, game_name, game_overall_tad):
+    _df = pd.read_csv(output_file)
+    _df = _df.loc[_df['Name Overall TAD'] == game_name]
+    # TODO Need to figure out how to check if a game isn't already in the dataframe
+    old_tad = _df.at[0, 'Name Overall TAD']
+    if game_overall_tad >= 1.05*old_tad or game_overall_tad <= 0.95*old_tad:
+        return False
+    else:
+        return True
 
 
 def main():
