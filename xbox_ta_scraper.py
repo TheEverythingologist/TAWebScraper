@@ -10,23 +10,47 @@ class Game:
         _response = requests.get(_url)
         _soup = BeautifulSoup(_response.content, 'html.parser')
         self.unleased = False
+
         self.base_num_achievements = 0
         self.overall_num_achievements = 0
         self.page_info = _soup.find('div', {'class': "page ta"})
+
+
         self.game_name = self.find_game_name()
+        self.developer = self.find_developer()
+        self.num_gamers = self.find_num_gamers()
+        self.site_rating = self.find_site_rating()
+        self.server_closure = self.find_server_closure()
+        self.delisted = self.check_delisted()
+        self.install_size = self.check_install_size()
+        self.publisher = self.find_publisher()
+        self.release_date = self.find_release_date()
+        self.pdu = self.find_pdu()
+
         self.overall_ta = self.find_overall_ta()
         self.overall_gs = self.find_overall_gs()
+
         self.overall_completion_time = self.find_overall_completion_time()
         self.overall_std_score = self.find_overall_std_score()
+
+        self.max_completion_time = self.find_max_completion_time()
+
+        self.is_360 = self.check_360()
+
         if self.unleased == False:
             self.base_ta = self.find_base_ta()
             self.base_gs = self.find_base_gs()
             self.base_completion_time = self.find_base_completion_time()
+
             self.dlc_ta = self.find_dlc_ta()
             self.dlc_gs = self.find_dlc_gs()
+
             self.overall_tad_rate = (self.overall_ta - self.overall_gs) / self.overall_completion_time
             self.base_tad_rate = (self.base_ta - self.base_gs) / self.base_completion_time
             self.base_std_score = self.find_base_std_score()
+            
+            self.bcmx_val = self.calc_bcmx()
+
 
     def find_game_name(self):
         return (self.page_info.find('h2')).text
@@ -88,6 +112,32 @@ class Game:
             if div_element.find("div", {"class": "img"}).text == 'Update':
                 base_time += float(adjust_time(div_element.find('span', {'title':"Estimated time to unlock all achievements"}).text))
         return base_time
+    
+    def find_max_completion_time(self):
+        try:
+            time_str = self.page_info.find('a', {'title':"Estimated time to unlock all achievements (Including all DLC)"}).text
+        except AttributeError:
+            time_str = self.page_info.find('a', {'title':"Estimated time to unlock all achievements"})
+            if time_str is None:
+                self.unleased = True
+                return None
+            time_str = time_str.text
+        time_val = (time_str.split(' '))[0]
+        time_val = time_val.split('-')
+        try:
+            time_val = float(time_val[1][:-1])
+        except:
+            if time_val == ['1000+'] or (time_str == '1000+h'):
+                time_val = 1000
+            elif time_val == ['200+']:
+                time_val = 200
+            elif len(time_val) > 1:
+                time_val = time_val[0]
+            else:
+                print("Still broken!")
+                print(time_val)
+        return float(time_val)
+
 
     def find_dlc_completion_times(self):
         base_info = self.page_info('div', {'class': "pnl-hd no-pills no-pr game"})
@@ -174,6 +224,86 @@ class Game:
                 std_val += 10 * (ach_ratio - 1)
         self.overall_ssd = std_val
         return std_val
+    
+    def calc_bcmx(self):
+        if self.is_360:
+            return self.max_completion_time * (self.overall_ta / self.overall_gs + 0.5) ** 1.5 * 1.5
+        else:
+            return self.max_completion_time * (self.overall_ta / self.overall_gs) ** 1.5
+
+    def check_360(self):
+        if "Xbox 360" in self.game_name:
+            return True
+        elif len((self.page_info).find_all("a", {"href": "/xbox-360/games"})) != 0:
+            return True
+        else:
+            return False
+        
+    def find_developer(self):
+        developers = (self.page_info).find_all('a', href=lambda href: href and '/developer/' in href)
+        return ', '.join([d.text for d in developers])
+
+    def find_num_gamers(self):
+        gamers = ((self.page_info).find('a', href=lambda href: href and '/gamers' in href and '/game/' in href)).text
+        return string_to_num(gamers)
+
+    def find_site_rating(self):
+        rating = ((self.page_info).find('span', title=lambda title: title and 'out of 5' in title)).text
+        if rating.endswith('*'):
+            rating = rating[:-1]
+        return float(rating)
+
+    def find_server_closure(self):
+        closure = (self.page_info).find('div', {"class": "warningspanel"})
+        if closure is None:
+            return False
+        elif "closure" in closure.text:
+            return True
+        else:
+            return False
+
+    def check_delisted(self):
+        closure = (self.page_info).find('div', {"class": "warningspanel"})
+        if closure is None:
+            return False
+        elif "removed from the Microsoft Store" in closure.text:
+            return True
+        else:
+            return False
+
+    def check_install_size(self):
+        dt = (self.page_info).find('dt', text='Size:')
+        dd = dt.find_next_sibling('dd')
+        size = dd.text
+        if size.endswith("GB"):
+            size = size[:-2]
+            return float(size) * 1000
+        elif size.endswith("MB"):
+            size = size[:-2]
+            return float(size)
+
+    def find_publisher(self):
+        publishers = (self.page_info).find_all('a', href=lambda href: href and '/publisher/' in href)
+        if len(publishers) > 1:
+            return ', '.join([p.text for p in publishers])
+        else:
+            return (publishers[0]).text
+        
+    def find_release_date(self):
+        dt = (self.page_info).find('dt', text='Release')
+        dd = dt.find_next_sibling('dd')
+        return dd.text
+
+    def find_pdu(self):
+        closure = (self.page_info).find('div', {"class": "warningspanel"})
+        if closure is None:
+            return 0
+        pdu = (closure.find('a')).text
+        if "Discontinued" in pdu or "Unobtainable" in pdu:
+            numbers = re.findall(r'\d+', pdu)
+            return sum(int(num) for num in numbers)
+        else:
+            return 0
 
 
 def string_to_num(s):
