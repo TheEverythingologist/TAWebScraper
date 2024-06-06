@@ -272,7 +272,7 @@ class Game:
             return False
 
     def check_install_size(self):
-        dt = (self.page_info).find('dt', text='Size:')
+        dt = (self.page_info).find('dt', string='Size:')
         dd = dt.find_next_sibling('dd')
         size = dd.text
         if size.endswith("GB"):
@@ -290,7 +290,7 @@ class Game:
             return (publishers[0]).text
         
     def find_release_date(self):
-        dt = (self.page_info).find('dt', text='Release')
+        dt = (self.page_info).find('dt', string='Release')
         dd = dt.find_next_sibling('dd')
         return dd.text
 
@@ -336,38 +336,131 @@ def adjust_time(time_string):
             print(time_val)
     return str(time_val)
 
+def max_time(time_string):
+    time_val = (time_string.split(' '))[0]
+    time_val = time_val.split('-')
+    try:
+        time_val = float(time_val[1][:-1])
+    except:
+        if time_val == ['1000+'] or (time_string == '1000+h'):
+            time_val = 1000
+        elif time_val == ['200+']:
+            time_val = 200
+        # elif len(time_val) > 1:
+        #     time_val = time_val[0]
+        else:
+            print("Still broken!")
+            print(time_val)
+    return str(time_val)
 
 def csv_to_pandas_loader(csv_path):
     _df = pd.read_csv(csv_path)
     return _df
 
 
-def check_game_for_rescan_need(output_file, game_name, game_overall_tad):
-    _df = pd.read_csv(output_file)
-    _df = _df.loc[_df['Name Overall TAD'] == game_name]
-    # TODO Need to figure out how to check if a game isn't already in the dataframe
-    old_tad = _df.at[0, 'Name Overall TAD']
-    if game_overall_tad >= 1.05*old_tad or game_overall_tad <= 0.95*old_tad:
-        return False
-    else:
-        return True
+def check_game_for_rescan_need(output_file, game_box):
+    # TODO remove this after first run.
+    return True
+    # Load new data
+    game_overall_ta_gs = (game_box.find('td', {'class': "score"}).text).split(' ')
+    game_overall_ta = float(str_to_int(game_overall_ta_gs[0]))
+    game_overall_gs = float(str_to_int(game_overall_ta_gs[1][1:-1]))
 
+    game_max_time_str = (game_box.find('a', href=lambda href: href and '/completiontime' in href and '/game/' in href)).text
+    game_max_time = max_time(game_max_time_str)
+
+    _td = game_box.find('td', {'class': "game"})
+    game_name = (_td.find('a')).text
+    _df = pd.read_csv(output_file)
+    _df = _df.loc[_df['Name'] == game_name]
+    # Load old data
+    old_ta = _df.at[0, 'Overall TA']
+    old_gs = _df.at[0, 'Overall GS']
+    old_max_time = _df.at[0, 'Overall Max Time']
+    # Check data
+    if game_overall_ta >= 1.05*old_ta or game_overall_ta <= 0.95*old_ta:
+        return True
+    elif game_overall_gs != old_gs:
+        return True
+    elif game_max_time != old_max_time:
+        return True
+    else:
+        return False
+
+
+def find_game_box(inputted_game_boxes, inputted_url):
+    for tr in inputted_game_boxes:
+        a_tag = tr.find('a')['href']
+        if a_tag == inputted_url:
+            return tr
+    return None
+
+def format_game_row(input_game: Game):
+    game_row = [
+                input_game.game_name,
+                input_game.base_ta,
+                input_game.overall_ta,
+                input_game.base_gs,
+                input_game.overall_gs,
+                input_game.base_ta / input_game.base_gs,
+                input_game.overall_ta / input_game.overall_gs,
+                input_game.base_completion_time,
+                input_game.overall_completion_time,
+                input_game.max_completion_time,
+                input_game.site_rating,
+                input_game.num_gamers,
+                input_game.base_num_achievements,
+                input_game.overall_num_achievements,
+                input_game.base_ssd,
+                input_game.base_tad_rate,
+                input_game.overall_ssd / input_game.overall_completion_time,
+                input_game.overall_tad_rate,
+                input_game.developer,
+                input_game.publisher,
+                input_game.is_360,
+                input_game.bcmx_val,
+                input_game.pdu,
+                input_game.server_closure,
+                input_game.delisted,
+                input_game.install_size
+                ]
+    return game_row 
 
 def main():
     urls = ['https://www.trueachievements.com/xbox-game-pass/games', "https://www.trueachievements.com/xbox-one/games", "https://www.trueachievements.com/xbox-360/games", "https://www.trueachievements.com/windows/games"]
     output_files = ['xbox_game_pass_games.csv' ,'xbox_one_games.csv', 'xbox_360_games.csv', 'windows_games.csv']
 
-    columns_list_overall_tad = ["Name Overall TAD", "Overall TA", "Overall GS", "Overall TAD Completion Time", "Overall TAD Rate"]
-    columns_list_base_tad = ["Name Base TAD", "Base TA", "Base GS", "Base TAD Completion Time", "Base TAD Rate"]
-    columns_list_overall_ssd = ["Name Overall SSD", "Overall SSD", "Overall SSD Completion Time", "Overall SSD Rate"]
-    columns_list_base_ssd = ["Name Base SSD", "Base SSD", "Base SSD Completion Time", "Base SSD Rate"]
+    columns_list = ["Name",
+                    "Base TA",
+                    "Overall TA",
+                    "Base GS",
+                    "Overall GS",
+                    "Base Ratio",
+                    "Overall Ratio",
+                    "Base Time",
+                    "Overall Time",
+                    "Max Time",
+                    "Site Rating",
+                    "Num Gamers",
+                    "Base Num Achievements",
+                    "Overall Num Achievements",
+                    "Base SSD",
+                    "Base TAD Rate",
+                    "Overall SSD Rate",
+                    "Overall TAD Rate",
+                    "Developer(s)",
+                    "Publisher(s)",
+                    "is 360?",
+                    "BCMX Value",
+                    "PDU",
+                    "Server Closure",
+                    "Delisted",
+                    "Install Size"
+                    ]
 
     for url, output_file in zip(urls, output_files):
         print(f"Scanning {url}")
-        df_overall_tad = pd.DataFrame(columns=columns_list_overall_tad)
-        df_base_tad = pd.DataFrame(columns=columns_list_base_tad)
-        df_overall_ssd = pd.DataFrame(columns=columns_list_overall_ssd)
-        df_base_ssd = pd.DataFrame(columns=columns_list_base_ssd)
+        df_overall = pd.DataFrame(columns=columns_list)
 
         all_urls = []
 
@@ -380,8 +473,10 @@ def main():
         page_links = [page_element.find('a')['href'] for page_element in page_elements]
         # The game pass list uses a different format, page links must be adjusted accordingly.
         if output_file == 'xbox_game_pass_games.csv':
-            page_links = [f'https://www.trueachievements.com/xbox-game-pass/games?page={i}' for i in range(1, 5)]
+            page_links = [f'https://www.trueachievements.com/xbox-game-pass/games?page={i}' for i in range(1, 6)]
             
+        game_boxes = []
+
         for page in tqdm(page_links):
             # Update the soup
             response = requests.get(page)
@@ -389,42 +484,51 @@ def main():
             # Find the parent element containing the game information
             parent_element = soup.find('table', {'id': 'oGameList', 'class': 'maintable'})
 
-            game_boxes = parent_element.find_all('tr', {'class': 'even'}) + parent_element.find_all('tr', {'class': 'odd'})
+            game_boxes += parent_element.find_all('tr', {'class': 'even'}) + parent_element.find_all('tr', {'class': 'odd'})
 
-            # Iterate through each game box
-            for game_box in game_boxes:
-                # Find the element of the url
-                url_element = game_box.find('td', {'class': 'game'}).find('a')['href']
-                all_urls.append(url_element)
+        # Iterate through each game box
+        for game_box in game_boxes:
+            # Find the element of the url
+            url_element = game_box.find('td', {'class': 'game'}).find('a')['href']
+            all_urls.append(url_element)
 
         print("All URLs scanned in. Now iterating through games.")
         # Iterate through all of the game urls
         for url_value in tqdm(all_urls):
+            formatted_url = f"http://trueachievements.com{url_value}"
+            # First check if the game is in the corresponding output csv. If not, continue.
+            specific_game_box = find_game_box(game_boxes, url_value)
+            if specific_game_box is None:
+                # There is currently a caching bug with Game Pass Games list. Need TA to fix this.
+                continue
+            # Second check if the game's gamebox data is different enough from the data in the csv. If not, continue
+            need_to_rescan = check_game_for_rescan_need(output_file=output_file, game_box=specific_game_box)
+
+            # Third actually create a game object. In theory, this should have us skip most games and save on runtime and server requests.
             try:
-                game = Game(_url=f"http://trueachievements.com{url_value}")
+                game = Game(_url=formatted_url)
             except AttributeError:
                 continue
             # Skip the game if it hasn't been released yet.
             if game.unleased == True:
                 continue
+            # If the game data is in the dataframe, overwrite it. If not, create the row.
+            game_row = format_game_row(game)
+            # TODO change this after first run
+            if False:
+                df_overall.loc[df_overall['Name'] == game.game_name] = game_row
+            if True:
+                df_overall.loc[len(df_overall)] = game_row
+            # Output the dataframe to a csv.
 
-            df_overall_tad.loc[len(df_overall_tad)] = [game.game_name, game.overall_ta, game.overall_gs, game.overall_completion_time, game.overall_tad_rate]
-            df_base_tad.loc[len(df_base_tad)] = [game.game_name, game.base_ta, game.base_gs, game.base_completion_time, game.base_tad_rate]
-            df_overall_ssd.loc[len(df_overall_ssd)] = [game.game_name, game.overall_ssd, game.overall_completion_time, game.overall_ssd/game.overall_completion_time]
-            df_base_ssd.loc[len(df_base_ssd)] = [game.game_name, game.base_ssd, game.base_completion_time, game.base_ssd/game.base_completion_time]
+
         # Sort the dataframes
-        df_overall_tad = df_overall_tad.sort_values(by=['Overall TAD Rate'], ascending=False)
-        df_overall_tad = df_overall_tad.reset_index(drop=True)
-        df_base_tad = df_base_tad.sort_values(by=['Base TAD Rate'], ascending=False)
-        df_base_tad = df_base_tad.reset_index(drop=True)
-        df_overall_ssd = df_overall_ssd.sort_values(by=['Overall SSD Rate'], ascending=False)
-        df_overall_ssd = df_overall_ssd.reset_index(drop=True)
-        df_base_ssd = df_base_ssd.sort_values(by=['Base SSD Rate'], ascending=False)
-        df_base_ssd = df_base_ssd.reset_index(drop=True)
+        df_overall = df_overall.sort_values(by=['Name'], ascending=False)
+        df_overall = df_overall.reset_index(drop=True)
+
         # Concatenate the dataframes
-        df_concat = pd.concat([df_base_tad, df_overall_tad, df_base_ssd, df_overall_ssd], axis=1)
         # Convert the dataframes to csv files        
-        df_concat.to_csv(output_file, index=False)
+        df_overall.to_csv(output_file, index=False)
 
 
 if __name__ == "__main__":
