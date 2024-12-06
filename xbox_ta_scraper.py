@@ -4,6 +4,8 @@ import pandas as pd
 import csv
 import re
 from tqdm import tqdm
+import time
+import pyautogui
 
 class Game:
     def __init__(self, _url) -> None:
@@ -36,6 +38,7 @@ class Game:
         self.max_completion_time = self.find_max_completion_time()
 
         self.is_360 = self.check_360()
+        self.genres = self.find_genres()
 
         if self.unleased == False:
             self.base_ta = self.find_base_ta()
@@ -305,6 +308,14 @@ class Game:
         else:
             return 0
 
+    def find_genres(self):
+        genre_data = (self.page_info).find_all('a', href=lambda href: href and '/genre/' in href)
+        if len(genre_data) == 0:
+            return "None"
+        elif len(genre_data) > 1:
+            return ', '.join([p.text for p in genre_data])
+        else:
+            return (genre_data[0]).text
 
 def string_to_num(s):
     pattern = r'\D*(\d{1,3}(,\d{3})*(\.\d+)?)\D*'
@@ -426,10 +437,29 @@ def format_game_row(input_game: Game):
                 ]
     return game_row 
 
-def main():
-    urls = ['https://www.trueachievements.com/xbox-game-pass/games', "https://www.trueachievements.com/xbox-one/games", "https://www.trueachievements.com/xbox-360/games", "https://www.trueachievements.com/windows/games"]
-    output_files = ['xbox_game_pass_games.csv' ,'xbox_one_games.csv', 'xbox_360_games.csv', 'windows_games.csv']
+pyautogui.FAILSAFE = True
+def stay_awake():
+    pyautogui.moveRel(0, 15)
+    pyautogui.press('left')
+    pyautogui.moveRel(0, -15)
 
+
+def main():
+    # TODO change xbox one games to xbox games "https://www.trueachievements.com/games.aspx". Can't remember why this didn't work last time. Series X games may also work.
+    # urls = ['https://www.trueachievements.com/game-pass-ultimate/games', 
+    #         "https://www.trueachievements.com/xbox-one/games", 
+    #         "https://www.trueachievements.com/xbox-360/games", 
+    #         "https://www.trueachievements.com/windows/games", 
+    #         "https://www.trueachievements.com/xbox-series-x/games"]
+    
+    urls = ["https://www.trueachievements.com/xbox-series-x/games"]
+    # output_files = ['xbox_game_pass_games.csv',
+    #                 'xbox_one_games.csv', 
+    #                 'xbox_360_games.csv', 
+    #                 'windows_games.csv',
+    #                 'series_x_games.csv']
+    output_files = ['series_x_games.csv']
+    # TODO Add The following: Genres, Backwards Compatible, Release Date
     columns_list = ["Name",
                     "Base TA",
                     "Overall TA",
@@ -474,7 +504,9 @@ def main():
         # The game pass list uses a different format, page links must be adjusted accordingly.
         if output_file == 'xbox_game_pass_games.csv':
             page_links = [f'https://www.trueachievements.com/xbox-game-pass/games?page={i}' for i in range(1, 6)]
-            
+        # So does the series games for some reason... Have to update this manually every single time I run the script.
+        elif output_file == 'series_x_games.csv':
+            page_links = [f'https://www.trueachievements.com/xbox-series-x/games?page={i}' for i in range(1, 76 + 1)]
         game_boxes = []
 
         for page in tqdm(page_links):
@@ -520,10 +552,11 @@ def main():
             if True:
                 df_overall.loc[len(df_overall)] = game_row
             # Output the dataframe to a csv.
+            # stay_awake()
 
 
         # Sort the dataframes
-        df_overall = df_overall.sort_values(by=['Name'], ascending=False)
+        df_overall = df_overall.sort_values(by=['Name'], ascending=True)
         df_overall = df_overall.reset_index(drop=True)
 
         # Concatenate the dataframes
