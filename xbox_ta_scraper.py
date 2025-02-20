@@ -36,7 +36,7 @@ def get_page_links(games_list_url):
     page_elements = soup.find('ul', {'class': 'pagination'})
     if 'game-pass' in games_list_url:
         max_page = int(page_elements.find('li', {'class': 'l'}).text)
-        page_links = [f'https://www.trueachievements.com/xbox-game-pass/games?page={i}' for i in range(1, max_page + 1)]
+        page_links = [f'https://www.trueachievements.com/game-pass-ultimate/games?page={i}' for i in range(1, max_page + 1)]
     elif 'series-x' in games_list_url:
         max_page = int(page_elements.find('li', {'class': 'l'}).text)
         page_links = [f'https://www.trueachievements.com/xbox-series-x/games?page={i}' for i in range(1, max_page + 1)]
@@ -123,6 +123,11 @@ def main():
             url_element = game_box.find('td', {'class': 'game'}).find('a')['href']
             all_urls.append(url_element)
 
+        """
+        This is where we are going to start off next time. In the above for loop, check need for rescan in there and create the Game object there as well.
+        No need to have the two for loops.
+        """
+
         print("All URLs scanned in. Now iterating through games.")
         # Iterate through all of the game urls
         for url_value in tqdm(all_urls):
@@ -133,7 +138,7 @@ def main():
                 # There is currently a caching bug with Game Pass Games list. Need TA to fix this.
                 continue
             # Second check if the game's gamebox data is different enough from the data in the csv. If not, continue
-            need_to_rescan = check_game_for_rescan_need(output_file=output_file, game_box=specific_game_box)
+            need_to_rescan = check_game_for_rescan_need(game_box=specific_game_box)
 
             # Third actually create a game object. In theory, this should have us skip most games and save on runtime and server requests.
             game = Game(_url=formatted_url)
