@@ -14,7 +14,7 @@ def test_game_generation(input_url) -> None:
 
 
 def main() -> None:
-    test_url = "https://www.trueachievements.com/game/Fibbage/achievements"
+    test_url = "https://www.trueachievements.com/game/Brunswick-Pro-Bowling/achievements"
     test_game_generation(test_url)
 
 
