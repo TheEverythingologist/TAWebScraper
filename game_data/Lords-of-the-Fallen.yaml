@@ -1,0 +1,971 @@
+Add On Achievements: []
+Base Completion Time:
+- 85.0
+- 106.0
+Base GS: 1200
+Base Game Achievements:
+- Achievement Name: Wayfarer
+  Description: Visit all of the areas in the game.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 5660
+  Percentage of Gamers: 7%
+  Ratio: 3.79
+  TA: '189'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: A Veil Lifted
+  Description: Die in Axiom for the first time.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 77484
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '5'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Lost and Found
+  Description: Retrieve vigor lost upon death.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 69955
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '5'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Weapon Collector
+  Description: Collect all weapons.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1019
+  Percentage of Gamers: 1%
+  Ratio: 8.94
+  TA: '447'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+  - Missable
+  - Shop
+  - Multiple Playthroughs Required
+- Achievement Name: Ironclad
+  Description: Collect all armour pieces.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 894
+  Percentage of Gamers: 1%
+  Ratio: 9.54
+  TA: '477'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+  - Missable
+  - Shop
+  - Multiple Playthroughs Required
+- Achievement Name: What Sights Contained Within
+  Description: Collect all Umbral Eyes.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 2115
+  Percentage of Gamers: 3%
+  Ratio: 6.2
+  TA: '186'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+  - Missable
+- Achievement Name: Trinket Collector
+  Description: Collect all rings and pendants.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1343
+  Percentage of Gamers: 2%
+  Ratio: 7.78
+  TA: '233'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+  - Missable
+  - Shop
+- Achievement Name: Ammunition Collector
+  Description: Collect all ammo types.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2070
+  Percentage of Gamers: 3%
+  Ratio: 6.27
+  TA: '62'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Inferno Adept
+  Description: Collect all Inferno spells.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1600
+  Percentage of Gamers: 2%
+  Ratio: 7.13
+  TA: '71'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+  - Missable
+  - Shop
+- Achievement Name: Radiant Adept
+  Description: Collect all Radiance spells.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2570
+  Percentage of Gamers: 3%
+  Ratio: 5.63
+  TA: '56'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+  - Missable
+  - Shop
+- Achievement Name: Umbral Adept
+  Description: Collect all Umbral spells.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2558
+  Percentage of Gamers: 3%
+  Ratio: 5.64
+  TA: '56'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+  - Missable
+  - Shop
+- Achievement Name: Throwable Collector
+  Description: Collect all throwables.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1638
+  Percentage of Gamers: 2%
+  Ratio: 7.05
+  TA: '70'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+  - Missable
+  - Shop
+- Achievement Name: Gesture Collector
+  Description: Collect all gestures.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1847
+  Percentage of Gamers: 2%
+  Ratio: 6.64
+  TA: '132'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+  - Missable
+- Achievement Name: Salvation in Blood
+  Description: Fully upgrade the Sanguinarix.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 5892
+  Percentage of Gamers: 7%
+  Ratio: 3.71
+  TA: '92'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Honed to Perfection
+  Description: Fully upgrade a weapon.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 13435
+  Percentage of Gamers: 16%
+  Ratio: 2.46
+  TA: '49'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Shop
+- Achievement Name: Rune Novice
+  Description: Place a rune in a socket for the first time.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 16696
+  Percentage of Gamers: 20%
+  Ratio: 2.2
+  TA: '11'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Rune Master
+  Description: Fully socket a 3-rune weapon or shield.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 11123
+  Percentage of Gamers: 14%
+  Ratio: 2.7
+  TA: '27'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Carving Out Victory
+  Description: Fully upgrade the Umbral lamp.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 9464
+  Percentage of Gamers: 12%
+  Ratio: 2.93
+  TA: '58'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Utmost Insight
+  Description: Fully socket the Umbral lamp with Umbral Eyes.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 8904
+  Percentage of Gamers: 11%
+  Ratio: 3.02
+  TA: '30'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Comrades
+  Description: Beckon a co-op partner.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 20776
+  Percentage of Gamers: 25%
+  Ratio: 1.98
+  TA: '19'
+  Tags:
+  - Online Mode
+  - Cooperative
+- Achievement Name: Shared Triumph
+  Description: Defeat a boss alongside a co-op partner.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 19600
+  Percentage of Gamers: 24%
+  Ratio: 2.03
+  TA: '30'
+  Tags:
+  - Online Mode
+  - Cooperative
+- Achievement Name: Vengeance for the Fallen
+  Description: Avenge a fallen lampbearer.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 38896
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '21'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: No Mercy
+  Description: Defeat another player in PVP.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 12561
+  Percentage of Gamers: 15%
+  Ratio: 2.54
+  TA: '38'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Infernal Offerings
+  Description: Donate a total of 10 Severed Hands.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 3718
+  Percentage of Gamers: 5%
+  Ratio: 4.68
+  TA: '23'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Radiant Offerings
+  Description: Donate a total of 10 Pilfered Coins.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 4874
+  Percentage of Gamers: 6%
+  Ratio: 4.08
+  TA: '20'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Umbral Offerings
+  Description: Donate a total of 10 Plucked Eyeballs.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 7373
+  Percentage of Gamers: 9%
+  Ratio: 3.32
+  TA: '16'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Shades of Violence
+  Description: Apply a tinct to a piece of gear.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 30241
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '16'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Rise and Fall
+  Description: Defeat Pieta, She of Blessed Renewal.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 38170
+  Percentage of Gamers: 47%
+  Ratio: 1.46
+  TA: '21'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Together in Death
+  Description: Defeat The Congregator of Flesh.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 25604
+  Percentage of Gamers: 31%
+  Ratio: 1.78
+  TA: '26'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Burying the Past
+  Description: Defeat The Hushed Saint.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 21121
+  Percentage of Gamers: 26%
+  Ratio: 1.96
+  TA: '29'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Unwanted
+  Description: Defeat the Spurned Progeny.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 16388
+  Percentage of Gamers: 20%
+  Ratio: 2.22
+  TA: '33'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Unbroken to the End
+  Description: Defeat the Unbroken Promise.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 12273
+  Percentage of Gamers: 15%
+  Ratio: 2.57
+  TA: '38'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Wings of Grief
+  Description: Defeat the Hollow Crow.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 13676
+  Percentage of Gamers: 17%
+  Ratio: 2.44
+  TA: '36'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Twin Faces of Sin
+  Description: Defeat Reinhold the Immured.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 12857
+  Percentage of Gamers: 16%
+  Ratio: 2.51
+  TA: '37'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Judgement
+  Description: Defeat Judge Cleric, The Radiant Sentinel.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 12128
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '38'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Hunt's End
+  Description: Defeat the Lightreaper.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 12219
+  Percentage of Gamers: 15%
+  Ratio: 2.58
+  TA: '51'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: The King is Dead
+  Description: Defeat the Sundered Monarch.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 11140
+  Percentage of Gamers: 14%
+  Ratio: 2.7
+  TA: '40'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: A Hunger Sated
+  Description: Defeat Elianne the Starved.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2735
+  Percentage of Gamers: 3%
+  Ratio: 5.45
+  TA: '109'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Missable
+- Achievement Name: Fallen
+  Description: Defeat Adyr, the Bereft Exile.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 10127
+  Percentage of Gamers: 12%
+  Ratio: 2.83
+  TA: '42'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Missable
+- Achievement Name: None Shall be Spared
+  Description: Defeat all bosses.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 1165
+  Percentage of Gamers: 1%
+  Ratio: 8.36
+  TA: '209'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Missable
+  - Buggy +
+- Achievement Name: The Price of Knowledge
+  Description: Exacter Dunmire gains the knowledge he seeks.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4882
+  Percentage of Gamers: 6%
+  Ratio: 4.08
+  TA: '40'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Part of the Divine
+  Description: Damarose the Marked receives her divine reward.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2182
+  Percentage of Gamers: 3%
+  Ratio: 6.11
+  TA: '61'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Missable
+- Achievement Name: Travels Resumed
+  Description: Sparky is liberated.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 6960
+  Percentage of Gamers: 9%
+  Ratio: 3.42
+  TA: '34'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Missable
+- Achievement Name: Moving On
+  Description: Byron finds a new purpose.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4713
+  Percentage of Gamers: 6%
+  Ratio: 4.15
+  TA: '41'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Missable
+- Achievement Name: Hero Worship
+  Description: Drustan's faith in his brother remains steadfast.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5811
+  Percentage of Gamers: 7%
+  Ratio: 3.74
+  TA: '37'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Missable
+- Achievement Name: Antanas' Legacy
+  Description: The value of Andreas of Ebb's friendship is made clear.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7387
+  Percentage of Gamers: 9%
+  Ratio: 3.32
+  TA: '33'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Faithful
+  Description: Stomund, Captain of the Fidelis is greeted at the Empyrean.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4059
+  Percentage of Gamers: 5%
+  Ratio: 4.48
+  TA: '44'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Missable
+- Achievement Name: Without Purpose
+  Description: Thehk-Ihir leaves Mournstead.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 11129
+  Percentage of Gamers: 14%
+  Ratio: 2.7
+  TA: '27'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Missable
+- Achievement Name: A Queen's Rest
+  Description: Sophesia bestows a final favour.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4078
+  Percentage of Gamers: 5%
+  Ratio: 4.47
+  TA: '44'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Missable
+- Achievement Name: The Last Step
+  Description: The Iron Wayfarer's journey finally ends.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2072
+  Percentage of Gamers: 3%
+  Ratio: 6.27
+  TA: '62'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Missable
+- Achievement Name: Vengeful Reflection
+  Description: An Umbral imprint of Isaac faces the Lightreaper.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3221
+  Percentage of Gamers: 4%
+  Ratio: 5.02
+  TA: '50'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Missable
+- Achievement Name: Lord of the Risen
+  Description: Reach the Adyr ending.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2802
+  Percentage of Gamers: 3%
+  Ratio: 5.39
+  TA: '80'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Story Completed
+  - Missable
+- Achievement Name: In Light we Walk
+  Description: Reach the Radiant ending.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 10127
+  Percentage of Gamers: 12%
+  Ratio: 2.83
+  TA: '42'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Story Completed
+  - Missable
+- Achievement Name: Back to the Void
+  Description: Reach the Umbral ending.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2715
+  Percentage of Gamers: 3%
+  Ratio: 5.47
+  TA: '82'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Story Completed
+  - Missable
+- Achievement Name: A Shadow Dispelled
+  Description: Defeat the Scarlet Shadow.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5150
+  Percentage of Gamers: 6%
+  Ratio: 3.97
+  TA: '39'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Essence of Death
+  Description: Defeat an enemy with an Umbral finisher.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 20033
+  Percentage of Gamers: 25%
+  Ratio: 2.01
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Thriving in Darkness
+  Description: Use a Vestige Seed.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 44388
+  Percentage of Gamers: 54%
+  Ratio: 1.35
+  TA: '6'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Seasoned
+  Description: Reach Level 100.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 12442
+  Percentage of Gamers: 15%
+  Ratio: 2.55
+  TA: '51'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Lord of The Fallen
+  Description: Earn all achievements.
+  GS: '70'
+  Guide: true
+  Number of Gamers: 766
+  Percentage of Gamers: 1%
+  Ratio: 10.31
+  TA: '721'
+  Tags:
+  - Online Mode
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Collectable
+  - Level
+  - Shop
+  - Multiple Playthroughs Required
+- Achievement Name: The Past Shapes the Present
+  Description: Offer Molhu the Bowl of Revelations.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 23138
+  Percentage of Gamers: 28%
+  Ratio: 1.87
+  TA: '18'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Lingering Moments
+  Description: View all Umbral stigmas.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1100
+  Percentage of Gamers: 1%
+  Ratio: 8.6
+  TA: '258'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+  - Multiple Playthroughs Required
+- Achievement Name: A Rest Among the Dead
+  Description: Reach the Skyrest Bridge interior.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 37567
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '14'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: A Trace of Venom
+  Description: Kukajin concludes her business in Mournstead.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1959
+  Percentage of Gamers: 2%
+  Ratio: 6.44
+  TA: '64'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Missable
+Base Ratio: 5.8275
+Base TA: 6993
+Delisted: false
+Developer: Hexworks, SneakyBox Studios
+Game Name: Lords of the Fallen
+Genres: Action-RPG, Role Playing
+Install Size: 34870.0
+Number of Completions: 528
+Number of Gamers: 81491
+Overall Completion Time:
+- 85.0
+- 106.0
+Overall GS: 1200
+Overall Ratio: 5.8275
+Overall TA: 6993
+PDU: 0
+Percentage Completed: 0.65
+Publisher: CI Games
+Release Date: 13 October 2023
+Server Closure: false
+Site Rating: 3.7
+Update Achievements:
+- Achievement Name: Fickle Fortune
+  Description: Reach an ending with the Pre-upgraded Weapons and Random Loot modifiers
+    enabled.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1244
+  Percentage of Gamers: 2%
+  Ratio: 8.09
+  TA: '121'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Stackable
+- Achievement Name: Inefficient Medicine
+  Description: Reach an ending with the Ironman and Withered Health modifiers enabled.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 666
+  Percentage of Gamers: 1%
+  Ratio: 11.06
+  TA: '331'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Stackable
+- Achievement Name: Trail of the Dead
+  Description: Reach an ending with the Random Enemies and Withered Health modifiers
+    enabled.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 832
+  Percentage of Gamers: 1%
+  Ratio: 9.89
+  TA: '148'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Stackable
+- Achievement Name: Making Do
+  Description: Reach an ending with the Withered Health and the Random Loot modifiers
+    enabled.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 829
+  Percentage of Gamers: 1%
+  Ratio: 9.91
+  TA: '148'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Stackable
+- Achievement Name: Come What May
+  Description: Reach an ending with the Random Loot and Random Enemies modifiers enabled.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1034
+  Percentage of Gamers: 1%
+  Ratio: 8.87
+  TA: '133'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Stackable
+- Achievement Name: A Gruelling Journey
+  Description: Reach an ending with the Tremendous Vestige Decay and Ironman modifiers
+    enabled.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 667
+  Percentage of Gamers: 1%
+  Ratio: 11.05
+  TA: '331'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Stackable
+- Achievement Name: Lord of Slaughter
+  Description: Reach an ending with the Ironman and Enemy Density modifiers enabled.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 679
+  Percentage of Gamers: 1%
+  Ratio: 10.95
+  TA: '328'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Stackable
+- Achievement Name: Indomitable
+  Description: Reach an ending with Random Enemies and Loot, Enemy Density, Tremendous
+    Vestige Decay modifiers on.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 754
+  Percentage of Gamers: 1%
+  Ratio: 10.39
+  TA: '415'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Stackable
+- Achievement Name: Altered Prospects
+  Description: Start a new game with a modifier enabled.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7866
+  Percentage of Gamers: 10%
+  Ratio: 3.21
+  TA: '32'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+Walkthrough: false

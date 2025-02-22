@@ -1,0 +1,632 @@
+Add On Achievements: []
+Base Completion Time:
+- 15.0
+- 20.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Undercover
+  Description: Infiltrate Castle Wolfenstein
+  GS: '20'
+  Guide: false
+  Number of Gamers: 7304
+  Percentage of Gamers: 96%
+  Ratio: 1.01
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Freedom
+  Description: Escape Castle Wolfenstein
+  GS: '20'
+  Guide: false
+  Number of Gamers: 3739
+  Percentage of Gamers: 49%
+  Ratio: 1.42
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Revenge
+  Description: Complete part one
+  GS: '20'
+  Guide: false
+  Number of Gamers: 3602
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Kessler saved
+  Description: Choose to save Kessler
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2035
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '38'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Annette saved
+  Description: Choose to save Annette
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2356
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '35'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Hero
+  Description: Complete game on any difficulty
+  GS: '20'
+  Guide: false
+  Number of Gamers: 3126
+  Percentage of Gamers: 41%
+  Ratio: 1.55
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Stackable
+- Achievement Name: Super hero
+  Description: "Complete game on I AM DEATH INCARNATE! (or \xDCBER)"
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1337
+  Percentage of Gamers: 18%
+  Ratio: 2.37
+  TA: '47'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: "\xDCber hero"
+  Description: "Complete game on \xDCBER"
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1027
+  Percentage of Gamers: 14%
+  Ratio: 2.71
+  TA: '54'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: "Die, Gr\xF6sse, die!"
+  Description: Complete all nightmare levels
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1002
+  Percentage of Gamers: 13%
+  Ratio: 2.74
+  TA: '54'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: German Alps nightmare
+  Description: Complete the prologue nightmare
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1365
+  Percentage of Gamers: 18%
+  Ratio: 2.35
+  TA: '47'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Prison nightmare
+  Description: Complete the nightmare in chapter 1
+  GS: '20'
+  Guide: false
+  Number of Gamers: 2042
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '38'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Docks nightmare
+  Description: Complete the nightmare in chapter 2
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1465
+  Percentage of Gamers: 19%
+  Ratio: 2.27
+  TA: '45'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Wolfenstein Keep nightmare
+  Description: Complete the nightmare in chapter 3
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1955
+  Percentage of Gamers: 26%
+  Ratio: 1.96
+  TA: '39'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Escape! nightmare
+  Description: Complete the nightmare in chapter 4
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1733
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '41'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Wulfburg nightmare
+  Description: Complete the nightmare in chapter 5
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1663
+  Percentage of Gamers: 22%
+  Ratio: 2.13
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Ruins nightmare
+  Description: Complete the nightmare in chapter 6
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1684
+  Percentage of Gamers: 22%
+  Ratio: 2.11
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Old town nightmare
+  Description: Complete the nightmare in chapter 7
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1203
+  Percentage of Gamers: 16%
+  Ratio: 2.5
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Guten tag!
+  Description: Complete the nightmare boss level
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1662
+  Percentage of Gamers: 22%
+  Ratio: 2.13
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Research centre combat master
+  Description: Achieve gold medal for this challenge map
+  GS: '20'
+  Guide: true
+  Number of Gamers: 891
+  Percentage of Gamers: 12%
+  Ratio: 2.91
+  TA: '58'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Prison docks combat master
+  Description: Achieve gold medal for this challenge map
+  GS: '20'
+  Guide: false
+  Number of Gamers: 765
+  Percentage of Gamers: 10%
+  Ratio: 3.14
+  TA: '62'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Keep foyer combat master
+  Description: Achieve gold medal for this challenge map
+  GS: '20'
+  Guide: true
+  Number of Gamers: 737
+  Percentage of Gamers: 10%
+  Ratio: 3.2
+  TA: '64'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Cable car platform combat master
+  Description: Achieve gold medal for this challenge map
+  GS: '20'
+  Guide: true
+  Number of Gamers: 689
+  Percentage of Gamers: 9%
+  Ratio: 3.31
+  TA: '66'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Caves combat master
+  Description: Achieve gold medal for this challenge map
+  GS: '20'
+  Guide: false
+  Number of Gamers: 654
+  Percentage of Gamers: 9%
+  Ratio: 3.39
+  TA: '67'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Paderborn bridge combat master
+  Description: Achieve gold medal for this challenge map
+  GS: '20'
+  Guide: false
+  Number of Gamers: 677
+  Percentage of Gamers: 9%
+  Ratio: 3.33
+  TA: '66'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Wulfburg square combat master
+  Description: Achieve gold medal for this challenge map
+  GS: '20'
+  Guide: false
+  Number of Gamers: 659
+  Percentage of Gamers: 9%
+  Ratio: 3.38
+  TA: '67'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Workshop combat master
+  Description: Achieve gold medal for this challenge map
+  GS: '20'
+  Guide: false
+  Number of Gamers: 653
+  Percentage of Gamers: 9%
+  Ratio: 3.4
+  TA: '68'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Bathhouse combat master
+  Description: Achieve gold medal for this challenge map
+  GS: '20'
+  Guide: false
+  Number of Gamers: 657
+  Percentage of Gamers: 9%
+  Ratio: 3.39
+  TA: '67'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Graveyard combat master
+  Description: Achieve gold medal for this challenge map
+  GS: '20'
+  Guide: false
+  Number of Gamers: 644
+  Percentage of Gamers: 9%
+  Ratio: 3.42
+  TA: '68'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Paperboy
+  Description: Collect 5 letters
+  GS: '20'
+  Guide: false
+  Number of Gamers: 3021
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Postman
+  Description: Collect all letters
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1002
+  Percentage of Gamers: 13%
+  Ratio: 2.74
+  TA: '54'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: All that glitters
+  Description: Collect 8 gold items
+  GS: '20'
+  Guide: false
+  Number of Gamers: 4218
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Glittering gold
+  Description: Collect 16 gold items
+  GS: '20'
+  Guide: false
+  Number of Gamers: 3286
+  Percentage of Gamers: 43%
+  Ratio: 1.51
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: The ecstasy of gold
+  Description: Collect 32 gold items
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1663
+  Percentage of Gamers: 22%
+  Ratio: 2.13
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Gold master
+  Description: Collect 64 gold items
+  GS: '20'
+  Guide: true
+  Number of Gamers: 926
+  Percentage of Gamers: 12%
+  Ratio: 2.85
+  TA: '57'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Eagle Eye
+  Description: Unlock the Eagle Eye perk
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2090
+  Percentage of Gamers: 28%
+  Ratio: 1.9
+  TA: '38'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Health upgrade I
+  Description: Unlock the Health upgrade I perk
+  GS: '20'
+  Guide: false
+  Number of Gamers: 5345
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Health upgrade II
+  Description: Unlock the Health upgrade II perk
+  GS: '20'
+  Guide: false
+  Number of Gamers: 3492
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Health upgrade III
+  Description: Unlock the Health upgrade III perk
+  GS: '20'
+  Guide: false
+  Number of Gamers: 3245
+  Percentage of Gamers: 43%
+  Ratio: 1.52
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Armor upgrade I
+  Description: Unlock the Armor upgrade I perk
+  GS: '20'
+  Guide: false
+  Number of Gamers: 3730
+  Percentage of Gamers: 49%
+  Ratio: 1.42
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Armor upgrade II
+  Description: Unlock the Armor upgrade II perk
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1665
+  Percentage of Gamers: 22%
+  Ratio: 2.12
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Ammunition upgrade
+  Description: Unlock the Ammunition upgrade perk
+  GS: '20'
+  Guide: false
+  Number of Gamers: 2877
+  Percentage of Gamers: 38%
+  Ratio: 1.62
+  TA: '32'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Grenade belt
+  Description: Unlock the Grenade belt perk
+  GS: '20'
+  Guide: false
+  Number of Gamers: 3391
+  Percentage of Gamers: 45%
+  Ratio: 1.49
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Vampire
+  Description: Unlock the Vampire perk
+  GS: '20'
+  Guide: false
+  Number of Gamers: 2878
+  Percentage of Gamers: 38%
+  Ratio: 1.61
+  TA: '32'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Kampfpistole ammo storage upgrade
+  Description: Unlock the Kampfpistole ammo storage upgrade perk
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1835
+  Percentage of Gamers: 24%
+  Ratio: 2.02
+  TA: '40'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Schockhammer clip upgrade
+  Description: Unlock the Schockhammer clip upgrade perk
+  GS: '20'
+  Guide: false
+  Number of Gamers: 3806
+  Percentage of Gamers: 50%
+  Ratio: 1.4
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Bombenschuss clip upgrade
+  Description: Unlock the Bombenschuss clip upgrade perk
+  GS: '20'
+  Guide: false
+  Number of Gamers: 3538
+  Percentage of Gamers: 47%
+  Ratio: 1.46
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Carry heavy machinegun
+  Description: Unlock the Carry heavy machinegun perk
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1492
+  Percentage of Gamers: 20%
+  Ratio: 2.25
+  TA: '45'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Reload mash
+  Description: Unlock the Reload mash perk
+  GS: '20'
+  Guide: false
+  Number of Gamers: 3501
+  Percentage of Gamers: 46%
+  Ratio: 1.46
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Quick turn
+  Description: Unlock the Quick turn perk
+  GS: '20'
+  Guide: false
+  Number of Gamers: 2039
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '38'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Tough Skin
+  Description: Unlock the Tough Skin perk
+  GS: '20'
+  Guide: false
+  Number of Gamers: 2203
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+Base Ratio: 2.143
+Base TA: 2143
+Delisted: false
+Developer: MachineGames
+Game Name: 'Wolfenstein: The Old Blood (Windows)'
+Genres: First Person Shooter, Stealth
+Install Size: 37220.0
+Number of Completions: 600
+Number of Gamers: 7569
+Overall Completion Time:
+- 15.0
+- 20.0
+Overall GS: 1000
+Overall Ratio: 2.143
+Overall TA: 2143
+PDU: 0
+Percentage Completed: 7.93
+Publisher: Bethesda Softworks
+Release Date: 12 March 2021
+Server Closure: false
+Site Rating: 4.07
+Update Achievements: []
+Walkthrough: false

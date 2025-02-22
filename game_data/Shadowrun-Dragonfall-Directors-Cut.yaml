@@ -1,0 +1,495 @@
+Add On Achievements: []
+Base Completion Time:
+- 40.0
+- 50.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Shoot Straight
+  Description: Successfully attack an enemy with a chance of less than 30% to hit.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3263
+  Percentage of Gamers: 81%
+  Ratio: 1.1
+  TA: '16'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: I Feel Great
+  Description: Heal more than 30 damage in a single cast of Heal Wound.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 718
+  Percentage of Gamers: 18%
+  Ratio: 2.36
+  TA: '35'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Wait For It...
+  Description: Kill an enemy with damage over time
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1993
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Come Forth
+  Description: Summon 5 spirits from places in the enviornment.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 781
+  Percentage of Gamers: 19%
+  Ratio: 2.26
+  TA: '33'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: (Don't) Conserve Ammo
+  Description: Kill 15 enemies using an assault rifle.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1387
+  Percentage of Gamers: 35%
+  Ratio: 1.7
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: I Don't Have a Problem
+  Description: Use 5 "combat stims".
+  GS: '30'
+  Guide: true
+  Number of Gamers: 589
+  Percentage of Gamers: 15%
+  Ratio: 2.6
+  TA: '78'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: More Bullets, More Effective
+  Description: Use Spray & Pray to hit more than two enemies with an SMG.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 384
+  Percentage of Gamers: 10%
+  Ratio: 3.23
+  TA: '48'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Built for the Streets
+  Description: Have every cyberware slot filled by an enhancement.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 392
+  Percentage of Gamers: 10%
+  Ratio: 3.19
+  TA: '95'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Fire in the Hole
+  Description: Kill 15 enemies with grenades.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 235
+  Percentage of Gamers: 6%
+  Ratio: 4.13
+  TA: '61'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Place of Power
+  Description: Kill an enemy with a magic spell while standing on a ley-line.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1206
+  Percentage of Gamers: 30%
+  Ratio: 1.82
+  TA: '27'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Awakened Predator
+  Description: Kill 30 enemies with magic spells.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 515
+  Percentage of Gamers: 13%
+  Ratio: 2.79
+  TA: '41'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Stahl Out
+  Description: Killed the Humanis leader.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1309
+  Percentage of Gamers: 33%
+  Ratio: 1.75
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Dante's Inferno
+  Description: Dante joins the crew.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1030
+  Percentage of Gamers: 26%
+  Ratio: 1.97
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Doesn't Have To Be This Way
+  Description: Deal with the Rabengeister gang without killing anyone.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1090
+  Percentage of Gamers: 27%
+  Ratio: 1.91
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Historical Record
+  Description: Watch all of the decrypted DVD's.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 955
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Everybody Deserves a Second Chance
+  Description: Spared the Humanis leader.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 850
+  Percentage of Gamers: 21%
+  Ratio: 2.17
+  TA: '32'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Novahot or Not?
+  Description: Find a new Decker for your crew.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2205
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Relationship Counselor
+  Description: Complete Blitz's storyline.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 769
+  Percentage of Gamers: 19%
+  Ratio: 2.28
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Application of Force
+  Description: Attacked Frank for his keys.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 727
+  Percentage of Gamers: 18%
+  Ratio: 2.34
+  TA: '35'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Won't Suffer an AI to Live
+  Description: Destroy the APEX AI.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 633
+  Percentage of Gamers: 16%
+  Ratio: 2.51
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Moving On
+  Description: Complete Glory's storyline.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 846
+  Percentage of Gamers: 21%
+  Ratio: 2.17
+  TA: '65'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Clean Slate
+  Description: Destroy the draconic research lab.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 658
+  Percentage of Gamers: 16%
+  Ratio: 2.46
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: It Seems Trustworthy
+  Description: Free the APEX AI.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 564
+  Percentage of Gamers: 14%
+  Ratio: 2.66
+  TA: '39'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Whatever You Need
+  Description: Buy Flash from Zaak Flash
+  GS: '15'
+  Guide: true
+  Number of Gamers: 702
+  Percentage of Gamers: 18%
+  Ratio: 2.39
+  TA: '35'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Shop
+- Achievement Name: It Was a Massacre
+  Description: Kill every gang member in the Drogenkippe Hotel.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 510
+  Percentage of Gamers: 13%
+  Ratio: 2.8
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: That's Not How You Use This
+  Description: Kill an enemy at point blank range by using a sniper rifle.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 521
+  Percentage of Gamers: 13%
+  Ratio: 2.77
+  TA: '83'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Information is Free
+  Description: Complete all Schockwellenreiter Objectives.
+  GS: '80'
+  Guide: true
+  Number of Gamers: 402
+  Percentage of Gamers: 10%
+  Ratio: 3.15
+  TA: '252'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Change of Plans
+  Description: Convinced Vauclair to abandon his plan.
+  GS: '80'
+  Guide: true
+  Number of Gamers: 372
+  Percentage of Gamers: 9%
+  Ratio: 3.28
+  TA: '262'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Fly Free, Great Wyrm
+  Description: Freed the dragon Feuerschwinge.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 384
+  Percentage of Gamers: 10%
+  Ratio: 3.23
+  TA: '96'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Story Completed
+  - Missable
+- Achievement Name: War Stories
+  Description: Complete Eiger's storyline.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 389
+  Percentage of Gamers: 10%
+  Ratio: 3.21
+  TA: '96'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: APEX Ascendant
+  Description: Turn Vauclair's research over to APEX.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 353
+  Percentage of Gamers: 9%
+  Ratio: 3.37
+  TA: '101'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Story Completed
+  - Missable
+- Achievement Name: Money Talks
+  Description: Complete all Lodge Objectives
+  GS: '30'
+  Guide: true
+  Number of Gamers: 262
+  Percentage of Gamers: 7%
+  Ratio: 3.91
+  TA: '117'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Unintended Consequences
+  Description: Sided with Vauclair.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 220
+  Percentage of Gamers: 5%
+  Ratio: 4.26
+  TA: '128'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Story Completed
+  - Missable
+- Achievement Name: Never Make a Deal With a Dragon
+  Description: Killed the dragon Feuerschwinge.
+  GS: '35'
+  Guide: true
+  Number of Gamers: 268
+  Percentage of Gamers: 7%
+  Ratio: 3.86
+  TA: '135'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Story Completed
+  - Missable
+- Achievement Name: Don't Try This at Home
+  Description: Overload the Aztechnology generators before the alarm goes off.
+  GS: '80'
+  Guide: true
+  Number of Gamers: 216
+  Percentage of Gamers: 5%
+  Ratio: 4.3
+  TA: '344'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Death Spirit
+  Description: Kill 5 enemies with one summoned spirit.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 228
+  Percentage of Gamers: 6%
+  Ratio: 4.19
+  TA: '125'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Not This Time
+  Description: Avoid damage 10 times using Wired Reflexes cyberware.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 197
+  Percentage of Gamers: 5%
+  Ratio: 4.51
+  TA: '135'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Needs to Cool Off
+  Description: Left Feuerschwinge in captivity.
+  GS: '35'
+  Guide: false
+  Number of Gamers: 244
+  Percentage of Gamers: 6%
+  Ratio: 4.05
+  TA: '141'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Story Completed
+  - Missable
+- Achievement Name: Down, Boy
+  Description: Put an end to Dante.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 138
+  Percentage of Gamers: 3%
+  Ratio: 5.39
+  TA: '161'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+Base Ratio: 3.145
+Base TA: 3145
+Delisted: false
+Developer: Harebrained Schemes, Codeglue
+Game Name: 'Shadowrun: Dragonfall - Director''s Cut'
+Genres: Role Playing, Strategy, Turn Based
+Install Size: 2330.0
+Number of Completions: 120
+Number of Gamers: 4011
+Overall Completion Time:
+- 40.0
+- 50.0
+Overall GS: 1000
+Overall Ratio: 3.145
+Overall TA: 3145
+PDU: 0
+Percentage Completed: 2.99
+Publisher: Paradox Interactive
+Release Date: 21 June 2022
+Server Closure: false
+Site Rating: 3.89
+Update Achievements: []
+Walkthrough: false

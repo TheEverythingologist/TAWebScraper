@@ -1,0 +1,669 @@
+Add On Achievements: []
+Base Completion Time:
+- 165.0
+- 220.0
+Base GS: 1500
+Base Game Achievements:
+- Achievement Name: Greenhorn
+  Description: Earn 15,000g
+  GS: '10'
+  Guide: true
+  Number of Gamers: 101929
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Cowpoke
+  Description: Earn 50,000g
+  GS: '10'
+  Guide: true
+  Number of Gamers: 87029
+  Percentage of Gamers: 79%
+  Ratio: 1.12
+  TA: '11'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Homesteader
+  Description: Earn 250,000g
+  GS: '20'
+  Guide: true
+  Number of Gamers: 66702
+  Percentage of Gamers: 61%
+  Ratio: 1.28
+  TA: '25'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Millionaire
+  Description: Earn 1,000,000g
+  GS: '20'
+  Guide: true
+  Number of Gamers: 45705
+  Percentage of Gamers: 41%
+  Ratio: 1.55
+  TA: '31'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Legend
+  Description: Earn 10,000,000g
+  GS: '50'
+  Guide: true
+  Number of Gamers: 12953
+  Percentage of Gamers: 12%
+  Ratio: 2.92
+  TA: '146'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: A Complete Collection
+  Description: Complete the museum collection.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 9770
+  Percentage of Gamers: 9%
+  Ratio: 3.37
+  TA: '168'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+  - Time Consuming
+- Achievement Name: A New Friend
+  Description: Reach a 5-heart friend level with someone.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 64834
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '13'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative
+  - Level
+- Achievement Name: Best Friends
+  Description: Reach a 10-heart friend level with someone.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 51825
+  Percentage of Gamers: 47%
+  Ratio: 1.45
+  TA: '29'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative
+  - Level
+- Achievement Name: The Beloved Farmer
+  Description: Reach a 10-heart friend level with 8 people.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 16937
+  Percentage of Gamers: 15%
+  Ratio: 2.55
+  TA: '51'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative
+  - Level
+  - Time Consuming
+- Achievement Name: Cliques
+  Description: Reach a 5-heart friend level with 4 people.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 39969
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '33'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative
+  - Level
+- Achievement Name: Networking
+  Description: Reach a 5-heart friend level with 10 people.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 29015
+  Percentage of Gamers: 26%
+  Ratio: 1.95
+  TA: '39'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative
+  - Level
+  - Time Consuming
+- Achievement Name: Popular
+  Description: Reach a 5-heart friend level with 20 people.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 19856
+  Percentage of Gamers: 18%
+  Ratio: 2.35
+  TA: '47'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative
+  - Level
+  - Time Consuming
+- Achievement Name: Cook
+  Description: Cook 10 different recipes.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 22043
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '44'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Sous Chef
+  Description: Cook 25 different recipes.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 13334
+  Percentage of Gamers: 12%
+  Ratio: 2.87
+  TA: '57'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Gourmet Chef
+  Description: Cook every recipe.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 5925
+  Percentage of Gamers: 5%
+  Ratio: 4.32
+  TA: '216'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+  - Time Consuming
+- Achievement Name: Moving Up
+  Description: Upgrade your house.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 71962
+  Percentage of Gamers: 65%
+  Ratio: 1.23
+  TA: '12'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Shop
+- Achievement Name: Living Large
+  Description: Upgrade your house to the maximum size.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 42846
+  Percentage of Gamers: 39%
+  Ratio: 1.6
+  TA: '32'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Shop
+- Achievement Name: D.I.Y.
+  Description: Craft 15 different items.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 63114
+  Percentage of Gamers: 57%
+  Ratio: 1.32
+  TA: '13'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Artisan
+  Description: Craft 30 different items.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 34601
+  Percentage of Gamers: 31%
+  Ratio: 1.78
+  TA: '35'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Craft Master
+  Description: Craft every item.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 4699
+  Percentage of Gamers: 4%
+  Ratio: 4.85
+  TA: '242'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+  - Time Consuming
+- Achievement Name: Fisherman
+  Description: Catch 10 different fish.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 92039
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Ol' Mariner
+  Description: Catch 24 different fish.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 65485
+  Percentage of Gamers: 59%
+  Ratio: 1.29
+  TA: '12'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Master Angler
+  Description: Catch every fish.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 8724
+  Percentage of Gamers: 8%
+  Ratio: 3.56
+  TA: '142'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Mother Catch
+  Description: Catch 100 fish.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 76086
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '12'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Treasure Trove
+  Description: Donate 40 different items to the museum.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 69056
+  Percentage of Gamers: 63%
+  Ratio: 1.26
+  TA: '12'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Gofer
+  Description: Complete 10 'Help Wanted' requests.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 48018
+  Percentage of Gamers: 44%
+  Ratio: 1.51
+  TA: '30'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: A Big Help
+  Description: Complete 40 'Help Wanted' requests.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 16028
+  Percentage of Gamers: 15%
+  Ratio: 2.62
+  TA: '52'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Polyculture
+  Description: Ship 15 of each crop.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 7847
+  Percentage of Gamers: 7%
+  Ratio: 3.74
+  TA: '149'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Monoculture
+  Description: Ship 300 of one crop.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 55141
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '28'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Full Shipment
+  Description: Ship every item.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 8250
+  Percentage of Gamers: 7%
+  Ratio: 3.66
+  TA: '146'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+  - Time Consuming
+- Achievement Name: Prairie King
+  Description: Beat 'Journey Of The Prairie King'.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 3408
+  Percentage of Gamers: 3%
+  Ratio: 5.69
+  TA: '227'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: The Bottom
+  Description: Reach the lowest level of the mines.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 66581
+  Percentage of Gamers: 60%
+  Ratio: 1.28
+  TA: '12'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Local Legend
+  Description: Restore the Pelican Town Community Center.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 36166
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '34'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Missable
+- Achievement Name: Joja Co. Member Of The Year
+  Description: Become a Joja Co. member and purchase all the community development
+    perks.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 10498
+  Percentage of Gamers: 10%
+  Ratio: 3.23
+  TA: '129'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Missable
+- Achievement Name: Mystery Of The Stardrops
+  Description: Find every stardrop.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 6410
+  Percentage of Gamers: 6%
+  Ratio: 4.16
+  TA: '208'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Fector's Challenge
+  Description: Beat 'Journey Of The Prairie King' without dying.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 1815
+  Percentage of Gamers: 2%
+  Ratio: 7.81
+  TA: '312'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Full House
+  Description: Get married and have two kids
+  GS: '40'
+  Guide: true
+  Number of Gamers: 16557
+  Percentage of Gamers: 15%
+  Ratio: 2.58
+  TA: '103'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Singular Talent
+  Description: Reach level 10 in a skill.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 60443
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '13'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Master Of The Five Ways
+  Description: Reach level 10 in every skill.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 20457
+  Percentage of Gamers: 19%
+  Ratio: 2.32
+  TA: '46'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+  - Time Consuming
+- Achievement Name: Protector Of The Valley
+  Description: Complete all of the Adventure Guild Monster Slayer goals.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 8464
+  Percentage of Gamers: 8%
+  Ratio: 3.61
+  TA: '144'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Time Consuming
+Base Ratio: 4.646
+Base TA: 6969
+Delisted: false
+Developer: ConcernedApe
+Game Name: Stardew Valley
+Genres: Management
+Install Size: 1300.0
+Number of Completions: 398
+Number of Gamers: 110137
+Overall Completion Time:
+- 165.0
+- 220.0
+Overall GS: 1500
+Overall Ratio: 4.646
+Overall TA: 6969
+PDU: 0
+Percentage Completed: 0.36
+Publisher: ConcernedApe, 505 Games
+Release Date: 14 December 2016
+Server Closure: false
+Site Rating: 4.66
+Update Achievements:
+- Achievement Name: Well-Read
+  Description: Read every book.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 1412
+  Percentage of Gamers: 1%
+  Ratio: 9.24
+  TA: '369'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Two Thumbs Up
+  Description: See a movie.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 3756
+  Percentage of Gamers: 3%
+  Ratio: 5.61
+  TA: '168'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Blue Ribbon
+  Description: Get 1st place in the Stardew Valley Fair competition.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 5906
+  Percentage of Gamers: 5%
+  Ratio: 4.47
+  TA: '134'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: An Unforgettable Soup
+  Description: Delight the Governor.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4236
+  Percentage of Gamers: 4%
+  Ratio: 5.29
+  TA: '158'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Good Neighbors
+  Description: Help your forest neighbors grow their family.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 1777
+  Percentage of Gamers: 2%
+  Ratio: 8.27
+  TA: '331'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: A Distant Shore
+  Description: Reach Ginger Island.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 6662
+  Percentage of Gamers: 6%
+  Ratio: 4.2
+  TA: '126'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Danger in the Deep
+  Description: Reach the bottom of the 'dangerous' mines.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 2346
+  Percentage of Gamers: 2%
+  Ratio: 7.13
+  TA: '356'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Infinite Power
+  Description: Obtain the most powerful weapon.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 2865
+  Percentage of Gamers: 3%
+  Ratio: 6.37
+  TA: '318'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Perfection
+  Description: Reach the summit.
+  GS: '200'
+  Guide: true
+  Number of Gamers: 1272
+  Percentage of Gamers: 1%
+  Ratio: 9.67
+  TA: 1,934
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+Walkthrough: false

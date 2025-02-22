@@ -102,7 +102,12 @@ class Game:
         base_info = self.page_info('div', {'class': "pnl-hd no-pills no-pr game"})
         if (base_info is None) or (base_info == []):
             return (self.overall_completion_time).copy()
-        base_time = adjust_time(base_info[0].find("a", {"title": "Estimated time to unlock all achievements"}).text)
+        
+        base_time = base_info[0].find("a", {"title": "Estimated time to unlock all achievements"})
+        if base_time is None:
+            base_time = self.fetch_completion_time()
+        else:
+            base_time = adjust_time(base_time.text)
         # Include updates since they are free
         for div_element in self.page_info.find_all("div", {"class": "pnl-hd no-pills no-pr game dlc"}):
             if div_element.find("div", {"class": "img"}).text == 'Update':
@@ -224,8 +229,10 @@ class Game:
             pdu = warning.find('a', href = lambda href: href and 'unobsdiscos=1' in href)
             if not (pdu is None):
                 pdu = pdu.text
-                break 
-        if "Discontinued" in pdu or "Unobtainable" in pdu:
+                break
+        if pdu is None:
+            return 0
+        elif "Discontinued" in pdu or "Unobtainable" in pdu:
             numbers = re.findall(r'\d+', pdu)
             return sum(int(num) for num in numbers)
         else:
@@ -337,9 +344,12 @@ def str_to_int(s):
 def adjust_time(time_string):
     time_val = (time_string.split(' '))[0]
     time_val = time_val.split('-')
-    if time_val == ['1000+h']:
-        return [1000, 1000]
-    elif time_val == ['200+']:
+    for i, val in enumerate(time_val):
+        if i == 0 and val == '1000+h':
+            time_val = ['1000', '1000h']
+        if i == 1 and val == '1000+h':
+            time_val[i] = '1000h'
+    if time_val == ['200+']:
         print("200+ !")
         return [200, 200]
     else:

@@ -1,0 +1,904 @@
+Add On Achievements:
+- Achievement Name: Hero's Path
+  Description: Play as a Hero at least 5 times
+  GS: '100'
+  Guide: true
+  Number of Gamers: 935
+  Percentage of Gamers: 100%
+  Ratio: 2.59
+  TA: '259'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Good Boy
+  Description: Play as a Puppy at least 5 times
+  GS: '100'
+  Guide: true
+  Number of Gamers: 912
+  Percentage of Gamers: 100%
+  Ratio: 2.6
+  TA: '260'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Bloodthirsty Berserker
+  Description: Play as a Berserker at least 5 times
+  GS: '100'
+  Guide: false
+  Number of Gamers: 841
+  Percentage of Gamers: 100%
+  Ratio: 2.65
+  TA: '265'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Mineral Mine
+  Description: Reach Round 10 in the Mineral Mine
+  GS: '100'
+  Guide: true
+  Number of Gamers: 880
+  Percentage of Gamers: 100%
+  Ratio: 2.62
+  TA: '262'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Completion Time:
+- 101.0
+- 132.0
+Base GS: 2600
+Base Game Achievements:
+- Achievement Name: Saver
+  Description: Complete all campaign stages
+  GS: '100'
+  Guide: true
+  Number of Gamers: 3361
+  Percentage of Gamers: 8%
+  Ratio: 3.53
+  TA: '353'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Challenger
+  Description: Complete all challenger stages
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1135
+  Percentage of Gamers: 3%
+  Ratio: 6.08
+  TA: '304'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Keeper
+  Description: Clear 10th defense stage
+  GS: '30'
+  Guide: false
+  Number of Gamers: 10195
+  Percentage of Gamers: 24%
+  Ratio: 2.03
+  TA: '60'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Guardian
+  Description: Clear 20th defense stage
+  GS: '50'
+  Guide: true
+  Number of Gamers: 2640
+  Percentage of Gamers: 6%
+  Ratio: 3.99
+  TA: '199'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Merge Mania
+  Description: Merge 6 units at the same time
+  GS: '30'
+  Guide: true
+  Number of Gamers: 22634
+  Percentage of Gamers: 54%
+  Ratio: 1.36
+  TA: '40'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Merge Master
+  Description: Merge 8 units at the same time
+  GS: '50'
+  Guide: true
+  Number of Gamers: 5953
+  Percentage of Gamers: 14%
+  Ratio: 2.65
+  TA: '132'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Combo Mania
+  Description: Make 3 merges in one turn
+  GS: '30'
+  Guide: false
+  Number of Gamers: 32242
+  Percentage of Gamers: 77%
+  Ratio: 1.14
+  TA: '34'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Combo Master
+  Description: Make 5 merges in one turn
+  GS: '50'
+  Guide: true
+  Number of Gamers: 7713
+  Percentage of Gamers: 18%
+  Ratio: 2.33
+  TA: '116'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Goblin Slayer
+  Description: Defeat 500 goblin monsters
+  GS: '20'
+  Guide: true
+  Number of Gamers: 9502
+  Percentage of Gamers: 23%
+  Ratio: 2.1
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Ork Hunter
+  Description: Defeat 500 ork monsters
+  GS: '20'
+  Guide: true
+  Number of Gamers: 364
+  Percentage of Gamers: 1%
+  Ratio: 10.75
+  TA: '215'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Farmer
+  Description: Reach lv.5 with Farmer class
+  GS: '10'
+  Guide: true
+  Number of Gamers: 24034
+  Percentage of Gamers: 57%
+  Ratio: 1.32
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Blacksmith
+  Description: Reach lv.5 with Blacksmith class
+  GS: '10'
+  Guide: false
+  Number of Gamers: 22477
+  Percentage of Gamers: 53%
+  Ratio: 1.36
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Footman
+  Description: Reach lv.5 with Footman class
+  GS: '10'
+  Guide: false
+  Number of Gamers: 22477
+  Percentage of Gamers: 53%
+  Ratio: 1.36
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Rogue
+  Description: Reach lv.5 with Rogue class
+  GS: '10'
+  Guide: false
+  Number of Gamers: 21280
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Archer
+  Description: Reach lv.5 with Archer class
+  GS: '10'
+  Guide: false
+  Number of Gamers: 19731
+  Percentage of Gamers: 47%
+  Ratio: 1.46
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Priest
+  Description: Reach lv.5 with Priest class
+  GS: '20'
+  Guide: false
+  Number of Gamers: 17519
+  Percentage of Gamers: 42%
+  Ratio: 1.55
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Spearman
+  Description: Reach lv.5 with Spearman class
+  GS: '20'
+  Guide: false
+  Number of Gamers: 16050
+  Percentage of Gamers: 38%
+  Ratio: 1.61
+  TA: '32'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Barbarian
+  Description: Reach lv.5 with Barbarian class
+  GS: '20'
+  Guide: false
+  Number of Gamers: 13533
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '35'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Alchemist
+  Description: Reach lv.5 with Alchemist class
+  GS: '20'
+  Guide: false
+  Number of Gamers: 11091
+  Percentage of Gamers: 26%
+  Ratio: 1.94
+  TA: '38'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Wizard
+  Description: Reach lv.5 with Wizard class
+  GS: '20'
+  Guide: true
+  Number of Gamers: 8257
+  Percentage of Gamers: 20%
+  Ratio: 2.25
+  TA: '45'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: General
+  Description: Reach lv.5 with General class
+  GS: '30'
+  Guide: false
+  Number of Gamers: 5625
+  Percentage of Gamers: 13%
+  Ratio: 2.73
+  TA: '82'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Double Attack
+  Description: Make a rogue
+  GS: '10'
+  Guide: true
+  Number of Gamers: 41352
+  Percentage of Gamers: 98%
+  Ratio: 1.0
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Heal
+  Description: Make a priest
+  GS: '20'
+  Guide: true
+  Number of Gamers: 25559
+  Percentage of Gamers: 61%
+  Ratio: 1.28
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Spear Attack
+  Description: Make a spearman
+  GS: '30'
+  Guide: true
+  Number of Gamers: 19500
+  Percentage of Gamers: 46%
+  Ratio: 1.46
+  TA: '44'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Haste
+  Description: Make a generals
+  GS: '50'
+  Guide: true
+  Number of Gamers: 4513
+  Percentage of Gamers: 11%
+  Ratio: 3.05
+  TA: '152'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: The most powerful squad
+  Description: Reach boot camp level 5
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1403
+  Percentage of Gamers: 3%
+  Ratio: 5.47
+  TA: '273'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Huge Squad
+  Description: Reach transport route level 5
+  GS: '30'
+  Guide: false
+  Number of Gamers: 15229
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '49'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Tactician
+  Description: Reach tactical book level 5
+  GS: '30'
+  Guide: true
+  Number of Gamers: 9439
+  Percentage of Gamers: 22%
+  Ratio: 2.11
+  TA: '63'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Prophet
+  Description: Reach enlistment papers level 5
+  GS: '30'
+  Guide: false
+  Number of Gamers: 6261
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '77'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Mud Golem
+  Description: Defeat a Mud Golem
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1525
+  Percentage of Gamers: 4%
+  Ratio: 5.25
+  TA: '105'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Ice Golem
+  Description: Defeat a Ice Golem
+  GS: '30'
+  Guide: true
+  Number of Gamers: 409
+  Percentage of Gamers: 1%
+  Ratio: 10.14
+  TA: '304'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Fire Golem
+  Description: Defeat a Fire Golem
+  GS: '30'
+  Guide: true
+  Number of Gamers: 590
+  Percentage of Gamers: 1%
+  Ratio: 8.44
+  TA: '253'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Stone Golem
+  Description: Defeat a Stone Golem
+  GS: '30'
+  Guide: true
+  Number of Gamers: 455
+  Percentage of Gamers: 1%
+  Ratio: 9.61
+  TA: '288'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Wood Golem
+  Description: Defeat a Wood Golem
+  GS: '30'
+  Guide: true
+  Number of Gamers: 644
+  Percentage of Gamers: 2%
+  Ratio: 8.08
+  TA: '242'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 17.15346153846154
+Base TA: 44599
+Delisted: false
+Developer: Magic Cube
+Game Name: Merge & Blade
+Genres: Puzzle, Roguelite, Strategy
+Install Size: 985.0
+Number of Completions: 5
+Number of Gamers: 42094
+Overall Completion Time:
+- 40.0
+- 50.0
+Overall GS: 3000
+Overall Ratio: 15.215
+Overall TA: 45645
+PDU: 0
+Percentage Completed: 0.01
+Publisher: Magic Cube
+Release Date: 28 February 2023
+Server Closure: false
+Site Rating: 3.23
+Update Achievements:
+- Achievement Name: Return of the King
+  Description: Play as a King at least 5 times
+  GS: '30'
+  Guide: true
+  Number of Gamers: 2195
+  Percentage of Gamers: 5%
+  Ratio: 4.37
+  TA: '131'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Duel!?
+  Description: Play as a Card Master at least 5 times
+  GS: '30'
+  Guide: false
+  Number of Gamers: 1651
+  Percentage of Gamers: 4%
+  Ratio: 5.04
+  TA: '151'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Legendary Thief
+  Description: Play as a Theif at least 5 times
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1635
+  Percentage of Gamers: 4%
+  Ratio: 5.07
+  TA: '152'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Generous Dictator
+  Description: Play as a Dictator at least 5 times
+  GS: '40'
+  Guide: true
+  Number of Gamers: 1269
+  Percentage of Gamers: 3%
+  Ratio: 5.75
+  TA: '230'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Eager Explorer
+  Description: Play as a Explorer at least 5 times
+  GS: '40'
+  Guide: false
+  Number of Gamers: 914
+  Percentage of Gamers: 2%
+  Ratio: 6.78
+  TA: '271'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Almighty Prophet
+  Description: Play as a Prophet at least 5 times
+  GS: '40'
+  Guide: false
+  Number of Gamers: 1152
+  Percentage of Gamers: 3%
+  Ratio: 6.04
+  TA: '241'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Marksman Elven Archer
+  Description: Play as a Elvenarcher at least 5 times
+  GS: '40'
+  Guide: false
+  Number of Gamers: 1013
+  Percentage of Gamers: 2%
+  Ratio: 6.44
+  TA: '257'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Final Night
+  Description: Reach Round 10 of Final Night
+  GS: '50'
+  Guide: true
+  Number of Gamers: 2387
+  Percentage of Gamers: 6%
+  Ratio: 4.19
+  TA: '209'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Revolution Day
+  Description: Promote a farmer to general.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 474
+  Percentage of Gamers: 1%
+  Ratio: 9.42
+  TA: '282'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: power of god
+  Description: Bless 100 times in one game
+  GS: '30'
+  Guide: true
+  Number of Gamers: 509
+  Percentage of Gamers: 1%
+  Ratio: 9.09
+  TA: '272'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: lack of blood
+  Description: Absorb 1000 health in one game
+  GS: '30'
+  Guide: true
+  Number of Gamers: 742
+  Percentage of Gamers: 2%
+  Ratio: 7.53
+  TA: '225'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Abyss Part 1
+  Description: Clear 5th floor into darkness
+  GS: '10'
+  Guide: false
+  Number of Gamers: 350
+  Percentage of Gamers: 1%
+  Ratio: 10.96
+  TA: '109'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Abyss Part 2
+  Description: Clear 10th floor into darkness
+  GS: '10'
+  Guide: false
+  Number of Gamers: 192
+  Percentage of Gamers: 0%
+  Ratio: 14.8
+  TA: '148'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Abyss Part 3
+  Description: Clear 15th floor into darkness
+  GS: '10'
+  Guide: false
+  Number of Gamers: 177
+  Percentage of Gamers: 0%
+  Ratio: 15.42
+  TA: '154'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Abyss Part 4
+  Description: Clear 20th floor into darkness
+  GS: '20'
+  Guide: false
+  Number of Gamers: 160
+  Percentage of Gamers: 0%
+  Ratio: 16.22
+  TA: '324'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Abyss Part 5
+  Description: Clear the 25th floor into darkness
+  GS: '20'
+  Guide: false
+  Number of Gamers: 152
+  Percentage of Gamers: 0%
+  Ratio: 16.64
+  TA: '332'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Abyss Part 6
+  Description: Clear the 30th floor into darkness
+  GS: '20'
+  Guide: false
+  Number of Gamers: 148
+  Percentage of Gamers: 0%
+  Ratio: 16.86
+  TA: '337'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Abyss Part 7
+  Description: Clear the 35th floor into darkness
+  GS: '20'
+  Guide: true
+  Number of Gamers: 146
+  Percentage of Gamers: 0%
+  Ratio: 16.97
+  TA: '339'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: First Tower
+  Description: Clear rogue-lite stage 20
+  GS: '20'
+  Guide: false
+  Number of Gamers: 411
+  Percentage of Gamers: 1%
+  Ratio: 10.12
+  TA: '202'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Second Tower
+  Description: Clear rogue-lite stage 40
+  GS: '20'
+  Guide: false
+  Number of Gamers: 288
+  Percentage of Gamers: 1%
+  Ratio: 12.08
+  TA: '241'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Third Tower
+  Description: Clear rogue-lite stage 60
+  GS: '30'
+  Guide: false
+  Number of Gamers: 218
+  Percentage of Gamers: 1%
+  Ratio: 13.89
+  TA: '416'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Fourth Tower
+  Description: Clear rogue-lite stage 80
+  GS: '30'
+  Guide: false
+  Number of Gamers: 195
+  Percentage of Gamers: 0%
+  Ratio: 14.69
+  TA: '440'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Fifth Tower
+  Description: Clear 100 stages of Rogue Lite
+  GS: '100'
+  Guide: true
+  Number of Gamers: 183
+  Percentage of Gamers: 0%
+  Ratio: 15.16
+  TA: 1,516
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Three Musketeers
+  Description: Form a party of 3 heroes in-game
+  GS: '50'
+  Guide: true
+  Number of Gamers: 590
+  Percentage of Gamers: 1%
+  Ratio: 8.44
+  TA: '422'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Homework
+  Description: Clear rogue-lite quest 3 times
+  GS: '30'
+  Guide: true
+  Number of Gamers: 969
+  Percentage of Gamers: 2%
+  Ratio: 6.59
+  TA: '197'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Faithful
+  Description: Clear rogue-lite quest 10 times
+  GS: '30'
+  Guide: true
+  Number of Gamers: 744
+  Percentage of Gamers: 2%
+  Ratio: 7.52
+  TA: '225'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Habit
+  Description: Clear rogue-lite quest 100 times
+  GS: '50'
+  Guide: true
+  Number of Gamers: 359
+  Percentage of Gamers: 1%
+  Ratio: 10.82
+  TA: '541'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Growth
+  Description: Consumes 10000 crystals
+  GS: '100'
+  Guide: true
+  Number of Gamers: 1326
+  Percentage of Gamers: 3%
+  Ratio: 5.63
+  TA: '563'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: In the name of God
+  Description: Play as Crushader 5 or more times
+  GS: '40'
+  Guide: true
+  Number of Gamers: 1232
+  Percentage of Gamers: 3%
+  Ratio: 5.84
+  TA: '233'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Early Suppressor
+  Description: Clear Stage 1 of Suppression Mode
+  GS: '10'
+  Guide: false
+  Number of Gamers: 60
+  Percentage of Gamers: 0%
+  Ratio: 26.71
+  TA: '267'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Armed Rebellion Suppressor
+  Description: Clear Stage 3 of Suppression Mode
+  GS: '20'
+  Guide: false
+  Number of Gamers: 52
+  Percentage of Gamers: 0%
+  Ratio: 28.45
+  TA: '569'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The Art of Suppression
+  Description: Clear Stage 5 of Suppression Mode
+  GS: '30'
+  Guide: false
+  Number of Gamers: 28
+  Percentage of Gamers: 0%
+  Ratio: 38.77
+  TA: 1,163
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Bloody Purge
+  Description: Clear Stage 7 of Suppression Mode
+  GS: '50'
+  Guide: false
+  Number of Gamers: 11
+  Percentage of Gamers: 0%
+  Ratio: 64.87
+  TA: 3,243
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Final Judicator
+  Description: Clear Stage 10 of Suppression Mode
+  GS: '100'
+  Guide: false
+  Number of Gamers: 5
+  Percentage of Gamers: 0%
+  Ratio: 91.75
+  TA: 9,175
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Lightning Strike
+  Description: Win 3 times in Round 1 of Suppression Mode
+  GS: '100'
+  Guide: true
+  Number of Gamers: 28
+  Percentage of Gamers: 0%
+  Ratio: 39.48
+  TA: 3,948
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Final Counterstrike
+  Description: Win 5 times in Round 5 of Suppression Mode
+  GS: '60'
+  Guide: true
+  Number of Gamers: 15
+  Percentage of Gamers: 0%
+  Ratio: 52.97
+  TA: 3,178
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Narrow Escape
+  Description: Lose in Round 5 of Suppression Mode
+  GS: '30'
+  Guide: true
+  Number of Gamers: 37
+  Percentage of Gamers: 0%
+  Ratio: 33.72
+  TA: 1,011
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Fated Rivals
+  Description: Enter Round 5 in 2P Versus Mode
+  GS: '200'
+  Guide: true
+  Number of Gamers: 22
+  Percentage of Gamers: 0%
+  Ratio: 45.87
+  TA: 9,175
+  Tags:
+  - Offline Mode
+  - Versus
+Walkthrough: false

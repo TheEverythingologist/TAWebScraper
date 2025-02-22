@@ -1,0 +1,601 @@
+Add On Achievements: []
+Base Completion Time:
+- 12.0
+- 15.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Welcome To The Uplands
+  Description: Arrive At The Campsite
+  GS: '10'
+  Guide: true
+  Number of Gamers: 18762
+  Percentage of Gamers: 100%
+  Ratio: 1.0
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: First Timer
+  Description: Charm Your First Creature
+  GS: '10'
+  Guide: true
+  Number of Gamers: 11531
+  Percentage of Gamers: 61%
+  Ratio: 1.27
+  TA: '12'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Through The Clouds
+  Description: Sight The Emperor Cosmet
+  GS: '10'
+  Guide: false
+  Number of Gamers: 10889
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '13'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Empire Toppled
+  Description: Charm The Emperor Cosmet
+  GS: '20'
+  Guide: true
+  Number of Gamers: 6535
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '33'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Seen Through
+  Description: Name The Elusive Rustic
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4154
+  Percentage of Gamers: 22%
+  Ratio: 2.12
+  TA: '63'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Sore Throat
+  Description: Name The Encrusted Skyfish
+  GS: '40'
+  Guide: true
+  Number of Gamers: 2717
+  Percentage of Gamers: 14%
+  Ratio: 2.62
+  TA: '105'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Educational Pursuits
+  Description: Meet Every Research Student
+  GS: '60'
+  Guide: true
+  Number of Gamers: 2513
+  Percentage of Gamers: 13%
+  Ratio: 2.73
+  TA: '163'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Crime Spree Ended
+  Description: Recover Jane's Feedbag
+  GS: '100'
+  Guide: true
+  Number of Gamers: 2568
+  Percentage of Gamers: 14%
+  Ratio: 2.7
+  TA: '270'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+  - Story Completed
+- Achievement Name: Whistle A Happy Tune
+  Description: Learn Your First Charming Song
+  GS: '20'
+  Guide: true
+  Number of Gamers: 12605
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '24'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Bells And Whistles
+  Description: Learn All Charming Songs
+  GS: '50'
+  Guide: true
+  Number of Gamers: 2510
+  Percentage of Gamers: 13%
+  Ratio: 2.73
+  TA: '136'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: A New Friend
+  Description: Name Your First Sheep
+  GS: '10'
+  Guide: false
+  Number of Gamers: 9762
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '13'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Mammoth Woolly
+  Description: Max Out Your Flock Of Sheep
+  GS: '40'
+  Guide: false
+  Number of Gamers: 3279
+  Percentage of Gamers: 17%
+  Ratio: 2.39
+  TA: '95'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Cosmet Charmer
+  Description: Charm Every Species Of Cosmet
+  GS: '15'
+  Guide: false
+  Number of Gamers: 3036
+  Percentage of Gamers: 16%
+  Ratio: 2.48
+  TA: '37'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Bewl Charmer
+  Description: Charm Every Species Of Bewl
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1787
+  Percentage of Gamers: 10%
+  Ratio: 3.24
+  TA: '48'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Thrip Charmer
+  Description: Charm Every Species Of Thrip
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1862
+  Percentage of Gamers: 10%
+  Ratio: 3.17
+  TA: '47'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Skyfish Charmer
+  Description: Charm Every Species Of Skyfish
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1691
+  Percentage of Gamers: 9%
+  Ratio: 3.33
+  TA: '49'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Piper Charmer
+  Description: Charm Every Species Of Piper
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1669
+  Percentage of Gamers: 9%
+  Ratio: 3.35
+  TA: '50'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Rustic Charmer
+  Description: Charm Every Species Of Rustic
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2205
+  Percentage of Gamers: 12%
+  Ratio: 2.91
+  TA: '43'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Winnow Charmer
+  Description: Charm Every Species Of Winnow
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1668
+  Percentage of Gamers: 9%
+  Ratio: 3.35
+  TA: '50'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Gleeb Charmer
+  Description: Charm Every Species Of Gleeb
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1761
+  Percentage of Gamers: 9%
+  Ratio: 3.26
+  TA: '48'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Baffin Charmer
+  Description: Charm Every Species Of Baffin
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1908
+  Percentage of Gamers: 10%
+  Ratio: 3.13
+  TA: '47'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Drupe Charmer
+  Description: Charm Every Species Of Drupe
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1540
+  Percentage of Gamers: 8%
+  Ratio: 3.49
+  TA: '52'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Sprug Charmer
+  Description: Charm Every Species Of Sprug
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1710
+  Percentage of Gamers: 9%
+  Ratio: 3.31
+  TA: '49'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Burbot Charmer
+  Description: Charm Every Species Of Burbot
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1573
+  Percentage of Gamers: 8%
+  Ratio: 3.45
+  TA: '51'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: The Charmer's Charmer
+  Description: Charm One Creature From Every Family
+  GS: '20'
+  Guide: false
+  Number of Gamers: 2095
+  Percentage of Gamers: 11%
+  Ratio: 2.99
+  TA: '59'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Field Guide Complete
+  Description: Complete Your Field Guide By Charming Every Creature
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1588
+  Percentage of Gamers: 8%
+  Ratio: 3.43
+  TA: '171'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Fashionista
+  Description: Find All Of The Knitting Patterns
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1896
+  Percentage of Gamers: 10%
+  Ratio: 3.14
+  TA: '94'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Flock Together
+  Description: Upgrade Your Flock Size To The Maximum
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1862
+  Percentage of Gamers: 10%
+  Ratio: 3.17
+  TA: '95'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Cosmet Boffin
+  Description: Identify And Catch Cosmets To Become A Cosmet Expert
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1275
+  Percentage of Gamers: 7%
+  Ratio: 3.83
+  TA: '57'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Bewl Boffin
+  Description: Identify And Catch Bewls To Become A Bewl Expert
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1469
+  Percentage of Gamers: 8%
+  Ratio: 3.57
+  TA: '53'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Thrip Boffin
+  Description: Identify And Catch Thrips To Become A Thrip Expert
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1285
+  Percentage of Gamers: 7%
+  Ratio: 3.82
+  TA: '57'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Skyfish Boffin
+  Description: Identify And Catch Skyfish To Become A Skyfish Expert
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1135
+  Percentage of Gamers: 6%
+  Ratio: 4.06
+  TA: '60'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Piper Boffin
+  Description: Identify And Catch Pipers To Become A Piper Expert
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1207
+  Percentage of Gamers: 6%
+  Ratio: 3.94
+  TA: '59'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Rustic Boffin
+  Description: Identify And Catch Rustic To Become A Rustic Expert
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1208
+  Percentage of Gamers: 6%
+  Ratio: 3.94
+  TA: '59'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Winnow Boffin
+  Description: Identify And Catch Winnows To Become A Winnow Expert
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1309
+  Percentage of Gamers: 7%
+  Ratio: 3.78
+  TA: '56'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Gleeb Boffin
+  Description: Identify And Catch Gleebs To Become A Gleeb Expert
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1251
+  Percentage of Gamers: 7%
+  Ratio: 3.87
+  TA: '58'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Baffin Boffin
+  Description: Identify And Catch Baffins To Become A Baffin Expert
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1215
+  Percentage of Gamers: 6%
+  Ratio: 3.92
+  TA: '58'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Drupe Boffin
+  Description: Identify And Catch Drupes To Become A Drupe Expert
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1147
+  Percentage of Gamers: 6%
+  Ratio: 4.04
+  TA: '60'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Sprug Boffin
+  Description: Identify And Catch Sprugs To Become A Sprug Expert
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1193
+  Percentage of Gamers: 6%
+  Ratio: 3.96
+  TA: '59'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Burbot Boffin
+  Description: Identify And Catch Burbots To Become A Burbot Expert
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1185
+  Percentage of Gamers: 6%
+  Ratio: 3.97
+  TA: '59'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: The Boffin's Boffin
+  Description: Become An Expert In Every Family
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1133
+  Percentage of Gamers: 6%
+  Ratio: 4.06
+  TA: '203'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: It's A Family Affair
+  Description: Have A Flock With A Creature From Every Family
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1951
+  Percentage of Gamers: 10%
+  Ratio: 3.1
+  TA: '62'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Keeping It Simple
+  Description: Have A Full Size Flock With Only Creatures From The Same Family
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1398
+  Percentage of Gamers: 7%
+  Ratio: 3.66
+  TA: '73'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Variety Is The Spice Of Life
+  Description: Have A Full Size Flock With All Unique Creatures
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1562
+  Percentage of Gamers: 8%
+  Ratio: 3.46
+  TA: '69'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+Base Ratio: 3.029
+Base TA: 3029
+Delisted: false
+Developer: Hollow Ponds, Richard Hogg
+Game Name: Flock
+Genres: Adventure, Open World
+Install Size: 2840.0
+Number of Completions: 1119
+Number of Gamers: 18766
+Overall Completion Time:
+- 12.0
+- 15.0
+Overall GS: 1000
+Overall Ratio: 3.029
+Overall TA: 3029
+PDU: 0
+Percentage Completed: 5.96
+Publisher: Annapurna Interactive
+Release Date: 16 July 2024
+Server Closure: false
+Site Rating: 3.43
+Update Achievements: []
+Walkthrough: false

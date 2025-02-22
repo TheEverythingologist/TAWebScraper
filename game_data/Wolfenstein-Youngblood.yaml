@@ -1,0 +1,804 @@
+Add On Achievements: []
+Base Completion Time:
+- 50.0
+- 60.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Teamwork
+  Description: Complete a mission with co-op player.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 49785
+  Percentage of Gamers: 53%
+  Ratio: 1.36
+  TA: '20'
+  Tags:
+  - Online Mode
+  - Cooperative
+- Achievement Name: Resistor
+  Description: Kill 500 enemies.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 36463
+  Percentage of Gamers: 39%
+  Ratio: 1.59
+  TA: '23'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Swatter
+  Description: Kill 20 drones.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 37032
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '15'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Immovable object
+  Description: Kill 10 charging Supersoldaten.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4231
+  Percentage of Gamers: 5%
+  Ratio: 4.7
+  TA: '47'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Bomber
+  Description: Kill 50 enemies using explosives.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 34062
+  Percentage of Gamers: 36%
+  Ratio: 1.65
+  TA: '16'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Supreme ninja
+  Description: Kill 50 enemies using thrown weapons.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 19641
+  Percentage of Gamers: 21%
+  Ratio: 2.17
+  TA: '21'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Stealthy
+  Description: Stealthily kill 50 enemies.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 29265
+  Percentage of Gamers: 31%
+  Ratio: 1.78
+  TA: '17'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Ripper
+  Description: Kill 75 enemies using take-downs.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 16721
+  Percentage of Gamers: 18%
+  Ratio: 2.36
+  TA: '23'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Trigger happy
+  Description: Fire 100,000 shots.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3784
+  Percentage of Gamers: 4%
+  Ratio: 4.96
+  TA: '49'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Prepper
+  Description: Pick up 250 loot supplies.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 71669
+  Percentage of Gamers: 77%
+  Ratio: 1.14
+  TA: '11'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: A red mist
+  Description: Gore 150 enemies.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 28360
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '18'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Rasputin
+  Description: Revive or get revived 25 times.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 50906
+  Percentage of Gamers: 54%
+  Ratio: 1.35
+  TA: '13'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Intruder
+  Description: Get through 10 code locks.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 29702
+  Percentage of Gamers: 32%
+  Ratio: 1.77
+  TA: '17'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Partisan
+  Description: Complete all missions.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 9951
+  Percentage of Gamers: 11%
+  Ratio: 3.06
+  TA: '45'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Airborne
+  Description: Kill 50 enemies while airborne.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 6639
+  Percentage of Gamers: 7%
+  Ratio: 3.75
+  TA: '56'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Sting like a bee
+  Description: Stealth Kill 10 Supersoldaten.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 7320
+  Percentage of Gamers: 8%
+  Ratio: 3.57
+  TA: '53'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+  - Buggy
+- Achievement Name: Hard boiled
+  Description: Kill 100 enemies while dual-wielding.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 10340
+  Percentage of Gamers: 11%
+  Ratio: 3.0
+  TA: '45'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Right tool for the job
+  Description: Kill 75 enemies using the weapon type that's most effective against
+    their shield type.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 43170
+  Percentage of Gamers: 46%
+  Ratio: 1.46
+  TA: '22'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Heavy artillery
+  Description: Tuck a Hammer weapon away for later.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 22280
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '20'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: American Football
+  Description: Kill 50 enemies with your Crush ability.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 6755
+  Percentage of Gamers: 7%
+  Ratio: 3.71
+  TA: '37'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Predator
+  Description: Kill an enemy within 3 seconds of uncloaking 50 times
+  GS: '10'
+  Guide: true
+  Number of Gamers: 11457
+  Percentage of Gamers: 12%
+  Ratio: 2.85
+  TA: '28'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+  - Time/Date
+- Achievement Name: Supportive
+  Description: Perform 100 pep signals.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 22303
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '20'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Tacticool
+  Description: Fully upgrade a weapon brand.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 19839
+  Percentage of Gamers: 21%
+  Ratio: 2.16
+  TA: '21'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Kitted out
+  Description: Obtain 10 weapon upgrades.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 55491
+  Percentage of Gamers: 59%
+  Ratio: 1.29
+  TA: '12'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Gear head
+  Description: Obtain all improved weapon upgrades.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 2798
+  Percentage of Gamers: 3%
+  Ratio: 5.77
+  TA: '288'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: A better you
+  Description: Obtain 5 abilities.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 70175
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '11'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Extra everything
+  Description: Obtain 15 abilities.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 37431
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '23'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: More human than human
+  Description: Obtain all abilities.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 3110
+  Percentage of Gamers: 3%
+  Ratio: 5.48
+  TA: '274'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: See my vest
+  Description: Obtain 5 power armor skins.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 9307
+  Percentage of Gamers: 10%
+  Ratio: 3.16
+  TA: '31'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Brother 1
+  Description: "Defeat the \xDCbergarde in Brother 1."
+  GS: '50'
+  Guide: true
+  Number of Gamers: 37568
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '78'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Brother 2
+  Description: "Defeat the \xDCbergarde in Brother 2."
+  GS: '50'
+  Guide: true
+  Number of Gamers: 32210
+  Percentage of Gamers: 34%
+  Ratio: 1.7
+  TA: '85'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Brother 3
+  Description: "Defeat the \xDCbergarde in Brother 3."
+  GS: '50'
+  Guide: true
+  Number of Gamers: 31112
+  Percentage of Gamers: 33%
+  Ratio: 1.73
+  TA: '86'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: God Key
+  Description: Obtain the God Key.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 28671
+  Percentage of Gamers: 31%
+  Ratio: 1.8
+  TA: '18'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Plain sight
+  Description: Enter the Lab X.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 28847
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '17'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: World's best Dad
+  Description: Meet up with your father.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 28368
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '18'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Among friends
+  Description: Link up with the resistance.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 77980
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Airship down
+  Description: Defeat Winkler.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 90873
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Explorer
+  Description: Open 200 supply crates.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 13720
+  Percentage of Gamers: 15%
+  Ratio: 2.6
+  TA: '26'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Expert explorer
+  Description: Open all red supply crates.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 7044
+  Percentage of Gamers: 8%
+  Ratio: 3.64
+  TA: '182'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Tribute
+  Description: Obtain the souvenir from Dunwall.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 15341
+  Percentage of Gamers: 16%
+  Ratio: 2.46
+  TA: '24'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Audiophile
+  Description: Find all Cassette Tapes.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7239
+  Percentage of Gamers: 8%
+  Ratio: 3.59
+  TA: '35'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Librarian
+  Description: Find all Readables.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7505
+  Percentage of Gamers: 8%
+  Ratio: 3.52
+  TA: '35'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Hacker
+  Description: Find all Floppy Disks.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7273
+  Percentage of Gamers: 8%
+  Ratio: 3.58
+  TA: '35'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: 3-D
+  Description: Find all 3D glasses.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7129
+  Percentage of Gamers: 8%
+  Ratio: 3.61
+  TA: '36'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Banker
+  Description: Find 60,000 coins.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7088
+  Percentage of Gamers: 8%
+  Ratio: 3.63
+  TA: '36'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+  - Cumulative +
+- Achievement Name: Dark Days
+  Description: Enter all Undergrounds.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 13500
+  Percentage of Gamers: 14%
+  Ratio: 2.62
+  TA: '26'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Cinephile
+  Description: Find all UVK Covers.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 7695
+  Percentage of Gamers: 8%
+  Ratio: 3.48
+  TA: '34'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: One woman army
+  Description: Achieve mastery level 10 with all weapons.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 2818
+  Percentage of Gamers: 3%
+  Ratio: 5.76
+  TA: '288'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Gunslinger
+  Description: Achieve mastery level 10 with the Pistole.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4381
+  Percentage of Gamers: 5%
+  Ratio: 4.62
+  TA: '46'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Chopper
+  Description: Achieve mastery level 10 with the Sturmgewehr.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 8067
+  Percentage of Gamers: 9%
+  Ratio: 3.4
+  TA: '34'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: A cloud of lead
+  Description: Achieve mastery level 10 with the Kugelgewehr.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7743
+  Percentage of Gamers: 8%
+  Ratio: 3.47
+  TA: '34'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Electric feel
+  Description: Achieve mastery level 10 with the Elektrokraftwerk.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3674
+  Percentage of Gamers: 4%
+  Ratio: 5.05
+  TA: '50'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Dust to dust
+  Description: Achieve mastery level 10 with the Laserkraftwerk.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4072
+  Percentage of Gamers: 4%
+  Ratio: 4.79
+  TA: '47'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Demolition woman
+  Description: Achieve mastery level 10 with the Dieselkraftwerk.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3339
+  Percentage of Gamers: 4%
+  Ratio: 5.29
+  TA: '52'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Hammer time
+  Description: Achieve mastery level 10 with a Hammer weapon.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 6700
+  Percentage of Gamers: 7%
+  Ratio: 3.73
+  TA: '37'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Spray and pray
+  Description: Achieve mastery level 10 with the Blitzgewehr.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4844
+  Percentage of Gamers: 5%
+  Ratio: 4.39
+  TA: '43'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Get the strap
+  Description: Achieve mastery level 10 with the Maschinenpistole.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5230
+  Percentage of Gamers: 6%
+  Ratio: 4.22
+  TA: '42'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Chop and slice
+  Description: Achieve mastery level 10 with a melee weapon.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 12649
+  Percentage of Gamers: 14%
+  Ratio: 2.71
+  TA: '27'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: God mode
+  Description: Kill 50 enemies with their own bullets.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 6709
+  Percentage of Gamers: 7%
+  Ratio: 3.73
+  TA: '37'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: "Vive la r\xE9volution!"
+  Description: Kill Lothar.
+  GS: '90'
+  Guide: true
+  Number of Gamers: 26188
+  Percentage of Gamers: 28%
+  Ratio: 1.88
+  TA: '169'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+  - Story Completed
+Base Ratio: 2.973
+Base TA: 2973
+Delisted: false
+Developer: MachineGames, Arkane Studios
+Game Name: 'Wolfenstein: Youngblood'
+Genres: Action-RPG, First Person Shooter, Role Playing, Stealth
+Install Size: 41900.0
+Number of Completions: 2607
+Number of Gamers: 93450
+Overall Completion Time:
+- 50.0
+- 60.0
+Overall GS: 1000
+Overall Ratio: 2.973
+Overall TA: 2973
+PDU: 0
+Percentage Completed: 2.79
+Publisher: Bethesda Softworks
+Release Date: 26 July 2019
+Server Closure: false
+Site Rating: 3.25
+Update Achievements: []
+Walkthrough: false

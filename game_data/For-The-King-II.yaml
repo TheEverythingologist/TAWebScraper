@@ -1,0 +1,842 @@
+Add On Achievements: []
+Base Completion Time:
+- 131
+- 132
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: He's No Good To Me Dead
+  Description: Rescue a mercenary from a merc caravan.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 525
+  Percentage of Gamers: 3%
+  Ratio: 5.83
+  TA: '87'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: All Your Loot Are Belong To Us
+  Description: Collect 100 items from loot drops.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 7814
+  Percentage of Gamers: 44%
+  Ratio: 1.51
+  TA: '7'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: I Am Become Death, Destroyer of Worlds
+  Description: Kill 1000 enemies.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 1031
+  Percentage of Gamers: 6%
+  Ratio: 4.16
+  TA: '104'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Beam Me Up, Scotty
+  Description: Teleport 10 times.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 801
+  Percentage of Gamers: 4%
+  Ratio: 4.72
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Even More Bones!
+  Description: Kill 300 Skellys
+  GS: '25'
+  Guide: false
+  Number of Gamers: 137
+  Percentage of Gamers: 1%
+  Ratio: 11.41
+  TA: '285'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: '...Still a pity!'
+  Description: First party wipe.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 8292
+  Percentage of Gamers: 46%
+  Ratio: 1.46
+  TA: '7'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Field medic
+  Description: Revive a party member.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 13750
+  Percentage of Gamers: 77%
+  Ratio: 1.13
+  TA: '5'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Critical fail
+  Description: Break a weapon.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 7369
+  Percentage of Gamers: 41%
+  Ratio: 1.55
+  TA: '7'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Ship Riggity Riggity Wrecked
+  Description: Your party has been shipwrecked.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1396
+  Percentage of Gamers: 8%
+  Ratio: 3.57
+  TA: '17'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Side Hustle
+  Description: Complete 30 Town Quests.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 919
+  Percentage of Gamers: 5%
+  Ratio: 4.4
+  TA: '66'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: You're Hired!
+  Description: Hire 10 mercenaries from merc guilds.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 481
+  Percentage of Gamers: 3%
+  Ratio: 6.09
+  TA: '91'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Shop
+- Achievement Name: Golden....er, Purple Ticket
+  Description: Visit the Dark Carnival for the first time.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1627
+  Percentage of Gamers: 9%
+  Ratio: 3.31
+  TA: '16'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: You're So Lucky, You're a Star!
+  Description: Defeat Lucky and seal Lucky's Vault.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 2231
+  Percentage of Gamers: 12%
+  Ratio: 2.83
+  TA: '14'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Larger Than Life
+  Description: Defeat Graveborne and seal the Mausoleum.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 2130
+  Percentage of Gamers: 12%
+  Ratio: 2.89
+  TA: '14'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Quit Paying Games With My Heart
+  Description: Defeat the Bandit King and seal the Bandit Stronghold.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 2004
+  Percentage of Gamers: 11%
+  Ratio: 2.98
+  TA: '14'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: It's Gonna Be Fray
+  Description: Defeat Warden Fraybee and seal the Desecrated Church.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 1530
+  Percentage of Gamers: 9%
+  Ratio: 3.41
+  TA: '17'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Hanging Tough
+  Description: Defeat the Hangman and seal the Hangman's Gallows.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 647
+  Percentage of Gamers: 4%
+  Ratio: 5.25
+  TA: '26'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Blame It On The Rain
+  Description: Defeat the Disciple and seal the Temple of Darkness.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 2258
+  Percentage of Gamers: 13%
+  Ratio: 2.81
+  TA: '14'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: You're Toxic
+  Description: Defeat Bogdrinker and seal Shaman's Hollow.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 1219
+  Percentage of Gamers: 7%
+  Ratio: 3.82
+  TA: '19'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Now you're thinking with portals!
+  Description: Use 10 Portal Scrolls.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 276
+  Percentage of Gamers: 2%
+  Ratio: 8.04
+  TA: '40'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Sushi Master
+  Description: Kill the Kraken.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 358
+  Percentage of Gamers: 2%
+  Ratio: 7.06
+  TA: '105'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Shopaholic
+  Description: Make 20 Lore Store purchases.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1605
+  Percentage of Gamers: 9%
+  Ratio: 3.33
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Shop
+- Achievement Name: Fashionista
+  Description: Make 50 Lore Store purchases.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 319
+  Percentage of Gamers: 2%
+  Ratio: 7.48
+  TA: '374'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Shop
+- Achievement Name: Welcome to The Resistance
+  Description: Complete The Resistance on any difficulty.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 5211
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '27'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Once More Unto the Breach
+  Description: Clear the Guardhouse.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 10290
+  Percentage of Gamers: 57%
+  Ratio: 1.31
+  TA: '6'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Through the Cobwebs and Casks.
+  Description: Make it safely through the cellar.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 4353
+  Percentage of Gamers: 24%
+  Ratio: 2.02
+  TA: '10'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Came Out Clean On The Other Side
+  Description: Make it safely through the sewers.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 3937
+  Percentage of Gamers: 22%
+  Ratio: 2.13
+  TA: '10'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Come On Boogey
+  Description: Find the secret room in The Resistance.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3174
+  Percentage of Gamers: 18%
+  Ratio: 2.37
+  TA: '35'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Save the Primordial Oak
+  Description: Complete The Primordial Oak on any difficulty.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2577
+  Percentage of Gamers: 14%
+  Ratio: 2.63
+  TA: '39'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: One Does Not Simply Walk Into A Siege
+  Description: Clear three towns under siege.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 2770
+  Percentage of Gamers: 15%
+  Ratio: 2.53
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Sea Ho!
+  Description: Claim your first landboat.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 4266
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '10'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Halt the Queen's Mining Operation
+  Description: Complete The Royal Mines on any difficulty.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1227
+  Percentage of Gamers: 7%
+  Ratio: 3.81
+  TA: '57'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Triumvirate
+  Description: Visit all three resistance members in The Royal Mines.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 1598
+  Percentage of Gamers: 9%
+  Ratio: 3.34
+  TA: '16'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Rescue Hildebrant... again.
+  Description: Complete The Hangman's Noose on any difficulty.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 789
+  Percentage of Gamers: 4%
+  Ratio: 4.75
+  TA: '71'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: We're a Rescue Team. Not Assassins.
+  Description: Save all four resistance members in The Hangman's Noose.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 385
+  Percentage of Gamers: 2%
+  Ratio: 6.81
+  TA: '34'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Bring Me That Horizon
+  Description: Find Captain Johnsgrave's Lost Ship.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 1012
+  Percentage of Gamers: 6%
+  Ratio: 4.2
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Long Live The Queen
+  Description: Complete The Castle Gates on any difficulty.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 497
+  Percentage of Gamers: 3%
+  Ratio: 5.99
+  TA: '89'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Adventurers Assemble
+  Description: Watch the post-credits cinematic.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 212
+  Percentage of Gamers: 1%
+  Ratio: 9.17
+  TA: '137'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Gone...
+  Description: Devote to 15 Stone Heroes.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 1599
+  Percentage of Gamers: 9%
+  Ratio: 3.34
+  TA: '16'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: ..But Not Forgotten
+  Description: Devote to 50 Stone Heroes.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 129
+  Percentage of Gamers: 1%
+  Ratio: 11.76
+  TA: '176'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Sweeter Tooth
+  Description: Use 20 candies.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 1029
+  Percentage of Gamers: 6%
+  Ratio: 4.16
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Razzle Dazzle
+  Description: Kill 20 enemies with firearms.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 804
+  Percentage of Gamers: 4%
+  Ratio: 4.71
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Purchased!
+  Description: Make your first Lore Store purchase.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 7325
+  Percentage of Gamers: 41%
+  Ratio: 1.56
+  TA: '7'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Siege Tank
+  Description: Craft the Warmachine with Heartcrusher in The Castle Gates
+  GS: '5'
+  Guide: false
+  Number of Gamers: 145
+  Percentage of Gamers: 1%
+  Ratio: 11.09
+  TA: '55'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: You Rang?
+  Description: Summon 10 enemies to fight alongside you.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 2848
+  Percentage of Gamers: 16%
+  Ratio: 2.5
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Take It To The Limit
+  Description: Max out a party member to level 9.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 2091
+  Percentage of Gamers: 12%
+  Ratio: 2.92
+  TA: '14'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Battle Toad
+  Description: Rescue Toadslayer from the Merc Caravan.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 294
+  Percentage of Gamers: 2%
+  Ratio: 7.79
+  TA: '116'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Primordial Secrecy
+  Description: Find the secret room in The Primordial Oak.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 285
+  Percentage of Gamers: 2%
+  Ratio: 7.91
+  TA: '118'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Double Crossed
+  Description: Find the secret room in The Royal Mines.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 367
+  Percentage of Gamers: 2%
+  Ratio: 6.97
+  TA: '104'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Blimey!
+  Description: Find the secret room in The Hangman's Noose.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 198
+  Percentage of Gamers: 1%
+  Ratio: 9.49
+  TA: '142'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Let's Go Party
+  Description: Find the secret room in The Castle Gates.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 202
+  Percentage of Gamers: 1%
+  Ratio: 9.4
+  TA: '141'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Land or Water, Choose a Side
+  Description: Rescue Terratrout from the Merc Caravan.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 60
+  Percentage of Gamers: 0%
+  Ratio: 17.25
+  TA: '258'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Brother's Grim
+  Description: Rescue Grimshaw from the Merc Caravan.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 357
+  Percentage of Gamers: 2%
+  Ratio: 7.07
+  TA: '106'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: To Hell and Back
+  Description: Survive travelling the Ancient Teleporter with Pinecone in The Castle
+    Gates.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 135
+  Percentage of Gamers: 1%
+  Ratio: 11.5
+  TA: '57'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Chaos In Order
+  Description: Defeat the chaos devices with Mooney in The Castle Gates.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 233
+  Percentage of Gamers: 1%
+  Ratio: 8.75
+  TA: '43'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Through the Shadows
+  Description: Sneak through the sewers with Haypenny in The Castle Gates.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 154
+  Percentage of Gamers: 1%
+  Ratio: 10.77
+  TA: '53'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Fully Loaded
+  Description: Spend 20 loadout points in one adventure.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 9441
+  Percentage of Gamers: 53%
+  Ratio: 1.37
+  TA: '6'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: So You Fancy Yourself a Master
+  Description: Complete The Resistance on Master Difficulty.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 149
+  Percentage of Gamers: 1%
+  Ratio: 10.94
+  TA: '547'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Drunken Master
+  Description: Complete The Primordial Oak on Master Difficulty.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 83
+  Percentage of Gamers: 0%
+  Ratio: 14.67
+  TA: '733'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Puppet Master
+  Description: Complete The Royal Mines on Master Difficulty.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 67
+  Percentage of Gamers: 0%
+  Ratio: 16.32
+  TA: '816'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Master and Commander
+  Description: Complete The Hangman's Noose on Master Difficulty.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 58
+  Percentage of Gamers: 0%
+  Ratio: 17.55
+  TA: '877'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Master of the Fahrul
+  Description: Complete The Castle Gates on Master Difficulty.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 45
+  Percentage of Gamers: 0%
+  Ratio: 19.92
+  TA: '996'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Charred General
+  Description: Rescue Sunderbone from the Merc Caravan.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 65
+  Percentage of Gamers: 0%
+  Ratio: 16.57
+  TA: '248'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: A Pirate's Life For Me
+  Description: Rescue Johnsgrave from the Merc Caravan.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 96
+  Percentage of Gamers: 1%
+  Ratio: 13.64
+  TA: '204'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: You Chose That One?
+  Description: Choose Hildebrant's plan to storm The Castle Gates.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 186
+  Percentage of Gamers: 1%
+  Ratio: 9.8
+  TA: '49'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Up in Smoke
+  Description: Consume 50 herbs.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 4229
+  Percentage of Gamers: 24%
+  Ratio: 2.05
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Party Dust
+  Description: Rescue Boney Boogey from the Merc Caravan.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 80
+  Percentage of Gamers: 0%
+  Ratio: 14.94
+  TA: '224'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The Droll
+  Description: Defeat the Royal Droll.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 909
+  Percentage of Gamers: 5%
+  Ratio: 4.43
+  TA: '110'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Hildebrant, Take the Wheel
+  Description: Take fate into your own hands.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2630
+  Percentage of Gamers: 15%
+  Ratio: 2.6
+  TA: '39'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Welcome to the Dark Carnival
+  Description: Would you like to play a game?
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4340
+  Percentage of Gamers: 24%
+  Ratio: 2.02
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Here We Go Again
+  Description: Nobody gets to leave...
+  GS: '25'
+  Guide: true
+  Number of Gamers: 558
+  Percentage of Gamers: 3%
+  Ratio: 5.65
+  TA: '141'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Endless Love
+  Description: Defeat the Ringmaster.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 490
+  Percentage of Gamers: 3%
+  Ratio: 6.03
+  TA: '301'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 8.758
+Base TA: 8758
+Delisted: false
+Developer: IronOak Games
+Game Name: For The King II
+Genres: Role Playing, Turn Based, Card & Board
+Install Size: 6480.0
+Number of Completions: 22
+Number of Gamers: 17896
+Overall Completion Time:
+- 131
+- 132
+Overall GS: 1000
+Overall Ratio: 8.758
+Overall TA: 8758
+PDU: 0
+Percentage Completed: 0.12
+Publisher: Curve Games
+Release Date: 12 December 2024
+Server Closure: false
+Site Rating: 3.85
+Update Achievements: []
+Walkthrough: false

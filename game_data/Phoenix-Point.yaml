@@ -1,0 +1,567 @@
+Add On Achievements: []
+Base Completion Time:
+- 200.0
+- 300.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Novice Builder
+  Description: Build a base facility
+  GS: '10'
+  Guide: false
+  Number of Gamers: 9653
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '11'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Base to the Max
+  Description: Fully build up a base
+  GS: '20'
+  Guide: false
+  Number of Gamers: 2623
+  Percentage of Gamers: 19%
+  Ratio: 2.29
+  TA: '45'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Master Builder
+  Description: Build a facility of each type
+  GS: '20'
+  Guide: true
+  Number of Gamers: 474
+  Percentage of Gamers: 3%
+  Ratio: 5.41
+  TA: '108'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Buggy
+- Achievement Name: Phoenix Empire
+  Description: Control 4 phoenix bases
+  GS: '30'
+  Guide: false
+  Number of Gamers: 4139
+  Percentage of Gamers: 30%
+  Ratio: 1.82
+  TA: '54'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Novice Diplomat
+  Description: Reach friendly reputation with a faction
+  GS: '10'
+  Guide: false
+  Number of Gamers: 5771
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '15'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Advanced Diplomat
+  Description: Reach aligned reputation with a faction
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2587
+  Percentage of Gamers: 19%
+  Ratio: 2.31
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: We're in it Together
+  Description: Reach allied reputation with a faction
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1245
+  Percentage of Gamers: 9%
+  Ratio: 3.33
+  TA: '33'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Standard Victory
+  Description: Deal with the Pandoran threat at any difficulty level
+  GS: '20'
+  Guide: false
+  Number of Gamers: 462
+  Percentage of Gamers: 3%
+  Ratio: 5.48
+  TA: '109'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
+- Achievement Name: The Phoenix Path
+  Description: Beat the game without allying with any faction
+  GS: '20'
+  Guide: true
+  Number of Gamers: 166
+  Percentage of Gamers: 1%
+  Ratio: 9.16
+  TA: '183'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Hard Victory
+  Description: Deal with the Pandoran threat at hard difficulty level
+  GS: '30'
+  Guide: true
+  Number of Gamers: 69
+  Percentage of Gamers: 0%
+  Ratio: 14.23
+  TA: '427'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Extreme Victory
+  Description: Deal with the Pandoran threat at very hard difficulty level
+  GS: '50'
+  Guide: true
+  Number of Gamers: 63
+  Percentage of Gamers: 0%
+  Ratio: 15.03
+  TA: '751'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: All Possibilities
+  Description: Complete all different game endings
+  GS: '50'
+  Guide: true
+  Number of Gamers: 29
+  Percentage of Gamers: 0%
+  Ratio: 22.18
+  TA: 1,109
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Squad Builder
+  Description: Recruit a soldier
+  GS: '10'
+  Guide: false
+  Number of Gamers: 9368
+  Percentage of Gamers: 68%
+  Ratio: 1.21
+  TA: '12'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Scanner
+  Description: Complete a scan
+  GS: '10'
+  Guide: false
+  Number of Gamers: 12562
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '10'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Squad Diversity
+  Description: Recruit a soldier of each class (don't have to be in the same game)
+  GS: '20'
+  Guide: true
+  Number of Gamers: 767
+  Percentage of Gamers: 6%
+  Ratio: 4.26
+  TA: '85'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Buggy
+- Achievement Name: Master Trader
+  Description: Trade for 10000 total resources
+  GS: '20'
+  Guide: false
+  Number of Gamers: 529
+  Percentage of Gamers: 4%
+  Ratio: 5.14
+  TA: '102'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Scrap Merchant
+  Description: Scrap items worth 10000 total resources
+  GS: '20'
+  Guide: true
+  Number of Gamers: 277
+  Percentage of Gamers: 2%
+  Ratio: 7.11
+  TA: '142'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: All the Live Ones
+  Description: Capture each type of Pandoran (don't have to be in the same game)
+  GS: '50'
+  Guide: true
+  Number of Gamers: 138
+  Percentage of Gamers: 1%
+  Ratio: 10.14
+  TA: '507'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Novice Manufacturer
+  Description: Manufacture an item
+  GS: '10'
+  Guide: true
+  Number of Gamers: 12828
+  Percentage of Gamers: 92%
+  Ratio: 1.03
+  TA: '10'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Phoenix Airways
+  Description: Manufacture an air vehicle
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3841
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '37'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Master Manufacturer
+  Description: Manufacture an item of each type (don't have to be in the same game)
+  GS: '20'
+  Guide: false
+  Number of Gamers: 27
+  Percentage of Gamers: 0%
+  Ratio: 22.59
+  TA: '451'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - External Content
+- Achievement Name: Sabotage Plot
+  Description: Sabotage haven zone facility
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2003
+  Percentage of Gamers: 14%
+  Ratio: 2.63
+  TA: '26'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Raider
+  Description: Raid haven zone facility
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1196
+  Percentage of Gamers: 9%
+  Ratio: 3.4
+  TA: '34'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Survivor
+  Description: Survive an ambush mission
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3174
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Master Thief
+  Description: Steal an aircraft
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1225
+  Percentage of Gamers: 9%
+  Ratio: 3.36
+  TA: '67'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Nest Destroyer
+  Description: Destroy Pandoran nest
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7179
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '13'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Lair Destroyer
+  Description: Destroy Pandoran lair
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1742
+  Percentage of Gamers: 13%
+  Ratio: 2.81
+  TA: '56'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Citadel Destroyer
+  Description: Destroy Pandoran citadel
+  GS: '30'
+  Guide: true
+  Number of Gamers: 662
+  Percentage of Gamers: 5%
+  Ratio: 4.57
+  TA: '137'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Buggy
+- Achievement Name: Claim all the Loot
+  Description: Retrieve all resources from a scavenging mission
+  GS: '10'
+  Guide: true
+  Number of Gamers: 6478
+  Percentage of Gamers: 47%
+  Ratio: 1.46
+  TA: '14'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Master Spy
+  Description: Steal a research
+  GS: '10'
+  Guide: false
+  Number of Gamers: 698
+  Percentage of Gamers: 5%
+  Ratio: 4.46
+  TA: '44'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Scientific Rigor
+  Description: Complete all phoenix research projects
+  GS: '20'
+  Guide: true
+  Number of Gamers: 42
+  Percentage of Gamers: 0%
+  Ratio: 18.11
+  TA: '362'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Faction Researcher
+  Description: Complete all research projects of one faction
+  GS: '30'
+  Guide: false
+  Number of Gamers: 425
+  Percentage of Gamers: 3%
+  Ratio: 5.73
+  TA: '172'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Scylla Thriller
+  Description: Complete Scylla Vivisection
+  GS: '20'
+  Guide: true
+  Number of Gamers: 412
+  Percentage of Gamers: 3%
+  Ratio: 5.79
+  TA: '115'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Master Scientist
+  Description: Complete all research projects (don't have to be in the same game)
+  GS: '50'
+  Guide: false
+  Number of Gamers: 39
+  Percentage of Gamers: 0%
+  Ratio: 19.04
+  TA: '952'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Super Soldier
+  Description: Max out the base stats of a soldier
+  GS: '30'
+  Guide: true
+  Number of Gamers: 790
+  Percentage of Gamers: 6%
+  Ratio: 4.18
+  TA: '125'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Class Creator
+  Description: Obtain solders of each dual class combination (don't have to be in
+    the same game)
+  GS: '20'
+  Guide: true
+  Number of Gamers: 97
+  Percentage of Gamers: 1%
+  Ratio: 12.1
+  TA: '242'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Buggy
+- Achievement Name: On a Roll
+  Description: Kill 3 enemies in a single turn, with a single soldier, without explosives
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2442
+  Percentage of Gamers: 18%
+  Ratio: 2.38
+  TA: '47'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Flawless Mission
+  Description: Beat a haven defense mission with no civilian deaths or no structural
+    damage
+  GS: '30'
+  Guide: false
+  Number of Gamers: 6960
+  Percentage of Gamers: 50%
+  Ratio: 1.4
+  TA: '42'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Rack 'em Up
+  Description: Kill 500 Pandorans (does not have to be in same game)
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1241
+  Percentage of Gamers: 9%
+  Ratio: 3.35
+  TA: '67'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Splat
+  Description: Cause an enemy to fall to its death
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1377
+  Percentage of Gamers: 10%
+  Ratio: 3.17
+  TA: '63'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: MedEvac
+  Description: Evacuate a soldier who is bleeding
+  GS: '20'
+  Guide: true
+  Number of Gamers: 5788
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '30'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Free a Mind
+  Description: Kill a Siren when she has someone under mind control
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1675
+  Percentage of Gamers: 12%
+  Ratio: 2.87
+  TA: '57'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Under my Thumb
+  Description: Mind control 3 enemies at the same time with the same priest
+  GS: '20'
+  Guide: true
+  Number of Gamers: 144
+  Percentage of Gamers: 1%
+  Ratio: 9.88
+  TA: '197'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: I Can Do Everything
+  Description: Use every character skill (don't have to be in the same game)
+  GS: '20'
+  Guide: true
+  Number of Gamers: 103
+  Percentage of Gamers: 1%
+  Ratio: 11.62
+  TA: '232'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Buggy
+- Achievement Name: First Base
+  Description: Complete the tutorial
+  GS: '10'
+  Guide: true
+  Number of Gamers: 11884
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '10'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Fragger Interceptor
+  Description: Kill a mindfragger with overwatch when it is jumping on someone's face
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1723
+  Percentage of Gamers: 12%
+  Ratio: 2.83
+  TA: '85'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Friends with Everyone
+  Description: Reach allied reputation with all factions (don't have to be in the
+    same game)
+  GS: '30'
+  Guide: true
+  Number of Gamers: 265
+  Percentage of Gamers: 2%
+  Ratio: 7.28
+  TA: '218'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 7.651
+Base TA: 7651
+Delisted: false
+Developer: Snapshot Games
+Game Name: Phoenix Point
+Genres: Strategy, Turn Based
+Install Size: 32750.0
+Number of Completions: 18
+Number of Gamers: 13872
+Overall Completion Time:
+- 200.0
+- 300.0
+Overall GS: 1000
+Overall Ratio: 7.651
+Overall TA: 7651
+PDU: 0
+Percentage Completed: 0.13
+Publisher: Snapshot Games
+Release Date: 19 December 2019
+Server Closure: false
+Site Rating: 3.64
+Update Achievements: []
+Walkthrough: false
