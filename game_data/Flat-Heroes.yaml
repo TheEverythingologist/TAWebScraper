@@ -1,0 +1,585 @@
+Add On Achievements: []
+Base Completion Time:
+- 32
+- 33
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Fireball
+  Description: Perform a "Dash Attack" five times in the same play session
+  GS: '10'
+  Guide: true
+  Number of Gamers: 236
+  Percentage of Gamers: 60%
+  Ratio: 1.28
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Be water, my friend
+  Description: Perform a "Triple Dash" five times in the same play session
+  GS: '10'
+  Guide: false
+  Number of Gamers: 264
+  Percentage of Gamers: 67%
+  Ratio: 1.21
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Black Belt
+  Description: Perform a Dash - Levitation - Dash Attack
+  GS: '20'
+  Guide: true
+  Number of Gamers: 30
+  Percentage of Gamers: 8%
+  Ratio: 3.6
+  TA: '72'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Killing Spree
+  Description: Perform 3 Triple Kills on battle mode in the same play session
+  GS: '10'
+  Guide: false
+  Number of Gamers: 19
+  Percentage of Gamers: 5%
+  Ratio: 4.52
+  TA: '45'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Floor is Lava
+  Description: Don't touch any surface for 10 seconds
+  GS: '20'
+  Guide: true
+  Number of Gamers: 55
+  Percentage of Gamers: 14%
+  Ratio: 2.65
+  TA: '53'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Bubble Party
+  Description: Kill 100 bubbles in a combo
+  GS: '10'
+  Guide: true
+  Number of Gamers: 59
+  Percentage of Gamers: 15%
+  Ratio: 2.56
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Snakecharmer
+  Description: Kill 30 arrows with a single attack
+  GS: '20'
+  Guide: true
+  Number of Gamers: 22
+  Percentage of Gamers: 6%
+  Ratio: 4.2
+  TA: '84'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Air Slash
+  Description: Kill a tracer while on air
+  GS: '10'
+  Guide: false
+  Number of Gamers: 174
+  Percentage of Gamers: 44%
+  Ratio: 1.49
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Ambush
+  Description: Kill 4 tracers in a single attack
+  GS: '20'
+  Guide: true
+  Number of Gamers: 45
+  Percentage of Gamers: 11%
+  Ratio: 2.94
+  TA: '58'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Oh, no
+  Description: Oh, no
+  GS: '10'
+  Guide: true
+  Number of Gamers: 25
+  Percentage of Gamers: 6%
+  Ratio: 3.94
+  TA: '39'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Dash Crash
+  Description: Defeat the World 1 Boss
+  GS: '10'
+  Guide: true
+  Number of Gamers: 374
+  Percentage of Gamers: 95%
+  Ratio: 1.01
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Snake Eyes
+  Description: Defeat the World 2 Boss
+  GS: '10'
+  Guide: false
+  Number of Gamers: 290
+  Percentage of Gamers: 74%
+  Ratio: 1.15
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: The King of Flat
+  Description: Defeat the World 3 Boss
+  GS: '10'
+  Guide: false
+  Number of Gamers: 239
+  Percentage of Gamers: 61%
+  Ratio: 1.27
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Hit That Ball
+  Description: Defeat the World 4 Boss
+  GS: '10'
+  Guide: false
+  Number of Gamers: 194
+  Percentage of Gamers: 49%
+  Ratio: 1.41
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Eat That Apple
+  Description: Defeat the World 5 Boss
+  GS: '10'
+  Guide: false
+  Number of Gamers: 155
+  Percentage of Gamers: 39%
+  Ratio: 1.58
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Tornado Chaser
+  Description: Defeat the World 6 Boss
+  GS: '10'
+  Guide: false
+  Number of Gamers: 107
+  Percentage of Gamers: 27%
+  Ratio: 1.9
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Bomberman
+  Description: Defeat the World 7 Boss
+  GS: '10'
+  Guide: false
+  Number of Gamers: 92
+  Percentage of Gamers: 23%
+  Ratio: 2.05
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: The Colossus
+  Description: Defeat the World 8 Boss
+  GS: '10'
+  Guide: false
+  Number of Gamers: 72
+  Percentage of Gamers: 18%
+  Ratio: 2.32
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Pim Pam Pum
+  Description: Defeat the World 9 Boss
+  GS: '10'
+  Guide: false
+  Number of Gamers: 53
+  Percentage of Gamers: 13%
+  Ratio: 2.7
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Rogue
+  Description: Defeat the World 10 Boss
+  GS: '50'
+  Guide: false
+  Number of Gamers: 37
+  Percentage of Gamers: 9%
+  Ratio: 3.24
+  TA: '162'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Dash Crash - Hero Edition
+  Description: Defeat the Hero World 1 Boss
+  GS: '20'
+  Guide: false
+  Number of Gamers: 48
+  Percentage of Gamers: 12%
+  Ratio: 2.84
+  TA: '56'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Snake Eyes - Hero Edition
+  Description: Defeat the Hero World 2 Boss
+  GS: '20'
+  Guide: false
+  Number of Gamers: 39
+  Percentage of Gamers: 10%
+  Ratio: 3.15
+  TA: '63'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: The King of Flat - Hero Edition
+  Description: Defeat the Hero World 3 Boss
+  GS: '20'
+  Guide: false
+  Number of Gamers: 36
+  Percentage of Gamers: 9%
+  Ratio: 3.28
+  TA: '65'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Hit That Ball - Hero Edition
+  Description: Defeat the Hero World 4 Boss
+  GS: '20'
+  Guide: false
+  Number of Gamers: 30
+  Percentage of Gamers: 8%
+  Ratio: 3.6
+  TA: '72'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Eat That Apple - Hero Edition
+  Description: Defeat the Hero World 5 Boss
+  GS: '20'
+  Guide: false
+  Number of Gamers: 27
+  Percentage of Gamers: 7%
+  Ratio: 3.79
+  TA: '75'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Tornado Chaser - Hero Edition
+  Description: Defeat the Hero World 6 Boss
+  GS: '20'
+  Guide: false
+  Number of Gamers: 21
+  Percentage of Gamers: 5%
+  Ratio: 4.3
+  TA: '86'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Bomberman - Hero Edition
+  Description: Defeat the Hero World 7 Boss
+  GS: '20'
+  Guide: false
+  Number of Gamers: 25
+  Percentage of Gamers: 6%
+  Ratio: 3.94
+  TA: '78'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: The Colossus - Hero Edition
+  Description: Defeat the Hero World 8 Boss
+  GS: '20'
+  Guide: false
+  Number of Gamers: 22
+  Percentage of Gamers: 6%
+  Ratio: 4.2
+  TA: '84'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Pim Pam Pum - Hero Edition
+  Description: Defeat the Hero World 9 Boss
+  GS: '20'
+  Guide: false
+  Number of Gamers: 20
+  Percentage of Gamers: 5%
+  Ratio: 4.41
+  TA: '88'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Rogue - Hero Edition
+  Description: Defeat the Hero World 10 Boss
+  GS: '100'
+  Guide: true
+  Number of Gamers: 17
+  Percentage of Gamers: 4%
+  Ratio: 4.78
+  TA: '478'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Quite The Hero
+  Description: Survive longer than 4 minutes on mix survival
+  GS: '10'
+  Guide: false
+  Number of Gamers: 36
+  Percentage of Gamers: 9%
+  Ratio: 3.28
+  TA: '32'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Time/Date
+- Achievement Name: Vertigo
+  Description: Survive longer than 2 minutes on vertical survival
+  GS: '10'
+  Guide: false
+  Number of Gamers: 28
+  Percentage of Gamers: 7%
+  Ratio: 3.72
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Time/Date
+- Achievement Name: Apprentice
+  Description: Survive longer than 1:50 minutes on phases survival
+  GS: '10'
+  Guide: false
+  Number of Gamers: 27
+  Percentage of Gamers: 7%
+  Ratio: 3.79
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Time/Date
+- Achievement Name: Warrior Trials
+  Description: Survive longer than 3:30 minutes on phases survival
+  GS: '20'
+  Guide: false
+  Number of Gamers: 13
+  Percentage of Gamers: 3%
+  Ratio: 5.47
+  TA: '109'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Time/Date
+- Achievement Name: Lone Wolf
+  Description: Survive longer than 90 seconds on solo survival
+  GS: '10'
+  Guide: false
+  Number of Gamers: 20
+  Percentage of Gamers: 5%
+  Ratio: 4.41
+  TA: '44'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: Persistence
+  Description: Survive longer than 2 minutes on steep survival
+  GS: '10'
+  Guide: false
+  Number of Gamers: 13
+  Percentage of Gamers: 3%
+  Ratio: 5.47
+  TA: '54'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Time/Date
+- Achievement Name: Yondu
+  Description: Survive longer than 90 seconds on arrows survival
+  GS: '20'
+  Guide: false
+  Number of Gamers: 15
+  Percentage of Gamers: 4%
+  Ratio: 5.09
+  TA: '101'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Time/Date
+- Achievement Name: Dear Diary
+  Description: Play "Daily" suvival for a full week.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 16
+  Percentage of Gamers: 4%
+  Ratio: 4.93
+  TA: '49'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Time/Date
+- Achievement Name: Shepherd
+  Description: Keep at least 1 arrow alive for the first 30 seconds on solo
+  GS: '30'
+  Guide: false
+  Number of Gamers: 14
+  Percentage of Gamers: 4%
+  Ratio: 5.27
+  TA: '158'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: Pacifist
+  Description: Survive 60 seconds on arrows survival without attacking
+  GS: '60'
+  Guide: false
+  Number of Gamers: 15
+  Percentage of Gamers: 4%
+  Ratio: 5.09
+  TA: '305'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Time/Date
+- Achievement Name: Explorer
+  Description: Unlock All Modes
+  GS: '50'
+  Guide: false
+  Number of Gamers: 17
+  Percentage of Gamers: 4%
+  Ratio: 4.78
+  TA: '239'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Colorful
+  Description: Unlock All Palettes
+  GS: '50'
+  Guide: false
+  Number of Gamers: 14
+  Percentage of Gamers: 4%
+  Ratio: 5.27
+  TA: '263'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Path of the Hero
+  Description: Complete all regular levels
+  GS: '50'
+  Guide: false
+  Number of Gamers: 37
+  Percentage of Gamers: 9%
+  Ratio: 3.24
+  TA: '162'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Flat Hero
+  Description: Complete all levels
+  GS: '100'
+  Guide: false
+  Number of Gamers: 20
+  Percentage of Gamers: 5%
+  Ratio: 4.41
+  TA: '441'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+Base Ratio: 3.903
+Base TA: 3903
+Delisted: false
+Developer: Parallel Circles
+Game Name: Flat Heroes
+Genres: Platformer
+Install Size: 350.0
+Number of Completions: 9
+Number of Gamers: 393
+Overall Completion Time:
+- 32
+- 33
+Overall GS: 1000
+Overall Ratio: 3.903
+Overall TA: 3903
+PDU: 0
+Percentage Completed: 2.29
+Publisher: Parallel Circles
+Release Date: 24 August 2022
+Server Closure: false
+Site Rating: 2.94
+Update Achievements: []
+Walkthrough: false

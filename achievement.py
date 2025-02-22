@@ -80,7 +80,11 @@ class Achievement:
     
     def find_tags(self, tag_dict):
         flg = self.li_style.find("i", class_=lambda c: c and "flg" in c)
-        flg = flg['class'][0]
+        flg = flg
+        if flg is None:
+            return []
+        else:
+            flg = flg['class'][0]
         if flg in tag_dict.tagdict:
             tags = tag_dict.tagdict[flg]
         else:

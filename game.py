@@ -17,6 +17,9 @@ class Game:
         self.update_achievements: list[Achievement] = []
         self.page_info = _soup.find('div', {'class': "page ta"})
         self.game_name = self.find_game_name()
+        if self.game_name == -1:
+            self.unreleased == True
+            return None
 
         self.parse_all_achievements(_tag_dict)
 
@@ -50,7 +53,11 @@ class Game:
         self.data_dict = self.convert_to_dict()
 
     def find_game_name(self):
-        return (self.page_info.find('h2')).text
+        try:
+            return (self.page_info.find('h2')).text
+        except AttributeError:
+            print(f"Problem url: {self.url}")
+            return -1
 
     def find_overall_ta(self):
         try:
@@ -284,7 +291,7 @@ class Game:
                 minutes += int(time_list[2])
             elif len(time_list) == 2:
                 # time is less than 1 hour
-                minutes += time_list[0]
+                minutes += int(time_list[0])
             times += 1
         if times == 0:
             self.unreleased == True

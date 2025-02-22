@@ -1,0 +1,747 @@
+Add On Achievements: []
+Base Completion Time:
+- 300.0
+- 500.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Dirty hands
+  Description: Fix your first car
+  GS: '5'
+  Guide: false
+  Number of Gamers: 13899
+  Percentage of Gamers: 78%
+  Ratio: 1.13
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Road test
+  Description: Visit Test Track
+  GS: '10'
+  Guide: true
+  Number of Gamers: 15621
+  Percentage of Gamers: 87%
+  Ratio: 1.06
+  TA: '10'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Fine Savings
+  Description: Collect 10 000$
+  GS: '10'
+  Guide: true
+  Number of Gamers: 11056
+  Percentage of Gamers: 62%
+  Ratio: 1.26
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Resilient businessman
+  Description: Collect 100 000$
+  GS: '20'
+  Guide: false
+  Number of Gamers: 6767
+  Percentage of Gamers: 38%
+  Ratio: 1.62
+  TA: '32'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Fair millionaire
+  Description: Collect 1 000 000$
+  GS: '40'
+  Guide: true
+  Number of Gamers: 1444
+  Percentage of Gamers: 8%
+  Ratio: 3.51
+  TA: '140'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: More than enough is too much
+  Description: Pour too much oil
+  GS: '10'
+  Guide: true
+  Number of Gamers: 15602
+  Percentage of Gamers: 87%
+  Ratio: 1.06
+  TA: '10'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: For sale
+  Description: Renovate and sell a car
+  GS: '5'
+  Guide: true
+  Number of Gamers: 5641
+  Percentage of Gamers: 32%
+  Ratio: 1.77
+  TA: '8'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: I know how to use it
+  Description: Unlock tablet
+  GS: '5'
+  Guide: true
+  Number of Gamers: 12897
+  Percentage of Gamers: 72%
+  Ratio: 1.17
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: First blood
+  Description: Pour old oil on the floor
+  GS: '10'
+  Guide: true
+  Number of Gamers: 11857
+  Percentage of Gamers: 66%
+  Ratio: 1.22
+  TA: '12'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Regenerator
+  Description: Fix 100 car parts (exclude body)
+  GS: '10'
+  Guide: true
+  Number of Gamers: 8491
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Experienced regenerator
+  Description: Fix 500 car parts (exclude body)
+  GS: '20'
+  Guide: false
+  Number of Gamers: 4230
+  Percentage of Gamers: 24%
+  Ratio: 2.05
+  TA: '41'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Master regenerator
+  Description: Fix 1 000 car parts (exclude body)
+  GS: '40'
+  Guide: false
+  Number of Gamers: 2937
+  Percentage of Gamers: 16%
+  Ratio: 2.46
+  TA: '98'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: No way...
+  Description: Finish undone order
+  GS: '10'
+  Guide: true
+  Number of Gamers: 8386
+  Percentage of Gamers: 47%
+  Ratio: 1.45
+  TA: '14'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: More experience!
+  Description: Finish order with experience bonus
+  GS: '5'
+  Guide: true
+  Number of Gamers: 8239
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '7'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: More money!
+  Description: Finish order with money bonus
+  GS: '5'
+  Guide: false
+  Number of Gamers: 8261
+  Percentage of Gamers: 46%
+  Ratio: 1.46
+  TA: '7'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Appearance matters
+  Description: Paint car
+  GS: '5'
+  Guide: true
+  Number of Gamers: 8591
+  Percentage of Gamers: 48%
+  Ratio: 1.43
+  TA: '7'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Music admirer
+  Description: Listen 100 songs
+  GS: '10'
+  Guide: true
+  Number of Gamers: 9716
+  Percentage of Gamers: 54%
+  Ratio: 1.35
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Hungry for music
+  Description: Listen 1 000 songs
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1791
+  Percentage of Gamers: 10%
+  Ratio: 3.15
+  TA: '63'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Connoisseur
+  Description: Listen 10 000 songs
+  GS: '40'
+  Guide: true
+  Number of Gamers: 81
+  Percentage of Gamers: 0%
+  Ratio: 15.2
+  TA: '608'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Time Consuming
+- Achievement Name: Scrap of metal
+  Description: Buy car from junkyard
+  GS: '5'
+  Guide: true
+  Number of Gamers: 9282
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '6'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: I can afford that
+  Description: Spend 10 000$ in shop
+  GS: '10'
+  Guide: false
+  Number of Gamers: 13539
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Shop
+- Achievement Name: Not a big deal
+  Description: Spend 100 000$ in shop
+  GS: '20'
+  Guide: false
+  Number of Gamers: 8778
+  Percentage of Gamers: 49%
+  Ratio: 1.42
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Shop
+- Achievement Name: Prices doesn't matter to me
+  Description: Spend 1 000 000$ in shop
+  GS: '40'
+  Guide: true
+  Number of Gamers: 2203
+  Percentage of Gamers: 12%
+  Ratio: 2.84
+  TA: '113'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Shop
+- Achievement Name: Novice
+  Description: Unscrew 1 000 bolts
+  GS: '10'
+  Guide: false
+  Number of Gamers: 9513
+  Percentage of Gamers: 53%
+  Ratio: 1.36
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Skilled bolt remover
+  Description: Unscrew 100 000 bolts
+  GS: '20'
+  Guide: false
+  Number of Gamers: 55
+  Percentage of Gamers: 0%
+  Ratio: 18.15
+  TA: '363'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Time Consuming
+- Achievement Name: Wrench master
+  Description: Unscrew 500 000 bolts
+  GS: '40'
+  Guide: true
+  Number of Gamers: 30
+  Percentage of Gamers: 0%
+  Ratio: 24.76
+  TA: '990'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Time Consuming
+- Achievement Name: Inside matters
+  Description: Detail interior of car
+  GS: '5'
+  Guide: true
+  Number of Gamers: 7339
+  Percentage of Gamers: 41%
+  Ratio: 1.55
+  TA: '7'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Racer
+  Description: Visit Racetrack
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7401
+  Percentage of Gamers: 41%
+  Ratio: 1.55
+  TA: '15'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Skilled vulcanizer
+  Description: Balance 20 tires
+  GS: '10'
+  Guide: true
+  Number of Gamers: 8576
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Experienced vulcanizer
+  Description: Balance 100 tires
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2614
+  Percentage of Gamers: 15%
+  Ratio: 2.61
+  TA: '52'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Flawless vulcanizer
+  Description: Balance 1 000 tires
+  GS: '40'
+  Guide: true
+  Number of Gamers: 141
+  Percentage of Gamers: 1%
+  Ratio: 11.31
+  TA: '452'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Screws on fire
+  Description: Reach level 3 of unscrewing
+  GS: '5'
+  Guide: true
+  Number of Gamers: 9672
+  Percentage of Gamers: 54%
+  Ratio: 1.35
+  TA: '6'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Auctioneer
+  Description: Buy car from auction
+  GS: '5'
+  Guide: true
+  Number of Gamers: 8080
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '7'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Like a boss
+  Description: Reach level 3 of garage expansion
+  GS: '5'
+  Guide: true
+  Number of Gamers: 9049
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '7'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Loved
+  Description: Reach level 3 of discount
+  GS: '5'
+  Guide: true
+  Number of Gamers: 8136
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '7'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Gadgeteer
+  Description: Unlock all the tools
+  GS: '5'
+  Guide: true
+  Number of Gamers: 9643
+  Percentage of Gamers: 54%
+  Ratio: 1.35
+  TA: '6'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Like new
+  Description: Repaint a car to factory color
+  GS: '5'
+  Guide: true
+  Number of Gamers: 5788
+  Percentage of Gamers: 32%
+  Ratio: 1.75
+  TA: '8'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Rich guy
+  Description: Buy new car in car salon
+  GS: '5'
+  Guide: true
+  Number of Gamers: 5500
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '8'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: American Dream
+  Description: Fix your first Bolt Hellcat
+  GS: '5'
+  Guide: true
+  Number of Gamers: 2861
+  Percentage of Gamers: 16%
+  Ratio: 2.49
+  TA: '12'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Scratch remover
+  Description: Fix 100 car body parts
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2582
+  Percentage of Gamers: 14%
+  Ratio: 2.62
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: No more dents
+  Description: Fix 500 car body parts
+  GS: '20'
+  Guide: false
+  Number of Gamers: 944
+  Percentage of Gamers: 5%
+  Ratio: 4.34
+  TA: '86'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Renowned rust remover
+  Description: Fix 1 000 car body parts
+  GS: '40'
+  Guide: true
+  Number of Gamers: 578
+  Percentage of Gamers: 3%
+  Ratio: 5.56
+  TA: '222'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: The Dustman
+  Description: Buy 3 cars from one barn
+  GS: '5'
+  Guide: true
+  Number of Gamers: 3447
+  Percentage of Gamers: 19%
+  Ratio: 2.27
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Skilled mechanic
+  Description: Examine 250 parts
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2253
+  Percentage of Gamers: 13%
+  Ratio: 2.81
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Seasoned mechanic
+  Description: Examine 1 000 parts
+  GS: '20'
+  Guide: false
+  Number of Gamers: 690
+  Percentage of Gamers: 4%
+  Ratio: 5.09
+  TA: '101'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Well educated mechanic
+  Description: Examine 10 000 parts
+  GS: '40'
+  Guide: true
+  Number of Gamers: 124
+  Percentage of Gamers: 1%
+  Ratio: 12.02
+  TA: '481'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: New car dealer in a town
+  Description: Sell 25 cars
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2121
+  Percentage of Gamers: 12%
+  Ratio: 2.89
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Shop
+- Achievement Name: Developed dealer
+  Description: Sell 100 cars
+  GS: '20'
+  Guide: true
+  Number of Gamers: 637
+  Percentage of Gamers: 4%
+  Ratio: 5.3
+  TA: '106'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Shop
+- Achievement Name: Almost a manufacturer
+  Description: Sell 1 000 cars
+  GS: '40'
+  Guide: true
+  Number of Gamers: 80
+  Percentage of Gamers: 0%
+  Ratio: 15.0
+  TA: '600'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Shop
+- Achievement Name: Parking boy
+  Description: Unlock 10 levels of parking
+  GS: '40'
+  Guide: true
+  Number of Gamers: 2965
+  Percentage of Gamers: 17%
+  Ratio: 2.45
+  TA: '98'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: I don't think so....
+  Description: Discard 100 orders
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1869
+  Percentage of Gamers: 10%
+  Ratio: 3.09
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Is it real?
+  Description: Discard 500 orders
+  GS: '20'
+  Guide: false
+  Number of Gamers: 958
+  Percentage of Gamers: 5%
+  Ratio: 4.32
+  TA: '86'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: It must be a joke
+  Description: Discard 1 000 orders
+  GS: '40'
+  Guide: true
+  Number of Gamers: 654
+  Percentage of Gamers: 4%
+  Ratio: 5.22
+  TA: '208'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Kinda naked
+  Description: Drop to 0$
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1544
+  Percentage of Gamers: 9%
+  Ratio: 3.39
+  TA: '16'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Racer boy
+  Description: Finish lap with time under 1 minute
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1970
+  Percentage of Gamers: 11%
+  Ratio: 3.0
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: GAME OVER
+  Description: Finish all the special missions
+  GS: '40'
+  Guide: true
+  Number of Gamers: 621
+  Percentage of Gamers: 3%
+  Ratio: 5.36
+  TA: '214'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Cars are my passion
+  Description: Fix 375 cars
+  GS: '10'
+  Guide: false
+  Number of Gamers: 237
+  Percentage of Gamers: 1%
+  Ratio: 8.7
+  TA: '87'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Cars are my life
+  Description: Fix 750 cars
+  GS: '20'
+  Guide: false
+  Number of Gamers: 84
+  Percentage of Gamers: 0%
+  Ratio: 14.82
+  TA: '296'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Time Consuming
+- Achievement Name: Cars are everything
+  Description: Fix 1 500 cars
+  GS: '40'
+  Guide: true
+  Number of Gamers: 48
+  Percentage of Gamers: 0%
+  Ratio: 19.66
+  TA: '786'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Time Consuming
+- Achievement Name: Good old times
+  Description: Fix 100 old cars
+  GS: '5'
+  Guide: true
+  Number of Gamers: 586
+  Percentage of Gamers: 3%
+  Ratio: 5.52
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+Base Ratio: 6.783
+Base TA: 6783
+Delisted: false
+Developer: Red Dot Games
+Game Name: Car Mechanic Simulator
+Genres: Simulation
+Install Size: 9240.0
+Number of Completions: 24
+Number of Gamers: 17862
+Overall Completion Time:
+- 300.0
+- 500.0
+Overall GS: 1000
+Overall Ratio: 6.783
+Overall TA: 6783
+PDU: 0
+Percentage Completed: 0.13
+Publisher: PlayWay
+Release Date: 25 June 2019
+Server Closure: false
+Site Rating: 3.9
+Update Achievements: []
+Walkthrough: false

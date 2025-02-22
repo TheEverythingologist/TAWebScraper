@@ -1,0 +1,586 @@
+Add On Achievements: []
+Base Completion Time:
+- 233
+- 234
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Hit & Run
+  Description: Hit someone with your car
+  GS: '20'
+  Guide: false
+  Number of Gamers: 131
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Dexter Morgan
+  Description: Hit 100 people with your car
+  GS: '20'
+  Guide: false
+  Number of Gamers: 60
+  Percentage of Gamers: 43%
+  Ratio: 1.52
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Mega Maniac
+  Description: Hit 1000 people with your car
+  GS: '25'
+  Guide: false
+  Number of Gamers: 19
+  Percentage of Gamers: 14%
+  Ratio: 2.7
+  TA: '67'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: How Do You Even?
+  Description: Hit 10k people with your car
+  GS: '30'
+  Guide: false
+  Number of Gamers: 5
+  Percentage of Gamers: 4%
+  Ratio: 5.27
+  TA: '158'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Full Season
+  Description: Complete a Campaign
+  GS: '20'
+  Guide: false
+  Number of Gamers: 45
+  Percentage of Gamers: 32%
+  Ratio: 1.75
+  TA: '35'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Veteran
+  Description: Complete 5 Campaigns
+  GS: '30'
+  Guide: false
+  Number of Gamers: 14
+  Percentage of Gamers: 10%
+  Ratio: 3.15
+  TA: '94'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Pure Gold
+  Description: Finish Campaign Season in 1st place
+  GS: '25'
+  Guide: false
+  Number of Gamers: 45
+  Percentage of Gamers: 32%
+  Ratio: 1.75
+  TA: '43'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Stackable
+- Achievement Name: I Like It Rough
+  Description: Finish Campaign Season in Top 3 with Hard Difficulty
+  GS: '25'
+  Guide: false
+  Number of Gamers: 10
+  Percentage of Gamers: 7%
+  Ratio: 3.72
+  TA: '93'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Medium Rare
+  Description: Finish Campaign Season in Top 3 with Normal Difficulty
+  GS: '20'
+  Guide: false
+  Number of Gamers: 29
+  Percentage of Gamers: 21%
+  Ratio: 2.18
+  TA: '43'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Hardcore
+  Description: Finish Campaign Season in Top 3 in Hardcore Mode
+  GS: '30'
+  Guide: false
+  Number of Gamers: 7
+  Percentage of Gamers: 5%
+  Ratio: 4.45
+  TA: '133'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Astronaut
+  Description: Reach the depths of space!
+  GS: '30'
+  Guide: false
+  Number of Gamers: 7
+  Percentage of Gamers: 5%
+  Ratio: 4.45
+  TA: '133'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Mr. Mercedes
+  Description: Perform a 25x combo on pedestrians
+  GS: '20'
+  Guide: false
+  Number of Gamers: 6
+  Percentage of Gamers: 4%
+  Ratio: 4.81
+  TA: '96'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Things Went South
+  Description: Fail a Campaign
+  GS: '20'
+  Guide: false
+  Number of Gamers: 16
+  Percentage of Gamers: 11%
+  Ratio: 2.94
+  TA: '58'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Smoking Miracle
+  Description: Win a Campaign race with nearly wrecked car
+  GS: '30'
+  Guide: false
+  Number of Gamers: 74
+  Percentage of Gamers: 53%
+  Ratio: 1.37
+  TA: '41'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Twisted Metal
+  Description: Wreck a car in Campaign
+  GS: '20'
+  Guide: false
+  Number of Gamers: 99
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Grease Monkey
+  Description: Repair a nearly wrecked car in Campaign race
+  GS: '20'
+  Guide: false
+  Number of Gamers: 30
+  Percentage of Gamers: 21%
+  Ratio: 2.15
+  TA: '43'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: There Is No "I" In "Team"
+  Description: Win a Co-Op race in Campaign
+  GS: '20'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 3%
+  Ratio: 5.89
+  TA: '117'
+  Tags:
+  - Offline Mode
+  - Cooperative
+- Achievement Name: Party Time!
+  Description: Finish a race with 4 players
+  GS: '20'
+  Guide: false
+  Number of Gamers: 9
+  Percentage of Gamers: 6%
+  Ratio: 3.92
+  TA: '78'
+  Tags:
+  - Offline Mode
+  - Cooperative
+  - Versus
+- Achievement Name: Ultra Marathon
+  Description: Finish a race with 100 laps
+  GS: '30'
+  Guide: false
+  Number of Gamers: 20
+  Percentage of Gamers: 14%
+  Ratio: 2.63
+  TA: '79'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Drifter
+  Description: Drift for 10 seconds in a Campaign race
+  GS: '20'
+  Guide: false
+  Number of Gamers: 26
+  Percentage of Gamers: 19%
+  Ratio: 2.31
+  TA: '46'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Stackable
+- Achievement Name: Drift Master
+  Description: Drift for 30 seconds in a Campaign race
+  GS: '25'
+  Guide: false
+  Number of Gamers: 10
+  Percentage of Gamers: 7%
+  Ratio: 3.72
+  TA: '93'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Stackable
+- Achievement Name: Absolute Drift
+  Description: Drift for 1 minute in a Campaign race
+  GS: '30'
+  Guide: false
+  Number of Gamers: 10
+  Percentage of Gamers: 7%
+  Ratio: 3.72
+  TA: '111'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Stackable
+- Achievement Name: Grasshopper
+  Description: Jump 50 meters
+  GS: '20'
+  Guide: false
+  Number of Gamers: 93
+  Percentage of Gamers: 66%
+  Ratio: 1.22
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Evil Knievel
+  Description: Jump 100 meters
+  GS: '25'
+  Guide: false
+  Number of Gamers: 44
+  Percentage of Gamers: 31%
+  Ratio: 1.77
+  TA: '44'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Rocket Man
+  Description: Jump 150 meters
+  GS: '30'
+  Guide: false
+  Number of Gamers: 18
+  Percentage of Gamers: 13%
+  Ratio: 2.77
+  TA: '83'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: 1 KM
+  Description: Drive 1 KM
+  GS: '20'
+  Guide: false
+  Number of Gamers: 129
+  Percentage of Gamers: 92%
+  Ratio: 1.03
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: 5 KM
+  Description: Drive 5 KM
+  GS: '20'
+  Guide: false
+  Number of Gamers: 105
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: 10 KM
+  Description: Drive 10 KM
+  GS: '20'
+  Guide: false
+  Number of Gamers: 84
+  Percentage of Gamers: 60%
+  Ratio: 1.28
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Half Marathon
+  Description: Drive 21 KM
+  GS: '20'
+  Guide: false
+  Number of Gamers: 60
+  Percentage of Gamers: 43%
+  Ratio: 1.52
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Marathon
+  Description: Drive 42 KM
+  GS: '20'
+  Guide: false
+  Number of Gamers: 49
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '33'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: 100 KM
+  Description: Drive 100 KM
+  GS: '20'
+  Guide: false
+  Number of Gamers: 30
+  Percentage of Gamers: 21%
+  Ratio: 2.15
+  TA: '43'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: 1000 KM
+  Description: Drive 1000 KM
+  GS: '25'
+  Guide: false
+  Number of Gamers: 6
+  Percentage of Gamers: 4%
+  Ratio: 4.81
+  TA: '120'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: 10000 KM
+  Description: Drive 10000 KM
+  GS: '30'
+  Guide: false
+  Number of Gamers: 2
+  Percentage of Gamers: 1%
+  Ratio: 8.33
+  TA: '250'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Wonders of Medicine
+  Description: Get resurrected by medics after dying in Pedestrian mode
+  GS: '20'
+  Guide: false
+  Number of Gamers: 33
+  Percentage of Gamers: 24%
+  Ratio: 2.05
+  TA: '41'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Grand Theft Auto
+  Description: Get your car stolen in Campaign
+  GS: '20'
+  Guide: false
+  Number of Gamers: 3
+  Percentage of Gamers: 2%
+  Ratio: 6.8
+  TA: '136'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Transcended Racer
+  Description: Gain 100K XP
+  GS: '30'
+  Guide: false
+  Number of Gamers: 6
+  Percentage of Gamers: 4%
+  Ratio: 4.81
+  TA: '144'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: On Foot
+  Description: Participate in Campaign Race as a Pedestrian
+  GS: '20'
+  Guide: false
+  Number of Gamers: 41
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '36'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Millionaire
+  Description: Earn 1 million in cash in a single Campaign
+  GS: '30'
+  Guide: false
+  Number of Gamers: 9
+  Percentage of Gamers: 6%
+  Ratio: 3.92
+  TA: '117'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Max Damage
+  Description: Destroy an opponent car
+  GS: '20'
+  Guide: false
+  Number of Gamers: 79
+  Percentage of Gamers: 56%
+  Ratio: 1.32
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Destroyer
+  Description: Destroy 100 opponent cars
+  GS: '30'
+  Guide: false
+  Number of Gamers: 6
+  Percentage of Gamers: 4%
+  Ratio: 4.81
+  TA: '144'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Freedom
+  Description: Repay your debt to SOFACT
+  GS: '50'
+  Guide: false
+  Number of Gamers: 14
+  Percentage of Gamers: 10%
+  Ratio: 3.15
+  TA: '157'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+Base Ratio: 3.13
+Base TA: 3130
+Delisted: false
+Developer: Kodo Linija
+Game Name: Bloody Rally Show
+Genres: Arcade Racing, Automobile
+Install Size: 365.0
+Number of Completions: 1
+Number of Gamers: 140
+Overall Completion Time:
+- 233
+- 234
+Overall GS: 1000
+Overall Ratio: 3.13
+Overall TA: 3130
+PDU: 0
+Percentage Completed: 0.71
+Publisher: Digerati
+Release Date: 05 November 2021
+Server Closure: false
+Site Rating: 3.35
+Update Achievements: []
+Walkthrough: false

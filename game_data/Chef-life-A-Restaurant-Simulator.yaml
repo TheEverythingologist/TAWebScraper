@@ -1,0 +1,492 @@
+Add On Achievements: []
+Base Completion Time:
+- 199
+- 200
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: The Big Day
+  Description: This is it, the grand opening! Good luck!
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1200
+  Percentage of Gamers: 100%
+  Ratio: 1.0
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Sous-Chef
+  Description: Level 10! New recipes have been unlocked!
+  GS: '15'
+  Guide: false
+  Number of Gamers: 523
+  Percentage of Gamers: 43%
+  Ratio: 1.51
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Master Chef
+  Description: Level 20! New recipes have been unlocked!
+  GS: '30'
+  Guide: false
+  Number of Gamers: 263
+  Percentage of Gamers: 22%
+  Ratio: 2.13
+  TA: '64'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Culinary Legend
+  Description: Level 30! New recipes have been unlocked!
+  GS: '40'
+  Guide: false
+  Number of Gamers: 118
+  Percentage of Gamers: 10%
+  Ratio: 3.19
+  TA: '127'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Rising Star
+  Description: Your restaurant has been identified by the MICHELIN Guide as an up-and-coming
+    establishment! Bravo!
+  GS: '15'
+  Guide: false
+  Number of Gamers: 314
+  Percentage of Gamers: 26%
+  Ratio: 1.95
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: A Star is Born
+  Description: Your restaurant has received a MICHELIN Star! Congratulations!
+  GS: '40'
+  Guide: true
+  Number of Gamers: 46
+  Percentage of Gamers: 4%
+  Ratio: 5.1
+  TA: '204'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Foodie Favorite
+  Description: Your restaurant has received a Bib Gourmand from the MICHELIN Guide!
+    Congratulations!
+  GS: '40'
+  Guide: true
+  Number of Gamers: 37
+  Percentage of Gamers: 3%
+  Ratio: 5.69
+  TA: '227'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The Bigger the Better
+  Description: Extend the restaurant to its maximum size.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 159
+  Percentage of Gamers: 13%
+  Ratio: 2.74
+  TA: '82'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: The More the Merrier
+  Description: Host 20 customers during a service.
+  GS: '40'
+  Guide: false
+  Number of Gamers: 189
+  Percentage of Gamers: 16%
+  Ratio: 2.52
+  TA: '100'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Home Cook
+  Description: Learn and serve 10 different recipes.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 477
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Experienced in the Kitchen
+  Description: Learn and serve 30 different recipes.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 247
+  Percentage of Gamers: 21%
+  Ratio: 2.2
+  TA: '66'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Seasoned Chef
+  Description: Learn and serve 60 different recipes.
+  GS: '40'
+  Guide: false
+  Number of Gamers: 124
+  Percentage of Gamers: 10%
+  Ratio: 3.11
+  TA: '124'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Well-Stocked Kitchen
+  Description: Purchase 10 workstations.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 329
+  Percentage of Gamers: 27%
+  Ratio: 1.91
+  TA: '57'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Kitchen Model
+  Description: Purchase 10 clothing items and accessories.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 138
+  Percentage of Gamers: 11%
+  Ratio: 2.95
+  TA: '88'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: French Flair
+  Description: Decorate the restaurant with the Bistro collection.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 283
+  Percentage of Gamers: 24%
+  Ratio: 2.06
+  TA: '41'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Italian Style
+  Description: Decorate the restaurant with the Trattoria collection.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 183
+  Percentage of Gamers: 15%
+  Ratio: 2.56
+  TA: '51'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Rolling in Dough
+  Description: Achieve a balance of over 10,000 coins.
+  GS: '40'
+  Guide: false
+  Number of Gamers: 137
+  Percentage of Gamers: 11%
+  Ratio: 2.96
+  TA: '118'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative
+- Achievement Name: Haute Cuisine
+  Description: Offer a menu consisting solely of gastronomic dishes.
+  GS: '40'
+  Guide: false
+  Number of Gamers: 142
+  Percentage of Gamers: 12%
+  Ratio: 2.9
+  TA: '116'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: S is for Scrumptious
+  Description: Serve 50 dishes with an S or S+ grade to customers.
+  GS: '40'
+  Guide: false
+  Number of Gamers: 508
+  Percentage of Gamers: 42%
+  Ratio: 1.53
+  TA: '61'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Satisfaction Guaranteed
+  Description: Receive a maximum rating for the service from 25 customers.
+  GS: '40'
+  Guide: false
+  Number of Gamers: 382
+  Percentage of Gamers: 32%
+  Ratio: 1.77
+  TA: '70'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "Stella d\u2019Italia"
+  Description: Offer a menu consisting of 5 pasta dishes.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 85
+  Percentage of Gamers: 7%
+  Ratio: 3.75
+  TA: '56'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Course of Cthulhu
+  Description: Offer a menu consisting of 5 dishes that contain squid.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 55
+  Percentage of Gamers: 5%
+  Ratio: 4.67
+  TA: '93'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Say Cheese!
+  Description: Offer a menu consisting of 5 dishes that contain cheese.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 107
+  Percentage of Gamers: 9%
+  Ratio: 3.35
+  TA: '50'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Holy Cow!
+  Description: Offer a menu consisting of 5 dishes that contain all 4 cuts of a slab
+    of beef.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 157
+  Percentage of Gamers: 13%
+  Ratio: 2.76
+  TA: '55'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Teamwork
+  Description: Offer a menu consisting of the 3 signature dishes of your chefs.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 67
+  Percentage of Gamers: 6%
+  Ratio: 4.23
+  TA: '169'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Reinventing the Meal
+  Description: "Offer a menu featuring upgraded versions of Sole meuni\xE8re, Beef\
+    \ and potatoes, and Caprese salad."
+  GS: '20'
+  Guide: true
+  Number of Gamers: 53
+  Percentage of Gamers: 4%
+  Ratio: 4.76
+  TA: '95'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Baking Up a Storm
+  Description: Offer a menu consisting of 5 dishes that require using the oven.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 66
+  Percentage of Gamers: 5%
+  Ratio: 4.26
+  TA: '63'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Pyrotechnician
+  Description: "Serve a flamb\xE9ed dish for the first time."
+  GS: '15'
+  Guide: true
+  Number of Gamers: 158
+  Percentage of Gamers: 13%
+  Ratio: 2.75
+  TA: '41'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Sweet Roll
+  Description: Serve a brioche for the first time.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 68
+  Percentage of Gamers: 6%
+  Ratio: 4.2
+  TA: '63'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: 'Codename: Arrabbiata'
+  Description: Serve Arrabbiata pasta for the first time.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 222
+  Percentage of Gamers: 18%
+  Ratio: 2.32
+  TA: '34'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: So Clean You Can Eat Off the Floor
+  Description: Maintain a high level of hygiene in the restaurant for 5 days in a
+    row.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 489
+  Percentage of Gamers: 41%
+  Ratio: 1.56
+  TA: '31'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Chef, Yes Chef!
+  Description: Keep all three of your chefs at a happy morale level for 10 days in
+    a row.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 111
+  Percentage of Gamers: 9%
+  Ratio: 3.28
+  TA: '98'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: You're the Expert!
+  Description: Get one of your chefs to prepare 10 dishes related to their specialty.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 572
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '28'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Dream Team
+  Description: Finish a service with a full team of 3 chefs.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 219
+  Percentage of Gamers: 18%
+  Ratio: 2.34
+  TA: '35'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Next Level Cuisine
+  Description: Upgrade 10 recipes.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 289
+  Percentage of Gamers: 24%
+  Ratio: 2.03
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Eco Warrior
+  Description: Solve 10 dilemmas that raise your Responsibility level.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 66
+  Percentage of Gamers: 5%
+  Ratio: 4.26
+  TA: '63'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Rise to the Challenge
+  Description: Complete 3 challenges from Chef Hyppolite.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 57
+  Percentage of Gamers: 5%
+  Ratio: 4.59
+  TA: '137'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Culinary Arts
+  Description: Offer a menu consisting of 5 dishes with a custom plating.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 152
+  Percentage of Gamers: 13%
+  Ratio: 2.81
+  TA: '42'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Leaning Tower of Pizza
+  Description: Successfully create a plating with all the elements stacked high.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 129
+  Percentage of Gamers: 11%
+  Ratio: 3.05
+  TA: '61'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Perfectionist
+  Description: Create a custom plating for 20 different dishes.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 156
+  Percentage of Gamers: 13%
+  Ratio: 2.77
+  TA: '55'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+Base Ratio: 2.984
+Base TA: 2984
+Delisted: false
+Developer: Cyanide Studio
+Game Name: 'Chef Life: A Restaurant Simulator'
+Genres: Management
+Install Size: 3420.0
+Number of Completions: 19
+Number of Gamers: 1204
+Overall Completion Time:
+- 199
+- 200
+Overall GS: 1000
+Overall Ratio: 2.984
+Overall TA: 2984
+PDU: 0
+Percentage Completed: 1.58
+Publisher: Nacon
+Release Date: 28 March 2023
+Server Closure: false
+Site Rating: 3.95
+Update Achievements: []
+Walkthrough: false

@@ -1,0 +1,420 @@
+Add On Achievements: []
+Base Completion Time:
+- 30
+- 31
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Leave me alone
+  Description: Play and finish an act on your own
+  GS: '30'
+  Guide: false
+  Number of Gamers: 120
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '41'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Speed dating
+  Description: Play and finish an act with a friend
+  GS: '30'
+  Guide: false
+  Number of Gamers: 64
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '56'
+  Tags:
+  - Offline Mode
+  - Cooperative
+  - Host Only
+- Achievement Name: Libertine
+  Description: Play and finish an act with two friends
+  GS: '30'
+  Guide: false
+  Number of Gamers: 32
+  Percentage of Gamers: 14%
+  Ratio: 2.67
+  TA: '80'
+  Tags:
+  - Offline Mode
+  - Cooperative
+  - Host Only
+  - 3 Players Required
+- Achievement Name: Act done
+  Description: Finish an act, collect all the statues, and complete all its challenges
+  GS: '60'
+  Guide: false
+  Number of Gamers: 6
+  Percentage of Gamers: 3%
+  Ratio: 6.17
+  TA: '370'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Collectable
+- Achievement Name: Collect all the statues in an act
+  Description: Act cleared
+  GS: '50'
+  Guide: false
+  Number of Gamers: 128
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '66'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Main Storyline
+- Achievement Name: Something is wrong
+  Description: Restart a room
+  GS: '10'
+  Guide: false
+  Number of Gamers: 102
+  Percentage of Gamers: 45%
+  Ratio: 1.49
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Room swallower
+  Description: Finish an insane number of rooms
+  GS: '50'
+  Guide: false
+  Number of Gamers: 11
+  Percentage of Gamers: 5%
+  Ratio: 4.56
+  TA: '228'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Cumulative +
+- Achievement Name: Where are we?
+  Description: Very good question...
+  GS: '10'
+  Guide: false
+  Number of Gamers: 229
+  Percentage of Gamers: 100%
+  Ratio: 1.0
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Main Storyline
+- Achievement Name: First but not least
+  Description: First use of a switch. An achievement that only has nostalgia value.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 181
+  Percentage of Gamers: 79%
+  Ratio: 1.12
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Main Storyline
+- Achievement Name: Powerful artefact
+  Description: Use the Protopulse for the first time
+  GS: '10'
+  Guide: false
+  Number of Gamers: 137
+  Percentage of Gamers: 60%
+  Ratio: 1.29
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Main Storyline
+- Achievement Name: Like a magnet
+  Description: First time the Protopulse is attracted by a Tesla
+  GS: '10'
+  Guide: true
+  Number of Gamers: 87
+  Percentage of Gamers: 38%
+  Ratio: 1.62
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Saved by the bell
+  Description: Save Vince-var-A from his cell
+  GS: '10'
+  Guide: true
+  Number of Gamers: 75
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Missable
+- Achievement Name: Follow me!
+  Description: Follow Vince-var-A until Nylus shows up
+  GS: '10'
+  Guide: false
+  Number of Gamers: 57
+  Percentage of Gamers: 25%
+  Ratio: 2.0
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Missable
+- Achievement Name: Free at last!
+  Description: Finish the adventure
+  GS: '30'
+  Guide: true
+  Number of Gamers: 47
+  Percentage of Gamers: 21%
+  Ratio: 2.2
+  TA: '66'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Main Storyline
+- Achievement Name: Well, no.
+  Description: Had you going, huh? Right to the end.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 46
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Main Storyline
+- Achievement Name: You're in my power.
+  Description: Take control of a Vbot
+  GS: '10'
+  Guide: false
+  Number of Gamers: 30
+  Percentage of Gamers: 13%
+  Ratio: 2.76
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Recycling revolution
+  Description: Rach Vince-var-A's jungle lab
+  GS: '10'
+  Guide: false
+  Number of Gamers: 30
+  Percentage of Gamers: 13%
+  Ratio: 2.76
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Main Storyline
+- Achievement Name: Machine operational
+  Description: Get all of the parts for Vince-var-A's machine
+  GS: '30'
+  Guide: false
+  Number of Gamers: 26
+  Percentage of Gamers: 11%
+  Ratio: 2.96
+  TA: '89'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Main Storyline
+- Achievement Name: Rocketed away, again
+  Description: Finish the adventure. For real.
+  GS: '60'
+  Guide: false
+  Number of Gamers: 22
+  Percentage of Gamers: 10%
+  Ratio: 3.22
+  TA: '193'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Main Storyline
+- Achievement Name: Just perfect
+  Description: Finish the game (story/statues/challenges) in 1P/2P/3P
+  GS: '90'
+  Guide: false
+  Number of Gamers: 2
+  Percentage of Gamers: 1%
+  Ratio: 10.7
+  TA: '963'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Collectable
+  - 3 Players Required
+- Achievement Name: Insane collector
+  Description: Collect all the statues
+  GS: '60'
+  Guide: false
+  Number of Gamers: 8
+  Percentage of Gamers: 3%
+  Ratio: 5.35
+  TA: '321'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Collectable
+- Achievement Name: A new challenger
+  Description: Win your first challenge
+  GS: '50'
+  Guide: false
+  Number of Gamers: 49
+  Percentage of Gamers: 21%
+  Ratio: 2.16
+  TA: '108'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Test subject of the year
+  Description: Win all the challenges
+  GS: '60'
+  Guide: false
+  Number of Gamers: 3
+  Percentage of Gamers: 1%
+  Ratio: 8.73
+  TA: '524'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: WAAAAAKE UUUUUUUP!
+  Description: Bark loudly to wake up any sleeping Vbots
+  GS: '10'
+  Guide: false
+  Number of Gamers: 28
+  Percentage of Gamers: 12%
+  Ratio: 2.85
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Smell this
+  Description: Kill a friend by farting
+  GS: '60'
+  Guide: true
+  Number of Gamers: 45
+  Percentage of Gamers: 20%
+  Ratio: 2.25
+  TA: '135'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Not so tough
+  Description: Kill one of those big fat Vbots. They deserve it.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 31
+  Percentage of Gamers: 14%
+  Ratio: 2.71
+  TA: '135'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Not so much as a quiver
+  Description: Defeat Nylus without giving him enough time to charge a single Protopulse
+  GS: '90'
+  Guide: true
+  Number of Gamers: 9
+  Percentage of Gamers: 4%
+  Ratio: 5.04
+  TA: '453'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Missable
+- Achievement Name: Just kidding, right?
+  Description: Be gently mocked by the achievements system
+  GS: '30'
+  Guide: false
+  Number of Gamers: 60
+  Percentage of Gamers: 26%
+  Ratio: 1.95
+  TA: '58'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: What are we going to do with you?
+  Description: We can't find an excuse to give you three medals!
+  GS: '30'
+  Guide: false
+  Number of Gamers: 34
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '77'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+Base Ratio: 4.167
+Base TA: 4167
+Delisted: false
+Developer: Upper Byte Studio
+Game Name: 'HeartZ: Co-Hope Puzzles'
+Genres: Platformer
+Install Size: 806.0
+Number of Completions: 2
+Number of Gamers: 229
+Overall Completion Time:
+- 30
+- 31
+Overall GS: 1000
+Overall Ratio: 4.167
+Overall TA: 4167
+PDU: 0
+Percentage Completed: 0.87
+Publisher: Neko Entertainment
+Release Date: 08 June 2016
+Server Closure: false
+Site Rating: 4.11
+Update Achievements: []
+Walkthrough: false

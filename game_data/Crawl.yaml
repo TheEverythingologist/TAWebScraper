@@ -1,0 +1,603 @@
+Add On Achievements: []
+Base Completion Time:
+- 58
+- 59
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: A Taste For Revenge
+  Description: Regain your humanity 10 times
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2308
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: A Death Feud
+  Description: Regain your humanity 50 times
+  GS: '20'
+  Guide: false
+  Number of Gamers: 805
+  Percentage of Gamers: 31%
+  Ratio: 1.8
+  TA: '36'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: A Vengeance Insatiable
+  Description: Regain your humanity 100 times
+  GS: '30'
+  Guide: false
+  Number of Gamers: 330
+  Percentage of Gamers: 13%
+  Ratio: 2.81
+  TA: '84'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: The Lonely Miser
+  Description: Spend a total of 1000 gold
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1689
+  Percentage of Gamers: 64%
+  Ratio: 1.24
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+  - Shop
+- Achievement Name: The Wealthy Merchant
+  Description: Spend a total of 5000 gold
+  GS: '20'
+  Guide: false
+  Number of Gamers: 474
+  Percentage of Gamers: 18%
+  Ratio: 2.35
+  TA: '47'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+  - Shop
+- Achievement Name: The Gilded Baron
+  Description: Spend a total of 10000 gold
+  GS: '40'
+  Guide: false
+  Number of Gamers: 158
+  Percentage of Gamers: 6%
+  Ratio: 4.07
+  TA: '163'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+  - Shop
+- Achievement Name: Vermin's Scourge
+  Description: Kill a total of 100 monsters
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1164
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Dragon's Bane
+  Description: Kill a total of 1000 monsters
+  GS: '30'
+  Guide: false
+  Number of Gamers: 114
+  Percentage of Gamers: 4%
+  Ratio: 4.79
+  TA: '143'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Adequately Equipped
+  Description: Discover all weapons in the vault
+  GS: '30'
+  Guide: true
+  Number of Gamers: 18
+  Percentage of Gamers: 1%
+  Ratio: 12.07
+  TA: '362'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Collectable
+  - Shop
+- Achievement Name: The Novice Scholar
+  Description: Discover 25% of entries in the vault
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1849
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Collectable
+  - Shop
+- Achievement Name: The Acclaimed Collector
+  Description: Discover 50% of entries in the vault
+  GS: '25'
+  Guide: false
+  Number of Gamers: 850
+  Percentage of Gamers: 32%
+  Ratio: 1.75
+  TA: '43'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Collectable
+  - Shop
+- Achievement Name: The Renowned Antiquarian
+  Description: Discover all entries in the vault
+  GS: '50'
+  Guide: true
+  Number of Gamers: 7
+  Percentage of Gamers: 0%
+  Ratio: 19.36
+  TA: '968'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Collectable
+  - Shop
+- Achievement Name: Stone Awoken
+  Description: Pass the Gargoyle challenge
+  GS: '10'
+  Guide: false
+  Number of Gamers: 98
+  Percentage of Gamers: 4%
+  Ratio: 5.17
+  TA: '51'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Burrowing Terror
+  Description: Pass the Spikewurm challenge
+  GS: '10'
+  Guide: false
+  Number of Gamers: 105
+  Percentage of Gamers: 4%
+  Ratio: 4.99
+  TA: '49'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Reanimator
+  Description: Pass the Necromancer challenge
+  GS: '10'
+  Guide: true
+  Number of Gamers: 104
+  Percentage of Gamers: 4%
+  Ratio: 5.02
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: The Gamekeeper
+  Description: Pass a vault challenge
+  GS: '5'
+  Guide: false
+  Number of Gamers: 1316
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '7'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: The Beastmaster
+  Description: Pass 10 vault challenges
+  GS: '10'
+  Guide: false
+  Number of Gamers: 231
+  Percentage of Gamers: 9%
+  Ratio: 3.37
+  TA: '33'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: The Demontamer
+  Description: Pass all the vault challenges
+  GS: '40'
+  Guide: false
+  Number of Gamers: 21
+  Percentage of Gamers: 1%
+  Ratio: 11.17
+  TA: '447'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Glub Blasphemed
+  Description: Taunt Glub and win against 3 hard bots
+  GS: '20'
+  Guide: false
+  Number of Gamers: 16
+  Percentage of Gamers: 1%
+  Ratio: 12.8
+  TA: '256'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: S'hrim Denied
+  Description: Taunt S'hrim and win against 3 hard bots
+  GS: '20'
+  Guide: true
+  Number of Gamers: 11
+  Percentage of Gamers: 0%
+  Ratio: 15.44
+  TA: '308'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: Qaahl Forgotten
+  Description: Taunt Qaahl and win against 3 hard bots
+  GS: '20'
+  Guide: false
+  Number of Gamers: 10
+  Percentage of Gamers: 0%
+  Ratio: 16.19
+  TA: '323'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: Gor Disavowed
+  Description: Taunt Gor and win against 3 hard bots
+  GS: '20'
+  Guide: true
+  Number of Gamers: 13
+  Percentage of Gamers: 0%
+  Ratio: 14.2
+  TA: '284'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: Gholoth Shunned
+  Description: Taunt Gholoth and win against 3 hard bots
+  GS: '20'
+  Guide: false
+  Number of Gamers: 15
+  Percentage of Gamers: 1%
+  Ratio: 13.22
+  TA: '264'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: The Tentacle Severed
+  Description: Defeat Kourok, playing against 3 hard bots
+  GS: '15'
+  Guide: false
+  Number of Gamers: 57
+  Percentage of Gamers: 2%
+  Ratio: 6.78
+  TA: '101'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: The Beast Beheaded
+  Description: Defeat Ghidraak, playing against 3 hard bots
+  GS: '15'
+  Guide: false
+  Number of Gamers: 75
+  Percentage of Gamers: 3%
+  Ratio: 5.91
+  TA: '88'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: The Stone Shattered
+  Description: Defeat Tezekcal, playing against 3 hard bots
+  GS: '15'
+  Guide: true
+  Number of Gamers: 59
+  Percentage of Gamers: 2%
+  Ratio: 6.66
+  TA: '100'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: Goliath and Goliath
+  Description: Kill a rock throwing monster with a boulder
+  GS: '30'
+  Guide: false
+  Number of Gamers: 65
+  Percentage of Gamers: 2%
+  Ratio: 6.35
+  TA: '190'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Lloyd and Goliath
+  Description: Slay a giant monster with a pebble
+  GS: '30'
+  Guide: true
+  Number of Gamers: 97
+  Percentage of Gamers: 4%
+  Ratio: 5.2
+  TA: '156'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: A Duel of Archers
+  Description: Win a 1 on 1 battle against the hero, while both wielding bows
+  GS: '30'
+  Guide: false
+  Number of Gamers: 72
+  Percentage of Gamers: 3%
+  Ratio: 6.03
+  TA: '181'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: True Escape
+  Description: Win a game without ever dying
+  GS: '50'
+  Guide: false
+  Number of Gamers: 73
+  Percentage of Gamers: 3%
+  Ratio: 5.99
+  TA: '299'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: The Sickly Champion
+  Description: Defeat a boss while nauseated
+  GS: '20'
+  Guide: false
+  Number of Gamers: 90
+  Percentage of Gamers: 3%
+  Ratio: 5.39
+  TA: '107'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: A Piercing Bolt
+  Description: Kill 3 monsters with a single crossbow bolt
+  GS: '30'
+  Guide: false
+  Number of Gamers: 152
+  Percentage of Gamers: 6%
+  Ratio: 4.15
+  TA: '124'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: The Butcher
+  Description: Slay all other heroes in an intro battle with 3 hard bots
+  GS: '10'
+  Guide: true
+  Number of Gamers: 49
+  Percentage of Gamers: 2%
+  Ratio: 7.31
+  TA: '73'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: Manic Greed
+  Description: Clear out a store by buying every item
+  GS: '30'
+  Guide: false
+  Number of Gamers: 102
+  Percentage of Gamers: 4%
+  Ratio: 5.07
+  TA: '152'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Shop
+- Achievement Name: Pickpocket
+  Description: As a gnome, mine a total of 10 gold from heroes
+  GS: '20'
+  Guide: false
+  Number of Gamers: 118
+  Percentage of Gamers: 4%
+  Ratio: 4.71
+  TA: '94'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Unstoppable Force
+  Description: Get a kill streak of 12 against 3 hard bots
+  GS: '50'
+  Guide: true
+  Number of Gamers: 11
+  Percentage of Gamers: 0%
+  Ratio: 15.44
+  TA: '772'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: Altered Altered Beast
+  Description: Get two tombstone powerups on one monster
+  GS: '25'
+  Guide: false
+  Number of Gamers: 147
+  Percentage of Gamers: 6%
+  Ratio: 4.22
+  TA: '105'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Brain Haemorrhage
+  Description: Damage Kourok's exposed brain with a bomb creature
+  GS: '10'
+  Guide: true
+  Number of Gamers: 302
+  Percentage of Gamers: 12%
+  Ratio: 2.94
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Unfettered Strength
+  Description: Max out your hero's strength
+  GS: '20'
+  Guide: false
+  Number of Gamers: 128
+  Percentage of Gamers: 5%
+  Ratio: 4.52
+  TA: '90'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Unceasing Lethargy
+  Description: Min your hero's agility
+  GS: '20'
+  Guide: false
+  Number of Gamers: 268
+  Percentage of Gamers: 10%
+  Ratio: 3.12
+  TA: '62'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Theatrical
+  Description: Win an intro battle without ever moving
+  GS: '10'
+  Guide: true
+  Number of Gamers: 83
+  Percentage of Gamers: 3%
+  Ratio: 5.62
+  TA: '56'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: A Bloody Conquest
+  Description: Defeat a boss while bleeding for the entire fight
+  GS: '30'
+  Guide: false
+  Number of Gamers: 66
+  Percentage of Gamers: 3%
+  Ratio: 6.3
+  TA: '189'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Brute Force Alone
+  Description: Defeat Kourok without hitting any bombs into him
+  GS: '20'
+  Guide: false
+  Number of Gamers: 27
+  Percentage of Gamers: 1%
+  Ratio: 9.85
+  TA: '197'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Infinite Horror
+  Description: Achieve the victory screen title "Infinite Horror"
+  GS: '20'
+  Guide: true
+  Number of Gamers: 430
+  Percentage of Gamers: 16%
+  Ratio: 2.47
+  TA: '49'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Multiple Playthroughs Required
+- Achievement Name: A Healthy Victory
+  Description: Defeat Ghidraak with more health than when you started
+  GS: '30'
+  Guide: false
+  Number of Gamers: 45
+  Percentage of Gamers: 2%
+  Ratio: 7.63
+  TA: '229'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+Base Ratio: 7.409
+Base TA: 7409
+Delisted: false
+Developer: Powerhoof
+Game Name: Crawl
+Genres: Dungeon Crawler
+Install Size: 426.0
+Number of Completions: 3
+Number of Gamers: 2624
+Overall Completion Time:
+- 58
+- 59
+Overall GS: 1000
+Overall Ratio: 7.409
+Overall TA: 7409
+PDU: 0
+Percentage Completed: 0.11
+Publisher: Powerhoof
+Release Date: 11 April 2017
+Server Closure: false
+Site Rating: 3.9
+Update Achievements: []
+Walkthrough: false

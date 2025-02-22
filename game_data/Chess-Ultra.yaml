@@ -1,0 +1,492 @@
+Add On Achievements: []
+Base Completion Time:
+- 6.0
+- 8.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Absolute Pin
+  Description: Pin a piece against your opponent's King
+  GS: '10'
+  Guide: false
+  Number of Gamers: 6947
+  Percentage of Gamers: 78%
+  Ratio: 1.13
+  TA: '11'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: "Alekhine\u2019s Gun"
+  Description: Stack two Rooks one behind another in the same file with the Queen
+    at the rear
+  GS: '10'
+  Guide: true
+  Number of Gamers: 755
+  Percentage of Gamers: 8%
+  Ratio: 3.43
+  TA: '34'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Back-rank Mate
+  Description: Deliver checkmate by a Rook or Queen along a back rank, with the King's
+    escape blocked by friendly p
+  GS: '10'
+  Guide: true
+  Number of Gamers: 761
+  Percentage of Gamers: 9%
+  Ratio: 3.42
+  TA: '34'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Doubled Pawn
+  Description: Have two pawns of the same colour on the same file
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7842
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: O-O-O
+  Description: Castle queenside
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4312
+  Percentage of Gamers: 48%
+  Ratio: 1.43
+  TA: '14'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: O-O
+  Description: Castle kingside
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5253
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '13'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Check
+  Description: Put an opponent in check
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7818
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Checkmate
+  Description: Win a game
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5879
+  Percentage of Gamers: 66%
+  Ratio: 1.23
+  TA: '12'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Chop Wood
+  Description: Make a capture or exchange
+  GS: '10'
+  Guide: true
+  Number of Gamers: 8690
+  Percentage of Gamers: 98%
+  Ratio: 1.01
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Promotion
+  Description: Advance a pawn to the eighth rank
+  GS: '10'
+  Guide: false
+  Number of Gamers: 5949
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '12'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Underpromote
+  Description: Promote a pawn to a Rook, Bishop, or Knight instead of a Queen
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1888
+  Percentage of Gamers: 21%
+  Ratio: 2.17
+  TA: '21'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: En Passant
+  Description: Perform an en passant capture
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3583
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '15'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Double Check
+  Description: Deliver a check by two pieces at the same time
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2624
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '18'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Learner
+  Description: Complete all the tutorials
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2524
+  Percentage of Gamers: 28%
+  Ratio: 1.87
+  TA: '18'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Piece Collector
+  Description: Capture 100 pieces
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2721
+  Percentage of Gamers: 31%
+  Ratio: 1.8
+  TA: '18'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Epaulette Mate
+  Description: Deliver checkmate where the King is blocked on both sides by his own
+    Rooks
+  GS: '10'
+  Guide: true
+  Number of Gamers: 452
+  Percentage of Gamers: 5%
+  Ratio: 4.43
+  TA: '44'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Fool's Mate
+  Description: Win a game in three moves
+  GS: '10'
+  Guide: true
+  Number of Gamers: 516
+  Percentage of Gamers: 6%
+  Ratio: 4.15
+  TA: '41'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Time/Date
+- Achievement Name: Scholar's Mate
+  Description: Win a game in four moves
+  GS: '10'
+  Guide: true
+  Number of Gamers: 530
+  Percentage of Gamers: 6%
+  Ratio: 4.09
+  TA: '40'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Time/Date
+- Achievement Name: Octopus
+  Description: Place a White Knight on e6
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3652
+  Percentage of Gamers: 41%
+  Ratio: 1.56
+  TA: '15'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Spanish Bishop
+  Description: Develop a White King Bishop to b5
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4539
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '14'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Tournament Amateur
+  Description: Win a tournament
+  GS: '10'
+  Guide: true
+  Number of Gamers: 540
+  Percentage of Gamers: 6%
+  Ratio: 4.06
+  TA: '40'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+- Achievement Name: Problem Solver
+  Description: Complete 50% of the chess challenges
+  GS: '10'
+  Guide: false
+  Number of Gamers: 694
+  Percentage of Gamers: 8%
+  Ratio: 3.58
+  TA: '35'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Elo
+  Description: Beat an opponent with an Elo rating higher than yours
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3544
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '15'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Stackable
+- Achievement Name: Stranger Danger
+  Description: Create a random online game
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3319
+  Percentage of Gamers: 37%
+  Ratio: 1.63
+  TA: '16'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Friendly Fire
+  Description: Issue an online challenge to a friend
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2697
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '18'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Bobby Time
+  Description: Play a game using the Fischer timer
+  GS: '25'
+  Guide: true
+  Number of Gamers: 2033
+  Percentage of Gamers: 23%
+  Ratio: 2.09
+  TA: '52'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Queen Sacrifice
+  Description: Sacrifice the Queen then go on to win the game
+  GS: '25'
+  Guide: false
+  Number of Gamers: 4104
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '36'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Family Fork
+  Description: Using a Knight simultaneously attack the enemy King and Queen
+  GS: '25'
+  Guide: true
+  Number of Gamers: 2254
+  Percentage of Gamers: 25%
+  Ratio: 1.98
+  TA: '49'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Elo Elo
+  Description: Beat an opponent with an Elo rating more than 75 higher than yours
+  GS: '25'
+  Guide: true
+  Number of Gamers: 2607
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '46'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Stackable
+- Achievement Name: Tournament Pro
+  Description: Win 5 tournaments
+  GS: '25'
+  Guide: true
+  Number of Gamers: 326
+  Percentage of Gamers: 4%
+  Ratio: 5.22
+  TA: '130'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+  - 4 Players Required
+- Achievement Name: Blind Pigs
+  Description: "Maneuver a pair of Rooks onto your opponent\u2019s second rank"
+  GS: '25'
+  Guide: true
+  Number of Gamers: 1384
+  Percentage of Gamers: 16%
+  Ratio: 2.53
+  TA: '63'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Stalemate
+  Description: Draw a game by stalemate
+  GS: '50'
+  Guide: true
+  Number of Gamers: 3905
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '75'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Boden's Mate
+  Description: Deliver checkmate by two crisscrossing Bishops, with the King's escape
+    blocked by friendly pieces
+  GS: '50'
+  Guide: true
+  Number of Gamers: 421
+  Percentage of Gamers: 5%
+  Ratio: 4.59
+  TA: '229'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Tournament Champion
+  Description: Win a 32 player tournament
+  GS: '50'
+  Guide: true
+  Number of Gamers: 287
+  Percentage of Gamers: 3%
+  Ratio: 5.56
+  TA: '278'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+- Achievement Name: Elo Elo Elo
+  Description: Beat an opponent with an Elo rating more than 150 higher than yours
+  GS: '100'
+  Guide: true
+  Number of Gamers: 2003
+  Percentage of Gamers: 23%
+  Ratio: 2.1
+  TA: '210'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Stackable
+- Achievement Name: Chess Champion
+  Description: Beat the computer on Grandmaster difficulty
+  GS: '100'
+  Guide: true
+  Number of Gamers: 1044
+  Percentage of Gamers: 12%
+  Ratio: 2.91
+  TA: '291'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Problem Solved
+  Description: Complete all the chess challenges
+  GS: '100'
+  Guide: true
+  Number of Gamers: 492
+  Percentage of Gamers: 6%
+  Ratio: 4.25
+  TA: '425'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Tournament Master
+  Description: Win 20 tournaments
+  GS: '150'
+  Guide: true
+  Number of Gamers: 305
+  Percentage of Gamers: 3%
+  Ratio: 5.4
+  TA: '810'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+  - 4 Players Required
+Base Ratio: 3.222
+Base TA: 3222
+Delisted: false
+Developer: Ripstone
+Game Name: Chess Ultra
+Genres: Strategy, Turn Based, Card & Board
+Install Size: 4280.0
+Number of Completions: 200
+Number of Gamers: 8901
+Overall Completion Time:
+- 6.0
+- 8.0
+Overall GS: 1000
+Overall Ratio: 3.222
+Overall TA: 3222
+PDU: 0
+Percentage Completed: 2.25
+Publisher: Ripstone
+Release Date: 23 June 2017
+Server Closure: false
+Site Rating: 3.53
+Update Achievements: []
+Walkthrough: false

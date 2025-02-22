@@ -1,0 +1,394 @@
+Add On Achievements: []
+Base Completion Time:
+- 80.0
+- 100.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Made-to-measure team
+  Description: You have created a team
+  GS: '15'
+  Guide: true
+  Number of Gamers: 11787
+  Percentage of Gamers: 47%
+  Ratio: 1.46
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Expert strategist
+  Description: You have studied the composition of an opposition team
+  GS: '15'
+  Guide: true
+  Number of Gamers: 9602
+  Percentage of Gamers: 38%
+  Ratio: 1.62
+  TA: '24'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Favour of the Golden College
+  Description: You have trained a team to a treasury level of 500,000
+  GS: '50'
+  Guide: true
+  Number of Gamers: 567
+  Percentage of Gamers: 2%
+  Ratio: 6.66
+  TA: '333'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cumulative
+  - Shop
+- Achievement Name: Misanthrope
+  Description: You have won a match in a solo league
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3498
+  Percentage of Gamers: 14%
+  Ratio: 2.68
+  TA: '53'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Real-life opponent
+  Description: You have faced a coach in a multiplayer league
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1815
+  Percentage of Gamers: 7%
+  Ratio: 3.72
+  TA: '74'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Law of the market
+  Description: You bought a player in the transfer market
+  GS: '20'
+  Guide: true
+  Number of Gamers: 458
+  Percentage of Gamers: 2%
+  Ratio: 7.41
+  TA: '148'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Community
+  - Shop
+- Achievement Name: Competitor
+  Description: You have arrived in a competition final
+  GS: '30'
+  Guide: true
+  Number of Gamers: 2102
+  Percentage of Gamers: 8%
+  Ratio: 3.46
+  TA: '103'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Newbie manager
+  Description: You have hired a member of staff for a team and purchased an enhancement
+    for its stadium
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1986
+  Percentage of Gamers: 8%
+  Ratio: 3.56
+  TA: '53'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: The Grim Reaper
+  Description: You lost a player in a match (League or Campaign)
+  GS: '30'
+  Guide: true
+  Number of Gamers: 3827
+  Percentage of Gamers: 15%
+  Ratio: 2.56
+  TA: '76'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Cheerleaders
+  Description: You have hired Cheerleaders for your team
+  GS: '15'
+  Guide: true
+  Number of Gamers: 7523
+  Percentage of Gamers: 30%
+  Ratio: 1.83
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Unnatural
+  Description: You made Mutated a player by increasing his level
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1674
+  Percentage of Gamers: 7%
+  Ratio: 3.87
+  TA: '116'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Stackable
+  - Level
+- Achievement Name: To the slaughterhouse
+  Description: You have bought and fired a player without him even playing a match
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3778
+  Percentage of Gamers: 15%
+  Ratio: 2.58
+  TA: '51'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Horned Rat
+  Description: You mutated a Skaven player with the Horns skill
+  GS: '40'
+  Guide: true
+  Number of Gamers: 605
+  Percentage of Gamers: 2%
+  Ratio: 6.45
+  TA: '258'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Stackable
+  - Level
+- Achievement Name: Agility at its best
+  Description: You have taught an Agility skill to a Dwarf player
+  GS: '40'
+  Guide: true
+  Number of Gamers: 692
+  Percentage of Gamers: 3%
+  Ratio: 6.03
+  TA: '241'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Not so fast!
+  Description: You intercepted opponent's Pass (League or Campaign)
+  GS: '30'
+  Guide: true
+  Number of Gamers: 858
+  Percentage of Gamers: 3%
+  Ratio: 5.41
+  TA: '162'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: What a pity
+  Description: You gained an MVP mention for a dead player (League or Campaign)
+  GS: '40'
+  Guide: true
+  Number of Gamers: 1063
+  Percentage of Gamers: 4%
+  Ratio: 4.86
+  TA: '194'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: One down! Who's next?
+  Description: You have won the first match of the Campaign
+  GS: '15'
+  Guide: true
+  Number of Gamers: 22526
+  Percentage of Gamers: 89%
+  Ratio: 1.05
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: New Coach
+  Description: You have levelled up as coach
+  GS: '15'
+  Guide: true
+  Number of Gamers: 4060
+  Percentage of Gamers: 16%
+  Ratio: 2.49
+  TA: '37'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Level
+- Achievement Name: Unassailable defence
+  Description: You won a match without conceding a Touchdown (League or Campaign)
+  GS: '30'
+  Guide: true
+  Number of Gamers: 22759
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '31'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Beat it!
+  Description: You pushed 3 opposition players off the pitch in the same match (League
+    or Campaign)
+  GS: '30'
+  Guide: true
+  Number of Gamers: 2960
+  Percentage of Gamers: 12%
+  Ratio: 2.91
+  TA: '87'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: In dodge we trust
+  Description: You finished a match with an elf team without incurring any injuries
+    (League or Campaign)
+  GS: '40'
+  Guide: true
+  Number of Gamers: 881
+  Percentage of Gamers: 3%
+  Ratio: 5.34
+  TA: '213'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Favour of the Amethyst College
+  Description: You have trained a team until it has killed 5 opponents (League or
+    Campaign)
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1653
+  Percentage of Gamers: 7%
+  Ratio: 3.9
+  TA: '195'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Favour of the Jade College
+  Description: You have a team whose value is greater than 1900
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1739
+  Percentage of Gamers: 7%
+  Ratio: 3.8
+  TA: '190'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Favour of the Grey College
+  Description: You have trained a player to level 7
+  GS: '50'
+  Guide: true
+  Number of Gamers: 437
+  Percentage of Gamers: 2%
+  Ratio: 7.59
+  TA: '379'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Golden goose
+  Description: You sold a level 7 player on the transfer market
+  GS: '40'
+  Guide: true
+  Number of Gamers: 276
+  Percentage of Gamers: 1%
+  Ratio: 9.55
+  TA: '382'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Community
+  - Shop
+- Achievement Name: Coliseum
+  Description: You have improved a stadium to its maximum level
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1020
+  Percentage of Gamers: 4%
+  Ratio: 4.97
+  TA: '248'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+  - Shop
+- Achievement Name: Grand exterminator
+  Description: You have completed the Campaign and saved the Old World
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1574
+  Percentage of Gamers: 6%
+  Ratio: 4.0
+  TA: '200'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Outstanding coach
+  Description: You have reached the maximum level as coach (20)
+  GS: '50'
+  Guide: true
+  Number of Gamers: 641
+  Percentage of Gamers: 3%
+  Ratio: 6.26
+  TA: '313'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Level
+- Achievement Name: Accomplished coach
+  Description: You have won a match in a multiplayer league
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1328
+  Percentage of Gamers: 5%
+  Ratio: 4.35
+  TA: '217'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Spike! magazine award
+  Description: You have reached a Fan Factor of 10
+  GS: '50'
+  Guide: true
+  Number of Gamers: 2436
+  Percentage of Gamers: 10%
+  Ratio: 3.21
+  TA: '160'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative
+  - Shop
+Base Ratio: 4.601
+Base TA: 4601
+Delisted: false
+Developer: Cyanide Studio
+Game Name: Blood Bowl 2
+Genres: Strategy, Turn Based, Card & Board
+Install Size: 4000.0
+Number of Completions: 131
+Number of Gamers: 25202
+Overall Completion Time:
+- 80.0
+- 100.0
+Overall GS: 1000
+Overall Ratio: 4.601
+Overall TA: 4601
+PDU: 0
+Percentage Completed: 0.52
+Publisher: Focus Entertainment
+Release Date: 22 September 2015
+Server Closure: false
+Site Rating: 3.28
+Update Achievements: []
+Walkthrough: false

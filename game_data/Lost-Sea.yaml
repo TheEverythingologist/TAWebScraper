@@ -1,0 +1,593 @@
+Add On Achievements: []
+Base Completion Time:
+- 43
+- 44
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Adventurer
+  Description: Successfully complete the tutorial island.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1511
+  Percentage of Gamers: 89%
+  Ratio: 1.06
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Skipper
+  Description: Skip the tutorial island.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1002
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Chopper
+  Description: Find the machete on the tutorial island.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1697
+  Percentage of Gamers: 100%
+  Ratio: 1.0
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Fresh Meat
+  Description: Die on the first island you visit after the tutorial.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 707
+  Percentage of Gamers: 42%
+  Ratio: 1.55
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Survivor
+  Description: Get revived 50 times by crew members.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 37
+  Percentage of Gamers: 2%
+  Ratio: 6.76
+  TA: '202'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Deathwish
+  Description: Die 50 times.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 72
+  Percentage of Gamers: 4%
+  Ratio: 4.84
+  TA: '96'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Captain
+  Description: Recruit 100 crew members.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 43
+  Percentage of Gamers: 3%
+  Ratio: 6.27
+  TA: '62'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Buggy
+- Achievement Name: Party Leader
+  Description: Lead a full party of 4 crew members.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 157
+  Percentage of Gamers: 9%
+  Ratio: 3.3
+  TA: '33'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Shop
+- Achievement Name: Guardian Angels
+  Description: Lead a full party of 4 crew members, each with the revive ability and
+    active halos.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 108
+  Percentage of Gamers: 6%
+  Ratio: 3.97
+  TA: '119'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Shop
+- Achievement Name: Tycoon
+  Description: Collect 10,000 gold.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 100
+  Percentage of Gamers: 6%
+  Ratio: 4.15
+  TA: '83'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Veteran
+  Description: Collect 50,000 XP.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 119
+  Percentage of Gamers: 7%
+  Ratio: 3.8
+  TA: '76'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Carpenter
+  Description: Order a crew member with the carpenter ability to repair a bridge.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1585
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Miner
+  Description: Order a crew member with the miner ability to excavate a dig spot.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 381
+  Percentage of Gamers: 22%
+  Ratio: 2.11
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Lock Smith
+  Description: Order a crew member with the locksmith ability to unlock a chest.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1526
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Cartographer
+  Description: Reveal 1000 island regions on the map.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 43
+  Percentage of Gamers: 3%
+  Ratio: 6.27
+  TA: '188'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Technician
+  Description: Use 100 items.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 69
+  Percentage of Gamers: 4%
+  Ratio: 4.95
+  TA: '99'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Botanist
+  Description: Find and interact with a healing tree.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1450
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Healer
+  Description: Interact with a healing tree 50 times.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 109
+  Percentage of Gamers: 6%
+  Ratio: 3.97
+  TA: '119'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Marauder
+  Description: Kill 3000 enemies.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 55
+  Percentage of Gamers: 3%
+  Ratio: 5.54
+  TA: '110'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Spin Doctor
+  Description: Kill 100 enemies using the spin attack.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 92
+  Percentage of Gamers: 5%
+  Ratio: 4.31
+  TA: '43'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Shop
+- Achievement Name: Dashing
+  Description: Kill 100 enemies using the dash attack.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 78
+  Percentage of Gamers: 5%
+  Ratio: 4.68
+  TA: '46'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Shop
+- Achievement Name: Gunslinger
+  Description: Kill 25 enemies using guns.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 59
+  Percentage of Gamers: 3%
+  Ratio: 5.35
+  TA: '53'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Sapper
+  Description: Kill 50 enemies using bombs.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 62
+  Percentage of Gamers: 4%
+  Ratio: 5.22
+  TA: '52'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Swashbuckler
+  Description: Defeat the pirate.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 554
+  Percentage of Gamers: 33%
+  Ratio: 1.75
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Pirate Hunter
+  Description: Defeat the pirate 20 times.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 40
+  Percentage of Gamers: 2%
+  Ratio: 6.5
+  TA: '195'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Multiple Playthroughs Required
+- Achievement Name: Berserker
+  Description: Kill 10 enemies while under the effect of adrenaline.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 73
+  Percentage of Gamers: 4%
+  Ratio: 4.81
+  TA: '48'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Vandal
+  Description: Destroy 5000 barrels and crates.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 51
+  Percentage of Gamers: 3%
+  Ratio: 5.75
+  TA: '115'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Bushwhacker
+  Description: Destroy 5000 bushes.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 101
+  Percentage of Gamers: 6%
+  Ratio: 4.13
+  TA: '82'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Completionist
+  Description: Unlock all player skills and ship upgrades in a single play through.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 53
+  Percentage of Gamers: 3%
+  Ratio: 5.7
+  TA: '285'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Shop
+- Achievement Name: Hardy
+  Description: Unlock the maximum health upgrade.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 120
+  Percentage of Gamers: 7%
+  Ratio: 3.77
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Shop
+- Achievement Name: Moxie
+  Description: Unlock the maximum stamina upgrade.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 93
+  Percentage of Gamers: 5%
+  Ratio: 4.28
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Shop
+- Achievement Name: Jungle Explorer
+  Description: Successfully complete the jungle zone.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 548
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Desert Explorer
+  Description: Successfully complete the desert zone.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 177
+  Percentage of Gamers: 10%
+  Ratio: 3.1
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Swamp Explorer
+  Description: Successfully complete the swamp zone.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 82
+  Percentage of Gamers: 5%
+  Ratio: 4.57
+  TA: '45'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Snow Explorer
+  Description: Successfully complete the snow zone.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 63
+  Percentage of Gamers: 4%
+  Ratio: 5.22
+  TA: '52'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Escapist
+  Description: Successfully escape the Bermuda Triangle.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 41
+  Percentage of Gamers: 2%
+  Ratio: 6.5
+  TA: '130'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
+- Achievement Name: Speed Demon
+  Description: Complete the game in under 2 hours without warping.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 22
+  Percentage of Gamers: 1%
+  Ratio: 8.76
+  TA: '438'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Time/Date
+- Achievement Name: Army of One
+  Description: Complete the game without recruiting any crew members.
+  GS: '100'
+  Guide: true
+  Number of Gamers: 20
+  Percentage of Gamers: 1%
+  Ratio: 9.19
+  TA: '919'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Purist
+  Description: Complete the game without unlocking any player skills or ship upgrades.
+  GS: '100'
+  Guide: true
+  Number of Gamers: 15
+  Percentage of Gamers: 1%
+  Ratio: 10.62
+  TA: 1,062
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Traditionalist
+  Description: Complete the game without using any items.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 23
+  Percentage of Gamers: 1%
+  Ratio: 8.57
+  TA: '428'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Relic Hunter
+  Description: Collect and deliver 100 tablets to the map table.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 96
+  Percentage of Gamers: 6%
+  Ratio: 4.24
+  TA: '84'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: High Roller
+  Description: Get a combined total of 10 or more across 3 tablets.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 471
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Archaeologist
+  Description: Collect 3 tablets on a single island.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 857
+  Percentage of Gamers: 50%
+  Ratio: 1.4
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Baiter
+  Description: Trigger 100 traps.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 60
+  Percentage of Gamers: 4%
+  Ratio: 5.31
+  TA: '106'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Treasure Hunter
+  Description: Collect all 18 pieces of treasure.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 59
+  Percentage of Gamers: 3%
+  Ratio: 5.35
+  TA: '160'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Savior
+  Description: Rescue 10 crew members using the life ring ship upgrade.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 39
+  Percentage of Gamers: 2%
+  Ratio: 6.58
+  TA: '197'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+Base Ratio: 6.002
+Base TA: 6002
+Delisted: false
+Developer: eastasiasoft
+Game Name: Lost Sea
+Genres: Action-Adventure, Roguelite
+Install Size: 1060.0
+Number of Completions: 14
+Number of Gamers: 1700
+Overall Completion Time:
+- 43
+- 44
+Overall GS: 1000
+Overall Ratio: 6.002
+Overall TA: 6002
+PDU: 0
+Percentage Completed: 0.82
+Publisher: eastasiasoft
+Release Date: 29 June 2016
+Server Closure: false
+Site Rating: 2.93
+Update Achievements: []
+Walkthrough: false

@@ -1,0 +1,578 @@
+Add On Achievements: []
+Base Completion Time:
+- 8.0
+- 10.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Humble Beginnings
+  Description: Find the village of Timberwell.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 32064
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Main Storyline
+- Achievement Name: It Begins
+  Description: Die.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 30021
+  Percentage of Gamers: 84%
+  Ratio: 1.08
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Vigor
+  Description: Own 8 hearts.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 12525
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Collectable
+- Achievement Name: Feeling Healthy
+  Description: Collect all Heart Containers.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 8718
+  Percentage of Gamers: 25%
+  Ratio: 2.02
+  TA: '60'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Collectable
+- Achievement Name: Restorationist
+  Description: Repair 10 fountains.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 16050
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Collectable
+- Achievement Name: Fruity Concoction
+  Description: Obtain an improved healing recipe.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 21371
+  Percentage of Gamers: 60%
+  Ratio: 1.29
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Nectar of the Gods
+  Description: Obtain the best potion recipe.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 8671
+  Percentage of Gamers: 24%
+  Ratio: 2.02
+  TA: '40'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Bottle Collector
+  Description: Collect all healing flasks.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 8888
+  Percentage of Gamers: 25%
+  Ratio: 2.0
+  TA: '40'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Collectable
+- Achievement Name: Trial Novice
+  Description: Complete your first trial.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 24855
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Main Storyline
+- Achievement Name: Trial Master
+  Description: Complete every trial.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 7934
+  Percentage of Gamers: 22%
+  Ratio: 2.11
+  TA: '105'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Collector
+  Description: Complete half of your badge collection.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 10014
+  Percentage of Gamers: 28%
+  Ratio: 1.88
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Collectable
+- Achievement Name: A Complete Set
+  Description: Collect every badge.
+  GS: '150'
+  Guide: true
+  Number of Gamers: 7357
+  Percentage of Gamers: 21%
+  Ratio: 2.19
+  TA: '329'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Collectable
+- Achievement Name: Star Athlete
+  Description: Perform five consecutive dashes without stamina recharging.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 16649
+  Percentage of Gamers: 47%
+  Ratio: 1.46
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Belongs in a Museum
+  Description: Cash in 10 treasures.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 8948
+  Percentage of Gamers: 25%
+  Ratio: 1.99
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Cumulative +
+  - Shop
+- Achievement Name: Master Crafter
+  Description: Craft 30 items.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 8039
+  Percentage of Gamers: 23%
+  Ratio: 2.1
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Cumulative +
+  - Shop
+- Achievement Name: This Will Do
+  Description: Fully upgrade a weapon.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 9083
+  Percentage of Gamers: 26%
+  Ratio: 1.97
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Shop
+- Achievement Name: Fortune
+  Description: Store over 10000 gold in the bank.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 6749
+  Percentage of Gamers: 19%
+  Ratio: 2.29
+  TA: '45'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Cumulative
+- Achievement Name: Combat Expert
+  Description: Defeat 1000 enemies.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 13158
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Cumulative +
+- Achievement Name: Slayer of Slime I
+  Description: Defeat the Great Slime.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 23613
+  Percentage of Gamers: 66%
+  Ratio: 1.22
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Hammered Down
+  Description: Defeat Mongo.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 16272
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Ghost Buster
+  Description: Defeat the Ghost Crab.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 13170
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Wispbane
+  Description: Defeat the Soul Serpent.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 11327
+  Percentage of Gamers: 32%
+  Ratio: 1.77
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Exterminator
+  Description: Defeat the Queen Duneworm.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 12343
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Slayer of Slime II
+  Description: Defeat Frankenslime.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 10753
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Arena Victor
+  Description: Complete the Arena Challenge.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 9109
+  Percentage of Gamers: 26%
+  Ratio: 1.97
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Beneath the Kingdom
+  Description: Enter the Twisted Caverns.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 13677
+  Percentage of Gamers: 38%
+  Ratio: 1.61
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Main Storyline
+- Achievement Name: Welcome to the Jungle
+  Description: Destroy the vine barrier blocking Tanglegrove.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 10233
+  Percentage of Gamers: 29%
+  Ratio: 1.86
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Main Storyline
+- Achievement Name: Reject Humanity
+  Description: Equip a shark cap and mermaid tail.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 7649
+  Percentage of Gamers: 21%
+  Ratio: 2.15
+  TA: '43'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Unburnt
+  Description: Survive the ritual of the Molten Rift.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 9743
+  Percentage of Gamers: 27%
+  Ratio: 1.91
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Main Storyline
+- Achievement Name: Well Read
+  Description: Assemble the Arch Lexicon.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 7692
+  Percentage of Gamers: 22%
+  Ratio: 2.15
+  TA: '107'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: The Ultimate Blade
+  Description: Obtain Avarn's Sword.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 8914
+  Percentage of Gamers: 25%
+  Ratio: 1.99
+  TA: '99'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Missable
+- Achievement Name: Maxilla
+  Description: Defeat Maxilla.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 21134
+  Percentage of Gamers: 59%
+  Ratio: 1.29
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Main Storyline
+- Achievement Name: The Fallen Pharaoh
+  Description: Defeat the Fallen Pharaoh.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 11230
+  Percentage of Gamers: 32%
+  Ratio: 1.78
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Main Storyline
+- Achievement Name: The Exiled Wizard
+  Description: Defeat the Exiled Wizard.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 10296
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Main Storyline
+- Achievement Name: The Grove's Blight
+  Description: Defeat Groveblight.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 9267
+  Percentage of Gamers: 26%
+  Ratio: 1.95
+  TA: '39'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Main Storyline
+- Achievement Name: The Rotted King
+  Description: Defeat the Rotted King.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 10028
+  Percentage of Gamers: 28%
+  Ratio: 1.88
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Main Storyline
+- Achievement Name: The Banished Executioner
+  Description: Defeat the Banished Executioner.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 8970
+  Percentage of Gamers: 25%
+  Ratio: 1.99
+  TA: '39'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Main Storyline
+- Achievement Name: The Sunken Queen
+  Description: Defeat the Sunken Queen.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 9026
+  Percentage of Gamers: 25%
+  Ratio: 1.98
+  TA: '39'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Main Storyline
+- Achievement Name: The Old King
+  Description: Defeat the Old King.
+  GS: '200'
+  Guide: true
+  Number of Gamers: 8300
+  Percentage of Gamers: 23%
+  Ratio: 2.07
+  TA: '414'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Main Storyline
+  - Story Completed
+- Achievement Name: Architect
+  Description: Rebuild the gateway to Archvale.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 8866
+  Percentage of Gamers: 25%
+  Ratio: 2.0
+  TA: '100'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Main Storyline
+Base Ratio: 1.946
+Base TA: 1946
+Delisted: false
+Developer: idoz & phops
+Game Name: Archvale
+Genres: Action-Adventure
+Install Size: 1140.0
+Number of Completions: 5819
+Number of Gamers: 35581
+Overall Completion Time:
+- 8.0
+- 10.0
+Overall GS: 1000
+Overall Ratio: 1.946
+Overall TA: 1946
+PDU: 0
+Percentage Completed: 16.35
+Publisher: Humble Games
+Release Date: 02 December 2021
+Server Closure: false
+Site Rating: 3.88
+Update Achievements: []
+Walkthrough: false

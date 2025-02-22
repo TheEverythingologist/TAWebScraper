@@ -1,0 +1,332 @@
+Add On Achievements: []
+Base Completion Time:
+- 5.0
+- 6.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Newcomer
+  Description: Finish your first game
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2171
+  Percentage of Gamers: 87%
+  Ratio: 1.06
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Settlement
+  Description: Reach the 2nd island
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2113
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Colony
+  Description: Reach the 3rd island
+  GS: '30'
+  Guide: false
+  Number of Gamers: 1550
+  Percentage of Gamers: 62%
+  Ratio: 1.26
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Empire
+  Description: Reach the 4th island
+  GS: '45'
+  Guide: false
+  Number of Gamers: 1019
+  Percentage of Gamers: 41%
+  Ratio: 1.55
+  TA: '70'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Advanced
+  Description: Score 500 points in one match
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1903
+  Percentage of Gamers: 77%
+  Ratio: 1.14
+  TA: '17'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Professional
+  Description: Score 1,500 points in one match
+  GS: '30'
+  Guide: false
+  Number of Gamers: 1343
+  Percentage of Gamers: 54%
+  Ratio: 1.35
+  TA: '40'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Expert
+  Description: Score 3000 points in one match
+  GS: '90'
+  Guide: false
+  Number of Gamers: 882
+  Percentage of Gamers: 36%
+  Ratio: 1.67
+  TA: '150'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Nice Spot
+  Description: Earn 25 points from one building
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1906
+  Percentage of Gamers: 77%
+  Ratio: 1.14
+  TA: '17'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Brilliant Position
+  Description: Earn 50 points from one building
+  GS: '30'
+  Guide: false
+  Number of Gamers: 920
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '49'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Perfectly Placed
+  Description: Earn 75 points from one building
+  GS: '90'
+  Guide: true
+  Number of Gamers: 597
+  Percentage of Gamers: 24%
+  Ratio: 2.03
+  TA: '183'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Mayor
+  Description: Earn 2000 points
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1451
+  Percentage of Gamers: 58%
+  Ratio: 1.3
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: King
+  Description: Earn 10,000 points
+  GS: '30'
+  Guide: true
+  Number of Gamers: 729
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '55'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Emperor
+  Description: Earn 20,000 points
+  GS: '90'
+  Guide: false
+  Number of Gamers: 482
+  Percentage of Gamers: 19%
+  Ratio: 2.26
+  TA: '204'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Builder
+  Description: Build 100 buildings
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1699
+  Percentage of Gamers: 68%
+  Ratio: 1.2
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Constructor
+  Description: Build 500 Buildings
+  GS: '30'
+  Guide: false
+  Number of Gamers: 894
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '49'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Architect
+  Description: Build 1000 buildings
+  GS: '30'
+  Guide: true
+  Number of Gamers: 543
+  Percentage of Gamers: 22%
+  Ratio: 2.13
+  TA: '64'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Traveler
+  Description: Explore 10 islands
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1191
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Adventurer
+  Description: Explore 20 islands
+  GS: '30'
+  Guide: false
+  Number of Gamers: 765
+  Percentage of Gamers: 31%
+  Ratio: 1.8
+  TA: '54'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Explorer
+  Description: Explore 30 islands
+  GS: '90'
+  Guide: true
+  Number of Gamers: 567
+  Percentage of Gamers: 23%
+  Ratio: 2.09
+  TA: '188'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Wealthy
+  Description: Have at least 12 buildings in your inventory at once
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1080
+  Percentage of Gamers: 44%
+  Ratio: 1.51
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative
+- Achievement Name: Sprinter
+  Description: Reach the second island within 2 minutes and 30 seconds
+  GS: '90'
+  Guide: true
+  Number of Gamers: 593
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '184'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: Athlete
+  Description: Reach the third island within 7 minutes
+  GS: '90'
+  Guide: true
+  Number of Gamers: 486
+  Percentage of Gamers: 20%
+  Ratio: 2.25
+  TA: '203'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: Puzzle Solver
+  Description: Have exactly 100 points after placing a building
+  GS: '30'
+  Guide: true
+  Number of Gamers: 909
+  Percentage of Gamers: 37%
+  Ratio: 1.65
+  TA: '49'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Investor
+  Description: Lose a total of at least 100 points in one match
+  GS: '15'
+  Guide: true
+  Number of Gamers: 457
+  Percentage of Gamers: 18%
+  Ratio: 2.32
+  TA: '34'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Slow Burn
+  Description: Reach a score of 1000 without ever having more than 6 buildings in
+    your inventory
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1009
+  Percentage of Gamers: 41%
+  Ratio: 1.56
+  TA: '47'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Islander
+  Description: Reach a score of 800 on the first island
+  GS: '15'
+  Guide: false
+  Number of Gamers: 808
+  Percentage of Gamers: 33%
+  Ratio: 1.75
+  TA: '26'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 1.826
+Base TA: 1826
+Delisted: false
+Developer: GrizzlyGames
+Game Name: 'ISLANDERS: Console Edition'
+Genres: Puzzle
+Install Size: 315.0
+Number of Completions: 305
+Number of Gamers: 2482
+Overall Completion Time:
+- 5.0
+- 6.0
+Overall GS: 1000
+Overall Ratio: 1.826
+Overall TA: 1826
+PDU: 0
+Percentage Completed: 12.29
+Publisher: Coatsink
+Release Date: 25 August 2021
+Server Closure: false
+Site Rating: 3.71
+Update Achievements: []
+Walkthrough: false

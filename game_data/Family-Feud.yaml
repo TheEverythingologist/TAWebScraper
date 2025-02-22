@@ -1,0 +1,427 @@
+Add On Achievements: []
+Base Completion Time:
+- 20.0
+- 25.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: We are family
+  Description: Complete a game
+  GS: '20'
+  Guide: true
+  Number of Gamers: 11009
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '20'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Family tradition
+  Description: Complete 10 games
+  GS: '35'
+  Guide: false
+  Number of Gamers: 2498
+  Percentage of Gamers: 21%
+  Ratio: 2.19
+  TA: '76'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Take it easy
+  Description: Win a Classic Co-Op game on easy difficulty
+  GS: '20'
+  Guide: true
+  Number of Gamers: 5976
+  Percentage of Gamers: 49%
+  Ratio: 1.42
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Cooperative
+- Achievement Name: Above average
+  Description: Win a Classic Co-Op game on medium or hard difficulty
+  GS: '35'
+  Guide: false
+  Number of Gamers: 6690
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '47'
+  Tags:
+  - Offline Mode
+  - Cooperative
+- Achievement Name: Powerhouse
+  Description: Win a Classic Co-Op game on very hard difficulty
+  GS: '60'
+  Guide: true
+  Number of Gamers: 2052
+  Percentage of Gamers: 17%
+  Ratio: 2.42
+  TA: '145'
+  Tags:
+  - Offline Mode
+  - Cooperative
+- Achievement Name: Machine learning
+  Description: Defeat all the opposing computer families
+  GS: '35'
+  Guide: true
+  Number of Gamers: 2794
+  Percentage of Gamers: 23%
+  Ratio: 2.07
+  TA: '72'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Party people
+  Description: Play a Party Battle game with 10 players
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2335
+  Percentage of Gamers: 19%
+  Ratio: 2.27
+  TA: '45'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The comeback
+  Description: The team in second place before Fast Money in a Party Battle game goes
+    on to win
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2224
+  Percentage of Gamers: 18%
+  Ratio: 2.32
+  TA: '46'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Walk over
+  Description: The same team wins every round and the game in Party Battle mode
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2074
+  Percentage of Gamers: 17%
+  Ratio: 2.41
+  TA: '48'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Networking
+  Description: Win an online game
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2412
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '44'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Neural Networking
+  Description: Win 10 online games
+  GS: '60'
+  Guide: true
+  Number of Gamers: 425
+  Percentage of Gamers: 4%
+  Ratio: 5.32
+  TA: '319'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Family reunion
+  Description: Have a rematch
+  GS: '20'
+  Guide: true
+  Number of Gamers: 5263
+  Percentage of Gamers: 44%
+  Ratio: 1.51
+  TA: '30'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Our survey says...
+  Description: Find the top answer on the first attempt in the Face-Off
+  GS: '20'
+  Guide: false
+  Number of Gamers: 10965
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '20'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Fast family
+  Description: Buzz in during the Face-Off before the question is fully revealed and
+    give the top answer
+  GS: '35'
+  Guide: false
+  Number of Gamers: 10704
+  Percentage of Gamers: 89%
+  Ratio: 1.06
+  TA: '37'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Family shrewd
+  Description: Find all correct answers in a round without getting a strike
+  GS: '60'
+  Guide: true
+  Number of Gamers: 6505
+  Percentage of Gamers: 54%
+  Ratio: 1.36
+  TA: '81'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Family elude
+  Description: Fail to find the top answer in a round
+  GS: '20'
+  Guide: true
+  Number of Gamers: 6676
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '26'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Heist
+  Description: Successfully steal a round
+  GS: '20'
+  Guide: false
+  Number of Gamers: 8217
+  Percentage of Gamers: 68%
+  Ratio: 1.21
+  TA: '24'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Grand heist
+  Description: Successfully steal a round finding the last answer on the board
+  GS: '35'
+  Guide: false
+  Number of Gamers: 3975
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '61'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Brush with death
+  Description: Go to Sudden Death
+  GS: '20'
+  Guide: true
+  Number of Gamers: 7027
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '26'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Just in time
+  Description: Finish Fast Money with under 5 seconds to spare
+  GS: '20'
+  Guide: true
+  Number of Gamers: 5719
+  Percentage of Gamers: 47%
+  Ratio: 1.45
+  TA: '29'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Time/Date
+- Achievement Name: Top five
+  Description: Find all the top answers during Fast Money
+  GS: '35'
+  Guide: true
+  Number of Gamers: 3177
+  Percentage of Gamers: 26%
+  Ratio: 1.94
+  TA: '68'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Hit the jackpot
+  Description: Win the $20,000 prize
+  GS: '35'
+  Guide: false
+  Number of Gamers: 7400
+  Percentage of Gamers: 61%
+  Ratio: 1.27
+  TA: '44'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Riding high
+  Description: Win the car
+  GS: '60'
+  Guide: true
+  Number of Gamers: 1527
+  Percentage of Gamers: 13%
+  Ratio: 2.81
+  TA: '168'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Big spender
+  Description: Spend $250,000
+  GS: '35'
+  Guide: true
+  Number of Gamers: 507
+  Percentage of Gamers: 4%
+  Ratio: 4.87
+  TA: '170'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Shop
+- Achievement Name: Top answerer
+  Description: Find 200 top answers
+  GS: '65'
+  Guide: true
+  Number of Gamers: 510
+  Percentage of Gamers: 4%
+  Ratio: 4.86
+  TA: '316'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Starting out
+  Description: Reach level 5
+  GS: '20'
+  Guide: false
+  Number of Gamers: 4018
+  Percentage of Gamers: 33%
+  Ratio: 1.73
+  TA: '34'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Level
+- Achievement Name: Rising star
+  Description: Reach level 15
+  GS: '35'
+  Guide: false
+  Number of Gamers: 1123
+  Percentage of Gamers: 9%
+  Ratio: 3.27
+  TA: '114'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Level
+- Achievement Name: Top flight
+  Description: Reach level 30
+  GS: '60'
+  Guide: true
+  Number of Gamers: 427
+  Percentage of Gamers: 4%
+  Ratio: 5.31
+  TA: '319'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Level
+- Achievement Name: Family portrait
+  Description: Customize a character
+  GS: '20'
+  Guide: true
+  Number of Gamers: 8762
+  Percentage of Gamers: 73%
+  Ratio: 1.17
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Family silver
+  Description: Make your first purchase
+  GS: '20'
+  Guide: true
+  Number of Gamers: 5472
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '29'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Shop
+- Achievement Name: Family fireworks
+  Description: Play on the 4th of July
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1006
+  Percentage of Gamers: 8%
+  Ratio: 3.46
+  TA: '69'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Time/Date
+Base Ratio: 2.578
+Base TA: 2578
+Delisted: false
+Developer: Snap Finger Click
+Game Name: Family Feud
+Genres: Educational & Trivia, Party
+Install Size: 1690.0
+Number of Completions: 242
+Number of Gamers: 12076
+Overall Completion Time:
+- 20.0
+- 25.0
+Overall GS: 1000
+Overall Ratio: 2.578
+Overall TA: 2578
+PDU: 0
+Percentage Completed: 2.0
+Publisher: Ubisoft
+Release Date: 12 November 2020
+Server Closure: false
+Site Rating: 3.02
+Update Achievements: []
+Walkthrough: false

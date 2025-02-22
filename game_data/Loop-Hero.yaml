@@ -1,0 +1,622 @@
+Add On Achievements: []
+Base Completion Time:
+- 40.0
+- 50.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: New beginning
+  Description: Embark on your first expedition
+  GS: '5'
+  Guide: true
+  Number of Gamers: 39084
+  Percentage of Gamers: 100%
+  Ratio: 1.0
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Practically a job
+  Description: Embark on your tenth expedition
+  GS: '10'
+  Guide: true
+  Number of Gamers: 20130
+  Percentage of Gamers: 51%
+  Ratio: 1.39
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Go-getter
+  Description: Embark on your fiftieth expedition
+  GS: '20'
+  Guide: true
+  Number of Gamers: 5207
+  Percentage of Gamers: 13%
+  Ratio: 2.73
+  TA: '54'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: First time?
+  Description: Die first time
+  GS: '5'
+  Guide: true
+  Number of Gamers: 28813
+  Percentage of Gamers: 74%
+  Ratio: 1.16
+  TA: '5'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Groundhog day
+  Description: Die ten times
+  GS: '10'
+  Guide: false
+  Number of Gamers: 12395
+  Percentage of Gamers: 32%
+  Ratio: 1.77
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Trickster
+  Description: Unlock the "Rogue" class
+  GS: '10'
+  Guide: true
+  Number of Gamers: 17965
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Grandma says hello
+  Description: Unlock the "Necromancer" class
+  GS: '10'
+  Guide: true
+  Number of Gamers: 12918
+  Percentage of Gamers: 33%
+  Ratio: 1.73
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: First blood
+  Description: Kill 5 enemies
+  GS: '5'
+  Guide: true
+  Number of Gamers: 36904
+  Percentage of Gamers: 94%
+  Ratio: 1.02
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Lost count
+  Description: Kill 1000 enemies
+  GS: '25'
+  Guide: false
+  Number of Gamers: 18644
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '36'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Trophy collection
+  Description: Kill each enemy
+  GS: '35'
+  Guide: true
+  Number of Gamers: 1219
+  Percentage of Gamers: 3%
+  Ratio: 5.66
+  TA: '198'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Part of the world
+  Description: Find 100 resources
+  GS: '10'
+  Guide: true
+  Number of Gamers: 18825
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Make a puzzle
+  Description: Find all possible types of resources
+  GS: '35'
+  Guide: true
+  Number of Gamers: 3998
+  Percentage of Gamers: 10%
+  Ratio: 3.12
+  TA: '109'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Can't get it back
+  Description: Lose 100 resources
+  GS: '10'
+  Guide: true
+  Number of Gamers: 12270
+  Percentage of Gamers: 31%
+  Ratio: 1.78
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Foundation stone
+  Description: Build the first camp structure
+  GS: '5'
+  Guide: false
+  Number of Gamers: 33305
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Hole in memory
+  Description: Dismantle a camp structure
+  GS: '15'
+  Guide: true
+  Number of Gamers: 8097
+  Percentage of Gamers: 21%
+  Ratio: 2.19
+  TA: '32'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Always been here?
+  Description: Build the river
+  GS: '30'
+  Guide: false
+  Number of Gamers: 4606
+  Percentage of Gamers: 12%
+  Ratio: 2.91
+  TA: '87'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Small town
+  Description: Build all the possible camp structures
+  GS: '35'
+  Guide: false
+  Number of Gamers: 2784
+  Percentage of Gamers: 7%
+  Ratio: 3.74
+  TA: '131'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: What's not tied down
+  Description: Get 5 camp items
+  GS: '10'
+  Guide: false
+  Number of Gamers: 12493
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Collector
+  Description: Get all the camp items
+  GS: '35'
+  Guide: false
+  Number of Gamers: 1299
+  Percentage of Gamers: 3%
+  Ratio: 5.48
+  TA: '192'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: From dust and sticks
+  Description: Craft 5 items
+  GS: '5'
+  Guide: false
+  Number of Gamers: 6849
+  Percentage of Gamers: 18%
+  Ratio: 2.38
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Handyman
+  Description: Craft 25 items
+  GS: '25'
+  Guide: false
+  Number of Gamers: 2363
+  Percentage of Gamers: 6%
+  Ratio: 4.06
+  TA: '101'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Easier than making
+  Description: Dismantle 5 items
+  GS: '10'
+  Guide: true
+  Number of Gamers: 6180
+  Percentage of Gamers: 16%
+  Ratio: 2.51
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Barbarian
+  Description: Dismantle 10 items
+  GS: '15'
+  Guide: false
+  Number of Gamers: 4916
+  Percentage of Gamers: 13%
+  Ratio: 2.82
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Not gold...
+  Description: Synthesize 5 resource with alchemy
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2709
+  Percentage of Gamers: 7%
+  Ratio: 3.79
+  TA: '56'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Still not gold...
+  Description: Synthesize 100 resources
+  GS: '35'
+  Guide: true
+  Number of Gamers: 2028
+  Percentage of Gamers: 5%
+  Ratio: 4.39
+  TA: '153'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Alchemist's apprentice
+  Description: Transmute 5 resources into hydrogen
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2907
+  Percentage of Gamers: 7%
+  Ratio: 3.66
+  TA: '55'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Don't breathe it in
+  Description: Transmute 50 resources into hydrogen
+  GS: '35'
+  Guide: true
+  Number of Gamers: 2594
+  Percentage of Gamers: 7%
+  Ratio: 3.88
+  TA: '135'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Scholar
+  Description: Unlock a chapter in the encyclopedia
+  GS: '10'
+  Guide: false
+  Number of Gamers: 4794
+  Percentage of Gamers: 12%
+  Ratio: 2.85
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Observer
+  Description: Unlock 50 chapters in the encyclopedia
+  GS: '35'
+  Guide: true
+  Number of Gamers: 2982
+  Percentage of Gamers: 8%
+  Ratio: 3.62
+  TA: '126'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Book worm
+  Description: Unlock all the encyclopedia
+  GS: '35'
+  Guide: true
+  Number of Gamers: 1070
+  Percentage of Gamers: 3%
+  Ratio: 6.04
+  TA: '211'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Small talker
+  Description: Read 50 different dialogues
+  GS: '15'
+  Guide: false
+  Number of Gamers: 5638
+  Percentage of Gamers: 14%
+  Ratio: 2.63
+  TA: '39'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Cardsharp
+  Description: Place 1000 cards
+  GS: '10'
+  Guide: true
+  Number of Gamers: 16199
+  Percentage of Gamers: 41%
+  Ratio: 1.55
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: As anew
+  Description: Fill the whole map
+  GS: '15'
+  Guide: true
+  Number of Gamers: 4133
+  Percentage of Gamers: 11%
+  Ratio: 3.07
+  TA: '46'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: See the world and not die
+  Description: See all the possible tiles
+  GS: '35'
+  Guide: true
+  Number of Gamers: 1450
+  Percentage of Gamers: 4%
+  Ratio: 5.19
+  TA: '181'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Tripped
+  Description: Die outside of battle
+  GS: '35'
+  Guide: true
+  Number of Gamers: 2356
+  Percentage of Gamers: 6%
+  Ratio: 4.07
+  TA: '142'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Bartender! Refill!
+  Description: Drink 50 potions
+  GS: '10'
+  Guide: true
+  Number of Gamers: 15234
+  Percentage of Gamers: 39%
+  Ratio: 1.6
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Around the world
+  Description: Complete 100 loops
+  GS: '10'
+  Guide: false
+  Number of Gamers: 13767
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Just starting out
+  Description: Hidden
+  GS: '10'
+  Guide: true
+  Number of Gamers: 16440
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Punching bag
+  Description: Hidden
+  GS: '25'
+  Guide: true
+  Number of Gamers: 7077
+  Percentage of Gamers: 18%
+  Ratio: 2.35
+  TA: '58'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Glass Queen
+  Description: Hidden
+  GS: '15'
+  Guide: false
+  Number of Gamers: 6831
+  Percentage of Gamers: 17%
+  Ratio: 2.39
+  TA: '35'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Faith alone is not enough
+  Description: Hidden
+  GS: '30'
+  Guide: true
+  Number of Gamers: 3143
+  Percentage of Gamers: 8%
+  Ratio: 3.52
+  TA: '105'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: For whom the horn tolls...
+  Description: Hidden
+  GS: '20'
+  Guide: false
+  Number of Gamers: 3641
+  Percentage of Gamers: 9%
+  Ratio: 3.27
+  TA: '65'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Hunter's Nightmare
+  Description: Hidden
+  GS: '30'
+  Guide: true
+  Number of Gamers: 2061
+  Percentage of Gamers: 5%
+  Ratio: 4.35
+  TA: '130'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Memory pieces
+  Description: Hidden
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1953
+  Percentage of Gamers: 5%
+  Ratio: 4.47
+  TA: '89'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
+- Achievement Name: Godslayer
+  Description: Hidden
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1008
+  Percentage of Gamers: 3%
+  Ratio: 6.23
+  TA: '311'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Undying
+  Description: Die and resurrect 3 times in one expedition
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2046
+  Percentage of Gamers: 5%
+  Ratio: 4.37
+  TA: '87'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Crunchy company
+  Description: Have 10 living skeletons in one battle
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1247
+  Percentage of Gamers: 3%
+  Ratio: 5.6
+  TA: '84'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Fence
+  Description: Get 10 orange items in exchange for the trophies in camp
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1987
+  Percentage of Gamers: 5%
+  Ratio: 4.43
+  TA: '66'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: In time for lunch
+  Description: Defeat the boss in the first expedition
+  GS: '25'
+  Guide: true
+  Number of Gamers: 1135
+  Percentage of Gamers: 3%
+  Ratio: 5.87
+  TA: '146'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Broken geography
+  Description: Place 10 cards you didn't have in your deck, not counting "Oblivion"
+  GS: '40'
+  Guide: true
+  Number of Gamers: 949
+  Percentage of Gamers: 2%
+  Ratio: 6.42
+  TA: '256'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 3.813
+Base TA: 3813
+Delisted: false
+Developer: Four Quarters
+Game Name: Loop Hero
+Genres: Roguelite, Strategy, Collectable Card Game
+Install Size: 516.0
+Number of Completions: 816
+Number of Gamers: 39125
+Overall Completion Time:
+- 40.0
+- 50.0
+Overall GS: 1000
+Overall Ratio: 3.813
+Overall TA: 3813
+PDU: 0
+Percentage Completed: 2.09
+Publisher: Devolver Digital
+Release Date: 04 April 2023
+Server Closure: false
+Site Rating: 3.89
+Update Achievements: []
+Walkthrough: false

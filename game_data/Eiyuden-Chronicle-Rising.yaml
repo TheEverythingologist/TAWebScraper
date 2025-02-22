@@ -1,0 +1,626 @@
+Add On Achievements: []
+Base Completion Time:
+- 20.0
+- 25.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Plenty More to Go
+  Description: Complete your first main scenario quest
+  GS: '10'
+  Guide: true
+  Number of Gamers: 42572
+  Percentage of Gamers: 100%
+  Ratio: 1.0
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Partners?
+  Description: Team up with Garoo
+  GS: '10'
+  Guide: true
+  Number of Gamers: 25942
+  Percentage of Gamers: 61%
+  Ratio: 1.28
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: '...And Your Tax Money'
+  Description: Team up with Isha
+  GS: '10'
+  Guide: true
+  Number of Gamers: 18579
+  Percentage of Gamers: 44%
+  Ratio: 1.51
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: All Bark, No Bite
+  Description: Defeat the Great Tree Fiend
+  GS: '10'
+  Guide: true
+  Number of Gamers: 32467
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Magical Mineral Golem
+  Description: Defeat the Lode Golem in the Quarry
+  GS: '10'
+  Guide: true
+  Number of Gamers: 22310
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: The Lords of the Snowpeak
+  Description: Defeat the Blizzard Brothers on the Snowpeak
+  GS: '10'
+  Guide: true
+  Number of Gamers: 16138
+  Percentage of Gamers: 38%
+  Ratio: 1.62
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: The Lava Mantor Wyrm
+  Description: Defeat the Lava Mantor Wyrm
+  GS: '10'
+  Guide: true
+  Number of Gamers: 14913
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: This Treasure I've Found
+  Description: Clear all main scenario quests
+  GS: '50'
+  Guide: false
+  Number of Gamers: 13884
+  Percentage of Gamers: 33%
+  Ratio: 1.75
+  TA: '87'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
+- Achievement Name: The Road to Recovery
+  Description: Complete your first side-quest
+  GS: '10'
+  Guide: true
+  Number of Gamers: 26251
+  Percentage of Gamers: 62%
+  Ratio: 1.27
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: One-Hundred Resident Record
+  Description: Clear all resident quests
+  GS: '30'
+  Guide: true
+  Number of Gamers: 10245
+  Percentage of Gamers: 24%
+  Ratio: 2.03
+  TA: '61'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: A Girl About the Town
+  Description: Complete the silver stamp card
+  GS: '30'
+  Guide: true
+  Number of Gamers: 20284
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '43'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: The Go-To Girl
+  Description: Complete the gold stamp card
+  GS: '30'
+  Guide: true
+  Number of Gamers: 15185
+  Percentage of Gamers: 36%
+  Ratio: 1.67
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: The Pride of the Town
+  Description: Complete the platinum stamp card
+  GS: '30'
+  Guide: false
+  Number of Gamers: 12891
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '54'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: A Local Hero
+  Description: Complete the black stamp card
+  GS: '50'
+  Guide: true
+  Number of Gamers: 10212
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '102'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Scavenger's Honor
+  Description: Bring CJ to level 30
+  GS: '30'
+  Guide: false
+  Number of Gamers: 14811
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: One Mean Merc
+  Description: Bring Garoo to level 30
+  GS: '30'
+  Guide: false
+  Number of Gamers: 14794
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Adept, for an Acting Mayor
+  Description: Bring Isha to level 30
+  GS: '30'
+  Guide: false
+  Number of Gamers: 14745
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: No One Better
+  Description: Bring any character to level 50
+  GS: '50'
+  Guide: true
+  Number of Gamers: 7802
+  Percentage of Gamers: 18%
+  Ratio: 2.33
+  TA: '116'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Full Force - CJ
+  Description: Fully enhance CJ's weapon and armor
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7917
+  Percentage of Gamers: 19%
+  Ratio: 2.31
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Full Force - Garoo
+  Description: Fully enhance Garoo's weapon and armor
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7639
+  Percentage of Gamers: 18%
+  Ratio: 2.36
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Full Force - Isha
+  Description: Fully enhance Isha's weapon and armor
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7635
+  Percentage of Gamers: 18%
+  Ratio: 2.36
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Arms Master
+  Description: Bring all party members' weapons to their max. level
+  GS: '10'
+  Guide: false
+  Number of Gamers: 9920
+  Percentage of Gamers: 23%
+  Ratio: 2.07
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Armor Master
+  Description: Bring all party members' armor to its max. level
+  GS: '10'
+  Guide: true
+  Number of Gamers: 11205
+  Percentage of Gamers: 26%
+  Ratio: 1.94
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Amateur Adventurer
+  Description: Obtain a total of 100 resources
+  GS: '10'
+  Guide: true
+  Number of Gamers: 26614
+  Percentage of Gamers: 62%
+  Ratio: 1.26
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Hopeful Hunter
+  Description: Defeat 100 enemies
+  GS: '10'
+  Guide: true
+  Number of Gamers: 27756
+  Percentage of Gamers: 65%
+  Ratio: 1.23
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: No Treasure Left Behind
+  Description: Obtain resources of all types
+  GS: '30'
+  Guide: true
+  Number of Gamers: 8377
+  Percentage of Gamers: 20%
+  Ratio: 2.25
+  TA: '67'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Natural Born Monster-Killer
+  Description: Defeat all types of enemies
+  GS: '30'
+  Guide: false
+  Number of Gamers: 15051
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: On Outlander Lane
+  Description: Use town facilities 10 times
+  GS: '10'
+  Guide: true
+  Number of Gamers: 21640
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Shop
+- Achievement Name: New Nevaeh's Number One Customer
+  Description: Use all town facilities
+  GS: '30'
+  Guide: true
+  Number of Gamers: 11443
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '57'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Gourmand
+  Description: Eat max. level cuisine
+  GS: '10'
+  Guide: true
+  Number of Gamers: 9792
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Accessorizer
+  Description: Create a max. level accessory
+  GS: '10'
+  Guide: true
+  Number of Gamers: 9644
+  Percentage of Gamers: 23%
+  Ratio: 2.1
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Sommelier
+  Description: Obtain max. level a consumable
+  GS: '10'
+  Guide: true
+  Number of Gamers: 10288
+  Percentage of Gamers: 24%
+  Ratio: 2.03
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Rune Scholar
+  Description: Create a max. level rune
+  GS: '10'
+  Guide: true
+  Number of Gamers: 10148
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Money, Money, Money
+  Description: Obtain 100,000 baqua
+  GS: '50'
+  Guide: true
+  Number of Gamers: 14431
+  Percentage of Gamers: 34%
+  Ratio: 1.71
+  TA: '85'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: First Time Fishing
+  Description: Catch a fish for the first time
+  GS: '10'
+  Guide: true
+  Number of Gamers: 20631
+  Percentage of Gamers: 48%
+  Ratio: 1.43
+  TA: '14'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: First Time Hunting
+  Description: Trap a beast for the first time
+  GS: '10'
+  Guide: true
+  Number of Gamers: 19265
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '14'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Elementum Primo
+  Description: Destroy an Elementum Pillar for the first time
+  GS: '10'
+  Guide: true
+  Number of Gamers: 19218
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Fishing Master
+  Description: Catch a max. grade fish
+  GS: '10'
+  Guide: true
+  Number of Gamers: 12952
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '18'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Meat Master
+  Description: Obtain max. grade meat
+  GS: '10'
+  Guide: true
+  Number of Gamers: 11477
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '19'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Elementum Mastery
+  Description: Destroy all types of Elementum Pillar
+  GS: '30'
+  Guide: false
+  Number of Gamers: 14187
+  Percentage of Gamers: 33%
+  Ratio: 1.73
+  TA: '51'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: The Great Forest...On Foot!
+  Description: Explore every area in the Great Forest
+  GS: '10'
+  Guide: false
+  Number of Gamers: 14581
+  Percentage of Gamers: 34%
+  Ratio: 1.7
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: The Quarry...On Foot!
+  Description: Explore every area in the Quarry
+  GS: '10'
+  Guide: false
+  Number of Gamers: 13435
+  Percentage of Gamers: 32%
+  Ratio: 1.78
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: The Snowpeak...On Foot!
+  Description: Explore every area on the Snowpeak
+  GS: '10'
+  Guide: true
+  Number of Gamers: 12608
+  Percentage of Gamers: 30%
+  Ratio: 1.83
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: The Lava Ruins...On Foot!
+  Description: Explore every area on the Lava Ruins
+  GS: '10'
+  Guide: false
+  Number of Gamers: 12911
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: The Runebarrows...On Foot!
+  Description: Explore every area on the Runebarrows
+  GS: '10'
+  Guide: false
+  Number of Gamers: 13353
+  Percentage of Gamers: 31%
+  Ratio: 1.78
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Champion of the Great Forest
+  Description: Defeat the boss in the Great Forest on hard difficulty
+  GS: '30'
+  Guide: true
+  Number of Gamers: 9694
+  Percentage of Gamers: 23%
+  Ratio: 2.09
+  TA: '62'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Champion of the Quarry
+  Description: Defeat the boss in the Quarry on hard difficulty
+  GS: '30'
+  Guide: true
+  Number of Gamers: 9428
+  Percentage of Gamers: 22%
+  Ratio: 2.12
+  TA: '63'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Champion of the Snowpeak
+  Description: Defeat the boss in the Snowpeak on hard difficulty
+  GS: '30'
+  Guide: true
+  Number of Gamers: 8909
+  Percentage of Gamers: 21%
+  Ratio: 2.18
+  TA: '65'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Champion of the Lava Ruins
+  Description: Defeat the boss in the Lava Ruins on hard difficulty
+  GS: '30'
+  Guide: true
+  Number of Gamers: 8815
+  Percentage of Gamers: 21%
+  Ratio: 2.19
+  TA: '65'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Rising Champion
+  Description: Defeat the final boss on hard difficulty
+  GS: '50'
+  Guide: true
+  Number of Gamers: 7789
+  Percentage of Gamers: 18%
+  Ratio: 2.33
+  TA: '116'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+Base Ratio: 1.842
+Base TA: 1842
+Delisted: false
+Developer: Rabbit & Bear Studios
+Game Name: 'Eiyuden Chronicle: Rising'
+Genres: Action-RPG, Role Playing, Platformer
+Install Size: 5020.0
+Number of Completions: 7067
+Number of Gamers: 42616
+Overall Completion Time:
+- 20.0
+- 25.0
+Overall GS: 1000
+Overall Ratio: 1.842
+Overall TA: 1842
+PDU: 0
+Percentage Completed: 16.58
+Publisher: 505 Games
+Release Date: 10 May 2022
+Server Closure: false
+Site Rating: 3.85
+Update Achievements: []
+Walkthrough: false

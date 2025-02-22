@@ -1,0 +1,536 @@
+Add On Achievements: []
+Base Completion Time:
+- 15.0
+- 20.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: 2nd rounder
+  Description: Make game-winning FG under 10 sec. after missing 2 or more previous
+    kick attempts.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 5840
+  Percentage of Gamers: 7%
+  Ratio: 3.75
+  TA: '187'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Move Master
+  Description: Successfully fake-out a defender when prompted to perform a ball carrier
+    special move.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 52744
+  Percentage of Gamers: 64%
+  Ratio: 1.25
+  TA: '25'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Full Set
+  Description: Win a game with each of the 32 NFL teams - wins count across all game
+    modes.
+  GS: '100'
+  Guide: true
+  Number of Gamers: 3037
+  Percentage of Gamers: 4%
+  Ratio: 5.2
+  TA: '520'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+  - Buggy
+- Achievement Name: Lockdown Corner
+  Description: Win 3 presses in a single game with the same CB.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 47940
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '32'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Not OP
+  Description: Successfully use the swat mechanic to force an incomplete pass.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 56789
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '60'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Buggy
+- Achievement Name: Pass Academy
+  Description: Successfully complete the Target Passing Mechanic Tutorial and Skills
+    Trainer drill.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 6203
+  Percentage of Gamers: 8%
+  Ratio: 3.64
+  TA: '72'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Reach Out
+  Description: Execute a successful reach tackle while being blocked.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 4581
+  Percentage of Gamers: 6%
+  Ratio: 4.24
+  TA: '106'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Situational Awareness
+  Description: Make a Coaching Adjustment in the 4th quarter or OT.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 15990
+  Percentage of Gamers: 19%
+  Ratio: 2.27
+  TA: '45'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Comeback City
+  Description: Comeback and win when trailing by 17+ points at halftime.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 5405
+  Percentage of Gamers: 7%
+  Ratio: 3.9
+  TA: '117'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: "Throwin\u2019 Dots"
+  Description: Throw a Passing TD using the Target Passing Mechanic.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 6457
+  Percentage of Gamers: 8%
+  Ratio: 3.57
+  TA: '107'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Larry Fitzgerald Legacy Award
+  Description: Using a created player, coach, or owner - surpass a legacy score of
+    8,750.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 10765
+  Percentage of Gamers: 13%
+  Ratio: 2.76
+  TA: '83'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Mike Evans Legacy Award
+  Description: Using a created player, coach, or owner - surpass a legacy score of
+    1,050.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 19275
+  Percentage of Gamers: 23%
+  Ratio: 2.06
+  TA: '20'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Marshawn Lynch Legacy Award
+  Description: Using a created player, coach, or owner - surpass a legacy score of
+    6,500.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 11398
+  Percentage of Gamers: 14%
+  Ratio: 2.68
+  TA: '40'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Ezekiel Elliott Legacy Award
+  Description: Using a created player, coach, or owner - surpass a legacy score of
+    620.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 21236
+  Percentage of Gamers: 26%
+  Ratio: 1.96
+  TA: '19'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Eli Manning Legacy Award
+  Description: Using a created player, coach, or owner - surpass a legacy score of
+    7,750.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 10972
+  Percentage of Gamers: 13%
+  Ratio: 2.74
+  TA: '68'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: John Madden Legacy Award
+  Description: Using a created player, coach, or owner - surpass a legacy score of
+    10,000.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 10517
+  Percentage of Gamers: 13%
+  Ratio: 2.79
+  TA: '139'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Eric Berry Legacy Award
+  Description: Using a created player, coach, or owner - surpass a legacy score of
+    2,150.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 15874
+  Percentage of Gamers: 19%
+  Ratio: 2.27
+  TA: '22'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Carson Wentz Legacy Award
+  Description: Using a created player, coach, or owner - surpass a legacy score of
+    50.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 28359
+  Percentage of Gamers: 34%
+  Ratio: 1.7
+  TA: '17'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Matt Ryan Legacy Award
+  Description: Using a created player, coach, or owner - surpass a legacy score of
+    4,050.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 12906
+  Percentage of Gamers: 16%
+  Ratio: 2.52
+  TA: '37'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Tom Brady Legacy Award
+  Description: Using a created player, coach, or owner - surpass a legacy score of
+    27,000.
+  GS: '75'
+  Guide: true
+  Number of Gamers: 8196
+  Percentage of Gamers: 10%
+  Ratio: 3.17
+  TA: '237'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Grindin' Solos
+  Description: Win a MUT Solo Challenge.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 53697
+  Percentage of Gamers: 65%
+  Ratio: 1.23
+  TA: '12'
+  Tags:
+  - Discontinued
+- Achievement Name: Negotiator
+  Description: Win a MUT auction.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 28314
+  Percentage of Gamers: 34%
+  Ratio: 1.7
+  TA: '25'
+  Tags:
+  - Discontinued
+- Achievement Name: Team Building 101
+  Description: Activate two Chemistries at the same time.
+  GS: '35'
+  Guide: true
+  Number of Gamers: 34581
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '54'
+  Tags:
+  - Discontinued
+- Achievement Name: This is My Ultimate Team
+  Description: Create a MUT Team.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 53496
+  Percentage of Gamers: 65%
+  Ratio: 1.24
+  TA: '12'
+  Tags:
+  - Discontinued
+- Achievement Name: A New Hope
+  Description: Complete the First Act in Longshot.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 49976
+  Percentage of Gamers: 61%
+  Ratio: 1.28
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Max Effort
+  Description: Hit every QTE gameplay sequence during the high school flashback.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 20616
+  Percentage of Gamers: 25%
+  Ratio: 1.99
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Carnival Games
+  Description: Beat Josh Butterly in the Longshot Throwing Game.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 44777
+  Percentage of Gamers: 54%
+  Ratio: 1.35
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Complete Act 2
+  Description: Complete the Second Act in Longshot.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 40880
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Complete Act 3
+  Description: Complete the Third Act in Longshot.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 33473
+  Percentage of Gamers: 41%
+  Ratio: 1.56
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Draft Grade
+  Description: Raise Devin's grade in the scouting report to 7.0.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 16242
+  Percentage of Gamers: 20%
+  Ratio: 2.25
+  TA: '33'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: High IQ
+  Description: Finish Longshot with a high football IQ.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 12401
+  Percentage of Gamers: 15%
+  Ratio: 2.57
+  TA: '38'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Prove it on the Field
+  Description: Finish Longshot with great on field performances.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 11841
+  Percentage of Gamers: 14%
+  Ratio: 2.63
+  TA: '39'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Redemption
+  Description: Redeem yourself in the Longshot Finale.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 34034
+  Percentage of Gamers: 41%
+  Ratio: 1.55
+  TA: '46'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Spider 3 Y Banana
+  Description: Successfully complete every playcall moment in Longshot.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 13615
+  Percentage of Gamers: 17%
+  Ratio: 2.46
+  TA: '49'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Steer Clear
+  Description: Complete every Steer the Ball mechanic without hitting an obstacle.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7047
+  Percentage of Gamers: 9%
+  Ratio: 3.41
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Trust Your Arm
+  Description: Lead your team to a win in the Longshot 7 on 7 Game.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 35867
+  Percentage of Gamers: 43%
+  Ratio: 1.51
+  TA: '15'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Who's the Man
+  Description: Finish with a higher score than Dan Marino in the Military Throwing
+    Game.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 14991
+  Percentage of Gamers: 18%
+  Ratio: 2.34
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: You are the Longshot
+  Description: Become the star of the Longshot TV show.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 43794
+  Percentage of Gamers: 53%
+  Ratio: 1.37
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Going For Gold
+  Description: Earn gold from a drill inside the Skill Trainer.
+  GS: '70'
+  Guide: true
+  Number of Gamers: 20572
+  Percentage of Gamers: 25%
+  Ratio: 2.0
+  TA: '140'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Triple Crown
+  Description: Record a sack, a forced fumble, and a fumble recovery with the same
+    player on a single play.
+  GS: '55'
+  Guide: true
+  Number of Gamers: 32849
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '87'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+Base Ratio: 2.646
+Base TA: 2646
+Delisted: false
+Developer: EA Orlando
+Game Name: Madden NFL 18
+Genres: Sports, American Football
+Install Size: 39830.0
+Number of Completions: 1173
+Number of Gamers: 82495
+Overall Completion Time:
+- 15.0
+- 20.0
+Overall GS: 1000
+Overall Ratio: 2.646
+Overall TA: 2646
+PDU: 4
+Percentage Completed: 1.42
+Publisher: Electronic Arts
+Release Date: 25 August 2017
+Server Closure: true
+Site Rating: 3.68
+Update Achievements: []
+Walkthrough: false

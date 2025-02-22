@@ -1,0 +1,554 @@
+Add On Achievements: []
+Base Completion Time:
+- -1
+- -1
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Stay off the gear!
+  Description: Complete Story mode without transforming into a single Death Dealer
+  GS: '60'
+  Guide: false
+  Number of Gamers: 40
+  Percentage of Gamers: 17%
+  Ratio: 2.43
+  TA: '146'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Stackable
+  - Missable
+- Achievement Name: You've gotta earn that gold trophy
+  Description: Beat Tomie Sector without using a "Continue"
+  GS: '70'
+  Guide: false
+  Number of Gamers: 12
+  Percentage of Gamers: 5%
+  Ratio: 4.45
+  TA: '311'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Stackable
+  - Missable
+- Achievement Name: Done and dusted!
+  Description: Complete Story mode (with any character)
+  GS: '30'
+  Guide: true
+  Number of Gamers: 87
+  Percentage of Gamers: 36%
+  Ratio: 1.65
+  TA: '49'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Stackable
+- Achievement Name: Faster than the Flash
+  Description: Complete Story mode in less than 20 minutes
+  GS: '30'
+  Guide: false
+  Number of Gamers: 25
+  Percentage of Gamers: 10%
+  Ratio: 3.08
+  TA: '92'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Stackable
+  - Missable
+  - Time/Date
+- Achievement Name: What's up, you broke?
+  Description: Avoid using a "Continue" when playing the last level
+  GS: '30'
+  Guide: true
+  Number of Gamers: 16
+  Percentage of Gamers: 7%
+  Ratio: 3.85
+  TA: '115'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: The real deal
+  Description: Unlock Sector
+  GS: '30'
+  Guide: true
+  Number of Gamers: 35
+  Percentage of Gamers: 15%
+  Ratio: 2.6
+  TA: '78'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Stackable
+  - Missable
+- Achievement Name: A close shave
+  Description: Press "Continue" between 1 and 0 seconds
+  GS: '15'
+  Guide: true
+  Number of Gamers: 53
+  Percentage of Gamers: 22%
+  Ratio: 2.11
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: Han's twin
+  Description: Land the first blow in every first round of each match in Story mode
+  GS: '15'
+  Guide: false
+  Number of Gamers: 9
+  Percentage of Gamers: 4%
+  Ratio: 5.14
+  TA: '77'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Curator
+  Description: Watch all the pins at least once
+  GS: '15'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '15'
+  Tags:
+  - Unobtainable
+- Achievement Name: Mastermind
+  Description: Find the right pin combination
+  GS: '15'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '15'
+  Tags:
+  - Unobtainable
+- Achievement Name: Pro Gamer
+  Description: Complete 100 games in Versus mode
+  GS: '30'
+  Guide: true
+  Number of Gamers: 17
+  Percentage of Gamers: 7%
+  Ratio: 3.74
+  TA: '112'
+  Tags:
+  - Offline Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Hands off my Trophy
+  Description: Win a round and keep hold of the trophy for the whole of the next round
+  GS: '30'
+  Guide: true
+  Number of Gamers: 60
+  Percentage of Gamers: 25%
+  Ratio: 1.99
+  TA: '59'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Hardcore gamer
+  Description: Win the right to change the stage 10 times
+  GS: '15'
+  Guide: true
+  Number of Gamers: 4
+  Percentage of Gamers: 2%
+  Ratio: 7.71
+  TA: '115'
+  Tags:
+  - Discontinued
+- Achievement Name: United we stand
+  Description: Pick your buddy up 3 times in the same game
+  GS: '15'
+  Guide: true
+  Number of Gamers: 37
+  Percentage of Gamers: 15%
+  Ratio: 2.53
+  TA: '38'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: He ain't heavy, he's my brother
+  Description: Carry your buddy for 5 seconds in a row in the same round
+  GS: '15'
+  Guide: false
+  Number of Gamers: 23
+  Percentage of Gamers: 10%
+  Ratio: 3.21
+  TA: '48'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Team player
+  Description: Send your buddy the third anitrans
+  GS: '15'
+  Guide: false
+  Number of Gamers: 15
+  Percentage of Gamers: 6%
+  Ratio: 3.98
+  TA: '59'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Smokin' tonight!
+  Description: Complete five 4-player games in a row
+  GS: '15'
+  Guide: true
+  Number of Gamers: 58
+  Percentage of Gamers: 24%
+  Ratio: 2.02
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Versus
+- Achievement Name: That belongs in a museum
+  Description: Collect all the pins in Collection mode
+  GS: '90'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '90'
+  Tags:
+  - Unobtainable
+- Achievement Name: Perfecto!
+  Description: Win a match with two perfect rounds
+  GS: '30'
+  Guide: true
+  Number of Gamers: 83
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Addict!
+  Description: Achieve a play time of 5 hours (not including time in the menus)
+  GS: '30'
+  Guide: false
+  Number of Gamers: 24
+  Percentage of Gamers: 10%
+  Ratio: 3.14
+  TA: '94'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: A wolf in sheep's clothing
+  Description: Choose a random character and stage and then win the match
+  GS: '30'
+  Guide: true
+  Number of Gamers: 75
+  Percentage of Gamers: 31%
+  Ratio: 1.78
+  TA: '53'
+  Tags:
+  - Offline Mode
+  - Versus
+- Achievement Name: Mind over matter!
+  Description: Win the game after being one round down and having less than 5% life
+    in the second round
+  GS: '30'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '30'
+  Tags:
+  - Unobtainable
+- Achievement Name: Trigger happy
+  Description: Shoot 50 bullets / torpedoes / missiles
+  GS: '30'
+  Guide: true
+  Number of Gamers: 100
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '46'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Extreme removals
+  Description: Throw 40 fridges
+  GS: '15'
+  Guide: true
+  Number of Gamers: 57
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Bulletproof
+  Description: Block 200 blows
+  GS: '15'
+  Guide: true
+  Number of Gamers: 63
+  Percentage of Gamers: 26%
+  Ratio: 1.94
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Say my name!
+  Description: Achieve 20 perfect rounds
+  GS: '15'
+  Guide: false
+  Number of Gamers: 33
+  Percentage of Gamers: 14%
+  Ratio: 2.68
+  TA: '40'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Bombs away!
+  Description: Complete 10 matches by throwing an object at your opponent
+  GS: '15'
+  Guide: false
+  Number of Gamers: 32
+  Percentage of Gamers: 13%
+  Ratio: 2.72
+  TA: '40'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Demolition Man
+  Description: Destroy all the destructible elements in the game at least once
+  GS: '15'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '15'
+  Tags:
+  - Unobtainable
+- Achievement Name: Jack of all trades
+  Description: Use each object / weapon in the game at least once
+  GS: '15'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '15'
+  Tags:
+  - Unobtainable
+- Achievement Name: Karate Kid
+  Description: Break an object thrown at you
+  GS: '15'
+  Guide: true
+  Number of Gamers: 236
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Lost and found
+  Description: Knock out an opponent using only objects
+  GS: '15'
+  Guide: false
+  Number of Gamers: 87
+  Percentage of Gamers: 36%
+  Ratio: 1.65
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Bullseye
+  Description: Hit your opponent by throwing an object from the other side of the
+    room
+  GS: '15'
+  Guide: false
+  Number of Gamers: 103
+  Percentage of Gamers: 43%
+  Ratio: 1.52
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Iron Fist
+  Description: Win a match without using a single special move or object
+  GS: '15'
+  Guide: true
+  Number of Gamers: 57
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Globetrotter
+  Description: Play in all stages at least once
+  GS: '15'
+  Guide: false
+  Number of Gamers: 136
+  Percentage of Gamers: 57%
+  Ratio: 1.32
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Twelve would be proud
+  Description: Play with all the characters at least 1 time
+  GS: '15'
+  Guide: true
+  Number of Gamers: 24
+  Percentage of Gamers: 10%
+  Ratio: 3.14
+  TA: '47'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: King of Tokyo
+  Description: Complete a match with each of the four transformations
+  GS: '15'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '15'
+  Tags:
+  - Unobtainable
+- Achievement Name: Drugs are bad!
+  Description: Take a single anitrans and keep it until the end of the round
+  GS: '15'
+  Guide: true
+  Number of Gamers: 137
+  Percentage of Gamers: 57%
+  Ratio: 1.31
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Winners don't do drugs!
+  Description: Don't take any anitrans and win the game
+  GS: '15'
+  Guide: true
+  Number of Gamers: 151
+  Percentage of Gamers: 63%
+  Ratio: 1.25
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: What was the point?
+  Description: Transform without doing any damage
+  GS: '15'
+  Guide: true
+  Number of Gamers: 118
+  Percentage of Gamers: 49%
+  Ratio: 1.42
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Overdose
+  Description: Transform into a Death Dealer 5 times in the same match
+  GS: '15'
+  Guide: false
+  Number of Gamers: 31
+  Percentage of Gamers: 13%
+  Ratio: 2.77
+  TA: '41'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Serena would be proud
+  Description: Win five rallies
+  GS: '15'
+  Guide: false
+  Number of Gamers: 6
+  Percentage of Gamers: 3%
+  Ratio: 6.29
+  TA: '94'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Table tennis tournament
+  Description: Hit your opponent with an object after a six-shot rally
+  GS: '15'
+  Guide: false
+  Number of Gamers: 116
+  Percentage of Gamers: 49%
+  Ratio: 1.43
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: EVO here I come!
+  Description: Pull off a combo with over 450 damage
+  GS: '15'
+  Guide: false
+  Number of Gamers: 181
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Slacker!
+  Description: Win a match with a double time-out
+  GS: '15'
+  Guide: true
+  Number of Gamers: 59
+  Percentage of Gamers: 25%
+  Ratio: 2.0
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+Base Ratio: 2.355
+Base TA: 2355
+Delisted: false
+Developer: Piranaking
+Game Name: LASTFIGHT
+Genres: Fighting
+Install Size: 3300.0
+Number of Completions: 0
+Number of Gamers: 239
+Overall Completion Time:
+- -1
+- -1
+Overall GS: 1000
+Overall Ratio: 2.355
+Overall TA: 2355
+PDU: 0
+Percentage Completed: 0.0
+Publisher: Piranaking
+Release Date: 20 September 2016
+Server Closure: false
+Site Rating: 3.22
+Update Achievements: []
+Walkthrough: false

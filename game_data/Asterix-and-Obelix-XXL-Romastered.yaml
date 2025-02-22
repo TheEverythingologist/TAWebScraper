@@ -1,0 +1,374 @@
+Add On Achievements: []
+Base Completion Time:
+- 20.0
+- 25.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: A short trip in Armorica
+  Description: Complete stage 1 - Gaul
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2416
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: A cold that would make a wild boar shiver
+  Description: Complete stage 2 - Normandy
+  GS: '20'
+  Guide: false
+  Number of Gamers: 786
+  Percentage of Gamers: 22%
+  Ratio: 2.14
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Columns and menhirs are not the same...
+  Description: Complete stage 3 - Greece
+  GS: '20'
+  Guide: false
+  Number of Gamers: 592
+  Percentage of Gamers: 16%
+  Ratio: 2.46
+  TA: '49'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: The grass is always greener
+  Description: Complete stage 4 - Helvetia
+  GS: '20'
+  Guide: false
+  Number of Gamers: 509
+  Percentage of Gamers: 14%
+  Ratio: 2.66
+  TA: '53'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Sand as far as the eye can see
+  Description: Complete stage 5 - Egypt
+  GS: '20'
+  Guide: false
+  Number of Gamers: 455
+  Percentage of Gamers: 13%
+  Ratio: 2.81
+  TA: '56'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: These Romans are crazy
+  Description: Complete stage 6 - Rome
+  GS: '30'
+  Guide: false
+  Number of Gamers: 426
+  Percentage of Gamers: 12%
+  Ratio: 2.9
+  TA: '87'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: A healthy stroll
+  Description: Complete the entire game in "Easy" mode or at a higher level of difficulty
+  GS: '20'
+  Guide: false
+  Number of Gamers: 426
+  Percentage of Gamers: 12%
+  Ratio: 2.9
+  TA: '58'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Stackable
+- Achievement Name: An epic adventure
+  Description: Complete the entire game in "Normal" mode or at a higher difficulty
+    level
+  GS: '30'
+  Guide: false
+  Number of Gamers: 323
+  Percentage of Gamers: 9%
+  Ratio: 3.34
+  TA: '100'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: A heroic odyssey
+  Description: Complete the entire game in "Difficult" mode or at a higher difficulty
+    level
+  GS: '80'
+  Guide: false
+  Number of Gamers: 128
+  Percentage of Gamers: 4%
+  Ratio: 5.3
+  TA: '424'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Toutatis' right hand
+  Description: Complete the entire game in "Difficult" mode or at a higher difficulty
+    level
+  GS: '80'
+  Guide: true
+  Number of Gamers: 78
+  Percentage of Gamers: 2%
+  Ratio: 6.79
+  TA: '543'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: What power!
+  Description: Defeat 200 Romans under the effect of the magic potion
+  GS: '20'
+  Guide: false
+  Number of Gamers: 996
+  Percentage of Gamers: 28%
+  Ratio: 1.9
+  TA: '38'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: 4997, 4998, 4999...and 5000!
+  Description: Defeat 5000 Romans
+  GS: '30'
+  Guide: false
+  Number of Gamers: 475
+  Percentage of Gamers: 13%
+  Ratio: 2.75
+  TA: '82'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Pumped
+  Description: Buy all the combos from the merchant
+  GS: '30'
+  Guide: false
+  Number of Gamers: 432
+  Percentage of Gamers: 12%
+  Ratio: 2.88
+  TA: '86'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Ready for battle
+  Description: Get the maximum number of shields
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2200
+  Percentage of Gamers: 61%
+  Ratio: 1.27
+  TA: '25'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Hi, Julius!
+  Description: Retrieve all the golden laurels
+  GS: '80'
+  Guide: true
+  Number of Gamers: 165
+  Percentage of Gamers: 5%
+  Ratio: 4.67
+  TA: '373'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Missable
+- Achievement Name: That was a close one...
+  Description: Complete all the course challenges
+  GS: '20'
+  Guide: true
+  Number of Gamers: 124
+  Percentage of Gamers: 3%
+  Ratio: 5.39
+  TA: '107'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Soundly defeated!
+  Description: Complete a course challenge with more than 5 seconds to spare on the
+    Gold level
+  GS: '30'
+  Guide: false
+  Number of Gamers: 128
+  Percentage of Gamers: 4%
+  Ratio: 5.3
+  TA: '159'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: For a few slaps more
+  Description: Complete all the time challenges
+  GS: '20'
+  Guide: true
+  Number of Gamers: 124
+  Percentage of Gamers: 3%
+  Ratio: 5.39
+  TA: '107'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: Ready for the Olympic Games
+  Description: Reach the Gold level in all the time and course challenges
+  GS: '80'
+  Guide: true
+  Number of Gamers: 102
+  Percentage of Gamers: 3%
+  Ratio: 5.94
+  TA: '475'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: One last one for the road
+  Description: Collect more than 99999 helmets
+  GS: '30'
+  Guide: true
+  Number of Gamers: 249
+  Percentage of Gamers: 7%
+  Ratio: 3.8
+  TA: '114'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: The customer is king
+  Description: Spend more than 50000 helmets at the merchant's
+  GS: '20'
+  Guide: false
+  Number of Gamers: 504
+  Percentage of Gamers: 14%
+  Ratio: 2.67
+  TA: '53'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Shop
+- Achievement Name: Hail Caesar!
+  Description: Retrieve a golden laurel
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3178
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: "Undisciplined and rowdy \u2026"
+  Description: Keep the combo gauge full for 60 seconds
+  GS: '30'
+  Guide: true
+  Number of Gamers: 2568
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '35'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: An old friend
+  Description: Find and defeat Redbeard in each level
+  GS: '20'
+  Guide: false
+  Number of Gamers: 198
+  Percentage of Gamers: 5%
+  Ratio: 4.26
+  TA: '85'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Pride of the developers
+  Description: Complete all the course and time challenges
+  GS: '80'
+  Guide: true
+  Number of Gamers: 122
+  Percentage of Gamers: 3%
+  Ratio: 5.43
+  TA: '434'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: Ah, nostalgia...
+  Description: Switch between the REMASTER mode and the ORIGINAL mode
+  GS: '80'
+  Guide: true
+  Number of Gamers: 3585
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '80'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Gallic volley
+  Description: As Asterix, strike a Roman tossed by Obelix in midair while under the
+    effect of a magic potion
+  GS: '20'
+  Guide: true
+  Number of Gamers: 916
+  Percentage of Gamers: 25%
+  Ratio: 1.98
+  TA: '39'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Carousel
+  Description: Sling yourself using rubber bands 20 times in less than 30 seconds
+  GS: '30'
+  Guide: true
+  Number of Gamers: 284
+  Percentage of Gamers: 8%
+  Ratio: 3.56
+  TA: '106'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+Base Ratio: 3.855
+Base TA: 3855
+Delisted: false
+Developer: OSome Studio
+Game Name: 'Asterix & Obelix XXL: Romastered'
+Genres: Platformer, Beat 'em up
+Install Size: 6200.0
+Number of Completions: 72
+Number of Gamers: 3604
+Overall Completion Time:
+- 20.0
+- 25.0
+Overall GS: 1000
+Overall Ratio: 3.855
+Overall TA: 3855
+PDU: 0
+Percentage Completed: 2.0
+Publisher: Microids
+Release Date: 22 October 2020
+Server Closure: false
+Site Rating: 3.4
+Update Achievements: []
+Walkthrough: false

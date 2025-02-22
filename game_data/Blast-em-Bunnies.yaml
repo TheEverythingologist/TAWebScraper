@@ -1,0 +1,895 @@
+Add On Achievements: []
+Base Completion Time:
+- 20.0
+- 25.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Bang, the Boss goes down!
+  Description: Defeat your first boss.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1812
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '6'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Boss Killer!
+  Description: Defeat 10 Bosses
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1204
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: You da Boss Now!
+  Description: Defeat 100 Bosses.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 466
+  Percentage of Gamers: 18%
+  Ratio: 2.37
+  TA: '35'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Easy Pickings
+  Description: Kill 10,000 Blue Bunnies
+  GS: '10'
+  Guide: true
+  Number of Gamers: 454
+  Percentage of Gamers: 17%
+  Ratio: 2.4
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Tough Tykes
+  Description: Kill 5,000 Yellow Bunnies.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 519
+  Percentage of Gamers: 20%
+  Ratio: 2.24
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Viscious Villains
+  Description: Kill 2,500 Red Bunnies.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 810
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Ooh Shiny
+  Description: Send a Golden Bunny back to its burrow.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1879
+  Percentage of Gamers: 72%
+  Ratio: 1.18
+  TA: '5'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Every Little Helps
+  Description: Shoot a coin.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 2597
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '5'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Junior Saver
+  Description: Collect 1,000 coins.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2157
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Piggy Bank
+  Description: Collect 10,000 coins.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1818
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Cash Cow
+  Description: Collect 50,000 coins.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1633
+  Percentage of Gamers: 62%
+  Ratio: 1.26
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: High Roller
+  Description: Collect 100,000 coins.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 1527
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '32'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: First Blood
+  Description: Kill an evil bunny.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 2605
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '5'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "Getting a taste for this\u2026"
+  Description: Kill 100 evil bunnies.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2100
+  Percentage of Gamers: 80%
+  Ratio: 1.11
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: "The fur, the fur\u2026"
+  Description: Kill 500 evil bunnies.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1725
+  Percentage of Gamers: 66%
+  Ratio: 1.23
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: "Must shoot more stuff\u2026"
+  Description: Kill 1,000 evil bunnies.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1586
+  Percentage of Gamers: 60%
+  Ratio: 1.28
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: "Can't stop now\u2026"
+  Description: Kill 5,000 evil bunnies.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 985
+  Percentage of Gamers: 38%
+  Ratio: 1.63
+  TA: '40'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: "I see dead bunnies\u2026"
+  Description: Kill 10,000 evil bunnies.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 675
+  Percentage of Gamers: 26%
+  Ratio: 1.97
+  TA: '59'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Kabang!
+  Description: Kill 3 evil bunnies in 10 seconds.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 2539
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: Kaboom!!
+  Description: Kill 5 evil bunnies in 30 seconds.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2517
+  Percentage of Gamers: 96%
+  Ratio: 1.02
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: "Ka\u2026 Wow!!!"
+  Description: Kill 10 evil bunnies in 60 seconds.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2467
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: Ooh so cute!
+  Description: Save a baby bunny.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1962
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '5'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Aaarrggh take this!
+  Description: Enter frenzy mode for the first time.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1878
+  Percentage of Gamers: 72%
+  Ratio: 1.18
+  TA: '11'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: I can't stop shooting!!
+  Description: Enter frenzy mode 20 times.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1197
+  Percentage of Gamers: 46%
+  Ratio: 1.48
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: All Nighter
+  Description: Survive for a full in game day (6 Minutes).
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1745
+  Percentage of Gamers: 66%
+  Ratio: 1.22
+  TA: '6'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Night Owl
+  Description: Survive for 2 full in game days (12 Minutes).
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1497
+  Percentage of Gamers: 57%
+  Ratio: 1.32
+  TA: '13'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Insomniac
+  Description: Survive for 3 full in game days (18 Minutes).
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1136
+  Percentage of Gamers: 43%
+  Ratio: 1.51
+  TA: '22'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Protector
+  Description: Save 16 baby bunnies.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1238
+  Percentage of Gamers: 47%
+  Ratio: 1.45
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Family Reunion!
+  Description: Save 32 baby bunnies.
+  GS: '35'
+  Guide: true
+  Number of Gamers: 1012
+  Percentage of Gamers: 39%
+  Ratio: 1.61
+  TA: '56'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Easy Money!
+  Description: Complete a Normal Mission.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 2098
+  Percentage of Gamers: 80%
+  Ratio: 1.11
+  TA: '5'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Getting my fix
+  Description: Complete 5 Normal Missions.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1750
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: New Hobby
+  Description: Complete 10 Normal Missions.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1492
+  Percentage of Gamers: 57%
+  Ratio: 1.32
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Part Time Job
+  Description: Complete 20 Normal Missions.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1059
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: A New Career
+  Description: Complete 40 Normal Missions.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 661
+  Percentage of Gamers: 25%
+  Ratio: 1.99
+  TA: '59'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: "Someone help me\u2026"
+  Description: Complete 60 Normal Missions.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 567
+  Percentage of Gamers: 22%
+  Ratio: 2.15
+  TA: '86'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Today's work
+  Description: Complete a Daily Mission.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1763
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '6'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Workin' 9-5
+  Description: Complete 5 Daily Missions.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 777
+  Percentage of Gamers: 30%
+  Ratio: 1.83
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Still Playin'
+  Description: Complete 10 Daily Missions.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 585
+  Percentage of Gamers: 22%
+  Ratio: 2.11
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: "I've come this far\u2026"
+  Description: Complete 15 Daily Missions.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 521
+  Percentage of Gamers: 20%
+  Ratio: 2.24
+  TA: '44'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Dedication's what you need
+  Description: Complete 20 Daily Missions.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 502
+  Percentage of Gamers: 19%
+  Ratio: 2.28
+  TA: '57'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: All puffed out!
+  Description: Complete 30 Daily Missions.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 479
+  Percentage of Gamers: 18%
+  Ratio: 2.34
+  TA: '70'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Bang you're dead!
+  Description: Get knocked out for the first time.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 2557
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '5'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: They go BOOM!
+  Description: Shoot a grenade out of the sky.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 2452
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '5'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Uncovered
+  Description: Destroy a Blocker's shield.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 2459
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '5'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Trickshot
+  Description: Kill a Blocker without destroying its shield.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 2397
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '5'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Craftyshot
+  Description: Destroy a Blocker's shield then shoot its bomb.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1530
+  Percentage of Gamers: 58%
+  Ratio: 1.3
+  TA: '6'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "The bigger they are\u2026"
+  Description: Defeat a boss without taking any damage.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1747
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '12'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Keepin' it cool
+  Description: Last 2 minutes without your weapon overheating.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 2091
+  Percentage of Gamers: 80%
+  Ratio: 1.12
+  TA: '5'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Ouch they hurt!
+  Description: Die from a final hit from each bunny type.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 919
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '16'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Death Sucks
+  Description: Die 50 times.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 907
+  Percentage of Gamers: 35%
+  Ratio: 1.7
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Give me POWER!!
+  Description: Purchase a weapon upgrade.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1795
+  Percentage of Gamers: 68%
+  Ratio: 1.2
+  TA: '6'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Rifle of DEATH!
+  Description: Purchase all Carrot Rifle upgrades.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1540
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Mortargeddon!
+  Description: Purchase all Turnip Mortar upgrades.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1332
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Machinegun Maniac!
+  Description: Purchase all Watermelon Machinegun upgrades.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1357
+  Percentage of Gamers: 52%
+  Ratio: 1.39
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: I love LASERS!!
+  Description: Purchase all Runnerbean Laser upgrades.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1315
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Fully Loaded!
+  Description: Purchase all upgrades for all weapons.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1249
+  Percentage of Gamers: 48%
+  Ratio: 1.45
+  TA: '43'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: I <3 more health!
+  Description: Purchase your first heart.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 2116
+  Percentage of Gamers: 81%
+  Ratio: 1.11
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: A <3 supreme!
+  Description: Purchase all the hearts.
+  GS: '35'
+  Guide: true
+  Number of Gamers: 1514
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '46'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: It goes boom!
+  Description: Purchase your first weapon.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1622
+  Percentage of Gamers: 62%
+  Ratio: 1.27
+  TA: '6'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Tooled up!
+  Description: Purchase all the weapons.
+  GS: '35'
+  Guide: true
+  Number of Gamers: 1374
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '48'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Blammo!
+  Description: Purchase your first ammo type.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1857
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: A crate full!
+  Description: Purchase all Carrot Rifle ammo types.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1499
+  Percentage of Gamers: 57%
+  Ratio: 1.32
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: A barrel of bangs!
+  Description: Purchase all Turnip Mortar ammo types.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1342
+  Percentage of Gamers: 51%
+  Ratio: 1.39
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: A pile of pips!
+  Description: Purchase all Watermelon Machine Gun ammo types.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1326
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: A lick of lasers!
+  Description: Purchase all Runnerbean Laser ammo types.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1296
+  Percentage of Gamers: 49%
+  Ratio: 1.42
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Too many toys!
+  Description: Purchase all ammo types for all weapons.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1245
+  Percentage of Gamers: 47%
+  Ratio: 1.45
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Easy Peasy!
+  Description: 'Pass Survival: Easy Mode.'
+  GS: '5'
+  Guide: false
+  Number of Gamers: 2493
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: That's Normal?
+  Description: 'Pass Survival: Normal Mode.'
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1756
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Multiple Playthroughs Required
+  - Buggy +
+- Achievement Name: Hard for some!
+  Description: 'Pass Survival: Hard Mode.'
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1432
+  Percentage of Gamers: 55%
+  Ratio: 1.35
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Multiple Playthroughs Required
+  - Buggy +
+- Achievement Name: Survivor!
+  Description: Survive 30 Very Hard Mode Waves.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 816
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '35'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Multiple Playthroughs Required
+  - Buggy +
+- Achievement Name: Slaughtered
+  Description: 'Complete Slaughter: Normal Mode.'
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1856
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Multiple Playthroughs Required
+- Achievement Name: Super Effort
+  Description: 'Complete Slaughter: Super Mode.'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1238
+  Percentage of Gamers: 47%
+  Ratio: 1.45
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Multiple Playthroughs Required
+- Achievement Name: Ultra Player
+  Description: 'Complete Slaughter: Ultra Mode.'
+  GS: '20'
+  Guide: true
+  Number of Gamers: 917
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '33'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Multiple Playthroughs Required
+Base Ratio: 1.527
+Base TA: 1527
+Delisted: false
+Developer: Nnooo
+Game Name: Blast 'em Bunnies
+Genres: First Person Shooter
+Install Size: 956.0
+Number of Completions: 416
+Number of Gamers: 2625
+Overall Completion Time:
+- 20.0
+- 25.0
+Overall GS: 1000
+Overall Ratio: 1.527
+Overall TA: 1527
+PDU: 0
+Percentage Completed: 15.85
+Publisher: Nnooo
+Release Date: 11 March 2016
+Server Closure: false
+Site Rating: 2.62
+Update Achievements: []
+Walkthrough: false

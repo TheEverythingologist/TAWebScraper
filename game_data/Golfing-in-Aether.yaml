@@ -1,0 +1,294 @@
+Add On Achievements: []
+Base Completion Time:
+- 23
+- 24
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Tee Time
+  Description: Hit your ball for the first time
+  GS: '25'
+  Guide: false
+  Number of Gamers: 320
+  Percentage of Gamers: 100%
+  Ratio: 1.0
+  TA: '25'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Main Storyline
+- Achievement Name: Nice Shot
+  Description: Complete a hole with a birdie or better
+  GS: '25'
+  Guide: false
+  Number of Gamers: 295
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '26'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Turkey
+  Description: Get three consecutive birdies or better in one session
+  GS: '25'
+  Guide: false
+  Number of Gamers: 192
+  Percentage of Gamers: 60%
+  Ratio: 1.29
+  TA: '32'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Bounce Back
+  Description: Get a birdie or better immediately following a bogey
+  GS: '25'
+  Guide: false
+  Number of Gamers: 259
+  Percentage of Gamers: 81%
+  Ratio: 1.11
+  TA: '27'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Pathfinder
+  Description: Get creative with how you reach a hole
+  GS: '25'
+  Guide: false
+  Number of Gamers: 165
+  Percentage of Gamers: 52%
+  Ratio: 1.39
+  TA: '34'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Getting Good!
+  Description: Earn your first S rank
+  GS: '50'
+  Guide: false
+  Number of Gamers: 127
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '79'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Perfect
+  Description: Complete a session with only hole-in-ones
+  GS: '100'
+  Guide: false
+  Number of Gamers: 7
+  Percentage of Gamers: 2%
+  Ratio: 6.76
+  TA: '676'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Around the World
+  Description: Earn at least D rank on at least one variation of every level
+  GS: '75'
+  Guide: false
+  Number of Gamers: 59
+  Percentage of Gamers: 18%
+  Ratio: 2.32
+  TA: '174'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Ghost Buster
+  Description: Challenge previously set leaderboard ghost in practice and beat it
+  GS: '25'
+  Guide: false
+  Number of Gamers: 79
+  Percentage of Gamers: 25%
+  Ratio: 2.01
+  TA: '50'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Completionist
+  Description: Earn S rank on every variation of every level
+  GS: '150'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 1%
+  Ratio: 8.94
+  TA: 1,341
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Eclectic
+  Description: Complete a session of each of the three game presets (Casual, Competitive,
+    and Race)
+  GS: '50'
+  Guide: false
+  Number of Gamers: 83
+  Percentage of Gamers: 26%
+  Ratio: 1.96
+  TA: '98'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Replay
+  Description: Watch either a session replay or leaderboard replay
+  GS: '25'
+  Guide: false
+  Number of Gamers: 57
+  Percentage of Gamers: 18%
+  Ratio: 2.36
+  TA: '59'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Levelling Up
+  Description: Reach Level 3 or 18,000 XP
+  GS: '75'
+  Guide: false
+  Number of Gamers: 150
+  Percentage of Gamers: 47%
+  Ratio: 1.46
+  TA: '109'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Level
+- Achievement Name: Seasonal
+  Description: Complete a session in each of the three seasonal themes
+  GS: '50'
+  Guide: false
+  Number of Gamers: 129
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '78'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Speedrun
+  Description: Complete a session with less than 90 seconds game time.
+  GS: '100'
+  Guide: false
+  Number of Gamers: 5
+  Percentage of Gamers: 2%
+  Ratio: 8.0
+  TA: '800'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Time/Date
+- Achievement Name: OnTheGreen
+  Description: Land the ball within the marked area near the hole on your first stroke.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 155
+  Percentage of Gamers: 48%
+  Ratio: 1.43
+  TA: '35'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Fashionista
+  Description: Change the appearance of your ball and equip an accessory.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 185
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '32'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Barkie
+  Description: Hit a tree and still finish the hole with par or better.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 53
+  Percentage of Gamers: 17%
+  Ratio: 2.45
+  TA: '61'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Breakfast Ball
+  Description: In practice mode, undo your first shot and then finish the hole with
+    par or better.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 62
+  Percentage of Gamers: 19%
+  Ratio: 2.27
+  TA: '56'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Recovery
+  Description: Achieve par or better after going out of bounds.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 215
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '30'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Expert Navigator
+  Description: Complete a session without going out of bounds.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 150
+  Percentage of Gamers: 47%
+  Ratio: 1.46
+  TA: '36'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Consistent
+  Description: Get the same score on three consecutive levels in a session.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 194
+  Percentage of Gamers: 61%
+  Ratio: 1.28
+  TA: '32'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+Base Ratio: 3.89
+Base TA: 3890
+Delisted: false
+Developer: Vetron
+Game Name: Golfing in Aether
+Genres: Sports, Golf
+Install Size: 2110.0
+Number of Completions: 4
+Number of Gamers: 320
+Overall Completion Time:
+- 23
+- 24
+Overall GS: 1000
+Overall Ratio: 3.89
+Overall TA: 3890
+PDU: 0
+Percentage Completed: 1.25
+Publisher: Vetron
+Release Date: 25 October 2024
+Server Closure: false
+Site Rating: 3.83
+Update Achievements: []
+Walkthrough: false

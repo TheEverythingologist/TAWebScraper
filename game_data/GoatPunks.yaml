@@ -1,0 +1,436 @@
+Add On Achievements: []
+Base Completion Time:
+- 10
+- 11
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Tournament Win Easy
+  Description: Earn a new character by finishing the tournament in Easy Mode.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 17
+  Percentage of Gamers: 31%
+  Ratio: 1.78
+  TA: '89'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Difficulty Specific
+- Achievement Name: Tournament Win King
+  Description: Earn a new character by finishing the tournament in King Mode.
+  GS: '80'
+  Guide: false
+  Number of Gamers: 7
+  Percentage of Gamers: 13%
+  Ratio: 2.77
+  TA: '222'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Difficulty Specific
+- Achievement Name: Tournament Win Normal
+  Description: Earn a new character by finishing the tournament in Normal Mode.
+  GS: '60'
+  Guide: false
+  Number of Gamers: 7
+  Percentage of Gamers: 13%
+  Ratio: 2.77
+  TA: '166'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Difficulty Specific
+- Achievement Name: 00. Top 10x
+  Description: Earn a new accessory by getting to the top 10 times.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 16
+  Percentage of Gamers: 30%
+  Ratio: 1.83
+  TA: '55'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: 01. Recovery
+  Description: Earn a new accessory by recovering your goat 5 times.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 37
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '36'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: 02. Find Balloon
+  Description: Earn a new accessory by finding a balloon.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 15
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '56'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Collectable
+- Achievement Name: 03. Lantern Ride
+  Description: Earn a new accessory by riding on 5 lanterns
+  GS: '30'
+  Guide: true
+  Number of Gamers: 19
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '50'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: 04. Use Weapon
+  Description: Earn a new accessory by using the toy hammer or saw.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 20
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '49'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: 05. Dismount Attack
+  Description: Earn a new accessory by dismounting on to a goat from the top 3 times.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 14
+  Percentage of Gamers: 26%
+  Ratio: 1.96
+  TA: '58'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: 06. Find Ra Staff
+  Description: Earn a new accessory by finding the staff of Ra.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 12
+  Percentage of Gamers: 22%
+  Ratio: 2.12
+  TA: '63'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Collectable
+- Achievement Name: 07. Max Ammo
+  Description: Earn a new accessory by maxing out on ammo.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 19
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '50'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: 08. Destroy Chests
+  Description: Earn a new accessory by destroying all chests.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 8
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '77'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: 09. Destroy Pinata
+  Description: Earn a new accessory by destroying a pinata.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 14
+  Percentage of Gamers: 26%
+  Ratio: 1.96
+  TA: '58'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: 10. Find Candy
+  Description: Earn a new accessory by finding candy.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 13
+  Percentage of Gamers: 24%
+  Ratio: 2.03
+  TA: '61'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Collectable
+- Achievement Name: 11. Jumping Jellies
+  Description: Earn a new accessory by jumping on all jellies.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 10
+  Percentage of Gamers: 19%
+  Ratio: 2.32
+  TA: '69'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: 12. Crane Ride
+  Description: Earn a new accessory by riding on all cranes
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4
+  Percentage of Gamers: 7%
+  Ratio: 3.67
+  TA: '110'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: 13. Flawless Victory
+  Description: Earn a new accessory by staying on top of the mountain without falling
+    off in a single round.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 35
+  Percentage of Gamers: 65%
+  Ratio: 1.24
+  TA: '37'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: 14. Find Phone
+  Description: Earn a new accessory by finding a phone.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 11
+  Percentage of Gamers: 20%
+  Ratio: 2.21
+  TA: '66'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Collectable
+- Achievement Name: 15. Find Axe
+  Description: Earn a new accessory by finding an axe.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 24
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '45'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Collectable
+- Achievement Name: 16. Charge Double Kill
+  Description: Earn a new accessory by knocking out two goats from a single charge
+    attack.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 8
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '77'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: 17. Killing Spree
+  Description: Earn a new accessory by knocking off 30 goats in a row.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 6
+  Percentage of Gamers: 11%
+  Ratio: 3.0
+  TA: '90'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: 18. Find Whirlybird
+  Description: Earn a new accessory by finding a Whirlybird.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 8
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '77'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Collectable
+- Achievement Name: 19. Triple Skill Hit
+  Description: Earn a new accessory by hitting 3 goats with one skill.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 7
+  Percentage of Gamers: 13%
+  Ratio: 2.77
+  TA: '83'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: 20. Fast Climb
+  Description: Earn a new accessory by getting to the top in under 6 seconds.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 9
+  Percentage of Gamers: 17%
+  Ratio: 2.44
+  TA: '73'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: 21. Shield Counter
+  Description: Earn a new accessory by performing 5 shield counters.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 7%
+  Ratio: 3.67
+  TA: '110'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: 22. Find Steam Ball
+  Description: Earn a new accessory by finding a Steam Ball.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 11
+  Percentage of Gamers: 20%
+  Ratio: 2.21
+  TA: '66'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Collectable
+- Achievement Name: 23. Shield Attack
+  Description: Earn a new accessory by destroying 5 goat shields, using charge attacks.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 3
+  Percentage of Gamers: 6%
+  Ratio: 4.24
+  TA: '127'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: 24. Tournament Easy Win
+  Description: Earn a new accessory by winning the tournament on easy mode.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 17
+  Percentage of Gamers: 31%
+  Ratio: 1.78
+  TA: '53'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Difficulty Specific
+- Achievement Name: 25. Tournament Normal Win
+  Description: Earn a new accessory by winning the tournament on normal mode.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 7
+  Percentage of Gamers: 13%
+  Ratio: 2.77
+  TA: '83'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Difficulty Specific
+- Achievement Name: 26. Tournament King Win
+  Description: Earn a new accessory by winning the tournament on king mode.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 7
+  Percentage of Gamers: 13%
+  Ratio: 2.77
+  TA: '83'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Difficulty Specific
+Base Ratio: 2.339
+Base TA: 2339
+Delisted: false
+Developer: Alberto Santiago
+Game Name: GoatPunks
+Genres: Platformer, Party
+Install Size: 741.0
+Number of Completions: 3
+Number of Gamers: 54
+Overall Completion Time:
+- 10
+- 11
+Overall GS: 1000
+Overall Ratio: 2.339
+Overall TA: 2339
+PDU: 0
+Percentage Completed: 5.56
+Publisher: Studio Canvas
+Release Date: 30 November 2018
+Server Closure: false
+Site Rating: 3.9
+Update Achievements: []
+Walkthrough: false

@@ -1,0 +1,531 @@
+Add On Achievements: []
+Base Completion Time:
+- 30.0
+- 35.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Lesson One
+  Description: Collect a powerup from any enemy.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 3051
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Host Only
+- Achievement Name: Lesson Two
+  Description: Defeat a chained enemy with a press and hold attack.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2223
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Host Only
+- Achievement Name: The Roof Is On Fire
+  Description: Survive the Helicopter Boss fight
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1125
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '33'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Chi-vement
+  Description: Defeat the Mercenary Boss by blasting him with Chi
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1722
+  Percentage of Gamers: 55%
+  Ratio: 1.35
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Double Double
+  Description: Collect a powerup from red enemies.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1800
+  Percentage of Gamers: 57%
+  Ratio: 1.32
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Host Only
+- Achievement Name: Trying Is the First Step Towards Failure
+  Description: Fail a track.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2792
+  Percentage of Gamers: 89%
+  Ratio: 1.06
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Buggy +
+- Achievement Name: "Ohhh\u2026.I Get It Now!"
+  Description: Earn 4 or more stars on any track.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1696
+  Percentage of Gamers: 54%
+  Ratio: 1.36
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Host Only
+- Achievement Name: Lee's Story
+  Description: Complete all of the story tracks with Lee on any difficulty.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 802
+  Percentage of Gamers: 26%
+  Ratio: 1.97
+  TA: '59'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Mei's Story
+  Description: Complete all of the story tracks with Mei on any difficulty.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 297
+  Percentage of Gamers: 9%
+  Ratio: 3.25
+  TA: '97'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Multiple Playthroughs Required
+  - Buggy
+- Achievement Name: It's Showtime
+  Description: Complete a track on Hard difficulty.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 908
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Host Only
+  - Difficulty Specific
+- Achievement Name: Three Finger Death Punch
+  Description: Defeat 3 red enemies at once.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 596
+  Percentage of Gamers: 19%
+  Ratio: 2.29
+  TA: '45'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Host Only
+- Achievement Name: Keep Them Coming
+  Description: Collect 100 orbs while Chi mode is active.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 849
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '57'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Host Only
+  - Cumulative +
+- Achievement Name: Orbzillion
+  Description: Collect 1000 orbs while Chi mode is active.
+  GS: '40'
+  Guide: false
+  Number of Gamers: 273
+  Percentage of Gamers: 9%
+  Ratio: 3.38
+  TA: '135'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Host Only
+  - Cumulative +
+- Achievement Name: Wax On Wax Off Wax On
+  Description: Collect 10 powerups from an enemy defeated with a press and hold attack.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 508
+  Percentage of Gamers: 16%
+  Ratio: 2.48
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Host Only
+  - Cumulative +
+- Achievement Name: Decimator
+  Description: Earn a 10X score multiplier.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 790
+  Percentage of Gamers: 25%
+  Ratio: 1.99
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Host Only
+- Achievement Name: Ready for More
+  Description: Complete a track with full health left on any difficulty.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1151
+  Percentage of Gamers: 37%
+  Ratio: 1.65
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Host Only
+- Achievement Name: Yellow Belt
+  Description: Reach a total of 25 stars on any difficulty.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1366
+  Percentage of Gamers: 44%
+  Ratio: 1.51
+  TA: '15'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Red Belt
+  Description: Reach a total of 50 stars on any difficulty.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1113
+  Percentage of Gamers: 35%
+  Ratio: 1.67
+  TA: '25'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Black Belt
+  Description: Reach a total of 75 stars on any difficulty.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 838
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '38'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Multi Millionaire
+  Description: Reach a score of 1000000 on 5 tracks on any difficulty.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 146
+  Percentage of Gamers: 5%
+  Ratio: 4.63
+  TA: '92'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Master's Exam
+  Description: Complete a track with 5 stars on Master difficulty.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 112
+  Percentage of Gamers: 4%
+  Ratio: 5.29
+  TA: '105'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Half a Master
+  Description: Complete 12 tracks with 5 stars on Master difficulty.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 59
+  Percentage of Gamers: 2%
+  Ratio: 7.29
+  TA: '145'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: A True Master
+  Description: Complete all tracks with 5 stars on Master difficulty.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 54
+  Percentage of Gamers: 2%
+  Ratio: 7.62
+  TA: '228'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Knew Metal
+  Description: Earn red stars on both "Boom" and "Last Resort."
+  GS: '30'
+  Guide: true
+  Number of Gamers: 58
+  Percentage of Gamers: 2%
+  Ratio: 7.35
+  TA: '220'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: I Know Kung Fu
+  Description: Reach a combo chain of 100 on Expert or Master difficulty.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 166
+  Percentage of Gamers: 5%
+  Ratio: 4.34
+  TA: '86'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Host Only
+  - Difficulty Specific
+- Achievement Name: Untouchable Phenomenon
+  Description: Reach a combo chain of 300 on Expert or Master difficulty.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 77
+  Percentage of Gamers: 2%
+  Ratio: 6.38
+  TA: '191'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Host Only
+  - Difficulty Specific
+- Achievement Name: It's All in the Mind
+  Description: Reach a combo chain of 500 on Expert or Master difficulty.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 54
+  Percentage of Gamers: 2%
+  Ratio: 7.62
+  TA: '304'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Host Only
+  - Difficulty Specific
+- Achievement Name: Path of the Legend
+  Description: Counter the incoming attack of 10000 enemies.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 522
+  Percentage of Gamers: 17%
+  Ratio: 2.45
+  TA: '73'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Host Only
+  - Cumulative +
+- Achievement Name: The Legend
+  Description: Counter the incoming attack of 50000 enemies.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 78
+  Percentage of Gamers: 2%
+  Ratio: 6.34
+  TA: '253'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Host Only
+  - Cumulative +
+- Achievement Name: Getting the Hang of It
+  Description: Survive 3 tracks in a row in Survival mode.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 103
+  Percentage of Gamers: 3%
+  Ratio: 5.51
+  TA: '110'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Survivor
+  Description: Survive 10 tracks in a row in Survival.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 49
+  Percentage of Gamers: 2%
+  Ratio: 8.0
+  TA: '240'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: All Day Long
+  Description: Survive 18 tracks in a row in Survival mode.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 38
+  Percentage of Gamers: 1%
+  Ratio: 9.08
+  TA: '363'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Quick as Lightning
+  Description: Complete the Mercenary Chief without getting hit on Normal or higher
+    difficulty.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 205
+  Percentage of Gamers: 7%
+  Ratio: 3.92
+  TA: '78'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Master of Missiles
+  Description: Complete the Helicopter Fight without getting hit on Hard or higher
+    difficulty.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 116
+  Percentage of Gamers: 4%
+  Ratio: 5.2
+  TA: '156'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: The One
+  Description: Complete the final battle without getting hit on Expert or Master difficulty.
+  GS: '40'
+  Guide: false
+  Number of Gamers: 63
+  Percentage of Gamers: 2%
+  Ratio: 7.05
+  TA: '282'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Unlikely Survivor
+  Description: Finish a track in Survival mode after starting with less than 10% health.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 63
+  Percentage of Gamers: 2%
+  Ratio: 7.05
+  TA: '282'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Fists of the White Lotus
+  Description: Complete a playlist of at least 30 minutes in Freeplay on any difficulty.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 205
+  Percentage of Gamers: 7%
+  Ratio: 3.91
+  TA: '117'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
+- Achievement Name: Fists of the Black Lotus
+  Description: Complete a playlist of at least 30 minutes in Freeplay on Master difficulty.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 107
+  Percentage of Gamers: 3%
+  Ratio: 5.41
+  TA: '216'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Pure Perfection
+  Description: Complete a non-custom track with only perfect hits on Master difficulty.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 53
+  Percentage of Gamers: 2%
+  Ratio: 7.69
+  TA: '307'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Grandmaster
+  Description: Unlock all other achievements.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 36
+  Percentage of Gamers: 1%
+  Ratio: 9.33
+  TA: '466'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Host Only
+  - Buggy
+Base Ratio: 5.01
+Base TA: 5010
+Delisted: false
+Developer: Zen Studios
+Game Name: "KickBeat \u2013 Special Edition"
+Genres: Music & Rhythm
+Install Size: 860.0
+Number of Completions: 36
+Number of Gamers: 3140
+Overall Completion Time:
+- 30.0
+- 35.0
+Overall GS: 1000
+Overall Ratio: 5.01
+Overall TA: 5010
+PDU: 0
+Percentage Completed: 1.15
+Publisher: Zen Studios
+Release Date: 26 September 2014
+Server Closure: false
+Site Rating: 3.23
+Update Achievements: []
+Walkthrough: false

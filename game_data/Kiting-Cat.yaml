@@ -1,0 +1,384 @@
+Add On Achievements: []
+Base Completion Time:
+- 0.0
+- 1.5
+Base GS: 3000
+Base Game Achievements:
+- Achievement Name: First Day
+  Description: Deliver your first dish
+  GS: '15'
+  Guide: true
+  Number of Gamers: 741
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Flame Cook
+  Description: Use fire to prepare a recipe
+  GS: '15'
+  Guide: false
+  Number of Gamers: 727
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Cat-astrophe
+  Description: Turn a dish into charcoal
+  GS: '30'
+  Guide: false
+  Number of Gamers: 727
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Double Delight
+  Description: Deliver your first dish with 2 ingredients
+  GS: '30'
+  Guide: false
+  Number of Gamers: 735
+  Percentage of Gamers: 98%
+  Ratio: 1.0
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Trio of Flavors
+  Description: Deliver your first dish with 3 ingredients
+  GS: '40'
+  Guide: false
+  Number of Gamers: 675
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Whisk-Whisk
+  Description: Make one cart hit another
+  GS: '40'
+  Guide: false
+  Number of Gamers: 718
+  Percentage of Gamers: 96%
+  Ratio: 1.01
+  TA: '40'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Back to the Past
+  Description: Use undo for the first time
+  GS: '40'
+  Guide: true
+  Number of Gamers: 741
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '40'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Beach Episode
+  Description: Unlock the first beach level
+  GS: '40'
+  Guide: false
+  Number of Gamers: 688
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '41'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Adventure in the Forest
+  Description: Unlock the first forest level
+  GS: '40'
+  Guide: false
+  Number of Gamers: 626
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '43'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Cat-bow
+  Description: Serve a customer of each color
+  GS: '40'
+  Guide: false
+  Number of Gamers: 711
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '40'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Stone Path
+  Description: Complete a level using the stones on the path
+  GS: '40'
+  Guide: false
+  Number of Gamers: 669
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Unforgettable Mess
+  Description: Make a mess
+  GS: '40'
+  Guide: true
+  Number of Gamers: 709
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '40'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Fish Sandwich
+  Description: Make your first grilled fish sandwich
+  GS: '60'
+  Guide: false
+  Number of Gamers: 629
+  Percentage of Gamers: 84%
+  Ratio: 1.08
+  TA: '65'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Perfect Cake
+  Description: Make your first cake
+  GS: '60'
+  Guide: false
+  Number of Gamers: 675
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '63'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Master's Mix
+  Description: Make your first cheese sandwich
+  GS: '60'
+  Guide: false
+  Number of Gamers: 627
+  Percentage of Gamers: 84%
+  Ratio: 1.08
+  TA: '65'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Sushi Just Right
+  Description: Make your first sushi
+  GS: '70'
+  Guide: false
+  Number of Gamers: 729
+  Percentage of Gamers: 98%
+  Ratio: 1.01
+  TA: '70'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Oops! Wrong Order
+  Description: Deliver a wrong dish
+  GS: '70'
+  Guide: false
+  Number of Gamers: 736
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '70'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Better Late Than Never
+  Description: Complete a level after 1 minute
+  GS: '90'
+  Guide: false
+  Number of Gamers: 713
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '92'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Master Chef
+  Description: Complete each city stage in less than 1 minute
+  GS: '90'
+  Guide: false
+  Number of Gamers: 622
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '98'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: Experienced Chef
+  Description: Complete 20 levels
+  GS: '90'
+  Guide: false
+  Number of Gamers: 626
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '98'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+Base Ratio: 1.1113333333333333
+Base TA: 3334
+Delisted: false
+Developer: AFIL Games
+Game Name: Kiting Cat
+Genres: Puzzle
+Install Size: 446.0
+Number of Completions: 445
+Number of Gamers: 747
+Overall Completion Time:
+- 0.0
+- 1.5
+Overall GS: 3000
+Overall Ratio: 1.1113333333333333
+Overall TA: 3334
+PDU: 0
+Percentage Completed: 59.57
+Publisher: AFIL Games
+Release Date: 26 December 2024
+Server Closure: false
+Site Rating: 2.28
+Update Achievements:
+- Achievement Name: Double Duty
+  Description: Deliver 2 times dishes with 2 ingredients
+  GS: '200'
+  Guide: false
+  Number of Gamers: 729
+  Percentage of Gamers: 98%
+  Ratio: 1.01
+  TA: '202'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Time Rewind
+  Description: Use undo 5 time
+  GS: '200'
+  Guide: true
+  Number of Gamers: 728
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '202'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Bumper Duo
+  Description: Make 2 cart hit another
+  GS: '200'
+  Guide: false
+  Number of Gamers: 713
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '204'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Steady Progress
+  Description: Complete 21 levels
+  GS: '200'
+  Guide: false
+  Number of Gamers: 626
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '218'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Expert Progress
+  Description: Complete 22 levels
+  GS: '200'
+  Guide: false
+  Number of Gamers: 624
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '218'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Triple Treat
+  Description: Deliver 3 times dishes with 2 ingredients
+  GS: '200'
+  Guide: false
+  Number of Gamers: 482
+  Percentage of Gamers: 65%
+  Ratio: 1.24
+  TA: '249'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Memory Lane
+  Description: Use undo 10 times
+  GS: '200'
+  Guide: true
+  Number of Gamers: 507
+  Percentage of Gamers: 68%
+  Ratio: 1.21
+  TA: '243'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Bumper Trio
+  Description: Make 3 cart hit another
+  GS: '200'
+  Guide: true
+  Number of Gamers: 487
+  Percentage of Gamers: 65%
+  Ratio: 1.23
+  TA: '247'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Pro Chef
+  Description: Complete level 23
+  GS: '200'
+  Guide: true
+  Number of Gamers: 457
+  Percentage of Gamers: 61%
+  Ratio: 1.28
+  TA: '256'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Veteran Chef
+  Description: Complete level 24
+  GS: '200'
+  Guide: true
+  Number of Gamers: 454
+  Percentage of Gamers: 61%
+  Ratio: 1.28
+  TA: '256'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+Walkthrough: false

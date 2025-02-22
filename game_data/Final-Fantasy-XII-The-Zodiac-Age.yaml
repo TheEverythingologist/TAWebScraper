@@ -1,0 +1,500 @@
+Add On Achievements: []
+Base Completion Time:
+- 80.0
+- 100.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Assault Striker
+  Description: Used Attack 300 times.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 19290
+  Percentage of Gamers: 63%
+  Ratio: 1.25
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Spellslinger
+  Description: Cast Magicks 200 times.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 13668
+  Percentage of Gamers: 45%
+  Ratio: 1.49
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Premier Prestidigitator
+  Description: Used Technicks 100 times.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 12303
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Master Thief
+  Description: Successfully stole 50 times.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 9539
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Blood Dancer
+  Description: Defeated 500 foes.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 14105
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: The Unrelenting
+  Description: Completed a 50-chain in battle.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 10861
+  Percentage of Gamers: 35%
+  Ratio: 1.67
+  TA: '25'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Wayfarer
+  Description: Took 50,000 steps.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 14226
+  Percentage of Gamers: 46%
+  Ratio: 1.46
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Plunderer
+  Description: Acquired 100,000 gil.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 11416
+  Percentage of Gamers: 37%
+  Ratio: 1.63
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Record Breaker
+  Description: Obtained 500,000 Clan Points.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 8543
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Spendthrift
+  Description: Spent 1,000,000 gil.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 5137
+  Percentage of Gamers: 17%
+  Ratio: 2.44
+  TA: '36'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Shop
+- Achievement Name: Privateer
+  Description: Sold 1,000 pieces of loot.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 9615
+  Percentage of Gamers: 31%
+  Ratio: 1.78
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Shop
+- Achievement Name: Exemplar
+  Description: Raised your party's average level above 50.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 5461
+  Percentage of Gamers: 18%
+  Ratio: 2.36
+  TA: '35'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Conqueror
+  Description: Earned 48,000 License Points.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 5665
+  Percentage of Gamers: 18%
+  Ratio: 2.32
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Scrivener
+  Description: Completed the Bestiary.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 1104
+  Percentage of Gamers: 4%
+  Ratio: 5.27
+  TA: '131'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Runeweaver
+  Description: Learned every Magick.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 2003
+  Percentage of Gamers: 7%
+  Ratio: 3.91
+  TA: '97'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Shop
+- Achievement Name: Jack-of-All-Trades
+  Description: Learned every Technick.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 1918
+  Percentage of Gamers: 6%
+  Ratio: 3.99
+  TA: '99'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Shop
+- Achievement Name: Collector
+  Description: Obtained a Morbid Urn.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 4076
+  Percentage of Gamers: 13%
+  Ratio: 2.74
+  TA: '41'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Cartographer
+  Description: Fully explored every map.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 1800
+  Percentage of Gamers: 6%
+  Ratio: 4.13
+  TA: '103'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Mist Walker
+  Description: Performed every Concurrence.
+  GS: '90'
+  Guide: true
+  Number of Gamers: 1828
+  Percentage of Gamers: 6%
+  Ratio: 4.09
+  TA: '368'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Eagle Eye
+  Description: Defeated Deathgaze.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3977
+  Percentage of Gamers: 13%
+  Ratio: 2.77
+  TA: '41'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Wyrmslayer
+  Description: Defeated Fafnir.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3224
+  Percentage of Gamers: 11%
+  Ratio: 3.08
+  TA: '46'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Sharpshooter
+  Description: Defeated the Trickster.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 5608
+  Percentage of Gamers: 18%
+  Ratio: 2.33
+  TA: '35'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Freshmaker
+  Description: Defeated Carrot.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 4746
+  Percentage of Gamers: 15%
+  Ratio: 2.54
+  TA: '38'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Master Swordsman
+  Description: Defeated Gilgamesh.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 3534
+  Percentage of Gamers: 12%
+  Ratio: 2.94
+  TA: '73'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Lord of the Kings
+  Description: Defeated the Behemoth King.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 2718
+  Percentage of Gamers: 9%
+  Ratio: 3.36
+  TA: '84'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Hunter Extraordinaire
+  Description: Defeated Yiazmat.
+  GS: '90'
+  Guide: true
+  Number of Gamers: 1713
+  Percentage of Gamers: 6%
+  Ratio: 4.23
+  TA: '380'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Radiant Savior
+  Description: Defeated the Hell Wyrm.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 2458
+  Percentage of Gamers: 8%
+  Ratio: 3.53
+  TA: '88'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Fell Angel
+  Description: Defeated Ultima.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 3085
+  Percentage of Gamers: 10%
+  Ratio: 3.15
+  TA: '78'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Zodiac Knight
+  Description: Defeated Zodiark.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 2381
+  Percentage of Gamers: 8%
+  Ratio: 3.58
+  TA: '89'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: High Summoner
+  Description: Obtained every Esper.
+  GS: '90'
+  Guide: true
+  Number of Gamers: 2280
+  Percentage of Gamers: 7%
+  Ratio: 3.66
+  TA: '330'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: For the Homeland
+  Description: Faced the Archadian Empire as an initiate in the Order of the Knights
+    of Dalmasca.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 30592
+  Percentage of Gamers: 100%
+  Ratio: 1.0
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Galbana Bloom
+  Description: Defeated your first mark.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 24770
+  Percentage of Gamers: 81%
+  Ratio: 1.11
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: A Traitor Redeemed
+  Description: Escaped from the Nalbina Dungeons.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 16505
+  Percentage of Gamers: 54%
+  Ratio: 1.36
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Fated Meeting
+  Description: Rescued the Princess of Dalmasca.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 14264
+  Percentage of Gamers: 47%
+  Ratio: 1.46
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: The Mist Seethes
+  Description: Obtained the Dawn Shard.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 12010
+  Percentage of Gamers: 39%
+  Ratio: 1.59
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Visions of the Dreamer
+  Description: Set out from Mt Bur-Omisace.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 9435
+  Percentage of Gamers: 31%
+  Ratio: 1.8
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Reins of History
+  Description: Faced Doctor Cid.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 7941
+  Percentage of Gamers: 26%
+  Ratio: 1.96
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Wings of My Own
+  Description: Restored peace to Ivalice.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 4856
+  Percentage of Gamers: 16%
+  Ratio: 2.51
+  TA: '62'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
+- Achievement Name: Judge Magister
+  Description: Completed the 50th trial.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3000
+  Percentage of Gamers: 10%
+  Ratio: 3.19
+  TA: '47'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Imperator
+  Description: Completed the 100th trial.
+  GS: '90'
+  Guide: false
+  Number of Gamers: 1073
+  Percentage of Gamers: 4%
+  Ratio: 5.34
+  TA: '481'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 3.203
+Base TA: 3203
+Delisted: false
+Developer: Square Enix
+Game Name: FINAL FANTASY XII THE ZODIAC AGE
+Genres: Role Playing, Turn Based
+Install Size: 26420.0
+Number of Completions: 903
+Number of Gamers: 30647
+Overall Completion Time:
+- 80.0
+- 100.0
+Overall GS: 1000
+Overall Ratio: 3.203
+Overall TA: 3203
+PDU: 0
+Percentage Completed: 2.95
+Publisher: Square Enix
+Release Date: 30 April 2019
+Server Closure: false
+Site Rating: 4.36
+Update Achievements: []
+Walkthrough: false

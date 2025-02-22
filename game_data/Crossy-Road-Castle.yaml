@@ -1,0 +1,571 @@
+Add On Achievements: []
+Base Completion Time:
+- 12.0
+- 15.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: First Run
+  Description: Complete the tutorial
+  GS: '10'
+  Guide: false
+  Number of Gamers: 300
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Better with Friends
+  Description: Play a multiplayer game
+  GS: '10'
+  Guide: false
+  Number of Gamers: 236
+  Percentage of Gamers: 74%
+  Ratio: 1.15
+  TA: '11'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Fancy Hat
+  Description: Wear a silly hat
+  GS: '10'
+  Guide: false
+  Number of Gamers: 260
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '11'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Shop
+- Achievement Name: 'Door #2'
+  Description: Find a secret room
+  GS: '10'
+  Guide: true
+  Number of Gamers: 204
+  Percentage of Gamers: 64%
+  Ratio: 1.24
+  TA: '12'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Unbreakable
+  Description: Die 100 times
+  GS: '20'
+  Guide: false
+  Number of Gamers: 122
+  Percentage of Gamers: 38%
+  Ratio: 1.6
+  TA: '32'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Wakey Wakey
+  Description: Bop 50 clouds
+  GS: '20'
+  Guide: false
+  Number of Gamers: 162
+  Percentage of Gamers: 51%
+  Ratio: 1.39
+  TA: '27'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Low Rise
+  Description: Unlock Construction Tower
+  GS: '10'
+  Guide: false
+  Number of Gamers: 258
+  Percentage of Gamers: 81%
+  Ratio: 1.1
+  TA: '11'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Destruction Zone
+  Description: Blow up 50 fuse bombs
+  GS: '20'
+  Guide: false
+  Number of Gamers: 173
+  Percentage of Gamers: 55%
+  Ratio: 1.35
+  TA: '27'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Merry-Go-Round
+  Description: Unlock Creepy Carnival
+  GS: '10'
+  Guide: false
+  Number of Gamers: 126
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '15'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Bird Buddy
+  Description: Rescue the Owl boss on floor 30 in the Creepy Carnival
+  GS: '20'
+  Guide: false
+  Number of Gamers: 101
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '35'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Shrub Scaler
+  Description: Unlock The Great Treehouse
+  GS: '10'
+  Guide: false
+  Number of Gamers: 102
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '17'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Cat Life
+  Description: Play as Blue and knock over a plant pot in The Great Treehouse
+  GS: '20'
+  Guide: false
+  Number of Gamers: 40
+  Percentage of Gamers: 13%
+  Ratio: 2.81
+  TA: '56'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Moon Walker
+  Description: Unlock Space Station 115
+  GS: '10'
+  Guide: false
+  Number of Gamers: 89
+  Percentage of Gamers: 28%
+  Ratio: 1.88
+  TA: '18'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Flight Path
+  Description: Bounce on a UFO 10 times without touching the ground
+  GS: '20'
+  Guide: true
+  Number of Gamers: 56
+  Percentage of Gamers: 18%
+  Ratio: 2.37
+  TA: '47'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Buggy
+- Achievement Name: Sweet Treat
+  Description: Unlock Candy Cafe
+  GS: '10'
+  Guide: false
+  Number of Gamers: 83
+  Percentage of Gamers: 26%
+  Ratio: 1.95
+  TA: '19'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Take This
+  Description: Bop gameshow rivals 50 times in the Candy Cafe boss battle
+  GS: '20'
+  Guide: false
+  Number of Gamers: 56
+  Percentage of Gamers: 18%
+  Ratio: 2.37
+  TA: '47'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Cave Crasher
+  Description: Unlock The Lost Temple
+  GS: '10'
+  Guide: false
+  Number of Gamers: 75
+  Percentage of Gamers: 24%
+  Ratio: 2.05
+  TA: '20'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Serve and Return
+  Description: Beat The Lost Temple boss without missing any spike balls
+  GS: '20'
+  Guide: false
+  Number of Gamers: 42
+  Percentage of Gamers: 13%
+  Ratio: 2.74
+  TA: '54'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Base Camper
+  Description: Unlock Snowpeak Palace
+  GS: '10'
+  Guide: false
+  Number of Gamers: 71
+  Percentage of Gamers: 22%
+  Ratio: 2.1
+  TA: '21'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Tricky
+  Description: Do 50 tricks on a snowboard during the Snowpeak Palace boss battle
+  GS: '20'
+  Guide: false
+  Number of Gamers: 33
+  Percentage of Gamers: 10%
+  Ratio: 3.09
+  TA: '61'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Ice Cubed
+  Description: Stand still in Snowpeak Palace for 10 seconds
+  GS: '10'
+  Guide: true
+  Number of Gamers: 61
+  Percentage of Gamers: 19%
+  Ratio: 2.27
+  TA: '22'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Wave Wader
+  Description: Unlock Sandcastle Shores
+  GS: '10'
+  Guide: false
+  Number of Gamers: 71
+  Percentage of Gamers: 22%
+  Ratio: 2.1
+  TA: '21'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Up and Away
+  Description: Get thrown by 50 Flip Flop enemies
+  GS: '20'
+  Guide: true
+  Number of Gamers: 43
+  Percentage of Gamers: 14%
+  Ratio: 2.71
+  TA: '54'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Conveyor Cruiser
+  Description: Unlock Windup Workshop
+  GS: '10'
+  Guide: false
+  Number of Gamers: 85
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '19'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Quick Change
+  Description: Collect a coin while jumping between two turbo pipes without touching
+    the ground
+  GS: '20'
+  Guide: true
+  Number of Gamers: 67
+  Percentage of Gamers: 21%
+  Ratio: 2.17
+  TA: '43'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Stack Hat
+  Description: Collect 10 hats
+  GS: '20'
+  Guide: false
+  Number of Gamers: 110
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '33'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Shop
+- Achievement Name: Coin Collector
+  Description: Pickup 1000 coins
+  GS: '20'
+  Guide: false
+  Number of Gamers: 227
+  Percentage of Gamers: 72%
+  Ratio: 1.17
+  TA: '23'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Got Stomp
+  Description: Stomp on 500 enemies
+  GS: '20'
+  Guide: false
+  Number of Gamers: 64
+  Percentage of Gamers: 20%
+  Ratio: 2.22
+  TA: '44'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: One Hoof at a Time
+  Description: Reach floor 10 of any tower
+  GS: '10'
+  Guide: false
+  Number of Gamers: 316
+  Percentage of Gamers: 100%
+  Ratio: 1.0
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Sticker Club
+  Description: Collect 10 stickers
+  GS: '20'
+  Guide: false
+  Number of Gamers: 166
+  Percentage of Gamers: 52%
+  Ratio: 1.37
+  TA: '27'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Here Comes a New Challenger
+  Description: Try a Challenge Event
+  GS: '10'
+  Guide: false
+  Number of Gamers: 161
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '14'
+  Tags:
+  - Online Mode
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Headache
+  Description: Bop 3 enemies without touching the ground
+  GS: '10'
+  Guide: false
+  Number of Gamers: 191
+  Percentage of Gamers: 60%
+  Ratio: 1.28
+  TA: '12'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Kind Hearted
+  Description: Leave 50 enemies alive
+  GS: '20'
+  Guide: false
+  Number of Gamers: 218
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '24'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Fresh Prince
+  Description: Dress the Prince in a Cap
+  GS: '30'
+  Guide: true
+  Number of Gamers: 18
+  Percentage of Gamers: 6%
+  Ratio: 4.18
+  TA: '125'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Shop
+  - Buggy
+- Achievement Name: Shiny!
+  Description: Collect all secret gems from any tower
+  GS: '40'
+  Guide: true
+  Number of Gamers: 37
+  Percentage of Gamers: 12%
+  Ratio: 2.92
+  TA: '116'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Serious Stomping
+  Description: Stomp on 1000 enemies
+  GS: '30'
+  Guide: false
+  Number of Gamers: 40
+  Percentage of Gamers: 13%
+  Ratio: 2.81
+  TA: '84'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: The Half Gallop
+  Description: Reach floor 50 of any tower
+  GS: '30'
+  Guide: false
+  Number of Gamers: 244
+  Percentage of Gamers: 77%
+  Ratio: 1.13
+  TA: '34'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Zoo Keeper
+  Description: Unlock all characters from any tower
+  GS: '40'
+  Guide: false
+  Number of Gamers: 25
+  Percentage of Gamers: 8%
+  Ratio: 3.55
+  TA: '142'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Shop
+- Achievement Name: Hat Trick
+  Description: Unlock all hats from any tower
+  GS: '40'
+  Guide: true
+  Number of Gamers: 41
+  Percentage of Gamers: 13%
+  Ratio: 2.77
+  TA: '111'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Shop
+- Achievement Name: Another Dimension
+  Description: Obtain 5 mystery Rainbow Thingies and unlock Rainbow Rift
+  GS: '80'
+  Guide: true
+  Number of Gamers: 33
+  Percentage of Gamers: 10%
+  Ratio: 3.09
+  TA: '247'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Coin Surfer
+  Description: Pickup 10000 coins
+  GS: '60'
+  Guide: false
+  Number of Gamers: 82
+  Percentage of Gamers: 26%
+  Ratio: 1.96
+  TA: '117'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Now it's Personal
+  Description: Stomp on 5000 enemies
+  GS: '60'
+  Guide: true
+  Number of Gamers: 19
+  Percentage of Gamers: 6%
+  Ratio: 4.07
+  TA: '244'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: The Centurian
+  Description: Reach floor 100 of any tower
+  GS: '100'
+  Guide: false
+  Number of Gamers: 100
+  Percentage of Gamers: 32%
+  Ratio: 1.77
+  TA: '177'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+Base Ratio: 2.294
+Base TA: 2294
+Delisted: false
+Developer: Hipster Whale
+Game Name: Crossy Road Castle
+Genres: Platformer
+Install Size: 787.0
+Number of Completions: 14
+Number of Gamers: 317
+Overall Completion Time:
+- 12.0
+- 15.0
+Overall GS: 1000
+Overall Ratio: 2.294
+Overall TA: 2294
+PDU: 0
+Percentage Completed: 4.42
+Publisher: Hipster Whale
+Release Date: 11 September 2024
+Server Closure: false
+Site Rating: 3.0
+Update Achievements: []
+Walkthrough: false

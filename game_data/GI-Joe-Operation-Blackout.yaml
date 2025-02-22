@@ -1,0 +1,473 @@
+Add On Achievements: []
+Base Completion Time:
+- 15.0
+- 20.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Hot Potato
+  Description: Deal damage to 5 enemies with a single grenade.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 970
+  Percentage of Gamers: 25%
+  Ratio: 1.98
+  TA: '59'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Show me what you've got!
+  Description: Win a multiplayer match in all game modes.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 384
+  Percentage of Gamers: 10%
+  Ratio: 3.18
+  TA: '95'
+  Tags:
+  - Offline Mode
+  - Versus
+- Achievement Name: Lock and Load
+  Description: Perform an quick reload with all primary weapons.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 430
+  Percentage of Gamers: 11%
+  Ratio: 2.99
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Ultimate Power
+  Description: Perform all character ultimates.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 394
+  Percentage of Gamers: 10%
+  Ratio: 3.13
+  TA: '62'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Don't be a Stranger
+  Description: Win a multiplayer match with every character from Cobra and G.I. Joe.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 354
+  Percentage of Gamers: 9%
+  Ratio: 3.31
+  TA: '99'
+  Tags:
+  - Offline Mode
+  - Versus
+- Achievement Name: A Job Well Done
+  Description: Complete all secondary objectives on story mode.
+  GS: '100'
+  Guide: true
+  Number of Gamers: 307
+  Percentage of Gamers: 8%
+  Ratio: 3.54
+  TA: '354'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Knowing is half the battle!
+  Description: Get half of the game collectables.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 496
+  Percentage of Gamers: 13%
+  Ratio: 2.77
+  TA: '83'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Now I know!
+  Description: Get all the collectables.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 265
+  Percentage of Gamers: 7%
+  Ratio: 3.83
+  TA: '114'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Yo Joe!
+  Description: Complete the tutorial.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3835
+  Percentage of Gamers: 100%
+  Ratio: 1.0
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Mine, all mine!
+  Description: 'Complete Mission 1: "Capture the FLAGG" in under 10 minutes.'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 471
+  Percentage of Gamers: 12%
+  Ratio: 2.86
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Time/Date
+- Achievement Name: Recipe for Disaster
+  Description: 'Complete Mission 2: "Light''s Out" without activating any turrets.'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 569
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Cold Slither
+  Description: 'Complete Mission 4: "Cold Case", without receiving health damage from
+    Zartan.'
+  GS: '30'
+  Guide: true
+  Number of Gamers: 841
+  Percentage of Gamers: 22%
+  Ratio: 2.13
+  TA: '64'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: A Joe Needs No Tricks
+  Description: 'Complete Mission 5: "Scarcity of Freedom" using the self-destruct
+    sequence only once.'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 495
+  Percentage of Gamers: 13%
+  Ratio: 2.78
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: A McCullen Won't Forget
+  Description: 'During Mission 6: "Come With Me If You Want To Live", knockdown Destro
+    at least 4 times.'
+  GS: '30'
+  Guide: true
+  Number of Gamers: 506
+  Percentage of Gamers: 13%
+  Ratio: 2.75
+  TA: '82'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Man on the Run
+  Description: 'Complete Mission 8: "It''s a Trap!" with 2 minutes or more left.'
+  GS: '30'
+  Guide: true
+  Number of Gamers: 557
+  Percentage of Gamers: 14%
+  Ratio: 2.62
+  TA: '78'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Time/Date
+- Achievement Name: Close Enough to the End
+  Description: 'Complete Mission 8: "It''s a Trap!" without losing everything.'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 762
+  Percentage of Gamers: 20%
+  Ratio: 2.24
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: That Tech is Expensive!
+  Description: 'Complete Mission 8: "It''s a Trap!" destroying no more than 3 B.A.T.S.
+    pods.'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 378
+  Percentage of Gamers: 10%
+  Ratio: 3.18
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Survival of the Fittest
+  Description: 'During Mission 9: "Made in Japan" as Storm Shadow, defeat most of
+    the ninjas using melee attacks.'
+  GS: '30'
+  Guide: true
+  Number of Gamers: 309
+  Percentage of Gamers: 8%
+  Ratio: 3.53
+  TA: '106'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Graves of the Firefly
+  Description: 'During Mission 9: "Made In Japan" as Firefly, defeat most of the enemies
+    using only the Boomslang.'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 333
+  Percentage of Gamers: 9%
+  Ratio: 3.4
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: A Relic of the Past
+  Description: 'During Mission 10: "Fury & Silence", don''t lose your grasp on the
+    mold.'
+  GS: '30'
+  Guide: true
+  Number of Gamers: 305
+  Percentage of Gamers: 8%
+  Ratio: 3.55
+  TA: '106'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: '...'
+  Description: 'On Mission 10: "Fury & Silence", deal the final blow to Storm Shadow
+    using Snake Eyes'' katana.'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 400
+  Percentage of Gamers: 10%
+  Ratio: 3.1
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: You can't do thiss to me!
+  Description: 'During Mission 11: "Nothing Personal", defeat Cobra Commander in less
+    than 2 minutes.'
+  GS: '30'
+  Guide: true
+  Number of Gamers: 647
+  Percentage of Gamers: 17%
+  Ratio: 2.43
+  TA: '73'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Time/Date
+- Achievement Name: Dissasembly Line
+  Description: 'During Mission 12: "First Light" defeat 25 B.A.T.''s using turrets.'
+  GS: '30'
+  Guide: true
+  Number of Gamers: 337
+  Percentage of Gamers: 9%
+  Ratio: 3.38
+  TA: '101'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: The Pride of the McCullen
+  Description: 'Complete Mission 13: "Unplugged" as Destro without taking down neither
+    Scarlett nor Lady Jaye.'
+  GS: '30'
+  Guide: true
+  Number of Gamers: 367
+  Percentage of Gamers: 10%
+  Ratio: 3.24
+  TA: '97'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: As Deadly as Ever
+  Description: 'During Mission 13: "Unplugged" defeat both Lady Jaye and Scarlett
+    while playing as Baroness.'
+  GS: '20'
+  Guide: true
+  Number of Gamers: 409
+  Percentage of Gamers: 11%
+  Ratio: 3.07
+  TA: '61'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Spring Cleaning
+  Description: 'Complete Mission 14: "Undo What They Did to USS" having defeated most
+    enemies.'
+  GS: '20'
+  Guide: true
+  Number of Gamers: 562
+  Percentage of Gamers: 15%
+  Ratio: 2.61
+  TA: '52'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: They won't even know what hit them.
+  Description: 'Complete Mission 16: "Enemy of my Enemy" in under 15 minutes.'
+  GS: '30'
+  Guide: true
+  Number of Gamers: 352
+  Percentage of Gamers: 9%
+  Ratio: 3.3
+  TA: '99'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Time/Date
+- Achievement Name: Target Practice
+  Description: 'During Mission 16: "Enemy of my Enemy" on single player, win the B.A.T.
+    destruction contest.'
+  GS: '30'
+  Guide: true
+  Number of Gamers: 519
+  Percentage of Gamers: 13%
+  Ratio: 2.72
+  TA: '81'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Doesn't Ring a Bell
+  Description: 'Complete Mission 17: "Freedom Squad" without losing control of your
+    character.'
+  GS: '20'
+  Guide: false
+  Number of Gamers: 364
+  Percentage of Gamers: 9%
+  Ratio: 3.25
+  TA: '65'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Snake is sneak spelled sideways.
+  Description: 'During Mission 17: "Freedom Squad", defeat the last boss avoiding
+    its special attack.'
+  GS: '30'
+  Guide: true
+  Number of Gamers: 357
+  Percentage of Gamers: 9%
+  Ratio: 3.29
+  TA: '98'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Whenever There's Trouble
+  Description: Complete all missions of story mode on "Action Figures" dificulty.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 568
+  Percentage of Gamers: 15%
+  Ratio: 2.6
+  TA: '52'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+  - Story Completed
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: G.I. Joe is There
+  Description: Complete all missions of story mode on "Government Issue" difficulty.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 388
+  Percentage of Gamers: 10%
+  Ratio: 3.15
+  TA: '94'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: American Hero
+  Description: Complete all missions of story mode on "Man of Action" difficulty.
+  GS: '100'
+  Guide: true
+  Number of Gamers: 274
+  Percentage of Gamers: 7%
+  Ratio: 3.76
+  TA: '376'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: A Real American Hero
+  Description: Complete all missions of story mode on "Real American Hero" difficulty.
+  GS: '100'
+  Guide: true
+  Number of Gamers: 266
+  Percentage of Gamers: 7%
+  Ratio: 3.81
+  TA: '381'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+Base Ratio: 3.169
+Base TA: 3169
+Delisted: true
+Developer: IguanaBee, Fair Play Labs
+Game Name: 'G.I. JOE: Operation Blackout'
+Genres: Third Person Shooter
+Install Size: 7690.0
+Number of Completions: 237
+Number of Gamers: 3850
+Overall Completion Time:
+- 15.0
+- 20.0
+Overall GS: 1000
+Overall Ratio: 3.169
+Overall TA: 3169
+PDU: 0
+Percentage Completed: 6.16
+Publisher: GameMill Entertainment
+Release Date: 13 October 2020
+Server Closure: false
+Site Rating: 2.75
+Update Achievements: []
+Walkthrough: false

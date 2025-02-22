@@ -1,0 +1,438 @@
+Add On Achievements: []
+Base Completion Time:
+- 300.0
+- 500.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: A Brief Tour
+  Description: Complete the "A Brief Tour of the Realm" adventure
+  GS: '10'
+  Guide: true
+  Number of Gamers: 22818
+  Percentage of Gamers: 84%
+  Ratio: 1.08
+  TA: '10'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Monster Mash
+  Description: Defeat 2,500 Monsters
+  GS: '10'
+  Guide: true
+  Number of Gamers: 19338
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '11'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Critical Damage
+  Description: Defeat 25,000 Monsters
+  GS: '10'
+  Guide: true
+  Number of Gamers: 13030
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '14'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Trail of Destruction
+  Description: Defeat 250,000 Monsters
+  GS: '10'
+  Guide: true
+  Number of Gamers: 9678
+  Percentage of Gamers: 36%
+  Ratio: 1.67
+  TA: '16'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Idle Annihilation
+  Description: Defeat 1,000,000 Monsters
+  GS: '25'
+  Guide: true
+  Number of Gamers: 7946
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '46'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cumulative +
+  - Time Consuming
+- Achievement Name: A New Recruit
+  Description: Unlock an event Champion
+  GS: '25'
+  Guide: true
+  Number of Gamers: 16593
+  Percentage of Gamers: 61%
+  Ratio: 1.27
+  TA: '31'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Collectable
+  - Time/Date
+- Achievement Name: Heroes of Faerun
+  Description: Unlock 3 event Champions
+  GS: '50'
+  Guide: true
+  Number of Gamers: 14434
+  Percentage of Gamers: 53%
+  Ratio: 1.37
+  TA: '68'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Collectable
+  - Time/Date
+- Achievement Name: Band of Champions
+  Description: Unlock 9 event Champions
+  GS: '100'
+  Guide: true
+  Number of Gamers: 6693
+  Percentage of Gamers: 25%
+  Ratio: 2.01
+  TA: '201'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Collectable
+  - Time/Date
+- Achievement Name: Gold Farmer
+  Description: Gain 100,000 Gold over all adventures
+  GS: '10'
+  Guide: true
+  Number of Gamers: 25490
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '10'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Savvy Investor
+  Description: Gain 100,000,000,000 Gold over all adventures
+  GS: '10'
+  Guide: true
+  Number of Gamers: 18002
+  Percentage of Gamers: 66%
+  Ratio: 1.22
+  TA: '12'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Never Enough Gold
+  Description: Gain 1e18 Gold over all adventures
+  GS: '10'
+  Guide: true
+  Number of Gamers: 9642
+  Percentage of Gamers: 36%
+  Ratio: 1.67
+  TA: '16'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Imagine all the Ale
+  Description: Gain 1e25 Gold over all adventures
+  GS: '25'
+  Guide: true
+  Number of Gamers: 5797
+  Percentage of Gamers: 21%
+  Ratio: 2.16
+  TA: '54'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Go for the Gold
+  Description: Gain 1e32 Gold over all adventures
+  GS: '50'
+  Guide: true
+  Number of Gamers: 4227
+  Percentage of Gamers: 16%
+  Ratio: 2.53
+  TA: '126'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: The One Percent
+  Description: Gain 1e40 Gold over all adventures
+  GS: '100'
+  Guide: true
+  Number of Gamers: 3338
+  Percentage of Gamers: 12%
+  Ratio: 2.85
+  TA: '285'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Beat Area 100
+  Description: Complete Area 100 in any adventure or variant
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7921
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '18'
+  Tags:
+  - Online Mode
+  - Single Player
+- Achievement Name: Beat Area 150
+  Description: Complete Area 150 in any adventure or variant
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5997
+  Percentage of Gamers: 22%
+  Ratio: 2.12
+  TA: '21'
+  Tags:
+  - Online Mode
+  - Single Player
+- Achievement Name: Beat Area 200
+  Description: Complete Area 200 in any adventure or variant
+  GS: '25'
+  Guide: false
+  Number of Gamers: 4645
+  Percentage of Gamers: 17%
+  Ratio: 2.41
+  TA: '60'
+  Tags:
+  - Online Mode
+  - Single Player
+- Achievement Name: Beat Area 250
+  Description: Complete Area 250 in any adventure or variant
+  GS: '50'
+  Guide: true
+  Number of Gamers: 3834
+  Percentage of Gamers: 14%
+  Ratio: 2.66
+  TA: '133'
+  Tags:
+  - Online Mode
+  - Single Player
+- Achievement Name: The Spice of Life
+  Description: Complete 12 Variant Adventures
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5769
+  Percentage of Gamers: 21%
+  Ratio: 2.17
+  TA: '21'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Pretty Spicy Now
+  Description: Complete 12 Variant Adventures
+  GS: '25'
+  Guide: true
+  Number of Gamers: 4359
+  Percentage of Gamers: 16%
+  Ratio: 2.49
+  TA: '62'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Supreme Spice
+  Description: Complete 72 Variant Adventures
+  GS: '100'
+  Guide: true
+  Number of Gamers: 2653
+  Percentage of Gamers: 10%
+  Ratio: 3.2
+  TA: '320'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cumulative +
+  - Time Consuming
+- Achievement Name: Go For The Eyes!
+  Description: Use Minsc's ultimate attack
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7081
+  Percentage of Gamers: 26%
+  Ratio: 1.95
+  TA: '19'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Level
+- Achievement Name: Mage Hand
+  Description: Manually attack monsters 250,000 times
+  GS: '25'
+  Guide: true
+  Number of Gamers: 6791
+  Percentage of Gamers: 25%
+  Ratio: 1.99
+  TA: '49'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Easily Distracted
+  Description: Shoot down 1,000 crows
+  GS: '25'
+  Guide: true
+  Number of Gamers: 4865
+  Percentage of Gamers: 18%
+  Ratio: 2.36
+  TA: '59'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Been There Done That
+  Description: Complete 250 Free Play Runs
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1667
+  Percentage of Gamers: 6%
+  Ratio: 4.05
+  TA: '202'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Do It Again
+  Description: Complete 10 Free Play Runs
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3856
+  Percentage of Gamers: 14%
+  Ratio: 2.65
+  TA: '26'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Do It Again and Again
+  Description: Complete 50 Free Play Runs
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2393
+  Percentage of Gamers: 9%
+  Ratio: 3.37
+  TA: '33'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Do It For Me
+  Description: Purchase and assign a familiar
+  GS: '25'
+  Guide: true
+  Number of Gamers: 10893
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '39'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Shop
+- Achievement Name: Favored of Torm
+  Description: Gather 10B favor with Torm
+  GS: '25'
+  Guide: true
+  Number of Gamers: 3318
+  Percentage of Gamers: 12%
+  Ratio: 2.86
+  TA: '71'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Oh, Shiny!
+  Description: Obtain a Shiny (silvered) loot item
+  GS: '50'
+  Guide: true
+  Number of Gamers: 13545
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '70'
+  Tags:
+  - Online Mode
+  - Single Player
+- Achievement Name: Quick Draw
+  Description: Defeat a level 100+ boss within 10 seconds of starting the area
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5896
+  Percentage of Gamers: 22%
+  Ratio: 2.14
+  TA: '21'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: Repeatedly Do It
+  Description: Complete 100 Free Play Runs
+  GS: '25'
+  Guide: true
+  Number of Gamers: 2019
+  Percentage of Gamers: 7%
+  Ratio: 3.68
+  TA: '92'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Super Spice
+  Description: Complete 48 Variant Adventures
+  GS: '50'
+  Guide: true
+  Number of Gamers: 3214
+  Percentage of Gamers: 12%
+  Ratio: 2.91
+  TA: '145'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cumulative +
+  - Time Consuming
+- Achievement Name: Spice It Up
+  Description: Complete 4 Variant Adventures
+  GS: '10'
+  Guide: true
+  Number of Gamers: 9661
+  Percentage of Gamers: 36%
+  Ratio: 1.67
+  TA: '16'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cumulative +
+Base Ratio: 2.377
+Base TA: 2377
+Delisted: false
+Developer: Codename Entertainment
+Game Name: Idle Champions of the Forgotten Realms
+Genres: Strategy, Management
+Install Size: 592.0
+Number of Completions: 1613
+Number of Gamers: 27140
+Overall Completion Time:
+- 300.0
+- 500.0
+Overall GS: 1000
+Overall Ratio: 2.377
+Overall TA: 2377
+PDU: 0
+Percentage Completed: 5.94
+Publisher: Codename Entertainment
+Release Date: 01 August 2019
+Server Closure: false
+Site Rating: 3.15
+Update Achievements: []
+Walkthrough: false

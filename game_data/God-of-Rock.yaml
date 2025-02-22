@@ -1,0 +1,378 @@
+Add On Achievements: []
+Base Completion Time:
+- 9
+- 10
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Hush
+  Description: During overtime, score 40 flawless notes in a row in an online match
+  GS: '100'
+  Guide: true
+  Number of Gamers: 25
+  Percentage of Gamers: 5%
+  Ratio: 4.5
+  TA: '450'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Stairway to Heaven
+  Description: Win over 100 online matches
+  GS: '100'
+  Guide: false
+  Number of Gamers: 25
+  Percentage of Gamers: 5%
+  Ratio: 4.5
+  TA: '450'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Into the Void
+  Description: Reach over 200 Combo Streak
+  GS: '100'
+  Guide: true
+  Number of Gamers: 33
+  Percentage of Gamers: 6%
+  Ratio: 3.91
+  TA: '391'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: I'll be bach
+  Description: Deal over 50 damage in less than 8 seconds as Johann in an online match
+  GS: '80'
+  Guide: true
+  Number of Gamers: 29
+  Percentage of Gamers: 6%
+  Ratio: 4.18
+  TA: '334'
+  Tags:
+  - Online Mode
+  - Versus
+  - Time/Date
+- Achievement Name: Ordo Virtutum
+  Description: Recover 30HP in an online match as Hilde
+  GS: '80'
+  Guide: true
+  Number of Gamers: 22
+  Percentage of Gamers: 4%
+  Ratio: 4.8
+  TA: '384'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Blitzkrieg Bop
+  Description: Play over 50 quickplay matches
+  GS: '30'
+  Guide: false
+  Number of Gamers: 35
+  Percentage of Gamers: 7%
+  Ratio: 3.8
+  TA: '114'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Ace of Spades
+  Description: Score a total of 1000 perfect or flawless
+  GS: '30'
+  Guide: true
+  Number of Gamers: 261
+  Percentage of Gamers: 51%
+  Ratio: 1.39
+  TA: '41'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Up Above My Head
+  Description: Have your opponents fall for Rosetta's trap notes a total of 50 times
+  GS: '30'
+  Guide: true
+  Number of Gamers: 31
+  Percentage of Gamers: 6%
+  Ratio: 4.04
+  TA: '121'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Satisfaction
+  Description: Play through every song
+  GS: '30'
+  Guide: true
+  Number of Gamers: 28
+  Percentage of Gamers: 5%
+  Ratio: 4.25
+  TA: '127'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Don't stop me now
+  Description: Have Champ's meter fully charged for at least 5 seconds
+  GS: '30'
+  Guide: true
+  Number of Gamers: 151
+  Percentage of Gamers: 29%
+  Ratio: 1.83
+  TA: '55'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Respect
+  Description: Have 20 active bubbles during Queen's Ultra
+  GS: '30'
+  Guide: true
+  Number of Gamers: 27
+  Percentage of Gamers: 5%
+  Ratio: 4.33
+  TA: '129'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Seeing Starmen
+  Description: Leave your opponent dizzy for at least 8 seconds as Ziggy
+  GS: '30'
+  Guide: true
+  Number of Gamers: 26
+  Percentage of Gamers: 5%
+  Ratio: 4.41
+  TA: '132'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Skate punk
+  Description: During Ollie's Trick Combo reach at least a 5x combo streak
+  GS: '30'
+  Guide: true
+  Number of Gamers: 29
+  Percentage of Gamers: 6%
+  Ratio: 4.18
+  TA: '125'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Fortunate Son
+  Description: Execute a Reversal on your opponent's Reversal
+  GS: '30'
+  Guide: true
+  Number of Gamers: 67
+  Percentage of Gamers: 13%
+  Ratio: 2.75
+  TA: '82'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Shoot to Thrill
+  Description: Reach 80 Combo Streak
+  GS: '30'
+  Guide: false
+  Number of Gamers: 161
+  Percentage of Gamers: 31%
+  Ratio: 1.78
+  TA: '53'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: I Fought the Law
+  Description: Win a match against a 'God of Rock' tier AI
+  GS: '30'
+  Guide: true
+  Number of Gamers: 23
+  Percentage of Gamers: 4%
+  Ratio: 4.69
+  TA: '140'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: I Get Around
+  Description: Perform a total of 50 Reversals
+  GS: '30'
+  Guide: true
+  Number of Gamers: 28
+  Percentage of Gamers: 5%
+  Ratio: 4.25
+  TA: '127'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Another Brick in the Wall
+  Description: Complete all tutorials
+  GS: '15'
+  Guide: false
+  Number of Gamers: 126
+  Percentage of Gamers: 25%
+  Ratio: 2.01
+  TA: '30'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Piece of My Heart
+  Description: Create a custom beatmap
+  GS: '15'
+  Guide: true
+  Number of Gamers: 138
+  Percentage of Gamers: 27%
+  Ratio: 1.91
+  TA: '28'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: How Can I Refuse?
+  Description: Play an online match with a custom beatmap
+  GS: '15'
+  Guide: true
+  Number of Gamers: 36
+  Percentage of Gamers: 7%
+  Ratio: 3.75
+  TA: '56'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Wake Up
+  Description: Win a match against any AI tier
+  GS: '15'
+  Guide: false
+  Number of Gamers: 437
+  Percentage of Gamers: 85%
+  Ratio: 1.07
+  TA: '16'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: In Bloom
+  Description: Play 25 matches in Quickplay
+  GS: '15'
+  Guide: false
+  Number of Gamers: 37
+  Percentage of Gamers: 7%
+  Ratio: 3.7
+  TA: '55'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: It's now or never
+  Description: Use the full extent of King's Light of Grace at least 3 times in a
+    match
+  GS: '15'
+  Guide: true
+  Number of Gamers: 27
+  Percentage of Gamers: 5%
+  Ratio: 4.33
+  TA: '64'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Finding My Way
+  Description: Win a match with every character
+  GS: '15'
+  Guide: false
+  Number of Gamers: 69
+  Percentage of Gamers: 13%
+  Ratio: 2.71
+  TA: '40'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Don't Think Twice
+  Description: Use and alternate between Kosaku's Fire and Ice attacks 2 times in
+    a row
+  GS: '15'
+  Guide: true
+  Number of Gamers: 35
+  Percentage of Gamers: 7%
+  Ratio: 3.8
+  TA: '57'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Roses Don't Talk
+  Description: Only use the charged version of Tophat's special moves during a match
+  GS: '15'
+  Guide: true
+  Number of Gamers: 32
+  Percentage of Gamers: 6%
+  Ratio: 3.98
+  TA: '59'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Born to be Wild
+  Description: Reach 40 Combo Streak
+  GS: '15'
+  Guide: false
+  Number of Gamers: 361
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '17'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: One Way or Another
+  Description: Execute a Reversal during a match
+  GS: '15'
+  Guide: false
+  Number of Gamers: 213
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '23'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Stop Your Sobbing
+  Description: Win an online match
+  GS: '15'
+  Guide: false
+  Number of Gamers: 82
+  Percentage of Gamers: 16%
+  Ratio: 2.48
+  TA: '37'
+  Tags:
+  - Online Mode
+  - Versus
+Base Ratio: 3.737
+Base TA: 3737
+Delisted: false
+Developer: Modus Studios Brazil
+Game Name: God of Rock
+Genres: Fighting, Music & Rhythm
+Install Size: 2710.0
+Number of Completions: 19
+Number of Gamers: 512
+Overall Completion Time:
+- 9
+- 10
+Overall GS: 1000
+Overall Ratio: 3.737
+Overall TA: 3737
+PDU: 0
+Percentage Completed: 3.71
+Publisher: Modus Games
+Release Date: 18 April 2023
+Server Closure: false
+Site Rating: 3.43
+Update Achievements: []
+Walkthrough: false

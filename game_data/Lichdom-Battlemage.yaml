@@ -1,0 +1,514 @@
+Add On Achievements: []
+Base Completion Time:
+- 100.0
+- 120.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Apprentice
+  Description: Choose your first sigil
+  GS: '8'
+  Guide: false
+  Number of Gamers: 4947
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '8'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Artificer
+  Description: Craft your first spell
+  GS: '8'
+  Guide: false
+  Number of Gamers: 2340
+  Percentage of Gamers: 47%
+  Ratio: 1.45
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: The First of Many
+  Description: Defeat Rogiro and his undead beast
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1475
+  Percentage of Gamers: 30%
+  Ratio: 1.83
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Stackable
+- Achievement Name: Under the Rocks
+  Description: Maelstrom's secrets revealed
+  GS: '8'
+  Guide: false
+  Number of Gamers: 404
+  Percentage of Gamers: 8%
+  Ratio: 3.51
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Buggy
+- Achievement Name: Get the Water Flowing
+  Description: Restore Zasad's water source
+  GS: '8'
+  Guide: false
+  Number of Gamers: 349
+  Percentage of Gamers: 7%
+  Ratio: 3.77
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Sacrifice
+  Description: At what cost?
+  GS: '8'
+  Guide: true
+  Number of Gamers: 255
+  Percentage of Gamers: 5%
+  Ratio: 4.42
+  TA: '35'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Into the Darkness
+  Description: Soddentrod is a memory
+  GS: '8'
+  Guide: true
+  Number of Gamers: 228
+  Percentage of Gamers: 5%
+  Ratio: 4.67
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Bitter Victory
+  Description: Back from the grave
+  GS: '10'
+  Guide: false
+  Number of Gamers: 208
+  Percentage of Gamers: 4%
+  Ratio: 4.89
+  TA: '48'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Stackable
+- Achievement Name: I Am the Dragon
+  Description: Some people just want to watch the world burn
+  GS: '10'
+  Guide: false
+  Number of Gamers: 186
+  Percentage of Gamers: 4%
+  Ratio: 5.17
+  TA: '51'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Stackable
+- Achievement Name: Newb Game Plus
+  Description: Complete any Vortex Portal
+  GS: '8'
+  Guide: true
+  Number of Gamers: 101
+  Percentage of Gamers: 2%
+  Ratio: 7.02
+  TA: '56'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Challenge Completed
+  Description: Complete an entire New Game Plus sequence
+  GS: '10'
+  Guide: true
+  Number of Gamers: 57
+  Percentage of Gamers: 1%
+  Ratio: 9.35
+  TA: '93'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Mouthful
+  Description: Complete an entire series of Vortex Portals in one sitting
+  GS: '8'
+  Guide: true
+  Number of Gamers: 46
+  Percentage of Gamers: 1%
+  Ratio: 10.4
+  TA: '83'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: It's Comin' Outta Me Like Lava!
+  Description: Fall in the lava in the Maelstrom
+  GS: '8'
+  Guide: false
+  Number of Gamers: 378
+  Percentage of Gamers: 8%
+  Ratio: 3.63
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Buggy
+- Achievement Name: A Salt Shaker Half Full
+  Description: Careful with the crates in Soddentrod
+  GS: '8'
+  Guide: true
+  Number of Gamers: 203
+  Percentage of Gamers: 4%
+  Ratio: 4.95
+  TA: '39'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: A Razor Sharp Hunting Knife in Your Eye
+  Description: Oops, did i break that crate on you?
+  GS: '8'
+  Guide: true
+  Number of Gamers: 218
+  Percentage of Gamers: 4%
+  Ratio: 4.78
+  TA: '38'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Surf and Turf
+  Description: Defeat Frostclaw
+  GS: '10'
+  Guide: false
+  Number of Gamers: 439
+  Percentage of Gamers: 9%
+  Ratio: 3.36
+  TA: '33'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Stackable
+- Achievement Name: Dust In The Wind
+  Description: Defeat the Ancient Golem
+  GS: '10'
+  Guide: false
+  Number of Gamers: 266
+  Percentage of Gamers: 5%
+  Ratio: 4.32
+  TA: '43'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Stackable
+- Achievement Name: Dust in the Wind (Battlemage)
+  Description: Defeat the Ancient Golem on Battlemage difficulty
+  GS: '90'
+  Guide: false
+  Number of Gamers: 169
+  Percentage of Gamers: 3%
+  Ratio: 5.43
+  TA: '488'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Surf and Turf (Battlemage)
+  Description: Defeat Frostclaw on Battlemage Difficulty
+  GS: '90'
+  Guide: false
+  Number of Gamers: 267
+  Percentage of Gamers: 5%
+  Ratio: 4.32
+  TA: '388'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: The First of Many (Battlemage)
+  Description: Defeat Rogiro and his Undead Hulk on Battlemage Difficulty
+  GS: '90'
+  Guide: true
+  Number of Gamers: 1049
+  Percentage of Gamers: 21%
+  Ratio: 2.17
+  TA: '196'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: I Am the Dragon (Battlemage)
+  Description: Some people just want to watch the world burn
+  GS: '90'
+  Guide: false
+  Number of Gamers: 122
+  Percentage of Gamers: 2%
+  Ratio: 6.39
+  TA: '575'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Bitter Victory (Battlemage)
+  Description: Back from the grave
+  GS: '90'
+  Guide: false
+  Number of Gamers: 139
+  Percentage of Gamers: 3%
+  Ratio: 5.98
+  TA: '538'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Pyrosmith
+  Description: Level your fire Sigil to 16
+  GS: '8'
+  Guide: true
+  Number of Gamers: 43
+  Percentage of Gamers: 1%
+  Ratio: 10.76
+  TA: '86'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Cryosmith
+  Description: Level your Ice Sigil to 16
+  GS: '8'
+  Guide: false
+  Number of Gamers: 29
+  Percentage of Gamers: 1%
+  Ratio: 13.1
+  TA: '104'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Electrosmith
+  Description: Level your Lightning Sigil to 16
+  GS: '8'
+  Guide: false
+  Number of Gamers: 27
+  Percentage of Gamers: 1%
+  Ratio: 13.58
+  TA: '108'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Plaguesmith
+  Description: Level your Corruption Sigil to 16
+  GS: '8'
+  Guide: false
+  Number of Gamers: 26
+  Percentage of Gamers: 1%
+  Ratio: 13.84
+  TA: '110'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Corpsesmith
+  Description: Level your Necromancy Sigil to 16
+  GS: '8'
+  Guide: false
+  Number of Gamers: 25
+  Percentage of Gamers: 1%
+  Ratio: 14.11
+  TA: '112'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Psychosmith
+  Description: Level your Delirium Sigil to 16
+  GS: '8'
+  Guide: false
+  Number of Gamers: 25
+  Percentage of Gamers: 1%
+  Ratio: 14.11
+  TA: '112'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Forcesmith
+  Description: Level your Kinesis Sigil to 16
+  GS: '8'
+  Guide: false
+  Number of Gamers: 29
+  Percentage of Gamers: 1%
+  Ratio: 13.1
+  TA: '104'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Phasesmith
+  Description: Level your Phase Sigil to 16
+  GS: '8'
+  Guide: false
+  Number of Gamers: 26
+  Percentage of Gamers: 1%
+  Ratio: 13.84
+  TA: '110'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Truly A Badass
+  Description: Equip nine unique spells
+  GS: '8'
+  Guide: true
+  Number of Gamers: 26
+  Percentage of Gamers: 1%
+  Ratio: 13.84
+  TA: '110'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: This better be good...
+  Description: Craft a Spell with a unique Pattern and 4 Legendary Augments
+  GS: '10'
+  Guide: false
+  Number of Gamers: 35
+  Percentage of Gamers: 1%
+  Ratio: 11.93
+  TA: '119'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Dust In The Wind (Badass)
+  Description: Defeat the Ancient Golem on Badass Difficulty
+  GS: '60'
+  Guide: true
+  Number of Gamers: 94
+  Percentage of Gamers: 2%
+  Ratio: 7.28
+  TA: '436'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Surf and Turf (Badass)
+  Description: Defeat Frostclaw on Badass Difficulty
+  GS: '60'
+  Guide: true
+  Number of Gamers: 115
+  Percentage of Gamers: 2%
+  Ratio: 6.58
+  TA: '394'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: The First of Many (Badass)
+  Description: Defeat Rogiro and his Undead Hulk on Badass Difficulty
+  GS: '60'
+  Guide: true
+  Number of Gamers: 164
+  Percentage of Gamers: 3%
+  Ratio: 5.51
+  TA: '330'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: It does not get any better than this
+  Description: Equip all tier 20 spells
+  GS: '10'
+  Guide: false
+  Number of Gamers: 26
+  Percentage of Gamers: 1%
+  Ratio: 13.84
+  TA: '138'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: A need to acquire every permutation
+  Description: Craft every available synergy spell
+  GS: '10'
+  Guide: true
+  Number of Gamers: 29
+  Percentage of Gamers: 1%
+  Ratio: 13.1
+  TA: '131'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: I Am the Dragon (Badass)
+  Description: Some people just want to watch the world burn
+  GS: '60'
+  Guide: false
+  Number of Gamers: 84
+  Percentage of Gamers: 2%
+  Ratio: 7.7
+  TA: '462'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Bitter Victory (Badass)
+  Description: Back from the grave
+  GS: '60'
+  Guide: true
+  Number of Gamers: 88
+  Percentage of Gamers: 2%
+  Ratio: 7.52
+  TA: '451'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+Base Ratio: 6.282
+Base TA: 6282
+Delisted: false
+Developer: Xaviant
+Game Name: Lichdom Battlemage
+Genres: Action-RPG, First Person Shooter, Role Playing
+Install Size: 14200.0
+Number of Completions: 25
+Number of Gamers: 4985
+Overall Completion Time:
+- 100.0
+- 120.0
+Overall GS: 1000
+Overall Ratio: 6.282
+Overall TA: 6282
+PDU: 0
+Percentage Completed: 0.5
+Publisher: Maximum Entertainment
+Release Date: 19 April 2016
+Server Closure: false
+Site Rating: 2.48
+Update Achievements: []
+Walkthrough: false

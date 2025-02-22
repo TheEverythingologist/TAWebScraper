@@ -1,0 +1,650 @@
+Add On Achievements: []
+Base Completion Time:
+- -1
+- -1
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: You Have Chozen
+  Description: Start your quest to raise the best Dojo in the Valley
+  GS: '10'
+  Guide: false
+  Number of Gamers: 793
+  Percentage of Gamers: 98%
+  Ratio: 1.01
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Way of the Fist
+  Description: Eliminate Mercy within you and join Sensei Kreese (Finish Story Act
+    1 - Cobra Kai)
+  GS: '10'
+  Guide: false
+  Number of Gamers: 116
+  Percentage of Gamers: 14%
+  Ratio: 2.64
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Balance
+  Description: Learn balance in Karate and start a journey with Daniel (Finish Story
+    Act 1 - Miyagi-Do)
+  GS: '10'
+  Guide: false
+  Number of Gamers: 290
+  Percentage of Gamers: 36%
+  Ratio: 1.67
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: But Eagles don't have...
+  Description: QUIET! Shut you mouth and start kicking arse with Johnny (Finish Story
+    Act 1 - Eagle Fang)
+  GS: '10'
+  Guide: false
+  Number of Gamers: 222
+  Percentage of Gamers: 27%
+  Ratio: 1.91
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Dojo Wars
+  Description: Finish preparations for the All Valley Tournament (Finish Story Act
+    2 - Any Dojo)
+  GS: '10'
+  Guide: false
+  Number of Gamers: 144
+  Percentage of Gamers: 18%
+  Ratio: 2.37
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: The Best
+  Description: Become the All Valley Karate Champion (Finish Story Act 3 - Any Dojo)
+  GS: '15'
+  Guide: false
+  Number of Gamers: 120
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '38'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Joint Venture
+  Description: Ally with another Dojo during Act 4 (Any Dojo)
+  GS: '30'
+  Guide: false
+  Number of Gamers: 117
+  Percentage of Gamers: 14%
+  Ratio: 2.63
+  TA: '78'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Open for Business
+  Description: Recruit 5 Staff to your Dojo (Any Dojo)
+  GS: '10'
+  Guide: true
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '10'
+  Tags:
+  - Unobtainable
+- Achievement Name: It starts with 1
+  Description: Recruit your first Character
+  GS: '10'
+  Guide: false
+  Number of Gamers: 617
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Full House
+  Description: Recruit characters to fill all Fighter Slots and all Staff slots in
+    a Level 5 Dojo (Any Dojo)
+  GS: '90'
+  Guide: false
+  Number of Gamers: 80
+  Percentage of Gamers: 10%
+  Ratio: 3.18
+  TA: '286'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Turning a Profit
+  Description: Turn in more than $5000 profit in a day at the Dojo (Any Dojo)
+  GS: '15'
+  Guide: false
+  Number of Gamers: 576
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '17'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: IPO Ready
+  Description: Upgrade a Dojo to Level 5 (Any Dojo)
+  GS: '15'
+  Guide: false
+  Number of Gamers: 197
+  Percentage of Gamers: 24%
+  Ratio: 2.02
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+  - Shop
+- Achievement Name: Second Home
+  Description: Get a character to "Excited" mood (Any Dojo)
+  GS: '15'
+  Guide: false
+  Number of Gamers: 385
+  Percentage of Gamers: 48%
+  Ratio: 1.45
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Happyland
+  Description: Start a mission with all 4 Characters in your party in "Excited" mood
+    (Any Dojo)
+  GS: '15'
+  Guide: false
+  Number of Gamers: 256
+  Percentage of Gamers: 32%
+  Ratio: 1.77
+  TA: '26'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Don't need ya
+  Description: Have any character leave your Dojo (Any Dojo)
+  GS: '10'
+  Guide: false
+  Number of Gamers: 146
+  Percentage of Gamers: 18%
+  Ratio: 2.35
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Got the moves
+  Description: Finish 15 enemies with any Skill
+  GS: '10'
+  Guide: false
+  Number of Gamers: 300
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Don't stop me now
+  Description: Finish 30 enemies with Badass Mode active
+  GS: '15'
+  Guide: false
+  Number of Gamers: 7
+  Percentage of Gamers: 1%
+  Ratio: 10.75
+  TA: '161'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Cumulative +
+- Achievement Name: On the Ground
+  Description: Finish 05 enemies with ground attacks
+  GS: '15'
+  Guide: false
+  Number of Gamers: 335
+  Percentage of Gamers: 41%
+  Ratio: 1.55
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Best Defense is More Offense
+  Description: Finish a level without dodging
+  GS: '50'
+  Guide: false
+  Number of Gamers: 116
+  Percentage of Gamers: 14%
+  Ratio: 2.64
+  TA: '132'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Prodigy
+  Description: Reach Combo Meter N / M 5 times
+  GS: '15'
+  Guide: false
+  Number of Gamers: 24
+  Percentage of Gamers: 3%
+  Ratio: 5.8
+  TA: '87'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Jackie Style
+  Description: Use environmental Chi Attacks 20 times
+  GS: '15'
+  Guide: false
+  Number of Gamers: 262
+  Percentage of Gamers: 32%
+  Ratio: 1.75
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Karate Instinct
+  Description: Get 100 Hits in a single combo
+  GS: '30'
+  Guide: false
+  Number of Gamers: 116
+  Percentage of Gamers: 14%
+  Ratio: 2.64
+  TA: '79'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Can't Touch Me... again
+  Description: Finish 20 enemies without taking a hit
+  GS: '15'
+  Guide: false
+  Number of Gamers: 128
+  Percentage of Gamers: 16%
+  Ratio: 2.51
+  TA: '37'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: This Way, Please
+  Description: Grab and Drag enemies for 1000 meters
+  GS: '15'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Superloaded
+  Description: Start a level with one accessory equipped in each character
+  GS: '15'
+  Guide: true
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '15'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: 101% in Love
+  Description: Recruit Yasmine without a fight
+  GS: '30'
+  Guide: false
+  Number of Gamers: 99
+  Percentage of Gamers: 12%
+  Ratio: 2.86
+  TA: '85'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Karate Secrets
+  Description: Find and Destroy a secret passage
+  GS: '10'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '10'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Explorer
+  Description: Find 5 Collectibles in the game
+  GS: '15'
+  Guide: false
+  Number of Gamers: 355
+  Percentage of Gamers: 44%
+  Ratio: 1.51
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Hoarder
+  Description: Find 30 Collectibles in the game
+  GS: '30'
+  Guide: false
+  Number of Gamers: 98
+  Percentage of Gamers: 12%
+  Ratio: 2.87
+  TA: '86'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: So Selfish
+  Description: Clear a level without ever switching characters
+  GS: '15'
+  Guide: true
+  Number of Gamers: 7
+  Percentage of Gamers: 1%
+  Ratio: 10.75
+  TA: '161'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Karate Purist
+  Description: Clear a level without using any Skills (Chi attacks are OK)
+  GS: '30'
+  Guide: false
+  Number of Gamers: 94
+  Percentage of Gamers: 12%
+  Ratio: 2.93
+  TA: '88'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Yes, Sensei!
+  Description: Complete 1 sensei dare
+  GS: '15'
+  Guide: false
+  Number of Gamers: 715
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '15'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Yes, Sensei!!!!!!!!!!
+  Description: Complete 10 unique sensei dares
+  GS: '30'
+  Guide: false
+  Number of Gamers: 6
+  Percentage of Gamers: 1%
+  Ratio: 11.61
+  TA: '348'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: I'm Speed
+  Description: Win a Tournament fight controlling Kenny in less than 3 minutes
+  GS: '15'
+  Guide: false
+  Number of Gamers: 69
+  Percentage of Gamers: 9%
+  Ratio: 3.42
+  TA: '51'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: I'm the What Breath now?
+  Description: Win a Tournament fight controlling Mitch
+  GS: '15'
+  Guide: false
+  Number of Gamers: 61
+  Percentage of Gamers: 8%
+  Ratio: 3.64
+  TA: '54'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Size Doesn't Matter
+  Description: Win a fight with Nate or Bert in the Tournament
+  GS: '15'
+  Guide: false
+  Number of Gamers: 68
+  Percentage of Gamers: 8%
+  Ratio: 3.45
+  TA: '51'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Shopping Spree
+  Description: Buy 10 items from Lyle's Shop
+  GS: '10'
+  Guide: false
+  Number of Gamers: 108
+  Percentage of Gamers: 13%
+  Ratio: 2.73
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Shop
+- Achievement Name: Third Dan
+  Description: Complete 10 Story Karate Challenges
+  GS: '15'
+  Guide: false
+  Number of Gamers: 191
+  Percentage of Gamers: 24%
+  Ratio: 2.05
+  TA: '30'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Fifth Dan
+  Description: Complete 20 Story Karate Challenges
+  GS: '30'
+  Guide: false
+  Number of Gamers: 112
+  Percentage of Gamers: 14%
+  Ratio: 2.68
+  TA: '80'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Cobra Classics
+  Description: Finish one Cobra Classic Scenario
+  GS: '15'
+  Guide: false
+  Number of Gamers: 30
+  Percentage of Gamers: 4%
+  Ratio: 5.19
+  TA: '77'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Classic Master
+  Description: Finish all Cobra Classic Scenarios
+  GS: '30'
+  Guide: false
+  Number of Gamers: 12
+  Percentage of Gamers: 1%
+  Ratio: 8.21
+  TA: '246'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: All Valley Champion
+  Description: Finish a campaign in All Valley Tournament Mode (Any Character)
+  GS: '30'
+  Guide: false
+  Number of Gamers: 156
+  Percentage of Gamers: 19%
+  Ratio: 2.27
+  TA: '68'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Round 1, Fight
+  Description: Finish a 2 player versus match in All Valley Tournament Mode (Any Character)
+  GS: '15'
+  Guide: false
+  Number of Gamers: 90
+  Percentage of Gamers: 11%
+  Ratio: 3.0
+  TA: '45'
+  Tags:
+  - Online/Offline
+  - Versus
+- Achievement Name: Old cars, new Friends
+  Description: Recruit one or more Characters in the Chop Shop Level
+  GS: '15'
+  Guide: false
+  Number of Gamers: 330
+  Percentage of Gamers: 41%
+  Ratio: 1.56
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Snake in the Woods
+  Description: Recruit one or more Characters in the Coyote Creek Level
+  GS: '15'
+  Guide: false
+  Number of Gamers: 167
+  Percentage of Gamers: 21%
+  Ratio: 2.2
+  TA: '33'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Cutting Class
+  Description: Recruit one or more Characters in the School Level
+  GS: '15'
+  Guide: false
+  Number of Gamers: 396
+  Percentage of Gamers: 49%
+  Ratio: 1.43
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Mallrats
+  Description: Recruit one or more Characters in the Mall Level
+  GS: '15'
+  Guide: false
+  Number of Gamers: 100
+  Percentage of Gamers: 12%
+  Ratio: 2.84
+  TA: '42'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: OITNB
+  Description: Recruit one or more Characters in the Juvie Level
+  GS: '15'
+  Guide: false
+  Number of Gamers: 64
+  Percentage of Gamers: 8%
+  Ratio: 3.55
+  TA: '53'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Date Night
+  Description: Recruit one or more Characters in the Arcade Level
+  GS: '15'
+  Guide: false
+  Number of Gamers: 184
+  Percentage of Gamers: 23%
+  Ratio: 2.09
+  TA: '31'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Fun, Fun, Fun
+  Description: Recruit one or more Characters in the Valley Fest Level
+  GS: '15'
+  Guide: false
+  Number of Gamers: 68
+  Percentage of Gamers: 8%
+  Ratio: 3.45
+  TA: '51'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Surfin' USA
+  Description: Recruit one or more Characters in the L.A. Beach Level
+  GS: '15'
+  Guide: false
+  Number of Gamers: 127
+  Percentage of Gamers: 16%
+  Ratio: 2.52
+  TA: '37'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Blast from the Past
+  Description: Recruit one or more Characters in the Classic CK Site Level
+  GS: '15'
+  Guide: false
+  Number of Gamers: 211
+  Percentage of Gamers: 26%
+  Ratio: 1.95
+  TA: '29'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Roller Skate Brawl
+  Description: Recruit one or more Characters in the Roller Skate Arena Level
+  GS: '15'
+  Guide: false
+  Number of Gamers: 141
+  Percentage of Gamers: 17%
+  Ratio: 2.39
+  TA: '35'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Silver Tongue
+  Description: Recruit Devon Lee and Chozen
+  GS: '15'
+  Guide: false
+  Number of Gamers: 58
+  Percentage of Gamers: 7%
+  Ratio: 3.73
+  TA: '56'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 3.18
+Base TA: 3180
+Delisted: false
+Developer: Flux Games
+Game Name: 'Cobra Kai 2: Dojos Rising'
+Genres: Beat 'em up
+Install Size: 21610.0
+Number of Completions: 0
+Number of Gamers: 810
+Overall Completion Time:
+- -1
+- -1
+Overall GS: 1000
+Overall Ratio: 3.18
+Overall TA: 3180
+PDU: 0
+Percentage Completed: 0.0
+Publisher: GameMill Entertainment
+Release Date: 08 November 2022
+Server Closure: false
+Site Rating: 3.27
+Update Achievements: []
+Walkthrough: false

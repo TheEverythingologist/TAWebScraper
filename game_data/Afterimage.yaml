@@ -1,0 +1,566 @@
+Add On Achievements: []
+Base Completion Time:
+- 50.0
+- 60.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: AFTERIMAGE
+  Description: Achieve all achievements.
+  GS: '200'
+  Guide: true
+  Number of Gamers: 337
+  Percentage of Gamers: 9%
+  Ratio: 3.37
+  TA: '674'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Buggy
+- Achievement Name: The Assault
+  Description: Defeat Lush Wolf.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3833
+  Percentage of Gamers: 100%
+  Ratio: 1.0
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Broken Wings
+  Description: Defeat Loss, the Broken Wings.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 987
+  Percentage of Gamers: 26%
+  Ratio: 1.97
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Gimme Shelter
+  Description: Defeat Agus, the Pyro Goliath, Aqil, the Pyro Goliath.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 938
+  Percentage of Gamers: 24%
+  Ratio: 2.02
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Darkside of the moon
+  Description: Defeat Guider, the Shadow Moon.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 968
+  Percentage of Gamers: 25%
+  Ratio: 1.98
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: For Whom The Bell Tolls
+  Description: Defeat Karin, the Occult Prime.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 602
+  Percentage of Gamers: 16%
+  Ratio: 2.52
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: She Is My Sin
+  Description: Defeat Eseus, the Transcendent.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 551
+  Percentage of Gamers: 14%
+  Ratio: 2.63
+  TA: '65'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Tomorrow Will Be Longer
+  Description: Defeat Eseus, the Eternal.
+  GS: '55'
+  Guide: false
+  Number of Gamers: 547
+  Percentage of Gamers: 14%
+  Ratio: 2.64
+  TA: '145'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: In the Name of God
+  Description: Defeat all powerful existences.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 878
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '41'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: No Surrender
+  Description: Defeat all bosses.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 606
+  Percentage of Gamers: 16%
+  Ratio: 2.51
+  TA: '62'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Luxuriance
+  Description: Collect all shards of Divine Leaf and Divine Flower.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 447
+  Percentage of Gamers: 12%
+  Ratio: 2.92
+  TA: '73'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Word Of The Primeval
+  Description: Collect all Primeval Glyphs.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 666
+  Percentage of Gamers: 17%
+  Ratio: 2.39
+  TA: '59'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Word Of Shenlong
+  Description: Collect all Shenlong Glyphs.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 775
+  Percentage of Gamers: 20%
+  Ratio: 2.22
+  TA: '55'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Keen Hunter
+  Description: Complete the Beastiary.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 490
+  Percentage of Gamers: 13%
+  Ratio: 2.79
+  TA: '27'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Gate Of Babylon
+  Description: Collect all weapons and armors.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 367
+  Percentage of Gamers: 10%
+  Ratio: 3.23
+  TA: '80'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Shop
+- Achievement Name: Se's Apprentice
+  Description: Collect all accessories.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 353
+  Percentage of Gamers: 9%
+  Ratio: 3.29
+  TA: '82'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Shop
+- Achievement Name: The March Of The Swordmaster
+  Description: Learn all secret arts.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 664
+  Percentage of Gamers: 17%
+  Ratio: 2.4
+  TA: '60'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Epicure
+  Description: Taste all cuisines of Engardin.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 606
+  Percentage of Gamers: 16%
+  Ratio: 2.51
+  TA: '62'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Thoroughly Tempered
+  Description: Reach level 99.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 473
+  Percentage of Gamers: 12%
+  Ratio: 2.84
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Omneity
+  Description: Obtain all abilities and Afterimages, and reach level 99.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 480
+  Percentage of Gamers: 13%
+  Ratio: 2.82
+  TA: '70'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+  - Buggy +
+- Achievement Name: Money For Nothing
+  Description: Purchase all shop items.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 362
+  Percentage of Gamers: 9%
+  Ratio: 3.25
+  TA: '81'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Shop
+- Achievement Name: Geographer
+  Description: Activate all Confluences of Stream.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 440
+  Percentage of Gamers: 11%
+  Ratio: 2.95
+  TA: '29'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Come As You Are
+  Description: Witness the long journey of Stanley and Levine.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 560
+  Percentage of Gamers: 15%
+  Ratio: 2.61
+  TA: '26'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Long Gone Day
+  Description: Witness the effects of Nicole.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 578
+  Percentage of Gamers: 15%
+  Ratio: 2.57
+  TA: '25'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Fade To Black
+  Description: Witness the endless end of Ethan.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 834
+  Percentage of Gamers: 22%
+  Ratio: 2.14
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: On The Road
+  Description: Witness the great adventure of Karsa and Brenda.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 837
+  Percentage of Gamers: 22%
+  Ratio: 2.14
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Trinity
+  Description: In the name of the Mask, Sword, and Halo.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 551
+  Percentage of Gamers: 14%
+  Ratio: 2.63
+  TA: '65'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Poem Of Death
+  Description: Witness the last Echo of Rosalia.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1001
+  Percentage of Gamers: 26%
+  Ratio: 1.95
+  TA: '19'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: '"Comfortably Numb"'
+  Description: Do not disturb other's "work."
+  GS: '10'
+  Guide: true
+  Number of Gamers: 475
+  Percentage of Gamers: 12%
+  Ratio: 2.84
+  TA: '28'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Sleeping Sun
+  Description: Witness the fading of a sun.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 905
+  Percentage of Gamers: 24%
+  Ratio: 2.05
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Taste of Happiness
+  Description: Taste the flavour of happiness.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 631
+  Percentage of Gamers: 16%
+  Ratio: 2.46
+  TA: '24'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Condolence
+  Description: May our paths cross soon once again...
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1804
+  Percentage of Gamers: 47%
+  Ratio: 1.45
+  TA: '14'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Homecoming
+  Description: Where is my mind?
+  GS: '10'
+  Guide: true
+  Number of Gamers: 910
+  Percentage of Gamers: 24%
+  Ratio: 2.05
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Cradle
+  Description: Down in a hall and I don't know if I can be saved.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 846
+  Percentage of Gamers: 22%
+  Ratio: 2.12
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Essential
+  Description: Along the Tablet, seared by fate.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 731
+  Percentage of Gamers: 19%
+  Ratio: 2.28
+  TA: '57'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Hope
+  Description: This fire is out of control...
+  GS: '10'
+  Guide: false
+  Number of Gamers: 720
+  Percentage of Gamers: 19%
+  Ratio: 2.3
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Withering
+  Description: '...the hardest part of this is leaving you.'
+  GS: '10'
+  Guide: false
+  Number of Gamers: 726
+  Percentage of Gamers: 19%
+  Ratio: 2.29
+  TA: '22'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Journey
+  Description: We're out on the road again.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 626
+  Percentage of Gamers: 16%
+  Ratio: 2.47
+  TA: '61'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Dream
+  Description: Sweet dreams... are made of this?
+  GS: '10'
+  Guide: false
+  Number of Gamers: 559
+  Percentage of Gamers: 15%
+  Ratio: 2.61
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Waiting
+  Description: Engadin is doomed and there's nothing I can do.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 600
+  Percentage of Gamers: 16%
+  Ratio: 2.52
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: World Flower
+  Description: Shine on, you crazy flower.
+  GS: '55'
+  Guide: true
+  Number of Gamers: 547
+  Percentage of Gamers: 14%
+  Ratio: 2.64
+  TA: '145'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
+- Achievement Name: The Wall
+  Description: Red phone or blue phone?
+  GS: '10'
+  Guide: true
+  Number of Gamers: 666
+  Percentage of Gamers: 17%
+  Ratio: 2.39
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: TIS AIN'T POGO TIME
+  Description: Save this for the sequel!
+  GS: '20'
+  Guide: true
+  Number of Gamers: 504
+  Percentage of Gamers: 13%
+  Ratio: 2.75
+  TA: '55'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: The Number Of The Beast
+  Description: Deal 666 damage in one single hit.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 497
+  Percentage of Gamers: 13%
+  Ratio: 2.77
+  TA: '55'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Holy Diver
+  Description: Perform a leap of faith.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1448
+  Percentage of Gamers: 38%
+  Ratio: 1.62
+  TA: '32'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Iron Man
+  Description: Defeat an enemy by performing an enhanced Iron Bastion.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 753
+  Percentage of Gamers: 20%
+  Ratio: 2.25
+  TA: '45'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 2.659
+Base TA: 2659
+Delisted: false
+Developer: Aurogon Shanghai
+Game Name: Afterimage
+Genres: Action-RPG, Role Playing, Platformer, Metroidvania
+Install Size: 2760.0
+Number of Completions: 337
+Number of Gamers: 3833
+Overall Completion Time:
+- 50.0
+- 60.0
+Overall GS: 1000
+Overall Ratio: 2.659
+Overall TA: 2659
+PDU: 0
+Percentage Completed: 8.79
+Publisher: Modus Games
+Release Date: 25 April 2023
+Server Closure: false
+Site Rating: 4.24
+Update Achievements: []
+Walkthrough: false

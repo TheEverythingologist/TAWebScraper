@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- 131
-- 132
+- 129
+- 130
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: He's No Good To Me Dead
   Description: Rescue a mercenary from a merc caravan.
   GS: '15'
   Guide: true
-  Number of Gamers: 525
+  Number of Gamers: 582
   Percentage of Gamers: 3%
-  Ratio: 5.83
-  TA: '87'
+  Ratio: 5.57
+  TA: '83'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -19,9 +19,9 @@ Base Game Achievements:
   Description: Collect 100 items from loot drops.
   GS: '5'
   Guide: false
-  Number of Gamers: 7814
+  Number of Gamers: 7954
   Percentage of Gamers: 44%
-  Ratio: 1.51
+  Ratio: 1.5
   TA: '7'
   Tags:
   - Offline Mode
@@ -31,10 +31,10 @@ Base Game Achievements:
   Description: Kill 1000 enemies.
   GS: '25'
   Guide: false
-  Number of Gamers: 1031
+  Number of Gamers: 1069
   Percentage of Gamers: 6%
-  Ratio: 4.16
-  TA: '104'
+  Ratio: 4.11
+  TA: '102'
   Tags:
   - Offline Mode
   - Single Player
@@ -43,9 +43,9 @@ Base Game Achievements:
   Description: Teleport 10 times.
   GS: '5'
   Guide: false
-  Number of Gamers: 801
-  Percentage of Gamers: 4%
-  Ratio: 4.72
+  Number of Gamers: 828
+  Percentage of Gamers: 5%
+  Ratio: 4.67
   TA: '23'
   Tags:
   - Offline Mode
@@ -55,10 +55,10 @@ Base Game Achievements:
   Description: Kill 300 Skellys
   GS: '25'
   Guide: false
-  Number of Gamers: 137
+  Number of Gamers: 142
   Percentage of Gamers: 1%
-  Ratio: 11.41
-  TA: '285'
+  Ratio: 11.28
+  TA: '282'
   Tags:
   - Offline Mode
   - Single Player
@@ -67,7 +67,7 @@ Base Game Achievements:
   Description: First party wipe.
   GS: '5'
   Guide: true
-  Number of Gamers: 8292
+  Number of Gamers: 8388
   Percentage of Gamers: 46%
   Ratio: 1.46
   TA: '7'
@@ -78,7 +78,7 @@ Base Game Achievements:
   Description: Revive a party member.
   GS: '5'
   Guide: true
-  Number of Gamers: 13750
+  Number of Gamers: 13937
   Percentage of Gamers: 77%
   Ratio: 1.13
   TA: '5'
@@ -89,7 +89,7 @@ Base Game Achievements:
   Description: Break a weapon.
   GS: '5'
   Guide: true
-  Number of Gamers: 7369
+  Number of Gamers: 7496
   Percentage of Gamers: 41%
   Ratio: 1.55
   TA: '7'
@@ -100,9 +100,9 @@ Base Game Achievements:
   Description: Your party has been shipwrecked.
   GS: '5'
   Guide: true
-  Number of Gamers: 1396
+  Number of Gamers: 1431
   Percentage of Gamers: 8%
-  Ratio: 3.57
+  Ratio: 3.55
   TA: '17'
   Tags:
   - Offline Game Mode
@@ -111,10 +111,10 @@ Base Game Achievements:
   Description: Complete 30 Town Quests.
   GS: '15'
   Guide: false
-  Number of Gamers: 919
+  Number of Gamers: 957
   Percentage of Gamers: 5%
-  Ratio: 4.4
-  TA: '66'
+  Ratio: 4.34
+  TA: '65'
   Tags:
   - Offline Mode
   - Single Player
@@ -123,10 +123,10 @@ Base Game Achievements:
   Description: Hire 10 mercenaries from merc guilds.
   GS: '15'
   Guide: true
-  Number of Gamers: 481
+  Number of Gamers: 497
   Percentage of Gamers: 3%
-  Ratio: 6.09
-  TA: '91'
+  Ratio: 6.03
+  TA: '90'
   Tags:
   - Offline Mode
   - Single Player
@@ -136,9 +136,9 @@ Base Game Achievements:
   Description: Visit the Dark Carnival for the first time.
   GS: '5'
   Guide: true
-  Number of Gamers: 1627
+  Number of Gamers: 1667
   Percentage of Gamers: 9%
-  Ratio: 3.31
+  Ratio: 3.29
   TA: '16'
   Tags:
   - Offline Game Mode
@@ -147,9 +147,9 @@ Base Game Achievements:
   Description: Defeat Lucky and seal Lucky's Vault.
   GS: '5'
   Guide: false
-  Number of Gamers: 2231
-  Percentage of Gamers: 12%
-  Ratio: 2.83
+  Number of Gamers: 2291
+  Percentage of Gamers: 13%
+  Ratio: 2.8
   TA: '14'
   Tags:
   - Offline Game Mode
@@ -158,9 +158,9 @@ Base Game Achievements:
   Description: Defeat Graveborne and seal the Mausoleum.
   GS: '5'
   Guide: true
-  Number of Gamers: 2130
+  Number of Gamers: 2196
   Percentage of Gamers: 12%
-  Ratio: 2.89
+  Ratio: 2.87
   TA: '14'
   Tags:
   - Offline Game Mode
@@ -169,9 +169,9 @@ Base Game Achievements:
   Description: Defeat the Bandit King and seal the Bandit Stronghold.
   GS: '5'
   Guide: true
-  Number of Gamers: 2004
+  Number of Gamers: 2062
   Percentage of Gamers: 11%
-  Ratio: 2.98
+  Ratio: 2.96
   TA: '14'
   Tags:
   - Offline Game Mode
@@ -180,10 +180,10 @@ Base Game Achievements:
   Description: Defeat Warden Fraybee and seal the Desecrated Church.
   GS: '5'
   Guide: false
-  Number of Gamers: 1530
+  Number of Gamers: 1594
   Percentage of Gamers: 9%
-  Ratio: 3.41
-  TA: '17'
+  Ratio: 3.36
+  TA: '16'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -191,10 +191,10 @@ Base Game Achievements:
   Description: Defeat the Hangman and seal the Hangman's Gallows.
   GS: '5'
   Guide: false
-  Number of Gamers: 647
+  Number of Gamers: 673
   Percentage of Gamers: 4%
-  Ratio: 5.25
-  TA: '26'
+  Ratio: 5.18
+  TA: '25'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -202,10 +202,10 @@ Base Game Achievements:
   Description: Defeat the Disciple and seal the Temple of Darkness.
   GS: '5'
   Guide: false
-  Number of Gamers: 2258
+  Number of Gamers: 2330
   Percentage of Gamers: 13%
-  Ratio: 2.81
-  TA: '14'
+  Ratio: 2.78
+  TA: '13'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -213,10 +213,10 @@ Base Game Achievements:
   Description: Defeat Bogdrinker and seal Shaman's Hollow.
   GS: '5'
   Guide: false
-  Number of Gamers: 1219
+  Number of Gamers: 1265
   Percentage of Gamers: 7%
-  Ratio: 3.82
-  TA: '19'
+  Ratio: 3.78
+  TA: '18'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -224,10 +224,10 @@ Base Game Achievements:
   Description: Use 10 Portal Scrolls.
   GS: '5'
   Guide: false
-  Number of Gamers: 276
+  Number of Gamers: 289
   Percentage of Gamers: 2%
-  Ratio: 8.04
-  TA: '40'
+  Ratio: 7.91
+  TA: '39'
   Tags:
   - Offline Mode
   - Single Player
@@ -236,10 +236,10 @@ Base Game Achievements:
   Description: Kill the Kraken.
   GS: '15'
   Guide: false
-  Number of Gamers: 358
+  Number of Gamers: 372
   Percentage of Gamers: 2%
-  Ratio: 7.06
-  TA: '105'
+  Ratio: 6.97
+  TA: '104'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -247,10 +247,10 @@ Base Game Achievements:
   Description: Make 20 Lore Store purchases.
   GS: '15'
   Guide: false
-  Number of Gamers: 1605
+  Number of Gamers: 1655
   Percentage of Gamers: 9%
-  Ratio: 3.33
-  TA: '50'
+  Ratio: 3.3
+  TA: '49'
   Tags:
   - Offline Mode
   - Single Player
@@ -260,10 +260,10 @@ Base Game Achievements:
   Description: Make 50 Lore Store purchases.
   GS: '50'
   Guide: false
-  Number of Gamers: 319
+  Number of Gamers: 331
   Percentage of Gamers: 2%
-  Ratio: 7.48
-  TA: '374'
+  Ratio: 7.4
+  TA: '370'
   Tags:
   - Offline Mode
   - Single Player
@@ -273,9 +273,9 @@ Base Game Achievements:
   Description: Complete The Resistance on any difficulty.
   GS: '15'
   Guide: false
-  Number of Gamers: 5211
+  Number of Gamers: 5333
   Percentage of Gamers: 29%
-  Ratio: 1.85
+  Ratio: 1.84
   TA: '27'
   Tags:
   - Offline Game Mode
@@ -284,8 +284,8 @@ Base Game Achievements:
   Description: Clear the Guardhouse.
   GS: '5'
   Guide: false
-  Number of Gamers: 10290
-  Percentage of Gamers: 57%
+  Number of Gamers: 10430
+  Percentage of Gamers: 58%
   Ratio: 1.31
   TA: '6'
   Tags:
@@ -295,9 +295,9 @@ Base Game Achievements:
   Description: Make it safely through the cellar.
   GS: '5'
   Guide: false
-  Number of Gamers: 4353
-  Percentage of Gamers: 24%
-  Ratio: 2.02
+  Number of Gamers: 4446
+  Percentage of Gamers: 25%
+  Ratio: 2.01
   TA: '10'
   Tags:
   - Offline Game Mode
@@ -306,9 +306,9 @@ Base Game Achievements:
   Description: Make it safely through the sewers.
   GS: '5'
   Guide: false
-  Number of Gamers: 3937
+  Number of Gamers: 4024
   Percentage of Gamers: 22%
-  Ratio: 2.13
+  Ratio: 2.12
   TA: '10'
   Tags:
   - Offline Game Mode
@@ -317,9 +317,9 @@ Base Game Achievements:
   Description: Find the secret room in The Resistance.
   GS: '15'
   Guide: true
-  Number of Gamers: 3174
+  Number of Gamers: 3241
   Percentage of Gamers: 18%
-  Ratio: 2.37
+  Ratio: 2.36
   TA: '35'
   Tags:
   - Offline Game Mode
@@ -328,9 +328,9 @@ Base Game Achievements:
   Description: Complete The Primordial Oak on any difficulty.
   GS: '15'
   Guide: false
-  Number of Gamers: 2577
-  Percentage of Gamers: 14%
-  Ratio: 2.63
+  Number of Gamers: 2646
+  Percentage of Gamers: 15%
+  Ratio: 2.61
   TA: '39'
   Tags:
   - Offline Game Mode
@@ -339,9 +339,9 @@ Base Game Achievements:
   Description: Clear three towns under siege.
   GS: '5'
   Guide: true
-  Number of Gamers: 2770
-  Percentage of Gamers: 15%
-  Ratio: 2.53
+  Number of Gamers: 2848
+  Percentage of Gamers: 16%
+  Ratio: 2.52
   TA: '12'
   Tags:
   - Offline Mode
@@ -351,9 +351,9 @@ Base Game Achievements:
   Description: Claim your first landboat.
   GS: '5'
   Guide: true
-  Number of Gamers: 4266
+  Number of Gamers: 4366
   Percentage of Gamers: 24%
-  Ratio: 2.04
+  Ratio: 2.03
   TA: '10'
   Tags:
   - Offline Game Mode
@@ -362,10 +362,10 @@ Base Game Achievements:
   Description: Complete The Royal Mines on any difficulty.
   GS: '15'
   Guide: false
-  Number of Gamers: 1227
+  Number of Gamers: 1280
   Percentage of Gamers: 7%
-  Ratio: 3.81
-  TA: '57'
+  Ratio: 3.75
+  TA: '56'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -373,9 +373,9 @@ Base Game Achievements:
   Description: Visit all three resistance members in The Royal Mines.
   GS: '5'
   Guide: false
-  Number of Gamers: 1598
+  Number of Gamers: 1651
   Percentage of Gamers: 9%
-  Ratio: 3.34
+  Ratio: 3.31
   TA: '16'
   Tags:
   - Offline Game Mode
@@ -384,10 +384,10 @@ Base Game Achievements:
   Description: Complete The Hangman's Noose on any difficulty.
   GS: '15'
   Guide: false
-  Number of Gamers: 789
-  Percentage of Gamers: 4%
-  Ratio: 4.75
-  TA: '71'
+  Number of Gamers: 831
+  Percentage of Gamers: 5%
+  Ratio: 4.66
+  TA: '69'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -395,10 +395,10 @@ Base Game Achievements:
   Description: Save all four resistance members in The Hangman's Noose.
   GS: '5'
   Guide: false
-  Number of Gamers: 385
+  Number of Gamers: 401
   Percentage of Gamers: 2%
-  Ratio: 6.81
-  TA: '34'
+  Ratio: 6.71
+  TA: '33'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -406,10 +406,10 @@ Base Game Achievements:
   Description: Find Captain Johnsgrave's Lost Ship.
   GS: '5'
   Guide: false
-  Number of Gamers: 1012
+  Number of Gamers: 1057
   Percentage of Gamers: 6%
-  Ratio: 4.2
-  TA: '21'
+  Ratio: 4.13
+  TA: '20'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -417,10 +417,10 @@ Base Game Achievements:
   Description: Complete The Castle Gates on any difficulty.
   GS: '15'
   Guide: false
-  Number of Gamers: 497
+  Number of Gamers: 519
   Percentage of Gamers: 3%
-  Ratio: 5.99
-  TA: '89'
+  Ratio: 5.9
+  TA: '88'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -428,10 +428,10 @@ Base Game Achievements:
   Description: Watch the post-credits cinematic.
   GS: '15'
   Guide: true
-  Number of Gamers: 212
+  Number of Gamers: 225
   Percentage of Gamers: 1%
-  Ratio: 9.17
-  TA: '137'
+  Ratio: 8.96
+  TA: '134'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -439,9 +439,9 @@ Base Game Achievements:
   Description: Devote to 15 Stone Heroes.
   GS: '5'
   Guide: false
-  Number of Gamers: 1599
+  Number of Gamers: 1653
   Percentage of Gamers: 9%
-  Ratio: 3.34
+  Ratio: 3.3
   TA: '16'
   Tags:
   - Offline Game Mode
@@ -450,10 +450,10 @@ Base Game Achievements:
   Description: Devote to 50 Stone Heroes.
   GS: '15'
   Guide: false
-  Number of Gamers: 129
+  Number of Gamers: 137
   Percentage of Gamers: 1%
-  Ratio: 11.76
-  TA: '176'
+  Ratio: 11.49
+  TA: '172'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -461,9 +461,9 @@ Base Game Achievements:
   Description: Use 20 candies.
   GS: '5'
   Guide: false
-  Number of Gamers: 1029
+  Number of Gamers: 1057
   Percentage of Gamers: 6%
-  Ratio: 4.16
+  Ratio: 4.13
   TA: '20'
   Tags:
   - Offline Game Mode
@@ -472,9 +472,9 @@ Base Game Achievements:
   Description: Kill 20 enemies with firearms.
   GS: '5'
   Guide: false
-  Number of Gamers: 804
-  Percentage of Gamers: 4%
-  Ratio: 4.71
+  Number of Gamers: 826
+  Percentage of Gamers: 5%
+  Ratio: 4.68
   TA: '23'
   Tags:
   - Offline Game Mode
@@ -483,7 +483,7 @@ Base Game Achievements:
   Description: Make your first Lore Store purchase.
   GS: '5'
   Guide: true
-  Number of Gamers: 7325
+  Number of Gamers: 7430
   Percentage of Gamers: 41%
   Ratio: 1.56
   TA: '7'
@@ -494,10 +494,10 @@ Base Game Achievements:
   Description: Craft the Warmachine with Heartcrusher in The Castle Gates
   GS: '5'
   Guide: false
-  Number of Gamers: 145
+  Number of Gamers: 150
   Percentage of Gamers: 1%
-  Ratio: 11.09
-  TA: '55'
+  Ratio: 10.98
+  TA: '54'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -505,9 +505,9 @@ Base Game Achievements:
   Description: Summon 10 enemies to fight alongside you.
   GS: '5'
   Guide: true
-  Number of Gamers: 2848
+  Number of Gamers: 2906
   Percentage of Gamers: 16%
-  Ratio: 2.5
+  Ratio: 2.49
   TA: '12'
   Tags:
   - Offline Mode
@@ -517,9 +517,9 @@ Base Game Achievements:
   Description: Max out a party member to level 9.
   GS: '5'
   Guide: false
-  Number of Gamers: 2091
+  Number of Gamers: 2141
   Percentage of Gamers: 12%
-  Ratio: 2.92
+  Ratio: 2.9
   TA: '14'
   Tags:
   - Offline Game Mode
@@ -528,10 +528,10 @@ Base Game Achievements:
   Description: Rescue Toadslayer from the Merc Caravan.
   GS: '15'
   Guide: true
-  Number of Gamers: 294
+  Number of Gamers: 315
   Percentage of Gamers: 2%
-  Ratio: 7.79
-  TA: '116'
+  Ratio: 7.57
+  TA: '113'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -539,9 +539,9 @@ Base Game Achievements:
   Description: Find the secret room in The Primordial Oak.
   GS: '15'
   Guide: true
-  Number of Gamers: 285
+  Number of Gamers: 293
   Percentage of Gamers: 2%
-  Ratio: 7.91
+  Ratio: 7.87
   TA: '118'
   Tags:
   - Offline Game Mode
@@ -550,10 +550,10 @@ Base Game Achievements:
   Description: Find the secret room in The Royal Mines.
   GS: '15'
   Guide: true
-  Number of Gamers: 367
+  Number of Gamers: 380
   Percentage of Gamers: 2%
-  Ratio: 6.97
-  TA: '104'
+  Ratio: 6.89
+  TA: '103'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -561,10 +561,10 @@ Base Game Achievements:
   Description: Find the secret room in The Hangman's Noose.
   GS: '15'
   Guide: true
-  Number of Gamers: 198
+  Number of Gamers: 211
   Percentage of Gamers: 1%
-  Ratio: 9.49
-  TA: '142'
+  Ratio: 9.25
+  TA: '138'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -572,10 +572,10 @@ Base Game Achievements:
   Description: Find the secret room in The Castle Gates.
   GS: '15'
   Guide: true
-  Number of Gamers: 202
+  Number of Gamers: 213
   Percentage of Gamers: 1%
-  Ratio: 9.4
-  TA: '141'
+  Ratio: 9.21
+  TA: '138'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -583,10 +583,10 @@ Base Game Achievements:
   Description: Rescue Terratrout from the Merc Caravan.
   GS: '15'
   Guide: true
-  Number of Gamers: 60
+  Number of Gamers: 63
   Percentage of Gamers: 0%
-  Ratio: 17.25
-  TA: '258'
+  Ratio: 16.94
+  TA: '254'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -594,10 +594,10 @@ Base Game Achievements:
   Description: Rescue Grimshaw from the Merc Caravan.
   GS: '15'
   Guide: true
-  Number of Gamers: 357
+  Number of Gamers: 402
   Percentage of Gamers: 2%
-  Ratio: 7.07
-  TA: '106'
+  Ratio: 6.7
+  TA: '100'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -606,10 +606,10 @@ Base Game Achievements:
     Gates.
   GS: '5'
   Guide: false
-  Number of Gamers: 135
+  Number of Gamers: 142
   Percentage of Gamers: 1%
-  Ratio: 11.5
-  TA: '57'
+  Ratio: 11.28
+  TA: '56'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -617,10 +617,10 @@ Base Game Achievements:
   Description: Defeat the chaos devices with Mooney in The Castle Gates.
   GS: '5'
   Guide: false
-  Number of Gamers: 233
+  Number of Gamers: 245
   Percentage of Gamers: 1%
-  Ratio: 8.75
-  TA: '43'
+  Ratio: 8.59
+  TA: '42'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -628,10 +628,10 @@ Base Game Achievements:
   Description: Sneak through the sewers with Haypenny in The Castle Gates.
   GS: '5'
   Guide: false
-  Number of Gamers: 154
+  Number of Gamers: 164
   Percentage of Gamers: 1%
-  Ratio: 10.77
-  TA: '53'
+  Ratio: 10.5
+  TA: '52'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -639,7 +639,7 @@ Base Game Achievements:
   Description: Spend 20 loadout points in one adventure.
   GS: '5'
   Guide: true
-  Number of Gamers: 9441
+  Number of Gamers: 9611
   Percentage of Gamers: 53%
   Ratio: 1.37
   TA: '6'
@@ -650,10 +650,10 @@ Base Game Achievements:
   Description: Complete The Resistance on Master Difficulty.
   GS: '50'
   Guide: false
-  Number of Gamers: 149
+  Number of Gamers: 154
   Percentage of Gamers: 1%
-  Ratio: 10.94
-  TA: '547'
+  Ratio: 10.83
+  TA: '541'
   Tags:
   - Offline Mode
   - Single Player
@@ -662,10 +662,10 @@ Base Game Achievements:
   Description: Complete The Primordial Oak on Master Difficulty.
   GS: '50'
   Guide: false
-  Number of Gamers: 83
-  Percentage of Gamers: 0%
-  Ratio: 14.67
-  TA: '733'
+  Number of Gamers: 91
+  Percentage of Gamers: 1%
+  Ratio: 14.09
+  TA: '704'
   Tags:
   - Offline Mode
   - Single Player
@@ -674,10 +674,10 @@ Base Game Achievements:
   Description: Complete The Royal Mines on Master Difficulty.
   GS: '50'
   Guide: false
-  Number of Gamers: 67
+  Number of Gamers: 73
   Percentage of Gamers: 0%
-  Ratio: 16.32
-  TA: '816'
+  Ratio: 15.74
+  TA: '787'
   Tags:
   - Offline Mode
   - Single Player
@@ -686,10 +686,10 @@ Base Game Achievements:
   Description: Complete The Hangman's Noose on Master Difficulty.
   GS: '50'
   Guide: false
-  Number of Gamers: 58
+  Number of Gamers: 68
   Percentage of Gamers: 0%
-  Ratio: 17.55
-  TA: '877'
+  Ratio: 16.3
+  TA: '815'
   Tags:
   - Offline Mode
   - Single Player
@@ -698,10 +698,10 @@ Base Game Achievements:
   Description: Complete The Castle Gates on Master Difficulty.
   GS: '50'
   Guide: false
-  Number of Gamers: 45
+  Number of Gamers: 51
   Percentage of Gamers: 0%
-  Ratio: 19.92
-  TA: '996'
+  Ratio: 18.83
+  TA: '941'
   Tags:
   - Offline Mode
   - Single Player
@@ -710,10 +710,10 @@ Base Game Achievements:
   Description: Rescue Sunderbone from the Merc Caravan.
   GS: '15'
   Guide: true
-  Number of Gamers: 65
+  Number of Gamers: 71
   Percentage of Gamers: 0%
-  Ratio: 16.57
-  TA: '248'
+  Ratio: 15.96
+  TA: '239'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -721,10 +721,10 @@ Base Game Achievements:
   Description: Rescue Johnsgrave from the Merc Caravan.
   GS: '15'
   Guide: false
-  Number of Gamers: 96
+  Number of Gamers: 113
   Percentage of Gamers: 1%
-  Ratio: 13.64
-  TA: '204'
+  Ratio: 12.65
+  TA: '189'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -732,10 +732,10 @@ Base Game Achievements:
   Description: Choose Hildebrant's plan to storm The Castle Gates.
   GS: '5'
   Guide: false
-  Number of Gamers: 186
+  Number of Gamers: 195
   Percentage of Gamers: 1%
-  Ratio: 9.8
-  TA: '49'
+  Ratio: 9.63
+  TA: '48'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -743,9 +743,9 @@ Base Game Achievements:
   Description: Consume 50 herbs.
   GS: '5'
   Guide: false
-  Number of Gamers: 4229
+  Number of Gamers: 4327
   Percentage of Gamers: 24%
-  Ratio: 2.05
+  Ratio: 2.04
   TA: '10'
   Tags:
   - Offline Mode
@@ -755,10 +755,10 @@ Base Game Achievements:
   Description: Rescue Boney Boogey from the Merc Caravan.
   GS: '15'
   Guide: true
-  Number of Gamers: 80
+  Number of Gamers: 87
   Percentage of Gamers: 0%
-  Ratio: 14.94
-  TA: '224'
+  Ratio: 14.41
+  TA: '216'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -766,10 +766,10 @@ Base Game Achievements:
   Description: Defeat the Royal Droll.
   GS: '25'
   Guide: false
-  Number of Gamers: 909
-  Percentage of Gamers: 5%
-  Ratio: 4.43
-  TA: '110'
+  Number of Gamers: 1020
+  Percentage of Gamers: 6%
+  Ratio: 4.21
+  TA: '105'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -777,10 +777,10 @@ Base Game Achievements:
   Description: Take fate into your own hands.
   GS: '15'
   Guide: true
-  Number of Gamers: 2630
+  Number of Gamers: 2680
   Percentage of Gamers: 15%
-  Ratio: 2.6
-  TA: '39'
+  Ratio: 2.59
+  TA: '38'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -788,7 +788,7 @@ Base Game Achievements:
   Description: Would you like to play a game?
   GS: '10'
   Guide: true
-  Number of Gamers: 4340
+  Number of Gamers: 4410
   Percentage of Gamers: 24%
   Ratio: 2.02
   TA: '20'
@@ -799,10 +799,10 @@ Base Game Achievements:
   Description: Nobody gets to leave...
   GS: '25'
   Guide: true
-  Number of Gamers: 558
+  Number of Gamers: 576
   Percentage of Gamers: 3%
-  Ratio: 5.65
-  TA: '141'
+  Ratio: 5.6
+  TA: '140'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -810,33 +810,33 @@ Base Game Achievements:
   Description: Defeat the Ringmaster.
   GS: '50'
   Guide: true
-  Number of Gamers: 490
+  Number of Gamers: 512
   Percentage of Gamers: 3%
-  Ratio: 6.03
-  TA: '301'
+  Ratio: 5.94
+  TA: '297'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 8.758
-Base TA: 8758
+Base Ratio: 8.473
+Base TA: 8473
 Delisted: false
 Developer: IronOak Games
 Game Name: For The King II
 Genres: Role Playing, Turn Based, Card & Board
 Install Size: 6480.0
-Number of Completions: 22
-Number of Gamers: 17896
+Number of Completions: 24
+Number of Gamers: 18088
 Overall Completion Time:
-- 131
-- 132
+- 129
+- 130
 Overall GS: 1000
-Overall Ratio: 8.758
-Overall TA: 8758
+Overall Ratio: 8.473
+Overall TA: 8473
 PDU: 0
-Percentage Completed: 0.12
+Percentage Completed: 0.13
 Publisher: Curve Games
 Release Date: 12 December 2024
 Server Closure: false
-Site Rating: 3.85
+Site Rating: 3.83
 Update Achievements: []
 Walkthrough: false

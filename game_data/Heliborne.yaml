@@ -1,0 +1,679 @@
+Add On Achievements: []
+Base Completion Time:
+- -1
+- -1
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: New Toy
+  Description: Research your first helicopter
+  GS: '20'
+  Guide: true
+  Number of Gamers: 370
+  Percentage of Gamers: 51%
+  Ratio: 1.39
+  TA: '27'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Shop
+- Achievement Name: Valkyrie landing
+  Description: Deploy all soldiers from Long Huey during a landing
+  GS: '20'
+  Guide: true
+  Number of Gamers: 133
+  Percentage of Gamers: 18%
+  Ratio: 2.32
+  TA: '46'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: The lights were off!
+  Description: Lose a night map battle
+  GS: '20'
+  Guide: true
+  Number of Gamers: 73
+  Percentage of Gamers: 10%
+  Ratio: 3.14
+  TA: '62'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Love-tube
+  Description: Have teammates destroy 50 targets with your mortars during single match
+  GS: '20'
+  Guide: true
+  Number of Gamers: 9
+  Percentage of Gamers: 1%
+  Ratio: 8.94
+  TA: '178'
+  Tags:
+  - Online Mode
+  - Cooperative
+- Achievement Name: Sure sucks down there
+  Description: 'Earn awards: "Manpad hunter", "RPG hunter" and "Mortar hunter"'
+  GS: '20'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 1%
+  Ratio: 13.41
+  TA: '268'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: '"Incoming" back at you'
+  Description: Earn "Mortar hunter" award
+  GS: '20'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 1%
+  Ratio: 13.41
+  TA: '268'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: NO beeping allowed
+  Description: Earn "Manpad hunter" award
+  GS: '20'
+  Guide: false
+  Number of Gamers: 61
+  Percentage of Gamers: 8%
+  Ratio: 3.43
+  TA: '68'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Death machine
+  Description: Earn "Air combat master 1st class" award
+  GS: '20'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 1%
+  Ratio: 13.41
+  TA: '268'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Camper
+  Description: Earn "Sniper" award 50 times
+  GS: '20'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '20'
+  Tags:
+  - Unobtainable
+- Achievement Name: Air cavalry
+  Description: Research all 1st and 2nd generation US helicopters
+  GS: '20'
+  Guide: false
+  Number of Gamers: 70
+  Percentage of Gamers: 10%
+  Ratio: 3.2
+  TA: '64'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Shop
+- Achievement Name: Ride of the Valkyries
+  Description: Fully research all variants of 1st and 2nd generation US helicopters
+  GS: '20'
+  Guide: false
+  Number of Gamers: 42
+  Percentage of Gamers: 6%
+  Ratio: 4.14
+  TA: '82'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Shop
+- Achievement Name: Red Dawn
+  Description: Research all 1st and 2nd generation Soviet helicopters
+  GS: '20'
+  Guide: false
+  Number of Gamers: 54
+  Percentage of Gamers: 8%
+  Ratio: 3.65
+  TA: '73'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Shop
+- Achievement Name: Capitalist's nightmare
+  Description: Completely research all USSR helicopters of all generations
+  GS: '20'
+  Guide: false
+  Number of Gamers: 6
+  Percentage of Gamers: 1%
+  Ratio: 10.95
+  TA: '219'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Shop
+- Achievement Name: Lady Liberty's Wings
+  Description: Fully research all variants of USA helicopters
+  GS: '20'
+  Guide: false
+  Number of Gamers: 3
+  Percentage of Gamers: 0%
+  Ratio: 15.49
+  TA: '309'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Shop
+- Achievement Name: A flock of... tanks?
+  Description: Completely research all Krokodil-A, Hv-24V, Hv-24P, Hv-24VM helicopters
+    and their variants
+  GS: '20'
+  Guide: false
+  Number of Gamers: 11
+  Percentage of Gamers: 2%
+  Ratio: 8.09
+  TA: '161'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Shop
+- Achievement Name: Snakes in the Sky
+  Description: Completely research all Ader helicopters and their variants
+  GS: '20'
+  Guide: false
+  Number of Gamers: 25
+  Percentage of Gamers: 3%
+  Ratio: 5.36
+  TA: '107'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Shop
+- Achievement Name: Russian airforce
+  Description: Fully research all 4th generation Russian helicopters and their variants
+  GS: '20'
+  Guide: false
+  Number of Gamers: 6
+  Percentage of Gamers: 1%
+  Ratio: 10.95
+  TA: '219'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Shop
+- Achievement Name: Flying train
+  Description: Deploy all troops from a Boxcar during a single sortie
+  GS: '20'
+  Guide: true
+  Number of Gamers: 24
+  Percentage of Gamers: 3%
+  Ratio: 5.47
+  TA: '109'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Flying canoe
+  Description: Deploy all soldiers from Ps-47 during one sortie
+  GS: '20'
+  Guide: true
+  Number of Gamers: 84
+  Percentage of Gamers: 12%
+  Ratio: 2.92
+  TA: '58'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Jolly Green Super Bus
+  Description: Deploy all troops from an Jolly Giant during a single sortie
+  GS: '20'
+  Guide: true
+  Number of Gamers: 40
+  Percentage of Gamers: 6%
+  Ratio: 4.24
+  TA: '84'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Heavy Duty Fruit Salad
+  Description: Earn all game awards at least one time each
+  GS: '20'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '20'
+  Tags:
+  - Unobtainable
+- Achievement Name: Black Hawk down!
+  Description: Have your White Eagle shot down while playing the Afghanistan, Khost
+    province map
+  GS: '20'
+  Guide: false
+  Number of Gamers: 95
+  Percentage of Gamers: 13%
+  Ratio: 2.75
+  TA: '55'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Stop! Torque-wrench time!
+  Description: Get grounded having all 3 helicopters in your squadron under repair
+  GS: '20'
+  Guide: false
+  Number of Gamers: 200
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '37'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Orca
+  Description: Research all variants of the Swallowtail helicopter
+  GS: '20'
+  Guide: true
+  Number of Gamers: 13
+  Percentage of Gamers: 2%
+  Ratio: 7.44
+  TA: '148'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Shop
+- Achievement Name: One shark is good, two sharks are better
+  Description: Win a battle with a custom squadron consisting of only Zhukovsky and
+    Dogfish
+  GS: '20'
+  Guide: false
+  Number of Gamers: 9
+  Percentage of Gamers: 1%
+  Ratio: 8.94
+  TA: '178'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: On the Warpath
+  Description: Win a battle with a custom squadron consisting of only Shortbow and
+    Crossbow
+  GS: '20'
+  Guide: false
+  Number of Gamers: 11
+  Percentage of Gamers: 2%
+  Ratio: 8.09
+  TA: '161'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Cry Havoc!
+  Description: Win a battle with a custom squadron consisting of only Strife and Strife
+    Night
+  GS: '20'
+  Guide: false
+  Number of Gamers: 5
+  Percentage of Gamers: 1%
+  Ratio: 12.0
+  TA: '240'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Pom-pom aviation
+  Description: Win a battle with a custom squadron consisting of only Crossbow and
+    Absaroka Warrior
+  GS: '20'
+  Guide: false
+  Number of Gamers: 9
+  Percentage of Gamers: 1%
+  Ratio: 8.94
+  TA: '178'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Goldilocks wannabee
+  Description: Win a battle with a custom squadron consisting of only Chaos, Hv-8MTV,
+    Hv-8AMTSH variants
+  GS: '20'
+  Guide: true
+  Number of Gamers: 16
+  Percentage of Gamers: 2%
+  Ratio: 6.7
+  TA: '134'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Hardboiled eggs
+  Description: Win a battle with a three helicopter squadron customized from the Sg-60,
+    Sg-6M, MC-500, Shortbow
+  GS: '20'
+  Guide: true
+  Number of Gamers: 9
+  Percentage of Gamers: 1%
+  Ratio: 8.94
+  TA: '178'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Black Shark Rising
+  Description: Win a night map battle using custom squadron with only Zhukovsky
+  GS: '20'
+  Guide: false
+  Number of Gamers: 10
+  Percentage of Gamers: 1%
+  Ratio: 8.48
+  TA: '169'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Yo, dawg, I heard you liked rotors
+  Description: Win a battle with a custom squadron consisting only of three helicopters
+    with coaxial rotors
+  GS: '20'
+  Guide: false
+  Number of Gamers: 18
+  Percentage of Gamers: 2%
+  Ratio: 6.32
+  TA: '126'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: The terror that flaps in the night
+  Description: Win a night map battle
+  GS: '20'
+  Guide: true
+  Number of Gamers: 158
+  Percentage of Gamers: 22%
+  Ratio: 2.13
+  TA: '42'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Training shots
+  Description: Win a Co-Op battle
+  GS: '20'
+  Guide: true
+  Number of Gamers: 360
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '28'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Insane
+  Description: Win a solo Co-Op battle on Hard difficulty
+  GS: '20'
+  Guide: true
+  Number of Gamers: 14
+  Percentage of Gamers: 2%
+  Ratio: 7.17
+  TA: '143'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Certified madman
+  Description: Win a Co-Op battle on 4th generation map set to Very Hard difficulty
+  GS: '20'
+  Guide: true
+  Number of Gamers: 4
+  Percentage of Gamers: 1%
+  Ratio: 13.41
+  TA: '268'
+  Tags:
+  - Online Mode
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: Breaking Hooligan is deadly after all
+  Description: Shoot an enemy helicopter down using Hooligan
+  GS: '20'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 1%
+  Ratio: 13.41
+  TA: '268'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: So Special Much Force
+  Description: Shoot an enemy helicopter down using Sg-6M
+  GS: '20'
+  Guide: false
+  Number of Gamers: 5
+  Percentage of Gamers: 1%
+  Ratio: 12.0
+  TA: '240'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Can opener
+  Description: Destroy 50 enemy vehicles during one battle
+  GS: '20'
+  Guide: false
+  Number of Gamers: 38
+  Percentage of Gamers: 5%
+  Ratio: 4.35
+  TA: '87'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Not ready for retirement
+  Description: Shoot an Shortbow down using Phalanx
+  GS: '20'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 1%
+  Ratio: 13.41
+  TA: '268'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Sneak a peek
+  Description: Win a battle using a custom squadron consisting of only recon helicopters
+  GS: '20'
+  Guide: true
+  Number of Gamers: 179
+  Percentage of Gamers: 25%
+  Ratio: 2.0
+  TA: '40'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Main Storyline
+- Achievement Name: Bad Hare Day
+  Description: Shoot an enemy down using Coney
+  GS: '20'
+  Guide: false
+  Number of Gamers: 13
+  Percentage of Gamers: 2%
+  Ratio: 7.44
+  TA: '148'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Banana accident
+  Description: Shoot an enemy down using Am-21
+  GS: '20'
+  Guide: false
+  Number of Gamers: 8
+  Percentage of Gamers: 1%
+  Ratio: 9.48
+  TA: '189'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Get to the choppa!
+  Description: Pick up at least one previously deployed trooper
+  GS: '20'
+  Guide: true
+  Number of Gamers: 604
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '21'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Main Storyline
+- Achievement Name: On a wing and a prayer
+  Description: Bring back and turn in for repairs helicopter with at least 3 destroyed
+    modules
+  GS: '20'
+  Guide: false
+  Number of Gamers: 5
+  Percentage of Gamers: 1%
+  Ratio: 12.0
+  TA: '240'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Ooh, shiny!
+  Description: Earn a prototype helicopter
+  GS: '20'
+  Guide: false
+  Number of Gamers: 23
+  Percentage of Gamers: 3%
+  Ratio: 5.59
+  TA: '111'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Shop
+  - Buggy
+- Achievement Name: Do a story about me
+  Description: Shoot an enemy down using door gunners of the Chato
+  GS: '20'
+  Guide: false
+  Number of Gamers: 6
+  Percentage of Gamers: 1%
+  Ratio: 10.95
+  TA: '219'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Buggy
+- Achievement Name: Needle pillow
+  Description: Deploy 8 MANPADs within 70 meter radius
+  GS: '20'
+  Guide: true
+  Number of Gamers: 29
+  Percentage of Gamers: 4%
+  Ratio: 4.98
+  TA: '99'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Praise the Lord and pass the ammunition
+  Description: During a single sortie, exhaust all ammunition of an attack helicopter
+  GS: '20'
+  Guide: false
+  Number of Gamers: 130
+  Percentage of Gamers: 18%
+  Ratio: 2.35
+  TA: '47'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: I know Kung Fu
+  Description: Avoid a MANPAD launch or an air-to-air missile
+  GS: '20'
+  Guide: true
+  Number of Gamers: 497
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '24'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+Base Ratio: 6.796
+Base TA: 6796
+Delisted: false
+Developer: Klabater
+Game Name: Heliborne
+Genres: Aerial, Vehicular Combat
+Install Size: 6620.0
+Number of Completions: 0
+Number of Gamers: 720
+Overall Completion Time:
+- -1
+- -1
+Overall GS: 1000
+Overall Ratio: 6.796
+Overall TA: 6796
+PDU: 0
+Percentage Completed: 0.0
+Publisher: Klabater
+Release Date: 16 June 2021
+Server Closure: false
+Site Rating: 3.36
+Update Achievements: []
+Walkthrough: false

@@ -1,0 +1,599 @@
+Add On Achievements: []
+Base Completion Time:
+- 21
+- 22
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Apprentice
+  Description: Acquire your first artifact.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 455
+  Percentage of Gamers: 79%
+  Ratio: 1.12
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Librarian
+  Description: Acquire one artifact from each book.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 37
+  Percentage of Gamers: 6%
+  Ratio: 3.93
+  TA: '39'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Master Collector
+  Description: Acquire all artifacts.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 29
+  Percentage of Gamers: 5%
+  Ratio: 4.44
+  TA: '222'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Reborn
+  Description: Complete your journey and begin life anew by entering the Evergate.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 43
+  Percentage of Gamers: 7%
+  Ratio: 3.65
+  TA: '182'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
+- Achievement Name: Guardian
+  Description: Protect the Kindlewheat from the Nightmares.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 44
+  Percentage of Gamers: 8%
+  Ratio: 3.61
+  TA: '36'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Fated Descent
+  Description: Acquire crystal essence in Gate 7 of Underlands before void breaks
+    any crystals.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 28
+  Percentage of Gamers: 5%
+  Ratio: 4.52
+  TA: '45'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Essence of Moon
+  Description: Acquire all the time essences.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 28
+  Percentage of Gamers: 5%
+  Ratio: 4.52
+  TA: '90'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Essence of Crystal
+  Description: Acquire all the crystal essences.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 28
+  Percentage of Gamers: 5%
+  Ratio: 4.52
+  TA: '90'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Purist
+  Description: Complete all books without using artifacts.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 20
+  Percentage of Gamers: 3%
+  Ratio: 5.35
+  TA: '267'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Flawless Victory
+  Description: Beat the entire game with no deaths. Resetting is allowed.
+  GS: '100'
+  Guide: false
+  Number of Gamers: 13
+  Percentage of Gamers: 2%
+  Ratio: 6.64
+  TA: '664'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Equipment Expert
+  Description: Demonstrate your excellence with each artifact.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 20
+  Percentage of Gamers: 3%
+  Ratio: 5.35
+  TA: '107'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Remember
+  Description: Experience all memory moments to their completion.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 33
+  Percentage of Gamers: 6%
+  Ratio: 4.17
+  TA: '83'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Agile Blessing
+  Description: Acquire the Spirit Dash.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 25
+  Percentage of Gamers: 4%
+  Ratio: 4.79
+  TA: '95'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Inquisitive
+  Description: Talk to all the Seekers about their past.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 191
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '8'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Essence of Flora
+  Description: Acquire all the petal essences.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 29
+  Percentage of Gamers: 5%
+  Ratio: 4.44
+  TA: '88'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Double Duty
+  Description: Earn the crystal complete essence on any level using the Forgotten
+    Memory artifact.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 28
+  Percentage of Gamers: 5%
+  Ratio: 4.52
+  TA: '22'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Ride On!
+  Description: Land on a caribou's back. They can be a bit shy though.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 22
+  Percentage of Gamers: 4%
+  Ratio: 5.1
+  TA: '25'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Oops!
+  Description: You already beat the level! What went wrong?
+  GS: '5'
+  Guide: true
+  Number of Gamers: 145
+  Percentage of Gamers: 25%
+  Ratio: 1.99
+  TA: '9'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Procrastinating
+  Description: Quit bouncing back and forth, reincarnation awaits!
+  GS: '5'
+  Guide: true
+  Number of Gamers: 51
+  Percentage of Gamers: 9%
+  Ratio: 3.35
+  TA: '16'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Kindred Ignition
+  Description: Your kindred spirit does not appreciate being set on fire.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 20
+  Percentage of Gamers: 3%
+  Ratio: 5.35
+  TA: '26'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Child-like Soul
+  Description: The Grovekeeper can tell you're easily entertained...
+  GS: '5'
+  Guide: true
+  Number of Gamers: 27
+  Percentage of Gamers: 5%
+  Ratio: 4.61
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Fallen Guardian
+  Description: That's embarrassing... You've died after protecting the Kindlewheat.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 20
+  Percentage of Gamers: 3%
+  Ratio: 5.35
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Hesitant
+  Description: Connect to me with your Soulflame. What are you waiting for?
+  GS: '5'
+  Guide: true
+  Number of Gamers: 28
+  Percentage of Gamers: 5%
+  Ratio: 4.52
+  TA: '22'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Rough Beginning
+  Description: Nobody said this journey was going to be easy.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 270
+  Percentage of Gamers: 47%
+  Ratio: 1.46
+  TA: '7'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Centennial Spirit
+  Description: Ki has died and reformed from the Source 100 times.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 87
+  Percentage of Gamers: 15%
+  Ratio: 2.58
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Rock Solid
+  Description: Make the largest platform possible.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 25
+  Percentage of Gamers: 4%
+  Ratio: 4.79
+  TA: '47'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Speedy Wisp
+  Description: Beat the game in under 2 hours.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 16
+  Percentage of Gamers: 3%
+  Ratio: 5.98
+  TA: '299'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Stackable
+  - Time/Date
+- Achievement Name: In a Rush
+  Description: Beat the game in under 1 hour.
+  GS: '75'
+  Guide: false
+  Number of Gamers: 12
+  Percentage of Gamers: 2%
+  Ratio: 6.91
+  TA: '518'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Stackable
+  - Time/Date
+- Achievement Name: Don't Blink
+  Description: Reach 5 Gates in under 4 seconds.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 15
+  Percentage of Gamers: 3%
+  Ratio: 6.18
+  TA: '123'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: Determined Athlete
+  Description: Reach 20 Gates in under 7 seconds.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 14
+  Percentage of Gamers: 2%
+  Ratio: 6.4
+  TA: '128'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: Jade Trophy
+  Description: Reach all Gates consecutively in any China book without dying. Resetting
+    is allowed.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 40
+  Percentage of Gamers: 7%
+  Ratio: 3.78
+  TA: '94'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Frost Trophy
+  Description: Reach all Gates consecutively in any Alaska book without dying. Resetting
+    is allowed.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 21
+  Percentage of Gamers: 4%
+  Ratio: 5.22
+  TA: '130'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Iron Trophy
+  Description: Reach all Gates consecutively in any England book without dying. Resetting
+    is allowed.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 18
+  Percentage of Gamers: 3%
+  Ratio: 5.64
+  TA: '141'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Neon Trophy
+  Description: Reach all Gates consecutively in any New York book without dying. Resetting
+    is allowed.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 17
+  Percentage of Gamers: 3%
+  Ratio: 5.81
+  TA: '145'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Innocent Explorer
+  Description: Reach the 10 blue flowers.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 18
+  Percentage of Gamers: 3%
+  Ratio: 5.64
+  TA: '112'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Energized
+  Description: Have 5 jump cell charges at once.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 27
+  Percentage of Gamers: 5%
+  Ratio: 4.61
+  TA: '46'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Falling with Style
+  Description: Reach any 5 Gates without touching the ground.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 21
+  Percentage of Gamers: 4%
+  Ratio: 5.22
+  TA: '104'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Grounded
+  Description: Reach any 5 Gates without jumping.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 19
+  Percentage of Gamers: 3%
+  Ratio: 5.49
+  TA: '109'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Quickfire
+  Description: Beat the game only using instant fire.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 15
+  Percentage of Gamers: 3%
+  Ratio: 6.18
+  TA: '309'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Perfect Storm
+  Description: Beat the Storm book without dying.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 17
+  Percentage of Gamers: 3%
+  Ratio: 5.81
+  TA: '145'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Hang in There
+  Description: Spend 20 continuous seconds in the air.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 65
+  Percentage of Gamers: 11%
+  Ratio: 2.99
+  TA: '29'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Down with the Man
+  Description: Destroy one drone with another.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 40
+  Percentage of Gamers: 7%
+  Ratio: 3.78
+  TA: '18'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Perfectionist
+  Description: Collect all essences in one attempt in 10 Gates.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 16
+  Percentage of Gamers: 3%
+  Ratio: 5.98
+  TA: '119'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Reaching Sky High
+  Description: Launch yourself as high as possible on Gate 3 of the Secret Garden.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 63
+  Percentage of Gamers: 11%
+  Ratio: 3.01
+  TA: '15'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Stone Wall Shortcut
+  Description: Hop over the center pillar for a shortcut to Gate 7 of the Darkwoods.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 27
+  Percentage of Gamers: 5%
+  Ratio: 4.61
+  TA: '46'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Just One Shot
+  Description: Reach any Gate using the Soulflame only once.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 38
+  Percentage of Gamers: 7%
+  Ratio: 3.88
+  TA: '38'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: First Snowfall
+  Description: Beat Gate 6 of The Blizzard before the first snowfall ends.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 23
+  Percentage of Gamers: 4%
+  Ratio: 4.99
+  TA: '49'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Frugal Escape
+  Description: Beat Gate 5 of Falling Sky using six crystals or fewer.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 24
+  Percentage of Gamers: 4%
+  Ratio: 4.89
+  TA: '48'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: No Choice
+  Description: Beat Gate 1 of Underlands using only boost crystals and no artifacts.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 23
+  Percentage of Gamers: 4%
+  Ratio: 4.99
+  TA: '49'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: No Crystal, No Problem
+  Description: Reach any 10 Gates without breaking a crystal.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 24
+  Percentage of Gamers: 4%
+  Ratio: 4.89
+  TA: '97'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 5.186
+Base TA: 5186
+Delisted: false
+Developer: Stone Lantern Games
+Game Name: Evergate
+Genres: Puzzle, Platformer
+Install Size: 3160.0
+Number of Completions: 12
+Number of Gamers: 578
+Overall Completion Time:
+- 21
+- 22
+Overall GS: 1000
+Overall Ratio: 5.186
+Overall TA: 5186
+PDU: 0
+Percentage Completed: 2.08
+Publisher: PQube
+Release Date: 10 November 2020
+Server Closure: false
+Site Rating: 3.17
+Update Achievements: []
+Walkthrough: false

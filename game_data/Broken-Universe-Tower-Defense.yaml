@@ -1,0 +1,632 @@
+Add On Achievements: []
+Base Completion Time:
+- 83
+- 84
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Architect
+  Description: Build 25+ buildings in one stage
+  GS: '15'
+  Guide: false
+  Number of Gamers: 81
+  Percentage of Gamers: 16%
+  Ratio: 2.5
+  TA: '37'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Pacifist
+  Description: Don't kill any monsters until 120 seconds after the stage starts
+  GS: '15'
+  Guide: false
+  Number of Gamers: 61
+  Percentage of Gamers: 12%
+  Ratio: 2.89
+  TA: '43'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Only attack
+  Description: Cleared using only attack buildings in one stage
+  GS: '15'
+  Guide: true
+  Number of Gamers: 250
+  Percentage of Gamers: 49%
+  Ratio: 1.42
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Final Fusion
+  Description: Kill 5 or more Fusion Monsters in one stage
+  GS: '15'
+  Guide: true
+  Number of Gamers: 26
+  Percentage of Gamers: 5%
+  Ratio: 4.42
+  TA: '66'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: This is enough
+  Description: Cleared using only one building in a stage
+  GS: '15'
+  Guide: true
+  Number of Gamers: 117
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '31'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Wealthy
+  Description: Cleared with 1000 or more resources left in one stage
+  GS: '30'
+  Guide: true
+  Number of Gamers: 265
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '41'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Totally exhausted
+  Description: Cleared after 10 or more buildings are destroyed in one stage
+  GS: '15'
+  Guide: false
+  Number of Gamers: 47
+  Percentage of Gamers: 9%
+  Ratio: 3.29
+  TA: '49'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Amazing timing
+  Description: Clear the lander HP 99 or less
+  GS: '15'
+  Guide: false
+  Number of Gamers: 54
+  Percentage of Gamers: 11%
+  Ratio: 3.07
+  TA: '46'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: No way!
+  Description: Lander is destroyed and fails with less than 1 second remaining
+  GS: '15'
+  Guide: false
+  Number of Gamers: 152
+  Percentage of Gamers: 30%
+  Ratio: 1.83
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: I don't need help
+  Description: Clear without using any objects on the stage
+  GS: '15'
+  Guide: false
+  Number of Gamers: 318
+  Percentage of Gamers: 62%
+  Ratio: 1.26
+  TA: '18'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Ready!
+  Description: Complete the tutorial
+  GS: '15'
+  Guide: true
+  Number of Gamers: 509
+  Percentage of Gamers: 100%
+  Ratio: 1.0
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Great play
+  Description: First clear of the normal difficulty stage
+  GS: '15'
+  Guide: true
+  Number of Gamers: 431
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Perfect play
+  Description: First clear of the hard difficulty stage
+  GS: '15'
+  Guide: true
+  Number of Gamers: 195
+  Percentage of Gamers: 38%
+  Ratio: 1.61
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Godly play
+  Description: First clear of the wild difficulty stage
+  GS: '15'
+  Guide: false
+  Number of Gamers: 59
+  Percentage of Gamers: 12%
+  Ratio: 2.94
+  TA: '44'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Dangerous landing
+  Description: First successful landing mission
+  GS: '15'
+  Guide: false
+  Number of Gamers: 145
+  Percentage of Gamers: 28%
+  Ratio: 1.87
+  TA: '28'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Great challenger
+  Description: Clear by setting one or more of any challenge mode
+  GS: '15'
+  Guide: true
+  Number of Gamers: 17
+  Percentage of Gamers: 3%
+  Ratio: 5.47
+  TA: '82'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Level 10
+  Description: Reach level 10
+  GS: '15'
+  Guide: false
+  Number of Gamers: 22
+  Percentage of Gamers: 4%
+  Ratio: 4.81
+  TA: '72'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Level 20
+  Description: Reach level 20
+  GS: '15'
+  Guide: false
+  Number of Gamers: 14
+  Percentage of Gamers: 3%
+  Ratio: 6.03
+  TA: '90'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Level 30
+  Description: Reach level 30
+  GS: '30'
+  Guide: false
+  Number of Gamers: 10
+  Percentage of Gamers: 2%
+  Ratio: 7.14
+  TA: '214'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Juvia
+  Description: Clear Planet Juvia
+  GS: '15'
+  Guide: false
+  Number of Gamers: 34
+  Percentage of Gamers: 7%
+  Ratio: 3.87
+  TA: '58'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Kardia
+  Description: Clear Planet Kardia
+  GS: '15'
+  Guide: false
+  Number of Gamers: 29
+  Percentage of Gamers: 6%
+  Ratio: 4.19
+  TA: '62'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Nero
+  Description: Clear Planet Nero
+  GS: '15'
+  Guide: false
+  Number of Gamers: 21
+  Percentage of Gamers: 4%
+  Ratio: 4.92
+  TA: '73'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Mnima
+  Description: Clear Planet Mnima
+  GS: '15'
+  Guide: false
+  Number of Gamers: 16
+  Percentage of Gamers: 3%
+  Ratio: 5.64
+  TA: '84'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Sofos
+  Description: Clear Planet Sofos
+  GS: '15'
+  Guide: false
+  Number of Gamers: 14
+  Percentage of Gamers: 3%
+  Ratio: 6.03
+  TA: '90'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Petra
+  Description: Clear Planet Petra
+  GS: '15'
+  Guide: false
+  Number of Gamers: 11
+  Percentage of Gamers: 2%
+  Ratio: 6.8
+  TA: '102'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Citiny
+  Description: Clear Planet Citiny
+  GS: '15'
+  Guide: false
+  Number of Gamers: 10
+  Percentage of Gamers: 2%
+  Ratio: 7.14
+  TA: '107'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Enhanced building
+  Description: First to enhance the building
+  GS: '15'
+  Guide: false
+  Number of Gamers: 218
+  Percentage of Gamers: 43%
+  Ratio: 1.52
+  TA: '22'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Completed building
+  Description: Complete enhancement one building
+  GS: '15'
+  Guide: false
+  Number of Gamers: 131
+  Percentage of Gamers: 26%
+  Ratio: 1.97
+  TA: '29'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Enhanced skill
+  Description: First to enhance the skill
+  GS: '15'
+  Guide: false
+  Number of Gamers: 186
+  Percentage of Gamers: 36%
+  Ratio: 1.65
+  TA: '24'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Completed skill
+  Description: Complete enhancement one skill
+  GS: '15'
+  Guide: false
+  Number of Gamers: 60
+  Percentage of Gamers: 12%
+  Ratio: 2.91
+  TA: '43'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Technology
+  Description: First technology research
+  GS: '15'
+  Guide: false
+  Number of Gamers: 200
+  Percentage of Gamers: 39%
+  Ratio: 1.59
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Upgraded
+  Description: First lander upgrade
+  GS: '15'
+  Guide: false
+  Number of Gamers: 215
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Composite modules
+  Description: First module composition
+  GS: '15'
+  Guide: false
+  Number of Gamers: 29
+  Percentage of Gamers: 6%
+  Ratio: 4.19
+  TA: '62'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Composite items
+  Description: First item composition
+  GS: '15'
+  Guide: false
+  Number of Gamers: 20
+  Percentage of Gamers: 4%
+  Ratio: 5.04
+  TA: '75'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Normal
+  Description: First acquisition of normal grade module
+  GS: '15'
+  Guide: false
+  Number of Gamers: 137
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '28'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Special
+  Description: First acquisition of special grade module
+  GS: '15'
+  Guide: false
+  Number of Gamers: 157
+  Percentage of Gamers: 31%
+  Ratio: 1.8
+  TA: '27'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Rare
+  Description: First acquisition of rare grade module
+  GS: '15'
+  Guide: false
+  Number of Gamers: 45
+  Percentage of Gamers: 9%
+  Ratio: 3.36
+  TA: '50'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: 1 Star
+  Description: First acquisition of 1-star item
+  GS: '15'
+  Guide: false
+  Number of Gamers: 44
+  Percentage of Gamers: 9%
+  Ratio: 3.4
+  TA: '51'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: 2 Star
+  Description: First acquisition of 2-star item
+  GS: '15'
+  Guide: false
+  Number of Gamers: 44
+  Percentage of Gamers: 9%
+  Ratio: 3.4
+  TA: '51'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: 3 Star
+  Description: First acquisition of 3-star item
+  GS: '15'
+  Guide: false
+  Number of Gamers: 27
+  Percentage of Gamers: 5%
+  Ratio: 4.34
+  TA: '65'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Bronze
+  Description: Get bronze trophy
+  GS: '15'
+  Guide: false
+  Number of Gamers: 20
+  Percentage of Gamers: 4%
+  Ratio: 5.04
+  TA: '75'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Silver
+  Description: Get silver trophy
+  GS: '15'
+  Guide: false
+  Number of Gamers: 13
+  Percentage of Gamers: 3%
+  Ratio: 6.26
+  TA: '93'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Gold
+  Description: Get gold trophy
+  GS: '15'
+  Guide: false
+  Number of Gamers: 13
+  Percentage of Gamers: 3%
+  Ratio: 6.26
+  TA: '93'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Platinum
+  Description: Get platinum trophy
+  GS: '15'
+  Guide: false
+  Number of Gamers: 12
+  Percentage of Gamers: 2%
+  Ratio: 6.51
+  TA: '97'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Diamond
+  Description: Get diamond trophy
+  GS: '15'
+  Guide: true
+  Number of Gamers: 12
+  Percentage of Gamers: 2%
+  Ratio: 6.51
+  TA: '97'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Thanks for playing!
+  Description: Watch credits
+  GS: '15'
+  Guide: true
+  Number of Gamers: 25
+  Percentage of Gamers: 5%
+  Ratio: 4.51
+  TA: '67'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Level 40
+  Description: Reach level 40
+  GS: '85'
+  Guide: true
+  Number of Gamers: 10
+  Percentage of Gamers: 2%
+  Ratio: 7.14
+  TA: '607'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Aionios
+  Description: Clear Planet Aionios
+  GS: '15'
+  Guide: false
+  Number of Gamers: 10
+  Percentage of Gamers: 2%
+  Ratio: 7.14
+  TA: '107'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Musica
+  Description: Clear Planet Musica
+  GS: '85'
+  Guide: true
+  Number of Gamers: 10
+  Percentage of Gamers: 2%
+  Ratio: 7.14
+  TA: '607'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Unique
+  Description: First acquisition of unique grade module
+  GS: '15'
+  Guide: false
+  Number of Gamers: 21
+  Percentage of Gamers: 4%
+  Ratio: 4.92
+  TA: '73'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: 4 Star
+  Description: First acquisition of 4-star item
+  GS: '15'
+  Guide: false
+  Number of Gamers: 18
+  Percentage of Gamers: 4%
+  Ratio: 5.32
+  TA: '79'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Profitis
+  Description: Clear Planet Profitis
+  GS: '15'
+  Guide: false
+  Number of Gamers: 10
+  Percentage of Gamers: 2%
+  Ratio: 7.14
+  TA: '107'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Relic
+  Description: First acquisition of relic grade module
+  GS: '30'
+  Guide: true
+  Number of Gamers: 18
+  Percentage of Gamers: 4%
+  Ratio: 5.32
+  TA: '159'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: 5 Star
+  Description: First acquisition of 5-star item
+  GS: '20'
+  Guide: true
+  Number of Gamers: 19
+  Percentage of Gamers: 4%
+  Ratio: 5.18
+  TA: '103'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 4.477
+Base TA: 4477
+Delisted: false
+Developer: Jinthree Studio
+Game Name: Broken Universe - Tower Defense
+Genres: Strategy, Tower Defence
+Install Size: 1280.0
+Number of Completions: 10
+Number of Gamers: 510
+Overall Completion Time:
+- 83
+- 84
+Overall GS: 1000
+Overall Ratio: 4.477
+Overall TA: 4477
+PDU: 0
+Percentage Completed: 1.96
+Publisher: RedDeerGames
+Release Date: 02 December 2022
+Server Closure: false
+Site Rating: 2.86
+Update Achievements: []
+Walkthrough: false

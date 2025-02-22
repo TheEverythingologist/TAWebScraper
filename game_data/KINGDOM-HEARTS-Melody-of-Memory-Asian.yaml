@@ -1,0 +1,571 @@
+Add On Achievements: []
+Base Completion Time:
+- 30.0
+- 35.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: World Adventurer
+  Description: Clear all songs in a world.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 27
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Confronting the Enemy
+  Description: Clear a Boss Battle Music Stage.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 18
+  Percentage of Gamers: 62%
+  Ratio: 1.26
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Connected Tones
+  Description: Get a Full Chain.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 21
+  Percentage of Gamers: 72%
+  Ratio: 1.17
+  TA: '11'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Prelude to Battle
+  Description: Defeat a COM opponent.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 16
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '13'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Diverging Paths
+  Description: Use every team at least once.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 16
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '20'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Memory Collector
+  Description: Unlock all Story Archive movies.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 16
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Melody's End
+  Description: Clear the game and view the ending.
+  GS: '60'
+  Guide: false
+  Number of Gamers: 16
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '80'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Beginner Player
+  Description: Clear 50 songs on Beginner.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 16
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '13'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: Standard Player
+  Description: Clear 50 songs on Standard.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 16
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '20'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: Proud Player
+  Description: Clear 50 songs on Proud.
+  GS: '40'
+  Guide: false
+  Number of Gamers: 17
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '52'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: Beginner Chain Master
+  Description: Clear 50 songs with a Full Chain on Beginner.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 16
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '13'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: Standard Chain Master
+  Description: Clear 50 songs with a Full Chain on Standard.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 15
+  Percentage of Gamers: 52%
+  Ratio: 1.39
+  TA: '20'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: Proud Chain Master
+  Description: Clear 50 songs with a Full Chain on Proud.
+  GS: '40'
+  Guide: false
+  Number of Gamers: 14
+  Percentage of Gamers: 48%
+  Ratio: 1.43
+  TA: '57'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: Enemy Sweeper
+  Description: Defeat 10,000 enemies.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 17
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '13'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Enemy Breaker
+  Description: Defeat 50,000 enemies.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 16
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '20'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Enemy Buster
+  Description: Defeat 100,000 enemies.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 12
+  Percentage of Gamers: 41%
+  Ratio: 1.55
+  TA: '62'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: High Score Hunter
+  Description: Achieve a total score of 500,000,000.
+  GS: '40'
+  Guide: false
+  Number of Gamers: 18
+  Percentage of Gamers: 62%
+  Ratio: 1.26
+  TA: '50'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: High Score Master
+  Description: Achieve a total score of 2,000,000,000.
+  GS: '60'
+  Guide: false
+  Number of Gamers: 17
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '78'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Rhythm Point Hoarder
+  Description: Collect 50,000 Rhythm Points.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 17
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '19'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: That's My Jam
+  Description: Play the same Music Stage 10 times.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 15
+  Percentage of Gamers: 52%
+  Ratio: 1.39
+  TA: '20'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Item Master
+  Description: Use 100 items.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 16
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '20'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Treasure Hunter
+  Description: Find 100 treasure chests.
+  GS: '40'
+  Guide: false
+  Number of Gamers: 16
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '53'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Item Hunter
+  Description: Obtain 10,000 items from Music Stages.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 16
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '20'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Unbreaking Melody
+  Description: Play 100 Music Stages.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 17
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '19'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Bonds of Friendship
+  Description: Hit 100 friend orbs.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 18
+  Percentage of Gamers: 62%
+  Ratio: 1.26
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Master Crafter
+  Description: Synthesize 100 items.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 17
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Moogle Master
+  Description: Get the moogle to the highest level.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 17
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Legendary Battler
+  Description: Defeat 20 COM opponents.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 15
+  Percentage of Gamers: 52%
+  Ratio: 1.39
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Shining Platinum
+  Description: Reach Platinum 1 rank in COM Battle.
+  GS: '40'
+  Guide: false
+  Number of Gamers: 14
+  Percentage of Gamers: 48%
+  Ratio: 1.43
+  TA: '57'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: EXP Hunter
+  Description: Earn 2,000 EXP or more in one song.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 17
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '19'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Enemy Juggler
+  Description: Attack the same enemy 19 times or more throughout one song.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 16
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '20'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: Master Glider
+  Description: Spend one minute or more gliding in a Field Battle Music Stage.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 16
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '20'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: By the King's Side
+  Description: Fight alongside King Mickey for an hour.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 17
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Technician
+  Description: Clear all five of Today's Tunes with a Full Chain.
+  GS: '40'
+  Guide: false
+  Number of Gamers: 16
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '53'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Mission Hunter
+  Description: Complete all missions in 10 worlds.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 18
+  Percentage of Gamers: 62%
+  Ratio: 1.26
+  TA: '19'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Leveled Out
+  Description: Reach the highest level with Team Classic.
+  GS: '60'
+  Guide: false
+  Number of Gamers: 17
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '78'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Open the Door
+  Description: Clear all songs in 10 worlds.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 19
+  Percentage of Gamers: 66%
+  Ratio: 1.23
+  TA: '12'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Follow the Path
+  Description: Clear all songs in 30 worlds.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 17
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '19'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Light the Darkness
+  Description: Clear all songs in 50 worlds.
+  GS: '40'
+  Guide: false
+  Number of Gamers: 17
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '52'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: World Tourist
+  Description: Clear all songs in all worlds.
+  GS: '40'
+  Guide: false
+  Number of Gamers: 16
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '53'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Beginner Maestro
+  Description: Clear all songs on Beginner.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 14
+  Percentage of Gamers: 48%
+  Ratio: 1.43
+  TA: '14'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: Standard Maestro
+  Description: Clear all songs on Standard.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 14
+  Percentage of Gamers: 48%
+  Ratio: 1.43
+  TA: '21'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: Proud Maestro
+  Description: Clear all songs on Proud.
+  GS: '40'
+  Guide: false
+  Number of Gamers: 13
+  Percentage of Gamers: 45%
+  Ratio: 1.49
+  TA: '59'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: Melomaniac
+  Description: Play all songs.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 15
+  Percentage of Gamers: 52%
+  Ratio: 1.39
+  TA: '20'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+Base Ratio: 1.327
+Base TA: 1327
+Delisted: false
+Developer: Square Enix
+Game Name: KINGDOM HEARTS Melody of Memory (Asian)
+Genres: Music & Rhythm
+Install Size: 7000.0
+Number of Completions: 12
+Number of Gamers: 29
+Overall Completion Time:
+- 30.0
+- 35.0
+Overall GS: 1000
+Overall Ratio: 1.327
+Overall TA: 1327
+PDU: 0
+Percentage Completed: 41.38
+Publisher: Square Enix
+Release Date: 11 November 2020
+Server Closure: false
+Site Rating: 3.78
+Update Achievements: []
+Walkthrough: false

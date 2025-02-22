@@ -1,0 +1,577 @@
+Add On Achievements: []
+Base Completion Time:
+- 40.0
+- 50.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Feed the Beast
+  Description: Reach level two with the Chimera.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2948
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '10'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Raid and Deliver
+  Description: Escape an Outpost with GenMat for the first time.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 3064
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '10'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Social Raider
+  Description: Grab the GenMat in a social raid and escape.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1610
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '41'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Armed and Dangerous
+  Description: "Reach level\_10 with the Weapons Advisor."
+  GS: '30'
+  Guide: false
+  Number of Gamers: 895
+  Percentage of Gamers: 29%
+  Ratio: 1.86
+  TA: '55'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Quartermaster
+  Description: "Reach level\_10 with the Hardware Advisor."
+  GS: '30'
+  Guide: true
+  Number of Gamers: 860
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '56'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Suit Up!
+  Description: "Reach level\_10 with the Suits Advisor."
+  GS: '30'
+  Guide: true
+  Number of Gamers: 965
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '53'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Creature Comforts
+  Description: "Reach level\_10 with the Guards Advisor."
+  GS: '30'
+  Guide: true
+  Number of Gamers: 905
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '55'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Deathtrap
+  Description: "Reach level\_10 with the Traps Advisor."
+  GS: '30'
+  Guide: true
+  Number of Gamers: 960
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '53'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Fully Loaded
+  Description: Fully upgrade a ranged weapon.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 767
+  Percentage of Gamers: 25%
+  Ratio: 2.01
+  TA: '30'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Shop
+- Achievement Name: Up Close and Personal
+  Description: Fully upgrade a melee weapon.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 498
+  Percentage of Gamers: 16%
+  Ratio: 2.49
+  TA: '37'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Shop
+- Achievement Name: On Guard
+  Description: Fully upgrade a defensive weapon.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 360
+  Percentage of Gamers: 12%
+  Ratio: 2.93
+  TA: '44'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Shop
+- Achievement Name: All the Trappings
+  Description: Purchase 4 mods.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 714
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '31'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Shop
+- Achievement Name: Genetic Engineering
+  Description: Purchase 7 augmentations.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 282
+  Percentage of Gamers: 9%
+  Ratio: 3.31
+  TA: '49'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Shop
+- Achievement Name: Dress For Success
+  Description: Fully upgrade 1 suit.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 326
+  Percentage of Gamers: 11%
+  Ratio: 3.08
+  TA: '46'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Shop
+- Achievement Name: BOOM!
+  Description: "Destroy\_3 traps and/or guards with a single Blast Grenade."
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2003
+  Percentage of Gamers: 65%
+  Ratio: 1.24
+  TA: '18'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Trail of Destruction
+  Description: "Destroy\_3 traps and guards within\_1.5 seconds."
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2164
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '17'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Time/Date
+- Achievement Name: Up and At'm
+  Description: Revive fellow Custodians 5 times in co-op.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1252
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '23'
+  Tags:
+  - Online Mode
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Deadshot
+  Description: Perform 10 headshots.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1499
+  Percentage of Gamers: 48%
+  Ratio: 1.43
+  TA: '21'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Partners in Crime
+  Description: Successfully steal GenMat and escape a raid in co-op.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1357
+  Percentage of Gamers: 44%
+  Ratio: 1.51
+  TA: '15'
+  Tags:
+  - Online Mode
+  - Cooperative
+- Achievement Name: Raid Master
+  Description: Successfully steal GenMat and escape 50 raids.
+  GS: '90'
+  Guide: false
+  Number of Gamers: 777
+  Percentage of Gamers: 25%
+  Ratio: 1.99
+  TA: '179'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Slaughterhouse
+  Description: View 50 Skull Stones in your Outposts.
+  GS: '90'
+  Guide: true
+  Number of Gamers: 1017
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '157'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Meet Another Maker
+  Description: Activate your Outpost with a co-op partner.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 605
+  Percentage of Gamers: 19%
+  Ratio: 2.26
+  TA: '33'
+  Tags:
+  - Online Mode
+  - Cooperative
+- Achievement Name: So It Begins
+  Description: Activate your first Outpost.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1770
+  Percentage of Gamers: 57%
+  Ratio: 1.32
+  TA: '13'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: GenMat Defender
+  Description: Activate 10 different Outposts.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 991
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '53'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Lord of the Wastes
+  Description: Activate 25 different Outposts.
+  GS: '90'
+  Guide: true
+  Number of Gamers: 602
+  Percentage of Gamers: 19%
+  Ratio: 2.26
+  TA: '204'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Monument of Death
+  Description: Prestige an Outpost.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1372
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '22'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Wonder of the Wasteland
+  Description: Reach maximum Prestige on an Outpost.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 493
+  Percentage of Gamers: 16%
+  Ratio: 2.5
+  TA: '75'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Knowledge is Power
+  Description: "Watch\_1 replay."
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1560
+  Percentage of Gamers: 50%
+  Ratio: 1.4
+  TA: '21'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Critical Acclaim
+  Description: "Grant\_100 Accolades to other builders."
+  GS: '30'
+  Guide: true
+  Number of Gamers: 557
+  Percentage of Gamers: 18%
+  Ratio: 2.35
+  TA: '70'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Community
+  - Cumulative +
+- Achievement Name: Excavator
+  Description: "Destroy\_15 Forsaken Tombs."
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1324
+  Percentage of Gamers: 43%
+  Ratio: 1.52
+  TA: '22'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Give it Your All
+  Description: Process all 5 Advisors at once.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 671
+  Percentage of Gamers: 22%
+  Ratio: 2.14
+  TA: '32'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Unlimited Power!
+  Description: Boost all 5 Advisors at the same time.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 372
+  Percentage of Gamers: 12%
+  Ratio: 2.88
+  TA: '43'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Life of the Party
+  Description: Grant 20 Fun Accolades.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 902
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '27'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Community
+  - Cumulative +
+- Achievement Name: No Quarter
+  Description: Grant 20 Brutal Accolades.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 603
+  Percentage of Gamers: 19%
+  Ratio: 2.26
+  TA: '34'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Community
+  - Cumulative +
+- Achievement Name: Killer Brains
+  Description: Grant 20 Ingenious Accolades.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 632
+  Percentage of Gamers: 20%
+  Ratio: 2.21
+  TA: '33'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Community
+  - Cumulative +
+- Achievement Name: You Belong in a Museum
+  Description: Grant 20 Artistic Accolades.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 620
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '33'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Community
+  - Cumulative +
+- Achievement Name: Raider's Pilgrimage
+  Description: Complete a progression track on the Raid Map.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1527
+  Percentage of Gamers: 49%
+  Ratio: 1.42
+  TA: '21'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Transcendental
+  Description: "Activate a rank 1 Boost\_three times."
+  GS: '15'
+  Guide: true
+  Number of Gamers: 611
+  Percentage of Gamers: 20%
+  Ratio: 2.25
+  TA: '33'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Overclocked
+  Description: "Activate a rank 2 Boost\_twice."
+  GS: '15'
+  Guide: true
+  Number of Gamers: 453
+  Percentage of Gamers: 15%
+  Ratio: 2.61
+  TA: '39'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Higher Power
+  Description: Activate a rank 3 Boost.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 845
+  Percentage of Gamers: 27%
+  Ratio: 1.91
+  TA: '28'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Wasteland Engineering
+  Description: "Craft Hardware\_100 times."
+  GS: '30'
+  Guide: true
+  Number of Gamers: 783
+  Percentage of Gamers: 25%
+  Ratio: 1.98
+  TA: '59'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: No Quarrel With You
+  Description: "Complete\_20 raids with the enemy Harvester still alive."
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1364
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '22'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: The Floor is Lava
+  Description: "Don't touch the ground for\_60 seconds."
+  GS: '15'
+  Guide: true
+  Number of Gamers: 483
+  Percentage of Gamers: 16%
+  Ratio: 2.53
+  TA: '37'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+Base Ratio: 1.954
+Base TA: 1954
+Delisted: false
+Developer: Behaviour Interactive
+Game Name: Meet Your Maker
+Genres: First Person Shooter, Sandbox
+Install Size: 7090.0
+Number of Completions: 141
+Number of Gamers: 3103
+Overall Completion Time:
+- 40.0
+- 50.0
+Overall GS: 1000
+Overall Ratio: 1.954
+Overall TA: 1954
+PDU: 0
+Percentage Completed: 4.54
+Publisher: Behaviour Interactive
+Release Date: 04 April 2023
+Server Closure: false
+Site Rating: 3.39
+Update Achievements: []
+Walkthrough: false
