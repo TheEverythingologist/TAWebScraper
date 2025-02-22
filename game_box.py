@@ -1,0 +1,24 @@
+from bs4 import BeautifulSoup
+import requests
+import re
+
+class GameBox:
+    def __init__(self, game_box_tr):
+        self.game_box_tr = game_box_tr
+        self.ta_score = self.get_ta_score()
+        self.game_url = self.get_game_url()
+        self.game_name_url = self.get_game_name_url()
+
+    def get_ta_score(self):
+        game_score = self.game_box_tr.find('td', {'class': 'score'}).text
+        current_ta = (game_score.split(' '))[0].replace(',', '')
+        return current_ta
+    
+    def get_game_url(self):
+        game_url = ((self.game_box_tr.find('a', href=lambda href: href and '/game/' in href and '/achievements' in href))['href'])
+        game_url = f"https://www.trueachievements.com{game_url}"
+        return game_url
+
+    def get_game_name_url(self):
+        game_title = (((self.game_box_tr.find('a', href=lambda href: href and '/game/' in href and '/achievements' in href))['href']).split('/'))[2]
+        return game_title

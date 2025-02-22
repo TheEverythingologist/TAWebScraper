@@ -1,0 +1,832 @@
+Add On Achievements: []
+Base Completion Time:
+- 45.0
+- 55.0
+Base GS: 1105
+Base Game Achievements:
+- Achievement Name: Annihilation
+  Description: Defeat 10000 units in battle.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4196
+  Percentage of Gamers: 6%
+  Ratio: 4.12
+  TA: '123'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Demolition
+  Description: Destroy 2000 buildings in battle.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 3849
+  Percentage of Gamers: 5%
+  Ratio: 4.3
+  TA: '129'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Creating a Masterpiece
+  Description: Complete a Wonder.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 13511
+  Percentage of Gamers: 19%
+  Ratio: 2.29
+  TA: '45'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Horror Unleashed
+  Description: Complete a Titan gate.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 15672
+  Percentage of Gamers: 22%
+  Ratio: 2.12
+  TA: '42'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: I Believe They Can Fly
+  Description: Toss 500 units into the air.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 10104
+  Percentage of Gamers: 14%
+  Ratio: 2.65
+  TA: '53'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Auto Everything
+  Description: Train 10000 Villagers.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1379
+  Percentage of Gamers: 2%
+  Ratio: 7.19
+  TA: '143'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Big Boomer
+  Description: Reach the Villager build limit in a match.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 11019
+  Percentage of Gamers: 16%
+  Ratio: 2.54
+  TA: '50'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Cyclopean Masonry
+  Description: Build 50 Fortress-like buildings.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 4894
+  Percentage of Gamers: 7%
+  Ratio: 3.81
+  TA: '76'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Titanic Terror
+  Description: Unleash a Greek, an Egyptian, a Norse, and an Atlantean Titan.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 3565
+  Percentage of Gamers: 5%
+  Ratio: 4.47
+  TA: '134'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Age against the Machine
+  Description: Defeat 100 AI opponents.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1502
+  Percentage of Gamers: 2%
+  Ratio: 6.91
+  TA: '207'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: First Blood
+  Description: Play a multiplayer match.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 12646
+  Percentage of Gamers: 18%
+  Ratio: 2.36
+  TA: '47'
+  Tags:
+  - Online Mode
+  - Cooperative
+  - Versus
+- Achievement Name: Wrath of the Gods
+  Description: Use 4 God Powers within 30 seconds.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 14473
+  Percentage of Gamers: 20%
+  Ratio: 2.21
+  TA: '44'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Time/Date
+- Achievement Name: Fast Food
+  Description: Win a match without building a Farm.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 8678
+  Percentage of Gamers: 12%
+  Ratio: 2.86
+  TA: '57'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: No Time for Mortals
+  Description: Win a match without training any military units aside from Heroes and
+    Myth Units.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 6802
+  Percentage of Gamers: 10%
+  Ratio: 3.23
+  TA: '64'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Boxing Match
+  Description: Defeat 50 enemy units with Villagers.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2438
+  Percentage of Gamers: 3%
+  Ratio: 5.4
+  TA: '108'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: All In
+  Description: Win a match without building an additional Village Center or Town Center.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 10577
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '51'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Hoplite Heresy
+  Description: Win a match as Greeks without training Ranged Soldiers or Cavalry.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 4372
+  Percentage of Gamers: 6%
+  Ratio: 4.03
+  TA: '80'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Hersir, Your Honor
+  Description: Win a match as Norse without training Infantry, except Hersirs.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2706
+  Percentage of Gamers: 4%
+  Ratio: 5.12
+  TA: '102'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Chonkers
+  Description: Fully fatten 10 livestock animals in a single match.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 18765
+  Percentage of Gamers: 26%
+  Ratio: 1.94
+  TA: '38'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Zeus Eat Town Center
+  Description: Destroy 3 Town Centers with Infantry.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 11684
+  Percentage of Gamers: 16%
+  Ratio: 2.46
+  TA: '49'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Poseidon's Revolt
+  Description: Defeat 50 units with Militia.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2464
+  Percentage of Gamers: 3%
+  Ratio: 5.37
+  TA: '107'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Praise the Sun
+  Description: Empower 15 buildings simultaneously.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3123
+  Percentage of Gamers: 4%
+  Ratio: 4.76
+  TA: '95'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Pet of Set
+  Description: Deal 2000 damage with Set Animals in a single match.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2236
+  Percentage of Gamers: 3%
+  Ratio: 5.66
+  TA: '113'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Thorium Mining
+  Description: Reach the Villager build limit training only Dwarves.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2365
+  Percentage of Gamers: 3%
+  Ratio: 5.47
+  TA: '109'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Kronos' Telephone Booth
+  Description: Time shift 200 buildings.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1595
+  Percentage of Gamers: 2%
+  Ratio: 6.68
+  TA: '133'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Minoan Tennis
+  Description: Toss a unit twice within 4 seconds with Minotaurs.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 13921
+  Percentage of Gamers: 20%
+  Ratio: 2.25
+  TA: '33'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Time/Date
+- Achievement Name: Centum Centauri
+  Description: Defeat 100 units with Centaurs.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 8576
+  Percentage of Gamers: 12%
+  Ratio: 2.87
+  TA: '43'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Anubitten
+  Description: Defeat 50 Villagers with Anubites.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2173
+  Percentage of Gamers: 3%
+  Ratio: 5.72
+  TA: '85'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Ride of the Valkyries
+  Description: Heal 4000 HP with Valkyries.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 6942
+  Percentage of Gamers: 10%
+  Ratio: 3.19
+  TA: '47'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Care and Calamity
+  Description: Heal 10000 HP using Caladrias.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2600
+  Percentage of Gamers: 4%
+  Ratio: 5.24
+  TA: '78'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Prowl Patrol
+  Description: Defeat 100 Villagers with Fenris Wolf Broods.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1823
+  Percentage of Gamers: 3%
+  Ratio: 6.24
+  TA: '93'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Beastly Bulwark
+  Description: Absorb 5000 damage with Behemoths.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 6328
+  Percentage of Gamers: 9%
+  Ratio: 3.35
+  TA: '50'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Anger Problems
+  Description: Cast the Einheri's 'Horn Blast' ability 20 times in one game session.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 6923
+  Percentage of Gamers: 10%
+  Ratio: 3.2
+  TA: '48'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Norse Space Program
+  Description: Use the Mountain Giant's 'Punt' ability.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 7477
+  Percentage of Gamers: 11%
+  Ratio: 3.08
+  TA: '46'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Terrif-eyeing
+  Description: Create over 666 Argus eyes in a single match.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2258
+  Percentage of Gamers: 3%
+  Ratio: 5.61
+  TA: '84'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Omnivore
+  Description: Regenerate 5000 hit points using the 'Colossus Colossal Hunger' ability.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1938
+  Percentage of Gamers: 3%
+  Ratio: 6.06
+  TA: '90'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: A Hero in the Making
+  Description: Complete the Tutorial mission.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 58476
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: And So It Begins
+  Description: Complete the first mission of the Fall of the Trident campaign.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 30148
+  Percentage of Gamers: 42%
+  Ratio: 1.53
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: To Hades and Back
+  Description: Complete the Greek portion of the Fall of the Trident campaign.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 9268
+  Percentage of Gamers: 13%
+  Ratio: 2.76
+  TA: '55'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Osiris Reborn
+  Description: Complete the Egyptian portion of the Fall of the Trident campaign.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 5793
+  Percentage of Gamers: 8%
+  Ratio: 3.5
+  TA: '70'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: This Is for Chiron
+  Description: Complete the Norse portion of the Fall of the Trident campaign.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 4931
+  Percentage of Gamers: 7%
+  Ratio: 3.79
+  TA: '75'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Arkantos Ascended
+  Description: Complete the Fall of the Trident campaign.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4851
+  Percentage of Gamers: 7%
+  Ratio: 3.82
+  TA: '114'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Into the Mines!
+  Description: Complete the first mission of the Golden Gift Campaign.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 4968
+  Percentage of Gamers: 7%
+  Ratio: 3.78
+  TA: '75'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Freyr's Gift
+  Description: Complete the Golden Gift campaign.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4240
+  Percentage of Gamers: 6%
+  Ratio: 4.09
+  TA: '122'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: New World, New Gods
+  Description: Complete the first mission of the New Atlantis campaign.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 5168
+  Percentage of Gamers: 7%
+  Ratio: 3.71
+  TA: '74'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Honor to Kastor!
+  Description: Complete the New Atlantis campaign.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 3811
+  Percentage of Gamers: 5%
+  Ratio: 4.31
+  TA: '129'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Chiron's Apprentice
+  Description: In Fall of the Trident 7. "More Bandits," win by only training Centaurs,
+    no other units!
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3392
+  Percentage of Gamers: 5%
+  Ratio: 4.58
+  TA: '91'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Power of the Gods
+  Description: Invoke the Bolt God Power on the Manticore in the Tutorial Mission.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 60972
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Buggy
+- Achievement Name: Preparation
+  Description: In Fall of the Trident mission 1. "Omens," train an additional 10 Hoplites
+    and 10 Toxotai.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 31526
+  Percentage of Gamers: 44%
+  Ratio: 1.49
+  TA: '22'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Lost Treasure
+  Description: In Fall of the Trident 2. "Consequences," find the Shipwreck to help
+    boost your economy.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 17404
+  Percentage of Gamers: 25%
+  Ratio: 2.01
+  TA: '30'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 4.5819004524886875
+Base TA: 5063
+Delisted: false
+Developer: World's Edge, Forgotten Empires, Tantalus Media, Virtuos, CaptureAge
+Game Name: 'Age of Mythology: Retold'
+Genres: Strategy, Real Time
+Install Size: 25420.0
+Number of Completions: 179
+Number of Gamers: 70991
+Overall Completion Time:
+- 45.0
+- 55.0
+Overall GS: 1105
+Overall Ratio: 4.5819004524886875
+Overall TA: 5063
+PDU: 0
+Percentage Completed: 0.25
+Publisher: Xbox Game Studios
+Release Date: 04 September 2024
+Server Closure: false
+Site Rating: 4.29
+Update Achievements:
+- Achievement Name: Blessed be the Legend
+  Description: Bestow your first Blessing upon your Legend.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 2271
+  Percentage of Gamers: 3%
+  Ratio: 5.68
+  TA: '28'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Chosen by the gods
+  Description: Bestow 3 Blessings upon your Legend simultaneously.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1744
+  Percentage of Gamers: 2%
+  Ratio: 6.51
+  TA: '32'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: God's Favorite
+  Description: Bestow 3 divine and/or eternal Blessings upon your Legend simultaneously.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 430
+  Percentage of Gamers: 1%
+  Ratio: 13.03
+  TA: '130'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Slayer
+  Description: Allow your Legend to deal the final blow on 50 enemies.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1565
+  Percentage of Gamers: 2%
+  Ratio: 6.85
+  TA: '34'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Deicide
+  Description: Complete a Large Gateway.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 921
+  Percentage of Gamers: 1%
+  Ratio: 8.91
+  TA: '44'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Traveler
+  Description: Complete the final Gateway of a page.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 918
+  Percentage of Gamers: 1%
+  Ratio: 8.92
+  TA: '44'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Nomad
+  Description: Complete the final Gateway of an episode.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 518
+  Percentage of Gamers: 1%
+  Ratio: 11.91
+  TA: '119'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Underdog
+  Description: Complete a Large Gateway without any Blessing.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 425
+  Percentage of Gamers: 1%
+  Ratio: 13.14
+  TA: '131'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Ironside
+  Description: Complete 10 Gateways in a row without losing.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 747
+  Percentage of Gamers: 1%
+  Ratio: 9.92
+  TA: '99'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Veteran
+  Description: Complete every Gateway in an episode.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 415
+  Percentage of Gamers: 1%
+  Ratio: 13.27
+  TA: '199'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Stackable
+- Achievement Name: War Hero
+  Description: Complete every Gateway in an episode on Hard.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 252
+  Percentage of Gamers: 0%
+  Ratio: 17.14
+  TA: '342'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Through Thick and Thin
+  Description: Win an Arena of the Gods mission in coop.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 1103
+  Percentage of Gamers: 2%
+  Ratio: 8.15
+  TA: '40'
+  Tags:
+  - Online Mode
+  - Cooperative
+Walkthrough: false
