@@ -26,37 +26,37 @@ Base Game Achievements:
   Description: Find all key cards on Nova Aurora.
   GS: '80'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 38%
-  Ratio: 1.63
-  TA: '130'
-  Tags: []
-- Achievement Name: Hacker
-  Description: Find all Ada decryption keys.
-  GS: '80'
-  Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 25%
-  Ratio: 2.0
-  TA: '160'
-  Tags: []
-- Achievement Name: Montage
-  Description: Find all equipment upgrades.
-  GS: '80'
-  Guide: false
   Number of Gamers: 4
   Percentage of Gamers: 50%
   Ratio: 1.41
   TA: '113'
   Tags: []
-- Achievement Name: Illuminator
-  Description: Find torch upgrade.
-  GS: '20'
+- Achievement Name: Hacker
+  Description: Find all Ada decryption keys.
+  GS: '80'
+  Guide: false
+  Number of Gamers: 3
+  Percentage of Gamers: 38%
+  Ratio: 1.63
+  TA: '130'
+  Tags: []
+- Achievement Name: Montage
+  Description: Find all equipment upgrades.
+  GS: '80'
   Guide: false
   Number of Gamers: 5
   Percentage of Gamers: 62%
   Ratio: 1.26
-  TA: '25'
+  TA: '101'
+  Tags: []
+- Achievement Name: Illuminator
+  Description: Find torch upgrade.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 6
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '23'
   Tags: []
 - Achievement Name: Action Shooter
   Description: Complete Nicola's "Photograph an aggressive bat" mission.
@@ -71,10 +71,10 @@ Base Game Achievements:
   Description: Destroy all Skrillian crystals in Habitat 5.
   GS: '80'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 38%
-  Ratio: 1.63
-  TA: '130'
+  Number of Gamers: 4
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '113'
   Tags: []
 - Achievement Name: High Flyer
   Description: Reach a very high secret area in SUBTERRA 2.
@@ -89,10 +89,10 @@ Base Game Achievements:
   Description: Find a well-hidden secret in Habitat 3 near a lift shaft.
   GS: '30'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 62%
-  Ratio: 1.26
-  TA: '37'
+  Number of Gamers: 6
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '34'
   Tags: []
 - Achievement Name: Liberator
   Description: Free infected bots in Observatory-Lab 1
@@ -126,10 +126,10 @@ Base Game Achievements:
     mission.
   GS: '20'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 50%
-  Ratio: 1.41
-  TA: '28'
+  Number of Gamers: 5
+  Percentage of Gamers: 62%
+  Ratio: 1.26
+  TA: '25'
   Tags: []
 - Achievement Name: Transporter
   Description: Complete the "Pick up a Spit Flea" mission.
@@ -145,10 +145,10 @@ Base Game Achievements:
     jetpack upgrade.
   GS: '30'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 38%
-  Ratio: 1.63
-  TA: '48'
+  Number of Gamers: 4
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '42'
   Tags: []
 - Achievement Name: Data Storage
   Description: Collect 10 data canisters.
@@ -172,10 +172,10 @@ Base Game Achievements:
   Description: Collect 50 data canisters.
   GS: '80'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 38%
-  Ratio: 1.63
-  TA: '130'
+  Number of Gamers: 4
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '113'
   Tags: []
 - Achievement Name: Explorer
   Description: Find 10 secret areas.
@@ -204,8 +204,8 @@ Base Game Achievements:
   Ratio: 1.63
   TA: '32'
   Tags: []
-Base Ratio: 1.526
-Base TA: 1526
+Base Ratio: 1.419
+Base TA: 1419
 Delisted: false
 Developer: Omni Systems
 Game Name: Bioframe Outpost
@@ -217,8 +217,8 @@ Overall Completion Time:
 - 12
 - 13
 Overall GS: 1000
-Overall Ratio: 1.526
-Overall TA: 1526
+Overall Ratio: 1.419
+Overall TA: 1419
 PDU: 0
 Percentage Completed: 12.5
 Publisher: Omni Systems

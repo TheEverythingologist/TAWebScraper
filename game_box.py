@@ -17,6 +17,9 @@ class GameBox:
     def get_game_url(self):
         game_url = ((self.game_box_tr.find('a', href=lambda href: href and '/game/' in href and '/achievements' in href))['href'])
         game_url = f"https://www.trueachievements.com{game_url}"
+        if game_url == "https://www.trueachievements.com/game/METAL-SUITS-Counterattack/achievements":
+            # I have no idea why, but this game is broken for some reason.
+            return "https://www.trueachievements.com/game/Metal-Suits-Counter-Attack/achievements"
         return game_url
 
     def get_game_name_url(self):
