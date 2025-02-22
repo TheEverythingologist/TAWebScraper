@@ -1,0 +1,601 @@
+Add On Achievements: []
+Base Completion Time:
+- 15.0
+- 20.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Marshal Commander
+  Description: Complete all achievements
+  GS: '200'
+  Guide: true
+  Number of Gamers: 913
+  Percentage of Gamers: 8%
+  Ratio: 3.5
+  TA: '700'
+  Tags:
+  - Offline Mode
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Level
+- Achievement Name: Attention, Sergeant on Deck
+  Description: Reach Sergeant Rank
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7202
+  Percentage of Gamers: 64%
+  Ratio: 1.24
+  TA: '12'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Level
+- Achievement Name: You'll Call me Captain or Sir
+  Description: Reach Captain Rank
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4206
+  Percentage of Gamers: 38%
+  Ratio: 1.63
+  TA: '48'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Level
+- Achievement Name: I'm No Jedi
+  Description: Reach General Rank
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1780
+  Percentage of Gamers: 16%
+  Ratio: 2.5
+  TA: '125'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Level
+- Achievement Name: There's One, Don't Set for Stun
+  Description: Earn your first Frenzy Medal
+  GS: '10'
+  Guide: true
+  Number of Gamers: 8640
+  Percentage of Gamers: 77%
+  Ratio: 1.13
+  TA: '11'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Keep Your Enemies Closer
+  Description: Earn your first Regulator Medal
+  GS: '10'
+  Guide: true
+  Number of Gamers: 6087
+  Percentage of Gamers: 54%
+  Ratio: 1.35
+  TA: '13'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Shoulder-fire. Very Expensive.
+  Description: Earn your first Demolition Medal
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1811
+  Percentage of Gamers: 16%
+  Ratio: 2.48
+  TA: '24'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: In Your Sights
+  Description: Earn your first Marksman Medal
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3657
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '17'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: You Shot First
+  Description: Earn your first Gunslinger Medal
+  GS: '10'
+  Guide: true
+  Number of Gamers: 6258
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '13'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Just Call Me Fixer
+  Description: Earn your first Technician Medal
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3665
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '17'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Just Like the Simulations
+  Description: Earn your first Endurance Medal
+  GS: '10'
+  Guide: true
+  Number of Gamers: 10707
+  Percentage of Gamers: 96%
+  Ratio: 1.02
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Good Soldiers Follow Orders
+  Description: Earn your first Guardian Medal
+  GS: '10'
+  Guide: true
+  Number of Gamers: 9999
+  Percentage of Gamers: 89%
+  Ratio: 1.05
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: One Clone Army
+  Description: Earn your first War Hero Medal
+  GS: '10'
+  Guide: true
+  Number of Gamers: 9221
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '11'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Unlock the Elite Rifle
+  Description: Reach legendary Frenzy status
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1533
+  Percentage of Gamers: 14%
+  Ratio: 2.7
+  TA: '81'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Unlock the Flechette Shotgun
+  Description: Reach legendary Regulator status
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1160
+  Percentage of Gamers: 10%
+  Ratio: 3.1
+  TA: '93'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Unlock the Remote Rocket Launcher
+  Description: Reach legendary Demolition status
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1089
+  Percentage of Gamers: 10%
+  Ratio: 3.2
+  TA: '96'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Unlock the Beam Rifle
+  Description: Reach legendary Marksman status
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1055
+  Percentage of Gamers: 9%
+  Ratio: 3.25
+  TA: '97'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Unlock the Precision Pistol
+  Description: Reach legendary Gunslinger status
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1094
+  Percentage of Gamers: 10%
+  Ratio: 3.19
+  TA: '95'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Unlock the Vehicle Regen Bonus
+  Description: Reach legendary Technician status
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1033
+  Percentage of Gamers: 9%
+  Ratio: 3.28
+  TA: '98'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Unlock the Damage Reduction Bonus
+  Description: Reach legendary Guardian status
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1935
+  Percentage of Gamers: 17%
+  Ratio: 2.4
+  TA: '72'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Unlock the Increased Damage Bonus
+  Description: Reach legendary War Hero status
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1536
+  Percentage of Gamers: 14%
+  Ratio: 2.69
+  TA: '80'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Unlock the Energy Regen Bonus
+  Description: Reach legendary Endurance status
+  GS: '30'
+  Guide: true
+  Number of Gamers: 3115
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '56'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Execute Order 66
+  Description: Defeat a Jedi hero by knocking them off the map in Battlefront
+  GS: '30'
+  Guide: true
+  Number of Gamers: 2096
+  Percentage of Gamers: 19%
+  Ratio: 2.3
+  TA: '69'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Coming around, Rogue Leader
+  Description: Take down an AT-AT with tow cables in Battlefront
+  GS: '30'
+  Guide: true
+  Number of Gamers: 3144
+  Percentage of Gamers: 28%
+  Ratio: 1.88
+  TA: '56'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Republic Commando
+  Description: Reach elite Frenzy status
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2249
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '22'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Combat Engineer
+  Description: Reach elite Regulator status
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1346
+  Percentage of Gamers: 12%
+  Ratio: 2.88
+  TA: '28'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Ordnance Specialist
+  Description: Reach elite Demolition status
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1129
+  Percentage of Gamers: 10%
+  Ratio: 3.14
+  TA: '31'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Shadow Trooper
+  Description: Reach elite Marksman status
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1150
+  Percentage of Gamers: 10%
+  Ratio: 3.11
+  TA: '31'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: ARF Trooper
+  Description: Reach elite Gunslinger status
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1263
+  Percentage of Gamers: 11%
+  Ratio: 2.97
+  TA: '29'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: BARC Trooper
+  Description: Reach elite Technician status
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1129
+  Percentage of Gamers: 10%
+  Ratio: 3.14
+  TA: '31'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Shock Trooper
+  Description: Reach elite Guardian status
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3162
+  Percentage of Gamers: 28%
+  Ratio: 1.88
+  TA: '18'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: ARC Trooper
+  Description: Reach elite War Hero status
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2403
+  Percentage of Gamers: 21%
+  Ratio: 2.15
+  TA: '21'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Nova Corps Marine
+  Description: Reach elite Endurance status
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4835
+  Percentage of Gamers: 43%
+  Ratio: 1.51
+  TA: '15'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: The Cost of War
+  Description: Complete the Clone Wars Campaign in Battlefront
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4480
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '47'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Built on Hope
+  Description: Complete the Galactic Civil War Campaign in Battlefront
+  GS: '30'
+  Guide: true
+  Number of Gamers: 3657
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '52'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: The War Left its Scars on All of Us
+  Description: Complete the Battlefront II Campaign
+  GS: '50'
+  Guide: true
+  Number of Gamers: 3406
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '90'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Rebels! Blast 'em!
+  Description: Reach veteran Frenzy status
+  GS: '10'
+  Guide: true
+  Number of Gamers: 6317
+  Percentage of Gamers: 56%
+  Ratio: 1.32
+  TA: '13'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Up Close and Personal
+  Description: Reach veteran Regulator status
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3105
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '18'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: 'Next Up: Death Star'
+  Description: Reach veteran Demolition status
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1551
+  Percentage of Gamers: 14%
+  Ratio: 2.68
+  TA: '26'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Don't Become My Enemy
+  Description: Reach veteran Marksman status
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2256
+  Percentage of Gamers: 20%
+  Ratio: 2.22
+  TA: '22'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Sometimes I Amaze Even Myself
+  Description: Reach veteran Gunslinger status
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2987
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '19'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: All Too Easy
+  Description: Reach veteran Technician status
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1795
+  Percentage of Gamers: 16%
+  Ratio: 2.49
+  TA: '24'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Someone Has to Save Our Skins
+  Description: Reach veteran Guardian status
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7588
+  Percentage of Gamers: 68%
+  Ratio: 1.21
+  TA: '12'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Never Tell Me the Odds
+  Description: Reach veteran War Hero status
+  GS: '10'
+  Guide: true
+  Number of Gamers: 6716
+  Percentage of Gamers: 60%
+  Ratio: 1.28
+  TA: '12'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: I'm Not Finished Yet, Sir
+  Description: Reach veteran Endurance status
+  GS: '10'
+  Guide: true
+  Number of Gamers: 8686
+  Percentage of Gamers: 78%
+  Ratio: 1.13
+  TA: '11'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+Base Ratio: 2.476
+Base TA: 2476
+Delisted: false
+Developer: Aspyr Media, Pandemic Studios, LucasArts
+Game Name: 'Star Wars: Battlefront Classic Collection'
+Genres: First Person Shooter, Third Person Shooter, Collection
+Install Size: 57420.0
+Number of Completions: 915
+Number of Gamers: 11186
+Overall Completion Time:
+- 15.0
+- 20.0
+Overall GS: 1000
+Overall Ratio: 2.476
+Overall TA: 2476
+PDU: 0
+Percentage Completed: 8.18
+Publisher: Aspyr Media
+Release Date: 14 March 2024
+Server Closure: false
+Site Rating: 3.57
+Update Achievements: []
+Walkthrough: false

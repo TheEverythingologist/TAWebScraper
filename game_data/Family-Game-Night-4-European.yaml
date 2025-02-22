@@ -1,0 +1,415 @@
+Add On Achievements: []
+Base Completion Time:
+- 12.0
+- 15.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: A Star is Born
+  Description: Complete an episode of the Game Show
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1382
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Celebrity
+  Description: Complete 10 episodes of the Game Show
+  GS: '20'
+  Guide: true
+  Number of Gamers: 549
+  Percentage of Gamers: 34%
+  Ratio: 1.7
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: '"A" Lister'
+  Description: Complete 25 episodes of the Game Show
+  GS: '30'
+  Guide: false
+  Number of Gamers: 428
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '58'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Super Star!
+  Description: Complete 50 episodes of the Game Show
+  GS: '50'
+  Guide: true
+  Number of Gamers: 361
+  Percentage of Gamers: 22%
+  Ratio: 2.1
+  TA: '105'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Snack Time
+  Description: Play any game outside of Game Show format
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1414
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Snack Pack
+  Description: Finish each of the 5 games outside of Game Show (against Computer Player)
+  GS: '20'
+  Guide: true
+  Number of Gamers: 897
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '26'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Jr. Bopitologist
+  Description: Hit 10 Bop It! commands in a row without missing
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1165
+  Percentage of Gamers: 73%
+  Ratio: 1.17
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Boptician
+  Description: Hit 20 Bop It! commands in a row without missing
+  GS: '30'
+  Guide: true
+  Number of Gamers: 766
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '43'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Whack-a-Matic
+  Description: Hit 30 Bop It! commands in a row without missing
+  GS: '40'
+  Guide: true
+  Number of Gamers: 624
+  Percentage of Gamers: 39%
+  Ratio: 1.6
+  TA: '64'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: 2 the Max
+  Description: Hit 30 Bop It! commands in a row without missing in Extreme Bop It!
+  GS: '50'
+  Guide: true
+  Number of Gamers: 537
+  Percentage of Gamers: 33%
+  Ratio: 1.72
+  TA: '86'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Bop It! Master
+  Description: Finish 25 games of Bop It!
+  GS: '40'
+  Guide: false
+  Number of Gamers: 551
+  Percentage of Gamers: 34%
+  Ratio: 1.7
+  TA: '68'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Hot Shot
+  Description: Win a game of Connect 4 Basketball against the Computer Player in under
+    :45 seconds
+  GS: '20'
+  Guide: true
+  Number of Gamers: 945
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: Strong Arm
+  Description: Shoot at least 100 balls, lifetime total, in all Connect 4 Basketball
+    games
+  GS: '30'
+  Guide: true
+  Number of Gamers: 948
+  Percentage of Gamers: 59%
+  Ratio: 1.29
+  TA: '38'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Flawless Victory
+  Description: Win a round in 4 shots in Connect 4 Basketball
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1290
+  Percentage of Gamers: 80%
+  Ratio: 1.11
+  TA: '55'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Speed Shot
+  Description: Shoot 10 balls in under 35 seconds in Connect 4 Basketball
+  GS: '20'
+  Guide: true
+  Number of Gamers: 866
+  Percentage of Gamers: 54%
+  Ratio: 1.35
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Time/Date
+- Achievement Name: Connect 4 Basketball Master
+  Description: Finish 25 games of Connect 4 Basketball
+  GS: '40'
+  Guide: false
+  Number of Gamers: 606
+  Percentage of Gamers: 38%
+  Ratio: 1.62
+  TA: '65'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Quick Thinking
+  Description: Create 7 words in one game of Boggle Five-Letter Flash
+  GS: '50'
+  Guide: true
+  Number of Gamers: 826
+  Percentage of Gamers: 51%
+  Ratio: 1.39
+  TA: '69'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Human Dictionary
+  Description: Create 50 unique words in Boggle Flash (lifetime)
+  GS: '30'
+  Guide: true
+  Number of Gamers: 838
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '41'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: High Score
+  Description: Score 28 points or higher in one game of Boggle Flash
+  GS: '30'
+  Guide: true
+  Number of Gamers: 940
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '39'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Boggle Flash Veteran
+  Description: Earn 1,500 total points (lifetime) in Boggle Flash
+  GS: '20'
+  Guide: false
+  Number of Gamers: 414
+  Percentage of Gamers: 26%
+  Ratio: 1.96
+  TA: '39'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Boggle Flash Master
+  Description: Finish 25 games of Boggle Flash
+  GS: '40'
+  Guide: true
+  Number of Gamers: 582
+  Percentage of Gamers: 36%
+  Ratio: 1.65
+  TA: '66'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Denied!
+  Description: Knock an opponent out of the five-point zone in Sorry Sliders or be
+    knocked out
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1370
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Sorry. . . NOT!
+  Description: Finish a game of Sorry Sliders where the opponent doesn't earn a point
+  GS: '40'
+  Guide: true
+  Number of Gamers: 620
+  Percentage of Gamers: 39%
+  Ratio: 1.6
+  TA: '64'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Sorry Sliders Sumo!
+  Description: Play a game of Sumo Sliders in which two Sumo Sliders are knocked into
+    the Sorry zone
+  GS: '50'
+  Guide: true
+  Number of Gamers: 893
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '66'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Sorry!
+  Description: Win a game of Sorry Sliders against the Computer Player
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1158
+  Percentage of Gamers: 72%
+  Ratio: 1.17
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Sorry Sliders Master
+  Description: Finish 25 games of Sorry Sliders
+  GS: '40'
+  Guide: false
+  Number of Gamers: 503
+  Percentage of Gamers: 31%
+  Ratio: 1.78
+  TA: '71'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Turkey
+  Description: Win a game of Yahtzee Bowling against the Computer Player
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1060
+  Percentage of Gamers: 66%
+  Ratio: 1.23
+  TA: '24'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Dead Eye
+  Description: Knock over every pin with one throw in Yahtzee Bowling Crazy Lane
+  GS: '50'
+  Guide: true
+  Number of Gamers: 872
+  Percentage of Gamers: 54%
+  Ratio: 1.35
+  TA: '67'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Yahtzee!
+  Description: Get Yahtzee
+  GS: '40'
+  Guide: true
+  Number of Gamers: 982
+  Percentage of Gamers: 61%
+  Ratio: 1.27
+  TA: '51'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Knock 'em Down
+  Description: Knock over 600 pins in Yahtzee (lifetime total)
+  GS: '30'
+  Guide: true
+  Number of Gamers: 544
+  Percentage of Gamers: 34%
+  Ratio: 1.71
+  TA: '51'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Yahtzee Bowling Master
+  Description: Finish 25 games of Yahtzee Bowling
+  GS: '40'
+  Guide: false
+  Number of Gamers: 561
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '67'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+Base Ratio: 1.497
+Base TA: 1497
+Delisted: true
+Developer: EA Salt Lake
+Game Name: 'Family Game Night 4: The Game Show (EU)'
+Genres: Collection, Card & Board, Party
+Install Size: 194.0
+Number of Completions: 342
+Number of Gamers: 1605
+Overall Completion Time:
+- 12.0
+- 15.0
+Overall GS: 1000
+Overall Ratio: 1.497
+Overall TA: 1497
+PDU: 0
+Percentage Completed: 21.31
+Publisher: Electronic Arts
+Release Date: 04 November 2011
+Server Closure: false
+Site Rating: 2.37
+Update Achievements: []
+Walkthrough: false

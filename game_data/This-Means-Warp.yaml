@@ -1,0 +1,815 @@
+Add On Achievements: []
+Base Completion Time:
+- 50
+- 51
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: One Down
+  Description: Defeat the first boss
+  GS: '15'
+  Guide: false
+  Number of Gamers: 224
+  Percentage of Gamers: 98%
+  Ratio: 1.0
+  TA: '15'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Two Down
+  Description: Defeat the second boss
+  GS: '15'
+  Guide: false
+  Number of Gamers: 151
+  Percentage of Gamers: 66%
+  Ratio: 1.22
+  TA: '18'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Pantstacular!
+  Description: Defeat the second boss as Pants
+  GS: '15'
+  Guide: false
+  Number of Gamers: 77
+  Percentage of Gamers: 34%
+  Ratio: 1.72
+  TA: '25'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Ian Style
+  Description: Defeat the second boss as Ian
+  GS: '15'
+  Guide: false
+  Number of Gamers: 61
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '28'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Three Down
+  Description: Defeat the third boss
+  GS: '15'
+  Guide: false
+  Number of Gamers: 82
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '25'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Pantstwocular!
+  Description: Defeat the third boss as Pants
+  GS: '15'
+  Guide: false
+  Number of Gamers: 35
+  Percentage of Gamers: 15%
+  Ratio: 2.55
+  TA: '38'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: 3rd Ianning
+  Description: Defeat the third boss as Ian
+  GS: '15'
+  Guide: false
+  Number of Gamers: 35
+  Percentage of Gamers: 15%
+  Ratio: 2.55
+  TA: '38'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Treat Yo'self
+  Description: Purchase something from the shop
+  GS: '15'
+  Guide: true
+  Number of Gamers: 218
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '15'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Bling Bling
+  Description: Spend over $10,000 in the shop
+  GS: '15'
+  Guide: false
+  Number of Gamers: 38
+  Percentage of Gamers: 17%
+  Ratio: 2.44
+  TA: '36'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Big Spender
+  Description: Spend over $1,000 in the shop in a run
+  GS: '15'
+  Guide: false
+  Number of Gamers: 108
+  Percentage of Gamers: 47%
+  Ratio: 1.45
+  TA: '21'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Forgetting something?
+  Description: Leave money in the shop
+  GS: '15'
+  Guide: true
+  Number of Gamers: 65
+  Percentage of Gamers: 28%
+  Ratio: 1.87
+  TA: '28'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Work Hard Play Hard
+  Description: Complete 10 non-combat missions
+  GS: '15'
+  Guide: false
+  Number of Gamers: 121
+  Percentage of Gamers: 53%
+  Ratio: 1.37
+  TA: '20'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: The Norg can wait
+  Description: Complete 3 non-combat missions in a run
+  GS: '15'
+  Guide: true
+  Number of Gamers: 95
+  Percentage of Gamers: 41%
+  Ratio: 1.54
+  TA: '23'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Ez Pz
+  Description: Complete 3 survival missions in a run
+  GS: '15'
+  Guide: false
+  Number of Gamers: 83
+  Percentage of Gamers: 36%
+  Ratio: 1.65
+  TA: '24'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Play the game
+  Description: Complete 5 combat missions in a run
+  GS: '15'
+  Guide: true
+  Number of Gamers: 201
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '15'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Comb the desert
+  Description: Complete 10 combat missions in a run
+  GS: '15'
+  Guide: false
+  Number of Gamers: 139
+  Percentage of Gamers: 61%
+  Ratio: 1.28
+  TA: '19'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Calculated
+  Description: Phew! Survive a battle with under 10% hull health
+  GS: '15'
+  Guide: false
+  Number of Gamers: 38
+  Percentage of Gamers: 17%
+  Ratio: 2.44
+  TA: '36'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Spray and Pray
+  Description: Extinguish a fire on your ship
+  GS: '15'
+  Guide: true
+  Number of Gamers: 149
+  Percentage of Gamers: 65%
+  Ratio: 1.23
+  TA: '18'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Level 2
+  Description: Reach level 2
+  GS: '15'
+  Guide: false
+  Number of Gamers: 211
+  Percentage of Gamers: 92%
+  Ratio: 1.03
+  TA: '15'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Level 3
+  Description: Reach level 3
+  GS: '15'
+  Guide: false
+  Number of Gamers: 189
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '16'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Level 4
+  Description: Reach level 4
+  GS: '15'
+  Guide: false
+  Number of Gamers: 168
+  Percentage of Gamers: 73%
+  Ratio: 1.16
+  TA: '17'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Level 5
+  Description: Reach level 5
+  GS: '15'
+  Guide: false
+  Number of Gamers: 140
+  Percentage of Gamers: 61%
+  Ratio: 1.27
+  TA: '19'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Level 6
+  Description: Reach level 6
+  GS: '15'
+  Guide: false
+  Number of Gamers: 119
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '20'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Level 7
+  Description: Reach level 7
+  GS: '15'
+  Guide: false
+  Number of Gamers: 88
+  Percentage of Gamers: 38%
+  Ratio: 1.6
+  TA: '24'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Level 8
+  Description: Reach level 8
+  GS: '15'
+  Guide: false
+  Number of Gamers: 57
+  Percentage of Gamers: 25%
+  Ratio: 2.0
+  TA: '30'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Level 9
+  Description: Reach level 9
+  GS: '15'
+  Guide: false
+  Number of Gamers: 36
+  Percentage of Gamers: 16%
+  Ratio: 2.51
+  TA: '37'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Promotion
+  Description: Prestige once
+  GS: '15'
+  Guide: false
+  Number of Gamers: 20
+  Percentage of Gamers: 9%
+  Ratio: 3.37
+  TA: '50'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Brave
+  Description: Prestige twice
+  GS: '15'
+  Guide: false
+  Number of Gamers: 8
+  Percentage of Gamers: 3%
+  Ratio: 5.33
+  TA: '80'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Adept
+  Description: Prestige three times
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2
+  Percentage of Gamers: 1%
+  Ratio: 10.67
+  TA: '160'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Perseverence
+  Description: Prestige four times
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2
+  Percentage of Gamers: 1%
+  Ratio: 10.67
+  TA: '160'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Dedication
+  Description: Prestige five times
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2
+  Percentage of Gamers: 1%
+  Ratio: 10.67
+  TA: '160'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Dodge duck dip dive dodge
+  Description: Complete 10 survival missions
+  GS: '15'
+  Guide: false
+  Number of Gamers: 60
+  Percentage of Gamers: 26%
+  Ratio: 1.94
+  TA: '29'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Veteran
+  Description: Complete 30 combat missions
+  GS: '15'
+  Guide: true
+  Number of Gamers: 134
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '19'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Trololo
+  Description: Shoot your own ship
+  GS: '15'
+  Guide: true
+  Number of Gamers: 119
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '20'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Aw Twenty dollars? I wanted a peanut
+  Description: Earn money from the incinerator
+  GS: '15'
+  Guide: true
+  Number of Gamers: 141
+  Percentage of Gamers: 62%
+  Ratio: 1.27
+  TA: '19'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Shields Up!
+  Description: Complete Scenario 1 - Shields Up!
+  GS: '15'
+  Guide: false
+  Number of Gamers: 13
+  Percentage of Gamers: 6%
+  Ratio: 4.18
+  TA: '62'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Power Overwhelming
+  Description: Complete Scenario 2 - Power Overwhelming
+  GS: '15'
+  Guide: false
+  Number of Gamers: 7
+  Percentage of Gamers: 3%
+  Ratio: 5.7
+  TA: '85'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Double Tap
+  Description: Complete Scenario 3 - Double Tap
+  GS: '15'
+  Guide: false
+  Number of Gamers: 7
+  Percentage of Gamers: 3%
+  Ratio: 5.7
+  TA: '85'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Bombs Away
+  Description: Complete Scenario 4 - Bombs Away
+  GS: '15'
+  Guide: false
+  Number of Gamers: 7
+  Percentage of Gamers: 3%
+  Ratio: 5.7
+  TA: '85'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Nightmare
+  Description: Defeat the final boss on hard
+  GS: '70'
+  Guide: false
+  Number of Gamers: 5
+  Percentage of Gamers: 2%
+  Ratio: 6.75
+  TA: '472'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: That's not a knife!
+  Description: Complete 50 Combat Missions
+  GS: '15'
+  Guide: false
+  Number of Gamers: 111
+  Percentage of Gamers: 48%
+  Ratio: 1.43
+  TA: '21'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Centurion
+  Description: Complete 100 combat missions
+  GS: '15'
+  Guide: false
+  Number of Gamers: 61
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '28'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Wax On
+  Description: Train your crew at a trainer
+  GS: '15'
+  Guide: false
+  Number of Gamers: 131
+  Percentage of Gamers: 57%
+  Ratio: 1.31
+  TA: '19'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Magnanimous
+  Description: Unlock the bad ending
+  GS: '15'
+  Guide: false
+  Number of Gamers: 51
+  Percentage of Gamers: 22%
+  Ratio: 2.11
+  TA: '31'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Destroyer Of Worlds
+  Description: Unlock the bad ending
+  GS: '15'
+  Guide: true
+  Number of Gamers: 37
+  Percentage of Gamers: 16%
+  Ratio: 2.48
+  TA: '37'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Tough Guy
+  Description: Beat the game on Nightmare 3 Difficulty or Higher
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2
+  Percentage of Gamers: 1%
+  Ratio: 10.67
+  TA: '160'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Ridiculously Tough
+  Description: Beat the game on Nightmare 5 Difficulty or Higher
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2
+  Percentage of Gamers: 1%
+  Ratio: 10.67
+  TA: '160'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Crazy Rich
+  Description: Spend over $2,000 in the shop in a run
+  GS: '15'
+  Guide: false
+  Number of Gamers: 56
+  Percentage of Gamers: 24%
+  Ratio: 2.01
+  TA: '30'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Hardcore Gamer
+  Description: Complete 20 non-combat missions
+  GS: '15'
+  Guide: false
+  Number of Gamers: 110
+  Percentage of Gamers: 48%
+  Ratio: 1.43
+  TA: '21'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Blackhawk Up
+  Description: Complete 20 combat missions in a run
+  GS: '15'
+  Guide: false
+  Number of Gamers: 57
+  Percentage of Gamers: 25%
+  Ratio: 2.0
+  TA: '30'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Grizzled Veteran
+  Description: Complete 150 combat missions
+  GS: '15'
+  Guide: false
+  Number of Gamers: 34
+  Percentage of Gamers: 15%
+  Ratio: 2.58
+  TA: '38'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: We have the Power
+  Description: Complete default scenario with 2nd ship
+  GS: '15'
+  Guide: false
+  Number of Gamers: 31
+  Percentage of Gamers: 14%
+  Ratio: 2.71
+  TA: '40'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: All Aboard!
+  Description: Complete Scenario 5 - All Aboard
+  GS: '15'
+  Guide: false
+  Number of Gamers: 12
+  Percentage of Gamers: 5%
+  Ratio: 4.35
+  TA: '65'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: That's what I thought
+  Description: Complete Scenario 6 - Come At Me Bro
+  GS: '15'
+  Guide: false
+  Number of Gamers: 8
+  Percentage of Gamers: 3%
+  Ratio: 5.33
+  TA: '80'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Breach Cleared
+  Description: Complete Scenario 7 - Into The Breach
+  GS: '15'
+  Guide: false
+  Number of Gamers: 6
+  Percentage of Gamers: 3%
+  Ratio: 6.16
+  TA: '92'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: 105%
+  Description: Complete Scenario 8 - Overcharge!
+  GS: '15'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 2%
+  Ratio: 7.54
+  TA: '113'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Phew!
+  Description: Phew! Survive a battle with under 20% hull health
+  GS: '15'
+  Guide: false
+  Number of Gamers: 99
+  Percentage of Gamers: 43%
+  Ratio: 1.51
+  TA: '22'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Beam us up Scott and Lee
+  Description: Beam me up! Teleport to another ship
+  GS: '15'
+  Guide: false
+  Number of Gamers: 58
+  Percentage of Gamers: 25%
+  Ratio: 1.98
+  TA: '29'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Not Bad
+  Description: Reach the 1st shop with full health
+  GS: '15'
+  Guide: false
+  Number of Gamers: 168
+  Percentage of Gamers: 73%
+  Ratio: 1.16
+  TA: '17'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Starting to get Impressed
+  Description: Reach the 2nd shop with full health
+  GS: '15'
+  Guide: false
+  Number of Gamers: 66
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '27'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Okay you earned it
+  Description: Reach the 3rd shop with full health
+  GS: '15'
+  Guide: false
+  Number of Gamers: 34
+  Percentage of Gamers: 15%
+  Ratio: 2.58
+  TA: '38'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Likes pressing buttons
+  Description: Reroll the shop 3 times
+  GS: '15'
+  Guide: true
+  Number of Gamers: 102
+  Percentage of Gamers: 45%
+  Ratio: 1.49
+  TA: '22'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Build Master
+  Description: Reroll the shop 5 times
+  GS: '15'
+  Guide: true
+  Number of Gamers: 34
+  Percentage of Gamers: 15%
+  Ratio: 2.58
+  TA: '38'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+Base Ratio: 3.264
+Base TA: 3264
+Delisted: false
+Developer: Outlier
+Game Name: This Means Warp
+Genres: Roguelite, Party
+Install Size: 1320.0
+Number of Completions: 1
+Number of Gamers: 229
+Overall Completion Time:
+- 50
+- 51
+Overall GS: 1000
+Overall Ratio: 3.264
+Overall TA: 3264
+PDU: 0
+Percentage Completed: 0.44
+Publisher: Jagex
+Release Date: 30 November 2023
+Server Closure: false
+Site Rating: 4.5
+Update Achievements: []
+Walkthrough: false

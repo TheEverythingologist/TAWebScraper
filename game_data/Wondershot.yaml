@@ -1,0 +1,728 @@
+Add On Achievements: []
+Base Completion Time:
+- 36
+- 37
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Gladiator
+  Description: Won 50 tournaments
+  GS: '5'
+  Guide: false
+  Number of Gamers: 20
+  Percentage of Gamers: 14%
+  Ratio: 2.69
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Insane in the brain!
+  Description: "Defeat a Bullee in \xAB Ruthless-Portal Kill-Sneaky \xBB"
+  GS: '20'
+  Guide: true
+  Number of Gamers: 6
+  Percentage of Gamers: 4%
+  Ratio: 4.91
+  TA: '98'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Faster than light
+  Description: "Get 3 \xAB Fast Killer \xBB mentions during the same Endless battle"
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4
+  Percentage of Gamers: 3%
+  Ratio: 6.02
+  TA: '60'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Dodge this!
+  Description: "Get 10 \xAB Sniper \xBB mentions during the same Endless battle"
+  GS: '10'
+  Guide: false
+  Number of Gamers: 11
+  Percentage of Gamers: 8%
+  Ratio: 3.63
+  TA: '36'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Sssneaky Charlie
+  Description: "Get 20 \xAB Sneaky \xBB mentions during the same Endless battle"
+  GS: '10'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 3%
+  Ratio: 6.02
+  TA: '60'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: You talking to me?
+  Description: "Get 20 \xAB Badass \xBB mentions during the same Endless battle"
+  GS: '10'
+  Guide: true
+  Number of Gamers: 8
+  Percentage of Gamers: 6%
+  Ratio: 4.25
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: The cake is a lie
+  Description: "Do 10 \xAB Portal Kill \xBB during the same Endless battle"
+  GS: '10'
+  Guide: false
+  Number of Gamers: 16
+  Percentage of Gamers: 11%
+  Ratio: 3.01
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: War Machine
+  Description: Reach a X50 combo rate in an Endless battle
+  GS: '20'
+  Guide: true
+  Number of Gamers: 6
+  Percentage of Gamers: 4%
+  Ratio: 4.91
+  TA: '98'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: I ain't got time to bleed!
+  Description: Survive 10 Endless waves without dying
+  GS: '20'
+  Guide: false
+  Number of Gamers: 8
+  Percentage of Gamers: 6%
+  Ratio: 4.25
+  TA: '85'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Warlord
+  Description: Win 500 tournaments
+  GS: '15'
+  Guide: true
+  Number of Gamers: 4
+  Percentage of Gamers: 3%
+  Ratio: 6.02
+  TA: '90'
+  Tags:
+  - Offline Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Say hello to my little friend!
+  Description: Defeat 1000 monsters with a Bow
+  GS: '10'
+  Guide: false
+  Number of Gamers: 21
+  Percentage of Gamers: 14%
+  Ratio: 2.62
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Predator
+  Description: Defeat 1000 monsters with a Boomerang
+  GS: '10'
+  Guide: false
+  Number of Gamers: 9
+  Percentage of Gamers: 6%
+  Ratio: 4.01
+  TA: '40'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Bounce, bounce, bounce
+  Description: Defeat 1000 monsters with a Slingshot
+  GS: '10'
+  Guide: false
+  Number of Gamers: 8
+  Percentage of Gamers: 6%
+  Ratio: 4.25
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: "Behold, Mj\xF6lnir!"
+  Description: Defeat 1000 monsters with a Hammer
+  GS: '10'
+  Guide: false
+  Number of Gamers: 15
+  Percentage of Gamers: 10%
+  Ratio: 3.1
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Kneel before me!
+  Description: Get a GOLD medal in Endless Nature
+  GS: '30'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 3%
+  Ratio: 6.02
+  TA: '180'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Stackable
+  - Buggy
+- Achievement Name: You want a piece of me?
+  Description: Get a GOLD medal in Endless Kingdom
+  GS: '30'
+  Guide: true
+  Number of Gamers: 7
+  Percentage of Gamers: 5%
+  Ratio: 4.55
+  TA: '136'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Stackable
+  - Buggy
+- Achievement Name: Wake up, time to die!
+  Description: Get a GOLD medal in Endless World of Monstees
+  GS: '30'
+  Guide: false
+  Number of Gamers: 3
+  Percentage of Gamers: 2%
+  Ratio: 6.95
+  TA: '208'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Stackable
+- Achievement Name: Yippee-ki-yay, monsters!
+  Description: Get a DEV medal in Endless Nature
+  GS: '10'
+  Guide: false
+  Number of Gamers: 3
+  Percentage of Gamers: 2%
+  Ratio: 6.95
+  TA: '69'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Stackable
+- Achievement Name: Come get some!
+  Description: Get a DEV medal in Endless Kingdom
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5
+  Percentage of Gamers: 3%
+  Ratio: 5.38
+  TA: '53'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Stackable
+- Achievement Name: Strong as hell!
+  Description: Get a DEV medal in Endless World of Monstees
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3
+  Percentage of Gamers: 2%
+  Ratio: 6.95
+  TA: '69'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Stackable
+- Achievement Name: Locked and loaded
+  Description: Complete all challenges of Chapter 1
+  GS: '5'
+  Guide: false
+  Number of Gamers: 84
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '6'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Stackable
+- Achievement Name: Push them back!
+  Description: Complete all challenges of Chapter 2
+  GS: '5'
+  Guide: false
+  Number of Gamers: 31
+  Percentage of Gamers: 21%
+  Ratio: 2.16
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Stackable
+- Achievement Name: It's time to leave the kingdom
+  Description: Complete all challenges of Chapter 3
+  GS: '5'
+  Guide: false
+  Number of Gamers: 23
+  Percentage of Gamers: 16%
+  Ratio: 2.51
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Stackable
+- Achievement Name: Ain't nobody gonna stop me
+  Description: Complete all challenges of Chapter 4
+  GS: '10'
+  Guide: false
+  Number of Gamers: 20
+  Percentage of Gamers: 14%
+  Ratio: 2.69
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Stackable
+- Achievement Name: Deep in the woods
+  Description: Complete all challenges of Chapter 5
+  GS: '10'
+  Guide: false
+  Number of Gamers: 10
+  Percentage of Gamers: 7%
+  Ratio: 3.8
+  TA: '38'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Stackable
+- Achievement Name: We found their lair!
+  Description: Complete all challenges of Chapter 6
+  GS: '15'
+  Guide: false
+  Number of Gamers: 7
+  Percentage of Gamers: 5%
+  Ratio: 4.55
+  TA: '68'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Stackable
+- Achievement Name: Let's break hell
+  Description: Complete all challenges of Chapter 7
+  GS: '15'
+  Guide: false
+  Number of Gamers: 6
+  Percentage of Gamers: 4%
+  Ratio: 4.91
+  TA: '73'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Stackable
+- Achievement Name: Deeper in the heart of darkness
+  Description: Complete all challenges of Chapter 8
+  GS: '15'
+  Guide: false
+  Number of Gamers: 7
+  Percentage of Gamers: 5%
+  Ratio: 4.55
+  TA: '68'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Stackable
+- Achievement Name: You saved the kingdom!
+  Description: Complete all challenges of Chapter 9
+  GS: '15'
+  Guide: false
+  Number of Gamers: 7
+  Percentage of Gamers: 5%
+  Ratio: 4.55
+  TA: '68'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Stackable
+- Achievement Name: Hail to the king, baby
+  Description: Complete all challenges
+  GS: '20'
+  Guide: false
+  Number of Gamers: 6
+  Percentage of Gamers: 4%
+  Ratio: 4.91
+  TA: '98'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Well, you're more than ready
+  Description: Get a Perfect Shot medal for Chapter 1
+  GS: '20'
+  Guide: false
+  Number of Gamers: 11
+  Percentage of Gamers: 8%
+  Ratio: 3.63
+  TA: '72'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
+- Achievement Name: Really, no miss?
+  Description: Get a Perfect Shot medal for Chapter 2
+  GS: '20'
+  Guide: false
+  Number of Gamers: 5
+  Percentage of Gamers: 3%
+  Ratio: 5.38
+  TA: '107'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
+- Achievement Name: Can't stop you from making your mark, huh?
+  Description: Get a Perfect Shot medal for Chapter 3
+  GS: '20'
+  Guide: false
+  Number of Gamers: 5
+  Percentage of Gamers: 3%
+  Ratio: 5.38
+  TA: '107'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
+- Achievement Name: Steals the show. Brilliant
+  Description: Get a Perfect Shot medal for Chapter 4
+  GS: '20'
+  Guide: false
+  Number of Gamers: 5
+  Percentage of Gamers: 3%
+  Ratio: 5.38
+  TA: '107'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
+- Achievement Name: You mean... Robin Hood?
+  Description: Get a Perfect Shot medal for Chapter 5
+  GS: '20'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 3%
+  Ratio: 6.02
+  TA: '120'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
+- Achievement Name: Where did he learn to negotiate like that?
+  Description: Get a Perfect Shot medal for Chapter 6
+  GS: '20'
+  Guide: false
+  Number of Gamers: 3
+  Percentage of Gamers: 2%
+  Ratio: 6.95
+  TA: '139'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
+- Achievement Name: You rocked the hell!
+  Description: Get a Perfect Shot medal for Chapter 7
+  GS: '25'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 3%
+  Ratio: 6.02
+  TA: '150'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
+- Achievement Name: You make them flee
+  Description: Get a Perfect Shot medal for Chapter 8
+  GS: '25'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 3%
+  Ratio: 6.02
+  TA: '150'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
+- Achievement Name: Ok, you deserve the title of Wondershooter
+  Description: Get a Perfect Shot medal for Chapter 9
+  GS: '25'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 3%
+  Ratio: 6.02
+  TA: '150'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
+- Achievement Name: Quicker than us? Really?
+  Description: Get a DEV medal for Chapter 1
+  GS: '30'
+  Guide: false
+  Number of Gamers: 7
+  Percentage of Gamers: 5%
+  Ratio: 4.55
+  TA: '136'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Stackable
+  - Time/Date
+- Achievement Name: Quicker than your shadow
+  Description: Get a DEV medal for Chapter 2
+  GS: '30'
+  Guide: false
+  Number of Gamers: 5
+  Percentage of Gamers: 3%
+  Ratio: 5.38
+  TA: '161'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Stackable
+  - Time/Date
+- Achievement Name: Run, Forest, run!
+  Description: Get a DEV medal for Chapter 3
+  GS: '30'
+  Guide: false
+  Number of Gamers: 5
+  Percentage of Gamers: 3%
+  Ratio: 5.38
+  TA: '161'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Stackable
+  - Time/Date
+- Achievement Name: Wanna defy us in Battle mode?
+  Description: Get a DEV medal for Chapter 4
+  GS: '35'
+  Guide: false
+  Number of Gamers: 5
+  Percentage of Gamers: 3%
+  Ratio: 5.38
+  TA: '188'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Stackable
+  - Time/Date
+- Achievement Name: You can take your time you know
+  Description: Get a DEV medal for Chapter 5
+  GS: '35'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 3%
+  Ratio: 6.02
+  TA: '210'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Stackable
+  - Time/Date
+- Achievement Name: They didn't see it coming
+  Description: Get a DEV medal for Chapter 6
+  GS: '35'
+  Guide: false
+  Number of Gamers: 3
+  Percentage of Gamers: 2%
+  Ratio: 6.95
+  TA: '243'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Stackable
+  - Time/Date
+- Achievement Name: You blew the hell
+  Description: Get a DEV medal for Chapter 7
+  GS: '40'
+  Guide: false
+  Number of Gamers: 3
+  Percentage of Gamers: 2%
+  Ratio: 6.95
+  TA: '278'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Stackable
+  - Time/Date
+- Achievement Name: Maybe you're a dev yourself?
+  Description: Get a DEV medal for Chapter 8
+  GS: '40'
+  Guide: false
+  Number of Gamers: 3
+  Percentage of Gamers: 2%
+  Ratio: 6.95
+  TA: '278'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Stackable
+  - Time/Date
+- Achievement Name: Quicker than time itself
+  Description: Get a DEV medal for Chapter 9
+  GS: '40'
+  Guide: false
+  Number of Gamers: 3
+  Percentage of Gamers: 2%
+  Ratio: 6.95
+  TA: '278'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Stackable
+  - Time/Date
+- Achievement Name: I count two guns dude!
+  Description: Juggle with two boomerangs
+  GS: '5'
+  Guide: false
+  Number of Gamers: 54
+  Percentage of Gamers: 37%
+  Ratio: 1.63
+  TA: '8'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: You moved like they do
+  Description: Complete a survival challenge without defeating any monster
+  GS: '10'
+  Guide: false
+  Number of Gamers: 13
+  Percentage of Gamers: 9%
+  Ratio: 3.33
+  TA: '33'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Full stuff!
+  Description: Own all bonuses at the same time in Endless
+  GS: '10'
+  Guide: false
+  Number of Gamers: 41
+  Percentage of Gamers: 28%
+  Ratio: 1.88
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: You're the one
+  Description: Reach Wave 20 alone in Endless mode
+  GS: '40'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 3%
+  Ratio: 6.02
+  TA: '240'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: So 2014
+  Description: Battle without the roll activated
+  GS: '5'
+  Guide: true
+  Number of Gamers: 29
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Versus
+- Achievement Name: Kawaiii
+  Description: Applause 20 times during a replay
+  GS: '5'
+  Guide: true
+  Number of Gamers: 76
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '6'
+  Tags:
+  - Offline Mode
+  - Versus
+- Achievement Name: Undecided
+  Description: Fire with the 4 weapons during the same round
+  GS: '5'
+  Guide: false
+  Number of Gamers: 25
+  Percentage of Gamers: 17%
+  Ratio: 2.4
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: The pacifist
+  Description: Win a Battle round without firing
+  GS: '5'
+  Guide: true
+  Number of Gamers: 38
+  Percentage of Gamers: 26%
+  Ratio: 1.95
+  TA: '9'
+  Tags:
+  - Offline Mode
+  - Versus
+Base Ratio: 5.305
+Base TA: 5305
+Delisted: false
+Developer: Leikir Studio
+Game Name: Wondershot
+Genres: Action
+Install Size: 903.0
+Number of Completions: 1
+Number of Gamers: 145
+Overall Completion Time:
+- 36
+- 37
+Overall GS: 1000
+Overall Ratio: 5.305
+Overall TA: 5305
+PDU: 0
+Percentage Completed: 0.69
+Publisher: Leikir Studio
+Release Date: 19 February 2016
+Server Closure: false
+Site Rating: 3.09
+Update Achievements: []
+Walkthrough: false

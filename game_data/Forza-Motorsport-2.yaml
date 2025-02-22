@@ -1,0 +1,584 @@
+Add On Achievements: []
+Base Completion Time:
+- 150.0
+- 200.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: All Time Trials Set
+  Description: Beat the target time in every Time Trial race.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 30789
+  Percentage of Gamers: 18%
+  Ratio: 2.36
+  TA: '94'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: All Bronze Arcade
+  Description: Achieve a bronze medal in every Arcade Race.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 41038
+  Percentage of Gamers: 24%
+  Ratio: 2.05
+  TA: '30'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
+- Achievement Name: All Silver Arcade
+  Description: Achieve a silver medal in every Arcade Race.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 40671
+  Percentage of Gamers: 24%
+  Ratio: 2.06
+  TA: '51'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
+- Achievement Name: All Gold Arcade
+  Description: Achieve a gold medal in every Arcade Race.
+  GS: '35'
+  Guide: true
+  Number of Gamers: 40152
+  Percentage of Gamers: 23%
+  Ratio: 2.07
+  TA: '72'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
+- Achievement Name: Flawless Lap
+  Description: Awarded to the driver(s) who finish a lap with no time penalty against
+    an opponent.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 166582
+  Percentage of Gamers: 96%
+  Ratio: 1.01
+  TA: '5'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Flawless Race
+  Description: Awarded to the driver(s) who finish the race with no time penalty against
+    an opponent.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 141748
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '5'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Natural
+  Description: Awarded to the single driver who wins the race with all Assists turned
+    off.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 56953
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '8'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Stackable
+- Achievement Name: Hardcore
+  Description: Awarded to the single driver who wins the race with full Difficulty,
+    including no Assists.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 46648
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '9'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Underdog
+  Description: Awarded to the driver who wins the race with a car in the lowest PI
+    of the field.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 91073
+  Percentage of Gamers: 53%
+  Ratio: 1.37
+  TA: '6'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Blowout
+  Description: Awarded to the driver who wins the race, beating the rest of the field
+    by a full race section.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 108450
+  Percentage of Gamers: 63%
+  Ratio: 1.26
+  TA: '6'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Crushing Victory
+  Description: Awarded to any driver who finishes the race with a lapped opponent.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 97299
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '6'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Hard Charger
+  Description: Awarded to the driver who starts in 8th place and comes in 1st place.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 72680
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '7'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Level 1
+  Description: Reach Level 1 in Career mode.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 159614
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '5'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Main Storyline
+  - Level
+- Achievement Name: All Gold (Proving Grounds)
+  Description: Achieve a gold medal in every Career event of the Proving Grounds Race
+    Type.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 73566
+  Percentage of Gamers: 43%
+  Ratio: 1.53
+  TA: '22'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Level 10
+  Description: Reach Level 10 in Career mode.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 119346
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '18'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Main Storyline
+  - Level
+- Achievement Name: All Gold (Manufacturer Club)
+  Description: Achieve a gold medal in every Career event of the Manufacturer Race
+    Type.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 39081
+  Percentage of Gamers: 23%
+  Ratio: 2.1
+  TA: '42'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Level 20
+  Description: Reach Level 20 in Career mode.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 83141
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '28'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Main Storyline
+  - Level
+- Achievement Name: All Gold (Amateur Cup)
+  Description: Achieve a gold medal in every Career event of the Amateur Race Type.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 40826
+  Percentage of Gamers: 24%
+  Ratio: 2.05
+  TA: '51'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: All Gold (Rivalry Face-offs)
+  Description: Achieve a gold medal in every Career event of the Rivalry Race Type.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 33931
+  Percentage of Gamers: 20%
+  Ratio: 2.25
+  TA: '67'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Level 30
+  Description: Reach Level 30 in Career mode.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 54707
+  Percentage of Gamers: 32%
+  Ratio: 1.77
+  TA: '53'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Main Storyline
+  - Level
+- Achievement Name: All Gold (Semi-Pro Events)
+  Description: Achieve a gold medal in every Career event of the Semi-Pro Race Type.
+  GS: '35'
+  Guide: true
+  Number of Gamers: 34484
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '78'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: All Gold (Factory-Spec)
+  Description: Achieve a gold medal in every Career event of the Pro Spec Race Type.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 27328
+  Percentage of Gamers: 16%
+  Ratio: 2.51
+  TA: '100'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Level 40
+  Description: Reach Level 40 in Career mode.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 37231
+  Percentage of Gamers: 22%
+  Ratio: 2.15
+  TA: '86'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Level
+- Achievement Name: All Gold (Regional Championship)
+  Description: Achieve a gold medal in every Career event of the Regional Championship.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 27993
+  Percentage of Gamers: 16%
+  Ratio: 2.48
+  TA: '124'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: All Gold (Professional Series)
+  Description: Achieve a gold medal in every Career event of the Pro Series Race Type.
+  GS: '60'
+  Guide: true
+  Number of Gamers: 25662
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '155'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: All Gold (Endurance)
+  Description: Achieve a gold medal in every Career event of the Endurance Race Type.
+  GS: '70'
+  Guide: true
+  Number of Gamers: 26076
+  Percentage of Gamers: 15%
+  Ratio: 2.57
+  TA: '180'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time Consuming
+- Achievement Name: Level 50
+  Description: Reach Level 50 in Career mode.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 27556
+  Percentage of Gamers: 16%
+  Ratio: 2.5
+  TA: '125'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Level
+  - Time Consuming
+- Achievement Name: All Gold All Race Types
+  Description: Achieve a gold medal in every Career Race Type.
+  GS: '75'
+  Guide: true
+  Number of Gamers: 25075
+  Percentage of Gamers: 15%
+  Ratio: 2.62
+  TA: '196'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time Consuming
+- Achievement Name: Car Level 5
+  Description: Achieve a car level of 5 in Career mode.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 77465
+  Percentage of Gamers: 45%
+  Ratio: 1.49
+  TA: '7'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Level
+- Achievement Name: All Cars from France
+  Description: Collect all of the cars from France in your Career garage.
+  GS: '1'
+  Guide: true
+  Number of Gamers: 27559
+  Percentage of Gamers: 16%
+  Ratio: 2.5
+  TA: '2'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Shop
+- Achievement Name: All Cars from Germany
+  Description: Collect all of the cars from Germany in your Career garage.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 19344
+  Percentage of Gamers: 11%
+  Ratio: 2.98
+  TA: '44'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Shop
+- Achievement Name: All Cars from Italy
+  Description: Collect all of the cars from Italy in your Career garage.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 21448
+  Percentage of Gamers: 12%
+  Ratio: 2.83
+  TA: '28'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Shop
+- Achievement Name: All Cars from Japan
+  Description: Collect all of the cars from Japan in your Career garage.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 18792
+  Percentage of Gamers: 11%
+  Ratio: 3.03
+  TA: '90'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Shop
+- Achievement Name: All Cars from Korea
+  Description: Collect all of the cars from Korea in your Career garage.
+  GS: '1'
+  Guide: true
+  Number of Gamers: 43099
+  Percentage of Gamers: 25%
+  Ratio: 2.0
+  TA: '2'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Shop
+- Achievement Name: All Cars from Spain
+  Description: Collect all of the cars from Spain in your Career garage.
+  GS: '1'
+  Guide: true
+  Number of Gamers: 29946
+  Percentage of Gamers: 17%
+  Ratio: 2.4
+  TA: '2'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Shop
+- Achievement Name: All Cars from Sweden
+  Description: Collect all of the cars from Sweden in your Career garage.
+  GS: '2'
+  Guide: true
+  Number of Gamers: 30563
+  Percentage of Gamers: 18%
+  Ratio: 2.37
+  TA: '4'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Shop
+- Achievement Name: All Cars from the United Kingdom
+  Description: Collect all of the cars from the United Kingdom in your Career garage.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 23897
+  Percentage of Gamers: 14%
+  Ratio: 2.68
+  TA: '13'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Shop
+- Achievement Name: All Cars from the United States
+  Description: Collect all of the cars from the United States in your Career garage.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 18311
+  Percentage of Gamers: 11%
+  Ratio: 3.07
+  TA: '76'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Shop
+- Achievement Name: 1,000,000 Online Credits
+  Description: Earn 1,000,000 "Online Credits" from Tournaments and Career races.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 6473
+  Percentage of Gamers: 4%
+  Ratio: 5.16
+  TA: '155'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+  - Time Consuming
+- Achievement Name: Car Broker
+  Description: Buy or sell 10 cars online in the Auction House.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 35699
+  Percentage of Gamers: 21%
+  Ratio: 2.2
+  TA: '44'
+  Tags:
+  - Discontinued
+- Achievement Name: Secret Collector 1
+  Description: All production cars
+  GS: '30'
+  Guide: true
+  Number of Gamers: 14787
+  Percentage of Gamers: 9%
+  Ratio: 3.41
+  TA: '102'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Shop
+- Achievement Name: Secret Collector 2
+  Description: All aftermarket tuner cars
+  GS: '30'
+  Guide: true
+  Number of Gamers: 20383
+  Percentage of Gamers: 12%
+  Ratio: 2.91
+  TA: '87'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Shop
+- Achievement Name: Secret Collector 3
+  Description: All race cars
+  GS: '30'
+  Guide: true
+  Number of Gamers: 14533
+  Percentage of Gamers: 8%
+  Ratio: 3.44
+  TA: '103'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Shop
+- Achievement Name: Secret Collector 4
+  Description: All cars
+  GS: '30'
+  Guide: true
+  Number of Gamers: 14142
+  Percentage of Gamers: 8%
+  Ratio: 3.49
+  TA: '104'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Shop
+Base Ratio: 2.492
+Base TA: 2492
+Delisted: false
+Developer: Turn 10 Studios
+Game Name: Forza Motorsport 2
+Genres: Simulation Racing, Automobile
+Install Size: 4800.0
+Number of Completions: 4671
+Number of Gamers: 172877
+Overall Completion Time:
+- 150.0
+- 200.0
+Overall GS: 1000
+Overall Ratio: 2.492
+Overall TA: 2492
+PDU: 0
+Percentage Completed: 2.7
+Publisher: Xbox Game Studios
+Release Date: 29 May 2007
+Server Closure: false
+Site Rating: 3.74
+Update Achievements: []
+Walkthrough: false

@@ -1,0 +1,641 @@
+Add On Achievements: []
+Base Completion Time:
+- 20.0
+- 25.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: What's This For?
+  Description: Collect a Token
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3762
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Collectable
+- Achievement Name: Proved Your Worth
+  Description: Earn three medals on any Event
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2233
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '13'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Extremely Easy
+  Description: Earn at least one medal on all Red Team Events
+  GS: '10'
+  Guide: false
+  Number of Gamers: 212
+  Percentage of Gamers: 5%
+  Ratio: 4.33
+  TA: '43'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Powered Up
+  Description: Earn at least one medal on all Yellow Team Events
+  GS: '10'
+  Guide: false
+  Number of Gamers: 281
+  Percentage of Gamers: 7%
+  Ratio: 3.75
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Nice and Precise
+  Description: Earn at least one medal on all Blue Team Events
+  GS: '10'
+  Guide: true
+  Number of Gamers: 207
+  Percentage of Gamers: 5%
+  Ratio: 4.38
+  TA: '43'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Just Fast Enough
+  Description: Earn at least one medal on all Green Team Events
+  GS: '10'
+  Guide: false
+  Number of Gamers: 338
+  Percentage of Gamers: 9%
+  Ratio: 3.42
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Bronze is the New Gold
+  Description: Earn at least one medal on every challenge in the game
+  GS: '10'
+  Guide: false
+  Number of Gamers: 164
+  Percentage of Gamers: 4%
+  Ratio: 4.91
+  TA: '49'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Status Symbol
+  Description: Complete all events for each team in the game
+  GS: '10'
+  Guide: false
+  Number of Gamers: 158
+  Percentage of Gamers: 4%
+  Ratio: 5.0
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Extreme King
+  Description: Earn three medals on every event for the Red Team
+  GS: '10'
+  Guide: false
+  Number of Gamers: 105
+  Percentage of Gamers: 3%
+  Ratio: 6.17
+  TA: '61'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Power Player
+  Description: Earn three medals on every event for the Yellow Team
+  GS: '10'
+  Guide: false
+  Number of Gamers: 127
+  Percentage of Gamers: 3%
+  Ratio: 5.58
+  TA: '55'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Like a Surgeon
+  Description: Earn three medals on every event for the Blue Team
+  GS: '10'
+  Guide: false
+  Number of Gamers: 110
+  Percentage of Gamers: 3%
+  Ratio: 6.02
+  TA: '60'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Ultimate Speedster
+  Description: Earn three medals on every event for the Green Team
+  GS: '10'
+  Guide: false
+  Number of Gamers: 148
+  Percentage of Gamers: 4%
+  Ratio: 5.19
+  TA: '51'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Meow
+  Description: Perform a Cat Landing
+  GS: '10'
+  Guide: true
+  Number of Gamers: 886
+  Percentage of Gamers: 22%
+  Ratio: 2.11
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Full on Green
+  Description: Unlock all the Liveries for the Green Team Vehicles
+  GS: '10'
+  Guide: true
+  Number of Gamers: 195
+  Percentage of Gamers: 5%
+  Ratio: 4.51
+  TA: '45'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Cumulative +
+  - Shop
+- Achievement Name: Full on Red
+  Description: Unlock all the Liveries for the Red Team Vehicles
+  GS: '10'
+  Guide: true
+  Number of Gamers: 157
+  Percentage of Gamers: 4%
+  Ratio: 5.03
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Cumulative +
+  - Shop
+- Achievement Name: Full on Yellow
+  Description: Unlock all the Liveries for the Yellow Team Vehicles
+  GS: '10'
+  Guide: true
+  Number of Gamers: 155
+  Percentage of Gamers: 4%
+  Ratio: 5.05
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Cumulative +
+  - Shop
+- Achievement Name: Full on Blue
+  Description: Unlock all the Liveries for the Blue Team Vehicles
+  GS: '10'
+  Guide: true
+  Number of Gamers: 170
+  Percentage of Gamers: 4%
+  Ratio: 4.84
+  TA: '48'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Cumulative +
+  - Shop
+- Achievement Name: Deck of Cars
+  Description: Unlock every vehicle livery
+  GS: '10'
+  Guide: true
+  Number of Gamers: 144
+  Percentage of Gamers: 4%
+  Ratio: 5.24
+  TA: '52'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Cumulative +
+  - Shop
+- Achievement Name: Spin Cycle
+  Description: Perform a Blue special ability move in game
+  GS: '10'
+  Guide: true
+  Number of Gamers: 361
+  Percentage of Gamers: 9%
+  Ratio: 3.31
+  TA: '33'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Shop
+- Achievement Name: Cowabunga!
+  Description: Perform a Red special ability in game
+  GS: '10'
+  Guide: true
+  Number of Gamers: 347
+  Percentage of Gamers: 9%
+  Ratio: 3.38
+  TA: '33'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Shop
+- Achievement Name: Too Fast?
+  Description: Perform a Green special ability in game
+  GS: '10'
+  Guide: true
+  Number of Gamers: 484
+  Percentage of Gamers: 12%
+  Ratio: 2.86
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Shop
+- Achievement Name: Won't Budge
+  Description: Perform a Yellow special ability in game
+  GS: '10'
+  Guide: true
+  Number of Gamers: 361
+  Percentage of Gamers: 9%
+  Ratio: 3.31
+  TA: '33'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Shop
+- Achievement Name: Annihilation
+  Description: Cause 100,000 points of damage
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1390
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative
+- Achievement Name: Call the Fire Department
+  Description: Stay On Fire for more than 1 minute
+  GS: '10'
+  Guide: true
+  Number of Gamers: 759
+  Percentage of Gamers: 19%
+  Ratio: 2.28
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative
+- Achievement Name: Link by Link
+  Description: Earn a 10x chain multiplier
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3405
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Stackable
+  - Cumulative
+- Achievement Name: Making it Chain
+  Description: Earn a 20x chain multiplier
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2942
+  Percentage of Gamers: 74%
+  Ratio: 1.16
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Stackable
+  - Cumulative
+- Achievement Name: Tag you're it
+  Description: Tag a holo-ghost in a Holo Chase event.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1151
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Free Fall
+  Description: Fall through the floor of a Wall Of Death event
+  GS: '10'
+  Guide: true
+  Number of Gamers: 870
+  Percentage of Gamers: 22%
+  Ratio: 2.13
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Ripped
+  Description: Complete an Extreme Duel
+  GS: '10'
+  Guide: true
+  Number of Gamers: 544
+  Percentage of Gamers: 14%
+  Ratio: 2.7
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: All Ripped Up
+  Description: Complete all four Extreme Duels
+  GS: '10'
+  Guide: true
+  Number of Gamers: 206
+  Percentage of Gamers: 5%
+  Ratio: 4.39
+  TA: '43'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Perfect 45
+  Description: Perform a 30 second Wheelie
+  GS: '10'
+  Guide: true
+  Number of Gamers: 122
+  Percentage of Gamers: 3%
+  Ratio: 5.72
+  TA: '57'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative
+- Achievement Name: So Many Tokens, So Little Time
+  Description: Collect all the Tokens in an event
+  GS: '10'
+  Guide: true
+  Number of Gamers: 459
+  Percentage of Gamers: 12%
+  Ratio: 2.94
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Glass Half Full
+  Description: Collect half of the possible Tokens in the game
+  GS: '10'
+  Guide: true
+  Number of Gamers: 236
+  Percentage of Gamers: 6%
+  Ratio: 4.1
+  TA: '41'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Cumulative +
+- Achievement Name: Token Hunter
+  Description: Collect 75% of all the possible Tokens in the game
+  GS: '10'
+  Guide: true
+  Number of Gamers: 135
+  Percentage of Gamers: 3%
+  Ratio: 5.43
+  TA: '54'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Cumulative +
+- Achievement Name: I'm Special
+  Description: Use Special Ability 100 times
+  GS: '10'
+  Guide: true
+  Number of Gamers: 150
+  Percentage of Gamers: 4%
+  Ratio: 5.15
+  TA: '51'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Roll With The Punches
+  Description: Complete the event even after having toppled into a roll
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2164
+  Percentage of Gamers: 54%
+  Ratio: 1.35
+  TA: '13'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Oh Chute!
+  Description: Play Parachute Precision event without opening your chute
+  GS: '10'
+  Guide: true
+  Number of Gamers: 366
+  Percentage of Gamers: 9%
+  Ratio: 3.29
+  TA: '32'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Speed Demon
+  Description: Use more then 5000 speed boosts
+  GS: '10'
+  Guide: true
+  Number of Gamers: 101
+  Percentage of Gamers: 3%
+  Ratio: 6.26
+  TA: '62'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Ace
+  Description: Finish an event with the Jet Threat and keep your wings
+  GS: '10'
+  Guide: true
+  Number of Gamers: 748
+  Percentage of Gamers: 19%
+  Ratio: 2.3
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Ballin'
+  Description: Get crushed by a Snowball
+  GS: '10'
+  Guide: true
+  Number of Gamers: 353
+  Percentage of Gamers: 9%
+  Ratio: 3.35
+  TA: '33'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Chain Maker
+  Description: Earn a 50x chain multiplier
+  GS: '40'
+  Guide: true
+  Number of Gamers: 887
+  Percentage of Gamers: 22%
+  Ratio: 2.11
+  TA: '84'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Stackable
+  - Cumulative
+- Achievement Name: The Complete Package
+  Description: Earn three medals on every event in the game
+  GS: '40'
+  Guide: false
+  Number of Gamers: 99
+  Percentage of Gamers: 2%
+  Ratio: 6.32
+  TA: '252'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Secret's Out
+  Description: Collect all Secret Tokens
+  GS: '40'
+  Guide: true
+  Number of Gamers: 104
+  Percentage of Gamers: 3%
+  Ratio: 6.17
+  TA: '246'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Cumulative +
+- Achievement Name: King's Ransom
+  Description: Collect all the possible Tokens in the game
+  GS: '40'
+  Guide: true
+  Number of Gamers: 97
+  Percentage of Gamers: 2%
+  Ratio: 6.38
+  TA: '255'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Cumulative +
+- Achievement Name: Chaining Cats and Dogs
+  Description: Earn a 99x chain multiplier
+  GS: '40'
+  Guide: true
+  Number of Gamers: 219
+  Percentage of Gamers: 6%
+  Ratio: 4.26
+  TA: '170'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Stackable
+  - Cumulative
+- Achievement Name: Supersonic
+  Description: Earn three medals on all Green events without using Quick Restart
+  GS: '80'
+  Guide: true
+  Number of Gamers: 117
+  Percentage of Gamers: 3%
+  Ratio: 5.81
+  TA: '465'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Power is Everything
+  Description: Earn three medals on all Yellow events without using Quick Restart
+  GS: '80'
+  Guide: true
+  Number of Gamers: 106
+  Percentage of Gamers: 3%
+  Ratio: 6.11
+  TA: '488'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Systematically Perfect
+  Description: Earn three medals on all Blue events without using Quick Restart
+  GS: '80'
+  Guide: true
+  Number of Gamers: 98
+  Percentage of Gamers: 2%
+  Ratio: 6.38
+  TA: '511'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: They Called me Crazy
+  Description: Earn three medals on all Red events without using Quick Restart
+  GS: '80'
+  Guide: true
+  Number of Gamers: 97
+  Percentage of Gamers: 2%
+  Ratio: 6.38
+  TA: '511'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: The Best of The Best
+  Description: Earn three medals on every event without using Quick Restart
+  GS: '80'
+  Guide: true
+  Number of Gamers: 93
+  Percentage of Gamers: 2%
+  Ratio: 6.52
+  TA: '522'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+Base Ratio: 4.966
+Base TA: 4966
+Delisted: true
+Developer: Firebrand Games
+Game Name: Hot Wheels World's Best Driver
+Genres: Arcade Racing, Automobile
+Install Size: 3350.0
+Number of Completions: 86
+Number of Gamers: 3974
+Overall Completion Time:
+- 20.0
+- 25.0
+Overall GS: 1000
+Overall Ratio: 4.966
+Overall TA: 4966
+PDU: 0
+Percentage Completed: 2.16
+Publisher: Warner Bros. Games
+Release Date: 17 September 2013
+Server Closure: false
+Site Rating: 2.27
+Update Achievements: []
+Walkthrough: false

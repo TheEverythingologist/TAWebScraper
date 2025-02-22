@@ -1,0 +1,575 @@
+Add On Achievements: []
+Base Completion Time:
+- 3020.0
+- 3025.0
+Base GS: 1700
+Base Game Achievements:
+- Achievement Name: Lands Of Learning
+  Description: You successfully traversed the Lands of Learning. Onward to adventure!
+  GS: '10'
+  Guide: true
+  Number of Gamers: 136088
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '10'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Main Storyline
+  - Buggy
+- Achievement Name: Not Just Browsing
+  Description: You claimed your free Class Coin or Wooden Box from the Trove Store.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 66779
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '14'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Shop
+  - Buggy
+- Achievement Name: Daring Dungeoneer
+  Description: You cleared ten dungeons. Nice!
+  GS: '25'
+  Guide: true
+  Number of Gamers: 35294
+  Percentage of Gamers: 24%
+  Ratio: 2.03
+  TA: '50'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: All up in the club
+  Description: You joined a club. You can join up to 5!
+  GS: '25'
+  Guide: true
+  Number of Gamers: 32786
+  Percentage of Gamers: 22%
+  Ratio: 2.1
+  TA: '52'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Community
+  - Shop
+- Achievement Name: Adept Artisan
+  Description: You mastered a Crafting Skill! On to the next one!
+  GS: '100'
+  Guide: true
+  Number of Gamers: 8224
+  Percentage of Gamers: 6%
+  Ratio: 4.21
+  TA: '421'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Level
+  - Shop
+- Achievement Name: Pearls of Power
+  Description: You completely pearled out a piece of equipment
+  GS: '50'
+  Guide: true
+  Number of Gamers: 4063
+  Percentage of Gamers: 3%
+  Ratio: 5.99
+  TA: '299'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Shop
+- Achievement Name: Enchantment? Enchantment!
+  Description: You have applied an Aura to a piece of equipment. Doesn't it look snazzy?
+  GS: '25'
+  Guide: true
+  Number of Gamers: 5724
+  Percentage of Gamers: 4%
+  Ratio: 5.04
+  TA: '126'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Level
+  - Shop
+- Achievement Name: The First Step
+  Description: You have attained Mastery rank 20
+  GS: '25'
+  Guide: true
+  Number of Gamers: 24860
+  Percentage of Gamers: 17%
+  Ratio: 2.42
+  TA: '60'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Level
+- Achievement Name: The Heights of Mastery
+  Description: You have attained Mastery rank 300
+  GS: '100'
+  Guide: false
+  Number of Gamers: 1244
+  Percentage of Gamers: 1%
+  Ratio: 10.83
+  TA: 1,083
+  Tags:
+  - Online Mode
+  - Single Player
+  - Level
+  - Time Consuming
+- Achievement Name: Inkling of Power
+  Description: You have attained Power Rank 100
+  GS: '25'
+  Guide: true
+  Number of Gamers: 107203
+  Percentage of Gamers: 73%
+  Ratio: 1.16
+  TA: '29'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Main Storyline
+  - Level
+  - Buggy
+- Achievement Name: Power Rank and File
+  Description: You have attained Power Rank 550
+  GS: '30'
+  Guide: true
+  Number of Gamers: 26397
+  Percentage of Gamers: 18%
+  Ratio: 2.35
+  TA: '70'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Level
+- Achievement Name: Power Ascendant
+  Description: You have attained Power Rank 2500
+  GS: '75'
+  Guide: true
+  Number of Gamers: 11436
+  Percentage of Gamers: 8%
+  Ratio: 3.57
+  TA: '267'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Level
+  - Time Consuming
+- Achievement Name: Phenomenal Cosmic Power
+  Description: You have attained Power Rank 10000
+  GS: '100'
+  Guide: true
+  Number of Gamers: 4624
+  Percentage of Gamers: 3%
+  Ratio: 5.61
+  TA: '561'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Level
+  - Time Consuming
+- Achievement Name: Glorious Gladiator
+  Description: You have walked the fields of battle, and proven your worth
+  GS: '50'
+  Guide: true
+  Number of Gamers: 255
+  Percentage of Gamers: 0%
+  Ratio: 23.92
+  TA: 1,196
+  Tags:
+  - Online Mode
+  - Versus
+  - Level
+- Achievement Name: Peddling for Profit
+  Description: You listed an item on the marketplace
+  GS: '25'
+  Guide: true
+  Number of Gamers: 16711
+  Percentage of Gamers: 11%
+  Ratio: 2.95
+  TA: '73'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Shop
+- Achievement Name: Quite Classy
+  Description: You attained level 20 with a class
+  GS: '25'
+  Guide: true
+  Number of Gamers: 12126
+  Percentage of Gamers: 8%
+  Ratio: 3.46
+  TA: '86'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Level
+  - Time Consuming
+- Achievement Name: Completely Classy
+  Description: You attained level 30 with a class
+  GS: '50'
+  Guide: true
+  Number of Gamers: 3554
+  Percentage of Gamers: 2%
+  Ratio: 6.4
+  TA: '320'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Level
+  - Time Consuming
+- Achievement Name: Diamond in the Rough
+  Description: You equipped a gem
+  GS: '25'
+  Guide: true
+  Number of Gamers: 33318
+  Percentage of Gamers: 23%
+  Ratio: 2.09
+  TA: '52'
+  Tags:
+  - Online Mode
+  - Single Player
+- Achievement Name: Polished to Perfection
+  Description: You equipped a class gem
+  GS: '50'
+  Guide: true
+  Number of Gamers: 5964
+  Percentage of Gamers: 4%
+  Ratio: 4.94
+  TA: '247'
+  Tags:
+  - Online Mode
+  - Single Player
+- Achievement Name: Here comes a new challenger!
+  Description: You completed ten challenges
+  GS: '25'
+  Guide: true
+  Number of Gamers: 13403
+  Percentage of Gamers: 9%
+  Ratio: 3.29
+  TA: '82'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cumulative +
+  - Level
+  - Time/Date
+- Achievement Name: Raise the Roof
+  Description: You placed 1000 blocks
+  GS: '25'
+  Guide: true
+  Number of Gamers: 30441
+  Percentage of Gamers: 21%
+  Ratio: 2.18
+  TA: '54'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Imperial Estate Builder
+  Description: You placed 5000 blocks
+  GS: '50'
+  Guide: true
+  Number of Gamers: 8695
+  Percentage of Gamers: 6%
+  Ratio: 4.09
+  TA: '204'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Small-Time Landscaper
+  Description: You destroyed 5000 blocks
+  GS: '25'
+  Guide: true
+  Number of Gamers: 28185
+  Percentage of Gamers: 19%
+  Ratio: 2.27
+  TA: '56'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Blockbuster
+  Description: You destroyed 1,000,000 blocks
+  GS: '50'
+  Guide: true
+  Number of Gamers: 740
+  Percentage of Gamers: 1%
+  Ratio: 14.04
+  TA: '702'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cumulative +
+Base Ratio: 9.19235294117647
+Base TA: 15627
+Delisted: false
+Developer: Gamigo
+Game Name: Trove
+Genres: Role Playing, Battle Royale, MMO, Dungeon Crawler
+Install Size: 1220.0
+Number of Completions: 127
+Number of Gamers: 145928
+Overall Completion Time:
+- 1000.0
+- 1000.0
+Overall GS: 1700
+Overall Ratio: 9.19235294117647
+Overall TA: 15627
+PDU: 0
+Percentage Completed: 0.09
+Publisher: Gamigo
+Release Date: 13 December 2016
+Server Closure: false
+Site Rating: 2.92
+Update Achievements:
+- Achievement Name: Unleash the Hydrakken!
+  Description: Enter the Shadow Tower and defeat the Shadow Hydrakken on Normal Difficulty
+  GS: '10'
+  Guide: false
+  Number of Gamers: 6090
+  Percentage of Gamers: 4%
+  Ratio: 4.89
+  TA: '48'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Stackable
+- Achievement Name: Vanquish the Hydrakken!
+  Description: Enter the Shadow Tower and defeat the Shadow Hydrakken on Hard Difficulty
+  GS: '20'
+  Guide: false
+  Number of Gamers: 3034
+  Percentage of Gamers: 2%
+  Ratio: 6.93
+  TA: '138'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Burninate the Hydrakken!
+  Description: Enter the Shadow Tower and defeat the Shadow Hydrakken on Ultra Difficulty
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1280
+  Percentage of Gamers: 1%
+  Ratio: 10.67
+  TA: '320'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: The Doctor Is In!
+  Description: Enter the Shadow Tower and defeat the Darknik Dreadnought on Normal
+    Difficulty
+  GS: '15'
+  Guide: false
+  Number of Gamers: 5254
+  Percentage of Gamers: 4%
+  Ratio: 5.27
+  TA: '79'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Stackable
+- Achievement Name: The Prescription is Pain
+  Description: Enter the Shadow Tower and defeat the Darknik Dreadnought on Hard Difficulty
+  GS: '25'
+  Guide: false
+  Number of Gamers: 2902
+  Percentage of Gamers: 2%
+  Ratio: 7.09
+  TA: '177'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: A Trovian a Day
+  Description: Enter the Shadow Tower and defeat the Darknik Dreadnought on Ultra
+    Difficulty
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1126
+  Percentage of Gamers: 1%
+  Ratio: 11.38
+  TA: '569'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Stay Subclassy
+  Description: Select a Subclass
+  GS: '15'
+  Guide: true
+  Number of Gamers: 15402
+  Percentage of Gamers: 11%
+  Ratio: 3.07
+  TA: '46'
+  Tags:
+  - Online Mode
+  - Single Player
+- Achievement Name: The Gem Forger
+  Description: Using the gem forge, upgrade a Stellar Gem stat to max
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1048
+  Percentage of Gamers: 1%
+  Ratio: 11.8
+  TA: '118'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Level
+  - Shop
+- Achievement Name: A Builder's Focus
+  Description: Using the gem forge, upgrade all of the stats on a Stellar Gem to max
+  GS: '25'
+  Guide: false
+  Number of Gamers: 533
+  Percentage of Gamers: 0%
+  Ratio: 16.54
+  TA: '413'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Level
+  - Shop
+- Achievement Name: Perfection!
+  Description: Using the gem forge, upgrade all of the stats on nine Stellar Gems
+    to max
+  GS: '100'
+  Guide: true
+  Number of Gamers: 302
+  Percentage of Gamers: 0%
+  Ratio: 21.98
+  TA: 2,198
+  Tags:
+  - Online Mode
+  - Single Player
+  - Level
+  - Shop
+- Achievement Name: The Next Step
+  Description: Achieve Geode Mastery 20
+  GS: '25'
+  Guide: false
+  Number of Gamers: 1570
+  Percentage of Gamers: 1%
+  Ratio: 9.64
+  TA: '241'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Level
+- Achievement Name: Further Heights
+  Description: Achieve Geode Mastery 100
+  GS: '25'
+  Guide: true
+  Number of Gamers: 284
+  Percentage of Gamers: 0%
+  Ratio: 22.66
+  TA: '566'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Level
+- Achievement Name: Starting Spelunker
+  Description: Get your first GAS module upgrade
+  GS: '25'
+  Guide: true
+  Number of Gamers: 3664
+  Percentage of Gamers: 3%
+  Ratio: 6.31
+  TA: '157'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Main Storyline
+  - Shop
+- Achievement Name: Super Spelunker
+  Description: Fully upgrade your GAS Module
+  GS: '50'
+  Guide: true
+  Number of Gamers: 302
+  Percentage of Gamers: 0%
+  Ratio: 21.98
+  TA: 1,099
+  Tags:
+  - Online Mode
+  - Single Player
+  - Shop
+  - Partly Discontinued/Unobtainable
+- Achievement Name: Top Bomber
+  Description: Win your first Bomber Royale match
+  GS: '25'
+  Guide: false
+  Number of Gamers: 1887
+  Percentage of Gamers: 1%
+  Ratio: 8.79
+  TA: '219'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Beaucoup Bombs
+  Description: Throw 5000 bombs in Bomber Royale
+  GS: '50'
+  Guide: true
+  Number of Gamers: 8775
+  Percentage of Gamers: 6%
+  Ratio: 4.07
+  TA: '203'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Plant's Best Friend
+  Description: Water 1,000 plants.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 440
+  Percentage of Gamers: 0%
+  Ratio: 18.21
+  TA: '910'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Reap what you Sow
+  Description: Harvest from 50 plants.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1096
+  Percentage of Gamers: 1%
+  Ratio: 11.53
+  TA: '576'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Reduce, Reuse, Recompost
+  Description: Compost 10,000 items at the Compost Bin.
+  GS: '100'
+  Guide: true
+  Number of Gamers: 707
+  Percentage of Gamers: 0%
+  Ratio: 14.36
+  TA: 1,436
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cumulative +
+Walkthrough: false

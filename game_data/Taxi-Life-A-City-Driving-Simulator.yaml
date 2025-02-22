@@ -1,0 +1,388 @@
+Add On Achievements: []
+Base Completion Time:
+- 25.0
+- 30.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Beginner's Luck
+  Description: Complete your first ride as a taxi driver.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3297
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: New Ride
+  Description: Purchase a new car.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1468
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: First Upgrade
+  Description: Buy and equip a new car part.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1401
+  Percentage of Gamers: 42%
+  Ratio: 1.53
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Big Boss
+  Description: Hire an employee driver.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1410
+  Percentage of Gamers: 42%
+  Ratio: 1.53
+  TA: '76'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Fleet Commander
+  Description: Have 5 employee drivers hired that are actively on a shift at the same
+    time.
+  GS: '100'
+  Guide: true
+  Number of Gamers: 219
+  Percentage of Gamers: 7%
+  Ratio: 3.88
+  TA: '388'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative
+  - Shop
+- Achievement Name: Gas Hopper
+  Description: Refuel your car at all of the gas stations.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 322
+  Percentage of Gamers: 10%
+  Ratio: 3.2
+  TA: '32'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Clean and Tidy
+  Description: Wash your car at every car wash in the city.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 264
+  Percentage of Gamers: 8%
+  Ratio: 3.53
+  TA: '35'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Eco-friendly
+  Description: Recharge your car at every charging station in the city.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 224
+  Percentage of Gamers: 7%
+  Ratio: 3.85
+  TA: '192'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: City Cruiser
+  Description: Cover 100 km in a single career.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1182
+  Percentage of Gamers: 36%
+  Ratio: 1.67
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: King of the Road
+  Description: Cover 200 km in a single career.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 669
+  Percentage of Gamers: 20%
+  Ratio: 2.22
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Journey of a Lifetime
+  Description: Cover 500 km in a single career.
+  GS: '100'
+  Guide: false
+  Number of Gamers: 226
+  Percentage of Gamers: 7%
+  Ratio: 3.82
+  TA: '382'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: First Steps
+  Description: Successfully complete at least 10 rides.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 1995
+  Percentage of Gamers: 60%
+  Ratio: 1.28
+  TA: '6'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Journeyman Driver
+  Description: Successfully complete at least 50 rides.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 656
+  Percentage of Gamers: 20%
+  Ratio: 2.24
+  TA: '33'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: True Professional
+  Description: Successfully complete at least 150 rides.
+  GS: '100'
+  Guide: true
+  Number of Gamers: 173
+  Percentage of Gamers: 5%
+  Ratio: 4.37
+  TA: '437'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Junior
+  Description: Reach level 10.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1193
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Mid-level
+  Description: Reach level 20.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 395
+  Percentage of Gamers: 12%
+  Ratio: 2.89
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Senior
+  Description: Reach level 30.
+  GS: '100'
+  Guide: true
+  Number of Gamers: 159
+  Percentage of Gamers: 5%
+  Ratio: 4.55
+  TA: '455'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Professional Driver's License
+  Description: Complete the driving school tutorial.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 3028
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Young Driver
+  Description: Cover 10 km in a single career.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 2778
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Small Traveler
+  Description: Cover 50 km in a single career.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1713
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Experienced Driver
+  Description: Cover 300 km in a single career.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 426
+  Percentage of Gamers: 13%
+  Ratio: 2.78
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Voyager
+  Description: Cover 400 km in a single career.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 288
+  Percentage of Gamers: 9%
+  Ratio: 3.39
+  TA: '169'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Taxi Driver
+  Description: Successfully complete at least 25 rides.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1269
+  Percentage of Gamers: 38%
+  Ratio: 1.61
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: I Like This Job
+  Description: Successfully complete at least 75 rides.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 381
+  Percentage of Gamers: 11%
+  Ratio: 2.94
+  TA: '58'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Master of People Transportation
+  Description: Successfully complete at least 100 rides.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 259
+  Percentage of Gamers: 8%
+  Ratio: 3.57
+  TA: '178'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Novice
+  Description: Reach level 5.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1830
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '6'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Intermediate
+  Description: Reach level 15.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 805
+  Percentage of Gamers: 24%
+  Ratio: 2.02
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Specialist
+  Description: Reach level 25.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 218
+  Percentage of Gamers: 7%
+  Ratio: 3.89
+  TA: '194'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Art Lover
+  Description: Find all mural collectibles.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 507
+  Percentage of Gamers: 15%
+  Ratio: 2.55
+  TA: '127'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Tour Guide
+  Description: Find all monument collectibles.
+  GS: '100'
+  Guide: true
+  Number of Gamers: 481
+  Percentage of Gamers: 14%
+  Ratio: 2.62
+  TA: '262'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+Base Ratio: 3.26
+Base TA: 3260
+Delisted: false
+Developer: Simteract
+Game Name: 'Taxi Life: A City Driving Simulator'
+Genres: Simulation
+Install Size: 5230.0
+Number of Completions: 135
+Number of Gamers: 3323
+Overall Completion Time:
+- 25.0
+- 30.0
+Overall GS: 1000
+Overall Ratio: 3.26
+Overall TA: 3260
+PDU: 0
+Percentage Completed: 4.06
+Publisher: Nacon
+Release Date: 07 March 2024
+Server Closure: false
+Site Rating: 3.55
+Update Achievements: []
+Walkthrough: false

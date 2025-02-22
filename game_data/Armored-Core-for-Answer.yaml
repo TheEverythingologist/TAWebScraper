@@ -1,0 +1,522 @@
+Add On Achievements: []
+Base Completion Time:
+- 0
+- 0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Chapter 1
+  Description: Complete Chapter 1
+  GS: '20'
+  Guide: true
+  Number of Gamers: 6152
+  Percentage of Gamers: 89%
+  Ratio: 1.05
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Chapter 2
+  Description: Complete Chapter 2
+  GS: '20'
+  Guide: false
+  Number of Gamers: 5060
+  Percentage of Gamers: 73%
+  Ratio: 1.16
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Chapter 3
+  Description: Complete Chapter 3
+  GS: '20'
+  Guide: false
+  Number of Gamers: 4533
+  Percentage of Gamers: 66%
+  Ratio: 1.23
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Ending 1
+  Description: Story Complete (Ending 1)
+  GS: '40'
+  Guide: true
+  Number of Gamers: 4060
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '52'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Ending 2
+  Description: Story Complete (Ending 2)
+  GS: '40'
+  Guide: true
+  Number of Gamers: 2624
+  Percentage of Gamers: 38%
+  Ratio: 1.62
+  TA: '64'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Ending 3
+  Description: Story Complete (Ending 3)
+  GS: '40'
+  Guide: true
+  Number of Gamers: 1709
+  Percentage of Gamers: 25%
+  Ratio: 2.01
+  TA: '80'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: AF Land Crab
+  Description: Defeat AF Land Crab
+  GS: '20'
+  Guide: true
+  Number of Gamers: 5342
+  Percentage of Gamers: 77%
+  Ratio: 1.13
+  TA: '22'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: AF Sol Dios Orbit
+  Description: Defeat AF Soldios Orbit
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3944
+  Percentage of Gamers: 57%
+  Ratio: 1.32
+  TA: '26'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: AF Stigro
+  Description: Defeat AF Stigro
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3752
+  Percentage of Gamers: 54%
+  Ratio: 1.35
+  TA: '27'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: AF Eclipse
+  Description: Defeat AF Eclipse
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3203
+  Percentage of Gamers: 46%
+  Ratio: 1.46
+  TA: '29'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: AF Cabracan
+  Description: Defeat AF Cabracan
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3972
+  Percentage of Gamers: 57%
+  Ratio: 1.31
+  TA: '26'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: AF The Spilit of Motherwill
+  Description: Defeat AF The Spirit of Motherwill
+  GS: '20'
+  Guide: true
+  Number of Gamers: 5671
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: AF Great Wall
+  Description: Defeat AF Great Wall
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3803
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '26'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: AF Jet
+  Description: Defeat AF Jet
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3893
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '26'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: AF Answerer
+  Description: Defeat AF Answerer
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2704
+  Percentage of Gamers: 39%
+  Ratio: 1.59
+  TA: '31'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Normal Difficulty
+  Description: Complete All Normal Missions
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1220
+  Percentage of Gamers: 18%
+  Ratio: 2.38
+  TA: '47'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Hard Difficulty
+  Description: Complete All Hard Missions
+  GS: '20'
+  Guide: true
+  Number of Gamers: 671
+  Percentage of Gamers: 10%
+  Ratio: 3.2
+  TA: '64'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Mission Rank S
+  Description: Achieve a Total Mission Rank of S
+  GS: '30'
+  Guide: true
+  Number of Gamers: 636
+  Percentage of Gamers: 9%
+  Ratio: 3.29
+  TA: '98'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Mission Rank SS
+  Description: Achieve a Total Mission Rank of SS
+  GS: '40'
+  Guide: false
+  Number of Gamers: 467
+  Percentage of Gamers: 7%
+  Ratio: 3.84
+  TA: '153'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time Consuming
+- Achievement Name: Arena Rank 20
+  Description: Achieve Rank 20 in the Arena
+  GS: '20'
+  Guide: true
+  Number of Gamers: 4705
+  Percentage of Gamers: 68%
+  Ratio: 1.21
+  TA: '24'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Arena Rank 10
+  Description: Achieve Rank 10 in the Arena
+  GS: '20'
+  Guide: true
+  Number of Gamers: 4019
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '26'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Arena
+  Description: Conquer the Arena
+  GS: '30'
+  Guide: true
+  Number of Gamers: 3217
+  Percentage of Gamers: 47%
+  Ratio: 1.46
+  TA: '43'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: ORCA Arena
+  Description: Conquer the ORCA Arena
+  GS: '30'
+  Guide: false
+  Number of Gamers: 2761
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '47'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Class E
+  Description: Achieve Online Class E
+  GS: '20'
+  Guide: true
+  Number of Gamers: 503
+  Percentage of Gamers: 7%
+  Ratio: 3.7
+  TA: '74'
+  Tags:
+  - Online Mode
+  - Versus
+  - Online Skill
+- Achievement Name: Class C
+  Description: Achieve Online Class C
+  GS: '20'
+  Guide: true
+  Number of Gamers: 374
+  Percentage of Gamers: 5%
+  Ratio: 4.29
+  TA: '85'
+  Tags:
+  - Online Mode
+  - Versus
+  - Online Skill
+- Achievement Name: Class A
+  Description: Achieve Online Class A
+  GS: '30'
+  Guide: true
+  Number of Gamers: 80
+  Percentage of Gamers: 1%
+  Ratio: 9.29
+  TA: '278'
+  Tags:
+  - Online Mode
+  - Versus
+  - Online Skill
+- Achievement Name: Ranker
+  Description: Achieve Ranker Status
+  GS: '40'
+  Guide: true
+  Number of Gamers: 66
+  Percentage of Gamers: 1%
+  Ratio: 10.23
+  TA: '409'
+  Tags:
+  - Online Mode
+  - Versus
+  - Online Skill
+- Achievement Name: 1000 wins
+  Description: Win 1000 Online Matches
+  GS: '20'
+  Guide: true
+  Number of Gamers: 62
+  Percentage of Gamers: 1%
+  Ratio: 10.55
+  TA: '211'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+  - Time Consuming
+- Achievement Name: 1000 kills
+  Description: Get 1000 Kills in Online Matches
+  GS: '20'
+  Guide: true
+  Number of Gamers: 64
+  Percentage of Gamers: 1%
+  Ratio: 10.38
+  TA: '207'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+  - Time Consuming
+- Achievement Name: 2000 wins
+  Description: Win 2000 Online Matches
+  GS: '20'
+  Guide: true
+  Number of Gamers: 50
+  Percentage of Gamers: 1%
+  Ratio: 11.75
+  TA: '235'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+  - Time Consuming
+- Achievement Name: 2000 kills
+  Description: Get 2000 Kills in Online Matches
+  GS: '20'
+  Guide: true
+  Number of Gamers: 54
+  Percentage of Gamers: 1%
+  Ratio: 11.31
+  TA: '226'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+  - Time Consuming
+- Achievement Name: 3000 wins
+  Description: Win 3000 Online Matches
+  GS: '20'
+  Guide: true
+  Number of Gamers: 47
+  Percentage of Gamers: 1%
+  Ratio: 12.12
+  TA: '242'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+  - Time Consuming
+- Achievement Name: 3000 kills
+  Description: Get 3000 Kills in Online Matches
+  GS: '20'
+  Guide: true
+  Number of Gamers: 48
+  Percentage of Gamers: 1%
+  Ratio: 11.99
+  TA: '239'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+  - Time Consuming
+- Achievement Name: 4000 wins
+  Description: Win 4000 Online Matches
+  GS: '20'
+  Guide: true
+  Number of Gamers: 46
+  Percentage of Gamers: 1%
+  Ratio: 12.25
+  TA: '245'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+  - Time Consuming
+- Achievement Name: 4000 kills
+  Description: Get 4000 Kills in Online Matches
+  GS: '20'
+  Guide: true
+  Number of Gamers: 45
+  Percentage of Gamers: 1%
+  Ratio: 12.39
+  TA: '247'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+  - Time Consuming
+- Achievement Name: 5000 wins
+  Description: Win 5000 Online Matches
+  GS: '20'
+  Guide: true
+  Number of Gamers: 44
+  Percentage of Gamers: 1%
+  Ratio: 12.53
+  TA: '250'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+  - Time Consuming
+- Achievement Name: 5000 kills
+  Description: Get 5000 Kills in Online Matches
+  GS: '20'
+  Guide: true
+  Number of Gamers: 44
+  Percentage of Gamers: 1%
+  Ratio: 12.53
+  TA: '250'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+  - Time Consuming
+- Achievement Name: 7500 wins
+  Description: Win 7500 Online Matches
+  GS: '20'
+  Guide: true
+  Number of Gamers: 39
+  Percentage of Gamers: 1%
+  Ratio: 13.3
+  TA: '266'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+  - Time Consuming
+- Achievement Name: 7500 kills
+  Description: Get 7500 Kills in Online Matches
+  GS: '20'
+  Guide: true
+  Number of Gamers: 39
+  Percentage of Gamers: 1%
+  Ratio: 13.3
+  TA: '266'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+  - Time Consuming
+- Achievement Name: 10000 wins
+  Description: Win 10000 Online Matches
+  GS: '40'
+  Guide: true
+  Number of Gamers: 37
+  Percentage of Gamers: 1%
+  Ratio: 13.66
+  TA: '546'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+  - Time Consuming
+- Achievement Name: 10000 kills
+  Description: Get 10000 Kills in Online Matches
+  GS: '40'
+  Guide: true
+  Number of Gamers: 37
+  Percentage of Gamers: 1%
+  Ratio: 13.66
+  TA: '546'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+  - Time Consuming
+Base Ratio: 5.823
+Base TA: 5823
+Delisted: true
+Developer: FromSoftware
+Game Name: Armored Core For Answer
+Genres: Third Person Shooter, Mech
+Install Size: 5880.0
+Number of Completions: 28
+Number of Gamers: 6918
+Overall Completion Time:
+- 0
+- 0
+Overall GS: 1000
+Overall Ratio: 5.823
+Overall TA: 5823
+PDU: 0
+Percentage Completed: 0.4
+Publisher: Ubisoft, FromSoftware
+Release Date: 16 September 2008
+Server Closure: false
+Site Rating: 3.62
+Update Achievements: []
+Walkthrough: false

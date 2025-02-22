@@ -1,0 +1,505 @@
+Add On Achievements: []
+Base Completion Time:
+- -1
+- -1
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Master
+  Description: Get all the awards.
+  GS: '125'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '125'
+  Tags:
+  - Unobtainable
+- Achievement Name: Flame
+  Description: Destroy a fire extinguisher.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 128
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '17'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Broken
+  Description: Destroy a stained glass window.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 76
+  Percentage of Gamers: 19%
+  Ratio: 2.29
+  TA: '22'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Fuel
+  Description: Change the gas cartridge of a forklift.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 22
+  Percentage of Gamers: 6%
+  Ratio: 4.25
+  TA: '42'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Box
+  Description: Drop off a box at the office.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 346
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '10'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The first time
+  Description: Deliver your first cargo.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 348
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '10'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Deliverer
+  Description: Deliver 10 cargoes.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 255
+  Percentage of Gamers: 64%
+  Ratio: 1.25
+  TA: '31'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Gold
+  Description: Reach
+  GS: '10'
+  Guide: false
+  Number of Gamers: 8
+  Percentage of Gamers: 2%
+  Ratio: 7.06
+  TA: '70'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: School
+  Description: Complete all driving tests.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 343
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '53'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The House
+  Description: Complete all main missions of the company The House Depot.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 30
+  Percentage of Gamers: 8%
+  Ratio: 3.64
+  TA: '182'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: IPS
+  Description: Complete all missions of the company IPS.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 20
+  Percentage of Gamers: 5%
+  Ratio: 4.46
+  TA: '223'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Walker
+  Description: Complete all missions of the company Walker Miller.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 97
+  Percentage of Gamers: 24%
+  Ratio: 2.02
+  TA: '101'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The Destroyer
+  Description: Damage a box.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 115
+  Percentage of Gamers: 29%
+  Ratio: 1.86
+  TA: '18'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: 10 KM
+  Description: Drive 10 km with a forklift.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 38
+  Percentage of Gamers: 10%
+  Ratio: 3.24
+  TA: '81'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: 3 KM
+  Description: Travel 3 km with the electric pallet truck.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 134
+  Percentage of Gamers: 34%
+  Ratio: 1.72
+  TA: '43'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Upside Down
+  Description: Roll over with the forklift.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 81
+  Percentage of Gamers: 20%
+  Ratio: 2.21
+  TA: '22'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Pallet
+  Description: Place all boxes on a pallet.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 331
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '10'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Correct
+  Description: Place a box correctly on the pallet.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 221
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '13'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Loader
+  Description: Transport 10 cargoes with the electric pallet truck.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 102
+  Percentage of Gamers: 26%
+  Ratio: 1.97
+  TA: '49'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Chaos
+  Description: Destroy a glass window, a fire extinguisher, and damage 3 boxes.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 33
+  Percentage of Gamers: 8%
+  Ratio: 3.47
+  TA: '86'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: First Vehicle
+  Description: Driving the vehicle for the first time.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 387
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Backwards
+  Description: Descend a slope backwards.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 46
+  Percentage of Gamers: 12%
+  Ratio: 2.94
+  TA: '29'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Stacked
+  Description: Place a cargo on top of another cargo.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 233
+  Percentage of Gamers: 58%
+  Ratio: 1.3
+  TA: '13'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Storage room
+  Description: Enter the storage room.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 122
+  Percentage of Gamers: 31%
+  Ratio: 1.8
+  TA: '18'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Electric pallet truck
+  Description: Use the electric pallet truck.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 396
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '10'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: First Cargo
+  Description: Pick up a cargo with the electric pallet truck.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 391
+  Percentage of Gamers: 98%
+  Ratio: 1.01
+  TA: '10'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Electric
+  Description: Drive the electric forklift.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 27
+  Percentage of Gamers: 7%
+  Ratio: 3.84
+  TA: '38'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: No trespassing
+  Description: Walk on a grassy area.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 59
+  Percentage of Gamers: 15%
+  Ratio: 2.6
+  TA: '26'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Accident
+  Description: Hit an employee with a vehicle.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 105
+  Percentage of Gamers: 26%
+  Ratio: 1.94
+  TA: '19'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: At the right time
+  Description: Complete the quest to place two cargoes within 4 minutes.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 21
+  Percentage of Gamers: 5%
+  Ratio: 4.35
+  TA: '43'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Dispose of garbage
+  Description: Transport the trash container with the forklift.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 20
+  Percentage of Gamers: 5%
+  Ratio: 4.46
+  TA: '44'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Drive License D Gold
+  Description: Get Gold in all license D missions.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 45
+  Percentage of Gamers: 11%
+  Ratio: 2.97
+  TA: '148'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Drive License D Silver
+  Description: Get silver  in all license D missions.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 57
+  Percentage of Gamers: 14%
+  Ratio: 2.64
+  TA: '66'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Drive License D Bronze
+  Description: Get bronze  in all license D missions.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 72
+  Percentage of Gamers: 18%
+  Ratio: 2.35
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Drive License C Gold
+  Description: Get Gold in all license C missions.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 38
+  Percentage of Gamers: 10%
+  Ratio: 3.24
+  TA: '162'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Drive License C Silver
+  Description: Get silver  in all license C missions.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 47
+  Percentage of Gamers: 12%
+  Ratio: 2.91
+  TA: '72'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Drive License C Bronze
+  Description: Get bronze  in all license C missions.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 51
+  Percentage of Gamers: 13%
+  Ratio: 2.79
+  TA: '27'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Drive License B Gold
+  Description: Get Gold in all license B missions.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 36
+  Percentage of Gamers: 9%
+  Ratio: 3.32
+  TA: '166'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Drive License B Silver
+  Description: Get silver  in all license B missions.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 37
+  Percentage of Gamers: 9%
+  Ratio: 3.28
+  TA: '82'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Drive License B Bronze
+  Description: Get bronze  in all license B missions.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 41
+  Percentage of Gamers: 10%
+  Ratio: 3.11
+  TA: '31'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Drive License A Gold
+  Description: Get Gold in all license A missions.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 34
+  Percentage of Gamers: 9%
+  Ratio: 3.42
+  TA: '171'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Drive License A Silver
+  Description: Get silver  in all license A missions.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 35
+  Percentage of Gamers: 9%
+  Ratio: 3.37
+  TA: '84'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Drive License A Bronze
+  Description: Get bronze  in all license A missions.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 39
+  Percentage of Gamers: 10%
+  Ratio: 3.19
+  TA: '31'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 2.531
+Base TA: 2531
+Delisted: false
+Developer: Bandsoft
+Game Name: Forklift Simulator
+Genres: Simulation
+Install Size: 7320.0
+Number of Completions: 0
+Number of Gamers: 399
+Overall Completion Time:
+- -1
+- -1
+Overall GS: 1000
+Overall Ratio: 2.531
+Overall TA: 2531
+PDU: 0
+Percentage Completed: 0.0
+Publisher: AeroSoft
+Release Date: 29 August 2024
+Server Closure: false
+Site Rating: 2.6
+Update Achievements: []
+Walkthrough: false

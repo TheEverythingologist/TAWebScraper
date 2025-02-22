@@ -1,0 +1,616 @@
+Add On Achievements: []
+Base Completion Time:
+- 60.0
+- 80.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Victory
+  Description: Completed and discovered the True Ending.
+  GS: '100'
+  Guide: false
+  Number of Gamers: 475
+  Percentage of Gamers: 8%
+  Ratio: 3.46
+  TA: '346'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Ending
+  Description: Completed the game.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 1821
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '44'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Five Stories
+  Description: Completed and discovered 5 Endings.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 645
+  Percentage of Gamers: 11%
+  Ratio: 2.97
+  TA: '148'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Multiple Playthroughs Required
+- Achievement Name: Way of The Samurai
+  Description: Completed and discovered all Endings.
+  GS: '150'
+  Guide: true
+  Number of Gamers: 135
+  Percentage of Gamers: 2%
+  Ratio: 6.49
+  TA: '974'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Multiple Playthroughs Required
+  - Time Consuming
+- Achievement Name: Samurai 4EvR!
+  Description: Cleared game with more than 120% Samurai Rating.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 256
+  Percentage of Gamers: 4%
+  Ratio: 4.71
+  TA: '235'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Weak Samurai
+  Description: Cleared the game in Easy difficulty.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1654
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+- Achievement Name: Skilled Samurai
+  Description: Cleared the game in Normal difficulty.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 942
+  Percentage of Gamers: 17%
+  Ratio: 2.46
+  TA: '36'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+- Achievement Name: Samurai Master
+  Description: Cleared the game in Hard difficulty.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 425
+  Percentage of Gamers: 7%
+  Ratio: 3.66
+  TA: '73'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Samurai Slayer
+  Description: Cleared the game in Instant Kill difficulty.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 353
+  Percentage of Gamers: 6%
+  Ratio: 4.01
+  TA: '80'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Weapon Forger
+  Description: Created a weapon.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1941
+  Percentage of Gamers: 34%
+  Ratio: 1.71
+  TA: '8'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Upper Stance Mastery
+  Description: Mastered all skills of Upper Stance.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 105
+  Percentage of Gamers: 2%
+  Ratio: 7.36
+  TA: '73'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Middle Stance Mastery
+  Description: Mastered all skills of Middle Stance.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 108
+  Percentage of Gamers: 2%
+  Ratio: 7.26
+  TA: '72'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Lower Stance Mastery
+  Description: Mastered all skills of Lower Stance.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 105
+  Percentage of Gamers: 2%
+  Ratio: 7.36
+  TA: '73'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Single Stance Mastery
+  Description: Mastered all skills of Single Stance.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 107
+  Percentage of Gamers: 2%
+  Ratio: 7.29
+  TA: '72'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Side Stance Mastery
+  Description: Mastered all skills of Side Stance.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 103
+  Percentage of Gamers: 2%
+  Ratio: 7.43
+  TA: '74'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Spear Stance Mastery
+  Description: Mastered all skills of Spear Stance.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 109
+  Percentage of Gamers: 2%
+  Ratio: 7.23
+  TA: '72'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Bare Hands Stance Mastery
+  Description: Mastered all skills of Bare Hands Stance.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 317
+  Percentage of Gamers: 6%
+  Ratio: 4.24
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Draw Stance Mastery
+  Description: Mastered all skills of Draw Stance.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 107
+  Percentage of Gamers: 2%
+  Ratio: 7.29
+  TA: '72'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Ninja Stance Mastery
+  Description: Mastered all skills of Ninja Stance.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 108
+  Percentage of Gamers: 2%
+  Ratio: 7.26
+  TA: '72'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Dual Sword Stance Mastery
+  Description: Mastered all skills of Dual Sword Stance.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 335
+  Percentage of Gamers: 6%
+  Ratio: 4.12
+  TA: '41'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Ninja Dual Sword Stance Mastery
+  Description: Mastered all skills of Ninja Dual Sword Stance.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 313
+  Percentage of Gamers: 5%
+  Ratio: 4.26
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Weapon Destroyer
+  Description: Broke an opponent's weapon.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 2180
+  Percentage of Gamers: 38%
+  Ratio: 1.61
+  TA: '8'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Blunt Attack
+  Description: Defeated an opponent with a Blunt Attack.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 3832
+  Percentage of Gamers: 67%
+  Ratio: 1.21
+  TA: '6'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Amana Native
+  Description: Played more than 10 hours.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1439
+  Percentage of Gamers: 25%
+  Ratio: 1.99
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Forged Weapon
+  Description: Forged a weapon for the first time.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 2332
+  Percentage of Gamers: 41%
+  Ratio: 1.56
+  TA: '7'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Killer
+  Description: Fist time killing an enemy.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 5511
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '5'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Weapon Master
+  Description: Mastered all skills for a weapon.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 801
+  Percentage of Gamers: 14%
+  Ratio: 2.66
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Level
+- Achievement Name: Weapon Specialist
+  Description: Mastered all skills for thirty weapons.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 152
+  Percentage of Gamers: 3%
+  Ratio: 6.12
+  TA: '91'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Level
+- Achievement Name: Power of 10
+  Description: Achieved 10 Chain Kills.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 759
+  Percentage of Gamers: 13%
+  Ratio: 2.74
+  TA: '27'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Power of 100
+  Description: Achieved 100 Chain Kills.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 158
+  Percentage of Gamers: 3%
+  Ratio: 6.0
+  TA: '120'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Head Collector
+  Description: Obtained all Heads.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1312
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '41'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Outfit Collector
+  Description: Obtained all Outfits.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 920
+  Percentage of Gamers: 16%
+  Ratio: 2.48
+  TA: '49'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: First Time
+  Description: Learned a skill for the first time.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 5100
+  Percentage of Gamers: 89%
+  Ratio: 1.05
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Skill Collector
+  Description: Learned a total of 10 skills.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1591
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Master of Skills
+  Description: Learned a total of 100 skills.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 273
+  Percentage of Gamers: 5%
+  Ratio: 4.56
+  TA: '114'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Weapon Collector
+  Description: Obtained 10 different weapons.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2268
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Weapon Arsenal
+  Description: Obtained 50 different weapons.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 415
+  Percentage of Gamers: 7%
+  Ratio: 3.7
+  TA: '74'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Payday
+  Description: Completed a job successfully.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 3983
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '5'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Job Seeker
+  Description: Completed 50 jobs successfully.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 762
+  Percentage of Gamers: 13%
+  Ratio: 2.73
+  TA: '54'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Relationship
+  Description: Obtained a partner.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1777
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '17'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Extra Sword Safe
+  Description: Obtained an extra Sword Safe.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2214
+  Percentage of Gamers: 39%
+  Ratio: 1.6
+  TA: '16'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Assassin
+  Description: Defeated Shuzen Fujimori.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 1210
+  Percentage of Gamers: 21%
+  Ratio: 2.17
+  TA: '86'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Bushido
+  Description: Defeated Sensei at the Dojo.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1218
+  Percentage of Gamers: 21%
+  Ratio: 2.16
+  TA: '108'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Title Collector
+  Description: Obtained 5 titles.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1258
+  Percentage of Gamers: 22%
+  Ratio: 2.12
+  TA: '42'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Title Master
+  Description: Obtained 20 titles.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 176
+  Percentage of Gamers: 3%
+  Ratio: 5.69
+  TA: '227'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Zero Kill
+  Description: Killed an enemy using a weapon with zero durability.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 858
+  Percentage of Gamers: 15%
+  Ratio: 2.57
+  TA: '12'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Zero Blunt Attack
+  Description: Defeated an enemy with Blunt Attack using a weapon with zero durability.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 667
+  Percentage of Gamers: 12%
+  Ratio: 2.92
+  TA: '14'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Samurai Leader
+  Description: Total Samurai Points exceeded 200 points.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2732
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative
+- Achievement Name: Samurai Hero
+  Description: Total Samurai Points exceeded 2000 points.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1310
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative
+- Achievement Name: Legendary Samurai
+  Description: Total Samurai Points exceeded 10000 points.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 838
+  Percentage of Gamers: 15%
+  Ratio: 2.6
+  TA: '52'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative
+Base Ratio: 3.97
+Base TA: 3970
+Delisted: true
+Developer: ACQUIRE
+Game Name: Way of the Samurai 3
+Genres: Open World, Hack & Slash
+Install Size: 2790.0
+Number of Completions: 95
+Number of Gamers: 5705
+Overall Completion Time:
+- 60.0
+- 80.0
+Overall GS: 1000
+Overall Ratio: 3.97
+Overall TA: 3970
+PDU: 0
+Percentage Completed: 1.67
+Publisher: UFO Interactive, Spike Chunsoft
+Release Date: 20 October 2009
+Server Closure: false
+Site Rating: 3.31
+Update Achievements: []
+Walkthrough: false

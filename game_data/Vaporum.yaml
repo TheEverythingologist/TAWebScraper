@@ -1,0 +1,490 @@
+Add On Achievements: []
+Base Completion Time:
+- 108
+- 109
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Loremaster
+  Description: Read all notes and listen to all phonodiaries.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 35
+  Percentage of Gamers: 10%
+  Ratio: 3.23
+  TA: '161'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Recruit Bonecrusher
+  Description: Score 250 blunt weapon hits on enemies.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 213
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Veteran Bonecrusher
+  Description: Score 1500 blunt weapon hits on enemies.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 51
+  Percentage of Gamers: 14%
+  Ratio: 2.67
+  TA: '53'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Sokoban
+  Description: Push or pull a pushable object 200 times.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 124
+  Percentage of Gamers: 34%
+  Ratio: 1.71
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Walker
+  Description: Walk 3000 tiles.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 245
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Tripper
+  Description: Walk 9000 tiles.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 130
+  Percentage of Gamers: 36%
+  Ratio: 1.67
+  TA: '33'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Gravity Killer
+  Description: Cause 25 enemies to die by falling.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 28
+  Percentage of Gamers: 8%
+  Ratio: 3.61
+  TA: '72'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Recruit Destroyer
+  Description: Deal 100,000 damage.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 91
+  Percentage of Gamers: 25%
+  Ratio: 2.0
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Veteran Destroyer
+  Description: Deal 250,000 damage.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 72
+  Percentage of Gamers: 20%
+  Ratio: 2.25
+  TA: '45'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Recruit Throatcutter
+  Description: Score 250 blade weapon hits on enemies.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 84
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Veteran Throatcutter
+  Description: Score 1500 blade weapon hits on enemies.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 39
+  Percentage of Gamers: 11%
+  Ratio: 3.06
+  TA: '61'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Recruit Evader
+  Description: Evade 200 enemy attacks.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 205
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Veteran Evader
+  Description: Evade 750 enemy attacks.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 85
+  Percentage of Gamers: 23%
+  Ratio: 2.07
+  TA: '41'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Botslayer
+  Description: Kill 100 mechanoids.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 134
+  Percentage of Gamers: 37%
+  Ratio: 1.65
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Botsmasher
+  Description: Kill 250 mechanoids.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 42
+  Percentage of Gamers: 11%
+  Ratio: 2.95
+  TA: '59'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Manslayer
+  Description: Kill 100 humanoids.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 90
+  Percentage of Gamers: 25%
+  Ratio: 2.01
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Serial Killer
+  Description: Kill 250 humanoids.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 30
+  Percentage of Gamers: 8%
+  Ratio: 3.49
+  TA: '69'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Shield Apprentice
+  Description: Block 30 enemy attacks.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 295
+  Percentage of Gamers: 81%
+  Ratio: 1.11
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Shield Expert
+  Description: Block 180 enemy attacks.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 85
+  Percentage of Gamers: 23%
+  Ratio: 2.07
+  TA: '41'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Gadgeteer
+  Description: Use gadgets 50 times.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 186
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Tinkerer
+  Description: Use gadgets 300 times.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 68
+  Percentage of Gamers: 19%
+  Ratio: 2.32
+  TA: '46'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Recruit Gunslinger
+  Description: Score 150 handgun hits on enemies.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 111
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Veteran Gunslinger
+  Description: Score 900 handgun hits on enemies.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 32
+  Percentage of Gamers: 9%
+  Ratio: 3.38
+  TA: '67'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Recruit Rifleman
+  Description: Score 75 rifle hits on enemies.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 115
+  Percentage of Gamers: 31%
+  Ratio: 1.78
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Veteran Rifleman
+  Description: Score 450 rifle hits on enemies.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 36
+  Percentage of Gamers: 10%
+  Ratio: 3.18
+  TA: '63'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Crit Lord
+  Description: Score 2 critical hits in a row with any weapon.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 130
+  Percentage of Gamers: 36%
+  Ratio: 1.67
+  TA: '16'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Crit Overlord
+  Description: Score 3 critical hits in a row with any weapon.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 40
+  Percentage of Gamers: 11%
+  Ratio: 3.02
+  TA: '60'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Hoarder
+  Description: Fill your inventory to the brim.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 189
+  Percentage of Gamers: 52%
+  Ratio: 1.39
+  TA: '13'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Runkralf's Legacy
+  Description: Equip the Runkralf's item set.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 164
+  Percentage of Gamers: 45%
+  Ratio: 1.49
+  TA: '37'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Oldschooler
+  Description: Beat the game on the Old School mode.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 15
+  Percentage of Gamers: 4%
+  Ratio: 4.93
+  TA: '246'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Elite
+  Description: Beat the game on the Elite mode.
+  GS: '75'
+  Guide: false
+  Number of Gamers: 14
+  Percentage of Gamers: 4%
+  Ratio: 5.11
+  TA: '383'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Hardcore
+  Description: Beat the game on the Old School and Elite modes on at the same time.
+  GS: '100'
+  Guide: false
+  Number of Gamers: 14
+  Percentage of Gamers: 4%
+  Ratio: 5.11
+  TA: '511'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: It's Over
+  Description: Defeat the main boss.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 73
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '111'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Speedrunner
+  Description: Beat the game within 90 minutes.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 1%
+  Ratio: 9.56
+  TA: '478'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: Man Up
+  Description: Beat the game on the highest difficulty level.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 7
+  Percentage of Gamers: 2%
+  Ratio: 7.23
+  TA: '180'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Ninja
+  Description: Take no more than 3000 damage in a single playthrough on Hard or Brutal
+    difficulty.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 5
+  Percentage of Gamers: 1%
+  Ratio: 8.55
+  TA: '427'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+  - Missable
+- Achievement Name: Keen Eye
+  Description: Find all regular secrets in the game.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 35
+  Percentage of Gamers: 10%
+  Ratio: 3.23
+  TA: '161'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Mystery
+  Description: Find the super secret room.
+  GS: '75'
+  Guide: true
+  Number of Gamers: 65
+  Percentage of Gamers: 18%
+  Ratio: 2.37
+  TA: '177'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+Base Ratio: 3.802
+Base TA: 3802
+Delisted: false
+Developer: Fatbot Games
+Game Name: Vaporum
+Genres: Role Playing, Turn Based, Dungeon Crawler
+Install Size: 3080.0
+Number of Completions: 3
+Number of Gamers: 366
+Overall Completion Time:
+- 108
+- 109
+Overall GS: 1000
+Overall Ratio: 3.802
+Overall TA: 3802
+PDU: 0
+Percentage Completed: 0.82
+Publisher: Merge Games
+Release Date: 10 April 2019
+Server Closure: false
+Site Rating: 4.12
+Update Achievements: []
+Walkthrough: false

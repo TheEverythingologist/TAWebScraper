@@ -1,0 +1,431 @@
+Add On Achievements: []
+Base Completion Time:
+- 20.0
+- 25.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Are you sleeping?
+  Description: Have 6 enemies stunned at the same time
+  GS: '15'
+  Guide: true
+  Number of Gamers: 641
+  Percentage of Gamers: 14%
+  Ratio: 2.64
+  TA: '39'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Catch!
+  Description: Kill an enemy with their own projectile
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3360
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '17'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Mid-air Collision
+  Description: Revive a friend by throwing both parts into each other mid-air
+  GS: '15'
+  Guide: true
+  Number of Gamers: 536
+  Percentage of Gamers: 12%
+  Ratio: 2.89
+  TA: '43'
+  Tags:
+  - Online/Offline
+  - Cooperative
+- Achievement Name: In my face
+  Description: Defeat an enemy by throwing a friends head into them
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1083
+  Percentage of Gamers: 24%
+  Ratio: 2.03
+  TA: '30'
+  Tags:
+  - Online/Offline
+  - Cooperative
+- Achievement Name: Ball-sense
+  Description: Catch the same three times without them touching the ground
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1408
+  Percentage of Gamers: 31%
+  Ratio: 1.78
+  TA: '26'
+  Tags:
+  - Online/Offline
+  - Cooperative
+- Achievement Name: High Level Tactics
+  Description: Make an enemy bounce on 4 others
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2528
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '19'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Born to fly
+  Description: Keep an enemy airborne for 4 seconds
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2229
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '21'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: "We call this P\xF6ng"
+  Description: Strike a frozen enemies back and forth 10 times
+  GS: '15'
+  Guide: true
+  Number of Gamers: 489
+  Percentage of Gamers: 11%
+  Ratio: 3.02
+  TA: '45'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Sharing is caring
+  Description: Have all players hold an enemy before it touches the ground
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1757
+  Percentage of Gamers: 39%
+  Ratio: 1.59
+  TA: '23'
+  Tags:
+  - Online/Offline
+  - Cooperative
+- Achievement Name: Perks of being a zombie
+  Description: Get revived 50 times
+  GS: '15'
+  Guide: false
+  Number of Gamers: 243
+  Percentage of Gamers: 5%
+  Ratio: 4.29
+  TA: '64'
+  Tags:
+  - Online/Offline
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Flattened
+  Description: Have the crushers defeat 10 enemies
+  GS: '15'
+  Guide: true
+  Number of Gamers: 501
+  Percentage of Gamers: 11%
+  Ratio: 2.99
+  TA: '44'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Nice To Beak You
+  Description: Have Beaknose defeat 10 enemies
+  GS: '15'
+  Guide: true
+  Number of Gamers: 592
+  Percentage of Gamers: 13%
+  Ratio: 2.74
+  TA: '41'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Space Butterflies
+  Description: Clear Tavern Brawl in Rich Side unscathed
+  GS: '15'
+  Guide: true
+  Number of Gamers: 185
+  Percentage of Gamers: 4%
+  Ratio: 4.92
+  TA: '73'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Fowl Play
+  Description: Kill an enemy by throwing a chicken at them
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1583
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '25'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Strike!
+  Description: Hit a frozen enemy into 5 other enemies
+  GS: '15'
+  Guide: true
+  Number of Gamers: 523
+  Percentage of Gamers: 12%
+  Ratio: 2.93
+  TA: '43'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Holmgang
+  Description: Win a duel to the undeath
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1715
+  Percentage of Gamers: 38%
+  Ratio: 1.61
+  TA: '24'
+  Tags:
+  - Online/Offline
+  - Cooperative
+- Achievement Name: "I hope it doesn\u2019t stain"
+  Description: Defeat a boss using zombie vomit
+  GS: '30'
+  Guide: true
+  Number of Gamers: 388
+  Percentage of Gamers: 9%
+  Ratio: 3.4
+  TA: '102'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Zombiosis
+  Description: Perform the 4 player charge attack on the stitch zombie
+  GS: '30'
+  Guide: true
+  Number of Gamers: 218
+  Percentage of Gamers: 5%
+  Ratio: 4.52
+  TA: '135'
+  Tags:
+  - Online/Offline
+  - Cooperative
+  - 3 Players Required
+- Achievement Name: Mighty Blow
+  Description: Kill 3 ulgars at the same time
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1405
+  Percentage of Gamers: 31%
+  Ratio: 1.78
+  TA: '53'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: You are not supposed to be here
+  Description: Find the super secret developer area
+  GS: '30'
+  Guide: true
+  Number of Gamers: 219
+  Percentage of Gamers: 5%
+  Ratio: 4.53
+  TA: '136'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: I can see my house from here
+  Description: Form a zombie tower of 5 with a guest of your choice
+  GS: '30'
+  Guide: true
+  Number of Gamers: 338
+  Percentage of Gamers: 8%
+  Ratio: 3.64
+  TA: '109'
+  Tags:
+  - Online/Offline
+  - Cooperative
+  - 3 Players Required
+- Achievement Name: They also use it on new years day
+  Description: Escape the fishturd cannon unschathed with 4 players
+  GS: '30'
+  Guide: true
+  Number of Gamers: 190
+  Percentage of Gamers: 4%
+  Ratio: 4.86
+  TA: '145'
+  Tags:
+  - Online/Offline
+  - Cooperative
+  - 3 Players Required
+- Achievement Name: Go Unicorns!
+  Description: "Win against the Butterflies in S\xF6cker without letting the other\
+    \ team score once"
+  GS: '30'
+  Guide: true
+  Number of Gamers: 367
+  Percentage of Gamers: 8%
+  Ratio: 3.49
+  TA: '104'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: A new beginning
+  Description: Complete the objective in Fe
+  GS: '30'
+  Guide: true
+  Number of Gamers: 233
+  Percentage of Gamers: 5%
+  Ratio: 4.37
+  TA: '131'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Stealth tactics
+  Description: Complete the gnome cave without ever being detected
+  GS: '30'
+  Guide: true
+  Number of Gamers: 350
+  Percentage of Gamers: 8%
+  Ratio: 3.57
+  TA: '107'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Big spender
+  Description: Spend a total of 30.000 gold in the store
+  GS: '30'
+  Guide: false
+  Number of Gamers: 167
+  Percentage of Gamers: 4%
+  Ratio: 5.18
+  TA: '155'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+  - Shop
+- Achievement Name: House Cure
+  Description: Defeat the Common Cold without hitting him with your sword
+  GS: '30'
+  Guide: true
+  Number of Gamers: 226
+  Percentage of Gamers: 5%
+  Ratio: 4.44
+  TA: '133'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Is such a thing even possible?
+  Description: Finish Berzerker Factory without touching a conveyor belt
+  GS: '30'
+  Guide: true
+  Number of Gamers: 186
+  Percentage of Gamers: 4%
+  Ratio: 4.9
+  TA: '147'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Zombies roll-out!
+  Description: Finish the story!
+  GS: '80'
+  Guide: true
+  Number of Gamers: 554
+  Percentage of Gamers: 12%
+  Ratio: 2.84
+  TA: '227'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+  - Story Completed
+- Achievement Name: Master at arms
+  Description: Unlock all weapons
+  GS: '80'
+  Guide: true
+  Number of Gamers: 169
+  Percentage of Gamers: 4%
+  Ratio: 5.14
+  TA: '411'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Shop
+- Achievement Name: Runemaster
+  Description: Unlock all runes
+  GS: '80'
+  Guide: true
+  Number of Gamers: 170
+  Percentage of Gamers: 4%
+  Ratio: 5.12
+  TA: '410'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: A helping hand
+  Description: Complete all sidequests in the game
+  GS: '80'
+  Guide: true
+  Number of Gamers: 224
+  Percentage of Gamers: 5%
+  Ratio: 4.48
+  TA: '358'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Treasure Hunter
+  Description: Open 25 chests
+  GS: '80'
+  Guide: true
+  Number of Gamers: 727
+  Percentage of Gamers: 16%
+  Ratio: 2.48
+  TA: '198'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+Base Ratio: 3.638
+Base TA: 3638
+Delisted: false
+Developer: Zoink!
+Game Name: Zombie Vikings
+Genres: Beat 'em up
+Install Size: 4780.0
+Number of Completions: 128
+Number of Gamers: 4495
+Overall Completion Time:
+- 20.0
+- 25.0
+Overall GS: 1000
+Overall Ratio: 3.638
+Overall TA: 3638
+PDU: 0
+Percentage Completed: 2.85
+Publisher: Zoink!
+Release Date: 22 February 2017
+Server Closure: false
+Site Rating: 3.08
+Update Achievements: []
+Walkthrough: false

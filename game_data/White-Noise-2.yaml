@@ -1,0 +1,615 @@
+Add On Achievements: []
+Base Completion Time:
+- 12.0
+- 15.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Investigator
+  Description: Reach Level 5
+  GS: '15'
+  Guide: false
+  Number of Gamers: 6342
+  Percentage of Gamers: 61%
+  Ratio: 1.28
+  TA: '19'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Level
+- Achievement Name: Detective
+  Description: Reach Level 10
+  GS: '30'
+  Guide: false
+  Number of Gamers: 3608
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '50'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Level
+- Achievement Name: Occultist
+  Description: Reach Level 25
+  GS: '90'
+  Guide: true
+  Number of Gamers: 1006
+  Percentage of Gamers: 10%
+  Ratio: 3.21
+  TA: '289'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Level
+- Achievement Name: The Horror
+  Description: Win 10 online games as The Creature
+  GS: '15'
+  Guide: false
+  Number of Gamers: 821
+  Percentage of Gamers: 8%
+  Ratio: 3.56
+  TA: '53'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Teamwork
+  Description: Win 10 games as an Investigator
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1194
+  Percentage of Gamers: 11%
+  Ratio: 2.95
+  TA: '44'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: I want to play a game
+  Description: Finish 10 games
+  GS: '15'
+  Guide: true
+  Number of Gamers: 4569
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '22'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Against all odds
+  Description: Win an online 1vs1 game as the Investigator
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1095
+  Percentage of Gamers: 11%
+  Ratio: 3.08
+  TA: '46'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Bully
+  Description: Win an online 1vs1 game as the Creature
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2171
+  Percentage of Gamers: 21%
+  Ratio: 2.18
+  TA: '32'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: A short nightmare
+  Description: Win a game as The Creature in less than 4 minutes
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1571
+  Percentage of Gamers: 15%
+  Ratio: 2.57
+  TA: '38'
+  Tags:
+  - Online Mode
+  - Versus
+  - Time/Date
+- Achievement Name: The way it's meant to be played
+  Description: Finish a 4vs1 game
+  GS: '30'
+  Guide: false
+  Number of Gamers: 6713
+  Percentage of Gamers: 64%
+  Ratio: 1.24
+  TA: '37'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+- Achievement Name: Insatiable Hunger
+  Description: Win a 4vs1 game as The Creature
+  GS: '15'
+  Guide: false
+  Number of Gamers: 3516
+  Percentage of Gamers: 34%
+  Ratio: 1.72
+  TA: '25'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+- Achievement Name: The Chosen One
+  Description: Win a 4vs1 game being the only Investigator alive
+  GS: '15'
+  Guide: false
+  Number of Gamers: 575
+  Percentage of Gamers: 6%
+  Ratio: 4.25
+  TA: '63'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+- Achievement Name: Clue over here!
+  Description: Find a total of 10 clues
+  GS: '15'
+  Guide: false
+  Number of Gamers: 5779
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '20'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Clue Aficionado
+  Description: Find a total of 25 clues
+  GS: '30'
+  Guide: false
+  Number of Gamers: 3382
+  Percentage of Gamers: 32%
+  Ratio: 1.75
+  TA: '52'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Clue Collector
+  Description: Find a total of 50 clues
+  GS: '30'
+  Guide: false
+  Number of Gamers: 2030
+  Percentage of Gamers: 19%
+  Ratio: 2.26
+  TA: '67'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Clue-maniac
+  Description: Find a total of 100 clues
+  GS: '90'
+  Guide: true
+  Number of Gamers: 1094
+  Percentage of Gamers: 10%
+  Ratio: 3.08
+  TA: '277'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Hero
+  Description: Save your partners from The Creature 25 times
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1734
+  Percentage of Gamers: 17%
+  Ratio: 2.44
+  TA: '36'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Athlete
+  Description: As an Investigator, walk the distance of a Marathon (42.2km)
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1048
+  Percentage of Gamers: 10%
+  Ratio: 3.15
+  TA: '47'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Hope they are Biodegradable
+  Description: As an Investigator, throw a total of 100 lightsticks
+  GS: '15'
+  Guide: false
+  Number of Gamers: 3149
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '27'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Unstoppable
+  Description: As the Creature, catch an investigator while being stunned by a flashlight
+  GS: '15'
+  Guide: false
+  Number of Gamers: 6098
+  Percentage of Gamers: 58%
+  Ratio: 1.3
+  TA: '19'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Peekaboo!
+  Description: As the Creature, catch an unaware investigator
+  GS: '15'
+  Guide: true
+  Number of Gamers: 5790
+  Percentage of Gamers: 56%
+  Ratio: 1.34
+  TA: '20'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Finders Keepers
+  Description: As an Investigator, pick a total of 25 batteries
+  GS: '30'
+  Guide: false
+  Number of Gamers: 4147
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '47'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Blind Luck
+  Description: As an Investigator, win a game with no energy left in your flashlight
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2334
+  Percentage of Gamers: 22%
+  Ratio: 2.11
+  TA: '31'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Public Works
+  Description: As the Creature, place a total of 25 Idols
+  GS: '30'
+  Guide: true
+  Number of Gamers: 3381
+  Percentage of Gamers: 32%
+  Ratio: 1.75
+  TA: '52'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: The Scooby Gang
+  Description: Finish a 4vs1 game with everyone using a Classic character
+  GS: '15'
+  Guide: true
+  Number of Gamers: 340
+  Percentage of Gamers: 3%
+  Ratio: 5.53
+  TA: '82'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+- Achievement Name: Girl Power
+  Description: Win a 4vs1 game in a women-only Investigator team
+  GS: '15'
+  Guide: false
+  Number of Gamers: 606
+  Percentage of Gamers: 6%
+  Ratio: 4.14
+  TA: '62'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+- Achievement Name: OCD
+  Description: Pick a battery when you don't need it
+  GS: '15'
+  Guide: true
+  Number of Gamers: 6527
+  Percentage of Gamers: 63%
+  Ratio: 1.26
+  TA: '18'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Can I help you?
+  Description: As the Creature, catch an investigator while he's picking up a battery
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3908
+  Percentage of Gamers: 37%
+  Ratio: 1.63
+  TA: '24'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Need fresh underwear?
+  Description: As the Creature, catch an investigator that has lost his mind
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3977
+  Percentage of Gamers: 38%
+  Ratio: 1.61
+  TA: '24'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+- Achievement Name: The friendly ghost
+  Description: As a Ghost, disable a total of 25 Idols
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1655
+  Percentage of Gamers: 16%
+  Ratio: 2.5
+  TA: '37'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+  - 4 Players Required
+- Achievement Name: Back from the Grave
+  Description: As an Investigator, die a total of 20 times
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1374
+  Percentage of Gamers: 13%
+  Ratio: 2.75
+  TA: '41'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Horror in the Woods
+  Description: As the Creature, win a game in the Norwood Praires
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2142
+  Percentage of Gamers: 21%
+  Ratio: 2.2
+  TA: '33'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: A Peaceful Stroll
+  Description: As an Investigator, win a game in the Norwood Praires
+  GS: '15'
+  Guide: false
+  Number of Gamers: 3155
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '27'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Where's your God now?
+  Description: As the Creature, win a game in the Abbey
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2241
+  Percentage of Gamers: 21%
+  Ratio: 2.15
+  TA: '32'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Peace of Mind
+  Description: As an Investigator, win a game in the Abbey
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2494
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '30'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Master Surgeon
+  Description: As the Creature, win a game in the Hospital
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2734
+  Percentage of Gamers: 26%
+  Ratio: 1.95
+  TA: '29'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+- Achievement Name: Clean Bill of Health
+  Description: As an Investigator, win a game in the Hospital
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2996
+  Percentage of Gamers: 29%
+  Ratio: 1.86
+  TA: '27'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Shoo! Shoo!
+  Description: As an Investigator, force the creature to flee by picking a tape when
+    it's close to you
+  GS: '15'
+  Guide: true
+  Number of Gamers: 5791
+  Percentage of Gamers: 56%
+  Ratio: 1.34
+  TA: '20'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Nobody Left Behind
+  Description: As an investigator, win a 4vs1 game with no casualties
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1252
+  Percentage of Gamers: 12%
+  Ratio: 2.88
+  TA: '86'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+- Achievement Name: Buried Deep Underground
+  Description: As the Creature, win a game in the Bunker
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2176
+  Percentage of Gamers: 21%
+  Ratio: 2.18
+  TA: '32'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Take Shelter
+  Description: As an Investigator, win a game in the Bunker
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2737
+  Percentage of Gamers: 26%
+  Ratio: 1.94
+  TA: '29'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: I Know What You Did
+  Description: As the Creature, win a game in the Campsite
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2184
+  Percentage of Gamers: 21%
+  Ratio: 2.18
+  TA: '32'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: A Relaxing Holiday
+  Description: As an Investigator, win a game in the Campsite
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2797
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '28'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Soul Harvester
+  Description: Play 5 games as Olkoth
+  GS: '20'
+  Guide: false
+  Number of Gamers: 915
+  Percentage of Gamers: 9%
+  Ratio: 3.37
+  TA: '67'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Relentless Fury
+  Description: Play 5 games as Rusalka
+  GS: '20'
+  Guide: false
+  Number of Gamers: 869
+  Percentage of Gamers: 8%
+  Ratio: 3.46
+  TA: '69'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+  - Level
+- Achievement Name: It Came From Outer Space
+  Description: Play 5 games as Subject 23
+  GS: '20'
+  Guide: false
+  Number of Gamers: 739
+  Percentage of Gamers: 7%
+  Ratio: 3.75
+  TA: '75'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+  - Level
+- Achievement Name: Team player
+  Description: Play 20 games as an Investigator
+  GS: '20'
+  Guide: false
+  Number of Gamers: 2035
+  Percentage of Gamers: 20%
+  Ratio: 2.26
+  TA: '45'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Chant of Death
+  Description: Play 5 games as Darcy
+  GS: '20'
+  Guide: true
+  Number of Gamers: 744
+  Percentage of Gamers: 7%
+  Ratio: 3.74
+  TA: '74'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+  - Level
+Base Ratio: 2.436
+Base TA: 2436
+Delisted: false
+Developer: Milkstone Studios
+Game Name: White Noise 2
+Genres: Action Horror
+Install Size: 2120.0
+Number of Completions: 249
+Number of Gamers: 10424
+Overall Completion Time:
+- 12.0
+- 15.0
+Overall GS: 1000
+Overall Ratio: 2.436
+Overall TA: 2436
+PDU: 0
+Percentage Completed: 2.39
+Publisher: Milkstone Studios
+Release Date: 01 September 2017
+Server Closure: false
+Site Rating: 3.28
+Update Achievements: []
+Walkthrough: false

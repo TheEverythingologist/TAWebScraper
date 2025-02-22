@@ -1,0 +1,634 @@
+Add On Achievements: []
+Base Completion Time:
+- 15.0
+- 20.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: You Will Be Ace
+  Description: Destroy 4 planes in Versus mode
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1045
+  Percentage of Gamers: 23%
+  Ratio: 2.1
+  TA: '21'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Good Start
+  Description: Receive 5 medals
+  GS: '40'
+  Guide: true
+  Number of Gamers: 404
+  Percentage of Gamers: 9%
+  Ratio: 3.37
+  TA: '135'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Brave Spirit
+  Description: Win a battle against superior forces in Versus mode.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 832
+  Percentage of Gamers: 18%
+  Ratio: 2.35
+  TA: '70'
+  Tags:
+  - Online Mode
+  - Cooperative
+  - 12 Players Required
+- Achievement Name: Leader
+  Description: Win a battle in Versus mode as the leader.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1193
+  Percentage of Gamers: 26%
+  Ratio: 1.96
+  TA: '59'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Rookie
+  Description: Earn the second rank
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2879
+  Percentage of Gamers: 62%
+  Ratio: 1.26
+  TA: '12'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Combat Pilot
+  Description: Earn the fifth rank
+  GS: '40'
+  Guide: false
+  Number of Gamers: 2058
+  Percentage of Gamers: 45%
+  Ratio: 1.49
+  TA: '59'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Half-Way
+  Description: Earn the tenth rank
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1109
+  Percentage of Gamers: 24%
+  Ratio: 2.03
+  TA: '40'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Preparing
+  Description: Complete the Pre-War chapter.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2943
+  Percentage of Gamers: 64%
+  Ratio: 1.25
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: To The Far East
+  Description: Complete the American Historical campaign.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 1590
+  Percentage of Gamers: 34%
+  Ratio: 1.7
+  TA: '85'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: From The Far East
+  Description: Complete the Japanese Historical campaign.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 889
+  Percentage of Gamers: 19%
+  Ratio: 2.27
+  TA: '113'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Pearl Harbor
+  Description: Complete the Japanese chapter "Attack on Pearl Harbor".
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1742
+  Percentage of Gamers: 38%
+  Ratio: 1.62
+  TA: '32'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Wake Island
+  Description: Complete the American chapter "Battle of Wake Island".
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2301
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Midway Atoll
+  Description: Complete the Japanese chapter "Battle of Midway".
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1213
+  Percentage of Gamers: 26%
+  Ratio: 1.95
+  TA: '39'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: The Coral Sea
+  Description: Complete the American chapter "Battle of the Coral Sea".
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2074
+  Percentage of Gamers: 45%
+  Ratio: 1.49
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Guadalcanal
+  Description: Complete the Japanese chapter "Guadalcanal Campaign".
+  GS: '20'
+  Guide: false
+  Number of Gamers: 889
+  Percentage of Gamers: 19%
+  Ratio: 2.27
+  TA: '45'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Winner
+  Description: Complete any Dynamic campaign
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1098
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '40'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Malta
+  Description: Complete any mission in the Single Missions chapter "Siege of Malta".
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1421
+  Percentage of Gamers: 31%
+  Ratio: 1.8
+  TA: '36'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Kuban
+  Description: Complete any mission in the Single Missions chapter "Battle for the
+    Kuban".
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1261
+  Percentage of Gamers: 27%
+  Ratio: 1.91
+  TA: '38'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Ruhr
+  Description: Complete any mission in the Single Missions chapter "Battle of Ruhr".
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1351
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '36'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: New Guinea
+  Description: Complete any mission in the Single Missions chapter "New Guinea Campaign".
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1091
+  Percentage of Gamers: 24%
+  Ratio: 2.05
+  TA: '41'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Takeoff
+  Description: Take off.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 4591
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '20'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Main Storyline
+- Achievement Name: It Was Easy
+  Description: Land on an aircraft carrier.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2898
+  Percentage of Gamers: 63%
+  Ratio: 1.26
+  TA: '25'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The Italian
+  Description: Fly in each Italian plane.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 549
+  Percentage of Gamers: 12%
+  Ratio: 2.89
+  TA: '57'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: The Australian
+  Description: Fly in each Australian plane.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 514
+  Percentage of Gamers: 11%
+  Ratio: 2.99
+  TA: '59'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Choose Your Favorite
+  Description: Fly in one of each country's planes.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1049
+  Percentage of Gamers: 23%
+  Ratio: 2.09
+  TA: '62'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Make a Flight
+  Description: Complete any mission in CO-OP mode
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1503
+  Percentage of Gamers: 33%
+  Ratio: 1.75
+  TA: '52'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: New Skin
+  Description: Earn any skin for your plane
+  GS: '30'
+  Guide: true
+  Number of Gamers: 463
+  Percentage of Gamers: 10%
+  Ratio: 3.15
+  TA: '94'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: New Decal
+  Description: Earn any decal for your plane
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1088
+  Percentage of Gamers: 24%
+  Ratio: 2.06
+  TA: '61'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: New Record
+  Description: Destroy 100 planes
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1867
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '78'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: New Weapon
+  Description: Destroy 100 ground units
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1068
+  Percentage of Gamers: 23%
+  Ratio: 2.07
+  TA: '103'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: First Wave
+  Description: Destroy all vehicles on Wheeler Field in the mission "First Wave".
+  GS: '10'
+  Guide: true
+  Number of Gamers: 534
+  Percentage of Gamers: 12%
+  Ratio: 2.94
+  TA: '29'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Second Wave
+  Description: Bomb two different targets by one loadout in the mission "Second Wave".
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1054
+  Percentage of Gamers: 23%
+  Ratio: 2.09
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Return to Oahu
+  Description: Make "Touch and Go" on Ford Island in the mission "Return to Oahu".
+  GS: '10'
+  Guide: true
+  Number of Gamers: 539
+  Percentage of Gamers: 12%
+  Ratio: 2.92
+  TA: '29'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Survivor
+  Description: Land your damaged aircraft on the airfield in the mission "The Two
+    Against Thirty-Nine".
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1692
+  Percentage of Gamers: 37%
+  Ratio: 1.65
+  TA: '16'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Second Breath
+  Description: Rearm on the airfield between attacks on hostile ships in the mission
+    "American Counterattack".
+  GS: '10'
+  Guide: true
+  Number of Gamers: 708
+  Percentage of Gamers: 15%
+  Ratio: 2.55
+  TA: '25'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Blitz Attack
+  Description: Destroy 6 enemy bombers before they reach the Wake in the mission "Japanese
+    Raid".
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2114
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '14'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Bombshell
+  Description: Damage destroyer with machine gun fire in the mission "Invasion of
+    Tulagi".
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2162
+  Percentage of Gamers: 47%
+  Ratio: 1.46
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Sentinel
+  Description: Don't let enemy fighters destroy any bomber of your group in the mission
+    "Attack on Lexington".
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1223
+  Percentage of Gamers: 26%
+  Ratio: 1.94
+  TA: '19'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Untouchable
+  Description: Don't die in the mission "Shokaku Defense".
+  GS: '10'
+  Guide: true
+  Number of Gamers: 808
+  Percentage of Gamers: 17%
+  Ratio: 2.38
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Not a Victim
+  Description: Destroy two hostile fighters with the rear gunner in the mission "To
+    Scratch One Flat-top".
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2027
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '15'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Eagle-Eyed
+  Description: Find the TF-17 carrier fleet in the "Counterattack" mission.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 528
+  Percentage of Gamers: 11%
+  Ratio: 2.95
+  TA: '29'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Hedgehopper
+  Description: Destroy 5 light targets on Midway Island on Simulator difficulty in
+    the "Midway Atoll" mission.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 209
+  Percentage of Gamers: 5%
+  Ratio: 4.69
+  TA: '46'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Defender
+  Description: Destroy 3 enemy bombers in each wave on Realistic difficulty in the
+    "First Carrier Fleet" mission.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 246
+  Percentage of Gamers: 5%
+  Ratio: 4.33
+  TA: '43'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Way of the Sun
+  Description: Complete the 1st secondary mission objective in the "Fate of Hiryu"
+    mission.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1891
+  Percentage of Gamers: 41%
+  Ratio: 1.56
+  TA: '15'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Formation Keeper
+  Description: Stay near the flight leader all the way to the enemy fleet in the "American
+    Strike" mission.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1329
+  Percentage of Gamers: 29%
+  Ratio: 1.86
+  TA: '18'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: One of a Few
+  Description: Land on the Zuikaku at the end of the "Battle of South Pacific" mission
+    on Realistic difficulty.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 259
+  Percentage of Gamers: 6%
+  Ratio: 4.22
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Fast and Furious
+  Description: Complete the first objective in less than 5 minutes in the "Tulagi
+    Landing" mission.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 981
+  Percentage of Gamers: 21%
+  Ratio: 2.16
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Total Annihilation
+  Description: Destroy at least 20 enemy bombers in the "Battle of the Santa Cruz"
+    mission.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 894
+  Percentage of Gamers: 19%
+  Ratio: 2.27
+  TA: '22'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Sharp Shooter
+  Description: Destroy 5 enemy planes on Realistic difficulty in the "Battle of the
+    Eastern Solomons" mission.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 253
+  Percentage of Gamers: 5%
+  Ratio: 4.27
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Killer
+  Description: Kill 15 enemy infantry units in the "Battle for Henderson Field" mission.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 494
+  Percentage of Gamers: 11%
+  Ratio: 3.06
+  TA: '30'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 2.106
+Base TA: 2106
+Delisted: true
+Developer: Gaijin Entertainment
+Game Name: Birds of Steel
+Genres: Aerial, Vehicular Combat
+Install Size: 5300.0
+Number of Completions: 158
+Number of Gamers: 4624
+Overall Completion Time:
+- 15.0
+- 20.0
+Overall GS: 1000
+Overall Ratio: 2.106
+Overall TA: 2106
+PDU: 0
+Percentage Completed: 3.42
+Publisher: Konami Digital Entertainment
+Release Date: 13 March 2012
+Server Closure: false
+Site Rating: 3.66
+Update Achievements: []
+Walkthrough: false

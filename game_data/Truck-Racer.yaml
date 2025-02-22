@@ -1,0 +1,621 @@
+Add On Achievements: []
+Base Completion Time:
+- 8.0
+- 10.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: 1st for the 1st time
+  Description: Come in 1st place in an event race.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 761
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '5'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: It needs to race
+  Description: Race in a truck you bought.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 611
+  Percentage of Gamers: 61%
+  Ratio: 1.28
+  TA: '6'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: An unexpected failure
+  Description: Have an engine breakdown in the last 50 meters of the race.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 454
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '7'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Good, but not good enough
+  Description: Mount the podium 15 times in the championship.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 562
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '6'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Incredible comeback!
+  Description: Win a race starting from the back of the grid.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 816
+  Percentage of Gamers: 81%
+  Ratio: 1.1
+  TA: '5'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Recorder
+  Description: Post a time in all the Time Attack races.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 360
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '8'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Better than you!
+  Description: Beat your own record in an event race.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 658
+  Percentage of Gamers: 66%
+  Ratio: 1.23
+  TA: '6'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Super drift
+  Description: Drift for over 5 seconds.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 881
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Survivor
+  Description: Limp across the finish line with every part of the truck's bodywork
+    damaged.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 805
+  Percentage of Gamers: 80%
+  Ratio: 1.11
+  TA: '11'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Crasher
+  Description: Crash 5 of your opponents' trucks.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 353
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '16'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Truck Armageddon
+  Description: Crash 15 of your opponents' trucks.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 339
+  Percentage of Gamers: 34%
+  Ratio: 1.71
+  TA: '34'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Street Hawk
+  Description: Fill the Nitro bar and then use it all in one go without hitting anything.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 704
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '23'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: No Mistake
+  Description: Do a complete lap without touching the decor.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 866
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '21'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Like a real trucker!
+  Description: Finish an Expert race in a truck that has all of its original parts.
+  GS: '60'
+  Guide: true
+  Number of Gamers: 525
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '82'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Vroom
+  Description: Finish the training.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 832
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: The King of shopping
+  Description: Make your 1st purchase.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 705
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Engine Down!
+  Description: Have your engine break down during a race.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 619
+  Percentage of Gamers: 62%
+  Ratio: 1.27
+  TA: '6'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Painter
+  Description: Create a paint set.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 567
+  Percentage of Gamers: 57%
+  Ratio: 1.32
+  TA: '6'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Rome wasn't built in a day
+  Description: Restart a race you haven't finished on the podium for yet.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 667
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '6'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Fine tuning
+  Description: Complete a race with a truck which has no more original parts.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 430
+  Percentage of Gamers: 43%
+  Ratio: 1.52
+  TA: '7'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Quality Assurance
+  Description: Drive all of the trucks in the championship.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 431
+  Percentage of Gamers: 43%
+  Ratio: 1.52
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Golden Boy
+  Description: Earn 500,000 credits.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 452
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Wealthy Man
+  Description: Earn 1,000,000 credits.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 388
+  Percentage of Gamers: 39%
+  Ratio: 1.6
+  TA: '48'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: D-Grade
+  Description: Engine class D purchased.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 651
+  Percentage of Gamers: 65%
+  Ratio: 1.23
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: C-grade
+  Description: Engine class C purchased.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 600
+  Percentage of Gamers: 60%
+  Ratio: 1.29
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: B-Grade
+  Description: Engine class B purchased.
+  GS: '40'
+  Guide: false
+  Number of Gamers: 581
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '52'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: A-Grade
+  Description: Engine class A purchased.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 563
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '66'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: I want it all
+  Description: Buy all of the trucks.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 497
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: A bronze championship
+  Description: Win a bronze medal in every event.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 422
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '46'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
+- Achievement Name: A silver championship
+  Description: Win a silver medal in every event.
+  GS: '40'
+  Guide: false
+  Number of Gamers: 422
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '61'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
+- Achievement Name: A gold championship
+  Description: Win a gold medal in every event.
+  GS: '60'
+  Guide: false
+  Number of Gamers: 417
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '92'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
+- Achievement Name: Platinum Trucker
+  Description: Win a platinum medal in every event.
+  GS: '80'
+  Guide: true
+  Number of Gamers: 352
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '134'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Completed Event 1
+  Description: Finish the event "Engine On!"
+  GS: '5'
+  Guide: false
+  Number of Gamers: 710
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Completed Event 2
+  Description: Finish the event "On Dirt"
+  GS: '5'
+  Guide: false
+  Number of Gamers: 639
+  Percentage of Gamers: 64%
+  Ratio: 1.25
+  TA: '6'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Completed Event 3
+  Description: Finish the event "Asphalt King"
+  GS: '5'
+  Guide: false
+  Number of Gamers: 604
+  Percentage of Gamers: 60%
+  Ratio: 1.28
+  TA: '6'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Completed Event 4
+  Description: Finish the event "Truck-Cross Cup"
+  GS: '10'
+  Guide: false
+  Number of Gamers: 569
+  Percentage of Gamers: 57%
+  Ratio: 1.32
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Completed Event 5
+  Description: Finish the event "The Rampage".
+  GS: '10'
+  Guide: false
+  Number of Gamers: 540
+  Percentage of Gamers: 54%
+  Ratio: 1.36
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Completed Event 6
+  Description: Finish the event "Rocky Competition".
+  GS: '10'
+  Guide: false
+  Number of Gamers: 506
+  Percentage of Gamers: 50%
+  Ratio: 1.4
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Completed Event 7
+  Description: Finish the event "Weston Trophy".
+  GS: '20'
+  Guide: false
+  Number of Gamers: 489
+  Percentage of Gamers: 49%
+  Ratio: 1.43
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Completed Event 8
+  Description: Finish the event "Eight".
+  GS: '20'
+  Guide: false
+  Number of Gamers: 461
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Completed Event 9
+  Description: Finish the event "Raion World Cup"
+  GS: '20'
+  Guide: false
+  Number of Gamers: 456
+  Percentage of Gamers: 46%
+  Ratio: 1.48
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Completed Event 10
+  Description: Finish the event "Royal KT".
+  GS: '30'
+  Guide: false
+  Number of Gamers: 442
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '45'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Completed Event 11
+  Description: Finish the event "Team 41 Cup".
+  GS: '40'
+  Guide: false
+  Number of Gamers: 435
+  Percentage of Gamers: 43%
+  Ratio: 1.51
+  TA: '60'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Completed Event 12
+  Description: Finish the event "All-Star Tour".
+  GS: '40'
+  Guide: false
+  Number of Gamers: 428
+  Percentage of Gamers: 43%
+  Ratio: 1.52
+  TA: '61'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Completed Event 13
+  Description: Finish the event "Legendary Tournament".
+  GS: '60'
+  Guide: false
+  Number of Gamers: 424
+  Percentage of Gamers: 42%
+  Ratio: 1.53
+  TA: '92'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Win online
+  Description: Come 1st in an online race.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 432
+  Percentage of Gamers: 43%
+  Ratio: 1.52
+  TA: '22'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Online trucker
+  Description: Take part in 5 online races.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 442
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '22'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: 10 times
+  Description: Take part in 10 online races.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 440
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '30'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Addicted
+  Description: Take part in 25 online races.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 435
+  Percentage of Gamers: 43%
+  Ratio: 1.51
+  TA: '37'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: 5 in a row
+  Description: Come first in 5 online races in a row.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 424
+  Percentage of Gamers: 42%
+  Ratio: 1.53
+  TA: '38'
+  Tags:
+  - Online Mode
+  - Versus
+Base Ratio: 1.433
+Base TA: 1433
+Delisted: true
+Developer: KT Racing
+Game Name: Truck Racer
+Genres: Arcade Racing, Automobile
+Install Size: 1020.0
+Number of Completions: 294
+Number of Gamers: 1002
+Overall Completion Time:
+- 8.0
+- 10.0
+Overall GS: 1000
+Overall Ratio: 1.433
+Overall TA: 1433
+PDU: 0
+Percentage Completed: 29.34
+Publisher: Nacon
+Release Date: 01 November 2013
+Server Closure: false
+Site Rating: 2.03
+Update Achievements: []
+Walkthrough: false

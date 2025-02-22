@@ -1,0 +1,633 @@
+Add On Achievements: []
+Base Completion Time:
+- 60.0
+- 80.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Rookie
+  Description: Race 10 races
+  GS: '5'
+  Guide: true
+  Number of Gamers: 3466
+  Percentage of Gamers: 68%
+  Ratio: 1.21
+  TA: '6'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Pro
+  Description: Race 25 races
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2558
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Veteran
+  Description: Race 50 races
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1838
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Hall Of Famer
+  Description: Race 100 races
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1231
+  Percentage of Gamers: 24%
+  Ratio: 2.03
+  TA: '40'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Legend
+  Description: Race 200 races
+  GS: '25'
+  Guide: false
+  Number of Gamers: 583
+  Percentage of Gamers: 11%
+  Ratio: 2.96
+  TA: '74'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Checkered Flag
+  Description: Win a race
+  GS: '5'
+  Guide: true
+  Number of Gamers: 3772
+  Percentage of Gamers: 74%
+  Ratio: 1.16
+  TA: '5'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Movin' On Up
+  Description: Win 10 races
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1513
+  Percentage of Gamers: 30%
+  Ratio: 1.83
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: All I Do Is Win
+  Description: Win 25 races
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1006
+  Percentage of Gamers: 20%
+  Ratio: 2.25
+  TA: '33'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: No Longer Rusty
+  Description: Win 56 races
+  GS: '20'
+  Guide: false
+  Number of Gamers: 554
+  Percentage of Gamers: 11%
+  Ratio: 3.03
+  TA: '60'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Not Intimidated
+  Description: Win 77 races
+  GS: '25'
+  Guide: false
+  Number of Gamers: 407
+  Percentage of Gamers: 8%
+  Ratio: 3.54
+  TA: '88'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Over The Rainbow
+  Description: Win 94 races
+  GS: '30'
+  Guide: false
+  Number of Gamers: 346
+  Percentage of Gamers: 7%
+  Ratio: 3.84
+  TA: '115'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Long Live The King
+  Description: Win 200 races
+  GS: '50'
+  Guide: true
+  Number of Gamers: 174
+  Percentage of Gamers: 3%
+  Ratio: 5.41
+  TA: '270'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Points Fan
+  Description: Earn 10,000 speed points
+  GS: '5'
+  Guide: false
+  Number of Gamers: 3287
+  Percentage of Gamers: 64%
+  Ratio: 1.24
+  TA: '6'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Points Collector
+  Description: Earn 100,000 speed points
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1377
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Points Afficiando
+  Description: Earn 500,000 speed points
+  GS: '15'
+  Guide: true
+  Number of Gamers: 288
+  Percentage of Gamers: 6%
+  Ratio: 4.21
+  TA: '63'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Leveling Up
+  Description: Earn Player Level 2
+  GS: '5'
+  Guide: true
+  Number of Gamers: 764
+  Percentage of Gamers: 15%
+  Ratio: 2.58
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: V For Victory
+  Description: Earn Player Level 5
+  GS: '15'
+  Guide: true
+  Number of Gamers: 213
+  Percentage of Gamers: 4%
+  Ratio: 4.89
+  TA: '73'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Member Of The Elite
+  Description: Earn Elite Player Level
+  GS: '20'
+  Guide: true
+  Number of Gamers: 119
+  Percentage of Gamers: 2%
+  Ratio: 6.55
+  TA: '131'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Done Unlocking
+  Description: Unlock all tracks
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2751
+  Percentage of Gamers: 54%
+  Ratio: 1.36
+  TA: '13'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Test Of Endurance
+  Description: Complete a race with a 100% race length
+  GS: '30'
+  Guide: false
+  Number of Gamers: 767
+  Percentage of Gamers: 15%
+  Ratio: 2.58
+  TA: '77'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Endurance Champion
+  Description: Win a race with a 100% race length
+  GS: '50'
+  Guide: true
+  Number of Gamers: 636
+  Percentage of Gamers: 12%
+  Ratio: 2.83
+  TA: '141'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Racing At 90%
+  Description: Earn a speed rating of 90 or better at any track
+  GS: '10'
+  Guide: false
+  Number of Gamers: 3449
+  Percentage of Gamers: 67%
+  Ratio: 1.21
+  TA: '12'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Racing At 95%
+  Description: Earn a speed rating of 95 or better at any track
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2645
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Racing At 100%
+  Description: Earn a speed rating of 100 or better at any track
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1876
+  Percentage of Gamers: 37%
+  Ratio: 1.65
+  TA: '33'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Racing Elite
+  Description: Earn an Elite speed rating at any track
+  GS: '30'
+  Guide: false
+  Number of Gamers: 1155
+  Percentage of Gamers: 23%
+  Ratio: 2.1
+  TA: '63'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Tour The Tracks
+  Description: Complete a race at every track
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1900
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '32'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Road Warrior
+  Description: Win a race at each road track
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1003
+  Percentage of Gamers: 20%
+  Ratio: 2.25
+  TA: '67'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Short And Sweet
+  Description: Win a race at each short track
+  GS: '30'
+  Guide: true
+  Number of Gamers: 815
+  Percentage of Gamers: 16%
+  Ratio: 2.5
+  TA: '75'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Best At All The Rest
+  Description: Win a race at each speedway track
+  GS: '30'
+  Guide: false
+  Number of Gamers: 489
+  Percentage of Gamers: 10%
+  Ratio: 3.23
+  TA: '96'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Super Speedster
+  Description: Win a race at each super speedway track
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1332
+  Percentage of Gamers: 26%
+  Ratio: 1.95
+  TA: '58'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Small Step
+  Description: Start a season
+  GS: '5'
+  Guide: true
+  Number of Gamers: 3684
+  Percentage of Gamers: 72%
+  Ratio: 1.17
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Proven Champion
+  Description: Win a season
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1159
+  Percentage of Gamers: 23%
+  Ratio: 2.09
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Sprint Cup Champion
+  Description: Win the Sprint Cup
+  GS: '15'
+  Guide: false
+  Number of Gamers: 875
+  Percentage of Gamers: 17%
+  Ratio: 2.41
+  TA: '36'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Who Am I?
+  Description: Create a character
+  GS: '5'
+  Guide: true
+  Number of Gamers: 4395
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Franchise Racer
+  Description: Sign with a primary sponsor
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3641
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Fully Sponsored
+  Description: Unlock all secondary sponsor slots
+  GS: '25'
+  Guide: false
+  Number of Gamers: 1453
+  Percentage of Gamers: 28%
+  Ratio: 1.87
+  TA: '46'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Earn A Little Extra
+  Description: Earn money from a secondary sponsor
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2900
+  Percentage of Gamers: 57%
+  Ratio: 1.32
+  TA: '19'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Tweak It Just A Little
+  Description: Purchase an upgrade
+  GS: '5'
+  Guide: false
+  Number of Gamers: 3175
+  Percentage of Gamers: 62%
+  Ratio: 1.26
+  TA: '6'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: State Of The Art Garage
+  Description: Purchase all facility upgrades
+  GS: '35'
+  Guide: true
+  Number of Gamers: 993
+  Percentage of Gamers: 19%
+  Ratio: 2.26
+  TA: '79'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Fully Upgraded
+  Description: Purchase all upgrades
+  GS: '50'
+  Guide: false
+  Number of Gamers: 704
+  Percentage of Gamers: 14%
+  Ratio: 2.69
+  TA: '134'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Established Competitor
+  Description: Win a race in Career
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1670
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '26'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Career Champion
+  Description: Win the Sprint Cup in Career
+  GS: '40'
+  Guide: false
+  Number of Gamers: 738
+  Percentage of Gamers: 14%
+  Ratio: 2.63
+  TA: '105'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Millionaire
+  Description: Earn a total of $1,000,000 in Career
+  GS: '25'
+  Guide: true
+  Number of Gamers: 1636
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '44'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Rookie No More
+  Description: Finish a season in Career
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1638
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '35'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Career Veteran
+  Description: Finish a 2nd season in Career
+  GS: '25'
+  Guide: false
+  Number of Gamers: 1091
+  Percentage of Gamers: 21%
+  Ratio: 2.16
+  TA: '54'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Challenge Accepted
+  Description: Unlock a challenge
+  GS: '5'
+  Guide: false
+  Number of Gamers: 3729
+  Percentage of Gamers: 73%
+  Ratio: 1.17
+  TA: '5'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Challenge!
+  Description: Unlock half of the challenges
+  GS: '10'
+  Guide: true
+  Number of Gamers: 942
+  Percentage of Gamers: 18%
+  Ratio: 2.32
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Take On All Challengers
+  Description: Unlock all challenges
+  GS: '15'
+  Guide: false
+  Number of Gamers: 579
+  Percentage of Gamers: 11%
+  Ratio: 2.97
+  TA: '44'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Challenge Accomplished
+  Description: Complete a challenge
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1757
+  Percentage of Gamers: 34%
+  Ratio: 1.7
+  TA: '17'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Force To Be Reckoned With
+  Description: Complete half of the challenges
+  GS: '15'
+  Guide: false
+  Number of Gamers: 445
+  Percentage of Gamers: 9%
+  Ratio: 3.38
+  TA: '50'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: King Of The Hill
+  Description: Complete all challenges
+  GS: '25'
+  Guide: false
+  Number of Gamers: 211
+  Percentage of Gamers: 4%
+  Ratio: 4.92
+  TA: '123'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Online Racer
+  Description: Complete a Multiplayer race
+  GS: '5'
+  Guide: false
+  Number of Gamers: 1846
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '8'
+  Tags:
+  - Discontinued
+- Achievement Name: Online Victory
+  Description: Win a Multiplayer race
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1225
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '20'
+  Tags:
+  - Discontinued
+Base Ratio: 2.654
+Base TA: 2654
+Delisted: false
+Developer: Monster Games
+Game Name: NASCAR Heat Evolution
+Genres: Simulation Racing, Automobile, Sports
+Install Size: 8710.0
+Number of Completions: 73
+Number of Gamers: 5112
+Overall Completion Time:
+- 60.0
+- 80.0
+Overall GS: 1000
+Overall Ratio: 2.654
+Overall TA: 2654
+PDU: 2
+Percentage Completed: 1.43
+Publisher: 704Games
+Release Date: 13 September 2016
+Server Closure: false
+Site Rating: 3.07
+Update Achievements: []
+Walkthrough: false

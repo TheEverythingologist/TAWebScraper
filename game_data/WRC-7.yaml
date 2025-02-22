@@ -1,0 +1,496 @@
+Add On Achievements: []
+Base Completion Time:
+- 100.0
+- 120.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Newcomer
+  Description: Complete your first Stage in solo mode
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3922
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Completionist
+  Description: Complete all Stages (excluding SSS) in solo mode
+  GS: '20'
+  Guide: true
+  Number of Gamers: 912
+  Percentage of Gamers: 19%
+  Ratio: 2.26
+  TA: '45'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Poser
+  Description: Complete all SSS in solo mode
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1086
+  Percentage of Gamers: 23%
+  Ratio: 2.07
+  TA: '41'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Upstart
+  Description: Win your first Stage in solo mode
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2949
+  Percentage of Gamers: 63%
+  Ratio: 1.25
+  TA: '18'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Perfectionist
+  Description: Win all Stages (excluding SSS) in solo mode
+  GS: '30'
+  Guide: true
+  Number of Gamers: 590
+  Percentage of Gamers: 13%
+  Ratio: 2.81
+  TA: '84'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Talent
+  Description: Win all SSS in solo mode
+  GS: '30'
+  Guide: true
+  Number of Gamers: 891
+  Percentage of Gamers: 19%
+  Ratio: 2.29
+  TA: '68'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Challenger
+  Description: Complete your first Stage in online multiplayer mode
+  GS: '10'
+  Guide: true
+  Number of Gamers: 812
+  Percentage of Gamers: 17%
+  Ratio: 2.4
+  TA: '24'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Fast learner
+  Description: Win your first Stage in online multiplayer mode
+  GS: '15'
+  Guide: true
+  Number of Gamers: 694
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '38'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Rising star
+  Description: Win your first SSS in online multiplayer mode
+  GS: '15'
+  Guide: true
+  Number of Gamers: 629
+  Percentage of Gamers: 13%
+  Ratio: 2.72
+  TA: '40'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Neat freak
+  Description: Finish a Stage without taking any damage in any mode
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1725
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '82'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Gravel specialist
+  Description: Drive more than 1,000 Km on gravel in solo mode
+  GS: '20'
+  Guide: true
+  Number of Gamers: 391
+  Percentage of Gamers: 8%
+  Ratio: 3.46
+  TA: '69'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Tarmac specialist
+  Description: Drive more than 500 Km on tarmac in solo mode
+  GS: '20'
+  Guide: true
+  Number of Gamers: 613
+  Percentage of Gamers: 13%
+  Ratio: 2.76
+  TA: '55'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Snow specialist
+  Description: Drive more than 500 Km on snow in solo mode
+  GS: '20'
+  Guide: true
+  Number of Gamers: 261
+  Percentage of Gamers: 6%
+  Ratio: 4.25
+  TA: '85'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Nomad
+  Description: Drive more than 5,000 Km on any surface in solo mode
+  GS: '30'
+  Guide: false
+  Number of Gamers: 156
+  Percentage of Gamers: 3%
+  Ratio: 5.47
+  TA: '164'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Junior WRC driver
+  Description: Start a new career
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3730
+  Percentage of Gamers: 80%
+  Ratio: 1.12
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: WRC 2 driver
+  Description: Complete a Junior WRC season and move up to WRC 2
+  GS: '25'
+  Guide: true
+  Number of Gamers: 1877
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '39'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: WRC driver
+  Description: Complete a WRC 2 season and move up to WRC
+  GS: '30'
+  Guide: false
+  Number of Gamers: 1299
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '56'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: WRC Champion
+  Description: Complete a WRC season and become champion
+  GS: '50'
+  Guide: true
+  Number of Gamers: 758
+  Percentage of Gamers: 16%
+  Ratio: 2.48
+  TA: '124'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Die-hard
+  Description: Win a Stage using only the cockpit view in solo mode
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1308
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '56'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Globetrotter
+  Description: Complete a Stage in each country in solo mode
+  GS: '25'
+  Guide: true
+  Number of Gamers: 1174
+  Percentage of Gamers: 25%
+  Ratio: 1.99
+  TA: '49'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Winner in Monte Carlo
+  Description: Reach the podium in the Rallye Monte Carlo in Career mode
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1397
+  Percentage of Gamers: 30%
+  Ratio: 1.82
+  TA: '36'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Winner in Sweden
+  Description: Reach the podium in the Rally Sweden in Career mode
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1358
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '37'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Winner in Mexico
+  Description: "Reach the podium in the Rally Guanajuato M\xE9xico in Career mode"
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1089
+  Percentage of Gamers: 23%
+  Ratio: 2.07
+  TA: '41'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Winner in Argentina
+  Description: Reach the podium in the YPF Rally Argentina in Career mode
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1264
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '38'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Winner in Portugal
+  Description: Reach the podium in the Vodafone Rally de Portugal in Career mode
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1450
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '35'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Winner in Sardinia
+  Description: Reach the podium in the Rally Italia Sardegna in Career mode
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1900
+  Percentage of Gamers: 41%
+  Ratio: 1.56
+  TA: '31'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Winner in Poland
+  Description: Reach the podium in the ORLEN 74th Rally Poland in Career mode
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1956
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '30'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Winner in Finland
+  Description: Reach the podium in the Neste Rally Finland in Career mode
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1649
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '33'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Winner in Germany
+  Description: Reach the podium in the ADAC Rallye Deutschland in Career mode
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1679
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '33'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Endurance
+  Description: Win all ES in solo mode
+  GS: '50'
+  Guide: true
+  Number of Gamers: 653
+  Percentage of Gamers: 14%
+  Ratio: 2.67
+  TA: '133'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Winner in Corsica
+  Description: Reach the podium in the Che Guevara Energy Drink Tour de Corse in Career
+    mode
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2121
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '29'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Winner in Spain
+  Description: Reach the podium in the RallyRACC CATALUNYA-COSTA DAURADA in Career
+    mode
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1612
+  Percentage of Gamers: 34%
+  Ratio: 1.7
+  TA: '34'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Winner in Wales
+  Description: Reach the podium in the Dayinsure Wales Rally GB in Career mode
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1205
+  Percentage of Gamers: 26%
+  Ratio: 1.97
+  TA: '39'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Winner in Australia
+  Description: Reach the podium in the Kennards Hire Rally Australia in Career mode
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1078
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '41'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Certified driver
+  Description: Achieve a score of at least 90 on the driving test
+  GS: '50'
+  Guide: true
+  Number of Gamers: 479
+  Percentage of Gamers: 10%
+  Ratio: 3.12
+  TA: '156'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Carefree soul
+  Description: Watch the full credits
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1331
+  Percentage of Gamers: 28%
+  Ratio: 1.87
+  TA: '28'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Manager
+  Description: Spend exactly 45 minutes conducting repairs in one session
+  GS: '30'
+  Guide: true
+  Number of Gamers: 952
+  Percentage of Gamers: 20%
+  Ratio: 2.21
+  TA: '66'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Stuntman
+  Description: Roll a car over in any mode
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3680
+  Percentage of Gamers: 78%
+  Ratio: 1.12
+  TA: '22'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Stamina
+  Description: Win your first ES in solo mode
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1883
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '31'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Crash-test dummy
+  Description: Completely total a car in any mode
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1023
+  Percentage of Gamers: 22%
+  Ratio: 2.14
+  TA: '42'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Legend
+  Description: Complete all accomplishments
+  GS: '50'
+  Guide: true
+  Number of Gamers: 109
+  Percentage of Gamers: 2%
+  Ratio: 6.54
+  TA: '327'
+  Tags:
+  - Online Mode
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Time Consuming
+Base Ratio: 2.431
+Base TA: 2431
+Delisted: false
+Developer: KT Racing
+Game Name: WRC 7
+Genres: Simulation Racing, Automobile, Sports
+Install Size: 18460.0
+Number of Completions: 109
+Number of Gamers: 4689
+Overall Completion Time:
+- 100.0
+- 120.0
+Overall GS: 1000
+Overall Ratio: 2.431
+Overall TA: 2431
+PDU: 0
+Percentage Completed: 2.32
+Publisher: Nacon, Maximum Entertainment
+Release Date: 26 September 2017
+Server Closure: false
+Site Rating: 3.65
+Update Achievements: []
+Walkthrough: false

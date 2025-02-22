@@ -1,0 +1,781 @@
+Add On Achievements:
+- Achievement Name: Desert Explorer
+  Description: Complete any round on the Coyote Canyon course under par.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 6806
+  Percentage of Gamers: 81%
+  Ratio: 1.63
+  TA: '8'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Path of Least Resistance
+  Description: Complete an 18-hole amateur-difficulty round on the Coyote Canyon course,
+    scoring -12 or better.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 2522
+  Percentage of Gamers: 30%
+  Ratio: 2.69
+  TA: '67'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Difficulty Specific
+- Achievement Name: Pro Circuit
+  Description: Complete an 18-hole pro-difficulty round on the Coyote Canyon course,
+    scoring -9 or better.
+  GS: '35'
+  Guide: false
+  Number of Gamers: 1161
+  Percentage of Gamers: 14%
+  Ratio: 3.96
+  TA: '138'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Difficulty Specific
+- Achievement Name: Elitest
+  Description: Complete an 18-hole elite-difficulty round on the Coyote Canyon course,
+    scoring -6 or better.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 854
+  Percentage of Gamers: 10%
+  Ratio: 4.62
+  TA: '185'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Difficulty Specific
+- Achievement Name: Thread the Needle
+  Description: Score an eagle on a par 5 hole on the Coyote Canyon course.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 6851
+  Percentage of Gamers: 82%
+  Ratio: 1.63
+  TA: '32'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: High Road
+  Description: Score a double eagle on a par 5 hole on the Coyote Canyon course.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 2653
+  Percentage of Gamers: 32%
+  Ratio: 2.62
+  TA: '65'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: High Dive
+  Description: Land within 3 feet of the pin on Coyote Canyon hole 18 from the long
+    (elite difficulty) tee.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1015
+  Percentage of Gamers: 12%
+  Ratio: 4.24
+  TA: '127'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Difficulty Specific
+  - Buggy
+- Achievement Name: Triple Jump
+  Description: Land on the green in one shot on hole 6 of the Coyote Canyon course.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 1327
+  Percentage of Gamers: 16%
+  Ratio: 3.71
+  TA: '92'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Purist
+  Description: Complete an 18-hole round at Coyote Canyon under par, without using
+    boosters, abilities or skills.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1692
+  Percentage of Gamers: 20%
+  Ratio: 3.28
+  TA: '49'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Condor Canyon
+  Description: Hit a hole-in-one on a par 5 hole on the Coyote Canyon course.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1298
+  Percentage of Gamers: 15%
+  Ratio: 3.75
+  TA: '112'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+Base Completion Time:
+- 40.0
+- 50.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Fore!
+  Description: Achieve an Amateur rating in any Career Mode event.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 35006
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '5'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Clubhouse Regular
+  Description: Reach level 25.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 15976
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '31'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Level
+- Achievement Name: Tour Master
+  Description: Reach level 50.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 8569
+  Percentage of Gamers: 21%
+  Ratio: 2.15
+  TA: '64'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Level
+- Achievement Name: In the Hunt
+  Description: Achieve an Amateur rating in 45 Career Mode events.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1314
+  Percentage of Gamers: 3%
+  Ratio: 5.5
+  TA: '110'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Stackable
+  - Buggy +
+  - Buggy
+- Achievement Name: On Fire
+  Description: Achieve a Pro rating in 45 Career Mode events.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 752
+  Percentage of Gamers: 2%
+  Ratio: 7.28
+  TA: '218'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Stackable
+  - Buggy +
+  - Buggy
+- Achievement Name: Bringing the 'A' Game
+  Description: Achieve an Elite rating in 45 Career Mode events.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 558
+  Percentage of Gamers: 1%
+  Ratio: 8.45
+  TA: '422'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Buggy +
+  - Buggy
+- Achievement Name: Zen Master
+  Description: Unlock Laoshi by winning the 'Great Wall Meet' career event.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 7428
+  Percentage of Gamers: 19%
+  Ratio: 2.31
+  TA: '69'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Illusionist
+  Description: Unlock Henry by winning the 'Monorail Meet' career event.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 19463
+  Percentage of Gamers: 49%
+  Ratio: 1.43
+  TA: '14'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Bring Me Luck
+  Description: Unlock Kiara by winning the 'Cliffhanger Meet' career event.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 11098
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '37'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: You Spin Me Round
+  Description: Unlock Dominique by winning the 'Uphill Meet' career event.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 6365
+  Percentage of Gamers: 16%
+  Ratio: 2.5
+  TA: '100'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Nest Egg
+  Description: Achieve total earnings of 250,000 credits.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 8630
+  Percentage of Gamers: 22%
+  Ratio: 2.15
+  TA: '43'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Valuable Commodity
+  Description: Equip three different boosters in a single round.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 23909
+  Percentage of Gamers: 60%
+  Ratio: 1.29
+  TA: '12'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Shop
+- Achievement Name: A Rare Thing Indeed
+  Description: Equip an Extreme piece of gear.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 28170
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '23'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Shop
+- Achievement Name: In Full Gear
+  Description: Equip new gear in place of all five 'Greenheart' items.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 21574
+  Percentage of Gamers: 54%
+  Ratio: 1.35
+  TA: '27'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Shop
+- Achievement Name: Rack 'em Up
+  Description: Equip a full set of gear to earn the set bonus.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 8455
+  Percentage of Gamers: 21%
+  Ratio: 2.17
+  TA: '43'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Shop
+  - Buggy +
+- Achievement Name: CaddieUp
+  Description: Equip a caddie with three perks.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 10233
+  Percentage of Gamers: 26%
+  Ratio: 1.97
+  TA: '19'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Level
+  - Shop
+- Achievement Name: The Long Game
+  Description: Complete a round under par with long tees and hard pins.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3844
+  Percentage of Gamers: 10%
+  Ratio: 3.22
+  TA: '64'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Difficulty Specific
+- Achievement Name: City Slicker
+  Description: Complete any round on the City Park course under par.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 26900
+  Percentage of Gamers: 67%
+  Ratio: 1.21
+  TA: '6'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Mountain Ranger
+  Description: Complete any round on the Rocky Ridge course under par.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 13412
+  Percentage of Gamers: 34%
+  Ratio: 1.72
+  TA: '17'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Coastline Comber
+  Description: Complete any round on the Emperor's Garden course under par.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 9708
+  Percentage of Gamers: 24%
+  Ratio: 2.02
+  TA: '40'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Jungle Adventurer
+  Description: Complete any round on the Burning Sands course under par.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 7133
+  Percentage of Gamers: 18%
+  Ratio: 2.36
+  TA: '70'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Chip & In
+  Description: Chip the ball into the cup from off the green.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 28313
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '23'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Ace
+  Description: Hit a hole-in-one.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 8978
+  Percentage of Gamers: 22%
+  Ratio: 2.1
+  TA: '63'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Sureshot
+  Description: Hit 3 perfect strikes on a par 5 hole, scoring par or better.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 20176
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '28'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Pin-Seeker
+  Description: Complete a round of at least 9 holes without stopping off the fairway,
+    fringe or green.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4324
+  Percentage of Gamers: 11%
+  Ratio: 3.03
+  TA: '91'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: BFF
+  Description: "Complete a round using a friend\u2019s caddie."
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7951
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '22'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Community
+- Achievement Name: The 19th Hole
+  Description: Complete a local multiplayer game with two or more players.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 14670
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Versus
+- Achievement Name: Rival Rouser
+  Description: Beat an opponent's round in Rival Mode.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 11713
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '55'
+  Tags:
+  - Online Mode
+  - Community
+- Achievement Name: Tweet Tweet
+  Description: Score a birdie.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 36126
+  Percentage of Gamers: 91%
+  Ratio: 1.05
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Soaring
+  Description: Score an eagle.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 20488
+  Percentage of Gamers: 51%
+  Ratio: 1.39
+  TA: '27'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: One for the Collection
+  Description: Score a double eagle.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 3861
+  Percentage of Gamers: 10%
+  Ratio: 3.21
+  TA: '80'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Hedge Your Bets
+  Description: Land within three feet of the pin using Henry's Illusion Ball ability.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 7522
+  Percentage of Gamers: 19%
+  Ratio: 2.3
+  TA: '46'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Lucky
+  Description: Land within 10 feet of the pin using Kiara's Lucky Clover ability.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 5045
+  Percentage of Gamers: 13%
+  Ratio: 2.81
+  TA: '56'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Fully Focused Flourish
+  Description: Hit a full power, perfect strike shot using Laoshi's Zen Focus ability.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3725
+  Percentage of Gamers: 9%
+  Ratio: 3.27
+  TA: '32'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Rules of Attraction
+  Description: Sink the ball from over 150 yards away using Reiko's Tesla Field ability.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 7336
+  Percentage of Gamers: 18%
+  Ratio: 2.33
+  TA: '46'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Ballistic
+  Description: Hit the ball over 300 yards using Frank's Rocket Launch ability.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 17082
+  Percentage of Gamers: 43%
+  Ratio: 1.52
+  TA: '15'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Super Spinnin'
+  Description: Sink the ball using Dominique's Super Spin ability.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 2288
+  Percentage of Gamers: 6%
+  Ratio: 4.17
+  TA: '125'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Reading the Green
+  Description: Sink five putts from at least ten feet away using Astrid's Putt Prediction
+    skill.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 12944
+  Percentage of Gamers: 32%
+  Ratio: 1.75
+  TA: '35'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Positive Approach
+  Description: Play five approaches that stop within 5 feet of the pin using Kirby's
+    Shot Prediction skill.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 4824
+  Percentage of Gamers: 12%
+  Ratio: 2.87
+  TA: '57'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Record Breaker
+  Description: Set a new shot record on the City Park, Rocky Ridge, Emperor's Garden
+    and Burning Sands courses.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 19488
+  Percentage of Gamers: 49%
+  Ratio: 1.43
+  TA: '42'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: In a Spin
+  Description: Play ten shots using backspin, stopping within 5 feet of the pin.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 11124
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '18'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Curveballs
+  Description: Play ten draw or fade shots, stopping within 10 feet of the pin.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7314
+  Percentage of Gamers: 18%
+  Ratio: 2.33
+  TA: '23'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Hop, Skip and Jump
+  Description: In one shot, skip the ball twice on water and land on solid ground.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3368
+  Percentage of Gamers: 8%
+  Ratio: 3.44
+  TA: '68'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Best Friends Twice
+  Description: On any specific record, earn the top spot among your friends, lose
+    it, then gain it back again.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 23235
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '32'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Community
+- Achievement Name: Movie Star
+  Description: Hole out spectacularly, triggering an automatic game clip.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 28550
+  Percentage of Gamers: 72%
+  Ratio: 1.18
+  TA: '29'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Super Putt
+  Description: Sink a putt from at least 60 feet away without using any golfer abilities
+    or caddie skills.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 2117
+  Percentage of Gamers: 5%
+  Ratio: 4.34
+  TA: '130'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: High Roller
+  Description: Play a shot that rolls more than 50 yards after it has stopped bouncing.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 22419
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '6'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Trial by Fire
+  Description: Complete any round on the Burning Sands course under par using six
+    different golfers.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1240
+  Percentage of Gamers: 3%
+  Ratio: 5.67
+  TA: '113'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Sleeping Giant
+  Description: Earn XP when not playing the game.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 11207
+  Percentage of Gamers: 28%
+  Ratio: 1.88
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Community
+- Achievement Name: No Contest
+  Description: Complete 3 Powerstar challenges.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 30807
+  Percentage of Gamers: 77%
+  Ratio: 1.13
+  TA: '11'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+Base Ratio: 2.77
+Base TA: 2770
+Delisted: false
+Developer: "Zo\xEB Mode"
+Game Name: Powerstar Golf
+Genres: Sports, Golf
+Install Size: 4100.0
+Number of Completions: 394
+Number of Gamers: 39903
+Overall Completion Time:
+- 44.0
+- 55.0
+Overall GS: 1250
+Overall Ratio: 2.916
+Overall TA: 3645
+PDU: 0
+Percentage Completed: 0.99
+Publisher: Xbox Game Studios
+Release Date: 22 November 2013
+Server Closure: false
+Site Rating: 3.66
+Update Achievements: []
+Walkthrough: false

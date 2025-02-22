@@ -1,0 +1,576 @@
+Add On Achievements: []
+Base Completion Time:
+- -1
+- -1
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Adventurer
+  Description: Finish the Adventure campaign
+  GS: '100'
+  Guide: true
+  Number of Gamers: 3676
+  Percentage of Gamers: 9%
+  Ratio: 3.26
+  TA: '326'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
+- Achievement Name: Raider of the lost pyramid
+  Description: Find the entrance to the pyramid
+  GS: '20'
+  Guide: true
+  Number of Gamers: 37390
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Out of the sands
+  Description: Make your way through the Sakkara pyramid
+  GS: '20'
+  Guide: true
+  Number of Gamers: 12610
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '35'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Out of the snow
+  Description: Travel through the Arctic wastelands
+  GS: '20'
+  Guide: true
+  Number of Gamers: 8316
+  Percentage of Gamers: 21%
+  Ratio: 2.16
+  TA: '43'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Unstoppable
+  Description: Defeat Stein
+  GS: '25'
+  Guide: true
+  Number of Gamers: 6886
+  Percentage of Gamers: 18%
+  Ratio: 2.38
+  TA: '59'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Light of your heart
+  Description: Create a picture with light at the Ice Temple
+  GS: '20'
+  Guide: true
+  Number of Gamers: 5445
+  Percentage of Gamers: 14%
+  Ratio: 2.68
+  TA: '53'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Heroes ex machina
+  Description: Fight your way through the Arctic Mines
+  GS: '20'
+  Guide: false
+  Number of Gamers: 4676
+  Percentage of Gamers: 12%
+  Ratio: 2.89
+  TA: '57'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Mayan sunset
+  Description: Explore the Mayan Tombs
+  GS: '20'
+  Guide: false
+  Number of Gamers: 4377
+  Percentage of Gamers: 11%
+  Ratio: 2.99
+  TA: '59'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: From dusk to darkness
+  Description: Leave the Mayan Tombs
+  GS: '20'
+  Guide: false
+  Number of Gamers: 3935
+  Percentage of Gamers: 10%
+  Ratio: 3.15
+  TA: '63'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: King of Light
+  Description: Make your way through the Mayan City
+  GS: '20'
+  Guide: false
+  Number of Gamers: 3813
+  Percentage of Gamers: 10%
+  Ratio: 3.2
+  TA: '64'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Heart of Atlantis
+  Description: Beat the guardian of Xibalba
+  GS: '40'
+  Guide: true
+  Number of Gamers: 3737
+  Percentage of Gamers: 10%
+  Ratio: 3.23
+  TA: '129'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Deadfall
+  Description: Fight the final foe
+  GS: '50'
+  Guide: true
+  Number of Gamers: 3676
+  Percentage of Gamers: 9%
+  Ratio: 3.26
+  TA: '163'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Light bearer
+  Description: Collect 5 unique Power of Light treasures
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7538
+  Percentage of Gamers: 19%
+  Ratio: 2.27
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: A treasure a day
+  Description: Collect 10 unique Power of Life treasures
+  GS: '15'
+  Guide: true
+  Number of Gamers: 6309
+  Percentage of Gamers: 16%
+  Ratio: 2.49
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: The Warrior
+  Description: Collect 15 unique Power of the Warrior treasures
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3965
+  Percentage of Gamers: 10%
+  Ratio: 3.14
+  TA: '62'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Collector
+  Description: Collect 50 unique treasures in Adventure mode
+  GS: '40'
+  Guide: true
+  Number of Gamers: 3887
+  Percentage of Gamers: 10%
+  Ratio: 3.17
+  TA: '126'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Jewel of Arabia
+  Description: Find a secret treasure at the very beginning of the game
+  GS: '10'
+  Guide: true
+  Number of Gamers: 18416
+  Percentage of Gamers: 47%
+  Ratio: 1.45
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Hold your breath
+  Description: Escape from the gas trap inside the Sakkara pyramid
+  GS: '15'
+  Guide: true
+  Number of Gamers: 16617
+  Percentage of Gamers: 42%
+  Ratio: 1.53
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Ancient engineers
+  Description: Disable the crusher trap in the Arctic Base level
+  GS: '10'
+  Guide: true
+  Number of Gamers: 6989
+  Percentage of Gamers: 18%
+  Ratio: 2.36
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Frozen mystery
+  Description: Solve the final puzzle at the Arctic Caves level in an alternate way
+    and collect a special treasure
+  GS: '20'
+  Guide: true
+  Number of Gamers: 4616
+  Percentage of Gamers: 12%
+  Ratio: 2.91
+  TA: '58'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: I hear the train a comin'
+  Description: Unlock a hidden treasure by moving minecarts in the Mines
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2946
+  Percentage of Gamers: 8%
+  Ratio: 3.64
+  TA: '54'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Welcome to the jungle
+  Description: Explore the secret cave in the Mayan Jungle
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3485
+  Percentage of Gamers: 9%
+  Ratio: 3.35
+  TA: '33'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Elevation
+  Description: Use the elevator puzzle to reach the treasure in Mayan Tombs
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2142
+  Percentage of Gamers: 5%
+  Ratio: 4.27
+  TA: '64'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Dead or alive
+  Description: Retrieve a treasure from a mummy's hands in the Mayan City
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2794
+  Percentage of Gamers: 7%
+  Ratio: 3.74
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Heavily protected goods
+  Description: Open a locker containing a treasure in the Mayan Temple
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3342
+  Percentage of Gamers: 9%
+  Ratio: 3.42
+  TA: '51'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Hard as a rock
+  Description: Escape the crusher trap in Xibalba
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3522
+  Percentage of Gamers: 9%
+  Ratio: 3.33
+  TA: '33'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Childhood Memories
+  Description: Solve the sliding puzzle in the Ice Temple
+  GS: '20'
+  Guide: true
+  Number of Gamers: 5143
+  Percentage of Gamers: 13%
+  Ratio: 2.75
+  TA: '55'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: First Blood
+  Description: Achieve First Kill in a multiplayer match
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1873
+  Percentage of Gamers: 5%
+  Ratio: 4.57
+  TA: '22'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Best Player
+  Description: Achieve Best Score in a multiplayer match
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1640
+  Percentage of Gamers: 4%
+  Ratio: 4.88
+  TA: '48'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Best Killer
+  Description: Achieve Best K/D score in a multiplayer match
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2043
+  Percentage of Gamers: 5%
+  Ratio: 4.37
+  TA: '65'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Untouchable
+  Description: Won a multiplayer match without dying
+  GS: '10'
+  Guide: false
+  Number of Gamers: 982
+  Percentage of Gamers: 3%
+  Ratio: 6.31
+  TA: '63'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Raider
+  Description: Collect 100 gold statues in Treasure Hunt mode
+  GS: '10'
+  Guide: true
+  Number of Gamers: 368
+  Percentage of Gamers: 1%
+  Ratio: 10.32
+  TA: '103'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Rescuer
+  Description: Collect 50 silver statues in Treasure Hunt mode
+  GS: '5'
+  Guide: true
+  Number of Gamers: 326
+  Percentage of Gamers: 1%
+  Ratio: 10.97
+  TA: '54'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Hunter
+  Description: Kill players 100 times using traps
+  GS: '15'
+  Guide: true
+  Number of Gamers: 308
+  Percentage of Gamers: 1%
+  Ratio: 11.29
+  TA: '169'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Commando
+  Description: Unlock all weapons in multiplayer mode
+  GS: '30'
+  Guide: true
+  Number of Gamers: 215
+  Percentage of Gamers: 1%
+  Ratio: 13.52
+  TA: '405'
+  Tags:
+  - Online Mode
+  - Versus
+  - Level
+- Achievement Name: Changeling
+  Description: Unlock all characters in multiplayer mode
+  GS: '30'
+  Guide: true
+  Number of Gamers: 215
+  Percentage of Gamers: 1%
+  Ratio: 13.52
+  TA: '405'
+  Tags:
+  - Online Mode
+  - Versus
+  - Level
+- Achievement Name: Illusionist
+  Description: Earn 200 blessings in Treasure Hunt mode
+  GS: '20'
+  Guide: true
+  Number of Gamers: 226
+  Percentage of Gamers: 1%
+  Ratio: 13.18
+  TA: '263'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Warrior
+  Description: Achieve all killing spree rewards in a single match
+  GS: '20'
+  Guide: true
+  Number of Gamers: 864
+  Percentage of Gamers: 2%
+  Ratio: 6.73
+  TA: '134'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Gunsmith
+  Description: Unlock all automatic upgrades for all weapons
+  GS: '40'
+  Guide: true
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '40'
+  Tags:
+  - Unobtainable
+- Achievement Name: Veteran
+  Description: Achieve highest multiplayer rank
+  GS: '40'
+  Guide: true
+  Number of Gamers: 215
+  Percentage of Gamers: 1%
+  Ratio: 13.52
+  TA: '540'
+  Tags:
+  - Online Mode
+  - Versus
+  - Level
+- Achievement Name: There can be only one
+  Description: Win 10 times in Last Man Standing mode
+  GS: '20'
+  Guide: true
+  Number of Gamers: 376
+  Percentage of Gamers: 1%
+  Ratio: 10.21
+  TA: '204'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Predator
+  Description: Kill 10 different opponents in a Deathmatch
+  GS: '5'
+  Guide: true
+  Number of Gamers: 369
+  Percentage of Gamers: 1%
+  Ratio: 10.29
+  TA: '51'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+- Achievement Name: DIY
+  Description: Finish a multiplayer match, using a self made Custom Class
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1973
+  Percentage of Gamers: 5%
+  Ratio: 4.45
+  TA: '22'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Against all odds
+  Description: Survive 100 enemy waves
+  GS: '40'
+  Guide: true
+  Number of Gamers: 133
+  Percentage of Gamers: 0%
+  Ratio: 17.15
+  TA: '686'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Mayan Barbecue
+  Description: Kill 5 players with a fire trap during one multiplayer match
+  GS: '20'
+  Guide: true
+  Number of Gamers: 471
+  Percentage of Gamers: 1%
+  Ratio: 9.12
+  TA: '182'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Lumberjack
+  Description: Kill 500 Daru in survival mode
+  GS: '50'
+  Guide: true
+  Number of Gamers: 109
+  Percentage of Gamers: 0%
+  Ratio: 18.94
+  TA: '947'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+Base Ratio: 6.166
+Base TA: 6166
+Delisted: false
+Developer: The Farm 51
+Game Name: Deadfall Adventures
+Genres: First Person Shooter
+Install Size: 2990.0
+Number of Completions: 0
+Number of Gamers: 39170
+Overall Completion Time:
+- -1
+- -1
+Overall GS: 1000
+Overall Ratio: 6.166
+Overall TA: 6166
+PDU: 0
+Percentage Completed: 0.0
+Publisher: THQ Nordic
+Release Date: 15 November 2013
+Server Closure: false
+Site Rating: 2.54
+Update Achievements: []
+Walkthrough: false

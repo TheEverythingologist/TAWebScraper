@@ -1,0 +1,611 @@
+Add On Achievements: []
+Base Completion Time:
+- 36
+- 37
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Hint0
+  Description: Use a hint for the first time
+  GS: '5'
+  Guide: true
+  Number of Gamers: 250
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '5'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Hint1
+  Description: Use a hint 10 times.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 160
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '6'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Hint2
+  Description: Use a hint 50 times.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 68
+  Percentage of Gamers: 23%
+  Ratio: 2.07
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Hint3
+  Description: Use a hint 100 times.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 55
+  Percentage of Gamers: 19%
+  Ratio: 2.28
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: ViolationFirst
+  Description: Violated the Protocol for the first time.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 236
+  Percentage of Gamers: 81%
+  Ratio: 1.1
+  TA: '5'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: ViolationFull
+  Description: Find all the possible ways to violate the Protocol.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 7
+  Percentage of Gamers: 2%
+  Ratio: 6.41
+  TA: '320'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: ViolationNever
+  Description: No violations during the game.
+  GS: '70'
+  Guide: true
+  Number of Gamers: 22
+  Percentage of Gamers: 8%
+  Ratio: 3.61
+  TA: '253'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: CapsuleFire
+  Description: Death from the fire.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 113
+  Percentage of Gamers: 39%
+  Ratio: 1.6
+  TA: '32'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: CapsuleGasp
+  Description: Death from suffocation.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 99
+  Percentage of Gamers: 34%
+  Ratio: 1.7
+  TA: '34'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: CapsuleKeyCard
+  Description: Forgot to take a keycard in the capsule.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 144
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '35'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Snowboard
+  Description: Rolled down a hill.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 32
+  Percentage of Gamers: 11%
+  Ratio: 3.0
+  TA: '90'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: DroneSnowball
+  Description: Threw a snowball.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 154
+  Percentage of Gamers: 53%
+  Ratio: 1.36
+  TA: '13'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: DroneItem
+  Description: Threw any object except a snowball.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 34
+  Percentage of Gamers: 12%
+  Ratio: 2.91
+  TA: '14'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: PlatformKeyCard
+  Description: Forgot a keycard in the lighting terminal.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 168
+  Percentage of Gamers: 58%
+  Ratio: 1.3
+  TA: '6'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: GatesPassword
+  Description: Entered the iconic password in the first terminal.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 30
+  Percentage of Gamers: 10%
+  Ratio: 3.09
+  TA: '92'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: DrugAddict
+  Description: Use all the drugs in the complex.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 12
+  Percentage of Gamers: 4%
+  Ratio: 4.89
+  TA: '122'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: AlienSnowball
+  Description: Throw any object back at the alien.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 18
+  Percentage of Gamers: 6%
+  Ratio: 4.0
+  TA: '120'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: AlienSoap
+  Description: Threw soap at the alien when you first met it.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 22
+  Percentage of Gamers: 8%
+  Ratio: 3.61
+  TA: '108'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: AlienVaccine
+  Description: Vaccinate the alien.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 14
+  Percentage of Gamers: 5%
+  Ratio: 4.53
+  TA: '136'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Teapot
+  Description: Interrogated the alien using a teapot.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 20
+  Percentage of Gamers: 7%
+  Ratio: 3.79
+  TA: '113'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Cryocamera
+  Description: Find a way to go into the far future.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 52
+  Percentage of Gamers: 18%
+  Ratio: 2.35
+  TA: '47'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: FlappyBird
+  Description: Passed hacker's first mini-game.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 10
+  Percentage of Gamers: 3%
+  Ratio: 5.36
+  TA: '107'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: TrialDeath
+  Description: Died during the training.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 19
+  Percentage of Gamers: 7%
+  Ratio: 3.89
+  TA: '97'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Langolier
+  Description: Ignored contactees' warning.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 47
+  Percentage of Gamers: 16%
+  Ratio: 2.47
+  TA: '24'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: PartyHard
+  Description: Found a screamer in chapter "Penetration".
+  GS: '20'
+  Guide: true
+  Number of Gamers: 35
+  Percentage of Gamers: 12%
+  Ratio: 2.86
+  TA: '57'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: EasterHunter
+  Description: Found all the hidden Easter eggs during the "system configuration".
+  GS: '20'
+  Guide: true
+  Number of Gamers: 14
+  Percentage of Gamers: 5%
+  Ratio: 4.7
+  TA: '94'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: ImpClown
+  Description: Defeated the first "boss" without damage.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 11
+  Percentage of Gamers: 4%
+  Ratio: 5.11
+  TA: '102'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: ImpRush
+  Description: Defeated the second "boss" without damage.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 17
+  Percentage of Gamers: 6%
+  Ratio: 4.11
+  TA: '61'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: BigBoss
+  Description: Defeated the third "boss" without damage.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 9
+  Percentage of Gamers: 3%
+  Ratio: 5.65
+  TA: '141'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: TheOne
+  Description: Passed chapter "Penetration" without damage.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 9
+  Percentage of Gamers: 3%
+  Ratio: 5.65
+  TA: '84'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: HUBDrone
+  Description: Defeated a drone projecting AI many times.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 9
+  Percentage of Gamers: 3%
+  Ratio: 5.65
+  TA: '84'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: EvacuationDrone
+  Description: '"Called" a combat drone.'
+  GS: '15'
+  Guide: true
+  Number of Gamers: 8
+  Percentage of Gamers: 3%
+  Ratio: 6.0
+  TA: '90'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: BlackCard
+  Description: Took a shortcut in the chapter "You have violated the Protocol".
+  GS: '30'
+  Guide: true
+  Number of Gamers: 8
+  Percentage of Gamers: 3%
+  Ratio: 6.0
+  TA: '180'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: WilsonWill
+  Description: Complied with Wilson's request.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 18
+  Percentage of Gamers: 6%
+  Ratio: 4.0
+  TA: '60'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: FairGames
+  Description: Used the terminal's "chat".
+  GS: '15'
+  Guide: true
+  Number of Gamers: 14
+  Percentage of Gamers: 5%
+  Ratio: 4.53
+  TA: '68'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: WilsonDoor
+  Description: Guessed the correct password from the Residential unit's door.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 21
+  Percentage of Gamers: 7%
+  Ratio: 3.7
+  TA: '37'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: GrayDrug
+  Description: Administrated the "dubious" drug again.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 9
+  Percentage of Gamers: 3%
+  Ratio: 5.65
+  TA: '113'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: TechFire
+  Description: Started the fire.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 9
+  Percentage of Gamers: 3%
+  Ratio: 5.65
+  TA: '141'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: TechZone
+  Description: Found all dead ends in the Technical area.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 13
+  Percentage of Gamers: 4%
+  Ratio: 4.7
+  TA: '94'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Shutdown
+  Description: Destroyed the complex.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 12
+  Percentage of Gamers: 4%
+  Ratio: 4.89
+  TA: '122'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: RatDG
+  Description: Learned RAT-DG terminal's functionality.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 9
+  Percentage of Gamers: 3%
+  Ratio: 5.65
+  TA: '141'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Ending0
+  Description: Got ending 0.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 20
+  Percentage of Gamers: 7%
+  Ratio: 3.79
+  TA: '56'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Ending1
+  Description: Got ending 1.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 29
+  Percentage of Gamers: 10%
+  Ratio: 3.15
+  TA: '47'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Ending2
+  Description: Got ending 2.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 18
+  Percentage of Gamers: 6%
+  Ratio: 4.0
+  TA: '60'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Ending3
+  Description: Got ending 3.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 12
+  Percentage of Gamers: 4%
+  Ratio: 4.89
+  TA: '73'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Ending4
+  Description: Got ending 4.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 12
+  Percentage of Gamers: 4%
+  Ratio: 4.89
+  TA: '73'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Ending5
+  Description: Got ending 5.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 14
+  Percentage of Gamers: 5%
+  Ratio: 4.53
+  TA: '68'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Ending6
+  Description: Got ending 6.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 13
+  Percentage of Gamers: 4%
+  Ratio: 4.7
+  TA: '70'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Ending7
+  Description: Got ending 7.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 7
+  Percentage of Gamers: 2%
+  Ratio: 6.41
+  TA: '96'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: WilsonHand
+  Description: Fetched the hand in ending 3.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 7
+  Percentage of Gamers: 2%
+  Ratio: 6.41
+  TA: '128'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Epilogue
+  Description: Saw the scene after the credits.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 33
+  Percentage of Gamers: 11%
+  Ratio: 2.95
+  TA: '59'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+Base Ratio: 4.199
+Base TA: 4199
+Delisted: false
+Developer: Fair Games
+Game Name: Protocol
+Genres: Adventure
+Install Size: 2910.0
+Number of Completions: 7
+Number of Gamers: 290
+Overall Completion Time:
+- 36
+- 37
+Overall GS: 1000
+Overall Ratio: 4.199
+Overall TA: 4199
+PDU: 0
+Percentage Completed: 2.41
+Publisher: Samustai
+Release Date: 30 April 2021
+Server Closure: false
+Site Rating: 3.0
+Update Achievements: []
+Walkthrough: false

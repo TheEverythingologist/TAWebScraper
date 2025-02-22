@@ -1,0 +1,350 @@
+Add On Achievements: []
+Base Completion Time:
+- 43
+- 44
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: First Blood
+  Description: Kill one enemy
+  GS: '15'
+  Guide: false
+  Number of Gamers: 490
+  Percentage of Gamers: 100%
+  Ratio: 1.0
+  TA: '15'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Exterminator
+  Description: Kill 100 Floaters
+  GS: '15'
+  Guide: false
+  Number of Gamers: 254
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Crafter
+  Description: Craft a Weapon
+  GS: '15'
+  Guide: false
+  Number of Gamers: 304
+  Percentage of Gamers: 62%
+  Ratio: 1.26
+  TA: '19'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Shipbreaker
+  Description: Reach the Spaceship Graveyard
+  GS: '15'
+  Guide: false
+  Number of Gamers: 203
+  Percentage of Gamers: 41%
+  Ratio: 1.55
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Miner
+  Description: Reach the Mining Grounds
+  GS: '15'
+  Guide: false
+  Number of Gamers: 190
+  Percentage of Gamers: 39%
+  Ratio: 1.6
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Speleologist
+  Description: Reach the Underground Lake
+  GS: '15'
+  Guide: false
+  Number of Gamers: 145
+  Percentage of Gamers: 30%
+  Ratio: 1.83
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Botanist
+  Description: Reach the West Floating Forest
+  GS: '30'
+  Guide: false
+  Number of Gamers: 149
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '54'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Forester
+  Description: Reach the East Floating Forest
+  GS: '30'
+  Guide: false
+  Number of Gamers: 130
+  Percentage of Gamers: 26%
+  Ratio: 1.94
+  TA: '58'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Sky Knight
+  Description: Reach the Sky Tower
+  GS: '15'
+  Guide: false
+  Number of Gamers: 334
+  Percentage of Gamers: 68%
+  Ratio: 1.21
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Giant
+  Description: Destroy the Giant Floater
+  GS: '15'
+  Guide: false
+  Number of Gamers: 248
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Queen
+  Description: Destroy the Crawler Queen
+  GS: '15'
+  Guide: false
+  Number of Gamers: 141
+  Percentage of Gamers: 29%
+  Ratio: 1.86
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Smelter
+  Description: Destroy the Furnace Bot
+  GS: '15'
+  Guide: false
+  Number of Gamers: 131
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Sub Rob
+  Description: Destroy the Sub Rob
+  GS: '30'
+  Guide: false
+  Number of Gamers: 124
+  Percentage of Gamers: 25%
+  Ratio: 1.98
+  TA: '59'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Ancient
+  Description: Destroy the Ancient Floaters
+  GS: '30'
+  Guide: false
+  Number of Gamers: 124
+  Percentage of Gamers: 25%
+  Ratio: 1.98
+  TA: '59'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Survivor
+  Description: Reach Sector 02 without dying once
+  GS: '30'
+  Guide: true
+  Number of Gamers: 53
+  Percentage of Gamers: 11%
+  Ratio: 3.04
+  TA: '91'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Ultra Survivor
+  Description: Reach Sector 04 without dying once
+  GS: '30'
+  Guide: true
+  Number of Gamers: 32
+  Percentage of Gamers: 7%
+  Ratio: 3.91
+  TA: '117'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Paraglider
+  Description: Fly more than 60 meters horizontally with the parachute
+  GS: '30'
+  Guide: true
+  Number of Gamers: 103
+  Percentage of Gamers: 21%
+  Ratio: 2.18
+  TA: '65'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Flawless Victory
+  Description: Destroy the Giant Floater without taking any damage
+  GS: '30'
+  Guide: false
+  Number of Gamers: 18
+  Percentage of Gamers: 4%
+  Ratio: 5.21
+  TA: '156'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Finisher
+  Description: Finish game
+  GS: '30'
+  Guide: false
+  Number of Gamers: 89
+  Percentage of Gamers: 18%
+  Ratio: 2.34
+  TA: '70'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Stackable
+- Achievement Name: Retro Finisher
+  Description: Finish game in Retro mode
+  GS: '30'
+  Guide: false
+  Number of Gamers: 19
+  Percentage of Gamers: 4%
+  Ratio: 5.07
+  TA: '152'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Completion
+  Description: Reach 100% completion
+  GS: '90'
+  Guide: false
+  Number of Gamers: 19
+  Percentage of Gamers: 4%
+  Ratio: 5.07
+  TA: '457'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Stackable
+  - Collectable
+- Achievement Name: Retro Completion
+  Description: Reach 100% completion in Retro mode
+  GS: '90'
+  Guide: false
+  Number of Gamers: 11
+  Percentage of Gamers: 2%
+  Ratio: 6.67
+  TA: '600'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+  - Collectable
+- Achievement Name: Speedrun
+  Description: Finish game in less than 10 hours
+  GS: '90'
+  Guide: false
+  Number of Gamers: 12
+  Percentage of Gamers: 2%
+  Ratio: 6.39
+  TA: '575'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Stackable
+  - Time/Date
+- Achievement Name: Ultrarun
+  Description: Finish game in less than 6 hours
+  GS: '90'
+  Guide: false
+  Number of Gamers: 8
+  Percentage of Gamers: 2%
+  Ratio: 7.82
+  TA: '704'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Stackable
+  - Time/Date
+- Achievement Name: Retro Speedrun
+  Description: Finish game in less than 10 hours in Retro mode
+  GS: '90'
+  Guide: false
+  Number of Gamers: 8
+  Percentage of Gamers: 2%
+  Ratio: 7.82
+  TA: '704'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+  - Time/Date
+- Achievement Name: Retro Ultrarun
+  Description: Finish game in less than 6 hours in Retro mode
+  GS: '100'
+  Guide: false
+  Number of Gamers: 8
+  Percentage of Gamers: 2%
+  Ratio: 7.82
+  TA: '782'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+  - Time/Date
+Base Ratio: 4.926
+Base TA: 4926
+Delisted: false
+Developer: Madruga Works
+Game Name: The Mobius Machine
+Genres: Platformer, Metroidvania
+Install Size: 2630.0
+Number of Completions: 8
+Number of Gamers: 491
+Overall Completion Time:
+- 43
+- 44
+Overall GS: 1000
+Overall Ratio: 4.926
+Overall TA: 4926
+PDU: 0
+Percentage Completed: 1.63
+Publisher: Madruga Works
+Release Date: 01 March 2024
+Server Closure: false
+Site Rating: 4.33
+Update Achievements: []
+Walkthrough: false

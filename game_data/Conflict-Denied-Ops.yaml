@@ -1,0 +1,570 @@
+Add On Achievements: []
+Base Completion Time:
+- 20.0
+- 25.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Campaign Completed (Easy)
+  Description: Complete campaign mode with any combination of single player and co-op
+    on Easy difficulty.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 2797
+  Percentage of Gamers: 20%
+  Ratio: 2.22
+  TA: '111'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+  - Story Completed
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Campaign Completed (Normal)
+  Description: Complete campaign mode with any combination of single player and co-op
+    on Normal difficulty.
+  GS: '75'
+  Guide: false
+  Number of Gamers: 1830
+  Percentage of Gamers: 13%
+  Ratio: 2.74
+  TA: '205'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Campaign Completed (Hard)
+  Description: Complete campaign mode with any combination of single player and co-op
+    on Hard difficulty.
+  GS: '100'
+  Guide: false
+  Number of Gamers: 906
+  Percentage of Gamers: 7%
+  Ratio: 3.9
+  TA: '390'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Campaign Completed (Extreme)
+  Description: Complete campaign mode with any combination of single player and co-op
+    on Extreme difficulty.
+  GS: '150'
+  Guide: true
+  Number of Gamers: 581
+  Percentage of Gamers: 4%
+  Ratio: 4.87
+  TA: '731'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+  - Multiple Playthroughs Required
+- Achievement Name: Lang Time Dead
+  Description: Complete any campaign or co-op mission with at least 50 kills and 30%
+    accuracy using Lang.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 819
+  Percentage of Gamers: 6%
+  Ratio: 4.1
+  TA: '82'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Graves Digger
+  Description: Complete any mission with at least 50 kills and 40% accuracy using
+    Graves.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1305
+  Percentage of Gamers: 9%
+  Ratio: 3.25
+  TA: '65'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Ain't Got Time To Bleed
+  Description: Complete any Campaign or Co-op mission without going MIA (no loads
+    or checkpoint resumes allowed).
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3547
+  Percentage of Gamers: 26%
+  Ratio: 1.97
+  TA: '39'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Kill Streak
+  Description: Score 50 kills in a row without going MIA.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2254
+  Percentage of Gamers: 16%
+  Ratio: 2.47
+  TA: '49'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Splash Damage
+  Description: Achieve 10 grenade kills in one mission.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3032
+  Percentage of Gamers: 22%
+  Ratio: 2.13
+  TA: '42'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Brawler
+  Description: Achieve 10 melee kills in one single player or co-op mission.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2951
+  Percentage of Gamers: 21%
+  Ratio: 2.16
+  TA: '43'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Minute Man
+  Description: Destroy 45 objects in 60 seconds.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 711
+  Percentage of Gamers: 5%
+  Ratio: 4.4
+  TA: '88'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Time/Date
+- Achievement Name: Scorched Earth
+  Description: Destroy at least 75% of destroyable objects in a mission.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 666
+  Percentage of Gamers: 5%
+  Ratio: 4.55
+  TA: '91'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Collateral Damage
+  Description: Make 10 indirect kills in a mission by shooting explosive objects such
+    as barrels or gas cylinders.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 872
+  Percentage of Gamers: 6%
+  Ratio: 3.97
+  TA: '79'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: One Careful Owner
+  Description: Ensure BMP survives until the end of Monastery.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 13359
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Saving Private Yelkin
+  Description: Ensure Private Yelkin survives in Whaling Station.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 6964
+  Percentage of Gamers: 50%
+  Ratio: 1.4
+  TA: '14'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Easy Slider
+  Description: Commandeer hovercraft and ensure it survives to perimeter wall in Submarine
+    Facility.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 5690
+  Percentage of Gamers: 41%
+  Ratio: 1.55
+  TA: '15'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Vertically Challenged
+  Description: Destroy Jump-Jet in Submarine Facility.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4310
+  Percentage of Gamers: 31%
+  Ratio: 1.78
+  TA: '17'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Defend The Doctor
+  Description: Ensure Dr. Pessich survives until end of Castle.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 3389
+  Percentage of Gamers: 25%
+  Ratio: 2.01
+  TA: '20'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Compound Problem
+  Description: Escape from police compound without going MIA in Township.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 8170
+  Percentage of Gamers: 59%
+  Ratio: 1.29
+  TA: '12'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Police Protection
+  Description: Save RPF troops in town square in Township.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 6792
+  Percentage of Gamers: 49%
+  Ratio: 1.42
+  TA: '14'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Search And Rescue
+  Description: Rescue Bishop Three in Township.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5843
+  Percentage of Gamers: 42%
+  Ratio: 1.53
+  TA: '15'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Your Cousin Dances Naked...
+  Description: Listen in on 4 guard conversations in Diamond Mine without being detected.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1039
+  Percentage of Gamers: 8%
+  Ratio: 3.64
+  TA: '36'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Out Of Sight
+  Description: Track Atongwe in Diamond Mine without being detected.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3222
+  Percentage of Gamers: 23%
+  Ratio: 2.06
+  TA: '20'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Prisoner Release Programme
+  Description: Ensure FSB Agents survive until the end of Castle.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2636
+  Percentage of Gamers: 19%
+  Ratio: 2.28
+  TA: '22'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Change Of Priority
+  Description: Ensure hostages survive on Tanker.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2139
+  Percentage of Gamers: 15%
+  Ratio: 2.54
+  TA: '25'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Deal Breaker
+  Description: Track down and kill Kwennoir in Sawmill.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1017
+  Percentage of Gamers: 7%
+  Ratio: 3.68
+  TA: '36'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Curse Of The Bambino
+  Description: Rescue Foley in Sawmill.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2549
+  Percentage of Gamers: 18%
+  Ratio: 2.32
+  TA: '23'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Delta Force Stay The Course
+  Description: Ensure all Delta Force members survive until the end of Oil Refinery.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 906
+  Percentage of Gamers: 7%
+  Ratio: 3.9
+  TA: '39'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Gas Tap
+  Description: Prevent gas from being released in Military Base.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1277
+  Percentage of Gamers: 9%
+  Ratio: 3.28
+  TA: '32'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Co-operative Mission
+  Description: Complete any mission in Co-op.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 7548
+  Percentage of Gamers: 55%
+  Ratio: 1.35
+  TA: '20'
+  Tags:
+  - Online/Offline
+  - Cooperative
+- Achievement Name: Co-operative Campaign
+  Description: Complete a full campaign in Co-op.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1304
+  Percentage of Gamers: 9%
+  Ratio: 3.25
+  TA: '97'
+  Tags:
+  - Online/Offline
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Perfect Partner
+  Description: Complete a Co-op mission without either player going MIA.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1206
+  Percentage of Gamers: 9%
+  Ratio: 3.38
+  TA: '67'
+  Tags:
+  - Online/Offline
+  - Cooperative
+- Achievement Name: Top Of The Pile
+  Description: Finish first in a Deathmatch Ranked Match with 16 players.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 735
+  Percentage of Gamers: 5%
+  Ratio: 4.33
+  TA: '86'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+- Achievement Name: Deathmatch Dominator
+  Description: Win a Deathmatch Ranked match, scoring double the kills of your nearest
+    rival.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1281
+  Percentage of Gamers: 9%
+  Ratio: 3.28
+  TA: '65'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Deathmatch Killing Streak
+  Description: Score 15 consecutive kills in a Deathmatch Ranked match.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1198
+  Percentage of Gamers: 9%
+  Ratio: 3.39
+  TA: '67'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Won Deathmatch With Lang
+  Description: Win a Deathmatch Ranked match playing only as Lang.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1179
+  Percentage of Gamers: 9%
+  Ratio: 3.42
+  TA: '34'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Won Deathmatch With Graves
+  Description: Win a Deathmatch Ranked match playing only as Graves.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1287
+  Percentage of Gamers: 9%
+  Ratio: 3.27
+  TA: '32'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Carrying The Team
+  Description: "Score over 50% of a winning team\u2019s points in a Team Deathmatch\
+    \ Ranked Match."
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1197
+  Percentage of Gamers: 9%
+  Ratio: 3.39
+  TA: '67'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Team Deathmatch Killing Streak
+  Description: Score 15 consecutive kills for a single team in a Team Deathmatch Ranked
+    Match (Any weapon).
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1164
+  Percentage of Gamers: 8%
+  Ratio: 3.44
+  TA: '68'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Won Team Deathmatch With Lang
+  Description: Win a Team Deathmatch Ranked match playing only as Lang.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1148
+  Percentage of Gamers: 8%
+  Ratio: 3.46
+  TA: '34'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Won Team Deathmatch With Graves
+  Description: Win a Team Deathmatch Ranked match playing only as Graves.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1187
+  Percentage of Gamers: 9%
+  Ratio: 3.4
+  TA: '34'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Clean Sweep
+  Description: Hold all 5 flags for at least 30 seconds in a Conquest Ranked match.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1219
+  Percentage of Gamers: 9%
+  Ratio: 3.36
+  TA: '168'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Conquest Conquerors
+  Description: "Score double the other team\u2019s points in a Conquest Ranked match."
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1178
+  Percentage of Gamers: 9%
+  Ratio: 3.42
+  TA: '68'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Healing Hands
+  Description: Heal 10 team members in a Conquest Ranked match.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 779
+  Percentage of Gamers: 6%
+  Ratio: 4.2
+  TA: '42'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+Base Ratio: 3.314
+Base TA: 3314
+Delisted: false
+Developer: Pivotal Games
+Game Name: 'Conflict: Denied Ops'
+Genres: First Person Shooter
+Install Size: null
+Number of Completions: 311
+Number of Gamers: 13805
+Overall Completion Time:
+- 20.0
+- 25.0
+Overall GS: 1000
+Overall Ratio: 3.314
+Overall TA: 3314
+PDU: 0
+Percentage Completed: 2.25
+Publisher: Eidos
+Release Date: 12 February 2008
+Server Closure: false
+Site Rating: 1.99
+Update Achievements: []
+Walkthrough: false

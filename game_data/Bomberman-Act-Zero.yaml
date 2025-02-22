@@ -1,0 +1,631 @@
+Add On Achievements: []
+Base Completion Time:
+- 1000.0
+- 1000.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: 1,000 Bombs
+  Description: 'Mission: Set bombs!'
+  GS: '5'
+  Guide: true
+  Number of Gamers: 2062
+  Percentage of Gamers: 51%
+  Ratio: 1.39
+  TA: '6'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+  - Buggy +
+- Achievement Name: 10,000 Bombs
+  Description: 'Mission: Set more bombs!'
+  GS: '10'
+  Guide: false
+  Number of Gamers: 549
+  Percentage of Gamers: 14%
+  Ratio: 2.7
+  TA: '27'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+  - Buggy +
+- Achievement Name: 100,000 Bombs
+  Description: 'Mission: Set even more bombs!'
+  GS: '30'
+  Guide: false
+  Number of Gamers: 85
+  Percentage of Gamers: 2%
+  Ratio: 6.87
+  TA: '206'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+  - Time Consuming
+  - Buggy +
+- Achievement Name: 1,000,000 Bombs
+  Description: 'Mission: Set the maximum amount of bombs!'
+  GS: '50'
+  Guide: true
+  Number of Gamers: 27
+  Percentage of Gamers: 1%
+  Ratio: 12.2
+  TA: '610'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+  - Time Consuming
+- Achievement Name: Block Break 1,000
+  Description: 'Mission: Destroy Soft Blocks!'
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1861
+  Percentage of Gamers: 46%
+  Ratio: 1.46
+  TA: '7'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Block Break 10,000
+  Description: 'Mission: Destroy more Soft Blocks!'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 335
+  Percentage of Gamers: 8%
+  Ratio: 3.46
+  TA: '34'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Block Break 100,000
+  Description: 'Mission: Destroy even more Soft Blocks!'
+  GS: '30'
+  Guide: false
+  Number of Gamers: 51
+  Percentage of Gamers: 1%
+  Ratio: 8.87
+  TA: '266'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+  - Time Consuming
+- Achievement Name: Block Break 1,000,000
+  Description: 'Mission: Destroy the maximum amount of Soft Blocks!'
+  GS: '50'
+  Guide: true
+  Number of Gamers: 23
+  Percentage of Gamers: 1%
+  Ratio: 13.22
+  TA: '661'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+  - Time Consuming
+- Achievement Name: Secret Panel 1
+  Description: 'Special Mission: Get the Secret Panel!'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1958
+  Percentage of Gamers: 49%
+  Ratio: 1.43
+  TA: '14'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Secret Panel 2
+  Description: 'Special Mission: Get the Secret Panel!'
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2562
+  Percentage of Gamers: 64%
+  Ratio: 1.25
+  TA: '25'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Secret Panel 3
+  Description: 'Special Mission: Get the Secret Panel!'
+  GS: '30'
+  Guide: true
+  Number of Gamers: 768
+  Percentage of Gamers: 19%
+  Ratio: 2.28
+  TA: '68'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Secret Panel 4
+  Description: 'Special Mission: Get the Secret Panel!'
+  GS: '40'
+  Guide: true
+  Number of Gamers: 272
+  Percentage of Gamers: 7%
+  Ratio: 3.84
+  TA: '153'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Secret Panel 5
+  Description: 'Special Mission: Get the Secret Panel!'
+  GS: '50'
+  Guide: true
+  Number of Gamers: 620
+  Percentage of Gamers: 15%
+  Ratio: 2.54
+  TA: '127'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: kill 100
+  Description: 'Mission: Eliminate enemies!'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 280
+  Percentage of Gamers: 7%
+  Ratio: 3.79
+  TA: '37'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: kill 500
+  Description: 'Mission: Eliminate more enemies!'
+  GS: '20'
+  Guide: true
+  Number of Gamers: 97
+  Percentage of Gamers: 2%
+  Ratio: 6.43
+  TA: '128'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Kill 1,000
+  Description: 'Mission: Eliminate even more enemies!'
+  GS: '30'
+  Guide: true
+  Number of Gamers: 77
+  Percentage of Gamers: 2%
+  Ratio: 7.22
+  TA: '216'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+  - Time Consuming
+- Achievement Name: Self 100
+  Description: 'Chump Award: Die by bombs you have set.'
+  GS: '5'
+  Guide: true
+  Number of Gamers: 224
+  Percentage of Gamers: 6%
+  Ratio: 4.24
+  TA: '21'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Pressure Block 100
+  Description: 'Chump Award: Die by Pressure Blocks.'
+  GS: '5'
+  Guide: true
+  Number of Gamers: 126
+  Percentage of Gamers: 3%
+  Ratio: 5.67
+  TA: '28'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Draw 100
+  Description: 'Chump Award: Die by going over the time limit.'
+  GS: '5'
+  Guide: true
+  Number of Gamers: 222
+  Percentage of Gamers: 6%
+  Ratio: 4.27
+  TA: '21'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Battle 100
+  Description: 'Mission: Start battles!'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1222
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '18'
+  Tags:
+  - Online/Offline
+  - Versus
+  - Cumulative +
+- Achievement Name: Battle 1,000
+  Description: 'Mission: Start more battles!'
+  GS: '20'
+  Guide: true
+  Number of Gamers: 193
+  Percentage of Gamers: 5%
+  Ratio: 4.57
+  TA: '91'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Battle 10,000
+  Description: 'Mission: Start even more battles!'
+  GS: '30'
+  Guide: true
+  Number of Gamers: 43
+  Percentage of Gamers: 1%
+  Ratio: 9.67
+  TA: '290'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+  - Time Consuming
+- Achievement Name: Battle Score 5,000
+  Description: 'Mission: Get a Battle Score of 5,000 points!'
+  GS: '5'
+  Guide: true
+  Number of Gamers: 577
+  Percentage of Gamers: 14%
+  Ratio: 2.64
+  TA: '13'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Battle Score 10,000
+  Description: 'Mission: Get a Battle Score of 10,000 points!'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 490
+  Percentage of Gamers: 12%
+  Ratio: 2.87
+  TA: '28'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Battle Score 50,000
+  Description: 'Mission: Get a Battle Score of 50,000 points!'
+  GS: '20'
+  Guide: false
+  Number of Gamers: 337
+  Percentage of Gamers: 8%
+  Ratio: 3.46
+  TA: '69'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Battle Score 100,000
+  Description: 'Mission: Get a Battle Score of 100,000 points!'
+  GS: '30'
+  Guide: false
+  Number of Gamers: 304
+  Percentage of Gamers: 8%
+  Ratio: 3.64
+  TA: '109'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Battle Score 1,000,000
+  Description: 'Mission: Get a Battle Score of 1,000,000 points!'
+  GS: '50'
+  Guide: true
+  Number of Gamers: 238
+  Percentage of Gamers: 6%
+  Ratio: 4.11
+  TA: '205'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Special 1
+  Description: 'Special Mission: Destroy all enemies without powering up!'
+  GS: '20'
+  Guide: true
+  Number of Gamers: 740
+  Percentage of Gamers: 18%
+  Ratio: 2.33
+  TA: '46'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Special 2
+  Description: 'Special Mission: Use two types of frames!'
+  GS: '5'
+  Guide: true
+  Number of Gamers: 2150
+  Percentage of Gamers: 53%
+  Ratio: 1.36
+  TA: '6'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Special 3
+  Description: 'Special Mission: Use all of the characters!'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 678
+  Percentage of Gamers: 17%
+  Ratio: 2.43
+  TA: '24'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Battle Royal - Kill 10
+  Description: 'Mission: Defeat 10 people in Battle Royal!'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 384
+  Percentage of Gamers: 10%
+  Ratio: 3.24
+  TA: '32'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Battle Royal - Kill 30
+  Description: 'Mission: Defeat 30 people in Battle Royal!'
+  GS: '20'
+  Guide: true
+  Number of Gamers: 294
+  Percentage of Gamers: 7%
+  Ratio: 3.7
+  TA: '74'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Battle Royal - Kill 50
+  Description: 'Mission: Defeat 50 people in Battle Royal!'
+  GS: '30'
+  Guide: true
+  Number of Gamers: 272
+  Percentage of Gamers: 7%
+  Ratio: 3.85
+  TA: '115'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Battle Royal - Kill 100
+  Description: 'Mission: Defeat 100 people in Battle Royal!'
+  GS: '50'
+  Guide: true
+  Number of Gamers: 242
+  Percentage of Gamers: 6%
+  Ratio: 4.08
+  TA: '204'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Clear Round 10!
+  Description: 'Mission: Clear up to Round 10 in Single Battle mode!'
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1528
+  Percentage of Gamers: 38%
+  Ratio: 1.62
+  TA: '16'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Clear Round 20!
+  Description: 'Mission: Clear up to Round 20 in Single Battle mode!'
+  GS: '10'
+  Guide: false
+  Number of Gamers: 822
+  Percentage of Gamers: 20%
+  Ratio: 2.21
+  TA: '22'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Clear Round 30!
+  Description: 'Mission: Clear up to Round 30 in Single Battle mode!'
+  GS: '10'
+  Guide: false
+  Number of Gamers: 730
+  Percentage of Gamers: 18%
+  Ratio: 2.34
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Clear Round 40!
+  Description: 'Mission: Clear up to Round 40 in Single Battle mode!'
+  GS: '10'
+  Guide: false
+  Number of Gamers: 618
+  Percentage of Gamers: 15%
+  Ratio: 2.55
+  TA: '25'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Clear Round 50!
+  Description: 'Mission: Clear up to Round 50 in Single Battle mode!'
+  GS: '10'
+  Guide: false
+  Number of Gamers: 543
+  Percentage of Gamers: 13%
+  Ratio: 2.72
+  TA: '27'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Clear Round 60!
+  Description: 'Mission: Clear up to Round 60 in Single Battle mode!'
+  GS: '10'
+  Guide: false
+  Number of Gamers: 510
+  Percentage of Gamers: 13%
+  Ratio: 2.81
+  TA: '28'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Clear Round 70!
+  Description: 'Mission: Clear up to Round 70 in Single Battle mode!'
+  GS: '10'
+  Guide: false
+  Number of Gamers: 501
+  Percentage of Gamers: 12%
+  Ratio: 2.83
+  TA: '28'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Clear Round 80!
+  Description: 'Mission: Clear up to Round 80 in Single Battle mode!'
+  GS: '10'
+  Guide: false
+  Number of Gamers: 474
+  Percentage of Gamers: 12%
+  Ratio: 2.91
+  TA: '29'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Clear Round 90!
+  Description: 'Mission: Clear up to Round 90 in Single Battle mode!'
+  GS: '10'
+  Guide: false
+  Number of Gamers: 457
+  Percentage of Gamers: 11%
+  Ratio: 2.97
+  TA: '29'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: You reached the Land of Despair.
+  Description: 'Mission: Clear Single Battle mode!'
+  GS: '50'
+  Guide: true
+  Number of Gamers: 444
+  Percentage of Gamers: 11%
+  Ratio: 3.01
+  TA: '150'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Survival Time 200
+  Description: 'Mission: Clear Single Battle mode within 200 minutes!'
+  GS: '10'
+  Guide: false
+  Number of Gamers: 443
+  Percentage of Gamers: 11%
+  Ratio: 3.01
+  TA: '30'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
+- Achievement Name: Survival Time 150
+  Description: Clear Single Battle mode within 150 minutes!
+  GS: '20'
+  Guide: false
+  Number of Gamers: 440
+  Percentage of Gamers: 11%
+  Ratio: 3.02
+  TA: '60'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
+- Achievement Name: Survival Time 100
+  Description: 'Mission: Clear Single Battle mode within 100 minutes!'
+  GS: '50'
+  Guide: true
+  Number of Gamers: 370
+  Percentage of Gamers: 9%
+  Ratio: 3.3
+  TA: '165'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
+- Achievement Name: Room Master
+  Description: 'Mission: Create a room and fight a battle!'
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1178
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '9'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Room Master 10
+  Description: 'Mission: Create more rooms and fight more battles!'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 577
+  Percentage of Gamers: 14%
+  Ratio: 2.64
+  TA: '26'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Room Master 100
+  Description: 'Mission: Create more rooms and fight even more battles!'
+  GS: '30'
+  Guide: true
+  Number of Gamers: 272
+  Percentage of Gamers: 7%
+  Ratio: 3.85
+  TA: '115'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+Base Ratio: 4.761
+Base TA: 4761
+Delisted: true
+Developer: Hudson Soft
+Game Name: Bomberman Act:Zero
+Genres: Party
+Install Size: 389.0
+Number of Completions: 22
+Number of Gamers: 4028
+Overall Completion Time:
+- 1000.0
+- 1000.0
+Overall GS: 1000
+Overall Ratio: 4.761
+Overall TA: 4761
+PDU: 0
+Percentage Completed: 0.55
+Publisher: Hudson Entertainment
+Release Date: 29 August 2006
+Server Closure: false
+Site Rating: 2.03
+Update Achievements: []
+Walkthrough: false

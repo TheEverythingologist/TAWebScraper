@@ -1,0 +1,661 @@
+Add On Achievements: []
+Base Completion Time:
+- 15.0
+- 20.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Sword & Bow
+  Description: "Obtain a Sword and \u201CThe\u201D Bow."
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3912
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Weed Wacker
+  Description: Cut 50 bushes in Illegarde!
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4448
+  Percentage of Gamers: 100%
+  Ratio: 1.0
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Brode's Finest
+  Description: Eat 5 portions of Brode's homemade Chicken Stew.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1895
+  Percentage of Gamers: 43%
+  Ratio: 1.53
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Gatherer
+  Description: Gather 5 of each crafting material.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2268
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative
+- Achievement Name: Monster Slayer
+  Description: Vanquish 50 monsters.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2605
+  Percentage of Gamers: 58%
+  Ratio: 1.3
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Life!
+  Description: Find 3 Life Stones to increase your Total Health.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2320
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Mana!
+  Description: Find 3 Mana Stones to increase your Total Mana.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2065
+  Percentage of Gamers: 46%
+  Ratio: 1.46
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Small time Collector
+  Description: Find 25% of the collectible items.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1921
+  Percentage of Gamers: 43%
+  Ratio: 1.52
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Big time Collector
+  Description: Find 50% of the collectible items.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1421
+  Percentage of Gamers: 32%
+  Ratio: 1.77
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Master Collector
+  Description: Find ALL of the collectible items.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 804
+  Percentage of Gamers: 18%
+  Ratio: 2.35
+  TA: '47'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Blazing Barrels
+  Description: Why break 100 barrels when you can burn them?
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1731
+  Percentage of Gamers: 39%
+  Ratio: 1.6
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Talkative!
+  Description: "Have 10 conversations with \u201CLiving\u201D characters."
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1508
+  Percentage of Gamers: 34%
+  Ratio: 1.71
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Little Spender
+  Description: Spend 500 Gold.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2609
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Shop
+- Achievement Name: Big Spender
+  Description: Spend 5000 Gold
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1473
+  Percentage of Gamers: 33%
+  Ratio: 1.73
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Shop
+- Achievement Name: Maximum Armor
+  Description: Fully upgrade your Armor.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1068
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '40'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Cutting Edge Sword
+  Description: Fully upgrade your Sword.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1082
+  Percentage of Gamers: 24%
+  Ratio: 2.02
+  TA: '40'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Glorious Bracers
+  Description: Fully upgrade your Bracers.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 996
+  Percentage of Gamers: 22%
+  Ratio: 2.11
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Ghost Whisperer
+  Description: Find ALL Ghost Characters and talk to them. (Ghost Merchants and Wailing
+    Ghosts don't count!)
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1138
+  Percentage of Gamers: 26%
+  Ratio: 1.97
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Novice Alchemist
+  Description: Brew 10 potions or Elixirs.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2184
+  Percentage of Gamers: 49%
+  Ratio: 1.42
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Expert Alchemist
+  Description: Brew 50 potions or elixirs.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1150
+  Percentage of Gamers: 26%
+  Ratio: 1.96
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Master Alchemist
+  Description: Brew 100 potions or elixirs.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 790
+  Percentage of Gamers: 18%
+  Ratio: 2.37
+  TA: '47'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Ice Cold
+  Description: Vanquish 20 monsters with pure coldness!
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1137
+  Percentage of Gamers: 26%
+  Ratio: 1.97
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Share the Pain!
+  Description: Talk to 10 Wailing Ghosts... But be careful though!
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1118
+  Percentage of Gamers: 25%
+  Ratio: 1.99
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Treasure Seeker
+  Description: Open 10 Treasure Chests.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2621
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Treasure Hunter
+  Description: Find and open ALL Treasure Chests.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 792
+  Percentage of Gamers: 18%
+  Ratio: 2.37
+  TA: '47'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Full Quiver
+  Description: Unlock ALL Arrow Types.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1209
+  Percentage of Gamers: 27%
+  Ratio: 1.91
+  TA: '38'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Novice Fisher
+  Description: Catch 10 Fish.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1014
+  Percentage of Gamers: 23%
+  Ratio: 2.09
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Expert Fisher
+  Description: Catch 50 Fish.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 978
+  Percentage of Gamers: 22%
+  Ratio: 2.13
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Master Fisher
+  Description: Catch 100 Fish.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 932
+  Percentage of Gamers: 21%
+  Ratio: 2.18
+  TA: '43'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Merchandise!
+  Description: Find ALL the Ghost Merchants and buy ALL of their goods.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1022
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '41'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Eldritch of the Temple
+  Description: You can hear it's whispers...
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2379
+  Percentage of Gamers: 53%
+  Ratio: 1.36
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Horror of the Hollow
+  Description: So much slime...
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1752
+  Percentage of Gamers: 39%
+  Ratio: 1.59
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Shadow of the Mines
+  Description: Doooooooom!
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1299
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Lord of the Tower
+  Description: Madness I tell you... Madness!
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1200
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '38'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Final Boss!
+  Description: Can you guess who it is?
+  GS: '50'
+  Guide: false
+  Number of Gamers: 1109
+  Percentage of Gamers: 25%
+  Ratio: 2.0
+  TA: '100'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
+- Achievement Name: Casual Reader
+  Description: Read 2 Lore Books.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2097
+  Percentage of Gamers: 47%
+  Ratio: 1.45
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Lore Master
+  Description: Read ALL the Lore Books.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1055
+  Percentage of Gamers: 24%
+  Ratio: 2.05
+  TA: '41'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: The Diamond Fish!
+  Description: Catch a "Diamond Crest Gourami" in the fishing pond.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 987
+  Percentage of Gamers: 22%
+  Ratio: 2.12
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Heroic Gatherer
+  Description: Gather 10 of each Crafting material (In Heroic Mode.)
+  GS: '20'
+  Guide: true
+  Number of Gamers: 677
+  Percentage of Gamers: 15%
+  Ratio: 2.56
+  TA: '51'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Cumulative
+  - Multiple Playthroughs Required
+- Achievement Name: Monster Slayer Heroica!
+  Description: Vanquish 100 Monsters (In Heroic Mode.)
+  GS: '20'
+  Guide: false
+  Number of Gamers: 654
+  Percentage of Gamers: 15%
+  Ratio: 2.61
+  TA: '52'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Cumulative +
+  - Multiple Playthroughs Required
+- Achievement Name: Life of a Hero
+  Description: Find 6 Life Stones (In Heroic Mode.)
+  GS: '20'
+  Guide: true
+  Number of Gamers: 646
+  Percentage of Gamers: 14%
+  Ratio: 2.62
+  TA: '52'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Collectable
+  - Multiple Playthroughs Required
+- Achievement Name: Hero of Mana
+  Description: Find 6 Mana Stones (In Heroic Mode.)
+  GS: '20'
+  Guide: true
+  Number of Gamers: 642
+  Percentage of Gamers: 14%
+  Ratio: 2.63
+  TA: '52'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Collectable
+  - Multiple Playthroughs Required
+- Achievement Name: Full Metal Huntress!
+  Description: Find ALL of the collectible items and get all the upgrades (In Heroic
+    Mode.)
+  GS: '20'
+  Guide: true
+  Number of Gamers: 545
+  Percentage of Gamers: 12%
+  Ratio: 2.85
+  TA: '57'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Collectable
+  - Shop
+  - Multiple Playthroughs Required
+- Achievement Name: Heroic Boss Fight!
+  Description: Defeat one of the Dungeon Bosses (In Heroic Mode.)
+  GS: '20'
+  Guide: true
+  Number of Gamers: 672
+  Percentage of Gamers: 15%
+  Ratio: 2.57
+  TA: '51'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Multiple Playthroughs Required
+- Achievement Name: Spirit of Fortune
+  Description: Find the 3 Golden Figurines and bring them to the Envoy of Goldisa
+    (In Heroic Mode.)
+  GS: '10'
+  Guide: true
+  Number of Gamers: 685
+  Percentage of Gamers: 15%
+  Ratio: 2.55
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Collectable
+  - Multiple Playthroughs Required
+- Achievement Name: Spirit of Hope
+  Description: Find the 3 Sapphire Figurines and bring them to the Envoy of Aurora
+    (In Heroic Mode.)
+  GS: '10'
+  Guide: true
+  Number of Gamers: 622
+  Percentage of Gamers: 14%
+  Ratio: 2.67
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Collectable
+  - Multiple Playthroughs Required
+- Achievement Name: Spirit of Determination
+  Description: Find the 3 Azure Figurines and bring them to the Envoy of Deteri (In
+    Heroic Mode.)
+  GS: '10'
+  Guide: true
+  Number of Gamers: 585
+  Percentage of Gamers: 13%
+  Ratio: 2.75
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Collectable
+  - Multiple Playthroughs Required
+- Achievement Name: Spirit of Joy
+  Description: Find the 3 Emerald Figurines and bring them to the Envoy of Jetri (In
+    Heroic Mode.)
+  GS: '10'
+  Guide: true
+  Number of Gamers: 561
+  Percentage of Gamers: 13%
+  Ratio: 2.81
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Collectable
+  - Multiple Playthroughs Required
+- Achievement Name: Final Boss Heroica!
+  Description: Defeat the Final Boss (In Heroic Mode.)
+  GS: '70'
+  Guide: true
+  Number of Gamers: 551
+  Percentage of Gamers: 12%
+  Ratio: 2.84
+  TA: '199'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Multiple Playthroughs Required
+- Achievement Name: THE COMPLETIONIST!
+  Description: Get ALL the other Achievements.
+  GS: '200'
+  Guide: true
+  Number of Gamers: 528
+  Percentage of Gamers: 12%
+  Ratio: 2.9
+  TA: '581'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Shop
+  - Multiple Playthroughs Required
+  - Buggy
+Base Ratio: 2.24
+Base TA: 2240
+Delisted: false
+Developer: Johnny Ostad
+Game Name: 'Shalnor Legends: Sacred Lands'
+Genres: Action-Adventure
+Install Size: 240.0
+Number of Completions: 527
+Number of Gamers: 4456
+Overall Completion Time:
+- 15.0
+- 20.0
+Overall GS: 1000
+Overall Ratio: 2.24
+Overall TA: 2240
+PDU: 0
+Percentage Completed: 11.83
+Publisher: Johnny Ostad
+Release Date: 07 September 2018
+Server Closure: false
+Site Rating: 3.33
+Update Achievements: []
+Walkthrough: false

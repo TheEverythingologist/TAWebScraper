@@ -1,0 +1,607 @@
+Add On Achievements: []
+Base Completion Time:
+- 35.0
+- 40.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Comeback King
+  Description: Won after coming back from 2 goals down
+  GS: '10'
+  Guide: true
+  Number of Gamers: 12019
+  Percentage of Gamers: 19%
+  Ratio: 2.26
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Possessive Streak
+  Description: Had the ball 65% or more of the time and won the match
+  GS: '10'
+  Guide: true
+  Number of Gamers: 11799
+  Percentage of Gamers: 19%
+  Ratio: 2.28
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Super-sub
+  Description: A substitute scored
+  GS: '10'
+  Guide: true
+  Number of Gamers: 27339
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: World Class
+  Description: Scored in open play from 30 m or more (excluding Set Pieces)
+  GS: '40'
+  Guide: true
+  Number of Gamers: 8949
+  Percentage of Gamers: 14%
+  Ratio: 2.62
+  TA: '105'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: The Sniper
+  Description: Netted a free kick from 25 m or more
+  GS: '40'
+  Guide: true
+  Number of Gamers: 6587
+  Percentage of Gamers: 11%
+  Ratio: 3.06
+  TA: '122'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Phantom Striker
+  Description: A defender scored a goal
+  GS: '10'
+  Guide: false
+  Number of Gamers: 22014
+  Percentage of Gamers: 36%
+  Ratio: 1.67
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Final Twist
+  Description: Pulled off a win by scoring in stoppage time
+  GS: '10'
+  Guide: true
+  Number of Gamers: 16833
+  Percentage of Gamers: 27%
+  Ratio: 1.91
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Hat-Trick
+  Description: Scored 3 goals with the same player in a match
+  GS: '10'
+  Guide: false
+  Number of Gamers: 30118
+  Percentage of Gamers: 49%
+  Ratio: 1.43
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Trickster
+  Description: Performed a trick to get past a player and score
+  GS: '10'
+  Guide: true
+  Number of Gamers: 17678
+  Percentage of Gamers: 29%
+  Ratio: 1.86
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Chip Shot Creator
+  Description: Scored 5 goals from chip shots
+  GS: '10'
+  Guide: true
+  Number of Gamers: 8303
+  Percentage of Gamers: 13%
+  Ratio: 2.72
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Set Piece Strategist
+  Description: Scored 3 goals using a Set Piece Strategy
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3396
+  Percentage of Gamers: 5%
+  Ratio: 4.26
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Derby Dominator
+  Description: Won a derby match
+  GS: '10'
+  Guide: true
+  Number of Gamers: 20049
+  Percentage of Gamers: 32%
+  Ratio: 1.75
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Counter-Attacker
+  Description: Scored a goal on the counter-attack
+  GS: '10'
+  Guide: false
+  Number of Gamers: 55265
+  Percentage of Gamers: 89%
+  Ratio: 1.05
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Goalmouth Guardian
+  Description: Saved a penalty kick (no penalty shootouts)
+  GS: '10'
+  Guide: true
+  Number of Gamers: 22217
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Clean Sheet King
+  Description: Shutout the opposition
+  GS: '10'
+  Guide: false
+  Number of Gamers: 42415
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Underdog
+  Description: "Defeated an opponent \u26052 or stronger in Team Strength"
+  GS: '10'
+  Guide: true
+  Number of Gamers: 11214
+  Percentage of Gamers: 18%
+  Ratio: 2.34
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Workhorse
+  Description: Played a total of 50 matches
+  GS: '10'
+  Guide: false
+  Number of Gamers: 12131
+  Percentage of Gamers: 20%
+  Ratio: 2.25
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Goal Hunter
+  Description: Scored a total of 100 goals
+  GS: '40'
+  Guide: false
+  Number of Gamers: 11445
+  Percentage of Gamers: 19%
+  Ratio: 2.32
+  TA: '92'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Assist Machine
+  Description: Performed a total of 100 assists
+  GS: '40'
+  Guide: false
+  Number of Gamers: 8808
+  Percentage of Gamers: 14%
+  Ratio: 2.64
+  TA: '105'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Legendary Victor
+  Description: 'Defeated 5 Match Level: Super Star opponents'
+  GS: '40'
+  Guide: true
+  Number of Gamers: 2192
+  Percentage of Gamers: 4%
+  Ratio: 5.3
+  TA: '212'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Cumulative +
+- Achievement Name: Victory Haul
+  Description: Won a total of 100 matches
+  GS: '90'
+  Guide: true
+  Number of Gamers: 5149
+  Percentage of Gamers: 8%
+  Ratio: 3.46
+  TA: '311'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Played Exhibition Match!
+  Description: Played Full Exhibition Match
+  GS: '10'
+  Guide: false
+  Number of Gamers: 44364
+  Percentage of Gamers: 72%
+  Ratio: 1.18
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: VERSUS (COM)
+  Description: Got match data against COM in VERSUS Mode
+  GS: '10'
+  Guide: false
+  Number of Gamers: 4302
+  Percentage of Gamers: 7%
+  Ratio: 3.79
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: VERSUS (2 Players)
+  Description: Got match data in VERSUS Mode
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3767
+  Percentage of Gamers: 6%
+  Ratio: 4.05
+  TA: '40'
+  Tags:
+  - Offline Mode
+  - Versus
+- Achievement Name: Random Selection Match Kick Off!
+  Description: Played a Random Selection Match to the final whistle
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7473
+  Percentage of Gamers: 12%
+  Ratio: 2.87
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: The Debutant
+  Description: Awarded for making an appearance in [Become a Legend]
+  GS: '10'
+  Guide: false
+  Number of Gamers: 16865
+  Percentage of Gamers: 27%
+  Ratio: 1.91
+  TA: '19'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Championship Winner
+  Description: Awarded for winning the League Title in [Become a Legend]
+  GS: '10'
+  Guide: false
+  Number of Gamers: 3383
+  Percentage of Gamers: 5%
+  Ratio: 4.27
+  TA: '42'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: League Best Eleven
+  Description: Awarded for being picked for the Team of the Season in [Become a Legend]
+  GS: '10'
+  Guide: false
+  Number of Gamers: 4201
+  Percentage of Gamers: 7%
+  Ratio: 3.83
+  TA: '38'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: World Best Player Award
+  Description: Awarded for being named World Footballer of the Year in [Become a Legend]
+  GS: '40'
+  Guide: true
+  Number of Gamers: 1651
+  Percentage of Gamers: 3%
+  Ratio: 6.11
+  TA: '244'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Won in Master League
+  Description: Awarded for earning a win in [Master League]
+  GS: '10'
+  Guide: false
+  Number of Gamers: 18150
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '18'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: My Favourite Players
+  Description: Registered a player to My Favourite Players in [Master League]
+  GS: '10'
+  Guide: true
+  Number of Gamers: 11603
+  Percentage of Gamers: 19%
+  Ratio: 2.3
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: League Champions
+  Description: Awarded for winning the League Title in any of the Top Leagues featured
+    in [Master League]
+  GS: '40'
+  Guide: true
+  Number of Gamers: 6235
+  Percentage of Gamers: 10%
+  Ratio: 3.14
+  TA: '125'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: International Champions Cup Champions
+  Description: Won the International Champions Cup
+  GS: '90'
+  Guide: true
+  Number of Gamers: 11857
+  Percentage of Gamers: 19%
+  Ratio: 2.28
+  TA: '205'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: 'Silver Collector: Basic'
+  Description: Awarded for obtaining Silver in all [Basic] level Skills Training
+  GS: '10'
+  Guide: false
+  Number of Gamers: 7862
+  Percentage of Gamers: 13%
+  Ratio: 2.8
+  TA: '28'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: 'Silver Collector: Intermediate'
+  Description: Awarded for obtaining Silver in all [Intermediate] level Skills Training
+  GS: '10'
+  Guide: false
+  Number of Gamers: 7307
+  Percentage of Gamers: 12%
+  Ratio: 2.9
+  TA: '29'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: 'Silver Collector: Advanced'
+  Description: Awarded for obtaining Silver in all [Advanced] level Skills Training
+  GS: '10'
+  Guide: false
+  Number of Gamers: 4680
+  Percentage of Gamers: 8%
+  Ratio: 3.63
+  TA: '36'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: 'Silver Collector: Expert'
+  Description: Awarded for obtaining Silver in all [Expert] level Skills Training
+  GS: '10'
+  Guide: false
+  Number of Gamers: 3278
+  Percentage of Gamers: 5%
+  Ratio: 4.34
+  TA: '43'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: First Online Divisions win
+  Description: Awarded for winning your first [Online Divisions] match
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4393
+  Percentage of Gamers: 7%
+  Ratio: 3.75
+  TA: '37'
+  Tags:
+  - Discontinued
+- Achievement Name: Promoted in Online Divisions
+  Description: Awarded for winning promotion to a higher division in [Online Divisions]
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2743
+  Percentage of Gamers: 4%
+  Ratio: 4.74
+  TA: '47'
+  Tags:
+  - Discontinued
+- Achievement Name: Team Play
+  Description: Kicked off while taking part in a Team Play Lobby
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2015
+  Percentage of Gamers: 3%
+  Ratio: 5.53
+  TA: '55'
+  Tags:
+  - Discontinued
+- Achievement Name: Win a Casual Match
+  Description: Won a Casual Match in Online CO-OP
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1907
+  Percentage of Gamers: 3%
+  Ratio: 5.69
+  TA: '56'
+  Tags:
+  - Discontinued
+- Achievement Name: Win a Clan Match
+  Description: Won a Clan Match in Online CO-OP
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2076
+  Percentage of Gamers: 3%
+  Ratio: 5.45
+  TA: '54'
+  Tags:
+  - Discontinued
+- Achievement Name: Co-op Contributor
+  Description: Awarded a special CO-OP Playing Style in Online CO-OP
+  GS: '40'
+  Guide: true
+  Number of Gamers: 963
+  Percentage of Gamers: 2%
+  Ratio: 8.01
+  TA: '320'
+  Tags:
+  - Discontinued
+- Achievement Name: 'myClub: 1st RANKED MATCH win'
+  Description: Awarded for winning your first RANKED MATCH game in myClub
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3934
+  Percentage of Gamers: 6%
+  Ratio: 3.96
+  TA: '39'
+  Tags:
+  - Discontinued
+- Achievement Name: Ranking Recognition
+  Description: Awarded Acclaim for playing 10 ranked matches in myClub
+  GS: '10'
+  Guide: false
+  Number of Gamers: 3103
+  Percentage of Gamers: 5%
+  Ratio: 4.46
+  TA: '44'
+  Tags:
+  - Discontinued
+- Achievement Name: Ace Signing
+  Description: Obtained a BLACK rarity player with a myClub Agent
+  GS: '10'
+  Guide: false
+  Number of Gamers: 12700
+  Percentage of Gamers: 21%
+  Ratio: 2.2
+  TA: '22'
+  Tags:
+  - Discontinued
+- Achievement Name: One of Our Own
+  Description: Trained a player to Lv.35 in myClub
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3054
+  Percentage of Gamers: 5%
+  Ratio: 4.49
+  TA: '44'
+  Tags:
+  - Discontinued
+- Achievement Name: Eye for Talent
+  Description: Obtained a GOLD or BLACK rarity player with a myClub Scout
+  GS: '40'
+  Guide: true
+  Number of Gamers: 1596
+  Percentage of Gamers: 3%
+  Ratio: 6.22
+  TA: '248'
+  Tags:
+  - Discontinued
+- Achievement Name: Global Giants
+  Description: Created a Squad with a Team Strength of 2300 or more in myClub
+  GS: '90'
+  Guide: true
+  Number of Gamers: 3694
+  Percentage of Gamers: 6%
+  Ratio: 4.09
+  TA: '368'
+  Tags:
+  - Discontinued
+Base Ratio: 3.542
+Base TA: 3542
+Delisted: false
+Developer: Konami Digital Entertainment
+Game Name: Pro Evolution Soccer 2019
+Genres: Sports, Football
+Install Size: 29790.0
+Number of Completions: 239
+Number of Gamers: 61842
+Overall Completion Time:
+- 35.0
+- 40.0
+Overall GS: 1000
+Overall Ratio: 3.542
+Overall TA: 3542
+PDU: 12
+Percentage Completed: 0.39
+Publisher: Konami Digital Entertainment
+Release Date: 28 August 2018
+Server Closure: true
+Site Rating: 3.35
+Update Achievements: []
+Walkthrough: false

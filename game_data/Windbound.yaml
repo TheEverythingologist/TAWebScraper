@@ -1,0 +1,383 @@
+Add On Achievements: []
+Base Completion Time:
+- 40.0
+- 50.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Speed Racer
+  Description: Go Over 30m/s for 3 seconds.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1730
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '52'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Sharp Shooter
+  Description: Kill one of each land creature using only headshots.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 42
+  Percentage of Gamers: 1%
+  Ratio: 11.32
+  TA: '339'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Green thumb
+  Description: Collect 1,000 grass.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 261
+  Percentage of Gamers: 5%
+  Ratio: 4.54
+  TA: '68'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Rock 'n' Roll
+  Description: Collect 1,000 rocks.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 179
+  Percentage of Gamers: 3%
+  Ratio: 5.48
+  TA: '82'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Infinity Stones
+  Description: Find one of each colored gem in a single playthrough.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 378
+  Percentage of Gamers: 7%
+  Ratio: 3.77
+  TA: '56'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Finish the Game
+  Description: Finish the game.
+  GS: '85'
+  Guide: false
+  Number of Gamers: 676
+  Percentage of Gamers: 13%
+  Ratio: 2.82
+  TA: '240'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Hoarder
+  Description: Have 5000 in unspent meta currency.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 859
+  Percentage of Gamers: 16%
+  Ratio: 2.5
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative
+- Achievement Name: One Craft to Craft Them All
+  Description: Craft one of every item in the game.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 34
+  Percentage of Gamers: 1%
+  Ratio: 12.58
+  TA: '188'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Master Chef
+  Description: Craft one of each food recipe.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 465
+  Percentage of Gamers: 9%
+  Ratio: 3.4
+  TA: '51'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Boaty McBoatface
+  Description: Craft one of each boat part.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1040
+  Percentage of Gamers: 19%
+  Ratio: 2.27
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Fashionista
+  Description: Craft one of each article of clothing.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 90
+  Percentage of Gamers: 2%
+  Ratio: 7.73
+  TA: '116'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Pacifist
+  Description: Finish the game without crafting any weapons or killing any creatures.
+  GS: '90'
+  Guide: true
+  Number of Gamers: 78
+  Percentage of Gamers: 1%
+  Ratio: 8.3
+  TA: '747'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Buggy
+- Achievement Name: Vegetarian
+  Description: Finish the game without eating any meat.
+  GS: '90'
+  Guide: true
+  Number of Gamers: 91
+  Percentage of Gamers: 2%
+  Ratio: 7.69
+  TA: '692'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Buggy
+- Achievement Name: Carnivore
+  Description: Finish the game without eating anything but meat.
+  GS: '90'
+  Guide: true
+  Number of Gamers: 67
+  Percentage of Gamers: 1%
+  Ratio: 8.96
+  TA: '806'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Buggy
+- Achievement Name: Baggage Claim
+  Description: Finish the game without crafting any bags or containers.
+  GS: '90'
+  Guide: true
+  Number of Gamers: 92
+  Percentage of Gamers: 2%
+  Ratio: 7.65
+  TA: '688'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Buggy
+- Achievement Name: Up Close and Personal
+  Description: Finish the game using only melee weapons.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 48
+  Percentage of Gamers: 1%
+  Ratio: 10.59
+  TA: '317'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Buggy
+- Achievement Name: Keep Your Distance
+  Description: Finish the game using only ranged weapons.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 39
+  Percentage of Gamers: 1%
+  Ratio: 11.9
+  TA: '357'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Back to Basics
+  Description: Finish the game only using the knife, grass sling, rocks, stick spear,
+    stick bow and stick arrows.
+  GS: '90'
+  Guide: true
+  Number of Gamers: 48
+  Percentage of Gamers: 1%
+  Ratio: 10.59
+  TA: '953'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Ocean Explorer
+  Description: Travel 100 km by boat.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 643
+  Percentage of Gamers: 12%
+  Ratio: 2.89
+  TA: '43'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Island Hopper
+  Description: Visit 100 islands.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 169
+  Percentage of Gamers: 3%
+  Ratio: 5.64
+  TA: '84'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Pro Skater
+  Description: Get 2 seconds of airtime with a boat.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 496
+  Percentage of Gamers: 9%
+  Ratio: 3.29
+  TA: '98'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Mothership
+  Description: Build a boat with 3 decks.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1253
+  Percentage of Gamers: 23%
+  Ratio: 2.07
+  TA: '31'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Overcooked
+  Description: Have a boat with a drying rack, clay kiln and cooking pot all cooking
+    at once.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 257
+  Percentage of Gamers: 5%
+  Ratio: 4.57
+  TA: '68'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Flower Power
+  Description: Fill your inventory with flowers.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 81
+  Percentage of Gamers: 2%
+  Ratio: 8.15
+  TA: '122'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Eagle Eye
+  Description: Land a hit with a bow from 50 meters away.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 807
+  Percentage of Gamers: 15%
+  Ratio: 2.58
+  TA: '38'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Drop Zone
+  Description: Survive an otherwise deadly fall by using the Bastion Bow's protection.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 72
+  Percentage of Gamers: 1%
+  Ratio: 8.64
+  TA: '129'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: It's Dangerous To Go Alone
+  Description: Have 7 spears in your inventory.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 278
+  Percentage of Gamers: 5%
+  Ratio: 4.4
+  TA: '66'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative
+- Achievement Name: Marathon
+  Description: Go 5 minutes without fully recovering your stamina.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 747
+  Percentage of Gamers: 14%
+  Ratio: 2.68
+  TA: '80'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Go for Gold
+  Description: Swim 100m without dying.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3399
+  Percentage of Gamers: 63%
+  Ratio: 1.25
+  TA: '18'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: No more Mr. Knife Guy
+  Description: Kill one of each land creature using only the knife.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 40
+  Percentage of Gamers: 1%
+  Ratio: 11.6
+  TA: '348'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 6.948
+Base TA: 6948
+Delisted: false
+Developer: 5 Lives Studios
+Game Name: Windbound
+Genres: Survival, Roguelite
+Install Size: 1270.0
+Number of Completions: 31
+Number of Gamers: 5392
+Overall Completion Time:
+- 40.0
+- 50.0
+Overall GS: 1000
+Overall Ratio: 6.948
+Overall TA: 6948
+PDU: 0
+Percentage Completed: 0.57
+Publisher: Deep Silver
+Release Date: 28 August 2020
+Server Closure: false
+Site Rating: 2.94
+Update Achievements: []
+Walkthrough: false

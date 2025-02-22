@@ -1,0 +1,544 @@
+Add On Achievements: []
+Base Completion Time:
+- 100.0
+- 120.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: "Une \xE9toile"
+  Description: Discover 2% of the Passidex (base game).
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2396
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: "Deux \xE9toiles"
+  Description: Discover 10% of the Passidex (base game).
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1001
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: "Trois \xE9toiles"
+  Description: Discover 25% of the Passidex (base game).
+  GS: '15'
+  Guide: false
+  Number of Gamers: 305
+  Percentage of Gamers: 12%
+  Ratio: 2.86
+  TA: '43'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: "Quatre \xE9toiles"
+  Description: Discover 50% of the Passidex (base game).
+  GS: '20'
+  Guide: false
+  Number of Gamers: 127
+  Percentage of Gamers: 5%
+  Ratio: 4.44
+  TA: '88'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: "Cinq \xE9toiles"
+  Description: Discover 75% of the Passidex (base game).
+  GS: '25'
+  Guide: false
+  Number of Gamers: 53
+  Percentage of Gamers: 2%
+  Ratio: 6.88
+  TA: '172'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Le Chauffeur
+  Description: Discover 98% of the Passidex (base game).
+  GS: '50'
+  Guide: true
+  Number of Gamers: 18
+  Percentage of Gamers: 1%
+  Ratio: 11.8
+  TA: '590'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Buggy
+- Achievement Name: "Un pour tous\u2026"
+  Description: Meet all passengers
+  GS: '50'
+  Guide: true
+  Number of Gamers: 85
+  Percentage of Gamers: 3%
+  Ratio: 5.43
+  TA: '271'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: "Sous les verrous\u2026"
+  Description: Arrest all the killers (base game only).
+  GS: '30'
+  Guide: true
+  Number of Gamers: 173
+  Percentage of Gamers: 7%
+  Ratio: 3.8
+  TA: '114'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: L'Avocat
+  Description: Say nothing.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 161
+  Percentage of Gamers: 6%
+  Ratio: 3.94
+  TA: '39'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Le Politicien
+  Description: Say nothing.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 84
+  Percentage of Gamers: 3%
+  Ratio: 5.46
+  TA: '54'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "Le Fant\xF4me"
+  Description: Hey listen!
+  GS: '30'
+  Guide: true
+  Number of Gamers: 62
+  Percentage of Gamers: 2%
+  Ratio: 6.36
+  TA: '190'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "Le Pr\xEAtre"
+  Description: Confess.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 574
+  Percentage of Gamers: 23%
+  Ratio: 2.09
+  TA: '41'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: La Critique
+  Description: Hear her out.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 84
+  Percentage of Gamers: 3%
+  Ratio: 5.46
+  TA: '163'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: L'Inspecteur
+  Description: Hear his stories.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 72
+  Percentage of Gamers: 3%
+  Ratio: 5.9
+  TA: '177'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "La Po\xE8tesse"
+  Description: Listen to her poems.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 90
+  Percentage of Gamers: 4%
+  Ratio: 5.28
+  TA: '158'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: L'Homme libre
+  Description: "Agree with G\xE9rard"
+  GS: '15'
+  Guide: true
+  Number of Gamers: 238
+  Percentage of Gamers: 9%
+  Ratio: 3.24
+  TA: '48'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "L'\xC9ditorialiste"
+  Description: Listen to his chronicles.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 78
+  Percentage of Gamers: 3%
+  Ratio: 5.67
+  TA: '170'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Le Sans-abri
+  Description: "Ask Herv\xE9 for help."
+  GS: '15'
+  Guide: true
+  Number of Gamers: 693
+  Percentage of Gamers: 28%
+  Ratio: 1.9
+  TA: '28'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "Le P\xE8re"
+  Description: Help Carlo lie.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 192
+  Percentage of Gamers: 8%
+  Ratio: 3.61
+  TA: '54'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Le Loup-Garou
+  Description: Play with Hyoga.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 152
+  Percentage of Gamers: 6%
+  Ratio: 4.06
+  TA: '60'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Le Couple
+  Description: "Help Lucie & \xC9milie."
+  GS: '15'
+  Guide: true
+  Number of Gamers: 96
+  Percentage of Gamers: 4%
+  Ratio: 5.11
+  TA: '76'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: La Vieille dame au flingue
+  Description: An offer you can't refuse.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 443
+  Percentage of Gamers: 18%
+  Ratio: 2.38
+  TA: '35'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Le Pierre Richard
+  Description: Medically curious.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 149
+  Percentage of Gamers: 6%
+  Ratio: 4.1
+  TA: '41'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: La Patronne
+  Description: Spy a little.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 222
+  Percentage of Gamers: 9%
+  Ratio: 3.36
+  TA: '50'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Le Pick-Up Artist
+  Description: Be straight with him.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 474
+  Percentage of Gamers: 19%
+  Ratio: 2.3
+  TA: '46'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Le Chat
+  Description: Drove Crouky to Saint-Lazare station.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1147
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '29'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Le Hacker
+  Description: Honesty lasts longer.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 333
+  Percentage of Gamers: 13%
+  Ratio: 2.74
+  TA: '41'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "La Math\xE9maticienne"
+  Description: The ghost station.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 876
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '25'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "La R\xE9alisatrice"
+  Description: "Be honest with Am\xE9lie."
+  GS: '15'
+  Guide: true
+  Number of Gamers: 155
+  Percentage of Gamers: 6%
+  Ratio: 4.02
+  TA: '60'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "La Th\xE9sarde"
+  Description: Rythm in the dance.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 147
+  Percentage of Gamers: 6%
+  Ratio: 4.13
+  TA: '61'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Le Chevalier
+  Description: Play along.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 125
+  Percentage of Gamers: 5%
+  Ratio: 4.48
+  TA: '67'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Le Lanceur d'alerte
+  Description: Ask for help.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 171
+  Percentage of Gamers: 7%
+  Ratio: 3.83
+  TA: '57'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Le Liseur
+  Description: What is he reading?
+  GS: '15'
+  Guide: true
+  Number of Gamers: 827
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '26'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Le Flic
+  Description: Not in the car!
+  GS: '22'
+  Guide: true
+  Number of Gamers: 541
+  Percentage of Gamers: 22%
+  Ratio: 2.15
+  TA: '47'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "La Retrait\xE9e"
+  Description: To the station and step on it!
+  GS: '15'
+  Guide: true
+  Number of Gamers: 154
+  Percentage of Gamers: 6%
+  Ratio: 4.03
+  TA: '60'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: La Journaliste
+  Description: Make a choice.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 384
+  Percentage of Gamers: 15%
+  Ratio: 2.55
+  TA: '38'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: La Voix du futur
+  Description: Find Janet's station.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 119
+  Percentage of Gamers: 5%
+  Ratio: 4.59
+  TA: '68'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "Les R\xF4listes"
+  Description: Floor Xenofex.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 253
+  Percentage of Gamers: 10%
+  Ratio: 3.14
+  TA: '94'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Le Multi-millionnaire
+  Description: Win the lottery.
+  GS: '43'
+  Guide: true
+  Number of Gamers: 262
+  Percentage of Gamers: 10%
+  Ratio: 3.09
+  TA: '133'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: La Cheffe
+  Description: Dizzy driver.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 208
+  Percentage of Gamers: 8%
+  Ratio: 3.47
+  TA: '34'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "L'\xC9tudiante en v\xE9t\xE9rinaire"
+  Description: A helping hand.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 317
+  Percentage of Gamers: 13%
+  Ratio: 2.81
+  TA: '42'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "La Charreti\xE8re"
+  Description: Listen to her stories.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 144
+  Percentage of Gamers: 6%
+  Ratio: 4.17
+  TA: '125'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Le Boss
+  Description: You are a professional.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 310
+  Percentage of Gamers: 12%
+  Ratio: 2.84
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Buggy
+- Achievement Name: L'Ange de la Mort
+  Description: Who is the Angel of Death?
+  GS: '40'
+  Guide: true
+  Number of Gamers: 256
+  Percentage of Gamers: 10%
+  Ratio: 3.13
+  TA: '125'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Le Marchand de Sable
+  Description: Who is the Sandman?
+  GS: '40'
+  Guide: true
+  Number of Gamers: 229
+  Percentage of Gamers: 9%
+  Ratio: 3.31
+  TA: '132'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Le Juge
+  Description: Who is the Judge?
+  GS: '40'
+  Guide: true
+  Number of Gamers: 706
+  Percentage of Gamers: 28%
+  Ratio: 1.88
+  TA: '75'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 4.127
+Base TA: 4127
+Delisted: false
+Developer: Monkey Moon, BlackMuffin Studio
+Game Name: Night Call (Windows)
+Genres: Visual Novel
+Install Size: 1270.0
+Number of Completions: 18
+Number of Gamers: 2511
+Overall Completion Time:
+- 100.0
+- 120.0
+Overall GS: 1000
+Overall Ratio: 4.127
+Overall TA: 4127
+PDU: 0
+Percentage Completed: 0.72
+Publisher: Raw Fury
+Release Date: 17 July 2019
+Server Closure: false
+Site Rating: 3.21
+Update Achievements: []
+Walkthrough: false

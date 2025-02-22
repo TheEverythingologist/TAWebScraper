@@ -1,0 +1,621 @@
+Add On Achievements: []
+Base Completion Time:
+- 80.0
+- 100.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Too Slow
+  Description: Run out of time on the first question
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1233
+  Percentage of Gamers: 72%
+  Ratio: 1.18
+  TA: '5'
+  Tags:
+  - Online/Offline
+  - Single Player
+- Achievement Name: Exhausted
+  Description: Use all of your hints, skips and ousts in a single game
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1432
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '5'
+  Tags:
+  - Online/Offline
+  - Single Player
+- Achievement Name: Perfect Start
+  Description: 100% correct on the first question in a game
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1694
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '5'
+  Tags:
+  - Online/Offline
+  - Single Player
+- Achievement Name: Personal Best
+  Description: Beat your own highscore
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1649
+  Percentage of Gamers: 96%
+  Ratio: 1.02
+  TA: '15'
+  Tags:
+  - Online/Offline
+  - Single Player
+- Achievement Name: Lightning Fast
+  Description: Get past question 20 with over a minute left on the clock
+  GS: '10'
+  Guide: true
+  Number of Gamers: 792
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '14'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Time/Date
+- Achievement Name: Top 99
+  Description: View the leaderboards when you rank in the top 99 on any leaderboard
+  GS: '50'
+  Guide: true
+  Number of Gamers: 664
+  Percentage of Gamers: 39%
+  Ratio: 1.6
+  TA: '80'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Online Skill
+- Achievement Name: Top 1000
+  Description: View the leaderboards when you rank in the top 1000 on any leaderboard
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1202
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '23'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Online Skill
+- Achievement Name: Splash The Cash
+  Description: Spend a grand total of 5000 Kudos Points
+  GS: '20'
+  Guide: true
+  Number of Gamers: 629
+  Percentage of Gamers: 37%
+  Ratio: 1.65
+  TA: '33'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cumulative +
+  - Shop
+- Achievement Name: Unlock Master
+  Description: Unlock all 36 items on the Kudos Wall
+  GS: '50'
+  Guide: true
+  Number of Gamers: 302
+  Percentage of Gamers: 18%
+  Ratio: 2.38
+  TA: '119'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Shop
+  - Buggy +
+- Achievement Name: Remember Your First
+  Description: Unlock an item on the Kudos Wall
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1547
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '5'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Shop
+- Achievement Name: Level 10
+  Description: Reach player level 10
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1476
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Level
+- Achievement Name: Level 20
+  Description: Reach player level 20
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1214
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '23'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Level
+- Achievement Name: Level 30
+  Description: Reach player level 30
+  GS: '30'
+  Guide: false
+  Number of Gamers: 861
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '42'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Level
+- Achievement Name: Level 40
+  Description: Reach player level 40
+  GS: '40'
+  Guide: false
+  Number of Gamers: 550
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '70'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Level
+- Achievement Name: Level 50
+  Description: Reach player level 50
+  GS: '50'
+  Guide: true
+  Number of Gamers: 388
+  Percentage of Gamers: 23%
+  Ratio: 2.1
+  TA: '105'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Level
+- Achievement Name: Happy Hour
+  Description: Play Gimme Five for 1 hour (cumulative)
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1259
+  Percentage of Gamers: 73%
+  Ratio: 1.16
+  TA: '5'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cumulative +
+- Achievement Name: Experimentation
+  Description: Play 50 games of Gimme Five
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1238
+  Percentage of Gamers: 72%
+  Ratio: 1.17
+  TA: '11'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cumulative +
+- Achievement Name: Regular Use
+  Description: Play 100 games of Gimme Five
+  GS: '20'
+  Guide: true
+  Number of Gamers: 989
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '26'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cumulative +
+- Achievement Name: Risky Use
+  Description: Play 250 games of Gimme Five
+  GS: '30'
+  Guide: true
+  Number of Gamers: 677
+  Percentage of Gamers: 39%
+  Ratio: 1.59
+  TA: '47'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cumulative +
+- Achievement Name: Dependence
+  Description: Play 500 games of Gimme Five
+  GS: '40'
+  Guide: true
+  Number of Gamers: 491
+  Percentage of Gamers: 29%
+  Ratio: 1.87
+  TA: '74'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cumulative +
+- Achievement Name: Addiction
+  Description: Play 1000 games of Gimme Five
+  GS: '50'
+  Guide: true
+  Number of Gamers: 404
+  Percentage of Gamers: 24%
+  Ratio: 2.06
+  TA: '103'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cumulative +
+- Achievement Name: Help Meow-t
+  Description: Skip a total of 50 questions
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1158
+  Percentage of Gamers: 67%
+  Ratio: 1.21
+  TA: '6'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cumulative +
+- Achievement Name: Ten In One
+  Description: Get past question 10 in a single game
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1538
+  Percentage of Gamers: 89%
+  Ratio: 1.05
+  TA: '5'
+  Tags:
+  - Online/Offline
+  - Single Player
+- Achievement Name: Twenty In One
+  Description: Get past question 20 in a single game
+  GS: '10'
+  Guide: false
+  Number of Gamers: 989
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '13'
+  Tags:
+  - Online/Offline
+  - Single Player
+- Achievement Name: Thirty In One
+  Description: Get past question 30 in a single game
+  GS: '15'
+  Guide: true
+  Number of Gamers: 532
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '26'
+  Tags:
+  - Online/Offline
+  - Single Player
+- Achievement Name: Forty In One
+  Description: Get past question 40 in a single game
+  GS: '20'
+  Guide: true
+  Number of Gamers: 369
+  Percentage of Gamers: 21%
+  Ratio: 2.15
+  TA: '43'
+  Tags:
+  - Online/Offline
+  - Single Player
+- Achievement Name: Fifty In One
+  Description: Get past question 50 in a single game
+  GS: '25'
+  Guide: true
+  Number of Gamers: 315
+  Percentage of Gamers: 18%
+  Ratio: 2.33
+  TA: '58'
+  Tags:
+  - Online/Offline
+  - Single Player
+- Achievement Name: Perfect 10
+  Description: Get past question 10 without losing any lives, using any hints or skipping
+    any questions
+  GS: '10'
+  Guide: true
+  Number of Gamers: 780
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '14'
+  Tags:
+  - Online/Offline
+  - Single Player
+- Achievement Name: Check Out My Equipment
+  Description: Play a game equipped with a bow and arrow
+  GS: '5'
+  Guide: true
+  Number of Gamers: 590
+  Percentage of Gamers: 34%
+  Ratio: 1.7
+  TA: '8'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Shop
+- Achievement Name: Diamonds Are Forever
+  Description: Unlock the diamond on the Kudos Wall
+  GS: '15'
+  Guide: true
+  Number of Gamers: 578
+  Percentage of Gamers: 34%
+  Ratio: 1.72
+  TA: '25'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Shop
+- Achievement Name: The Century
+  Description: Answer 100 questions (cumulative)
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1477
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cumulative +
+- Achievement Name: The Millennium
+  Description: Answer 1000 questions (cumulative)
+  GS: '25'
+  Guide: false
+  Number of Gamers: 894
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '34'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cumulative +
+- Achievement Name: The Myriad
+  Description: Answer 10,000 questions (cumulative)
+  GS: '50'
+  Guide: true
+  Number of Gamers: 380
+  Percentage of Gamers: 22%
+  Ratio: 2.12
+  TA: '106'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cumulative +
+- Achievement Name: Credit Where It's Due
+  Description: Watch the credits to the end
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1086
+  Percentage of Gamers: 63%
+  Ratio: 1.25
+  TA: '6'
+  Tags:
+  - Online/Offline
+  - Single Player
+- Achievement Name: Pricey Potato
+  Description: Unlock the potato on the Kudos Wall
+  GS: '15'
+  Guide: true
+  Number of Gamers: 535
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '26'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Shop
+  - Buggy
+- Achievement Name: OUST 'em Out
+  Description: Use OUST 10 times (cumulative)
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1314
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '5'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cumulative +
+- Achievement Name: A. King's Ransom
+  Description: Have over 1000 Kudos Points available at any time
+  GS: '20'
+  Guide: true
+  Number of Gamers: 977
+  Percentage of Gamers: 57%
+  Ratio: 1.32
+  TA: '26'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cumulative
+- Achievement Name: Variations On A Theme
+  Description: Change the theme of the game
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1540
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '5'
+  Tags:
+  - Online/Offline
+  - Single Player
+- Achievement Name: Mehrunes Dagon
+  Description: Play Gimme Five for 24 hours (cumulative)
+  GS: '50'
+  Guide: true
+  Number of Gamers: 405
+  Percentage of Gamers: 24%
+  Ratio: 2.05
+  TA: '102'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cumulative +
+  - Time Consuming
+- Achievement Name: Try Hard
+  Description: Continue a game after you run out of lives
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1623
+  Percentage of Gamers: 94%
+  Ratio: 1.02
+  TA: '5'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Shop
+- Achievement Name: Chicken Dinner
+  Description: Win a total of 1000 Kudos Points
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1158
+  Percentage of Gamers: 67%
+  Ratio: 1.21
+  TA: '24'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cumulative +
+- Achievement Name: Just Won't Quit
+  Description: Use the continue option 50 times (cumulative)
+  GS: '25'
+  Guide: true
+  Number of Gamers: 769
+  Percentage of Gamers: 45%
+  Ratio: 1.49
+  TA: '37'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cumulative +
+- Achievement Name: Vital Statistics
+  Description: Check out your statistics
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1584
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '5'
+  Tags:
+  - Online/Offline
+  - Single Player
+- Achievement Name: In For A Penny
+  Description: Enter the world of Gimme Five
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1706
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '5'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Main Storyline
+- Achievement Name: Level 15
+  Description: Reach player level 15
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1334
+  Percentage of Gamers: 78%
+  Ratio: 1.13
+  TA: '17'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Level
+- Achievement Name: Level 25
+  Description: Reach player level 25
+  GS: '25'
+  Guide: true
+  Number of Gamers: 1033
+  Percentage of Gamers: 60%
+  Ratio: 1.28
+  TA: '32'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Level
+- Achievement Name: Level 35
+  Description: Reach player level 35
+  GS: '35'
+  Guide: false
+  Number of Gamers: 684
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '55'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Level
+- Achievement Name: Level 45
+  Description: Reach player level 45
+  GS: '45'
+  Guide: true
+  Number of Gamers: 447
+  Percentage of Gamers: 26%
+  Ratio: 1.96
+  TA: '88'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Level
+- Achievement Name: Try Harder
+  Description: Use the continue option twice in the same game
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1505
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '16'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Shop
+- Achievement Name: Try Hard With A Vengeance
+  Description: Use the continue option three times in the same game
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1295
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '23'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Shop
+Base Ratio: 1.645
+Base TA: 1645
+Delisted: false
+Developer: shuboarder
+Game Name: Gimme Five (Windows)
+Genres: Educational & Trivia
+Install Size: 142.0
+Number of Completions: 250
+Number of Gamers: 1719
+Overall Completion Time:
+- 80.0
+- 100.0
+Overall GS: 1000
+Overall Ratio: 1.645
+Overall TA: 1645
+PDU: 0
+Percentage Completed: 14.54
+Publisher: shuboarder
+Release Date: 02 February 2017
+Server Closure: false
+Site Rating: 3.21
+Update Achievements: []
+Walkthrough: false

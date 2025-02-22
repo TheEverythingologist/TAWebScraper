@@ -1,0 +1,604 @@
+Add On Achievements: []
+Base Completion Time:
+- 8.0
+- 10.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Follow the Bull
+  Description: Complete 'Arrival'
+  GS: '20'
+  Guide: true
+  Number of Gamers: 7113
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Explore the Island
+  Description: Complete 'Road to Nowhere'
+  GS: '20'
+  Guide: true
+  Number of Gamers: 6252
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Escape the Cave
+  Description: Complete 'The Cave'
+  GS: '20'
+  Guide: true
+  Number of Gamers: 5896
+  Percentage of Gamers: 81%
+  Ratio: 1.11
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Plug the Rifts
+  Description: Complete 'Canyon River'
+  GS: '20'
+  Guide: true
+  Number of Gamers: 5673
+  Percentage of Gamers: 78%
+  Ratio: 1.13
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Rescue Ira
+  Description: Complete 'Seasick'
+  GS: '30'
+  Guide: true
+  Number of Gamers: 5551
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Go to Nowhere
+  Description: Complete 'Rebellion'
+  GS: '30'
+  Guide: true
+  Number of Gamers: 5396
+  Percentage of Gamers: 74%
+  Ratio: 1.16
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Survive the Destruction
+  Description: Complete 'Crumbling Island'
+  GS: '30'
+  Guide: true
+  Number of Gamers: 5347
+  Percentage of Gamers: 73%
+  Ratio: 1.16
+  TA: '35'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Find a New Island
+  Description: Complete 'Old Willow'
+  GS: '40'
+  Guide: true
+  Number of Gamers: 5279
+  Percentage of Gamers: 72%
+  Ratio: 1.17
+  TA: '47'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Reach the Ocean
+  Description: Complete 'Setting Sail'
+  GS: '40'
+  Guide: true
+  Number of Gamers: 5233
+  Percentage of Gamers: 72%
+  Ratio: 1.18
+  TA: '47'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Find Alexander
+  Description: Complete 'Below the Roots'
+  GS: '50'
+  Guide: true
+  Number of Gamers: 5178
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '59'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Leap to the Moon
+  Description: Complete 'A Trip to the Moon'
+  GS: '50'
+  Guide: true
+  Number of Gamers: 5087
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '59'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Stranger
+  Description: Complete the game on Easy or higher
+  GS: '75'
+  Guide: true
+  Number of Gamers: 5087
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '89'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Stackable
+- Achievement Name: Hero
+  Description: Complete the game on Normal or higher
+  GS: '90'
+  Guide: false
+  Number of Gamers: 4759
+  Percentage of Gamers: 65%
+  Ratio: 1.23
+  TA: '111'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: King
+  Description: Complete the game on Hard
+  GS: '100'
+  Guide: false
+  Number of Gamers: 4337
+  Percentage of Gamers: 59%
+  Ratio: 1.29
+  TA: '129'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+- Achievement Name: Friend of Alexander
+  Description: Collect 25 Turtles
+  GS: '5'
+  Guide: true
+  Number of Gamers: 5176
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Friend of Ira
+  Description: Collect 25 Geodes
+  GS: '5'
+  Guide: true
+  Number of Gamers: 5391
+  Percentage of Gamers: 74%
+  Ratio: 1.16
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Friend of Judith
+  Description: Collect 25 Seeds
+  GS: '5'
+  Guide: true
+  Number of Gamers: 5654
+  Percentage of Gamers: 77%
+  Ratio: 1.13
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Friend of Douglas
+  Description: Collect 25 Honeycombs
+  GS: '5'
+  Guide: true
+  Number of Gamers: 5361
+  Percentage of Gamers: 73%
+  Ratio: 1.16
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Friend of Bull
+  Description: Collect 25 Skulls
+  GS: '5'
+  Guide: true
+  Number of Gamers: 6552
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Friend of KW
+  Description: Collect 25 Owl Eggs
+  GS: '5'
+  Guide: true
+  Number of Gamers: 5317
+  Percentage of Gamers: 73%
+  Ratio: 1.17
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Friend of Carol
+  Description: Collect 25 Houses
+  GS: '5'
+  Guide: true
+  Number of Gamers: 5928
+  Percentage of Gamers: 81%
+  Ratio: 1.11
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Veterinarian
+  Description: Collect all Turtles
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3516
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Geologist
+  Description: Collect all Geodes
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3697
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Green Thumb
+  Description: Collect all Seeds
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3605
+  Percentage of Gamers: 49%
+  Ratio: 1.42
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Beekeeper
+  Description: Collect all Honeycombs
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3647
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Hamlet
+  Description: Collect all Skulls
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3604
+  Percentage of Gamers: 49%
+  Ratio: 1.42
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Incubator
+  Description: Collect all Owl Eggs
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3564
+  Percentage of Gamers: 49%
+  Ratio: 1.43
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Real Estate Mogul
+  Description: Collect all Houses
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3693
+  Percentage of Gamers: 50%
+  Ratio: 1.4
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Nova
+  Description: Find 5 Stars
+  GS: '5'
+  Guide: true
+  Number of Gamers: 6919
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Supernova
+  Description: Find 20 Stars
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5974
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Star Cluster
+  Description: Find 40 Stars
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5377
+  Percentage of Gamers: 73%
+  Ratio: 1.16
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Galaxy
+  Description: Find 65 Stars
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4901
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Universe
+  Description: Find 95 Stars
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3470
+  Percentage of Gamers: 47%
+  Ratio: 1.45
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: On Fire
+  Description: Defeat 250 Fireflies
+  GS: '10'
+  Guide: false
+  Number of Gamers: 5774
+  Percentage of Gamers: 79%
+  Ratio: 1.12
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Greased Lightning
+  Description: Defeat 25 Lightning Bugs
+  GS: '15'
+  Guide: true
+  Number of Gamers: 5498
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: The Cleaner
+  Description: Defeat 100 Shadow Creatures
+  GS: '20'
+  Guide: true
+  Number of Gamers: 5443
+  Percentage of Gamers: 74%
+  Ratio: 1.15
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Jack of Hearts
+  Description: Earn 4 Hearts
+  GS: '10'
+  Guide: true
+  Number of Gamers: 6268
+  Percentage of Gamers: 86%
+  Ratio: 1.08
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Cumulative +
+- Achievement Name: King of Hearts
+  Description: Earn 7 Hearts
+  GS: '15'
+  Guide: true
+  Number of Gamers: 5465
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Cumulative +
+- Achievement Name: Ace of Hearts
+  Description: Earn 10 Hearts
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4297
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '39'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Cumulative +
+- Achievement Name: Three Square Meals
+  Description: Be eaten by three different Wild Things
+  GS: '20'
+  Guide: true
+  Number of Gamers: 5145
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Worst King Ever
+  Description: Allow three different Wild Things to fade into oblivion
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4457
+  Percentage of Gamers: 61%
+  Ratio: 1.28
+  TA: '12'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Allergen
+  Description: Cause three different Wild Things to sneeze
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4689
+  Percentage of Gamers: 64%
+  Ratio: 1.24
+  TA: '12'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Gymnast
+  Description: Power-swing from three bars
+  GS: '5'
+  Guide: true
+  Number of Gamers: 6760
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Demolitionist
+  Description: Defeat five enemies with one firefly bomb
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5180
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '11'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Captain
+  Description: Complete a ride with Carol without crashing
+  GS: '25'
+  Guide: true
+  Number of Gamers: 4080
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '33'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Commodore
+  Description: Complete a Sailing mission without crashing
+  GS: '25'
+  Guide: true
+  Number of Gamers: 4524
+  Percentage of Gamers: 62%
+  Ratio: 1.27
+  TA: '31'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Glass Houses
+  Description: Start a Dirt Clod Fight with multiple Wild Things
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5856
+  Percentage of Gamers: 80%
+  Ratio: 1.11
+  TA: '11'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Wild Rumpus!
+  Description: Defeat 15 enemies in a row in melee without being hit
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7200
+  Percentage of Gamers: 98%
+  Ratio: 1.0
+  TA: '10'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 1.195
+Base TA: 1195
+Delisted: true
+Developer: Griptonite Games
+Game Name: Where the Wild Things Are
+Genres: Beat 'em up
+Install Size: 6730.0
+Number of Completions: 3389
+Number of Gamers: 7318
+Overall Completion Time:
+- 8.0
+- 10.0
+Overall GS: 1000
+Overall Ratio: 1.195
+Overall TA: 1195
+PDU: 0
+Percentage Completed: 46.31
+Publisher: Warner Bros. Games
+Release Date: 13 October 2009
+Server Closure: false
+Site Rating: 2.54
+Update Achievements: []
+Walkthrough: false

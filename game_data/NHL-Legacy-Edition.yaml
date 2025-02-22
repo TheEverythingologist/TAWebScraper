@@ -1,0 +1,579 @@
+Add On Achievements: []
+Base Completion Time:
+- 0
+- 0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: League Champions
+  Description: Be a member of an EASHL club that has recently won the League Title
+    and return to the Seasons HUB
+  GS: '30'
+  Guide: true
+  Number of Gamers: 71
+  Percentage of Gamers: 3%
+  Ratio: 5.41
+  TA: '162'
+  Tags:
+  - Discontinued
+- Achievement Name: Conference Champions
+  Description: Be a member of an EASHL club that has recently won a Division Title
+    and return to the Seasons HUB
+  GS: '15'
+  Guide: true
+  Number of Gamers: 95
+  Percentage of Gamers: 5%
+  Ratio: 4.68
+  TA: '70'
+  Tags:
+  - Discontinued
+- Achievement Name: On A Roll
+  Description: Be a member of an EASHL club that had a perfect record last season
+    and return to the Seasons HUB
+  GS: '30'
+  Guide: true
+  Number of Gamers: 87
+  Percentage of Gamers: 4%
+  Ratio: 4.89
+  TA: '146'
+  Tags:
+  - Discontinued
+- Achievement Name: Victorious
+  Description: Be a member of an EASHL club that has recently won a playoff cup and
+    return to the Seasons HUB
+  GS: '15'
+  Guide: true
+  Number of Gamers: 71
+  Percentage of Gamers: 3%
+  Ratio: 5.41
+  TA: '81'
+  Tags:
+  - Discontinued
+- Achievement Name: Promotions For All
+  Description: Be a member of an EASHL club that has recently been promoted and return
+    to the Seasons HUB
+  GS: '15'
+  Guide: true
+  Number of Gamers: 96
+  Percentage of Gamers: 5%
+  Ratio: 4.65
+  TA: '69'
+  Tags:
+  - Discontinued
+- Achievement Name: Lead By Example
+  Description: As Captain or Assistant Captain, be named one of the 3 stars during
+    an EASHL match
+  GS: '15'
+  Guide: true
+  Number of Gamers: 70
+  Percentage of Gamers: 3%
+  Ratio: 5.45
+  TA: '81'
+  Tags:
+  - Discontinued
+- Achievement Name: Power To The Max!
+  Description: Boost one of your online Pro player's attributes by +15
+  GS: '15'
+  Guide: true
+  Number of Gamers: 54
+  Percentage of Gamers: 3%
+  Ratio: 6.2
+  TA: '93'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+  - Shop
+- Achievement Name: Coast To Coast
+  Description: Starting from behind your net skate up the ice and score without passing
+  GS: '30'
+  Guide: false
+  Number of Gamers: 711
+  Percentage of Gamers: 34%
+  Ratio: 1.71
+  TA: '51'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Clutch
+  Description: Score a goal and win in overtime in online versus
+  GS: '15'
+  Guide: false
+  Number of Gamers: 125
+  Percentage of Gamers: 6%
+  Ratio: 4.08
+  TA: '61'
+  Tags:
+  - Discontinued
+- Achievement Name: High Risk High Reward
+  Description: Score a goal with your goalie pulled
+  GS: '30'
+  Guide: false
+  Number of Gamers: 579
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '56'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Undressed
+  Description: Score a goal on a goalie who has performed a desperation save in Online
+    Ranked Shootout
+  GS: '15'
+  Guide: true
+  Number of Gamers: 112
+  Percentage of Gamers: 5%
+  Ratio: 4.31
+  TA: '64'
+  Tags:
+  - Discontinued
+- Achievement Name: Locked and Loaded
+  Description: Score on a slapshot in Online Ranked Shootout
+  GS: '15'
+  Guide: false
+  Number of Gamers: 121
+  Percentage of Gamers: 6%
+  Ratio: 4.14
+  TA: '62'
+  Tags:
+  - Discontinued
+- Achievement Name: Promising Start
+  Description: "Get drafted in 1st overall to an NHL\xAE team in Be A Pro with a created\
+    \ Pro."
+  GS: '15'
+  Guide: true
+  Number of Gamers: 282
+  Percentage of Gamers: 14%
+  Ratio: 2.71
+  TA: '40'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Billboarded
+  Description: Sign an Endorsement in Be A Pro with a created Pro.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 604
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '27'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Accepted
+  Description: Be invited out by one of your teammates in Be A Pro with a created
+    Pro.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 388
+  Percentage of Gamers: 19%
+  Ratio: 2.31
+  TA: '34'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: '#1 Fan'
+  Description: Have your Fan likeability meter full in Be A Pro with a created Pro.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 209
+  Percentage of Gamers: 10%
+  Ratio: 3.15
+  TA: '47'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Locker Room Favorite
+  Description: Have your teammate likeability meter full in Be A Pro with a created
+    Pro.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 206
+  Percentage of Gamers: 10%
+  Ratio: 3.17
+  TA: '47'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Suck Up
+  Description: Have your management likeability meter full in Be A Pro with a created
+    Pro.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 189
+  Percentage of Gamers: 9%
+  Ratio: 3.31
+  TA: '49'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Family Man
+  Description: Have your Family likeability meter full in Be A Pro with a created
+    Pro.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 151
+  Percentage of Gamers: 7%
+  Ratio: 3.71
+  TA: '55'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Editor
+  Description: Edit your created pro in Be A Pro.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 572
+  Percentage of Gamers: 27%
+  Ratio: 1.9
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Making Millions
+  Description: Acquire 50 million dollars in your career in Be A Pro with a created
+    Pro.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 41
+  Percentage of Gamers: 2%
+  Ratio: 7.12
+  TA: '213'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Tough as Nails
+  Description: Win a fight without blocking/dodging
+  GS: '30'
+  Guide: false
+  Number of Gamers: 1264
+  Percentage of Gamers: 61%
+  Ratio: 1.28
+  TA: '38'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: True Teammate
+  Description: Engage in a fight standing up for a teammate (player or goalie) that
+    was hit
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1037
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: "Jersey \u2018Em"
+  Description: Land a successful punch in the fight state with your opponent pulled
+    down
+  GS: '15'
+  Guide: true
+  Number of Gamers: 199
+  Percentage of Gamers: 10%
+  Ratio: 3.23
+  TA: '48'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Grappling
+  Description: Win a fight by pushing/pulling a player to the ground
+  GS: '15'
+  Guide: true
+  Number of Gamers: 273
+  Percentage of Gamers: 13%
+  Ratio: 2.76
+  TA: '41'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Escape Artist
+  Description: In a fight escape from the pulled down state
+  GS: '15'
+  Guide: true
+  Number of Gamers: 178
+  Percentage of Gamers: 9%
+  Ratio: 3.42
+  TA: '51'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Deking Machine
+  Description: Beat a defender with each of the new One-Touch dekes in one match
+  GS: '30'
+  Guide: true
+  Number of Gamers: 358
+  Percentage of Gamers: 17%
+  Ratio: 2.41
+  TA: '72'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Not My Gatorade!
+  Description: Knock off the opposing goalie's Gatorade bottle from the net by scoring
+    a goal.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 799
+  Percentage of Gamers: 38%
+  Ratio: 1.61
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Puck On A String
+  Description: Beat two defenders with One-Touch dekes before scoring a goal with
+    the same player
+  GS: '30'
+  Guide: true
+  Number of Gamers: 269
+  Percentage of Gamers: 13%
+  Ratio: 2.78
+  TA: '83'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Legend GM
+  Description: Achieve Legendary GM Status in Be A GM
+  GS: '30'
+  Guide: false
+  Number of Gamers: 107
+  Percentage of Gamers: 5%
+  Ratio: 4.41
+  TA: '132'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Real Competition
+  Description: Play in a GM Connected league of 5 Human GMs
+  GS: '15'
+  Guide: true
+  Number of Gamers: 88
+  Percentage of Gamers: 4%
+  Ratio: 4.86
+  TA: '72'
+  Tags:
+  - Discontinued
+- Achievement Name: Champions!
+  Description: "Participate in and Win the Stanley Cup\xAE match in GM Connected"
+  GS: '30'
+  Guide: true
+  Number of Gamers: 52
+  Percentage of Gamers: 2%
+  Ratio: 6.32
+  TA: '189'
+  Tags:
+  - Discontinued
+- Achievement Name: Call For Backup
+  Description: Win a GM Connected league match with an OTP partner
+  GS: '15'
+  Guide: true
+  Number of Gamers: 65
+  Percentage of Gamers: 3%
+  Ratio: 5.65
+  TA: '84'
+  Tags:
+  - Discontinued
+- Achievement Name: Prince of Wales
+  Description: "Win a title from any conference in Hockey Ultimate Team\_ Seasons."
+  GS: '15'
+  Guide: true
+  Number of Gamers: 171
+  Percentage of Gamers: 8%
+  Ratio: 3.48
+  TA: '52'
+  Tags:
+  - Discontinued
+- Achievement Name: The Champ Is Here!
+  Description: "Win a\_Hockey Ultimate Team\_ Seasons Playoff Championship."
+  GS: '15'
+  Guide: true
+  Number of Gamers: 55
+  Percentage of Gamers: 3%
+  Ratio: 6.15
+  TA: '92'
+  Tags:
+  - Discontinued
+- Achievement Name: Moving On Up
+  Description: Get your first division promotion in Hockey Ultimate Team Seasons.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 181
+  Percentage of Gamers: 9%
+  Ratio: 3.39
+  TA: '50'
+  Tags:
+  - Discontinued
+- Achievement Name: You're The Best
+  Description: "Win the League Title in Hockey Ultimate Team\_ Seasons."
+  GS: '30'
+  Guide: false
+  Number of Gamers: 56
+  Percentage of Gamers: 3%
+  Ratio: 6.09
+  TA: '182'
+  Tags:
+  - Discontinued
+- Achievement Name: On Fire
+  Description: "Have a perfect season record in Hockey Ultimate Team\_ Seasons."
+  GS: '30'
+  Guide: true
+  Number of Gamers: 104
+  Percentage of Gamers: 5%
+  Ratio: 4.47
+  TA: '134'
+  Tags:
+  - Discontinued
+- Achievement Name: Changing Skins
+  Description: Change the team of a player by using the Change Team item in Hockey
+    Ultimate Team
+  GS: '15'
+  Guide: true
+  Number of Gamers: 308
+  Percentage of Gamers: 15%
+  Ratio: 2.6
+  TA: '39'
+  Tags:
+  - Discontinued
+- Achievement Name: Mad Scientist
+  Description: Use the line assistant feature to setup your lines in Hockey Ultimate
+    Team
+  GS: '15'
+  Guide: true
+  Number of Gamers: 479
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '31'
+  Tags:
+  - Discontinued
+- Achievement Name: Chosen One
+  Description: Assign a Captain to your Hockey Ultimate Team using the Assign Captain
+    card
+  GS: '15'
+  Guide: true
+  Number of Gamers: 326
+  Percentage of Gamers: 16%
+  Ratio: 2.52
+  TA: '37'
+  Tags:
+  - Discontinued
+- Achievement Name: Collector
+  Description: "Collect at least one Player item from each of the NHL\xAE teams in\
+    \ Hockey Ultimate Team mode."
+  GS: '15'
+  Guide: true
+  Number of Gamers: 251
+  Percentage of Gamers: 12%
+  Ratio: 2.88
+  TA: '43'
+  Tags:
+  - Discontinued
+- Achievement Name: Master Collector
+  Description: "Collect at least one Player item from each team in Hockey Ultimate\
+    \ Team\_ mode."
+  GS: '100'
+  Guide: true
+  Number of Gamers: 60
+  Percentage of Gamers: 3%
+  Ratio: 5.89
+  TA: '589'
+  Tags:
+  - Discontinued
+- Achievement Name: What Are You Buying?
+  Description: Buy 25 card packs from the Hockey Ultimate Team Store.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 123
+  Percentage of Gamers: 6%
+  Ratio: 4.11
+  TA: '61'
+  Tags:
+  - Discontinued
+- Achievement Name: Wheelin' And Dealin'
+  Description: Buy and/or sell 150 items in the Hockey Ultimate Team Auction House.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 120
+  Percentage of Gamers: 6%
+  Ratio: 4.16
+  TA: '62'
+  Tags:
+  - Discontinued
+- Achievement Name: The Stars Have Aligned
+  Description: Collect a Stars of the Week player item in Hockey Ultimate Team mode.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 141
+  Percentage of Gamers: 7%
+  Ratio: 3.84
+  TA: '57'
+  Tags:
+  - Discontinued
+- Achievement Name: Going To The Bank
+  Description: Redeem Coins in Hockey Ultimate team.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 440
+  Percentage of Gamers: 21%
+  Ratio: 2.17
+  TA: '32'
+  Tags:
+  - Discontinued
+- Achievement Name: How Hospitable of you
+  Description: Complete the Hospitality Settings
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2008
+  Percentage of Gamers: 96%
+  Ratio: 1.01
+  TA: '15'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: A Moment of Greatness
+  Description: "Win an NHL\xAE Moments Live moment on Superstar difficulty"
+  GS: '15'
+  Guide: true
+  Number of Gamers: 182
+  Percentage of Gamers: 9%
+  Ratio: 3.38
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+Base Ratio: 3.917
+Base TA: 3917
+Delisted: false
+Developer: EA Vancouver
+Game Name: NHL Legacy Edition
+Genres: Sports, Hockey
+Install Size: 5890.0
+Number of Completions: 21
+Number of Gamers: 2082
+Overall Completion Time:
+- 0
+- 0
+Overall GS: 1000
+Overall Ratio: 3.917
+Overall TA: 3917
+PDU: 26
+Percentage Completed: 1.01
+Publisher: Electronic Arts
+Release Date: 17 September 2015
+Server Closure: true
+Site Rating: 3.1
+Update Achievements: []
+Walkthrough: false

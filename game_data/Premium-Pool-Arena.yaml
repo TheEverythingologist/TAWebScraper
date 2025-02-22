@@ -1,0 +1,315 @@
+Add On Achievements: []
+Base Completion Time:
+- 80.0
+- 100.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Road To Glory
+  Description: Win your first single player game
+  GS: '10'
+  Guide: false
+  Number of Gamers: 919
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '10'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Pool Ace
+  Description: Win 5 games in a row
+  GS: '50'
+  Guide: false
+  Number of Gamers: 575
+  Percentage of Gamers: 61%
+  Ratio: 1.28
+  TA: '64'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Legendary Pool Master
+  Description: Win 10 games in a row
+  GS: '50'
+  Guide: true
+  Number of Gamers: 359
+  Percentage of Gamers: 38%
+  Ratio: 1.62
+  TA: '81'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: 2 For 1
+  Description: Pocket two target balls with one shot
+  GS: '20'
+  Guide: true
+  Number of Gamers: 688
+  Percentage of Gamers: 73%
+  Ratio: 1.17
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Pocketing Spree
+  Description: Pocket 6 balls in a row
+  GS: '25'
+  Guide: false
+  Number of Gamers: 510
+  Percentage of Gamers: 54%
+  Ratio: 1.36
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Almost Perfect
+  Description: Pocket 7 balls in a row
+  GS: '75'
+  Guide: false
+  Number of Gamers: 361
+  Percentage of Gamers: 38%
+  Ratio: 1.61
+  TA: '121'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Bag of Balls
+  Description: Pocket 100 balls
+  GS: '10'
+  Guide: false
+  Number of Gamers: 555
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Voodoo Player
+  Description: Win a game when the opponent pockets the 8-ball prematurely
+  GS: '10'
+  Guide: true
+  Number of Gamers: 709
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Pool Master
+  Description: Play 100 games
+  GS: '50'
+  Guide: true
+  Number of Gamers: 235
+  Percentage of Gamers: 25%
+  Ratio: 2.0
+  TA: '100'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Cue Collector
+  Description: Own 10 cues
+  GS: '25'
+  Guide: true
+  Number of Gamers: 126
+  Percentage of Gamers: 13%
+  Ratio: 2.74
+  TA: '68'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+  - Buggy
+- Achievement Name: Perfect Game
+  Description: Win a game without committing a foul
+  GS: '25'
+  Guide: false
+  Number of Gamers: 718
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Domination
+  Description: Beat an opponent without them pocketing any balls
+  GS: '25'
+  Guide: true
+  Number of Gamers: 377
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '39'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Box of Balls
+  Description: Pocket 1,000 balls
+  GS: '20'
+  Guide: false
+  Number of Gamers: 186
+  Percentage of Gamers: 20%
+  Ratio: 2.25
+  TA: '45'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Epic Pool Master
+  Description: Play 1,000 games
+  GS: '50'
+  Guide: false
+  Number of Gamers: 53
+  Percentage of Gamers: 6%
+  Ratio: 4.22
+  TA: '211'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+  - Time Consuming
+- Achievement Name: Flawless
+  Description: Win a game by pocketing all balls in a row
+  GS: '30'
+  Guide: false
+  Number of Gamers: 242
+  Percentage of Gamers: 26%
+  Ratio: 1.97
+  TA: '59'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Sack of Balls
+  Description: Pocket 10,000 balls
+  GS: '100'
+  Guide: true
+  Number of Gamers: 44
+  Percentage of Gamers: 5%
+  Ratio: 4.63
+  TA: '463'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+  - Time Consuming
+- Achievement Name: Big Leagues
+  Description: Play a tournament until the end
+  GS: '50'
+  Guide: false
+  Number of Gamers: 615
+  Percentage of Gamers: 65%
+  Ratio: 1.24
+  TA: '62'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Tournament Master
+  Description: Win 10 tournaments
+  GS: '25'
+  Guide: false
+  Number of Gamers: 211
+  Percentage of Gamers: 22%
+  Ratio: 2.11
+  TA: '52'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Flawless Victory
+  Description: Win the hardcore tournament
+  GS: '100'
+  Guide: true
+  Number of Gamers: 92
+  Percentage of Gamers: 10%
+  Ratio: 3.2
+  TA: '320'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Veteran Cue Master
+  Description: Play 100 games in Tournament mode
+  GS: '50'
+  Guide: false
+  Number of Gamers: 162
+  Percentage of Gamers: 17%
+  Ratio: 2.41
+  TA: '120'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Cue Monster
+  Description: Play 500 games in Tournament mode
+  GS: '50'
+  Guide: false
+  Number of Gamers: 58
+  Percentage of Gamers: 6%
+  Ratio: 4.03
+  TA: '201'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Time Consuming
+- Achievement Name: Purified by Fire
+  Description: Win 10 games without committing a foul
+  GS: '50'
+  Guide: false
+  Number of Gamers: 350
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '82'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Premium Pool Forever
+  Description: Win 100 games without committing a foul
+  GS: '100'
+  Guide: true
+  Number of Gamers: 101
+  Percentage of Gamers: 11%
+  Ratio: 3.06
+  TA: '306'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+Base Ratio: 2.513
+Base TA: 2513
+Delisted: false
+Developer: Iceflake Studios
+Game Name: Premium Pool Arena
+Genres: Sports, Cue Sports
+Install Size: 563.0
+Number of Completions: 38
+Number of Gamers: 946
+Overall Completion Time:
+- 80.0
+- 100.0
+Overall GS: 1000
+Overall Ratio: 2.513
+Overall TA: 2513
+PDU: 0
+Percentage Completed: 4.02
+Publisher: Nacon
+Release Date: 20 February 2018
+Server Closure: false
+Site Rating: 2.79
+Update Achievements: []
+Walkthrough: false

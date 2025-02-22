@@ -1,0 +1,587 @@
+Add On Achievements: []
+Base Completion Time:
+- 120.0
+- 150.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Hold Your Ground
+  Description: Defeat Kadex at Usa'rya
+  GS: '30'
+  Guide: true
+  Number of Gamers: 376
+  Percentage of Gamers: 24%
+  Ratio: 2.03
+  TA: '61'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Time/Date
+- Achievement Name: Daemonkeeper
+  Description: Capture Kadex
+  GS: '20'
+  Guide: false
+  Number of Gamers: 177
+  Percentage of Gamers: 11%
+  Ratio: 2.98
+  TA: '59'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: An Ill Omen
+  Description: Complete your investigations on Koramar
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1297
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: A Foul Creche
+  Description: Unearthed the truth at Usa'rya
+  GS: '10'
+  Guide: false
+  Number of Gamers: 446
+  Percentage of Gamers: 29%
+  Ratio: 1.87
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Engine Kill
+  Description: Defeat Cruciatus the Generous
+  GS: '5'
+  Guide: true
+  Number of Gamers: 101
+  Percentage of Gamers: 6%
+  Ratio: 3.96
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Harvest No More
+  Description: Defeat Malathian the Harvester
+  GS: '5'
+  Guide: false
+  Number of Gamers: 139
+  Percentage of Gamers: 9%
+  Ratio: 3.36
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Junk Banishment
+  Description: Defeat Morgellus, the Corroded Prince
+  GS: '5'
+  Guide: false
+  Number of Gamers: 142
+  Percentage of Gamers: 9%
+  Ratio: 3.32
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: A Gift Spurned
+  Description: Defeat Aeger the Benevolent
+  GS: '5'
+  Guide: false
+  Number of Gamers: 204
+  Percentage of Gamers: 13%
+  Ratio: 2.77
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Death Comes For All
+  Description: Defeat Munificus the Undying
+  GS: '5'
+  Guide: true
+  Number of Gamers: 95
+  Percentage of Gamers: 6%
+  Ratio: 4.07
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Long Distance Call
+  Description: Contact Kaldor Draigo at Sacrista
+  GS: '15'
+  Guide: false
+  Number of Gamers: 162
+  Percentage of Gamers: 10%
+  Ratio: 3.12
+  TA: '46'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Look Over There!
+  Description: Disrupt an enemy's Overwatch or Suppressive Fire
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1142
+  Percentage of Gamers: 73%
+  Ratio: 1.16
+  TA: '11'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Surgical Excision
+  Description: Collect a Seed using the Extractor Servo-Skull
+  GS: '10'
+  Guide: false
+  Number of Gamers: 385
+  Percentage of Gamers: 25%
+  Ratio: 2.01
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Standard-Issue Killer
+  Description: Win the final mission without any Master Crafted equipment
+  GS: '90'
+  Guide: true
+  Number of Gamers: 19
+  Percentage of Gamers: 1%
+  Ratio: 9.06
+  TA: '815'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Unstable Immaterium
+  Description: Trigger 10 Warp Surge events in a single mission
+  GS: '30'
+  Guide: false
+  Number of Gamers: 67
+  Percentage of Gamers: 4%
+  Ratio: 4.82
+  TA: '144'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Not So Fast...
+  Description: Kill an enemy with an Auto
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1087
+  Percentage of Gamers: 70%
+  Ratio: 1.2
+  TA: '6'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Blood for the Blood God!
+  Description: Kill an enemy with the Bleed Affliction
+  GS: '5'
+  Guide: false
+  Number of Gamers: 528
+  Percentage of Gamers: 34%
+  Ratio: 1.72
+  TA: '8'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Corruption Cleanser
+  Description: Destroy 50 Bloomspawn
+  GS: '15'
+  Guide: false
+  Number of Gamers: 231
+  Percentage of Gamers: 15%
+  Ratio: 2.61
+  TA: '39'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Executioner
+  Description: Execute an enemy
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1560
+  Percentage of Gamers: 100%
+  Ratio: 1.0
+  TA: '5'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Exterminator
+  Description: Execute 50 enemies
+  GS: '15'
+  Guide: false
+  Number of Gamers: 172
+  Percentage of Gamers: 11%
+  Ratio: 3.02
+  TA: '45'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Friendly Fire
+  Description: Get an enemy to kill one of its allies
+  GS: '15'
+  Guide: false
+  Number of Gamers: 491
+  Percentage of Gamers: 31%
+  Ratio: 1.78
+  TA: '26'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Opportunist
+  Description: Kill 20 enemies with environment objects
+  GS: '15'
+  Guide: false
+  Number of Gamers: 469
+  Percentage of Gamers: 30%
+  Ratio: 1.82
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Watch Where You Step...
+  Description: Kill an enemy by knocking it back
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1062
+  Percentage of Gamers: 68%
+  Ratio: 1.21
+  TA: '18'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Purging Spree
+  Description: Kill 5 enemies with the same knight in a single turn
+  GS: '15'
+  Guide: false
+  Number of Gamers: 710
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '22'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Hands-On Research
+  Description: Kill 10 enemies with Inquisitor Vakir
+  GS: '15'
+  Guide: true
+  Number of Gamers: 135
+  Percentage of Gamers: 9%
+  Ratio: 3.42
+  TA: '51'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Cumulative +
+- Achievement Name: Field Apothecarion
+  Description: Win a mission using only Apothecaries
+  GS: '20'
+  Guide: false
+  Number of Gamers: 74
+  Percentage of Gamers: 5%
+  Ratio: 4.59
+  TA: '91'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Brothers in Arms
+  Description: Win a mission with only 2 knights
+  GS: '30'
+  Guide: false
+  Number of Gamers: 95
+  Percentage of Gamers: 6%
+  Ratio: 4.07
+  TA: '122'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Warp Flickers
+  Description: Win a mission using only Interceptors
+  GS: '20'
+  Guide: false
+  Number of Gamers: 87
+  Percentage of Gamers: 6%
+  Ratio: 4.25
+  TA: '85'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Phalanx
+  Description: Win a mission using only Justicars
+  GS: '20'
+  Guide: false
+  Number of Gamers: 98
+  Percentage of Gamers: 6%
+  Ratio: 3.98
+  TA: '79'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Efficient Killer
+  Description: Win a mission without using Ammo
+  GS: '15'
+  Guide: false
+  Number of Gamers: 198
+  Percentage of Gamers: 13%
+  Ratio: 2.82
+  TA: '42'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Bloodless
+  Description: Win a mission without taking damage
+  GS: '30'
+  Guide: false
+  Number of Gamers: 479
+  Percentage of Gamers: 31%
+  Ratio: 1.8
+  TA: '54'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Exercise in Restraint
+  Description: Win a Spreading or Flowering mission without using Willpower
+  GS: '15'
+  Guide: false
+  Number of Gamers: 64
+  Percentage of Gamers: 4%
+  Ratio: 5.01
+  TA: '75'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Firing Squad
+  Description: Win a mission using only Purgators
+  GS: '20'
+  Guide: false
+  Number of Gamers: 86
+  Percentage of Gamers: 6%
+  Ratio: 4.25
+  TA: '85'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Just a Scratch
+  Description: Win a mission using only knights with Light Wounds or worse
+  GS: '20'
+  Guide: false
+  Number of Gamers: 239
+  Percentage of Gamers: 15%
+  Ratio: 2.55
+  TA: '51'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The Flesh is Weak
+  Description: Acquire 5 Augmetics on a single knight
+  GS: '15'
+  Guide: false
+  Number of Gamers: 38
+  Percentage of Gamers: 2%
+  Ratio: 6.4
+  TA: '96'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Patron of Deimos
+  Description: Complete all Ship System upgrades
+  GS: '40'
+  Guide: false
+  Number of Gamers: 60
+  Percentage of Gamers: 4%
+  Ratio: 5.09
+  TA: '203'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Honoured Battle-Brother
+  Description: Promote a knight to Rank 9
+  GS: '15'
+  Guide: false
+  Number of Gamers: 255
+  Percentage of Gamers: 16%
+  Ratio: 2.47
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Strike Force
+  Description: Fill the Barracks with 20 knights
+  GS: '15'
+  Guide: false
+  Number of Gamers: 89
+  Percentage of Gamers: 6%
+  Ratio: 4.18
+  TA: '62'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative
+- Achievement Name: Mass Extinction
+  Description: Use Exterminatus 5 times
+  GS: '40'
+  Guide: false
+  Number of Gamers: 30
+  Percentage of Gamers: 2%
+  Ratio: 7.33
+  TA: '293'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Mind Like a Fortress
+  Description: Acquire 20 Grimoires
+  GS: '15'
+  Guide: false
+  Number of Gamers: 47
+  Percentage of Gamers: 3%
+  Ratio: 5.76
+  TA: '86'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: The Emperor Protects
+  Description: Acquire a Master Craft Level 3 suit of Armour
+  GS: '15'
+  Guide: false
+  Number of Gamers: 270
+  Percentage of Gamers: 17%
+  Ratio: 2.42
+  TA: '36'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Nemesis Master
+  Description: Acquire a Master Craft Level 3 Melee weapon
+  GS: '15'
+  Guide: false
+  Number of Gamers: 241
+  Percentage of Gamers: 15%
+  Ratio: 2.56
+  TA: '38'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Gunmaster
+  Description: Acquire a Master Craft Level 3 Ranged weapon
+  GS: '15'
+  Guide: false
+  Number of Gamers: 231
+  Percentage of Gamers: 15%
+  Ratio: 2.61
+  TA: '39'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: True Mastery
+  Description: Have a knight learn all available class skills
+  GS: '40'
+  Guide: true
+  Number of Gamers: 20
+  Percentage of Gamers: 1%
+  Ratio: 8.83
+  TA: '353'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Tactical Flexibility
+  Description: Unlock all Stratagems
+  GS: '40'
+  Guide: false
+  Number of Gamers: 82
+  Percentage of Gamers: 5%
+  Ratio: 4.38
+  TA: '175'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Crisis Management
+  Description: Achieve victory by Day 500
+  GS: '30'
+  Guide: false
+  Number of Gamers: 27
+  Percentage of Gamers: 2%
+  Ratio: 7.6
+  TA: '228'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: Grand Master
+  Description: Achieve victory in Grand Master mode
+  GS: '90'
+  Guide: false
+  Number of Gamers: 29
+  Percentage of Gamers: 2%
+  Ratio: 7.33
+  TA: '660'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Legend of Titan
+  Description: Achieve victory on Legendary difficulty
+  GS: '30'
+  Guide: false
+  Number of Gamers: 14
+  Percentage of Gamers: 1%
+  Ratio: 10.95
+  TA: '328'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Clean Slate
+  Description: Achieve victory before any Bloom Flowerings occur
+  GS: '30'
+  Guide: false
+  Number of Gamers: 66
+  Percentage of Gamers: 4%
+  Ratio: 4.89
+  TA: '146'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+Base Ratio: 4.974
+Base TA: 4974
+Delisted: false
+Developer: Complex Games
+Game Name: 'Warhammer 40,000: Chaos Gate - Daemonhunters'
+Genres: Strategy, Turn Based
+Install Size: 8170.0
+Number of Completions: 11
+Number of Gamers: 1562
+Overall Completion Time:
+- 120.0
+- 150.0
+Overall GS: 1000
+Overall Ratio: 4.974
+Overall TA: 4974
+PDU: 0
+Percentage Completed: 0.7
+Publisher: Frontier Developments
+Release Date: 20 February 2024
+Server Closure: false
+Site Rating: 4.32
+Update Achievements: []
+Walkthrough: false

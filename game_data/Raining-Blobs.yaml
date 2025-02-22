@@ -1,0 +1,476 @@
+Add On Achievements: []
+Base Completion Time:
+- -1
+- -1
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Big group
+  Description: Clear 40 blobs at once
+  GS: '10'
+  Guide: false
+  Number of Gamers: 16
+  Percentage of Gamers: 5%
+  Ratio: 4.67
+  TA: '46'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Huge group
+  Description: Clear 50 blobs at once
+  GS: '30'
+  Guide: false
+  Number of Gamers: 9
+  Percentage of Gamers: 3%
+  Ratio: 6.23
+  TA: '187'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Monster group
+  Description: Clear 60 blobs at once
+  GS: '50'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 0%
+  Ratio: 18.7
+  TA: '935'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Combo master
+  Description: Create 5 combo
+  GS: '10'
+  Guide: false
+  Number of Gamers: 220
+  Percentage of Gamers: 63%
+  Ratio: 1.26
+  TA: '12'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Combo guru
+  Description: Create 7 combo
+  GS: '20'
+  Guide: false
+  Number of Gamers: 57
+  Percentage of Gamers: 16%
+  Ratio: 2.47
+  TA: '49'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Millionaire
+  Description: Score 1000000 points
+  GS: '10'
+  Guide: false
+  Number of Gamers: 57
+  Percentage of Gamers: 16%
+  Ratio: 2.47
+  TA: '24'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Multi millionaire
+  Description: Score 2000000 points
+  GS: '20'
+  Guide: false
+  Number of Gamers: 7
+  Percentage of Gamers: 2%
+  Ratio: 7.07
+  TA: '141'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Superstar
+  Description: Clear group with 5 stars
+  GS: '10'
+  Guide: false
+  Number of Gamers: 58
+  Percentage of Gamers: 17%
+  Ratio: 2.45
+  TA: '24'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Arcade professional
+  Description: Finish arcade normal
+  GS: '30'
+  Guide: false
+  Number of Gamers: 8
+  Percentage of Gamers: 2%
+  Ratio: 6.61
+  TA: '198'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Arcade master
+  Description: Finish arcade normal without gems
+  GS: '40'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 1%
+  Ratio: 9.35
+  TA: '374'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Arcade guru
+  Description: Finish arcade hard
+  GS: '50'
+  Guide: false
+  Number of Gamers: 5
+  Percentage of Gamers: 1%
+  Ratio: 8.36
+  TA: '418'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Arcade superhuman
+  Description: Finish arcade hard without gems
+  GS: '80'
+  Guide: false
+  Number of Gamers: 2
+  Percentage of Gamers: 1%
+  Ratio: 13.22
+  TA: 1,058
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Best friends
+  Description: Beat team of 2 hard cpu players
+  GS: '10'
+  Guide: false
+  Number of Gamers: 30
+  Percentage of Gamers: 9%
+  Ratio: 3.41
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Super friends
+  Description: Beat team of 2 insane cpu players
+  GS: '20'
+  Guide: true
+  Number of Gamers: 25
+  Percentage of Gamers: 7%
+  Ratio: 3.74
+  TA: '74'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Sprinting champion
+  Description: Finish tournament under 8 min
+  GS: '40'
+  Guide: false
+  Number of Gamers: 2
+  Percentage of Gamers: 1%
+  Ratio: 13.22
+  TA: '529'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: Ultimate champion
+  Description: Finish tournament without continues
+  GS: '30'
+  Guide: false
+  Number of Gamers: 5
+  Percentage of Gamers: 1%
+  Ratio: 8.36
+  TA: '250'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Champion
+  Description: Finish tournament
+  GS: '20'
+  Guide: false
+  Number of Gamers: 22
+  Percentage of Gamers: 6%
+  Ratio: 3.98
+  TA: '79'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Stackable
+- Achievement Name: Hyper millionaire
+  Description: Score 3000000 points
+  GS: '30'
+  Guide: false
+  Number of Gamers: 2
+  Percentage of Gamers: 1%
+  Ratio: 13.22
+  TA: '396'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Endless fighter
+  Description: Endless battle 10 wins
+  GS: '10'
+  Guide: false
+  Number of Gamers: 19
+  Percentage of Gamers: 5%
+  Ratio: 4.29
+  TA: '42'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Endless warrior
+  Description: Endless battle 30 wins
+  GS: '20'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Endless master
+  Description: Endless battle 50 wins
+  GS: '50'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '50'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Endless fighters
+  Description: Endless battle 10 wins with friend
+  GS: '10'
+  Guide: false
+  Number of Gamers: 8
+  Percentage of Gamers: 2%
+  Ratio: 6.61
+  TA: '66'
+  Tags:
+  - Offline Mode
+  - Cooperative
+- Achievement Name: Endless warriors
+  Description: Endless battle 30 wins with friend
+  GS: '20'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Cooperative
+- Achievement Name: Endless masters
+  Description: Endless battle 50 wins with friend
+  GS: '40'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '40'
+  Tags:
+  - Offline Mode
+  - Cooperative
+- Achievement Name: Endless millionaire
+  Description: Ecore 3000000 in endless battle
+  GS: '5'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 0%
+  Ratio: 18.7
+  TA: '93'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Endless super millionaire
+  Description: Score 5000000 in endless battle
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 0%
+  Ratio: 18.7
+  TA: '374'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Endless brawl
+  Description: Endless battle 30 wins, 4 players
+  GS: '10'
+  Guide: false
+  Number of Gamers: 6
+  Percentage of Gamers: 2%
+  Ratio: 7.63
+  TA: '76'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Endless chaos
+  Description: Endless battle 30 wins, 8 players
+  GS: '20'
+  Guide: true
+  Number of Gamers: 18
+  Percentage of Gamers: 5%
+  Ratio: 4.4
+  TA: '88'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Puzzle beginner
+  Description: Solve 20 puzzles
+  GS: '5'
+  Guide: false
+  Number of Gamers: 186
+  Percentage of Gamers: 53%
+  Ratio: 1.37
+  TA: '6'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Puzzle handler
+  Description: Solve 40 puzzles
+  GS: '10'
+  Guide: false
+  Number of Gamers: 84
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Puzzle expert
+  Description: Solve 60 puzzles
+  GS: '15'
+  Guide: false
+  Number of Gamers: 27
+  Percentage of Gamers: 8%
+  Ratio: 3.6
+  TA: '54'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Puzzle master
+  Description: Solve 80 puzzles
+  GS: '30'
+  Guide: false
+  Number of Gamers: 9
+  Percentage of Gamers: 3%
+  Ratio: 6.23
+  TA: '187'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Puzzle genius
+  Description: Solve all puzzles
+  GS: '60'
+  Guide: false
+  Number of Gamers: 7
+  Percentage of Gamers: 2%
+  Ratio: 7.07
+  TA: '424'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Stackable
+- Achievement Name: Puzzle marvel
+  Description: Solve all puzzles under 12 minutes
+  GS: '70'
+  Guide: true
+  Number of Gamers: 5
+  Percentage of Gamers: 1%
+  Ratio: 8.36
+  TA: '585'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Stackable
+  - Time/Date
+- Achievement Name: Match 4 champion
+  Description: Finish tournament with match 4 rule
+  GS: '15'
+  Guide: false
+  Number of Gamers: 12
+  Percentage of Gamers: 3%
+  Ratio: 5.4
+  TA: '81'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: 1 star champion
+  Description: Finish tournament with 1 star rule
+  GS: '15'
+  Guide: false
+  Number of Gamers: 8
+  Percentage of Gamers: 2%
+  Ratio: 6.61
+  TA: '99'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Baby champion
+  Description: Finish tournament on easy
+  GS: '5'
+  Guide: false
+  Number of Gamers: 60
+  Percentage of Gamers: 17%
+  Ratio: 2.41
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Crazy champion
+  Description: Finish tournament on hard
+  GS: '60'
+  Guide: false
+  Number of Gamers: 9
+  Percentage of Gamers: 3%
+  Ratio: 6.23
+  TA: '374'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+Base Ratio: 9.841
+Base TA: 9841
+Delisted: false
+Developer: Endi Milojkoski
+Game Name: Raining Blobs
+Genres: Puzzle
+Install Size: 165.0
+Number of Completions: 0
+Number of Gamers: 351
+Overall Completion Time:
+- -1
+- -1
+Overall GS: 1000
+Overall Ratio: 9.841
+Overall TA: 9841
+PDU: 0
+Percentage Completed: 0.0
+Publisher: Black Shell Media
+Release Date: 20 December 2017
+Server Closure: false
+Site Rating: 2.64
+Update Achievements: []
+Walkthrough: false

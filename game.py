@@ -25,7 +25,7 @@ class Game:
 
         self.developer = self.find_developer()
         self.num_gamers = self.find_num_gamers()
-        if self.num_gamers == -1:
+        if self.num_gamers == 0:
             self.unreleased == True
         
         elif self.unreleased == False:
@@ -46,11 +46,13 @@ class Game:
             self.base_ta = self.find_base_ta()
             self.base_gs = self.find_base_gs()
             self.base_completion_time = self.find_base_completion_time()
+            self.overall_ratio = self.find_overall_ratio()
+            self.base_ratio = self.find_base_ratio()
 
             self.dlc_ta = self.find_dlc_ta()
             self.dlc_gs = self.find_dlc_gs()
 
-        self.data_dict = self.convert_to_dict()
+            self.data_dict = self.convert_to_dict()
 
     def find_game_name(self):
         try:
@@ -176,7 +178,7 @@ class Game:
         except AttributeError:
             # If this doesn't exist, the game has no gamers and is not released.
             self.unreleased == True
-            return -1
+            return 0
 
     def find_site_rating(self):
         try:
@@ -207,7 +209,10 @@ class Game:
 
     def check_install_size(self):
         dt = (self.page_info).find('dt', string='Size:')
-        dd = dt.find_next_sibling('dd')
+        try:
+            dd = dt.find_next_sibling('dd')
+        except AttributeError:
+            return None
         size = dd.text
         if size.endswith("GB"):
             size = size[:-2]
@@ -220,6 +225,8 @@ class Game:
         publishers = (self.page_info).find_all('a', href=lambda href: href and '/publisher/' in href)
         if len(publishers) > 1:
             return ', '.join([p.text for p in publishers])
+        elif len(publishers) == 0:
+            return []
         else:
             return (publishers[0]).text
         
@@ -261,6 +268,18 @@ class Game:
             return False
         else:
             return True
+        
+    def find_overall_ratio(self):
+        if self.overall_gs == 0:
+            return 0
+        else:
+            return self.overall_ta / self.overall_gs
+        
+    def find_base_ratio(self):
+        if self.base_gs == 0:
+            return 0
+        else:
+            return self.base_ta / self.base_gs
     
     def find_num_completions(self):
         completion_href = (self.page_info).find('a', href=lambda href: href and '/completionists' in href)
@@ -269,6 +288,8 @@ class Game:
         return int(completionists)
     
     def calculate_percentage_completed(self):
+        if self.num_gamers == 0:
+            return 0
         return round(100* self.num_completions / self.num_gamers, 2)
     
     def fetch_completion_time(self):
@@ -307,8 +328,8 @@ class Game:
             'Base TA': self.base_ta,
             'Overall GS': self.overall_gs,
             'Base GS': self.base_gs,
-            'Overall Ratio': self.overall_ta / self.overall_gs,
-            'Base Ratio': self.base_ta / self.base_gs,
+            'Overall Ratio': self.overall_ratio,
+            'Base Ratio': self.base_ratio,
             'Developer': self.developer,
             'Publisher': self.publisher,
             'Number of Gamers': self.num_gamers,

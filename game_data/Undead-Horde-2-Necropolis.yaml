@@ -1,0 +1,405 @@
+Add On Achievements: []
+Base Completion Time:
+- 15.0
+- 20.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Baby Steps
+  Description: Claim Scavenger's Bog.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 781
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Darklands
+  Description: Enter Darklands.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 822
+  Percentage of Gamers: 100%
+  Ratio: 1.0
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Winterlands
+  Description: Enter Winterlands.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 428
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Desert
+  Description: Enter Desert.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 330
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Citadel
+  Description: Enter Citadel.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 221
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Conquer Darklands
+  Description: Conquer all levels in Darklands.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 248
+  Percentage of Gamers: 30%
+  Ratio: 1.82
+  TA: '54'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Conquer Winterlands
+  Description: Conquer all levels in Winterlands.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 214
+  Percentage of Gamers: 26%
+  Ratio: 1.97
+  TA: '59'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Conquer Desert
+  Description: Conquer all levels in Desert.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 218
+  Percentage of Gamers: 26%
+  Ratio: 1.94
+  TA: '58'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Conquer Citadel
+  Description: Conquer all levels in Citadel.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 190
+  Percentage of Gamers: 23%
+  Ratio: 2.09
+  TA: '62'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Craftsman
+  Description: Craft an item with three affixes.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 193
+  Percentage of Gamers: 23%
+  Ratio: 2.07
+  TA: '62'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Mulligan
+  Description: Reset your upgrade cards.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 194
+  Percentage of Gamers: 24%
+  Ratio: 2.06
+  TA: '30'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: I Will Be Back!
+  Description: Die for the first time.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 578
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '17'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Golden Ticket
+  Description: Acquire your first talent.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 774
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '15'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Number of the Beast
+  Description: Reach Level 6.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 484
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Party Pooper
+  Description: Stop the elven ritual and kill the ancient fire elemental.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 409
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '42'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Piece of Cake
+  Description: Solve the puzzle in Forgotten Crypt.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 454
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Rebuilder
+  Description: Restore 10 buildings in Necropolis.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 577
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Explorer
+  Description: Uncover 5 secrets.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 523
+  Percentage of Gamers: 63%
+  Ratio: 1.25
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Fully Stocked
+  Description: Complete all the merchant's quests.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 405
+  Percentage of Gamers: 49%
+  Ratio: 1.42
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Playing Favorites
+  Description: Upgrade a unit building to level 3.
+  GS: '90'
+  Guide: true
+  Number of Gamers: 284
+  Percentage of Gamers: 34%
+  Ratio: 1.7
+  TA: '153'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Noble Soul
+  Description: Find a noble soul jar.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 417
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '42'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The One Percent
+  Description: Gain 100,000 gold.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 369
+  Percentage of Gamers: 45%
+  Ratio: 1.49
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Plethora
+  Description: Include 5 different unit types in your horde.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 269
+  Percentage of Gamers: 33%
+  Ratio: 1.75
+  TA: '52'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: I Am the Council
+  Description: Assign 5 nobles to council seats.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 266
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '52'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Beast Slayer
+  Description: Slay the mythical Beast of Carmague.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 288
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '50'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The Cold Always Bothered Me
+  Description: Destroy a Freezing Monolith.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 414
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: My Army Grows Stronger
+  Description: Unlock 10 different unit types.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 334
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Survivor
+  Description: Kill 5 waves in the Necrodome.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 183
+  Percentage of Gamers: 22%
+  Ratio: 2.13
+  TA: '64'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: X Marks the Spot
+  Description: Dig up 10 buried treasures.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 217
+  Percentage of Gamers: 26%
+  Ratio: 1.95
+  TA: '58'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Good as New
+  Description: Fully restore every building in Necropolis.
+  GS: '100'
+  Guide: true
+  Number of Gamers: 161
+  Percentage of Gamers: 20%
+  Ratio: 2.27
+  TA: '227'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: These Belong to My Collection
+  Description: Obtain 15 unique rune powers.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 232
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '56'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Mage It Stop
+  Description: Kill the Archmage.
+  GS: '90'
+  Guide: false
+  Number of Gamers: 197
+  Percentage of Gamers: 24%
+  Ratio: 2.05
+  TA: '185'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: King of Undead
+  Description: Reclaim the Necropolis Throne.
+  GS: '90'
+  Guide: true
+  Number of Gamers: 193
+  Percentage of Gamers: 23%
+  Ratio: 2.07
+  TA: '186'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 1.787
+Base TA: 1787
+Delisted: false
+Developer: 10tons
+Game Name: 'Undead Horde 2: Necropolis'
+Genres: Strategy, Real Time
+Install Size: 900.0
+Number of Completions: 149
+Number of Gamers: 825
+Overall Completion Time:
+- 15.0
+- 20.0
+Overall GS: 1000
+Overall Ratio: 1.787
+Overall TA: 1787
+PDU: 0
+Percentage Completed: 18.06
+Publisher: 10tons
+Release Date: 31 May 2023
+Server Closure: false
+Site Rating: 4.14
+Update Achievements: []
+Walkthrough: false

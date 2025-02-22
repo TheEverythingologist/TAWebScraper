@@ -1,0 +1,358 @@
+Add On Achievements: []
+Base Completion Time:
+- -1
+- -1
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: I grant you the rank of Major
+  Description: Gain all achievements
+  GS: '100'
+  Guide: true
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '100'
+  Tags:
+  - Unobtainable
+- Achievement Name: Perfectly Balanced
+  Description: Finish any chapter having no leaning.
+  GS: '80'
+  Guide: false
+  Number of Gamers: 26
+  Percentage of Gamers: 7%
+  Ratio: 3.78
+  TA: '303'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Micromanagement
+  Description: Finish Chapter 1 without Shift System Improvement
+  GS: '80'
+  Guide: false
+  Number of Gamers: 97
+  Percentage of Gamers: 26%
+  Ratio: 1.96
+  TA: '156'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Fully operational
+  Description: Construct all Production Improvements
+  GS: '80'
+  Guide: false
+  Number of Gamers: 44
+  Percentage of Gamers: 12%
+  Ratio: 2.91
+  TA: '232'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: The best in the entire front
+  Description: Construct all Healing Improvements
+  GS: '80'
+  Guide: false
+  Number of Gamers: 45
+  Percentage of Gamers: 12%
+  Ratio: 2.87
+  TA: '230'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Cause a full belly is a righteous belly!
+  Description: Have Nutrious Rations set for 7 days.
+  GS: '80'
+  Guide: false
+  Number of Gamers: 3
+  Percentage of Gamers: 1%
+  Ratio: 11.15
+  TA: '892'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Dr Jekyll
+  Description: Finish Chapter 1 being perceived as Humanitarian
+  GS: '30'
+  Guide: false
+  Number of Gamers: 47
+  Percentage of Gamers: 13%
+  Ratio: 2.81
+  TA: '84'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Mr Hyde
+  Description: Finish Chapter 2 being perceived as Ruthless
+  GS: '30'
+  Guide: false
+  Number of Gamers: 10
+  Percentage of Gamers: 3%
+  Ratio: 6.1
+  TA: '183'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: A Man of the People
+  Description: Construct all Housing Improvements
+  GS: '30'
+  Guide: false
+  Number of Gamers: 56
+  Percentage of Gamers: 15%
+  Ratio: 2.58
+  TA: '77'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Doing all you can
+  Description: Finish Any Chapter Healing as many Patients as possible
+  GS: '30'
+  Guide: false
+  Number of Gamers: 86
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '62'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Help with the pain
+  Description: Grant mercy to German Officer
+  GS: '30'
+  Guide: false
+  Number of Gamers: 18
+  Percentage of Gamers: 5%
+  Ratio: 4.55
+  TA: '136'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Do be his madness there is method in it?
+  Description: Allow Witch Doctor to finish his reasearch
+  GS: '30'
+  Guide: false
+  Number of Gamers: 35
+  Percentage of Gamers: 9%
+  Ratio: 3.26
+  TA: '97'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Lovestruck
+  Description: Help lovers escape father's wrath
+  GS: '30'
+  Guide: false
+  Number of Gamers: 85
+  Percentage of Gamers: 23%
+  Ratio: 2.09
+  TA: '62'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Time Is the Simplest Thing
+  Description: Help the village reach first evacuation site in time
+  GS: '30'
+  Guide: false
+  Number of Gamers: 12
+  Percentage of Gamers: 3%
+  Ratio: 5.57
+  TA: '167'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Little dorothy
+  Description: Find the missing girl
+  GS: '30'
+  Guide: false
+  Number of Gamers: 64
+  Percentage of Gamers: 17%
+  Ratio: 2.41
+  TA: '72'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Cannon Fodder
+  Description: Let 100 patients die
+  GS: '10'
+  Guide: false
+  Number of Gamers: 143
+  Percentage of Gamers: 38%
+  Ratio: 1.61
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Have some air
+  Description: Use Oxygen Inhalation on Tier 3 Chemical Wounded
+  GS: '10'
+  Guide: false
+  Number of Gamers: 27
+  Percentage of Gamers: 7%
+  Ratio: 3.71
+  TA: '37'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: It will cost you an arm and a leg
+  Description: Use Amputation on 50 Patients
+  GS: '10'
+  Guide: false
+  Number of Gamers: 11
+  Percentage of Gamers: 3%
+  Ratio: 5.82
+  TA: '58'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: No rest for the exhausted
+  Description: Successfully finish operation with Doctor Close to Collapse without
+    him collapsing.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 372
+  Percentage of Gamers: 100%
+  Ratio: 1.0
+  TA: '10'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Practice makes perfect
+  Description: Have Doctor with 3 positive traits
+  GS: '10'
+  Guide: false
+  Number of Gamers: 82
+  Percentage of Gamers: 22%
+  Ratio: 2.13
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Old man and the P14
+  Description: Help the old man track the convoys
+  GS: '10'
+  Guide: false
+  Number of Gamers: 113
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '18'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Ashes to Ashes
+  Description: Take care of the children
+  GS: '10'
+  Guide: false
+  Number of Gamers: 216
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '13'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Friend in the Hood
+  Description: Help Frair Tuck
+  GS: '10'
+  Guide: false
+  Number of Gamers: 62
+  Percentage of Gamers: 17%
+  Ratio: 2.45
+  TA: '24'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Spy Games
+  Description: Finish spyhunt
+  GS: '10'
+  Guide: false
+  Number of Gamers: 97
+  Percentage of Gamers: 26%
+  Ratio: 1.96
+  TA: '19'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Surgical Specialization
+  Description: Construct Surgical Ward Enhancement II
+  GS: '10'
+  Guide: false
+  Number of Gamers: 108
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Chemical Specialization
+  Description: Construct Chemical Ward Enhancement II
+  GS: '10'
+  Guide: false
+  Number of Gamers: 93
+  Percentage of Gamers: 25%
+  Ratio: 2.0
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Trauma Specialization
+  Description: Construct Trauma Ward Enhancement II
+  GS: '10'
+  Guide: false
+  Number of Gamers: 89
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Boy Scout
+  Description: Construct all Scouting Improvements
+  GS: '30'
+  Guide: false
+  Number of Gamers: 49
+  Percentage of Gamers: 13%
+  Ratio: 2.75
+  TA: '82'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Esprit de corps
+  Description: Reach above 95% Morale
+  GS: '80'
+  Guide: false
+  Number of Gamers: 135
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '132'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative
+Base Ratio: 3.341
+Base TA: 3341
+Delisted: false
+Developer: Brave Lamb Studio
+Game Name: War Hospital
+Genres: Strategy, Management
+Install Size: 6410.0
+Number of Completions: 0
+Number of Gamers: 373
+Overall Completion Time:
+- -1
+- -1
+Overall GS: 1000
+Overall Ratio: 3.341
+Overall TA: 3341
+PDU: 0
+Percentage Completed: 0.0
+Publisher: Nacon
+Release Date: 11 January 2024
+Server Closure: false
+Site Rating: 4.3
+Update Achievements: []
+Walkthrough: false

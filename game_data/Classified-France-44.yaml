@@ -1,0 +1,392 @@
+Add On Achievements: []
+Base Completion Time:
+- 75
+- 76
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Easy As Pie
+  Description: Successfully complete 10 missions with 5 stars in a single campaign
+  GS: '25'
+  Guide: false
+  Number of Gamers: 120
+  Percentage of Gamers: 8%
+  Ratio: 3.51
+  TA: '87'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Freedom Fighter
+  Description: Successfully complete 25 missions in a single campaign
+  GS: '10'
+  Guide: false
+  Number of Gamers: 252
+  Percentage of Gamers: 17%
+  Ratio: 2.42
+  TA: '24'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: People Pleaser
+  Description: Raise 7 regions to max influence simultaneously
+  GS: '50'
+  Guide: true
+  Number of Gamers: 153
+  Percentage of Gamers: 10%
+  Ratio: 3.12
+  TA: '156'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative
+  - Level
+- Achievement Name: Totally Radical
+  Description: Reach max relations with the Radicals
+  GS: '40'
+  Guide: false
+  Number of Gamers: 202
+  Percentage of Gamers: 13%
+  Ratio: 2.71
+  TA: '108'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: The Gaul Of It
+  Description: Reach max relations with the Gaulists
+  GS: '40'
+  Guide: false
+  Number of Gamers: 150
+  Percentage of Gamers: 10%
+  Ratio: 3.14
+  TA: '125'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Smooth Criminal
+  Description: Reach max relations with the Criminals
+  GS: '40'
+  Guide: false
+  Number of Gamers: 159
+  Percentage of Gamers: 11%
+  Ratio: 3.06
+  TA: '122'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Team Of Many Talents
+  Description: Raise 6 characters to max level in a single campaign
+  GS: '50'
+  Guide: true
+  Number of Gamers: 129
+  Percentage of Gamers: 9%
+  Ratio: 3.4
+  TA: '170'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Fifty Days And Fifty Nights
+  Description: Play 50 days in the campaign
+  GS: '10'
+  Guide: false
+  Number of Gamers: 159
+  Percentage of Gamers: 11%
+  Ratio: 3.06
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: D-Day
+  Description: Complete the Campaign on Recruit difficulty
+  GS: '25'
+  Guide: false
+  Number of Gamers: 180
+  Percentage of Gamers: 12%
+  Ratio: 2.88
+  TA: '72'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Martyr
+  Description: Complete the Campaign on Regular difficulty
+  GS: '50'
+  Guide: false
+  Number of Gamers: 122
+  Percentage of Gamers: 8%
+  Ratio: 3.5
+  TA: '175'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: War Hero
+  Description: Complete the Campaign on Elite difficulty
+  GS: '100'
+  Guide: true
+  Number of Gamers: 26
+  Percentage of Gamers: 2%
+  Ratio: 7.56
+  TA: '756'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: I Live To Fight
+  Description: Successfully complete 50 different campaign missions
+  GS: '25'
+  Guide: false
+  Number of Gamers: 47
+  Percentage of Gamers: 3%
+  Ratio: 5.68
+  TA: '142'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Five Star General
+  Description: Successfully complete 30 different campaign missions with 5 stars
+  GS: '75'
+  Guide: false
+  Number of Gamers: 59
+  Percentage of Gamers: 4%
+  Ratio: 5.06
+  TA: '379'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: One Step At A Time
+  Description: Successfully complete 10 different campaign objectives
+  GS: '25'
+  Guide: false
+  Number of Gamers: 501
+  Percentage of Gamers: 33%
+  Ratio: 1.72
+  TA: '43'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The Gang's All Here
+  Description: Recruit all characters
+  GS: '100'
+  Guide: true
+  Number of Gamers: 62
+  Percentage of Gamers: 4%
+  Ratio: 4.89
+  TA: '489'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Multiple Playthroughs Required
+- Achievement Name: Hiker
+  Description: Move a total distance of 5000 km across the campaign map
+  GS: '25'
+  Guide: false
+  Number of Gamers: 126
+  Percentage of Gamers: 8%
+  Ratio: 3.43
+  TA: '85'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Supply and Demand
+  Description: Earn 1000 supplies
+  GS: '10'
+  Guide: false
+  Number of Gamers: 231
+  Percentage of Gamers: 15%
+  Ratio: 2.53
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Snappy Dresser
+  Description: Buy 15 items of apparel
+  GS: '25'
+  Guide: false
+  Number of Gamers: 136
+  Percentage of Gamers: 9%
+  Ratio: 3.3
+  TA: '82'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Shop
+- Achievement Name: Taskmaster
+  Description: Complete 15 tasks
+  GS: '25'
+  Guide: false
+  Number of Gamers: 250
+  Percentage of Gamers: 17%
+  Ratio: 2.43
+  TA: '60'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Never Tell Me The Odds
+  Description: Land 6 different shots with less than 25% chance-to-hit
+  GS: '10'
+  Guide: false
+  Number of Gamers: 253
+  Percentage of Gamers: 17%
+  Ratio: 2.42
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Triple Threat
+  Description: Kill 3 unique enemies with a single explosion 6 times
+  GS: '10'
+  Guide: true
+  Number of Gamers: 25
+  Percentage of Gamers: 2%
+  Ratio: 7.7
+  TA: '77'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: One Fell Swoop
+  Description: Kill 5 unique enemies in a single turn 6 times
+  GS: '25'
+  Guide: false
+  Number of Gamers: 158
+  Percentage of Gamers: 11%
+  Ratio: 3.06
+  TA: '76'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Get In Get Out
+  Description: Successfully complete a mission in 6 turns or less
+  GS: '80'
+  Guide: true
+  Number of Gamers: 1490
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '80'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: Body Count
+  Description: Kill 500 unique enemies
+  GS: '25'
+  Guide: false
+  Number of Gamers: 116
+  Percentage of Gamers: 8%
+  Ratio: 3.57
+  TA: '89'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: CQC
+  Description: Kill 50 unique enemies using melee
+  GS: '10'
+  Guide: false
+  Number of Gamers: 380
+  Percentage of Gamers: 25%
+  Ratio: 1.97
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Havin' A Blast
+  Description: Kill 50 unique enemies using explosives
+  GS: '10'
+  Guide: false
+  Number of Gamers: 219
+  Percentage of Gamers: 15%
+  Ratio: 2.6
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: No Witnesses
+  Description: Kill 50 unique enemies while in stealth
+  GS: '10'
+  Guide: false
+  Number of Gamers: 314
+  Percentage of Gamers: 21%
+  Ratio: 2.17
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Amish Paradise
+  Description: Destroy 15 unique vehicles
+  GS: '10'
+  Guide: false
+  Number of Gamers: 221
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: 33 Barrels of Oil on the Wall
+  Description: Destroy 33 Explosives Barrels
+  GS: '10'
+  Guide: false
+  Number of Gamers: 74
+  Percentage of Gamers: 5%
+  Ratio: 4.48
+  TA: '44'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Marseille Mafioso
+  Description: Complete a mission using the Black Homburg, Suit Jacket, Suit Trousers
+    and Thompson .45
+  GS: '50'
+  Guide: true
+  Number of Gamers: 43
+  Percentage of Gamers: 3%
+  Ratio: 5.87
+  TA: '293'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 3.904
+Base TA: 3904
+Delisted: false
+Developer: Absolutely Games
+Game Name: 'Classified: France ''44'
+Genres: Stealth, Strategy, Turn Based
+Install Size: 24230.0
+Number of Completions: 18
+Number of Gamers: 1499
+Overall Completion Time:
+- 75
+- 76
+Overall GS: 1000
+Overall Ratio: 3.904
+Overall TA: 3904
+PDU: 0
+Percentage Completed: 1.2
+Publisher: Team17 Software
+Release Date: 05 March 2024
+Server Closure: false
+Site Rating: 4.1
+Update Achievements: []
+Walkthrough: false

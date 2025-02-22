@@ -1,0 +1,546 @@
+Add On Achievements: []
+Base Completion Time:
+- 15.0
+- 20.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Survival of the Fittest
+  Description: Increased max HP for the first time.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 27191
+  Percentage of Gamers: 53%
+  Ratio: 1.37
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Power Hungry
+  Description: Increased max SP for the first time.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 10403
+  Percentage of Gamers: 20%
+  Ratio: 2.21
+  TA: '33'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Nimble Fighter
+  Description: Increased max EP for the first time.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 11695
+  Percentage of Gamers: 23%
+  Ratio: 2.09
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Indestructible
+  Description: Reached the limit for max HP.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4210
+  Percentage of Gamers: 8%
+  Ratio: 3.48
+  TA: '104'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Shop
+- Achievement Name: Endless Qi
+  Description: Reached the limit for max SP.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4007
+  Percentage of Gamers: 8%
+  Ratio: 3.57
+  TA: '107'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Shop
+  - Buggy
+- Achievement Name: Unlimited Energy
+  Description: Reached the limit for max EP.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4213
+  Percentage of Gamers: 8%
+  Ratio: 3.48
+  TA: '104'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Shop
+- Achievement Name: Collector Classics
+  Description: Collected all posters.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 2454
+  Percentage of Gamers: 5%
+  Ratio: 4.56
+  TA: '136'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Shop
+- Achievement Name: Treasure Hunter
+  Description: Opened all locked chests.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4497
+  Percentage of Gamers: 9%
+  Ratio: 3.37
+  TA: '101'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Shop
+- Achievement Name: Environmentalist
+  Description: Collected all plant seeds.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4233
+  Percentage of Gamers: 8%
+  Ratio: 3.47
+  TA: '104'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Fist Master
+  Description: Unlocked all Fist skills.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4726
+  Percentage of Gamers: 9%
+  Ratio: 3.28
+  TA: '98'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Drill Master
+  Description: Unlocked all Drill skills.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4565
+  Percentage of Gamers: 9%
+  Ratio: 3.34
+  TA: '100'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Whip Master
+  Description: Unlocked all Whip skills.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4542
+  Percentage of Gamers: 9%
+  Ratio: 3.35
+  TA: '100'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Power Seeker
+  Description: Unlocked Qi Explosion skill.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 3159
+  Percentage of Gamers: 6%
+  Ratio: 4.02
+  TA: '120'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Shop
+- Achievement Name: Tool Enthusiast
+  Description: Upgraded all devices to their maximum level.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 3363
+  Percentage of Gamers: 7%
+  Ratio: 3.89
+  TA: '116'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Shop
+- Achievement Name: Martial Arts Heir
+  Description: Completed all combo training at the training field.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 3410
+  Percentage of Gamers: 7%
+  Ratio: 3.87
+  TA: '116'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Barrel Smasher
+  Description: Completed the barrel smashing challenge flawlessly.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 2629
+  Percentage of Gamers: 5%
+  Ratio: 4.4
+  TA: '132'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Wanderer
+  Description: Discovered half of the secrets in Torch City.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 9407
+  Percentage of Gamers: 18%
+  Ratio: 2.33
+  TA: '69'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Liberator
+  Description: Discovered all of the secrets in Torch City.
+  GS: '65'
+  Guide: true
+  Number of Gamers: 2384
+  Percentage of Gamers: 5%
+  Ratio: 4.62
+  TA: '300'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Shop
+- Achievement Name: Anti-Gravity
+  Description: Kept an enemy in the air for 15 seconds straight.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3923
+  Percentage of Gamers: 8%
+  Ratio: 3.6
+  TA: '54'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Toe to Toe
+  Description: Made 5 parries in a row without taking damage.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3673
+  Percentage of Gamers: 7%
+  Ratio: 3.72
+  TA: '55'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative
+- Achievement Name: Bitten by a Mutant Spider?
+  Description: Moved between 7 different anchor points without touching the ground.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3461
+  Percentage of Gamers: 7%
+  Ratio: 3.84
+  TA: '57'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Turing Test Failure
+  Description: Eliminated 3 enemies with one Exploding Puppet.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2634
+  Percentage of Gamers: 5%
+  Ratio: 4.4
+  TA: '66'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Rabbit Time
+  Description: Eliminated 5 enemies during one Qi Explosion.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2215
+  Percentage of Gamers: 4%
+  Ratio: 4.8
+  TA: '72'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Dimension Collapse
+  Description: Threw and knocked down enemies in the air 20 times altogether.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2189
+  Percentage of Gamers: 4%
+  Ratio: 4.83
+  TA: '72'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Aerial Strike
+  Description: Executed 2 enemies in a row without touching the ground.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2594
+  Percentage of Gamers: 5%
+  Ratio: 4.43
+  TA: '66'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Outsider
+  Description: A veteran took up arms again.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 51021
+  Percentage of Gamers: 100%
+  Ratio: 1.0
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Uprising
+  Description: Tested your fighting reflexes in a tough battle.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 29043
+  Percentage of Gamers: 57%
+  Ratio: 1.32
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Weapon of the Legion
+  Description: Acquired a very deadly weapon.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 19860
+  Percentage of Gamers: 39%
+  Ratio: 1.6
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Mental Trauma
+  Description: Confronted an unpleasant memory.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 16727
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Animal Farm
+  Description: "Made contact with the city\u2019s underworld."
+  GS: '15'
+  Guide: true
+  Number of Gamers: 14697
+  Percentage of Gamers: 29%
+  Ratio: 1.86
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Military Secret
+  Description: Collected a classified document.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 11617
+  Percentage of Gamers: 23%
+  Ratio: 2.09
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Part-time Plumber
+  Description: Solved a municipal administration problem.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 12007
+  Percentage of Gamers: 23%
+  Ratio: 2.06
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Information Jigsaw
+  Description: Collected an important piece of information.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 11171
+  Percentage of Gamers: 22%
+  Ratio: 2.13
+  TA: '32'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Shelter from the Blizzard
+  Description: Arrived in the desolate mountains.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 10618
+  Percentage of Gamers: 21%
+  Ratio: 2.19
+  TA: '32'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Weapon of the Resistance
+  Description: Acquired a very flexible weapon.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 10245
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '33'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Mean Streets
+  Description: Eliminated the threat from the shadows.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 9694
+  Percentage of Gamers: 19%
+  Ratio: 2.29
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: A Breath of Freedom
+  Description: Acquired a tool to overcome biological limits.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 9337
+  Percentage of Gamers: 18%
+  Ratio: 2.33
+  TA: '35'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Unsafe to Possession
+  Description: Found the unstable source of power.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 9050
+  Percentage of Gamers: 18%
+  Ratio: 2.37
+  TA: '71'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: One Step Away
+  Description: Escaped from a desperate situation.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 8536
+  Percentage of Gamers: 17%
+  Ratio: 2.44
+  TA: '73'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: There Will Be Blood
+  Description: Chose to face your nemesis head-on.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 8236
+  Percentage of Gamers: 16%
+  Ratio: 2.49
+  TA: '74'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: For the New Dawn
+  Description: Torch City welcomed the new dawn.
+  GS: '65'
+  Guide: true
+  Number of Gamers: 7522
+  Percentage of Gamers: 15%
+  Ratio: 2.6
+  TA: '169'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
+- Achievement Name: See Me Not
+  Description: Faced a serious crisis of physical shape.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3938
+  Percentage of Gamers: 8%
+  Ratio: 3.6
+  TA: '54'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: DO NOT ANSWER! DO NOT ANSWER! DO NOT ANSWER!
+  Description: Picked up a signal from another universe.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3145
+  Percentage of Gamers: 6%
+  Ratio: 4.03
+  TA: '60'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 3.172
+Base TA: 3172
+Delisted: false
+Developer: TiGames
+Game Name: 'F.I.S.T.: Forged in Shadow Torch'
+Genres: Platformer, Metroidvania
+Install Size: 20000.0
+Number of Completions: 1981
+Number of Gamers: 51144
+Overall Completion Time:
+- 15.0
+- 20.0
+Overall GS: 1000
+Overall Ratio: 3.172
+Overall TA: 3172
+PDU: 0
+Percentage Completed: 3.87
+Publisher: bilibili
+Release Date: 27 June 2023
+Server Closure: false
+Site Rating: 3.8
+Update Achievements: []
+Walkthrough: false

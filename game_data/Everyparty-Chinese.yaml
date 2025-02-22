@@ -1,0 +1,597 @@
+Add On Achievements: []
+Base Completion Time:
+- 0
+- 0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Miracle City Mayor
+  Description: 'Story Board: Complete the story once.'
+  GS: '30'
+  Guide: true
+  Number of Gamers: 39
+  Percentage of Gamers: 13%
+  Ratio: 2.72
+  TA: '81'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Many Memories
+  Description: 'Story Board: Complete the story 3 times.'
+  GS: '50'
+  Guide: false
+  Number of Gamers: 9
+  Percentage of Gamers: 3%
+  Ratio: 5.66
+  TA: '283'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Cumulative +
+- Achievement Name: Story-Telling Master
+  Description: 'Story Board: Complete all maps in Story Board.'
+  GS: '30'
+  Guide: false
+  Number of Gamers: 10
+  Percentage of Gamers: 3%
+  Ratio: 5.37
+  TA: '161'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Normal Battler
+  Description: 'Party Mode: Play 5 Normal battles with 2+ players.'
+  GS: '15'
+  Guide: true
+  Number of Gamers: 59
+  Percentage of Gamers: 20%
+  Ratio: 2.21
+  TA: '33'
+  Tags:
+  - Online/Offline
+  - Versus
+  - Difficulty Specific
+  - Cumulative +
+- Achievement Name: Party Until Grandkids Come
+  Description: 'Party Mode: Play 10 Normal battles with 2+ players.'
+  GS: '30'
+  Guide: true
+  Number of Gamers: 32
+  Percentage of Gamers: 11%
+  Ratio: 3.0
+  TA: '90'
+  Tags:
+  - Online/Offline
+  - Versus
+  - Difficulty Specific
+  - Cumulative +
+- Achievement Name: Point Battler
+  Description: 'Party Mode: Play 5 Point battles with 2+ players.'
+  GS: '15'
+  Guide: true
+  Number of Gamers: 41
+  Percentage of Gamers: 14%
+  Ratio: 2.65
+  TA: '39'
+  Tags:
+  - Online/Offline
+  - Versus
+  - Cumulative +
+- Achievement Name: Party Until Great-Grandkids Come
+  Description: 'Party Mode: Play 10 Point battles with 2+ players.'
+  GS: '30'
+  Guide: true
+  Number of Gamers: 26
+  Percentage of Gamers: 9%
+  Ratio: 3.33
+  TA: '100'
+  Tags:
+  - Online/Offline
+  - Versus
+  - Cumulative +
+- Achievement Name: Mini-Gamer
+  Description: 'Party Mode: Play 25 mini-games with 2+ players (including all 3 types).'
+  GS: '15'
+  Guide: true
+  Number of Gamers: 39
+  Percentage of Gamers: 13%
+  Ratio: 2.72
+  TA: '40'
+  Tags:
+  - Online/Offline
+  - Versus
+  - Cumulative +
+- Achievement Name: Mini-Game Marathon
+  Description: 'Party Mode: Play 50 mini-games with 2+ players (including all 3 types).'
+  GS: '30'
+  Guide: true
+  Number of Gamers: 27
+  Percentage of Gamers: 9%
+  Ratio: 3.27
+  TA: '98'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Richest Player Award Specialist
+  Description: 'Party Mode: Win the Richest Player Award 3 times.'
+  GS: '20'
+  Guide: false
+  Number of Gamers: 29
+  Percentage of Gamers: 10%
+  Ratio: 3.15
+  TA: '63'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Bully Award Specialist
+  Description: 'Party Mode: Win the Bully Award 3 times.'
+  GS: '20'
+  Guide: true
+  Number of Gamers: 31
+  Percentage of Gamers: 11%
+  Ratio: 3.05
+  TA: '61'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Mini-Game Skill Award Specialist
+  Description: 'Party Mode: Win the Mini-Game Skill Award 3 times.'
+  GS: '20'
+  Guide: false
+  Number of Gamers: 31
+  Percentage of Gamers: 11%
+  Ratio: 3.05
+  TA: '61'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Try Hard Award Specialist
+  Description: 'Party Mode: Win the Nice Effort Award 3 times.'
+  GS: '20'
+  Guide: false
+  Number of Gamers: 27
+  Percentage of Gamers: 9%
+  Ratio: 3.27
+  TA: '65'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Ultimate Battler
+  Description: 'Party Mode: Win against 3 of the strongest A.I. players.'
+  GS: '20'
+  Guide: false
+  Number of Gamers: 12
+  Percentage of Gamers: 4%
+  Ratio: 4.9
+  TA: '98'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Serious Gamer
+  Description: 'Practice Board: Complete 1 practice game.'
+  GS: '15'
+  Guide: true
+  Number of Gamers: 163
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Mini-Game Showdown Master 3
+  Description: 'Mini-Game Showdown: Win 3 times in a 3-game tournament with 3 of the
+    strongest A.I. players.'
+  GS: '20'
+  Guide: false
+  Number of Gamers: 29
+  Percentage of Gamers: 10%
+  Ratio: 3.15
+  TA: '63'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Mini-Game Showdown Master 5
+  Description: 'Mini-Game Showdown: Win 3 times in 5-game tournament with 3 of the
+    strongest A.I. players.'
+  GS: '20'
+  Guide: true
+  Number of Gamers: 23
+  Percentage of Gamers: 8%
+  Ratio: 3.54
+  TA: '70'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Mini-Game Showdown Master 7
+  Description: 'Mini-Game Showdown: Win 3 times in 7-game tournament with 3 of the
+    strongest A.I. players.'
+  GS: '20'
+  Guide: true
+  Number of Gamers: 23
+  Percentage of Gamers: 8%
+  Ratio: 3.54
+  TA: '70'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Mini-Game Showdown Master 10
+  Description: 'Mini-Game Showdown: Win 3 times in 10-game tournament with 3 of the
+    strongest A.I. players.'
+  GS: '20'
+  Guide: true
+  Number of Gamers: 21
+  Percentage of Gamers: 7%
+  Ratio: 3.7
+  TA: '74'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Medal Lover
+  Description: 'All Modes: Collect 100 medals.'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 29
+  Percentage of Gamers: 10%
+  Ratio: 3.15
+  TA: '31'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Medal King
+  Description: 'All Modes: Collect 500 medals.'
+  GS: '30'
+  Guide: true
+  Number of Gamers: 9
+  Percentage of Gamers: 3%
+  Ratio: 5.66
+  TA: '170'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Item Lover
+  Description: 'All Modes: Collect 10 items.'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 196
+  Percentage of Gamers: 68%
+  Ratio: 1.21
+  TA: '12'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+  - Shop
+- Achievement Name: Item Collector
+  Description: 'All Modes: Collect 100 items.'
+  GS: '30'
+  Guide: true
+  Number of Gamers: 44
+  Percentage of Gamers: 15%
+  Ratio: 2.56
+  TA: '76'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+  - Shop
+- Achievement Name: Controller King
+  Description: 'All Modes: Play Party mode with 4 controllers.'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 42
+  Percentage of Gamers: 14%
+  Ratio: 2.62
+  TA: '26'
+  Tags:
+  - Online/Offline
+  - Versus
+  - 5 Players Required
+- Achievement Name: Everyparty Maniac
+  Description: 'All Modes: Load 1 saved content file 10 times.'
+  GS: '10'
+  Guide: false
+  Number of Gamers: 77
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Lavish Medal Spender
+  Description: 'All Modes: Spend 50 medals.'
+  GS: '15'
+  Guide: true
+  Number of Gamers: 114
+  Percentage of Gamers: 39%
+  Ratio: 1.59
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Shop
+- Achievement Name: Signboard Collector
+  Description: 'All Modes: Collect all signs.'
+  GS: '20'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 1%
+  Ratio: 8.5
+  TA: '170'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Super Goal
+  Description: 'All Modes: Finish a match with the Dream Wheel.'
+  GS: '20'
+  Guide: false
+  Number of Gamers: 52
+  Percentage of Gamers: 18%
+  Ratio: 2.35
+  TA: '47'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Bully Buddy
+  Description: 'All Modes: Place all bullies.'
+  GS: '30'
+  Guide: true
+  Number of Gamers: 45
+  Percentage of Gamers: 16%
+  Ratio: 2.53
+  TA: '76'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Wheel Card Ph.D.
+  Description: 'All Modes: Use every wheel card.'
+  GS: '20'
+  Guide: true
+  Number of Gamers: 19
+  Percentage of Gamers: 7%
+  Ratio: 3.9
+  TA: '78'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Character Ph.D.
+  Description: 'My Room: Collect and read every page of Character Encyclopedia in
+    one sitting.'
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3
+  Percentage of Gamers: 1%
+  Ratio: 9.81
+  TA: '196'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Town News Ph.D.
+  Description: 'My Room: Collect and read every page of the Town News in one sitting.'
+  GS: '20'
+  Guide: false
+  Number of Gamers: 9
+  Percentage of Gamers: 3%
+  Ratio: 5.66
+  TA: '113'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Honorary Ph.D.
+  Description: 'My Room: Collect and read every certificate page in one sitting.'
+  GS: '15'
+  Guide: true
+  Number of Gamers: 25
+  Percentage of Gamers: 9%
+  Ratio: 3.4
+  TA: '51'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Map Ph.D.
+  Description: 'My Room: Read every page of the Record Book in one sitting after covering
+    every map.'
+  GS: '15'
+  Guide: true
+  Number of Gamers: 20
+  Percentage of Gamers: 7%
+  Ratio: 3.8
+  TA: '57'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Beautiful Memories
+  Description: 'My Room: View all Story Board Memories in one sitting.'
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2
+  Percentage of Gamers: 1%
+  Ratio: 12.02
+  TA: '180'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: I Done Made a Character!
+  Description: 'My Room: Make My Character.'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 219
+  Percentage of Gamers: 76%
+  Ratio: 1.15
+  TA: '11'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: What's Yours is Mine
+  Description: 'My Room: Complete the items gained from producing My Character.'
+  GS: '20'
+  Guide: true
+  Number of Gamers: 4
+  Percentage of Gamers: 1%
+  Ratio: 8.5
+  TA: '170'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Shopaholic
+  Description: 'My Room: Shop at the item shop 30 times.'
+  GS: '20'
+  Guide: true
+  Number of Gamers: 24
+  Percentage of Gamers: 8%
+  Ratio: 3.47
+  TA: '69'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Shop
+- Achievement Name: Public Hall Staff
+  Description: 'Public Hall: Win 5 matches.'
+  GS: '15'
+  Guide: false
+  Number of Gamers: 27
+  Percentage of Gamers: 9%
+  Ratio: 3.27
+  TA: '49'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+  - 4 Players Required
+- Achievement Name: Public Hall Director
+  Description: 'Public Hall: Win 10 matches.'
+  GS: '30'
+  Guide: false
+  Number of Gamers: 19
+  Percentage of Gamers: 7%
+  Ratio: 3.9
+  TA: '117'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+- Achievement Name: Public Hall Challenge
+  Description: 'Public Hall: Achieve 2 consecutive victories.'
+  GS: '20'
+  Guide: true
+  Number of Gamers: 35
+  Percentage of Gamers: 12%
+  Ratio: 2.91
+  TA: '58'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+- Achievement Name: Public Hall Trial
+  Description: 'Public Hall: Achieve 3 consecutive victories.'
+  GS: '50'
+  Guide: true
+  Number of Gamers: 30
+  Percentage of Gamers: 10%
+  Ratio: 3.15
+  TA: '157'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+- Achievement Name: Friendly Face
+  Description: 'Public Hall: Create and win 5 games in your own room.'
+  GS: '15'
+  Guide: true
+  Number of Gamers: 21
+  Percentage of Gamers: 7%
+  Ratio: 3.7
+  TA: '55'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+- Achievement Name: Regular Customer
+  Description: 'Public Hall: Create and win 10 games in your own room.'
+  GS: '30'
+  Guide: true
+  Number of Gamers: 13
+  Percentage of Gamers: 4%
+  Ratio: 4.71
+  TA: '141'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+- Achievement Name: Hall of Famer
+  Description: 'Public Hall: Get listed in all Hall of Fame categories.'
+  GS: '50'
+  Guide: true
+  Number of Gamers: 2
+  Percentage of Gamers: 1%
+  Ratio: 12.02
+  TA: '601'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+- Achievement Name: Good Sport
+  Description: 'Public Hall: Do not boo during a match.'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 79
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '19'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+Base Ratio: 4.342
+Base TA: 4342
+Delisted: false
+Developer: Game Republic
+Game Name: Everyparty (HK/KR/TW)
+Genres: Card & Board, Party
+Install Size: 1760.0
+Number of Completions: 2
+Number of Gamers: 290
+Overall Completion Time:
+- 0
+- 0
+Overall GS: 1000
+Overall Ratio: 4.342
+Overall TA: 4342
+PDU: 0
+Percentage Completed: 0.69
+Publisher: Xbox Game Studios
+Release Date: 20 April 2006
+Server Closure: false
+Site Rating: 2.91
+Update Achievements: []
+Walkthrough: false

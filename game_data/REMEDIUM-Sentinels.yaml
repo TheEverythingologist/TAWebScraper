@@ -1,0 +1,386 @@
+Add On Achievements: []
+Base Completion Time:
+- 8.0
+- 10.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Church
+  Description: Survive 10 minutes in Crossroads.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 939
+  Percentage of Gamers: 96%
+  Ratio: 1.02
+  TA: '15'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Ruins
+  Description: Survive 10 minutes in Church.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 632
+  Percentage of Gamers: 64%
+  Ratio: 1.24
+  TA: '18'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Barbican
+  Description: Find and save Barbican in Crossroads.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 763
+  Percentage of Gamers: 78%
+  Ratio: 1.13
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Lamina
+  Description: Find and save Lamina in Church.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 721
+  Percentage of Gamers: 73%
+  Ratio: 1.16
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Auto Repair
+  Description: Pick up 3 repair kits.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 975
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Plating
+  Description: Survive 12 minutes as Gladiator.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 863
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Mortar
+  Description: Survive 10 minutes as Barbican.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 631
+  Percentage of Gamers: 64%
+  Ratio: 1.24
+  TA: '24'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Percussor Transmutation
+  Description: Get Percussor to MAX level.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 635
+  Percentage of Gamers: 65%
+  Ratio: 1.24
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Machine Gun Transmutation
+  Description: Get Machine Gun to MAX level.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 612
+  Percentage of Gamers: 62%
+  Ratio: 1.26
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Sawblade Transmutation
+  Description: Get Sawblade to MAX level.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 582
+  Percentage of Gamers: 59%
+  Ratio: 1.29
+  TA: '38'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Emitter Transmutation
+  Description: Get Emitter to MAX level.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 666
+  Percentage of Gamers: 68%
+  Ratio: 1.21
+  TA: '36'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Mine Transmutation
+  Description: Get Mine to MAX level.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 486
+  Percentage of Gamers: 49%
+  Ratio: 1.41
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Mortar Transmutation
+  Description: Get Mortar to MAX level.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 629
+  Percentage of Gamers: 64%
+  Ratio: 1.24
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Berserker
+  Description: Loose 10000 hp.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 386
+  Percentage of Gamers: 39%
+  Ratio: 1.59
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Destroyer
+  Description: Destroy 50 objects.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 524
+  Percentage of Gamers: 53%
+  Ratio: 1.36
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Reassembly
+  Description: Collect 10000 scrap.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 353
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '33'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Reroll
+  Description: Play all levels.
+  GS: '80'
+  Guide: false
+  Number of Gamers: 436
+  Percentage of Gamers: 44%
+  Ratio: 1.49
+  TA: '119'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Odin
+  Description: Find and save Odin in Ruins.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 566
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '39'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Abbot
+  Description: Purchase Abbot for 5000 scrap.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 334
+  Percentage of Gamers: 34%
+  Ratio: 1.7
+  TA: '51'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Archangel
+  Description: Purchase Archangel for 5000 scrap.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 332
+  Percentage of Gamers: 34%
+  Ratio: 1.71
+  TA: '51'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Crossroads rush
+  Description: Survive 15 minutes in Crossroads.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 804
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '22'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Church rush
+  Description: Survive 15 minutes in Church.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 549
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '26'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Ruins rush
+  Description: Survive 15 minutes in Ruins.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 398
+  Percentage of Gamers: 41%
+  Ratio: 1.56
+  TA: '31'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Frozen Path
+  Description: Survive 10 minutes in Ruins.
+  GS: '40'
+  Guide: false
+  Number of Gamers: 526
+  Percentage of Gamers: 54%
+  Ratio: 1.36
+  TA: '54'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Frozen Path Rush
+  Description: Kill boss in Frozen Path.
+  GS: '60'
+  Guide: false
+  Number of Gamers: 469
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '86'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Mine
+  Description: Clear Frozen Path level.
+  GS: '35'
+  Guide: false
+  Number of Gamers: 469
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '50'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Mine Rush
+  Description: Clear Mine level.
+  GS: '35'
+  Guide: true
+  Number of Gamers: 448
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '51'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Perun
+  Description: Kill Perun in Mine.
+  GS: '60'
+  Guide: true
+  Number of Gamers: 443
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '89'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Jackhammer
+  Description: Find and save Jackhammer in Frozen Pass.
+  GS: '60'
+  Guide: false
+  Number of Gamers: 466
+  Percentage of Gamers: 47%
+  Ratio: 1.44
+  TA: '86'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Swamp
+  Description: Survive 10 minutes in Mine.
+  GS: '40'
+  Guide: false
+  Number of Gamers: 448
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '59'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Swamp Rush
+  Description: Clear Swamp level.
+  GS: '60'
+  Guide: true
+  Number of Gamers: 385
+  Percentage of Gamers: 39%
+  Ratio: 1.59
+  TA: '95'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 1.383
+Base TA: 1383
+Delisted: false
+Developer: Sobaka Studio
+Game Name: 'REMEDIUM: Sentinels'
+Genres: Roguelite
+Install Size: 1690.0
+Number of Completions: 314
+Number of Gamers: 982
+Overall Completion Time:
+- 8.0
+- 10.0
+Overall GS: 1000
+Overall Ratio: 1.383
+Overall TA: 1383
+PDU: 0
+Percentage Completed: 31.98
+Publisher: ESDigital Games
+Release Date: 18 July 2023
+Server Closure: false
+Site Rating: 3.14
+Update Achievements: []
+Walkthrough: false

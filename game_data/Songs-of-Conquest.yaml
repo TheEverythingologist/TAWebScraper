@@ -1,0 +1,742 @@
+Add On Achievements: []
+Base Completion Time:
+- -1
+- -1
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Bringer of Ruin
+  Description: Cast five Apocalypse spells on the same troop turn
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 1%
+  Ratio: 12.6
+  TA: '189'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: The Song of Stoutheart
+  Description: Complete all Arleon campaign maps (on any difficulty)
+  GS: '20'
+  Guide: false
+  Number of Gamers: 27
+  Percentage of Gamers: 17%
+  Ratio: 2.42
+  TA: '48'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Death To Diplomacy
+  Description: Complete the last Arleon campaign map on Overwhelming difficulty
+  GS: '30'
+  Guide: false
+  Number of Gamers: 2
+  Percentage of Gamers: 1%
+  Ratio: 8.91
+  TA: '267'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: Dressed For Success
+  Description: Have a wielder equipped with artifacts in all slots
+  GS: '15'
+  Guide: false
+  Number of Gamers: 48
+  Percentage of Gamers: 30%
+  Ratio: 1.82
+  TA: '27'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Attack Bonanza
+  Description: Have troop perform six attacks on its turn
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2
+  Percentage of Gamers: 1%
+  Ratio: 8.91
+  TA: '133'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: The Price of Freedom
+  Description: Complete all Barya campaign maps (on any difficulty)
+  GS: '20'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 3%
+  Ratio: 6.3
+  TA: '126'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: A Life's Worth
+  Description: Complete the last Barya campaign map on Overwhelming difficulty
+  GS: '30'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 1%
+  Ratio: 12.6
+  TA: '378'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: This Spot's Taken
+  Description: Block an enemy troop from burrowing up
+  GS: '15'
+  Guide: false
+  Number of Gamers: 15
+  Percentage of Gamers: 9%
+  Ratio: 3.25
+  TA: '48'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Hello There
+  Description: Burrow up next to three or more ranged enemy troops
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2
+  Percentage of Gamers: 1%
+  Ratio: 8.91
+  TA: '133'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Versatile Wielder
+  Description: Cast each spell (over any number of games)
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2
+  Percentage of Gamers: 1%
+  Ratio: 8.91
+  TA: '133'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Unlimited Power!
+  Description: Kill three enemies using Chain Lightning
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2
+  Percentage of Gamers: 1%
+  Ratio: 8.91
+  TA: '133'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Fully Charged
+  Description: Have ten or more Charged buffs on a troop
+  GS: '15'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 3%
+  Ratio: 6.3
+  TA: '94'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Coming Through!
+  Description: Trigger three Attacks of Opportunity in a single Bull Rush
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 1%
+  Ratio: 12.6
+  TA: '189'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Critical Hit
+  Description: Deal 500 damage or more in one attack
+  GS: '15'
+  Guide: false
+  Number of Gamers: 55
+  Percentage of Gamers: 35%
+  Ratio: 1.7
+  TA: '25'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Deepstrike
+  Description: Use Dimensional Door to position your troop in three or more Zones
+    of Control
+  GS: '15'
+  Guide: false
+  Number of Gamers: 3
+  Percentage of Gamers: 2%
+  Ratio: 7.28
+  TA: '109'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Die by the Bow
+  Description: Kill 100 000 enemies using ranged attacks
+  GS: '30'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 1%
+  Ratio: 12.6
+  TA: '378'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Die by the Staff
+  Description: Kill 100 000 enemies using magic damage
+  GS: '30'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '30'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Die by the Sword
+  Description: Kill 100 000 enemies using melee attacks
+  GS: '30'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '30'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Double Kill
+  Description: Win two battles on the same turn with the same wielder
+  GS: '15'
+  Guide: false
+  Number of Gamers: 122
+  Percentage of Gamers: 77%
+  Ratio: 1.14
+  TA: '17'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Barbecue
+  Description: Kill three enemies with one flame attack
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2
+  Percentage of Gamers: 1%
+  Ratio: 8.91
+  TA: '133'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: In The Thick Of It
+  Description: Have three or more Front Line Fighter buffs on a troop
+  GS: '15'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 3%
+  Ratio: 6.3
+  TA: '94'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Full House
+  Description: Win a battle using each of the official wielders
+  GS: '15'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '15'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Infernal Influence
+  Description: Make enemy kill his friend using Blind Hatred
+  GS: '15'
+  Guide: false
+  Number of Gamers: 7
+  Percentage of Gamers: 4%
+  Ratio: 4.76
+  TA: '71'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Killing Spree
+  Description: Win six battles in a row on the same turn
+  GS: '30'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 3%
+  Ratio: 6.3
+  TA: '189'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Together For Her
+  Description: Complete all Loth campaign maps (on any difficulty)
+  GS: '20'
+  Guide: false
+  Number of Gamers: 6
+  Percentage of Gamers: 4%
+  Ratio: 5.14
+  TA: '102'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: An Empress's Hope
+  Description: Complete the last Loth campaign map on Overwhelming difficulty
+  GS: '30'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 1%
+  Ratio: 12.6
+  TA: '378'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: Multi Kill
+  Description: Win three battles on the same turn with the same wielder
+  GS: '15'
+  Guide: false
+  Number of Gamers: 26
+  Percentage of Gamers: 16%
+  Ratio: 2.47
+  TA: '37'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Proof That Luck Can Be Consistent
+  Description: Win 25 multiplayer (online or hotseat) games
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2
+  Percentage of Gamers: 1%
+  Ratio: 8.91
+  TA: '133'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Oops!
+  Description: Have enemy kill one of your own troops when you cast Blind Hatred
+  GS: '15'
+  Guide: false
+  Number of Gamers: 3
+  Percentage of Gamers: 2%
+  Ratio: 7.28
+  TA: '109'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Death From Above
+  Description: Kill three enemies using Breath of the Phoenix
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 1%
+  Ratio: 12.6
+  TA: '189'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Whoops!
+  Description: Have your troop die from a Quick retaliation
+  GS: '15'
+  Guide: false
+  Number of Gamers: 18
+  Percentage of Gamers: 11%
+  Ratio: 2.97
+  TA: '44'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: From the Ashes
+  Description: Complete all Rana campaign maps (on any difficulty)
+  GS: '20'
+  Guide: false
+  Number of Gamers: 11
+  Percentage of Gamers: 7%
+  Ratio: 3.8
+  TA: '76'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: The Marsh Expands
+  Description: Complete the last Rana campaign map on Overwhelming difficulty
+  GS: '30'
+  Guide: false
+  Number of Gamers: 2
+  Percentage of Gamers: 1%
+  Ratio: 8.91
+  TA: '267'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: Don't Touch My Stuff
+  Description: Reclaim your town or settlement that is being occupied/razed/converted
+    by the enemy
+  GS: '15'
+  Guide: false
+  Number of Gamers: 63
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '23'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Such A Fungi
+  Description: Use Repel to push an enemy troop into three Explosive Fungi
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2
+  Percentage of Gamers: 1%
+  Ratio: 8.91
+  TA: '133'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Sorcerous Spree
+  Description: Cast five spells on the same troop turn
+  GS: '15'
+  Guide: false
+  Number of Gamers: 19
+  Percentage of Gamers: 12%
+  Ratio: 2.89
+  TA: '43'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Get Over Here!
+  Description: Swap enemy troop into Acid Cloud
+  GS: '15'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 3%
+  Ratio: 6.3
+  TA: '94'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Cleave
+  Description: Kill three enemies with one sweeping attack
+  GS: '15'
+  Guide: false
+  Number of Gamers: 3
+  Percentage of Gamers: 2%
+  Ratio: 7.28
+  TA: '109'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Landlord Extraordinaire
+  Description: Max out a town in a non-campaign game (tier 5, walls, upgraded buildings
+    on all build sites)
+  GS: '15'
+  Guide: false
+  Number of Gamers: 14
+  Percentage of Gamers: 9%
+  Ratio: 3.37
+  TA: '50'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Trojan Horse
+  Description: Use a teleport spell to get on top of or behind the walls in a town
+    siege
+  GS: '15'
+  Guide: false
+  Number of Gamers: 10
+  Percentage of Gamers: 6%
+  Ratio: 3.98
+  TA: '59'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Ultra Kill
+  Description: Win four battles on the same turn with the same wielder
+  GS: '30'
+  Guide: false
+  Number of Gamers: 7
+  Percentage of Gamers: 4%
+  Ratio: 4.76
+  TA: '142'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Adept
+  Description: Reach level 8 with a wielder
+  GS: '15'
+  Guide: false
+  Number of Gamers: 150
+  Percentage of Gamers: 94%
+  Ratio: 1.02
+  TA: '15'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Level
+- Achievement Name: Veteran
+  Description: Reach level 16 with a wielder
+  GS: '15'
+  Guide: false
+  Number of Gamers: 69
+  Percentage of Gamers: 43%
+  Ratio: 1.51
+  TA: '22'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Level
+- Achievement Name: Master
+  Description: Reach level 24 with a wielder
+  GS: '15'
+  Guide: false
+  Number of Gamers: 21
+  Percentage of Gamers: 13%
+  Ratio: 2.75
+  TA: '41'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Level
+- Achievement Name: Grand Master
+  Description: Reach level 32 with a wielder
+  GS: '30'
+  Guide: false
+  Number of Gamers: 7
+  Percentage of Gamers: 4%
+  Ratio: 4.76
+  TA: '142'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Level
+- Achievement Name: Humiliation
+  Description: Win a battle before the enemy gets a turn
+  GS: '15'
+  Guide: false
+  Number of Gamers: 18
+  Percentage of Gamers: 11%
+  Ratio: 2.97
+  TA: '44'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Pyrrhic Victory
+  Description: Win a battle with only a single one unit left
+  GS: '15'
+  Guide: false
+  Number of Gamers: 11
+  Percentage of Gamers: 7%
+  Ratio: 3.8
+  TA: '57'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Expert Essence Employment
+  Description: Win a battle without making an attack
+  GS: '15'
+  Guide: false
+  Number of Gamers: 6
+  Percentage of Gamers: 4%
+  Ratio: 5.14
+  TA: '77'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Veni, Vidi, Vici
+  Description: Win a battle against a walled town
+  GS: '15'
+  Guide: false
+  Number of Gamers: 17
+  Percentage of Gamers: 11%
+  Ratio: 3.05
+  TA: '45'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Venisti, Vidisti, Perdidisti
+  Description: Defend a walled town in battle
+  GS: '15'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 3%
+  Ratio: 6.3
+  TA: '94'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Kneel, peasant!
+  Description: Win 25 times on non-campaign maps with Arleon
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 1%
+  Ratio: 12.6
+  TA: '252'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Contractually Obligated to Win
+  Description: Win 25 times on non-campaign maps with Barya
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 1%
+  Ratio: 12.6
+  TA: '252'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: I Like It A Loth
+  Description: Win 25 times on non-campaign maps with Loth
+  GS: '20'
+  Guide: false
+  Number of Gamers: 2
+  Percentage of Gamers: 1%
+  Ratio: 8.91
+  TA: '178'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Here be Dragons
+  Description: Win 25 times on non-campaign maps with Rana
+  GS: '20'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '20'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+Base Ratio: 6.216
+Base TA: 6216
+Delisted: false
+Developer: Lavapotion
+Game Name: Songs of Conquest
+Genres: Strategy, Turn Based
+Install Size: 2830.0
+Number of Completions: 0
+Number of Gamers: 159
+Overall Completion Time:
+- -1
+- -1
+Overall GS: 1000
+Overall Ratio: 6.216
+Overall TA: 6216
+PDU: 0
+Percentage Completed: 0.0
+Publisher: Coffee Stain Publishing
+Release Date: 12 November 2024
+Server Closure: false
+Site Rating: None
+Update Achievements: []
+Walkthrough: false

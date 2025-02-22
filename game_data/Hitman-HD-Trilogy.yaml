@@ -1,0 +1,641 @@
+Add On Achievements: []
+Base Completion Time:
+- 25.0
+- 30.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: 1st mission complete
+  Description: 'Silent Assassin: Complete the first mission on any level'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 12046
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Silent Assassin
+  Description: 'Silent Assassin: Get a Silent Assassin rating'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5722
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '18'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: 5 Normal Silent Assassins
+  Description: 'Silent Assassin: Get 5 Silent Assassin ratings on Normal difficulty'
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3057
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '38'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Stackable
+  - Cumulative +
+- Achievement Name: 5 Expert Silent Assassins
+  Description: 'Silent Assassin: Get 5 Silent Assassin ratings on Expert difficulty'
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2378
+  Percentage of Gamers: 12%
+  Ratio: 2.93
+  TA: '44'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+  - Cumulative +
+- Achievement Name: 5 Professional Silent Assassins
+  Description: 'Silent Assassin: Get 5 Silent Assassin ratings on Professional difficulty'
+  GS: '45'
+  Guide: true
+  Number of Gamers: 2258
+  Percentage of Gamers: 11%
+  Ratio: 3.01
+  TA: '135'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+  - Cumulative +
+- Achievement Name: Normal mode complete
+  Description: 'Silent Assassin: Complete normal difficulty'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3002
+  Percentage of Gamers: 15%
+  Ratio: 2.61
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Stackable
+  - Buggy
+- Achievement Name: Expert mode complete
+  Description: 'Silent Assassin: Complete Expert difficulty'
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1811
+  Percentage of Gamers: 9%
+  Ratio: 3.36
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+  - Buggy
+- Achievement Name: Professional mode complete
+  Description: 'Silent Assassin: Complete Professional difficulty'
+  GS: '45'
+  Guide: true
+  Number of Gamers: 1749
+  Percentage of Gamers: 9%
+  Ratio: 3.42
+  TA: '154'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+  - Buggy
+- Achievement Name: All firearms collected
+  Description: 'Silent Assassin: Collect all firearms and display them in the Hideout'
+  GS: '45'
+  Guide: true
+  Number of Gamers: 1891
+  Percentage of Gamers: 9%
+  Ratio: 3.29
+  TA: '148'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: All melee weapons collected
+  Description: 'Silent Assassin: Collect all melee weapons and display them in the
+    Hideout'
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2078
+  Percentage of Gamers: 10%
+  Ratio: 3.14
+  TA: '47'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: All hand guns collected
+  Description: 'Silent Assassin: Collect all hand guns and display them in the Hideout'
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2392
+  Percentage of Gamers: 12%
+  Ratio: 2.92
+  TA: '43'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: All heavy weapons collected
+  Description: 'Silent Assassin: Collect all heavy weapons and display them in the
+    Hideout'
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2578
+  Percentage of Gamers: 13%
+  Ratio: 2.82
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: All assault rifles collected
+  Description: 'Silent Assassin: Collect all assault rifles and display them in the
+    Hideout'
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2314
+  Percentage of Gamers: 11%
+  Ratio: 2.97
+  TA: '44'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: All shotguns collected
+  Description: 'Silent Assassin: Collect all shotguns and display them in the Hideout'
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2005
+  Percentage of Gamers: 10%
+  Ratio: 3.2
+  TA: '48'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: All sniper rifles collected
+  Description: 'Silent Assassin: Collect all sniper rifles and display them in the
+    Hideout'
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2047
+  Percentage of Gamers: 10%
+  Ratio: 3.16
+  TA: '47'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: 1st kill
+  Description: 'Silent Assassin: Perform a successful kill'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 16685
+  Percentage of Gamers: 81%
+  Ratio: 1.1
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: 47 kills in a mission
+  Description: 'Silent Assassin: Complete a mission with precisely 47 kills'
+  GS: '45'
+  Guide: true
+  Number of Gamers: 2012
+  Percentage of Gamers: 10%
+  Ratio: 3.19
+  TA: '143'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Headshot
+  Description: 'Silent Assassin: Perform a successful headshot'
+  GS: '15'
+  Guide: true
+  Number of Gamers: 14952
+  Percentage of Gamers: 73%
+  Ratio: 1.17
+  TA: '17'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Killed the wrong guy
+  Description: 'Silent Assassin: Kill an innocent person'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 15632
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '11'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Samurai Gaijin
+  Description: 'Silent Assassin: Obtain a katana from a ninja'
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3947
+  Percentage of Gamers: 19%
+  Ratio: 2.28
+  TA: '34'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Call the caddy
+  Description: 'Silent Assassin: Kill 18 people using the golf club'
+  GS: '45'
+  Guide: true
+  Number of Gamers: 2118
+  Percentage of Gamers: 10%
+  Ratio: 3.11
+  TA: '140'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Humanist
+  Description: 'Silent Assassin: Successfully use anesthetic'
+  GS: '20'
+  Guide: true
+  Number of Gamers: 10028
+  Percentage of Gamers: 49%
+  Ratio: 1.43
+  TA: '28'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Jack the Ripper
+  Description: 'Silent Assassin: Kill using all three knives: scalpel, kitchen and
+    combat knife'
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2080
+  Percentage of Gamers: 10%
+  Ratio: 3.14
+  TA: '62'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Redrum
+  Description: 'Silent Assassin: Kill using the fire axe'
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3184
+  Percentage of Gamers: 16%
+  Ratio: 2.53
+  TA: '50'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: 1st mission complete
+  Description: 'Contracts: Complete the first mission on any level'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 9283
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Silent Assassin
+  Description: 'Contracts: Get a Silent Assassin rating'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4644
+  Percentage of Gamers: 23%
+  Ratio: 2.1
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: 5 Normal Silent Assassins
+  Description: 'Contracts: Get 5 Silent Assassin ratings on Normal difficulty'
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2472
+  Percentage of Gamers: 12%
+  Ratio: 2.88
+  TA: '43'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Stackable
+  - Cumulative +
+- Achievement Name: 5 Expert Silent Assassins
+  Description: 'Contracts: Get 5 Silent Assassin ratings on Expert difficulty'
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1867
+  Percentage of Gamers: 9%
+  Ratio: 3.31
+  TA: '49'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+  - Cumulative +
+- Achievement Name: 5 Professional Silent Assassins
+  Description: 'Contracts: Get 5 Silent Assassin ratings on Professional difficulty'
+  GS: '45'
+  Guide: true
+  Number of Gamers: 1741
+  Percentage of Gamers: 8%
+  Ratio: 3.43
+  TA: '154'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+  - Cumulative +
+- Achievement Name: Normal mode complete
+  Description: 'Contracts: Complete Normal difficulty'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3241
+  Percentage of Gamers: 16%
+  Ratio: 2.51
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Stackable
+- Achievement Name: Expert Mode Complete
+  Description: 'Contracts: Complete Expert difficulty'
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1840
+  Percentage of Gamers: 9%
+  Ratio: 3.34
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Professional Mode Complete
+  Description: 'Contracts: Complete Professional difficulty'
+  GS: '45'
+  Guide: true
+  Number of Gamers: 1664
+  Percentage of Gamers: 8%
+  Ratio: 3.51
+  TA: '158'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: All firearms collected
+  Description: 'Contracts: Collect all firearms and display them in the training room'
+  GS: '45'
+  Guide: true
+  Number of Gamers: 1586
+  Percentage of Gamers: 8%
+  Ratio: 3.59
+  TA: '161'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: All melee weapons found
+  Description: 'Contracts: Find all melee weapons'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1602
+  Percentage of Gamers: 8%
+  Ratio: 3.58
+  TA: '35'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: All hand guns collected
+  Description: 'Contracts: Collect all hand guns and display them in the training
+    room'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1651
+  Percentage of Gamers: 8%
+  Ratio: 3.52
+  TA: '35'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: All heavy weapons collected
+  Description: 'Contracts: Collect all heavy weapons and display them in the training
+    room'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1723
+  Percentage of Gamers: 8%
+  Ratio: 3.45
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: All assault rifles collected
+  Description: 'Contracts: Collect all assault rifles and display them in the training
+    room'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1637
+  Percentage of Gamers: 8%
+  Ratio: 3.54
+  TA: '35'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: All shotguns collected
+  Description: 'Contracts: Collect all shotguns and display them in the training room'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1716
+  Percentage of Gamers: 8%
+  Ratio: 3.46
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: All sniper rifles collected
+  Description: 'Contracts: Collect all sniper rifles and display them in the Hideout'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1616
+  Percentage of Gamers: 8%
+  Ratio: 3.56
+  TA: '35'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: 1st Kill
+  Description: 'Contracts: Perform a successful kill'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 13605
+  Percentage of Gamers: 66%
+  Ratio: 1.22
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: 47 kills in a mission
+  Description: 'Contracts: Complete a mission with precisely 47 kills'
+  GS: '45'
+  Guide: true
+  Number of Gamers: 2031
+  Percentage of Gamers: 10%
+  Ratio: 3.18
+  TA: '143'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Headshot
+  Description: 'Contracts: Perform a successful headshot'
+  GS: '15'
+  Guide: true
+  Number of Gamers: 12367
+  Percentage of Gamers: 60%
+  Ratio: 1.28
+  TA: '19'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Killed the wrong guy
+  Description: 'Contracts: Kill an innocent person'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 11920
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '13'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Poisonous
+  Description: 'Contracts: Poison a victim'
+  GS: '15'
+  Guide: true
+  Number of Gamers: 4698
+  Percentage of Gamers: 23%
+  Ratio: 2.09
+  TA: '31'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Firey Fire
+  Description: 'Contracts: Use explosives on a victim'
+  GS: '15'
+  Guide: true
+  Number of Gamers: 4592
+  Percentage of Gamers: 22%
+  Ratio: 2.11
+  TA: '31'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Double Eagle
+  Description: 'Contracts: Get the Gold Desert Eagle Dual'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2007
+  Percentage of Gamers: 10%
+  Ratio: 3.2
+  TA: '32'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Minigun
+  Description: 'Contracts: Get the minigun'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2025
+  Percentage of Gamers: 10%
+  Ratio: 3.18
+  TA: '31'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Floater
+  Description: 'Contracts: Drown someone'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2237
+  Percentage of Gamers: 11%
+  Ratio: 3.03
+  TA: '30'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Termination
+  Description: 'Contracts: Get the SPAS-12 from the florist'
+  GS: '45'
+  Guide: true
+  Number of Gamers: 2744
+  Percentage of Gamers: 13%
+  Ratio: 2.73
+  TA: '123'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Ghost Buster
+  Description: 'Contracts: Kill the ghost'
+  GS: '45'
+  Guide: true
+  Number of Gamers: 2097
+  Percentage of Gamers: 10%
+  Ratio: 3.13
+  TA: '140'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 2.881
+Base TA: 2881
+Delisted: false
+Developer: IO Interactive
+Game Name: Hitman HD Pack
+Genres: Stealth, Collection
+Install Size: 3000.0
+Number of Completions: 1340
+Number of Gamers: 20538
+Overall Completion Time:
+- 25.0
+- 30.0
+Overall GS: 1000
+Overall Ratio: 2.881
+Overall TA: 2881
+PDU: 0
+Percentage Completed: 6.52
+Publisher: IO Interactive, Square Enix
+Release Date: 29 January 2013
+Server Closure: false
+Site Rating: 3.87
+Update Achievements: []
+Walkthrough: false

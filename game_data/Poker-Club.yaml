@@ -1,0 +1,582 @@
+Add On Achievements: []
+Base Completion Time:
+- 150.0
+- 200.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: "Blindman\u2019s Bluff"
+  Description: Win a hand without ever looking at your cards
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1446
+  Percentage of Gamers: 44%
+  Ratio: 1.51
+  TA: '7'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+- Achievement Name: Risk It For A Biscuit
+  Description: Go all-in and win a hand
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1950
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '6'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+- Achievement Name: Backdoor
+  Description: Hit your needed cards on the turn and the river to make your hand,
+    and go on to win
+  GS: '25'
+  Guide: false
+  Number of Gamers: 2410
+  Percentage of Gamers: 73%
+  Ratio: 1.17
+  TA: '29'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+- Achievement Name: Handy
+  Description: Win your first hand
+  GS: '50'
+  Guide: true
+  Number of Gamers: 2971
+  Percentage of Gamers: 89%
+  Ratio: 1.05
+  TA: '52'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+- Achievement Name: Deadly Assassin
+  Description: Win a pot when 3 or more people are all-in
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1778
+  Percentage of Gamers: 54%
+  Ratio: 1.36
+  TA: '20'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+- Achievement Name: Cold Caller
+  Description: Call two or more bets on your turn
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2826
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '10'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+- Achievement Name: Gutshot
+  Description: Complete an inside straight
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1726
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '13'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+- Achievement Name: A Bit On The Side
+  Description: Win a side pot
+  GS: '5'
+  Guide: false
+  Number of Gamers: 2316
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '5'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+- Achievement Name: Poker Joker
+  Description: Complete all targets in any Poker Tour event
+  GS: '5'
+  Guide: false
+  Number of Gamers: 1475
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '7'
+  Tags:
+  - Online Mode
+  - Single Player
+- Achievement Name: Dress To Impress
+  Description: Spend 20,000 chips on apparel
+  GS: '5'
+  Guide: false
+  Number of Gamers: 512
+  Percentage of Gamers: 15%
+  Ratio: 2.54
+  TA: '12'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cumulative +
+  - Shop
+- Achievement Name: How I Roll
+  Description: Win a career total of a million chips
+  GS: '25'
+  Guide: true
+  Number of Gamers: 461
+  Percentage of Gamers: 14%
+  Ratio: 2.68
+  TA: '67'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Give Your Regards To Broadway
+  Description: Hit a 10 through ace straight
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1082
+  Percentage of Gamers: 33%
+  Ratio: 1.75
+  TA: '35'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+- Achievement Name: Showoff
+  Description: Perform a chip trick
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1780
+  Percentage of Gamers: 54%
+  Ratio: 1.36
+  TA: '13'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+- Achievement Name: Quack Quack
+  Description: Have pocket twos in the hole
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1260
+  Percentage of Gamers: 38%
+  Ratio: 1.62
+  TA: '16'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+- Achievement Name: Never Give Up
+  Description: Rebuy into a game
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1509
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '14'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+- Achievement Name: Bring It On
+  Description: Create a public custom tournament
+  GS: '5'
+  Guide: true
+  Number of Gamers: 355
+  Percentage of Gamers: 11%
+  Ratio: 3.05
+  TA: '15'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Check Yourself
+  Description: Check 100 times
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1083
+  Percentage of Gamers: 33%
+  Ratio: 1.75
+  TA: '17'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Before You Wreck Yourself
+  Description: Fold 100 hands
+  GS: '10'
+  Guide: false
+  Number of Gamers: 866
+  Percentage of Gamers: 26%
+  Ratio: 1.95
+  TA: '19'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Keep Your Heads Up
+  Description: Go head-to-head with any opponent 100 times
+  GS: '50'
+  Guide: false
+  Number of Gamers: 674
+  Percentage of Gamers: 20%
+  Ratio: 2.21
+  TA: '110'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Three Way
+  Description: Win with three of a kind
+  GS: '5'
+  Guide: false
+  Number of Gamers: 2092
+  Percentage of Gamers: 63%
+  Ratio: 1.25
+  TA: '6'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+- Achievement Name: Go For It
+  Description: Raise 100 times
+  GS: '10'
+  Guide: false
+  Number of Gamers: 537
+  Percentage of Gamers: 16%
+  Ratio: 2.48
+  TA: '24'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Rank Amateur
+  Description: Reach level 5
+  GS: '5'
+  Guide: false
+  Number of Gamers: 2395
+  Percentage of Gamers: 72%
+  Ratio: 1.17
+  TA: '5'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+  - Level
+- Achievement Name: In The Gang
+  Description: Join or create a Poker Club
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1280
+  Percentage of Gamers: 39%
+  Ratio: 1.61
+  TA: '8'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Community
+- Achievement Name: Holding Your Own
+  Description: Reach level 20
+  GS: '20'
+  Guide: false
+  Number of Gamers: 734
+  Percentage of Gamers: 22%
+  Ratio: 2.12
+  TA: '42'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+  - Level
+- Achievement Name: Bluffing Eh?
+  Description: Muck one or both cards face up
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1179
+  Percentage of Gamers: 36%
+  Ratio: 1.67
+  TA: '8'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+- Achievement Name: Pro Creation
+  Description: Create a poker pro
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3261
+  Percentage of Gamers: 98%
+  Ratio: 1.0
+  TA: '20'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+- Achievement Name: Rock 'n' High Roller
+  Description: Win a career total of ten million chips
+  GS: '50'
+  Guide: false
+  Number of Gamers: 259
+  Percentage of Gamers: 8%
+  Ratio: 3.57
+  TA: '178'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Rounder
+  Description: Reach level 50
+  GS: '50'
+  Guide: false
+  Number of Gamers: 206
+  Percentage of Gamers: 6%
+  Ratio: 4.01
+  TA: '200'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+  - Level
+- Achievement Name: Bet Bet Bet
+  Description: Make a 3-bet and win
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1593
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '7'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+- Achievement Name: Philanthropic
+  Description: Contribute 50 million chips to a club
+  GS: '50'
+  Guide: false
+  Number of Gamers: 137
+  Percentage of Gamers: 4%
+  Ratio: 4.92
+  TA: '246'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Community
+  - Cumulative +
+- Achievement Name: Dog Eat Dog
+  Description: Win a tournament
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1626
+  Percentage of Gamers: 49%
+  Ratio: 1.42
+  TA: '14'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+- Achievement Name: Top Dog
+  Description: Win 15 tournaments
+  GS: '15'
+  Guide: true
+  Number of Gamers: 258
+  Percentage of Gamers: 8%
+  Ratio: 3.58
+  TA: '53'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Total Knock Out
+  Description: Knock out 5 players in a cash game
+  GS: '20'
+  Guide: true
+  Number of Gamers: 992
+  Percentage of Gamers: 30%
+  Ratio: 1.82
+  TA: '36'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+- Achievement Name: The Bigger They Are
+  Description: Beat a star player
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1395
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '30'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+- Achievement Name: Choke A Dozen Donkeys
+  Description: Win a career total of 100 million chips
+  GS: '25'
+  Guide: true
+  Number of Gamers: 157
+  Percentage of Gamers: 5%
+  Ratio: 4.59
+  TA: '114'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Poker Showdown
+  Description: Win the PCC Showdown Finale
+  GS: '100'
+  Guide: true
+  Number of Gamers: 60
+  Percentage of Gamers: 2%
+  Ratio: 7.43
+  TA: '743'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+- Achievement Name: Pro Player
+  Description: Reach level 100
+  GS: '100'
+  Guide: true
+  Number of Gamers: 68
+  Percentage of Gamers: 2%
+  Ratio: 6.98
+  TA: '698'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+  - Level
+- Achievement Name: Club Legend
+  Description: Own or be a member of a level 25 club
+  GS: '50'
+  Guide: true
+  Number of Gamers: 589
+  Percentage of Gamers: 18%
+  Ratio: 2.37
+  TA: '118'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+  - Level
+- Achievement Name: Poker Ace
+  Description: Complete all targets in Poker Tour
+  GS: '50'
+  Guide: true
+  Number of Gamers: 20
+  Percentage of Gamers: 1%
+  Ratio: 12.88
+  TA: '644'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Community
+- Achievement Name: W.H.I.P.
+  Description: Get dealt a 7-2
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1653
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '14'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+- Achievement Name: Clubman
+  Description: Play in a club tournament wearing club clobber
+  GS: '10'
+  Guide: true
+  Number of Gamers: 180
+  Percentage of Gamers: 5%
+  Ratio: 4.29
+  TA: '42'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Moneymaker
+  Description: Win a hand with 5 and 4 offsuit as your hole cards
+  GS: '10'
+  Guide: true
+  Number of Gamers: 831
+  Percentage of Gamers: 25%
+  Ratio: 1.99
+  TA: '19'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+- Achievement Name: Bounty Hunter
+  Description: Collect 50 bounties
+  GS: '50'
+  Guide: true
+  Number of Gamers: 73
+  Percentage of Gamers: 2%
+  Ratio: 6.74
+  TA: '337'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Regular Punter
+  Description: Collect your Daily Bonus 7 times
+  GS: '10'
+  Guide: true
+  Number of Gamers: 547
+  Percentage of Gamers: 16%
+  Ratio: 2.46
+  TA: '24'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+  - Time/Date
+- Achievement Name: On The Button
+  Description: Win a hand in Win The Button
+  GS: '10'
+  Guide: false
+  Number of Gamers: 754
+  Percentage of Gamers: 23%
+  Ratio: 2.09
+  TA: '20'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+Base Ratio: 4.117
+Base TA: 4117
+Delisted: false
+Developer: Ripstone
+Game Name: Poker Club
+Genres: Card & Board, Casino
+Install Size: 7200.0
+Number of Completions: 15
+Number of Gamers: 3321
+Overall Completion Time:
+- 150.0
+- 200.0
+Overall GS: 1000
+Overall Ratio: 4.117
+Overall TA: 4117
+PDU: 0
+Percentage Completed: 0.45
+Publisher: Ripstone
+Release Date: 19 November 2020
+Server Closure: false
+Site Rating: 3.4
+Update Achievements: []
+Walkthrough: false

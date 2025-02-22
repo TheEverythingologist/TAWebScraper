@@ -1,0 +1,586 @@
+Add On Achievements: []
+Base Completion Time:
+- 25.0
+- 30.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Scout Sniper Basic Course
+  Description: Complete Prologue
+  GS: '15'
+  Guide: true
+  Number of Gamers: 27368
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Ghost Hunt
+  Description: Complete First Act
+  GS: '15'
+  Guide: true
+  Number of Gamers: 13759
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Enemy of my Enemy
+  Description: Complete Second Act
+  GS: '15'
+  Guide: false
+  Number of Gamers: 10661
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: The Castling
+  Description: Complete Third Act
+  GS: '15'
+  Guide: false
+  Number of Gamers: 8857
+  Percentage of Gamers: 31%
+  Ratio: 1.8
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Endgame
+  Description: Complete Fourth Act
+  GS: '65'
+  Guide: false
+  Number of Gamers: 7754
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '125'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
+- Achievement Name: Bounty Hunter
+  Description: Neutralize 25% the Most Wanted list in one playthrough
+  GS: '30'
+  Guide: false
+  Number of Gamers: 13479
+  Percentage of Gamers: 47%
+  Ratio: 1.46
+  TA: '43'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Deputy
+  Description: Neutralize 50% targets from the Most Wanted list in one playthrough
+  GS: '30'
+  Guide: false
+  Number of Gamers: 9234
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '52'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Sheriff
+  Description: Neutralize 75% targets from the Most Wanted list in one playthrough
+  GS: '30'
+  Guide: false
+  Number of Gamers: 7057
+  Percentage of Gamers: 25%
+  Ratio: 2.01
+  TA: '60'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Marshall
+  Description: Neutralize 100% from the Most Wanted list in one playthrough
+  GS: '90'
+  Guide: true
+  Number of Gamers: 5798
+  Percentage of Gamers: 20%
+  Ratio: 2.22
+  TA: '200'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: 'Local Hero: Dam'
+  Description: Complete all Side-Ops on Dam in one playthrough
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4556
+  Percentage of Gamers: 16%
+  Ratio: 2.51
+  TA: '75'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: 'Local Hero: Mining Town'
+  Description: Complete all Side-Ops on Mining Town in one playthrough
+  GS: '30'
+  Guide: true
+  Number of Gamers: 5388
+  Percentage of Gamers: 19%
+  Ratio: 2.31
+  TA: '69'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Buggy
+- Achievement Name: 'Local Hero: Village'
+  Description: Complete all Side-Ops on Village in one playthrough
+  GS: '30'
+  Guide: true
+  Number of Gamers: 5398
+  Percentage of Gamers: 19%
+  Ratio: 2.3
+  TA: '69'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Sharpshooter
+  Description: Own all Primary Weapons
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3282
+  Percentage of Gamers: 11%
+  Ratio: 2.96
+  TA: '44'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Trooper
+  Description: Own all Secondary Weapons
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3303
+  Percentage of Gamers: 11%
+  Ratio: 2.95
+  TA: '44'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Buggy
+- Achievement Name: Gunslinger
+  Description: Own all Sidearms
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3537
+  Percentage of Gamers: 12%
+  Ratio: 2.85
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Buggy
+- Achievement Name: Manual Labor
+  Description: Use Crafting for the first time
+  GS: '15'
+  Guide: true
+  Number of Gamers: 22254
+  Percentage of Gamers: 77%
+  Ratio: 1.13
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: DIY Enthusiast
+  Description: Craft item from each category at least once
+  GS: '15'
+  Guide: true
+  Number of Gamers: 13090
+  Percentage of Gamers: 46%
+  Ratio: 1.48
+  TA: '22'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Treasure Hunter
+  Description: Find 25% Collectibles in one playthrough
+  GS: '15'
+  Guide: false
+  Number of Gamers: 8465
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Archeologist
+  Description: Find 50% Collectibles in one playthrough
+  GS: '30'
+  Guide: false
+  Number of Gamers: 5125
+  Percentage of Gamers: 18%
+  Ratio: 2.36
+  TA: '71'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: No Stone Left Unturned
+  Description: Find all Collectibles in one playthrough
+  GS: '65'
+  Guide: true
+  Number of Gamers: 3392
+  Percentage of Gamers: 12%
+  Ratio: 2.91
+  TA: '189'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Hiker
+  Description: Complete 5 Point of Interest in one playthrough
+  GS: '15'
+  Guide: true
+  Number of Gamers: 22763
+  Percentage of Gamers: 79%
+  Ratio: 1.12
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Trouble Seeker
+  Description: Complete 10 Point of Interest in one playthrough
+  GS: '15'
+  Guide: false
+  Number of Gamers: 17559
+  Percentage of Gamers: 61%
+  Ratio: 1.27
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Cat Killer
+  Description: Complete 20 Point of Interest in one playthrough
+  GS: '30'
+  Guide: false
+  Number of Gamers: 12957
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '44'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Survivalist
+  Description: Hunt and collect 150 Organic Samples in one playthrough
+  GS: '15'
+  Guide: true
+  Number of Gamers: 5681
+  Percentage of Gamers: 20%
+  Ratio: 2.25
+  TA: '33'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: You Can Run But You Can't Hide
+  Description: Kill an Enemy with a Sniper Rifle shooting through a wall
+  GS: '15'
+  Guide: true
+  Number of Gamers: 11618
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The White Death
+  Description: Kill 20 Enemy Snipers in one playthrough
+  GS: '15'
+  Guide: false
+  Number of Gamers: 9433
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Curiosity Killed the Cat
+  Description: Distract 30 Enemies with Luring Bullet in one playthrough
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3325
+  Percentage of Gamers: 12%
+  Ratio: 2.94
+  TA: '44'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Mark the Prey
+  Description: Tag 30 Enemies with Tagging Bullets in one playthrough
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3502
+  Percentage of Gamers: 12%
+  Ratio: 2.86
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Assassin
+  Description: Do 25 Stealth kills in one playthrough
+  GS: '15'
+  Guide: true
+  Number of Gamers: 7964
+  Percentage of Gamers: 28%
+  Ratio: 1.9
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Third Degree
+  Description: Do 15 Interrogations in one playthrough
+  GS: '15'
+  Guide: true
+  Number of Gamers: 6565
+  Percentage of Gamers: 23%
+  Ratio: 2.09
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Drone Warfare
+  Description: Unlock all Drone modules
+  GS: '15'
+  Guide: true
+  Number of Gamers: 4299
+  Percentage of Gamers: 15%
+  Ratio: 2.58
+  TA: '38'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Voyeur
+  Description: Tag 10 Enemies with the CCTV in one playthrough
+  GS: '15'
+  Guide: true
+  Number of Gamers: 7435
+  Percentage of Gamers: 26%
+  Ratio: 1.96
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Bullet Sponge
+  Description: Survive 500 hits in one playthrough
+  GS: '15'
+  Guide: false
+  Number of Gamers: 10857
+  Percentage of Gamers: 38%
+  Ratio: 1.62
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Death From Above
+  Description: Kill 20 Enemies from above in one playthrough
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2578
+  Percentage of Gamers: 9%
+  Ratio: 3.34
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Death From Below
+  Description: Kill 5 Enemies from below in one playthrough
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2475
+  Percentage of Gamers: 9%
+  Ratio: 3.41
+  TA: '51'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Turn On the Wipers
+  Description: Kill 25 Enemies while driving in one playthrough
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3127
+  Percentage of Gamers: 11%
+  Ratio: 3.03
+  TA: '45'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Marksman
+  Description: Do a headshot from 500 meters using scope 10x
+  GS: '15'
+  Guide: true
+  Number of Gamers: 4310
+  Percentage of Gamers: 15%
+  Ratio: 2.58
+  TA: '38'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Aerial Recon
+  Description: Fly 5 km with your Drone in one playthrough
+  GS: '15'
+  Guide: true
+  Number of Gamers: 17505
+  Percentage of Gamers: 61%
+  Ratio: 1.28
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Crab Walk
+  Description: Move 1 km while crouched in one playthrough
+  GS: '15'
+  Guide: true
+  Number of Gamers: 19863
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Pheidippides
+  Description: Run 10 km in one playthrough
+  GS: '15'
+  Guide: false
+  Number of Gamers: 15558
+  Percentage of Gamers: 54%
+  Ratio: 1.35
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Environmentally Unfriendly
+  Description: Drive 100 km in one playthrough
+  GS: '15'
+  Guide: true
+  Number of Gamers: 4490
+  Percentage of Gamers: 16%
+  Ratio: 2.53
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Long Shot
+  Description: Kill an Enemy from a 500 meters distance.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 9204
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '26'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Triple Kill
+  Description: Kill 3 Enemies with 1 bullet
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3164
+  Percentage of Gamers: 11%
+  Ratio: 3.01
+  TA: '45'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Point Blank
+  Description: Do a short distance Sniper Rifle kill
+  GS: '15'
+  Guide: true
+  Number of Gamers: 6836
+  Percentage of Gamers: 24%
+  Ratio: 2.05
+  TA: '30'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Shot Down
+  Description: Drone destroyed by Enemies
+  GS: '15'
+  Guide: true
+  Number of Gamers: 19173
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '18'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Blown Up
+  Description: Drone destroyed by Traps
+  GS: '15'
+  Guide: true
+  Number of Gamers: 5466
+  Percentage of Gamers: 19%
+  Ratio: 2.29
+  TA: '34'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Treasure Island
+  Description: Open the Loot Box on the Island
+  GS: '15'
+  Guide: true
+  Number of Gamers: 7421
+  Percentage of Gamers: 26%
+  Ratio: 1.96
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+Base Ratio: 2.093
+Base TA: 2093
+Delisted: false
+Developer: Underdog Studio
+Game Name: 'Sniper: Ghost Warrior 3'
+Genres: First Person Shooter, Stealth, Open World
+Install Size: 40300.0
+Number of Completions: 1880
+Number of Gamers: 28767
+Overall Completion Time:
+- 25.0
+- 30.0
+Overall GS: 1000
+Overall Ratio: 2.093
+Overall TA: 2093
+PDU: 0
+Percentage Completed: 6.54
+Publisher: CI Games
+Release Date: 25 April 2017
+Server Closure: false
+Site Rating: 3.37
+Update Achievements: []
+Walkthrough: false

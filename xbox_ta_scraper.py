@@ -30,7 +30,12 @@ def check_game_for_scan_need(game_box_object: GameBox):
     else:
         with open(game_file, 'r') as file:
             game_yaml_data = yaml.load(file, Loader=yaml.FullLoader)
-        previous_ta = game_yaml_data['Overall TA']
+        try:    
+            previous_ta = game_yaml_data['Overall TA']
+        except TypeError:
+            print(f"\nError with {game_file} \n Removing the file and rescanning.")
+            os.remove(game_file)
+            return True
         new_ta = float(game_box_object.ta_score)
         if abs((new_ta - previous_ta) / previous_ta) >= .025:
             # If ta score changed by +/- 2.5 percent, rescan
@@ -135,8 +140,10 @@ def main():
                 game = Game(_url = game_box_obj.game_url, _tag_dict = tag_dict)
                 if game.unreleased == False:
                     game_data_path = f"game_data/{game_box_obj.game_name_url}.yaml"
-                    game.output_to_yaml(path=game_data_path)
-
+                    try:
+                        game.output_to_yaml(path=game_data_path)
+                    except AttributeError:
+                        print(f"Troublesome game: {game_box_obj.game_url}")
         # Sort the dataframes
         # df_overall = df_overall.sort_values(by=['Name'], ascending=True)
         # df_overall = df_overall.reset_index(drop=True)

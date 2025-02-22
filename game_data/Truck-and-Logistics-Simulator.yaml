@@ -1,0 +1,474 @@
+Add On Achievements: []
+Base Completion Time:
+- 20.0
+- 25.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Try Before Buy
+  Description: Test drive a vehicle
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1609
+  Percentage of Gamers: 39%
+  Ratio: 1.6
+  TA: '32'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Make it Mine
+  Description: Customise a vehicle
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3687
+  Percentage of Gamers: 89%
+  Ratio: 1.05
+  TA: '21'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Shop
+- Achievement Name: Ready for Convoys
+  Description: Purchase convoy equipment for a vehicle
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2758
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '24'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Shop
+- Achievement Name: Like new
+  Description: Repair a vehicle
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2966
+  Percentage of Gamers: 72%
+  Ratio: 1.18
+  TA: '23'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Shop
+- Achievement Name: A little hand please
+  Description: Recover a vehicle
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3359
+  Percentage of Gamers: 81%
+  Ratio: 1.1
+  TA: '22'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Shop
+- Achievement Name: Gas Guzzler
+  Description: Ran out of fuel
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1006
+  Percentage of Gamers: 24%
+  Ratio: 2.02
+  TA: '40'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: King of the road
+  Description: Drive a Truck / Rigid Truck
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1976
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '28'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Gotta be on Time
+  Description: Reach speed of over 160km/h in a Truck
+  GS: '25'
+  Guide: true
+  Number of Gamers: 626
+  Percentage of Gamers: 15%
+  Ratio: 2.57
+  TA: '64'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Speed Demon
+  Description: Reach speed over 220km/h
+  GS: '30'
+  Guide: true
+  Number of Gamers: 520
+  Percentage of Gamers: 13%
+  Ratio: 2.82
+  TA: '84'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Lightspeed
+  Description: Reach speed over 280km/h
+  GS: '35'
+  Guide: true
+  Number of Gamers: 362
+  Percentage of Gamers: 9%
+  Ratio: 3.38
+  TA: '118'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Enjoying the view
+  Description: Reach the highest point of the map
+  GS: '20'
+  Guide: false
+  Number of Gamers: 463
+  Percentage of Gamers: 11%
+  Ratio: 2.98
+  TA: '59'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Property Damage
+  Description: Break 100 street lights in the environment
+  GS: '25'
+  Guide: false
+  Number of Gamers: 320
+  Percentage of Gamers: 8%
+  Ratio: 3.59
+  TA: '89'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Vacation Time
+  Description: Jumped to the cruise ship
+  GS: '30'
+  Guide: true
+  Number of Gamers: 240
+  Percentage of Gamers: 6%
+  Ratio: 4.14
+  TA: '124'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Getting Started
+  Description: Earned 50,000 in missions
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2277
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '26'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Business is booming
+  Description: Earned 250,000 in missions
+  GS: '25'
+  Guide: true
+  Number of Gamers: 911
+  Percentage of Gamers: 22%
+  Ratio: 2.13
+  TA: '53'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Best in the Business
+  Description: Earned 1 million in missions
+  GS: '30'
+  Guide: true
+  Number of Gamers: 249
+  Percentage of Gamers: 6%
+  Ratio: 4.07
+  TA: '122'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Millionaire
+  Description: Have 1 million in the bank account
+  GS: '35'
+  Guide: true
+  Number of Gamers: 152
+  Percentage of Gamers: 4%
+  Ratio: 5.2
+  TA: '182'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative
+- Achievement Name: Getting familiar
+  Description: Travelled 25km in missions
+  GS: '15'
+  Guide: false
+  Number of Gamers: 3126
+  Percentage of Gamers: 75%
+  Ratio: 1.14
+  TA: '17'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Knowing your way around
+  Description: Travelled 100km in missions
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1889
+  Percentage of Gamers: 46%
+  Ratio: 1.48
+  TA: '29'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: "Don\u2019t need GPS anymore"
+  Description: Travelled 500km in missions
+  GS: '25'
+  Guide: false
+  Number of Gamers: 378
+  Percentage of Gamers: 9%
+  Ratio: 3.32
+  TA: '83'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Slow and Steady
+  Description: Load cargo using a Forklift
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1675
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '47'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Precision is key
+  Description: Load cargo using a Skid steer loader
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1402
+  Percentage of Gamers: 34%
+  Ratio: 1.71
+  TA: '51'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: One bucket at a time
+  Description: Load cargo using a Wheel loader
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1324
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '53'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Not too high
+  Description: Load cargo using a Telescopic Handler
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1683
+  Percentage of Gamers: 41%
+  Ratio: 1.56
+  TA: '47'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: One by one
+  Description: Drive a car onto a Car Transporter Trailer
+  GS: '30'
+  Guide: false
+  Number of Gamers: 1736
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '46'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Clean drive
+  Description: Completed a mission with 0% damage
+  GS: '40'
+  Guide: false
+  Number of Gamers: 3902
+  Percentage of Gamers: 94%
+  Ratio: 1.02
+  TA: '41'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Just a scratch
+  Description: Completed a mission with damage between 50% - 100%
+  GS: '25'
+  Guide: true
+  Number of Gamers: 1149
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '47'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Complete waste
+  Description: Completed a mission with 100% damage
+  GS: '15'
+  Guide: true
+  Number of Gamers: 747
+  Percentage of Gamers: 18%
+  Ratio: 2.35
+  TA: '35'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Endurance driver
+  Description: Completed a mission that's longer than 9km
+  GS: '20'
+  Guide: false
+  Number of Gamers: 2710
+  Percentage of Gamers: 65%
+  Ratio: 1.23
+  TA: '24'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Follow me
+  Description: Start a convoy escort mission
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1356
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '34'
+  Tags:
+  - Online Mode
+  - Cooperative
+- Achievement Name: Convoy driver
+  Description: Join a mission invite in multiplayer
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1590
+  Percentage of Gamers: 38%
+  Ratio: 1.61
+  TA: '32'
+  Tags:
+  - Online Mode
+  - Cooperative
+- Achievement Name: Heavy Duty
+  Description: Deliver cargo that's heavier than 20 tonnes
+  GS: '30'
+  Guide: false
+  Number of Gamers: 1095
+  Percentage of Gamers: 26%
+  Ratio: 1.94
+  TA: '58'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Just let me drive
+  Description: Skipped Loading in a mission
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1323
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '35'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: What could this be?
+  Description: Collect 1 golden pallet
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1871
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '44'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Treasure Hunt Continues
+  Description: Collect 25 golden pallets
+  GS: '55'
+  Guide: true
+  Number of Gamers: 344
+  Percentage of Gamers: 8%
+  Ratio: 3.46
+  TA: '190'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Treasure Hunter
+  Description: Collect all golden pallets
+  GS: '100'
+  Guide: true
+  Number of Gamers: 281
+  Percentage of Gamers: 7%
+  Ratio: 3.83
+  TA: '383'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+Base Ratio: 2.407
+Base TA: 2407
+Delisted: false
+Developer: Simula Games
+Game Name: Truck and Logistics Simulator
+Genres: Simulation
+Install Size: 2180.0
+Number of Completions: 116
+Number of Gamers: 4141
+Overall Completion Time:
+- 20.0
+- 25.0
+Overall GS: 1000
+Overall Ratio: 2.407
+Overall TA: 2407
+PDU: 0
+Percentage Completed: 2.8
+Publisher: AeroSoft
+Release Date: 30 November 2023
+Server Closure: false
+Site Rating: 3.82
+Update Achievements: []
+Walkthrough: false

@@ -1,0 +1,280 @@
+Add On Achievements: []
+Base Completion Time:
+- 1.0
+- 2.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Welcome!
+  Description: Play your first game
+  GS: '50'
+  Guide: false
+  Number of Gamers: 989
+  Percentage of Gamers: 100%
+  Ratio: 1.0
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Still here
+  Description: Play 10 games
+  GS: '50'
+  Guide: false
+  Number of Gamers: 915
+  Percentage of Gamers: 92%
+  Ratio: 1.03
+  TA: '51'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Try Harder
+  Description: Play 20 games
+  GS: '50'
+  Guide: false
+  Number of Gamers: 886
+  Percentage of Gamers: 89%
+  Ratio: 1.05
+  TA: '52'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: First blood
+  Description: Defeat your first enemy
+  GS: '50'
+  Guide: true
+  Number of Gamers: 980
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Butcher
+  Description: Defeat 1000 enemies
+  GS: '50'
+  Guide: true
+  Number of Gamers: 917
+  Percentage of Gamers: 92%
+  Ratio: 1.03
+  TA: '51'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Slaughterer
+  Description: Defeat 2000 enemies
+  GS: '50'
+  Guide: false
+  Number of Gamers: 903
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '52'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Serial killer
+  Description: Defeat 5000 enemies
+  GS: '50'
+  Guide: false
+  Number of Gamers: 904
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '52'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Fire!
+  Description: Cast 1000 spells
+  GS: '50'
+  Guide: false
+  Number of Gamers: 944
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '51'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Fire, fire!
+  Description: Cast 2000 spells
+  GS: '50'
+  Guide: false
+  Number of Gamers: 931
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '51'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Fiiiiiiiiire!
+  Description: Cast 5000 spells
+  GS: '50'
+  Guide: false
+  Number of Gamers: 909
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '52'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Outch !
+  Description: Lose 50 health points
+  GS: '50'
+  Guide: false
+  Number of Gamers: 915
+  Percentage of Gamers: 92%
+  Ratio: 1.03
+  TA: '51'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Poof!
+  Description: Dash 100 times
+  GS: '50'
+  Guide: false
+  Number of Gamers: 888
+  Percentage of Gamers: 89%
+  Ratio: 1.05
+  TA: '52'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: I'm blue...
+  Description: Swap 100 times
+  GS: '50'
+  Guide: false
+  Number of Gamers: 928
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '51'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Destroyer
+  Description: Get a damage number of 200 in one game
+  GS: '50'
+  Guide: false
+  Number of Gamers: 875
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '53'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: I am speed
+  Description: Get a move speed number of 40 in one game
+  GS: '50'
+  Guide: true
+  Number of Gamers: 814
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '55'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Don't blink
+  Description: Get a dash cooldown of 1 in one game
+  GS: '50'
+  Guide: true
+  Number of Gamers: 755
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '57'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Surprise attack
+  Description: Get a spell speed number of 100 in one game
+  GS: '50'
+  Guide: true
+  Number of Gamers: 818
+  Percentage of Gamers: 82%
+  Ratio: 1.09
+  TA: '54'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Minigun
+  Description: Get a spell cooldown number of 015 in one game
+  GS: '50'
+  Guide: false
+  Number of Gamers: 973
+  Percentage of Gamers: 98%
+  Ratio: 1.0
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Ranger
+  Description: Get a range number of 100 in one game
+  GS: '50'
+  Guide: false
+  Number of Gamers: 936
+  Percentage of Gamers: 94%
+  Ratio: 1.02
+  TA: '51'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Shotgun
+  Description: Get a spell number of 10 in one game
+  GS: '50'
+  Guide: false
+  Number of Gamers: 834
+  Percentage of Gamers: 84%
+  Ratio: 1.08
+  TA: '54'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+Base Ratio: 1.04
+Base TA: 1040
+Delisted: false
+Developer: Sweet Dreams Studio
+Game Name: Spirit Arena
+Genres: Roguelite, Shoot 'em up
+Install Size: 551.0
+Number of Completions: 736
+Number of Gamers: 993
+Overall Completion Time:
+- 1.0
+- 2.0
+Overall GS: 1000
+Overall Ratio: 1.04
+Overall TA: 1040
+PDU: 0
+Percentage Completed: 74.12
+Publisher: JanduSoft
+Release Date: 24 December 2020
+Server Closure: false
+Site Rating: 2.5
+Update Achievements: []
+Walkthrough: false

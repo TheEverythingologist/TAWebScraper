@@ -1,0 +1,635 @@
+Add On Achievements: []
+Base Completion Time:
+- 50.0
+- 60.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Sniper
+  Description: Kill 50 enemies only with bow
+  GS: '25'
+  Guide: true
+  Number of Gamers: 4650
+  Percentage of Gamers: 17%
+  Ratio: 2.39
+  TA: '59'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Swordsman
+  Description: Kill 60 enemies only with sword
+  GS: '25'
+  Guide: true
+  Number of Gamers: 10926
+  Percentage of Gamers: 41%
+  Ratio: 1.56
+  TA: '39'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Cyclops Hunter
+  Description: Kill 4 cyclops during your adventure
+  GS: '25'
+  Guide: true
+  Number of Gamers: 5650
+  Percentage of Gamers: 21%
+  Ratio: 2.17
+  TA: '54'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Arena Master
+  Description: Defeat all enemies in Rubby's Arena
+  GS: '20'
+  Guide: true
+  Number of Gamers: 7510
+  Percentage of Gamers: 28%
+  Ratio: 1.88
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Shadow Soldier
+  Description: Kill 20 enemies with Backstab strikes
+  GS: '25'
+  Guide: true
+  Number of Gamers: 2998
+  Percentage of Gamers: 11%
+  Ratio: 2.98
+  TA: '74'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Warlock
+  Description: Kill 50 enemies with magic
+  GS: '25'
+  Guide: true
+  Number of Gamers: 4060
+  Percentage of Gamers: 15%
+  Ratio: 2.56
+  TA: '64'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Thanocide
+  Description: Kill 50 enemies amongst spiders, undeads or ghouls
+  GS: '25'
+  Guide: true
+  Number of Gamers: 9257
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Archeologist
+  Description: Recover 60% of relics
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4781
+  Percentage of Gamers: 18%
+  Ratio: 2.36
+  TA: '70'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Missable
+- Achievement Name: Adventurer
+  Description: Recover 30% of relics
+  GS: '15'
+  Guide: false
+  Number of Gamers: 8778
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Missable
+- Achievement Name: Crusade Knight
+  Description: Recover all relics
+  GS: '40'
+  Guide: true
+  Number of Gamers: 1278
+  Percentage of Gamers: 5%
+  Ratio: 4.57
+  TA: '183'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Missable
+- Achievement Name: Code of Honor
+  Description: Defeat Aratrok loyally without magic
+  GS: '15'
+  Guide: true
+  Number of Gamers: 8299
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Demoniac
+  Description: Kill 10 enemies in the form of a demoniac
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5906
+  Percentage of Gamers: 22%
+  Ratio: 2.12
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Cumulative +
+- Achievement Name: Difficult Mode
+  Description: Complete the game in difficult mode
+  GS: '40'
+  Guide: false
+  Number of Gamers: 1368
+  Percentage of Gamers: 5%
+  Ratio: 4.42
+  TA: '176'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+- Achievement Name: Dead Rescuer
+  Description: Save Ishtvan in the Necropolis
+  GS: '20'
+  Guide: true
+  Number of Gamers: 5303
+  Percentage of Gamers: 20%
+  Ratio: 2.24
+  TA: '44'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Princess Rescuer
+  Description: Save Leanna in the giant spider's den
+  GS: '15'
+  Guide: true
+  Number of Gamers: 5934
+  Percentage of Gamers: 22%
+  Ratio: 2.12
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "PaoKa\xEF 9"
+  Description: "Kill PaoKa\xEF near the Necropolis"
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5713
+  Percentage of Gamers: 21%
+  Ratio: 2.16
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Learner
+  Description: Complete the tutorial
+  GS: '5'
+  Guide: true
+  Number of Gamers: 26447
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: The Skull of Shadows
+  Description: Recover the Skull of Shadows in the temple of the Spider Goddess
+  GS: '5'
+  Guide: true
+  Number of Gamers: 7945
+  Percentage of Gamers: 30%
+  Ratio: 1.83
+  TA: '9'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Mission Accomplished
+  Description: Complete the game
+  GS: '20'
+  Guide: false
+  Number of Gamers: 6000
+  Percentage of Gamers: 22%
+  Ratio: 2.11
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
+  - Stackable
+- Achievement Name: Free the boat
+  Description: Take over the boat in the hands of necromancers
+  GS: '5'
+  Guide: true
+  Number of Gamers: 13460
+  Percentage of Gamers: 50%
+  Ratio: 1.4
+  TA: '7'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Find the gems
+  Description: Find the gems in the temple of the Spider Goddess
+  GS: '5'
+  Guide: true
+  Number of Gamers: 8021
+  Percentage of Gamers: 30%
+  Ratio: 1.82
+  TA: '9'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Collectable
+- Achievement Name: Reach the Necropolis
+  Description: Reach the Necropolis
+  GS: '5'
+  Guide: true
+  Number of Gamers: 6377
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: "PaoKa\xEF 5"
+  Description: "Kill PaoKa\xEF at the temple of the Spider Goddess"
+  GS: '5'
+  Guide: true
+  Number of Gamers: 11471
+  Percentage of Gamers: 43%
+  Ratio: 1.52
+  TA: '7'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Slanted Step
+  Description: Make 5 enemies fall on a frozen ground with the 'Freeze' spell
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3019
+  Percentage of Gamers: 11%
+  Ratio: 2.97
+  TA: '59'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Executioner
+  Description: Kill 10 enemies under the effects of adrenaline
+  GS: '15'
+  Guide: true
+  Number of Gamers: 8900
+  Percentage of Gamers: 33%
+  Ratio: 1.73
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Explorer
+  Description: Discover at least 42 secret places
+  GS: '30'
+  Guide: false
+  Number of Gamers: 1569
+  Percentage of Gamers: 6%
+  Ratio: 4.12
+  TA: '123'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Missable
+- Achievement Name: Blacksmith
+  Description: Forge 3 different swords during your adventure
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5900
+  Percentage of Gamers: 22%
+  Ratio: 2.12
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Slaughterer
+  Description: Kill 2 enemies at once while under the effects of adrenaline
+  GS: '10'
+  Guide: true
+  Number of Gamers: 10704
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '15'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Funny Moments
+  Description: Push 5 enemies into the void without be spotted by the victim
+  GS: '20'
+  Guide: true
+  Number of Gamers: 917
+  Percentage of Gamers: 3%
+  Ratio: 5.4
+  TA: '108'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Buggy
+- Achievement Name: Physics is lethal
+  Description: 'Kill 50 enemies using these methods: fire, pick, void and physical
+    object'
+  GS: '30'
+  Guide: true
+  Number of Gamers: 9893
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '49'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Weapon Collector
+  Description: Weapon collection complete (Swords, Daggers, Staffs & Bows)
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1228
+  Percentage of Gamers: 5%
+  Ratio: 4.66
+  TA: '140'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Cumulative +
+  - Buggy
+- Achievement Name: Equipment Collector
+  Description: Equipment collection complete (Armors, Shields, Rings)
+  GS: '30'
+  Guide: true
+  Number of Gamers: 2397
+  Percentage of Gamers: 9%
+  Ratio: 3.34
+  TA: '100'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Cumulative +
+- Achievement Name: Angel of Death
+  Description: '[Ranked] Kill 15 enemies before being killed in a ranked match'
+  GS: '30'
+  Guide: true
+  Number of Gamers: 971
+  Percentage of Gamers: 4%
+  Ratio: 5.25
+  TA: '157'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+- Achievement Name: Blitzkrieg
+  Description: '[Ranked] Complete a map in Blitz mode in a ranked match in less than
+    8 minutes.'
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1122
+  Percentage of Gamers: 4%
+  Ratio: 4.88
+  TA: '73'
+  Tags:
+  - Online Mode
+  - Versus
+  - 5 Players Required
+  - Time/Date
+- Achievement Name: Conqueror
+  Description: Capture 3 enemy flags in the same match. Requires at least 8 players.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1392
+  Percentage of Gamers: 5%
+  Ratio: 4.38
+  TA: '43'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+- Achievement Name: Conqueror of the light
+  Description: Win 10 Crusades on the Human side. Requires at least 8 players.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 904
+  Percentage of Gamers: 3%
+  Ratio: 5.44
+  TA: '163'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+- Achievement Name: Conqueror of the shadow
+  Description: Win 10 Crusades on the Undead side. Requires at least 8 players.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 931
+  Percentage of Gamers: 3%
+  Ratio: 5.37
+  TA: '161'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+- Achievement Name: Survivor
+  Description: '[Ranked] Not getting killed a single time in a ranked match, and killing
+    at least 7 victims'
+  GS: '20'
+  Guide: true
+  Number of Gamers: 947
+  Percentage of Gamers: 4%
+  Ratio: 5.32
+  TA: '106'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+- Achievement Name: Revenge
+  Description: '[Ranked] Kill the player who has just killed you in a ranked match'
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1397
+  Percentage of Gamers: 5%
+  Ratio: 4.38
+  TA: '65'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+- Achievement Name: Archer
+  Description: '[Ranked] Score more than 1500 as an Archer in a ranked match'
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1124
+  Percentage of Gamers: 4%
+  Ratio: 4.88
+  TA: '73'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+- Achievement Name: Warrior
+  Description: '[Ranked] Score more than 1500 points as a Warrior in a ranked match'
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1204
+  Percentage of Gamers: 4%
+  Ratio: 4.71
+  TA: '70'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+- Achievement Name: Mage
+  Description: '[Ranked] Score more than 1500 points as a Mage in a ranked match'
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1104
+  Percentage of Gamers: 4%
+  Ratio: 4.93
+  TA: '74'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+- Achievement Name: Priestess
+  Description: '[Ranked] Score more than 1500 points as a Priestess in a ranked match'
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1026
+  Percentage of Gamers: 4%
+  Ratio: 5.11
+  TA: '76'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+- Achievement Name: Deathmatch
+  Description: '[Ranked] Score more than 3000 points in a ranked deathmatch'
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1124
+  Percentage of Gamers: 4%
+  Ratio: 4.88
+  TA: '146'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+- Achievement Name: Messiah of Darkness
+  Description: '[Ranked] Kill more than 666 enemies in total for ranked matches'
+  GS: '40'
+  Guide: true
+  Number of Gamers: 738
+  Percentage of Gamers: 3%
+  Ratio: 6.05
+  TA: '242'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+  - 4 Players Required
+- Achievement Name: Challenger
+  Description: '[Ranked] Win a ranked match 20 times'
+  GS: '40'
+  Guide: true
+  Number of Gamers: 805
+  Percentage of Gamers: 3%
+  Ratio: 5.77
+  TA: '230'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+  - 4 Players Required
+- Achievement Name: Local champion
+  Description: Win 20 matches hosted by yourself. Requires at least 8 players.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 756
+  Percentage of Gamers: 3%
+  Ratio: 5.96
+  TA: '178'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+  - 4 Players Required
+- Achievement Name: Crusade
+  Description: Win a Crusade. Requires at least 8 players.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1214
+  Percentage of Gamers: 5%
+  Ratio: 4.7
+  TA: '94'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+- Achievement Name: Teammate
+  Description: Win 10 team deathmatches. Requires at least 8 players.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 843
+  Percentage of Gamers: 3%
+  Ratio: 5.63
+  TA: '112'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+  - 4 Players Required
+Base Ratio: 3.76
+Base TA: 3760
+Delisted: true
+Developer: Arkane Studios
+Game Name: 'Dark Messiah of Might and Magic: Elements'
+Genres: Action-RPG, Role Playing
+Install Size: 6090.0
+Number of Completions: 377
+Number of Gamers: 26767
+Overall Completion Time:
+- 50.0
+- 60.0
+Overall GS: 1000
+Overall Ratio: 3.76
+Overall TA: 3760
+PDU: 0
+Percentage Completed: 1.41
+Publisher: Ubisoft
+Release Date: 12 February 2008
+Server Closure: false
+Site Rating: 2.52
+Update Achievements: []
+Walkthrough: false

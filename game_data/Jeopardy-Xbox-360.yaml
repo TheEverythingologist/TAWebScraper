@@ -1,0 +1,580 @@
+Add On Achievements: []
+Base Completion Time:
+- 25.0
+- 30.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: That is Correct!
+  Description: Respond to a clue correctly
+  GS: '5'
+  Guide: true
+  Number of Gamers: 6799
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '5'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Showoff
+  Description: Perform a gesture
+  GS: '5'
+  Guide: true
+  Number of Gamers: 4899
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '5'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: We Have A Champion!
+  Description: Win a game
+  GS: '5'
+  Guide: false
+  Number of Gamers: 5766
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '5'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Dressed Smartly
+  Description: Change clothes in the Contestant Creator
+  GS: '5'
+  Guide: true
+  Number of Gamers: 5670
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '5'
+  Tags:
+  - Online/Offline
+  - Single Player
+- Achievement Name: Daily Double Winner
+  Description: Respond to a Daily Double correctly
+  GS: '5'
+  Guide: true
+  Number of Gamers: 6255
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '5'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: No Brainer
+  Description: Win a game on Easy difficulty
+  GS: '5'
+  Guide: true
+  Number of Gamers: 5766
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '5'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Stackable
+- Achievement Name: Challenge Accepted
+  Description: Finish an online game
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1723
+  Percentage of Gamers: 25%
+  Ratio: 1.99
+  TA: '19'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Clue Solver
+  Description: Respond to five clues correctly
+  GS: '10'
+  Guide: true
+  Number of Gamers: 6718
+  Percentage of Gamers: 98%
+  Ratio: 1.01
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: "Welcome to the Winner\u2019s Circle"
+  Description: Win an online game
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1466
+  Percentage of Gamers: 21%
+  Ratio: 2.16
+  TA: '21'
+  Tags:
+  - Online Mode
+  - Versus
+  - Host Only
+- Achievement Name: Returning Champion
+  Description: Win five games
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2761
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '15'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: My Category!
+  Description: Finished a category with the correct response
+  GS: '10'
+  Guide: false
+  Number of Gamers: 6675
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: What is the Correct Response?
+  Description: Respond correctly after someone does not
+  GS: '10'
+  Guide: true
+  Number of Gamers: 6225
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Still the Returning Champion
+  Description: Win 10 games
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1650
+  Percentage of Gamers: 24%
+  Ratio: 2.03
+  TA: '20'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: No Time For Small Change
+  Description: Solve the highest dollar value clue in a category first
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5302
+  Percentage of Gamers: 77%
+  Ratio: 1.13
+  TA: '11'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Should Have Bet More
+  Description: Answer Final Jeopardy! correctly with a $0 wager
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3329
+  Percentage of Gamers: 49%
+  Ratio: 1.43
+  TA: '14'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: A $5K Game!
+  Description: Win $5,000 in one game
+  GS: '15'
+  Guide: false
+  Number of Gamers: 5630
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '16'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Stackable
+- Achievement Name: The Minigame Champ!
+  Description: Become a Minigame Champ
+  GS: '15'
+  Guide: true
+  Number of Gamers: 4261
+  Percentage of Gamers: 62%
+  Ratio: 1.26
+  TA: '19'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: I Like Minigames
+  Description: Play every minigame
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3575
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '20'
+  Tags:
+  - Online/Offline
+  - Versus
+- Achievement Name: Clue Streak
+  Description: Respond to five clues correctly in a row
+  GS: '15'
+  Guide: false
+  Number of Gamers: 5863
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '16'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: My Favorite Category
+  Description: Respond to every clue in a category
+  GS: '15'
+  Guide: false
+  Number of Gamers: 6365
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '15'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: How Did You Know?
+  Description: Pick the Daily Double before any other clues are revealed
+  GS: '25'
+  Guide: true
+  Number of Gamers: 1869
+  Percentage of Gamers: 27%
+  Ratio: 1.91
+  TA: '47'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Jeopardy! Pro!
+  Description: Win 25 games
+  GS: '25'
+  Guide: true
+  Number of Gamers: 923
+  Percentage of Gamers: 13%
+  Ratio: 2.72
+  TA: '68'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: A $10K Game!
+  Description: Win $10,000 in one game
+  GS: '25'
+  Guide: false
+  Number of Gamers: 5372
+  Percentage of Gamers: 78%
+  Ratio: 1.12
+  TA: '28'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: It Pays Off!
+  Description: Win $100,000 total
+  GS: '25'
+  Guide: true
+  Number of Gamers: 3503
+  Percentage of Gamers: 51%
+  Ratio: 1.39
+  TA: '34'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Daily Double Pro
+  Description: Win all Daily Doubles in a single game
+  GS: '25'
+  Guide: true
+  Number of Gamers: 3474
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '35'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Make It A True Daily Double
+  Description: Wager everything and respond to a Daily Double correctly
+  GS: '25'
+  Guide: true
+  Number of Gamers: 5037
+  Percentage of Gamers: 73%
+  Ratio: 1.16
+  TA: '29'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Finally Knew It!
+  Description: Be the only one to respond to Final Jeopardy! Correctly!
+  GS: '25'
+  Guide: true
+  Number of Gamers: 3569
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '34'
+  Tags:
+  - Online/Offline
+  - Versus
+- Achievement Name: Clue Crew Member
+  Description: Respond to all Clue Crew clues correctly in a game
+  GS: '25'
+  Guide: true
+  Number of Gamers: 4521
+  Percentage of Gamers: 66%
+  Ratio: 1.23
+  TA: '30'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Ultimate Minigame Champ
+  Description: Win every minigame
+  GS: '25'
+  Guide: true
+  Number of Gamers: 2281
+  Percentage of Gamers: 33%
+  Ratio: 1.73
+  TA: '43'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Clue Streak, Again!
+  Description: Respond to ten clues correctly in a row
+  GS: '25'
+  Guide: false
+  Number of Gamers: 3954
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '32'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Final Wager
+  Description: Wager it all in Final Jeopardy! with a correct response
+  GS: '25'
+  Guide: true
+  Number of Gamers: 4656
+  Percentage of Gamers: 68%
+  Ratio: 1.21
+  TA: '30'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: "It\u2019s Subjective"
+  Description: Correctly responded to all five clues in a single subject
+  GS: '25'
+  Guide: true
+  Number of Gamers: 5316
+  Percentage of Gamers: 77%
+  Ratio: 1.13
+  TA: '28'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Thinking Ahead
+  Description: Win a game on Medium difficulty
+  GS: '25'
+  Guide: true
+  Number of Gamers: 3077
+  Percentage of Gamers: 45%
+  Ratio: 1.49
+  TA: '37'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: A $25K Game!
+  Description: Win $25,000 in one game
+  GS: '25'
+  Guide: false
+  Number of Gamers: 4148
+  Percentage of Gamers: 60%
+  Ratio: 1.28
+  TA: '32'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: It Really Pays Off!
+  Description: Win $250,000 total
+  GS: '25'
+  Guide: true
+  Number of Gamers: 2526
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '41'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Quick on the Buzzer
+  Description: Be the first to respond to every clue on a board
+  GS: '30'
+  Guide: true
+  Number of Gamers: 3052
+  Percentage of Gamers: 44%
+  Ratio: 1.49
+  TA: '44'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: I Never Guess
+  Description: Complete a game without entering any incorrect responses
+  GS: '30'
+  Guide: true
+  Number of Gamers: 2069
+  Percentage of Gamers: 30%
+  Ratio: 1.82
+  TA: '54'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: A $35K Game!
+  Description: Win $35,000 in one Game
+  GS: '35'
+  Guide: false
+  Number of Gamers: 3674
+  Percentage of Gamers: 54%
+  Ratio: 1.36
+  TA: '47'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: What A Pay Off!
+  Description: Win $1M total
+  GS: '35'
+  Guide: true
+  Number of Gamers: 1268
+  Percentage of Gamers: 18%
+  Ratio: 2.32
+  TA: '81'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Know It All
+  Description: Win a game on Hard difficulty
+  GS: '50'
+  Guide: true
+  Number of Gamers: 2410
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '84'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Difficulty Specific
+- Achievement Name: Jeopardy! Master!
+  Description: Win 50 Games
+  GS: '50'
+  Guide: true
+  Number of Gamers: 743
+  Percentage of Gamers: 11%
+  Ratio: 3.03
+  TA: '151'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Clue Master!
+  Description: Respond to 200 Clues Correctly
+  GS: '50'
+  Guide: true
+  Number of Gamers: 2903
+  Percentage of Gamers: 42%
+  Ratio: 1.53
+  TA: '76'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Jeopardy! Champ!
+  Description: Acquire all contestant clothes and logos
+  GS: '50'
+  Guide: true
+  Number of Gamers: 865
+  Percentage of Gamers: 13%
+  Ratio: 2.81
+  TA: '140'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Sweep Week
+  Description: Win five games in a row
+  GS: '50'
+  Guide: false
+  Number of Gamers: 2136
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '89'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Category Expert
+  Description: Respond to Clues Correctly from 25 categories
+  GS: '50'
+  Guide: true
+  Number of Gamers: 4797
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '59'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+Base Ratio: 1.619
+Base TA: 1619
+Delisted: true
+Developer: Pipeworks Studios
+Game Name: Jeopardy! (2012)
+Genres: Educational & Trivia, Party
+Install Size: 765.0
+Number of Completions: 653
+Number of Gamers: 6862
+Overall Completion Time:
+- 25.0
+- 30.0
+Overall GS: 1000
+Overall Ratio: 1.619
+Overall TA: 1619
+PDU: 0
+Percentage Completed: 9.52
+Publisher: THQ
+Release Date: 25 October 2012
+Server Closure: false
+Site Rating: 3.26
+Update Achievements: []
+Walkthrough: false

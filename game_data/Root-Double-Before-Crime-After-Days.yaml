@@ -1,0 +1,651 @@
+Add On Achievements: []
+Base Completion Time:
+- 15.0
+- 20.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: "\u221AAfter"
+  Description: "\u221AA\u306E\u30B7\u30CA\u30EA\u30AA\u3092\u958B\u59CB\u3059\u308B"
+  GS: '10'
+  Guide: true
+  Number of Gamers: 539
+  Percentage of Gamers: 98%
+  Ratio: 1.01
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: "\u221ABefore"
+  Description: "\u221AB\u306E\u30B7\u30CA\u30EA\u30AA\u3092\u958B\u59CB\u3059\u308B"
+  GS: '10'
+  Guide: true
+  Number of Gamers: 456
+  Percentage of Gamers: 83%
+  Ratio: 1.1
+  TA: '11'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "\u540C\u8ABF\u958B\u59CB"
+  Description: "\u30BB\u30F3\u30B7\u30BA\u5165\u529B\u753B\u9762\u3092\u958B\u304F"
+  GS: '10'
+  Guide: true
+  Number of Gamers: 510
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: "\u4FEF\u77B0\u3059\u308B\u8996\u7DDA"
+  Description: "MAP\u753B\u9762\u3092\u958B\u304F"
+  GS: '10'
+  Guide: true
+  Number of Gamers: 481
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '10'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "\u96C6\u7A4D\u3055\u308C\u308B\u60C5\u5831"
+  Description: "TIPS\u753B\u9762\u3092\u958B\u304F"
+  GS: '10'
+  Guide: true
+  Number of Gamers: 513
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '10'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "\u5FC3\u91CD\u306D\u308B\u8853\u3078\u306E\u5C0E\u304D"
+  Description: "SENSES SYMPATHY SYSTEM\u306E\u30C1\u30E5\u30FC\u30C8\u30EA\u30A2\u30EB\
+    \u3092\u898B\u308B"
+  GS: '10'
+  Guide: true
+  Number of Gamers: 506
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: "\u60F3\u3044\u898B\u5B88\u308B\u8853\u3078\u306E\u5C0E\u304D"
+  Description: "RAM SYSTEM\u306E\u30C1\u30E5\u30FC\u30C8\u30EA\u30A2\u30EB\u3092\u898B\
+    \u308B"
+  GS: '10'
+  Guide: false
+  Number of Gamers: 381
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '12'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "\u6620\u50CF\u8A18\u61B650%\u4EE5\u4E0A"
+  Description: "ALBUM\u306E\u30A4\u30D9\u30F3\u30C8CG\u309250%\u4EE5\u4E0A\u958B\u653E\
+    \u3059\u308B"
+  GS: '20'
+  Guide: false
+  Number of Gamers: 403
+  Percentage of Gamers: 73%
+  Ratio: 1.17
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "\u6620\u50CF\u8A18\u61B6100%"
+  Description: "ALBUM\u306E\u30A4\u30D9\u30F3\u30C8CG\u3092\u5168\u3066\u958B\u653E\
+    \u3059\u308B"
+  GS: '50'
+  Guide: false
+  Number of Gamers: 266
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '72'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Multiple Playthroughs Required
+- Achievement Name: "\u97F3\u306E\u8A18\u61B650%\u4EE5\u4E0A"
+  Description: "MUSIC\u306E\u97F3\u697D\u309250%\u4EE5\u4E0A\u958B\u653E\u3059\u308B"
+  GS: '20'
+  Guide: true
+  Number of Gamers: 466
+  Percentage of Gamers: 84%
+  Ratio: 1.08
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "\u97F3\u306E\u8A18\u61B6100%"
+  Description: "MUSIC\u306E\u97F3\u697D\u3092\u5168\u3066\u958B\u653E\u3059\u308B"
+  GS: '50'
+  Guide: false
+  Number of Gamers: 378
+  Percentage of Gamers: 68%
+  Ratio: 1.2
+  TA: '60'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Multiple Playthroughs Required
+- Achievement Name: "\u30D3\u30E8\u2606\u3073\u3088\u30DE\u30B9\u30BF\u30FC"
+  Description: "TIPS\u306E\u300E\u30D3\u30E8\u30F3\u30C9\u2606\u3073\u3088\u3093\u3069\
+    \u300F\u306E\u7528\u8A9E\u3092\u5168\u3066\u958B\u653E\u3059\u308B"
+  GS: '20'
+  Guide: false
+  Number of Gamers: 293
+  Percentage of Gamers: 53%
+  Ratio: 1.37
+  TA: '27'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "\u60C5\u5831\u96C6\u7A4D50%\u4EE5\u4E0A"
+  Description: "TIPS\u306E\u7528\u8A9E\u309250%\u4EE5\u4E0A\u958B\u653E\u3059\u308B"
+  GS: '20'
+  Guide: false
+  Number of Gamers: 394
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "\u60C5\u5831\u96C6\u7A4D100%"
+  Description: "TIPS\u306E\u7528\u8A9E\u3092\u5168\u3066\u958B\u653E\u3059\u308B"
+  GS: '50'
+  Guide: false
+  Number of Gamers: 263
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '72'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Multiple Playthroughs Required
+- Achievement Name: "\u7D76\u671B\u3092\u77E5\u308B\u8005"
+  Description: "\u3044\u305A\u308C\u304B\u306E\u30D0\u30C3\u30C9\u30A8\u30F3\u30C9\
+    \u3092\uFF11\u3064\u4EE5\u4E0A\u898B\u308B"
+  GS: '10'
+  Guide: true
+  Number of Gamers: 480
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "\u7D76\u671B\u3092\u6975\u3081\u305F\u8005"
+  Description: "\u5168\u3066\u306E\u30D0\u30C3\u30C9\u30A8\u30F3\u30C9\u3092\u898B\
+    \u308B"
+  GS: '100'
+  Guide: false
+  Number of Gamers: 278
+  Percentage of Gamers: 50%
+  Ratio: 1.4
+  TA: '140'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Multiple Playthroughs Required
+- Achievement Name: "\u53EF\u80FD\u6027\u3092\u8FFD\u3044\u6C42\u3081\u308B\u8005"
+  Description: "\u30E1\u30C3\u30BB\u30FC\u30B8\u306E\u65E2\u8AAD\u7387\u304C50%\u4EE5\
+    \u4E0A\u306B\u306A\u308B"
+  GS: '20'
+  Guide: false
+  Number of Gamers: 400
+  Percentage of Gamers: 72%
+  Ratio: 1.17
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "\u53EF\u80FD\u6027\u3092\u6975\u3081\u305F\u8005"
+  Description: "\u30E1\u30C3\u30BB\u30FC\u30B8\u306E\u65E2\u8AAD\u7387\u304C100%\u4EE5\
+    \u4E0A\u306B\u306A\u308B"
+  GS: '10'
+  Guide: false
+  Number of Gamers: 213
+  Percentage of Gamers: 39%
+  Ratio: 1.6
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Multiple Playthroughs Required
+- Achievement Name: "\u4FE1\u983C\u306E\u8A3C"
+  Description: "\u8AB0\u304B\u306E\u30BB\u30F3\u30B7\u30BA\u3092\u6700\u5927\u5024\
+    \u306B\u3057\u3066\u6C7A\u5B9A\u3059\u308B"
+  GS: '10'
+  Guide: true
+  Number of Gamers: 505
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '10'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "\u4E0D\u4FE1\u306E\u5146\u3057"
+  Description: "\u8AB0\u304B\u306E\u30BB\u30F3\u30B7\u30BA\u3092\u6700\u5C0F\u5024\
+    \u306B\u3057\u3066\u6C7A\u5B9A\u3059\u308B"
+  GS: '10'
+  Guide: true
+  Number of Gamers: 469
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '10'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "\u4FE1\u3058\u308B\u8005\u306F\u6551\u308F\u308C\u308B"
+  Description: "\u5168\u54E1\u306E\u30BB\u30F3\u30B7\u30BA\u3092\u6700\u5927\u5024\
+    \u306B\u3057\u3066\u6C7A\u5B9A\u3059\u308B"
+  GS: '10'
+  Guide: false
+  Number of Gamers: 432
+  Percentage of Gamers: 78%
+  Ratio: 1.13
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "\u7591\u3046\u8005\u306F\u6551\u308F\u308C\u308B"
+  Description: "\u5168\u54E1\u306E\u30BB\u30F3\u30B7\u30BA\u3092\u6700\u5C0F\u5024\
+    \u306B\u3057\u3066\u6C7A\u5B9A\u3059\u308B"
+  GS: '10'
+  Guide: false
+  Number of Gamers: 333
+  Percentage of Gamers: 60%
+  Ratio: 1.28
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "\u5973\u6027\u4E0D\u4FE1"
+  Description: "\u5973\u6027\uFF16\u540D\u306E\u30BB\u30F3\u30B7\u30BA\u3092\u6700\
+    \u5C0F\u5024\u306B\u3057\u3066\u6C7A\u5B9A\u3059\u308B"
+  GS: '20'
+  Guide: false
+  Number of Gamers: 336
+  Percentage of Gamers: 61%
+  Ratio: 1.28
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "\u5E7C\u3044\u5C11\u5973\u306B\u604B\u3057\u3066"
+  Description: "\u30B5\u30EA\u30E5\u306E\u30BB\u30F3\u30B7\u30BA\u3092\u6700\u5927\
+    \u5024\uFF06\u4ED6\u306E\u30BB\u30F3\u30B7\u30BA\u3092\u6700\u5C0F\u5024\u306B\
+    \u3057\u3066\u6C7A\u5B9A\u3059\u308B"
+  GS: '20'
+  Guide: false
+  Number of Gamers: 310
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "\u60AA\u610F\u5B8C\u5168\u6D88\u53BB"
+  Description: "RAM SYSTEM\u3067\u60AA\u610F\u3092\u5B8C\u5168\u306B\u6D88\u53BB\u3059\
+    \u308B"
+  GS: '20'
+  Guide: false
+  Number of Gamers: 387
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "\u6BBA\u4EBA\u9B3C\u306E\u5F71"
+  Description: "\u30B7\u30FC\u30F3\u30BF\u30A4\u30C8\u30EB\u300EKnocking on heavens\
+    \ door\u300F\u3092\u8AAD\u4E86\u3059\u308B"
+  GS: '10'
+  Guide: false
+  Number of Gamers: 462
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: "\u6253\u3061\u7815\u304B\u308C\u308B\u5E0C\u671B"
+  Description: "\u30B7\u30FC\u30F3\u30BF\u30A4\u30C8\u30EB\u300EThe end of\u300F\u3092\
+    \u8AAD\u4E86\u3059\u308B"
+  GS: '10'
+  Guide: false
+  Number of Gamers: 453
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: "\u610F\u5916\u306A\u8131\u51FA\u65B9\u6CD5"
+  Description: "\u30B7\u30FC\u30F3\u30BF\u30A4\u30C8\u30EB\u300EThe Great Escape\u300F\
+    \u3092\u8AAD\u4E86\u3059\u308B"
+  GS: '10'
+  Guide: false
+  Number of Gamers: 427
+  Percentage of Gamers: 77%
+  Ratio: 1.13
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: "\u7B2C\uFF11\u306E\u80FD\u529B\u899A\u9192"
+  Description: "\u30B7\u30FC\u30F3\u30BF\u30A4\u30C8\u30EB\u300E\u306A\u306B\u304B\
+    \u304C\u9053\u3092\u3084\u3063\u3066\u304F\u308B\u300F\u3092\u8AAD\u4E86\u3059\
+    \u308B"
+  GS: '10'
+  Guide: false
+  Number of Gamers: 438
+  Percentage of Gamers: 79%
+  Ratio: 1.12
+  TA: '11'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "\u7B2C\uFF12\u306E\u80FD\u529B\u899A\u9192"
+  Description: "\u30B7\u30FC\u30F3\u30BF\u30A4\u30C8\u30EB\u300E\u5929\u5DDD\u7F8E\
+    \u591C\u5B50\u306E\u611F\u60C5\u300F\u3092\u8AAD\u4E86\u3059\u308B"
+  GS: '10'
+  Guide: false
+  Number of Gamers: 410
+  Percentage of Gamers: 74%
+  Ratio: 1.16
+  TA: '11'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "\u6700\u7D42\u80FD\u529B\u899A\u9192"
+  Description: "\u30B7\u30FC\u30F3\u30BF\u30A4\u30C8\u30EB\u300E\u5618\u300F\u3092\
+    \u8AAD\u4E86\u3059\u308B"
+  GS: '10'
+  Guide: false
+  Number of Gamers: 409
+  Percentage of Gamers: 74%
+  Ratio: 1.16
+  TA: '11'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "\u9CE5\u7FBD\u307E\u3057\u308D\u767A\u898B"
+  Description: "\u30B7\u30FC\u30F3\u30BF\u30A4\u30C8\u30EB\u300EPhantom of the worst\u300F\
+    \u3092\u8AAD\u4E86\u3059\u308B"
+  GS: '10'
+  Guide: false
+  Number of Gamers: 394
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '11'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "Zero\u306E\u30A8\u30EA\u30A2\u3078"
+  Description: "\u30B7\u30FC\u30F3\u30BF\u30A4\u30C8\u30EB\u300ETime trick\u300F\u3092\
+    \u8AAD\u4E86\u3059\u308B"
+  GS: '10'
+  Guide: false
+  Number of Gamers: 389
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '11'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "\u751F\u9084"
+  Description: "\u30B7\u30FC\u30F3\u30BF\u30A4\u30C8\u30EB\u300E\u8131\u51FA/Last\
+    \ Escape\u300F\u3092\u8AAD\u4E86\u3059\u308B"
+  GS: '10'
+  Guide: false
+  Number of Gamers: 382
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '12'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "\u6DF7\u6C8C\u304B\u3089\u306E\u899A\u9192"
+  Description: "\u221AA\u306E\u30B0\u30C3\u30C9\u30A8\u30F3\u30C9\u3092\u898B\u308B"
+  GS: '10'
+  Guide: false
+  Number of Gamers: 427
+  Percentage of Gamers: 77%
+  Ratio: 1.13
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "\u7D76\u671B\u304B\u3089\u306E\u7D42\u5C40"
+  Description: "\u221AA\u306E\u30CE\u30FC\u30DE\u30EB\u30A8\u30F3\u30C9\u3092\u898B\
+    \u308B"
+  GS: '10'
+  Guide: false
+  Number of Gamers: 401
+  Percentage of Gamers: 73%
+  Ratio: 1.17
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "\u6D88\u6EC5\u304B\u3089\u306E\u7D42\u7109"
+  Description: "\u221AB\u306E\u30B0\u30C3\u30C9\u30A8\u30F3\u30C9\u3092\u898B\u308B"
+  GS: '10'
+  Guide: false
+  Number of Gamers: 408
+  Percentage of Gamers: 74%
+  Ratio: 1.16
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "\u53CD\u5FA9\u304B\u3089\u306E\u7A76\u660E"
+  Description: "\u221AC\u306E\u30B0\u30C3\u30C9\u30A8\u30F3\u30C9\u3092\u898B\u308B"
+  GS: '10'
+  Guide: false
+  Number of Gamers: 398
+  Percentage of Gamers: 72%
+  Ratio: 1.17
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "\u5929\u72FC\u304B\u3089\u306E\u5C0E\u304D"
+  Description: "\u221AD\u306E\u30CE\u30FC\u30DE\u30EB\u30A8\u30F3\u30C9\uFF11\u3092\
+    \u898B\u308B"
+  GS: '10'
+  Guide: false
+  Number of Gamers: 354
+  Percentage of Gamers: 64%
+  Ratio: 1.24
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "\u6839\u6E90\u304B\u3089\u306E\u6551\u6E08"
+  Description: "\u221AD\u306E\u30CE\u30FC\u30DE\u30EB\u30A8\u30F3\u30C9\uFF12\u3092\
+    \u898B\u308B"
+  GS: '10'
+  Guide: false
+  Number of Gamers: 353
+  Percentage of Gamers: 64%
+  Ratio: 1.25
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "\u98A8\u9CE5\u304B\u3089\u306E\u5E87\u8B77"
+  Description: "\u221AD\u306E\u30CE\u30FC\u30DE\u30EB\u30A8\u30F3\u30C9\uFF13\u3092\
+    \u898B\u308B"
+  GS: '10'
+  Guide: false
+  Number of Gamers: 349
+  Percentage of Gamers: 63%
+  Ratio: 1.25
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "\u5FD8\u5374\u304B\u3089\u306E\u8607\u751F"
+  Description: "\u221AD\u306E\u30B0\u30C3\u30C9\u30A8\u30F3\u30C9Before\u3092\u898B\
+    \u308B"
+  GS: '10'
+  Guide: false
+  Number of Gamers: 354
+  Percentage of Gamers: 64%
+  Ratio: 1.24
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "\u5FD8\u5931\u304B\u3089\u306E\u518D\u751F"
+  Description: "\u221AD\u306E\u30B0\u30C3\u30C9\u30A8\u30F3\u30C9After\u3092\u898B\
+    \u308B"
+  GS: '10'
+  Guide: false
+  Number of Gamers: 356
+  Percentage of Gamers: 64%
+  Ratio: 1.24
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "\u4E45\u9060\u304B\u3089\u306E\u60F3\u5FF5"
+  Description: "\u221AD\u306E\u30C8\u30A5\u30EB\u30FC\u30A8\u30F3\u30C9\u3092\u898B\
+    \u308B"
+  GS: '100'
+  Guide: false
+  Number of Gamers: 378
+  Percentage of Gamers: 68%
+  Ratio: 1.2
+  TA: '120'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "\u30D1\u30FC\u30C8\u30CA\u30FC\u7D50\u6210"
+  Description: "\u221AD\u306E\u6075\u90A3\u306E\u8FFD\u52A0\u30A8\u30D4\u30ED\u30FC\
+    \u30B0\u3092\u898B\u308B"
+  GS: '30'
+  Guide: false
+  Number of Gamers: 294
+  Percentage of Gamers: 53%
+  Ratio: 1.37
+  TA: '41'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "\u5BB6\u65CF\u306E\u5E30\u308B\u5834\u6240"
+  Description: "\u221AD\u306E\u6D35\u306E\u8FFD\u52A0\u30A8\u30D4\u30ED\u30FC\u30B0\
+    \u3092\u898B\u308B"
+  GS: '30'
+  Guide: false
+  Number of Gamers: 300
+  Percentage of Gamers: 54%
+  Ratio: 1.35
+  TA: '40'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "\u6C38\u9060\u306E\u5951\u7D04"
+  Description: "\u221AD\u306E\u98A8\u898B\u306E\u8FFD\u52A0\u30A8\u30D4\u30ED\u30FC\
+    \u30B0\u3092\u898B\u308B"
+  GS: '30'
+  Guide: false
+  Number of Gamers: 335
+  Percentage of Gamers: 61%
+  Ratio: 1.28
+  TA: '38'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "\u590F\u306E\u5927\u4E09\u89D2\u5F62"
+  Description: "\u221AD\u306E\u30B5\u30EA\u30E5\u306E\u8FFD\u52A0\u30A8\u30D4\u30ED\
+    \u30FC\u30B0\u3092\u898B\u308B"
+  GS: '30'
+  Guide: false
+  Number of Gamers: 312
+  Percentage of Gamers: 57%
+  Ratio: 1.33
+  TA: '39'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "\u300E\u6B63\u7FA9\u306E\u65C5\u300F\u306E\u7D9A\u304D"
+  Description: "\u221AD\u306E\u307E\u3057\u308D\u306E\u8FFD\u52A0\u30A8\u30D4\u30ED\
+    \u30FC\u30B0\u3092\u898B\u308B"
+  GS: '30'
+  Guide: false
+  Number of Gamers: 348
+  Percentage of Gamers: 63%
+  Ratio: 1.25
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "\u7E54\u59EB\u306E\u5E30\u9084"
+  Description: "\u221AD\u306E\u60A0\u91CC\u306E\u8FFD\u52A0\u30A8\u30D4\u30ED\u30FC\
+    \u30B0\u3092\u898B\u308B"
+  GS: '30'
+  Guide: false
+  Number of Gamers: 324
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '39'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+Base Ratio: 1.234
+Base TA: 1234
+Delisted: false
+Developer: Regista, Yeti
+Game Name: 'Root Double: Before Crime * After Days'
+Genres: Visual Novel
+Install Size: null
+Number of Completions: 213
+Number of Gamers: 552
+Overall Completion Time:
+- 15.0
+- 20.0
+Overall GS: 1000
+Overall Ratio: 1.234
+Overall TA: 1234
+PDU: 0
+Percentage Completed: 38.59
+Publisher: Yeti
+Release Date: 14 June 2012
+Server Closure: false
+Site Rating: 3.04
+Update Achievements: []
+Walkthrough: false

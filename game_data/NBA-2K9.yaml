@@ -1,0 +1,619 @@
+Add On Achievements: []
+Base Completion Time:
+- 0
+- 0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: 30 Assists
+  Description: Record 30 assists or more with any team.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 16133
+  Percentage of Gamers: 59%
+  Ratio: 1.29
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: 10 Blocks
+  Description: Record 10 blocks or more with any team.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 13994
+  Percentage of Gamers: 51%
+  Ratio: 1.39
+  TA: '27'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: 15 Steals
+  Description: Record 15 steals or more with any team.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 14887
+  Percentage of Gamers: 55%
+  Ratio: 1.35
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Rebound Margin +7
+  Description: Win the rebound battle by a margin of +7 with any team.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 19318
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: 15 Threes
+  Description: Make 15 three pointers or more with any team.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 14606
+  Percentage of Gamers: 54%
+  Ratio: 1.36
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Defensive FG%
+  Description: Hold the opposing team's FG% below 40% with any team.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 16781
+  Percentage of Gamers: 62%
+  Ratio: 1.27
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Lights Out
+  Description: FG% over 55% for the game [minimum 40 FGA's] with any team.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 22660
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Track Meet
+  Description: Score at least 15 fastbreak points with any team.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 22245
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Second Unit
+  Description: Score at least 40 bench points with any team.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 16295
+  Percentage of Gamers: 60%
+  Ratio: 1.29
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Inside Domination
+  Description: Score at least 60 points in the paint with any team.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 18799
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Good Hands
+  Description: Record 20 assists with no more than 5 turnovers with any team.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 17672
+  Percentage of Gamers: 65%
+  Ratio: 1.24
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: All-Hustle
+  Description: Record at least 10 offensive rebounds, 5 blocks and 5 steals with any
+    team.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 12442
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: All-Heart
+  Description: Start the 4th period losing by 10 or more points and win the game with
+    any team.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 8095
+  Percentage of Gamers: 30%
+  Ratio: 1.83
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: 3-For-All
+  Description: Make at least 10 3pt FG's while shooting at least 45% from 3pt range
+    with any team.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 15270
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Ice Water
+  Description: FT% over 85% with at least 15 FTA's with any team.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 10292
+  Percentage of Gamers: 38%
+  Ratio: 1.62
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Lockdown
+  Description: Record at least 10 blocks and 10 steals with any team.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 10133
+  Percentage of Gamers: 37%
+  Ratio: 1.63
+  TA: '32'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Celtics vs Lakers
+  Description: User controlled team must win this matchup on All-Star difficulty.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 9190
+  Percentage of Gamers: 34%
+  Ratio: 1.72
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Spurs vs Suns
+  Description: User controlled team must win this matchup on All-Star difficulty.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 7937
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Cavaliers vs Wizards
+  Description: User controlled team must win this matchup on All-Star difficulty.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 8172
+  Percentage of Gamers: 30%
+  Ratio: 1.82
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Suns vs Mavericks
+  Description: User controlled team must win this matchup on All-Star difficulty.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 7471
+  Percentage of Gamers: 27%
+  Ratio: 1.9
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Lakers vs Clippers
+  Description: User controlled team must win this matchup on All-Star difficulty.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 8194
+  Percentage of Gamers: 30%
+  Ratio: 1.82
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: East vs West
+  Description: User controlled team must win this matchup on All-Star difficulty.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 7763
+  Percentage of Gamers: 29%
+  Ratio: 1.87
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: LeBron James
+  Description: Record at least 35 points, 9 rebounds and 9 assists with LeBron James.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 7534
+  Percentage of Gamers: 28%
+  Ratio: 1.9
+  TA: '47'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Dwyane Wade
+  Description: Record at least 26 points, 5 rebounds and 7 assists with Dwyane Wade.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 6998
+  Percentage of Gamers: 26%
+  Ratio: 1.97
+  TA: '49'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Kobe Bryant
+  Description: Record at least 40 points, 5 rebounds and 5 assists with Kobe Bryant.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 8196
+  Percentage of Gamers: 30%
+  Ratio: 1.82
+  TA: '45'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Allen Iverson
+  Description: Record at least 30 points, 8 assists and 3 steals with Allen Iverson.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 7217
+  Percentage of Gamers: 27%
+  Ratio: 1.94
+  TA: '48'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Steve Nash
+  Description: Record at least 20 points and 15 assists with Steve Nash.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 8151
+  Percentage of Gamers: 30%
+  Ratio: 1.82
+  TA: '45'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Dwight Howard
+  Description: Record at least 20 points, 15 rebounds and 3 blocks with Dwight Howard.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 6018
+  Percentage of Gamers: 22%
+  Ratio: 2.12
+  TA: '53'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Gilbert Arenas
+  Description: Record at least 35 points, 3 steals and 5 threes with Gilbert Arenas.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 6772
+  Percentage of Gamers: 25%
+  Ratio: 2.0
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Carmelo Anthony
+  Description: Record at least 40 points and 8 rebounds with Carmelo Anthony.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 6383
+  Percentage of Gamers: 23%
+  Ratio: 2.06
+  TA: '51'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Chris Paul
+  Description: Record at least 20 points, 10 assists and 3 steals with Chris Paul.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 7585
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '47'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Kevin Garnett
+  Description: Record at least 20 points, 13 rebounds and 5 assists with Kevin Garnett.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 6443
+  Percentage of Gamers: 24%
+  Ratio: 2.05
+  TA: '51'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Yao Ming
+  Description: Record at least 30 points, 12 rebounds and 4 blocks with Yao Ming.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 5595
+  Percentage of Gamers: 21%
+  Ratio: 2.2
+  TA: '55'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Chris Bosh
+  Description: Record at least 30 points, 10 rebounds and 2 blocks with Chris Bosh.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 5163
+  Percentage of Gamers: 19%
+  Ratio: 2.29
+  TA: '57'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Sprite Slam Dunk
+  Description: Win the Sprite Slam Dunk Contest using LeBron James.
+  GS: '35'
+  Guide: true
+  Number of Gamers: 6086
+  Percentage of Gamers: 22%
+  Ratio: 2.11
+  TA: '74'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Dunk-Off
+  Description: Defeat any challenger in a Dunk-Off.
+  GS: '35'
+  Guide: true
+  Number of Gamers: 812
+  Percentage of Gamers: 3%
+  Ratio: 5.78
+  TA: '202'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Trivia
+  Description: Answer 15 trivia questions correctly.
+  GS: '35'
+  Guide: true
+  Number of Gamers: 6697
+  Percentage of Gamers: 25%
+  Ratio: 2.01
+  TA: '70'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: 3pt Shootout
+  Description: Win the 3pt Shootout.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 14101
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Create Player
+  Description: Use the Create Player feature.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 14101
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '13'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: 2K Beats Playlist
+  Description: Create a 2K Beats playlist.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 13756
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '14'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Online Ranked Game
+  Description: Win one online ranked game.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 5645
+  Percentage of Gamers: 21%
+  Ratio: 2.19
+  TA: '32'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: 3 Online Ranked Streak
+  Description: Win 3 online ranked games in a row.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2673
+  Percentage of Gamers: 10%
+  Ratio: 3.19
+  TA: '47'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: 5 Online Ranked Streak
+  Description: Win 5 online ranked games in a row.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1814
+  Percentage of Gamers: 7%
+  Ratio: 3.87
+  TA: '77'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: 5 Online Ranked Wins
+  Description: Win 5 online ranked games.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3068
+  Percentage of Gamers: 11%
+  Ratio: 2.97
+  TA: '44'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: 10 Online Ranked Wins
+  Description: Win 10 online ranked games.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 2283
+  Percentage of Gamers: 8%
+  Ratio: 3.45
+  TA: '86'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: 20 Online Ranked Wins
+  Description: Win 20 online ranked games.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1696
+  Percentage of Gamers: 6%
+  Ratio: 4.0
+  TA: '120'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Team 2K
+  Description: Beat a Team 2K member in an online game.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 4424
+  Percentage of Gamers: 16%
+  Ratio: 2.48
+  TA: '49'
+  Tags:
+  - Online Mode
+  - Versus
+  - Viral
+- Achievement Name: Good Teammate
+  Description: Earn a positive "teammate rating" in the online Team-Up Mode.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2993
+  Percentage of Gamers: 11%
+  Ratio: 3.01
+  TA: '60'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Better to Give
+  Description: Share any file type through 2K Share.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 4735
+  Percentage of Gamers: 17%
+  Ratio: 2.39
+  TA: '47'
+  Tags:
+  - Discontinued
+- Achievement Name: Reel Critic
+  Description: Download a reel from ReelViewer and rate it.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7498
+  Percentage of Gamers: 28%
+  Ratio: 1.9
+  TA: '19'
+  Tags:
+  - Discontinued
+Base Ratio: 2.105
+Base TA: 2105
+Delisted: false
+Developer: Visual Concepts
+Game Name: NBA 2K9
+Genres: Sports, Basketball
+Install Size: 6700.0
+Number of Completions: 391
+Number of Gamers: 27232
+Overall Completion Time:
+- 0
+- 0
+Overall GS: 1000
+Overall Ratio: 2.105
+Overall TA: 2105
+PDU: 2
+Percentage Completed: 1.44
+Publisher: 2K Sports
+Release Date: 07 October 2008
+Server Closure: false
+Site Rating: 3.42
+Update Achievements: []
+Walkthrough: false

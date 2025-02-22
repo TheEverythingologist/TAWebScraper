@@ -1,0 +1,406 @@
+Add On Achievements: []
+Base Completion Time:
+- 100.0
+- 120.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Get In The Ring
+  Description: Win a Fight Now match against the CPU
+  GS: '5'
+  Guide: true
+  Number of Gamers: 45600
+  Percentage of Gamers: 79%
+  Ratio: 1.12
+  TA: '5'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Just Like Mike
+  Description: Win a Fight Now match by KO in in the first round against the CPU in
+    a 10 round fight.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 30050
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '55'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Buggy +
+- Achievement Name: More machine than man
+  Description: Win 50 Fight Now matches against the CPU
+  GS: '50'
+  Guide: true
+  Number of Gamers: 18190
+  Percentage of Gamers: 32%
+  Ratio: 1.77
+  TA: '88'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Buggy +
+- Achievement Name: Knock a sucker out.
+  Description: Win by a knockout in Fight Now against the CPU
+  GS: '10'
+  Guide: true
+  Number of Gamers: 42853
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '11'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Ecko Trunk Challenge
+  Description: Beat CPU Miguel Cotto in Fight Now on Pro.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 23301
+  Percentage of Gamers: 41%
+  Ratio: 1.56
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Man Up Manny
+  Description: Beat CPU Manny Pacquiao in Fight Now on Champion.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 20545
+  Percentage of Gamers: 36%
+  Ratio: 1.67
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Pull No Punches
+  Description: Win a Fight Now match vs the CPU while landing at least 500 punches
+  GS: '10'
+  Guide: true
+  Number of Gamers: 24768
+  Percentage of Gamers: 43%
+  Ratio: 1.52
+  TA: '15'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Pound For Pound
+  Description: Win a fight against a CPU opponent in a higher weight class than you.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 26087
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '59'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The Road Is Long
+  Description: Win 10 fights in Legacy Mode
+  GS: '10'
+  Guide: false
+  Number of Gamers: 34574
+  Percentage of Gamers: 60%
+  Ratio: 1.28
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: The Champ Is Here
+  Description: Win a championship belt in a single weight class.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 21243
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '65'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The Latest and the Greatest
+  Description: Retire as a Superstar
+  GS: '50'
+  Guide: true
+  Number of Gamers: 15562
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '96'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
+- Achievement Name: From Chump to Champ
+  Description: Win the Amateur Tournament in Legacy Mode
+  GS: '20'
+  Guide: true
+  Number of Gamers: 44938
+  Percentage of Gamers: 78%
+  Ratio: 1.13
+  TA: '22'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Movin' On Up
+  Description: Move up in weight class in Legacy Mode.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 14129
+  Percentage of Gamers: 25%
+  Ratio: 2.01
+  TA: '60'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Undefeated
+  Description: Win 5 Consecutive Legacy Mode fights
+  GS: '20'
+  Guide: false
+  Number of Gamers: 40073
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: You're In The Game!
+  Description: Create a boxer using the Photo Game Face tool
+  GS: '5'
+  Guide: true
+  Number of Gamers: 13887
+  Percentage of Gamers: 24%
+  Ratio: 2.03
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - External Content
+- Achievement Name: My Style Is Impetuous
+  Description: Beat CPU Mike Tyson on G.O.A.T. using a created boxer in Fight Now
+  GS: '60'
+  Guide: true
+  Number of Gamers: 14701
+  Percentage of Gamers: 26%
+  Ratio: 1.97
+  TA: '118'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: XL
+  Description: Win the Middleweight Championship Belt in Online World Championship
+    Mode.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 465
+  Percentage of Gamers: 1%
+  Ratio: 11.11
+  TA: '555'
+  Tags:
+  - Discontinued
+- Achievement Name: L
+  Description: Win the  Lightweight Championship Belt in Online World Championship
+    Mode.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 445
+  Percentage of Gamers: 1%
+  Ratio: 11.35
+  TA: '283'
+  Tags:
+  - Discontinued
+- Achievement Name: Solid Contender
+  Description: Win 5 online ranked matches.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4519
+  Percentage of Gamers: 8%
+  Ratio: 3.56
+  TA: '106'
+  Tags:
+  - Discontinued
+- Achievement Name: Pain Brings Glory
+  Description: Win a match in Online World Championship Mode.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 5928
+  Percentage of Gamers: 10%
+  Ratio: 3.11
+  TA: '15'
+  Tags:
+  - Discontinued
+- Achievement Name: Comeback Kid
+  Description: Win a Online ranked match after being knocked down twice.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3416
+  Percentage of Gamers: 6%
+  Ratio: 4.09
+  TA: '40'
+  Tags:
+  - Discontinued
+- Achievement Name: Walk like ten men
+  Description: Win 10 Fight Now matches against the CPU
+  GS: '10'
+  Guide: true
+  Number of Gamers: 33384
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Buggy +
+- Achievement Name: David and Goliath
+  Description: Beat CPU Mike Tyson in Fight Now on G.O.A.T.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 17394
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '72'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: King of The Rope-a-Dope
+  Description: Beat CPU Muhammad Ali in Fight Now on G.O.A.T.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 15937
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '75'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Punch Drunk
+  Description: Win a Fight Now match vs the CPU while landing at least 250 jabs
+  GS: '10'
+  Guide: true
+  Number of Gamers: 17551
+  Percentage of Gamers: 31%
+  Ratio: 1.8
+  TA: '18'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Enough To Feed a Horse
+  Description: Win a Fight Now match vs the CPU while landing at least 10 haymakers
+  GS: '10'
+  Guide: true
+  Number of Gamers: 32127
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '13'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Precision Guided Pain
+  Description: Win a fight where you landed at least 70% of your punches vs CPU
+  GS: '50'
+  Guide: true
+  Number of Gamers: 42193
+  Percentage of Gamers: 73%
+  Ratio: 1.16
+  TA: '58'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: GOAT
+  Description: Retire as the G.O.A.T(unlocks achievements; Retiring as a Superstar
+    and Hall of Famer if not earned)
+  GS: '80'
+  Guide: true
+  Number of Gamers: 15011
+  Percentage of Gamers: 26%
+  Ratio: 1.95
+  TA: '156'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
+- Achievement Name: Big Gloves to Fill
+  Description: Retire as a Hall of Famer (unlocks achievement for retiring as a superstar
+    if not earned)
+  GS: '65'
+  Guide: true
+  Number of Gamers: 15304
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '125'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
+- Achievement Name: Flyswatter
+  Description: Beat CPU Muhammad Ali on G.O.A.T. using a created boxer in Fight Now
+  GS: '60'
+  Guide: true
+  Number of Gamers: 13831
+  Percentage of Gamers: 24%
+  Ratio: 2.03
+  TA: '122'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: XXL
+  Description: Win the Heavyweight Championship Belt in Online World Championship
+    Mode.
+  GS: '75'
+  Guide: true
+  Number of Gamers: 444
+  Percentage of Gamers: 1%
+  Ratio: 11.37
+  TA: '852'
+  Tags:
+  - Discontinued
+- Achievement Name: A Force to Reckon With
+  Description: Win 10 online ranked matches.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3374
+  Percentage of Gamers: 6%
+  Ratio: 4.12
+  TA: '61'
+  Tags:
+  - Discontinued
+- Achievement Name: New Blood
+  Description: Import a boxer into Legacy Mode
+  GS: '5'
+  Guide: true
+  Number of Gamers: 28417
+  Percentage of Gamers: 49%
+  Ratio: 1.42
+  TA: '7'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 3.258
+Base TA: 3258
+Delisted: false
+Developer: EA Vancouver
+Game Name: Fight Night Round 4
+Genres: Sports, Boxing
+Install Size: 4190.0
+Number of Completions: 329
+Number of Gamers: 57461
+Overall Completion Time:
+- 100.0
+- 120.0
+Overall GS: 1000
+Overall Ratio: 3.258
+Overall TA: 3258
+PDU: 7
+Percentage Completed: 0.57
+Publisher: Electronic Arts
+Release Date: 26 June 2009
+Server Closure: true
+Site Rating: 3.57
+Update Achievements: []
+Walkthrough: false

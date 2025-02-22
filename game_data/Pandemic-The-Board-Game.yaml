@@ -1,0 +1,350 @@
+Add On Achievements: []
+Base Completion Time:
+- 17.0
+- 24.0
+Base GS: 1200
+Base Game Achievements:
+- Achievement Name: Fighting Back
+  Description: Treat a disease.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 34756
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Clinical Laboratory Success
+  Description: Cure a disease.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 20080
+  Percentage of Gamers: 57%
+  Ratio: 1.31
+  TA: '65'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Eradication!
+  Description: Eradicate a disease.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 8132
+  Percentage of Gamers: 23%
+  Ratio: 2.07
+  TA: '103'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Disease Hunter
+  Description: Eradicate two diseases in a game.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 4264
+  Percentage of Gamers: 12%
+  Ratio: 2.86
+  TA: '143'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Disease Exterminator
+  Description: Eradicate three diseases in a game.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 2455
+  Percentage of Gamers: 7%
+  Ratio: 3.77
+  TA: '188'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Disease Annihilator
+  Description: Eradicate all four diseases in a game.
+  GS: '75'
+  Guide: true
+  Number of Gamers: 1196
+  Percentage of Gamers: 3%
+  Ratio: 5.4
+  TA: '405'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: 'Easy: But Not That Easy'
+  Description: Win a game with a normal level of difficulty.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 2185
+  Percentage of Gamers: 6%
+  Ratio: 4.0
+  TA: '200'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Difficulty Specific
+- Achievement Name: Getting Good
+  Description: Win a game with a hard level of difficulty.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1516
+  Percentage of Gamers: 4%
+  Ratio: 4.8
+  TA: '240'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Difficulty Specific
+- Achievement Name: The World Needs a Hero
+  Description: Win a game with a Heroic level of difficulty.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1333
+  Percentage of Gamers: 4%
+  Ratio: 5.12
+  TA: '256'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Difficulty Specific
+- Achievement Name: Pandemic Lover
+  Description: Win 5 games.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1800
+  Percentage of Gamers: 5%
+  Ratio: 4.4
+  TA: '220'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Cumulative +
+- Achievement Name: Pandemic Pro
+  Description: Win 15 games.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1003
+  Percentage of Gamers: 3%
+  Ratio: 5.9
+  TA: '295'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Cumulative +
+  - Buggy
+- Achievement Name: Pandemic Addict
+  Description: Win 40 games.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 648
+  Percentage of Gamers: 2%
+  Ratio: 7.34
+  TA: '367'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Cumulative +
+- Achievement Name: Pandemic God
+  Description: Win 100 games.
+  GS: '75'
+  Guide: true
+  Number of Gamers: 522
+  Percentage of Gamers: 1%
+  Ratio: 8.18
+  TA: '613'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Cumulative +
+- Achievement Name: Still Got Some Time
+  Description: Win with only 12 or more cards left in the Player Deck.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 5475
+  Percentage of Gamers: 16%
+  Ratio: 2.52
+  TA: '126'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Stackable
+- Achievement Name: Still Got Plenty of Time
+  Description: Win with 18 or more cards left in the Player Deck.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 3435
+  Percentage of Gamers: 10%
+  Ratio: 3.19
+  TA: '79'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Stackable
+- Achievement Name: Too Much Time on Your Hands
+  Description: Win with 24 or more cards left in the Player Deck.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 1925
+  Percentage of Gamers: 6%
+  Ratio: 4.26
+  TA: '106'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Stackable
+- Achievement Name: Flawless Victory
+  Description: Win without triggering any outbreaks.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 4326
+  Percentage of Gamers: 12%
+  Ratio: 2.84
+  TA: '71'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: On the Brink of Extinction
+  Description: Win a game in the last round.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 2395
+  Percentage of Gamers: 7%
+  Ratio: 3.82
+  TA: '95'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Dream Team
+  Description: "Win a game with the \u201CDream Team\" (the Medic, the Researcher\
+    \ and the Scientist)."
+  GS: '50'
+  Guide: true
+  Number of Gamers: 2907
+  Percentage of Gamers: 8%
+  Ratio: 3.46
+  TA: '173'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: United we stand
+  Description: Win a game with a team of 5.
+  GS: '75'
+  Guide: true
+  Number of Gamers: 1424
+  Percentage of Gamers: 4%
+  Ratio: 4.95
+  TA: '371'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Scholar
+  Description: Complete the 4 training sessions
+  GS: '25'
+  Guide: true
+  Number of Gamers: 1572
+  Percentage of Gamers: 4%
+  Ratio: 4.71
+  TA: '117'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 4.5625
+Base TA: 5475
+Delisted: true
+Developer: Twin Sails Interactive
+Game Name: 'Pandemic: The Board Game'
+Genres: Card & Board
+Install Size: 198.0
+Number of Completions: 481
+Number of Gamers: 34993
+Overall Completion Time:
+- 17.0
+- 24.0
+Overall GS: 1200
+Overall Ratio: 4.5625
+Overall TA: 5475
+PDU: 0
+Percentage Completed: 1.37
+Publisher: Twin Sails Interactive
+Release Date: 01 August 2019
+Server Closure: false
+Site Rating: 2.58
+Update Achievements:
+- Achievement Name: Up to the Challenge
+  Description: Win a game on Virulent Strain Challenge mode.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1414
+  Percentage of Gamers: 4%
+  Ratio: 4.97
+  TA: '248'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Are You Not Entertained?
+  Description: Win 10 games on Virulent Strain challenge mode.
+  GS: '75'
+  Guide: true
+  Number of Gamers: 798
+  Percentage of Gamers: 2%
+  Ratio: 6.61
+  TA: '496'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: I Am Legend
+  Description: Win a game on legendary difficulty.
+  GS: '75'
+  Guide: true
+  Number of Gamers: 980
+  Percentage of Gamers: 3%
+  Ratio: 5.97
+  TA: '448'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+Walkthrough: false

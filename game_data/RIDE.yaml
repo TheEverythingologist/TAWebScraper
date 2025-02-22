@@ -1,0 +1,617 @@
+Add On Achievements: []
+Base Completion Time:
+- 15.0
+- 20.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Connection
+  Description: Complete your first online race
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2424
+  Percentage of Gamers: 27%
+  Ratio: 1.9
+  TA: '19'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Digital Championship
+  Description: Complete an Online Championship
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1858
+  Percentage of Gamers: 21%
+  Ratio: 2.18
+  TA: '43'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Friends will be friends
+  Description: Enroll one of your friends in the team
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2711
+  Percentage of Gamers: 31%
+  Ratio: 1.8
+  TA: '18'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Community
+- Achievement Name: Tag Team
+  Description: Win a gold medal in a Team Race event of the World Tour
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3216
+  Percentage of Gamers: 36%
+  Ratio: 1.65
+  TA: '33'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Bite my dust!
+  Description: Win a gold medal in a Drag Race event of the World Tour
+  GS: '20'
+  Guide: true
+  Number of Gamers: 4154
+  Percentage of Gamers: 47%
+  Ratio: 1.45
+  TA: '29'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Against the clock
+  Description: Win a gold medal in a Time Attack event of the World Tour
+  GS: '20'
+  Guide: true
+  Number of Gamers: 4169
+  Percentage of Gamers: 47%
+  Ratio: 1.45
+  TA: '29'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Give way!
+  Description: Win a gold medal in a Track Day event of the World Tour
+  GS: '20'
+  Guide: false
+  Number of Gamers: 3532
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '31'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Durable
+  Description: Win a gold medal in a Endurance event of the World Tour
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2355
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '38'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Be a racer
+  Description: Buy an Aprilia bike
+  GS: '10'
+  Guide: false
+  Number of Gamers: 3707
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Handmade perfection
+  Description: Buy a Bimota bike
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2672
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Ultimate riding machine
+  Description: Buy a BMW bike
+  GS: '10'
+  Guide: false
+  Number of Gamers: 3455
+  Percentage of Gamers: 39%
+  Ratio: 1.59
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: True red passion
+  Description: Buy a Ducati bike
+  GS: '10'
+  Guide: false
+  Number of Gamers: 4271
+  Percentage of Gamers: 48%
+  Ratio: 1.43
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: The power of a dream
+  Description: Buy a Honda bike
+  GS: '10'
+  Guide: false
+  Number of Gamers: 3515
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: I'm a Ninja not a turtle
+  Description: Buy a Kawasaki bike
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4054
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: I'm ready to race
+  Description: Buy a KTM bike
+  GS: '10'
+  Guide: false
+  Number of Gamers: 3510
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Italian Motorcycle Art
+  Description: Buy a MV Agusta bike
+  GS: '10'
+  Guide: false
+  Number of Gamers: 3862
+  Percentage of Gamers: 44%
+  Ratio: 1.51
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: The Way of Life
+  Description: Buy a Suzuki bike
+  GS: '10'
+  Guide: false
+  Number of Gamers: 3544
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: British Pride
+  Description: Buy a Triumph bike
+  GS: '10'
+  Guide: false
+  Number of Gamers: 3142
+  Percentage of Gamers: 36%
+  Ratio: 1.67
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Electrifying
+  Description: Buy an Energica bike or a Lightning bike
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2312
+  Percentage of Gamers: 26%
+  Ratio: 1.95
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Rev up your heart
+  Description: Buy a Yamaha bike
+  GS: '10'
+  Guide: false
+  Number of Gamers: 3587
+  Percentage of Gamers: 41%
+  Ratio: 1.57
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: American Muscles
+  Description: Buy an EBR Bike
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2566
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: This is Ride!
+  Description: Enter the World Tour game mode
+  GS: '10'
+  Guide: true
+  Number of Gamers: 8274
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Starting from the bottom
+  Description: Reach the 300th position of the Ranking of the World Tour
+  GS: '10'
+  Guide: true
+  Number of Gamers: 6440
+  Percentage of Gamers: 73%
+  Ratio: 1.17
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Step by step
+  Description: Reach the 200th position of the Ranking of the World Tour
+  GS: '10'
+  Guide: false
+  Number of Gamers: 3963
+  Percentage of Gamers: 45%
+  Ratio: 1.49
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Top 100
+  Description: Reach the 100th position of the Ranking of the World Tour
+  GS: '20'
+  Guide: false
+  Number of Gamers: 3286
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '32'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Keep Going!
+  Description: Reach the 50th position of the Ranking of the World Tour
+  GS: '20'
+  Guide: false
+  Number of Gamers: 3086
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '33'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: High Society
+  Description: Reach the 25th position of the Ranking of the World Tour
+  GS: '20'
+  Guide: false
+  Number of Gamers: 2986
+  Percentage of Gamers: 34%
+  Ratio: 1.72
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Top 10
+  Description: Reach the 10th position of the Ranking of the World Tour
+  GS: '20'
+  Guide: false
+  Number of Gamers: 2917
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Monocycle
+  Description: Pull a continuous wheelie for 8 seconds in any game mode
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2892
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '34'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: For the fans
+  Description: Pull a stoppie for 2 seconds in any game mode
+  GS: '20'
+  Guide: true
+  Number of Gamers: 4127
+  Percentage of Gamers: 47%
+  Ratio: 1.46
+  TA: '29'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: They used to call me McFly
+  Description: Use a Rewind in any game mode
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7312
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '10'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Try and get me
+  Description: Reach 280 Km/h (174 mph) in any game mode
+  GS: '20'
+  Guide: true
+  Number of Gamers: 4169
+  Percentage of Gamers: 47%
+  Ratio: 1.45
+  TA: '29'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: A ghost has appeared
+  Description: Complete a valid lap in Time Trial game mode
+  GS: '20'
+  Guide: true
+  Number of Gamers: 4755
+  Percentage of Gamers: 54%
+  Ratio: 1.36
+  TA: '27'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Men at work
+  Description: Enter the bike settings menu
+  GS: '10'
+  Guide: true
+  Number of Gamers: 6297
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '11'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Admiring
+  Description: Enter the Free Camera menu from the pause of any race
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4448
+  Percentage of Gamers: 50%
+  Ratio: 1.4
+  TA: '14'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: One bike leads to another
+  Description: Reach a total of 10 bikes in your collection
+  GS: '10'
+  Guide: false
+  Number of Gamers: 3283
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Just the beginning
+  Description: Reach a total of 5 bikes in your collection
+  GS: '10'
+  Guide: false
+  Number of Gamers: 4017
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Spacious garage
+  Description: Reach a total of 15 bikes in your collection
+  GS: '20'
+  Guide: false
+  Number of Gamers: 2902
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: The Aristocrat
+  Description: Change the "Title" of your rider
+  GS: '20'
+  Guide: true
+  Number of Gamers: 4336
+  Percentage of Gamers: 49%
+  Ratio: 1.42
+  TA: '28'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Personal touch
+  Description: Buy a new component for one of your bike
+  GS: '10'
+  Guide: true
+  Number of Gamers: 6536
+  Percentage of Gamers: 74%
+  Ratio: 1.16
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Swag!
+  Description: Change one of the gears of your rider
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5001
+  Percentage of Gamers: 57%
+  Ratio: 1.32
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Half you, half me
+  Description: Complete a race in Split Screen game mode
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2749
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Versus
+  - Host Only
+- Achievement Name: It's better with friends
+  Description: Complete 20 online races
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1534
+  Percentage of Gamers: 17%
+  Ratio: 2.4
+  TA: '72'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+  - Buggy
+- Achievement Name: Halfway
+  Description: Win a Bronze medal in 4 different Elite Trophies of the World Tour
+  GS: '30'
+  Guide: false
+  Number of Gamers: 2938
+  Percentage of Gamers: 33%
+  Ratio: 1.73
+  TA: '52'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: I've lost count
+  Description: Reach a total of 25 bikes in your collection
+  GS: '30'
+  Guide: false
+  Number of Gamers: 2391
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '57'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: The Collector
+  Description: Reach a total of 50 bikes in your collection
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1722
+  Percentage of Gamers: 19%
+  Ratio: 2.26
+  TA: '67'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Last one, I swear!
+  Description: Reach a total of 20 bikes in your collection
+  GS: '30'
+  Guide: false
+  Number of Gamers: 2638
+  Percentage of Gamers: 30%
+  Ratio: 1.83
+  TA: '54'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: The world is yours
+  Description: Win a Gold medal in each Elite Trophy of the World Tour
+  GS: '90'
+  Guide: false
+  Number of Gamers: 2506
+  Percentage of Gamers: 28%
+  Ratio: 1.87
+  TA: '169'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Best in the World
+  Description: Reach the 1st position of the Ranking of the World Tour
+  GS: '90'
+  Guide: true
+  Number of Gamers: 2889
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '157'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Moneybags
+  Description: Reach a balance of 100,000 credits
+  GS: '90'
+  Guide: true
+  Number of Gamers: 3537
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '142'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative
+Base Ratio: 1.669
+Base TA: 1669
+Delisted: false
+Developer: Milestone
+Game Name: RIDE
+Genres: Simulation Racing, Automobile
+Install Size: 26240.0
+Number of Completions: 1184
+Number of Gamers: 8842
+Overall Completion Time:
+- 15.0
+- 20.0
+Overall GS: 1000
+Overall Ratio: 1.669
+Overall TA: 1669
+PDU: 0
+Percentage Completed: 13.39
+Publisher: Milestone
+Release Date: 10 April 2015
+Server Closure: false
+Site Rating: 3.27
+Update Achievements: []
+Walkthrough: false

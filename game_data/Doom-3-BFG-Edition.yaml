@@ -1,0 +1,664 @@
+Add On Achievements: []
+Base Completion Time:
+- 25.0
+- 30.0
+Base GS: 600
+Base Game Achievements:
+- Achievement Name: DOOMed Recruit
+  Description: Complete the DOOM 3 single player campaign on Recruit
+  GS: '5'
+  Guide: true
+  Number of Gamers: 8666
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '8'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
+  - Stackable
+- Achievement Name: DOOMed Marine
+  Description: Complete the DOOM 3 single player campaign on Marine
+  GS: '10'
+  Guide: true
+  Number of Gamers: 6843
+  Percentage of Gamers: 28%
+  Ratio: 1.9
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: DOOMed Veteran
+  Description: Complete the DOOM 3 single player campaign on Veteran
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2538
+  Percentage of Gamers: 10%
+  Ratio: 3.12
+  TA: '46'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: DOOMed Nightmare
+  Description: Complete the DOOM 3 single player campaign on Nightmare
+  GS: '20'
+  Guide: true
+  Number of Gamers: 876
+  Percentage of Gamers: 4%
+  Ratio: 5.31
+  TA: '106'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+  - Multiple Playthroughs Required
+- Achievement Name: DOOMed Collector
+  Description: Collect every PDA in DOOM 3
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1486
+  Percentage of Gamers: 6%
+  Ratio: 4.08
+  TA: '61'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Missable
+- Achievement Name: I Like to Watch
+  Description: Find all video logs in DOOM 3
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2180
+  Percentage of Gamers: 9%
+  Ratio: 3.36
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Missable
+- Achievement Name: That was Close!
+  Description: Kill an enemy with 1 health remaining in DOOM 3, RoE, or Lost Mission
+  GS: '15'
+  Guide: true
+  Number of Gamers: 13043
+  Percentage of Gamers: 53%
+  Ratio: 1.37
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Goody Finder
+  Description: Open all storage lockers in DOOM 3
+  GS: '15'
+  Guide: true
+  Number of Gamers: 4519
+  Percentage of Gamers: 18%
+  Ratio: 2.34
+  TA: '35'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Missable
+  - Buggy +
+  - Buggy
+- Achievement Name: Unarmed Badass
+  Description: Kill 20 enemies with the fists/melee hands in DOOM 3
+  GS: '10'
+  Guide: true
+  Number of Gamers: 9206
+  Percentage of Gamers: 37%
+  Ratio: 1.63
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Cumulative +
+- Achievement Name: To Be or Not to Be
+  Description: Kill the scientist trapped next to the Reactor Control Room in DOOM
+    3
+  GS: '5'
+  Guide: true
+  Number of Gamers: 11193
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '7'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Double the Fun!
+  Description: Kill 2 Imps with one shotgun blast in DOOM 3, RoE, or Lost Mission
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4644
+  Percentage of Gamers: 19%
+  Ratio: 2.3
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Killing time
+  Description: Score 25000 on Super Turbo Turkey Puncher 3 in DOOM 3 or RoE
+  GS: '5'
+  Guide: true
+  Number of Gamers: 14811
+  Percentage of Gamers: 60%
+  Ratio: 1.29
+  TA: '6'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Boomtastic
+  Description: Blow up 50 barrels in the DOOM 3, RoE, or Lost Mission campaigns
+  GS: '10'
+  Guide: true
+  Number of Gamers: 13965
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Ready for Action!
+  Description: Get the BFG-9000 from Security Chief's office in DOOM 3
+  GS: '10'
+  Guide: true
+  Number of Gamers: 8538
+  Percentage of Gamers: 35%
+  Ratio: 1.7
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Missable
+- Achievement Name: Not a Scratch
+  Description: Complete a level without taking any damage in DOOM 3, RoE, or Lost
+    Mission (except Mars City)
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3104
+  Percentage of Gamers: 13%
+  Ratio: 2.82
+  TA: '56'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: RAGE
+  Description: Find the RAGE logo in the Lost Mission
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3690
+  Percentage of Gamers: 15%
+  Ratio: 2.58
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Missable
+- Achievement Name: Speed Run
+  Description: Complete the DOOM 3 single player campaign in 10 hours or less
+  GS: '20'
+  Guide: true
+  Number of Gamers: 5955
+  Percentage of Gamers: 24%
+  Ratio: 2.03
+  TA: '40'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Time/Date
+- Achievement Name: Sticky Situation
+  Description: Defeat the Vagary boss in DOOM 3
+  GS: '15'
+  Guide: true
+  Number of Gamers: 15593
+  Percentage of Gamers: 63%
+  Ratio: 1.25
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Cookie Stealer
+  Description: Defeat Guardian boss in DOOM 3
+  GS: '15'
+  Guide: true
+  Number of Gamers: 9601
+  Percentage of Gamers: 39%
+  Ratio: 1.6
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: You're Not My Boss!
+  Description: Defeat Sabaoth boss in DOOM 3
+  GS: '15'
+  Guide: true
+  Number of Gamers: 8991
+  Percentage of Gamers: 36%
+  Ratio: 1.65
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Big Boy
+  Description: Defeat Cyberdemon boss in DOOM 3
+  GS: '15'
+  Guide: true
+  Number of Gamers: 8665
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Bot Buddy
+  Description: Keep a Sentry Bot alive to its destination in DOOM 3, RoE, or Lost
+    Mission (except Mars City)
+  GS: '10'
+  Guide: true
+  Number of Gamers: 15231
+  Percentage of Gamers: 62%
+  Ratio: 1.27
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Ripped!
+  Description: Use the chainsaw to kill 20 enemies in DOOM 3
+  GS: '10'
+  Guide: true
+  Number of Gamers: 11940
+  Percentage of Gamers: 48%
+  Ratio: 1.43
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Buggy +
+- Achievement Name: All of Us
+  Description: Find the id logo secret room in DOOM 3
+  GS: '10'
+  Guide: true
+  Number of Gamers: 6091
+  Percentage of Gamers: 25%
+  Ratio: 2.01
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Missable
+- Achievement Name: You Laugh, It Works
+  Description: Find the bloody handiwork of Betruger (in Delta 4 Hallway) in DOOM
+    3
+  GS: '5'
+  Guide: true
+  Number of Gamers: 7657
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '8'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Missable
+- Achievement Name: Turncoat
+  Description: Get 2 demons to fight each other in DOOM 3, RoE, or Lost Mission
+  GS: '10'
+  Guide: true
+  Number of Gamers: 12299
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Soulfood
+  Description: Use the Soul Cube to defeat 20 enemies in DOOM 3
+  GS: '10'
+  Guide: true
+  Number of Gamers: 8005
+  Percentage of Gamers: 32%
+  Ratio: 1.75
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Evil Recruit
+  Description: Complete the RoE campaign on Recruit
+  GS: '5'
+  Guide: true
+  Number of Gamers: 5114
+  Percentage of Gamers: 21%
+  Ratio: 2.19
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Stackable
+- Achievement Name: Evil Marine
+  Description: Complete the RoE campaign on Marine
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4094
+  Percentage of Gamers: 17%
+  Ratio: 2.45
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Evil Veteran
+  Description: Complete the RoE campaign on Veteran
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1857
+  Percentage of Gamers: 8%
+  Ratio: 3.65
+  TA: '54'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Evil Nightmare
+  Description: Complete the RoE campaign on Nightmare
+  GS: '20'
+  Guide: true
+  Number of Gamers: 801
+  Percentage of Gamers: 3%
+  Ratio: 5.55
+  TA: '111'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+  - Multiple Playthroughs Required
+- Achievement Name: Evil Collector
+  Description: Collect every PDA in the RoE campaign
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2363
+  Percentage of Gamers: 10%
+  Ratio: 3.23
+  TA: '32'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Missable
+- Achievement Name: Too Slow, Fool!
+  Description: Kill 5 enemies at once while in Hell Time in RoE
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3603
+  Percentage of Gamers: 15%
+  Ratio: 2.62
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Gimme Time!
+  Description: Defeat the Helltime Hunter in RoE
+  GS: '15'
+  Guide: true
+  Number of Gamers: 7659
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Gimme Power!
+  Description: Defeat the Berserk Hunter in RoE
+  GS: '15'
+  Guide: true
+  Number of Gamers: 5562
+  Percentage of Gamers: 22%
+  Ratio: 2.1
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Shocking!
+  Description: Defeat the Invulnerability Hunter in RoE
+  GS: '15'
+  Guide: true
+  Number of Gamers: 5361
+  Percentage of Gamers: 22%
+  Ratio: 2.14
+  TA: '32'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Eat This!
+  Description: Defeat the Maledict boss in RoE
+  GS: '15'
+  Guide: true
+  Number of Gamers: 5115
+  Percentage of Gamers: 21%
+  Ratio: 2.19
+  TA: '32'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Play Catch
+  Description: Kill 20 enemies with projectiles launched from the Grabber in RoE
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4916
+  Percentage of Gamers: 20%
+  Ratio: 2.24
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Fists of Fury
+  Description: Use the Artifact with Berserk ability to punch out 20 enemies in RoE
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2720
+  Percentage of Gamers: 11%
+  Ratio: 3.01
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Lost Recruit
+  Description: Complete the Lost Mission campaign on Recruit
+  GS: '5'
+  Guide: false
+  Number of Gamers: 5319
+  Percentage of Gamers: 21%
+  Ratio: 2.15
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Stackable
+- Achievement Name: Lost Marine
+  Description: Complete the Lost Mission campaign on Marine
+  GS: '10'
+  Guide: false
+  Number of Gamers: 4312
+  Percentage of Gamers: 17%
+  Ratio: 2.39
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Lost Veteran
+  Description: Complete the Lost Mission campaign on Veteran
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2075
+  Percentage of Gamers: 8%
+  Ratio: 3.45
+  TA: '51'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Lost Nightmare
+  Description: Complete the Lost Mission campaign on Nightmare
+  GS: '20'
+  Guide: true
+  Number of Gamers: 913
+  Percentage of Gamers: 4%
+  Ratio: 5.2
+  TA: '104'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+  - Multiple Playthroughs Required
+- Achievement Name: Lost Collector
+  Description: Collect every PDA in the Lost Mission campaign
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4238
+  Percentage of Gamers: 17%
+  Ratio: 2.41
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Missable
+- Achievement Name: Telefragged!
+  Description: Kill an enemy player by jumping into a teleporter after them in DOOM
+    3 Multiplayer
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2642
+  Percentage of Gamers: 11%
+  Ratio: 3.06
+  TA: '30'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Crushed!
+  Description: Catch an enemy player in the Reactor of Frag Chamber in DOOM 3 Multiplayer
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2722
+  Percentage of Gamers: 11%
+  Ratio: 3.01
+  TA: '30'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Ninja Killer
+  Description: Kill 5 enemy players while using Invisibility in DOOM 3 Multiplayer
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2472
+  Percentage of Gamers: 10%
+  Ratio: 3.16
+  TA: '31'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Clean Sheet
+  Description: Complete a DOOM 3 Multiplayer match without dying
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3247
+  Percentage of Gamers: 13%
+  Ratio: 2.76
+  TA: '41'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Berserked!
+  Description: Use Berserk to kill a player in DOOM 3 Multiplayer
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2984
+  Percentage of Gamers: 12%
+  Ratio: 2.87
+  TA: '28'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: 2 Deaths - 1 Gun
+  Description: Kill two enemies in the same room with a rocket in DOOM 3 Multiplayer
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1949
+  Percentage of Gamers: 8%
+  Ratio: 3.56
+  TA: '35'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+Base Ratio: 2.6016666666666666
+Base TA: 1561
+Delisted: false
+Developer: id Software
+Game Name: 'DOOM 3: BFG Edition'
+Genres: First Person Shooter, Action Horror
+Install Size: null
+Number of Completions: 578
+Number of Gamers: 24744
+Overall Completion Time:
+- 25.0
+- 30.0
+Overall GS: 600
+Overall Ratio: 2.6016666666666666
+Overall TA: 1561
+PDU: 0
+Percentage Completed: 2.34
+Publisher: Bethesda Softworks
+Release Date: 16 October 2012
+Server Closure: false
+Site Rating: 3.92
+Update Achievements: []
+Walkthrough: false

@@ -1,0 +1,583 @@
+Add On Achievements: []
+Base Completion Time:
+- 40.0
+- 50.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Get your feet wet
+  Description: Finish the Prologue
+  GS: '10'
+  Guide: true
+  Number of Gamers: 38386
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Drenched in vomit, but victorious
+  Description: Finish Act I
+  GS: '10'
+  Guide: true
+  Number of Gamers: 12963
+  Percentage of Gamers: 34%
+  Ratio: 1.72
+  TA: '17'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+  - Buggy
+- Achievement Name: A worthy adversary
+  Description: Finish Act II
+  GS: '10'
+  Guide: true
+  Number of Gamers: 9696
+  Percentage of Gamers: 25%
+  Ratio: 1.99
+  TA: '19'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+  - Buggy
+- Achievement Name: Resist temptation
+  Description: Finish Act III
+  GS: '10'
+  Guide: true
+  Number of Gamers: 8388
+  Percentage of Gamers: 22%
+  Ratio: 2.14
+  TA: '21'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+  - Buggy
+- Achievement Name: For the Empire!
+  Description: Finish the game as Konrad
+  GS: '30'
+  Guide: false
+  Number of Gamers: 2891
+  Percentage of Gamers: 7%
+  Ratio: 3.65
+  TA: '109'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Story Completed
+- Achievement Name: The beginning of redemption
+  Description: Finish the game as Elontir
+  GS: '30'
+  Guide: false
+  Number of Gamers: 3226
+  Percentage of Gamers: 8%
+  Ratio: 3.46
+  TA: '103'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Story Completed
+- Achievement Name: The forest can now breathe
+  Description: Finish the game as Elessa
+  GS: '30'
+  Guide: false
+  Number of Gamers: 3642
+  Percentage of Gamers: 9%
+  Ratio: 3.25
+  TA: '97'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Story Completed
+- Achievement Name: Still no worthy adversary
+  Description: Finish the game as Bragi
+  GS: '30'
+  Guide: false
+  Number of Gamers: 2932
+  Percentage of Gamers: 8%
+  Ratio: 3.63
+  TA: '108'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Story Completed
+- Achievement Name: Happily ever after...
+  Description: Finish the game as all characters
+  GS: '90'
+  Guide: true
+  Number of Gamers: 1316
+  Percentage of Gamers: 3%
+  Ratio: 5.42
+  TA: '487'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Multiple Playthroughs Required
+- Achievement Name: Blood on your hands
+  Description: Use bloodlust
+  GS: '10'
+  Guide: true
+  Number of Gamers: 19599
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '14'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Half way there
+  Description: Reach level 25 with any character
+  GS: '10'
+  Guide: false
+  Number of Gamers: 11426
+  Percentage of Gamers: 30%
+  Ratio: 1.83
+  TA: '18'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Best of the best
+  Description: Reach level 50 with any character
+  GS: '30'
+  Guide: true
+  Number of Gamers: 7919
+  Percentage of Gamers: 20%
+  Ratio: 2.2
+  TA: '66'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Fair trade
+  Description: Trade 50 Fragments with the Collectors' Guild
+  GS: '15'
+  Guide: true
+  Number of Gamers: 5842
+  Percentage of Gamers: 15%
+  Ratio: 2.57
+  TA: '38'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+  - Shop
+- Achievement Name: No hard feelings
+  Description: Kill a boss on "Very hard" difficulty
+  GS: '15'
+  Guide: true
+  Number of Gamers: 6474
+  Percentage of Gamers: 17%
+  Ratio: 2.44
+  TA: '36'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: Relic hunter
+  Description: Complete your first Relic Hunt
+  GS: '15'
+  Guide: true
+  Number of Gamers: 5572
+  Percentage of Gamers: 14%
+  Ratio: 2.63
+  TA: '39'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Buggy
+- Achievement Name: Daily routine
+  Description: Complete 50 Relic Hunts
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1305
+  Percentage of Gamers: 3%
+  Ratio: 5.44
+  TA: '81'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Hand of god
+  Description: Use a God Skill
+  GS: '10'
+  Guide: true
+  Number of Gamers: 9583
+  Percentage of Gamers: 25%
+  Ratio: 2.0
+  TA: '20'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: For your work shall be rewarded...
+  Description: Unlock your first reward from the God Skill Tree
+  GS: '15'
+  Guide: true
+  Number of Gamers: 13895
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '25'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Big game hunter
+  Description: Kill a boss in Boss Rush on at least "Chaos 2" difficulty
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4071
+  Percentage of Gamers: 11%
+  Ratio: 3.08
+  TA: '92'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: Chaos hunting
+  Description: Kill all bosses in Boss Rush on at least "Chaos 2" difficulty
+  GS: '90'
+  Guide: true
+  Number of Gamers: 2663
+  Percentage of Gamers: 7%
+  Ratio: 3.81
+  TA: '342'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: In the lap of the wrong gods
+  Description: Kill 1,000 cultists
+  GS: '15'
+  Guide: false
+  Number of Gamers: 13643
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '25'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Horror of horrors
+  Description: Kill 1,000 Ungors
+  GS: '15'
+  Guide: true
+  Number of Gamers: 10781
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '28'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Daemon slayer
+  Description: Kill 1,000 daemons
+  GS: '15'
+  Guide: true
+  Number of Gamers: 18483
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '21'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Scourge of Chaos
+  Description: Kill 100 champions
+  GS: '15'
+  Guide: false
+  Number of Gamers: 10491
+  Percentage of Gamers: 27%
+  Ratio: 1.91
+  TA: '28'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Death to all abominations
+  Description: Kill a Jabberslythe
+  GS: '15'
+  Guide: true
+  Number of Gamers: 13869
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '25'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: The urge to purge
+  Description: Kill a Mutalith
+  GS: '15'
+  Guide: false
+  Number of Gamers: 13941
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '24'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Coordinated
+  Description: Complete your first set of equipment
+  GS: '15'
+  Guide: true
+  Number of Gamers: 7449
+  Percentage of Gamers: 19%
+  Ratio: 2.27
+  TA: '34'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Battle-ready
+  Description: Be fully equipped
+  GS: '15'
+  Guide: true
+  Number of Gamers: 26680
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '18'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: A shining example
+  Description: Be fully equipped with rare or heroic items
+  GS: '90'
+  Guide: true
+  Number of Gamers: 11022
+  Percentage of Gamers: 28%
+  Ratio: 1.87
+  TA: '168'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Divine emissary
+  Description: Buy all rewards available on the God Skill Tree
+  GS: '30'
+  Guide: true
+  Number of Gamers: 7175
+  Percentage of Gamers: 19%
+  Ratio: 2.32
+  TA: '69'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Kind soul
+  Description: Donate 100 items to the Collectors' Guild
+  GS: '15'
+  Guide: true
+  Number of Gamers: 15423
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '23'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Hallowed be thy gear
+  Description: Bless your first item
+  GS: '15'
+  Guide: true
+  Number of Gamers: 8348
+  Percentage of Gamers: 22%
+  Ratio: 2.15
+  TA: '32'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Possessed
+  Description: Bless a heroic item 50 times
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1896
+  Percentage of Gamers: 5%
+  Ratio: 4.51
+  TA: '135'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: All that glitters...
+  Description: Collect 100 Fragments
+  GS: '15'
+  Guide: true
+  Number of Gamers: 20973
+  Percentage of Gamers: 54%
+  Ratio: 1.35
+  TA: '20'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Deep pockets
+  Description: Collect 1,000 pieces of gear
+  GS: '15'
+  Guide: true
+  Number of Gamers: 5762
+  Percentage of Gamers: 15%
+  Ratio: 2.58
+  TA: '38'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Treasure hunter
+  Description: Find 100 rare or heroic pieces of gear
+  GS: '30'
+  Guide: true
+  Number of Gamers: 8769
+  Percentage of Gamers: 23%
+  Ratio: 2.09
+  TA: '62'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Eyes on the prize
+  Description: Find your first heroic item (not a quest reward)
+  GS: '30'
+  Guide: true
+  Number of Gamers: 7826
+  Percentage of Gamers: 20%
+  Ratio: 2.22
+  TA: '66'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Veni Vidi Vici
+  Description: Kill a boss on "Chaos 5" difficulty
+  GS: '30'
+  Guide: true
+  Number of Gamers: 2239
+  Percentage of Gamers: 6%
+  Ratio: 4.15
+  TA: '124'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: Curiouser and curiouser
+  Description: Open 50 chests
+  GS: '15'
+  Guide: true
+  Number of Gamers: 10407
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '28'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Opportunist
+  Description: Complete a side quest
+  GS: '15'
+  Guide: true
+  Number of Gamers: 7544
+  Percentage of Gamers: 20%
+  Ratio: 2.26
+  TA: '33'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Completionist
+  Description: Complete 50 side quests
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1840
+  Percentage of Gamers: 5%
+  Ratio: 4.58
+  TA: '68'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Good strategist
+  Description: Kill an elite with a build made from at least 90 Skill Points
+  GS: '15'
+  Guide: true
+  Number of Gamers: 6889
+  Percentage of Gamers: 18%
+  Ratio: 2.36
+  TA: '35'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Filthy rich
+  Description: Acquire 100,000 gold pieces
+  GS: '15'
+  Guide: true
+  Number of Gamers: 10578
+  Percentage of Gamers: 27%
+  Ratio: 1.91
+  TA: '28'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+Base Ratio: 2.874
+Base TA: 2874
+Delisted: false
+Developer: Eko Software
+Game Name: 'Warhammer: Chaosbane'
+Genres: Action-RPG, Role Playing, Dungeon Crawler
+Install Size: 11980.0
+Number of Completions: 1064
+Number of Gamers: 38684
+Overall Completion Time:
+- 40.0
+- 50.0
+Overall GS: 1000
+Overall Ratio: 2.874
+Overall TA: 2874
+PDU: 0
+Percentage Completed: 2.75
+Publisher: Nacon, Maximum Entertainment
+Release Date: 04 June 2019
+Server Closure: false
+Site Rating: 3.37
+Update Achievements: []
+Walkthrough: false

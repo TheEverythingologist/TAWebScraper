@@ -1,0 +1,492 @@
+Add On Achievements: []
+Base Completion Time:
+- 60.0
+- 80.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Winner, Winner
+  Description: Win a race
+  GS: '5'
+  Guide: false
+  Number of Gamers: 875
+  Percentage of Gamers: 81%
+  Ratio: 1.1
+  TA: '5'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Big Shot
+  Description: Win 10 races
+  GS: '10'
+  Guide: false
+  Number of Gamers: 532
+  Percentage of Gamers: 49%
+  Ratio: 1.42
+  TA: '14'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Star Driver
+  Description: Win 25 races
+  GS: '20'
+  Guide: false
+  Number of Gamers: 409
+  Percentage of Gamers: 38%
+  Ratio: 1.61
+  TA: '32'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Legendary
+  Description: Win 50 races
+  GS: '30'
+  Guide: false
+  Number of Gamers: 273
+  Percentage of Gamers: 25%
+  Ratio: 1.98
+  TA: '59'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Among the Greats
+  Description: Win 75 races
+  GS: '40'
+  Guide: false
+  Number of Gamers: 192
+  Percentage of Gamers: 18%
+  Ratio: 2.36
+  TA: '94'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Best of the Best
+  Description: Win 100 races
+  GS: '50'
+  Guide: false
+  Number of Gamers: 153
+  Percentage of Gamers: 14%
+  Ratio: 2.64
+  TA: '132'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: No One Better
+  Description: Win 200 races
+  GS: '75'
+  Guide: false
+  Number of Gamers: 98
+  Percentage of Gamers: 9%
+  Ratio: 3.3
+  TA: '248'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Test of Endurance
+  Description: Complete a 100% length race
+  GS: '25'
+  Guide: false
+  Number of Gamers: 331
+  Percentage of Gamers: 31%
+  Ratio: 1.8
+  TA: '45'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Top Endurance
+  Description: Win a 100% length race
+  GS: '25'
+  Guide: false
+  Number of Gamers: 306
+  Percentage of Gamers: 28%
+  Ratio: 1.87
+  TA: '46'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Well-Traveled
+  Description: Race at every track
+  GS: '10'
+  Guide: false
+  Number of Gamers: 155
+  Percentage of Gamers: 14%
+  Ratio: 2.63
+  TA: '26'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Champion of the Couch
+  Description: Win a race in split-screen
+  GS: '5'
+  Guide: false
+  Number of Gamers: 211
+  Percentage of Gamers: 20%
+  Ratio: 2.25
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Versus
+- Achievement Name: Sweet Suit!
+  Description: Create a character
+  GS: '5'
+  Guide: false
+  Number of Gamers: 1001
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '5'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Sweet Ride!
+  Description: Create a custom car
+  GS: '5'
+  Guide: false
+  Number of Gamers: 865
+  Percentage of Gamers: 80%
+  Ratio: 1.11
+  TA: '5'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Sprint 305 Veteran
+  Description: Complete a season in a Sprint 305 Car
+  GS: '10'
+  Guide: false
+  Number of Gamers: 722
+  Percentage of Gamers: 67%
+  Ratio: 1.21
+  TA: '12'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Stadium Trucks Veteran
+  Description: Complete a season in a Stadium Truck
+  GS: '10'
+  Guide: false
+  Number of Gamers: 420
+  Percentage of Gamers: 39%
+  Ratio: 1.59
+  TA: '15'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Late Model Veteran
+  Description: Complete a season in a Late Model Car
+  GS: '10'
+  Guide: false
+  Number of Gamers: 293
+  Percentage of Gamers: 27%
+  Ratio: 1.91
+  TA: '19'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: SRX Veteran
+  Description: Complete a season in an SRX Car
+  GS: '10'
+  Guide: false
+  Number of Gamers: 241
+  Percentage of Gamers: 22%
+  Ratio: 2.11
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Sprint 305 Champion
+  Description: Win a season in a Sprint 305 Car
+  GS: '40'
+  Guide: false
+  Number of Gamers: 459
+  Percentage of Gamers: 43%
+  Ratio: 1.52
+  TA: '61'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Stadium Trucks Champion
+  Description: Win a season in a Stadium Truck
+  GS: '40'
+  Guide: false
+  Number of Gamers: 337
+  Percentage of Gamers: 31%
+  Ratio: 1.78
+  TA: '71'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Late Model Champion
+  Description: Win a season in a Late Model Car
+  GS: '40'
+  Guide: false
+  Number of Gamers: 291
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '76'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: SRX Champion
+  Description: Win a season in an SRX Car
+  GS: '40'
+  Guide: false
+  Number of Gamers: 238
+  Percentage of Gamers: 22%
+  Ratio: 2.12
+  TA: '84'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Rookie of the Year
+  Description: Complete one season in Career
+  GS: '10'
+  Guide: false
+  Number of Gamers: 486
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '14'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Name Recognition
+  Description: Complete 5 seasons in Career
+  GS: '50'
+  Guide: false
+  Number of Gamers: 255
+  Percentage of Gamers: 24%
+  Ratio: 2.05
+  TA: '102'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Well-Known
+  Description: Complete 10 seasons in Career
+  GS: '75'
+  Guide: true
+  Number of Gamers: 467
+  Percentage of Gamers: 43%
+  Ratio: 1.51
+  TA: '113'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Sprint 305 Racer
+  Description: Start a team racing Sprint 305 Cars
+  GS: '10'
+  Guide: false
+  Number of Gamers: 688
+  Percentage of Gamers: 64%
+  Ratio: 1.24
+  TA: '12'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Stadium Trucks Racer
+  Description: Start a team racing Stadium Trucks
+  GS: '10'
+  Guide: false
+  Number of Gamers: 409
+  Percentage of Gamers: 38%
+  Ratio: 1.61
+  TA: '16'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Late Model Racer
+  Description: Start a team racing Late Model Cars
+  GS: '10'
+  Guide: false
+  Number of Gamers: 323
+  Percentage of Gamers: 30%
+  Ratio: 1.82
+  TA: '18'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: SRX Racer
+  Description: Start a team racing SRX Cars
+  GS: '10'
+  Guide: false
+  Number of Gamers: 277
+  Percentage of Gamers: 26%
+  Ratio: 1.96
+  TA: '19'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: First of Many
+  Description: Win a race in Career mode
+  GS: '20'
+  Guide: false
+  Number of Gamers: 600
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Stacks Upon Stacks
+  Description: Earn $5,000,000 in Career
+  GS: '75'
+  Guide: false
+  Number of Gamers: 198
+  Percentage of Gamers: 18%
+  Ratio: 2.32
+  TA: '174'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Shopping Trip
+  Description: Buy a part in Career
+  GS: '5'
+  Guide: false
+  Number of Gamers: 690
+  Percentage of Gamers: 64%
+  Ratio: 1.24
+  TA: '6'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Making New Friends
+  Description: Complete a race in Online Multiplayer
+  GS: '10'
+  Guide: true
+  Number of Gamers: 376
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '16'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: I Like It Here
+  Description: Complete 10 races in Online Multiplayer
+  GS: '50'
+  Guide: true
+  Number of Gamers: 240
+  Percentage of Gamers: 22%
+  Ratio: 2.11
+  TA: '105'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: That's a Win!
+  Description: Win a race in Online Multiplayer
+  GS: '20'
+  Guide: true
+  Number of Gamers: 301
+  Percentage of Gamers: 28%
+  Ratio: 1.88
+  TA: '37'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: I'm So Good at This
+  Description: Win 10 races in Online Multiplayer
+  GS: '50'
+  Guide: true
+  Number of Gamers: 150
+  Percentage of Gamers: 14%
+  Ratio: 2.67
+  TA: '133'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Sprint 305 Top Team
+  Description: Earn a 5-Star Rating for a Sprint 305 team
+  GS: '20'
+  Guide: true
+  Number of Gamers: 191
+  Percentage of Gamers: 18%
+  Ratio: 2.37
+  TA: '47'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Stadium Trucks Top Team
+  Description: Earn a 5-Star Rating for a Stadium Trucks team
+  GS: '20'
+  Guide: false
+  Number of Gamers: 215
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '44'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Late Model Top Team
+  Description: Earn a 5-Star Rating for a Late Model team
+  GS: '20'
+  Guide: false
+  Number of Gamers: 134
+  Percentage of Gamers: 12%
+  Ratio: 2.82
+  TA: '56'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: SRX Top Team
+  Description: Earn a 5-Star Rating for a SRX team
+  GS: '20'
+  Guide: false
+  Number of Gamers: 113
+  Percentage of Gamers: 10%
+  Ratio: 3.08
+  TA: '61'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Full Employment
+  Description: Fully employ a team
+  GS: '10'
+  Guide: false
+  Number of Gamers: 435
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '15'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 2.095
+Base TA: 2095
+Delisted: false
+Developer: Monster Games
+Game Name: 'SRX: The Game'
+Genres: Simulation Racing, Automobile, Sports
+Install Size: 25280.0
+Number of Completions: 73
+Number of Gamers: 1077
+Overall Completion Time:
+- 60.0
+- 80.0
+Overall GS: 1000
+Overall Ratio: 2.095
+Overall TA: 2095
+PDU: 0
+Percentage Completed: 6.78
+Publisher: Monster Games
+Release Date: 28 May 2021
+Server Closure: false
+Site Rating: 3.9
+Update Achievements: []
+Walkthrough: false

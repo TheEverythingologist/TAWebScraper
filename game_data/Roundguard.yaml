@@ -1,0 +1,940 @@
+Add On Achievements: []
+Base Completion Time:
+- 33.0
+- 45.0
+Base GS: 1800
+Base Game Achievements:
+- Achievement Name: You're Hired!
+  Description: Complete your audition.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1214
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Flagon Rushes In
+  Description: Enter the Keep with the Warrior.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1193
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Shade Sneaks In
+  Description: Enter the Keep with the Rogue.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 969
+  Percentage of Gamers: 79%
+  Ratio: 1.12
+  TA: '22'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Fizz Pops In
+  Description: Enter the Keep with the Wizard.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 911
+  Percentage of Gamers: 74%
+  Ratio: 1.16
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Multitasker
+  Description: Complete a quest.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1024
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Lift Off
+  Description: Spend more than 2 seconds above the screen.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 950
+  Percentage of Gamers: 77%
+  Ratio: 1.13
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: Seeing Red
+  Description: Get a red trinket from the Wheel of Wonders.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1084
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '15'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Blue or Bust
+  Description: Get a blue trinket from the Wheel of Wonders.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 788
+  Percentage of Gamers: 64%
+  Ratio: 1.24
+  TA: '24'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Going for Gold
+  Description: Get a gold trinket from the Wheel of Wonders.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 784
+  Percentage of Gamers: 64%
+  Ratio: 1.25
+  TA: '31'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: All That Glitters
+  Description: Visit a treasure room.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1109
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Neat and Tidy
+  Description: Defeat the Organiser.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 668
+  Percentage of Gamers: 54%
+  Ratio: 1.35
+  TA: '27'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Disobedient
+  Description: Defeat the Disciplinarian.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 719
+  Percentage of Gamers: 58%
+  Ratio: 1.3
+  TA: '26'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Trending on Deddit
+  Description: Defeat the Screen Fiend.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 667
+  Percentage of Gamers: 54%
+  Ratio: 1.35
+  TA: '27'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The Perfect Omelette
+  Description: Defeat the Underchef.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 680
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '26'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Sticky Situation
+  Description: Defeat the Gel Tamer.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 674
+  Percentage of Gamers: 55%
+  Ratio: 1.35
+  TA: '27'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Grand Coda
+  Description: Defeat the Prima Ballerina.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 836
+  Percentage of Gamers: 68%
+  Ratio: 1.21
+  TA: '24'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Hold Me Closer
+  Description: Help the Lonely Bard.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 716
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '26'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Ending the Reign of Cheddar
+  Description: Defeat the Cheddar King.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 731
+  Percentage of Gamers: 59%
+  Ratio: 1.29
+  TA: '25'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Do Not Go Gentle
+  Description: Defeat the Goblin Poet.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 683
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '26'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Legendary
+  Description: Equip a legendary item.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 928
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Eyes For You
+  Description: Intercept an Orc Shaman's healing magic.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 752
+  Percentage of Gamers: 61%
+  Ratio: 1.27
+  TA: '19'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Experiment Ruined
+  Description: Defeat the Alchemist.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 933
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '57'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Pin Cushion
+  Description: Get 5 projectiles stuck in you at once.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 473
+  Percentage of Gamers: 38%
+  Ratio: 1.61
+  TA: '24'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Show Off
+  Description: Use skills 20 times in a room.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 623
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '28'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: High Roller
+  Description: Get a score of 1 million gold.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 230
+  Percentage of Gamers: 19%
+  Ratio: 2.31
+  TA: '57'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Chemistry 101
+  Description: Identify all the unstable potions in a run.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 883
+  Percentage of Gamers: 72%
+  Ratio: 1.18
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Re-Un-Dead
+  Description: Let a lich resurrect 5 skeletons.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 624
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Fool Me Once
+  Description: Kill a Dark Elf Illusionist without hitting her mirages.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 647
+  Percentage of Gamers: 53%
+  Ratio: 1.37
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Feeling Sick?
+  Description: Get 50 stacks of poison on an enemy at once.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 502
+  Percentage of Gamers: 41%
+  Ratio: 1.56
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Behold! The Cycloptopus!
+  Description: Defeat the Cycloptopus.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 765
+  Percentage of Gamers: 62%
+  Ratio: 1.26
+  TA: '63'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Can't We All Just Get Along?
+  Description: Defeat a Chaos room.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 764
+  Percentage of Gamers: 62%
+  Ratio: 1.26
+  TA: '25'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "You Rock \u2013\_NOT!"
+  Description: Get petrified.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 747
+  Percentage of Gamers: 61%
+  Ratio: 1.28
+  TA: '19'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The Dad-Liest Jokes Ever, Vol. 3
+  Description: Insta-kill 30 enemies with Killer Joke.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 301
+  Percentage of Gamers: 24%
+  Ratio: 2.02
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: More Fun Than Bubble Wrap
+  Description: Pop 3 bubbles before you hit the bottom.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 418
+  Percentage of Gamers: 34%
+  Ratio: 1.71
+  TA: '25'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Flawless
+  Description: Clear a room without taking damage.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 432
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '33'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Stop Hitting Yourself
+  Description: Get 10 enemies to defeat each other.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 614
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Squeaky Clean
+  Description: Use the clear Gelly Cube to cleanse a debuff.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 780
+  Percentage of Gamers: 63%
+  Ratio: 1.25
+  TA: '18'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Kill. Skulls.
+  Description: Use rune stones to crack skulls.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 610
+  Percentage of Gamers: 50%
+  Ratio: 1.42
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Portal Power
+  Description: Let the Summoners complete their ritual.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 403
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '26'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Know-It-All
+  Description: Use each skill for each class at least once.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 330
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '38'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Flagon Saves The Day
+  Description: Defeat the Giant Worm as the Warrior.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 537
+  Percentage of Gamers: 44%
+  Ratio: 1.51
+  TA: '75'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Shade Saves The Day
+  Description: Defeat the Giant Worm as the Rogue.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 384
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '89'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Fizz Saves The Day
+  Description: Defeat the Giant Worm as the Wizard.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 344
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '94'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The Collector
+  Description: Collect all relics in the original set.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 83
+  Percentage of Gamers: 7%
+  Ratio: 3.84
+  TA: '96'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Grand Master
+  Description: Master all relics in the original set.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 59
+  Percentage of Gamers: 5%
+  Ratio: 4.56
+  TA: '114'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+Base Ratio: 2.621111111111111
+Base TA: 4718
+Delisted: false
+Developer: Wonderbelly Games
+Game Name: Roundguard
+Genres: Puzzle, Roguelite
+Install Size: 441.0
+Number of Completions: 23
+Number of Gamers: 1232
+Overall Completion Time:
+- 15.0
+- 20.0
+Overall GS: 1800
+Overall Ratio: 2.621111111111111
+Overall TA: 4718
+PDU: 0
+Percentage Completed: 1.87
+Publisher: The Quantum Astrophysicists Guild
+Release Date: 13 March 2020
+Server Closure: false
+Site Rating: 4.01
+Update Achievements:
+- Achievement Name: Puzzle Dabbler
+  Description: Collect enough puzzle pieces to unlock a reward.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 175
+  Percentage of Gamers: 14%
+  Ratio: 2.65
+  TA: '39'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: Great Improviser
+  Description: Survive to the end of a Weekly Run.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 99
+  Percentage of Gamers: 8%
+  Ratio: 3.54
+  TA: '70'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: Payback
+  Description: Defeat a Treasure Chest Mimic on the first turn in a room.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 622
+  Percentage of Gamers: 50%
+  Ratio: 1.4
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Tinkerer
+  Description: Win a run with at least ten relics equipped.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 50
+  Percentage of Gamers: 4%
+  Ratio: 4.95
+  TA: '99'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Made Of Magic
+  Description: Get your Max Mana to 200 or higher.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 196
+  Percentage of Gamers: 16%
+  Ratio: 2.51
+  TA: '50'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Powerhouse
+  Description: Get your Attack to 1500 or higher.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 154
+  Percentage of Gamers: 12%
+  Ratio: 2.82
+  TA: '56'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Total Tank
+  Description: Get your Max Health to 800 or higher.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 174
+  Percentage of Gamers: 14%
+  Ratio: 2.65
+  TA: '53'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Hero's Dozen
+  Description: Level up your Hero to level 13.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 80
+  Percentage of Gamers: 6%
+  Ratio: 3.92
+  TA: '78'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Treasure Hunter
+  Description: Collect all of the Treasure Hunter relics.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 38
+  Percentage of Gamers: 3%
+  Ratio: 5.68
+  TA: '142'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: Treasure Master
+  Description: Master all of the Treasure Hunter relics.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 34
+  Percentage of Gamers: 3%
+  Ratio: 6.01
+  TA: '150'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+  - Time/Date
+- Achievement Name: Sprig Springs In
+  Description: Enter the Keep with the Druid.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 432
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '16'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Sprig Saves The Day
+  Description: Defeat the Giant Worm as the Druid.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 161
+  Percentage of Gamers: 13%
+  Ratio: 2.78
+  TA: '139'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The King's Hoard
+  Description: Get a score of 3 million gold.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 42
+  Percentage of Gamers: 3%
+  Ratio: 5.41
+  TA: '270'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: What's Your Hurry?
+  Description: Win a run in 90 shots or less.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 50
+  Percentage of Gamers: 4%
+  Ratio: 4.95
+  TA: '247'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: Thick Skinned
+  Description: Get 999 barkskin on at one time.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 59
+  Percentage of Gamers: 5%
+  Ratio: 4.56
+  TA: '91'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Prickle Party
+  Description: Get 1000 total thorn stacks in a room.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 40
+  Percentage of Gamers: 3%
+  Ratio: 5.54
+  TA: '110'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Refractor
+  Description: Defeat the Projectionist.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 416
+  Percentage of Gamers: 34%
+  Ratio: 1.71
+  TA: '85'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Ice Cold
+  Description: Defeat the Big Freeze.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 400
+  Percentage of Gamers: 32%
+  Ratio: 1.75
+  TA: '87'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Gracious
+  Description: Reward the Gift Giver's generosity.
+  GS: '100'
+  Guide: true
+  Number of Gamers: 125
+  Percentage of Gamers: 10%
+  Ratio: 3.13
+  TA: '313'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Take A Bow
+  Description: Earn 1 Encore rose.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 198
+  Percentage of Gamers: 16%
+  Ratio: 2.49
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Bravo
+  Description: Earn 5 Encore roses.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 60
+  Percentage of Gamers: 5%
+  Ratio: 4.56
+  TA: '45'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Marvelous
+  Description: Earn 10 Encore roses.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 32
+  Percentage of Gamers: 3%
+  Ratio: 6.19
+  TA: '61'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Standing Ovation
+  Description: Earn 15 Encore roses.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 24
+  Percentage of Gamers: 2%
+  Ratio: 7.15
+  TA: '143'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: A Thrilling Performance
+  Description: Beat Encore 5 with any hero.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 26
+  Percentage of Gamers: 2%
+  Ratio: 7.01
+  TA: '140'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Encore Collector
+  Description: Collect all of the Encore relics.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 27
+  Percentage of Gamers: 2%
+  Ratio: 6.74
+  TA: '67'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Collectable
+- Achievement Name: Encore Master
+  Description: Master all of the Encore relics.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 24
+  Percentage of Gamers: 2%
+  Ratio: 7.15
+  TA: '143'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Juicy Target
+  Description: Get 35,000 gold from one potion imp.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 23
+  Percentage of Gamers: 2%
+  Ratio: 7.31
+  TA: '73'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Is This Even Legal?
+  Description: Get a x20 scarab multiplier.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 26
+  Percentage of Gamers: 2%
+  Ratio: 6.87
+  TA: '68'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: All Of The Gold
+  Description: Get a score of 5 million gold.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 26
+  Percentage of Gamers: 2%
+  Ratio: 6.87
+  TA: '137'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Innoculated
+  Description: Defeat the Mad Virologist.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 198
+  Percentage of Gamers: 16%
+  Ratio: 2.49
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: It's Alive!
+  Description: Defeat the Mad Doctor.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 196
+  Percentage of Gamers: 16%
+  Ratio: 2.51
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Eyes Closed
+  Description: Defeat Greg and Carl.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 143
+  Percentage of Gamers: 12%
+  Ratio: 2.93
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Why I Oughta!
+  Description: Defeat Bleary, Blinky, and Goo.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 142
+  Percentage of Gamers: 12%
+  Ratio: 2.95
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Cut The Power
+  Description: Defeat the Robotic Heart.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 127
+  Percentage of Gamers: 10%
+  Ratio: 3.11
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Cured
+  Description: Defeat the Fungal Heart.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 109
+  Percentage of Gamers: 9%
+  Ratio: 3.37
+  TA: '33'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+Walkthrough: false

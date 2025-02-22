@@ -1,0 +1,626 @@
+Add On Achievements: []
+Base Completion Time:
+- 60.0
+- 80.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: "FIFA World Cup\u2122 Winners"
+  Description: "Win the FIFA World Cup\u2122 in any offline mode"
+  GS: '25'
+  Guide: true
+  Number of Gamers: 9842
+  Percentage of Gamers: 49%
+  Ratio: 1.42
+  TA: '35'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Europe Qualifier
+  Description: "Qualify as a team from Europe in Road to the FIFA World Cup\u2122\
+    \ or Captain Your Country modes"
+  GS: '20'
+  Guide: true
+  Number of Gamers: 4414
+  Percentage of Gamers: 22%
+  Ratio: 2.12
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Asia Qualifier
+  Description: "Qualify as a team from Asia in Road to the FIFA World Cup\u2122 or\
+    \ Captain Your Country modes"
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2305
+  Percentage of Gamers: 12%
+  Ratio: 2.94
+  TA: '58'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Oceania Qualifier
+  Description: "Qualify as a team from Oceania in Road to the FIFA World Cup\u2122\
+    \ or Captain Your Country modes"
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2001
+  Percentage of Gamers: 10%
+  Ratio: 3.16
+  TA: '63'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: CONCACAF Qualifier
+  Description: "Qualify as a team from CONCACAF in Road to the FIFA World Cup\u2122\
+    \ or Captain Your Country modes"
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3190
+  Percentage of Gamers: 16%
+  Ratio: 2.5
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: South America Qualifier
+  Description: "Qualify as a team from South America in Road to the FIFA World Cup\u2122\
+    \ or Captain Your Country modes"
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2747
+  Percentage of Gamers: 14%
+  Ratio: 2.69
+  TA: '53'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Africa Qualifier
+  Description: "Qualify as a team from Africa in Road to the FIFA World Cup\u2122\
+    \ or Captain Your Country modes"
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2172
+  Percentage of Gamers: 11%
+  Ratio: 3.03
+  TA: '60'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Concede No Goals
+  Description: "In the 2014 FIFA World Cup\u2122 Finals get to the R16 without conceding\
+    \ a goal - Semi-Pro or higher"
+  GS: '25'
+  Guide: true
+  Number of Gamers: 4361
+  Percentage of Gamers: 22%
+  Ratio: 2.14
+  TA: '53'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Difficulty Specific
+  - Missable
+- Achievement Name: Landslide
+  Description: "Match the biggest margin of victory in FIFA World Cup\u2122 history\
+    \ - Win by 9 goals in single player"
+  GS: '25'
+  Guide: true
+  Number of Gamers: 6189
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '44'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: A "Braziliant" Performance
+  Description: Match the record set by Brazil in 1958 by scoring 5 or more in the
+    final - Semi-Pro or higher
+  GS: '25'
+  Guide: true
+  Number of Gamers: 3855
+  Percentage of Gamers: 19%
+  Ratio: 2.27
+  TA: '56'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Difficulty Specific
+- Achievement Name: Shoe In For The Boot
+  Description: "Score 5+ goals with a single player in a FIFA World Cup\u2122 match\
+    \ - Semi-Pro or higher"
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3583
+  Percentage of Gamers: 18%
+  Ratio: 2.36
+  TA: '47'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Difficulty Specific
+- Achievement Name: Man Of THE Match
+  Description: "Score a hattrick in the FIFA World Cup\u2122 final - Semi-Pro or higher"
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3631
+  Percentage of Gamers: 18%
+  Ratio: 2.34
+  TA: '46'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Difficulty Specific
+- Achievement Name: Lead Your Nation
+  Description: Become Captain in Captain Your Country
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3768
+  Percentage of Gamers: 19%
+  Ratio: 2.3
+  TA: '46'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Class Act
+  Description: "Score 13 goals over the course of the FIFA World Cup\u2122 Finals\
+    \ \u2013 Semi-Pro or higher"
+  GS: '15'
+  Guide: true
+  Number of Gamers: 8079
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Difficulty Specific
+  - Cumulative
+- Achievement Name: Nail Biter
+  Description: "Win a FIFA World Cup\u2122 Finals match by way of a penalty shootout\
+    \ - offline only"
+  GS: '15'
+  Guide: true
+  Number of Gamers: 4010
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '33'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Missable
+- Achievement Name: Guess What Mum!
+  Description: Make the first squad cut in Captain Your Country
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5428
+  Percentage of Gamers: 27%
+  Ratio: 1.91
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Pack Your Bags
+  Description: Make the final 23 in Captain Your Country
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2792
+  Percentage of Gamers: 14%
+  Ratio: 2.67
+  TA: '53'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Playmaker
+  Description: Get 10 assists with your player in Captain Your Country
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3154
+  Percentage of Gamers: 16%
+  Ratio: 2.51
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Man Of The Match
+  Description: Earn Man of the Match in a Captain Your Country game on Semi-Pro or
+    higher
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5091
+  Percentage of Gamers: 25%
+  Ratio: 1.98
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Difficulty Specific
+- Achievement Name: Boyhood Dream
+  Description: "Win the FIFA World Cup\u2122 as the Captain in Captain Your Country"
+  GS: '50'
+  Guide: false
+  Number of Gamers: 2174
+  Percentage of Gamers: 11%
+  Ratio: 3.03
+  TA: '151'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Perfect!
+  Description: Get 100% of the point target in an adidas miCoach training drill in
+    CYC, RTWC or FWC mode.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 11785
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Practice Makes Perfect!
+  Description: Complete 10 adidas miCoach training sessions in CYC, RTWC or FIFA World
+    Cup modes
+  GS: '25'
+  Guide: true
+  Number of Gamers: 6264
+  Percentage of Gamers: 31%
+  Ratio: 1.78
+  TA: '44'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative
+- Achievement Name: Stole The Show
+  Description: Have your player win the Golden Ball in Captain Your Country
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2245
+  Percentage of Gamers: 11%
+  Ratio: 2.98
+  TA: '44'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: If The Boot Fits
+  Description: Have your player win the Golden Boot in Captain Your Country
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2246
+  Percentage of Gamers: 11%
+  Ratio: 2.98
+  TA: '44'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: World Traveller
+  Description: Reach 50% of completion or more at least in 3 FIFA regions in Story
+    of Qualifying
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1068
+  Percentage of Gamers: 5%
+  Ratio: 4.33
+  TA: '64'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Conqueror
+  Description: Complete all scenarios (major objectives) in all 6 FIFA regions in
+    Story of Qualifying
+  GS: '50'
+  Guide: true
+  Number of Gamers: 577
+  Percentage of Gamers: 3%
+  Ratio: 5.89
+  TA: '294'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Follow the Nation
+  Description: "Finish (major objectives) at least 1 \u201CEXTRAS\u201D Country in\
+    \ Story of Qualifying"
+  GS: '15'
+  Guide: true
+  Number of Gamers: 905
+  Percentage of Gamers: 5%
+  Ratio: 4.7
+  TA: '70'
+  Tags:
+  - Discontinued
+- Achievement Name: Legendary Effort
+  Description: Complete one or more scenario in Story of Qualifying on Legendary difficulty
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1784
+  Percentage of Gamers: 9%
+  Ratio: 3.35
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Difficulty Specific
+- Achievement Name: Group Stage Maestro
+  Description: Complete all group stage objectives in Story of Finals on any difficulty
+  GS: '15'
+  Guide: true
+  Number of Gamers: 509
+  Percentage of Gamers: 3%
+  Ratio: 6.27
+  TA: '94'
+  Tags:
+  - Discontinued
+- Achievement Name: Reliving Every Moment
+  Description: Complete all scenarios (major objectives) in Story of Finals
+  GS: '25'
+  Guide: true
+  Number of Gamers: 481
+  Percentage of Gamers: 2%
+  Ratio: 6.45
+  TA: '161'
+  Tags:
+  - Discontinued
+- Achievement Name: The Moment of Glory
+  Description: Complete the Final match (major objective) in Story of Finals on World
+    Class difficulty or higher
+  GS: '15'
+  Guide: true
+  Number of Gamers: 497
+  Percentage of Gamers: 2%
+  Ratio: 6.34
+  TA: '95'
+  Tags:
+  - Discontinued
+- Achievement Name: "The English Invented It\u2026"
+  Description: "Win the FIFA World Cup\u2122 5 times to match the all time record\
+    \ set by Brazil"
+  GS: '50'
+  Guide: true
+  Number of Gamers: 334
+  Percentage of Gamers: 2%
+  Ratio: 7.74
+  TA: '387'
+  Tags:
+  - Discontinued
+- Achievement Name: Better Than Your Average
+  Description: Beat the Community average finish with a 0.5 - 2.5 star team
+  GS: '15'
+  Guide: true
+  Number of Gamers: 689
+  Percentage of Gamers: 3%
+  Ratio: 5.39
+  TA: '80'
+  Tags:
+  - Discontinued
+- Achievement Name: The Glory Of A Nation
+  Description: "Win the Online FIFA World Cup\u2122"
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1134
+  Percentage of Gamers: 6%
+  Ratio: 4.2
+  TA: '42'
+  Tags:
+  - Discontinued
+- Achievement Name: Dark Horse Success
+  Description: "Win the FIFA World Cup\u2122 with a 3.5 - 4 star team"
+  GS: '15'
+  Guide: true
+  Number of Gamers: 424
+  Percentage of Gamers: 2%
+  Ratio: 6.87
+  TA: '103'
+  Tags:
+  - Discontinued
+- Achievement Name: That's A Surprise!
+  Description: "Win the FIFA World Cup\u2122 with a 2 - 3 star team"
+  GS: '30'
+  Guide: true
+  Number of Gamers: 301
+  Percentage of Gamers: 2%
+  Ratio: 8.16
+  TA: '244'
+  Tags:
+  - Discontinued
+- Achievement Name: "WHO won the FIFA World Cup\u2122?!"
+  Description: "Win the FIFA World Cup\u2122 with a 0.5 - 1.5 star team"
+  GS: '40'
+  Guide: true
+  Number of Gamers: 270
+  Percentage of Gamers: 1%
+  Ratio: 8.62
+  TA: '344'
+  Tags:
+  - Discontinued
+- Achievement Name: The Competitive Friend
+  Description: "Beat a friend's best finish in Online FIFA World Cup\u2122"
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1835
+  Percentage of Gamers: 9%
+  Ratio: 3.3
+  TA: '49'
+  Tags:
+  - Discontinued
+- Achievement Name: Gotta Start Somewhere
+  Description: Win your first match in Road to Rio de Janeiro mode
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4076
+  Percentage of Gamers: 20%
+  Ratio: 2.21
+  TA: '22'
+  Tags:
+  - Discontinued
+- Achievement Name: We're Movin' Now
+  Description: Advance to City 2 in Road to Rio de Janeiro mode
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3702
+  Percentage of Gamers: 19%
+  Ratio: 2.32
+  TA: '34'
+  Tags:
+  - Discontinued
+- Achievement Name: Are We There Yet?
+  Description: Advance to City 6 in Road to Rio de Janeiro mode
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1620
+  Percentage of Gamers: 8%
+  Ratio: 3.51
+  TA: '105'
+  Tags:
+  - Discontinued
+- Achievement Name: The Big Time
+  Description: Advance to City 12 in Road to Rio de Janeiro mode
+  GS: '40'
+  Guide: true
+  Number of Gamers: 586
+  Percentage of Gamers: 3%
+  Ratio: 5.84
+  TA: '233'
+  Tags:
+  - Discontinued
+- Achievement Name: We Actually Did It!
+  Description: "Win the FIFA World Cup\u2122 in Road to Rio de Janeiro mode"
+  GS: '50'
+  Guide: true
+  Number of Gamers: 514
+  Percentage of Gamers: 3%
+  Ratio: 6.24
+  TA: '312'
+  Tags:
+  - Discontinued
+- Achievement Name: Mr. Perfect
+  Description: Complete a road without a loss in Road to Rio de Janeiro mode
+  GS: '30'
+  Guide: true
+  Number of Gamers: 2791
+  Percentage of Gamers: 14%
+  Ratio: 2.67
+  TA: '80'
+  Tags:
+  - Discontinued
+- Achievement Name: Setting The Piece
+  Description: Use a quick team set piece during a match
+  GS: '5'
+  Guide: true
+  Number of Gamers: 11929
+  Percentage of Gamers: 60%
+  Ratio: 1.29
+  TA: '6'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Everyone's Invited
+  Description: Score a goal on Beginner difficulty
+  GS: '5'
+  Guide: true
+  Number of Gamers: 12616
+  Percentage of Gamers: 63%
+  Ratio: 1.25
+  TA: '6'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Difficulty Specific
+- Achievement Name: Receipt In The Bag?
+  Description: Purchase your first item in the EASFC catalog
+  GS: '5'
+  Guide: true
+  Number of Gamers: 9511
+  Percentage of Gamers: 48%
+  Ratio: 1.45
+  TA: '7'
+  Tags:
+  - Discontinued
+- Achievement Name: The Generous Friend
+  Description: Gift an item to a friend
+  GS: '5'
+  Guide: true
+  Number of Gamers: 3059
+  Percentage of Gamers: 15%
+  Ratio: 2.55
+  TA: '12'
+  Tags:
+  - Discontinued
+Base Ratio: 4.027
+Base TA: 4027
+Delisted: false
+Developer: EA Vancouver
+Game Name: 2014 FIFA World Cup Brazil
+Genres: Sports, Football
+Install Size: 5510.0
+Number of Completions: 164
+Number of Gamers: 20006
+Overall Completion Time:
+- 60.0
+- 80.0
+Overall GS: 1000
+Overall Ratio: 4.027
+Overall TA: 4027
+PDU: 19
+Percentage Completed: 0.82
+Publisher: Electronic Arts
+Release Date: 17 April 2014
+Server Closure: true
+Site Rating: 3.52
+Update Achievements: []
+Walkthrough: false

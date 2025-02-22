@@ -1,0 +1,607 @@
+Add On Achievements: []
+Base Completion Time:
+- 42
+- 43
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Proclamations
+  Description: Travel 1000 miles in one trip.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 175
+  Percentage of Gamers: 31%
+  Ratio: 1.8
+  TA: '18'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Milestones
+  Description: Travel 2000 miles in one trip.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 110
+  Percentage of Gamers: 19%
+  Ratio: 2.28
+  TA: '45'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: New Best Friend
+  Description: Invite a dog to join your party.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 309
+  Percentage of Gamers: 54%
+  Ratio: 1.35
+  TA: '13'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Important
+  Description: Give a dog some nice pats.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 152
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '19'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Pacifist
+  Description: Clear a biome without killing anything.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 67
+  Percentage of Gamers: 12%
+  Ratio: 2.91
+  TA: '58'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Fill It With Dogs
+  Description: Drive out in a van.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 230
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '15'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Compensating
+  Description: Drive out in a truck.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 136
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: A Strong Choice
+  Description: Drive out in an SUV.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 94
+  Percentage of Gamers: 16%
+  Ratio: 2.47
+  TA: '24'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Bartery
+  Description: Trade items with a camp.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 254
+  Percentage of Gamers: 45%
+  Ratio: 1.49
+  TA: '14'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Burglary
+  Description: Steal items from a camp.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 94
+  Percentage of Gamers: 16%
+  Ratio: 2.46
+  TA: '24'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Out of Gas
+  Description: Escape an Out of Gas scenario.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 250
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '15'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Fumes
+  Description: Clear a biome without going over five fuel.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 89
+  Percentage of Gamers: 16%
+  Ratio: 2.52
+  TA: '50'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Life Saver
+  Description: Revive a survivor.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 196
+  Percentage of Gamers: 34%
+  Ratio: 1.7
+  TA: '17'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Ambushed
+  Description: I mean, we all have regrets.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 86
+  Percentage of Gamers: 15%
+  Ratio: 2.58
+  TA: '25'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Overprepared
+  Description: Put every equipment on one person.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 19
+  Percentage of Gamers: 3%
+  Ratio: 5.47
+  TA: '109'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Adequately Prepared
+  Description: Put every attachment onto one vehicle.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 33
+  Percentage of Gamers: 6%
+  Ratio: 4.15
+  TA: '83'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: The Long Haul
+  Description: Complete the game in one trip.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 67
+  Percentage of Gamers: 12%
+  Ratio: 2.91
+  TA: '58'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Dog Squad
+  Description: Complete the game without inviting any humans.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 20
+  Percentage of Gamers: 4%
+  Ratio: 5.33
+  TA: '266'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: The Lonely Road
+  Description: Complete the game without inviting anyone.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 24
+  Percentage of Gamers: 4%
+  Ratio: 4.86
+  TA: '243'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: A Dependable Car
+  Description: Complete the game with your starting car.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 30
+  Percentage of Gamers: 5%
+  Ratio: 4.35
+  TA: '87'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Perseverance
+  Description: Complete the game with your first character.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 67
+  Percentage of Gamers: 12%
+  Ratio: 2.91
+  TA: '58'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Garbage Collector
+  Description: Collect every item.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 18
+  Percentage of Gamers: 3%
+  Ratio: 5.62
+  TA: '112'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Zoologist
+  Description: Find every creature.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 80
+  Percentage of Gamers: 14%
+  Ratio: 2.68
+  TA: '53'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Countdown
+  Description: Complete the game with Countdown enabled.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 13
+  Percentage of Gamers: 2%
+  Ratio: 6.61
+  TA: '330'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Missable
+  - Time/Date
+  - Multiple Playthroughs Required
+- Achievement Name: It Begins
+  Description: Complete the introduction.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 569
+  Percentage of Gamers: 100%
+  Ratio: 1.0
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: City Limits
+  Description: Clear the East Coast blockade.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 360
+  Percentage of Gamers: 63%
+  Ratio: 1.25
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: East Coast Expert
+  Description: Escape the East Coast without losing anyone.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 89
+  Percentage of Gamers: 16%
+  Ratio: 2.52
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Missable
+  - Multiple Playthroughs Required
+- Achievement Name: The Last Campfire
+  Description: Reach the beach.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 78
+  Percentage of Gamers: 14%
+  Ratio: 2.7
+  TA: '135'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
+- Achievement Name: Out of The Woods
+  Description: Clear the Woodlands blockade.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 214
+  Percentage of Gamers: 38%
+  Ratio: 1.63
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Woodlands Expert
+  Description: Escape the Woodlands without losing anyone.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 37
+  Percentage of Gamers: 6%
+  Ratio: 3.92
+  TA: '39'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Missable
+  - Multiple Playthroughs Required
+- Achievement Name: Woodlands Overlook
+  Description: Discover a Scenic Overlook in the Woodlands.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 62
+  Percentage of Gamers: 11%
+  Ratio: 3.05
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Woodlands Landmark
+  Description: Discover the Woodlands Landmark site.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 51
+  Percentage of Gamers: 9%
+  Ratio: 3.34
+  TA: '66'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Through The Plains
+  Description: Clear the Grasslands blockade.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 159
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Grasslands Expert
+  Description: Escape the Grasslands without losing anyone.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 32
+  Percentage of Gamers: 6%
+  Ratio: 4.21
+  TA: '84'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Missable
+  - Multiple Playthroughs Required
+- Achievement Name: Grasslands Overlook
+  Description: Discover a Scenic Overlook in the Grasslands.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 60
+  Percentage of Gamers: 11%
+  Ratio: 3.07
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Grasslands Landmark
+  Description: Discover the Grasslands Landmark site.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 45
+  Percentage of Gamers: 8%
+  Ratio: 3.55
+  TA: '71'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Over The Mountains
+  Description: Clear the Mountains blockade.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 118
+  Percentage of Gamers: 21%
+  Ratio: 2.2
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Mountains Expert
+  Description: Escape the Mountains without losing anyone.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 25
+  Percentage of Gamers: 4%
+  Ratio: 4.77
+  TA: '95'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Missable
+  - Multiple Playthroughs Required
+- Achievement Name: Mountains Overlook
+  Description: Discover a Scenic Overlook in the Mountains.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 41
+  Percentage of Gamers: 7%
+  Ratio: 3.72
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Mountains Landmark
+  Description: Discover the Mountains Landmark site.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 23
+  Percentage of Gamers: 4%
+  Ratio: 4.97
+  TA: '99'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Across The Desert
+  Description: Clear the Desert blockade.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 94
+  Percentage of Gamers: 16%
+  Ratio: 2.48
+  TA: '49'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Desert Expert
+  Description: Escape the Desert without losing anyone.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 15
+  Percentage of Gamers: 3%
+  Ratio: 6.15
+  TA: '307'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Missable
+  - Multiple Playthroughs Required
+- Achievement Name: Desert Overlook
+  Description: Discover a Scenic Overlook in the Desert.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 37
+  Percentage of Gamers: 6%
+  Ratio: 3.97
+  TA: '79'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Desert Landmark
+  Description: Discover the Desert Landmark site.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 24
+  Percentage of Gamers: 4%
+  Ratio: 4.86
+  TA: '243'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: The End of The World
+  Description: Clear the Basin blockade.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 78
+  Percentage of Gamers: 14%
+  Ratio: 2.7
+  TA: '54'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Basin Expert
+  Description: Escape the Basin without losing anyone.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 15
+  Percentage of Gamers: 3%
+  Ratio: 6.15
+  TA: '307'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Missable
+  - Multiple Playthroughs Required
+- Achievement Name: Basin Overlook
+  Description: Discover a Scenic Overlook in the Basin.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 31
+  Percentage of Gamers: 5%
+  Ratio: 4.28
+  TA: '85'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Basin Landmark
+  Description: Discover the Basin Landmark site.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 22
+  Percentage of Gamers: 4%
+  Ratio: 5.08
+  TA: '254'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+Base Ratio: 3.948
+Base TA: 3948
+Delisted: false
+Developer: Finji, 22nd Century Toys
+Game Name: Overland
+Genres: Roguelite, Strategy, Turn Based
+Install Size: 1250.0
+Number of Completions: 11
+Number of Gamers: 570
+Overall Completion Time:
+- 42
+- 43
+Overall GS: 1000
+Overall Ratio: 3.948
+Overall TA: 3948
+PDU: 0
+Percentage Completed: 1.93
+Publisher: Finji
+Release Date: 19 September 2019
+Server Closure: false
+Site Rating: 3.7
+Update Achievements: []
+Walkthrough: false

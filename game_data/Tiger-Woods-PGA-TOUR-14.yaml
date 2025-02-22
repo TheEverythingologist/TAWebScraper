@@ -1,0 +1,602 @@
+Add On Achievements: []
+Base Completion Time:
+- 0
+- 0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Power Player
+  Description: Hit a 400 yard drive with a Power Golfer
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3066
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Accuracy Player
+  Description: Hit a hole in one with a Control Golfer
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2164
+  Percentage of Gamers: 17%
+  Ratio: 2.42
+  TA: '36'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Shot Shaper
+  Description: Hit the fairway with a Draw Golfer using a Draw shot (Shot Shaping
+    set to Normal or Advanced)
+  GS: '10'
+  Guide: true
+  Number of Gamers: 10461
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Tigers have FIR
+  Description: Complete an 18 hole round with a 100 percent FIR. FIR = Fairway in
+    Regulation
+  GS: '25'
+  Guide: true
+  Number of Gamers: 10249
+  Percentage of Gamers: 80%
+  Ratio: 1.11
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: That was GIRrrreat!
+  Description: Complete an 18 hole round with a 100 percent GIR.  GIR = Green in Regulation
+  GS: '25'
+  Guide: true
+  Number of Gamers: 6882
+  Percentage of Gamers: 54%
+  Ratio: 1.36
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Going Green with a Hybrid
+  Description: Land on the green from over 175 yards away using a Hybrid
+  GS: '25'
+  Guide: true
+  Number of Gamers: 11561
+  Percentage of Gamers: 91%
+  Ratio: 1.05
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: No Picnic
+  Description: Sink a 40ft putt with Green Grid Beads turned OFF
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1940
+  Percentage of Gamers: 15%
+  Ratio: 2.56
+  TA: '38'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Gone with the Wind
+  Description: From the Fairway, land within 1 yard of the flagstick from 150 yards
+    out with the Wind Display OFF
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1350
+  Percentage of Gamers: 11%
+  Ratio: 3.07
+  TA: '46'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Shouting at Amen Corner
+  Description: Complete Amen Corner (Augusta 11,12,13) with a birdie or better on
+    each in a single round.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1963
+  Percentage of Gamers: 15%
+  Ratio: 2.55
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Night Life
+  Description: Play an 18 hole round of golf with time of day set to Night
+  GS: '25'
+  Guide: true
+  Number of Gamers: 4104
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '44'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: It's 5 o'clock somewhere
+  Description: Play an 18 hole round of golf with LIVE Time of Day ON
+  GS: '15'
+  Guide: true
+  Number of Gamers: 6642
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '20'
+  Tags:
+  - Discontinued
+- Achievement Name: The Real Deal
+  Description: Play an 18 hole round of golf on Simulation Difficulty
+  GS: '25'
+  Guide: true
+  Number of Gamers: 2004
+  Percentage of Gamers: 16%
+  Ratio: 2.52
+  TA: '63'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Difficulty Specific
+- Achievement Name: In the Spotlight
+  Description: Finish in 1st place of a Featured Event
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2732
+  Percentage of Gamers: 21%
+  Ratio: 2.16
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Boost your Game
+  Description: Play an 18 hole round with Boost Pins equipped
+  GS: '15'
+  Guide: false
+  Number of Gamers: 9793
+  Percentage of Gamers: 77%
+  Ratio: 1.14
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Partly Discontinued/Unobtainable
+- Achievement Name: Pin Collector
+  Description: Complete a Bronze or better Boost Pin set (Any course)
+  GS: '30'
+  Guide: true
+  Number of Gamers: 631
+  Percentage of Gamers: 5%
+  Ratio: 4.49
+  TA: '134'
+  Tags:
+  - Discontinued
+- Achievement Name: Legendary Rivalry
+  Description: Win the Marathon scenario in Quick Tournaments with Nicklaus & Palmer
+    in the U.S. Open at Oakmont
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1046
+  Percentage of Gamers: 8%
+  Ratio: 3.49
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Buggy
+- Achievement Name: PGA TOUR Top FOUR
+  Description: Play a Quick Tournament with Snead, Woods, Nicklaus, and Hogan. (Any
+    PGA TOUR Tournament)
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1009
+  Percentage of Gamers: 8%
+  Ratio: 3.55
+  TA: '53'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Buggy
+- Achievement Name: PGA Champions, Repeat?
+  Description: Play Holding the Lead in Quick Tournaments with Woods, McIlroy, Bradley
+    in the PGA Champ at Oak Hill
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1280
+  Percentage of Gamers: 10%
+  Ratio: 3.15
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Buggy
+- Achievement Name: High Heels
+  Description: Win On Their Heels at Kraft Nabisco with Thompson against Lewis, and
+    Creamer in Quick Tournaments
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1161
+  Percentage of Gamers: 9%
+  Ratio: 3.31
+  TA: '49'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Buggy
+- Achievement Name: Past, Present, & Future
+  Description: Play the In the Hunt scenario with Jones, Woods, Watson and a Created
+    Golfer at the Masters
+  GS: '25'
+  Guide: true
+  Number of Gamers: 1170
+  Percentage of Gamers: 9%
+  Ratio: 3.3
+  TA: '82'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Buggy
+- Achievement Name: Troon Open Champion
+  Description: Win Two in the Running in Quick Tournaments using Palmer in the Open
+    Championship at Royal Troon
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1114
+  Percentage of Gamers: 9%
+  Ratio: 3.38
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Buggy
+- Achievement Name: Living Legend
+  Description: Become the All-Time Win Leader in each of the four Major Leaderboards
+    in Quick Tournaments
+  GS: '50'
+  Guide: true
+  Number of Gamers: 557
+  Percentage of Gamers: 4%
+  Ratio: 4.78
+  TA: '239'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Never leave home without it
+  Description: Earn PGA TOUR card in Career
+  GS: '15'
+  Guide: true
+  Number of Gamers: 6910
+  Percentage of Gamers: 54%
+  Ratio: 1.35
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: LPGA Carded
+  Description: Earn LPGA Tour Card in Career
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1078
+  Percentage of Gamers: 8%
+  Ratio: 3.44
+  TA: '51'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Green Jacket
+  Description: Win the Green Jacket in Career or Quick Tournaments with a created
+    golfer
+  GS: '25'
+  Guide: true
+  Number of Gamers: 3669
+  Percentage of Gamers: 29%
+  Ratio: 1.86
+  TA: '46'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: U.S. Open Trophy
+  Description: Win the U.S. Open in Career or Quick Tournaments with a created golfer
+  GS: '25'
+  Guide: false
+  Number of Gamers: 3493
+  Percentage of Gamers: 27%
+  Ratio: 1.91
+  TA: '47'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Claret Jug
+  Description: Win the Open Championship in Career or Quick Tournaments with a created
+    golfer
+  GS: '25'
+  Guide: true
+  Number of Gamers: 3366
+  Percentage of Gamers: 26%
+  Ratio: 1.94
+  TA: '48'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Wanamaker Trophy
+  Description: Win the PGA Championship in Career or Quick Tournaments with a created
+    golfer
+  GS: '25'
+  Guide: false
+  Number of Gamers: 3271
+  Percentage of Gamers: 26%
+  Ratio: 1.97
+  TA: '49'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: First Class
+  Description: Win the FedExCup (Career Only)
+  GS: '25'
+  Guide: true
+  Number of Gamers: 2509
+  Percentage of Gamers: 20%
+  Ratio: 2.25
+  TA: '56'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: King of the Hill
+  Description: 'Become #1 in the EA SPORTS Golf Rankings'
+  GS: '50'
+  Guide: true
+  Number of Gamers: 3856
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '90'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Record Breaker
+  Description: Become a Legend in Career mode by completing all the PGA TOUR Goals
+  GS: '75'
+  Guide: true
+  Number of Gamers: 798
+  Percentage of Gamers: 6%
+  Ratio: 3.99
+  TA: '299'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Golden Boy
+  Description: Defeat Bobby Jones in Legends of the Majors
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3692
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '18'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The Hawk & Slammin Sammy
+  Description: Defeat Ben Hogan and Sam Snead in Legends of the Majors
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2766
+  Percentage of Gamers: 22%
+  Ratio: 2.14
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Supermex
+  Description: Defeat Lee Trevino in Legends of the Majors
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2003
+  Percentage of Gamers: 16%
+  Ratio: 2.52
+  TA: '37'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The Big Three
+  Description: Defeat the Modern Triumvirate (Palmer, Nicklaus, and Player) in Legends
+    of the Majors
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1906
+  Percentage of Gamers: 15%
+  Ratio: 2.58
+  TA: '38'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Spaniard
+  Description: Defeat Seve Ballesteros in Legends of the Majors
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1685
+  Percentage of Gamers: 13%
+  Ratio: 2.75
+  TA: '41'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Eye of the Tiger
+  Description: Defeat Tiger Woods in Legends of the Majors
+  GS: '25'
+  Guide: true
+  Number of Gamers: 1572
+  Percentage of Gamers: 12%
+  Ratio: 2.84
+  TA: '71'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: There can be only 1
+  Description: Defeat the final Legendary event in Legends of the Majors
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1494
+  Percentage of Gamers: 12%
+  Ratio: 2.92
+  TA: '146'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Last Name Legend
+  Description: Legend all events in Legends of the Majors
+  GS: '20'
+  Guide: true
+  Number of Gamers: 351
+  Percentage of Gamers: 3%
+  Ratio: 6.03
+  TA: '120'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time Consuming
+- Achievement Name: Legendary Matchup
+  Description: Play a Four Player online match with all players using Legends
+  GS: '15'
+  Guide: true
+  Number of Gamers: 674
+  Percentage of Gamers: 5%
+  Ratio: 4.35
+  TA: '65'
+  Tags:
+  - Discontinued
+- Achievement Name: In Good Company
+  Description: Play in a Connected Tournament
+  GS: '25'
+  Guide: true
+  Number of Gamers: 4793
+  Percentage of Gamers: 38%
+  Ratio: 1.63
+  TA: '40'
+  Tags:
+  - Discontinued
+- Achievement Name: No Sweat!
+  Description: Play in a Country Club Tournament
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2338
+  Percentage of Gamers: 18%
+  Ratio: 2.33
+  TA: '35'
+  Tags:
+  - Discontinued
+- Achievement Name: Frequent Flyer
+  Description: Earn a Five Day Loyalty Bonus
+  GS: '15'
+  Guide: true
+  Number of Gamers: 4238
+  Percentage of Gamers: 33%
+  Ratio: 1.73
+  TA: '26'
+  Tags:
+  - Discontinued
+- Achievement Name: Tigerchat
+  Description: Join your Country Clubs Chat Session
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3824
+  Percentage of Gamers: 30%
+  Ratio: 1.82
+  TA: '27'
+  Tags:
+  - Discontinued
+- Achievement Name: Howl at the moon
+  Description: Find the Werewolf
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2841
+  Percentage of Gamers: 22%
+  Ratio: 2.11
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Morning Glory
+  Description: Sink a birdie on Pebble 7 with Time of Day set to Morning
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5154
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Little Grasshopper
+  Description: Earn Golfer Level 5 with a created golfer
+  GS: '5'
+  Guide: false
+  Number of Gamers: 9743
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: The Dragon
+  Description: Earn Golfer Level 25 with a created golfer
+  GS: '10'
+  Guide: false
+  Number of Gamers: 7556
+  Percentage of Gamers: 59%
+  Ratio: 1.29
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Pai Mei
+  Description: Earn Golfer Level 50 with a created golfer
+  GS: '25'
+  Guide: true
+  Number of Gamers: 5958
+  Percentage of Gamers: 47%
+  Ratio: 1.46
+  TA: '36'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+Base Ratio: 2.59
+Base TA: 2590
+Delisted: false
+Developer: EA Orlando
+Game Name: Tiger Woods PGA TOUR 14
+Genres: Sports, Golf
+Install Size: 5710.0
+Number of Completions: 174
+Number of Gamers: 12772
+Overall Completion Time:
+- 0
+- 0
+Overall GS: 1000
+Overall Ratio: 2.59
+Overall TA: 2590
+PDU: 8
+Percentage Completed: 1.36
+Publisher: Electronic Arts
+Release Date: 28 March 2013
+Server Closure: true
+Site Rating: 3.94
+Update Achievements: []
+Walkthrough: false

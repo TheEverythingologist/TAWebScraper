@@ -1,0 +1,663 @@
+Add On Achievements: []
+Base Completion Time:
+- 80.0
+- 100.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: We'll Find You, Jill
+  Description: "\u3010CAMPAIGN\u3011Clear Episodes 1 - 3."
+  GS: '10'
+  Guide: true
+  Number of Gamers: 24257
+  Percentage of Gamers: 63%
+  Ratio: 1.25
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Get Us Out of Here!
+  Description: "\u3010CAMPAIGN\u3011Clear Episodes 4 - 6."
+  GS: '10'
+  Guide: false
+  Number of Gamers: 20236
+  Percentage of Gamers: 53%
+  Ratio: 1.37
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: The Queen Zenobia
+  Description: "\u3010CAMPAIGN\u3011Clear Episodes 7 - 9."
+  GS: '10'
+  Guide: false
+  Number of Gamers: 18700
+  Percentage of Gamers: 49%
+  Ratio: 1.43
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: The Storm is Gone
+  Description: "\u3010CAMPAIGN\u3011Clear Episodes 10 - 12."
+  GS: '10'
+  Guide: true
+  Number of Gamers: 16703
+  Percentage of Gamers: 44%
+  Ratio: 1.51
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: The Dark Forest
+  Description: "\u3010CAMPAIGN\u3011Clear Casual difficulty or higher."
+  GS: '20'
+  Guide: false
+  Number of Gamers: 16631
+  Percentage of Gamers: 43%
+  Ratio: 1.51
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
+  - Stackable
+- Achievement Name: The Shores of Purgatory
+  Description: "\u3010CAMPAIGN\u3011Clear Normal difficulty or higher."
+  GS: '50'
+  Guide: false
+  Number of Gamers: 12949
+  Percentage of Gamers: 34%
+  Ratio: 1.71
+  TA: '85'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: The Vestibule of Hell
+  Description: "\u3010CAMPAIGN\u3011Clear Infernal difficulty."
+  GS: '50'
+  Guide: true
+  Number of Gamers: 2539
+  Percentage of Gamers: 7%
+  Ratio: 3.88
+  TA: '194'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Surviving Deep Darkness
+  Description: "\u3010CAMPAIGN\u3011Clear the game in Normal difficulty or above without\
+    \ dying once."
+  GS: '50'
+  Guide: true
+  Number of Gamers: 4629
+  Percentage of Gamers: 12%
+  Ratio: 2.87
+  TA: '143'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Missable
+- Achievement Name: First Victim
+  Description: "\u3010CAMPAIGN\u3011Scan 1 hidden hand print."
+  GS: '5'
+  Guide: true
+  Number of Gamers: 33110
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Traces of Tragedy
+  Description: "\u3010CAMPAIGN\u3011Scan 15 hidden hand prints."
+  GS: '20'
+  Guide: true
+  Number of Gamers: 10198
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '38'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Missable
+- Achievement Name: Last Victim
+  Description: "\u3010CAMPAIGN\u3011Scan 30 hidden hand prints."
+  GS: '50'
+  Guide: true
+  Number of Gamers: 3878
+  Percentage of Gamers: 10%
+  Ratio: 3.14
+  TA: '157'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Missable
+- Achievement Name: Researcher
+  Description: "\u3010CAMPAIGN\u3011Scan an enemy for the first time."
+  GS: '5'
+  Guide: true
+  Number of Gamers: 37954
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '5'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Research Complete
+  Description: "\u3010CAMPAIGN\u3011Scan all enemy types."
+  GS: '50'
+  Guide: true
+  Number of Gamers: 5051
+  Percentage of Gamers: 13%
+  Ratio: 2.75
+  TA: '137'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Missable
+- Achievement Name: B.O.W. Hunter
+  Description: "\u3010CAMPAIGN\u3011Defeat 150 enemies."
+  GS: '10'
+  Guide: false
+  Number of Gamers: 25607
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Living on the Edge
+  Description: "\u3010CAMPAIGN\u3011Stop an enemy bullet with your knife."
+  GS: '5'
+  Guide: true
+  Number of Gamers: 11063
+  Percentage of Gamers: 29%
+  Ratio: 1.86
+  TA: '9'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: By the Crosshairs
+  Description: "\u3010CAMPAIGN\u3011Defeat Rachael before she gets to the cafeteria."
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5657
+  Percentage of Gamers: 15%
+  Ratio: 2.6
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Bamboozle the Oozes
+  Description: "\u3010CAMPAIGN\u3011Defeat 10 Oozes with headshots."
+  GS: '10'
+  Guide: true
+  Number of Gamers: 6787
+  Percentage of Gamers: 18%
+  Ratio: 2.37
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Die Another Day
+  Description: "\u3010CAMPAIGN\u3011Evade a Scagdead's instant-death attack."
+  GS: '10'
+  Guide: true
+  Number of Gamers: 13984
+  Percentage of Gamers: 37%
+  Ratio: 1.65
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Triple Play
+  Description: "\u3010CAMPAIGN\u3011Defeat 3 enemies with one shock grenade."
+  GS: '5'
+  Guide: true
+  Number of Gamers: 5907
+  Percentage of Gamers: 15%
+  Ratio: 2.54
+  TA: '12'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: A Packaged Deal
+  Description: "\u3010CAMPAIGN\u3011Defeat a Scarmiglione as a whole without killing\
+    \ both parts of its body separately."
+  GS: '5'
+  Guide: true
+  Number of Gamers: 17851
+  Percentage of Gamers: 47%
+  Ratio: 1.46
+  TA: '7'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Rockets are for Losers
+  Description: "\u3010CAMPAIGN\u3011Defeat a Malacoda without using a rocket launcher."
+  GS: '20'
+  Guide: true
+  Number of Gamers: 5257
+  Percentage of Gamers: 14%
+  Ratio: 2.69
+  TA: '53'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: The Pool Is Open
+  Description: "\u3010CAMPAIGN\u3011Swim in the Solarium."
+  GS: '5'
+  Guide: true
+  Number of Gamers: 12898
+  Percentage of Gamers: 34%
+  Ratio: 1.72
+  TA: '8'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Dodge Master
+  Description: "\u3010CAMPAIGN\u3011Dodge 20 times."
+  GS: '5'
+  Guide: true
+  Number of Gamers: 18593
+  Percentage of Gamers: 49%
+  Ratio: 1.43
+  TA: '7'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Angry Fist
+  Description: "\u3010CAMPAIGN\u3011Land 10 fully charged physical attacks."
+  GS: '5'
+  Guide: true
+  Number of Gamers: 9573
+  Percentage of Gamers: 25%
+  Ratio: 1.99
+  TA: '9'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: First Circle Traveler
+  Description: "\u3010RAID MODE\u3011Clear all stages in Raid mode on Chasm."
+  GS: '10'
+  Guide: false
+  Number of Gamers: 5159
+  Percentage of Gamers: 13%
+  Ratio: 2.72
+  TA: '27'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Midland Traveler
+  Description: "\u3010RAID MODE\u3011Clear all stages in Raid mode on Trench."
+  GS: '10'
+  Guide: false
+  Number of Gamers: 3425
+  Percentage of Gamers: 9%
+  Ratio: 3.34
+  TA: '33'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: Seventh Circle Traveler
+  Description: "\u3010RAID MODE\u3011Clear all stages in Raid mode on Abyss."
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2252
+  Percentage of Gamers: 6%
+  Ratio: 4.12
+  TA: '41'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: First Circle Overseer
+  Description: "\u3010RAID MODE\u3011Clear all stages in Raid mode on Chasm with an\
+    \ S rank."
+  GS: '10'
+  Guide: false
+  Number of Gamers: 3895
+  Percentage of Gamers: 10%
+  Ratio: 3.13
+  TA: '31'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Midland Overseer
+  Description: "\u3010RAID MODE\u3011Clear all stages in Raid mode on Trench with\
+    \ an S rank."
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2890
+  Percentage of Gamers: 8%
+  Ratio: 3.64
+  TA: '36'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: Seventh Circle Overseer
+  Description: "\u3010RAID MODE\u3011Clear all stages in Raid mode on Abyss with an\
+    \ S rank."
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2002
+  Percentage of Gamers: 5%
+  Ratio: 4.37
+  TA: '87'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: Beyond the Veil
+  Description: "\u3010RAID MODE\u3011Clear the bonus stage, The Ghost Ship."
+  GS: '50'
+  Guide: true
+  Number of Gamers: 2388
+  Percentage of Gamers: 6%
+  Ratio: 4.0
+  TA: '200'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: On Your Way
+  Description: "\u3010RAID MODE\u3011Reach player level 5."
+  GS: '5'
+  Guide: true
+  Number of Gamers: 11724
+  Percentage of Gamers: 31%
+  Ratio: 1.8
+  TA: '9'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Moving on Up
+  Description: "\u3010RAID MODE\u3011Reach player level 10."
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7275
+  Percentage of Gamers: 19%
+  Ratio: 2.29
+  TA: '22'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Reaching Higher
+  Description: "\u3010RAID MODE\u3011Reach player level 20."
+  GS: '10'
+  Guide: false
+  Number of Gamers: 4728
+  Percentage of Gamers: 12%
+  Ratio: 2.84
+  TA: '28'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Raising the Bar
+  Description: "\u3010RAID MODE\u3011Reach player level 30."
+  GS: '10'
+  Guide: false
+  Number of Gamers: 3603
+  Percentage of Gamers: 9%
+  Ratio: 3.26
+  TA: '32'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Meteoric Rise
+  Description: "\u3010RAID MODE\u3011Reach player level 40."
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2972
+  Percentage of Gamers: 8%
+  Ratio: 3.59
+  TA: '35'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+  - Time Consuming
+- Achievement Name: Top of My Game
+  Description: "\u3010RAID MODE\u3011Reach player level 50."
+  GS: '50'
+  Guide: true
+  Number of Gamers: 2012
+  Percentage of Gamers: 5%
+  Ratio: 4.36
+  TA: '218'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+  - Time Consuming
+- Achievement Name: One for Each Minnesota Lake
+  Description: "\u3010RAID MODE\u3011Defeat 10,000 enemies."
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2009
+  Percentage of Gamers: 5%
+  Ratio: 4.36
+  TA: '87'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+  - Time Consuming
+- Achievement Name: That'll Leave a Mark
+  Description: "\u3010RAID MODE\u3011Inflict 100,000 points of damage to an enemy\
+    \ in one hit."
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3511
+  Percentage of Gamers: 9%
+  Ratio: 3.3
+  TA: '66'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Dynamic Duo
+  Description: "\u3010RAID MODE\u3011Land a fully charged physical attack on an enemy\
+    \ at the same time as your partner."
+  GS: '5'
+  Guide: true
+  Number of Gamers: 5851
+  Percentage of Gamers: 15%
+  Ratio: 2.55
+  TA: '12'
+  Tags:
+  - Online/Offline
+  - Cooperative
+- Achievement Name: Legendary Find
+  Description: "\u3010RAID MODE\u3011Obtain a super rare weapon."
+  GS: '10'
+  Guide: true
+  Number of Gamers: 9335
+  Percentage of Gamers: 24%
+  Ratio: 2.02
+  TA: '20'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Legends Are Made, Not Born
+  Description: "\u3010RAID MODE\u3011Obtain all super rare weapons."
+  GS: '20'
+  Guide: true
+  Number of Gamers: 4589
+  Percentage of Gamers: 12%
+  Ratio: 2.88
+  TA: '57'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Shop 'til Ya Drop
+  Description: "\u3010RAID MODE\u3011Spend 1,000,000 BP in the store."
+  GS: '20'
+  Guide: false
+  Number of Gamers: 4115
+  Percentage of Gamers: 11%
+  Ratio: 3.05
+  TA: '61'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Shop
+  - Time Consuming
+- Achievement Name: The Unbroken Thread
+  Description: "\u3010RAID MODE\u3011Acquire No Damage Bonus for the first time."
+  GS: '10'
+  Guide: true
+  Number of Gamers: 14295
+  Percentage of Gamers: 37%
+  Ratio: 1.63
+  TA: '16'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Gutsy
+  Description: "\u3010RAID MODE\u3011Clear a stage at 5 levels lower than the recommended\
+    \ level."
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5141
+  Percentage of Gamers: 13%
+  Ratio: 2.72
+  TA: '27'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Three is the Magic Number
+  Description: "\u3010RAID MODE\u3011Acquire Trinity Bonus for the first time."
+  GS: '20'
+  Guide: true
+  Number of Gamers: 11248
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '36'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Bonus Enthusiast
+  Description: "\u3010RAID MODE\u3011Acquire 10 bonuses."
+  GS: '20'
+  Guide: true
+  Number of Gamers: 10856
+  Percentage of Gamers: 28%
+  Ratio: 1.87
+  TA: '37'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Bonus Ace
+  Description: "\u3010RAID MODE\u3011Acquire 50 bonuses."
+  GS: '50'
+  Guide: true
+  Number of Gamers: 4375
+  Percentage of Gamers: 11%
+  Ratio: 2.95
+  TA: '147'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Bonus Legend
+  Description: "\u3010RAID MODE\u3011Acquire 100 bonuses."
+  GS: '50'
+  Guide: false
+  Number of Gamers: 2779
+  Percentage of Gamers: 7%
+  Ratio: 3.71
+  TA: '185'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Bonus Demi-god
+  Description: "\u3010RAID MODE\u3011Acquire 150 bonuses."
+  GS: '100'
+  Guide: true
+  Number of Gamers: 2048
+  Percentage of Gamers: 5%
+  Ratio: 4.32
+  TA: '432'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+Base Ratio: 3.012
+Base TA: 3012
+Delisted: true
+Developer: Capcom Entertainment
+Game Name: Resident Evil Revelations (Xbox 360)
+Genres: Third Person Shooter, Action Horror
+Install Size: 7700.0
+Number of Completions: 1298
+Number of Gamers: 38304
+Overall Completion Time:
+- 80.0
+- 100.0
+Overall GS: 1000
+Overall Ratio: 3.012
+Overall TA: 3012
+PDU: 0
+Percentage Completed: 3.39
+Publisher: Capcom Entertainment
+Release Date: 21 May 2013
+Server Closure: false
+Site Rating: 3.91
+Update Achievements: []
+Walkthrough: false

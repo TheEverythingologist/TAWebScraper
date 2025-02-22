@@ -1,0 +1,626 @@
+Add On Achievements: []
+Base Completion Time:
+- 20.0
+- 25.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Head Hunter
+  Description: Take out 20 enemies with a headshot in any mode
+  GS: '20'
+  Guide: true
+  Number of Gamers: 11955
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '24'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Silent Victory
+  Description: Stealth kill 25 enemies
+  GS: '40'
+  Guide: true
+  Number of Gamers: 2593
+  Percentage of Gamers: 14%
+  Ratio: 2.62
+  TA: '105'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Snipe Expert
+  Description: Snipe 75 enemies in any mode
+  GS: '50'
+  Guide: true
+  Number of Gamers: 6486
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '83'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Grenade Expert
+  Description: Grenade 50 enemies in any mode
+  GS: '20'
+  Guide: true
+  Number of Gamers: 7362
+  Percentage of Gamers: 41%
+  Ratio: 1.55
+  TA: '31'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Squad Count
+  Description: Take out 10 enemies in any mode
+  GS: '10'
+  Guide: true
+  Number of Gamers: 17764
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Company Count
+  Description: Take out 100 enemies in any mode
+  GS: '20'
+  Guide: true
+  Number of Gamers: 12422
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '24'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Battalion Count
+  Description: Take out 500 enemies in any mode
+  GS: '50'
+  Guide: true
+  Number of Gamers: 7919
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '75'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Al Shatar Campaign
+  Description: Complete The Liberation of Al Shatar campaign on any difficulty level
+  GS: '25'
+  Guide: true
+  Number of Gamers: 11493
+  Percentage of Gamers: 64%
+  Ratio: 1.24
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Castle Festunburg Campaign
+  Description: Complete The Raid on Castle Festunburg campaign on any difficulty level
+  GS: '25'
+  Guide: true
+  Number of Gamers: 5510
+  Percentage of Gamers: 31%
+  Ratio: 1.8
+  TA: '45'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Desperate Measures Campaign
+  Description: Complete Desperate Measures campaign on any difficulty level
+  GS: '25'
+  Guide: true
+  Number of Gamers: 4488
+  Percentage of Gamers: 25%
+  Ratio: 1.99
+  TA: '49'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Total Victory
+  Description: Complete every campaign
+  GS: '100'
+  Guide: true
+  Number of Gamers: 3740
+  Percentage of Gamers: 21%
+  Ratio: 2.18
+  TA: '218'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
+- Achievement Name: Play Multiplayer
+  Description: Complete a Multiplayer Game
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3276
+  Percentage of Gamers: 18%
+  Ratio: 2.33
+  TA: '46'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+- Achievement Name: Play all Multiplayer Modes
+  Description: Complete a game in all Multiplayer Modes
+  GS: '40'
+  Guide: true
+  Number of Gamers: 1157
+  Percentage of Gamers: 6%
+  Ratio: 3.93
+  TA: '157'
+  Tags:
+  - Online Mode
+  - Versus
+  - Host Only
+  - 4 Players Required
+- Achievement Name: First Place
+  Description: Place first in a ranked match, all three game types
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1142
+  Percentage of Gamers: 6%
+  Ratio: 3.95
+  TA: '118'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+- Achievement Name: Fight the Good Fight
+  Description: Place first in a multiplayer game on the losing team
+  GS: '25'
+  Guide: true
+  Number of Gamers: 1569
+  Percentage of Gamers: 9%
+  Ratio: 3.37
+  TA: '84'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+- Achievement Name: Good Citizen
+  Description: Host active multiplayer games for 20 hours
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1090
+  Percentage of Gamers: 6%
+  Ratio: 4.05
+  TA: '81'
+  Tags:
+  - Online Mode
+  - Versus
+  - Host Only
+  - Cumulative +
+  - 6 Players Required
+  - Buggy +
+- Achievement Name: Last Second Hero
+  Description: Score the tie breaker in a Devastation ranked match in the last 10
+    seconds
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1105
+  Percentage of Gamers: 6%
+  Ratio: 4.02
+  TA: '201'
+  Tags:
+  - Online Mode
+  - Versus
+  - 6 Players Required
+  - Time/Date
+  - Buggy
+- Achievement Name: Spray'n Pray
+  Description: Run out of all your ammo in a ranked match
+  GS: '0'
+  Guide: true
+  Number of Gamers: 1307
+  Percentage of Gamers: 7%
+  Ratio: 3.7
+  TA: '0'
+  Tags:
+  - Online Mode
+  - Versus
+  - 4 Players Required
+  - Buggy +
+- Achievement Name: Demolitions Expert
+  Description: Destroy 25 Targets in Devastation ranked matches
+  GS: '25'
+  Guide: true
+  Number of Gamers: 1072
+  Percentage of Gamers: 6%
+  Ratio: 4.08
+  TA: '102'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+  - 4 Players Required
+- Achievement Name: Heroic Defender
+  Description: Save 50 flags in Capture the Flag ranked matches
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1107
+  Percentage of Gamers: 6%
+  Ratio: 4.02
+  TA: '120'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+  - 4 Players Required
+- Achievement Name: Silver Medal
+  Description: Capture 25 flags in Capture the Flag ranked matches
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1100
+  Percentage of Gamers: 6%
+  Ratio: 4.03
+  TA: '80'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+  - 4 Players Required
+- Achievement Name: Juggernaut
+  Description: Kill 100 enemies in ranked matches
+  GS: '25'
+  Guide: true
+  Number of Gamers: 1179
+  Percentage of Gamers: 7%
+  Ratio: 3.89
+  TA: '97'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+  - 4 Players Required
+- Achievement Name: Whites of Their Eyes
+  Description: Kill 10 enemies in a row in a ranked match without dying
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1263
+  Percentage of Gamers: 7%
+  Ratio: 3.76
+  TA: '112'
+  Tags:
+  - Online Mode
+  - Versus
+  - 5 Players Required
+  - Buggy
+- Achievement Name: Bomb Squad
+  Description: Disarm 50 bombs in Devastation ranked matches
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1101
+  Percentage of Gamers: 6%
+  Ratio: 4.03
+  TA: '120'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+  - 4 Players Required
+- Achievement Name: Barbarians at the Gate Ross
+  Description: Complete Barbarians at the Gate with Ross
+  GS: '10'
+  Guide: true
+  Number of Gamers: 9420
+  Percentage of Gamers: 53%
+  Ratio: 1.37
+  TA: '13'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Barbarians at the Gate Bull
+  Description: Complete Barbarians at the Gate with Bull
+  GS: '10'
+  Guide: true
+  Number of Gamers: 8454
+  Percentage of Gamers: 47%
+  Ratio: 1.45
+  TA: '14'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Barbarians at the Gate Taggert
+  Description: Complete Barbarians at the Gate with Taggert
+  GS: '10'
+  Guide: false
+  Number of Gamers: 6259
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '16'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The Hill Ross
+  Description: Complete The Hill with Ross
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7936
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '15'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The Hill Bull
+  Description: Complete The Hill with Bull
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7317
+  Percentage of Gamers: 41%
+  Ratio: 1.56
+  TA: '15'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The Hill Taggert
+  Description: Complete The Hill with Taggert
+  GS: '10'
+  Guide: true
+  Number of Gamers: 6707
+  Percentage of Gamers: 37%
+  Ratio: 1.63
+  TA: '16'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Hell from Above Ross
+  Description: Complete Hell from Above with Ross
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7688
+  Percentage of Gamers: 43%
+  Ratio: 1.52
+  TA: '15'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Hell from Above Bull
+  Description: Complete Hell from Above with Bull
+  GS: '10'
+  Guide: true
+  Number of Gamers: 6615
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '16'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Hell from Above Taggert
+  Description: Complete Hell from Above with Taggert
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5511
+  Percentage of Gamers: 31%
+  Ratio: 1.8
+  TA: '18'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Ascension Ross
+  Description: Complete Ascension with Ross
+  GS: '10'
+  Guide: true
+  Number of Gamers: 6971
+  Percentage of Gamers: 39%
+  Ratio: 1.6
+  TA: '16'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Ascension Bull
+  Description: Complete Ascension with Bull
+  GS: '10'
+  Guide: false
+  Number of Gamers: 5325
+  Percentage of Gamers: 30%
+  Ratio: 1.83
+  TA: '18'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Ascension Taggert
+  Description: Complete Ascension with Taggert
+  GS: '10'
+  Guide: false
+  Number of Gamers: 5038
+  Percentage of Gamers: 28%
+  Ratio: 1.88
+  TA: '18'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Breakout
+  Description: Complete Breakout
+  GS: '15'
+  Guide: true
+  Number of Gamers: 9703
+  Percentage of Gamers: 54%
+  Ratio: 1.35
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: The Net Tightens Ross
+  Description: Complete The Net Tightens with Ross
+  GS: '10'
+  Guide: true
+  Number of Gamers: 6165
+  Percentage of Gamers: 34%
+  Ratio: 1.7
+  TA: '17'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The Net Tightens Bull
+  Description: Complete The Net Tightens with Bull
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4405
+  Percentage of Gamers: 25%
+  Ratio: 2.01
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The Net Tightens Taggert
+  Description: Complete The Net Tightens with Taggert
+  GS: '10'
+  Guide: false
+  Number of Gamers: 3462
+  Percentage of Gamers: 19%
+  Ratio: 2.27
+  TA: '22'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Clash of the Titans
+  Description: Complete Clash of the Titans
+  GS: '15'
+  Guide: true
+  Number of Gamers: 4992
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: The Hallowed Halls Ross
+  Description: Complete The Hallowed Halls with Ross
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3525
+  Percentage of Gamers: 20%
+  Ratio: 2.25
+  TA: '22'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The Hallowed Halls Bull
+  Description: Complete The Hallowed Halls with Bull
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3148
+  Percentage of Gamers: 18%
+  Ratio: 2.38
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The Hallowed Halls Taggert
+  Description: Complete The Hallowed Halls with Taggert
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2660
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '25'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Strategy by the Book Ross
+  Description: Complete Strategy by the Book with Ross
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3519
+  Percentage of Gamers: 20%
+  Ratio: 2.25
+  TA: '22'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Strategy by the Book Bull
+  Description: Complete Strategy by the Book with Bull
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3003
+  Percentage of Gamers: 17%
+  Ratio: 2.44
+  TA: '24'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Strategy by the Book Taggert
+  Description: Complete Strategy by the Book with Taggert
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2675
+  Percentage of Gamers: 15%
+  Ratio: 2.58
+  TA: '25'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Critical Mass Ross
+  Description: Complete Critical Mass with Ross
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3604
+  Percentage of Gamers: 20%
+  Ratio: 2.22
+  TA: '22'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Critical Mass Bull
+  Description: Complete Critical Mass with Bull
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2758
+  Percentage of Gamers: 15%
+  Ratio: 2.54
+  TA: '25'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Critical Mass Taggert
+  Description: Complete Critical Mass with Taggert
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2556
+  Percentage of Gamers: 14%
+  Ratio: 2.64
+  TA: '26'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 2.524
+Base TA: 2524
+Delisted: false
+Developer: nFusion
+Game Name: Hour of Victory
+Genres: First Person Shooter
+Install Size: null
+Number of Completions: 847
+Number of Gamers: 17904
+Overall Completion Time:
+- 20.0
+- 25.0
+Overall GS: 1000
+Overall Ratio: 2.524
+Overall TA: 2524
+PDU: 0
+Percentage Completed: 4.73
+Publisher: Midway Games
+Release Date: 25 June 2007
+Server Closure: false
+Site Rating: 1.83
+Update Achievements: []
+Walkthrough: false

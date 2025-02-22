@@ -1,0 +1,622 @@
+Add On Achievements: []
+Base Completion Time:
+- 35.0
+- 40.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Victory
+  Description: Win a race in any mode except Splitscreen.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 2984
+  Percentage of Gamers: 55%
+  Ratio: 1.35
+  TA: '6'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Centurion
+  Description: Complete 100 races in any mode except Splitscreen.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 596
+  Percentage of Gamers: 11%
+  Ratio: 3.02
+  TA: '90'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Rookie
+  Description: Win a 125cc class season in Career mode.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1434
+  Percentage of Gamers: 26%
+  Ratio: 1.94
+  TA: '38'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Pro
+  Description: Win a 250cc class season in Career mode.
+  GS: '40'
+  Guide: false
+  Number of Gamers: 939
+  Percentage of Gamers: 17%
+  Ratio: 2.4
+  TA: '96'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Legend
+  Description: Win a MotoGP class season in Career mode.
+  GS: '60'
+  Guide: true
+  Number of Gamers: 738
+  Percentage of Gamers: 14%
+  Ratio: 2.71
+  TA: '162'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Top of the Class
+  Description: Obtain an 'A' class rating in all three sessions of a race weekend
+    in career mode.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1565
+  Percentage of Gamers: 29%
+  Ratio: 1.86
+  TA: '18'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Middle Management
+  Description: Hire a full compliment of staff in career mode.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 453
+  Percentage of Gamers: 8%
+  Ratio: 3.46
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: That's a rep!
+  Description: Obtain a reputation level of 1 in career mode.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 2985
+  Percentage of Gamers: 55%
+  Ratio: 1.35
+  TA: '6'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Notorious
+  Description: Obtain a reputation level of 10 in career mode.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1945
+  Percentage of Gamers: 36%
+  Ratio: 1.67
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Famed
+  Description: Obtain a reputation level of 20 in career mode.
+  GS: '40'
+  Guide: false
+  Number of Gamers: 949
+  Percentage of Gamers: 17%
+  Ratio: 2.39
+  TA: '95'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: The G.O.A.T.
+  Description: Obtain a reputation level of 30 in career mode to become the greatest
+    of all time.
+  GS: '100'
+  Guide: true
+  Number of Gamers: 431
+  Percentage of Gamers: 8%
+  Ratio: 3.55
+  TA: '355'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Brand
+  Description: Choose your own team livery, helmet, leathers and paint them with your
+    own team colours.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3610
+  Percentage of Gamers: 66%
+  Ratio: 1.22
+  TA: '12'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Boy Done Good
+  Description: Win on your home circuit in Career Mode.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1422
+  Percentage of Gamers: 26%
+  Ratio: 1.95
+  TA: '9'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Corporate Cartel
+  Description: Obtain a full complement of sponsors.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 725
+  Percentage of Gamers: 13%
+  Ratio: 2.74
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Egg-Head
+  Description: Fully upgrade a MotoGP class machine in career mode.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 426
+  Percentage of Gamers: 8%
+  Ratio: 3.57
+  TA: '107'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: "Jump through some hoops\u2026"
+  Description: Successfully perform every type of dynamic objective.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 670
+  Percentage of Gamers: 12%
+  Ratio: 2.84
+  TA: '28'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Dynamic!
+  Description: Complete over 50 dynamic race objectives.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 497
+  Percentage of Gamers: 9%
+  Ratio: 3.3
+  TA: '33'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: They Made Me Do It
+  Description: Complete a full season in championship mode.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 547
+  Percentage of Gamers: 10%
+  Ratio: 3.15
+  TA: '31'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Unravel
+  Description: Unlock the MotoGP Class in any game mode.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3676
+  Percentage of Gamers: 67%
+  Ratio: 1.21
+  TA: '12'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: 1UP
+  Description: Complete a full Arcade Mode season without using a continue.
+  GS: '80'
+  Guide: true
+  Number of Gamers: 539
+  Percentage of Gamers: 10%
+  Ratio: 3.17
+  TA: '254'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Draughter
+  Description: Spend a total of 10 minutes slipstreaming in Arcade Mode.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 381
+  Percentage of Gamers: 7%
+  Ratio: 3.77
+  TA: '75'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Mirror, Signal, Maneuver
+  Description: Get every type of time bonus within the same lap in Arcade Mode.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 672
+  Percentage of Gamers: 12%
+  Ratio: 2.84
+  TA: '56'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Insert Coin
+  Description: Use a continue and then finish first in Arcade Mode.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 810
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '25'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Out Runned
+  Description: Finish a race with more time than you started with in Arcade Mode,
+    without using any continues.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 790
+  Percentage of Gamers: 14%
+  Ratio: 2.62
+  TA: '26'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Power UP!
+  Description: Earn more time between timing-out and using a continue in Arcade Mode.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1896
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '16'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Bustin' Makes Me Feel Good!
+  Description: Download and race against an online ghost in Time Trial.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 837
+  Percentage of Gamers: 15%
+  Ratio: 2.54
+  TA: '25'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Community
+- Achievement Name: Find Your Own Way
+  Description: Create a personal racing-line in Time Trial and then use it in another
+    game mode.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 606
+  Percentage of Gamers: 11%
+  Ratio: 2.99
+  TA: '29'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Beat the 'Fun Vampire'
+  Description: Beat a time of 01:19.78 on Donington in Time-Trial Mode.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 518
+  Percentage of Gamers: 10%
+  Ratio: 3.24
+  TA: '64'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: Pole Position
+  Description: Qualify for pole position.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 2414
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '30'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Halcyon
+  Description: Win a race with no penalties, in any mode except Splitscreen.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1456
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '38'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Panning For Gold
+  Description: Win a race at each track in any mode except Splitscreen.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 765
+  Percentage of Gamers: 14%
+  Ratio: 2.66
+  TA: '80'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Glove Slap
+  Description: Start in last position on the grid, but finish in first.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1886
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '33'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Bohemian Unlike You
+  Description: Cross the finish line separately from your bike in any mode except
+    Splitscreen.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1181
+  Percentage of Gamers: 22%
+  Ratio: 2.14
+  TA: '21'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: I Can't Stop
+  Description: Complete a lap of any track in the wrong direction, in any mode except
+    Splitscreen.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 911
+  Percentage of Gamers: 17%
+  Ratio: 2.44
+  TA: '12'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Water Sports
+  Description: Win a wet-weather race in any mode except Splitscreen.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2225
+  Percentage of Gamers: 41%
+  Ratio: 1.56
+  TA: '15'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Road Thrash
+  Description: Lead an entire race and go on to win that race in any mode except Splitscreen.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1395
+  Percentage of Gamers: 26%
+  Ratio: 1.97
+  TA: '39'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Doppelganger
+  Description: Finish a race with each rider in the game in any mode except Splitscreen.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 121
+  Percentage of Gamers: 2%
+  Ratio: 6.7
+  TA: '33'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Blackjack
+  Description: Win 21 races online.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 254
+  Percentage of Gamers: 5%
+  Ratio: 4.62
+  TA: '92'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Nicky Hayden
+  Description: Win 69 races online.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 199
+  Percentage of Gamers: 4%
+  Ratio: 5.22
+  TA: '261'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: "Back to my place\u2026?"
+  Description: Host a multiplayer race.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 664
+  Percentage of Gamers: 12%
+  Ratio: 2.86
+  TA: '28'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Owned
+  Description: Use your own Career Mode motorbike and rider in a multiplayer race.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 625
+  Percentage of Gamers: 11%
+  Ratio: 2.94
+  TA: '29'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Champagne!
+  Description: Win a race against a full grid of human riders.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 179
+  Percentage of Gamers: 3%
+  Ratio: 5.51
+  TA: '110'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+- Achievement Name: Niko Wheelie
+  Description: Do a wheelie lasting at least 500 feet in any mode except Splitscreen.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 4356
+  Percentage of Gamers: 80%
+  Ratio: 1.11
+  TA: '22'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Endo-Rider
+  Description: Do an endo lasting at least 50 feet in any mode except Splitscreen.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3592
+  Percentage of Gamers: 66%
+  Ratio: 1.23
+  TA: '24'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Dude, Where's My Bike?
+  Description: Find yourself over 100 yards away from your bike after a crash, in
+    any mode except Splitscreen.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1894
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '33'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Bon Voyage
+  Description: Ride over 100 miles in any mode except Splitscreen.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 2556
+  Percentage of Gamers: 47%
+  Ratio: 1.45
+  TA: '43'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Wind Tunnel
+  Description: Go over 207mph in any mode except Splitscreen.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 743
+  Percentage of Gamers: 14%
+  Ratio: 2.7
+  TA: '27'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Cheers
+  Description: "Raise the crowd\u2019s excitement level to max in any mode except\
+    \ Splitscreen."
+  GS: '20'
+  Guide: true
+  Number of Gamers: 717
+  Percentage of Gamers: 13%
+  Ratio: 2.75
+  TA: '55'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Photo Finish
+  Description: Finish a race within 0.1 seconds of another rider in any mode except
+    Splitscreen.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 3155
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '6'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Mr. Consistent!
+  Description: Finish 10th or better in every race of a full season.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1510
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '18'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 2.794
+Base TA: 2794
+Delisted: false
+Developer: Monumental Games
+Game Name: MotoGP 09/10
+Genres: Simulation Racing, Automobile, Sports
+Install Size: null
+Number of Completions: 68
+Number of Gamers: 5449
+Overall Completion Time:
+- 35.0
+- 40.0
+Overall GS: 1000
+Overall Ratio: 2.794
+Overall TA: 2794
+PDU: 0
+Percentage Completed: 1.25
+Publisher: Capcom Entertainment
+Release Date: 16 March 2010
+Server Closure: false
+Site Rating: 2.99
+Update Achievements: []
+Walkthrough: false

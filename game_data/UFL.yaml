@@ -1,0 +1,336 @@
+Add On Achievements: []
+Base Completion Time:
+- 100.0
+- 120.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Game on!
+  Description: Complete the first Ranked Match.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 10309
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '16'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+- Achievement Name: All That Hard Work
+  Description: Claim a reward for any completed quest.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 8737
+  Percentage of Gamers: 72%
+  Ratio: 1.17
+  TA: '35'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Football Agent
+  Description: Sell any of your players on the Transfer Market.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3445
+  Percentage of Gamers: 28%
+  Ratio: 1.87
+  TA: '28'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Shop
+- Achievement Name: Tactician
+  Description: Change the tactical formation of your squad.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4515
+  Percentage of Gamers: 37%
+  Ratio: 1.63
+  TA: '49'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Total Look
+  Description: Add your squad's third kit in Customization.
+  GS: '90'
+  Guide: true
+  Number of Gamers: 2122
+  Percentage of Gamers: 17%
+  Ratio: 2.39
+  TA: '215'
+  Tags:
+  - Online Mode
+  - Single Player
+- Achievement Name: Individualist
+  Description: Customize the kit of a single player.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2572
+  Percentage of Gamers: 21%
+  Ratio: 2.17
+  TA: '32'
+  Tags:
+  - Online Mode
+  - Single Player
+- Achievement Name: Good Deal
+  Description: Loan a player.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1938
+  Percentage of Gamers: 16%
+  Ratio: 2.5
+  TA: '37'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Shop
+- Achievement Name: High Stakes
+  Description: Buy a player with a rating of 80 or higher on the Transfer Market.
+  GS: '90'
+  Guide: false
+  Number of Gamers: 731
+  Percentage of Gamers: 6%
+  Ratio: 4.07
+  TA: '366'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Shop
+- Achievement Name: Star Player
+  Description: Buy a player with a rating of 90 or higher on the Transfer Market.
+  GS: '90'
+  Guide: false
+  Number of Gamers: 144
+  Percentage of Gamers: 1%
+  Ratio: 9.17
+  TA: '825'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Shop
+- Achievement Name: You Shall Not Pass!
+  Description: Buy a goalkeeper with a rating of 85 or higher on the Transfer Market.
+  GS: '90'
+  Guide: true
+  Number of Gamers: 158
+  Percentage of Gamers: 1%
+  Ratio: 8.76
+  TA: '788'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Shop
+- Achievement Name: Not a Rookie Anymore
+  Description: Build a Starting XI of players with an average rating of 75.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 907
+  Percentage of Gamers: 7%
+  Ratio: 3.65
+  TA: '54'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+- Achievement Name: Promising Start
+  Description: Build a Starting XI of players with an average rating of 80 or higher.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 519
+  Percentage of Gamers: 4%
+  Ratio: 4.83
+  TA: '145'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+- Achievement Name: Private Club
+  Description: Build a Starting XI of players with an average rating of 85 or higher.
+  GS: '115'
+  Guide: true
+  Number of Gamers: 206
+  Percentage of Gamers: 2%
+  Ratio: 7.67
+  TA: '882'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+- Achievement Name: Scout
+  Description: In your Starting XI get 5 or more players with a rating of 75 or higher.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1020
+  Percentage of Gamers: 8%
+  Ratio: 3.44
+  TA: '51'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+- Achievement Name: Master Scout
+  Description: In your Starting XI get 5 or more players with a rating of 85 or higher.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 293
+  Percentage of Gamers: 2%
+  Ratio: 6.43
+  TA: '193'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+- Achievement Name: Elite Scout
+  Description: In your Starting XI get 2 players with a rating of 90 or higher.
+  GS: '90'
+  Guide: false
+  Number of Gamers: 114
+  Percentage of Gamers: 1%
+  Ratio: 10.36
+  TA: '932'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+- Achievement Name: Troublemaker
+  Description: Get a yellow card during a Ranked Match.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 8115
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '18'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Hooligan
+  Description: Get a red card during a Ranked Match.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 3061
+  Percentage of Gamers: 25%
+  Ratio: 1.99
+  TA: '59'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Deadlock
+  Description: Draw a Ranked Match.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2409
+  Percentage of Gamers: 20%
+  Ratio: 2.24
+  TA: '33'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Constant Growth
+  Description: Upgrade a skill for any player.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 5361
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '45'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Level
+- Achievement Name: Expansion
+  Description: Buy a free spot to get more space in your Reserve.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1027
+  Percentage of Gamers: 8%
+  Ratio: 3.43
+  TA: '103'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Shop
+- Achievement Name: Bombardier
+  Description: Score 3 or more goals in a single Ranked Match.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 10655
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '32'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Master Bombardier
+  Description: Score 5 or more goals in a single Ranked Match.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 9296
+  Percentage of Gamers: 77%
+  Ratio: 1.14
+  TA: '34'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: What a Game!
+  Description: Win a Ranked Match by at least two goals.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 10132
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '32'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Game of Change
+  Description: Substitute 3 players in a single Ranked Match.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1486
+  Percentage of Gamers: 12%
+  Ratio: 2.85
+  TA: '42'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+Base Ratio: 5.046
+Base TA: 5046
+Delisted: false
+Developer: XTEN Limited
+Game Name: UFL
+Genres: Sports, Football
+Install Size: 19280.0
+Number of Completions: 64
+Number of Gamers: 12129
+Overall Completion Time:
+- 100.0
+- 120.0
+Overall GS: 1000
+Overall Ratio: 5.046
+Overall TA: 5046
+PDU: 0
+Percentage Completed: 0.53
+Publisher: XTEN Limited
+Release Date: 05 December 2024
+Server Closure: false
+Site Rating: 2.74
+Update Achievements: []
+Walkthrough: false

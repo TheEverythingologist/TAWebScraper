@@ -1,0 +1,639 @@
+Add On Achievements: []
+Base Completion Time:
+- 30.0
+- 35.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Safe Keeping
+  Description: Finish a match on Bank, spending a majority of your time on the winning
+    team. (1 min minimum)
+  GS: '10'
+  Guide: false
+  Number of Gamers: 9035
+  Percentage of Gamers: 15%
+  Ratio: 2.56
+  TA: '25'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Route Canal
+  Description: Finish a match on Canals, spending a majority of your time on the winning
+    team. (1 min minimum)
+  GS: '10'
+  Guide: true
+  Number of Gamers: 8152
+  Percentage of Gamers: 14%
+  Ratio: 2.69
+  TA: '26'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Chemical Burn
+  Description: Finish a match on Chemical, spending a majority of your time on the
+    winning team. (1 min minimum)
+  GS: '10'
+  Guide: true
+  Number of Gamers: 8190
+  Percentage of Gamers: 14%
+  Ratio: 2.69
+  TA: '26'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Facilitated
+  Description: Finish a match on Facility, spending a majority of your time on the
+    winning team. (1 min minimum)
+  GS: '10'
+  Guide: true
+  Number of Gamers: 8124
+  Percentage of Gamers: 14%
+  Ratio: 2.7
+  TA: '27'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Hospitalized
+  Description: Finish a match on Hospital, spending a majority of your time on the
+    winning team. (1 min minimum)
+  GS: '10'
+  Guide: true
+  Number of Gamers: 10278
+  Percentage of Gamers: 17%
+  Ratio: 2.4
+  TA: '24'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Mind your Manors
+  Description: Finish a match on Manor, spending a majority of your time on the winning
+    team. (1 min minimum)
+  GS: '10'
+  Guide: true
+  Number of Gamers: 8700
+  Percentage of Gamers: 15%
+  Ratio: 2.61
+  TA: '26'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Pirate Radio
+  Description: Finish a match on Rooftops, spending a majority of your time on the
+    winning team. (1 min minimum)
+  GS: '10'
+  Guide: false
+  Number of Gamers: 8756
+  Percentage of Gamers: 15%
+  Ratio: 2.6
+  TA: '26'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Shock and Awe
+  Description: Finish a match on Tesla, spending a majority of your time on the winning
+    team. (1 min minimum)
+  GS: '10'
+  Guide: true
+  Number of Gamers: 8233
+  Percentage of Gamers: 14%
+  Ratio: 2.68
+  TA: '26'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Test Subject
+  Description: Use every Veil ability once in multiplayer.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5986
+  Percentage of Gamers: 10%
+  Ratio: 3.14
+  TA: '31'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Veilophile
+  Description: Spend 5 minutes in the Veil in multiplayer.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 11269
+  Percentage of Gamers: 19%
+  Ratio: 2.29
+  TA: '22'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Ley Vacuum
+  Description: Suck up 5 Veil Pools' worth of Veil energy in multiplayer.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7756
+  Percentage of Gamers: 13%
+  Ratio: 2.76
+  TA: '27'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Surgical Striker
+  Description: Kill 200 enemy players using the Veil Strike in multiplayer.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 2080
+  Percentage of Gamers: 4%
+  Ratio: 5.34
+  TA: '160'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Sneaky Pete
+  Description: Kill 100 enemy players with the Satchel Charge in multiplayer.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 2582
+  Percentage of Gamers: 4%
+  Ratio: 4.79
+  TA: '143'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Unholy Lifeline
+  Description: Revive 250 teammates, including 10 revives in a single match in multiplayer.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 2091
+  Percentage of Gamers: 4%
+  Ratio: 5.32
+  TA: '159'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Focal Point
+  Description: Restore 5000 points of health to teammates using the Healing Aura in
+    multiplayer.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 3288
+  Percentage of Gamers: 6%
+  Ratio: 4.24
+  TA: '127'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Quartermaster
+  Description: Give 100 Health Packs to teammates in multiplayer.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 3261
+  Percentage of Gamers: 5%
+  Ratio: 4.26
+  TA: '128'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Run-gineer
+  Description: Use Veil Speed for 30 minutes in multiplayer.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 2584
+  Percentage of Gamers: 4%
+  Ratio: 4.79
+  TA: '143'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Engineering Corps
+  Description: Complete 30 primary objectives and 50 secondary objectives in multiplayer.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 2162
+  Percentage of Gamers: 4%
+  Ratio: 5.24
+  TA: '157'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Beatdown
+  Description: Kill 50 enemies with melee attacks in a single player campaign.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 24951
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '46'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Cumulative +
+- Achievement Name: Bubble Boy
+  Description: Block 1000 shots with Shield power in a single player campaign.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 18651
+  Percentage of Gamers: 31%
+  Ratio: 1.78
+  TA: '35'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Cumulative +
+- Achievement Name: Buster
+  Description: Destroy 1000 breakable objects in a single player campaign.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 14255
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '40'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Cumulative +
+- Achievement Name: Conservationist
+  Description: Complete a story mission in the single player campaign without reloading
+    a gun.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 7845
+  Percentage of Gamers: 13%
+  Ratio: 2.75
+  TA: '82'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Endgame
+  Description: Finish the single player campaign on any difficulty.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 19669
+  Percentage of Gamers: 33%
+  Ratio: 1.73
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
+  - Stackable
+- Achievement Name: Gadget Freak
+  Description: Purchase all the upgrades for one of your weapons in the single player
+    campaign.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 27700
+  Percentage of Gamers: 47%
+  Ratio: 1.46
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Shop
+- Achievement Name: Game Hunter
+  Description: Kill an enemy of every type in a single player campaign.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 19178
+  Percentage of Gamers: 32%
+  Ratio: 1.75
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Gold Digger
+  Description: Collect all the valuables in a single player campaign.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 3174
+  Percentage of Gamers: 5%
+  Ratio: 4.32
+  TA: '129'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Missable
+- Achievement Name: Gun Nut
+  Description: Collect all the weapons in a single player campaign.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 26200
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Missable
+  - Cumulative +
+- Achievement Name: Honorary Geist
+  Description: Spend two hours in the Veil in a single player campaign.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 12517
+  Percentage of Gamers: 21%
+  Ratio: 2.17
+  TA: '43'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Cumulative +
+- Achievement Name: Nerd Rage
+  Description: "Complete the single player campaign on Hard or \xDCber difficulty."
+  GS: '20'
+  Guide: true
+  Number of Gamers: 5907
+  Percentage of Gamers: 10%
+  Ratio: 3.17
+  TA: '63'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Librarian
+  Description: Collect all the Tomes of Power in a single player campaign.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3494
+  Percentage of Gamers: 6%
+  Ratio: 4.12
+  TA: '82'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Missable
+- Achievement Name: Man About Town
+  Description: Complete all the Downtown missions in a single player campaign.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 15084
+  Percentage of Gamers: 25%
+  Ratio: 1.98
+  TA: '39'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Blitzkrieg
+  Description: Complete the single player campaign in under 12 hours.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 17468
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '55'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: Master Spy
+  Description: Collect all the Intel in a single player campaign.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3229
+  Percentage of Gamers: 5%
+  Ratio: 4.28
+  TA: '85'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Missable
+- Achievement Name: Monitor Tan
+  Description: Collect every collectible in a single player campaign.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 3140
+  Percentage of Gamers: 5%
+  Ratio: 4.34
+  TA: '130'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Missable
+- Achievement Name: Newbie
+  Description: Complete the Train Station mission in a single player campaign.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 57880
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Rampage
+  Description: Kill 200 enemies with Empower in a single player campaign.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 8180
+  Percentage of Gamers: 14%
+  Ratio: 2.69
+  TA: '53'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Cumulative +
+- Achievement Name: Single Quarter
+  Description: Complete the single player campaign with less than three deaths.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 2722
+  Percentage of Gamers: 5%
+  Ratio: 4.67
+  TA: '140'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Slumming
+  Description: Complete all the Midtown missions in a single player campaign.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 20103
+  Percentage of Gamers: 34%
+  Ratio: 1.71
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Super Soldier
+  Description: "Complete the single player campaign on \xDCber difficulty."
+  GS: '30'
+  Guide: true
+  Number of Gamers: 3932
+  Percentage of Gamers: 7%
+  Ratio: 3.88
+  TA: '116'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+- Achievement Name: Time Out
+  Description: Use the Mire power for more than an hour in a single player campaign.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 4419
+  Percentage of Gamers: 7%
+  Ratio: 3.66
+  TA: '73'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Cumulative +
+- Achievement Name: Warchest
+  Description: Collect more than $30,000 in a single player campaign.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 15671
+  Percentage of Gamers: 26%
+  Ratio: 1.94
+  TA: '38'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Cumulative +
+- Achievement Name: Enemies in a Barrel
+  Description: Kill 3 floating enemies.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 58094
+  Percentage of Gamers: 98%
+  Ratio: 1.01
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Career Soldier
+  Description: Reach Rank 25 in multiplayer.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2069
+  Percentage of Gamers: 3%
+  Ratio: 5.35
+  TA: '80'
+  Tags:
+  - Online Mode
+  - Versus
+  - Level
+- Achievement Name: Das Big Man
+  Description: Reach Rank 50 in multiplayer.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1650
+  Percentage of Gamers: 3%
+  Ratio: 5.99
+  TA: '89'
+  Tags:
+  - Online Mode
+  - Versus
+  - Level
+- Achievement Name: Boot Camp
+  Description: Get a kill with each Soldier weapon, the Satchel Charge and Veil Strike
+    in multiplayer.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 5296
+  Percentage of Gamers: 9%
+  Ratio: 3.34
+  TA: '100'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Heavy-Handed
+  Description: Kill 200 enemy players with either the Panzerschreck or the Flammenwerfer
+    in multiplayer.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 2838
+  Percentage of Gamers: 5%
+  Ratio: 4.57
+  TA: '137'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Med School
+  Description: Revive a player, supply a Health Pack, and heal someone using Healing
+    Aura in multiplayer.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 6928
+  Percentage of Gamers: 12%
+  Ratio: 2.92
+  TA: '87'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Basic Training
+  Description: Complete a primary objective, supply an Ammo Pack, and use Veil Speed
+    once in multiplayer.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4838
+  Percentage of Gamers: 8%
+  Ratio: 3.5
+  TA: '105'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Johnny-on-the-spot
+  Description: Give 100 Ammo Packs to teammates in multiplayer.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 3310
+  Percentage of Gamers: 6%
+  Ratio: 4.23
+  TA: '127'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+Base Ratio: 3.402
+Base TA: 3402
+Delisted: false
+Developer: Raven Software
+Game Name: Wolfenstein
+Genres: First Person Shooter
+Install Size: null
+Number of Completions: 1081
+Number of Gamers: 59370
+Overall Completion Time:
+- 30.0
+- 35.0
+Overall GS: 1000
+Overall Ratio: 3.402
+Overall TA: 3402
+PDU: 0
+Percentage Completed: 1.82
+Publisher: Activision
+Release Date: 21 August 2009
+Server Closure: false
+Site Rating: 3.23
+Update Achievements: []
+Walkthrough: false

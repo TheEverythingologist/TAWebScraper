@@ -1,0 +1,554 @@
+Add On Achievements: []
+Base Completion Time:
+- 60.0
+- 80.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: First Dance
+  Description: Complete your First Song
+  GS: '10'
+  Guide: true
+  Number of Gamers: 16999
+  Percentage of Gamers: 98%
+  Ratio: 1.01
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: 3 Star Performance
+  Description: Get 3 Stars on a Song
+  GS: '15'
+  Guide: true
+  Number of Gamers: 15806
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: Highway to the Stars
+  Description: Get 3 Stars on 5 Songs
+  GS: '20'
+  Guide: true
+  Number of Gamers: 11531
+  Percentage of Gamers: 66%
+  Ratio: 1.22
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: 5 Star Performance
+  Description: Get 5 Stars on a Song
+  GS: '20'
+  Guide: true
+  Number of Gamers: 10567
+  Percentage of Gamers: 61%
+  Ratio: 1.28
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: Rising Star
+  Description: Get 5 Stars on 5 Songs
+  GS: '30'
+  Guide: true
+  Number of Gamers: 5199
+  Percentage of Gamers: 30%
+  Ratio: 1.82
+  TA: '54'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: Golden!
+  Description: Perform all Gold Moves in a Song
+  GS: '15'
+  Guide: true
+  Number of Gamers: 15020
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: Solid Gold Baby!
+  Description: Perform all Gold Moves in 5 Songs
+  GS: '25'
+  Guide: true
+  Number of Gamers: 9054
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: Looking Good
+  Description: Perform only Good Moves or better in a Song
+  GS: '25'
+  Guide: true
+  Number of Gamers: 2426
+  Percentage of Gamers: 14%
+  Ratio: 2.67
+  TA: '66'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: You got the Moves!
+  Description: Perform only Good Moves or better in 5 Songs
+  GS: '40'
+  Guide: true
+  Number of Gamers: 469
+  Percentage of Gamers: 3%
+  Ratio: 6.08
+  TA: '243'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: Perfect Finish
+  Description: Get a Perfect on the Last Move of a Song
+  GS: '10'
+  Guide: true
+  Number of Gamers: 15002
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: Streaker!
+  Description: Get 10 Perfect Moves in a row in any Song
+  GS: '20'
+  Guide: true
+  Number of Gamers: 15702
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: Reflection of Perfection
+  Description: Complete a Song with 80% or more Perfect Moves
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4562
+  Percentage of Gamers: 26%
+  Ratio: 1.95
+  TA: '58'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: There's no I in Dance
+  Description: In any Dance Crew Song, All Four Players Get 3 Stars or better (Four
+    Coaches)
+  GS: '20'
+  Guide: false
+  Number of Gamers: 2163
+  Percentage of Gamers: 12%
+  Ratio: 2.83
+  TA: '56'
+  Tags:
+  - Offline Mode
+  - Cooperative
+  - 4 Players Required
+  - External Content
+- Achievement Name: In-Sync
+  Description: In any Dance Crew Song, All Four Players Get 5 Stars (Four Coaches)
+  GS: '35'
+  Guide: true
+  Number of Gamers: 360
+  Percentage of Gamers: 2%
+  Ratio: 6.95
+  TA: '243'
+  Tags:
+  - Offline Mode
+  - Cooperative
+  - 4 Players Required
+  - External Content
+- Achievement Name: Dynamic Duo
+  Description: Finish a Duet with 2 players getting 5 Stars on both choreographies
+  GS: '25'
+  Guide: true
+  Number of Gamers: 1097
+  Percentage of Gamers: 6%
+  Ratio: 3.97
+  TA: '99'
+  Tags:
+  - Offline Mode
+  - Cooperative
+  - External Content
+- Achievement Name: Mixing it up
+  Description: Get 5 Stars on any Mash-Up
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2007
+  Percentage of Gamers: 12%
+  Ratio: 2.94
+  TA: '58'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: On a Quest
+  Description: Complete 5 Dance Quests
+  GS: '20'
+  Guide: true
+  Number of Gamers: 13692
+  Percentage of Gamers: 79%
+  Ratio: 1.12
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+  - External Content
+- Achievement Name: Superstar!
+  Description: Get 3 Stars on All Songs (No Alternate Versions, Mash-Ups or Battles)
+  GS: '30'
+  Guide: false
+  Number of Gamers: 736
+  Percentage of Gamers: 4%
+  Ratio: 4.85
+  TA: '145'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+  - Buggy
+- Achievement Name: Megastar!
+  Description: Get 5 Stars on All Songs (No Alternate Versions, Mash-Ups or Battles)
+  GS: '50'
+  Guide: true
+  Number of Gamers: 352
+  Percentage of Gamers: 2%
+  Ratio: 7.02
+  TA: '351'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+  - Buggy
+- Achievement Name: Winning!
+  Description: Win a Battle
+  GS: '20'
+  Guide: true
+  Number of Gamers: 6692
+  Percentage of Gamers: 39%
+  Ratio: 1.6
+  TA: '32'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - External Content
+- Achievement Name: Epic Winning!
+  Description: Win each Battle Once
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1041
+  Percentage of Gamers: 6%
+  Ratio: 4.08
+  TA: '122'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - External Content
+- Achievement Name: "Wheel\u2026 of\u2026 Gifts!"
+  Description: Unlock an Item from the Wheel of Gifts
+  GS: '10'
+  Guide: true
+  Number of Gamers: 14164
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: Just Sweatin'
+  Description: Complete a Sweat Class
+  GS: '5'
+  Guide: true
+  Number of Gamers: 4691
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '9'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: I Work Out
+  Description: Complete a full 10 Minute Sweat Class
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4328
+  Percentage of Gamers: 25%
+  Ratio: 2.0
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: Bring it on!
+  Description: Complete a full 25 Minute Sweat Class
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2092
+  Percentage of Gamers: 12%
+  Ratio: 2.87
+  TA: '57'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: Spartan
+  Description: Complete a full 45 Minute Sweat Class
+  GS: '45'
+  Guide: true
+  Number of Gamers: 1751
+  Percentage of Gamers: 10%
+  Ratio: 3.14
+  TA: '141'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: Getting Warmed Up
+  Description: Burn 500 Calories in Sweat Mode
+  GS: '25'
+  Guide: false
+  Number of Gamers: 662
+  Percentage of Gamers: 4%
+  Ratio: 5.12
+  TA: '128'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+  - External Content
+- Achievement Name: Feel the Burn
+  Description: Burn 1000 Calories in Sweat Mode
+  GS: '50'
+  Guide: true
+  Number of Gamers: 340
+  Percentage of Gamers: 2%
+  Ratio: 7.15
+  TA: '357'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+  - External Content
+- Achievement Name: Burn Baby Burn!
+  Description: Burn 2000 Calories in Sweat Mode
+  GS: '100'
+  Guide: true
+  Number of Gamers: 215
+  Percentage of Gamers: 1%
+  Ratio: 9.0
+  TA: '900'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+  - External Content
+- Achievement Name: The Complete Package
+  Description: Complete at least one Class from each of the 5 Sweat Programs
+  GS: '50'
+  Guide: true
+  Number of Gamers: 789
+  Percentage of Gamers: 5%
+  Ratio: 4.69
+  TA: '234'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: Stuck on Replay
+  Description: Dance to the Same song 3 times in a row
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3392
+  Percentage of Gamers: 20%
+  Ratio: 2.26
+  TA: '33'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: Blind Ambition
+  Description: Get 5 Stars on a Song with Pictograms Disabled
+  GS: '25'
+  Guide: true
+  Number of Gamers: 1212
+  Percentage of Gamers: 7%
+  Ratio: 3.78
+  TA: '94'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: New Sheriff in Town
+  Description: Get 5 Stars on the Extreme Version of Wild Wild West
+  GS: '25'
+  Guide: true
+  Number of Gamers: 956
+  Percentage of Gamers: 6%
+  Ratio: 4.26
+  TA: '106'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: Baby is in the Corner
+  Description: Dance to (I've Had) The Time of my Life Alone
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3301
+  Percentage of Gamers: 19%
+  Ratio: 2.29
+  TA: '45'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - External Content
+- Achievement Name: Dancing Friends!
+  Description: Dance to We No Speak Americano with 3 Others
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1630
+  Percentage of Gamers: 9%
+  Ratio: 3.26
+  TA: '65'
+  Tags:
+  - Offline Mode
+  - Cooperative
+  - 4 Players Required
+  - External Content
+- Achievement Name: Let's do the Time Warp Again
+  Description: Dance to Time Warp Twice in a Row
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1812
+  Percentage of Gamers: 10%
+  Ratio: 3.09
+  TA: '46'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: RickRoll'd
+  Description: Win a Battle as the Never Gonna Give You Up Coach
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1352
+  Percentage of Gamers: 8%
+  Ratio: 3.58
+  TA: '53'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - External Content
+- Achievement Name: Musical Statues
+  Description: In any Dance Crew Song, All Four Players Stay Still for 30 seconds
+  GS: '30'
+  Guide: true
+  Number of Gamers: 413
+  Percentage of Gamers: 2%
+  Ratio: 6.48
+  TA: '194'
+  Tags:
+  - Offline Mode
+  - Cooperative
+  - 4 Players Required
+  - External Content
+- Achievement Name: Spin me Right Round
+  Description: Spin the Carousel at its Maximum Speed
+  GS: '5'
+  Guide: true
+  Number of Gamers: 5991
+  Percentage of Gamers: 34%
+  Ratio: 1.7
+  TA: '8'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: Look Ma, Both Hands!
+  Description: Use Each hand at least Once to Navigate the Menus
+  GS: '5'
+  Guide: true
+  Number of Gamers: 15122
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+Base Ratio: 4.21
+Base TA: 4210
+Delisted: false
+Developer: Ubisoft Paris
+Game Name: Just Dance 4
+Genres: Dance
+Install Size: 6220.0
+Number of Completions: 63
+Number of Gamers: 17376
+Overall Completion Time:
+- 60.0
+- 80.0
+Overall GS: 1000
+Overall Ratio: 4.21
+Overall TA: 4210
+PDU: 0
+Percentage Completed: 0.36
+Publisher: Ubisoft
+Release Date: 09 October 2012
+Server Closure: true
+Site Rating: 3.83
+Update Achievements: []
+Walkthrough: false

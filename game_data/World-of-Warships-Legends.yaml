@@ -1,0 +1,485 @@
+Add On Achievements: []
+Base Completion Time:
+- 200.0
+- 300.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Getting your Feet Wet
+  Description: Survive and win any battle
+  GS: '10'
+  Guide: true
+  Number of Gamers: 63078
+  Percentage of Gamers: 98%
+  Ratio: 1.01
+  TA: '10'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Destroyer Commander
+  Description: Play 100 Standard battles as a Destroyer
+  GS: '25'
+  Guide: true
+  Number of Gamers: 4793
+  Percentage of Gamers: 7%
+  Ratio: 3.66
+  TA: '91'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Cruiser Commander
+  Description: Play 100 Standard battles as a Cruiser
+  GS: '25'
+  Guide: true
+  Number of Gamers: 6700
+  Percentage of Gamers: 10%
+  Ratio: 3.1
+  TA: '77'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Battleship Commander
+  Description: Play 100 Standard battles as a Battleship
+  GS: '25'
+  Guide: true
+  Number of Gamers: 6496
+  Percentage of Gamers: 10%
+  Ratio: 3.15
+  TA: '78'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Making Waves
+  Description: Destroy 20 enemy ships in Standard battles
+  GS: '15'
+  Guide: true
+  Number of Gamers: 17685
+  Percentage of Gamers: 27%
+  Ratio: 1.91
+  TA: '28'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Widow-Maker
+  Description: Destroy 200 enemy ships in Standard battles
+  GS: '30'
+  Guide: false
+  Number of Gamers: 5724
+  Percentage of Gamers: 9%
+  Ratio: 3.35
+  TA: '100'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Sleeping with the Fishes
+  Description: Destroy 50 enemy ships with your torpedoes in Standard battles
+  GS: '20'
+  Guide: true
+  Number of Gamers: 4915
+  Percentage of Gamers: 8%
+  Ratio: 3.62
+  TA: '72'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Turn the Tide!
+  Description: Destroy more enemy ships than any other member of your team (at least
+    5) in a Standard battle
+  GS: '40'
+  Guide: true
+  Number of Gamers: 7738
+  Percentage of Gamers: 12%
+  Ratio: 2.88
+  TA: '115'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: MVP
+  Description: Win a Standard battle and survive while also obtaining the highest
+    XP of your team
+  GS: '30'
+  Guide: false
+  Number of Gamers: 20597
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '53'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: King of the Hill
+  Description: Win a Standard battle while being the sole survivor in your team
+  GS: '20'
+  Guide: true
+  Number of Gamers: 10620
+  Percentage of Gamers: 16%
+  Ratio: 2.46
+  TA: '49'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Brothers in Arms
+  Description: Win a Standard battle and survive while part of a Division
+  GS: '15'
+  Guide: true
+  Number of Gamers: 15063
+  Percentage of Gamers: 23%
+  Ratio: 2.06
+  TA: '31'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: War Profiteering
+  Description: Win a Standard battle and survive while also earning 200,000 credits
+  GS: '20'
+  Guide: true
+  Number of Gamers: 8800
+  Percentage of Gamers: 14%
+  Ratio: 2.7
+  TA: '54'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Hit Where It Hurts
+  Description: Score 5 citadel hits in a single Standard battle
+  GS: '25'
+  Guide: true
+  Number of Gamers: 13384
+  Percentage of Gamers: 21%
+  Ratio: 2.19
+  TA: '54'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Pyromaniac
+  Description: Set enemy ships on fire 7 times in a single Standard battle
+  GS: '25'
+  Guide: true
+  Number of Gamers: 16265
+  Percentage of Gamers: 25%
+  Ratio: 1.99
+  TA: '49'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Crippler
+  Description: Destroy enemy ship modules 100 times in Standard battles
+  GS: '30'
+  Guide: false
+  Number of Gamers: 10299
+  Percentage of Gamers: 16%
+  Ratio: 2.5
+  TA: '75'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Poseidon Blessed
+  Description: Earn 20 ribbons (excluding the 'Target Hit' ribbons) in a single Standard
+    battle
+  GS: '30'
+  Guide: true
+  Number of Gamers: 13944
+  Percentage of Gamers: 22%
+  Ratio: 2.15
+  TA: '64'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Dominator
+  Description: Capture a key area or base 3 times in Standard battles
+  GS: '20'
+  Guide: true
+  Number of Gamers: 13195
+  Percentage of Gamers: 20%
+  Ratio: 2.21
+  TA: '44'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Rearguard
+  Description: Defend the base or a key area 3 times in Standard battles
+  GS: '20'
+  Guide: true
+  Number of Gamers: 28605
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '30'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: That Must Have Hurt!
+  Description: Destroy at least 4 enemy ships in a single Standard battle with an
+    American or British ship
+  GS: '30'
+  Guide: true
+  Number of Gamers: 10340
+  Percentage of Gamers: 16%
+  Ratio: 2.49
+  TA: '74'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Excellent Performance
+  Description: Destroy at least 4 enemy ships in a single Standard battle with a Japanese
+    or German ship
+  GS: '30'
+  Guide: true
+  Number of Gamers: 8654
+  Percentage of Gamers: 13%
+  Ratio: 2.73
+  TA: '81'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Ultimate Arsonist
+  Description: Destroy an enemy by fire that exceeds 50% of its HP in a Standard battle
+  GS: '25'
+  Guide: true
+  Number of Gamers: 4618
+  Percentage of Gamers: 7%
+  Ratio: 3.73
+  TA: '93'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Haymaker
+  Description: Destroy an enemy ship dealing 50% or more damage with a single salvo
+    in a Standard battle
+  GS: '25'
+  Guide: true
+  Number of Gamers: 22571
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '42'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Overflow
+  Description: Destroy an enemy by flooding that exceeds 50% of its HP in a Standard
+    battle
+  GS: '25'
+  Guide: true
+  Number of Gamers: 2756
+  Percentage of Gamers: 4%
+  Ratio: 4.83
+  TA: '120'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Learning the Ropes
+  Description: Install a ship upgrade
+  GS: '10'
+  Guide: true
+  Number of Gamers: 49293
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '11'
+  Tags:
+  - Online Mode
+  - Versus
+  - Level
+  - Shop
+- Achievement Name: Tinkering Aficionado
+  Description: Install 6 upgrades or modifications in any combination on a single
+    ship
+  GS: '20'
+  Guide: true
+  Number of Gamers: 7266
+  Percentage of Gamers: 11%
+  Ratio: 2.98
+  TA: '59'
+  Tags:
+  - Online Mode
+  - Versus
+  - Level
+  - Shop
+- Achievement Name: Dockyard Apprentice
+  Description: Research a Tier III ship
+  GS: '10'
+  Guide: true
+  Number of Gamers: 34958
+  Percentage of Gamers: 54%
+  Ratio: 1.35
+  TA: '13'
+  Tags:
+  - Online Mode
+  - Versus
+  - Level
+- Achievement Name: Dockyard Master
+  Description: Research a Tier V ship
+  GS: '20'
+  Guide: true
+  Number of Gamers: 14672
+  Percentage of Gamers: 23%
+  Ratio: 2.09
+  TA: '41'
+  Tags:
+  - Online Mode
+  - Versus
+  - Level
+- Achievement Name: A Good Use of Blueprints
+  Description: Unlock and install all modifications on a Tier VII American or British
+    ship
+  GS: '50'
+  Guide: true
+  Number of Gamers: 4451
+  Percentage of Gamers: 7%
+  Ratio: 3.8
+  TA: '190'
+  Tags:
+  - Online Mode
+  - Versus
+  - Level
+  - Shop
+- Achievement Name: Taking Advantage of Schematics
+  Description: Unlock and install all modifications on a Tier VII Japanese or German
+    ship
+  GS: '50'
+  Guide: true
+  Number of Gamers: 4063
+  Percentage of Gamers: 6%
+  Ratio: 3.98
+  TA: '199'
+  Tags:
+  - Online Mode
+  - Versus
+  - Level
+  - Shop
+- Achievement Name: Flotilla
+  Description: Own 10 American or British ships in any proportion at the same time
+  GS: '20'
+  Guide: true
+  Number of Gamers: 15451
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '40'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative
+- Achievement Name: Armada
+  Description: Own 10 Japanese or German ships in any proportion at the same time
+  GS: '20'
+  Guide: true
+  Number of Gamers: 12228
+  Percentage of Gamers: 19%
+  Ratio: 2.29
+  TA: '45'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative
+- Achievement Name: First step
+  Description: Promote a Commander to rank 2
+  GS: '10'
+  Guide: true
+  Number of Gamers: 28351
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '15'
+  Tags:
+  - Online Mode
+  - Versus
+  - Level
+- Achievement Name: Ranking Up
+  Description: Promote a Commander to rank 7
+  GS: '20'
+  Guide: true
+  Number of Gamers: 23393
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '33'
+  Tags:
+  - Online Mode
+  - Versus
+  - Level
+- Achievement Name: The Climb
+  Description: Promote a Commander to rank 11
+  GS: '30'
+  Guide: true
+  Number of Gamers: 11849
+  Percentage of Gamers: 18%
+  Ratio: 2.33
+  TA: '70'
+  Tags:
+  - Online Mode
+  - Versus
+  - Level
+- Achievement Name: Do not Stop at the Top
+  Description: Promote a Commander to rank 16
+  GS: '50'
+  Guide: true
+  Number of Gamers: 5224
+  Percentage of Gamers: 8%
+  Ratio: 3.51
+  TA: '175'
+  Tags:
+  - Online Mode
+  - Versus
+  - Level
+- Achievement Name: A Few Good Gentlemen
+  Description: Simultaneously have 5 American or British commanders in your roster
+  GS: '40'
+  Guide: true
+  Number of Gamers: 15382
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '81'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative
+- Achievement Name: Union of Discipline and Precision
+  Description: Simultaneously have 5 Japanese or German commanders in your roster
+  GS: '40'
+  Guide: true
+  Number of Gamers: 14538
+  Percentage of Gamers: 23%
+  Ratio: 2.1
+  TA: '84'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative
+- Achievement Name: Living Legend
+  Description: Promote Commander to legendary rank 1
+  GS: '50'
+  Guide: true
+  Number of Gamers: 13220
+  Percentage of Gamers: 20%
+  Ratio: 2.2
+  TA: '110'
+  Tags:
+  - Online Mode
+  - Versus
+  - Shop
+Base Ratio: 2.65
+Base TA: 2650
+Delisted: false
+Developer: Wargaming.net
+Game Name: 'World of Warships: Legends'
+Genres: Naval, Vehicular Combat
+Install Size: 14880.0
+Number of Completions: 1346
+Number of Gamers: 64591
+Overall Completion Time:
+- 200.0
+- 300.0
+Overall GS: 1000
+Overall Ratio: 2.65
+Overall TA: 2650
+PDU: 0
+Percentage Completed: 2.08
+Publisher: Wargaming.net, Arc Games
+Release Date: 12 August 2019
+Server Closure: false
+Site Rating: 3.73
+Update Achievements: []
+Walkthrough: false

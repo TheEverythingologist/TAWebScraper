@@ -1,0 +1,404 @@
+Add On Achievements: []
+Base Completion Time:
+- 0.5
+- 2.0
+Base GS: 3000
+Base Game Achievements:
+- Achievement Name: First Cow!
+  Description: Abduct your first cow
+  GS: '25'
+  Guide: true
+  Number of Gamers: 696
+  Percentage of Gamers: 100%
+  Ratio: 1.0
+  TA: '25'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Friend Of Cows
+  Description: Abduct 5 cows
+  GS: '40'
+  Guide: false
+  Number of Gamers: 690
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '40'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Cow farm
+  Description: Abduct 10  cows
+  GS: '70'
+  Guide: true
+  Number of Gamers: 685
+  Percentage of Gamers: 98%
+  Ratio: 1.0
+  TA: '70'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: First Sheep!
+  Description: Abduct your first sheep
+  GS: '30'
+  Guide: false
+  Number of Gamers: 652
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '31'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Friend Of Sheeps
+  Description: Abduct 5 Sheeps
+  GS: '40'
+  Guide: false
+  Number of Gamers: 652
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '41'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Sheep Farm
+  Description: Abduct 10 sheeps
+  GS: '70'
+  Guide: false
+  Number of Gamers: 650
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '72'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Level 1 Completed!
+  Description: Complete Level 1
+  GS: '25'
+  Guide: true
+  Number of Gamers: 696
+  Percentage of Gamers: 100%
+  Ratio: 1.0
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Farm Beginner
+  Description: Complete level 10
+  GS: '30'
+  Guide: false
+  Number of Gamers: 676
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Farm King
+  Description: Complete level 15
+  GS: '40'
+  Guide: false
+  Number of Gamers: 669
+  Percentage of Gamers: 96%
+  Ratio: 1.02
+  TA: '40'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Button Presser
+  Description: First level with a button
+  GS: '60'
+  Guide: false
+  Number of Gamers: 668
+  Percentage of Gamers: 96%
+  Ratio: 1.02
+  TA: '61'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: First Hat!
+  Description: Buy your first hat
+  GS: '30'
+  Guide: true
+  Number of Gamers: 672
+  Percentage of Gamers: 96%
+  Ratio: 1.01
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Mad Hatter
+  Description: Buy 5 hats
+  GS: '40'
+  Guide: false
+  Number of Gamers: 661
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '41'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Shop
+- Achievement Name: Hatter Of Wonders
+  Description: Buy 10 hats
+  GS: '80'
+  Guide: false
+  Number of Gamers: 653
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '82'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Shop
+- Achievement Name: My First Big Farm
+  Description: Complete level 20
+  GS: '100'
+  Guide: false
+  Number of Gamers: 664
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '102'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Crate Pusher
+  Description: First level with a crate
+  GS: '50'
+  Guide: false
+  Number of Gamers: 621
+  Percentage of Gamers: 89%
+  Ratio: 1.05
+  TA: '52'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: 2 Friends
+  Description: Abduct a cow and a sheep at the same level
+  GS: '50'
+  Guide: false
+  Number of Gamers: 650
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '51'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Graceful
+  Description: Wear the first hat on any level
+  GS: '30'
+  Guide: true
+  Number of Gamers: 667
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '30'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Easter Bunny
+  Description: Complete a level wearing a bunny hat
+  GS: '60'
+  Guide: false
+  Number of Gamers: 655
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '61'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: A New Environment
+  Description: Change background color the first time
+  GS: '20'
+  Guide: true
+  Number of Gamers: 684
+  Percentage of Gamers: 98%
+  Ratio: 1.0
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Back Again
+  Description: Use the UNDO button the first time
+  GS: '30'
+  Guide: true
+  Number of Gamers: 685
+  Percentage of Gamers: 98%
+  Ratio: 1.0
+  TA: '30'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Start Again
+  Description: Use the RESTART button the first time
+  GS: '30'
+  Guide: true
+  Number of Gamers: 693
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '30'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: It's Worth Playing Again
+  Description: Play any level again
+  GS: '50'
+  Guide: false
+  Number of Gamers: 668
+  Percentage of Gamers: 96%
+  Ratio: 1.02
+  TA: '51'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 1.043
+Base TA: 3129
+Delisted: false
+Developer: Cavylabs, MadCat Corp
+Game Name: Sokobalien (Windows)
+Genres: Puzzle
+Install Size: 419.0
+Number of Completions: 559
+Number of Gamers: 699
+Overall Completion Time:
+- 0.5
+- 2.0
+Overall GS: 3000
+Overall Ratio: 1.043
+Overall TA: 3129
+PDU: 0
+Percentage Completed: 79.97
+Publisher: AFIL Games
+Release Date: 07 March 2024
+Server Closure: false
+Site Rating: 2.37
+Update Achievements:
+- Achievement Name: Cow Collector
+  Description: Abduct 11 cows
+  GS: '200'
+  Guide: false
+  Number of Gamers: 668
+  Percentage of Gamers: 96%
+  Ratio: 1.02
+  TA: '204'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Bovine Specialist
+  Description: Abduct 12  cows
+  GS: '200'
+  Guide: false
+  Number of Gamers: 665
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '204'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Sheep Collector
+  Description: Abduct 11 sheeps
+  GS: '200'
+  Guide: false
+  Number of Gamers: 637
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '209'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Ovine Specialist
+  Description: Abduct 12 sheeps
+  GS: '200'
+  Guide: false
+  Number of Gamers: 635
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '209'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Galactic Achiever
+  Description: Complete level 21
+  GS: '200'
+  Guide: false
+  Number of Gamers: 648
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '207'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Cow Connoisseur
+  Description: Abduct 14 cows
+  GS: '200'
+  Guide: false
+  Number of Gamers: 613
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '213'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Bovine Expert
+  Description: Abduct 15 cows
+  GS: '200'
+  Guide: false
+  Number of Gamers: 613
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '213'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Sheep Connoisseur
+  Description: Abduct 14 sheeps
+  GS: '200'
+  Guide: false
+  Number of Gamers: 595
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '216'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Ovine Expert
+  Description: Abduct 15 sheeps
+  GS: '200'
+  Guide: false
+  Number of Gamers: 594
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '216'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Galactic Champion
+  Description: Complete level 50
+  GS: '200'
+  Guide: true
+  Number of Gamers: 556
+  Percentage of Gamers: 80%
+  Ratio: 1.11
+  TA: '223'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+Walkthrough: false

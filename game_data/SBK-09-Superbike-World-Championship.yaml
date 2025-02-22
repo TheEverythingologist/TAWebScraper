@@ -1,0 +1,585 @@
+Add On Achievements: []
+Base Completion Time:
+- 0
+- 0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Be a Rookie
+  Description: Win your first race
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2474
+  Percentage of Gamers: 96%
+  Ratio: 1.01
+  TA: '10'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Transmission Wizard
+  Description: Win a race using manual transmission with opponents at Professional
+    or Real level
+  GS: '15'
+  Guide: true
+  Number of Gamers: 533
+  Percentage of Gamers: 21%
+  Ratio: 2.2
+  TA: '33'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Simulation Wizard
+  Description: Win a race in extreme simulation mode with opponents at Professional
+    or Real level
+  GS: '15'
+  Guide: false
+  Number of Gamers: 176
+  Percentage of Gamers: 7%
+  Ratio: 3.82
+  TA: '57'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Who Needs Wheels?
+  Description: Perform at least 10 seconds of wheelies and win the race
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1670
+  Percentage of Gamers: 65%
+  Ratio: 1.24
+  TA: '12'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: King of Assen
+  Description: Win a race on Assen with less than a 3 second gap at Professional or
+    Real
+  GS: '15'
+  Guide: true
+  Number of Gamers: 589
+  Percentage of Gamers: 23%
+  Ratio: 2.09
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Tires are Expensive
+  Description: Win a race with tyre wear activated and with a minimum waste of tires
+  GS: '10'
+  Guide: true
+  Number of Gamers: 876
+  Percentage of Gamers: 34%
+  Ratio: 1.71
+  TA: '17'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Back to my First Love
+  Description: Win a race at least at professional difficulty level using Max Biaggi
+    and his Aprilia
+  GS: '10'
+  Guide: false
+  Number of Gamers: 790
+  Percentage of Gamers: 31%
+  Ratio: 1.8
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Milestone Best Friend
+  Description: Win a race at Misano Adriatico using Luca Scassa
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1092
+  Percentage of Gamers: 42%
+  Ratio: 1.53
+  TA: '15'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Telemetry Expert
+  Description: Compare two telemetries
+  GS: '10'
+  Guide: true
+  Number of Gamers: 870
+  Percentage of Gamers: 34%
+  Ratio: 1.72
+  TA: '17'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Somebody Will Be Quite Angry Now
+  Description: Win a race with a gap of less than 1" from second place
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1254
+  Percentage of Gamers: 49%
+  Ratio: 1.43
+  TA: '14'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Despite bad luck
+  Description: Win a race with a heavily damaged bike
+  GS: '10'
+  Guide: true
+  Number of Gamers: 660
+  Percentage of Gamers: 26%
+  Ratio: 1.97
+  TA: '19'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Impossible Comeback
+  Description: Win a quick race starting from last position at Professional difficulty
+    level
+  GS: '10'
+  Guide: false
+  Number of Gamers: 634
+  Percentage of Gamers: 25%
+  Ratio: 2.01
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Italy Rules the World
+  Description: Win a race with all the Italian riders
+  GS: '10'
+  Guide: true
+  Number of Gamers: 739
+  Percentage of Gamers: 29%
+  Ratio: 1.86
+  TA: '18'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Turnaround
+  Description: Win a race performing at least 2 360's
+  GS: '10'
+  Guide: true
+  Number of Gamers: 955
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '16'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: I'm the Wizard
+  Description: Win a race at Monza using Michel Fabrizio
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1140
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '15'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Milk Shake
+  Description: Damage a Team Sterilgarda bike to the retirement
+  GS: '10'
+  Guide: true
+  Number of Gamers: 517
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '22'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Dorifuto Kingu
+  Description: Win a race performing at least 10 seconds of skids
+  GS: '10'
+  Guide: false
+  Number of Gamers: 703
+  Percentage of Gamers: 27%
+  Ratio: 1.91
+  TA: '19'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The Pirate lands in America
+  Description: Win a race with Biaggi at Salt Lake City
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1100
+  Percentage of Gamers: 43%
+  Ratio: 1.53
+  TA: '15'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Straight out of the factory
+  Description: Win a race at Imola using a Ducati Xerox
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1090
+  Percentage of Gamers: 42%
+  Ratio: 1.53
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Mr. Crocodile Under the Water
+  Description: Win a rainy race using Troy Corser
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1050
+  Percentage of Gamers: 41%
+  Ratio: 1.56
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Living on the Edge
+  Description: Perform 10 seconds of wheelies and 10 seconds of skids in any game
+    mode
+  GS: '15'
+  Guide: true
+  Number of Gamers: 684
+  Percentage of Gamers: 27%
+  Ratio: 1.94
+  TA: '29'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Out of time
+  Description: Win a race with a 10 second gap or more from second place
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2001
+  Percentage of Gamers: 78%
+  Ratio: 1.13
+  TA: '11'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Someone has to read them now
+  Description: Watch all credits
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1304
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '42'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Teatime
+  Description: Win at least 5 races at Donington
+  GS: '20'
+  Guide: true
+  Number of Gamers: 863
+  Percentage of Gamers: 33%
+  Ratio: 1.72
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Teamwork
+  Description: "Win at least one race with each of the SBK\u2122 teams"
+  GS: '30'
+  Guide: true
+  Number of Gamers: 684
+  Percentage of Gamers: 27%
+  Ratio: 1.94
+  TA: '58'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Mr. Superpole
+  Description: Achieve at least 10 Superpoles in the same Single Player championship
+  GS: '20'
+  Guide: true
+  Number of Gamers: 415
+  Percentage of Gamers: 16%
+  Ratio: 2.49
+  TA: '49'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Pure ruler, out of the box
+  Description: Win on all tracks on-line
+  GS: '25'
+  Guide: true
+  Number of Gamers: 313
+  Percentage of Gamers: 12%
+  Ratio: 2.87
+  TA: '71'
+  Tags:
+  - Online Mode
+  - Versus
+  - Buggy
+- Achievement Name: Italian Miracle
+  Description: Win a Single Player Championship with Pedercini team
+  GS: '20'
+  Guide: false
+  Number of Gamers: 418
+  Percentage of Gamers: 16%
+  Ratio: 2.48
+  TA: '49'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "The SBK\u2122 Kamikaze"
+  Description: Win at least one race with all the Japanese riders
+  GS: '10'
+  Guide: true
+  Number of Gamers: 738
+  Percentage of Gamers: 29%
+  Ratio: 1.86
+  TA: '18'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The Prancing Pony
+  Description: Perform 60 seconds of wheelie and finish at least in fourth position
+  GS: '15'
+  Guide: false
+  Number of Gamers: 706
+  Percentage of Gamers: 27%
+  Ratio: 1.91
+  TA: '28'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: I'm the Star
+  Description: Win a Single Player championship using the team Suzuki Alstare
+  GS: '20'
+  Guide: true
+  Number of Gamers: 453
+  Percentage of Gamers: 18%
+  Ratio: 2.38
+  TA: '47'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Bronze Medal
+  Description: Win at least a bronze medal in every Scenario
+  GS: '20'
+  Guide: false
+  Number of Gamers: 477
+  Percentage of Gamers: 18%
+  Ratio: 2.32
+  TA: '46'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
+- Achievement Name: Silver Medal
+  Description: Win at least a silver medal in every Scenario
+  GS: '30'
+  Guide: false
+  Number of Gamers: 417
+  Percentage of Gamers: 16%
+  Ratio: 2.48
+  TA: '74'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
+- Achievement Name: Tight Rope Walker
+  Description: Finish 10 races in a row without falling
+  GS: '40'
+  Guide: true
+  Number of Gamers: 844
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '69'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The championship is on the line
+  Description: Win an on-line Championship
+  GS: '30'
+  Guide: true
+  Number of Gamers: 392
+  Percentage of Gamers: 15%
+  Ratio: 2.56
+  TA: '77'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Winning Streak
+  Description: Win 10 races in a row
+  GS: '30'
+  Guide: true
+  Number of Gamers: 922
+  Percentage of Gamers: 36%
+  Ratio: 1.67
+  TA: '50'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Pure Ruler
+  Description: Win on all tracks
+  GS: '40'
+  Guide: true
+  Number of Gamers: 862
+  Percentage of Gamers: 33%
+  Ratio: 1.72
+  TA: '69'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Gold Medal
+  Description: Win at least a gold medal in every Scenario
+  GS: '40'
+  Guide: false
+  Number of Gamers: 381
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '103'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: How Cool are my Trophies?
+  Description: Complete the Cups board
+  GS: '40'
+  Guide: true
+  Number of Gamers: 150
+  Percentage of Gamers: 6%
+  Ratio: 4.14
+  TA: '165'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "The True SBK\u2122  Hero"
+  Description: Win at least 3 Single Player championships
+  GS: '40'
+  Guide: true
+  Number of Gamers: 436
+  Percentage of Gamers: 17%
+  Ratio: 2.43
+  TA: '97'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Rainbow Decks
+  Description: Win all the cards of the game decks
+  GS: '50'
+  Guide: true
+  Number of Gamers: 131
+  Percentage of Gamers: 5%
+  Ratio: 4.43
+  TA: '221'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Style Victory
+  Description: Win a clean race, without falls and shortcuts
+  GS: '30'
+  Guide: false
+  Number of Gamers: 2310
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '31'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Once he was Bayliss
+  Description: Win a Single Player championship using a Ducati Xerox Team bike
+  GS: '15'
+  Guide: false
+  Number of Gamers: 482
+  Percentage of Gamers: 19%
+  Ratio: 2.31
+  TA: '34'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: A True Rider
+  Description: Win a Single Player championship using the simulation mode
+  GS: '35'
+  Guide: true
+  Number of Gamers: 310
+  Percentage of Gamers: 12%
+  Ratio: 2.88
+  TA: '100'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: A Perfect Weekend
+  Description: Get pole position and win race 1 and race 2 in the same Event
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1132
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '45'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Victories in 5 continents
+  Description: Win a race at Phillip Island, Losail, Salt Lake City, Kyalami and Monza
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1044
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '31'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Lucky Man
+  Description: Get 7th place three times in the same Single Player championship
+  GS: '30'
+  Guide: true
+  Number of Gamers: 488
+  Percentage of Gamers: 19%
+  Ratio: 2.29
+  TA: '68'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Unlucky Man
+  Description: Lose 13 on-line races
+  GS: '25'
+  Guide: true
+  Number of Gamers: 411
+  Percentage of Gamers: 16%
+  Ratio: 2.5
+  TA: '62'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: I pwn n00bs
+  Description: Perform a 360 burnout and win an on-line quick race
+  GS: '15'
+  Guide: true
+  Number of Gamers: 398
+  Percentage of Gamers: 15%
+  Ratio: 2.54
+  TA: '38'
+  Tags:
+  - Online Mode
+  - Versus
+  - Buggy
+Base Ratio: 2.23
+Base TA: 2230
+Delisted: false
+Developer: Milestone
+Game Name: SBK 09 Superbike World Championship
+Genres: Simulation Racing, Automobile, Sports
+Install Size: null
+Number of Completions: 104
+Number of Gamers: 2580
+Overall Completion Time:
+- 0
+- 0
+Overall GS: 1000
+Overall Ratio: 2.23
+Overall TA: 2230
+PDU: 0
+Percentage Completed: 4.03
+Publisher: Black Bean Games
+Release Date: 29 May 2009
+Server Closure: false
+Site Rating: 3.37
+Update Achievements: []
+Walkthrough: false

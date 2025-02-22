@@ -1,0 +1,485 @@
+Add On Achievements: []
+Base Completion Time:
+- 35.0
+- 40.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Chapter 1
+  Description: Awarded for completing Chapter 1
+  GS: '20'
+  Guide: true
+  Number of Gamers: 23083
+  Percentage of Gamers: 100%
+  Ratio: 1.0
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Chapter 2
+  Description: Awarded for completing Chapter 2
+  GS: '30'
+  Guide: true
+  Number of Gamers: 13107
+  Percentage of Gamers: 57%
+  Ratio: 1.32
+  TA: '39'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Chapter 3
+  Description: Awarded for completing Chapter 3
+  GS: '30'
+  Guide: false
+  Number of Gamers: 7292
+  Percentage of Gamers: 32%
+  Ratio: 1.77
+  TA: '53'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Chapter 4
+  Description: Awarded for completing Chapter 4
+  GS: '50'
+  Guide: false
+  Number of Gamers: 6017
+  Percentage of Gamers: 26%
+  Ratio: 1.95
+  TA: '97'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Chapter 5
+  Description: Awarded for completing Chapter 5
+  GS: '50'
+  Guide: false
+  Number of Gamers: 5463
+  Percentage of Gamers: 24%
+  Ratio: 2.05
+  TA: '102'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Chapter 6
+  Description: Awarded for completing Chapter 6
+  GS: '100'
+  Guide: false
+  Number of Gamers: 5437
+  Percentage of Gamers: 24%
+  Ratio: 2.06
+  TA: '206'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Normal Difficulty
+  Description: Awarded for completing all Normal Missions
+  GS: '50'
+  Guide: true
+  Number of Gamers: 3871
+  Percentage of Gamers: 17%
+  Ratio: 2.44
+  TA: '122'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
+  - Difficulty Specific
+- Achievement Name: Hard Difficulty
+  Description: Awarded for completing all Hard Missions
+  GS: '50'
+  Guide: false
+  Number of Gamers: 1001
+  Percentage of Gamers: 4%
+  Ratio: 4.8
+  TA: '240'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
+  - Difficulty Specific
+- Achievement Name: Mission Rank A
+  Description: Awarded for achieving Total Mission Rank A
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1636
+  Percentage of Gamers: 7%
+  Ratio: 3.75
+  TA: '37'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Mission Rank S
+  Description: Awarded for achieving Total Mission Rank S
+  GS: '20'
+  Guide: true
+  Number of Gamers: 739
+  Percentage of Gamers: 3%
+  Ratio: 5.59
+  TA: '111'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Mission Rank SS
+  Description: Awarded for achieving Total Mission Rank SS
+  GS: '30'
+  Guide: true
+  Number of Gamers: 549
+  Percentage of Gamers: 2%
+  Ratio: 6.49
+  TA: '194'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Special Pack
+  Description: Awarded for completing the "NDP-S001" data pack
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4861
+  Percentage of Gamers: 21%
+  Ratio: 2.18
+  TA: '65'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: GA Pack-A
+  Description: Awarded for completing the "SDGA RANK-A" data pack
+  GS: '30'
+  Guide: true
+  Number of Gamers: 5753
+  Percentage of Gamers: 25%
+  Ratio: 2.0
+  TA: '60'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: GA Pack-B
+  Description: Awarded for completing the "SDGA RANK-B" data pack
+  GS: '30'
+  Guide: true
+  Number of Gamers: 6278
+  Percentage of Gamers: 27%
+  Ratio: 1.91
+  TA: '57'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Rosenthal Pack
+  Description: Awarded for completing the "NDP-E001 ROS-OME" data pack
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4921
+  Percentage of Gamers: 21%
+  Ratio: 2.16
+  TA: '65'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Rayleonard Pack
+  Description: Awarded for completing the "NDP-C001 RAY" data pack
+  GS: '30'
+  Guide: true
+  Number of Gamers: 5059
+  Percentage of Gamers: 22%
+  Ratio: 2.13
+  TA: '64'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Akvavit Pack
+  Description: Awarded for completing the "NDP-C002 AKV" data pack
+  GS: '30'
+  Guide: true
+  Number of Gamers: 5191
+  Percentage of Gamers: 22%
+  Ratio: 2.1
+  TA: '63'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: BFF Pack-A
+  Description: Awarded for completing the "SDBFF RANK-A" data pack
+  GS: '30'
+  Guide: true
+  Number of Gamers: 5432
+  Percentage of Gamers: 23%
+  Ratio: 2.06
+  TA: '61'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: BFF Pack-B
+  Description: Awarded for completing the "SDBFF RANK-B" data pack
+  GS: '30'
+  Guide: true
+  Number of Gamers: 5597
+  Percentage of Gamers: 24%
+  Ratio: 2.03
+  TA: '60'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Leone Pack
+  Description: Awarded for completing the "NDP-B001 LEO" data pack
+  GS: '30'
+  Guide: true
+  Number of Gamers: 5389
+  Percentage of Gamers: 23%
+  Ratio: 2.07
+  TA: '62'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Aldra Pack
+  Description: Awarded for completing the "NDP-B002 ALD-MEL" data pack
+  GS: '30'
+  Guide: true
+  Number of Gamers: 5405
+  Percentage of Gamers: 23%
+  Ratio: 2.06
+  TA: '62'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Eqbal Pack
+  Description: Awarded for completing the "NDP-A001 EQB-TEC" data pack
+  GS: '30'
+  Guide: true
+  Number of Gamers: 6241
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '57'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Maggrib Pack
+  Description: Awarded for completing the "NDP-X002 MAGGRIB" data pack
+  GS: '30'
+  Guide: true
+  Number of Gamers: 6725
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '55'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: All Data Packs
+  Description: Awarded for completing all data packs
+  GS: '50'
+  Guide: true
+  Number of Gamers: 4851
+  Percentage of Gamers: 21%
+  Ratio: 2.18
+  TA: '109'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: 01 Berlioz
+  Description: Awarded for completing the MARCHE AU SUPPLICE mission on Hard
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2505
+  Percentage of Gamers: 11%
+  Ratio: 3.03
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: 02 Sahdana
+  Description: Awarded for completing the EGO BOOST mission on Hard
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1984
+  Percentage of Gamers: 9%
+  Ratio: 3.41
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: 03 Anjou
+  Description: Awarded for completing the JARDIN DE CHEVALIER mission on Hard
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3236
+  Percentage of Gamers: 14%
+  Ratio: 2.67
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: 05 Mary Shelley
+  Description: Awarded for completing the EMPRESS mission on Hard
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3122
+  Percentage of Gamers: 14%
+  Ratio: 2.72
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: 06 Celo
+  Description: Awarded for completing the SEED A BARREN EARTH mission on Hard
+  GS: '10'
+  Guide: false
+  Number of Gamers: 3018
+  Percentage of Gamers: 13%
+  Ratio: 2.76
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: 09 Sir Maurescu
+  Description: Awarded for completing the LINE OF DEFENSE mission on Hard
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1620
+  Percentage of Gamers: 7%
+  Ratio: 3.77
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: 10 Menno Ruh
+  Description: Awarded for completing the INTERNAL PURGE mission on Hard
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2141
+  Percentage of Gamers: 9%
+  Ratio: 3.28
+  TA: '32'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: 14 Sherring
+  Description: Awarded for completing the SEA OF BLOOD mission on Hard
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2551
+  Percentage of Gamers: 11%
+  Ratio: 3.0
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: 19 Francisca
+  Description: Awarded for completing the SILENT AVALANCHE mission on Hard
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1610
+  Percentage of Gamers: 7%
+  Ratio: 3.78
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: 25 Borisovich
+  Description: Awarded for completing the SANDSTORM CITADEL mission on Hard
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2744
+  Percentage of Gamers: 12%
+  Ratio: 2.9
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: -- Amazigh
+  Description: Awarded for completing the DESERT WOLF mission on Hard
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3542
+  Percentage of Gamers: 15%
+  Ratio: 2.55
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: -- Sus
+  Description: Awarded for completing the UP IN FLAMES mission on Hard
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3117
+  Percentage of Gamers: 13%
+  Ratio: 2.72
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Ursragna
+  Description: Awarded for completing the JUGGERNAUT mission on Hard
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2951
+  Percentage of Gamers: 13%
+  Ratio: 2.79
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Sol Dios
+  Description: Awarded for completing the SOL DIOS mission on Hard
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2948
+  Percentage of Gamers: 13%
+  Ratio: 2.79
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: 00-Aretha
+  Description: Awarded for completing the SEED A BARREN EARTH mission on Hard
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3017
+  Percentage of Gamers: 13%
+  Ratio: 2.76
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+Base Ratio: 2.503
+Base TA: 2503
+Delisted: true
+Developer: FromSoftware
+Game Name: Armored Core 4
+Genres: Third Person Shooter, Mech
+Install Size: null
+Number of Completions: 546
+Number of Gamers: 23119
+Overall Completion Time:
+- 35.0
+- 40.0
+Overall GS: 1000
+Overall Ratio: 2.503
+Overall TA: 2503
+PDU: 0
+Percentage Completed: 2.36
+Publisher: SEGA, 505 Games, FromSoftware
+Release Date: 20 March 2007
+Server Closure: false
+Site Rating: 2.86
+Update Achievements: []
+Walkthrough: false

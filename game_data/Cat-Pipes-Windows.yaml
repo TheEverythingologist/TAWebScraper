@@ -1,0 +1,433 @@
+Add On Achievements: []
+Base Completion Time:
+- 0.5
+- 2.0
+Base GS: 3000
+Base Game Achievements:
+- Achievement Name: Try again
+  Description: Restart the level for the first time!
+  GS: '20'
+  Guide: false
+  Number of Gamers: 567
+  Percentage of Gamers: 98%
+  Ratio: 1.01
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Restart again
+  Description: Restart the level 10 times
+  GS: '30'
+  Guide: true
+  Number of Gamers: 555
+  Percentage of Gamers: 96%
+  Ratio: 1.02
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: The King of Reboot
+  Description: Restart the level 30 times
+  GS: '90'
+  Guide: true
+  Number of Gamers: 553
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '92'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: First rotation
+  Description: Rotate a piece
+  GS: '20'
+  Guide: true
+  Number of Gamers: 580
+  Percentage of Gamers: 100%
+  Ratio: 1.0
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Spinning rotations
+  Description: Rotate 3 pieces in the same level
+  GS: '30'
+  Guide: true
+  Number of Gamers: 577
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '30'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: First of many
+  Description: Pass the first level
+  GS: '30'
+  Guide: false
+  Number of Gamers: 576
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '30'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The big 5
+  Description: Pass 5 levels
+  GS: '20'
+  Guide: false
+  Number of Gamers: 571
+  Percentage of Gamers: 98%
+  Ratio: 1.0
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Nearly 25% complete
+  Description: Pass 10 levels
+  GS: '20'
+  Guide: false
+  Number of Gamers: 561
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: 1/3 is gone
+  Description: Pass 15 levels
+  GS: '20'
+  Guide: false
+  Number of Gamers: 531
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Almost half
+  Description: Reach the level 20
+  GS: '30'
+  Guide: false
+  Number of Gamers: 511
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: My first kitten
+  Description: Connect the pipe to the first cat
+  GS: '30'
+  Guide: false
+  Number of Gamers: 576
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '30'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: A mini cat collection
+  Description: Connect the pipes to 5 cats
+  GS: '30'
+  Guide: false
+  Number of Gamers: 572
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '30'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Cats' King
+  Description: Connect the pipes to 10 cats
+  GS: '90'
+  Guide: false
+  Number of Gamers: 571
+  Percentage of Gamers: 98%
+  Ratio: 1.0
+  TA: '90'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Pipe Kittens
+  Description: Connect the pipes to at least 5 cats in the same level
+  GS: '30'
+  Guide: true
+  Number of Gamers: 569
+  Percentage of Gamers: 98%
+  Ratio: 1.0
+  TA: '30'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: All cats caught
+  Description: Connect the pipes to at least 10 cats in the same level
+  GS: '90'
+  Guide: true
+  Number of Gamers: 561
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '91'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: A new color!
+  Description: Change the backgroud color
+  GS: '30'
+  Guide: true
+  Number of Gamers: 563
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '30'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Spinning master
+  Description: Rotate 10 pieces on the same level
+  GS: '30'
+  Guide: true
+  Number of Gamers: 571
+  Percentage of Gamers: 98%
+  Ratio: 1.0
+  TA: '30'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: King Spinning
+  Description: Rotate 20 pieces on the same level
+  GS: '90'
+  Guide: false
+  Number of Gamers: 565
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '91'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Level Repeater
+  Description: Play a level again
+  GS: '30'
+  Guide: false
+  Number of Gamers: 555
+  Percentage of Gamers: 96%
+  Ratio: 1.02
+  TA: '30'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Level collector
+  Description: Play 5 levels again
+  GS: '90'
+  Guide: false
+  Number of Gamers: 547
+  Percentage of Gamers: 94%
+  Ratio: 1.02
+  TA: '92'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Keep going!
+  Description: Reach the level 25
+  GS: '30'
+  Guide: false
+  Number of Gamers: 502
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '32'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Good Job!
+  Description: Reach the level 27
+  GS: '30'
+  Guide: false
+  Number of Gamers: 496
+  Percentage of Gamers: 86%
+  Ratio: 1.08
+  TA: '32'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Almost there
+  Description: Reach the level 28
+  GS: '30'
+  Guide: false
+  Number of Gamers: 493
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '32'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Almost prepared
+  Description: Reach the level 29
+  GS: '30'
+  Guide: false
+  Number of Gamers: 492
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '32'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: My job here is done
+  Description: Reach the level 30
+  GS: '30'
+  Guide: false
+  Number of Gamers: 490
+  Percentage of Gamers: 84%
+  Ratio: 1.08
+  TA: '32'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+Base Ratio: 1.0413333333333334
+Base TA: 3124
+Delisted: false
+Developer: Tribus Games
+Game Name: Cat Pipes (Windows)
+Genres: Puzzle
+Install Size: 334.0
+Number of Completions: 474
+Number of Gamers: 580
+Overall Completion Time:
+- 0.5
+- 2.0
+Overall GS: 3000
+Overall Ratio: 1.0413333333333334
+Overall TA: 3124
+PDU: 0
+Percentage Completed: 81.72
+Publisher: AFIL Games
+Release Date: 23 May 2024
+Server Closure: false
+Site Rating: 2.4
+Update Achievements:
+- Achievement Name: First Steps of Mastery
+  Description: Reach the level 31
+  GS: '200'
+  Guide: false
+  Number of Gamers: 488
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '218'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Intelligent
+  Description: Play the 1st level without restart
+  GS: '200'
+  Guide: false
+  Number of Gamers: 574
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '201'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Purr-fect Progress
+  Description: Reach the level 32
+  GS: '200'
+  Guide: true
+  Number of Gamers: 487
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '218'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Silence Achieved
+  Description: Mute the music
+  GS: '200'
+  Guide: true
+  Number of Gamers: 558
+  Percentage of Gamers: 96%
+  Ratio: 1.01
+  TA: '203'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Sixfold Revisiter
+  Description: Play 6 levels again
+  GS: '200'
+  Guide: true
+  Number of Gamers: 544
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '206'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Whiskered Wayfarer
+  Description: Reach the level 33
+  GS: '200'
+  Guide: true
+  Number of Gamers: 478
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '220'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Clever
+  Description: Play the 7th level without restart
+  GS: '200'
+  Guide: false
+  Number of Gamers: 548
+  Percentage of Gamers: 94%
+  Ratio: 1.02
+  TA: '205'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Pawsome Progress
+  Description: Reach the level 34
+  GS: '200'
+  Guide: true
+  Number of Gamers: 475
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '221'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Soundless Success
+  Description: Mute the sound effects
+  GS: '200'
+  Guide: false
+  Number of Gamers: 543
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '206'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Sevenfold Revisiter
+  Description: Play 7 levels again
+  GS: '200'
+  Guide: false
+  Number of Gamers: 529
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '209'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+Walkthrough: false

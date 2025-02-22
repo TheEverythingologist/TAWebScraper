@@ -1,0 +1,668 @@
+Add On Achievements: []
+Base Completion Time:
+- 40.0
+- 50.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Are You Serious!?
+  Description: Complete TFE, TSE or BFE single player campaign on serious difficulty
+  GS: '100'
+  Guide: true
+  Number of Gamers: 310
+  Percentage of Gamers: 3%
+  Ratio: 5.46
+  TA: '546'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: It's not the size that matters...
+  Description: 'Finish Serious Sam: The First Encounter'
+  GS: '60'
+  Guide: true
+  Number of Gamers: 1622
+  Percentage of Gamers: 18%
+  Ratio: 2.38
+  TA: '143'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Forgive me father, for I have sinned
+  Description: 'Finish Serious Sam: The Second Encounter'
+  GS: '60'
+  Guide: true
+  Number of Gamers: 1060
+  Percentage of Gamers: 11%
+  Ratio: 2.95
+  TA: '177'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: That's how we do it on planet Earth
+  Description: 'Finish Serious Sam 3: BFE campaign'
+  GS: '60'
+  Guide: false
+  Number of Gamers: 933
+  Percentage of Gamers: 10%
+  Ratio: 3.14
+  TA: '188'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Air Element
+  Description: Obtain the Air Element.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 6937
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '11'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Earth Element
+  Description: Obtain the Earth Element.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5427
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '13'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Fire Element
+  Description: Obtain the Fire Element.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 4596
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '14'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Water Element
+  Description: Obtain the Water Element.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 4160
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '14'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Huge Pile of Lava
+  Description: Defeat the Lava Golem boss on Alley of the Sphinxes.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2617
+  Percentage of Gamers: 28%
+  Ratio: 1.87
+  TA: '18'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Hey! That's cheating!
+  Description: Trigger Ugh-Zan's regeneration on The Great Pyramid.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2134
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '20'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Quick Draw
+  Description: Pull out a single Colt and immediately deliver a killing shot.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1134
+  Percentage of Gamers: 12%
+  Ratio: 2.85
+  TA: '85'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Wall of Bullets
+  Description: Kill 20 enemies with the Minigun without releasing the trigger.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3609
+  Percentage of Gamers: 39%
+  Ratio: 1.59
+  TA: '23'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Cannon Expert
+  Description: Pierce at least 10 enemies with a single cannonball.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1444
+  Percentage of Gamers: 16%
+  Ratio: 2.52
+  TA: '50'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Leap of Faith
+  Description: Leap into the unknown on Luxor.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1199
+  Percentage of Gamers: 13%
+  Ratio: 2.77
+  TA: '55'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Serious Beginner
+  Description: Complete any level in single player.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7785
+  Percentage of Gamers: 84%
+  Ratio: 1.08
+  TA: '10'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Look Ma, I'm a Lumberjack!
+  Description: Cut down some trees.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1835
+  Percentage of Gamers: 20%
+  Ratio: 2.24
+  TA: '22'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Treasure Diving
+  Description: Find a secret under water.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1881
+  Percentage of Gamers: 20%
+  Ratio: 2.21
+  TA: '22'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Nice Try
+  Description: Use the Flamethrower on a Lava Golem.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1711
+  Percentage of Gamers: 19%
+  Ratio: 2.32
+  TA: '23'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Mine's bigger than yours
+  Description: Destroy an enemy cannon with your own cannon.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 917
+  Percentage of Gamers: 10%
+  Ratio: 3.17
+  TA: '63'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: The Perfect Storm
+  Description: Survive the storm on the Grand Cathedral.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1245
+  Percentage of Gamers: 14%
+  Ratio: 2.72
+  TA: '27'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Make it count
+  Description: Kill at least 30 enemies with a single Serious Bomb.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1080
+  Percentage of Gamers: 12%
+  Ratio: 2.92
+  TA: '87'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Serious Damage
+  Description: Kill 100 enemies with Serious Damage active.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1531
+  Percentage of Gamers: 17%
+  Ratio: 2.45
+  TA: '73'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: South America Master
+  Description: Complete the South America episode in single player or cooperative.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1721
+  Percentage of Gamers: 19%
+  Ratio: 2.31
+  TA: '23'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Persia Master
+  Description: Complete the Persia episode in single player or cooperative.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1417
+  Percentage of Gamers: 15%
+  Ratio: 2.55
+  TA: '25'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Medieval Master
+  Description: Complete the Medieval episode in single player or cooperative.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1346
+  Percentage of Gamers: 15%
+  Ratio: 2.61
+  TA: '26'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Survivor
+  Description: Earn a gold medal on any level in single player Survival.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 435
+  Percentage of Gamers: 5%
+  Ratio: 4.61
+  TA: '92'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The Beast
+  Description: Finish the Legend of the Beast campaign in single player or cooperative.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1006
+  Percentage of Gamers: 11%
+  Ratio: 3.03
+  TA: '90'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Wanted Dead or Alive
+  Description: Rescue professor Stein. So to say.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2895
+  Percentage of Gamers: 31%
+  Ratio: 1.78
+  TA: '17'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Get the hell off my ride!
+  Description: Secure the bird.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2148
+  Percentage of Gamers: 23%
+  Ratio: 2.07
+  TA: '20'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Apprentice Egyptologist
+  Description: Decipher an Egyptian text.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2014
+  Percentage of Gamers: 22%
+  Ratio: 2.14
+  TA: '21'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: All Your Base Are Belong To Us
+  Description: Defeat the spaceship.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1859
+  Percentage of Gamers: 20%
+  Ratio: 2.22
+  TA: '22'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Killer Jewelry
+  Description: Kill an enemy using the Mutilator.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1926
+  Percentage of Gamers: 21%
+  Ratio: 2.18
+  TA: '21'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Problem solver
+  Description: Solve the riddle of the Sphynx.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1733
+  Percentage of Gamers: 19%
+  Ratio: 2.3
+  TA: '23'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Useful Trophy
+  Description: Kill an enemy with a gib torn from another enemy.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1891
+  Percentage of Gamers: 21%
+  Ratio: 2.2
+  TA: '22'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Painful Divorce
+  Description: Kill a Witch-Bride of Achriman.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1464
+  Percentage of Gamers: 16%
+  Ratio: 2.51
+  TA: '25'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Trick Shot
+  Description: Kill the kicked enemy while it is still in the air.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1324
+  Percentage of Gamers: 14%
+  Ratio: 2.63
+  TA: '52'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Mission completed
+  Description: Power up the Timelock.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1388
+  Percentage of Gamers: 15%
+  Ratio: 2.57
+  TA: '25'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Detroit Steel
+  Description: Start the car.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1283
+  Percentage of Gamers: 14%
+  Ratio: 2.68
+  TA: '26'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Classic Outfit
+  Description: Find Sam's classic outfit.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1346
+  Percentage of Gamers: 15%
+  Ratio: 2.61
+  TA: '78'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: The Doorman Should Wear a Suit
+  Description: Awake the Guardian of Time.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1268
+  Percentage of Gamers: 14%
+  Ratio: 2.69
+  TA: '26'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Load of Scrap
+  Description: Rip Scrapjack's head off.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1201
+  Percentage of Gamers: 13%
+  Ratio: 2.77
+  TA: '41'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Maintenance time
+  Description: Blow a Major Biomechanoid into pieces.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 886
+  Percentage of Gamers: 10%
+  Ratio: 3.22
+  TA: '48'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Rodeo Surfer
+  Description: Use the Mutilator to surf after a Werebull.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 960
+  Percentage of Gamers: 10%
+  Ratio: 3.09
+  TA: '30'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Jewel of the Nile
+  Description: Complete the Jewel of The Nile single player campaign.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 751
+  Percentage of Gamers: 8%
+  Ratio: 3.51
+  TA: '105'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Look, it's a secret!
+  Description: Find at least 30 secrets in single player.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 1860
+  Percentage of Gamers: 20%
+  Ratio: 2.22
+  TA: '89'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Cumulative +
+- Achievement Name: Chain Explosion
+  Description: Kill at least 5 headless kamikazes in one explosion.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4081
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '45'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Rrrrrrrrrr
+  Description: Kill 10 enemies with the Chainsaw without releasing the trigger.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1843
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '33'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Trick or Treat
+  Description: Kill 50 Cucurbitos.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2007
+  Percentage of Gamers: 22%
+  Ratio: 2.14
+  TA: '21'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Bug Hunt
+  Description: Squash 10 Hatchling spiders.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2484
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '19'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Up Close and Personal
+  Description: Gib 20 enemies from close range with a shotgun.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2081
+  Percentage of Gamers: 23%
+  Ratio: 2.1
+  TA: '21'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Circle of Death
+  Description: Kill at least 3 enemies in one spinning Sledgehammer attack.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 899
+  Percentage of Gamers: 10%
+  Ratio: 3.2
+  TA: '64'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+Base Ratio: 2.834
+Base TA: 2834
+Delisted: false
+Developer: Croteam
+Game Name: Serious Sam Collection
+Genres: First Person Shooter, Third Person Shooter, Collection
+Install Size: 7730.0
+Number of Completions: 261
+Number of Gamers: 9222
+Overall Completion Time:
+- 40.0
+- 50.0
+Overall GS: 1000
+Overall Ratio: 2.834
+Overall TA: 2834
+PDU: 0
+Percentage Completed: 2.83
+Publisher: Devolver Digital
+Release Date: 17 November 2020
+Server Closure: false
+Site Rating: 3.89
+Update Achievements: []
+Walkthrough: false

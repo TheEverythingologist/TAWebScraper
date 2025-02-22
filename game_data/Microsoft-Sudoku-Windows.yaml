@@ -1,0 +1,277 @@
+Add On Achievements: []
+Base Completion Time:
+- 200.0
+- 300.0
+Base GS: 200
+Base Game Achievements:
+- Achievement Name: Good Start
+  Description: Complete your first puzzle
+  GS: '10'
+  Guide: true
+  Number of Gamers: 24439
+  Percentage of Gamers: 96%
+  Ratio: 1.01
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Call me Master
+  Description: Complete 100 Puzzles
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2577
+  Percentage of Gamers: 10%
+  Ratio: 3.13
+  TA: '47'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Came To Win
+  Description: Win your first Daily Challenge
+  GS: '15'
+  Guide: true
+  Number of Gamers: 17767
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '17'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Time/Date
+  - Partly Discontinued/Unobtainable
+- Achievement Name: Irregularity
+  Description: Solve 100 Irregular Shapes
+  GS: '20'
+  Guide: true
+  Number of Gamers: 5334
+  Percentage of Gamers: 21%
+  Ratio: 2.18
+  TA: '43'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cumulative +
+  - Buggy
+  - Partly Discontinued/Unobtainable
+- Achievement Name: Puzzle Expert
+  Description: Complete a puzzle on Expert difficulty without using any Guides or
+    helper functions
+  GS: '10'
+  Guide: true
+  Number of Gamers: 10981
+  Percentage of Gamers: 43%
+  Ratio: 1.51
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Go for the Bronze
+  Description: Win 12 Bronze Daily Challenge Badges
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1860
+  Percentage of Gamers: 7%
+  Ratio: 3.69
+  TA: '36'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Time/Date
+  - Partly Discontinued/Unobtainable
+- Achievement Name: Go for the Gold
+  Description: Win 8 Gold Daily Challenge Badges
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1921
+  Percentage of Gamers: 8%
+  Ratio: 3.63
+  TA: '54'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Time/Date
+  - Partly Discontinued/Unobtainable
+- Achievement Name: Perfection
+  Description: Complete all Daily Challenges in a month
+  GS: '15'
+  Guide: true
+  Number of Gamers: 5030
+  Percentage of Gamers: 20%
+  Ratio: 2.24
+  TA: '33'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Time/Date
+  - Partly Discontinued/Unobtainable
+- Achievement Name: Puzzle Master
+  Description: Complete a puzzle on each difficulty
+  GS: '10'
+  Guide: true
+  Number of Gamers: 9026
+  Percentage of Gamers: 36%
+  Ratio: 1.67
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Helping Hand
+  Description: Solve a puzzle using all three Guide types, and consuming all the hints
+  GS: '5'
+  Guide: true
+  Number of Gamers: 9592
+  Percentage of Gamers: 38%
+  Ratio: 1.62
+  TA: '8'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Calligrapher
+  Description: Draw 50 numbers on the board using a stylus OR place 500 numbers
+  GS: '10'
+  Guide: true
+  Number of Gamers: 12292
+  Percentage of Gamers: 48%
+  Ratio: 1.43
+  TA: '14'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cumulative +
+- Achievement Name: Center Stage
+  Description: Finish a Symbol Sudoku puzzle by placing the last symbol in the exact
+    center of the board
+  GS: '5'
+  Guide: true
+  Number of Gamers: 7930
+  Percentage of Gamers: 31%
+  Ratio: 1.78
+  TA: '8'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Partly Discontinued/Unobtainable
+- Achievement Name: Don't make me think
+  Description: Solve 5 Very Easy puzzles in a row
+  GS: '5'
+  Guide: true
+  Number of Gamers: 10203
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '7'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Okay, make me think
+  Description: Solve 3 Expert puzzles in a row
+  GS: '10'
+  Guide: true
+  Number of Gamers: 8902
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Marathon
+  Description: Log in each day of an entire month and complete at least one Daily
+    Challenge
+  GS: '15'
+  Guide: true
+  Number of Gamers: 5193
+  Percentage of Gamers: 20%
+  Ratio: 2.2
+  TA: '33'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Time/Date
+  - Buggy +
+  - Partly Discontinued/Unobtainable
+- Achievement Name: Good Memory
+  Description: Complete a puzzle without using Notes
+  GS: '5'
+  Guide: true
+  Number of Gamers: 23275
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '5'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Speed Demon
+  Description: Complete a puzzle in less than 1 minute
+  GS: '5'
+  Guide: true
+  Number of Gamers: 7471
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '9'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: Just Checking
+  Description: Use Show all Notes and then use Erase Notes with no other actions inbetween
+  GS: '5'
+  Guide: true
+  Number of Gamers: 8716
+  Percentage of Gamers: 34%
+  Ratio: 1.7
+  TA: '8'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Lucky 7's
+  Description: Complete a puzzle where the last seven moves you make are correctly
+    placing sevens
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7939
+  Percentage of Gamers: 31%
+  Ratio: 1.78
+  TA: '17'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: X Marks the Spot
+  Description: Fill the board, leaving empty squares in an "X" shape in the center
+    3x3 block
+  GS: '5'
+  Guide: true
+  Number of Gamers: 6443
+  Percentage of Gamers: 25%
+  Ratio: 1.98
+  TA: '9'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 2.025
+Base TA: 405
+Delisted: false
+Developer: Arkadium
+Game Name: Microsoft Sudoku (Windows)
+Genres: Puzzle
+Install Size: 99.0
+Number of Completions: 1523
+Number of Gamers: 25361
+Overall Completion Time:
+- 200.0
+- 300.0
+Overall GS: 200
+Overall Ratio: 2.025
+Overall TA: 405
+PDU: 7
+Percentage Completed: 6.01
+Publisher: Xbox Game Studios
+Release Date: 25 June 2014
+Server Closure: true
+Site Rating: 3.35
+Update Achievements: []
+Walkthrough: false

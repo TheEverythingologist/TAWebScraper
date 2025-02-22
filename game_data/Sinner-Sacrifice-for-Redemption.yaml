@@ -1,0 +1,758 @@
+Add On Achievements: []
+Base Completion Time:
+- 1.0
+- 2.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Sinner
+  Description: Unlock all other achievements
+  GS: '100'
+  Guide: false
+  Number of Gamers: 365
+  Percentage of Gamers: 1%
+  Ratio: 8.85
+  TA: '885'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Rush & Slash
+  Description: Perform a Sprint attack
+  GS: '15'
+  Guide: true
+  Number of Gamers: 13780
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Split Second
+  Description: Perform a Parry
+  GS: '15'
+  Guide: true
+  Number of Gamers: 12617
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '22'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Sacrificed
+  Description: Perform a Sacrifice
+  GS: '15'
+  Guide: true
+  Number of Gamers: 23785
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Redeemed
+  Description: Redeem a Sin
+  GS: '15'
+  Guide: true
+  Number of Gamers: 6748
+  Percentage of Gamers: 24%
+  Ratio: 2.06
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Banished
+  Description: Banish a Sin
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1875
+  Percentage of Gamers: 7%
+  Ratio: 3.9
+  TA: '58'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Skilled
+  Description: Perfect 10 normal attacks in a row
+  GS: '15'
+  Guide: true
+  Number of Gamers: 963
+  Percentage of Gamers: 3%
+  Ratio: 5.45
+  TA: '81'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Triumph
+  Description: Defeat a enemy
+  GS: '15'
+  Guide: true
+  Number of Gamers: 27062
+  Percentage of Gamers: 94%
+  Ratio: 1.02
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Fallen
+  Description: Die from a fall
+  GS: '15'
+  Guide: true
+  Number of Gamers: 20438
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '17'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Incendiary
+  Description: Sacrifice yourself to the flame
+  GS: '15'
+  Guide: true
+  Number of Gamers: 5653
+  Percentage of Gamers: 20%
+  Ratio: 2.25
+  TA: '33'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "D\xE9j\xE0 vu"
+  Description: Talk to Chanel
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2721
+  Percentage of Gamers: 9%
+  Ratio: 3.24
+  TA: '48'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Stepping Stone
+  Description: Die to Rhodes' landing
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3428
+  Percentage of Gamers: 12%
+  Ratio: 2.89
+  TA: '43'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: K.O
+  Description: Get knocked out of the arena by Rhodes
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2391
+  Percentage of Gamers: 8%
+  Ratio: 3.46
+  TA: '51'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Nimble
+  Description: Dodge Rhodes' Shield Charge
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3128
+  Percentage of Gamers: 11%
+  Ratio: 3.02
+  TA: '45'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Ride the Wave
+  Description: Dodge Rhodes' Shock Wave
+  GS: '15'
+  Guide: false
+  Number of Gamers: 3222
+  Percentage of Gamers: 11%
+  Ratio: 2.98
+  TA: '44'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Leg Hugger
+  Description: Hide under Rhodes' feet during the entire fight
+  GS: '15'
+  Guide: true
+  Number of Gamers: 789
+  Percentage of Gamers: 3%
+  Ratio: 6.02
+  TA: '90'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Friendly Fire
+  Description: Use Rhodes' attacks to kill 10 Slave Warriors
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1114
+  Percentage of Gamers: 4%
+  Ratio: 5.07
+  TA: '76'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Proud Rhodes
+  Description: Defeat Rhodes
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3205
+  Percentage of Gamers: 11%
+  Ratio: 2.98
+  TA: '44'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Cursed
+  Description: Die from Faiz Tilus' Curse
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2831
+  Percentage of Gamers: 10%
+  Ratio: 3.18
+  TA: '47'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Poisoned
+  Description: Die from Faiz Tilus' Poison
+  GS: '15'
+  Guide: true
+  Number of Gamers: 9317
+  Percentage of Gamers: 33%
+  Ratio: 1.75
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Fallen Short
+  Description: Die to Faiz Tilus after experiencing all his tricks
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1766
+  Percentage of Gamers: 6%
+  Ratio: 4.02
+  TA: '60'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Purified
+  Description: Use water to cleanse Faiz Tilus' Poison
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1958
+  Percentage of Gamers: 7%
+  Ratio: 3.82
+  TA: '57'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Hex Proof
+  Description: Avoid Faiz Tilus' Hex Ritual
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1488
+  Percentage of Gamers: 5%
+  Ratio: 4.38
+  TA: '65'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Cleansed by Fire
+  Description: Defeat Faiz Tilus with fire
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1742
+  Percentage of Gamers: 6%
+  Ratio: 4.05
+  TA: '60'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Greedy Faiz Tilus
+  Description: Defeat Faiz Tilus
+  GS: '15'
+  Guide: true
+  Number of Gamers: 5311
+  Percentage of Gamers: 19%
+  Ratio: 2.32
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Devoured
+  Description: Get devoured by Camber Luce
+  GS: '15'
+  Guide: true
+  Number of Gamers: 4045
+  Percentage of Gamers: 14%
+  Ratio: 2.66
+  TA: '39'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Six Feet Ice Under
+  Description: Fall into the Frozen Sea while fighting Camber Luce
+  GS: '15'
+  Guide: true
+  Number of Gamers: 6482
+  Percentage of Gamers: 23%
+  Ratio: 2.1
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Speed Over Strength
+  Description: Defeat Camber Luce very quickly
+  GS: '15'
+  Guide: true
+  Number of Gamers: 881
+  Percentage of Gamers: 3%
+  Ratio: 5.7
+  TA: '85'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Time/Date
+- Achievement Name: Stomach Settler
+  Description: Defeat Camber Luce without exploiting his weakness
+  GS: '15'
+  Guide: true
+  Number of Gamers: 397
+  Percentage of Gamers: 1%
+  Ratio: 8.49
+  TA: '127'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Abdominal Trauma
+  Description: Defeat Camber Luce by heavily exploiting his weakness
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1760
+  Percentage of Gamers: 6%
+  Ratio: 4.03
+  TA: '60'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Gluttonous Camber Luce
+  Description: Defeat Camber Luce
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3278
+  Percentage of Gamers: 11%
+  Ratio: 2.95
+  TA: '44'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Deep Freeze
+  Description: Freeze to death while fighting Chanel
+  GS: '15'
+  Guide: true
+  Number of Gamers: 6207
+  Percentage of Gamers: 22%
+  Ratio: 2.14
+  TA: '32'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Chilled to the Bone
+  Description: Experience Chanel's true power
+  GS: '15'
+  Guide: true
+  Number of Gamers: 4435
+  Percentage of Gamers: 15%
+  Ratio: 2.54
+  TA: '38'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Tangled
+  Description: Suffer damage from aquatic plants while fighting Chanel
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1892
+  Percentage of Gamers: 7%
+  Ratio: 3.89
+  TA: '58'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Cornered
+  Description: Push Chanel too far
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3098
+  Percentage of Gamers: 11%
+  Ratio: 3.04
+  TA: '45'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Lust Denied
+  Description: Counter Chanel's attacks 3 times in a row
+  GS: '15'
+  Guide: true
+  Number of Gamers: 5370
+  Percentage of Gamers: 19%
+  Ratio: 2.3
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Untemptable
+  Description: Defeat Chanel with grace
+  GS: '15'
+  Guide: true
+  Number of Gamers: 522
+  Percentage of Gamers: 2%
+  Ratio: 7.4
+  TA: '111'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Time/Date
+- Achievement Name: Lusty Chanel
+  Description: Defeat Chanel
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2924
+  Percentage of Gamers: 10%
+  Ratio: 3.13
+  TA: '46'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Titan's Grasp
+  Description: Get crushed by Angronn's grasp
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2207
+  Percentage of Gamers: 8%
+  Ratio: 3.6
+  TA: '54'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Coward's Fate
+  Description: Enrage Angronn with your cowardice, making him destroy the arena
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3033
+  Percentage of Gamers: 11%
+  Ratio: 3.07
+  TA: '46'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Fearless
+  Description: Fight Angronn face to face
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2191
+  Percentage of Gamers: 8%
+  Ratio: 3.61
+  TA: '54'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Wrathful Angronn
+  Description: Defeat Angronn
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2185
+  Percentage of Gamers: 8%
+  Ratio: 3.62
+  TA: '54'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Weakness
+  Description: Die to Adam's grasping attack
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1259
+  Percentage of Gamers: 4%
+  Ratio: 4.77
+  TA: '71'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Immolated
+  Description: Die to Adam's Immolation atack
+  GS: '15'
+  Guide: true
+  Number of Gamers: 778
+  Percentage of Gamers: 3%
+  Ratio: 6.06
+  TA: '91'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Frustration Leads to Anger
+  Description: Get repeatly knocked into the abyss by Adam
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1273
+  Percentage of Gamers: 4%
+  Ratio: 4.74
+  TA: '71'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Exalted
+  Description: Defeat Adam when he is most powerful
+  GS: '15'
+  Guide: true
+  Number of Gamers: 390
+  Percentage of Gamers: 1%
+  Ratio: 8.57
+  TA: '128'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Critical Strike
+  Description: Perform a critical strike on Adam
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1105
+  Percentage of Gamers: 4%
+  Ratio: 5.09
+  TA: '76'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: The Forsaken
+  Description: Defeat Adam
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1246
+  Percentage of Gamers: 4%
+  Ratio: 4.79
+  TA: '71'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
+- Achievement Name: Out like a light
+  Description: Get hit by a lamp while fighting Levin Undok
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1156
+  Percentage of Gamers: 4%
+  Ratio: 4.97
+  TA: '74'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Dance and Dice
+  Description: Get hit by an axe 3 times while fighting Levin Undok
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3980
+  Percentage of Gamers: 14%
+  Ratio: 2.68
+  TA: '40'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Dance of Flying Daggers
+  Description: Destroy 3 floating daggers in a row while fighting Levin Undok
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3757
+  Percentage of Gamers: 13%
+  Ratio: 2.76
+  TA: '41'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Graceful Dancer
+  Description: Dodge Levin Undok's Double Dance
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2205
+  Percentage of Gamers: 8%
+  Ratio: 3.6
+  TA: '54'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Fury
+  Description: Push Levin Undok too far
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1320
+  Percentage of Gamers: 5%
+  Ratio: 4.65
+  TA: '69'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Party Crasher
+  Description: Prevent Levin Undok's Double Dance and defeat her
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1390
+  Percentage of Gamers: 5%
+  Ratio: 4.53
+  TA: '68'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Envious Levin Undok
+  Description: Defeat Levin Undok
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2436
+  Percentage of Gamers: 9%
+  Ratio: 3.42
+  TA: '51'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Denied
+  Description: Avoid a charge attack while fighting Yordo and his guards
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1885
+  Percentage of Gamers: 7%
+  Ratio: 3.89
+  TA: '58'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Against The Round
+  Description: Avoid being killed by Yordo's encircling attack
+  GS: '15'
+  Guide: true
+  Number of Gamers: 4769
+  Percentage of Gamers: 17%
+  Ratio: 2.45
+  TA: '36'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Break Ranks
+  Description: Break the ranks of Yordo's guards
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3499
+  Percentage of Gamers: 12%
+  Ratio: 2.86
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Aim for the King
+  Description: Kill Yordo without attacking his guards
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2981
+  Percentage of Gamers: 10%
+  Ratio: 3.1
+  TA: '46'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Outnumbered
+  Description: Die surrounded by Yordo's guards
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2132
+  Percentage of Gamers: 7%
+  Ratio: 3.66
+  TA: '54'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Slothful Yordo
+  Description: Defeat Yordo
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3641
+  Percentage of Gamers: 13%
+  Ratio: 2.8
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+Base Ratio: 4.109
+Base TA: 4109
+Delisted: false
+Developer: Dark Star
+Game Name: 'Sinner: Sacrifice for Redemption'
+Genres: Action
+Install Size: 7110.0
+Number of Completions: 365
+Number of Gamers: 28648
+Overall Completion Time:
+- 1.0
+- 2.0
+Overall GS: 1000
+Overall Ratio: 4.109
+Overall TA: 4109
+PDU: 0
+Percentage Completed: 1.27
+Publisher: Another Indie
+Release Date: 18 October 2018
+Server Closure: false
+Site Rating: 3.04
+Update Achievements: []
+Walkthrough: false

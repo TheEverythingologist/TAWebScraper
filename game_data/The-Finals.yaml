@@ -1,0 +1,615 @@
+Add On Achievements: []
+Base Completion Time:
+- 300.0
+- 500.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Participation Ribbon
+  Description: Create a contestant
+  GS: '10'
+  Guide: true
+  Number of Gamers: 37995
+  Percentage of Gamers: 30%
+  Ratio: 1.82
+  TA: '18'
+  Tags:
+  - Online Mode
+  - Single Player
+- Achievement Name: Initial Deposit
+  Description: Insert a cash box into a cashout station
+  GS: '10'
+  Guide: true
+  Number of Gamers: 73572
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '13'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Med Student
+  Description: Revive a teammate
+  GS: '10'
+  Guide: true
+  Number of Gamers: 102733
+  Percentage of Gamers: 81%
+  Ratio: 1.11
+  TA: '11'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Returning Contestant
+  Description: Play 3 rounds of Quick Cash
+  GS: '10'
+  Guide: false
+  Number of Gamers: 73568
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '13'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Green Light
+  Description: Play 10 rounds with a Light Build
+  GS: '10'
+  Guide: false
+  Number of Gamers: 28338
+  Percentage of Gamers: 22%
+  Ratio: 2.12
+  TA: '21'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Mass Medium
+  Description: Play 10 rounds with a Medium Build
+  GS: '10'
+  Guide: false
+  Number of Gamers: 38058
+  Percentage of Gamers: 30%
+  Ratio: 1.82
+  TA: '18'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Play The Heavy
+  Description: Play 10 rounds with a Heavy Build
+  GS: '10'
+  Guide: false
+  Number of Gamers: 22539
+  Percentage of Gamers: 18%
+  Ratio: 2.37
+  TA: '23'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Rising Star
+  Description: Play 3 Tournament rounds
+  GS: '10'
+  Guide: true
+  Number of Gamers: 27287
+  Percentage of Gamers: 21%
+  Ratio: 2.15
+  TA: '21'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Life Of The Party
+  Description: Play 10 rounds in a Party
+  GS: '10'
+  Guide: true
+  Number of Gamers: 43730
+  Percentage of Gamers: 34%
+  Ratio: 1.7
+  TA: '17'
+  Tags:
+  - Online Mode
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Savings Specialist
+  Description: Obtain a total of 100,000 cash
+  GS: '10'
+  Guide: true
+  Number of Gamers: 60954
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '14'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Lesson Learner
+  Description: Complete the Tutorial
+  GS: '10'
+  Guide: true
+  Number of Gamers: 82395
+  Percentage of Gamers: 65%
+  Ratio: 1.24
+  TA: '12'
+  Tags:
+  - Online Mode
+  - Single Player
+- Achievement Name: Attending Physician
+  Description: Revive teammates 50 times
+  GS: '10'
+  Guide: true
+  Number of Gamers: 28629
+  Percentage of Gamers: 22%
+  Ratio: 2.1
+  TA: '21'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Demolition Expert
+  Description: Deal 1,000,000 damage to arenas
+  GS: '10'
+  Guide: true
+  Number of Gamers: 40260
+  Percentage of Gamers: 32%
+  Ratio: 1.77
+  TA: '17'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Dead Shot
+  Description: Get 300 eliminations with Ranged Weapons
+  GS: '30'
+  Guide: false
+  Number of Gamers: 22031
+  Percentage of Gamers: 17%
+  Ratio: 2.4
+  TA: '72'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Strong Arm
+  Description: Get 150 eliminations with Melee Weapons
+  GS: '30'
+  Guide: true
+  Number of Gamers: 3877
+  Percentage of Gamers: 3%
+  Ratio: 5.75
+  TA: '172'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Gadget Guru
+  Description: Get 150 eliminations with Gadgets
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4585
+  Percentage of Gamers: 4%
+  Ratio: 5.29
+  TA: '158'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Defense Devotee
+  Description: Block a total of 25,000 damage
+  GS: '30'
+  Guide: true
+  Number of Gamers: 26129
+  Percentage of Gamers: 21%
+  Ratio: 2.2
+  TA: '66'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Resident Doctor
+  Description: Heal teammates for a total of 25,000 health
+  GS: '30'
+  Guide: true
+  Number of Gamers: 9146
+  Percentage of Gamers: 7%
+  Ratio: 3.72
+  TA: '111'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Light Years
+  Description: Win 150 rounds with a Light Build
+  GS: '30'
+  Guide: true
+  Number of Gamers: 828
+  Percentage of Gamers: 1%
+  Ratio: 12.6
+  TA: '378'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Medium Rare
+  Description: Win 150 rounds with a Medium Build
+  GS: '30'
+  Guide: true
+  Number of Gamers: 2036
+  Percentage of Gamers: 2%
+  Ratio: 7.98
+  TA: '239'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Heavy Hand
+  Description: Win 150 rounds with a Heavy Build
+  GS: '30'
+  Guide: true
+  Number of Gamers: 857
+  Percentage of Gamers: 1%
+  Ratio: 12.27
+  TA: '368'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Deep Pockets
+  Description: Obtain a total of 50,000,000 cash
+  GS: '60'
+  Guide: false
+  Number of Gamers: 217
+  Percentage of Gamers: 0%
+  Ratio: 24.87
+  TA: 1,492
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+  - Time Consuming
+- Achievement Name: Show Stopper
+  Description: Win the final round in Tournament or Ranked Tournament
+  GS: '10'
+  Guide: true
+  Number of Gamers: 17465
+  Percentage of Gamers: 14%
+  Ratio: 2.69
+  TA: '26'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Stop Payment
+  Description: Eliminate an opponent while they are carrying a cash box, 5 times
+  GS: '10'
+  Guide: false
+  Number of Gamers: 22156
+  Percentage of Gamers: 17%
+  Ratio: 2.39
+  TA: '23'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Asset Protection
+  Description: Eliminate an opponent trying to steal your cashout, 10 times
+  GS: '10'
+  Guide: true
+  Number of Gamers: 21436
+  Percentage of Gamers: 17%
+  Ratio: 2.43
+  TA: '24'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Last-minute Gift
+  Description: Start a cashout with less than 10 seconds remaining in the match
+  GS: '15'
+  Guide: true
+  Number of Gamers: 7236
+  Percentage of Gamers: 6%
+  Ratio: 4.2
+  TA: '63'
+  Tags:
+  - Online Mode
+  - Versus
+  - Time/Date
+- Achievement Name: Buzzer Beater
+  Description: Steal a cashout with less than 10 seconds remaining in the match
+  GS: '15'
+  Guide: false
+  Number of Gamers: 27006
+  Percentage of Gamers: 21%
+  Ratio: 2.17
+  TA: '32'
+  Tags:
+  - Online Mode
+  - Versus
+  - Time/Date
+- Achievement Name: Highway Patrol
+  Description: Eliminate an opponent while you are riding a Zipline, 10 times
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1466
+  Percentage of Gamers: 1%
+  Ratio: 9.41
+  TA: '188'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Hot Shot
+  Description: Eliminate an opponent while you are on fire, 5 times in a single round
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2924
+  Percentage of Gamers: 2%
+  Ratio: 6.63
+  TA: '66'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Just Like Scotty
+  Description: Win a round in any mode without being eliminated
+  GS: '20'
+  Guide: true
+  Number of Gamers: 15981
+  Percentage of Gamers: 13%
+  Ratio: 2.82
+  TA: '56'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Bombouncer
+  Description: Eliminate an opponent by bouncing a grenade on a Jump Pad
+  GS: '30'
+  Guide: true
+  Number of Gamers: 2496
+  Percentage of Gamers: 2%
+  Ratio: 7.17
+  TA: '215'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Pressure Prize
+  Description: Hit an opponent in the head with an explosive carriable
+  GS: '10'
+  Guide: true
+  Number of Gamers: 12522
+  Percentage of Gamers: 10%
+  Ratio: 3.18
+  TA: '31'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Dodgeball Champion
+  Description: Hit opponents with 3 different carriables within 15 seconds
+  GS: '20'
+  Guide: true
+  Number of Gamers: 626
+  Percentage of Gamers: 0%
+  Ratio: 14.27
+  TA: '285'
+  Tags:
+  - Online Mode
+  - Versus
+  - Time/Date
+- Achievement Name: Clip And Slide
+  Description: Eliminate an opponent with a headshot while you are sliding
+  GS: '30'
+  Guide: true
+  Number of Gamers: 2073
+  Percentage of Gamers: 2%
+  Ratio: 7.87
+  TA: '236'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Multitasker
+  Description: Eliminate 3 opponents with 3 different items or carriables within 10
+    seconds
+  GS: '30'
+  Guide: true
+  Number of Gamers: 13618
+  Percentage of Gamers: 11%
+  Ratio: 3.05
+  TA: '91'
+  Tags:
+  - Online Mode
+  - Versus
+  - Time/Date
+- Achievement Name: Busy Body
+  Description: Eliminate 3 opponents with a Melee Weapon within 10 seconds
+  GS: '30'
+  Guide: true
+  Number of Gamers: 7715
+  Percentage of Gamers: 6%
+  Ratio: 4.07
+  TA: '122'
+  Tags:
+  - Online Mode
+  - Versus
+  - Time/Date
+- Achievement Name: Crowd Pleaser
+  Description: Finish in first place, 3 times in a row
+  GS: '60'
+  Guide: true
+  Number of Gamers: 40694
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '106'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Pyro Prodigy
+  Description: Eliminate 25 enemies with fire
+  GS: '10'
+  Guide: true
+  Number of Gamers: 9450
+  Percentage of Gamers: 7%
+  Ratio: 3.68
+  TA: '36'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Toxic Tact
+  Description: Eliminate 25 enemies with gas
+  GS: '10'
+  Guide: true
+  Number of Gamers: 8593
+  Percentage of Gamers: 7%
+  Ratio: 3.85
+  TA: '38'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Golden Bullet
+  Description: Get a headshot elimination with the last bullet in the magazine of
+    your primary weapon
+  GS: '30'
+  Guide: true
+  Number of Gamers: 25663
+  Percentage of Gamers: 20%
+  Ratio: 2.22
+  TA: '66'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Fatal Florist
+  Description: Eliminate a player with a flowerpot
+  GS: '10'
+  Guide: true
+  Number of Gamers: 684
+  Percentage of Gamers: 1%
+  Ratio: 13.65
+  TA: '136'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Charitable Donation
+  Description: Eliminate an opponent with a cash box
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1893
+  Percentage of Gamers: 1%
+  Ratio: 8.23
+  TA: '246'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Field Goal
+  Description: Throw a cash box into a cashout station from 20 meters away
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5390
+  Percentage of Gamers: 4%
+  Ratio: 4.86
+  TA: '48'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Showboaster
+  Description: Use an emote after eliminating a player
+  GS: '10'
+  Guide: true
+  Number of Gamers: 10147
+  Percentage of Gamers: 8%
+  Ratio: 3.54
+  TA: '35'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Butter Fingers
+  Description: Get eliminated by your own grenade
+  GS: '10'
+  Guide: true
+  Number of Gamers: 16134
+  Percentage of Gamers: 13%
+  Ratio: 2.81
+  TA: '28'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Sky Bridge Saboteur
+  Description: Destroy the skybridge in Seoul
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5698
+  Percentage of Gamers: 4%
+  Ratio: 4.73
+  TA: '47'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Artful Expressionist
+  Description: Eliminate a player while you are emoting
+  GS: '30'
+  Guide: true
+  Number of Gamers: 5823
+  Percentage of Gamers: 5%
+  Ratio: 4.68
+  TA: '140'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Space Rock Skipper
+  Description: Bounce a meteor off a Jump Pad during the Meteor Showers event
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1927
+  Percentage of Gamers: 2%
+  Ratio: 8.12
+  TA: '243'
+  Tags:
+  - Online Mode
+  - Versus
+  - Buggy +
+- Achievement Name: Speed Run
+  Description: Start a cashout within 15 seconds after opening a vault
+  GS: '30'
+  Guide: true
+  Number of Gamers: 11135
+  Percentage of Gamers: 9%
+  Ratio: 3.38
+  TA: '101'
+  Tags:
+  - Online Mode
+  - Versus
+  - Time/Date
+- Achievement Name: Blast Caster
+  Description: Place an Explosive Mine on a carriable and get an elimination by throwing
+    it at an enemy
+  GS: '30'
+  Guide: true
+  Number of Gamers: 11534
+  Percentage of Gamers: 9%
+  Ratio: 3.31
+  TA: '99'
+  Tags:
+  - Online Mode
+  - Versus
+  - Buggy +
+Base Ratio: 6.102
+Base TA: 6102
+Delisted: false
+Developer: Embark Studios
+Game Name: THE FINALS
+Genres: First Person Shooter
+Install Size: 30200.0
+Number of Completions: 75
+Number of Gamers: 127417
+Overall Completion Time:
+- 300.0
+- 500.0
+Overall GS: 1000
+Overall Ratio: 6.102
+Overall TA: 6102
+PDU: 0
+Percentage Completed: 0.06
+Publisher: Embark Studios
+Release Date: 08 December 2023
+Server Closure: false
+Site Rating: 3.66
+Update Achievements: []
+Walkthrough: false

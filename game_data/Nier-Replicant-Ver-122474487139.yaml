@@ -1,0 +1,614 @@
+Add On Achievements: []
+Base Completion Time:
+- 60.0
+- 80.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: The Book of Legend
+  Description: Grimoire Weiss joined your party.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 19495
+  Percentage of Gamers: 98%
+  Ratio: 1.0
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: The Wild Companion
+  Description: "Kain\xE9 joined your party."
+  GS: '10'
+  Guide: false
+  Number of Gamers: 15326
+  Percentage of Gamers: 77%
+  Ratio: 1.13
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: The Mellow Companion
+  Description: Emil joined your party.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 12579
+  Percentage of Gamers: 63%
+  Ratio: 1.25
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Release
+  Description: "You freed Kain\xE9 from her petrification."
+  GS: '10'
+  Guide: true
+  Number of Gamers: 12461
+  Percentage of Gamers: 63%
+  Ratio: 1.26
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Gratitude
+  Description: You gave Louise's letter to the postman.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5855
+  Percentage of Gamers: 30%
+  Ratio: 1.83
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Key Collector
+  Description: You completed the key to the Shadowlord's castle.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 10621
+  Percentage of Gamers: 54%
+  Ratio: 1.36
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: A World in Flux
+  Description: You defeated the Shadowlord.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 10450
+  Percentage of Gamers: 53%
+  Ratio: 1.37
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Combo Fanatic
+  Description: You pulled off a 50-hit combo.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 15993
+  Percentage of Gamers: 81%
+  Ratio: 1.11
+  TA: '16'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Combo Master
+  Description: You pulled off a 100-hit combo.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 10048
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '42'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The Magic Man
+  Description: You learned every type of magic.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 12998
+  Percentage of Gamers: 66%
+  Ratio: 1.23
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Wordsmith
+  Description: You collected 50 percent of all words.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7095
+  Percentage of Gamers: 36%
+  Ratio: 1.67
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Weapons Collector
+  Description: You found every weapon.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 6159
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '53'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Missable
+- Achievement Name: Village Handyman
+  Description: You completed 10 quests.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 12420
+  Percentage of Gamers: 63%
+  Ratio: 1.26
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Jack of All Trades
+  Description: You completed 20 quests.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 8969
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Go-To Guy
+  Description: You completed 30 quests.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 7237
+  Percentage of Gamers: 36%
+  Ratio: 1.65
+  TA: '49'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Dear Diary
+  Description: You completed the "Recycled World" quest.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 6607
+  Percentage of Gamers: 33%
+  Ratio: 1.73
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Man of Means
+  Description: You accumulated 1,000,000 pieces of gold.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2109
+  Percentage of Gamers: 11%
+  Ratio: 3.06
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative
+- Achievement Name: Educated Warrior
+  Description: You read all novel segments about your friends' pasts.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5750
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Call Her Back
+  Description: You viewed the first ending (Ending A).
+  GS: '40'
+  Guide: true
+  Number of Gamers: 10350
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '55'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Lingering Memories
+  Description: You viewed the second ending (Ending B).
+  GS: '40'
+  Guide: true
+  Number of Gamers: 7142
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '66'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Multiple Playthroughs Required
+- Achievement Name: Thank You
+  Description: You viewed the third ending (Ending C).
+  GS: '40'
+  Guide: true
+  Number of Gamers: 5469
+  Percentage of Gamers: 28%
+  Ratio: 1.9
+  TA: '76'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Multiple Playthroughs Required
+- Achievement Name: Something Very Special
+  Description: You viewed the fourth ending (Ending D).
+  GS: '90'
+  Guide: true
+  Number of Gamers: 5451
+  Percentage of Gamers: 27%
+  Ratio: 1.9
+  TA: '171'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Multiple Playthroughs Required
+- Achievement Name: e8a898e686b6e382b5e383bce38390e383bc
+  Description: e38392e382abe383aae382ace3839fe382a8e383ab
+  GS: '90'
+  Guide: true
+  Number of Gamers: 5188
+  Percentage of Gamers: 26%
+  Ratio: 1.95
+  TA: '175'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Legendary Gardener
+  Description: You successfully cultivated the legendary flower.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2241
+  Percentage of Gamers: 11%
+  Ratio: 2.97
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Time/Date
+- Achievement Name: Fish of Legend
+  Description: You caught a rhizodont.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3167
+  Percentage of Gamers: 16%
+  Ratio: 2.5
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: A Round by the Pond
+  Description: You caught one of every type of fish.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 2651
+  Percentage of Gamers: 13%
+  Ratio: 2.73
+  TA: '82'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Material Hunter
+  Description: You collected 50 types of raw materials.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 12580
+  Percentage of Gamers: 63%
+  Ratio: 1.25
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Upgrade Apprentice
+  Description: You upgraded 5 weapons to their maximum level.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2921
+  Percentage of Gamers: 15%
+  Ratio: 2.6
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Level
+- Achievement Name: Reform Specialist
+  Description: You upgraded 15 weapons to their maximum level.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1685
+  Percentage of Gamers: 8%
+  Ratio: 3.42
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Level
+  - Time Consuming
+- Achievement Name: Forging Master
+  Description: You upgraded 33 weapons to their maximum level.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1226
+  Percentage of Gamers: 6%
+  Ratio: 4.02
+  TA: '120'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Level
+  - Time Consuming
+- Achievement Name: All Aboared!
+  Description: You rode a boar for at least five minutes.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3871
+  Percentage of Gamers: 20%
+  Ratio: 2.26
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: The Sheep Whisperer
+  Description: You killed 100 sheep.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4082
+  Percentage of Gamers: 21%
+  Ratio: 2.2
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Cumulative +
+- Achievement Name: Lightspeed Fighter
+  Description: You completed the game within fifteen hours.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1980
+  Percentage of Gamers: 10%
+  Ratio: 3.16
+  TA: '94'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Time/Date
+- Achievement Name: King of the Lost Shrine
+  Description: You defeated Gretel within three minutes and twenty seconds.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5348
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Time/Date
+- Achievement Name: A True Friend
+  Description: "You stopped the berserk Kain\xE9 within one minute."
+  GS: '10'
+  Guide: true
+  Number of Gamers: 10331
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Time/Date
+- Achievement Name: Boss of the Junk Heap
+  Description: You defeated P-33 within four and a half minutes.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 6487
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Time/Date
+- Achievement Name: Scourge of The Aerie
+  Description: You defeated Wendy within eight and a half minutes.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5502
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Time/Date
+- Achievement Name: Protector of Facade
+  Description: You defeated Roc within three and a half minutes.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 6898
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Time/Date
+- Achievement Name: The Little Mermaid
+  Description: You defeated Louise within five minutes.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2523
+  Percentage of Gamers: 13%
+  Ratio: 2.8
+  TA: '56'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Time/Date
+- Achievement Name: Permission Granted
+  Description: You drove off Devola and Popola within three minutes.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 7035
+  Percentage of Gamers: 35%
+  Ratio: 1.67
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Time/Date
+- Achievement Name: A Dirge for the Hero
+  Description: You defeated Goose within two minutes.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 9269
+  Percentage of Gamers: 47%
+  Ratio: 1.46
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Time/Date
+- Achievement Name: Soul Crusher
+  Description: You defeated Devola and Popola within three and a half minutes.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 4583
+  Percentage of Gamers: 23%
+  Ratio: 2.07
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Time/Date
+- Achievement Name: Book Burner
+  Description: You defeated Grimoire Noir within one and a half minutes.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 6010
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Time/Date
+- Achievement Name: The Once and Final King
+  Description: You defeated the Shadowlord within four minutes and twenty seconds.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 5056
+  Percentage of Gamers: 25%
+  Ratio: 1.97
+  TA: '39'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Time/Date
+- Achievement Name: The Strongest Bond
+  Description: "You defeated the berserk Kain\xE9 within three and a half minutes."
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4110
+  Percentage of Gamers: 21%
+  Ratio: 2.19
+  TA: '65'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Time/Date
+- Achievement Name: The Final Verse
+  Description: Congratulations! Thank you for playing!
+  GS: '100'
+  Guide: true
+  Number of Gamers: 1098
+  Percentage of Gamers: 6%
+  Ratio: 4.24
+  TA: '424'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Daredevil
+  Description: You risked life and limb 10 times to discover someone's secret.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2971
+  Percentage of Gamers: 15%
+  Ratio: 2.58
+  TA: '51'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Cumulative +
+Base Ratio: 2.181
+Base TA: 2181
+Delisted: false
+Developer: ToyLogic, Cavia
+Game Name: NieR Replicant ver.1.22474487139...
+Genres: Action-RPG, Role Playing, Hack & Slash
+Install Size: 22950.0
+Number of Completions: 1100
+Number of Gamers: 19829
+Overall Completion Time:
+- 60.0
+- 80.0
+Overall GS: 1000
+Overall Ratio: 2.181
+Overall TA: 2181
+PDU: 0
+Percentage Completed: 5.55
+Publisher: Square Enix
+Release Date: 23 April 2021
+Server Closure: false
+Site Rating: 4.49
+Update Achievements: []
+Walkthrough: false

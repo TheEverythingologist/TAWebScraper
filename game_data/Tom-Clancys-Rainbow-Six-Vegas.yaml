@@ -1,0 +1,460 @@
+Add On Achievements: []
+Base Completion Time:
+- 150.0
+- 200.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Sniper
+  Description: 10 kills using a Sniper rifle in an online ranked match
+  GS: '15'
+  Guide: true
+  Number of Gamers: 32506
+  Percentage of Gamers: 20%
+  Ratio: 2.25
+  TA: '33'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Marksman
+  Description: 100 total player kills in any adversarial mode
+  GS: '10'
+  Guide: true
+  Number of Gamers: 47409
+  Percentage of Gamers: 29%
+  Ratio: 1.86
+  TA: '18'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Killer's Spree
+  Description: 5 consecutive player kills without dying
+  GS: '20'
+  Guide: true
+  Number of Gamers: 60104
+  Percentage of Gamers: 36%
+  Ratio: 1.65
+  TA: '33'
+  Tags:
+  - Online/Offline
+  - Versus
+- Achievement Name: Killer's Rampage
+  Description: 10 consecutive player kills without dying
+  GS: '30'
+  Guide: true
+  Number of Gamers: 37328
+  Percentage of Gamers: 23%
+  Ratio: 2.1
+  TA: '63'
+  Tags:
+  - Online/Offline
+  - Versus
+- Achievement Name: Demolition Expert
+  Description: Kill 50 players using Explosives only
+  GS: '20'
+  Guide: true
+  Number of Gamers: 32453
+  Percentage of Gamers: 20%
+  Ratio: 2.25
+  TA: '45'
+  Tags:
+  - Online/Offline
+  - Versus
+  - Cumulative +
+- Achievement Name: Special Operations
+  Description: Play all maps of every Adversarial game mode
+  GS: '50'
+  Guide: true
+  Number of Gamers: 8461
+  Percentage of Gamers: 5%
+  Ratio: 4.41
+  TA: '220'
+  Tags:
+  - Online/Offline
+  - Versus
+  - Buggy +
+  - Buggy
+- Achievement Name: Siege Specialist
+  Description: Leading contributor of kills for the Defenders in a winning Attack
+    & Defend ranked match
+  GS: '15'
+  Guide: true
+  Number of Gamers: 19986
+  Percentage of Gamers: 12%
+  Ratio: 2.87
+  TA: '43'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Survivor
+  Description: Be the only remaining player in a ranked online match of Survival
+  GS: '15'
+  Guide: true
+  Number of Gamers: 20586
+  Percentage of Gamers: 12%
+  Ratio: 2.83
+  TA: '42'
+  Tags:
+  - Online Mode
+  - Versus
+  - Host Only
+  - Buggy
+- Achievement Name: Lone Wolf
+  Description: Most kills in a ranked online Sharpshooter match
+  GS: '15'
+  Guide: true
+  Number of Gamers: 23486
+  Percentage of Gamers: 14%
+  Ratio: 2.65
+  TA: '39'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Team Survivalist
+  Description: Most kills in a winning online ranked match of Team Survival
+  GS: '15'
+  Guide: true
+  Number of Gamers: 20866
+  Percentage of Gamers: 13%
+  Ratio: 2.81
+  TA: '42'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Team Champion
+  Description: Most kills in a winning online ranked match of Team Sharpshooter
+  GS: '15'
+  Guide: true
+  Number of Gamers: 22791
+  Percentage of Gamers: 14%
+  Ratio: 2.69
+  TA: '40'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Hostage Rescue
+  Description: Rescue all hostages in an Attack & Defend mission in under 5 minutes
+  GS: '15'
+  Guide: true
+  Number of Gamers: 24506
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '38'
+  Tags:
+  - Online/Offline
+  - Versus
+  - Time/Date
+- Achievement Name: Bomb Expert
+  Description: Defuse the bomb within 2 minutes in Attack & Defend
+  GS: '15'
+  Guide: true
+  Number of Gamers: 27161
+  Percentage of Gamers: 16%
+  Ratio: 2.46
+  TA: '36'
+  Tags:
+  - Online/Offline
+  - Versus
+  - Time/Date
+- Achievement Name: Infiltration Specialist
+  Description: Recover the Intel in Attack & Defend within 2 minutes
+  GS: '15'
+  Guide: true
+  Number of Gamers: 25761
+  Percentage of Gamers: 16%
+  Ratio: 2.53
+  TA: '37'
+  Tags:
+  - Online/Offline
+  - Versus
+  - Time/Date
+- Achievement Name: Hazmat Specialist
+  Description: Deposit the canister and kill an enemy canister carrier in the same
+    Retrieval match
+  GS: '15'
+  Guide: true
+  Number of Gamers: 29646
+  Percentage of Gamers: 18%
+  Ratio: 2.36
+  TA: '35'
+  Tags:
+  - Online/Offline
+  - Versus
+- Achievement Name: Master of Ceremonies
+  Description: Host a 16-player match
+  GS: '15'
+  Guide: true
+  Number of Gamers: 6910
+  Percentage of Gamers: 4%
+  Ratio: 4.88
+  TA: '73'
+  Tags:
+  - Online/Offline
+  - Versus
+  - Host Only
+  - 17 Players Required
+- Achievement Name: Best of the Best
+  Description: Achieve the rank of Elite
+  GS: '40'
+  Guide: true
+  Number of Gamers: 6949
+  Percentage of Gamers: 4%
+  Ratio: 4.87
+  TA: '195'
+  Tags:
+  - Online Mode
+  - Versus
+  - Level
+  - Time Consuming
+- Achievement Name: Officer
+  Description: Achieve the rank of Lieutenant 2nd Class
+  GS: '20'
+  Guide: true
+  Number of Gamers: 16702
+  Percentage of Gamers: 10%
+  Ratio: 3.14
+  TA: '62'
+  Tags:
+  - Online Mode
+  - Versus
+  - Level
+- Achievement Name: Basic Training
+  Description: Achieve the rank of Private 1st Class
+  GS: '5'
+  Guide: true
+  Number of Gamers: 71511
+  Percentage of Gamers: 43%
+  Ratio: 1.52
+  TA: '7'
+  Tags:
+  - Online Mode
+  - Versus
+  - Level
+- Achievement Name: Tour of Duty
+  Description: Cooperatively complete all Terrorist Hunt missions
+  GS: '60'
+  Guide: true
+  Number of Gamers: 30185
+  Percentage of Gamers: 18%
+  Ratio: 2.33
+  TA: '140'
+  Tags:
+  - Online/Offline
+  - Cooperative
+- Achievement Name: Vegas Champion
+  Description: Cooperatively complete the Story Mode
+  GS: '50'
+  Guide: true
+  Number of Gamers: 24102
+  Percentage of Gamers: 15%
+  Ratio: 2.61
+  TA: '130'
+  Tags:
+  - Online/Offline
+  - Cooperative
+- Achievement Name: Coop Hunt Novice
+  Description: Complete a Cooperative T-Hunt mission with at least one other player.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 84319
+  Percentage of Gamers: 51%
+  Ratio: 1.39
+  TA: '13'
+  Tags:
+  - Online/Offline
+  - Cooperative
+- Achievement Name: Coop Story Novice
+  Description: Complete a Cooperative Story mission with at least one other player
+  GS: '10'
+  Guide: true
+  Number of Gamers: 104740
+  Percentage of Gamers: 63%
+  Ratio: 1.25
+  TA: '12'
+  Tags:
+  - Online/Offline
+  - Cooperative
+- Achievement Name: Tough Hombre
+  Description: Completed Border Town in single player Story Mode
+  GS: '30'
+  Guide: true
+  Number of Gamers: 114778
+  Percentage of Gamers: 69%
+  Ratio: 1.19
+  TA: '35'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Dam Buster
+  Description: Completed Nevada Dam in single player Story Mode
+  GS: '30'
+  Guide: true
+  Number of Gamers: 59109
+  Percentage of Gamers: 36%
+  Ratio: 1.67
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
+- Achievement Name: High Roller
+  Description: Completed Calypso Casino in single player Story Mode
+  GS: '30'
+  Guide: true
+  Number of Gamers: 90931
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '40'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Street Cleaner
+  Description: Completed Downtown Vegas in single player Story Mode
+  GS: '30'
+  Guide: true
+  Number of Gamers: 79273
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '43'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: High Climber
+  Description: Completed Vertigo Spire in single player Story Mode
+  GS: '30'
+  Guide: true
+  Number of Gamers: 74824
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '44'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Hell Hound
+  Description: "Completed Dante\u2019s Casino in single player Story Mode"
+  GS: '30'
+  Guide: true
+  Number of Gamers: 65698
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '47'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Rainbow Six Legend
+  Description: Complete the single player Story Mode at Realistic difficulty
+  GS: '100'
+  Guide: true
+  Number of Gamers: 14838
+  Percentage of Gamers: 9%
+  Ratio: 3.33
+  TA: '333'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+- Achievement Name: Executioner
+  Description: Kill 500 terrorists online or offline
+  GS: '30'
+  Guide: true
+  Number of Gamers: 106228
+  Percentage of Gamers: 64%
+  Ratio: 1.24
+  TA: '37'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Pistoleer
+  Description: Kill 150 terrorists using only a Pistol
+  GS: '25'
+  Guide: true
+  Number of Gamers: 77787
+  Percentage of Gamers: 47%
+  Ratio: 1.45
+  TA: '36'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Equipment Specialist
+  Description: Used all Gadgets at least once in single player Story
+  GS: '20'
+  Guide: true
+  Number of Gamers: 35233
+  Percentage of Gamers: 21%
+  Ratio: 2.16
+  TA: '43'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Veteran Hunter
+  Description: Complete all maps of splitscreen Terrorist Hunt on Normal difficulty
+  GS: '50'
+  Guide: true
+  Number of Gamers: 10868
+  Percentage of Gamers: 7%
+  Ratio: 3.89
+  TA: '194'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
+- Achievement Name: Elite Hunter
+  Description: Complete all maps in splitscreen T-Hunt at Realistic difficulty
+  GS: '75'
+  Guide: true
+  Number of Gamers: 8687
+  Percentage of Gamers: 5%
+  Ratio: 4.36
+  TA: '327'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: True Identity
+  Description: Used the Xbox Live Vision to create a character with your appearance
+  GS: '30'
+  Guide: true
+  Number of Gamers: 38574
+  Percentage of Gamers: 23%
+  Ratio: 2.06
+  TA: '62'
+  Tags:
+  - Online Mode
+  - Single Player
+  - External Content
+  - Partly Discontinued/Unobtainable
+Base Ratio: 2.687
+Base TA: 2687
+Delisted: false
+Developer: Ubisoft Montreal
+Game Name: Tom Clancy's Rainbow Six Vegas
+Genres: First Person Shooter
+Install Size: 6600.0
+Number of Completions: 2371
+Number of Gamers: 165366
+Overall Completion Time:
+- 150.0
+- 200.0
+Overall GS: 1000
+Overall Ratio: 2.687
+Overall TA: 2687
+PDU: 0
+Percentage Completed: 1.43
+Publisher: Ubisoft
+Release Date: 21 November 2006
+Server Closure: false
+Site Rating: 3.66
+Update Achievements: []
+Walkthrough: false

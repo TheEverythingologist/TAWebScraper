@@ -1,0 +1,711 @@
+Add On Achievements: []
+Base Completion Time:
+- 0
+- 0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Perfectionist - Bronze
+  Description: Finish any song in the "Songs" menu without missing a move
+  GS: '5'
+  Guide: true
+  Number of Gamers: 7639
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '7'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: Perfectionist - Silver
+  Description: Finish any song in the "Songs" menu, and score "Good" or better on
+    all moves
+  GS: '25'
+  Guide: true
+  Number of Gamers: 487
+  Percentage of Gamers: 3%
+  Ratio: 6.11
+  TA: '152'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: Perfectionist - Gold
+  Description: Finish any song in the "Songs" menu with at least 90% of "Perfect"
+    moves
+  GS: '35'
+  Guide: true
+  Number of Gamers: 243
+  Percentage of Gamers: 1%
+  Ratio: 8.66
+  TA: '303'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: Big Band Theory - Bronze
+  Description: Finish any Dance Crew with all 4 players getting at least 3 stars (songs
+    with 4 coaches)
+  GS: '5'
+  Guide: false
+  Number of Gamers: 2178
+  Percentage of Gamers: 12%
+  Ratio: 2.88
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Cooperative
+  - Stackable
+  - 4 Players Required
+  - External Content
+- Achievement Name: Big Band Theory - Silver
+  Description: Finish any Dance Crew with all 4 players getting at least 4 stars (songs
+    with 4 coaches)
+  GS: '25'
+  Guide: true
+  Number of Gamers: 1001
+  Percentage of Gamers: 6%
+  Ratio: 4.26
+  TA: '106'
+  Tags:
+  - Offline Mode
+  - Cooperative
+  - Stackable
+  - 4 Players Required
+  - External Content
+- Achievement Name: Big Band Theory - Gold
+  Description: Finish any Dance Crew with all 4 players getting 5 stars (songs with
+    4 coaches)
+  GS: '35'
+  Guide: true
+  Number of Gamers: 135
+  Percentage of Gamers: 1%
+  Ratio: 11.64
+  TA: '407'
+  Tags:
+  - Offline Mode
+  - Cooperative
+  - 4 Players Required
+  - External Content
+- Achievement Name: Highway to Stars - Bronze
+  Description: Get 5 stars on 2 songs in a row from the "Songs" menu
+  GS: '5'
+  Guide: true
+  Number of Gamers: 5116
+  Percentage of Gamers: 28%
+  Ratio: 1.88
+  TA: '9'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: Highway to Stars - Silver
+  Description: Get 5 stars on 6 songs in a row from the "Songs" menu
+  GS: '25'
+  Guide: true
+  Number of Gamers: 582
+  Percentage of Gamers: 3%
+  Ratio: 5.59
+  TA: '139'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: Highway to Stars - Gold
+  Description: Get 5 stars on 10 songs in a row from the "Songs" menu
+  GS: '35'
+  Guide: true
+  Number of Gamers: 306
+  Percentage of Gamers: 2%
+  Ratio: 7.71
+  TA: '270'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: Ace Pair - Bronze
+  Description: Finish a Duet with 2 players getting at least 3 stars on both choreographies
+    (songs with 2 coaches)
+  GS: '5'
+  Guide: false
+  Number of Gamers: 7882
+  Percentage of Gamers: 43%
+  Ratio: 1.51
+  TA: '7'
+  Tags:
+  - Offline Mode
+  - Cooperative
+  - Stackable
+  - External Content
+- Achievement Name: Ace Pair - Silver
+  Description: Finish a Duet with 2 players getting at least 4 stars on both choreographies
+    (songs with 2 coaches)
+  GS: '25'
+  Guide: false
+  Number of Gamers: 3657
+  Percentage of Gamers: 20%
+  Ratio: 2.22
+  TA: '55'
+  Tags:
+  - Offline Mode
+  - Cooperative
+  - Stackable
+  - External Content
+- Achievement Name: Ace Pair - Gold
+  Description: Finish any Duet with 2 players getting 5 stars on both choreographies
+    (songs with 2 coaches)
+  GS: '35'
+  Guide: true
+  Number of Gamers: 443
+  Percentage of Gamers: 2%
+  Ratio: 6.4
+  TA: '224'
+  Tags:
+  - Offline Mode
+  - Cooperative
+  - External Content
+- Achievement Name: Constellation Maker - Bronze
+  Description: Get at least 3 stars on every choreography in the "Songs" menu
+  GS: '5'
+  Guide: true
+  Number of Gamers: 626
+  Percentage of Gamers: 3%
+  Ratio: 5.39
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Stackable
+  - External Content
+- Achievement Name: Constellation Maker - Silver
+  Description: Get at least 4 stars on every choreography in the "Songs" menu
+  GS: '25'
+  Guide: true
+  Number of Gamers: 412
+  Percentage of Gamers: 2%
+  Ratio: 6.65
+  TA: '166'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Stackable
+  - External Content
+- Achievement Name: Constellation Maker - Gold
+  Description: Get 5 stars on every choreography in the "Songs" menu
+  GS: '35'
+  Guide: true
+  Number of Gamers: 223
+  Percentage of Gamers: 1%
+  Ratio: 9.04
+  TA: '316'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: Sweat & Score - Bronze
+  Description: Reach 150 Sweat Points with a 3-star rating on any song with Sweat
+    Mode activated
+  GS: '5'
+  Guide: true
+  Number of Gamers: 6744
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '8'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Stackable
+  - External Content
+- Achievement Name: Sweat & Score - Silver
+  Description: Reach 250 Sweat Points with a 4-star rating on any song with Sweat
+    Mode activated
+  GS: '25'
+  Guide: true
+  Number of Gamers: 5283
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '46'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Stackable
+  - External Content
+- Achievement Name: Sweat & Score - Gold
+  Description: Reach 350 Sweat Points with a 5-star rating on any song with Sweat
+    Mode activated
+  GS: '35'
+  Guide: true
+  Number of Gamers: 1878
+  Percentage of Gamers: 10%
+  Ratio: 3.11
+  TA: '108'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: Simon's Best - Bronze
+  Description: Get 3 stars in Simon Says
+  GS: '5'
+  Guide: true
+  Number of Gamers: 3002
+  Percentage of Gamers: 17%
+  Ratio: 2.45
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Stackable
+  - External Content
+- Achievement Name: Simon's Best - Silver
+  Description: Get 4 stars in Simon Says
+  GS: '25'
+  Guide: true
+  Number of Gamers: 1683
+  Percentage of Gamers: 9%
+  Ratio: 3.28
+  TA: '82'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Stackable
+  - External Content
+- Achievement Name: Simon's Best - Gold
+  Description: Get 5 stars in Simon Says
+  GS: '35'
+  Guide: true
+  Number of Gamers: 585
+  Percentage of Gamers: 3%
+  Ratio: 5.57
+  TA: '195'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Stackable
+  - External Content
+- Achievement Name: Stylist - Bronze
+  Description: Get all Styles once (excluding Just Create)
+  GS: '5'
+  Guide: true
+  Number of Gamers: 221
+  Percentage of Gamers: 1%
+  Ratio: 9.08
+  TA: '45'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - 4 Players Required
+  - External Content
+- Achievement Name: Stylist - Silver
+  Description: Get four Dance Styles at the same time! (excluding Just Create)
+  GS: '25'
+  Guide: true
+  Number of Gamers: 923
+  Percentage of Gamers: 5%
+  Ratio: 4.43
+  TA: '110'
+  Tags:
+  - Offline Mode
+  - Cooperative
+  - 4 Players Required
+  - External Content
+- Achievement Name: Stylist - Gold
+  Description: Get all Styles with the same player during one game session! (excluding
+    Just Create)
+  GS: '35'
+  Guide: true
+  Number of Gamers: 315
+  Percentage of Gamers: 2%
+  Ratio: 7.6
+  TA: '266'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - 4 Players Required
+  - External Content
+  - Buggy
+- Achievement Name: Super Dancer - Bronze
+  Description: Play 50 songs (excluding Just Create)
+  GS: '5'
+  Guide: true
+  Number of Gamers: 3699
+  Percentage of Gamers: 20%
+  Ratio: 2.21
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+  - External Content
+- Achievement Name: Super Dancer - Silver
+  Description: Play 100 songs (excluding Just Create)
+  GS: '25'
+  Guide: false
+  Number of Gamers: 1678
+  Percentage of Gamers: 9%
+  Ratio: 3.29
+  TA: '82'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+  - External Content
+- Achievement Name: Super Dancer - Gold
+  Description: Play 200 songs (excluding Just Create)
+  GS: '35'
+  Guide: true
+  Number of Gamers: 607
+  Percentage of Gamers: 3%
+  Ratio: 5.47
+  TA: '191'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+  - External Content
+- Achievement Name: Sweat Me a River - Bronze
+  Description: Earn 1,000 Sweat Points with Sweat Mode activated
+  GS: '5'
+  Guide: true
+  Number of Gamers: 5356
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '9'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: Sweat Me a River - Silver
+  Description: Earn 10,000 Sweat Points with Sweat Mode activated
+  GS: '25'
+  Guide: true
+  Number of Gamers: 525
+  Percentage of Gamers: 3%
+  Ratio: 5.88
+  TA: '147'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: Sweat Me a River - Gold
+  Description: Earn 20,000 Sweat Points with Sweat Mode activated
+  GS: '35'
+  Guide: true
+  Number of Gamers: 280
+  Percentage of Gamers: 2%
+  Ratio: 8.06
+  TA: '282'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: Eyes Closed - Bronze
+  Description: Get 5 stars on any song after disabling pictograms in the Settings
+    menu (excluding Just Create)
+  GS: '5'
+  Guide: false
+  Number of Gamers: 560
+  Percentage of Gamers: 3%
+  Ratio: 5.69
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+  - External Content
+- Achievement Name: Eyes Closed - Silver
+  Description: Get 5 stars on 5 songs in a row after disabling pictograms in Settings
+    menu (excluding Just Create)
+  GS: '25'
+  Guide: false
+  Number of Gamers: 251
+  Percentage of Gamers: 1%
+  Ratio: 8.52
+  TA: '213'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+  - External Content
+- Achievement Name: Eyes Closed - Gold
+  Description: Get 5 stars on 10 songs in a row after disabling pictograms in Settings
+    menu (excluding Just Create)
+  GS: '35'
+  Guide: true
+  Number of Gamers: 204
+  Percentage of Gamers: 1%
+  Ratio: 9.45
+  TA: '331'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+  - External Content
+- Achievement Name: Choreographer - Bronze
+  Description: Create a choreography in Just Create
+  GS: '5'
+  Guide: true
+  Number of Gamers: 3924
+  Percentage of Gamers: 22%
+  Ratio: 2.15
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: Choreographer - Silver
+  Description: Create 25 choreographies in Just Create
+  GS: '25'
+  Guide: true
+  Number of Gamers: 305
+  Percentage of Gamers: 2%
+  Ratio: 7.72
+  TA: '193'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+  - External Content
+- Achievement Name: Choreographer - Gold
+  Description: Create 50 choreographies in Just Create
+  GS: '35'
+  Guide: true
+  Number of Gamers: 250
+  Percentage of Gamers: 1%
+  Ratio: 8.54
+  TA: '298'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+  - External Content
+- Achievement Name: Singer - Bronze
+  Description: Shout Out at least once in a song
+  GS: '5'
+  Guide: true
+  Number of Gamers: 10883
+  Percentage of Gamers: 60%
+  Ratio: 1.29
+  TA: '6'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: Singer - Silver
+  Description: Shout Out at least once in 10 different songs
+  GS: '25'
+  Guide: true
+  Number of Gamers: 1445
+  Percentage of Gamers: 8%
+  Ratio: 3.54
+  TA: '88'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: Singer - Gold
+  Description: Shout Out at least once in 20 different songs
+  GS: '35'
+  Guide: true
+  Number of Gamers: 360
+  Percentage of Gamers: 2%
+  Ratio: 7.11
+  TA: '248'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: Part of the community - Bronze
+  Description: Play one of your own choreographies
+  GS: '5'
+  Guide: true
+  Number of Gamers: 2521
+  Percentage of Gamers: 14%
+  Ratio: 2.68
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: Part of the community - Silver
+  Description: Download one Just Create choreography
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1335
+  Percentage of Gamers: 7%
+  Ratio: 3.68
+  TA: '18'
+  Tags:
+  - Discontinued
+- Achievement Name: Part of the community - Gold
+  Description: Upload one of your own choreographies
+  GS: '5'
+  Guide: true
+  Number of Gamers: 775
+  Percentage of Gamers: 4%
+  Ratio: 4.84
+  TA: '24'
+  Tags:
+  - Discontinued
+- Achievement Name: Marathon
+  Description: Dance for more than 1 hour in Non-Stop Shuffle
+  GS: '25'
+  Guide: true
+  Number of Gamers: 818
+  Percentage of Gamers: 5%
+  Ratio: 4.71
+  TA: '117'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: Dancing with The Devil
+  Description: Dance between Midnight and 4am
+  GS: '25'
+  Guide: true
+  Number of Gamers: 4484
+  Percentage of Gamers: 25%
+  Ratio: 2.01
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Time/Date
+  - External Content
+- Achievement Name: Saturday Night Fever
+  Description: Play at least 3 hours Between 8pm and 3am on a Saturday
+  GS: '15'
+  Guide: true
+  Number of Gamers: 419
+  Percentage of Gamers: 2%
+  Ratio: 6.59
+  TA: '98'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Time/Date
+  - External Content
+- Achievement Name: Morning Exercise
+  Description: Get 1000 Sweat Points between 5am and 9am with Sweat Mode activated
+  GS: '15'
+  Guide: true
+  Number of Gamers: 943
+  Percentage of Gamers: 5%
+  Ratio: 4.39
+  TA: '65'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Time/Date
+  - External Content
+- Achievement Name: The Daltons
+  Description: Get 4 Players to line up side by side from shortest to tallest while
+    in the pre-game Lobby
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2353
+  Percentage of Gamers: 13%
+  Ratio: 2.77
+  TA: '41'
+  Tags:
+  - Offline Mode
+  - Cooperative
+  - 4 Players Required
+  - External Content
+- Achievement Name: That's my jam!
+  Description: Play the same song five times in a row
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1209
+  Percentage of Gamers: 7%
+  Ratio: 3.87
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: Just Dance Master!
+  Description: Play every song in the "Songs" menu at least once
+  GS: '15'
+  Guide: true
+  Number of Gamers: 983
+  Percentage of Gamers: 5%
+  Ratio: 4.3
+  TA: '64'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+- Achievement Name: I could do this all night!
+  Description: Dance every song in the "Songs" menu in a row while in the same game
+  GS: '25'
+  Guide: true
+  Number of Gamers: 437
+  Percentage of Gamers: 2%
+  Ratio: 6.45
+  TA: '161'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - External Content
+Base Ratio: 5.88
+Base TA: 5880
+Delisted: false
+Developer: Ubisoft Paris
+Game Name: Just Dance 3
+Genres: Dance
+Install Size: 7760.0
+Number of Completions: 57
+Number of Gamers: 18176
+Overall Completion Time:
+- 0
+- 0
+Overall GS: 1000
+Overall Ratio: 5.88
+Overall TA: 5880
+PDU: 2
+Percentage Completed: 0.31
+Publisher: Ubisoft
+Release Date: 07 October 2011
+Server Closure: true
+Site Rating: 3.42
+Update Achievements: []
+Walkthrough: false

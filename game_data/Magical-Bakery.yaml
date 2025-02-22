@@ -1,0 +1,464 @@
+Add On Achievements: []
+Base Completion Time:
+- 17
+- 18
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Messy Bakery
+  Description: You have been admitted as apprentice mage in the Magical Bakery
+  GS: '20'
+  Guide: false
+  Number of Gamers: 30
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Spotless Shop
+  Description: You have learned the cleaning spell
+  GS: '15'
+  Guide: false
+  Number of Gamers: 27
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Open Their Hearts
+  Description: You have learned the aura spell
+  GS: '15'
+  Guide: false
+  Number of Gamers: 11
+  Percentage of Gamers: 35%
+  Ratio: 1.67
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Sweet-Toothed Thieves
+  Description: You have learned the spell to unmask thieves
+  GS: '15'
+  Guide: false
+  Number of Gamers: 9
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Satisfied Customers
+  Description: You have learned the spell to serve several customers at once
+  GS: '15'
+  Guide: false
+  Number of Gamers: 7
+  Percentage of Gamers: 23%
+  Ratio: 2.1
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Elementalist
+  Description: Have all elementals living in the Bakery
+  GS: '20'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 13%
+  Ratio: 2.78
+  TA: '55'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Speedster
+  Description: You have used the dash more than 50 times
+  GS: '20'
+  Guide: false
+  Number of Gamers: 17
+  Percentage of Gamers: 55%
+  Ratio: 1.35
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Supreme Baker
+  Description: You have baked all the sweets the bakery had to offer
+  GS: '50'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 13%
+  Ratio: 2.78
+  TA: '139'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Ingredient Hoarder
+  Description: You have bought all of Shen's ingredients at least once
+  GS: '30'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 13%
+  Ratio: 2.78
+  TA: '83'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Meowtastic
+  Description: You have listened to and fulfilled Arbal's request
+  GS: '30'
+  Guide: false
+  Number of Gamers: 8
+  Percentage of Gamers: 26%
+  Ratio: 1.96
+  TA: '59'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Any Regrets?
+  Description: You have sold Shen the same amount of ingredients that you bought from
+    him
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1
+  Percentage of Gamers: 3%
+  Ratio: 5.56
+  TA: '167'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+  - Buggy
+- Achievement Name: First of All
+  Description: An elemental has settled in your shop
+  GS: '30'
+  Guide: false
+  Number of Gamers: 13
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '46'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Baba's Comfort
+  Description: You have upgraded Baba's room and she is grateful, right?
+  GS: '30'
+  Guide: false
+  Number of Gamers: 8
+  Percentage of Gamers: 26%
+  Ratio: 1.96
+  TA: '59'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Recycling
+  Description: Bob has given you back all the ingredients from a baked sweet
+  GS: '20'
+  Guide: false
+  Number of Gamers: 5
+  Percentage of Gamers: 16%
+  Ratio: 2.49
+  TA: '49'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Thrifty
+  Description: Have more than 10,000 coins in your inventory
+  GS: '20'
+  Guide: false
+  Number of Gamers: 8
+  Percentage of Gamers: 26%
+  Ratio: 1.96
+  TA: '39'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative
+- Achievement Name: Master Magic Shaker
+  Description: Do 10 skillchecks in a row without stopping in the cauldron
+  GS: '30'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 13%
+  Ratio: 2.78
+  TA: '83'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Efficient
+  Description: Serve at least 10 customers for 3 days in a row
+  GS: '20'
+  Guide: false
+  Number of Gamers: 15
+  Percentage of Gamers: 48%
+  Ratio: 1.43
+  TA: '28'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Your Trusted Blacksmith
+  Description: Amber has fully upgraded your shop
+  GS: '50'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 13%
+  Ratio: 2.78
+  TA: '139'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Stop, Thief!
+  Description: A thief has taken something from your shop without you noticing...
+  GS: '20'
+  Guide: false
+  Number of Gamers: 9
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '37'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: A New Chance
+  Description: You have failed Ludovar's exam but, the Academy has given you another
+    chance
+  GS: '30'
+  Guide: false
+  Number of Gamers: 3
+  Percentage of Gamers: 10%
+  Ratio: 3.21
+  TA: '96'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Necessary Expenses?
+  Description: You have spent more on upgrades and ingredients than what you've earned
+    in the shop
+  GS: '30'
+  Guide: false
+  Number of Gamers: 20
+  Percentage of Gamers: 65%
+  Ratio: 1.24
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Ace of Bakery Finances
+  Description: You've put the 6 most expensive sweets of that day on the chalkboard
+  GS: '30'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 13%
+  Ratio: 2.78
+  TA: '83'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Sentimentalities
+  Description: You've helped 30 customers overcome their emotional problems
+  GS: '30'
+  Guide: false
+  Number of Gamers: 5
+  Percentage of Gamers: 16%
+  Ratio: 2.49
+  TA: '74'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Delicious!
+  Description: Give Bob a burnt sweet
+  GS: '20'
+  Guide: false
+  Number of Gamers: 18
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '26'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: By a Hair's Breadth
+  Description: A magic shield has prevented a sweet from getting burnt
+  GS: '20'
+  Guide: false
+  Number of Gamers: 7
+  Percentage of Gamers: 23%
+  Ratio: 2.1
+  TA: '42'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Experienced Explorer
+  Description: Arbal has returned from his excursions with more than 5 ingredients
+  GS: '30'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 13%
+  Ratio: 2.78
+  TA: '83'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Are You Going to Eat That?
+  Description: Put at least 30 sprinkles in a single sweet
+  GS: '30'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 13%
+  Ratio: 2.78
+  TA: '83'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Keep Your Friends Close
+  Description: You've given all of your friends their favorite sweets
+  GS: '50'
+  Guide: true
+  Number of Gamers: 3
+  Percentage of Gamers: 10%
+  Ratio: 3.21
+  TA: '160'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Magical Transformation
+  Description: Change your appearance at least once
+  GS: '20'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 13%
+  Ratio: 2.78
+  TA: '55'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Cat Love
+  Description: You've petted Arbal
+  GS: '20'
+  Guide: false
+  Number of Gamers: 6
+  Percentage of Gamers: 19%
+  Ratio: 2.27
+  TA: '45'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Novice
+  Description: You have reached rank 2 as a Magical Baker
+  GS: '20'
+  Guide: false
+  Number of Gamers: 13
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Level
+- Achievement Name: Magical Baker
+  Description: You have reached rank 3 as a Magical Baker
+  GS: '20'
+  Guide: false
+  Number of Gamers: 9
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Level
+- Achievement Name: Bold Baker
+  Description: You have reached rank 4 as a Magical Baker
+  GS: '20'
+  Guide: false
+  Number of Gamers: 7
+  Percentage of Gamers: 23%
+  Ratio: 2.1
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Level
+- Achievement Name: Virtuoso Mixer
+  Description: You have reached rank 5 as a Magical Baker
+  GS: '20'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 13%
+  Ratio: 2.78
+  TA: '55'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Level
+- Achievement Name: Master of All Sweets
+  Description: You have reached rank 6 as a Magical Baker
+  GS: '60'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 13%
+  Ratio: 2.78
+  TA: '167'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Level
+- Achievement Name: Served Cold
+  Description: You've passed the final exam and unmasked Ludovar
+  GS: '50'
+  Guide: true
+  Number of Gamers: 4
+  Percentage of Gamers: 13%
+  Ratio: 2.78
+  TA: '139'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Are You Crazy?
+  Description: You've tried to wake up Baba while she was sleeping
+  GS: '20'
+  Guide: false
+  Number of Gamers: 14
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '29'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 2.412
+Base TA: 2412
+Delisted: false
+Developer: SUPERLUMEN
+Game Name: Magical Bakery
+Genres: Simulation
+Install Size: 2140.0
+Number of Completions: 1
+Number of Gamers: 31
+Overall Completion Time:
+- 17
+- 18
+Overall GS: 1000
+Overall Ratio: 2.412
+Overall TA: 2412
+PDU: 0
+Percentage Completed: 3.23
+Publisher: SOEDESCO
+Release Date: 07 November 2024
+Server Closure: false
+Site Rating: 5.0
+Update Achievements: []
+Walkthrough: false

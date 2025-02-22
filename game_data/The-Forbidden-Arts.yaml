@@ -1,0 +1,806 @@
+Add On Achievements: []
+Base Completion Time:
+- 6.0
+- 8.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Wolf Hunter
+  Description: Kill 10 wolves
+  GS: '10'
+  Guide: true
+  Number of Gamers: 354
+  Percentage of Gamers: 60%
+  Ratio: 1.28
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Bear Hunter
+  Description: Kill 5 bears
+  GS: '10'
+  Guide: true
+  Number of Gamers: 398
+  Percentage of Gamers: 68%
+  Ratio: 1.21
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Assassin Hunter
+  Description: Kill 10 assassins
+  GS: '10'
+  Guide: true
+  Number of Gamers: 401
+  Percentage of Gamers: 68%
+  Ratio: 1.2
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Assassin Slayer
+  Description: Kill 20 assassins
+  GS: '10'
+  Guide: true
+  Number of Gamers: 234
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Griffin Tamer
+  Description: Clear the Griffin from Korrath Woods
+  GS: '10'
+  Guide: false
+  Number of Gamers: 561
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '10'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Gnoll Slayer
+  Description: Kill 20 Gnolls
+  GS: '10'
+  Guide: true
+  Number of Gamers: 217
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Gnoll Executioner
+  Description: Slay 40 Gnolls
+  GS: '10'
+  Guide: true
+  Number of Gamers: 120
+  Percentage of Gamers: 20%
+  Ratio: 2.2
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Spider Slayer
+  Description: Kill 20 spiders
+  GS: '10'
+  Guide: true
+  Number of Gamers: 177
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Spider Executioner
+  Description: Kill 40 spiders
+  GS: '10'
+  Guide: true
+  Number of Gamers: 108
+  Percentage of Gamers: 18%
+  Ratio: 2.32
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Master of Earth
+  Description: Defeat the Geomancer
+  GS: '50'
+  Guide: true
+  Number of Gamers: 199
+  Percentage of Gamers: 34%
+  Ratio: 1.71
+  TA: '85'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Shield of Fire
+  Description: Learn the shield of fire ability
+  GS: '20'
+  Guide: false
+  Number of Gamers: 199
+  Percentage of Gamers: 34%
+  Ratio: 1.71
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Master of the Mind
+  Description: Defeat the Enchantress
+  GS: '50'
+  Guide: true
+  Number of Gamers: 134
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '104'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Strong Limbs
+  Description: Learn the roots of fire ability
+  GS: '20'
+  Guide: false
+  Number of Gamers: 134
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '41'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Gold Panning
+  Description: Collect 4 gold in the Green Vale
+  GS: '10'
+  Guide: true
+  Number of Gamers: 324
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Gold in the Gorge
+  Description: Collect 4 gold in Black Fang Pass
+  GS: '10'
+  Guide: true
+  Number of Gamers: 233
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Golden Ranger
+  Description: Collect 10 gold in Korrath Woods
+  GS: '10'
+  Guide: false
+  Number of Gamers: 143
+  Percentage of Gamers: 24%
+  Ratio: 2.02
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Gold Miner
+  Description: Collect 10 gold in the Abandoned Mines
+  GS: '10'
+  Guide: false
+  Number of Gamers: 122
+  Percentage of Gamers: 21%
+  Ratio: 2.18
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Golden Honey
+  Description: Collect 10 gold in the Hives
+  GS: '10'
+  Guide: false
+  Number of Gamers: 100
+  Percentage of Gamers: 17%
+  Ratio: 2.41
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Problem Solving
+  Description: Complete Challenge Tower 1
+  GS: '10'
+  Guide: false
+  Number of Gamers: 202
+  Percentage of Gamers: 34%
+  Ratio: 1.7
+  TA: '17'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Boots on Fire
+  Description: Complete Challenge Tower 2
+  GS: '10'
+  Guide: false
+  Number of Gamers: 151
+  Percentage of Gamers: 26%
+  Ratio: 1.96
+  TA: '19'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Tricky Bees
+  Description: Complete Challenge Tower 3
+  GS: '10'
+  Guide: false
+  Number of Gamers: 116
+  Percentage of Gamers: 20%
+  Ratio: 2.24
+  TA: '22'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Clever Levers
+  Description: Solve the puzzle in the Abandoned Mines
+  GS: '10'
+  Guide: true
+  Number of Gamers: 282
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '14'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Birth of the Phoenix
+  Description: Collect 1 Phoenix Feather
+  GS: '10'
+  Guide: false
+  Number of Gamers: 550
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '10'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Feather Collector
+  Description: Collect 2 Phoenix Feathers
+  GS: '10'
+  Guide: false
+  Number of Gamers: 163
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '18'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Seeker of Flame
+  Description: Collect 3 Phoenix Feathers
+  GS: '10'
+  Guide: false
+  Number of Gamers: 128
+  Percentage of Gamers: 22%
+  Ratio: 2.13
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Golem Hunter
+  Description: Kill 5 Golems
+  GS: '10'
+  Guide: true
+  Number of Gamers: 114
+  Percentage of Gamers: 19%
+  Ratio: 2.26
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Goblin Hunter
+  Description: Kill 10 Goblins
+  GS: '10'
+  Guide: true
+  Number of Gamers: 121
+  Percentage of Gamers: 21%
+  Ratio: 2.19
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Goblin Slayer
+  Description: Kill 20 Goblins
+  GS: '10'
+  Guide: true
+  Number of Gamers: 117
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Goblin Executioner
+  Description: Kill 40 Goblins
+  GS: '10'
+  Guide: true
+  Number of Gamers: 96
+  Percentage of Gamers: 16%
+  Ratio: 2.46
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Yeti Hunter
+  Description: Kill 10 Yetis
+  GS: '10'
+  Guide: true
+  Number of Gamers: 119
+  Percentage of Gamers: 20%
+  Ratio: 2.21
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Drake Hunter
+  Description: Kill 5 Drakes
+  GS: '10'
+  Guide: true
+  Number of Gamers: 102
+  Percentage of Gamers: 17%
+  Ratio: 2.39
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Dragon's Eye
+  Description: Collect all 3 fragments of the Dragon's Eye
+  GS: '10'
+  Guide: false
+  Number of Gamers: 105
+  Percentage of Gamers: 18%
+  Ratio: 2.36
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Power of Fire
+  Description: Collect 4 Phoenix Feathers
+  GS: '10'
+  Guide: false
+  Number of Gamers: 110
+  Percentage of Gamers: 19%
+  Ratio: 2.3
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Heat Vision
+  Description: Learn the Heat Vision Ability
+  GS: '20'
+  Guide: false
+  Number of Gamers: 109
+  Percentage of Gamers: 19%
+  Ratio: 2.31
+  TA: '46'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Master of Wind
+  Description: Defeat the Aeromancer
+  GS: '50'
+  Guide: true
+  Number of Gamers: 111
+  Percentage of Gamers: 19%
+  Ratio: 2.29
+  TA: '114'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Gold on Ice
+  Description: Collect 4 gold in The Northern Wastes
+  GS: '10'
+  Guide: true
+  Number of Gamers: 118
+  Percentage of Gamers: 20%
+  Ratio: 2.22
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Gold in the Mountains
+  Description: Collect 10 Gold in The Mountains of Orin
+  GS: '10'
+  Guide: false
+  Number of Gamers: 102
+  Percentage of Gamers: 17%
+  Ratio: 2.39
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Light in the Dark
+  Description: Complete Challenge Tower 4
+  GS: '10'
+  Guide: false
+  Number of Gamers: 110
+  Percentage of Gamers: 19%
+  Ratio: 2.3
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Frog Hunter
+  Description: Kill 10 Frogmen
+  GS: '10'
+  Guide: true
+  Number of Gamers: 109
+  Percentage of Gamers: 19%
+  Ratio: 2.31
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Frog Slayer
+  Description: Kill 20 Frogmen
+  GS: '10'
+  Guide: true
+  Number of Gamers: 103
+  Percentage of Gamers: 18%
+  Ratio: 2.38
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Frog Executioner
+  Description: Kill 40 Frogmen
+  GS: '10'
+  Guide: true
+  Number of Gamers: 92
+  Percentage of Gamers: 16%
+  Ratio: 2.52
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Minotaur Hunter
+  Description: Kill 5 Minotaurs
+  GS: '10'
+  Guide: true
+  Number of Gamers: 102
+  Percentage of Gamers: 17%
+  Ratio: 2.39
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Mushroom Hunter
+  Description: Kill 5 Mushrooms
+  GS: '10'
+  Guide: true
+  Number of Gamers: 109
+  Percentage of Gamers: 19%
+  Ratio: 2.31
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Mushroom Slayer
+  Description: Kill 10 Mushrooms
+  GS: '10'
+  Guide: true
+  Number of Gamers: 108
+  Percentage of Gamers: 18%
+  Ratio: 2.32
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Flight and Flame
+  Description: Collect 5 Phoenix Feathers
+  GS: '10'
+  Guide: false
+  Number of Gamers: 103
+  Percentage of Gamers: 18%
+  Ratio: 2.38
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Spirit of Flame
+  Description: Learn the Spirit of Flame Ability
+  GS: '20'
+  Guide: false
+  Number of Gamers: 103
+  Percentage of Gamers: 18%
+  Ratio: 2.38
+  TA: '47'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Master of Water
+  Description: Defeat the Hydromancer
+  GS: '50'
+  Guide: true
+  Number of Gamers: 103
+  Percentage of Gamers: 18%
+  Ratio: 2.38
+  TA: '119'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Gold in the Swamp
+  Description: Collect 4 gold in the Swamp of Green Mist
+  GS: '10'
+  Guide: true
+  Number of Gamers: 109
+  Percentage of Gamers: 19%
+  Ratio: 2.31
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Gold in the Murk
+  Description: Collect 10 gold in the Pools of Murk
+  GS: '10'
+  Guide: false
+  Number of Gamers: 91
+  Percentage of Gamers: 15%
+  Ratio: 2.53
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Conquer the Murk
+  Description: Complete Challenge Tower 5
+  GS: '10'
+  Guide: false
+  Number of Gamers: 104
+  Percentage of Gamers: 18%
+  Ratio: 2.37
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Bandit Hunter
+  Description: Kill 10 Bandits
+  GS: '10'
+  Guide: true
+  Number of Gamers: 102
+  Percentage of Gamers: 17%
+  Ratio: 2.39
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Bandit Slayer
+  Description: Kill 20 Bandits
+  GS: '10'
+  Guide: true
+  Number of Gamers: 95
+  Percentage of Gamers: 16%
+  Ratio: 2.48
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Harpy Hunter
+  Description: Kill 5 Harpies
+  GS: '10'
+  Guide: true
+  Number of Gamers: 100
+  Percentage of Gamers: 17%
+  Ratio: 2.41
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Harpy Slayer
+  Description: Kill 10 Harpies
+  GS: '10'
+  Guide: true
+  Number of Gamers: 93
+  Percentage of Gamers: 16%
+  Ratio: 2.5
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Golem Slayer
+  Description: Kill 10 Golems
+  GS: '10'
+  Guide: true
+  Number of Gamers: 102
+  Percentage of Gamers: 17%
+  Ratio: 2.39
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Golem Executioner
+  Description: Kill 20 Golems
+  GS: '10'
+  Guide: true
+  Number of Gamers: 94
+  Percentage of Gamers: 16%
+  Ratio: 2.49
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Snake Hunter
+  Description: Kill 10 Snakes
+  GS: '10'
+  Guide: true
+  Number of Gamers: 102
+  Percentage of Gamers: 17%
+  Ratio: 2.39
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Snake Slayer
+  Description: Kill 20 Snakes
+  GS: '10'
+  Guide: true
+  Number of Gamers: 98
+  Percentage of Gamers: 17%
+  Ratio: 2.44
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Rise from the Ashes
+  Description: Collect 6 Phoenix Feathers
+  GS: '10'
+  Guide: true
+  Number of Gamers: 101
+  Percentage of Gamers: 17%
+  Ratio: 2.4
+  TA: '24'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Master of Spirit
+  Description: Defeat the Chiromancer
+  GS: '50'
+  Guide: true
+  Number of Gamers: 101
+  Percentage of Gamers: 17%
+  Ratio: 2.4
+  TA: '120'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Gold in the Desert
+  Description: Collect 4 gold in the Desert of Marzule
+  GS: '10'
+  Guide: true
+  Number of Gamers: 101
+  Percentage of Gamers: 17%
+  Ratio: 2.4
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Gold in the Temple
+  Description: Collect 10 gold in the Temple of Spirit
+  GS: '10'
+  Guide: false
+  Number of Gamers: 86
+  Percentage of Gamers: 15%
+  Ratio: 2.6
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Conquer your Spirit
+  Description: Complete Challenge Tower 6
+  GS: '10'
+  Guide: false
+  Number of Gamers: 98
+  Percentage of Gamers: 17%
+  Ratio: 2.44
+  TA: '24'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Blades of the Pyromancer
+  Description: Obtain the Imbued Blades of the Sun
+  GS: '20'
+  Guide: false
+  Number of Gamers: 93
+  Percentage of Gamers: 16%
+  Ratio: 2.5
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Deadly Treasure
+  Description: Defeat the Mimic in the Spirit Realm
+  GS: '10'
+  Guide: false
+  Number of Gamers: 93
+  Percentage of Gamers: 16%
+  Ratio: 2.5
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Beginning of the End
+  Description: Defeat the Necromancer
+  GS: '100'
+  Guide: true
+  Number of Gamers: 89
+  Percentage of Gamers: 15%
+  Ratio: 2.56
+  TA: '256'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+Base Ratio: 2.165
+Base TA: 2165
+Delisted: false
+Developer: Stingbot Games
+Game Name: The Forbidden Arts
+Genres: Action-Adventure
+Install Size: 2900.0
+Number of Completions: 79
+Number of Gamers: 588
+Overall Completion Time:
+- 6.0
+- 8.0
+Overall GS: 1000
+Overall Ratio: 2.165
+Overall TA: 2165
+PDU: 0
+Percentage Completed: 13.44
+Publisher: Stingbot Games
+Release Date: 07 August 2019
+Server Closure: false
+Site Rating: 2.47
+Update Achievements: []
+Walkthrough: false

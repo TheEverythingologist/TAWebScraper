@@ -1,0 +1,738 @@
+Add On Achievements: []
+Base Completion Time:
+- 40.0
+- 50.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Checkered Flag
+  Description: Win a race
+  GS: '5'
+  Guide: true
+  Number of Gamers: 6376
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Stackable
+- Achievement Name: Perfect 10
+  Description: Win 10 races
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3013
+  Percentage of Gamers: 41%
+  Ratio: 1.55
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: All I Do is Win
+  Description: Win 25 races
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1982
+  Percentage of Gamers: 27%
+  Ratio: 1.91
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: No Longer Rusty
+  Description: Win 56 races
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1188
+  Percentage of Gamers: 16%
+  Ratio: 2.47
+  TA: '49'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Not Intimidated
+  Description: Win 77 races
+  GS: '25'
+  Guide: false
+  Number of Gamers: 923
+  Percentage of Gamers: 13%
+  Ratio: 2.8
+  TA: '70'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Over the Rainbow
+  Description: Win 94 races
+  GS: '30'
+  Guide: false
+  Number of Gamers: 772
+  Percentage of Gamers: 11%
+  Ratio: 3.06
+  TA: '91'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Long Live the King
+  Description: Win 200 races
+  GS: '35'
+  Guide: true
+  Number of Gamers: 339
+  Percentage of Gamers: 5%
+  Ratio: 4.62
+  TA: '161'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Test of Endurance
+  Description: Complete a race with 100% race length
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1273
+  Percentage of Gamers: 18%
+  Ratio: 2.38
+  TA: '71'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Endurance Champion
+  Description: Win a race with 100% race length
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1127
+  Percentage of Gamers: 16%
+  Ratio: 2.53
+  TA: '126'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Tour the Tracks
+  Description: Race at every track
+  GS: '20'
+  Guide: false
+  Number of Gamers: 695
+  Percentage of Gamers: 10%
+  Ratio: 3.22
+  TA: '64'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Dirt King
+  Description: Win a race at every dirt track
+  GS: '30'
+  Guide: false
+  Number of Gamers: 1497
+  Percentage of Gamers: 21%
+  Ratio: 2.2
+  TA: '66'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Road Warrior
+  Description: Win a race at every road course
+  GS: '30'
+  Guide: true
+  Number of Gamers: 543
+  Percentage of Gamers: 7%
+  Ratio: 3.65
+  TA: '109'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Short and Sweet
+  Description: Win a race at every short track
+  GS: '30'
+  Guide: true
+  Number of Gamers: 885
+  Percentage of Gamers: 12%
+  Ratio: 2.86
+  TA: '85'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Best at all the Rest
+  Description: Win a race at every speedway
+  GS: '30'
+  Guide: true
+  Number of Gamers: 696
+  Percentage of Gamers: 10%
+  Ratio: 3.22
+  TA: '96'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Super Speedster
+  Description: Win a race at every super speedway
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1813
+  Percentage of Gamers: 25%
+  Ratio: 2.0
+  TA: '60'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Head to Head Winner
+  Description: Win a Split Screen race
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1338
+  Percentage of Gamers: 18%
+  Ratio: 2.32
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Versus
+- Achievement Name: Couch Champion
+  Description: Be the Split Screen champion after 4 races
+  GS: '5'
+  Guide: true
+  Number of Gamers: 704
+  Percentage of Gamers: 10%
+  Ratio: 3.21
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Versus
+- Achievement Name: Who am I?
+  Description: Create a character
+  GS: '5'
+  Guide: true
+  Number of Gamers: 5776
+  Percentage of Gamers: 80%
+  Ratio: 1.12
+  TA: '5'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Nice Ride
+  Description: Create a custom paint job
+  GS: '5'
+  Guide: true
+  Number of Gamers: 4635
+  Percentage of Gamers: 64%
+  Ratio: 1.25
+  TA: '6'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Ridin' Dirty
+  Description: Complete an Xtreme Dirt Tour season
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2974
+  Percentage of Gamers: 41%
+  Ratio: 1.56
+  TA: '15'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Truck'n
+  Description: Completed a NASCAR Camping World Truck Series season
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1828
+  Percentage of Gamers: 25%
+  Ratio: 1.99
+  TA: '19'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Journeyman
+  Description: Complete a full NASCAR Xfinity Series season
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1249
+  Percentage of Gamers: 17%
+  Ratio: 2.41
+  TA: '24'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: No More Yellow Stripes
+  Description: Complete a full Monster Energy NASCAR Cup Series Season
+  GS: '10'
+  Guide: true
+  Number of Gamers: 959
+  Percentage of Gamers: 13%
+  Ratio: 2.74
+  TA: '27'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Dirty Winner
+  Description: Win an Xtreme Dirt Tour championship
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2352
+  Percentage of Gamers: 32%
+  Ratio: 1.75
+  TA: '26'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: V is for Victory
+  Description: Win a NASCAR Camping World Truck Series championship
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1536
+  Percentage of Gamers: 21%
+  Ratio: 2.17
+  TA: '32'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Unstoppable
+  Description: Win a NASCAR Xfinity Series championship
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1070
+  Percentage of Gamers: 15%
+  Ratio: 2.6
+  TA: '39'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The Peak
+  Description: Win a Monster Energy NASCAR Cup Series championship
+  GS: '20'
+  Guide: true
+  Number of Gamers: 814
+  Percentage of Gamers: 11%
+  Ratio: 2.98
+  TA: '59'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: First of Many
+  Description: Win the Xtreme Dirt Tour playoffs
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2351
+  Percentage of Gamers: 32%
+  Ratio: 1.75
+  TA: '35'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Big Step Up
+  Description: Win the NASCAR Camping World Truck Series playoffs
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1533
+  Percentage of Gamers: 21%
+  Ratio: 2.17
+  TA: '43'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Who's Next?
+  Description: Win the NASCAR Xfinity Series playoffs
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1066
+  Percentage of Gamers: 15%
+  Ratio: 2.6
+  TA: '52'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Best of the Best
+  Description: Win the Monster Energy NASCAR Cup Series playoffs
+  GS: '20'
+  Guide: true
+  Number of Gamers: 808
+  Percentage of Gamers: 11%
+  Ratio: 2.99
+  TA: '59'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Rubbing is Racing
+  Description: Get a rival
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2356
+  Percentage of Gamers: 32%
+  Ratio: 1.75
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Why Can't We Be Friends?
+  Description: Get a friend
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2985
+  Percentage of Gamers: 41%
+  Ratio: 1.55
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Just Getting Started
+  Description: Complete one career season
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2935
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Seasoned Driver
+  Description: Complete 5 career seasons
+  GS: '20'
+  Guide: false
+  Number of Gamers: 706
+  Percentage of Gamers: 10%
+  Ratio: 3.2
+  TA: '64'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Grizzled Veteran
+  Description: Complete 10 career seasons
+  GS: '30'
+  Guide: true
+  Number of Gamers: 302
+  Percentage of Gamers: 4%
+  Ratio: 4.89
+  TA: '146'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Getting Noticed
+  Description: Earn a spot in the Xtreme Dirt Tour playoffs
+  GS: '20'
+  Guide: false
+  Number of Gamers: 2882
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Getting Somewhere
+  Description: Earn a spot in the NASCAR Camping World Truck Series playoffs
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1739
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '40'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Time to Shine
+  Description: Earn a spot in the NASCAR Xfinity Series playoffs
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1137
+  Percentage of Gamers: 16%
+  Ratio: 2.52
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Playing with the Big Boys
+  Description: Earn a spot in the Monster Energy NASCAR Cup Series playoffs
+  GS: '20'
+  Guide: true
+  Number of Gamers: 880
+  Percentage of Gamers: 12%
+  Ratio: 2.87
+  TA: '57'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: So it Begins
+  Description: Race in the Xtreme Dirt Tour on a team
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4181
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Moving On Up
+  Description: Race in the NASCAR Camping World Truck Series on a team
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2773
+  Percentage of Gamers: 38%
+  Ratio: 1.61
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Main Storyline
+- Achievement Name: Almost There
+  Description: Race in the NASCAR Xfinity Series on a team
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1711
+  Percentage of Gamers: 24%
+  Ratio: 2.05
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: A Seat at the Table
+  Description: Race in the Monster Energy NASCAR Cup Series on a team
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1142
+  Percentage of Gamers: 16%
+  Ratio: 2.51
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Established Competitor
+  Description: Win a race in Career
+  GS: '10'
+  Guide: false
+  Number of Gamers: 4040
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '13'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
+- Achievement Name: Rolling in the Dough
+  Description: Earn 50 million dollars
+  GS: '25'
+  Guide: true
+  Number of Gamers: 712
+  Percentage of Gamers: 10%
+  Ratio: 3.19
+  TA: '79'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Car Collector
+  Description: Own 6 cars in any single series
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1101
+  Percentage of Gamers: 15%
+  Ratio: 2.56
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Full Team
+  Description: Hire 12 employees in any single series
+  GS: '10'
+  Guide: false
+  Number of Gamers: 859
+  Percentage of Gamers: 12%
+  Ratio: 2.9
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: State of the Art Facilities
+  Description: Max out all departments (any series)
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1769
+  Percentage of Gamers: 24%
+  Ratio: 2.02
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Employee of the Year
+  Description: Max out all stats on one employee (any series)
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1225
+  Percentage of Gamers: 17%
+  Ratio: 2.43
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Welcome to the Team
+  Description: Hire your first employee
+  GS: '5'
+  Guide: true
+  Number of Gamers: 2887
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '7'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Back to School
+  Description: Train your first employee
+  GS: '5'
+  Guide: false
+  Number of Gamers: 2692
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '8'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Head of the Class
+  Description: Max out a single stat on an employee
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2130
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Wonderful Toys
+  Description: Max out a single department
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1926
+  Percentage of Gamers: 27%
+  Ratio: 1.94
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Challenge Accomplished
+  Description: Complete a challenge
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1558
+  Percentage of Gamers: 21%
+  Ratio: 2.15
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Force to be Reckoned With
+  Description: Complete half of the challenges
+  GS: '15'
+  Guide: false
+  Number of Gamers: 357
+  Percentage of Gamers: 5%
+  Ratio: 4.51
+  TA: '67'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: King of the Hill
+  Description: Complete all challenges
+  GS: '30'
+  Guide: false
+  Number of Gamers: 180
+  Percentage of Gamers: 2%
+  Ratio: 6.34
+  TA: '190'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Online Racer
+  Description: Complete a Multiplayer race
+  GS: '5'
+  Guide: true
+  Number of Gamers: 2092
+  Percentage of Gamers: 29%
+  Ratio: 1.86
+  TA: '9'
+  Tags:
+  - Discontinued
+- Achievement Name: Online Veteran
+  Description: Complete 10 Multiplayer races
+  GS: '5'
+  Guide: false
+  Number of Gamers: 1115
+  Percentage of Gamers: 15%
+  Ratio: 2.54
+  TA: '12'
+  Tags:
+  - Discontinued
+- Achievement Name: Online Victory
+  Description: Win a Multiplayer race
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1347
+  Percentage of Gamers: 19%
+  Ratio: 2.31
+  TA: '23'
+  Tags:
+  - Discontinued
+- Achievement Name: Online Domination
+  Description: Win 10 Multiplayer races
+  GS: '15'
+  Guide: true
+  Number of Gamers: 477
+  Percentage of Gamers: 7%
+  Ratio: 3.89
+  TA: '58'
+  Tags:
+  - Discontinued
+Base Ratio: 2.715
+Base TA: 2715
+Delisted: false
+Developer: Monster Games
+Game Name: NASCAR Heat 3
+Genres: Simulation Racing, Automobile, Sports
+Install Size: 18960.0
+Number of Completions: 90
+Number of Gamers: 7263
+Overall Completion Time:
+- 40.0
+- 50.0
+Overall GS: 1000
+Overall Ratio: 2.715
+Overall TA: 2715
+PDU: 4
+Percentage Completed: 1.24
+Publisher: 704Games
+Release Date: 07 September 2018
+Server Closure: true
+Site Rating: 3.64
+Update Achievements: []
+Walkthrough: false

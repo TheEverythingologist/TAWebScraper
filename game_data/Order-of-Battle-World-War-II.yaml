@@ -1,0 +1,398 @@
+Add On Achievements: []
+Base Completion Time:
+- 209
+- 210
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Graduated for War
+  Description: Complete the tutorial campaign.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 105
+  Percentage of Gamers: 36%
+  Ratio: 1.67
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Summa Cum Laude
+  Description: Complete the tutorial campaign without losing any unit. Difficulty
+    level III or higher.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 48
+  Percentage of Gamers: 16%
+  Ratio: 2.47
+  TA: '74'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Taken by Force
+  Description: Capture a Victory Point with an advance move.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 290
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '30'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Tank Specialist
+  Description: Accumulate 8 tank class units during a campaign game, each with at
+    least 2 kills. Difficulty level I
+  GS: '30'
+  Guide: true
+  Number of Gamers: 22
+  Percentage of Gamers: 8%
+  Ratio: 3.64
+  TA: '109'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Buggy
+- Achievement Name: Hoarder
+  Description: Accumulate a reserve of 1000 Resource Points in a campaign game.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 110
+  Percentage of Gamers: 38%
+  Ratio: 1.63
+  TA: '48'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Tank Buster Bronze
+  Description: Destroy 5 tanks with a single unit in a campaign game.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 42
+  Percentage of Gamers: 14%
+  Ratio: 2.64
+  TA: '52'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Tank Buster Silver
+  Description: Destroy 10 tanks with a single unit in a campaign game.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 21
+  Percentage of Gamers: 7%
+  Ratio: 3.73
+  TA: '112'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Tank Buster Gold
+  Description: Destroy 15 tanks with a single unit in a campaign game.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 12
+  Percentage of Gamers: 4%
+  Ratio: 4.94
+  TA: '247'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Grim Reaper Bronze
+  Description: Destroy 5 infantry units with a single unit in a campaign game.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 88
+  Percentage of Gamers: 30%
+  Ratio: 1.82
+  TA: '36'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Grim Reaper Silver
+  Description: Destroy 10 infantry units with a single unit in a campaign game.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 53
+  Percentage of Gamers: 18%
+  Ratio: 2.35
+  TA: '70'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Grim Reaper Gold
+  Description: Destroy 15 infantry units with a single unit in a campaign game.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 45
+  Percentage of Gamers: 15%
+  Ratio: 2.55
+  TA: '127'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Air Ace Bronze
+  Description: Destroy 5 aircraft with a single unit in a campaign game.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 52
+  Percentage of Gamers: 18%
+  Ratio: 2.37
+  TA: '47'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Air Ace Silver
+  Description: Destroy 10 aircraft with a single unit in a campaign game.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 41
+  Percentage of Gamers: 14%
+  Ratio: 2.67
+  TA: '80'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Air Ace Gold
+  Description: Destroy 15 aircraft with a single unit in a campaign game.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 33
+  Percentage of Gamers: 11%
+  Ratio: 2.97
+  TA: '148'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Naval Legend Bronze
+  Description: Destroy 5 ships with a single unit in a campaign game.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 86
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '36'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Naval Legend Silver
+  Description: Destroy 10 ships with a single unit in a campaign game.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 28
+  Percentage of Gamers: 10%
+  Ratio: 3.23
+  TA: '97'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Naval Legend Gold
+  Description: Destroy 15 ships with a single unit in a campaign game.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 20
+  Percentage of Gamers: 7%
+  Ratio: 3.82
+  TA: '191'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Elite infantry
+  Description: Gain 5 experience stars on an Infantry class unit during a campaign
+    game
+  GS: '30'
+  Guide: false
+  Number of Gamers: 34
+  Percentage of Gamers: 12%
+  Ratio: 2.93
+  TA: '88'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Elite Recon
+  Description: Gain 5 experience stars on a Reconaissance class unit during a campaign
+    game
+  GS: '30'
+  Guide: true
+  Number of Gamers: 7
+  Percentage of Gamers: 2%
+  Ratio: 6.46
+  TA: '194'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Elite Tank
+  Description: Gain 5 experience stars on a Tank class unit during a campaign game
+  GS: '30'
+  Guide: false
+  Number of Gamers: 38
+  Percentage of Gamers: 13%
+  Ratio: 2.77
+  TA: '83'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Elite Anti-Tank
+  Description: Gain 5 experience stars on an Anit-Tank class unit during a campaign
+    game
+  GS: '30'
+  Guide: false
+  Number of Gamers: 5
+  Percentage of Gamers: 2%
+  Ratio: 7.65
+  TA: '229'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Elite Artillery
+  Description: Gain 5 experience stars on an Artillery class unit during a campaign
+    game
+  GS: '30'
+  Guide: false
+  Number of Gamers: 6
+  Percentage of Gamers: 2%
+  Ratio: 6.98
+  TA: '209'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Elite Anti-Air
+  Description: Gain 5 experience stars on an Anti-Air class unit during a campaign
+    game
+  GS: '30'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 1%
+  Ratio: 8.55
+  TA: '256'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Elite Fighter
+  Description: Gain 5 experience stars on a Fighter class unit during a campaign game
+  GS: '30'
+  Guide: false
+  Number of Gamers: 28
+  Percentage of Gamers: 10%
+  Ratio: 3.23
+  TA: '97'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Elite Tactical Bomber
+  Description: Gain 5 experience stars on a Tactical Bomber class unit during a campaign
+    game
+  GS: '30'
+  Guide: false
+  Number of Gamers: 39
+  Percentage of Gamers: 13%
+  Ratio: 2.74
+  TA: '82'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Elite Strategic Bomber
+  Description: Gain 5 experience stars on a Strategic Bomber class unit during a campaign
+    game
+  GS: '30'
+  Guide: false
+  Number of Gamers: 8
+  Percentage of Gamers: 3%
+  Ratio: 6.05
+  TA: '181'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Elite Destroyer
+  Description: Gain 5 experience stars on a Destroyer class unit during a campaign
+    game
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4
+  Percentage of Gamers: 1%
+  Ratio: 8.55
+  TA: '256'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Elite Cruiser
+  Description: Gain 5 experience stars on a Cruiser class unit during a campaign game
+  GS: '30'
+  Guide: false
+  Number of Gamers: 15
+  Percentage of Gamers: 5%
+  Ratio: 4.41
+  TA: '132'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Elite Battleship
+  Description: Gain 5 experience stars on a Battleship class unit during a campaign
+    game
+  GS: '30'
+  Guide: false
+  Number of Gamers: 7
+  Percentage of Gamers: 2%
+  Ratio: 6.46
+  TA: '194'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Elite Submarine
+  Description: Gain 5 experience stars on a Submarine class unit during a campaign
+    game
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4
+  Percentage of Gamers: 1%
+  Ratio: 8.55
+  TA: '256'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Ghost Ship
+  Description: Reform a single naval unit 5 times during a campaign game.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4
+  Percentage of Gamers: 1%
+  Ratio: 8.55
+  TA: '256'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Purple Heart
+  Description: Accumulate over 100 points of damage taken on a single land unit during
+    a campaign game.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 38
+  Percentage of Gamers: 13%
+  Ratio: 2.77
+  TA: '83'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 4.15
+Base TA: 4150
+Delisted: false
+Developer: The Artistocrats
+Game Name: 'Order of Battle: World War II'
+Genres: Strategy, Turn Based
+Install Size: 2940.0
+Number of Completions: 3
+Number of Gamers: 293
+Overall Completion Time:
+- 209
+- 210
+Overall GS: 1000
+Overall Ratio: 4.15
+Overall TA: 4150
+PDU: 0
+Percentage Completed: 1.02
+Publisher: Slitherine
+Release Date: 23 June 2021
+Server Closure: false
+Site Rating: 4.38
+Update Achievements: []
+Walkthrough: false

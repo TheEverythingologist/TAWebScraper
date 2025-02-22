@@ -1,0 +1,644 @@
+Add On Achievements: []
+Base Completion Time:
+- 40.0
+- 50.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Bookworm
+  Description: Find 25% of all documents.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 192257
+  Percentage of Gamers: 89%
+  Ratio: 1.06
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Historian
+  Description: Find 75% of all documents.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 112424
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Relic Hunter
+  Description: Collect 25% of all relics.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 166545
+  Percentage of Gamers: 77%
+  Ratio: 1.14
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Archaeologist
+  Description: Collect 75% of all relics.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 98066
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Looking for Trouble
+  Description: Find 25% of GPS caches.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 144276
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Bag Full O' Cache
+  Description: Find 75% of GPS caches.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 87705
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: No Stone Left Unturned
+  Description: Find all documents, relics, and GPS caches.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 69181
+  Percentage of Gamers: 32%
+  Ratio: 1.77
+  TA: '88'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Scrounger
+  Description: Collect 5000 pieces of salvage.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 167008
+  Percentage of Gamers: 77%
+  Ratio: 1.13
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Picky
+  Description: Loot 200 enemies.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 161977
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Clever Girl
+  Description: Purchase all skills in one category.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 152934
+  Percentage of Gamers: 71%
+  Ratio: 1.19
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Lethal
+  Description: Purchase all skills in all categories.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 82465
+  Percentage of Gamers: 38%
+  Ratio: 1.62
+  TA: '81'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Now We're Getting Serious
+  Description: Fully mod and completely upgrade any weapon.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 119327
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '33'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: The Professional
+  Description: Fully mod and completely upgrade all weapons.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 61885
+  Percentage of Gamers: 29%
+  Ratio: 1.87
+  TA: '93'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Big Game Hunter
+  Description: Kill and loot 10 large animals (deer, boar, wolves).
+  GS: '15'
+  Guide: true
+  Number of Gamers: 166323
+  Percentage of Gamers: 77%
+  Ratio: 1.14
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Tastes Like Chicken!
+  Description: Kill and loot 10 small animals (rabbits, chickens, rats).
+  GS: '15'
+  Guide: true
+  Number of Gamers: 126927
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Feather Duster
+  Description: Kill and loot 10 flying animals (crows and gulls).
+  GS: '15'
+  Guide: true
+  Number of Gamers: 82900
+  Percentage of Gamers: 38%
+  Ratio: 1.61
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Sharp Shooter
+  Description: Perform 50 headshot kills in the single player campaign.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 185782
+  Percentage of Gamers: 86%
+  Ratio: 1.08
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Predator
+  Description: Kill 50 enemies with the bow.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 193424
+  Percentage of Gamers: 89%
+  Ratio: 1.05
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Equalizer
+  Description: Kill 75 enemies with the rifle.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 124866
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Widowmaker
+  Description: Kill 40 enemies with the shotgun.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 124955
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Gunslinger
+  Description: Kill 35 enemies with a pistol.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 178617
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Epic Fumble
+  Description: Force an enemy to drop dynamite that kills two people when exploding.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 155044
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '17'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Get Over Here!
+  Description: Rope pull 5 enemies off edges.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 34916
+  Percentage of Gamers: 16%
+  Ratio: 2.49
+  TA: '49'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Opportunist
+  Description: Kill 25 unaware enemies.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 184852
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Down and Dirty
+  Description: Perform 15 finishers.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 182272
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Deadeye
+  Description: Shoot 10 enemies off zip lines.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 25646
+  Percentage of Gamers: 12%
+  Ratio: 2.9
+  TA: '58'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Cumulative +
+  - Buggy
+- Achievement Name: Former Adventurer
+  Description: Incapacitate 25 enemies with dodge counter.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 25206
+  Percentage of Gamers: 12%
+  Ratio: 2.93
+  TA: '58'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: One Smart Cookie
+  Description: Complete one optional tomb.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 196293
+  Percentage of Gamers: 91%
+  Ratio: 1.05
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Intellectually Superior
+  Description: Complete all optional tombs.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 96560
+  Percentage of Gamers: 45%
+  Ratio: 1.49
+  TA: '74'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Unfinished Business
+  Description: Complete one challenge.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 130155
+  Percentage of Gamers: 60%
+  Ratio: 1.29
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Inconceivable!
+  Description: Complete all challenges.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 50879
+  Percentage of Gamers: 23%
+  Ratio: 2.06
+  TA: '103'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: A Survivor Is Born
+  Description: Complete the game.
+  GS: '75'
+  Guide: true
+  Number of Gamers: 164210
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '86'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
+- Achievement Name: Boom Goes the Dynamite
+  Description: Shoot a bundle of dynamite out of the air.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 77591
+  Percentage of Gamers: 36%
+  Ratio: 1.67
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Crab Cakes
+  Description: Kill FeeFee the crab.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 130653
+  Percentage of Gamers: 60%
+  Ratio: 1.28
+  TA: '6'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Chatterbox
+  Description: Complete all conversations with the Endurance crew.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 18195
+  Percentage of Gamers: 8%
+  Ratio: 3.45
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Adventurer
+  Description: Complete a match in all multiplayer modes.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 28035
+  Percentage of Gamers: 13%
+  Ratio: 2.78
+  TA: '55'
+  Tags:
+  - Online Mode
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Artilleryman
+  Description: Kill 20 enemy players in multiplayer using a turret.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 15164
+  Percentage of Gamers: 7%
+  Ratio: 3.78
+  TA: '75'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Down Boy!
+  Description: Kill a zip-lining enemy player in multiplayer.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 25219
+  Percentage of Gamers: 12%
+  Ratio: 2.93
+  TA: '29'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Entrapment
+  Description: Catch a player in a snare trap in multiplayer.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 59641
+  Percentage of Gamers: 28%
+  Ratio: 1.9
+  TA: '19'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Escapist
+  Description: Survive 10 explosions in multiplayer.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 27177
+  Percentage of Gamers: 13%
+  Ratio: 2.82
+  TA: '56'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Good Samaritan
+  Description: Revive a teammate in a multiplayer match.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 35255
+  Percentage of Gamers: 16%
+  Ratio: 2.47
+  TA: '24'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+- Achievement Name: I'm all that!
+  Description: Win a ranked match in every multiplayer mode.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 12870
+  Percentage of Gamers: 6%
+  Ratio: 4.1
+  TA: '102'
+  Tags:
+  - Online Mode
+  - Online/Offline
+  - Versus
+  - 4 Players Required
+  - Buggy +
+- Achievement Name: Sole Survivor
+  Description: In multiplayer, be the only player on your team that isn't dead or
+    incapacitated.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 73155
+  Percentage of Gamers: 34%
+  Ratio: 1.72
+  TA: '25'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+- Achievement Name: Lights Out
+  Description: Kill 10 multiplayer enemies using your melee attack.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 28864
+  Percentage of Gamers: 13%
+  Ratio: 2.74
+  TA: '41'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Master Blaster
+  Description: Kill 2 multiplayer enemies with a single explosive.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 26370
+  Percentage of Gamers: 12%
+  Ratio: 2.86
+  TA: '57'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+- Achievement Name: Monkey Around
+  Description: In a multiplayer match, escape death 3 times by using the rope ascender.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 17041
+  Percentage of Gamers: 8%
+  Ratio: 3.56
+  TA: '53'
+  Tags:
+  - Online Mode
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Narcissistic
+  Description: Purchase a new multiplayer character.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 45231
+  Percentage of Gamers: 21%
+  Ratio: 2.18
+  TA: '21'
+  Tags:
+  - Online Mode
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Level
+  - Shop
+- Achievement Name: On My Way Up
+  Description: Reach level 10 in multiplayer.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 43885
+  Percentage of Gamers: 20%
+  Ratio: 2.22
+  TA: '22'
+  Tags:
+  - Online Mode
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Level
+- Achievement Name: Shopaholic
+  Description: Buy every upgrade and character in multiplayer.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 7655
+  Percentage of Gamers: 4%
+  Ratio: 5.32
+  TA: '106'
+  Tags:
+  - Online Mode
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Level
+  - Shop
+- Achievement Name: True Commitment
+  Description: Reach level 60 in multiplayer.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 8310
+  Percentage of Gamers: 4%
+  Ratio: 5.1
+  TA: '153'
+  Tags:
+  - Online Mode
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Level
+Base Ratio: 1.984
+Base TA: 1984
+Delisted: true
+Developer: Crystal Dynamics
+Game Name: Tomb Raider
+Genres: Third Person Shooter, Platformer
+Install Size: 6570.0
+Number of Completions: 6543
+Number of Gamers: 216867
+Overall Completion Time:
+- 40.0
+- 50.0
+Overall GS: 1000
+Overall Ratio: 1.984
+Overall TA: 1984
+PDU: 0
+Percentage Completed: 3.02
+Publisher: Crystal Dynamics
+Release Date: 05 March 2013
+Server Closure: false
+Site Rating: 4.46
+Update Achievements: []
+Walkthrough: false

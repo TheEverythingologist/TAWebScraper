@@ -1,0 +1,642 @@
+Add On Achievements: []
+Base Completion Time:
+- 15.0
+- 20.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Viking Conqueror Normal
+  Description: Reach the end of the game on normal difficulty
+  GS: '30'
+  Guide: true
+  Number of Gamers: 21223
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '46'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
+  - Stackable
+- Achievement Name: Viking Conqueror Hard
+  Description: Reach the end of the game on hard difficulty
+  GS: '60'
+  Guide: true
+  Number of Gamers: 10552
+  Percentage of Gamers: 21%
+  Ratio: 2.19
+  TA: '131'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Niflberg Supplies Freed
+  Description: Liberate the farm and the quarry in Niflberg
+  GS: '20'
+  Guide: true
+  Number of Gamers: 43435
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Dragon Summoner
+  Description: Find and charge the dragon gem Hugin and dragon amulet, and summon
+    a dragon
+  GS: '15'
+  Guide: true
+  Number of Gamers: 39643
+  Percentage of Gamers: 78%
+  Ratio: 1.13
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Skullbagger 1
+  Description: Collect the 6 skulls in Darkwater
+  GS: '15'
+  Guide: true
+  Number of Gamers: 11231
+  Percentage of Gamers: 22%
+  Ratio: 2.12
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Missable
+- Achievement Name: Savior of Niflberg Normal
+  Description: Liberate Niflberg completely on the normal difficulty level
+  GS: '25'
+  Guide: true
+  Number of Gamers: 39564
+  Percentage of Gamers: 78%
+  Ratio: 1.13
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Stackable
+- Achievement Name: Savior of Niflberg Hard
+  Description: Liberate Niflberg completely on the hard difficulty level
+  GS: '35'
+  Guide: true
+  Number of Gamers: 15023
+  Percentage of Gamers: 30%
+  Ratio: 1.83
+  TA: '64'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Galcliff Supplies Freed
+  Description: Liberate the farm, still, lumber mill, and the quarry in Galcliff
+  GS: '20'
+  Guide: false
+  Number of Gamers: 29361
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Dragon Master
+  Description: Complete the second dragon gem, and summon a dragon
+  GS: '15'
+  Guide: true
+  Number of Gamers: 27694
+  Percentage of Gamers: 55%
+  Ratio: 1.35
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Skullbagger 2
+  Description: Collect the 6 skulls in Holdenfort and the 6 skulls in Caldberg
+  GS: '15'
+  Guide: true
+  Number of Gamers: 9728
+  Percentage of Gamers: 19%
+  Ratio: 2.28
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Missable
+- Achievement Name: Demon's Nemesis
+  Description: Kill Hel's Harbinger Drakan
+  GS: '40'
+  Guide: true
+  Number of Gamers: 27508
+  Percentage of Gamers: 54%
+  Ratio: 1.35
+  TA: '54'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Redeemer Of Galcliff Normal
+  Description: Liberate Galcliff completely on the normal difficulty level
+  GS: '30'
+  Guide: true
+  Number of Gamers: 27489
+  Percentage of Gamers: 54%
+  Ratio: 1.35
+  TA: '40'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Stackable
+  - Missable
+- Achievement Name: Redeemer of Galcliff Hard
+  Description: Liberate Galcliff completely on the hard difficulty level
+  GS: '40'
+  Guide: true
+  Number of Gamers: 12084
+  Percentage of Gamers: 24%
+  Ratio: 2.05
+  TA: '82'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+  - Missable
+- Achievement Name: Isaholm Supplies Freed
+  Description: Liberate the farm, still, lumber mill, and the quarry in Isaholm
+  GS: '20'
+  Guide: true
+  Number of Gamers: 24684
+  Percentage of Gamers: 49%
+  Ratio: 1.43
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Dragon Overlord
+  Description: Recover the final dragon gem, and summon a dragon
+  GS: '15'
+  Guide: true
+  Number of Gamers: 23775
+  Percentage of Gamers: 47%
+  Ratio: 1.46
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Skullbagger 3
+  Description: Collect all the 4 skulls in Thornvik
+  GS: '15'
+  Guide: true
+  Number of Gamers: 13291
+  Percentage of Gamers: 26%
+  Ratio: 1.95
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Death King
+  Description: Finish off 150 Legion with fatality moves
+  GS: '25'
+  Guide: true
+  Number of Gamers: 38195
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Demon Eviscerator
+  Description: Finish off 100 Legion with fatality moves
+  GS: '20'
+  Guide: true
+  Number of Gamers: 41652
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: They Never Saw Me Coming
+  Description: Execute 100 sneaky kills
+  GS: '20'
+  Guide: true
+  Number of Gamers: 27059
+  Percentage of Gamers: 53%
+  Ratio: 1.36
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Shop
+- Achievement Name: Giant Killer
+  Description: Find and slaughter a Legion Giant
+  GS: '25'
+  Guide: false
+  Number of Gamers: 27552
+  Percentage of Gamers: 54%
+  Ratio: 1.35
+  TA: '33'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The Flames of Freya
+  Description: Buy flamepots and incinerate 10 Legion soldiers with them
+  GS: '20'
+  Guide: true
+  Number of Gamers: 20071
+  Percentage of Gamers: 40%
+  Ratio: 1.59
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Shop
+- Achievement Name: Thor's Mortal Lightning Rod
+  Description: Send a Legion back to the underworld in the most lightning-tastic way
+    imaginable
+  GS: '5'
+  Guide: true
+  Number of Gamers: 22857
+  Percentage of Gamers: 45%
+  Ratio: 1.49
+  TA: '7'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Odin's Doomsinger
+  Description: Use the ultimate fire attack to kill a Legion
+  GS: '5'
+  Guide: true
+  Number of Gamers: 23477
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '7'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Heimdall's Enforcer
+  Description: Glacially wipe out a Legion using the ultimate ice attack
+  GS: '5'
+  Guide: true
+  Number of Gamers: 23997
+  Percentage of Gamers: 47%
+  Ratio: 1.45
+  TA: '7'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Deadly Axe Juggler
+  Description: Kill 5 Legion just using Throwing axes
+  GS: '15'
+  Guide: true
+  Number of Gamers: 35772
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Euthanasia Euphoria
+  Description: Use your defensive bash to knock your Legion foes to their doom!
+  GS: '5'
+  Guide: true
+  Number of Gamers: 29716
+  Percentage of Gamers: 58%
+  Ratio: 1.3
+  TA: '6'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Friend Of The People
+  Description: Power-up over 500 Vikings in your armies with runic magic
+  GS: '10'
+  Guide: true
+  Number of Gamers: 27847
+  Percentage of Gamers: 55%
+  Ratio: 1.35
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Shop
+- Achievement Name: Assassin of Assassins
+  Description: Locate and kill a Legion Assassin
+  GS: '15'
+  Guide: false
+  Number of Gamers: 44561
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Blinded To Fear
+  Description: Kill 50 Legion without using a health potion
+  GS: '45'
+  Guide: true
+  Number of Gamers: 44871
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '47'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Viking Slaughterer
+  Description: Learn a total of 4 new moves
+  GS: '12'
+  Guide: true
+  Number of Gamers: 42453
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Viking Butcher
+  Description: Master the first new move at the Battle Arena
+  GS: '10'
+  Guide: true
+  Number of Gamers: 49286
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '10'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Viking Slayer
+  Description: Master a total of 8 new moves
+  GS: '14'
+  Guide: false
+  Number of Gamers: 33913
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Viking Warrior
+  Description: Master a total of 12 new moves
+  GS: '16'
+  Guide: true
+  Number of Gamers: 26461
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Viking Blademaster
+  Description: Learn all the moves in the game
+  GS: '18'
+  Guide: true
+  Number of Gamers: 21098
+  Percentage of Gamers: 42%
+  Ratio: 1.55
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Demon Hacker
+  Description: Finish off 25 Legion with fatality moves
+  GS: '5'
+  Guide: true
+  Number of Gamers: 48103
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Secretive Rogue
+  Description: Complete the quest to sneak into Darkwater
+  GS: '20'
+  Guide: true
+  Number of Gamers: 39855
+  Percentage of Gamers: 78%
+  Ratio: 1.12
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: The Perfect Killer
+  Description: Kill a Legion Champion without being hit
+  GS: '20'
+  Guide: true
+  Number of Gamers: 28618
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '26'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Killer of Champions
+  Description: Kill 10 Champions
+  GS: '5'
+  Guide: true
+  Number of Gamers: 30693
+  Percentage of Gamers: 60%
+  Ratio: 1.28
+  TA: '6'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Killer of Giants
+  Description: Kill 5 Giants
+  GS: '5'
+  Guide: true
+  Number of Gamers: 24993
+  Percentage of Gamers: 49%
+  Ratio: 1.42
+  TA: '7'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Hero Of Darkwater
+  Description: Lead your army to victory at the battle for Darkwater
+  GS: '10'
+  Guide: true
+  Number of Gamers: 39565
+  Percentage of Gamers: 78%
+  Ratio: 1.13
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Hero Of Holdenfort
+  Description: Lead your army to victory at the battle for Holdenfort
+  GS: '10'
+  Guide: true
+  Number of Gamers: 31817
+  Percentage of Gamers: 63%
+  Ratio: 1.26
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Hero Of Caldberg
+  Description: Lead your army to victory at the battle for Caldberg
+  GS: '10'
+  Guide: true
+  Number of Gamers: 27498
+  Percentage of Gamers: 54%
+  Ratio: 1.35
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Hero Of Thornvik
+  Description: Lead your army to victory at the battle for Thornvik
+  GS: '10'
+  Guide: false
+  Number of Gamers: 25189
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Hero Of Midgard
+  Description: Lead your army to victory at the final battle for all Midgard
+  GS: '20'
+  Guide: false
+  Number of Gamers: 21223
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: No Need For Immortality
+  Description: Lead your army to victory at Hel's Fortress without need for immortality
+  GS: '50'
+  Guide: true
+  Number of Gamers: 21223
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '77'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Thirst For Blood
+  Description: Kill 50 Legion soldiers
+  GS: '10'
+  Guide: true
+  Number of Gamers: 49111
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Lust For Blood
+  Description: Kill 100 Legion soldiers
+  GS: '20'
+  Guide: true
+  Number of Gamers: 45971
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Champion of Champions
+  Description: Find and defeat a Legion Champion
+  GS: '25'
+  Guide: false
+  Number of Gamers: 46578
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Berzerker
+  Description: Kill 200 Legion soldiers
+  GS: '35'
+  Guide: true
+  Number of Gamers: 43490
+  Percentage of Gamers: 86%
+  Ratio: 1.08
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Slaughter Master
+  Description: Kill 500 Legion soldiers
+  GS: '50'
+  Guide: false
+  Number of Gamers: 36684
+  Percentage of Gamers: 72%
+  Ratio: 1.17
+  TA: '58'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+Base Ratio: 1.396
+Base TA: 1396
+Delisted: true
+Developer: Creative Assembly
+Game Name: 'Viking: Battle For Asgard'
+Genres: Open World, Hack & Slash
+Install Size: 4980.0
+Number of Completions: 7985
+Number of Gamers: 50810
+Overall Completion Time:
+- 15.0
+- 20.0
+Overall GS: 1000
+Overall Ratio: 1.396
+Overall TA: 1396
+PDU: 0
+Percentage Completed: 15.72
+Publisher: SEGA
+Release Date: 25 March 2008
+Server Closure: false
+Site Rating: 3.35
+Update Achievements: []
+Walkthrough: false

@@ -1,15 +1,15 @@
 Add On Achievements: []
 Base Completion Time:
+- 11
 - 12
-- 13
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Librarian
   Description: Photograph each creature and bot in the compendium, at least once.
   GS: '80'
-  Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 25%
+  Guide: true
+  Number of Gamers: 3
+  Percentage of Gamers: 38%
   Ratio: 2.0
   TA: '160'
   Tags: []
@@ -17,8 +17,8 @@ Base Game Achievements:
   Description: Unlock all LIZARD entries in the compendium.
   GS: '80'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 38%
+  Number of Gamers: 4
+  Percentage of Gamers: 50%
   Ratio: 1.63
   TA: '130'
   Tags: []
@@ -34,7 +34,7 @@ Base Game Achievements:
 - Achievement Name: Hacker
   Description: Find all Ada decryption keys.
   GS: '80'
-  Guide: false
+  Guide: true
   Number of Gamers: 3
   Percentage of Gamers: 38%
   Ratio: 1.63
@@ -43,7 +43,7 @@ Base Game Achievements:
 - Achievement Name: Montage
   Description: Find all equipment upgrades.
   GS: '80'
-  Guide: false
+  Guide: true
   Number of Gamers: 5
   Percentage of Gamers: 62%
   Ratio: 1.26
@@ -211,19 +211,19 @@ Developer: Omni Systems
 Game Name: Bioframe Outpost
 Genres: Platformer, Metroidvania
 Install Size: 1011.0
-Number of Completions: 1
+Number of Completions: 2
 Number of Gamers: 8
 Overall Completion Time:
+- 11
 - 12
-- 13
 Overall GS: 1000
 Overall Ratio: 1.419
 Overall TA: 1419
 PDU: 0
-Percentage Completed: 12.5
+Percentage Completed: 25.0
 Publisher: Omni Systems
 Release Date: 07 November 2024
 Server Closure: false
-Site Rating: 3.0
+Site Rating: 3.25
 Update Achievements: []
 Walkthrough: false

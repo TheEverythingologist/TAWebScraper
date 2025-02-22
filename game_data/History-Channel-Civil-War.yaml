@@ -1,0 +1,616 @@
+Add On Achievements: []
+Base Completion Time:
+- 8.0
+- 10.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Private
+  Description: To earn this award you must kill 20 of your enemies.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 12517
+  Percentage of Gamers: 100%
+  Ratio: 1.0
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Sergeant
+  Description: To earn this award you must kill 50 of your enemies.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 11043
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Lieutenant
+  Description: To earn this award you must kill 100 of your enemies.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 9817
+  Percentage of Gamers: 78%
+  Ratio: 1.13
+  TA: '56'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Captain
+  Description: To earn this award you must kill 250 of your enemies.
+  GS: '75'
+  Guide: true
+  Number of Gamers: 8196
+  Percentage of Gamers: 65%
+  Ratio: 1.23
+  TA: '92'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Colonel
+  Description: To earn this award you must kill 500 of your enemies.
+  GS: '100'
+  Guide: true
+  Number of Gamers: 6416
+  Percentage of Gamers: 51%
+  Ratio: 1.39
+  TA: '139'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: General
+  Description: To earn this award you must kill 750 of your enemies.
+  GS: '125'
+  Guide: true
+  Number of Gamers: 3858
+  Percentage of Gamers: 31%
+  Ratio: 1.8
+  TA: '225'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Pistoleer
+  Description: To earn this award you must kill 100 of your enemies with your pistol.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 4125
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '87'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Buggy
+- Achievement Name: Knife Master
+  Description: To earn this award you must kill 75 of your enemies with your knife.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 5250
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '77'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Buggy
+- Achievement Name: Melee Hero
+  Description: To earn this award you must kill 50 of your enemies in close combat.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 8002
+  Percentage of Gamers: 64%
+  Ratio: 1.25
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Buggy
+- Achievement Name: War Survivor
+  Description: Complete the game on the Easy (or higher) difficulty setting.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5872
+  Percentage of Gamers: 47%
+  Ratio: 1.46
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
+  - Stackable
+- Achievement Name: War Veteran
+  Description: Complete the game on the Normal (or higher) difficulty setting.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2564
+  Percentage of Gamers: 20%
+  Ratio: 2.21
+  TA: '44'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: War Hero
+  Description: Complete the game on the Hard difficulty setting.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1679
+  Percentage of Gamers: 13%
+  Ratio: 2.73
+  TA: '82'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Journalist
+  Description: To earn this award you must find all secret photographs in the game.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 2423
+  Percentage of Gamers: 19%
+  Ratio: 2.27
+  TA: '91'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Bookworm
+  Description: To earn this award you must find all secret documents in the game.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 2434
+  Percentage of Gamers: 19%
+  Ratio: 2.27
+  TA: '90'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Fredericksburg - Soldier
+  Description: Complete the Fredericksburg mission.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 10767
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Fredericksburg - Sharpshooter
+  Description: Complete the Fredericksburg mission with an accuracy above 75%.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 6553
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '13'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Fredericksburg - Deadeye
+  Description: Complete the Fredericksburg mission with an accuracy above 95%.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 4009
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '26'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Gettysburg - Soldier
+  Description: Complete the Gettysburg mission.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 9276
+  Percentage of Gamers: 74%
+  Ratio: 1.16
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Gettysburg - Sharpshooter
+  Description: Complete the Gettysburg mission with an accuracy above 75%.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7492
+  Percentage of Gamers: 60%
+  Ratio: 1.29
+  TA: '12'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Gettysburg - Deadeye
+  Description: Complete the Fredericksburg mission with an accuracy above 95%.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3759
+  Percentage of Gamers: 30%
+  Ratio: 1.82
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Buggy
+- Achievement Name: Chattanooga - Soldier
+  Description: Complete the Chattanooga mission.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 8710
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '6'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Chattanooga - Sharpshooter
+  Description: Complete the Chattanooga mission with an accuracy above 75%.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 6772
+  Percentage of Gamers: 54%
+  Ratio: 1.36
+  TA: '13'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Chattanooga - Deadeye
+  Description: Complete the Fredericksburg mission with an accuracy above 95%.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3698
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Buggy
+- Achievement Name: Fort Fisher - Soldier
+  Description: Complete the Fort Fisher mission.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 8086
+  Percentage of Gamers: 64%
+  Ratio: 1.24
+  TA: '6'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Fort Fisher - Sharpshooter
+  Description: Complete the Fort Fisher mission with an accuracy above 75%.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5385
+  Percentage of Gamers: 43%
+  Ratio: 1.52
+  TA: '15'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Fort Fisher - Deadeye
+  Description: Complete the Fort Fisher mission with an accuracy above 95%.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3555
+  Percentage of Gamers: 28%
+  Ratio: 1.87
+  TA: '28'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Selma - Soldier
+  Description: Complete the Selma mission.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 7616
+  Percentage of Gamers: 61%
+  Ratio: 1.28
+  TA: '6'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Selma - Sharpshooter
+  Description: Complete the Selma mission with an accuracy above 75%.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5919
+  Percentage of Gamers: 47%
+  Ratio: 1.45
+  TA: '14'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Selma - Deadeye
+  Description: Complete the Selma mission with an accuracy above 95%.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3620
+  Percentage of Gamers: 29%
+  Ratio: 1.86
+  TA: '27'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Petersburg - Soldier
+  Description: Complete the Petersburg mission.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 5873
+  Percentage of Gamers: 47%
+  Ratio: 1.46
+  TA: '7'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Petersburg - Sharpshooter
+  Description: Complete the Petersburg mission with an accuracy above 75%.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4256
+  Percentage of Gamers: 34%
+  Ratio: 1.71
+  TA: '17'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Petersburg - Deadeye
+  Description: Complete the Petersburg mission with an accuracy above 95%.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3164
+  Percentage of Gamers: 25%
+  Ratio: 1.99
+  TA: '29'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Bull Run - Soldier
+  Description: Complete the Bull Run mission.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 7664
+  Percentage of Gamers: 61%
+  Ratio: 1.27
+  TA: '6'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Bull Run - Sharpshooter
+  Description: Complete the Bull Run mission with an accuracy above 75%.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5123
+  Percentage of Gamers: 41%
+  Ratio: 1.56
+  TA: '15'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Bull Run - Deadeye
+  Description: Complete the Bull Run mission with an accuracy above 95%.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3257
+  Percentage of Gamers: 26%
+  Ratio: 1.96
+  TA: '29'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Shiloh - Soldier
+  Description: Complete the Shiloh mission.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 7225
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '6'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Shiloh - Sharpshooter
+  Description: Complete the Shiloh mission with an accuracy above 75%.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 6100
+  Percentage of Gamers: 49%
+  Ratio: 1.43
+  TA: '14'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Shiloh - Deadeye
+  Description: Complete the Shiloh mission with an accuracy above 95%.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3828
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '27'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Antietam - Soldier
+  Description: Complete the Antietam mission.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 6789
+  Percentage of Gamers: 54%
+  Ratio: 1.35
+  TA: '6'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Antietam - Sharpshooter
+  Description: Complete the Antietam mission with an accuracy above 75%.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5190
+  Percentage of Gamers: 41%
+  Ratio: 1.55
+  TA: '15'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Antietam - Deadeye
+  Description: Complete the Antietam mission with an accuracy above 95%.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3111
+  Percentage of Gamers: 25%
+  Ratio: 2.0
+  TA: '30'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Chancellorsville - Soldier
+  Description: Complete the Chancellorsville mission.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 6387
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '7'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Chancellorsville - Sharpshooter
+  Description: Complete the Chancellorsville mission with an accuracy above 75%.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4827
+  Percentage of Gamers: 38%
+  Ratio: 1.61
+  TA: '16'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Chancellorsville - Deadeye
+  Description: Complete the Chancellorsville mission with an accuracy above 95%.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3218
+  Percentage of Gamers: 26%
+  Ratio: 1.97
+  TA: '29'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Chickamauga - Soldier
+  Description: Complete the Chickamauga mission.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 6220
+  Percentage of Gamers: 50%
+  Ratio: 1.42
+  TA: '7'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Chickamauga - Sharpshooter
+  Description: Complete the Chickamauga mission with an accuracy above 75%.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4531
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '16'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Chickamauga - Deadeye
+  Description: Complete the Chickamauga mission with an accuracy above 95%.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3216
+  Percentage of Gamers: 26%
+  Ratio: 1.97
+  TA: '29'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Cold Harbor - Soldier
+  Description: Complete the Cold Harbor mission.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 5999
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '7'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Cold Harbor - Sharpshooter
+  Description: Complete the Cold Harbor mission with an accuracy above 75%.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4720
+  Percentage of Gamers: 38%
+  Ratio: 1.63
+  TA: '16'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Cold Harbor - Deadeye
+  Description: Complete the Cold Harbor mission with an accuracy above 95%.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3375
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '28'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 1.64
+Base TA: 1640
+Delisted: false
+Developer: Cauldron
+Game Name: 'The History Channel: Civil War - A Nation Divided'
+Genres: First Person Shooter
+Install Size: null
+Number of Completions: 1383
+Number of Gamers: 12551
+Overall Completion Time:
+- 8.0
+- 10.0
+Overall GS: 1000
+Overall Ratio: 1.64
+Overall TA: 1640
+PDU: 0
+Percentage Completed: 11.02
+Publisher: Activision
+Release Date: 10 November 2006
+Server Closure: false
+Site Rating: 2.39
+Update Achievements: []
+Walkthrough: false

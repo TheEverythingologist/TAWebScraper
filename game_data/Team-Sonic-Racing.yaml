@@ -1,0 +1,685 @@
+Add On Achievements: []
+Base Completion Time:
+- 30.0
+- 35.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: You're Fired
+  Description: Cause an opponent to spin-out using a Red Burst.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 15287
+  Percentage of Gamers: 84%
+  Ratio: 1.08
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Quick Off The Mark
+  Description: Perform a maximum Start Line Boost.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 9070
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '14'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Let Me Introduce Myself
+  Description: Finish an online race.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5011
+  Percentage of Gamers: 28%
+  Ratio: 1.9
+  TA: '19'
+  Tags:
+  - Online Mode
+  - Cooperative
+  - Versus
+- Achievement Name: The Taunting Tanuki
+  Description: Complete Chapter 1 of Team Adventure Mode.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 10922
+  Percentage of Gamers: 60%
+  Ratio: 1.28
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Main Storyline
+- Achievement Name: Dimensional Rift
+  Description: Complete Chapter 2 of Team Adventure Mode.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 7811
+  Percentage of Gamers: 43%
+  Ratio: 1.52
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Dark Arrival
+  Description: Complete Chapter 3 of Team Adventure Mode.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 5494
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Cheaters Never Win
+  Description: Complete Chapter 4 of Team Adventure Mode.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 4505
+  Percentage of Gamers: 25%
+  Ratio: 2.0
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Between Zavok And A Hard Place
+  Description: Complete Chapter 5 of Team Adventure Mode.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 3798
+  Percentage of Gamers: 21%
+  Ratio: 2.18
+  TA: '32'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Kidnapped!
+  Description: Complete Chapter 6 of Team Adventure Mode.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2811
+  Percentage of Gamers: 15%
+  Ratio: 2.54
+  TA: '38'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: The Final Showdown
+  Description: Complete Chapter 7 of Team Adventure Mode.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 2665
+  Percentage of Gamers: 15%
+  Ratio: 2.61
+  TA: '130'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Roadside Assistance
+  Description: Perform a Skimboost on a slow-moving Teammate.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 17219
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Twinkle Twinkle
+  Description: Earn every star in Team Adventure Mode Chapter 1.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 2011
+  Percentage of Gamers: 11%
+  Ratio: 3.0
+  TA: '75'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Starry-eyed
+  Description: Earn every star in Team Adventure Mode Chapter 2.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 1221
+  Percentage of Gamers: 7%
+  Ratio: 3.86
+  TA: '96'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Reach For the Stars
+  Description: Earn every star in Team Adventure Mode Chapter 3.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 886
+  Percentage of Gamers: 5%
+  Ratio: 4.53
+  TA: '113'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Starlight, Star Bright
+  Description: Earn every star in Team Adventure Mode Chapter 4.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 945
+  Percentage of Gamers: 5%
+  Ratio: 4.38
+  TA: '109'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Star Power
+  Description: Earn every star in Team Adventure Mode Chapter 5.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 733
+  Percentage of Gamers: 4%
+  Ratio: 4.98
+  TA: '124'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Celestial
+  Description: Earn every star in Team Adventure Mode Chapter 6.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 719
+  Percentage of Gamers: 4%
+  Ratio: 5.03
+  TA: '125'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Supernova
+  Description: Earn every star in Team Adventure Mode Chapter 7.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 708
+  Percentage of Gamers: 4%
+  Ratio: 5.07
+  TA: '126'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Can You Feel The Sunshine?
+  Description: Earn every star in Team Adventure Mode.
+  GS: '100'
+  Guide: false
+  Number of Gamers: 675
+  Percentage of Gamers: 4%
+  Ratio: 5.19
+  TA: '519'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Cagophilist
+  Description: Collect all of the Team Adventure Mode Keys.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 593
+  Percentage of Gamers: 3%
+  Ratio: 5.54
+  TA: '277'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Go Hard Or Go Home
+  Description: Complete all possible events on hard in any Team Adventure Mode chapter.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 1422
+  Percentage of Gamers: 8%
+  Ratio: 3.57
+  TA: '89'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: Well, That Wasn't So Hard
+  Description: Complete all Team Adventure chapters on Hard difficulty.
+  GS: '75'
+  Guide: true
+  Number of Gamers: 570
+  Percentage of Gamers: 3%
+  Ratio: 5.65
+  TA: '423'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: A Friend In Speed Is A Friend Indeed
+  Description: Beat a friend's leaderboard time in Time Trial mode on any track.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 873
+  Percentage of Gamers: 5%
+  Ratio: 4.56
+  TA: '45'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Community
+- Achievement Name: Whoa! I'm Getting Dizzy!
+  Description: Perform a triple Stunt.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 10327
+  Percentage of Gamers: 57%
+  Ratio: 1.32
+  TA: '13'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Wisp You Were Here
+  Description: Gain 6 positions by using a single Yellow Drill.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2737
+  Percentage of Gamers: 15%
+  Ratio: 2.57
+  TA: '25'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: On The Skids
+  Description: Stay in a single Drift for over a minute.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1750
+  Percentage of Gamers: 10%
+  Ratio: 3.22
+  TA: '32'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Ringmaster
+  Description: Collect 20,000 Rings.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1598
+  Percentage of Gamers: 9%
+  Ratio: 3.37
+  TA: '33'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: So Far So Jaded
+  Description: Travel 200 meters over slow-down surfaces with a single use of a Jade
+    Ghost.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1163
+  Percentage of Gamers: 6%
+  Ratio: 3.95
+  TA: '39'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: A Prize Every Time
+  Description: Spend 5,000 Credits.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 937
+  Percentage of Gamers: 5%
+  Ratio: 4.4
+  TA: '66'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Shop
+- Achievement Name: Cyan Of The Times
+  Description: Spin out 2 racers with Cyan Laser.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4735
+  Percentage of Gamers: 26%
+  Ratio: 1.95
+  TA: '19'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Freezy Peasy
+  Description: Finish Frozen Junkyard without hitting any hazards or respawning.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 6244
+  Percentage of Gamers: 34%
+  Ratio: 1.7
+  TA: '25'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Performance Enhancing Mods
+  Description: Unlock all of the Performance Mods (Except Legendary Mods).
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1800
+  Percentage of Gamers: 10%
+  Ratio: 3.17
+  TA: '158'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Speed Painter
+  Description: Unlock all of the Vehicle Paint Kits.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 398
+  Percentage of Gamers: 2%
+  Ratio: 6.76
+  TA: '101'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: This Time It's Personal
+  Description: Modify a vehicle in the Garage.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 12142
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Buggy +
+- Achievement Name: Ad Ultimatum
+  Description: Perform a Team Ultimate 3 times in a single Race.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7057
+  Percentage of Gamers: 39%
+  Ratio: 1.6
+  TA: '16'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Slingshot Pro
+  Description: Perform 100 Team Slingshots. (Across all Game Modes).
+  GS: '20'
+  Guide: true
+  Number of Gamers: 7615
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '30'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Fire The Catapult!
+  Description: Perform 10 Team Slingshots in a single Race.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 11040
+  Percentage of Gamers: 61%
+  Ratio: 1.28
+  TA: '12'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: There Is No "I" In Team...
+  Description: Perform Team Item Transfer, Skimboost, Team Slingshot and Team Ultimate
+    in a single Race.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 13485
+  Percentage of Gamers: 74%
+  Ratio: 1.15
+  TA: '17'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: What's Mine Is Yours
+  Description: Send an Item Box to a Teammate 5 times during a Race.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 9528
+  Percentage of Gamers: 52%
+  Ratio: 1.37
+  TA: '20'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Target Practice
+  Description: Land a hit on enemy racers with each use of a x3 Orange Rocket.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 7074
+  Percentage of Gamers: 39%
+  Ratio: 1.6
+  TA: '32'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Threat Neutralized
+  Description: Use the White Boost to destroy a projectile.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 6756
+  Percentage of Gamers: 37%
+  Ratio: 1.63
+  TA: '16'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Cutting Corners
+  Description: Use the White Boost to avoid being slowed down by rough terrain.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 6716
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '16'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Violent Void
+  Description: Use the Violet Void to absorb a projectile and hit the racer who fired
+    it.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2226
+  Percentage of Gamers: 12%
+  Ratio: 2.85
+  TA: '28'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Road Block
+  Description: Block an incoming projectile with a Blue Cube.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 10455
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '13'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Thorn In Their Sides
+  Description: Cause 3 opponents to spin-out by shunting them with a Pink Spikes active.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4817
+  Percentage of Gamers: 27%
+  Ratio: 1.94
+  TA: '19'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Sonic Heroes
+  Description: Complete a Team Race with 2 additional local players on your Team.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1879
+  Percentage of Gamers: 10%
+  Ratio: 3.1
+  TA: '46'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Villainy 101
+  Description: While playing as Eggman, spin out Sonic 3 times in the same Race.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1107
+  Percentage of Gamers: 6%
+  Ratio: 4.05
+  TA: '60'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Artful Dodging
+  Description: Avoid every hazard created by a Gray Quake.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 9908
+  Percentage of Gamers: 55%
+  Ratio: 1.35
+  TA: '13'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: The Customizer Is Always Right
+  Description: Achieve 1st place in a race with a fully customized Vehicle.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3875
+  Percentage of Gamers: 21%
+  Ratio: 2.16
+  TA: '21'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Shockproof
+  Description: Avoid the effect of being hit by an Ivory Lightning.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5204
+  Percentage of Gamers: 29%
+  Ratio: 1.86
+  TA: '18'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: But There Is A Me...
+  Description: Come first in an online race.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3302
+  Percentage of Gamers: 18%
+  Ratio: 2.34
+  TA: '46'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+Base Ratio: 3.418
+Base TA: 3418
+Delisted: false
+Developer: Sumo Digital
+Game Name: Team Sonic Racing
+Genres: Arcade Racing, Automobile
+Install Size: 19670.0
+Number of Completions: 330
+Number of Gamers: 18154
+Overall Completion Time:
+- 30.0
+- 35.0
+Overall GS: 1000
+Overall Ratio: 3.418
+Overall TA: 3418
+PDU: 0
+Percentage Completed: 1.82
+Publisher: SEGA
+Release Date: 21 May 2019
+Server Closure: false
+Site Rating: 3.68
+Update Achievements: []
+Walkthrough: false

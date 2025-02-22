@@ -1,0 +1,625 @@
+Add On Achievements: []
+Base Completion Time:
+- 15.0
+- 20.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Gunner
+  Description: Save allied planes
+  GS: '20'
+  Guide: true
+  Number of Gamers: 19886
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Fergus saved
+  Description: Choose to save Fergus
+  GS: '30'
+  Guide: true
+  Number of Gamers: 14845
+  Percentage of Gamers: 72%
+  Ratio: 1.17
+  TA: '35'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Wyatt saved
+  Description: Choose to save Wyatt
+  GS: '30'
+  Guide: true
+  Number of Gamers: 10929
+  Percentage of Gamers: 53%
+  Ratio: 1.36
+  TA: '41'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Vive la resistance!
+  Description: Locate the resistance
+  GS: '20'
+  Guide: true
+  Number of Gamers: 16246
+  Percentage of Gamers: 79%
+  Ratio: 1.12
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Power to the laser
+  Description: Find the Laserkraftwerk
+  GS: '30'
+  Guide: true
+  Number of Gamers: 14992
+  Percentage of Gamers: 73%
+  Ratio: 1.16
+  TA: '35'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Hidden in the deep
+  Description: Locate the underwater stash
+  GS: '20'
+  Guide: true
+  Number of Gamers: 13123
+  Percentage of Gamers: 64%
+  Ratio: 1.24
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: London uprising
+  Description: Defeat the London Monitor
+  GS: '20'
+  Guide: true
+  Number of Gamers: 11940
+  Percentage of Gamers: 58%
+  Ratio: 1.3
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Deliverance
+  Description: Release friend
+  GS: '30'
+  Guide: true
+  Number of Gamers: 11577
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '39'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Liberation
+  Description: Complete game on any difficulty
+  GS: '100'
+  Guide: true
+  Number of Gamers: 11031
+  Percentage of Gamers: 54%
+  Ratio: 1.36
+  TA: '136'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
+  - Stackable
+- Achievement Name: Super hero
+  Description: "Complete game on I AM DEATH INCARNATE! (or \xDCBER)"
+  GS: '50'
+  Guide: true
+  Number of Gamers: 4570
+  Percentage of Gamers: 22%
+  Ratio: 2.11
+  TA: '105'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: "\xDCber hero"
+  Description: "Complete game on \xDCBER"
+  GS: '50'
+  Guide: true
+  Number of Gamers: 3926
+  Percentage of Gamers: 19%
+  Ratio: 2.28
+  TA: '114'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: All that glitters
+  Description: Collect 25 gold items
+  GS: '20'
+  Guide: false
+  Number of Gamers: 6591
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '35'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Heart of gold
+  Description: Collect all gold items
+  GS: '30'
+  Guide: true
+  Number of Gamers: 3928
+  Percentage of Gamers: 19%
+  Ratio: 2.28
+  TA: '68'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: The lives of others
+  Description: Collect all letters
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4067
+  Percentage of Gamers: 20%
+  Ratio: 2.24
+  TA: '67'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Secrets revealed I
+  Description: Solve the first Enigma code
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4756
+  Percentage of Gamers: 23%
+  Ratio: 2.07
+  TA: '62'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Secrets revealed II
+  Description: Solve the second Enigma code
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4200
+  Percentage of Gamers: 20%
+  Ratio: 2.2
+  TA: '66'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Secrets revealed III
+  Description: Solve the third Enigma code
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4048
+  Percentage of Gamers: 20%
+  Ratio: 2.25
+  TA: '67'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Secrets revealed IV
+  Description: Solve the fourth Enigma code
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4009
+  Percentage of Gamers: 20%
+  Ratio: 2.26
+  TA: '67'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Scout I
+  Description: Unlock stealth perk 1
+  GS: '10'
+  Guide: true
+  Number of Gamers: 19146
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '10'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Knife throwing
+  Description: Unlock stealth perk 2
+  GS: '10'
+  Guide: true
+  Number of Gamers: 17777
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Knife sheath +
+  Description: Unlock stealth perk 3
+  GS: '10'
+  Guide: false
+  Number of Gamers: 11191
+  Percentage of Gamers: 55%
+  Ratio: 1.35
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Knife sheath ++
+  Description: Unlock stealth perk 4
+  GS: '10'
+  Guide: true
+  Number of Gamers: 6335
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Silent shot
+  Description: Unlock stealth perk 5
+  GS: '10'
+  Guide: false
+  Number of Gamers: 12038
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Vampire
+  Description: Unlock stealth perk 6
+  GS: '10'
+  Guide: true
+  Number of Gamers: 6541
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Scout II
+  Description: Unlock stealth perk 7
+  GS: '10'
+  Guide: true
+  Number of Gamers: 15604
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Assassin
+  Description: Unlock stealth perk 8
+  GS: '30'
+  Guide: true
+  Number of Gamers: 9734
+  Percentage of Gamers: 47%
+  Ratio: 1.45
+  TA: '43'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Deadeye
+  Description: Unlock tactical perk 1
+  GS: '10'
+  Guide: true
+  Number of Gamers: 16694
+  Percentage of Gamers: 81%
+  Ratio: 1.1
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Quick draw
+  Description: Unlock tactical perk 2
+  GS: '10'
+  Guide: true
+  Number of Gamers: 14865
+  Percentage of Gamers: 72%
+  Ratio: 1.17
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Quick regeneration
+  Description: Unlock tactical perk 3
+  GS: '10'
+  Guide: true
+  Number of Gamers: 14512
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '11'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Gun magazine +
+  Description: Unlock tactical perk 4
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7425
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Shotgun magazine +
+  Description: Unlock tactical perk 5
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5805
+  Percentage of Gamers: 28%
+  Ratio: 1.87
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: AR magazine +
+  Description: Unlock tactical perk 6
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5483
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Marksman magazine +
+  Description: Unlock tactical perk 7
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5111
+  Percentage of Gamers: 25%
+  Ratio: 2.0
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Quick reload
+  Description: Unlock tactical perk 8
+  GS: '30'
+  Guide: false
+  Number of Gamers: 10514
+  Percentage of Gamers: 51%
+  Ratio: 1.39
+  TA: '41'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Double reload
+  Description: Unlock assault perk 1
+  GS: '10'
+  Guide: true
+  Number of Gamers: 17790
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Endurance I
+  Description: Unlock assault perk 2
+  GS: '10'
+  Guide: true
+  Number of Gamers: 8336
+  Percentage of Gamers: 41%
+  Ratio: 1.56
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Scavenger
+  Description: Unlock assault perk 3
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7042
+  Percentage of Gamers: 34%
+  Ratio: 1.7
+  TA: '17'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Bullet feeder
+  Description: Unlock assault perk 4
+  GS: '10'
+  Guide: true
+  Number of Gamers: 12112
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Endurance II
+  Description: Unlock assault perk 5
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5768
+  Percentage of Gamers: 28%
+  Ratio: 1.88
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: Autopanzer
+  Description: Unlock assault perk 6
+  GS: '10'
+  Guide: true
+  Number of Gamers: 11350
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '13'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: LKW battery +
+  Description: Unlock assault perk 7
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5114
+  Percentage of Gamers: 25%
+  Ratio: 2.0
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Dual-wield expert
+  Description: Unlock assault perk 8
+  GS: '30'
+  Guide: true
+  Number of Gamers: 9165
+  Percentage of Gamers: 45%
+  Ratio: 1.49
+  TA: '44'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Throwback
+  Description: Unlock demolition perk 1
+  GS: '10'
+  Guide: true
+  Number of Gamers: 16813
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '11'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Grenade pouch +
+  Description: Unlock demolition perk 2
+  GS: '10'
+  Guide: true
+  Number of Gamers: 11675
+  Percentage of Gamers: 57%
+  Ratio: 1.32
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Grenade pouch ++
+  Description: Unlock demolition perk 3
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7273
+  Percentage of Gamers: 35%
+  Ratio: 1.67
+  TA: '16'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Bullseye
+  Description: Unlock demolition perk 4
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4025
+  Percentage of Gamers: 20%
+  Ratio: 2.25
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Rocket magazine +
+  Description: Unlock demolition perk 5
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3751
+  Percentage of Gamers: 18%
+  Ratio: 2.33
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: Vaporize
+  Description: Unlock demolition perk 6
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4822
+  Percentage of Gamers: 24%
+  Ratio: 2.06
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Sentinel
+  Description: Unlock demolition perk 7
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3719
+  Percentage of Gamers: 18%
+  Ratio: 2.34
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Hardened
+  Description: Unlock demolition perk 8
+  GS: '30'
+  Guide: true
+  Number of Gamers: 7854
+  Percentage of Gamers: 38%
+  Ratio: 1.61
+  TA: '48'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+Base Ratio: 1.636
+Base TA: 1636
+Delisted: false
+Developer: MachineGames
+Game Name: 'Wolfenstein: The New Order (Xbox 360)'
+Genres: First Person Shooter, Stealth
+Install Size: null
+Number of Completions: 2929
+Number of Gamers: 20510
+Overall Completion Time:
+- 15.0
+- 20.0
+Overall GS: 1000
+Overall Ratio: 1.636
+Overall TA: 1636
+PDU: 0
+Percentage Completed: 14.28
+Publisher: Bethesda Softworks
+Release Date: 20 May 2014
+Server Closure: false
+Site Rating: 4.3
+Update Achievements: []
+Walkthrough: false

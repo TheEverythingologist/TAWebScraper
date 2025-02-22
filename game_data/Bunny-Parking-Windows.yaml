@@ -1,0 +1,952 @@
+Add On Achievements: []
+Base Completion Time:
+- 2.0
+- 4.5
+Base GS: 5000
+Base Game Achievements:
+- Achievement Name: First small step
+  Description: Complete day 1 on easy difficulty
+  GS: '5'
+  Guide: false
+  Number of Gamers: 1177
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '5'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+- Achievement Name: First big step
+  Description: Complete day 1 on normal difficulty
+  GS: '55'
+  Guide: false
+  Number of Gamers: 1085
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '58'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+- Achievement Name: First greatest step
+  Description: Complete day 1 on hard difficulty
+  GS: '95'
+  Guide: false
+  Number of Gamers: 1050
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '101'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+- Achievement Name: Beginner
+  Description: Successfully kick 10 different cars
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1174
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '5'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Good progress!
+  Description: Successfully kick 50 different cars
+  GS: '70'
+  Guide: false
+  Number of Gamers: 1121
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '72'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Great kicker!
+  Description: Successfully kick 100 different cars
+  GS: '200'
+  Guide: false
+  Number of Gamers: 1089
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '210'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Buggy
+- Achievement Name: Buffed
+  Description: Be buffed
+  GS: '30'
+  Guide: false
+  Number of Gamers: 1121
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '31'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: All buffs
+  Description: Get all buffs during one game session
+  GS: '70'
+  Guide: false
+  Number of Gamers: 1051
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '75'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Water trip
+  Description: Ride a boat
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1113
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Car trip
+  Description: Ride a car
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1187
+  Percentage of Gamers: 98%
+  Ratio: 1.0
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Trampoline Champion
+  Description: Make jumps from one trampoline to another 3 times without touching
+    the ground
+  GS: '50'
+  Guide: false
+  Number of Gamers: 1125
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '51'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: 'Carrot Vandal # 1'
+  Description: Destroy 50 carrots
+  GS: '75'
+  Guide: true
+  Number of Gamers: 1111
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '78'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: 'Carrot Vandal # 2'
+  Description: Destroy 25 carrots
+  GS: '35'
+  Guide: true
+  Number of Gamers: 1139
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '36'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: 'Carrot Vandal # 3'
+  Description: Destroy 10 carrots
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1154
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '20'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Chickens Hater
+  Description: Kick chickens 25 times
+  GS: '55'
+  Guide: true
+  Number of Gamers: 1141
+  Percentage of Gamers: 94%
+  Ratio: 1.02
+  TA: '56'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: The Master
+  Description: Summon Kappa
+  GS: '25'
+  Guide: true
+  Number of Gamers: 1130
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '25'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Kappa Kappa Kappa
+  Description: Become the owner of 3 Kappas simultaneously
+  GS: '55'
+  Guide: true
+  Number of Gamers: 1112
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '57'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Goalkicker
+  Description: Kick 20 football goals
+  GS: '75'
+  Guide: true
+  Number of Gamers: 1126
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '77'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: All is well!
+  Description: Activate the well
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1128
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '51'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Colorful
+  Description: Change the color of the bunny
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1139
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+Base Ratio: 1.104
+Base TA: 5520
+Delisted: false
+Developer: DillyFrameGames
+Game Name: Bunny Parking (Windows)
+Genres: Puzzle
+Install Size: 888.0
+Number of Completions: 747
+Number of Gamers: 1210
+Overall Completion Time:
+- 2.0
+- 4.5
+Overall GS: 5000
+Overall Ratio: 1.104
+Overall TA: 5520
+PDU: 0
+Percentage Completed: 61.74
+Publisher: DillyFrameGames
+Release Date: 15 April 2022
+Server Closure: false
+Site Rating: 2.38
+Update Achievements:
+- Achievement Name: Second small step
+  Description: Complete day 5 on easy difficulty
+  GS: '110'
+  Guide: true
+  Number of Gamers: 1114
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '114'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Main Storyline
+  - Difficulty Specific
+- Achievement Name: Second big step
+  Description: Complete day 5 on normal difficulty
+  GS: '160'
+  Guide: true
+  Number of Gamers: 1014
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '174'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Main Storyline
+  - Difficulty Specific
+- Achievement Name: Second greatest step
+  Description: Complete day 5 on hard difficulty
+  GS: '200'
+  Guide: true
+  Number of Gamers: 978
+  Percentage of Gamers: 81%
+  Ratio: 1.11
+  TA: '222'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Main Storyline
+  - Difficulty Specific
+- Achievement Name: 'Garbage collector #3'
+  Description: Collect 10 wheels
+  GS: '70'
+  Guide: true
+  Number of Gamers: 1114
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '72'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: 'Garbage collector #2'
+  Description: Collect 15 wheels
+  GS: '110'
+  Guide: true
+  Number of Gamers: 1107
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '114'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: 'Garbage collector #1'
+  Description: Collect 20 wheels
+  GS: '160'
+  Guide: true
+  Number of Gamers: 1098
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '167'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Make me chicken!
+  Description: Make me chicken!
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1142
+  Percentage of Gamers: 94%
+  Ratio: 1.02
+  TA: '20'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Punishment
+  Description: Be kicked by a gardener
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1174
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '30'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Top Dance
+  Description: Dance on the top of the food
+  GS: '110'
+  Guide: true
+  Number of Gamers: 1072
+  Percentage of Gamers: 89%
+  Ratio: 1.06
+  TA: '116'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Portal
+  Description: Kick the portal
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1141
+  Percentage of Gamers: 94%
+  Ratio: 1.02
+  TA: '30'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: 5 tickets
+  Description: Accumulate 5 parking tickets
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1153
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '51'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative
+- Achievement Name: 15 tickets
+  Description: Accumulate 15 parking tickets
+  GS: '100'
+  Guide: false
+  Number of Gamers: 1123
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '103'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative
+- Achievement Name: 30 tickets
+  Description: Accumulate 30 parking tickets
+  GS: '150'
+  Guide: false
+  Number of Gamers: 1085
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '158'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative
+- Achievement Name: 50 tickets
+  Description: Accumulate 50 parking tickets
+  GS: '170'
+  Guide: true
+  Number of Gamers: 1046
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '182'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative
+- Achievement Name: 100 tickets
+  Description: Accumulate 100 parking tickets
+  GS: '200'
+  Guide: true
+  Number of Gamers: 1019
+  Percentage of Gamers: 84%
+  Ratio: 1.08
+  TA: '217'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative
+- Achievement Name: Fashion 1
+  Description: Buy any item for 1 ticket
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1093
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '31'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Shop
+- Achievement Name: Fashion 2
+  Description: Buy any item for 3 tickets
+  GS: '60'
+  Guide: true
+  Number of Gamers: 1062
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '64'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Shop
+- Achievement Name: Fashion 3
+  Description: Buy any item for 6 tickets
+  GS: '90'
+  Guide: true
+  Number of Gamers: 1070
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '95'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Shop
+- Achievement Name: Fashion 4
+  Description: Buy any item for 10 tickets
+  GS: '100'
+  Guide: true
+  Number of Gamers: 1052
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '107'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Shop
+- Achievement Name: Almost naked
+  Description: Become almost naked
+  GS: '25'
+  Guide: true
+  Number of Gamers: 1056
+  Percentage of Gamers: 87%
+  Ratio: 1.06
+  TA: '26'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Shop
+- Achievement Name: Cheater
+  Description: Visit carrot field while being a gardener
+  GS: '25'
+  Guide: true
+  Number of Gamers: 1052
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '26'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Buggy +
+- Achievement Name: Lion's kick
+  Description: Be kicked by a lion
+  GS: '50'
+  Guide: true
+  Number of Gamers: 957
+  Percentage of Gamers: 79%
+  Ratio: 1.12
+  TA: '56'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Lion's kick 5
+  Description: Be kicked by a lion 5 times
+  GS: '70'
+  Guide: false
+  Number of Gamers: 953
+  Percentage of Gamers: 79%
+  Ratio: 1.12
+  TA: '78'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Lion's kick 10
+  Description: Be kicked by a lion 10 times
+  GS: '80'
+  Guide: true
+  Number of Gamers: 951
+  Percentage of Gamers: 79%
+  Ratio: 1.12
+  TA: '90'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Flags collector
+  Description: Collect 10 flags from crashed boats
+  GS: '100'
+  Guide: false
+  Number of Gamers: 941
+  Percentage of Gamers: 78%
+  Ratio: 1.13
+  TA: '113'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Keep order
+  Description: Return 5 beach balls to the place into the lion's house
+  GS: '100'
+  Guide: true
+  Number of Gamers: 939
+  Percentage of Gamers: 78%
+  Ratio: 1.13
+  TA: '113'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: 150 tickets
+  Description: Accumulate 150 parking tickets
+  GS: '200'
+  Guide: true
+  Number of Gamers: 906
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '231'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative
+- Achievement Name: 200 tickets
+  Description: Accumulate 200 parking tickets
+  GS: '200'
+  Guide: true
+  Number of Gamers: 895
+  Percentage of Gamers: 74%
+  Ratio: 1.16
+  TA: '232'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative
+- Achievement Name: Summer Vacation
+  Description: Complete all summer vacation days 200
+  GS: '200'
+  Guide: true
+  Number of Gamers: 925
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '228'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Main Storyline
+  - Buggy +
+- Achievement Name: Winter day 1
+  Description: Complete winter day 1
+  GS: '5'
+  Guide: false
+  Number of Gamers: 824
+  Percentage of Gamers: 68%
+  Ratio: 1.21
+  TA: '6'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Main Storyline
+- Achievement Name: Winter day 2
+  Description: Complete winter day 2
+  GS: '10'
+  Guide: false
+  Number of Gamers: 816
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '12'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Main Storyline
+- Achievement Name: Winter day 3
+  Description: Complete winter day 3
+  GS: '30'
+  Guide: false
+  Number of Gamers: 811
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '36'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Main Storyline
+- Achievement Name: Winter day 4
+  Description: Complete winter day 4
+  GS: '40'
+  Guide: false
+  Number of Gamers: 807
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '49'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Main Storyline
+- Achievement Name: Winter day 5
+  Description: Complete winter day 5
+  GS: '50'
+  Guide: false
+  Number of Gamers: 806
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '61'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Main Storyline
+- Achievement Name: Winter day 6
+  Description: Complete winter day 6
+  GS: '60'
+  Guide: false
+  Number of Gamers: 804
+  Percentage of Gamers: 66%
+  Ratio: 1.22
+  TA: '73'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Main Storyline
+- Achievement Name: Winter day 7
+  Description: Complete winter day 7
+  GS: '70'
+  Guide: false
+  Number of Gamers: 802
+  Percentage of Gamers: 66%
+  Ratio: 1.23
+  TA: '86'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Main Storyline
+- Achievement Name: Winter day 8
+  Description: Complete winter day 8
+  GS: '80'
+  Guide: false
+  Number of Gamers: 801
+  Percentage of Gamers: 66%
+  Ratio: 1.23
+  TA: '98'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Main Storyline
+- Achievement Name: Winter day 9
+  Description: Complete winter day 9
+  GS: '90'
+  Guide: false
+  Number of Gamers: 800
+  Percentage of Gamers: 66%
+  Ratio: 1.23
+  TA: '110'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Main Storyline
+- Achievement Name: Happy winter!
+  Description: Complete all winter days
+  GS: '100'
+  Guide: true
+  Number of Gamers: 787
+  Percentage of Gamers: 65%
+  Ratio: 1.24
+  TA: '124'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Main Storyline
+- Achievement Name: Mad penguin
+  Description: Be kicked by a penguin
+  GS: '5'
+  Guide: true
+  Number of Gamers: 816
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '6'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Mad bunny
+  Description: Kick penguins 10 times
+  GS: '10'
+  Guide: false
+  Number of Gamers: 805
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '12'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Penguins mad at chickens
+  Description: Closely watch a penguin screaming at a chicken
+  GS: '10'
+  Guide: true
+  Number of Gamers: 804
+  Percentage of Gamers: 66%
+  Ratio: 1.22
+  TA: '12'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Sliding is fun!
+  Description: Slide down the slide
+  GS: '5'
+  Guide: true
+  Number of Gamers: 815
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '6'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+- Achievement Name: Summer day 1
+  Description: Complete summer day 1
+  GS: '5'
+  Guide: false
+  Number of Gamers: 814
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '6'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Main Storyline
+- Achievement Name: Summer day 2
+  Description: Complete summer day 2
+  GS: '10'
+  Guide: false
+  Number of Gamers: 811
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '12'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Main Storyline
+- Achievement Name: Summer day 3
+  Description: Complete summer day 3
+  GS: '30'
+  Guide: false
+  Number of Gamers: 810
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '36'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Main Storyline
+- Achievement Name: Summer day 4
+  Description: Complete summer day 4
+  GS: '40'
+  Guide: false
+  Number of Gamers: 806
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '49'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Main Storyline
+- Achievement Name: Summer day 5
+  Description: Complete summer day 5
+  GS: '50'
+  Guide: false
+  Number of Gamers: 806
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '61'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Main Storyline
+- Achievement Name: Summer day 6
+  Description: Complete summer day 6
+  GS: '60'
+  Guide: false
+  Number of Gamers: 805
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '73'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Main Storyline
+- Achievement Name: Summer day 7
+  Description: Complete summer day 7
+  GS: '70'
+  Guide: false
+  Number of Gamers: 804
+  Percentage of Gamers: 66%
+  Ratio: 1.23
+  TA: '86'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Main Storyline
+- Achievement Name: Summer day 8
+  Description: Complete summer day 8
+  GS: '80'
+  Guide: false
+  Number of Gamers: 803
+  Percentage of Gamers: 66%
+  Ratio: 1.23
+  TA: '98'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Main Storyline
+- Achievement Name: Summer day 9
+  Description: Complete summer day 9
+  GS: '90'
+  Guide: false
+  Number of Gamers: 803
+  Percentage of Gamers: 66%
+  Ratio: 1.23
+  TA: '110'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Versus
+  - Main Storyline
+Walkthrough: false

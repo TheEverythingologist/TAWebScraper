@@ -1,0 +1,342 @@
+Add On Achievements: []
+Base Completion Time:
+- 0.0
+- 1.0
+Base GS: 2000
+Base Game Achievements:
+- Achievement Name: Slime Slayer
+  Description: Kill a blue slime
+  GS: '20'
+  Guide: false
+  Number of Gamers: 400
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Green Goo Vanquisher
+  Description: Kill a green slime
+  GS: '20'
+  Guide: false
+  Number of Gamers: 399
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Red Rage Conqueror
+  Description: Kill a red slime
+  GS: '20'
+  Guide: false
+  Number of Gamers: 399
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Ammo Hoarder
+  Description: Recover your ammo 3 times
+  GS: '20'
+  Guide: false
+  Number of Gamers: 399
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Pocket Change
+  Description: reach 10 coins
+  GS: '20'
+  Guide: false
+  Number of Gamers: 400
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Coin Collector
+  Description: reach 15 coins
+  GS: '20'
+  Guide: false
+  Number of Gamers: 400
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: First Aid
+  Description: recover 1 points of life
+  GS: '40'
+  Guide: false
+  Number of Gamers: 399
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '40'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Medic Master
+  Description: recover 5 points of life
+  GS: '40'
+  Guide: false
+  Number of Gamers: 399
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '40'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Locked and Loaded
+  Description: Refil your bullets in main menu
+  GS: '40'
+  Guide: true
+  Number of Gamers: 381
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '41'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Shopper
+  Description: Buy one item on the market
+  GS: '40'
+  Guide: false
+  Number of Gamers: 396
+  Percentage of Gamers: 98%
+  Ratio: 1.0
+  TA: '40'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Big Spender
+  Description: Buy the most expensive turret
+  GS: '40'
+  Guide: true
+  Number of Gamers: 353
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Rookie Raider
+  Description: Finish the tutorial
+  GS: '40'
+  Guide: false
+  Number of Gamers: 384
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '40'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Fortified
+  Description: Construct 1 turrets in one stage
+  GS: '40'
+  Guide: false
+  Number of Gamers: 399
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '40'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Last Stand
+  Description: Let the turret finish the last slime
+  GS: '40'
+  Guide: false
+  Number of Gamers: 397
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '40'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Box Buster
+  Description: Destroy all the boxes in the wave
+  GS: '70'
+  Guide: false
+  Number of Gamers: 398
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '70'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Untouchable
+  Description: Finish a wave without take damage
+  GS: '70'
+  Guide: false
+  Number of Gamers: 395
+  Percentage of Gamers: 98%
+  Ratio: 1.0
+  TA: '70'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Fortress Builder
+  Description: Construct 2 turrets in one stage
+  GS: '70'
+  Guide: false
+  Number of Gamers: 399
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '70'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Arsenal King
+  Description: Buy the most expensive weapon
+  GS: '70'
+  Guide: true
+  Number of Gamers: 368
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '73'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Solo Warrior
+  Description: Finish the wave without buy turrets
+  GS: '70'
+  Guide: false
+  Number of Gamers: 377
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '72'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Stage Conqueror I
+  Description: Complete stage 1
+  GS: '70'
+  Guide: false
+  Number of Gamers: 394
+  Percentage of Gamers: 98%
+  Ratio: 1.01
+  TA: '70'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Stage Conqueror II
+  Description: Complete stage 2
+  GS: '70'
+  Guide: false
+  Number of Gamers: 381
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '71'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Stage Conqueror III
+  Description: Complete stage 3
+  GS: '70'
+  Guide: false
+  Number of Gamers: 362
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '73'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+Base Ratio: 1.0095
+Base TA: 2019
+Delisted: false
+Developer: DuDeeki Studio
+Game Name: Beyond Border (Windows)
+Genres: Shoot 'em up, Tower Defence
+Install Size: 90.0
+Number of Completions: 350
+Number of Gamers: 403
+Overall Completion Time:
+- 0.0
+- 1.0
+Overall GS: 2000
+Overall Ratio: 1.0095
+Overall TA: 2019
+PDU: 0
+Percentage Completed: 86.85
+Publisher: AFIL Games
+Release Date: 16 October 2024
+Server Closure: false
+Site Rating: 2.11
+Update Achievements:
+- Achievement Name: Coin Hoarder
+  Description: Reach 20 coins
+  GS: '200'
+  Guide: false
+  Number of Gamers: 400
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '200'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Wealth Seeker
+  Description: Reach 25 coins
+  GS: '200'
+  Guide: false
+  Number of Gamers: 400
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '200'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Life Saver
+  Description: Recover 10 points of life
+  GS: '200'
+  Guide: false
+  Number of Gamers: 389
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '203'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Health Champion
+  Description: Recover 15 points of life
+  GS: '200'
+  Guide: false
+  Number of Gamers: 385
+  Percentage of Gamers: 96%
+  Ratio: 1.02
+  TA: '204'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Master Architect
+  Description: Construct 3 turrets in one stage
+  GS: '200'
+  Guide: false
+  Number of Gamers: 399
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '200'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Walkthrough: false

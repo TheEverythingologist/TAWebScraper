@@ -1,0 +1,414 @@
+Add On Achievements: []
+Base Completion Time:
+- 40.0
+- 50.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: The wheels start turning
+  Description: Finish the first training session
+  GS: '15'
+  Guide: true
+  Number of Gamers: 523
+  Percentage of Gamers: 86%
+  Ratio: 1.08
+  TA: '16'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Ready!
+  Description: Finish all training sessions
+  GS: '15'
+  Guide: true
+  Number of Gamers: 378
+  Percentage of Gamers: 62%
+  Ratio: 1.27
+  TA: '19'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Cautious
+  Description: Beat a bronze time in Challenge mode
+  GS: '15'
+  Guide: true
+  Number of Gamers: 351
+  Percentage of Gamers: 57%
+  Ratio: 1.31
+  TA: '19'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Dare-devil
+  Description: Beat a silver time in Challenge mode
+  GS: '15'
+  Guide: false
+  Number of Gamers: 337
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Hothead
+  Description: Beat a gold time in Challenge mode
+  GS: '30'
+  Guide: true
+  Number of Gamers: 246
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '47'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: Flashed
+  Description: Reach 100km / h in Challenge mode
+  GS: '15'
+  Guide: true
+  Number of Gamers: 55
+  Percentage of Gamers: 9%
+  Ratio: 3.33
+  TA: '49'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: At the top
+  Description: Unlock all descents in Challenge mode
+  GS: '90'
+  Guide: true
+  Number of Gamers: 165
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '173'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Manager
+  Description: Create a Pro Team
+  GS: '15'
+  Guide: false
+  Number of Gamers: 431
+  Percentage of Gamers: 71%
+  Ratio: 1.19
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Sponsoring
+  Description: Unlock a sponsor
+  GS: '15'
+  Guide: false
+  Number of Gamers: 219
+  Percentage of Gamers: 36%
+  Ratio: 1.67
+  TA: '25'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Agent
+  Description: Unlock all sponsors
+  GS: '90'
+  Guide: false
+  Number of Gamers: 93
+  Percentage of Gamers: 15%
+  Ratio: 2.57
+  TA: '231'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Antechamber
+  Description: "Take part in the Crit\xE9rium du Dauphin\xE9 in Pro Team"
+  GS: '15'
+  Guide: false
+  Number of Gamers: 312
+  Percentage of Gamers: 51%
+  Ratio: 1.39
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Tom Thumb
+  Description: Take part in the Tour de France in Pro Team
+  GS: '30'
+  Guide: false
+  Number of Gamers: 180
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '55'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Legendary
+  Description: Win the Tour de France in Pro Team (minimum difficulty = "Professional")
+  GS: '90'
+  Guide: false
+  Number of Gamers: 81
+  Percentage of Gamers: 13%
+  Ratio: 2.76
+  TA: '248'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Prud'homme
+  Description: Create a race in My Tour
+  GS: '15'
+  Guide: false
+  Number of Gamers: 321
+  Percentage of Gamers: 53%
+  Ratio: 1.37
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Mission accomplished!
+  Description: Achieve a team mission
+  GS: '30'
+  Guide: false
+  Number of Gamers: 199
+  Percentage of Gamers: 33%
+  Ratio: 1.75
+  TA: '52'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "Crit\xE9rium"
+  Description: "Win the Crit\xE9rium International in Tour mode (minimum difficulty\
+    \ = \"Professional\")"
+  GS: '30'
+  Guide: false
+  Number of Gamers: 111
+  Percentage of Gamers: 18%
+  Ratio: 2.34
+  TA: '70'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: "Dauphin\xE9"
+  Description: "Win the Crit\xE9rium du Dauphin\xE9 in Tour mode (minimum difficulty\
+    \ = \"Professional\")"
+  GS: '30'
+  Guide: false
+  Number of Gamers: 72
+  Percentage of Gamers: 12%
+  Ratio: 2.91
+  TA: '87'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Into legend
+  Description: Win the Tour de France 2016 in Tour mode ("Champion" difficulty)
+  GS: '90'
+  Guide: false
+  Number of Gamers: 62
+  Percentage of Gamers: 10%
+  Ratio: 3.13
+  TA: '282'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Attack!
+  Description: Attack during a stage
+  GS: '15'
+  Guide: false
+  Number of Gamers: 538
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '15'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Pacesetter
+  Description: Relay at the front of the peloton
+  GS: '15'
+  Guide: false
+  Number of Gamers: 545
+  Percentage of Gamers: 89%
+  Ratio: 1.05
+  TA: '15'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Poser
+  Description: Breakaway for, at least, 10 kilometres
+  GS: '15'
+  Guide: false
+  Number of Gamers: 489
+  Percentage of Gamers: 80%
+  Ratio: 1.11
+  TA: '16'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Leader
+  Description: Give an instruction to a team member
+  GS: '15'
+  Guide: false
+  Number of Gamers: 472
+  Percentage of Gamers: 77%
+  Ratio: 1.13
+  TA: '17'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Tactician
+  Description: Give a group instruction to team members
+  GS: '20'
+  Guide: false
+  Number of Gamers: 489
+  Percentage of Gamers: 80%
+  Ratio: 1.11
+  TA: '22'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Baptism of fire
+  Description: Finish a stage
+  GS: '20'
+  Guide: false
+  Number of Gamers: 518
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Like clockwork
+  Description: Achieve a stage objective
+  GS: '15'
+  Guide: false
+  Number of Gamers: 491
+  Percentage of Gamers: 80%
+  Ratio: 1.11
+  TA: '16'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: I gave everything!
+  Description: Win a stage using the bike throw (minimum "Professional" difficulty)
+  GS: '30'
+  Guide: false
+  Number of Gamers: 234
+  Percentage of Gamers: 38%
+  Ratio: 1.61
+  TA: '48'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Young hopeful
+  Description: Win a stage with a youth rider, under 25 years of age, (minimum "Professional"
+    difficulty)
+  GS: '30'
+  Guide: true
+  Number of Gamers: 185
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '54'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Sprinter
+  Description: Win a flat stage (minimum difficulty = "Professional")
+  GS: '30'
+  Guide: false
+  Number of Gamers: 238
+  Percentage of Gamers: 39%
+  Ratio: 1.6
+  TA: '48'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Puncher
+  Description: Win a hilly stage (minimum difficulty = "Professional")
+  GS: '30'
+  Guide: false
+  Number of Gamers: 177
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '55'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Climber
+  Description: Win a mountain stage (minimum difficulty = "Professional")
+  GS: '30'
+  Guide: false
+  Number of Gamers: 218
+  Percentage of Gamers: 36%
+  Ratio: 1.67
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Rouleur
+  Description: Win an individual time-trial (minimum difficulty = "Professional")
+  GS: '30'
+  Guide: false
+  Number of Gamers: 151
+  Percentage of Gamers: 25%
+  Ratio: 2.01
+  TA: '60'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Revelation
+  Description: Win a stage with a rider without specialisation (minimum difficulty
+    = "Professional")
+  GS: '30'
+  Guide: false
+  Number of Gamers: 217
+  Percentage of Gamers: 36%
+  Ratio: 1.67
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Unexpected
+  Description: Win a stage with a negative race-day condition (minimum difficulty
+    = "Professional")
+  GS: '30'
+  Guide: false
+  Number of Gamers: 123
+  Percentage of Gamers: 20%
+  Ratio: 2.22
+  TA: '66'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+Base Ratio: 2.003
+Base TA: 2003
+Delisted: false
+Developer: Cyanide Studio
+Game Name: Tour de France 2016
+Genres: Sports, Cycling
+Install Size: 16400.0
+Number of Completions: 30
+Number of Gamers: 611
+Overall Completion Time:
+- 40.0
+- 50.0
+Overall GS: 1000
+Overall Ratio: 2.003
+Overall TA: 2003
+PDU: 0
+Percentage Completed: 4.91
+Publisher: Focus Entertainment
+Release Date: 16 June 2016
+Server Closure: false
+Site Rating: 3.8
+Update Achievements: []
+Walkthrough: false

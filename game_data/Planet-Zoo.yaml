@@ -1,0 +1,474 @@
+Add On Achievements: []
+Base Completion Time:
+- 80.0
+- 100.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Welcome to Planet Zoo
+  Description: Create your Avatar and place them on the globe
+  GS: '5'
+  Guide: true
+  Number of Gamers: 3746
+  Percentage of Gamers: 100%
+  Ratio: 1.0
+  TA: '5'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Bronze Award
+  Description: Gain a Bronze award in a Career zoo
+  GS: '5'
+  Guide: false
+  Number of Gamers: 3108
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '5'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Silver Award
+  Description: Gain a Silver award in a Career zoo
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2754
+  Percentage of Gamers: 73%
+  Ratio: 1.16
+  TA: '11'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Gold Award
+  Description: Gain a Gold award in a Career zoo
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2460
+  Percentage of Gamers: 66%
+  Ratio: 1.23
+  TA: '18'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Bronze Career
+  Description: Complete all original Career levels to a Bronze standard
+  GS: '30'
+  Guide: false
+  Number of Gamers: 167
+  Percentage of Gamers: 4%
+  Ratio: 4.73
+  TA: '142'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
+- Achievement Name: Silver Career
+  Description: Complete all original Career levels to a Silver standard
+  GS: '60'
+  Guide: false
+  Number of Gamers: 149
+  Percentage of Gamers: 4%
+  Ratio: 5.01
+  TA: '300'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
+- Achievement Name: Gold Career
+  Description: Complete all original Career levels to a Gold standard
+  GS: '90'
+  Guide: false
+  Number of Gamers: 137
+  Percentage of Gamers: 4%
+  Ratio: 5.22
+  TA: '470'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
+- Achievement Name: Franchise Zoo
+  Description: Open your first Franchise zoo
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1203
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '17'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Global Zoo
+  Description: Open 25 Franchise zoos
+  GS: '50'
+  Guide: false
+  Number of Gamers: 71
+  Percentage of Gamers: 2%
+  Ratio: 7.26
+  TA: '363'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Tour Guide
+  Description: Build 1km of ride tracks
+  GS: '5'
+  Guide: false
+  Number of Gamers: 617
+  Percentage of Gamers: 16%
+  Ratio: 2.46
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Barrier Builder
+  Description: Build 10km of barrier
+  GS: '10'
+  Guide: true
+  Number of Gamers: 293
+  Percentage of Gamers: 8%
+  Ratio: 3.57
+  TA: '35'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Life finds a way
+  Description: Have your first baby animal born in your zoo
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1930
+  Percentage of Gamers: 51%
+  Ratio: 1.39
+  TA: '13'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Baby Boom
+  Description: Have 73 baby animals born in your zoos
+  GS: '20'
+  Guide: true
+  Number of Gamers: 954
+  Percentage of Gamers: 25%
+  Ratio: 1.98
+  TA: '39'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Ghost
+  Description: Have an albino animal born in your zoo
+  GS: '20'
+  Guide: false
+  Number of Gamers: 417
+  Percentage of Gamers: 11%
+  Ratio: 2.99
+  TA: '59'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Say Goodbye
+  Description: Release your first animal into the wild
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2326
+  Percentage of Gamers: 62%
+  Ratio: 1.26
+  TA: '12'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Welcome to the Family
+  Description: Adopt your first animal
+  GS: '5'
+  Guide: false
+  Number of Gamers: 3517
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Trainer
+  Description: Fully train a member of staff
+  GS: '10'
+  Guide: false
+  Number of Gamers: 628
+  Percentage of Gamers: 17%
+  Ratio: 2.44
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Zoologist
+  Description: Completely research every animal in the original release in a single
+    non-Sandbox zoo
+  GS: '75'
+  Guide: true
+  Number of Gamers: 57
+  Percentage of Gamers: 2%
+  Ratio: 8.1
+  TA: '608'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Planet Zoo
+  Description: Open a Zoo on every continent in Franchise mode
+  GS: '75'
+  Guide: false
+  Number of Gamers: 107
+  Percentage of Gamers: 3%
+  Ratio: 5.91
+  TA: '443'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Diversity
+  Description: Open a Zoo in every biome in Franchise mode
+  GS: '25'
+  Guide: false
+  Number of Gamers: 125
+  Percentage of Gamers: 3%
+  Ratio: 5.47
+  TA: '136'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Nerd
+  Description: Achieve an Education Rating of 5 Stars on a non-Sandbox zoo
+  GS: '25'
+  Guide: false
+  Number of Gamers: 376
+  Percentage of Gamers: 10%
+  Ratio: 3.15
+  TA: '78'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Loaner
+  Description: Repay $50,000 in loans
+  GS: '20'
+  Guide: true
+  Number of Gamers: 405
+  Percentage of Gamers: 11%
+  Ratio: 3.04
+  TA: '60'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Shop
+- Achievement Name: Community
+  Description: Take part in a Community Challenge
+  GS: '15'
+  Guide: false
+  Number of Gamers: 158
+  Percentage of Gamers: 4%
+  Ratio: 4.86
+  TA: '73'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Community
+- Achievement Name: Enriched
+  Description: Place 25 different Enrichment Items
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1745
+  Percentage of Gamers: 47%
+  Ratio: 1.46
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: "This One\u2019s a Keeper"
+  Description: Have at least 3 Keepers, each with a different Work Zone (Sandbox,
+    Franchise, or Challenge mode only
+  GS: '15'
+  Guide: false
+  Number of Gamers: 648
+  Percentage of Gamers: 17%
+  Ratio: 2.4
+  TA: '36'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Circle of Life
+  Description: Have a Juvenile Lion be born in a zoo containing at least 10 species
+  GS: '25'
+  Guide: false
+  Number of Gamers: 409
+  Percentage of Gamers: 11%
+  Ratio: 3.02
+  TA: '75'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Oh My!
+  Description: Have a Lion, a Tiger and a Bear in your zoo at any one time
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2868
+  Percentage of Gamers: 77%
+  Ratio: 1.14
+  TA: '17'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The Elephant(s) in the Room
+  Description: Have two different breeds of Elephant born in your zoo
+  GS: '25'
+  Guide: false
+  Number of Gamers: 115
+  Percentage of Gamers: 3%
+  Ratio: 5.7
+  TA: '142'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Natural Selection
+  Description: Have an animal in your zoo with a genetic makeup of over 90% in all
+    categories
+  GS: '25'
+  Guide: false
+  Number of Gamers: 102
+  Percentage of Gamers: 3%
+  Ratio: 6.06
+  TA: '151'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Redecorating
+  Description: Enable all Enrichment Items in an Exhibit
+  GS: '20'
+  Guide: true
+  Number of Gamers: 905
+  Percentage of Gamers: 24%
+  Ratio: 2.03
+  TA: '40'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Animal Research
+  Description: Complete the research on one animal in Franchise mode
+  GS: '15'
+  Guide: false
+  Number of Gamers: 706
+  Percentage of Gamers: 19%
+  Ratio: 2.3
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Wow that's a lot
+  Description: Build a habitat with 30 animals in that all have over 75% Welfare
+  GS: '15'
+  Guide: false
+  Number of Gamers: 709
+  Percentage of Gamers: 19%
+  Ratio: 2.29
+  TA: '34'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Rebuilding
+  Description: Release 20 critically endangered animals into the wild
+  GS: '25'
+  Guide: false
+  Number of Gamers: 210
+  Percentage of Gamers: 6%
+  Ratio: 4.22
+  TA: '105'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: A Superstar Comes Along
+  Description: Attain a 5 star status animal
+  GS: '10'
+  Guide: false
+  Number of Gamers: 3125
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: An Elephant Never Forgets
+  Description: Adopt the retiring Indian Elephants in Scenario 7
+  GS: '20'
+  Guide: true
+  Number of Gamers: 391
+  Percentage of Gamers: 10%
+  Ratio: 3.09
+  TA: '61'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Shiny Bronze Award
+  Description: Complete all original Career levels to a Bronze standard on Hard difficulty
+  GS: '30'
+  Guide: false
+  Number of Gamers: 54
+  Percentage of Gamers: 1%
+  Ratio: 8.32
+  TA: '249'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Shiny Silver Award
+  Description: Complete all original Career levels to a Silver standard on Hard difficulty
+  GS: '60'
+  Guide: false
+  Number of Gamers: 54
+  Percentage of Gamers: 1%
+  Ratio: 8.32
+  TA: '499'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Shiny Gold Award
+  Description: Complete all original Career levels to a Gold standard on Hard difficulty
+  GS: '90'
+  Guide: true
+  Number of Gamers: 54
+  Percentage of Gamers: 1%
+  Ratio: 8.32
+  TA: '749'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+Base Ratio: 5.144
+Base TA: 5144
+Delisted: false
+Developer: Frontier Developments
+Game Name: 'Planet Zoo: Console Edition'
+Genres: Simulation, Management
+Install Size: 22290.0
+Number of Completions: 25
+Number of Gamers: 3748
+Overall Completion Time:
+- 80.0
+- 100.0
+Overall GS: 1000
+Overall Ratio: 5.144
+Overall TA: 5144
+PDU: 0
+Percentage Completed: 0.67
+Publisher: Frontier Developments
+Release Date: 26 March 2024
+Server Closure: false
+Site Rating: 4.21
+Update Achievements: []
+Walkthrough: false

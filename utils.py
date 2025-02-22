@@ -1,9 +1,10 @@
 class Utils:
-    urls = ['https://www.trueachievements.com/game-pass-ultimate/games', 
-            "https://www.trueachievements.com/xbox-one/games", 
-            "https://www.trueachievements.com/xbox-360/games", 
-            "https://www.trueachievements.com/windows/games", 
-            "https://www.trueachievements.com/xbox-series-x/games"]
+#     urls = ['https://www.trueachievements.com/game-pass-ultimate/games', 
+#             "https://www.trueachievements.com/xbox-one/games", 
+#             "https://www.trueachievements.com/xbox-360/games", 
+#             "https://www.trueachievements.com/windows/games", 
+#             "https://www.trueachievements.com/xbox-series-x/games"]
+    urls = ["https://www.trueachievements.com/xbox-series-x/games"]
     
     output_files = ['game_pass_games.csv',
                     'xbox_one_games.csv', 

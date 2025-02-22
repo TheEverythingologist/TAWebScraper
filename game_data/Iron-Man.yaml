@@ -1,0 +1,473 @@
+Add On Achievements: []
+Base Completion Time:
+- 12.0
+- 15.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Sidekick
+  Description: Complete all missions on Easy difficulty (or harder)
+  GS: '75'
+  Guide: true
+  Number of Gamers: 9147
+  Percentage of Gamers: 28%
+  Ratio: 1.88
+  TA: '141'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
+  - Stackable
+- Achievement Name: Hero
+  Description: Complete all missions on Normal difficulty (or harder)
+  GS: '75'
+  Guide: true
+  Number of Gamers: 3765
+  Percentage of Gamers: 12%
+  Ratio: 2.93
+  TA: '220'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Super Hero
+  Description: Complete all missions on Formidable difficulty
+  GS: '75'
+  Guide: true
+  Number of Gamers: 2247
+  Percentage of Gamers: 7%
+  Ratio: 3.79
+  TA: '284'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
+- Achievement Name: Disarmed
+  Description: Destroy stockpiled Stark weapons in the Escape mission
+  GS: '25'
+  Guide: true
+  Number of Gamers: 32029
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '25'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: City Protector
+  Description: Destroy drones without civilian damage in the First Flight mission
+  GS: '25'
+  Guide: true
+  Number of Gamers: 7099
+  Percentage of Gamers: 22%
+  Ratio: 2.13
+  TA: '53'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Decommissioner
+  Description: Destroy all Prometheus missiles in the Maggia Compound mission
+  GS: '25'
+  Guide: true
+  Number of Gamers: 12018
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '41'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: In the Drink
+  Description: Avoid civilian casualties in the Flying Fortress mission
+  GS: '25'
+  Guide: true
+  Number of Gamers: 12110
+  Percentage of Gamers: 37%
+  Ratio: 1.63
+  TA: '40'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Tatyana, Interrupted
+  Description: Protect the nuclear facility in the Arctic Battle mission
+  GS: '25'
+  Guide: true
+  Number of Gamers: 13141
+  Percentage of Gamers: 41%
+  Ratio: 1.57
+  TA: '39'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Not a Scratch
+  Description: Avoid harming the destroyer and its crew in the Lost Destroyer mission
+  GS: '25'
+  Guide: true
+  Number of Gamers: 8059
+  Percentage of Gamers: 25%
+  Ratio: 2.0
+  TA: '50'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Power Saver
+  Description: Avoid disrupting the city's power supply in the On Defense mission
+  GS: '25'
+  Guide: true
+  Number of Gamers: 7807
+  Percentage of Gamers: 24%
+  Ratio: 2.03
+  TA: '50'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Shocking!
+  Description: Protect outlying occupied buildings in the Save Pepper mission
+  GS: '25'
+  Guide: true
+  Number of Gamers: 5066
+  Percentage of Gamers: 16%
+  Ratio: 2.53
+  TA: '63'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Proton Shut Out
+  Description: Prevent cannon attacks on civilian targets in the Island Meltdown mission
+  GS: '25'
+  Guide: true
+  Number of Gamers: 7184
+  Percentage of Gamers: 22%
+  Ratio: 2.12
+  TA: '53'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Escape Velocity
+  Description: Sever the tether before the satellite overloads in the Space Tether
+    mission
+  GS: '25'
+  Guide: true
+  Number of Gamers: 9786
+  Percentage of Gamers: 30%
+  Ratio: 1.82
+  TA: '45'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: You're Fired!
+  Description: Destroy power regulators in the Iron Monger mission
+  GS: '25'
+  Guide: true
+  Number of Gamers: 9148
+  Percentage of Gamers: 28%
+  Ratio: 1.88
+  TA: '47'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Excelsior!
+  Description: Complete Hero Objectives for all missions
+  GS: '70'
+  Guide: true
+  Number of Gamers: 4112
+  Percentage of Gamers: 13%
+  Ratio: 2.8
+  TA: '196'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Ten Rings Obsoleted
+  Description: Complete the One Man Army vs. Ten Rings challenge without an armor
+    breach
+  GS: '25'
+  Guide: true
+  Number of Gamers: 10936
+  Percentage of Gamers: 34%
+  Ratio: 1.72
+  TA: '43'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Maggia Obsoleted
+  Description: Complete the One Man Army vs. Maggia challenge without an armor breach
+  GS: '25'
+  Guide: true
+  Number of Gamers: 9392
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '46'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Mercs Obsoleted
+  Description: Complete the One Man Army vs. Mercs challenge without an armor breach
+  GS: '25'
+  Guide: true
+  Number of Gamers: 8665
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '48'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: AIM Obsoleted
+  Description: Complete the One Man Army vs. AIM challenge without an armor breach
+  GS: '25'
+  Guide: true
+  Number of Gamers: 8134
+  Percentage of Gamers: 25%
+  Ratio: 1.99
+  TA: '49'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: AIM-X Obsoleted
+  Description: Complete the One Man Army vs. AIM-X challenge without an armor breach
+  GS: '25'
+  Guide: true
+  Number of Gamers: 7417
+  Percentage of Gamers: 23%
+  Ratio: 2.09
+  TA: '52'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Air Superiority
+  Description: Destroy all dropships before the Stark Gunship is stolen in the First
+    Flight mission
+  GS: '15'
+  Guide: true
+  Number of Gamers: 29229
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '15'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Road King
+  Description: Destroy all convoy vehicles in less than 2 minutes in the Stark Weapons
+    mission
+  GS: '15'
+  Guide: true
+  Number of Gamers: 15593
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Launch Aborted
+  Description: Destroy all Prometheus missiles within 10 minutes in the Maggia Compound
+    mission
+  GS: '15'
+  Guide: true
+  Number of Gamers: 12014
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '24'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Collateral Damage
+  Description: Destroy a Prometheus missile by destroying a fuel truck in the Maggia
+    Compound mission
+  GS: '15'
+  Guide: true
+  Number of Gamers: 9429
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '27'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Personnel Vendetta
+  Description: Defeat 20 soldiers in the Arctic Battle mission
+  GS: '15'
+  Guide: true
+  Number of Gamers: 9758
+  Percentage of Gamers: 30%
+  Ratio: 1.82
+  TA: '27'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Overkill
+  Description: Defeat a soldier using the Unibeam
+  GS: '15'
+  Guide: true
+  Number of Gamers: 22143
+  Percentage of Gamers: 68%
+  Ratio: 1.21
+  TA: '18'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Smack down
+  Description: Defeat Titanium Man before his second recharge in the On Defense mission
+  GS: '15'
+  Guide: true
+  Number of Gamers: 7515
+  Percentage of Gamers: 23%
+  Ratio: 2.07
+  TA: '31'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Impenetrable
+  Description: Complete a mission (other than Escape or First Flight) without an armor
+    breach
+  GS: '15'
+  Guide: true
+  Number of Gamers: 19319
+  Percentage of Gamers: 60%
+  Ratio: 1.29
+  TA: '19'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: An Object in Motion
+  Description: Destroy any target using a ramming attack
+  GS: '15'
+  Guide: true
+  Number of Gamers: 14005
+  Percentage of Gamers: 43%
+  Ratio: 1.52
+  TA: '22'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Grounded
+  Description: Successfully grapple and throw a plane
+  GS: '15'
+  Guide: true
+  Number of Gamers: 17504
+  Percentage of Gamers: 54%
+  Ratio: 1.36
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Your Own Medicine
+  Description: Damage or destroy another enemy while grappling a SAM launcher.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 16797
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Long Shot
+  Description: Damage or destroy another enemy while grappling a howitzer.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 9659
+  Percentage of Gamers: 30%
+  Ratio: 1.83
+  TA: '27'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Hulk Smash!
+  Description: Successfully grapple an opponent in the Hulkbuster armor
+  GS: '15'
+  Guide: true
+  Number of Gamers: 8469
+  Percentage of Gamers: 26%
+  Ratio: 1.95
+  TA: '29'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Ground Pound
+  Description: Defeat an opponent using the ground pound in the Extremis armor
+  GS: '15'
+  Guide: true
+  Number of Gamers: 7479
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '31'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Classic Confrontation
+  Description: Defeat Titanium Man using the Classic armor
+  GS: '15'
+  Guide: true
+  Number of Gamers: 6034
+  Percentage of Gamers: 19%
+  Ratio: 2.31
+  TA: '34'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Old School
+  Description: Defeat Iron Monger using the Silver Centurion armor
+  GS: '15'
+  Guide: true
+  Number of Gamers: 6109
+  Percentage of Gamers: 19%
+  Ratio: 2.3
+  TA: '34'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Pugilist
+  Description: Complete any mission (other than Escape) without using weapons systems
+  GS: '15'
+  Guide: true
+  Number of Gamers: 5126
+  Percentage of Gamers: 16%
+  Ratio: 2.51
+  TA: '37'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Eject!
+  Description: Spare the US fighter pilots in the Stark Weapons mission
+  GS: '25'
+  Guide: true
+  Number of Gamers: 14375
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '37'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Guardian
+  Description: Protect warehouse workers in the Maggia Factories mission
+  GS: '25'
+  Guide: true
+  Number of Gamers: 10806
+  Percentage of Gamers: 33%
+  Ratio: 1.73
+  TA: '43'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 2.101
+Base TA: 2101
+Delisted: false
+Developer: SEGA Studios San Francisco
+Game Name: Iron Man
+Genres: Third Person Shooter
+Install Size: null
+Number of Completions: 2187
+Number of Gamers: 32445
+Overall Completion Time:
+- 12.0
+- 15.0
+Overall GS: 1000
+Overall Ratio: 2.101
+Overall TA: 2101
+PDU: 0
+Percentage Completed: 6.74
+Publisher: SEGA
+Release Date: 02 May 2008
+Server Closure: false
+Site Rating: 2.5
+Update Achievements: []
+Walkthrough: false
