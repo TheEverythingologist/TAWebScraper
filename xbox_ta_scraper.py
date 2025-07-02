@@ -44,7 +44,7 @@ def check_game_for_scan_need(game_box_object: GameBox):
     
     
 def get_page_links(games_list_url):
-    response = requests.get(games_list_url)
+    response = requests.get(games_list_url, headers={'User-Agent': 'Mozilla/6.0'})
     soup = BeautifulSoup(response.content, 'html.parser')
     page_elements = soup.find('ul', {'class': 'pagination'})
     if 'game-pass' in games_list_url:
@@ -67,37 +67,41 @@ def find_game_box(inputted_game_boxes, inputted_url):
     return None
 
 
-def format_game_row(input_game: Game):
+def format_game_row(input_game: dict):
+    try:
+        overall_time_list = input_game['Base Completion Time']
+        if int(overall_time_list[0]) == -1:
+            return None
+    except TypeError:
+        return None
+    if overall_time_list[1] == 0:
+        return None
+    if input_game['Install Size'] is None:
+        return None 
+    time_val = max(float(overall_time_list[0]), 0.5)
+    # num_achievements = len(input_game['Base Game Achievements']) + len(input_game['Add On Achievements']) + len(input_game['Update Achievements'])
+    # tad_val = input_game['Overall TA'] - input_game['Overall GS']
+    # game_row = [
+    #             input_game['Game Name'],
+    #             time_val,
+    #             num_achievements,
+    #             tad_val,
+    #             num_achievements / time_val,
+    #             tad_val / time_val
+    #             ]
+    tad = input_game['Base TA'] - input_game['Base GS']
+    num_achievements = len(input_game['Base Game Achievements']) + len(input_game['Update Achievements'])
     game_row = [
-                input_game.game_name,
-                input_game.base_ta,
-                input_game.overall_ta,
-                input_game.base_gs,
-                input_game.overall_gs,
-                input_game.base_ta / input_game.base_gs,
-                input_game.overall_ta / input_game.overall_gs,
-                input_game.base_completion_time,
-                input_game.overall_completion_time,
-                input_game.min_completion_time,
-                input_game.site_rating,
-                input_game.num_gamers,
-                input_game.base_num_achievements,
-                input_game.overall_num_achievements,
-                input_game.base_ssd,
-                input_game.base_tad_rate,
-                input_game.overall_ssd / input_game.overall_completion_time,
-                input_game.overall_tad_rate,
-                input_game.developer,
-                input_game.publisher,
-                input_game.is_360,
-                input_game.bcmx_val,
-                input_game.pdu,
-                input_game.server_closure,
-                input_game.delisted,
-                input_game.install_size,
-                input_game.genres
-                ]
-    return game_row 
+        input_game['Game Name'],
+        input_game['Base TA'],
+        input_game['Base GS'],
+        tad,
+        num_achievements,
+        time_val,
+        tad * num_achievements / time_val
+    ]
+    new_row = pd.DataFrame([game_row], columns=utils.columns_list)
+    return new_row 
 
 
 pyautogui.FAILSAFE = True
@@ -144,13 +148,36 @@ def main():
                         game.output_to_yaml(path=game_data_path)
                     except AttributeError:
                         print(f"Troublesome game: {game_box_obj.game_url}")
+            # Add data to the pandas dataframe
+            if game_box_obj.ta_score != 'Unreleased':
+                game_data_path = f"game_data/{game_box_obj.game_name_url}.yaml"
+                with open(game_data_path, 'r') as game_file:
+                    game_data = yaml.safe_load(game_file)
+                    game_row = format_game_row(game_data)
+                df_overall = pd.concat([df_overall, game_row], ignore_index=True)
         # Sort the dataframes
-        # df_overall = df_overall.sort_values(by=['Name'], ascending=True)
-        # df_overall = df_overall.reset_index(drop=True)
+        df_overall = df_overall.sort_values(by=['Game Name'], ascending=False)
+        df_overall = df_overall.reset_index(drop=True)
 
-        # # Concatenate the dataframes
-        # # Convert the dataframes to csv files        
-        # df_overall.to_csv(output_file, index=False)
+        # Convert the dataframes to csv files        
+        df_overall.to_csv(output_file, index=False)
+    # We get here once we have iterated all other games. This is for the all games output
+    df_overall = pd.DataFrame(columns=columns_list)
+    output_file = output_files[-1]
+    print("Dumping ALL game data to csv")
+    for yaml_file in tqdm(os.listdir("game_data/")):
+        game_data_path = f"game_data/{yaml_file}"
+        with open(game_data_path, 'r') as game_file:
+            game_data = yaml.safe_load(game_file)
+            game_row = format_game_row(game_data)
+            if game_row is None:
+                continue
+        df_overall = pd.concat([df_overall, game_row], ignore_index=True)
+
+    df_overall = df_overall.sort_values(by=['Game Name'], ascending=False)
+    df_overall = df_overall.reset_index(drop=True)
+    # Convert the dataframes to csv files        
+    df_overall.to_csv(output_file, index=False)
 
 
 if __name__ == "__main__":

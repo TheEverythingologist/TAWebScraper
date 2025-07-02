@@ -1,42 +1,22 @@
 class Utils:
-#     urls = ['https://www.trueachievements.com/game-pass-ultimate/games', 
-#             "https://www.trueachievements.com/xbox-one/games", 
-#             "https://www.trueachievements.com/xbox-360/games", 
-#             "https://www.trueachievements.com/windows/games", 
-#             "https://www.trueachievements.com/xbox-series-x/games"]
-    urls = ["https://www.trueachievements.com/xbox-series-x/games"]
-    
-    output_files = ['game_pass_games.csv',
-                    'xbox_one_games.csv', 
-                    'xbox_360_games.csv', 
-                    'windows_games.csv',
-                    'series_x_games.csv',
-                    'all_games.csv']
-    
-    columns_list = ["Name",
-                    "Base TA",
-                    "Overall TA",
-                    "Base GS",
-                    "Overall GS",
-                    "Base Ratio",
-                    "Overall Ratio",
-                    "Base Time",
-                    "Overall Time",
-                    "Min Time",
-                    "Site Rating",
-                    "Num Gamers",
-                    "Base Num Achievements",
-                    "Overall Num Achievements",
-                    "Base SSD",
-                    "Base TAD Rate",
-                    "Overall SSD Rate",
-                    "Overall TAD Rate",
-                    "Developer(s)",
-                    "Publisher(s)",
-                    "is 360?",
-                    "BCMX Value",
-                    "PDU",
-                    "Server Closure",
-                    "Delisted",
-                    "Install Size",
-                    "Genres"]
+    urls = ['https://www.trueachievements.com/game-pass-ultimate/games', 
+            "https://www.trueachievements.com/xbox-one/games", 
+            "https://www.trueachievements.com/xbox-360/games", 
+            "https://www.trueachievements.com/windows/games", 
+            "https://www.trueachievements.com/xbox-series-x/games"]
+    urls = []
+    output_files = ['game_pass_games_times.csv',
+                    'xbox_one_games_times.csv', 
+                    'xbox_360_games_times.csv', 
+                    'windows_games_times.csv',
+                    'series_x_games_times.csv',
+                    'all_games_times.csv']
+    output_files = ['all_games_tad_achievements_per_hour.csv']
+    output_files = ['tad_achievements_per_hour.csv']
+    columns_list = ["Game Name",
+                    "TA",
+                    "GS",
+                    "TAD",
+                    "Num",
+                    "Time",
+                    "Score"]
