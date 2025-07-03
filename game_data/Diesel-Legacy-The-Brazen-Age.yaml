@@ -8,364 +8,484 @@ Base Game Achievements:
   Description: A play time of a thousand hours begins with a single tutorial.
   GS: '10'
   Guide: false
-  Number of Gamers: 78
+  Number of Gamers: 129
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Time for SCIENCE!
   Description: Take a gander at Training Mode.
   GS: '10'
   Guide: false
-  Number of Gamers: 61
-  Percentage of Gamers: 78%
-  Ratio: 1.13
+  Number of Gamers: 95
+  Percentage of Gamers: 74%
+  Ratio: 1.16
   TA: '11'
-  Tags: []
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
 - Achievement Name: Eidetic Memory
   Description: Save a state in Training Mode, then load it.
   GS: '10'
   Guide: false
-  Number of Gamers: 41
-  Percentage of Gamers: 53%
-  Ratio: 1.37
-  TA: '13'
-  Tags: []
+  Number of Gamers: 59
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '14'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
 - Achievement Name: Teamwork Is Essential!
   Description: Teams that train together, win together!
   GS: '10'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 22%
-  Ratio: 2.14
-  TA: '21'
-  Tags: []
+  Number of Gamers: 22
+  Percentage of Gamers: 17%
+  Ratio: 2.42
+  TA: '24'
+  Tags:
+  - Online/Offline
+  - Cooperative
 - Achievement Name: Lab Monster
   Description: Spend one whole HOUR in Training Mode.
   GS: '10'
   Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 29%
-  Ratio: 1.84
-  TA: '18'
-  Tags: []
+  Number of Gamers: 27
+  Percentage of Gamers: 21%
+  Ratio: 2.18
+  TA: '21'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
 - Achievement Name: Lab Worker
   Description: Spend one whole SHIFT in Training Mode!
   GS: '30'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 10%
-  Ratio: 3.12
-  TA: '93'
-  Tags: []
+  Number of Gamers: 10
+  Percentage of Gamers: 8%
+  Ratio: 3.59
+  TA: '107'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
 - Achievement Name: Lab Zombie
   Description: Spend one whole DAY in Training Mode!
   GS: '50'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 8%
-  Ratio: 3.6
-  TA: '180'
-  Tags: []
+  Number of Gamers: 7
+  Percentage of Gamers: 5%
+  Ratio: 4.29
+  TA: '214'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
 - Achievement Name: Full-Time Lab Employee
   Description: Spend one whole WORK WEEK in Training Mode!
   GS: '75'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 8%
-  Ratio: 3.94
-  TA: '296'
-  Tags: []
+  Number of Gamers: 7
+  Percentage of Gamers: 5%
+  Ratio: 4.29
+  TA: '321'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
 - Achievement Name: Hello, And WELCOME!
   Description: Play a VS match in a private lobby.
   GS: '10'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 22%
-  Ratio: 2.14
-  TA: '21'
-  Tags: []
+  Number of Gamers: 22
+  Percentage of Gamers: 17%
+  Ratio: 2.42
+  TA: '24'
+  Tags:
+  - Online Mode
+  - Versus
 - Achievement Name: "T\xEAte-\xE0-T\xEAte"
   Description: Win a VS match in a private lobby.
   GS: '10'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 22%
-  Ratio: 2.14
-  TA: '21'
-  Tags: []
+  Number of Gamers: 21
+  Percentage of Gamers: 16%
+  Ratio: 2.47
+  TA: '24'
+  Tags:
+  - Online Mode
+  - Versus
 - Achievement Name: Standing Room Only
   Description: Win a VS match in a full private lobby.
   GS: '10'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 4%
-  Ratio: 5.09
-  TA: '50'
-  Tags: []
+  Number of Gamers: 6
+  Percentage of Gamers: 5%
+  Ratio: 4.63
+  TA: '46'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
 - Achievement Name: The First Of Many!
   Description: Win your first Versus match online!
   GS: '10'
   Guide: false
-  Number of Gamers: 22
-  Percentage of Gamers: 28%
-  Ratio: 1.88
-  TA: '18'
-  Tags: []
+  Number of Gamers: 24
+  Percentage of Gamers: 19%
+  Ratio: 2.31
+  TA: '23'
+  Tags:
+  - Online Mode
+  - Versus
 - Achievement Name: Stay Free-For-All
   Description: Win your first Free-for-All match online!
   GS: '10'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 6%
-  Ratio: 3.94
-  TA: '39'
-  Tags: []
+  Number of Gamers: 7
+  Percentage of Gamers: 5%
+  Ratio: 4.29
+  TA: '42'
+  Tags:
+  - Online Mode
+  - Versus
 - Achievement Name: Double Clutch
   Description: Win a close set in Tournament Mode.
   GS: '35'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 3%
-  Ratio: 6.24
-  TA: '218'
-  Tags: []
+  Number of Gamers: 3
+  Percentage of Gamers: 2%
+  Ratio: 6.55
+  TA: '229'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
 - Achievement Name: Lion Hearted
   Description: Complete Rory's story.
   GS: '10'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 12%
-  Ratio: 2.94
-  TA: '29'
-  Tags: []
+  Number of Gamers: 13
+  Percentage of Gamers: 10%
+  Ratio: 3.15
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Gotta Split!
   Description: Complete Ruby's story.
   GS: '10'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 12%
-  Ratio: 2.94
-  TA: '29'
-  Tags: []
+  Number of Gamers: 13
+  Percentage of Gamers: 10%
+  Ratio: 3.15
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Another One For The Grave
   Description: Complete Fritz's story.
   GS: '10'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 8%
-  Ratio: 3.6
-  TA: '36'
-  Tags: []
+  Number of Gamers: 7
+  Percentage of Gamers: 5%
+  Ratio: 4.29
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Genius!
   Description: Complete Rotwang's story.
   GS: '10'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 8%
-  Ratio: 3.6
-  TA: '36'
-  Tags: []
+  Number of Gamers: 7
+  Percentage of Gamers: 5%
+  Ratio: 4.29
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Kill 'Em With Style
   Description: Complete Eleanora's story.
   GS: '10'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 10%
-  Ratio: 3.12
-  TA: '31'
-  Tags: []
+  Number of Gamers: 10
+  Percentage of Gamers: 8%
+  Ratio: 3.59
+  TA: '35'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: The Mystery Of The Iron Lotus
   Description: Complete Nyra's story.
   GS: '10'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 12%
-  Ratio: 2.94
-  TA: '29'
-  Tags: []
+  Number of Gamers: 11
+  Percentage of Gamers: 9%
+  Ratio: 3.42
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: For Glory!
   Description: Complete Dieselmech's story.
   GS: '10'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 9%
-  Ratio: 3.33
-  TA: '33'
-  Tags: []
+  Number of Gamers: 9
+  Percentage of Gamers: 7%
+  Ratio: 3.78
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Take A Picture, Darling...
   Description: Complete Damkina's story.
   GS: '10'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 6%
-  Ratio: 3.94
-  TA: '39'
-  Tags: []
+  Number of Gamers: 7
+  Percentage of Gamers: 5%
+  Ratio: 4.29
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Strongest On Earth!
   Description: Complete Saga's story.
   GS: '10'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 9%
-  Ratio: 3.33
-  TA: '33'
-  Tags: []
+  Number of Gamers: 8
+  Percentage of Gamers: 6%
+  Ratio: 4.01
+  TA: '40'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Arcane Spectacle
   Description: Complete Adrik's story.
   GS: '10'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 6%
-  Ratio: 3.94
-  TA: '39'
-  Tags: []
+  Number of Gamers: 6
+  Percentage of Gamers: 5%
+  Ratio: 4.63
+  TA: '46'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: An Epic For The Ages!
   Description: Complete all fighters' stories!
   GS: '80'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 6%
-  Ratio: 3.94
-  TA: '315'
-  Tags: []
+  Number of Gamers: 6
+  Percentage of Gamers: 5%
+  Ratio: 4.63
+  TA: '370'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Ladder Climber
   Description: Beat Arcade Mode with anyone.
   GS: '40'
   Guide: false
-  Number of Gamers: 20
-  Percentage of Gamers: 26%
-  Ratio: 1.97
-  TA: '78'
-  Tags: []
+  Number of Gamers: 22
+  Percentage of Gamers: 17%
+  Ratio: 2.42
+  TA: '96'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Ladder Master!
   Description: Beat Arcade Mode with EVERYONE!
   GS: '100'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 4%
-  Ratio: 5.09
-  TA: '509'
-  Tags: []
+  Number of Gamers: 4
+  Percentage of Gamers: 3%
+  Ratio: 5.67
+  TA: '567'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Who's Who...
   Description: Watch the game credits. No cheating!
   GS: '20'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 10%
-  Ratio: 3.12
-  TA: '62'
-  Tags: []
+  Number of Gamers: 9
+  Percentage of Gamers: 7%
+  Ratio: 3.78
+  TA: '75'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Heart of Bronze!
   Description: Reach the player rank of Bronze Heart!
   GS: '10'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 9%
-  Ratio: 3.33
-  TA: '33'
-  Tags: []
+  Number of Gamers: 8
+  Percentage of Gamers: 6%
+  Ratio: 4.01
+  TA: '40'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Level
 - Achievement Name: Movin' Up The Ranks!
   Description: Reach the player rank of Copper Smith!
   GS: '30'
   Guide: false
   Number of Gamers: 2
-  Percentage of Gamers: 3%
-  Ratio: 6.24
-  TA: '187'
-  Tags: []
+  Percentage of Gamers: 2%
+  Ratio: 8.03
+  TA: '240'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Level
 - Achievement Name: Iron Will!
   Description: Reach the player rank of Iron Smith!
   GS: '60'
   Guide: false
   Number of Gamers: 2
-  Percentage of Gamers: 3%
-  Ratio: 6.24
-  TA: '374'
-  Tags: []
+  Percentage of Gamers: 2%
+  Ratio: 8.03
+  TA: '481'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Level
 - Achievement Name: Tough As Steel!
   Description: Reach the player rank of Steel Smith!
   GS: '80'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 3%
-  Ratio: 6.24
-  TA: '499'
-  Tags: []
+  Number of Gamers: 1
+  Percentage of Gamers: 1%
+  Ratio: 11.35
+  TA: '908'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Level
 - Achievement Name: A Titanic Achievement!
   Description: Reach the player rank of Titanium!
   GS: '100'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 3%
-  Ratio: 6.24
-  TA: '624'
-  Tags: []
+  Number of Gamers: 1
+  Percentage of Gamers: 1%
+  Ratio: 11.35
+  TA: 1,135
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Level
 - Achievement Name: The Tower Of Sweat
   Description: See your name on the leaderboard.
   GS: '10'
   Guide: false
   Number of Gamers: 4
-  Percentage of Gamers: 5%
-  Ratio: 4.41
-  TA: '44'
-  Tags: []
+  Percentage of Gamers: 3%
+  Ratio: 5.67
+  TA: '56'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Online Skill
 - Achievement Name: Make Your Own Luck
   Description: Win a game with a random-select character.
   GS: '20'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 12%
-  Ratio: 2.94
-  TA: '58'
-  Tags: []
+  Number of Gamers: 14
+  Percentage of Gamers: 11%
+  Ratio: 3.03
+  TA: '60'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
 - Achievement Name: Run It Back
   Description: Rematch your opponent online!
   GS: '10'
   Guide: false
-  Number of Gamers: 22
-  Percentage of Gamers: 28%
-  Ratio: 1.88
-  TA: '18'
-  Tags: []
+  Number of Gamers: 27
+  Percentage of Gamers: 21%
+  Ratio: 2.18
+  TA: '21'
+  Tags:
+  - Online Mode
+  - Versus
 - Achievement Name: Ain't No Quit In Ya!
   Description: Fall down seven times, get up eight.
   GS: '30'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 4%
-  Ratio: 5.09
-  TA: '152'
-  Tags: []
+  Number of Gamers: 4
+  Percentage of Gamers: 3%
+  Ratio: 5.67
+  TA: '170'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
 - Achievement Name: Who Goes There?
   Description: Interact with any NPC in the Juice Room
   GS: '20'
   Guide: false
-  Number of Gamers: 63
-  Percentage of Gamers: 81%
-  Ratio: 1.11
-  TA: '22'
-  Tags: []
-Base Ratio: 4.318
-Base TA: 4318
+  Number of Gamers: 89
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '24'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 5.733
+Base TA: 5733
 Delisted: false
 Developer: Maximum Entertainment
 Game Name: 'Diesel Legacy: The Brazen Age'
 Genres: Fighting
 Install Size: 3870.0
-Number of Completions: 2
-Number of Gamers: 78
+Number of Completions: 1
+Number of Gamers: 129
 Overall Completion Time:
 - 95
 - 96
 Overall GS: 1000
-Overall Ratio: 4.318
-Overall TA: 4318
+Overall Ratio: 5.733
+Overall TA: 5733
 PDU: 0
-Percentage Completed: 2.56
+Percentage Completed: 0.78
 Publisher: Maximum Entertainment
 Release Date: 03 December 2024
 Server Closure: false
-Site Rating: 3.0
+Site Rating: 3.4
 Update Achievements: []
 Walkthrough: false

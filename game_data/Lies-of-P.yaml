@@ -1,4 +1,138 @@
-Add On Achievements: []
+Add On Achievements:
+- Achievement Name: The Rose's Memory
+  Description: '[The Rose''s Memory] Reach the ending.'
+  GS: '30'
+  Guide: false
+  Number of Gamers: 2172
+  Percentage of Gamers: 76%
+  Ratio: 3.39
+  TA: '101'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Enduring Resolve
+  Description: Listen to the Legend's last recording.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 2049
+  Percentage of Gamers: 71%
+  Ratio: 3.49
+  TA: '104'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: True Combat Gear Collector
+  Description: Collect all weapons and Legion Arms in the Forgotten Time.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1433
+  Percentage of Gamers: 50%
+  Ratio: 4.18
+  TA: '62'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Missable
+- Achievement Name: Beyond Limitless Potential
+  Description: Further upgrade the abilities of the P-Organ.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2463
+  Percentage of Gamers: 86%
+  Ratio: 3.19
+  TA: '47'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Memory's Melody
+  Description: Collect and listen to all records from the Forgotten Time.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1068
+  Percentage of Gamers: 37%
+  Ratio: 4.84
+  TA: '72'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Missable
+- Achievement Name: To Be Human
+  Description: Learn all gestures from the Forgotten Time.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1490
+  Percentage of Gamers: 52%
+  Ratio: 4.1
+  TA: '61'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Missable
+- Achievement Name: Tracker of Dark Secrets
+  Description: Decrypt all clues hidden inside the cipher machines and claim the rewards.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2030
+  Percentage of Gamers: 71%
+  Ratio: 3.51
+  TA: '52'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Puppeteer of Death
+  Description: Kill Markiona, the Puppeteer of Death.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2868
+  Percentage of Gamers: 100%
+  Ratio: 2.95
+  TA: '44'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Anguished Guardian
+  Description: Kill the Anguished Guardian of the Ruins.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2415
+  Percentage of Gamers: 84%
+  Ratio: 3.22
+  TA: '48'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: The Blood Artist
+  Description: Kill the Blood Artist.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2174
+  Percentage of Gamers: 76%
+  Ratio: 3.39
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Honor and Revenge
+  Description: Kill the Leader of the Bastards and the Leader of the Sweepers.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2312
+  Percentage of Gamers: 81%
+  Ratio: 3.29
+  TA: '49'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 Base Completion Time:
 - 60.0
 - 80.0
@@ -8,10 +142,10 @@ Base Game Achievements:
   Description: '[Real boy: They all lived happily ever after] Reach the ending.'
   GS: '70'
   Guide: true
-  Number of Gamers: 28349
-  Percentage of Gamers: 13%
-  Ratio: 2.74
-  TA: '191'
+  Number of Gamers: 29878
+  Percentage of Gamers: 14%
+  Ratio: 2.7
+  TA: '189'
   Tags:
   - Offline Mode
   - Single Player
@@ -21,10 +155,10 @@ Base Game Achievements:
   Description: '[Free from the puppet string] Reach the ending.'
   GS: '70'
   Guide: true
-  Number of Gamers: 21875
-  Percentage of Gamers: 10%
-  Ratio: 3.12
-  TA: '218'
+  Number of Gamers: 23296
+  Percentage of Gamers: 11%
+  Ratio: 3.06
+  TA: '214'
   Tags:
   - Offline Mode
   - Single Player
@@ -34,10 +168,10 @@ Base Game Achievements:
   Description: '[Rise of P] Reach the ending.'
   GS: '80'
   Guide: true
-  Number of Gamers: 28484
-  Percentage of Gamers: 13%
-  Ratio: 2.73
-  TA: '218'
+  Number of Gamers: 30118
+  Percentage of Gamers: 14%
+  Ratio: 2.69
+  TA: '215'
   Tags:
   - Offline Mode
   - Single Player
@@ -47,10 +181,10 @@ Base Game Achievements:
   Description: Kill the Nameless Puppet.
   GS: '30'
   Guide: true
-  Number of Gamers: 37716
+  Number of Gamers: 39793
   Percentage of Gamers: 18%
-  Ratio: 2.37
-  TA: '71'
+  Ratio: 2.34
+  TA: '70'
   Tags:
   - Offline Mode
   - Single Player
@@ -59,10 +193,10 @@ Base Game Achievements:
   Description: Strengthen a normal weapon to its max level.
   GS: '30'
   Guide: true
-  Number of Gamers: 52991
+  Number of Gamers: 55400
   Percentage of Gamers: 25%
-  Ratio: 2.0
-  TA: '60'
+  Ratio: 1.98
+  TA: '59'
   Tags:
   - Offline Mode
   - Single Player
@@ -71,9 +205,9 @@ Base Game Achievements:
   Description: Strengthen a special weapon to its max level.
   GS: '30'
   Guide: true
-  Number of Gamers: 50506
+  Number of Gamers: 52913
   Percentage of Gamers: 24%
-  Ratio: 2.05
+  Ratio: 2.03
   TA: '61'
   Tags:
   - Offline Mode
@@ -83,9 +217,9 @@ Base Game Achievements:
   Description: Modify a Legion Arm to its max level.
   GS: '30'
   Guide: true
-  Number of Gamers: 57234
+  Number of Gamers: 59731
   Percentage of Gamers: 27%
-  Ratio: 1.92
+  Ratio: 1.91
   TA: '57'
   Tags:
   - Offline Mode
@@ -95,10 +229,10 @@ Base Game Achievements:
   Description: Activate P-Organ to Phase 5.
   GS: '30'
   Guide: true
-  Number of Gamers: 53069
+  Number of Gamers: 55483
   Percentage of Gamers: 25%
-  Ratio: 2.0
-  TA: '60'
+  Ratio: 1.98
+  TA: '59'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -106,10 +240,10 @@ Base Game Achievements:
   Description: Play a perfect tune on the piano at Hotel Krat.
   GS: '30'
   Guide: true
-  Number of Gamers: 29441
+  Number of Gamers: 31222
   Percentage of Gamers: 14%
-  Ratio: 2.68
-  TA: '80'
+  Ratio: 2.64
+  TA: '79'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -117,10 +251,10 @@ Base Game Achievements:
   Description: Collect all Legion Arms.
   GS: '30'
   Guide: true
-  Number of Gamers: 39841
+  Number of Gamers: 41709
   Percentage of Gamers: 19%
-  Ratio: 2.31
-  TA: '69'
+  Ratio: 2.29
+  TA: '68'
   Tags:
   - Offline Mode
   - Single Player
@@ -129,10 +263,10 @@ Base Game Achievements:
   Description: Collect all special weapons.
   GS: '30'
   Guide: true
-  Number of Gamers: 16136
+  Number of Gamers: 17227
   Percentage of Gamers: 8%
-  Ratio: 3.63
-  TA: '109'
+  Ratio: 3.56
+  TA: '106'
   Tags:
   - Offline Mode
   - Single Player
@@ -142,10 +276,10 @@ Base Game Achievements:
   Description: Collect all normal weapons.
   GS: '30'
   Guide: true
-  Number of Gamers: 19153
+  Number of Gamers: 20249
   Percentage of Gamers: 9%
-  Ratio: 3.33
-  TA: '100'
+  Ratio: 3.28
+  TA: '98'
   Tags:
   - Offline Mode
   - Single Player
@@ -155,10 +289,10 @@ Base Game Achievements:
   Description: Collect and play all records.
   GS: '30'
   Guide: true
-  Number of Gamers: 13141
+  Number of Gamers: 14020
   Percentage of Gamers: 6%
-  Ratio: 4.02
-  TA: '120'
+  Ratio: 3.95
+  TA: '118'
   Tags:
   - Offline Mode
   - Single Player
@@ -169,10 +303,10 @@ Base Game Achievements:
   Description: Learn all gestures.
   GS: '30'
   Guide: true
-  Number of Gamers: 21963
-  Percentage of Gamers: 10%
-  Ratio: 3.11
-  TA: '93'
+  Number of Gamers: 23244
+  Percentage of Gamers: 11%
+  Ratio: 3.07
+  TA: '92'
   Tags:
   - Offline Mode
   - Single Player
@@ -182,10 +316,10 @@ Base Game Achievements:
   Description: Decipher all cryptic vessels and claim the rewards.
   GS: '30'
   Guide: true
-  Number of Gamers: 24020
-  Percentage of Gamers: 11%
-  Ratio: 2.97
-  TA: '89'
+  Number of Gamers: 25246
+  Percentage of Gamers: 12%
+  Ratio: 2.94
+  TA: '88'
   Tags:
   - Offline Mode
   - Single Player
@@ -195,9 +329,9 @@ Base Game Achievements:
   Description: Discover all Trinity Sanctums.
   GS: '30'
   Guide: true
-  Number of Gamers: 32442
-  Percentage of Gamers: 15%
-  Ratio: 2.56
+  Number of Gamers: 34080
+  Percentage of Gamers: 16%
+  Ratio: 2.53
   TA: '76'
   Tags:
   - Offline Mode
@@ -208,9 +342,9 @@ Base Game Achievements:
   Description: Tell a lie in front of Hotel Krat Entrance.
   GS: '15'
   Guide: true
-  Number of Gamers: 136068
+  Number of Gamers: 140636
   Percentage of Gamers: 64%
-  Ratio: 1.25
+  Ratio: 1.24
   TA: '18'
   Tags:
   - Offline Mode
@@ -220,7 +354,7 @@ Base Game Achievements:
   Description: Repair a Stargazer.
   GS: '15'
   Guide: true
-  Number of Gamers: 184381
+  Number of Gamers: 190225
   Percentage of Gamers: 87%
   Ratio: 1.07
   TA: '16'
@@ -232,10 +366,10 @@ Base Game Achievements:
   Description: Try to assemble a weapon.
   GS: '15'
   Guide: true
-  Number of Gamers: 90084
-  Percentage of Gamers: 42%
+  Number of Gamers: 93383
+  Percentage of Gamers: 43%
   Ratio: 1.53
-  TA: '23'
+  TA: '22'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -243,9 +377,9 @@ Base Game Achievements:
   Description: "Destroy an enemy\u2019s weapon with a perfect guard."
   GS: '15'
   Guide: true
-  Number of Gamers: 127522
+  Number of Gamers: 131894
   Percentage of Gamers: 60%
-  Ratio: 1.29
+  Ratio: 1.28
   TA: '19'
   Tags:
   - Offline Game Mode
@@ -254,7 +388,7 @@ Base Game Achievements:
   Description: Deliver a successful Fatal Attack.
   GS: '15'
   Guide: true
-  Number of Gamers: 208363
+  Number of Gamers: 214666
   Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '15'
@@ -265,9 +399,9 @@ Base Game Achievements:
   Description: Kill a Stalker.
   GS: '15'
   Guide: true
-  Number of Gamers: 103604
+  Number of Gamers: 107368
   Percentage of Gamers: 49%
-  Ratio: 1.43
+  Ratio: 1.42
   TA: '21'
   Tags:
   - Offline Mode
@@ -277,7 +411,7 @@ Base Game Achievements:
   Description: Kill the Parade Master.
   GS: '15'
   Guide: true
-  Number of Gamers: 136642
+  Number of Gamers: 141222
   Percentage of Gamers: 64%
   Ratio: 1.24
   TA: '18'
@@ -289,7 +423,7 @@ Base Game Achievements:
   Description: Kill the Scrapped Watchman.
   GS: '15'
   Guide: true
-  Number of Gamers: 101886
+  Number of Gamers: 105531
   Percentage of Gamers: 48%
   Ratio: 1.44
   TA: '21'
@@ -301,9 +435,9 @@ Base Game Achievements:
   Description: "Kill King\u2019s Flame, Fuoco."
   GS: '15'
   Guide: true
-  Number of Gamers: 86901
+  Number of Gamers: 90182
   Percentage of Gamers: 41%
-  Ratio: 1.56
+  Ratio: 1.55
   TA: '23'
   Tags:
   - Offline Mode
@@ -313,10 +447,10 @@ Base Game Achievements:
   Description: Kill the Fallen Archbishop Andreus.
   GS: '15'
   Guide: true
-  Number of Gamers: 76475
+  Number of Gamers: 79472
   Percentage of Gamers: 36%
   Ratio: 1.66
-  TA: '25'
+  TA: '24'
   Tags:
   - Offline Mode
   - Single Player
@@ -325,9 +459,9 @@ Base Game Achievements:
   Description: Kill the Eldest of the Black Rabbit Brotherhood.
   GS: '15'
   Guide: true
-  Number of Gamers: 72274
+  Number of Gamers: 75183
   Percentage of Gamers: 34%
-  Ratio: 1.71
+  Ratio: 1.7
   TA: '25'
   Tags:
   - Offline Mode
@@ -337,9 +471,9 @@ Base Game Achievements:
   Description: Kill Romeo, King of Puppets.
   GS: '15'
   Guide: true
-  Number of Gamers: 66008
+  Number of Gamers: 68760
   Percentage of Gamers: 31%
-  Ratio: 1.79
+  Ratio: 1.78
   TA: '26'
   Tags:
   - Offline Mode
@@ -349,9 +483,9 @@ Base Game Achievements:
   Description: Kill Champion Victor.
   GS: '15'
   Guide: true
-  Number of Gamers: 63156
+  Number of Gamers: 65843
   Percentage of Gamers: 30%
-  Ratio: 1.83
+  Ratio: 1.82
   TA: '27'
   Tags:
   - Offline Mode
@@ -361,9 +495,9 @@ Base Game Achievements:
   Description: Kill the Puppet-Devouring Green Monster.
   GS: '15'
   Guide: true
-  Number of Gamers: 59752
+  Number of Gamers: 62360
   Percentage of Gamers: 28%
-  Ratio: 1.88
+  Ratio: 1.87
   TA: '28'
   Tags:
   - Offline Mode
@@ -373,9 +507,9 @@ Base Game Achievements:
   Description: Kill the Corrupted Parade Master.
   GS: '15'
   Guide: true
-  Number of Gamers: 57445
+  Number of Gamers: 60010
   Percentage of Gamers: 27%
-  Ratio: 1.92
+  Ratio: 1.91
   TA: '28'
   Tags:
   - Offline Mode
@@ -385,10 +519,10 @@ Base Game Achievements:
   Description: Kill the Black Rabbit Brotherhood.
   GS: '15'
   Guide: true
-  Number of Gamers: 56382
-  Percentage of Gamers: 26%
-  Ratio: 1.94
-  TA: '29'
+  Number of Gamers: 58928
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '28'
   Tags:
   - Offline Mode
   - Single Player
@@ -397,10 +531,10 @@ Base Game Achievements:
   Description: Kill Laxasia the Complete.
   GS: '15'
   Guide: true
-  Number of Gamers: 53157
+  Number of Gamers: 55626
   Percentage of Gamers: 25%
-  Ratio: 2.0
-  TA: '30'
+  Ratio: 1.98
+  TA: '29'
   Tags:
   - Offline Mode
   - Single Player
@@ -409,9 +543,9 @@ Base Game Achievements:
   Description: Kill the Awakened God Simon Manus.
   GS: '15'
   Guide: true
-  Number of Gamers: 52112
-  Percentage of Gamers: 24%
-  Ratio: 2.02
+  Number of Gamers: 54566
+  Percentage of Gamers: 25%
+  Ratio: 2.0
   TA: '30'
   Tags:
   - Offline Mode
@@ -421,9 +555,9 @@ Base Game Achievements:
   Description: Harvest Gold Coin Fruit.
   GS: '15'
   Guide: true
-  Number of Gamers: 71807
+  Number of Gamers: 74705
   Percentage of Gamers: 34%
-  Ratio: 1.72
+  Ratio: 1.71
   TA: '25'
   Tags:
   - Offline Game Mode
@@ -432,10 +566,10 @@ Base Game Achievements:
   Description: Kill all types of Dimensional Butterflies.
   GS: '15'
   Guide: true
-  Number of Gamers: 65369
+  Number of Gamers: 68095
   Percentage of Gamers: 31%
-  Ratio: 1.8
-  TA: '27'
+  Ratio: 1.79
+  TA: '26'
   Tags:
   - Offline Mode
   - Single Player
@@ -444,9 +578,9 @@ Base Game Achievements:
   Description: Find out about the last story of Venigni.
   GS: '15'
   Guide: true
-  Number of Gamers: 30021
+  Number of Gamers: 31604
   Percentage of Gamers: 14%
-  Ratio: 2.66
+  Ratio: 2.63
   TA: '39'
   Tags:
   - Offline Mode
@@ -456,9 +590,9 @@ Base Game Achievements:
   Description: Find out about the last story of Antonia.
   GS: '15'
   Guide: true
-  Number of Gamers: 44827
+  Number of Gamers: 46911
   Percentage of Gamers: 21%
-  Ratio: 2.17
+  Ratio: 2.16
   TA: '32'
   Tags:
   - Offline Mode
@@ -468,9 +602,9 @@ Base Game Achievements:
   Description: Find out about the last story of Simon Manus.
   GS: '15'
   Guide: true
-  Number of Gamers: 52113
-  Percentage of Gamers: 24%
-  Ratio: 2.02
+  Number of Gamers: 54567
+  Percentage of Gamers: 25%
+  Ratio: 2.0
   TA: '30'
   Tags:
   - Offline Game Mode
@@ -479,10 +613,10 @@ Base Game Achievements:
   Description: Find out about the last story of Geppetto.
   GS: '15'
   Guide: true
-  Number of Gamers: 18633
+  Number of Gamers: 19790
   Percentage of Gamers: 9%
-  Ratio: 3.38
-  TA: '50'
+  Ratio: 3.32
+  TA: '49'
   Tags:
   - Offline Mode
   - Single Player
@@ -491,9 +625,9 @@ Base Game Achievements:
   Description: "Find out about the last story of Eug\xE9nie."
   GS: '15'
   Guide: true
-  Number of Gamers: 25976
+  Number of Gamers: 27331
   Percentage of Gamers: 12%
-  Ratio: 2.86
+  Ratio: 2.83
   TA: '42'
   Tags:
   - Offline Mode
@@ -503,34 +637,34 @@ Base Game Achievements:
   Description: Find out about the last story of Sophia.
   GS: '15'
   Guide: true
-  Number of Gamers: 21563
+  Number of Gamers: 22954
   Percentage of Gamers: 10%
-  Ratio: 3.14
-  TA: '47'
+  Ratio: 3.08
+  TA: '46'
   Tags:
   - Offline Mode
   - Single Player
   - Missable
-Base Ratio: 2.386
-Base TA: 2386
+Base Ratio: 2.356
+Base TA: 2356
 Delisted: false
 Developer: Neowiz, Round8 Studio
 Game Name: Lies of P
 Genres: Action-RPG, Role Playing
-Install Size: 35770.0
-Number of Completions: 10623
-Number of Gamers: 212980
+Install Size: 53780.0
+Number of Completions: 834
+Number of Gamers: 219095
 Overall Completion Time:
-- 60.0
-- 80.0
-Overall GS: 1000
-Overall Ratio: 2.386
-Overall TA: 2386
+- 70.0
+- 92.0
+Overall GS: 1195
+Overall Ratio: 2.5489539748953973
+Overall TA: 3046
 PDU: 0
-Percentage Completed: 4.99
+Percentage Completed: 0.38
 Publisher: Neowiz, Fireshine Games
 Release Date: 18 September 2023
 Server Closure: false
-Site Rating: 4.43
+Site Rating: 4.42
 Update Achievements: []
 Walkthrough: false

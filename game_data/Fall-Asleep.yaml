@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.5
-- 1.0
-Base GS: 1000
+- 1.5
+Base GS: 2000
 Base Game Achievements:
 - Achievement Name: Forest Defense
   Description: Get an axe in the Magic Forest
   GS: '100'
   Guide: false
-  Number of Gamers: 203
+  Number of Gamers: 479
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '100'
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Defeat the first enemy
   GS: '100'
   Guide: false
-  Number of Gamers: 197
-  Percentage of Gamers: 97%
-  Ratio: 1.01
-  TA: '101'
+  Number of Gamers: 474
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '100'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Master the double jump ability
   GS: '100'
   Guide: false
-  Number of Gamers: 178
-  Percentage of Gamers: 87%
-  Ratio: 1.06
-  TA: '106'
+  Number of Gamers: 429
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '105'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Complete the Magic Forest
   GS: '100'
   Guide: false
-  Number of Gamers: 179
-  Percentage of Gamers: 88%
-  Ratio: 1.06
-  TA: '106'
+  Number of Gamers: 430
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '105'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Get the fire shot ability in the Volcano location
   GS: '100'
   Guide: false
-  Number of Gamers: 165
-  Percentage of Gamers: 81%
-  Ratio: 1.1
-  TA: '110'
+  Number of Gamers: 413
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '107'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: Complete the Volcanic Depths
   GS: '100'
   Guide: false
-  Number of Gamers: 167
-  Percentage of Gamers: 82%
-  Ratio: 1.09
-  TA: '109'
+  Number of Gamers: 417
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '107'
   Tags:
   - Offline Mode
   - Single Player
@@ -80,10 +80,10 @@ Base Game Achievements:
   Description: Find an extra heart on the Sand Island
   GS: '100'
   Guide: false
-  Number of Gamers: 159
-  Percentage of Gamers: 78%
-  Ratio: 1.13
-  TA: '113'
+  Number of Gamers: 399
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '109'
   Tags:
   - Offline Mode
   - Single Player
@@ -92,10 +92,10 @@ Base Game Achievements:
   Description: Complete the Sand Island
   GS: '100'
   Guide: false
-  Number of Gamers: 159
-  Percentage of Gamers: 78%
-  Ratio: 1.13
-  TA: '113'
+  Number of Gamers: 401
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '109'
   Tags:
   - Offline Mode
   - Single Player
@@ -104,10 +104,10 @@ Base Game Achievements:
   Description: Complete the Snowy Peaks
   GS: '100'
   Guide: false
-  Number of Gamers: 159
-  Percentage of Gamers: 78%
-  Ratio: 1.13
-  TA: '113'
+  Number of Gamers: 395
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '110'
   Tags:
   - Offline Mode
   - Single Player
@@ -116,34 +116,92 @@ Base Game Achievements:
   Description: Complete the Dungeon
   GS: '100'
   Guide: true
-  Number of Gamers: 151
-  Percentage of Gamers: 74%
-  Ratio: 1.15
-  TA: '115'
+  Number of Gamers: 385
+  Percentage of Gamers: 80%
+  Ratio: 1.11
+  TA: '111'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.086
-Base TA: 1086
+Base Ratio: 1.1815
+Base TA: 2363
 Delisted: false
 Developer: Xitilon
 Game Name: Fall Asleep
 Genres: Platformer
 Install Size: 488.0
-Number of Completions: 152
-Number of Gamers: 204
+Number of Completions: 268
+Number of Gamers: 479
 Overall Completion Time:
 - 0.5
-- 1.0
-Overall GS: 1000
-Overall Ratio: 1.086
-Overall TA: 1086
+- 1.5
+Overall GS: 2000
+Overall Ratio: 1.1815
+Overall TA: 2363
 PDU: 0
-Percentage Completed: 74.51
+Percentage Completed: 55.95
 Publisher: Xitilon
 Release Date: 12 February 2025
 Server Closure: false
-Site Rating: 2.15
-Update Achievements: []
+Site Rating: 2.04
+Update Achievements:
+- Achievement Name: No Bees
+  Description: Destroy 3 hives
+  GS: '200'
+  Guide: true
+  Number of Gamers: 290
+  Percentage of Gamers: 61%
+  Ratio: 1.29
+  TA: '258'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Crusher
+  Description: Break 20 boxes
+  GS: '200'
+  Guide: true
+  Number of Gamers: 294
+  Percentage of Gamers: 61%
+  Ratio: 1.28
+  TA: '256'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Hot Experience
+  Description: Falling into lava for the first time
+  GS: '200'
+  Guide: true
+  Number of Gamers: 283
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '261'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Novice Fighter
+  Description: Kill 10 enemies
+  GS: '200'
+  Guide: false
+  Number of Gamers: 293
+  Percentage of Gamers: 61%
+  Ratio: 1.28
+  TA: '257'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Web of Fate
+  Description: Getting stuck in a web for the first time.
+  GS: '200'
+  Guide: true
+  Number of Gamers: 270
+  Percentage of Gamers: 56%
+  Ratio: 1.34
+  TA: '268'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 Walkthrough: false

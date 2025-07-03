@@ -8,10 +8,10 @@ Base Game Achievements:
   Description: Defeat Edea, the Witch Queen. You can find her at the Capital.
   GS: '75'
   Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 73%
-  Ratio: 1.17
-  TA: '87'
+  Number of Gamers: 50
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '86'
   Tags:
   - Offline Mode
   - Single Player
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Defeat Tabitha, the Deceptive. You can find her at the Tower of Trickery.
   GS: '80'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 49%
-  Ratio: 1.43
-  TA: '114'
+  Number of Gamers: 36
+  Percentage of Gamers: 54%
+  Ratio: 1.36
+  TA: '109'
   Tags:
   - Offline Mode
   - Single Player
@@ -33,10 +33,10 @@ Base Game Achievements:
     Coven.
   GS: '90'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 43%
-  Ratio: 1.52
-  TA: '136'
+  Number of Gamers: 31
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '132'
   Tags:
   - Offline Mode
   - Single Player
@@ -45,10 +45,10 @@ Base Game Achievements:
   Description: Defeat the Coven and stop their plans.
   GS: '100'
   Guide: true
-  Number of Gamers: 14
-  Percentage of Gamers: 38%
-  Ratio: 1.62
-  TA: '162'
+  Number of Gamers: 30
+  Percentage of Gamers: 45%
+  Ratio: 1.49
+  TA: '149'
   Tags:
   - Offline Mode
   - Single Player
@@ -57,10 +57,10 @@ Base Game Achievements:
   Description: Defeat the Coven 5 times to save Thessalonia.
   GS: '100'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 38%
-  Ratio: 1.62
-  TA: '162'
+  Number of Gamers: 30
+  Percentage of Gamers: 45%
+  Ratio: 1.49
+  TA: '149'
   Tags:
   - Offline Mode
   - Single Player
@@ -69,10 +69,10 @@ Base Game Achievements:
   Description: Defeat the Coven at 30 difficulty.
   GS: '100'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 35%
-  Ratio: 1.68
-  TA: '168'
+  Number of Gamers: 29
+  Percentage of Gamers: 43%
+  Ratio: 1.52
+  TA: '152'
   Tags:
   - Offline Mode
   - Single Player
@@ -81,9 +81,9 @@ Base Game Achievements:
   Description: Win your first game
   GS: '20'
   Guide: false
-  Number of Gamers: 37
-  Percentage of Gamers: 100%
-  Ratio: 1.0
+  Number of Gamers: 64
+  Percentage of Gamers: 96%
+  Ratio: 1.02
   TA: '20'
   Tags:
   - Offline Game Mode
@@ -92,8 +92,8 @@ Base Game Achievements:
   Description: Lost your first game
   GS: '10'
   Guide: false
-  Number of Gamers: 35
-  Percentage of Gamers: 95%
+  Number of Gamers: 64
+  Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '10'
   Tags:
@@ -103,21 +103,22 @@ Base Game Achievements:
   Description: Upgrade one of your chessmen
   GS: '75'
   Guide: false
-  Number of Gamers: 32
-  Percentage of Gamers: 86%
-  Ratio: 1.07
-  TA: '80'
+  Number of Gamers: 57
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '81'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Shop
 - Achievement Name: Collector
   Description: Buy 10 relics
   GS: '100'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 41%
-  Ratio: 1.57
-  TA: '157'
+  Number of Gamers: 32
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '144'
   Tags:
   - Offline Mode
   - Single Player
@@ -127,10 +128,10 @@ Base Game Achievements:
   Description: Recruit 10 chessmen
   GS: '100'
   Guide: false
-  Number of Gamers: 32
-  Percentage of Gamers: 86%
-  Ratio: 1.07
-  TA: '107'
+  Number of Gamers: 56
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '109'
   Tags:
   - Offline Mode
   - Single Player
@@ -140,10 +141,10 @@ Base Game Achievements:
   Description: Play 20 games
   GS: '75'
   Guide: false
-  Number of Gamers: 25
-  Percentage of Gamers: 68%
-  Ratio: 1.21
-  TA: '91'
+  Number of Gamers: 44
+  Percentage of Gamers: 66%
+  Ratio: 1.23
+  TA: '92'
   Tags:
   - Offline Mode
   - Single Player
@@ -152,34 +153,34 @@ Base Game Achievements:
   Description: Win 10 game
   GS: '75'
   Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 81%
-  Ratio: 1.11
-  TA: '83'
+  Number of Gamers: 52
+  Percentage of Gamers: 78%
+  Ratio: 1.13
+  TA: '85'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 1.377
-Base TA: 1377
+Base Ratio: 1.318
+Base TA: 1318
 Delisted: false
 Developer: Oriol Cosp, Dolores Entertainment
 Game Name: The Ouroboros King
 Genres: Roguelite, Strategy, Turn Based
 Install Size: 1220.0
-Number of Completions: 13
-Number of Gamers: 37
+Number of Completions: 29
+Number of Gamers: 67
 Overall Completion Time:
 - 1.0
 - 2.0
 Overall GS: 1000
-Overall Ratio: 1.377
-Overall TA: 1377
+Overall Ratio: 1.318
+Overall TA: 1318
 PDU: 0
-Percentage Completed: 35.14
+Percentage Completed: 43.28
 Publisher: Dolores Entertainment
 Release Date: 22 November 2024
 Server Closure: false
-Site Rating: 5.0
+Site Rating: 3.67
 Update Achievements: []
 Walkthrough: false

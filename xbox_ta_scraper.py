@@ -12,6 +12,7 @@ from utils import Utils as utils
 from game_box import GameBox
 from tagdict import TagDict
 import yaml
+import cloudscraper
 
 def csv_to_pandas_loader(csv_path):
     _df = pd.read_csv(csv_path)
@@ -37,6 +38,9 @@ def check_game_for_scan_need(game_box_object: GameBox):
             os.remove(game_file)
             return True
         new_ta = float(game_box_object.ta_score)
+        if previous_ta == 0:
+            # Don't scan a game with no TA
+            return False
         if abs((new_ta - previous_ta) / previous_ta) >= .025:
             # If ta score changed by +/- 2.5 percent, rescan
             return True
@@ -44,7 +48,19 @@ def check_game_for_scan_need(game_box_object: GameBox):
     
     
 def get_page_links(games_list_url):
-    response = requests.get(games_list_url, headers={'User-Agent': 'Mozilla/6.0'})
+    # Deprecated
+    # response = requests.get(games_list_url, headers={'User-Agent': 'Mozilla/6.0'})
+    
+    # TODO move this into a function to clean it up
+    _scraper = cloudscraper.create_scraper(delay=10, browser={'custom': 'Edge'})
+    response = _scraper.get(games_list_url)
+    time.sleep(5)
+    # Retry if title is still "Just a moment..."
+    if "Just a moment..." in response.text:
+        print("[!] Still got challenge page, retrying after delay...")
+        time.sleep(5)
+        response = _scraper.get(games_list_url)
+
     soup = BeautifulSoup(response.content, 'html.parser')
     page_elements = soup.find('ul', {'class': 'pagination'})
     if 'game-pass' in games_list_url:
@@ -116,6 +132,7 @@ def main():
     output_files = utils.output_files
     columns_list = utils.columns_list  
     tag_dict = TagDict()
+    scraper = cloudscraper.create_scraper(delay=10, browser={'custom': 'Edge'})
 
     for url, output_file in zip(urls, output_files[:-1]):
         # Iterate through all of the urls to grab all of the game
@@ -127,7 +144,14 @@ def main():
 
         for page in tqdm(page_links):
             # Update the soup
-            response = requests.get(page)
+            # response = requests.get(page) DEPRECATED
+            response = scraper.get(page)
+            time.sleep(5)
+            if "Just a moment..." in response.text:
+                print("[!] Still got challenge page, retrying after delay...")
+                time.sleep(5)
+                response = scraper.get(url)
+
             soup = BeautifulSoup(response.content, 'html.parser')
             # Find the parent element containing the game information
             parent_element = soup.find('table', {'id': 'oGameList', 'class': 'maintable'})

@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- 3
-- 4
+- 2.0
+- 3.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: 'Prologue: Escaped!'
   Description: Successfully escape from Professor's Cheshire office
   GS: '60'
   Guide: false
-  Number of Gamers: 66
+  Number of Gamers: 91
   Percentage of Gamers: 96%
-  Ratio: 1.02
-  TA: '61'
+  Ratio: 1.01
+  TA: '60'
   Tags:
   - Online/Offline
   - Single Player
@@ -21,10 +21,10 @@ Base Game Achievements:
   Description: Finish the room in less than 3 minutes
   GS: '100'
   Guide: false
-  Number of Gamers: 45
-  Percentage of Gamers: 65%
-  Ratio: 1.23
-  TA: '123'
+  Number of Gamers: 63
+  Percentage of Gamers: 66%
+  Ratio: 1.21
+  TA: '121'
   Tags:
   - Online/Offline
   - Single Player
@@ -34,10 +34,10 @@ Base Game Achievements:
   Description: Finish the room without using extra clues
   GS: '90'
   Guide: false
-  Number of Gamers: 60
-  Percentage of Gamers: 87%
-  Ratio: 1.07
-  TA: '96'
+  Number of Gamers: 84
+  Percentage of Gamers: 88%
+  Ratio: 1.05
+  TA: '95'
   Tags:
   - Online/Offline
   - Single Player
@@ -46,10 +46,10 @@ Base Game Achievements:
   Description: Successfully escape from the Library
   GS: '60'
   Guide: false
-  Number of Gamers: 58
-  Percentage of Gamers: 84%
-  Ratio: 1.09
-  TA: '65'
+  Number of Gamers: 81
+  Percentage of Gamers: 85%
+  Ratio: 1.07
+  TA: '64'
   Tags:
   - Online/Offline
   - Single Player
@@ -59,10 +59,10 @@ Base Game Achievements:
   Description: Finish the room in less than 3 minutes
   GS: '100'
   Guide: false
-  Number of Gamers: 33
-  Percentage of Gamers: 48%
-  Ratio: 1.44
-  TA: '144'
+  Number of Gamers: 49
+  Percentage of Gamers: 52%
+  Ratio: 1.37
+  TA: '137'
   Tags:
   - Online/Offline
   - Single Player
@@ -72,10 +72,10 @@ Base Game Achievements:
   Description: Finish the room without using extra clues
   GS: '90'
   Guide: false
-  Number of Gamers: 55
-  Percentage of Gamers: 80%
-  Ratio: 1.12
-  TA: '100'
+  Number of Gamers: 78
+  Percentage of Gamers: 82%
+  Ratio: 1.09
+  TA: '98'
   Tags:
   - Online/Offline
   - Single Player
@@ -84,10 +84,10 @@ Base Game Achievements:
   Description: Successfully escape from the Greenhouse
   GS: '60'
   Guide: true
-  Number of Gamers: 27
-  Percentage of Gamers: 39%
-  Ratio: 1.59
-  TA: '95'
+  Number of Gamers: 46
+  Percentage of Gamers: 48%
+  Ratio: 1.47
+  TA: '88'
   Tags:
   - Online/Offline
   - Single Player
@@ -97,10 +97,10 @@ Base Game Achievements:
   Description: Finish the room in less than 15 minutes
   GS: '100'
   Guide: false
-  Number of Gamers: 48
-  Percentage of Gamers: 70%
-  Ratio: 1.19
-  TA: '119'
+  Number of Gamers: 68
+  Percentage of Gamers: 72%
+  Ratio: 1.16
+  TA: '116'
   Tags:
   - Online/Offline
   - Single Player
@@ -110,10 +110,10 @@ Base Game Achievements:
   Description: Finish the room without using extra clues
   GS: '90'
   Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 45%
-  Ratio: 1.49
-  TA: '134'
+  Number of Gamers: 45
+  Percentage of Gamers: 47%
+  Ratio: 1.43
+  TA: '129'
   Tags:
   - Online/Offline
   - Single Player
@@ -122,10 +122,10 @@ Base Game Achievements:
   Description: Successfully escape from the Train
   GS: '60'
   Guide: false
-  Number of Gamers: 47
-  Percentage of Gamers: 68%
-  Ratio: 1.21
-  TA: '72'
+  Number of Gamers: 67
+  Percentage of Gamers: 71%
+  Ratio: 1.17
+  TA: '70'
   Tags:
   - Online/Offline
   - Single Player
@@ -135,10 +135,10 @@ Base Game Achievements:
   Description: Finish the room in less than 4 minutes and 30 seconds
   GS: '100'
   Guide: false
-  Number of Gamers: 47
-  Percentage of Gamers: 68%
-  Ratio: 1.21
-  TA: '121'
+  Number of Gamers: 68
+  Percentage of Gamers: 72%
+  Ratio: 1.18
+  TA: '118'
   Tags:
   - Online/Offline
   - Single Player
@@ -148,34 +148,34 @@ Base Game Achievements:
   Description: Finish the room without using extra clues
   GS: '90'
   Guide: true
-  Number of Gamers: 24
-  Percentage of Gamers: 35%
-  Ratio: 1.69
-  TA: '152'
+  Number of Gamers: 41
+  Percentage of Gamers: 43%
+  Ratio: 1.56
+  TA: '140'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
-Base Ratio: 1.282
-Base TA: 1282
+Base Ratio: 1.236
+Base TA: 1236
 Delisted: false
 Developer: PlayTogether Studio
 Game Name: 'Mad Experiments 2: Escape Room'
 Genres: Puzzle
 Install Size: 1700.0
-Number of Completions: 22
-Number of Gamers: 69
+Number of Completions: 38
+Number of Gamers: 95
 Overall Completion Time:
-- 3
-- 4
+- 2.0
+- 3.0
 Overall GS: 1000
-Overall Ratio: 1.282
-Overall TA: 1282
+Overall Ratio: 1.236
+Overall TA: 1236
 PDU: 0
-Percentage Completed: 31.88
+Percentage Completed: 40.0
 Publisher: "Nejcraft\u202C"
 Release Date: 28 August 2024
 Server Closure: false
-Site Rating: 3.0
+Site Rating: 2.33
 Update Achievements: []
 Walkthrough: false

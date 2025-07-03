@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- -1
-- -1
+- 0.5
+- 1.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Dystopia fan
   Description: You know things in dystopias
   GS: '100'
-  Guide: false
-  Number of Gamers: 160
+  Guide: true
+  Number of Gamers: 200
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -19,11 +19,11 @@ Base Game Achievements:
 - Achievement Name: Descartes approves
   Description: Cogito, ergo sum
   GS: '100'
-  Guide: false
-  Number of Gamers: 141
-  Percentage of Gamers: 87%
-  Ratio: 1.07
-  TA: '107'
+  Guide: true
+  Number of Gamers: 182
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '105'
   Tags:
   - Offline Mode
   - Single Player
@@ -31,11 +31,11 @@ Base Game Achievements:
 - Achievement Name: Cipher breaker
   Description: There are no more safe passwords in this world
   GS: '100'
-  Guide: false
-  Number of Gamers: 135
-  Percentage of Gamers: 83%
-  Ratio: 1.09
-  TA: '109'
+  Guide: true
+  Number of Gamers: 175
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '107'
   Tags:
   - Offline Mode
   - Single Player
@@ -43,11 +43,11 @@ Base Game Achievements:
 - Achievement Name: Almost Johnny Mnemonic
   Description: I want to get online... I need a computer!
   GS: '100'
-  Guide: false
-  Number of Gamers: 123
-  Percentage of Gamers: 76%
-  Ratio: 1.14
-  TA: '114'
+  Guide: true
+  Number of Gamers: 159
+  Percentage of Gamers: 79%
+  Ratio: 1.12
+  TA: '112'
   Tags:
   - Offline Mode
   - Single Player
@@ -55,11 +55,11 @@ Base Game Achievements:
 - Achievement Name: Brave New World
   Description: Well, something is not changing
   GS: '100'
-  Guide: false
-  Number of Gamers: 121
-  Percentage of Gamers: 75%
-  Ratio: 1.15
-  TA: '115'
+  Guide: true
+  Number of Gamers: 157
+  Percentage of Gamers: 78%
+  Ratio: 1.13
+  TA: '113'
   Tags:
   - Offline Mode
   - Single Player
@@ -67,11 +67,11 @@ Base Game Achievements:
 - Achievement Name: Good old days
   Description: Well, something is not changing
   GS: '100'
-  Guide: false
-  Number of Gamers: 76
-  Percentage of Gamers: 47%
-  Ratio: 1.46
-  TA: '146'
+  Guide: true
+  Number of Gamers: 109
+  Percentage of Gamers: 54%
+  Ratio: 1.36
+  TA: '136'
   Tags:
   - Offline Mode
   - Single Player
@@ -79,11 +79,11 @@ Base Game Achievements:
 - Achievement Name: Persistent seeker
   Description: You are stubborn
   GS: '100'
-  Guide: false
-  Number of Gamers: 65
-  Percentage of Gamers: 40%
-  Ratio: 1.57
-  TA: '157'
+  Guide: true
+  Number of Gamers: 98
+  Percentage of Gamers: 49%
+  Ratio: 1.43
+  TA: '143'
   Tags:
   - Offline Mode
   - Single Player
@@ -92,53 +92,59 @@ Base Game Achievements:
 - Achievement Name: Home! Sweet home!
   Description: You found it
   GS: '100'
-  Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 1%
-  Ratio: 1.0
-  TA: '100'
+  Guide: true
+  Number of Gamers: 50
+  Percentage of Gamers: 25%
+  Ratio: 2.01
+  TA: '201'
   Tags:
-  - Unobtainable
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Railway station
   Description: You found it
   GS: '100'
-  Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 1%
-  Ratio: 1.0
-  TA: '100'
+  Guide: true
+  Number of Gamers: 50
+  Percentage of Gamers: 25%
+  Ratio: 2.01
+  TA: '201'
   Tags:
-  - Unobtainable
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: I love my work
   Description: You found it
   GS: '100'
-  Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 1%
-  Ratio: 1.0
-  TA: '100'
+  Guide: true
+  Number of Gamers: 49
+  Percentage of Gamers: 24%
+  Ratio: 2.03
+  TA: '203'
   Tags:
-  - Unobtainable
-Base Ratio: 1.148
-Base TA: 1148
+  - Offline Mode
+  - Single Player
+  - Collectable
+Base Ratio: 1.421
+Base TA: 1421
 Delisted: false
 Developer: Triomatica Games
 Game Name: Trust No One
 Genres: Adventure, Point & Click
 Install Size: 472.0
-Number of Completions: 2
-Number of Gamers: 162
+Number of Completions: 48
+Number of Gamers: 202
 Overall Completion Time:
-- -1
-- -1
+- 0.5
+- 1.0
 Overall GS: 1000
-Overall Ratio: 1.148
-Overall TA: 1148
+Overall Ratio: 1.421
+Overall TA: 1421
 PDU: 0
-Percentage Completed: 1.23
+Percentage Completed: 23.76
 Publisher: Triomatica Games
 Release Date: 19 June 2024
 Server Closure: false
-Site Rating: 1.5
+Site Rating: 1.55
 Update Achievements: []
 Walkthrough: false

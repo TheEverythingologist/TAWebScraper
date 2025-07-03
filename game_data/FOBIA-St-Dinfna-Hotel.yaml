@@ -1,16 +1,16 @@
 Add On Achievements: []
 Base Completion Time:
-- 15.0
 - 20.0
+- 25.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Starter
   Description: Finish the game
   GS: '15'
   Guide: false
-  Number of Gamers: 1074
+  Number of Gamers: 1195
   Percentage of Gamers: 32%
-  Ratio: 1.77
+  Ratio: 1.75
   TA: '26'
   Tags:
   - Offline Mode
@@ -21,9 +21,9 @@ Base Game Achievements:
   Description: Discard items 5 times
   GS: '15'
   Guide: false
-  Number of Gamers: 1246
+  Number of Gamers: 1376
   Percentage of Gamers: 37%
-  Ratio: 1.64
+  Ratio: 1.63
   TA: '24'
   Tags:
   - Offline Mode
@@ -33,7 +33,7 @@ Base Game Achievements:
   Description: Combine 4 items
   GS: '15'
   Guide: false
-  Number of Gamers: 2220
+  Number of Gamers: 2417
   Percentage of Gamers: 65%
   Ratio: 1.23
   TA: '18'
@@ -45,7 +45,7 @@ Base Game Achievements:
   Description: Save the game 3 times
   GS: '15'
   Guide: true
-  Number of Gamers: 3261
+  Number of Gamers: 3549
   Percentage of Gamers: 96%
   Ratio: 1.01
   TA: '15'
@@ -57,8 +57,8 @@ Base Game Achievements:
   Description: Open the storage chest
   GS: '15'
   Guide: false
-  Number of Gamers: 2603
-  Percentage of Gamers: 76%
+  Number of Gamers: 2839
+  Percentage of Gamers: 77%
   Ratio: 1.14
   TA: '17'
   Tags:
@@ -68,8 +68,8 @@ Base Game Achievements:
   Description: Use the night vision camera for 15 minutes in a single game
   GS: '15'
   Guide: false
-  Number of Gamers: 2226
-  Percentage of Gamers: 65%
+  Number of Gamers: 2430
+  Percentage of Gamers: 66%
   Ratio: 1.23
   TA: '18'
   Tags:
@@ -79,8 +79,8 @@ Base Game Achievements:
   Description: Use the flashlight for 15 minutes in a single game
   GS: '15'
   Guide: false
-  Number of Gamers: 2186
-  Percentage of Gamers: 64%
+  Number of Gamers: 2392
+  Percentage of Gamers: 65%
   Ratio: 1.24
   TA: '18'
   Tags:
@@ -90,7 +90,7 @@ Base Game Achievements:
   Description: Kill 10 enemies
   GS: '15'
   Guide: true
-  Number of Gamers: 1620
+  Number of Gamers: 1771
   Percentage of Gamers: 48%
   Ratio: 1.44
   TA: '21'
@@ -102,9 +102,9 @@ Base Game Achievements:
   Description: Defeat the Piano Monster
   GS: '15'
   Guide: false
-  Number of Gamers: 1296
-  Percentage of Gamers: 38%
-  Ratio: 1.61
+  Number of Gamers: 1425
+  Percentage of Gamers: 39%
+  Ratio: 1.6
   TA: '24'
   Tags:
   - Offline Mode
@@ -114,8 +114,8 @@ Base Game Achievements:
   Description: Defeat the Spider Mother
   GS: '15'
   Guide: false
-  Number of Gamers: 1616
-  Percentage of Gamers: 47%
+  Number of Gamers: 1760
+  Percentage of Gamers: 48%
   Ratio: 1.44
   TA: '21'
   Tags:
@@ -126,9 +126,9 @@ Base Game Achievements:
   Description: Defeat the Red Light (Aquiles)
   GS: '15'
   Guide: false
-  Number of Gamers: 1086
-  Percentage of Gamers: 32%
-  Ratio: 1.76
+  Number of Gamers: 1209
+  Percentage of Gamers: 33%
+  Ratio: 1.74
   TA: '26'
   Tags:
   - Offline Mode
@@ -138,9 +138,9 @@ Base Game Achievements:
   Description: Survive the Hotel
   GS: '15'
   Guide: false
-  Number of Gamers: 1186
-  Percentage of Gamers: 35%
-  Ratio: 1.69
+  Number of Gamers: 1315
+  Percentage of Gamers: 36%
+  Ratio: 1.67
   TA: '25'
   Tags:
   - Offline Mode
@@ -150,9 +150,9 @@ Base Game Achievements:
   Description: Survive the Forest
   GS: '15'
   Guide: false
-  Number of Gamers: 1164
-  Percentage of Gamers: 34%
-  Ratio: 1.7
+  Number of Gamers: 1291
+  Percentage of Gamers: 35%
+  Ratio: 1.69
   TA: '25'
   Tags:
   - Offline Mode
@@ -162,9 +162,9 @@ Base Game Achievements:
   Description: Survive the Underground
   GS: '15'
   Guide: true
-  Number of Gamers: 600
+  Number of Gamers: 674
   Percentage of Gamers: 18%
-  Ratio: 2.37
+  Ratio: 2.34
   TA: '35'
   Tags:
   - Offline Mode
@@ -174,10 +174,10 @@ Base Game Achievements:
   Description: Collect all documents from the survivors
   GS: '30'
   Guide: false
-  Number of Gamers: 967
-  Percentage of Gamers: 28%
-  Ratio: 1.87
-  TA: '56'
+  Number of Gamers: 1081
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '55'
   Tags:
   - Offline Mode
   - Single Player
@@ -187,9 +187,9 @@ Base Game Achievements:
   Description: Open all articulated stairs
   GS: '30'
   Guide: true
-  Number of Gamers: 915
+  Number of Gamers: 1010
   Percentage of Gamers: 27%
-  Ratio: 1.92
+  Ratio: 1.91
   TA: '57'
   Tags:
   - Offline Mode
@@ -200,10 +200,10 @@ Base Game Achievements:
   Description: Discover all the toy rabbits throughout the environments
   GS: '30'
   Guide: false
-  Number of Gamers: 496
+  Number of Gamers: 566
   Percentage of Gamers: 15%
-  Ratio: 2.61
-  TA: '78'
+  Ratio: 2.55
+  TA: '76'
   Tags:
   - Offline Mode
   - Single Player
@@ -213,10 +213,10 @@ Base Game Achievements:
   Description: Find the bug that is not actually a bug
   GS: '30'
   Guide: true
-  Number of Gamers: 610
-  Percentage of Gamers: 18%
-  Ratio: 2.35
-  TA: '70'
+  Number of Gamers: 694
+  Percentage of Gamers: 19%
+  Ratio: 2.3
+  TA: '69'
   Tags:
   - Offline Mode
   - Single Player
@@ -226,9 +226,9 @@ Base Game Achievements:
   Description: Yes, they're drawers... But not just drawers.
   GS: '30'
   Guide: true
-  Number of Gamers: 1535
-  Percentage of Gamers: 45%
-  Ratio: 1.48
+  Number of Gamers: 1697
+  Percentage of Gamers: 46%
+  Ratio: 1.47
   TA: '44'
   Tags:
   - Offline Mode
@@ -238,9 +238,9 @@ Base Game Achievements:
   Description: Solve the chess puzzle
   GS: '30'
   Guide: true
-  Number of Gamers: 1482
-  Percentage of Gamers: 43%
-  Ratio: 1.51
+  Number of Gamers: 1631
+  Percentage of Gamers: 44%
+  Ratio: 1.5
   TA: '45'
   Tags:
   - Offline Mode
@@ -250,10 +250,10 @@ Base Game Achievements:
   Description: Upgrade one weapon to max level
   GS: '30'
   Guide: false
-  Number of Gamers: 654
-  Percentage of Gamers: 19%
-  Ratio: 2.27
-  TA: '68'
+  Number of Gamers: 738
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '67'
   Tags:
   - Offline Mode
   - Single Player
@@ -262,10 +262,10 @@ Base Game Achievements:
   Description: Collect 50 upgrade items
   GS: '90'
   Guide: true
-  Number of Gamers: 286
-  Percentage of Gamers: 8%
-  Ratio: 3.44
-  TA: '309'
+  Number of Gamers: 330
+  Percentage of Gamers: 9%
+  Ratio: 3.34
+  TA: '300'
   Tags:
   - Offline Mode
   - Single Player
@@ -275,10 +275,10 @@ Base Game Achievements:
   Description: Assemble the 3 gears
   GS: '90'
   Guide: true
-  Number of Gamers: 932
-  Percentage of Gamers: 27%
-  Ratio: 1.9
-  TA: '171'
+  Number of Gamers: 1034
+  Percentage of Gamers: 28%
+  Ratio: 1.88
+  TA: '170'
   Tags:
   - Offline Mode
   - Single Player
@@ -288,10 +288,10 @@ Base Game Achievements:
   Description: Just that, find Jonisvaldo
   GS: '90'
   Guide: true
-  Number of Gamers: 718
-  Percentage of Gamers: 21%
-  Ratio: 2.17
-  TA: '195'
+  Number of Gamers: 808
+  Percentage of Gamers: 22%
+  Ratio: 2.13
+  TA: '192'
   Tags:
   - Offline Mode
   - Single Player
@@ -300,10 +300,10 @@ Base Game Achievements:
   Description: Find all the Memories
   GS: '90'
   Guide: true
-  Number of Gamers: 246
-  Percentage of Gamers: 7%
-  Ratio: 3.71
-  TA: '334'
+  Number of Gamers: 286
+  Percentage of Gamers: 8%
+  Ratio: 3.59
+  TA: '323'
   Tags:
   - Offline Mode
   - Single Player
@@ -313,10 +313,10 @@ Base Game Achievements:
   Description: Upgrade all weapons to max level
   GS: '70'
   Guide: true
-  Number of Gamers: 159
+  Number of Gamers: 192
   Percentage of Gamers: 5%
-  Ratio: 4.63
-  TA: '324'
+  Ratio: 4.38
+  TA: '306'
   Tags:
   - Offline Mode
   - Single Player
@@ -325,10 +325,10 @@ Base Game Achievements:
   Description: Finish the game 3 times
   GS: '75'
   Guide: false
-  Number of Gamers: 165
+  Number of Gamers: 199
   Percentage of Gamers: 5%
-  Ratio: 4.53
-  TA: '339'
+  Ratio: 4.3
+  TA: '323'
   Tags:
   - Offline Mode
   - Single Player
@@ -337,33 +337,33 @@ Base Game Achievements:
   Description: Finish the game without taking damage
   GS: '75'
   Guide: true
-  Number of Gamers: 163
+  Number of Gamers: 195
   Percentage of Gamers: 5%
-  Ratio: 4.57
-  TA: '343'
+  Ratio: 4.35
+  TA: '326'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 2.746
-Base TA: 2746
+Base Ratio: 2.666
+Base TA: 2666
 Delisted: false
 Developer: Pulsatrix Studios
 Game Name: 'FOBIA: St. Dinfna Hotel'
 Genres: Survival Horror
 Install Size: 3930.0
-Number of Completions: 149
-Number of Gamers: 3408
+Number of Completions: 180
+Number of Gamers: 3691
 Overall Completion Time:
-- 15.0
 - 20.0
+- 25.0
 Overall GS: 1000
-Overall Ratio: 2.746
-Overall TA: 2746
+Overall Ratio: 2.666
+Overall TA: 2666
 PDU: 0
-Percentage Completed: 4.37
+Percentage Completed: 4.88
 Publisher: Maximum Entertainment
 Release Date: 28 June 2022
 Server Closure: false
-Site Rating: 3.78
+Site Rating: 3.75
 Update Achievements: []
 Walkthrough: false

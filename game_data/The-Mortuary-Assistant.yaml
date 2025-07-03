@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 29
-- 30
+- 20.0
+- 25.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: My First Body
   Description: Complete the tutorial.
   GS: '15'
   Guide: false
-  Number of Gamers: 1069
+  Number of Gamers: 1382
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '15'
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Try to leave the mortuary.
   GS: '30'
   Guide: true
-  Number of Gamers: 92
-  Percentage of Gamers: 8%
-  Ratio: 3.43
-  TA: '103'
+  Number of Gamers: 128
+  Percentage of Gamers: 9%
+  Ratio: 3.31
+  TA: '99'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -31,10 +31,10 @@ Base Game Achievements:
   Description: Get all endings.
   GS: '90'
   Guide: false
-  Number of Gamers: 91
-  Percentage of Gamers: 8%
-  Ratio: 3.45
-  TA: '310'
+  Number of Gamers: 129
+  Percentage of Gamers: 9%
+  Ratio: 3.29
+  TA: '296'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -42,9 +42,9 @@ Base Game Achievements:
   Description: Beat the game once.
   GS: '30'
   Guide: false
-  Number of Gamers: 511
-  Percentage of Gamers: 47%
-  Ratio: 1.45
+  Number of Gamers: 674
+  Percentage of Gamers: 48%
+  Ratio: 1.44
   TA: '43'
   Tags:
   - Offline Mode
@@ -54,7 +54,7 @@ Base Game Achievements:
   Description: It does nothing...
   GS: '15'
   Guide: true
-  Number of Gamers: 556
+  Number of Gamers: 722
   Percentage of Gamers: 51%
   Ratio: 1.39
   TA: '20'
@@ -65,10 +65,10 @@ Base Game Achievements:
   Description: Enter the storage room.
   GS: '30'
   Guide: true
-  Number of Gamers: 283
-  Percentage of Gamers: 26%
-  Ratio: 1.95
-  TA: '58'
+  Number of Gamers: 390
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '56'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -76,10 +76,10 @@ Base Game Achievements:
   Description: Open the outside hatch.
   GS: '30'
   Guide: true
-  Number of Gamers: 304
-  Percentage of Gamers: 28%
-  Ratio: 1.88
-  TA: '56'
+  Number of Gamers: 418
+  Percentage of Gamers: 30%
+  Ratio: 1.83
+  TA: '55'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -87,9 +87,9 @@ Base Game Achievements:
   Description: Beat the game without embalming all bodies.
   GS: '30'
   Guide: true
-  Number of Gamers: 243
-  Percentage of Gamers: 22%
-  Ratio: 2.11
+  Number of Gamers: 318
+  Percentage of Gamers: 23%
+  Ratio: 2.1
   TA: '63'
   Tags:
   - Offline Mode
@@ -99,10 +99,10 @@ Base Game Achievements:
   Description: Would immerse again.
   GS: '15'
   Guide: true
-  Number of Gamers: 459
-  Percentage of Gamers: 42%
-  Ratio: 1.53
-  TA: '23'
+  Number of Gamers: 603
+  Percentage of Gamers: 43%
+  Ratio: 1.52
+  TA: '22'
   Tags:
   - Offline Mode
   - Single Player
@@ -111,10 +111,10 @@ Base Game Achievements:
   Description: Get Rebecca's ending.
   GS: '95'
   Guide: false
-  Number of Gamers: 129
-  Percentage of Gamers: 12%
-  Ratio: 2.9
-  TA: '275'
+  Number of Gamers: 178
+  Percentage of Gamers: 13%
+  Ratio: 2.81
+  TA: '267'
   Tags:
   - Offline Mode
   - Single Player
@@ -123,10 +123,10 @@ Base Game Achievements:
   Description: Become possessed for the first time.
   GS: '15'
   Guide: false
-  Number of Gamers: 385
-  Percentage of Gamers: 35%
-  Ratio: 1.67
-  TA: '25'
+  Number of Gamers: 516
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '24'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -134,9 +134,9 @@ Base Game Achievements:
   Description: Fail to banish the demon.
   GS: '15'
   Guide: false
-  Number of Gamers: 648
-  Percentage of Gamers: 60%
-  Ratio: 1.29
+  Number of Gamers: 850
+  Percentage of Gamers: 61%
+  Ratio: 1.28
   TA: '19'
   Tags:
   - Offline Mode
@@ -146,7 +146,7 @@ Base Game Achievements:
   Description: Try to use the phone during the start of the game.
   GS: '15'
   Guide: true
-  Number of Gamers: 363
+  Number of Gamers: 469
   Percentage of Gamers: 33%
   Ratio: 1.72
   TA: '25'
@@ -158,10 +158,10 @@ Base Game Achievements:
   Description: Beat the game in under 45 minutes
   GS: '30'
   Guide: false
-  Number of Gamers: 396
-  Percentage of Gamers: 36%
-  Ratio: 1.65
-  TA: '49'
+  Number of Gamers: 530
+  Percentage of Gamers: 38%
+  Ratio: 1.62
+  TA: '48'
   Tags:
   - Offline Mode
   - Single Player
@@ -170,10 +170,10 @@ Base Game Achievements:
   Description: Experience all major story events.
   GS: '95'
   Guide: false
-  Number of Gamers: 124
-  Percentage of Gamers: 11%
-  Ratio: 2.95
-  TA: '281'
+  Number of Gamers: 180
+  Percentage of Gamers: 13%
+  Ratio: 2.79
+  TA: '265'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -181,9 +181,9 @@ Base Game Achievements:
   Description: Throw the red vase.
   GS: '15'
   Guide: true
-  Number of Gamers: 482
+  Number of Gamers: 624
   Percentage of Gamers: 44%
-  Ratio: 1.5
+  Ratio: 1.49
   TA: '22'
   Tags:
   - Offline Game Mode
@@ -192,7 +192,7 @@ Base Game Achievements:
   Description: Complete your first body in the main game.
   GS: '30'
   Guide: true
-  Number of Gamers: 903
+  Number of Gamers: 1169
   Percentage of Gamers: 83%
   Ratio: 1.09
   TA: '32'
@@ -204,10 +204,10 @@ Base Game Achievements:
   Description: Embalm 100 bodies
   GS: '95'
   Guide: true
-  Number of Gamers: 32
+  Number of Gamers: 48
   Percentage of Gamers: 3%
-  Ratio: 5.82
-  TA: '553'
+  Ratio: 5.4
+  TA: '513'
   Tags:
   - Offline Mode
   - Single Player
@@ -216,10 +216,10 @@ Base Game Achievements:
   Description: Burn 50 bodies in the retort.
   GS: '90'
   Guide: true
-  Number of Gamers: 41
+  Number of Gamers: 57
   Percentage of Gamers: 4%
-  Ratio: 5.14
-  TA: '462'
+  Ratio: 4.96
+  TA: '446'
   Tags:
   - Offline Mode
   - Single Player
@@ -228,10 +228,10 @@ Base Game Achievements:
   Description: Listen to all DJ Two-shades clips.
   GS: '30'
   Guide: true
-  Number of Gamers: 146
-  Percentage of Gamers: 13%
-  Ratio: 2.72
-  TA: '81'
+  Number of Gamers: 195
+  Percentage of Gamers: 14%
+  Ratio: 2.68
+  TA: '80'
   Tags:
   - Offline Mode
   - Single Player
@@ -240,10 +240,10 @@ Base Game Achievements:
   Description: Get right back to work.
   GS: '15'
   Guide: true
-  Number of Gamers: 752
-  Percentage of Gamers: 69%
-  Ratio: 1.2
-  TA: '18'
+  Number of Gamers: 989
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '17'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -251,10 +251,10 @@ Base Game Achievements:
   Description: Complete ending 6.
   GS: '100'
   Guide: true
-  Number of Gamers: 198
-  Percentage of Gamers: 18%
-  Ratio: 2.34
-  TA: '234'
+  Number of Gamers: 281
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '223'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -262,10 +262,10 @@ Base Game Achievements:
   Description: Open the second basement door.
   GS: '30'
   Guide: true
-  Number of Gamers: 253
-  Percentage of Gamers: 23%
-  Ratio: 2.07
-  TA: '62'
+  Number of Gamers: 349
+  Percentage of Gamers: 25%
+  Ratio: 2.0
+  TA: '60'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -273,10 +273,10 @@ Base Game Achievements:
   Description: Read the letter from Raymond.
   GS: '30'
   Guide: true
-  Number of Gamers: 163
-  Percentage of Gamers: 15%
-  Ratio: 2.58
-  TA: '77'
+  Number of Gamers: 227
+  Percentage of Gamers: 16%
+  Ratio: 2.48
+  TA: '74'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -284,33 +284,33 @@ Base Game Achievements:
   Description: Embalm a body in embalming only mode.
   GS: '15'
   Guide: false
-  Number of Gamers: 224
+  Number of Gamers: 296
   Percentage of Gamers: 21%
-  Ratio: 2.2
-  TA: '33'
+  Ratio: 2.17
+  TA: '32'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 2.939
-Base TA: 2939
+Base Ratio: 2.816
+Base TA: 2816
 Delisted: false
 Developer: DarkStone Digital
 Game Name: The Mortuary Assistant
 Genres: Adventure
 Install Size: 3370.0
-Number of Completions: 31
-Number of Gamers: 1085
+Number of Completions: 46
+Number of Gamers: 1403
 Overall Completion Time:
-- 29
-- 30
+- 20.0
+- 25.0
 Overall GS: 1000
-Overall Ratio: 2.939
-Overall TA: 2939
+Overall Ratio: 2.816
+Overall TA: 2816
 PDU: 0
-Percentage Completed: 2.86
+Percentage Completed: 3.28
 Publisher: DreadXP
 Release Date: 15 August 2024
 Server Closure: false
-Site Rating: 3.6
+Site Rating: 3.65
 Update Achievements: []
 Walkthrough: false

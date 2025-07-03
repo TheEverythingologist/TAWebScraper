@@ -1,15 +1,15 @@
 Add On Achievements: []
 Base Completion Time:
-- 0.5
 - 1.0
-Base GS: 1000
+- 2.0
+Base GS: 2000
 Base Game Achievements:
 - Achievement Name: Beat Two Levels
   Description: Beat two levels.
   GS: '90'
   Guide: false
-  Number of Gamers: 113
-  Percentage of Gamers: 99%
+  Number of Gamers: 177
+  Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '90'
   Tags:
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Beat four levels.
   GS: '90'
   Guide: false
-  Number of Gamers: 106
-  Percentage of Gamers: 93%
-  Ratio: 1.03
-  TA: '92'
+  Number of Gamers: 161
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '94'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Beat six levels.
   GS: '90'
   Guide: false
-  Number of Gamers: 90
-  Percentage of Gamers: 79%
-  Ratio: 1.12
-  TA: '100'
+  Number of Gamers: 137
+  Percentage of Gamers: 77%
+  Ratio: 1.13
+  TA: '102'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Beat eight levels.
   GS: '90'
   Guide: false
-  Number of Gamers: 89
-  Percentage of Gamers: 78%
-  Ratio: 1.12
-  TA: '101'
+  Number of Gamers: 133
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '103'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Beat ten levels.
   GS: '90'
   Guide: false
-  Number of Gamers: 89
-  Percentage of Gamers: 78%
-  Ratio: 1.12
-  TA: '101'
+  Number of Gamers: 131
+  Percentage of Gamers: 74%
+  Ratio: 1.16
+  TA: '104'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: Beat twelve levels.
   GS: '90'
   Guide: false
-  Number of Gamers: 89
-  Percentage of Gamers: 78%
-  Ratio: 1.12
-  TA: '101'
+  Number of Gamers: 131
+  Percentage of Gamers: 74%
+  Ratio: 1.16
+  TA: '104'
   Tags:
   - Offline Mode
   - Single Player
@@ -80,10 +80,10 @@ Base Game Achievements:
   Description: Beat fourteen levels.
   GS: '90'
   Guide: false
-  Number of Gamers: 89
-  Percentage of Gamers: 78%
-  Ratio: 1.12
-  TA: '101'
+  Number of Gamers: 128
+  Percentage of Gamers: 72%
+  Ratio: 1.17
+  TA: '105'
   Tags:
   - Offline Mode
   - Single Player
@@ -92,10 +92,10 @@ Base Game Achievements:
   Description: Beat sixteen levels.
   GS: '90'
   Guide: false
-  Number of Gamers: 85
-  Percentage of Gamers: 75%
-  Ratio: 1.15
-  TA: '103'
+  Number of Gamers: 123
+  Percentage of Gamers: 69%
+  Ratio: 1.19
+  TA: '107'
   Tags:
   - Offline Mode
   - Single Player
@@ -104,10 +104,10 @@ Base Game Achievements:
   Description: Beat eighteen levels.
   GS: '90'
   Guide: false
-  Number of Gamers: 81
-  Percentage of Gamers: 71%
-  Ratio: 1.18
-  TA: '106'
+  Number of Gamers: 116
+  Percentage of Gamers: 66%
+  Ratio: 1.23
+  TA: '111'
   Tags:
   - Offline Mode
   - Single Player
@@ -116,10 +116,10 @@ Base Game Achievements:
   Description: Beat twenty levels.
   GS: '90'
   Guide: false
-  Number of Gamers: 80
-  Percentage of Gamers: 70%
-  Ratio: 1.18
-  TA: '106'
+  Number of Gamers: 112
+  Percentage of Gamers: 63%
+  Ratio: 1.26
+  TA: '113'
   Tags:
   - Offline Mode
   - Single Player
@@ -128,34 +128,166 @@ Base Game Achievements:
   Description: Beat the game.
   GS: '100'
   Guide: true
-  Number of Gamers: 80
-  Percentage of Gamers: 70%
-  Ratio: 1.18
-  TA: '118'
+  Number of Gamers: 112
+  Percentage of Gamers: 63%
+  Ratio: 1.26
+  TA: '126'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.119
-Base TA: 1119
+Base Ratio: 1.3055
+Base TA: 2611
 Delisted: false
 Developer: Apapappa Games
 Game Name: 'Journey of Johann: Grasslands'
 Genres: Platformer
 Install Size: 387.0
-Number of Completions: 81
-Number of Gamers: 114
+Number of Completions: 64
+Number of Gamers: 177
 Overall Completion Time:
-- 0.5
 - 1.0
-Overall GS: 1000
-Overall Ratio: 1.119
-Overall TA: 1119
+- 2.0
+Overall GS: 2000
+Overall Ratio: 1.3055
+Overall TA: 2611
 PDU: 0
-Percentage Completed: 71.05
+Percentage Completed: 36.16
 Publisher: Xitilon
 Release Date: 05 February 2025
 Server Closure: false
-Site Rating: 1.33
-Update Achievements: []
+Site Rating: 1.39
+Update Achievements:
+- Achievement Name: Collect all Goblets on Two Levels
+  Description: Collect all Goblets on Two Levels
+  GS: '90'
+  Guide: false
+  Number of Gamers: 107
+  Percentage of Gamers: 60%
+  Ratio: 1.28
+  TA: '115'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Collect all Goblets on Four Levels
+  Description: Collect all Goblets on Four Levels
+  GS: '90'
+  Guide: false
+  Number of Gamers: 96
+  Percentage of Gamers: 54%
+  Ratio: 1.35
+  TA: '122'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Collect all Goblets on Six Levels
+  Description: Collect all Goblets on Six Levels
+  GS: '90'
+  Guide: false
+  Number of Gamers: 91
+  Percentage of Gamers: 51%
+  Ratio: 1.39
+  TA: '125'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Collect all Goblets on Eight Levels
+  Description: Collect all Goblets on Eight Levels
+  GS: '90'
+  Guide: false
+  Number of Gamers: 89
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '126'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Collect all Goblets on Ten Levels
+  Description: Collect all Goblets on Ten Levels
+  GS: '90'
+  Guide: false
+  Number of Gamers: 87
+  Percentage of Gamers: 49%
+  Ratio: 1.42
+  TA: '128'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Collect all Goblets on Twelve Levels
+  Description: Collect all Goblets on Twelve Levels
+  GS: '90'
+  Guide: false
+  Number of Gamers: 86
+  Percentage of Gamers: 49%
+  Ratio: 1.43
+  TA: '129'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Collect all Goblets on Fourteen Levels
+  Description: Collect all Goblets on Fourteen Levels
+  GS: '90'
+  Guide: false
+  Number of Gamers: 83
+  Percentage of Gamers: 47%
+  Ratio: 1.46
+  TA: '131'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Collect all Goblets on Sixteen Levels
+  Description: Collect all Goblets on Sixteen Levels
+  GS: '90'
+  Guide: false
+  Number of Gamers: 81
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '133'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Collect all Goblets on Eighteen Levels
+  Description: Collect all Goblets on Eighteen Levels
+  GS: '90'
+  Guide: false
+  Number of Gamers: 77
+  Percentage of Gamers: 44%
+  Ratio: 1.52
+  TA: '137'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Collect all Goblets on Twenty Levels
+  Description: Collect all Goblets on Twenty Levels
+  GS: '90'
+  Guide: false
+  Number of Gamers: 74
+  Percentage of Gamers: 42%
+  Ratio: 1.55
+  TA: '140'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Collect all Goblets on All Levels
+  Description: Collect all Goblets on All Levels
+  GS: '100'
+  Guide: true
+  Number of Gamers: 64
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '166'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 Walkthrough: false

@@ -1,4 +1,120 @@
-Add On Achievements: []
+Add On Achievements:
+- Achievement Name: Welcome Aboard!
+  Description: Successfully complete 1 tourist course.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 19
+  Percentage of Gamers: 83%
+  Ratio: 4.14
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Tour de Force
+  Description: Successfully complete 5 tourist courses.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 14
+  Percentage of Gamers: 61%
+  Ratio: 5.0
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Seasoned Sightseer
+  Description: Successfully complete 15 tourist courses.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 12
+  Percentage of Gamers: 52%
+  Ratio: 5.24
+  TA: '104'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: "Sizarian\u2019s First Spin"
+  Description: Drive 10 km with Sizarian car.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 16
+  Percentage of Gamers: 70%
+  Ratio: 4.43
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Sizarian Road Warrior
+  Description: Drive 25 km with Sizarian car.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 14
+  Percentage of Gamers: 61%
+  Ratio: 4.79
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Sizarian Marathon Driver
+  Description: Drive 40 km with Sizarian car.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 13
+  Percentage of Gamers: 57%
+  Ratio: 5.0
+  TA: '100'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Scenic Sampler
+  Description: During the ride, show the tourist 6 scenic viewpoints.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 19
+  Percentage of Gamers: 83%
+  Ratio: 4.14
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Panorama Perfectionist
+  Description: During the ride, show the tourist 15 scenic viewpoints.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 15
+  Percentage of Gamers: 65%
+  Ratio: 4.6
+  TA: '46'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Star-Studded Service
+  Description: Complete a tourist course with a 5-star rating.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 16
+  Percentage of Gamers: 70%
+  Ratio: 4.6
+  TA: '92'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Touring Tycoon
+  Description: Earn 5000 euros through tourist courses.
+  GS: '80'
+  Guide: false
+  Number of Gamers: 13
+  Percentage of Gamers: 57%
+  Ratio: 5.0
+  TA: '400'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 Base Completion Time:
 - 25.0
 - 30.0
@@ -8,8 +124,8 @@ Base Game Achievements:
   Description: Complete your first ride as a taxi driver.
   GS: '10'
   Guide: true
-  Number of Gamers: 3297
-  Percentage of Gamers: 99%
+  Number of Gamers: 4215
+  Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '10'
   Tags:
@@ -20,7 +136,7 @@ Base Game Achievements:
   Description: Purchase a new car.
   GS: '15'
   Guide: true
-  Number of Gamers: 1468
+  Number of Gamers: 1869
   Percentage of Gamers: 44%
   Ratio: 1.5
   TA: '22'
@@ -32,8 +148,8 @@ Base Game Achievements:
   Description: Buy and equip a new car part.
   GS: '20'
   Guide: true
-  Number of Gamers: 1401
-  Percentage of Gamers: 42%
+  Number of Gamers: 1805
+  Percentage of Gamers: 43%
   Ratio: 1.53
   TA: '30'
   Tags:
@@ -44,10 +160,10 @@ Base Game Achievements:
   Description: Hire an employee driver.
   GS: '50'
   Guide: true
-  Number of Gamers: 1410
+  Number of Gamers: 1773
   Percentage of Gamers: 42%
-  Ratio: 1.53
-  TA: '76'
+  Ratio: 1.54
+  TA: '77'
   Tags:
   - Offline Mode
   - Single Player
@@ -57,10 +173,10 @@ Base Game Achievements:
     time.
   GS: '100'
   Guide: true
-  Number of Gamers: 219
+  Number of Gamers: 291
   Percentage of Gamers: 7%
-  Ratio: 3.88
-  TA: '388'
+  Ratio: 3.82
+  TA: '382'
   Tags:
   - Offline Mode
   - Single Player
@@ -70,10 +186,10 @@ Base Game Achievements:
   Description: Refuel your car at all of the gas stations.
   GS: '10'
   Guide: true
-  Number of Gamers: 322
+  Number of Gamers: 428
   Percentage of Gamers: 10%
-  Ratio: 3.2
-  TA: '32'
+  Ratio: 3.15
+  TA: '31'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -81,9 +197,9 @@ Base Game Achievements:
   Description: Wash your car at every car wash in the city.
   GS: '10'
   Guide: true
-  Number of Gamers: 264
+  Number of Gamers: 338
   Percentage of Gamers: 8%
-  Ratio: 3.53
+  Ratio: 3.54
   TA: '35'
   Tags:
   - Offline Game Mode
@@ -92,9 +208,9 @@ Base Game Achievements:
   Description: Recharge your car at every charging station in the city.
   GS: '50'
   Guide: true
-  Number of Gamers: 224
+  Number of Gamers: 288
   Percentage of Gamers: 7%
-  Ratio: 3.85
+  Ratio: 3.84
   TA: '192'
   Tags:
   - Offline Game Mode
@@ -103,7 +219,7 @@ Base Game Achievements:
   Description: Cover 100 km in a single career.
   GS: '10'
   Guide: false
-  Number of Gamers: 1182
+  Number of Gamers: 1507
   Percentage of Gamers: 36%
   Ratio: 1.67
   TA: '16'
@@ -115,9 +231,9 @@ Base Game Achievements:
   Description: Cover 200 km in a single career.
   GS: '10'
   Guide: false
-  Number of Gamers: 669
+  Number of Gamers: 866
   Percentage of Gamers: 20%
-  Ratio: 2.22
+  Ratio: 2.2
   TA: '22'
   Tags:
   - Offline Mode
@@ -127,10 +243,10 @@ Base Game Achievements:
   Description: Cover 500 km in a single career.
   GS: '100'
   Guide: false
-  Number of Gamers: 226
-  Percentage of Gamers: 7%
-  Ratio: 3.82
-  TA: '382'
+  Number of Gamers: 322
+  Percentage of Gamers: 8%
+  Ratio: 3.62
+  TA: '362'
   Tags:
   - Offline Mode
   - Single Player
@@ -139,9 +255,9 @@ Base Game Achievements:
   Description: Successfully complete at least 10 rides.
   GS: '5'
   Guide: false
-  Number of Gamers: 1995
+  Number of Gamers: 2520
   Percentage of Gamers: 60%
-  Ratio: 1.28
+  Ratio: 1.29
   TA: '6'
   Tags:
   - Offline Mode
@@ -151,7 +267,7 @@ Base Game Achievements:
   Description: Successfully complete at least 50 rides.
   GS: '15'
   Guide: false
-  Number of Gamers: 656
+  Number of Gamers: 837
   Percentage of Gamers: 20%
   Ratio: 2.24
   TA: '33'
@@ -163,10 +279,10 @@ Base Game Achievements:
   Description: Successfully complete at least 150 rides.
   GS: '100'
   Guide: true
-  Number of Gamers: 173
-  Percentage of Gamers: 5%
-  Ratio: 4.37
-  TA: '437'
+  Number of Gamers: 243
+  Percentage of Gamers: 6%
+  Ratio: 4.16
+  TA: '416'
   Tags:
   - Offline Mode
   - Single Player
@@ -175,9 +291,9 @@ Base Game Achievements:
   Description: Reach level 10.
   GS: '10'
   Guide: false
-  Number of Gamers: 1193
+  Number of Gamers: 1502
   Percentage of Gamers: 36%
-  Ratio: 1.66
+  Ratio: 1.67
   TA: '16'
   Tags:
   - Offline Mode
@@ -187,9 +303,9 @@ Base Game Achievements:
   Description: Reach level 20.
   GS: '10'
   Guide: false
-  Number of Gamers: 395
+  Number of Gamers: 517
   Percentage of Gamers: 12%
-  Ratio: 2.89
+  Ratio: 2.86
   TA: '28'
   Tags:
   - Offline Mode
@@ -199,10 +315,10 @@ Base Game Achievements:
   Description: Reach level 30.
   GS: '100'
   Guide: true
-  Number of Gamers: 159
+  Number of Gamers: 222
   Percentage of Gamers: 5%
-  Ratio: 4.55
-  TA: '455'
+  Ratio: 4.35
+  TA: '435'
   Tags:
   - Offline Mode
   - Single Player
@@ -211,7 +327,7 @@ Base Game Achievements:
   Description: Complete the driving school tutorial.
   GS: '5'
   Guide: true
-  Number of Gamers: 3028
+  Number of Gamers: 3850
   Percentage of Gamers: 91%
   Ratio: 1.04
   TA: '5'
@@ -223,9 +339,9 @@ Base Game Achievements:
   Description: Cover 10 km in a single career.
   GS: '5'
   Guide: false
-  Number of Gamers: 2778
+  Number of Gamers: 3569
   Percentage of Gamers: 84%
-  Ratio: 1.09
+  Ratio: 1.08
   TA: '5'
   Tags:
   - Offline Mode
@@ -235,9 +351,9 @@ Base Game Achievements:
   Description: Cover 50 km in a single career.
   GS: '10'
   Guide: false
-  Number of Gamers: 1713
+  Number of Gamers: 2180
   Percentage of Gamers: 52%
-  Ratio: 1.38
+  Ratio: 1.39
   TA: '13'
   Tags:
   - Offline Mode
@@ -247,9 +363,9 @@ Base Game Achievements:
   Description: Cover 300 km in a single career.
   GS: '10'
   Guide: false
-  Number of Gamers: 426
+  Number of Gamers: 561
   Percentage of Gamers: 13%
-  Ratio: 2.78
+  Ratio: 2.75
   TA: '27'
   Tags:
   - Offline Mode
@@ -259,10 +375,10 @@ Base Game Achievements:
   Description: Cover 400 km in a single career.
   GS: '50'
   Guide: false
-  Number of Gamers: 288
+  Number of Gamers: 398
   Percentage of Gamers: 9%
-  Ratio: 3.39
-  TA: '169'
+  Ratio: 3.26
+  TA: '163'
   Tags:
   - Offline Mode
   - Single Player
@@ -271,7 +387,7 @@ Base Game Achievements:
   Description: Successfully complete at least 25 rides.
   GS: '10'
   Guide: false
-  Number of Gamers: 1269
+  Number of Gamers: 1613
   Percentage of Gamers: 38%
   Ratio: 1.61
   TA: '16'
@@ -283,10 +399,10 @@ Base Game Achievements:
   Description: Successfully complete at least 75 rides.
   GS: '20'
   Guide: false
-  Number of Gamers: 381
-  Percentage of Gamers: 11%
-  Ratio: 2.94
-  TA: '58'
+  Number of Gamers: 513
+  Percentage of Gamers: 12%
+  Ratio: 2.87
+  TA: '57'
   Tags:
   - Offline Mode
   - Single Player
@@ -295,10 +411,10 @@ Base Game Achievements:
   Description: Successfully complete at least 100 rides.
   GS: '50'
   Guide: false
-  Number of Gamers: 259
+  Number of Gamers: 353
   Percentage of Gamers: 8%
-  Ratio: 3.57
-  TA: '178'
+  Ratio: 3.46
+  TA: '173'
   Tags:
   - Offline Mode
   - Single Player
@@ -307,7 +423,7 @@ Base Game Achievements:
   Description: Reach level 5.
   GS: '5'
   Guide: true
-  Number of Gamers: 1830
+  Number of Gamers: 2325
   Percentage of Gamers: 55%
   Ratio: 1.34
   TA: '6'
@@ -319,9 +435,9 @@ Base Game Achievements:
   Description: Reach level 15.
   GS: '10'
   Guide: false
-  Number of Gamers: 805
+  Number of Gamers: 1020
   Percentage of Gamers: 24%
-  Ratio: 2.02
+  Ratio: 2.03
   TA: '20'
   Tags:
   - Offline Mode
@@ -331,10 +447,10 @@ Base Game Achievements:
   Description: Reach level 25.
   GS: '50'
   Guide: false
-  Number of Gamers: 218
+  Number of Gamers: 292
   Percentage of Gamers: 7%
-  Ratio: 3.89
-  TA: '194'
+  Ratio: 3.8
+  TA: '190'
   Tags:
   - Offline Mode
   - Single Player
@@ -343,7 +459,7 @@ Base Game Achievements:
   Description: Find all mural collectibles.
   GS: '50'
   Guide: true
-  Number of Gamers: 507
+  Number of Gamers: 648
   Percentage of Gamers: 15%
   Ratio: 2.55
   TA: '127'
@@ -355,34 +471,34 @@ Base Game Achievements:
   Description: Find all monument collectibles.
   GS: '100'
   Guide: true
-  Number of Gamers: 481
-  Percentage of Gamers: 14%
-  Ratio: 2.62
-  TA: '262'
+  Number of Gamers: 620
+  Percentage of Gamers: 15%
+  Ratio: 2.61
+  TA: '261'
   Tags:
   - Offline Mode
   - Single Player
   - Collectable
-Base Ratio: 3.26
-Base TA: 3260
+Base Ratio: 3.176
+Base TA: 3176
 Delisted: false
 Developer: Simteract
 Game Name: 'Taxi Life: A City Driving Simulator'
 Genres: Simulation
-Install Size: 5230.0
-Number of Completions: 135
-Number of Gamers: 3323
+Install Size: 5330.0
+Number of Completions: 13
+Number of Gamers: 4226
 Overall Completion Time:
-- 25.0
-- 30.0
-Overall GS: 1000
-Overall Ratio: 3.26
-Overall TA: 3260
+- 27.0
+- 33.0
+Overall GS: 1180
+Overall Ratio: 3.4347457627118643
+Overall TA: 4053
 PDU: 0
-Percentage Completed: 4.06
+Percentage Completed: 0.31
 Publisher: Nacon
 Release Date: 07 March 2024
 Server Closure: false
-Site Rating: 3.55
+Site Rating: 3.48
 Update Achievements: []
 Walkthrough: false

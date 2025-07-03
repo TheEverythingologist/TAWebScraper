@@ -1,192 +1,250 @@
 Add On Achievements: []
 Base Completion Time:
-- 45
-- 46
+- 71
+- 72
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Betrayed
   Description: Complete the Prologue on any tier
   GS: '15'
   Guide: false
-  Number of Gamers: 120
+  Number of Gamers: 199
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '15'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: A Rogue Reborn
   Description: Complete Act I on any tier
   GS: '15'
   Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 22%
-  Ratio: 2.1
-  TA: '31'
-  Tags: []
+  Number of Gamers: 67
+  Percentage of Gamers: 34%
+  Ratio: 1.72
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Heart of Glass
   Description: Complete Act II on any tier
   GS: '50'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 8%
-  Ratio: 3.65
-  TA: '182'
-  Tags: []
+  Number of Gamers: 32
+  Percentage of Gamers: 16%
+  Ratio: 2.49
+  TA: '124'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Plunder and Ruin!
   Description: Complete Act III on any tier
   GS: '80'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 3%
-  Ratio: 5.47
-  TA: '438'
-  Tags: []
+  Number of Gamers: 23
+  Percentage of Gamers: 12%
+  Ratio: 2.94
+  TA: '235'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
 - Achievement Name: Rising Tide
   Description: Defeat Blackbone's final form on difficulty level Heroic III or higher.
   GS: '80'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 1%
-  Ratio: 10.95
-  TA: '876'
-  Tags: []
+  Number of Gamers: 11
+  Percentage of Gamers: 6%
+  Ratio: 4.25
+  TA: '340'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
 - Achievement Name: An Eye for an Eye!
   Description: Defeat the Blackbone's final form on difficulty level Ultimate V or
     higher.
   GS: '90'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 1%
-  Ratio: 10.95
-  TA: '985'
-  Tags: []
+  Number of Gamers: 7
+  Percentage of Gamers: 4%
+  Ratio: 5.33
+  TA: '479'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
 - Achievement Name: Terror of the Seas!
   Description: Defeat the Blackbone's final form on difficulty level Ultimate IX.
   GS: '100'
-  Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 1%
-  Ratio: 10.95
-  TA: 1,095
-  Tags: []
+  Guide: true
+  Number of Gamers: 5
+  Percentage of Gamers: 3%
+  Ratio: 6.3
+  TA: '630'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
 - Achievement Name: The Legendary Captain Cutter
   Description: Reach maximum Cutter level
   GS: '30'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 1%
-  Ratio: 10.95
-  TA: '328'
-  Tags: []
+  Number of Gamers: 7
+  Percentage of Gamers: 4%
+  Ratio: 5.33
+  TA: '159'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
 - Achievement Name: He's Flippin' Brilliant!
   Description: Reach the maximum Grappler level
   GS: '30'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 1%
-  Ratio: 10.95
-  TA: '328'
-  Tags: []
+  Number of Gamers: 6
+  Percentage of Gamers: 3%
+  Ratio: 5.75
+  TA: '172'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
 - Achievement Name: Masterchef
   Description: Reach the maximum Cook level
   GS: '30'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 1%
-  Ratio: 10.95
-  TA: '328'
-  Tags: []
+  Number of Gamers: 8
+  Percentage of Gamers: 4%
+  Ratio: 4.98
+  TA: '149'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
 - Achievement Name: Knives Out!
   Description: Reach the maximum Backstabber level
   GS: '30'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 1%
-  Ratio: 10.95
-  TA: '328'
-  Tags: []
+  Number of Gamers: 7
+  Percentage of Gamers: 4%
+  Ratio: 5.33
+  TA: '159'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
 - Achievement Name: Leave It To Cleaver!
   Description: Reach the maximum Cleaver level
   GS: '30'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 1%
-  Ratio: 10.95
-  TA: '328'
-  Tags: []
+  Number of Gamers: 6
+  Percentage of Gamers: 3%
+  Ratio: 5.75
+  TA: '172'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
 - Achievement Name: Dead shot
   Description: Reach the maximum Musketeer level
   GS: '30'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 1%
-  Ratio: 10.95
-  TA: '328'
-  Tags: []
+  Number of Gamers: 6
+  Percentage of Gamers: 3%
+  Ratio: 5.75
+  TA: '172'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
 - Achievement Name: That's the Spear-it!
   Description: Reach the maximum Spearmaiden level
   GS: '30'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 1%
-  Ratio: 10.95
-  TA: '328'
-  Tags: []
+  Number of Gamers: 6
+  Percentage of Gamers: 3%
+  Ratio: 5.75
+  TA: '172'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
 - Achievement Name: Priority Shipping
   Description: Buy all Ship upgrades
   GS: '90'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 5%
-  Ratio: 4.47
-  TA: '402'
-  Tags: []
+  Number of Gamers: 36
+  Percentage of Gamers: 18%
+  Ratio: 2.35
+  TA: '211'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
 - Achievement Name: Quartermaster
   Description: Buy all Equipment upgrades
   GS: '90'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 7%
-  Ratio: 3.87
-  TA: '348'
-  Tags: []
+  Number of Gamers: 35
+  Percentage of Gamers: 18%
+  Ratio: 2.38
+  TA: '214'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
 - Achievement Name: All Decked Out
   Description: Buy all Crew upgrades
   GS: '90'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 2%
-  Ratio: 7.74
-  TA: '697'
-  Tags: []
+  Number of Gamers: 16
+  Percentage of Gamers: 8%
+  Ratio: 3.52
+  TA: '317'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
 - Achievement Name: Rise of the Sea Shepherd
   Description: Buy all Sea Monsters upgrades
   GS: '90'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 2%
-  Ratio: 7.74
-  TA: '697'
-  Tags: []
-Base Ratio: 8.062
-Base TA: 8062
+  Number of Gamers: 13
+  Percentage of Gamers: 7%
+  Ratio: 3.91
+  TA: '352'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+Base Ratio: 4.097
+Base TA: 4097
 Delisted: false
 Developer: Ice Code Games
 Game Name: Rogue Waters
 Genres: Roguelite, Strategy, Turn Based
 Install Size: 5670.0
-Number of Completions: 1
-Number of Gamers: 120
+Number of Completions: 5
+Number of Gamers: 199
 Overall Completion Time:
-- 45
-- 46
+- 71
+- 72
 Overall GS: 1000
-Overall Ratio: 8.062
-Overall TA: 8062
+Overall Ratio: 4.097
+Overall TA: 4097
 PDU: 0
-Percentage Completed: 0.83
+Percentage Completed: 2.51
 Publisher: Tripwire Interactive
 Release Date: 04 February 2025
 Server Closure: false
-Site Rating: 4.25
+Site Rating: 4.1
 Update Achievements: []
 Walkthrough: false

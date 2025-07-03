@@ -1,305 +1,392 @@
 Add On Achievements: []
 Base Completion Time:
-- 10
-- 11
+- 18
+- 19
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Mission Pawsible!
   Description: You've done it all! You're a true Supa Buddy!
   GS: '100'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 24%
-  Ratio: 2.06
-  TA: '206'
-  Tags: []
+  Number of Gamers: 16
+  Percentage of Gamers: 20%
+  Ratio: 2.22
+  TA: '222'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Answer the Call
   Description: Transform into the Supa Buddies a total of 15 times
   GS: '20'
   Guide: false
-  Number of Gamers: 29
-  Percentage of Gamers: 57%
-  Ratio: 1.32
-  TA: '26'
-  Tags: []
+  Number of Gamers: 51
+  Percentage of Gamers: 65%
+  Ratio: 1.24
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Supa Springs
   Description: Bounce off a total of 100 enemies
   GS: '35'
   Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 61%
-  Ratio: 1.28
-  TA: '44'
-  Tags: []
+  Number of Gamers: 51
+  Percentage of Gamers: 65%
+  Ratio: 1.24
+  TA: '43'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Eighty-Four
   Description: Completed a mission with exactly 84 bones collected
   GS: '35'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 27%
-  Ratio: 1.9
-  TA: '66'
-  Tags: []
+  Number of Gamers: 18
+  Percentage of Gamers: 23%
+  Ratio: 2.09
+  TA: '73'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Squeaky Clean
   Description: Unlock the Dirt Proof Pants
   GS: '20'
   Guide: false
-  Number of Gamers: 50
-  Percentage of Gamers: 98%
-  Ratio: 1.01
+  Number of Gamers: 78
+  Percentage of Gamers: 99%
+  Ratio: 1.0
   TA: '20'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Scratching Post
   Description: Unlock the Retractable Claws
   GS: '20'
   Guide: false
-  Number of Gamers: 40
-  Percentage of Gamers: 78%
-  Ratio: 1.12
+  Number of Gamers: 61
+  Percentage of Gamers: 77%
+  Ratio: 1.13
   TA: '22'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: It's so Rad!
   Description: Unlock the Power Gloves
   GS: '20'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 51%
-  Ratio: 1.4
+  Number of Gamers: 39
+  Percentage of Gamers: 49%
+  Ratio: 1.42
   TA: '28'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Swing Along
   Description: Unlock the Grapple Hook
   GS: '20'
   Guide: false
-  Number of Gamers: 21
-  Percentage of Gamers: 41%
-  Ratio: 1.55
-  TA: '31'
-  Tags: []
+  Number of Gamers: 33
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Does Not Compute
   Description: Unlock the Supa Portable 'Puter
   GS: '20'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 31%
-  Ratio: 1.78
-  TA: '35'
-  Tags: []
+  Number of Gamers: 24
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '36'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Blast Off!
   Description: Unlock the Rocket Boots
   GS: '20'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 31%
-  Ratio: 1.78
-  TA: '35'
-  Tags: []
+  Number of Gamers: 24
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '36'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Hang Glide!
   Description: Unlock the Glider
   GS: '20'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 29%
-  Ratio: 1.84
-  TA: '36'
-  Tags: []
+  Number of Gamers: 22
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: A Cut Above
   Description: Unlock the Retractable Scissors
   GS: '20'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 29%
-  Ratio: 1.84
-  TA: '36'
-  Tags: []
+  Number of Gamers: 21
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '38'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Honey, I shrunk the dog!
   Description: Unlock the Shrink Ray
   GS: '20'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 29%
-  Ratio: 1.84
-  TA: '36'
-  Tags: []
+  Number of Gamers: 21
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '38'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Gyro Hero
   Description: Defeat Supa Mecha Philly
   GS: '20'
   Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 61%
-  Ratio: 1.28
+  Number of Gamers: 49
+  Percentage of Gamers: 62%
+  Ratio: 1.26
   TA: '25'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Super Boss Battler
   Description: Defeat Supa Mecha Philly without getting hit
   GS: '50'
   Guide: false
-  Number of Gamers: 24
-  Percentage of Gamers: 47%
-  Ratio: 1.45
-  TA: '72'
-  Tags: []
+  Number of Gamers: 32
+  Percentage of Gamers: 41%
+  Ratio: 1.57
+  TA: '78'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Blue Screen
   Description: Defeat Robo-Chief
   GS: '20'
   Guide: false
-  Number of Gamers: 17
+  Number of Gamers: 26
   Percentage of Gamers: 33%
-  Ratio: 1.73
+  Ratio: 1.74
   TA: '34'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Robo Rumbler
   Description: Defeat Robo-Chief without getting hit
   GS: '50'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 33%
-  Ratio: 1.73
-  TA: '86'
-  Tags: []
+  Number of Gamers: 23
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '92'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: No S'more
   Description: Defeat Marshmallow Piggy
   GS: '20'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 31%
-  Ratio: 1.78
-  TA: '35'
-  Tags: []
+  Number of Gamers: 24
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '36'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Master of Marshmallows
   Description: Defeat Marshmallow Piggy without getting hit
   GS: '50'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 25%
-  Ratio: 1.98
-  TA: '99'
-  Tags: []
+  Number of Gamers: 19
+  Percentage of Gamers: 24%
+  Ratio: 2.03
+  TA: '101'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Get Off My Lawn!
   Description: Defeat the Incorrigible Crud
   GS: '20'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 29%
-  Ratio: 1.84
-  TA: '36'
-  Tags: []
+  Number of Gamers: 21
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '38'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Later Gramps!
   Description: Defeat the Incorrigible Crud without getting hit
   GS: '50'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 27%
-  Ratio: 1.9
-  TA: '95'
-  Tags: []
+  Number of Gamers: 19
+  Percentage of Gamers: 24%
+  Ratio: 2.03
+  TA: '101'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Hometown Hero
   Description: Defeat Piggy
   GS: '20'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 29%
-  Ratio: 1.84
-  TA: '36'
-  Tags: []
+  Number of Gamers: 20
+  Percentage of Gamers: 25%
+  Ratio: 1.98
+  TA: '39'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Bacon Me Crazy
   Description: Defeat Piggy without getting hit
   GS: '50'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 25%
-  Ratio: 1.98
-  TA: '99'
-  Tags: []
+  Number of Gamers: 17
+  Percentage of Gamers: 22%
+  Ratio: 2.15
+  TA: '107'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Rookie Cop
   Description: Collect 50 badges
   GS: '20'
   Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 45%
-  Ratio: 1.48
-  TA: '29'
-  Tags: []
+  Number of Gamers: 34
+  Percentage of Gamers: 43%
+  Ratio: 1.52
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Dog Deputy
   Description: Collect 100 badges
   GS: '35'
   Guide: false
-  Number of Gamers: 15
+  Number of Gamers: 23
   Percentage of Gamers: 29%
-  Ratio: 1.84
+  Ratio: 1.85
   TA: '64'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Supa Cop
   Description: Collect 150 badges
   GS: '35'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 27%
-  Ratio: 1.9
-  TA: '66'
-  Tags: []
+  Number of Gamers: 20
+  Percentage of Gamers: 25%
+  Ratio: 1.98
+  TA: '69'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: '#1 Supa Cop'
   Description: Collect all 200 badges
   GS: '50'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 25%
-  Ratio: 1.98
-  TA: '99'
-  Tags: []
+  Number of Gamers: 19
+  Percentage of Gamers: 24%
+  Ratio: 2.03
+  TA: '101'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Friend Rescue!
   Description: Collect 12 tadpoles
   GS: '20'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 35%
-  Ratio: 1.68
+  Number of Gamers: 29
+  Percentage of Gamers: 37%
+  Ratio: 1.65
   TA: '33'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: A Pond of Pals
   Description: Collect 23 tadpoles
   GS: '35'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 29%
-  Ratio: 1.84
-  TA: '64'
-  Tags: []
+  Number of Gamers: 21
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '67'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: A Tad More!
   Description: Collect 34 tadpoles
   GS: '35'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 25%
-  Ratio: 1.98
-  TA: '69'
-  Tags: []
+  Number of Gamers: 18
+  Percentage of Gamers: 23%
+  Ratio: 2.09
+  TA: '73'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Comic Club Assembled!
   Description: Collect all 45 tadpoles
   GS: '50'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 24%
-  Ratio: 2.06
-  TA: '103'
-  Tags: []
-Base Ratio: 1.765
-Base TA: 1765
+  Number of Gamers: 16
+  Percentage of Gamers: 20%
+  Ratio: 2.22
+  TA: '111'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+Base Ratio: 1.846
+Base TA: 1846
 Delisted: false
 Developer: Floor 84 Studio
 Game Name: 'Dog Man: Mission Impawsible'
 Genres: Platformer
 Install Size: 1470.0
-Number of Completions: 12
-Number of Gamers: 51
+Number of Completions: 16
+Number of Gamers: 79
 Overall Completion Time:
-- 10
-- 11
+- 18
+- 19
 Overall GS: 1000
-Overall Ratio: 1.765
-Overall TA: 1765
+Overall Ratio: 1.846
+Overall TA: 1846
 PDU: 0
-Percentage Completed: 23.53
+Percentage Completed: 20.25
 Publisher: Mindscape
 Release Date: 06 December 2024
 Server Closure: false

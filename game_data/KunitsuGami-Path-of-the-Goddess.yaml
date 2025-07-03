@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 30.0
-- 35.0
+- 40.0
+- 50.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Embark on the Path
   Description: Escape from the Seethe with the Maiden.
   GS: '10'
   Guide: false
-  Number of Gamers: 49455
+  Number of Gamers: 52787
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '10'
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Purge the defilement and recover Myoko Pass.
   GS: '10'
   Guide: false
-  Number of Gamers: 34701
+  Number of Gamers: 37039
   Percentage of Gamers: 70%
   Ratio: 1.19
   TA: '11'
@@ -32,7 +32,7 @@ Base Game Achievements:
   Description: Purge the defilement and recover Kakeashi Grove.
   GS: '10'
   Guide: false
-  Number of Gamers: 20515
+  Number of Gamers: 21963
   Percentage of Gamers: 41%
   Ratio: 1.55
   TA: '15'
@@ -44,7 +44,7 @@ Base Game Achievements:
   Description: Purge the defilement and recover Yuan Cavern.
   GS: '10'
   Guide: false
-  Number of Gamers: 15676
+  Number of Gamers: 16803
   Percentage of Gamers: 32%
   Ratio: 1.77
   TA: '17'
@@ -56,9 +56,9 @@ Base Game Achievements:
   Description: Purge the defilement and recover Enri Village.
   GS: '10'
   Guide: false
-  Number of Gamers: 11497
+  Number of Gamers: 12446
   Percentage of Gamers: 23%
-  Ratio: 2.07
+  Ratio: 2.06
   TA: '20'
   Tags:
   - Offline Mode
@@ -68,9 +68,9 @@ Base Game Achievements:
   Description: Purge the defilement and recover Okumiyama Passage.
   GS: '10'
   Guide: false
-  Number of Gamers: 10513
+  Number of Gamers: 11383
   Percentage of Gamers: 21%
-  Ratio: 2.17
+  Ratio: 2.15
   TA: '21'
   Tags:
   - Offline Mode
@@ -80,9 +80,9 @@ Base Game Achievements:
   Description: Purge the defilement and recover Moegi Ridge.
   GS: '10'
   Guide: false
-  Number of Gamers: 9079
-  Percentage of Gamers: 18%
-  Ratio: 2.33
+  Number of Gamers: 9855
+  Percentage of Gamers: 19%
+  Ratio: 2.31
   TA: '23'
   Tags:
   - Offline Mode
@@ -92,9 +92,9 @@ Base Game Achievements:
   Description: Purge the defilement and recover Yuminari Lake.
   GS: '10'
   Guide: false
-  Number of Gamers: 8096
-  Percentage of Gamers: 16%
-  Ratio: 2.47
+  Number of Gamers: 8820
+  Percentage of Gamers: 17%
+  Ratio: 2.45
   TA: '24'
   Tags:
   - Offline Mode
@@ -104,9 +104,9 @@ Base Game Achievements:
   Description: Purge the defilement and recover Adashino Village.
   GS: '10'
   Guide: false
-  Number of Gamers: 7751
+  Number of Gamers: 8437
   Percentage of Gamers: 16%
-  Ratio: 2.52
+  Ratio: 2.5
   TA: '25'
   Tags:
   - Offline Mode
@@ -116,10 +116,10 @@ Base Game Achievements:
   Description: Purge the defilement and recover Muenzuka Burial Grounds.
   GS: '10'
   Guide: false
-  Number of Gamers: 7318
+  Number of Gamers: 7968
   Percentage of Gamers: 15%
-  Ratio: 2.6
-  TA: '26'
+  Ratio: 2.57
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
@@ -128,9 +128,9 @@ Base Game Achievements:
   Description: Purge the defilement and recover Renge Marsh.
   GS: '10'
   Guide: false
-  Number of Gamers: 6605
-  Percentage of Gamers: 13%
-  Ratio: 2.74
+  Number of Gamers: 7216
+  Percentage of Gamers: 14%
+  Ratio: 2.7
   TA: '27'
   Tags:
   - Offline Mode
@@ -140,10 +140,10 @@ Base Game Achievements:
   Description: Purge the defilement and recover Kamukura Shrine.
   GS: '10'
   Guide: true
-  Number of Gamers: 6242
+  Number of Gamers: 6833
   Percentage of Gamers: 13%
-  Ratio: 2.81
-  TA: '28'
+  Ratio: 2.78
+  TA: '27'
   Tags:
   - Offline Mode
   - Single Player
@@ -152,9 +152,9 @@ Base Game Achievements:
   Description: Purge the defilement and recover the Great Cherry Tree of Nakahara.
   GS: '10'
   Guide: false
-  Number of Gamers: 6046
-  Percentage of Gamers: 12%
-  Ratio: 2.86
+  Number of Gamers: 6631
+  Percentage of Gamers: 13%
+  Ratio: 2.82
   TA: '28'
   Tags:
   - Offline Mode
@@ -164,9 +164,9 @@ Base Game Achievements:
   Description: Purge the defilement and recover Korai Valley.
   GS: '10'
   Guide: false
-  Number of Gamers: 5919
+  Number of Gamers: 6496
   Percentage of Gamers: 12%
-  Ratio: 2.89
+  Ratio: 2.85
   TA: '28'
   Tags:
   - Offline Mode
@@ -176,10 +176,10 @@ Base Game Achievements:
   Description: Purge the defilement and recover Kiritake Village.
   GS: '10'
   Guide: false
-  Number of Gamers: 5761
+  Number of Gamers: 6319
   Percentage of Gamers: 12%
-  Ratio: 2.93
-  TA: '29'
+  Ratio: 2.89
+  TA: '28'
   Tags:
   - Offline Mode
   - Single Player
@@ -188,10 +188,10 @@ Base Game Achievements:
   Description: Purge the defilement and recover the Narusawa Wind Caves.
   GS: '10'
   Guide: false
-  Number of Gamers: 5468
+  Number of Gamers: 6025
   Percentage of Gamers: 11%
-  Ratio: 3.01
-  TA: '30'
+  Ratio: 2.96
+  TA: '29'
   Tags:
   - Offline Mode
   - Single Player
@@ -200,9 +200,9 @@ Base Game Achievements:
   Description: Purge the defilement and recover Yamasuso Lodging.
   GS: '10'
   Guide: false
-  Number of Gamers: 5323
+  Number of Gamers: 5871
   Percentage of Gamers: 11%
-  Ratio: 3.05
+  Ratio: 3.0
   TA: '30'
   Tags:
   - Offline Mode
@@ -212,10 +212,10 @@ Base Game Achievements:
   Description: Purge the defilement and recover the Great Shrine Passage.
   GS: '10'
   Guide: false
-  Number of Gamers: 5054
-  Percentage of Gamers: 10%
-  Ratio: 3.13
-  TA: '31'
+  Number of Gamers: 5591
+  Percentage of Gamers: 11%
+  Ratio: 3.07
+  TA: '30'
   Tags:
   - Offline Mode
   - Single Player
@@ -224,7 +224,7 @@ Base Game Achievements:
   Description: Defeat Gakinyudo.
   GS: '10'
   Guide: false
-  Number of Gamers: 23850
+  Number of Gamers: 25499
   Percentage of Gamers: 48%
   Ratio: 1.44
   TA: '14'
@@ -236,7 +236,7 @@ Base Game Achievements:
   Description: Defeat Kamaitachi.
   GS: '10'
   Guide: false
-  Number of Gamers: 17667
+  Number of Gamers: 18911
   Percentage of Gamers: 36%
   Ratio: 1.67
   TA: '16'
@@ -248,9 +248,9 @@ Base Game Achievements:
   Description: Defeat Mukadejoro.
   GS: '10'
   Guide: true
-  Number of Gamers: 12523
-  Percentage of Gamers: 25%
-  Ratio: 1.99
+  Number of Gamers: 13544
+  Percentage of Gamers: 26%
+  Ratio: 1.97
   TA: '19'
   Tags:
   - Offline Mode
@@ -260,9 +260,9 @@ Base Game Achievements:
   Description: Defeat Tsurube-otoshi.
   GS: '10'
   Guide: false
-  Number of Gamers: 9872
+  Number of Gamers: 10707
   Percentage of Gamers: 20%
-  Ratio: 2.24
+  Ratio: 2.22
   TA: '22'
   Tags:
   - Offline Mode
@@ -272,10 +272,10 @@ Base Game Achievements:
   Description: Defeat Batsu.
   GS: '10'
   Guide: false
-  Number of Gamers: 8521
+  Number of Gamers: 9268
   Percentage of Gamers: 17%
-  Ratio: 2.41
-  TA: '24'
+  Ratio: 2.39
+  TA: '23'
   Tags:
   - Offline Mode
   - Single Player
@@ -284,10 +284,10 @@ Base Game Achievements:
   Description: Defeat Bupposo.
   GS: '10'
   Guide: true
-  Number of Gamers: 7188
-  Percentage of Gamers: 14%
-  Ratio: 2.62
-  TA: '26'
+  Number of Gamers: 7840
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
@@ -296,9 +296,9 @@ Base Game Achievements:
   Description: Defeat Notsugo.
   GS: '10'
   Guide: true
-  Number of Gamers: 6492
+  Number of Gamers: 7099
   Percentage of Gamers: 13%
-  Ratio: 2.76
+  Ratio: 2.73
   TA: '27'
   Tags:
   - Offline Mode
@@ -308,9 +308,9 @@ Base Game Achievements:
   Description: Defeat Raikobo.
   GS: '10'
   Guide: false
-  Number of Gamers: 5625
-  Percentage of Gamers: 11%
-  Ratio: 2.96
+  Number of Gamers: 6183
+  Percentage of Gamers: 12%
+  Ratio: 2.92
   TA: '29'
   Tags:
   - Offline Mode
@@ -320,9 +320,9 @@ Base Game Achievements:
   Description: Defeat Yatsukahagi.
   GS: '10'
   Guide: true
-  Number of Gamers: 5255
+  Number of Gamers: 5799
   Percentage of Gamers: 11%
-  Ratio: 3.07
+  Ratio: 3.02
   TA: '30'
   Tags:
   - Offline Mode
@@ -332,10 +332,10 @@ Base Game Achievements:
   Description: Defeat Nanamagari.
   GS: '35'
   Guide: false
-  Number of Gamers: 4730
+  Number of Gamers: 5259
   Percentage of Gamers: 10%
-  Ratio: 3.23
-  TA: '113'
+  Ratio: 3.17
+  TA: '111'
   Tags:
   - Offline Mode
   - Single Player
@@ -345,10 +345,10 @@ Base Game Achievements:
   Description: Begin New Game+.
   GS: '10'
   Guide: true
-  Number of Gamers: 2808
+  Number of Gamers: 3146
   Percentage of Gamers: 6%
-  Ratio: 4.2
-  TA: '42'
+  Ratio: 4.1
+  TA: '41'
   Tags:
   - Offline Mode
   - Single Player
@@ -357,10 +357,10 @@ Base Game Achievements:
   Description: Defeat Cursed Soh.
   GS: '65'
   Guide: true
-  Number of Gamers: 1172
-  Percentage of Gamers: 2%
-  Ratio: 6.5
-  TA: '422'
+  Number of Gamers: 1344
+  Percentage of Gamers: 3%
+  Ratio: 6.28
+  TA: '408'
   Tags:
   - Offline Mode
   - Single Player
@@ -369,7 +369,7 @@ Base Game Achievements:
   Description: Enter a tent for the first time.
   GS: '10'
   Guide: true
-  Number of Gamers: 32338
+  Number of Gamers: 34518
   Percentage of Gamers: 65%
   Ratio: 1.23
   TA: '12'
@@ -381,10 +381,10 @@ Base Game Achievements:
   Description: Fully upgrade all roles.
   GS: '35'
   Guide: true
-  Number of Gamers: 1237
-  Percentage of Gamers: 2%
-  Ratio: 6.33
-  TA: '221'
+  Number of Gamers: 1416
+  Percentage of Gamers: 3%
+  Ratio: 6.13
+  TA: '214'
   Tags:
   - Offline Mode
   - Single Player
@@ -394,10 +394,10 @@ Base Game Achievements:
   Description: Fully upgrade Soh's abilities.
   GS: '35'
   Guide: true
-  Number of Gamers: 2351
+  Number of Gamers: 2638
   Percentage of Gamers: 5%
-  Ratio: 4.59
-  TA: '160'
+  Ratio: 4.48
+  TA: '157'
   Tags:
   - Offline Mode
   - Single Player
@@ -406,10 +406,10 @@ Base Game Achievements:
   Description: Obtain all Ema Plaques.
   GS: '10'
   Guide: true
-  Number of Gamers: 1165
-  Percentage of Gamers: 2%
-  Ratio: 6.52
-  TA: '65'
+  Number of Gamers: 1337
+  Percentage of Gamers: 3%
+  Ratio: 6.3
+  TA: '63'
   Tags:
   - Offline Mode
   - Single Player
@@ -419,10 +419,10 @@ Base Game Achievements:
   Description: Obtain all Emaki Scrolls and view them from the tent.
   GS: '35'
   Guide: true
-  Number of Gamers: 1141
+  Number of Gamers: 1311
   Percentage of Gamers: 2%
-  Ratio: 6.59
-  TA: '230'
+  Ratio: 6.36
+  TA: '222'
   Tags:
   - Offline Mode
   - Single Player
@@ -432,10 +432,10 @@ Base Game Achievements:
   Description: Complete a stage with 5 Mazo Talismans equipped.
   GS: '10'
   Guide: true
-  Number of Gamers: 4770
+  Number of Gamers: 5261
   Percentage of Gamers: 10%
-  Ratio: 3.22
-  TA: '32'
+  Ratio: 3.17
+  TA: '31'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -443,9 +443,9 @@ Base Game Achievements:
   Description: Complete a stage with 3 Tsuba Guards equipped.
   GS: '10'
   Guide: true
-  Number of Gamers: 4657
-  Percentage of Gamers: 9%
-  Ratio: 3.26
+  Number of Gamers: 5130
+  Percentage of Gamers: 10%
+  Ratio: 3.21
   TA: '32'
   Tags:
   - Offline Game Mode
@@ -454,9 +454,9 @@ Base Game Achievements:
   Description: Obtain all sweets.
   GS: '10'
   Guide: true
-  Number of Gamers: 4065
-  Percentage of Gamers: 8%
-  Ratio: 3.49
+  Number of Gamers: 4522
+  Percentage of Gamers: 9%
+  Ratio: 3.42
   TA: '34'
   Tags:
   - Offline Mode
@@ -466,10 +466,10 @@ Base Game Achievements:
   Description: Assign every role to the villagers.
   GS: '10'
   Guide: true
-  Number of Gamers: 3709
-  Percentage of Gamers: 7%
-  Ratio: 3.65
-  TA: '36'
+  Number of Gamers: 4119
+  Percentage of Gamers: 8%
+  Ratio: 3.58
+  TA: '35'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -477,9 +477,9 @@ Base Game Achievements:
   Description: Defeat 100 Seethe by using other Seethe attacks against them.
   GS: '10'
   Guide: true
-  Number of Gamers: 3890
+  Number of Gamers: 4306
   Percentage of Gamers: 8%
-  Ratio: 3.57
+  Ratio: 3.5
   TA: '35'
   Tags:
   - Offline Mode
@@ -489,9 +489,9 @@ Base Game Achievements:
   Description: Defeat Kagokaburi.
   GS: '10'
   Guide: true
-  Number of Gamers: 4963
+  Number of Gamers: 5419
   Percentage of Gamers: 10%
-  Ratio: 3.16
+  Ratio: 3.12
   TA: '31'
   Tags:
   - Offline Game Mode
@@ -500,10 +500,10 @@ Base Game Achievements:
   Description: Complete all objectives in every stage, including those in New Game+.
   GS: '65'
   Guide: false
-  Number of Gamers: 930
+  Number of Gamers: 1070
   Percentage of Gamers: 2%
-  Ratio: 7.3
-  TA: '474'
+  Ratio: 7.04
+  TA: '458'
   Tags:
   - Offline Mode
   - Single Player
@@ -512,10 +512,10 @@ Base Game Achievements:
   Description: Defeat all types of Seethe.
   GS: '35'
   Guide: true
-  Number of Gamers: 1157
-  Percentage of Gamers: 2%
-  Ratio: 6.54
-  TA: '229'
+  Number of Gamers: 1328
+  Percentage of Gamers: 3%
+  Ratio: 6.32
+  TA: '221'
   Tags:
   - Offline Mode
   - Single Player
@@ -526,10 +526,10 @@ Base Game Achievements:
     of 20 mins in one playthrough.
   GS: '65'
   Guide: true
-  Number of Gamers: 2329
+  Number of Gamers: 2626
   Percentage of Gamers: 5%
-  Ratio: 4.61
-  TA: '299'
+  Ratio: 4.49
+  TA: '292'
   Tags:
   - Offline Mode
   - Single Player
@@ -538,10 +538,10 @@ Base Game Achievements:
   Description: Consume a total of 100,000 crystals.
   GS: '35'
   Guide: true
-  Number of Gamers: 1561
+  Number of Gamers: 1774
   Percentage of Gamers: 3%
-  Ratio: 5.63
-  TA: '197'
+  Ratio: 5.47
+  TA: '191'
   Tags:
   - Offline Mode
   - Single Player
@@ -550,10 +550,10 @@ Base Game Achievements:
   Description: Purge 200 wild animals of the defilement.
   GS: '35'
   Guide: true
-  Number of Gamers: 1482
+  Number of Gamers: 1693
   Percentage of Gamers: 3%
-  Ratio: 5.78
-  TA: '202'
+  Ratio: 5.61
+  TA: '196'
   Tags:
   - Offline Mode
   - Single Player
@@ -562,10 +562,10 @@ Base Game Achievements:
   Description: Interact with animals in the bases 20 times.
   GS: '10'
   Guide: true
-  Number of Gamers: 4202
-  Percentage of Gamers: 8%
-  Ratio: 3.43
-  TA: '34'
+  Number of Gamers: 4653
+  Percentage of Gamers: 9%
+  Ratio: 3.37
+  TA: '33'
   Tags:
   - Offline Mode
   - Single Player
@@ -573,36 +573,37 @@ Base Game Achievements:
 - Achievement Name: Kunitsu-Gami
   Description: Unlock all achievements.
   GS: '190'
-  Guide: true
-  Number of Gamers: 906
+  Guide: false
+  Number of Gamers: 1044
   Percentage of Gamers: 2%
-  Ratio: 7.39
-  TA: 1,405
+  Ratio: 7.13
+  TA: 1,356
   Tags:
   - Offline Mode
   - Single Player
   - Collectable
+  - Level
   - Multiple Playthroughs Required
-Base Ratio: 4.935
-Base TA: 4935
+Base Ratio: 4.796
+Base TA: 4796
 Delisted: false
 Developer: Capcom Entertainment
 Game Name: 'Kunitsu-Gami: Path of the Goddess'
 Genres: Strategy, Hack & Slash, Tower Defence
 Install Size: 20130.0
-Number of Completions: 906
-Number of Gamers: 49605
+Number of Completions: 1047
+Number of Gamers: 53024
 Overall Completion Time:
-- 30.0
-- 35.0
+- 40.0
+- 50.0
 Overall GS: 1000
-Overall Ratio: 4.935
-Overall TA: 4935
+Overall Ratio: 4.796
+Overall TA: 4796
 PDU: 0
-Percentage Completed: 1.83
+Percentage Completed: 1.97
 Publisher: Capcom Entertainment
 Release Date: 19 July 2024
 Server Closure: false
-Site Rating: 4.04
+Site Rating: 3.98
 Update Achievements: []
 Walkthrough: false

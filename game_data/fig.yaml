@@ -1,16 +1,16 @@
 Add On Achievements: []
 Base Completion Time:
-- 13
-- 14
+- 11
+- 12
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Might as well jump
   Description: Kill Jumper
   GS: '40'
   Guide: false
-  Number of Gamers: 48
+  Number of Gamers: 51
   Percentage of Gamers: 61%
-  Ratio: 1.28
+  Ratio: 1.27
   TA: '51'
   Tags:
   - Offline Mode
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Kill Flyer
   GS: '40'
   Guide: false
-  Number of Gamers: 35
-  Percentage of Gamers: 44%
-  Ratio: 1.5
-  TA: '60'
+  Number of Gamers: 37
+  Percentage of Gamers: 45%
+  Ratio: 1.49
+  TA: '59'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Kill Runner
   GS: '40'
   Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 34%
-  Ratio: 1.71
-  TA: '68'
+  Number of Gamers: 29
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '67'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Complete main plot
   GS: '90'
   Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 34%
-  Ratio: 1.71
-  TA: '153'
+  Number of Gamers: 29
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '152'
   Tags:
   - Offline Mode
   - Single Player
@@ -57,9 +57,9 @@ Base Game Achievements:
   Description: Unlock all available abilities
   GS: '40'
   Guide: false
-  Number of Gamers: 36
-  Percentage of Gamers: 46%
-  Ratio: 1.48
+  Number of Gamers: 37
+  Percentage of Gamers: 45%
+  Ratio: 1.49
   TA: '59'
   Tags:
   - Offline Game Mode
@@ -68,7 +68,7 @@ Base Game Achievements:
   Description: Complete first LAB room
   GS: '20'
   Guide: false
-  Number of Gamers: 38
+  Number of Gamers: 40
   Percentage of Gamers: 48%
   Ratio: 1.44
   TA: '28'
@@ -79,10 +79,10 @@ Base Game Achievements:
   Description: Complete last LAB room
   GS: '90'
   Guide: true
-  Number of Gamers: 4
-  Percentage of Gamers: 5%
-  Ratio: 4.44
-  TA: '399'
+  Number of Gamers: 5
+  Percentage of Gamers: 6%
+  Ratio: 4.07
+  TA: '366'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -90,10 +90,10 @@ Base Game Achievements:
   Description: Complete wind sequence
   GS: '20'
   Guide: true
-  Number of Gamers: 2
-  Percentage of Gamers: 3%
-  Ratio: 6.28
-  TA: '125'
+  Number of Gamers: 3
+  Percentage of Gamers: 4%
+  Ratio: 5.25
+  TA: '105'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -101,10 +101,10 @@ Base Game Achievements:
   Description: Get real high real fast
   GS: '20'
   Guide: true
-  Number of Gamers: 5
-  Percentage of Gamers: 6%
-  Ratio: 3.97
-  TA: '79'
+  Number of Gamers: 6
+  Percentage of Gamers: 7%
+  Ratio: 3.71
+  TA: '74'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -112,10 +112,10 @@ Base Game Achievements:
   Description: Complete all Jumper challenge
   GS: '40'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 5%
-  Ratio: 4.44
-  TA: '177'
+  Number of Gamers: 5
+  Percentage of Gamers: 6%
+  Ratio: 4.07
+  TA: '162'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -123,10 +123,10 @@ Base Game Achievements:
   Description: Complete all Flyer challenge
   GS: '40'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 3%
-  Ratio: 6.28
-  TA: '251'
+  Number of Gamers: 3
+  Percentage of Gamers: 4%
+  Ratio: 5.25
+  TA: '210'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -134,10 +134,10 @@ Base Game Achievements:
   Description: Complete one Flyer challenge using complex fly mode mode
   GS: '90'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 16%
-  Ratio: 2.46
-  TA: '221'
+  Number of Gamers: 14
+  Percentage of Gamers: 17%
+  Ratio: 2.43
+  TA: '219'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -145,9 +145,9 @@ Base Game Achievements:
   Description: Enable simple flying mode in Flyer challenges
   GS: '20'
   Guide: false
-  Number of Gamers: 21
+  Number of Gamers: 22
   Percentage of Gamers: 27%
-  Ratio: 1.93
+  Ratio: 1.94
   TA: '38'
   Tags:
   - Offline Game Mode
@@ -156,10 +156,10 @@ Base Game Achievements:
   Description: Complete all warehouse tutorials
   GS: '20'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 5%
-  Ratio: 4.44
-  TA: '88'
+  Number of Gamers: 5
+  Percentage of Gamers: 6%
+  Ratio: 4.07
+  TA: '81'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -167,7 +167,7 @@ Base Game Achievements:
   Description: Avoid getting killed by bomb in supersonic style
   GS: '20'
   Guide: false
-  Number of Gamers: 18
+  Number of Gamers: 19
   Percentage of Gamers: 23%
   Ratio: 2.09
   TA: '41'
@@ -178,10 +178,10 @@ Base Game Achievements:
   Description: Complete all possible levels in the game
   GS: '90'
   Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 34%
-  Ratio: 1.71
-  TA: '153'
+  Number of Gamers: 29
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '152'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -189,10 +189,10 @@ Base Game Achievements:
   Description: Kill every type of enemy in the game
   GS: '40'
   Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 34%
-  Ratio: 1.71
-  TA: '68'
+  Number of Gamers: 29
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '67'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -200,10 +200,10 @@ Base Game Achievements:
   Description: "Where\u2019s my flashlight?"
   GS: '20'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 5%
-  Ratio: 4.44
-  TA: '88'
+  Number of Gamers: 5
+  Percentage of Gamers: 6%
+  Ratio: 4.07
+  TA: '81'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -211,10 +211,10 @@ Base Game Achievements:
   Description: Hit falling bomb first try in Lab 10
   GS: '40'
   Guide: true
-  Number of Gamers: 5
-  Percentage of Gamers: 6%
-  Ratio: 3.97
-  TA: '158'
+  Number of Gamers: 6
+  Percentage of Gamers: 7%
+  Ratio: 3.71
+  TA: '148'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -222,9 +222,9 @@ Base Game Achievements:
   Description: Deflect the bullet
   GS: '20'
   Guide: false
-  Number of Gamers: 52
-  Percentage of Gamers: 66%
-  Ratio: 1.23
+  Number of Gamers: 56
+  Percentage of Gamers: 67%
+  Ratio: 1.21
   TA: '24'
   Tags:
   - Offline Game Mode
@@ -233,10 +233,10 @@ Base Game Achievements:
   Description: Complete Flyer level without dying
   GS: '20'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 3%
-  Ratio: 6.28
-  TA: '125'
+  Number of Gamers: 3
+  Percentage of Gamers: 4%
+  Ratio: 5.25
+  TA: '105'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -246,8 +246,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 5
   Percentage of Gamers: 6%
-  Ratio: 3.97
-  TA: '79'
+  Ratio: 4.07
+  TA: '81'
   Tags:
   - Offline Mode
   - Single Player
@@ -258,8 +258,8 @@ Base Game Achievements:
   Guide: true
   Number of Gamers: 4
   Percentage of Gamers: 5%
-  Ratio: 4.44
-  TA: '177'
+  Ratio: 4.55
+  TA: '182'
   Tags:
   - Offline Mode
   - Single Player
@@ -268,10 +268,10 @@ Base Game Achievements:
   Description: Launch Warehouse
   GS: '40'
   Guide: false
-  Number of Gamers: 46
+  Number of Gamers: 48
   Percentage of Gamers: 58%
-  Ratio: 1.31
-  TA: '52'
+  Ratio: 1.32
+  TA: '53'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -279,33 +279,33 @@ Base Game Achievements:
   Description: Finish all rider Levels
   GS: '40'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 3%
-  Ratio: 6.28
-  TA: '251'
+  Number of Gamers: 3
+  Percentage of Gamers: 4%
+  Ratio: 5.25
+  TA: '210'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 3.013
-Base TA: 3013
+Base Ratio: 2.815
+Base TA: 2815
 Delisted: false
 Developer: Take IT Studio!
 Game Name: fig.
 Genres: Platformer
 Install Size: 596.0
-Number of Completions: 2
-Number of Gamers: 79
+Number of Completions: 3
+Number of Gamers: 83
 Overall Completion Time:
-- 13
-- 14
+- 11
+- 12
 Overall GS: 1000
-Overall Ratio: 3.013
-Overall TA: 3013
+Overall Ratio: 2.815
+Overall TA: 2815
 PDU: 0
-Percentage Completed: 2.53
+Percentage Completed: 3.61
 Publisher: Take IT Studio!
 Release Date: 20 December 2023
 Server Closure: false
-Site Rating: 2.83
+Site Rating: 2.88
 Update Achievements: []
 Walkthrough: false

@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 130
-- 131
+- 113
+- 114
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Adventurer
   Description: Dive into the Warstone universe
   GS: '10'
   Guide: false
-  Number of Gamers: 148
+  Number of Gamers: 155
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '10'
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Look into the future!
   GS: '10'
   Guide: false
-  Number of Gamers: 144
+  Number of Gamers: 150
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '10'
@@ -31,7 +31,7 @@ Base Game Achievements:
   Description: Distribute land to some Peasants
   GS: '10'
   Guide: false
-  Number of Gamers: 133
+  Number of Gamers: 139
   Percentage of Gamers: 90%
   Ratio: 1.05
   TA: '10'
@@ -42,7 +42,7 @@ Base Game Achievements:
   Description: Join forces with the legendary Amazon warriors for a powerful alliance
   GS: '10'
   Guide: false
-  Number of Gamers: 107
+  Number of Gamers: 111
   Percentage of Gamers: 72%
   Ratio: 1.17
   TA: '11'
@@ -53,8 +53,8 @@ Base Game Achievements:
   Description: Find the missing mithril
   GS: '10'
   Guide: false
-  Number of Gamers: 94
-  Percentage of Gamers: 64%
+  Number of Gamers: 98
+  Percentage of Gamers: 63%
   Ratio: 1.25
   TA: '12'
   Tags:
@@ -64,7 +64,7 @@ Base Game Achievements:
   Description: Sharpen your pitchforks
   GS: '10'
   Guide: false
-  Number of Gamers: 93
+  Number of Gamers: 97
   Percentage of Gamers: 63%
   Ratio: 1.26
   TA: '12'
@@ -75,8 +75,8 @@ Base Game Achievements:
   Description: Kill the Shaman King
   GS: '10'
   Guide: false
-  Number of Gamers: 69
-  Percentage of Gamers: 47%
+  Number of Gamers: 72
+  Percentage of Gamers: 46%
   Ratio: 1.46
   TA: '14'
   Tags:
@@ -86,9 +86,9 @@ Base Game Achievements:
   Description: Don't let the trolls pass through the mountains
   GS: '10'
   Guide: false
-  Number of Gamers: 19
-  Percentage of Gamers: 13%
-  Ratio: 2.79
+  Number of Gamers: 21
+  Percentage of Gamers: 14%
+  Ratio: 2.7
   TA: '27'
   Tags:
   - Offline Game Mode
@@ -97,10 +97,10 @@ Base Game Achievements:
   Description: Make a tactical retreat
   GS: '15'
   Guide: false
-  Number of Gamers: 22
+  Number of Gamers: 24
   Percentage of Gamers: 15%
-  Ratio: 2.59
-  TA: '38'
+  Ratio: 2.53
+  TA: '37'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -108,9 +108,9 @@ Base Game Achievements:
   Description: Start exploring the stars
   GS: '10'
   Guide: false
-  Number of Gamers: 22
+  Number of Gamers: 24
   Percentage of Gamers: 15%
-  Ratio: 2.59
+  Ratio: 2.53
   TA: '25'
   Tags:
   - Offline Game Mode
@@ -119,7 +119,7 @@ Base Game Achievements:
   Description: Help the Dwarfs defend their mine
   GS: '10'
   Guide: false
-  Number of Gamers: 47
+  Number of Gamers: 49
   Percentage of Gamers: 32%
   Ratio: 1.77
   TA: '17'
@@ -130,9 +130,9 @@ Base Game Achievements:
   Description: Get your first five stars
   GS: '10'
   Guide: false
-  Number of Gamers: 28
+  Number of Gamers: 30
   Percentage of Gamers: 19%
-  Ratio: 2.29
+  Ratio: 2.26
   TA: '22'
   Tags:
   - Offline Game Mode
@@ -141,7 +141,7 @@ Base Game Achievements:
   Description: Start chasing Boomba
   GS: '10'
   Guide: false
-  Number of Gamers: 41
+  Number of Gamers: 43
   Percentage of Gamers: 28%
   Ratio: 1.89
   TA: '18'
@@ -152,9 +152,9 @@ Base Game Achievements:
   Description: Set up a market in town
   GS: '10'
   Guide: false
-  Number of Gamers: 40
+  Number of Gamers: 42
   Percentage of Gamers: 27%
-  Ratio: 1.92
+  Ratio: 1.91
   TA: '19'
   Tags:
   - Offline Game Mode
@@ -163,10 +163,10 @@ Base Game Achievements:
   Description: Return the stolen book of magic
   GS: '10'
   Guide: false
-  Number of Gamers: 37
+  Number of Gamers: 39
   Percentage of Gamers: 25%
-  Ratio: 2.0
-  TA: '20'
+  Ratio: 1.98
+  TA: '19'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -174,9 +174,9 @@ Base Game Achievements:
   Description: Help the lovebirds find each other
   GS: '10'
   Guide: false
-  Number of Gamers: 36
-  Percentage of Gamers: 24%
-  Ratio: 2.02
+  Number of Gamers: 38
+  Percentage of Gamers: 25%
+  Ratio: 2.01
   TA: '20'
   Tags:
   - Offline Game Mode
@@ -185,9 +185,9 @@ Base Game Achievements:
   Description: Start your own monastery with novice nuns
   GS: '10'
   Guide: false
-  Number of Gamers: 31
+  Number of Gamers: 33
   Percentage of Gamers: 21%
-  Ratio: 2.18
+  Ratio: 2.16
   TA: '21'
   Tags:
   - Offline Game Mode
@@ -196,9 +196,9 @@ Base Game Achievements:
   Description: Finish off the rest of the trolls' invasion army
   GS: '10'
   Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 18%
-  Ratio: 2.34
+  Number of Gamers: 29
+  Percentage of Gamers: 19%
+  Ratio: 2.3
   TA: '23'
   Tags:
   - Offline Game Mode
@@ -208,9 +208,9 @@ Base Game Achievements:
     and win the battle
   GS: '10'
   Guide: false
-  Number of Gamers: 32
+  Number of Gamers: 34
   Percentage of Gamers: 22%
-  Ratio: 2.15
+  Ratio: 2.12
   TA: '21'
   Tags:
   - Offline Game Mode
@@ -219,10 +219,10 @@ Base Game Achievements:
   Description: Complete the first three missions in Challenge mode
   GS: '25'
   Guide: false
-  Number of Gamers: 25
+  Number of Gamers: 27
   Percentage of Gamers: 17%
-  Ratio: 2.43
-  TA: '60'
+  Ratio: 2.38
+  TA: '59'
   Tags:
   - Offline Mode
   - Single Player
@@ -231,10 +231,10 @@ Base Game Achievements:
   Description: Complete the first three missions in Survival mode
   GS: '25'
   Guide: false
-  Number of Gamers: 22
+  Number of Gamers: 24
   Percentage of Gamers: 15%
-  Ratio: 2.59
-  TA: '64'
+  Ratio: 2.53
+  TA: '63'
   Tags:
   - Offline Mode
   - Single Player
@@ -243,9 +243,9 @@ Base Game Achievements:
   Description: Don't let the trolls make scrambled eggs
   GS: '10'
   Guide: false
-  Number of Gamers: 28
+  Number of Gamers: 30
   Percentage of Gamers: 19%
-  Ratio: 2.29
+  Ratio: 2.26
   TA: '22'
   Tags:
   - Offline Game Mode
@@ -254,9 +254,9 @@ Base Game Achievements:
   Description: Dress eagles in armor
   GS: '10'
   Guide: false
-  Number of Gamers: 28
+  Number of Gamers: 30
   Percentage of Gamers: 19%
-  Ratio: 2.29
+  Ratio: 2.26
   TA: '22'
   Tags:
   - Offline Game Mode
@@ -265,9 +265,9 @@ Base Game Achievements:
   Description: Clear out a staging area
   GS: '10'
   Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 18%
-  Ratio: 2.34
+  Number of Gamers: 29
+  Percentage of Gamers: 19%
+  Ratio: 2.3
   TA: '23'
   Tags:
   - Offline Game Mode
@@ -276,9 +276,9 @@ Base Game Achievements:
   Description: Expand your possessions and your castle
   GS: '10'
   Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 18%
-  Ratio: 2.34
+  Number of Gamers: 29
+  Percentage of Gamers: 19%
+  Ratio: 2.3
   TA: '23'
   Tags:
   - Offline Mode
@@ -288,9 +288,9 @@ Base Game Achievements:
   Description: Build a trade empire
   GS: '10'
   Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 18%
-  Ratio: 2.34
+  Number of Gamers: 29
+  Percentage of Gamers: 19%
+  Ratio: 2.3
   TA: '23'
   Tags:
   - Offline Mode
@@ -300,9 +300,9 @@ Base Game Achievements:
   Description: Start the search for your beloved
   GS: '10'
   Guide: false
-  Number of Gamers: 26
+  Number of Gamers: 28
   Percentage of Gamers: 18%
-  Ratio: 2.38
+  Ratio: 2.34
   TA: '23'
   Tags:
   - Offline Game Mode
@@ -311,9 +311,9 @@ Base Game Achievements:
   Description: Organize a council with other clan leaders
   GS: '10'
   Guide: false
-  Number of Gamers: 24
-  Percentage of Gamers: 16%
-  Ratio: 2.48
+  Number of Gamers: 26
+  Percentage of Gamers: 17%
+  Ratio: 2.43
   TA: '24'
   Tags:
   - Offline Game Mode
@@ -322,7 +322,7 @@ Base Game Achievements:
   Description: Reduce the population of crazed beasts
   GS: '10'
   Guide: false
-  Number of Gamers: 51
+  Number of Gamers: 53
   Percentage of Gamers: 34%
   Ratio: 1.7
   TA: '17'
@@ -333,9 +333,9 @@ Base Game Achievements:
   Description: Set foot on the Death Road
   GS: '10'
   Guide: false
-  Number of Gamers: 26
+  Number of Gamers: 28
   Percentage of Gamers: 18%
-  Ratio: 2.38
+  Ratio: 2.34
   TA: '23'
   Tags:
   - Offline Game Mode
@@ -344,9 +344,9 @@ Base Game Achievements:
   Description: Open the school of witchcraft and wizardry
   GS: '10'
   Guide: false
-  Number of Gamers: 26
+  Number of Gamers: 28
   Percentage of Gamers: 18%
-  Ratio: 2.38
+  Ratio: 2.34
   TA: '23'
   Tags:
   - Offline Game Mode
@@ -355,9 +355,9 @@ Base Game Achievements:
   Description: Get rid of troll ghosts
   GS: '10'
   Guide: false
-  Number of Gamers: 24
-  Percentage of Gamers: 16%
-  Ratio: 2.48
+  Number of Gamers: 26
+  Percentage of Gamers: 17%
+  Ratio: 2.43
   TA: '24'
   Tags:
   - Offline Game Mode
@@ -366,9 +366,9 @@ Base Game Achievements:
   Description: Get the Priestesses out of captivity
   GS: '10'
   Guide: false
-  Number of Gamers: 24
-  Percentage of Gamers: 16%
-  Ratio: 2.48
+  Number of Gamers: 26
+  Percentage of Gamers: 17%
+  Ratio: 2.43
   TA: '24'
   Tags:
   - Offline Game Mode
@@ -377,10 +377,10 @@ Base Game Achievements:
   Description: Fight your way through the trolls' outpost
   GS: '10'
   Guide: false
-  Number of Gamers: 25
+  Number of Gamers: 27
   Percentage of Gamers: 17%
-  Ratio: 2.43
-  TA: '24'
+  Ratio: 2.38
+  TA: '23'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -388,10 +388,10 @@ Base Game Achievements:
   Description: Find support among your old allies
   GS: '10'
   Guide: false
-  Number of Gamers: 25
+  Number of Gamers: 27
   Percentage of Gamers: 17%
-  Ratio: 2.43
-  TA: '24'
+  Ratio: 2.38
+  TA: '23'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -399,10 +399,10 @@ Base Game Achievements:
   Description: Don't let the trolls get their reinforcements
   GS: '10'
   Guide: false
-  Number of Gamers: 23
+  Number of Gamers: 25
   Percentage of Gamers: 16%
-  Ratio: 2.53
-  TA: '25'
+  Ratio: 2.48
+  TA: '24'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -410,9 +410,9 @@ Base Game Achievements:
   Description: Perform the ritual, restoring the crystal of life
   GS: '10'
   Guide: false
-  Number of Gamers: 22
+  Number of Gamers: 24
   Percentage of Gamers: 15%
-  Ratio: 2.59
+  Ratio: 2.53
   TA: '25'
   Tags:
   - Offline Game Mode
@@ -421,9 +421,9 @@ Base Game Achievements:
   Description: Summon Elementals
   GS: '10'
   Guide: false
-  Number of Gamers: 22
+  Number of Gamers: 24
   Percentage of Gamers: 15%
-  Ratio: 2.59
+  Ratio: 2.53
   TA: '25'
   Tags:
   - Offline Game Mode
@@ -432,9 +432,9 @@ Base Game Achievements:
   Description: Make a bravery potion
   GS: '10'
   Guide: false
-  Number of Gamers: 31
+  Number of Gamers: 33
   Percentage of Gamers: 21%
-  Ratio: 2.18
+  Ratio: 2.16
   TA: '21'
   Tags:
   - Offline Game Mode
@@ -443,10 +443,10 @@ Base Game Achievements:
   Description: Complete the campaign
   GS: '75'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 12%
-  Ratio: 2.86
-  TA: '215'
+  Number of Gamers: 20
+  Percentage of Gamers: 13%
+  Ratio: 2.77
+  TA: '208'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -454,10 +454,10 @@ Base Game Achievements:
   Description: Conquer the trolls' lands
   GS: '10'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 11%
-  Ratio: 2.95
-  TA: '29'
+  Number of Gamers: 19
+  Percentage of Gamers: 12%
+  Ratio: 2.84
+  TA: '28'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -465,10 +465,10 @@ Base Game Achievements:
   Description: Get acquainted with the creators of the game
   GS: '10'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 12%
-  Ratio: 2.86
-  TA: '28'
+  Number of Gamers: 20
+  Percentage of Gamers: 13%
+  Ratio: 2.77
+  TA: '27'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -476,9 +476,9 @@ Base Game Achievements:
   Description: Launch a balloon into the sky
   GS: '10'
   Guide: false
-  Number of Gamers: 22
+  Number of Gamers: 24
   Percentage of Gamers: 15%
-  Ratio: 2.59
+  Ratio: 2.53
   TA: '25'
   Tags:
   - Offline Game Mode
@@ -487,10 +487,10 @@ Base Game Achievements:
   Description: Find out how warstones came to be
   GS: '10'
   Guide: false
-  Number of Gamers: 25
+  Number of Gamers: 27
   Percentage of Gamers: 17%
-  Ratio: 2.43
-  TA: '24'
+  Ratio: 2.38
+  TA: '23'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -498,9 +498,9 @@ Base Game Achievements:
   Description: Increase the production of magic waters
   GS: '10'
   Guide: false
-  Number of Gamers: 22
+  Number of Gamers: 24
   Percentage of Gamers: 15%
-  Ratio: 2.59
+  Ratio: 2.53
   TA: '25'
   Tags:
   - Offline Game Mode
@@ -509,10 +509,10 @@ Base Game Achievements:
   Description: Complete all the missions in Challenge mode
   GS: '25'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 8%
-  Ratio: 3.51
-  TA: '87'
+  Number of Gamers: 14
+  Percentage of Gamers: 9%
+  Ratio: 3.31
+  TA: '82'
   Tags:
   - Offline Mode
   - Single Player
@@ -521,10 +521,10 @@ Base Game Achievements:
   Description: Complete all the missions in Survival mode
   GS: '25'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 7%
-  Ratio: 3.66
-  TA: '91'
+  Number of Gamers: 12
+  Percentage of Gamers: 8%
+  Ratio: 3.58
+  TA: '89'
   Tags:
   - Offline Mode
   - Single Player
@@ -533,10 +533,10 @@ Base Game Achievements:
   Description: Collect 25 stars
   GS: '25'
   Guide: false
-  Number of Gamers: 23
+  Number of Gamers: 25
   Percentage of Gamers: 16%
-  Ratio: 2.53
-  TA: '63'
+  Ratio: 2.48
+  TA: '62'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -544,10 +544,10 @@ Base Game Achievements:
   Description: Collect 75 stars
   GS: '50'
   Guide: false
-  Number of Gamers: 7
+  Number of Gamers: 8
   Percentage of Gamers: 5%
-  Ratio: 4.59
-  TA: '229'
+  Ratio: 4.38
+  TA: '219'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -555,10 +555,10 @@ Base Game Achievements:
   Description: Call on Warrior Elementals to protect the kingdom
   GS: '10'
   Guide: false
-  Number of Gamers: 21
-  Percentage of Gamers: 14%
-  Ratio: 2.65
-  TA: '26'
+  Number of Gamers: 23
+  Percentage of Gamers: 15%
+  Ratio: 2.58
+  TA: '25'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -566,10 +566,10 @@ Base Game Achievements:
   Description: Find your Zen
   GS: '10'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 9%
-  Ratio: 3.37
-  TA: '33'
+  Number of Gamers: 15
+  Percentage of Gamers: 10%
+  Ratio: 3.2
+  TA: '32'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -577,10 +577,10 @@ Base Game Achievements:
   Description: Subjugate the militant inhabitants of Astral
   GS: '10'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 9%
-  Ratio: 3.37
-  TA: '33'
+  Number of Gamers: 15
+  Percentage of Gamers: 10%
+  Ratio: 3.2
+  TA: '32'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -588,10 +588,10 @@ Base Game Achievements:
   Description: Build the greatest and most powerful cannon
   GS: '10'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 9%
-  Ratio: 3.37
-  TA: '33'
+  Number of Gamers: 15
+  Percentage of Gamers: 10%
+  Ratio: 3.2
+  TA: '32'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -599,10 +599,10 @@ Base Game Achievements:
   Description: Build the tallest tower in the kingdom
   GS: '10'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 9%
-  Ratio: 3.37
-  TA: '33'
+  Number of Gamers: 15
+  Percentage of Gamers: 10%
+  Ratio: 3.2
+  TA: '32'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -610,10 +610,10 @@ Base Game Achievements:
   Description: Make the wolves fly
   GS: '10'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 11%
-  Ratio: 3.04
-  TA: '30'
+  Number of Gamers: 18
+  Percentage of Gamers: 12%
+  Ratio: 2.92
+  TA: '29'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -621,10 +621,10 @@ Base Game Achievements:
   Description: Take control of the strongest creatures
   GS: '10'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 9%
-  Ratio: 3.37
-  TA: '33'
+  Number of Gamers: 15
+  Percentage of Gamers: 10%
+  Ratio: 3.2
+  TA: '32'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -632,10 +632,10 @@ Base Game Achievements:
   Description: Open the passage to a strange world
   GS: '10'
   Guide: false
-  Number of Gamers: 21
-  Percentage of Gamers: 14%
-  Ratio: 2.65
-  TA: '26'
+  Number of Gamers: 23
+  Percentage of Gamers: 15%
+  Ratio: 2.58
+  TA: '25'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -643,9 +643,9 @@ Base Game Achievements:
   Description: Take a trip across the boundless expanse of Astral
   GS: '10'
   Guide: false
-  Number of Gamers: 19
-  Percentage of Gamers: 13%
-  Ratio: 2.79
+  Number of Gamers: 21
+  Percentage of Gamers: 14%
+  Ratio: 2.7
   TA: '27'
   Tags:
   - Offline Game Mode
@@ -654,10 +654,10 @@ Base Game Achievements:
   Description: Invite strangers to the city
   GS: '10'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 11%
-  Ratio: 2.95
-  TA: '29'
+  Number of Gamers: 19
+  Percentage of Gamers: 12%
+  Ratio: 2.84
+  TA: '28'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -665,10 +665,10 @@ Base Game Achievements:
   Description: Find out what happened to the hero
   GS: '10'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 9%
-  Ratio: 3.25
-  TA: '32'
+  Number of Gamers: 16
+  Percentage of Gamers: 10%
+  Ratio: 3.1
+  TA: '31'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -676,10 +676,10 @@ Base Game Achievements:
   Description: Form an alliance with the adherents of the good
   GS: '10'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 9%
-  Ratio: 3.25
-  TA: '32'
+  Number of Gamers: 16
+  Percentage of Gamers: 10%
+  Ratio: 3.1
+  TA: '31'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -687,10 +687,10 @@ Base Game Achievements:
   Description: Find and defeat Deathwing
   GS: '10'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 9%
-  Ratio: 3.25
-  TA: '32'
+  Number of Gamers: 16
+  Percentage of Gamers: 10%
+  Ratio: 3.1
+  TA: '31'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -698,10 +698,10 @@ Base Game Achievements:
   Description: Follow your heart!
   GS: '50'
   Guide: false
-  Number of Gamers: 10
+  Number of Gamers: 11
   Percentage of Gamers: 7%
-  Ratio: 3.84
-  TA: '192'
+  Ratio: 3.74
+  TA: '187'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -709,10 +709,10 @@ Base Game Achievements:
   Description: Gain great knowledge with the Spirit of Wisdom
   GS: '25'
   Guide: false
-  Number of Gamers: 16
+  Number of Gamers: 17
   Percentage of Gamers: 11%
-  Ratio: 3.04
-  TA: '76'
+  Ratio: 3.0
+  TA: '75'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -720,10 +720,10 @@ Base Game Achievements:
   Description: Get mithril delivery from a very distant universe
   GS: '10'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 12%
-  Ratio: 2.86
-  TA: '28'
+  Number of Gamers: 20
+  Percentage of Gamers: 13%
+  Ratio: 2.77
+  TA: '27'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -731,10 +731,10 @@ Base Game Achievements:
   Description: Complete the most difficult missions of the game
   GS: '50'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 5
   Percentage of Gamers: 3%
-  Ratio: 6.08
-  TA: '304'
+  Ratio: 5.54
+  TA: '277'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -742,10 +742,10 @@ Base Game Achievements:
   Description: Overcome the challenges of the Astral world
   GS: '50'
   Guide: false
-  Number of Gamers: 10
+  Number of Gamers: 11
   Percentage of Gamers: 7%
-  Ratio: 3.84
-  TA: '192'
+  Ratio: 3.74
+  TA: '187'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -753,30 +753,30 @@ Base Game Achievements:
   Description: Enjoy a drink with your comrades after an exhausting battle
   GS: '10'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 11%
-  Ratio: 3.04
-  TA: '30'
+  Number of Gamers: 18
+  Percentage of Gamers: 12%
+  Ratio: 2.92
+  TA: '29'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 2.926
-Base TA: 2926
+Base Ratio: 2.839
+Base TA: 2839
 Delisted: false
 Developer: Battlecruiser Games
 Game Name: Warstone TD Gold Edition
 Genres: Strategy, Tower Defence
 Install Size: 2700.0
-Number of Completions: 3
-Number of Gamers: 148
+Number of Completions: 4
+Number of Gamers: 155
 Overall Completion Time:
-- 130
-- 131
+- 113
+- 114
 Overall GS: 1000
-Overall Ratio: 2.926
-Overall TA: 2926
+Overall Ratio: 2.839
+Overall TA: 2839
 PDU: 0
-Percentage Completed: 2.03
+Percentage Completed: 2.58
 Publisher: DX Gameworks
 Release Date: 17 August 2023
 Server Closure: false

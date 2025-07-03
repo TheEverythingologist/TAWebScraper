@@ -27,7 +27,7 @@ Base Game Achievements:
 - Achievement Name: JET A1
   Description: Refuel 50,000 kg of fuel
   GS: '50'
-  Guide: false
+  Guide: true
   Number of Gamers: 0
   Percentage of Gamers: NA
   Ratio: NA
@@ -48,10 +48,10 @@ Base Game Achievements:
   Description: Finish unloading the luggage without opening a single bag
   GS: '50'
   Guide: false
-  Number of Gamers: 131
+  Number of Gamers: 146
   Percentage of Gamers: 61%
-  Ratio: 1.27
-  TA: '63'
+  Ratio: 1.28
+  TA: '64'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -59,8 +59,8 @@ Base Game Achievements:
   Description: Walk in front of running engine
   GS: '25'
   Guide: false
-  Number of Gamers: 205
-  Percentage of Gamers: 96%
+  Number of Gamers: 230
+  Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '25'
   Tags:
@@ -70,10 +70,10 @@ Base Game Achievements:
   Description: Let the aircraft depart with cone inside of the cargo hold
   GS: '25'
   Guide: false
-  Number of Gamers: 10
+  Number of Gamers: 11
   Percentage of Gamers: 5%
-  Ratio: 4.62
-  TA: '115'
+  Ratio: 4.68
+  TA: '117'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -91,10 +91,10 @@ Base Game Achievements:
   Description: Connect stairs to the aircraft to achieve a perfect score
   GS: '50'
   Guide: false
-  Number of Gamers: 61
-  Percentage of Gamers: 29%
-  Ratio: 1.87
-  TA: '93'
+  Number of Gamers: 79
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '87'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -102,10 +102,10 @@ Base Game Achievements:
   Description: Let the aircraft take off with opened flap
   GS: '50'
   Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 14%
-  Ratio: 2.62
-  TA: '131'
+  Number of Gamers: 38
+  Percentage of Gamers: 16%
+  Ratio: 2.51
+  TA: '125'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -113,10 +113,10 @@ Base Game Achievements:
   Description: "Don\u2019t arrive on time to do marshalling"
   GS: '50'
   Guide: false
-  Number of Gamers: 18
+  Number of Gamers: 20
   Percentage of Gamers: 8%
-  Ratio: 3.44
-  TA: '172'
+  Ratio: 3.47
+  TA: '173'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -124,10 +124,10 @@ Base Game Achievements:
   Description: Align Jetway to the aircraft perfectly to achieve highest score
   GS: '50'
   Guide: true
-  Number of Gamers: 24
-  Percentage of Gamers: 11%
-  Ratio: 2.98
-  TA: '149'
+  Number of Gamers: 32
+  Percentage of Gamers: 13%
+  Ratio: 2.74
+  TA: '137'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -136,10 +136,10 @@ Base Game Achievements:
     bus
   GS: '50'
   Guide: false
-  Number of Gamers: 25
-  Percentage of Gamers: 12%
-  Ratio: 2.92
-  TA: '146'
+  Number of Gamers: 33
+  Percentage of Gamers: 14%
+  Ratio: 2.7
+  TA: '135'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -157,10 +157,10 @@ Base Game Achievements:
   Description: You run out of time!
   GS: '50'
   Guide: false
-  Number of Gamers: 11
+  Number of Gamers: 12
   Percentage of Gamers: 5%
-  Ratio: 4.41
-  TA: '220'
+  Ratio: 4.48
+  TA: '224'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -178,10 +178,10 @@ Base Game Achievements:
   Description: Sprint 42,195 meters
   GS: '50'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 7%
-  Ratio: 3.9
-  TA: '195'
+  Number of Gamers: 21
+  Percentage of Gamers: 9%
+  Ratio: 3.38
+  TA: '169'
   Tags:
   - Offline Mode
   - Single Player
@@ -210,10 +210,10 @@ Base Game Achievements:
   Description: Place the cone on the top of the cockpit of A320
   GS: '50'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 8%
-  Ratio: 3.44
-  TA: '172'
+  Number of Gamers: 21
+  Percentage of Gamers: 9%
+  Ratio: 3.38
+  TA: '169'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -221,33 +221,33 @@ Base Game Achievements:
   Description: Place the cone on the top of the cockpit B737
   GS: '50'
   Guide: false
-  Number of Gamers: 19
-  Percentage of Gamers: 9%
-  Ratio: 3.35
-  TA: '167'
+  Number of Gamers: 24
+  Percentage of Gamers: 10%
+  Ratio: 3.16
+  TA: '158'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 2.098
-Base TA: 2098
+Base Ratio: 2.033
+Base TA: 2033
 Delisted: false
 Developer: MS GAMES, MK STUDIOS
 Game Name: AirportSim
 Genres: Simulation
 Install Size: 1950.0
 Number of Completions: 0
-Number of Gamers: 214
+Number of Gamers: 241
 Overall Completion Time:
 - -1
 - -1
 Overall GS: 1000
-Overall Ratio: 2.098
-Overall TA: 2098
+Overall Ratio: 2.033
+Overall TA: 2033
 PDU: 0
 Percentage Completed: 0.0
 Publisher: Iceberg Interactive
 Release Date: 01 August 2024
 Server Closure: false
-Site Rating: 3.0
+Site Rating: 2.5
 Update Achievements: []
 Walkthrough: false

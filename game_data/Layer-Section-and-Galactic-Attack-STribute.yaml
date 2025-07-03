@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
+- 0.5
 - 1.0
-- 2.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Stage 1 Clear
   Description: Completed Stage 1.(Only when not using stage select.)
   GS: '100'
   Guide: false
-  Number of Gamers: 437
-  Percentage of Gamers: 95%
-  Ratio: 1.02
-  TA: '102'
+  Number of Gamers: 532
+  Percentage of Gamers: 92%
+  Ratio: 1.03
+  TA: '103'
   Tags:
   - Offline Mode
   - Single Player
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Completed Stage 2.(Only when not using stage select.)
   GS: '100'
   Guide: false
-  Number of Gamers: 400
-  Percentage of Gamers: 87%
-  Ratio: 1.07
-  TA: '107'
+  Number of Gamers: 476
+  Percentage of Gamers: 82%
+  Ratio: 1.09
+  TA: '109'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Completed Stage 3.(Only when not using stage select.)
   GS: '100'
   Guide: false
-  Number of Gamers: 323
-  Percentage of Gamers: 70%
-  Ratio: 1.19
-  TA: '119'
+  Number of Gamers: 380
+  Percentage of Gamers: 66%
+  Ratio: 1.23
+  TA: '123'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Completed Stage 4.(Only when not using stage select.)
   GS: '100'
   Guide: false
-  Number of Gamers: 298
-  Percentage of Gamers: 65%
-  Ratio: 1.24
-  TA: '124'
+  Number of Gamers: 345
+  Percentage of Gamers: 60%
+  Ratio: 1.29
+  TA: '129'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Completed Stage 5.(Only when not using stage select.)
   GS: '100'
   Guide: false
-  Number of Gamers: 283
-  Percentage of Gamers: 61%
-  Ratio: 1.27
-  TA: '127'
+  Number of Gamers: 323
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '133'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: Completed Stage 6.(Only when not using stage select.)
   GS: '100'
   Guide: false
-  Number of Gamers: 270
-  Percentage of Gamers: 58%
-  Ratio: 1.3
-  TA: '130'
+  Number of Gamers: 307
+  Percentage of Gamers: 53%
+  Ratio: 1.36
+  TA: '136'
   Tags:
   - Offline Mode
   - Single Player
@@ -80,10 +80,10 @@ Base Game Achievements:
   Description: Completed all stages.(Only when not using stage select.)
   GS: '100'
   Guide: false
-  Number of Gamers: 266
-  Percentage of Gamers: 58%
-  Ratio: 1.31
-  TA: '131'
+  Number of Gamers: 302
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '138'
   Tags:
   - Offline Mode
   - Single Player
@@ -93,10 +93,10 @@ Base Game Achievements:
   Description: Obtained a score of 1,000,000 or more.(Only when not using stage select.)
   GS: '100'
   Guide: false
-  Number of Gamers: 215
-  Percentage of Gamers: 47%
-  Ratio: 1.46
-  TA: '146'
+  Number of Gamers: 244
+  Percentage of Gamers: 42%
+  Ratio: 1.53
+  TA: '153'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -104,7 +104,7 @@ Base Game Achievements:
   Description: Played in Console Mode.(Only when not using stage select.)
   GS: '20'
   Guide: true
-  Number of Gamers: 451
+  Number of Gamers: 565
   Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '20'
@@ -115,10 +115,10 @@ Base Game Achievements:
   Description: Played in Arcade Mode.(Only when not using stage select.)
   GS: '20'
   Guide: true
-  Number of Gamers: 329
-  Percentage of Gamers: 71%
-  Ratio: 1.18
-  TA: '23'
+  Number of Gamers: 373
+  Percentage of Gamers: 65%
+  Ratio: 1.24
+  TA: '24'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -126,7 +126,7 @@ Base Game Achievements:
   Description: First sortie.(Only when not using stage select.)
   GS: '10'
   Guide: true
-  Number of Gamers: 459
+  Number of Gamers: 574
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '10'
@@ -137,10 +137,10 @@ Base Game Achievements:
   Description: Go on 10 sorties.(Only when not using stage select.)
   GS: '50'
   Guide: true
-  Number of Gamers: 259
-  Percentage of Gamers: 56%
-  Ratio: 1.34
-  TA: '67'
+  Number of Gamers: 288
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '70'
   Tags:
   - Offline Mode
   - Single Player
@@ -149,34 +149,34 @@ Base Game Achievements:
   Description: Go on 20 sorties.(Only when not using stage select.)
   GS: '100'
   Guide: true
-  Number of Gamers: 238
-  Percentage of Gamers: 52%
-  Ratio: 1.39
-  TA: '139'
+  Number of Gamers: 264
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '147'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 1.245
-Base TA: 1245
+Base Ratio: 1.295
+Base TA: 1295
 Delisted: false
 Developer: Taito, City Connection
 Game Name: Layer Section & Galactic Attack S-Tribute
 Genres: Shoot 'em up, Collection
 Install Size: 1030.0
-Number of Completions: 197
-Number of Gamers: 462
+Number of Completions: 214
+Number of Gamers: 577
 Overall Completion Time:
+- 0.5
 - 1.0
-- 2.0
 Overall GS: 1000
-Overall Ratio: 1.245
-Overall TA: 1245
+Overall Ratio: 1.295
+Overall TA: 1295
 PDU: 0
-Percentage Completed: 42.64
+Percentage Completed: 37.09
 Publisher: City Connection
 Release Date: 27 April 2022
 Server Closure: false
-Site Rating: 3.65
+Site Rating: 3.72
 Update Achievements: []
 Walkthrough: false

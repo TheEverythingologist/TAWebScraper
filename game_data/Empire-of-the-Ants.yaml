@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 34
-- 35
+- 38
+- 39
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Awakening
   Description: Reach "Bel-o-kan"
   GS: '15'
   Guide: false
-  Number of Gamers: 1634
+  Number of Gamers: 1919
   Percentage of Gamers: 93%
   Ratio: 1.03
   TA: '15'
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Reach "Ta-yu-kan"
   GS: '15'
   Guide: false
-  Number of Gamers: 968
+  Number of Gamers: 1132
   Percentage of Gamers: 55%
   Ratio: 1.34
   TA: '20'
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Reach "Niziu-ni-kan"
   GS: '15'
   Guide: false
-  Number of Gamers: 300
-  Percentage of Gamers: 17%
-  Ratio: 2.41
-  TA: '36'
+  Number of Gamers: 364
+  Percentage of Gamers: 18%
+  Ratio: 2.37
+  TA: '35'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Reach "Chli-pou-kan"
   GS: '15'
   Guide: false
-  Number of Gamers: 179
-  Percentage of Gamers: 10%
-  Ratio: 3.12
-  TA: '46'
+  Number of Gamers: 220
+  Percentage of Gamers: 11%
+  Ratio: 3.06
+  TA: '45'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Return to "Bel-o-kan"
   GS: '15'
   Guide: false
-  Number of Gamers: 85
+  Number of Gamers: 109
   Percentage of Gamers: 5%
-  Ratio: 4.53
-  TA: '68'
+  Ratio: 4.34
+  TA: '65'
   Tags:
   - Offline Mode
   - Single Player
@@ -69,21 +69,21 @@ Base Game Achievements:
     mission
   GS: '15'
   Guide: false
-  Number of Gamers: 224
+  Number of Gamers: 261
   Percentage of Gamers: 13%
-  Ratio: 2.79
-  TA: '41'
+  Ratio: 2.8
+  TA: '42'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Titan-hike
   Description: Climb on a mantis for at least 5 seconds
   GS: '15'
-  Guide: false
-  Number of Gamers: 111
-  Percentage of Gamers: 6%
-  Ratio: 3.96
-  TA: '59'
+  Guide: true
+  Number of Gamers: 140
+  Percentage of Gamers: 7%
+  Ratio: 3.83
+  TA: '57'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -92,9 +92,9 @@ Base Game Achievements:
     \ 3 times or more"
   GS: '15'
   Guide: false
-  Number of Gamers: 146
+  Number of Gamers: 173
   Percentage of Gamers: 8%
-  Ratio: 3.46
+  Ratio: 3.45
   TA: '51'
   Tags:
   - Offline Mode
@@ -104,10 +104,10 @@ Base Game Achievements:
   Description: Win a strategic mission without losing a single legion
   GS: '15'
   Guide: false
-  Number of Gamers: 184
+  Number of Gamers: 224
   Percentage of Gamers: 11%
-  Ratio: 3.08
-  TA: '46'
+  Ratio: 3.03
+  TA: '45'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -115,7 +115,7 @@ Base Game Achievements:
   Description: Drown once
   GS: '15'
   Guide: false
-  Number of Gamers: 1525
+  Number of Gamers: 1799
   Percentage of Gamers: 87%
   Ratio: 1.07
   TA: '16'
@@ -127,10 +127,10 @@ Base Game Achievements:
     the headquarters
   GS: '15'
   Guide: false
-  Number of Gamers: 79
+  Number of Gamers: 96
   Percentage of Gamers: 5%
-  Ratio: 4.7
-  TA: '70'
+  Ratio: 4.63
+  TA: '69'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -138,10 +138,10 @@ Base Game Achievements:
   Description: Complete "The flood" in less than 5 minutes
   GS: '15'
   Guide: false
-  Number of Gamers: 27
+  Number of Gamers: 37
   Percentage of Gamers: 2%
-  Ratio: 8.04
-  TA: '120'
+  Ratio: 7.46
+  TA: '111'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -149,10 +149,10 @@ Base Game Achievements:
   Description: Use every power once
   GS: '15'
   Guide: false
-  Number of Gamers: 98
+  Number of Gamers: 124
   Percentage of Gamers: 6%
-  Ratio: 4.22
-  TA: '63'
+  Ratio: 4.07
+  TA: '61'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -160,10 +160,10 @@ Base Game Achievements:
   Description: Have 5 legions of the same type in a strategic mission
   GS: '15'
   Guide: false
-  Number of Gamers: 78
-  Percentage of Gamers: 4%
-  Ratio: 4.73
-  TA: '71'
+  Number of Gamers: 97
+  Percentage of Gamers: 5%
+  Ratio: 4.6
+  TA: '69'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -171,11 +171,11 @@ Base Game Achievements:
   Description: Find one of the highest points and jump from it to reach maximum falling
     speed
   GS: '15'
-  Guide: false
-  Number of Gamers: 118
+  Guide: true
+  Number of Gamers: 143
   Percentage of Gamers: 7%
-  Ratio: 3.84
-  TA: '57'
+  Ratio: 3.79
+  TA: '56'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -183,10 +183,10 @@ Base Game Achievements:
   Description: Win "Snailing out of here" while riding the snail for 80% of the time
   GS: '15'
   Guide: true
-  Number of Gamers: 124
+  Number of Gamers: 150
   Percentage of Gamers: 7%
-  Ratio: 3.75
-  TA: '56'
+  Ratio: 3.7
+  TA: '55'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -195,10 +195,10 @@ Base Game Achievements:
     first 3 minutes)
   GS: '15'
   Guide: true
-  Number of Gamers: 22
+  Number of Gamers: 30
   Percentage of Gamers: 1%
-  Ratio: 8.91
-  TA: '133'
+  Ratio: 8.28
+  TA: '124'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -206,10 +206,10 @@ Base Game Achievements:
   Description: Run a total of 400 m
   GS: '15'
   Guide: false
-  Number of Gamers: 95
-  Percentage of Gamers: 5%
-  Ratio: 4.28
-  TA: '64'
+  Number of Gamers: 124
+  Percentage of Gamers: 6%
+  Ratio: 4.07
+  TA: '61'
   Tags:
   - Offline Mode
   - Single Player
@@ -218,10 +218,10 @@ Base Game Achievements:
   Description: Win "Behind enemy lines" without taking any damage from enemy patrols
   GS: '15'
   Guide: false
-  Number of Gamers: 51
+  Number of Gamers: 62
   Percentage of Gamers: 3%
-  Ratio: 5.85
-  TA: '87'
+  Ratio: 5.76
+  TA: '86'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -229,10 +229,10 @@ Base Game Achievements:
   Description: Win a strategic mission without taking any damage yourself
   GS: '15'
   Guide: false
-  Number of Gamers: 70
+  Number of Gamers: 89
   Percentage of Gamers: 4%
-  Ratio: 4.99
-  TA: '74'
+  Ratio: 4.81
+  TA: '72'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -240,10 +240,10 @@ Base Game Achievements:
   Description: Make butterflies fly away 15 times
   GS: '15'
   Guide: false
-  Number of Gamers: 55
+  Number of Gamers: 68
   Percentage of Gamers: 3%
-  Ratio: 5.63
-  TA: '84'
+  Ratio: 5.5
+  TA: '82'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -251,10 +251,10 @@ Base Game Achievements:
   Description: Interrupt a queen by walking out while having a conversation
   GS: '15'
   Guide: false
-  Number of Gamers: 320
-  Percentage of Gamers: 18%
-  Ratio: 2.33
-  TA: '35'
+  Number of Gamers: 385
+  Percentage of Gamers: 19%
+  Ratio: 2.31
+  TA: '34'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -262,10 +262,10 @@ Base Game Achievements:
   Description: Scare 5 pillbugs to have them roll over
   GS: '15'
   Guide: false
-  Number of Gamers: 259
+  Number of Gamers: 304
   Percentage of Gamers: 15%
-  Ratio: 2.59
-  TA: '38'
+  Ratio: 2.6
+  TA: '39'
   Tags:
   - Offline Mode
   - Single Player
@@ -274,7 +274,7 @@ Base Game Achievements:
   Description: Unlock your first entry in the collection
   GS: '15'
   Guide: false
-  Number of Gamers: 1735
+  Number of Gamers: 2046
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '15'
@@ -286,10 +286,10 @@ Base Game Achievements:
   Description: Complete all tactical missions
   GS: '30'
   Guide: false
-  Number of Gamers: 45
+  Number of Gamers: 57
   Percentage of Gamers: 3%
-  Ratio: 6.23
-  TA: '186'
+  Ratio: 6.01
+  TA: '180'
   Tags:
   - Offline Mode
   - Single Player
@@ -298,10 +298,10 @@ Base Game Achievements:
   Description: Complete all strategic missions
   GS: '30'
   Guide: false
-  Number of Gamers: 39
+  Number of Gamers: 50
   Percentage of Gamers: 2%
-  Ratio: 6.69
-  TA: '200'
+  Ratio: 6.41
+  TA: '192'
   Tags:
   - Offline Mode
   - Single Player
@@ -310,10 +310,10 @@ Base Game Achievements:
   Description: Complete all exploration missions
   GS: '30'
   Guide: false
-  Number of Gamers: 51
+  Number of Gamers: 65
   Percentage of Gamers: 3%
-  Ratio: 5.85
-  TA: '175'
+  Ratio: 5.62
+  TA: '168'
   Tags:
   - Offline Mode
   - Single Player
@@ -322,10 +322,10 @@ Base Game Achievements:
   Description: Complete the story
   GS: '30'
   Guide: false
-  Number of Gamers: 66
+  Number of Gamers: 87
   Percentage of Gamers: 4%
-  Ratio: 5.14
-  TA: '154'
+  Ratio: 4.86
+  TA: '145'
   Tags:
   - Offline Mode
   - Single Player
@@ -335,10 +335,10 @@ Base Game Achievements:
     first nest taken
   GS: '30'
   Guide: false
-  Number of Gamers: 39
-  Percentage of Gamers: 2%
-  Ratio: 6.69
-  TA: '200'
+  Number of Gamers: 52
+  Percentage of Gamers: 3%
+  Ratio: 6.29
+  TA: '188'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -346,10 +346,10 @@ Base Game Achievements:
   Description: Complete "End of the world" in less than 3 minutes and 30 seconds
   GS: '30'
   Guide: false
-  Number of Gamers: 29
+  Number of Gamers: 38
   Percentage of Gamers: 2%
-  Ratio: 7.76
-  TA: '232'
+  Ratio: 7.36
+  TA: '220'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -357,10 +357,10 @@ Base Game Achievements:
   Description: Win a strategic mission without building any tier 2 and 3 upgrades
   GS: '30'
   Guide: false
-  Number of Gamers: 61
-  Percentage of Gamers: 3%
-  Ratio: 5.35
-  TA: '160'
+  Number of Gamers: 80
+  Percentage of Gamers: 4%
+  Ratio: 5.07
+  TA: '152'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -368,10 +368,10 @@ Base Game Achievements:
   Description: Complete all traversal missions without dying in the water once
   GS: '30'
   Guide: false
-  Number of Gamers: 25
-  Percentage of Gamers: 1%
-  Ratio: 8.36
-  TA: '250'
+  Number of Gamers: 32
+  Percentage of Gamers: 2%
+  Ratio: 8.02
+  TA: '240'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -379,8 +379,8 @@ Base Game Achievements:
   Description: Get out of the water with 10% health or less
   GS: '30'
   Guide: false
-  Number of Gamers: 891
-  Percentage of Gamers: 51%
+  Number of Gamers: 1039
+  Percentage of Gamers: 50%
   Ratio: 1.4
   TA: '42'
   Tags:
@@ -390,11 +390,11 @@ Base Game Achievements:
 - Achievement Name: Ants won't die today
   Description: In "Lost sisters" find all 7 ants before any ant drowns
   GS: '30'
-  Guide: false
-  Number of Gamers: 68
+  Guide: true
+  Number of Gamers: 85
   Percentage of Gamers: 4%
-  Ratio: 5.07
-  TA: '152'
+  Ratio: 4.92
+  TA: '147'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -402,10 +402,10 @@ Base Game Achievements:
   Description: Complete the bestiary by finding all the different creatures
   GS: '30'
   Guide: false
-  Number of Gamers: 67
+  Number of Gamers: 84
   Percentage of Gamers: 4%
-  Ratio: 5.1
-  TA: '153'
+  Ratio: 4.95
+  TA: '148'
   Tags:
   - Offline Mode
   - Single Player
@@ -414,10 +414,10 @@ Base Game Achievements:
   Description: Watch all the memory pheromones
   GS: '30'
   Guide: false
-  Number of Gamers: 28
+  Number of Gamers: 36
   Percentage of Gamers: 2%
-  Ratio: 7.9
-  TA: '237'
+  Ratio: 7.56
+  TA: '226'
   Tags:
   - Offline Mode
   - Single Player
@@ -426,10 +426,10 @@ Base Game Achievements:
   Description: Scan all the structures
   GS: '30'
   Guide: false
-  Number of Gamers: 29
+  Number of Gamers: 37
   Percentage of Gamers: 2%
-  Ratio: 7.76
-  TA: '232'
+  Ratio: 7.46
+  TA: '223'
   Tags:
   - Offline Mode
   - Single Player
@@ -438,10 +438,10 @@ Base Game Achievements:
   Description: Catch all the monarch butterflies and golden tortoise beetles
   GS: '30'
   Guide: false
-  Number of Gamers: 22
+  Number of Gamers: 29
   Percentage of Gamers: 1%
-  Ratio: 8.91
-  TA: '267'
+  Ratio: 8.42
+  TA: '252'
   Tags:
   - Offline Mode
   - Single Player
@@ -450,10 +450,10 @@ Base Game Achievements:
   Description: Complete all missions
   GS: '80'
   Guide: false
-  Number of Gamers: 38
+  Number of Gamers: 49
   Percentage of Gamers: 2%
-  Ratio: 6.78
-  TA: '542'
+  Ratio: 6.48
+  TA: '518'
   Tags:
   - Offline Mode
   - Single Player
@@ -463,10 +463,10 @@ Base Game Achievements:
     minutes apart
   GS: '60'
   Guide: true
-  Number of Gamers: 26
-  Percentage of Gamers: 1%
-  Ratio: 8.19
-  TA: '491'
+  Number of Gamers: 36
+  Percentage of Gamers: 2%
+  Ratio: 7.56
+  TA: '453'
   Tags:
   - Offline Mode
   - Single Player
@@ -475,34 +475,34 @@ Base Game Achievements:
   Description: Complete collection
   GS: '80'
   Guide: false
-  Number of Gamers: 22
+  Number of Gamers: 29
   Percentage of Gamers: 1%
-  Ratio: 8.91
-  TA: '713'
+  Ratio: 8.42
+  TA: '674'
   Tags:
   - Offline Mode
   - Single Player
   - Collectable
-Base Ratio: 5.751
-Base TA: 5751
+Base Ratio: 5.493
+Base TA: 5493
 Delisted: false
 Developer: Tower Five
 Game Name: Empire of the Ants
 Genres: Strategy
 Install Size: 37860.0
-Number of Completions: 21
-Number of Gamers: 1748
+Number of Completions: 27
+Number of Gamers: 2061
 Overall Completion Time:
-- 34
-- 35
+- 38
+- 39
 Overall GS: 1000
-Overall Ratio: 5.751
-Overall TA: 5751
+Overall Ratio: 5.493
+Overall TA: 5493
 PDU: 0
-Percentage Completed: 1.2
+Percentage Completed: 1.31
 Publisher: Microids
 Release Date: 07 November 2024
 Server Closure: false
-Site Rating: 4.56
+Site Rating: 4.38
 Update Achievements: []
 Walkthrough: false

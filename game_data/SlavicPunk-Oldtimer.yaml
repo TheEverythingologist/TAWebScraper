@@ -1,16 +1,16 @@
 Add On Achievements: []
 Base Completion Time:
+- 7
 - 8
-- 9
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Big iron
   Description: 50 enemies killed with a revolver
   GS: '15'
   Guide: false
-  Number of Gamers: 66
-  Percentage of Gamers: 44%
-  Ratio: 1.51
+  Number of Gamers: 99
+  Percentage of Gamers: 46%
+  Ratio: 1.48
   TA: '22'
   Tags:
   - Offline Mode
@@ -20,43 +20,46 @@ Base Game Achievements:
   Description: Equipping full Grade 1 upgrade set on a revolver
   GS: '15'
   Guide: false
-  Number of Gamers: 42
-  Percentage of Gamers: 28%
-  Ratio: 1.89
-  TA: '28'
+  Number of Gamers: 62
+  Percentage of Gamers: 29%
+  Ratio: 1.86
+  TA: '27'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Shop
 - Achievement Name: Tinkerer - Revolver II
   Description: Equipping full Grade 2 upgrade set on a revolver
   GS: '30'
   Guide: false
-  Number of Gamers: 37
-  Percentage of Gamers: 25%
-  Ratio: 2.02
-  TA: '60'
+  Number of Gamers: 57
+  Percentage of Gamers: 27%
+  Ratio: 1.94
+  TA: '58'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Shop
 - Achievement Name: Tinkerer - Revolver III
   Description: Equipping full Grade 3 upgrade set on a revolver
   GS: '30'
   Guide: false
-  Number of Gamers: 45
-  Percentage of Gamers: 30%
-  Ratio: 1.83
-  TA: '54'
+  Number of Gamers: 70
+  Percentage of Gamers: 33%
+  Ratio: 1.76
+  TA: '52'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Shop
 - Achievement Name: Machine Fun
   Description: 50 enemies killed with an SMG
   GS: '15'
   Guide: false
-  Number of Gamers: 36
-  Percentage of Gamers: 24%
-  Ratio: 2.04
-  TA: '30'
+  Number of Gamers: 55
+  Percentage of Gamers: 26%
+  Ratio: 1.97
+  TA: '29'
   Tags:
   - Offline Mode
   - Single Player
@@ -65,43 +68,46 @@ Base Game Achievements:
   Description: Equipping full Grade 1 upgrade set on an SMG
   GS: '15'
   Guide: false
-  Number of Gamers: 32
+  Number of Gamers: 46
   Percentage of Gamers: 21%
-  Ratio: 2.17
+  Ratio: 2.16
   TA: '32'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Shop
 - Achievement Name: Tinkerer - SMG II
   Description: Equipping full Grade 2 upgrade set on an SMG
   GS: '30'
   Guide: false
-  Number of Gamers: 31
+  Number of Gamers: 46
   Percentage of Gamers: 21%
-  Ratio: 2.2
-  TA: '66'
+  Ratio: 2.16
+  TA: '64'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Shop
 - Achievement Name: Tinkerer - SMG III
   Description: Equipping full Grade 3 upgrade set on an SMG
   GS: '30'
   Guide: false
-  Number of Gamers: 38
-  Percentage of Gamers: 25%
-  Ratio: 1.99
+  Number of Gamers: 55
+  Percentage of Gamers: 26%
+  Ratio: 1.97
   TA: '59'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Shop
 - Achievement Name: Assault Trifle
   Description: 50 enemies killed with a rifle
   GS: '15'
   Guide: false
-  Number of Gamers: 69
-  Percentage of Gamers: 46%
-  Ratio: 1.47
-  TA: '22'
+  Number of Gamers: 102
+  Percentage of Gamers: 47%
+  Ratio: 1.45
+  TA: '21'
   Tags:
   - Offline Mode
   - Single Player
@@ -110,42 +116,45 @@ Base Game Achievements:
   Description: Equipping full Grade 1 upgrade set on a rifle
   GS: '15'
   Guide: false
-  Number of Gamers: 41
-  Percentage of Gamers: 27%
-  Ratio: 1.91
-  TA: '28'
+  Number of Gamers: 65
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '27'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Shop
 - Achievement Name: Tinkerer - Rifle II
   Description: Equipping full Grade 2 upgrade set on a rifle
   GS: '30'
   Guide: false
-  Number of Gamers: 41
-  Percentage of Gamers: 27%
-  Ratio: 1.91
-  TA: '57'
+  Number of Gamers: 61
+  Percentage of Gamers: 28%
+  Ratio: 1.87
+  TA: '56'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Shop
 - Achievement Name: Tinkerer - Rifle III
   Description: Equipping full Grade 3 upgrade set on a rifle
   GS: '30'
   Guide: false
-  Number of Gamers: 46
-  Percentage of Gamers: 30%
-  Ratio: 1.81
-  TA: '54'
+  Number of Gamers: 67
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '53'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Shop
 - Achievement Name: Duck hunt
   Description: 50 enemies killed with a shotgun
   GS: '15'
   Guide: false
-  Number of Gamers: 72
-  Percentage of Gamers: 48%
-  Ratio: 1.44
+  Number of Gamers: 109
+  Percentage of Gamers: 51%
+  Ratio: 1.4
   TA: '21'
   Tags:
   - Offline Mode
@@ -155,43 +164,46 @@ Base Game Achievements:
   Description: Equipping full Grade 1 upgrade set on a shotgun
   GS: '15'
   Guide: false
-  Number of Gamers: 42
-  Percentage of Gamers: 28%
-  Ratio: 1.89
-  TA: '28'
+  Number of Gamers: 63
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '27'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Shop
 - Achievement Name: Tinkerer - Shotgun II
   Description: Equipping full Grade 2 upgrade set on a shotgun
   GS: '30'
   Guide: false
-  Number of Gamers: 39
-  Percentage of Gamers: 26%
-  Ratio: 1.96
-  TA: '59'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: Tinkerer - Shotgun III
-  Description: Equipping full Grade 3 upgrade set on a shotgun
-  GS: '30'
-  Guide: false
-  Number of Gamers: 42
+  Number of Gamers: 60
   Percentage of Gamers: 28%
   Ratio: 1.89
   TA: '56'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Shop
+- Achievement Name: Tinkerer - Shotgun III
+  Description: Equipping full Grade 3 upgrade set on a shotgun
+  GS: '30'
+  Guide: false
+  Number of Gamers: 64
+  Percentage of Gamers: 30%
+  Ratio: 1.83
+  TA: '54'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
 - Achievement Name: Railed it!
   Description: 50 enemies killed with a railgun
   GS: '15'
   Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 18%
-  Ratio: 2.36
-  TA: '35'
+  Number of Gamers: 42
+  Percentage of Gamers: 20%
+  Ratio: 2.26
+  TA: '33'
   Tags:
   - Offline Mode
   - Single Player
@@ -200,43 +212,46 @@ Base Game Achievements:
   Description: Equipping full Grade 1 upgrade set on a railgun
   GS: '15'
   Guide: false
-  Number of Gamers: 34
+  Number of Gamers: 50
   Percentage of Gamers: 23%
-  Ratio: 2.1
+  Ratio: 2.07
   TA: '31'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Shop
 - Achievement Name: Tinkerer - Railgun II
   Description: Equipping full Grade 2 upgrade set on a railgun
   GS: '30'
   Guide: false
-  Number of Gamers: 32
-  Percentage of Gamers: 21%
-  Ratio: 2.17
-  TA: '65'
+  Number of Gamers: 48
+  Percentage of Gamers: 22%
+  Ratio: 2.11
+  TA: '63'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Shop
 - Achievement Name: Tinkerer - Railgun III
   Description: Equipping full Grade 3 upgrade set on a railgun
   GS: '30'
   Guide: false
-  Number of Gamers: 38
+  Number of Gamers: 53
   Percentage of Gamers: 25%
-  Ratio: 1.99
-  TA: '59'
+  Ratio: 2.01
+  TA: '60'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Shop
 - Achievement Name: Quick hands
   Description: 10 flawless Active Reloads in a row
   GS: '15'
   Guide: false
-  Number of Gamers: 56
-  Percentage of Gamers: 37%
-  Ratio: 1.64
-  TA: '24'
+  Number of Gamers: 85
+  Percentage of Gamers: 40%
+  Ratio: 1.59
+  TA: '23'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -244,10 +259,10 @@ Base Game Achievements:
   Description: 10 enemies killed with silenced weapons
   GS: '15'
   Guide: false
-  Number of Gamers: 42
-  Percentage of Gamers: 28%
-  Ratio: 1.89
-  TA: '28'
+  Number of Gamers: 66
+  Percentage of Gamers: 31%
+  Ratio: 1.8
+  TA: '27'
   Tags:
   - Offline Mode
   - Single Player
@@ -256,10 +271,10 @@ Base Game Achievements:
   Description: 60 enemies killed with silenced weapons
   GS: '30'
   Guide: false
-  Number of Gamers: 33
-  Percentage of Gamers: 22%
-  Ratio: 2.13
-  TA: '64'
+  Number of Gamers: 50
+  Percentage of Gamers: 23%
+  Ratio: 2.07
+  TA: '62'
   Tags:
   - Offline Mode
   - Single Player
@@ -268,10 +283,10 @@ Base Game Achievements:
   Description: 10 enemies killed with EMP bullets
   GS: '15'
   Guide: false
-  Number of Gamers: 42
-  Percentage of Gamers: 28%
-  Ratio: 1.89
-  TA: '28'
+  Number of Gamers: 63
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '27'
   Tags:
   - Offline Mode
   - Single Player
@@ -280,10 +295,10 @@ Base Game Achievements:
   Description: 60 enemies killed with EMP bullets
   GS: '30'
   Guide: false
-  Number of Gamers: 35
-  Percentage of Gamers: 23%
-  Ratio: 2.07
-  TA: '62'
+  Number of Gamers: 51
+  Percentage of Gamers: 24%
+  Ratio: 2.05
+  TA: '61'
   Tags:
   - Offline Mode
   - Single Player
@@ -292,10 +307,10 @@ Base Game Achievements:
   Description: 10 enemies killed with AP bullets
   GS: '15'
   Guide: false
-  Number of Gamers: 46
-  Percentage of Gamers: 30%
-  Ratio: 1.81
-  TA: '27'
+  Number of Gamers: 69
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '26'
   Tags:
   - Offline Mode
   - Single Player
@@ -304,10 +319,10 @@ Base Game Achievements:
   Description: 60 enemies killed with AP bullets
   GS: '30'
   Guide: false
-  Number of Gamers: 37
-  Percentage of Gamers: 25%
-  Ratio: 2.02
-  TA: '60'
+  Number of Gamers: 56
+  Percentage of Gamers: 26%
+  Ratio: 1.95
+  TA: '58'
   Tags:
   - Offline Mode
   - Single Player
@@ -316,9 +331,9 @@ Base Game Achievements:
   Description: 10 enemies killed with incendiary bullets
   GS: '15'
   Guide: false
-  Number of Gamers: 50
-  Percentage of Gamers: 33%
-  Ratio: 1.73
+  Number of Gamers: 68
+  Percentage of Gamers: 32%
+  Ratio: 1.77
   TA: '26'
   Tags:
   - Offline Mode
@@ -328,10 +343,10 @@ Base Game Achievements:
   Description: 60 enemies killed with incendiary bullets
   GS: '30'
   Guide: false
-  Number of Gamers: 44
-  Percentage of Gamers: 29%
-  Ratio: 1.85
-  TA: '55'
+  Number of Gamers: 61
+  Percentage of Gamers: 28%
+  Ratio: 1.87
+  TA: '56'
   Tags:
   - Offline Mode
   - Single Player
@@ -340,10 +355,10 @@ Base Game Achievements:
   Description: 10 enemies killed with explosive bullets
   GS: '15'
   Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 20%
-  Ratio: 2.24
-  TA: '33'
+  Number of Gamers: 47
+  Percentage of Gamers: 22%
+  Ratio: 2.13
+  TA: '32'
   Tags:
   - Offline Mode
   - Single Player
@@ -352,10 +367,10 @@ Base Game Achievements:
   Description: 60 enemies killed with explosive bullets
   GS: '30'
   Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 15%
-  Ratio: 2.56
-  TA: '76'
+  Number of Gamers: 38
+  Percentage of Gamers: 18%
+  Ratio: 2.37
+  TA: '71'
   Tags:
   - Offline Mode
   - Single Player
@@ -364,9 +379,9 @@ Base Game Achievements:
   Description: 10 flawless Battlehacks in a row
   GS: '15'
   Guide: false
-  Number of Gamers: 71
-  Percentage of Gamers: 47%
-  Ratio: 1.45
+  Number of Gamers: 107
+  Percentage of Gamers: 50%
+  Ratio: 1.41
   TA: '21'
   Tags:
   - Offline Mode
@@ -376,9 +391,9 @@ Base Game Achievements:
   Description: 25 containers opened
   GS: '15'
   Guide: false
-  Number of Gamers: 126
-  Percentage of Gamers: 83%
-  Ratio: 1.09
+  Number of Gamers: 185
+  Percentage of Gamers: 86%
+  Ratio: 1.07
   TA: '16'
   Tags:
   - Offline Mode
@@ -388,10 +403,10 @@ Base Game Achievements:
   Description: Dash 666 times
   GS: '35'
   Guide: false
-  Number of Gamers: 25
-  Percentage of Gamers: 17%
-  Ratio: 2.45
-  TA: '86'
+  Number of Gamers: 40
+  Percentage of Gamers: 19%
+  Ratio: 2.31
+  TA: '81'
   Tags:
   - Offline Mode
   - Single Player
@@ -400,10 +415,10 @@ Base Game Achievements:
   Description: Roll 420 times
   GS: '35'
   Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 15%
-  Ratio: 2.56
-  TA: '89'
+  Number of Gamers: 38
+  Percentage of Gamers: 18%
+  Ratio: 2.37
+  TA: '83'
   Tags:
   - Offline Mode
   - Single Player
@@ -412,10 +427,10 @@ Base Game Achievements:
   Description: Die 10 times on the same level
   GS: '20'
   Guide: false
-  Number of Gamers: 39
-  Percentage of Gamers: 26%
-  Ratio: 1.96
-  TA: '39'
+  Number of Gamers: 59
+  Percentage of Gamers: 27%
+  Ratio: 1.9
+  TA: '38'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -423,7 +438,7 @@ Base Game Achievements:
   Description: Meet Rodent
   GS: '20'
   Guide: false
-  Number of Gamers: 139
+  Number of Gamers: 197
   Percentage of Gamers: 92%
   Ratio: 1.04
   TA: '20'
@@ -435,10 +450,10 @@ Base Game Achievements:
   Description: Kill Liker
   GS: '20'
   Guide: false
-  Number of Gamers: 55
-  Percentage of Gamers: 36%
-  Ratio: 1.65
-  TA: '33'
+  Number of Gamers: 80
+  Percentage of Gamers: 37%
+  Ratio: 1.63
+  TA: '32'
   Tags:
   - Offline Mode
   - Single Player
@@ -447,10 +462,10 @@ Base Game Achievements:
   Description: Survive the trip
   GS: '20'
   Guide: false
-  Number of Gamers: 52
-  Percentage of Gamers: 34%
-  Ratio: 1.7
-  TA: '34'
+  Number of Gamers: 76
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '33'
   Tags:
   - Offline Mode
   - Single Player
@@ -459,10 +474,10 @@ Base Game Achievements:
   Description: Read through Rodent's journal
   GS: '20'
   Guide: false
-  Number of Gamers: 44
-  Percentage of Gamers: 29%
-  Ratio: 1.85
-  TA: '37'
+  Number of Gamers: 66
+  Percentage of Gamers: 31%
+  Ratio: 1.8
+  TA: '36'
   Tags:
   - Offline Mode
   - Single Player
@@ -471,9 +486,9 @@ Base Game Achievements:
   Description: Make your way through the eNTT building
   GS: '20'
   Guide: false
-  Number of Gamers: 42
-  Percentage of Gamers: 28%
-  Ratio: 1.89
+  Number of Gamers: 62
+  Percentage of Gamers: 29%
+  Ratio: 1.86
   TA: '37'
   Tags:
   - Offline Mode
@@ -483,34 +498,35 @@ Base Game Achievements:
   Description: Escape the simulation
   GS: '90'
   Guide: false
-  Number of Gamers: 41
-  Percentage of Gamers: 27%
-  Ratio: 1.91
-  TA: '172'
+  Number of Gamers: 60
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '170'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.933
-Base TA: 1933
+  - Story Completed
+Base Ratio: 1.881
+Base TA: 1881
 Delisted: false
 Developer: Gaming Factory, Red Square Games
 Game Name: 'SlavicPunk: Oldtimer'
 Genres: Action-Adventure
 Install Size: 20520.0
-Number of Completions: 19
-Number of Gamers: 151
+Number of Completions: 33
+Number of Gamers: 215
 Overall Completion Time:
+- 7
 - 8
-- 9
 Overall GS: 1000
-Overall Ratio: 1.933
-Overall TA: 1933
+Overall Ratio: 1.881
+Overall TA: 1881
 PDU: 0
-Percentage Completed: 12.58
+Percentage Completed: 15.35
 Publisher: Gaming Factory
 Release Date: 06 November 2024
 Server Closure: false
-Site Rating: 2.75
+Site Rating: 3.2
 Update Achievements: []
 Walkthrough: false

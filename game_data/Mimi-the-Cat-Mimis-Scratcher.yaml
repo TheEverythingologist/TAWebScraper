@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 1.5
-Base GS: 3000
+- 2.0
+Base GS: 4000
 Base Game Achievements:
 - Achievement Name: Whisker Wizard
   Description: Clear Level 1
   GS: '15'
   Guide: true
-  Number of Gamers: 2049
+  Number of Gamers: 2904
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '15'
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Clear Level 5
   GS: '15'
   Guide: true
-  Number of Gamers: 2036
+  Number of Gamers: 2886
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '15'
@@ -32,7 +32,7 @@ Base Game Achievements:
   Description: Clear Level 10
   GS: '90'
   Guide: true
-  Number of Gamers: 2028
+  Number of Gamers: 2871
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '90'
@@ -44,7 +44,7 @@ Base Game Achievements:
   Description: Clear Level 15
   GS: '90'
   Guide: true
-  Number of Gamers: 1990
+  Number of Gamers: 2811
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '91'
@@ -55,8 +55,8 @@ Base Game Achievements:
 - Achievement Name: Box Hopper
   Description: Jump on Top of a Box
   GS: '15'
-  Guide: false
-  Number of Gamers: 2044
+  Guide: true
+  Number of Gamers: 2895
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '15'
@@ -66,8 +66,8 @@ Base Game Achievements:
 - Achievement Name: Leapin' kitty
   Description: Jump on 5 Boxes
   GS: '15'
-  Guide: false
-  Number of Gamers: 2039
+  Guide: true
+  Number of Gamers: 2889
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '15'
@@ -78,8 +78,8 @@ Base Game Achievements:
 - Achievement Name: Pawsome Acrobat
   Description: Jump on 10 Boxes
   GS: '90'
-  Guide: false
-  Number of Gamers: 2037
+  Guide: true
+  Number of Gamers: 2887
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '90'
@@ -90,8 +90,8 @@ Base Game Achievements:
 - Achievement Name: Airborne Whiskers
   Description: Jump on 15 Boxes
   GS: '90'
-  Guide: false
-  Number of Gamers: 2032
+  Guide: true
+  Number of Gamers: 2880
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '90'
@@ -102,8 +102,8 @@ Base Game Achievements:
 - Achievement Name: Second Chances
   Description: Restart Level 1x
   GS: '30'
-  Guide: false
-  Number of Gamers: 2041
+  Guide: true
+  Number of Gamers: 2888
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '30'
@@ -113,8 +113,8 @@ Base Game Achievements:
 - Achievement Name: Resilient Kitty
   Description: Restart Level 5x
   GS: '30'
-  Guide: false
-  Number of Gamers: 2024
+  Guide: true
+  Number of Gamers: 2866
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '30'
@@ -125,10 +125,10 @@ Base Game Achievements:
 - Achievement Name: Persistente Pouncer
   Description: Restart Level 10x
   GS: '90'
-  Guide: false
-  Number of Gamers: 2012
+  Guide: true
+  Number of Gamers: 2844
   Percentage of Gamers: 98%
-  Ratio: 1.0
+  Ratio: 1.01
   TA: '90'
   Tags:
   - Offline Mode
@@ -137,11 +137,11 @@ Base Game Achievements:
 - Achievement Name: Never Give Up, Meow!
   Description: Restart Level 15x
   GS: '90'
-  Guide: false
-  Number of Gamers: 2006
-  Percentage of Gamers: 98%
+  Guide: true
+  Number of Gamers: 2827
+  Percentage of Gamers: 97%
   Ratio: 1.01
-  TA: '90'
+  TA: '91'
   Tags:
   - Offline Mode
   - Single Player
@@ -150,8 +150,8 @@ Base Game Achievements:
   Description: Restart Level 25x
   GS: '90'
   Guide: true
-  Number of Gamers: 1982
-  Percentage of Gamers: 97%
+  Number of Gamers: 2795
+  Percentage of Gamers: 96%
   Ratio: 1.01
   TA: '91'
   Tags:
@@ -161,8 +161,8 @@ Base Game Achievements:
 - Achievement Name: Box Stacker Extraordinaire
   Description: Stack a Box
   GS: '30'
-  Guide: false
-  Number of Gamers: 2021
+  Guide: true
+  Number of Gamers: 2859
   Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '30'
@@ -172,8 +172,8 @@ Base Game Achievements:
 - Achievement Name: Towering Feline Architect
   Description: Stack 5 Boxes
   GS: '30'
-  Guide: false
-  Number of Gamers: 2003
+  Guide: true
+  Number of Gamers: 2836
   Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '30'
@@ -184,10 +184,10 @@ Base Game Achievements:
 - Achievement Name: Box Castle Creator
   Description: Stack 15 Boxes
   GS: '90'
-  Guide: false
-  Number of Gamers: 1973
+  Guide: true
+  Number of Gamers: 2787
   Percentage of Gamers: 96%
-  Ratio: 1.01
+  Ratio: 1.02
   TA: '91'
   Tags:
   - Offline Mode
@@ -197,7 +197,7 @@ Base Game Achievements:
   Description: Stack 25 Boxes
   GS: '100'
   Guide: true
-  Number of Gamers: 1955
+  Number of Gamers: 2758
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
@@ -205,36 +205,36 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 1.0663333333333334
-Base TA: 3199
+Base Ratio: 1.15725
+Base TA: 4629
 Delisted: false
 Developer: Wise Box Studios
 Game Name: 'Mimi the Cat: Mimi''s Scratcher'
 Genres: Puzzle
 Install Size: 820.0
-Number of Completions: 1594
-Number of Gamers: 2052
+Number of Completions: 1287
+Number of Gamers: 2906
 Overall Completion Time:
 - 0.0
-- 1.5
-Overall GS: 3000
-Overall Ratio: 1.0663333333333334
-Overall TA: 3199
+- 2.0
+Overall GS: 4000
+Overall Ratio: 1.15725
+Overall TA: 4629
 PDU: 0
-Percentage Completed: 77.68
+Percentage Completed: 44.29
 Publisher: AFIL Games
 Release Date: 27 February 2024
 Server Closure: false
-Site Rating: 2.41
+Site Rating: 2.35
 Update Achievements:
 - Achievement Name: Purrfection Achieved
   Description: Clear Level 16
   GS: '200'
   Guide: true
-  Number of Gamers: 1784
-  Percentage of Gamers: 87%
-  Ratio: 1.07
-  TA: '214'
+  Number of Gamers: 2617
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '210'
   Tags:
   - Offline Mode
   - Single Player
@@ -243,10 +243,10 @@ Update Achievements:
   Description: Stack 27 Boxes
   GS: '200'
   Guide: true
-  Number of Gamers: 1758
-  Percentage of Gamers: 86%
-  Ratio: 1.07
-  TA: '215'
+  Number of Gamers: 2577
+  Percentage of Gamers: 89%
+  Ratio: 1.06
+  TA: '212'
   Tags:
   - Offline Mode
   - Single Player
@@ -255,10 +255,10 @@ Update Achievements:
   Description: Clear Level 17
   GS: '200'
   Guide: true
-  Number of Gamers: 1777
-  Percentage of Gamers: 87%
-  Ratio: 1.07
-  TA: '214'
+  Number of Gamers: 2610
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '211'
   Tags:
   - Offline Mode
   - Single Player
@@ -267,10 +267,10 @@ Update Achievements:
   Description: Restart Level 27x
   GS: '200'
   Guide: true
-  Number of Gamers: 1780
-  Percentage of Gamers: 87%
-  Ratio: 1.07
-  TA: '214'
+  Number of Gamers: 2611
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '211'
   Tags:
   - Offline Mode
   - Single Player
@@ -279,10 +279,10 @@ Update Achievements:
   Description: Clear Level 18
   GS: '200'
   Guide: true
-  Number of Gamers: 1774
-  Percentage of Gamers: 86%
-  Ratio: 1.07
-  TA: '215'
+  Number of Gamers: 2607
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '211'
   Tags:
   - Offline Mode
   - Single Player
@@ -291,10 +291,10 @@ Update Achievements:
   Description: Clear Level 19
   GS: '200'
   Guide: true
-  Number of Gamers: 1632
-  Percentage of Gamers: 80%
-  Ratio: 1.12
-  TA: '224'
+  Number of Gamers: 2492
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '215'
   Tags:
   - Offline Mode
   - Single Player
@@ -303,10 +303,10 @@ Update Achievements:
   Description: Stack 30 Boxes
   GS: '200'
   Guide: true
-  Number of Gamers: 1626
-  Percentage of Gamers: 79%
-  Ratio: 1.12
-  TA: '224'
+  Number of Gamers: 2474
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '216'
   Tags:
   - Offline Mode
   - Single Player
@@ -315,10 +315,10 @@ Update Achievements:
   Description: Clear Level 20
   GS: '200'
   Guide: true
-  Number of Gamers: 1612
-  Percentage of Gamers: 79%
-  Ratio: 1.12
-  TA: '225'
+  Number of Gamers: 2461
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '217'
   Tags:
   - Offline Mode
   - Single Player
@@ -327,10 +327,10 @@ Update Achievements:
   Description: Restart Level 28x
   GS: '200'
   Guide: true
-  Number of Gamers: 1649
-  Percentage of Gamers: 80%
-  Ratio: 1.11
-  TA: '223'
+  Number of Gamers: 2513
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '215'
   Tags:
   - Offline Mode
   - Single Player
@@ -339,10 +339,70 @@ Update Achievements:
   Description: Clear Level 21
   GS: '200'
   Guide: true
-  Number of Gamers: 1603
-  Percentage of Gamers: 78%
-  Ratio: 1.13
-  TA: '226'
+  Number of Gamers: 2448
+  Percentage of Gamers: 84%
+  Ratio: 1.08
+  TA: '217'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Cat-tastic Solver
+  Description: Clear Level 22
+  GS: '200'
+  Guide: true
+  Number of Gamers: 1311
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '297'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Top Cat Stacker
+  Description: Stack 32 Boxes
+  GS: '200'
+  Guide: true
+  Number of Gamers: 1295
+  Percentage of Gamers: 45%
+  Ratio: 1.49
+  TA: '299'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Feline Finale
+  Description: Clear Level 23
+  GS: '200'
+  Guide: true
+  Number of Gamers: 1310
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '297'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Retry Champion
+  Description: Restart Level 29x
+  GS: '200'
+  Guide: true
+  Number of Gamers: 1316
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '297'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Ultimate Cat Nap
+  Description: Clear Level 24
+  GS: '200'
+  Guide: true
+  Number of Gamers: 1309
+  Percentage of Gamers: 45%
+  Ratio: 1.49
+  TA: '298'
   Tags:
   - Offline Mode
   - Single Player

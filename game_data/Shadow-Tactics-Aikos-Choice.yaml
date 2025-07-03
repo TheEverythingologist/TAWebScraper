@@ -1,428 +1,538 @@
 Add On Achievements: []
 Base Completion Time:
+- 23
 - 24
-- 25
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Contestant
   Description: Kill or knock out 50 guards.
   GS: '10'
   Guide: false
-  Number of Gamers: 44
-  Percentage of Gamers: 73%
-  Ratio: 1.16
+  Number of Gamers: 51
+  Percentage of Gamers: 76%
+  Ratio: 1.14
   TA: '11'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Genin
   Description: Kill or knock out 100 guards.
   GS: '20'
   Guide: false
-  Number of Gamers: 39
-  Percentage of Gamers: 65%
-  Ratio: 1.24
+  Number of Gamers: 46
+  Percentage of Gamers: 69%
+  Ratio: 1.2
   TA: '24'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Shinobi
   Description: Kill or knock out 150 guards.
   GS: '40'
   Guide: false
-  Number of Gamers: 35
-  Percentage of Gamers: 58%
-  Ratio: 1.3
-  TA: '52'
-  Tags: []
+  Number of Gamers: 42
+  Percentage of Gamers: 63%
+  Ratio: 1.26
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Methodical
   Description: Hide 50 bodies.
   GS: '10'
   Guide: false
-  Number of Gamers: 37
-  Percentage of Gamers: 62%
-  Ratio: 1.27
+  Number of Gamers: 44
+  Percentage of Gamers: 66%
+  Ratio: 1.23
   TA: '12'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Elaborate
   Description: Hide 100 bodies.
   GS: '20'
   Guide: false
-  Number of Gamers: 34
-  Percentage of Gamers: 57%
-  Ratio: 1.32
-  TA: '26'
-  Tags: []
+  Number of Gamers: 41
+  Percentage of Gamers: 61%
+  Ratio: 1.27
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Masterful
   Description: Hide 150 bodies.
   GS: '40'
-  Guide: false
-  Number of Gamers: 32
-  Percentage of Gamers: 53%
-  Ratio: 1.36
-  TA: '54'
-  Tags: []
+  Guide: true
+  Number of Gamers: 37
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '53'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Five Shadows
   Description: Execute a plan with all 5 characters.
   GS: '40'
-  Guide: false
-  Number of Gamers: 20
-  Percentage of Gamers: 33%
-  Ratio: 1.73
-  TA: '69'
-  Tags: []
+  Guide: true
+  Number of Gamers: 25
+  Percentage of Gamers: 37%
+  Ratio: 1.63
+  TA: '65'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Planning Master
   Description: Kill or knock out 5 guards at the same time with all 5 characters.
   GS: '60'
   Guide: false
-  Number of Gamers: 19
-  Percentage of Gamers: 32%
-  Ratio: 1.77
-  TA: '106'
-  Tags: []
+  Number of Gamers: 22
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '104'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Badge Collector
   Description: Collect 17 badges.
   GS: '60'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 20%
-  Ratio: 2.23
-  TA: '134'
-  Tags: []
+  Number of Gamers: 13
+  Percentage of Gamers: 19%
+  Ratio: 2.27
+  TA: '136'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Aiko's Choice
   Description: Finish all missions.
   GS: '40'
   Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 45%
-  Ratio: 1.49
-  TA: '59'
-  Tags: []
+  Number of Gamers: 33
+  Percentage of Gamers: 49%
+  Ratio: 1.42
+  TA: '56'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
 - Achievement Name: One Bush to Hide Them All
   Description: Hide with all characters in a single bush.
   GS: '10'
-  Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 50%
-  Ratio: 1.41
-  TA: '14'
-  Tags: []
+  Guide: true
+  Number of Gamers: 36
+  Percentage of Gamers: 54%
+  Ratio: 1.36
+  TA: '13'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Environmentalist
   Description: Kill 30 guards with the help of the environment.
   GS: '20'
-  Guide: false
-  Number of Gamers: 22
-  Percentage of Gamers: 37%
-  Ratio: 1.65
-  TA: '33'
-  Tags: []
+  Guide: true
+  Number of Gamers: 26
+  Percentage of Gamers: 39%
+  Ratio: 1.6
+  TA: '32'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: He Had to Use His Leg
   Description: Kill 10 guards with Takuma's Sniper Rifle that are farther than 25
     meters away from him.
   GS: '10'
-  Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 52%
-  Ratio: 1.39
+  Guide: true
+  Number of Gamers: 36
+  Percentage of Gamers: 54%
+  Ratio: 1.36
   TA: '13'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: A Strong Blow
   Description: Kill 20 guards with Mugen's Swordwind.
   GS: '10'
   Guide: false
-  Number of Gamers: 36
-  Percentage of Gamers: 60%
-  Ratio: 1.29
+  Number of Gamers: 42
+  Percentage of Gamers: 63%
+  Ratio: 1.26
   TA: '12'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Multiple Personalities
   Description: Use Aiko's disguise 15 times.
   GS: '20'
-  Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 50%
-  Ratio: 1.41
-  TA: '28'
-  Tags: []
+  Guide: true
+  Number of Gamers: 36
+  Percentage of Gamers: 54%
+  Ratio: 1.36
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Little Giant
   Description: Kill 3 Samurai with Yuki.
   GS: '40'
-  Guide: false
-  Number of Gamers: 22
+  Guide: true
+  Number of Gamers: 25
   Percentage of Gamers: 37%
-  Ratio: 1.65
-  TA: '66'
-  Tags: []
+  Ratio: 1.63
+  TA: '65'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: An Even Older Trick in the Book
   Description: Distract 50 guards with Hayato's stone.
   GS: '10'
   Guide: false
-  Number of Gamers: 28
-  Percentage of Gamers: 47%
-  Ratio: 1.46
-  TA: '14'
-  Tags: []
+  Number of Gamers: 35
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: All Bad Things Come From Above
   Description: Kill 10 guards with a drop attack.
   GS: '20'
   Guide: false
-  Number of Gamers: 35
-  Percentage of Gamers: 58%
-  Ratio: 1.3
-  TA: '26'
-  Tags: []
+  Number of Gamers: 41
+  Percentage of Gamers: 61%
+  Ratio: 1.27
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Three for Two for One
   Description: 3 times in one mission, kill 2 guards at once with Mugen's Swordwind.
   GS: '20'
   Guide: false
-  Number of Gamers: 38
-  Percentage of Gamers: 63%
-  Ratio: 1.25
-  TA: '25'
-  Tags: []
+  Number of Gamers: 44
+  Percentage of Gamers: 66%
+  Ratio: 1.23
+  TA: '24'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Deadly Acrobatics
   Description: Kill a guard with a drop attack from a rope.
   GS: '10'
-  Guide: false
-  Number of Gamers: 41
-  Percentage of Gamers: 68%
-  Ratio: 1.2
-  TA: '12'
-  Tags: []
+  Guide: true
+  Number of Gamers: 47
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '11'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: They Never Listen
   Description: Talk to a samurai when disguised with Aiko.
   GS: '10'
-  Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 28%
-  Ratio: 1.87
-  TA: '18'
-  Tags: []
+  Guide: true
+  Number of Gamers: 21
+  Percentage of Gamers: 31%
+  Ratio: 1.78
+  TA: '17'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Good Old Rock... Nothing Beats That
   Description: Kill a samurai with a rock.
   GS: '20'
-  Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 27%
-  Ratio: 1.93
-  TA: '38'
-  Tags: []
+  Guide: true
+  Number of Gamers: 20
+  Percentage of Gamers: 30%
+  Ratio: 1.83
+  TA: '36'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Everyone Likes to Pet the Tanuki
   Description: Distract 4 guards at the same time with Kuma.
   GS: '20'
-  Guide: false
-  Number of Gamers: 29
-  Percentage of Gamers: 48%
-  Ratio: 1.43
-  TA: '28'
-  Tags: []
+  Guide: true
+  Number of Gamers: 35
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '27'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Sunflower Samurai
   Description: Kill a Samurai with a flower pot.
   GS: '10'
-  Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 43%
-  Ratio: 1.51
-  TA: '15'
-  Tags: []
+  Guide: true
+  Number of Gamers: 32
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '14'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Vacation Time
   Description: Find the perfect spot for sunbathing.
   GS: '20'
-  Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 38%
-  Ratio: 1.61
-  TA: '32'
-  Tags: []
+  Guide: true
+  Number of Gamers: 28
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '30'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Fare Well
   Description: Throw a guard into a well.
   GS: '10'
-  Guide: false
-  Number of Gamers: 57
-  Percentage of Gamers: 95%
+  Guide: true
+  Number of Gamers: 64
+  Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Reunion at Nagoya
   Description: "Finish the mission \u201CReunion at Nagoya\u201D."
   GS: '20'
   Guide: false
-  Number of Gamers: 36
-  Percentage of Gamers: 60%
-  Ratio: 1.29
-  TA: '25'
-  Tags: []
+  Number of Gamers: 43
+  Percentage of Gamers: 64%
+  Ratio: 1.24
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Homeowner
   Description: Kill all enemies at the mansion in Nagoya.
   GS: '40'
-  Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 38%
-  Ratio: 1.61
-  TA: '64'
-  Tags: []
+  Guide: true
+  Number of Gamers: 28
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '61'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Screen Wrap
   Description: Come out of the other side of the river in Nagoya.
   GS: '10'
-  Guide: false
-  Number of Gamers: 19
-  Percentage of Gamers: 32%
-  Ratio: 1.77
+  Guide: true
+  Number of Gamers: 23
+  Percentage of Gamers: 34%
+  Ratio: 1.7
   TA: '17'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: A Night at Sea
   Description: "Finish the mission \u201CA Night at Sea\u201D"
   GS: '20'
   Guide: false
-  Number of Gamers: 34
-  Percentage of Gamers: 57%
-  Ratio: 1.32
-  TA: '26'
-  Tags: []
+  Number of Gamers: 41
+  Percentage of Gamers: 61%
+  Ratio: 1.27
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: He Did Not Use His Leg
   Description: "Kill at least 3 guards in the mission \u201CA Night at Sea\u201D."
   GS: '40'
-  Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 50%
-  Ratio: 1.41
+  Guide: true
+  Number of Gamers: 34
+  Percentage of Gamers: 51%
+  Ratio: 1.4
   TA: '56'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: The Best Laid Plans
   Description: "Finish the mission \u201CThe Best Laid Plans\u201D."
   GS: '20'
   Guide: false
-  Number of Gamers: 32
-  Percentage of Gamers: 53%
-  Ratio: 1.36
-  TA: '27'
-  Tags: []
+  Number of Gamers: 38
+  Percentage of Gamers: 57%
+  Ratio: 1.32
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Sleepy Takuma
   Description: "Don't kill anyone with Takuma during the mission \u201CThe Best Laid\
     \ Plans.\u201D"
   GS: '20'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 27%
-  Ratio: 1.93
-  TA: '38'
-  Tags: []
+  Number of Gamers: 20
+  Percentage of Gamers: 30%
+  Ratio: 1.83
+  TA: '36'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Knife in the Back
   Description: Kill the Captain.
   GS: '10'
-  Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 45%
-  Ratio: 1.49
+  Guide: true
+  Number of Gamers: 32
+  Percentage of Gamers: 48%
+  Ratio: 1.44
   TA: '14'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Diver's Delight
   Description: "Travel 1200 meters in water during the mission \u201CThe Best Laid\
     \ Plans\u201D."
   GS: '20'
-  Guide: false
-  Number of Gamers: 32
-  Percentage of Gamers: 53%
-  Ratio: 1.36
-  TA: '27'
-  Tags: []
+  Guide: true
+  Number of Gamers: 39
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '26'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Red Lights at Matsuyama
   Description: "Finish the mission \u201CRed Lights at Matsuyama\u201D."
   GS: '20'
   Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 50%
-  Ratio: 1.41
-  TA: '28'
-  Tags: []
+  Number of Gamers: 37
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: The Lights Stay On
   Description: Don't extinguish any light sources in Matsuyama.
   GS: '40'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 28%
-  Ratio: 1.87
-  TA: '75'
-  Tags: []
+  Number of Gamers: 20
+  Percentage of Gamers: 30%
+  Ratio: 1.83
+  TA: '73'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Clean Hands, Dirty Tricks
   Description: Kill 10 guards with traps in Hana Gakuen.
   GS: '20'
-  Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 43%
-  Ratio: 1.51
-  TA: '30'
-  Tags: []
+  Guide: true
+  Number of Gamers: 31
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '29'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Face to Face
   Description: Kill Lady Chiyo without getting a disguise.
   GS: '20'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 22%
-  Ratio: 2.14
-  TA: '42'
-  Tags: []
+  Number of Gamers: 16
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '40'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: What's Done is Done
   Description: Kill Lady Chiyo with any character other than Aiko.
   GS: '20'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 30%
-  Ratio: 1.82
-  TA: '36'
-  Tags: []
+  Number of Gamers: 21
+  Percentage of Gamers: 31%
+  Ratio: 1.78
+  TA: '35'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Tunnel Rat
   Description: Find all hidden caves in Hana Gakuen.
   GS: '40'
-  Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 20%
-  Ratio: 2.23
-  TA: '89'
-  Tags: []
+  Guide: true
+  Number of Gamers: 16
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '81'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Just Let Us In
   Description: Fail the Shrine riddle at the beginning 3 times.
   GS: '10'
-  Guide: false
-  Number of Gamers: 22
-  Percentage of Gamers: 37%
-  Ratio: 1.65
+  Guide: true
+  Number of Gamers: 26
+  Percentage of Gamers: 39%
+  Ratio: 1.6
   TA: '16'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Kuma's Story
   Description: Listen to everything Kuma has to say.
   GS: '10'
   Guide: true
-  Number of Gamers: 20
-  Percentage of Gamers: 33%
-  Ratio: 1.73
+  Number of Gamers: 23
+  Percentage of Gamers: 34%
+  Ratio: 1.7
   TA: '17'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: The Secrets of Hana Gakuen
   Description: "Finish \u201CThe Secrets of Hana Gakuen\u201D."
   GS: '20'
   Guide: false
-  Number of Gamers: 28
-  Percentage of Gamers: 47%
-  Ratio: 1.46
-  TA: '29'
-  Tags: []
-Base Ratio: 1.587
-Base TA: 1587
+  Number of Gamers: 34
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+Base Ratio: 1.535
+Base TA: 1535
 Delisted: false
 Developer: Mimimi Games
 Game Name: 'Shadow Tactics: Aiko''s Choice'
 Genres: Stealth, Strategy, Real Time
 Install Size: 4740.0
-Number of Completions: 12
-Number of Gamers: 60
+Number of Completions: 13
+Number of Gamers: 67
 Overall Completion Time:
+- 23
 - 24
-- 25
 Overall GS: 1000
-Overall Ratio: 1.587
-Overall TA: 1587
+Overall Ratio: 1.535
+Overall TA: 1535
 PDU: 0
-Percentage Completed: 20.0
+Percentage Completed: 19.4
 Publisher: Daedalic Entertainment
 Release Date: 06 December 2024
 Server Closure: false
-Site Rating: 4.94
+Site Rating: 4.89
 Update Achievements: []
 Walkthrough: false

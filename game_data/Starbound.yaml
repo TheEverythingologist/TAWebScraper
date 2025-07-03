@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 44
-- 45
+- 12.0
+- 15.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Congratulations on Your Graduation!
   Description: Survive the Protectorate. It could have been worse.
   GS: '20'
   Guide: true
-  Number of Gamers: 19335
+  Number of Gamers: 23811
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '20'
@@ -16,11 +16,12 @@ Base Game Achievements:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Main Storyline
 - Achievement Name: Adventurer Eventuality
   Description: Complete a quest! Joke's on you, there isn't any XP in this game.
   GS: '20'
   Guide: true
-  Number of Gamers: 19334
+  Number of Gamers: 23810
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '20'
@@ -28,26 +29,28 @@ Base Game Achievements:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Main Storyline
 - Achievement Name: The Hopeful
   Description: Fix your ship.
   GS: '20'
   Guide: true
-  Number of Gamers: 2509
+  Number of Gamers: 3070
   Percentage of Gamers: 13%
-  Ratio: 2.77
+  Ratio: 2.78
   TA: '55'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Main Storyline
 - Achievement Name: Augmented Reality
   Description: Augment your EPP. Now it's an AEPP.
   GS: '20'
   Guide: true
-  Number of Gamers: 1231
-  Percentage of Gamers: 6%
-  Ratio: 3.96
-  TA: '79'
+  Number of Gamers: 1558
+  Percentage of Gamers: 7%
+  Ratio: 3.91
+  TA: '78'
   Tags:
   - Online/Offline
   - Single Player
@@ -56,94 +59,102 @@ Base Game Achievements:
   Description: Meet Esther.
   GS: '20'
   Guide: true
-  Number of Gamers: 3238
+  Number of Gamers: 3957
   Percentage of Gamers: 17%
-  Ratio: 2.44
-  TA: '48'
+  Ratio: 2.45
+  TA: '49'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Main Storyline
 - Achievement Name: The Brave
   Description: Return Nuru to the outpost.
   GS: '20'
   Guide: true
-  Number of Gamers: 1193
+  Number of Gamers: 1503
   Percentage of Gamers: 6%
-  Ratio: 4.02
-  TA: '80'
+  Ratio: 3.97
+  TA: '79'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Main Storyline
 - Achievement Name: The Wise
   Description: Return Koichi to the outpost.
   GS: '20'
   Guide: true
-  Number of Gamers: 799
+  Number of Gamers: 1040
   Percentage of Gamers: 4%
-  Ratio: 4.92
-  TA: '98'
+  Ratio: 4.78
+  TA: '95'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Main Storyline
 - Achievement Name: The Devout
   Description: Return Tonauac to the outpost.
   GS: '20'
   Guide: true
-  Number of Gamers: 578
+  Number of Gamers: 800
   Percentage of Gamers: 3%
-  Ratio: 5.78
-  TA: '115'
+  Ratio: 5.44
+  TA: '108'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Main Storyline
 - Achievement Name: The Resilient
   Description: Return Lana Blake to the outpost.
   GS: '20'
   Guide: true
-  Number of Gamers: 433
+  Number of Gamers: 626
+  Percentage of Gamers: 3%
+  Ratio: 6.16
+  TA: '123'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: The Loyal
+  Description: Return the Baron to the outpost.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 530
   Percentage of Gamers: 2%
-  Ratio: 6.68
+  Ratio: 6.69
   TA: '133'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
-- Achievement Name: The Loyal
-  Description: Return the Baron to the outpost.
-  GS: '20'
-  Guide: true
-  Number of Gamers: 364
-  Percentage of Gamers: 2%
-  Ratio: 7.28
-  TA: '145'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Cooperative
+  - Main Storyline
 - Achievement Name: The Protector
   Description: Defeat the Ruin.
   GS: '20'
   Guide: false
-  Number of Gamers: 326
+  Number of Gamers: 481
   Percentage of Gamers: 2%
-  Ratio: 7.7
-  TA: '154'
+  Ratio: 7.03
+  TA: '140'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Main Storyline
+  - Story Completed
 - Achievement Name: Ending Prohibition
   Description: Defeat the dastardly Dreadwing. Bring joy to penguins everywhere.
   GS: '20'
   Guide: true
-  Number of Gamers: 919
+  Number of Gamers: 1186
   Percentage of Gamers: 5%
-  Ratio: 4.58
-  TA: '91'
+  Ratio: 4.47
+  TA: '89'
   Tags:
   - Online/Offline
   - Single Player
@@ -152,10 +163,10 @@ Base Game Achievements:
   Description: Defeat the Shockhopper MK I. Notice it rarely hops.
   GS: '20'
   Guide: true
-  Number of Gamers: 593
+  Number of Gamers: 798
   Percentage of Gamers: 3%
-  Ratio: 5.71
-  TA: '114'
+  Ratio: 5.45
+  TA: '109'
   Tags:
   - Online/Offline
   - Single Player
@@ -164,10 +175,10 @@ Base Game Achievements:
   Description: Complete the Cosmic Museum's cosmic collection.
   GS: '20'
   Guide: false
-  Number of Gamers: 134
+  Number of Gamers: 223
   Percentage of Gamers: 1%
-  Ratio: 12.01
-  TA: '240'
+  Ratio: 10.36
+  TA: '207'
   Tags:
   - Online/Offline
   - Single Player
@@ -176,10 +187,10 @@ Base Game Achievements:
   Description: Become champion of the arena. Crush your foes like an orange sorbet.
   GS: '20'
   Guide: true
-  Number of Gamers: 459
-  Percentage of Gamers: 2%
-  Ratio: 6.49
-  TA: '129'
+  Number of Gamers: 647
+  Percentage of Gamers: 3%
+  Ratio: 6.05
+  TA: '121'
   Tags:
   - Online/Offline
   - Single Player
@@ -189,10 +200,10 @@ Base Game Achievements:
     slide whistle.
   GS: '20'
   Guide: true
-  Number of Gamers: 180
+  Number of Gamers: 287
   Percentage of Gamers: 1%
-  Ratio: 10.36
-  TA: '207'
+  Ratio: 9.09
+  TA: '181'
   Tags:
   - Online/Offline
   - Single Player
@@ -201,10 +212,10 @@ Base Game Achievements:
   Description: Obtain the mythical perfectly generic item.
   GS: '20'
   Guide: true
-  Number of Gamers: 321
+  Number of Gamers: 507
   Percentage of Gamers: 2%
-  Ratio: 7.76
-  TA: '155'
+  Ratio: 6.84
+  TA: '136'
   Tags:
   - Online/Offline
   - Single Player
@@ -213,7 +224,7 @@ Base Game Achievements:
   Description: Find a Codex. On Earth it's rude to read other people's diaries.
   GS: '10'
   Guide: true
-  Number of Gamers: 2554
+  Number of Gamers: 3133
   Percentage of Gamers: 13%
   Ratio: 2.75
   TA: '27'
@@ -226,10 +237,10 @@ Base Game Achievements:
   Description: Find 100 unique codex items. Study them all, prepare for a pop quiz.
   GS: '20'
   Guide: true
-  Number of Gamers: 42
-  Percentage of Gamers: 0%
-  Ratio: 21.45
-  TA: '429'
+  Number of Gamers: 122
+  Percentage of Gamers: 1%
+  Ratio: 13.94
+  TA: '278'
   Tags:
   - Online/Offline
   - Single Player
@@ -239,22 +250,23 @@ Base Game Achievements:
   Description: Capture your first bug with a bug net. Esther would be proud.
   GS: '20'
   Guide: true
-  Number of Gamers: 316
+  Number of Gamers: 477
   Percentage of Gamers: 2%
-  Ratio: 7.82
-  TA: '156'
+  Ratio: 7.07
+  TA: '141'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Collectable
 - Achievement Name: Bug Free
   Description: Catch 42 unique bugs. Give them all funny names.
   GS: '20'
   Guide: true
-  Number of Gamers: 46
-  Percentage of Gamers: 0%
-  Ratio: 20.5
-  TA: '410'
+  Number of Gamers: 131
+  Percentage of Gamers: 1%
+  Ratio: 13.5
+  TA: '270'
   Tags:
   - Online/Offline
   - Single Player
@@ -264,9 +276,9 @@ Base Game Achievements:
   Description: Practice your chef skills. Try not to harm anyone.
   GS: '10'
   Guide: true
-  Number of Gamers: 5525
-  Percentage of Gamers: 29%
-  Ratio: 1.87
+  Number of Gamers: 6727
+  Percentage of Gamers: 28%
+  Ratio: 1.88
   TA: '18'
   Tags:
   - Online/Offline
@@ -276,10 +288,10 @@ Base Game Achievements:
   Description: Prepare at least 100 unique dishes. Bonus points if they're edible.
   GS: '20'
   Guide: true
-  Number of Gamers: 181
+  Number of Gamers: 288
   Percentage of Gamers: 1%
-  Ratio: 10.33
-  TA: '206'
+  Ratio: 9.07
+  TA: '181'
   Tags:
   - Online/Offline
   - Single Player
@@ -289,7 +301,7 @@ Base Game Achievements:
   Description: Harvest a crop. See what happens when you eat it.
   GS: '20'
   Guide: true
-  Number of Gamers: 16084
+  Number of Gamers: 19829
   Percentage of Gamers: 83%
   Ratio: 1.09
   TA: '21'
@@ -302,10 +314,10 @@ Base Game Achievements:
     and that barn extension.
   GS: '20'
   Guide: true
-  Number of Gamers: 477
-  Percentage of Gamers: 2%
-  Ratio: 6.36
-  TA: '127'
+  Number of Gamers: 692
+  Percentage of Gamers: 3%
+  Ratio: 5.85
+  TA: '117'
   Tags:
   - Online/Offline
   - Single Player
@@ -315,11 +327,11 @@ Base Game Achievements:
   Description: Restore a complete fossil. Make wild assumptions about what it used
     to be.
   GS: '20'
-  Guide: false
-  Number of Gamers: 94
-  Percentage of Gamers: 0%
-  Ratio: 14.34
-  TA: '286'
+  Guide: true
+  Number of Gamers: 179
+  Percentage of Gamers: 1%
+  Ratio: 11.51
+  TA: '230'
   Tags:
   - Online/Offline
   - Single Player
@@ -328,11 +340,11 @@ Base Game Achievements:
   Description: Unearth 55 unique fossils. Try not to pay attention to the ones that
     are alarmingly humanoid.
   GS: '20'
-  Guide: false
-  Number of Gamers: 42
-  Percentage of Gamers: 0%
-  Ratio: 21.45
-  TA: '429'
+  Guide: true
+  Number of Gamers: 123
+  Percentage of Gamers: 1%
+  Ratio: 13.94
+  TA: '278'
   Tags:
   - Online/Offline
   - Single Player
@@ -342,10 +354,10 @@ Base Game Achievements:
   Description: Obtain an entire set of armour. Now use dye to make your armour fabulous.
   GS: '20'
   Guide: true
-  Number of Gamers: 1721
+  Number of Gamers: 2147
   Percentage of Gamers: 9%
-  Ratio: 3.35
-  TA: '67'
+  Ratio: 3.32
+  TA: '66'
   Tags:
   - Online/Offline
   - Single Player
@@ -355,36 +367,38 @@ Base Game Achievements:
     same time. (Spoiler, it's 3).
   GS: '20'
   Guide: true
-  Number of Gamers: 46
+  Number of Gamers: 119
   Percentage of Gamers: 0%
-  Ratio: 20.5
-  TA: '410'
+  Ratio: 14.17
+  TA: '283'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
   - Collectable
+  - Shop
 - Achievement Name: Not a Llama
   Description: Obtain a complete alpaca costume. Use it only for good!
   GS: '20'
   Guide: true
-  Number of Gamers: 59
-  Percentage of Gamers: 0%
-  Ratio: 18.1
-  TA: '362'
+  Number of Gamers: 155
+  Percentage of Gamers: 1%
+  Ratio: 12.41
+  TA: '248'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Collectable
 - Achievement Name: Mint Condition
   Description: Collect 50 unique action figures. Insist to your friends they're actually
     called statuettes.
   GS: '20'
   Guide: true
-  Number of Gamers: 45
-  Percentage of Gamers: 0%
-  Ratio: 20.72
-  TA: '414'
+  Number of Gamers: 127
+  Percentage of Gamers: 1%
+  Ratio: 13.72
+  TA: '274'
   Tags:
   - Online/Offline
   - Single Player
@@ -395,7 +409,7 @@ Base Game Achievements:
     begs you to stop.
   GS: '20'
   Guide: true
-  Number of Gamers: 2827
+  Number of Gamers: 3500
   Percentage of Gamers: 15%
   Ratio: 2.61
   TA: '52'
@@ -407,22 +421,23 @@ Base Game Achievements:
   Description: Obtain a cool vehicle. Pop some sweet wheelies.
   GS: '20'
   Guide: true
-  Number of Gamers: 462
-  Percentage of Gamers: 2%
-  Ratio: 6.46
-  TA: '129'
+  Number of Gamers: 661
+  Percentage of Gamers: 3%
+  Ratio: 6.0
+  TA: '120'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Shop
 - Achievement Name: Monster Whisperer
   Description: Capture a monster. How does it fit in that tiny ball?
   GS: '20'
   Guide: true
-  Number of Gamers: 697
+  Number of Gamers: 917
   Percentage of Gamers: 4%
-  Ratio: 5.26
-  TA: '105'
+  Ratio: 5.09
+  TA: '101'
   Tags:
   - Online/Offline
   - Single Player
@@ -431,10 +446,10 @@ Base Game Achievements:
   Description: Attract your first colonist. Make sure you treat them right.
   GS: '20'
   Guide: true
-  Number of Gamers: 641
-  Percentage of Gamers: 3%
-  Ratio: 5.49
-  TA: '109'
+  Number of Gamers: 842
+  Percentage of Gamers: 4%
+  Ratio: 5.31
+  TA: '106'
   Tags:
   - Online/Offline
   - Single Player
@@ -443,10 +458,10 @@ Base Game Achievements:
   Description: Attract 10 unique tenants. Marvel at their collective peculiarity.
   GS: '20'
   Guide: true
-  Number of Gamers: 83
-  Percentage of Gamers: 0%
-  Ratio: 15.26
-  TA: '305'
+  Number of Gamers: 154
+  Percentage of Gamers: 1%
+  Ratio: 12.41
+  TA: '248'
   Tags:
   - Online/Offline
   - Single Player
@@ -456,10 +471,10 @@ Base Game Achievements:
     to live.
   GS: '20'
   Guide: true
-  Number of Gamers: 178
+  Number of Gamers: 275
   Percentage of Gamers: 1%
-  Ratio: 10.45
-  TA: '209'
+  Ratio: 9.3
+  TA: '186'
   Tags:
   - Online/Offline
   - Single Player
@@ -468,10 +483,10 @@ Base Game Achievements:
   Description: Build a large colony. Well done Protector!
   GS: '20'
   Guide: true
-  Number of Gamers: 167
+  Number of Gamers: 268
   Percentage of Gamers: 1%
-  Ratio: 10.76
-  TA: '215'
+  Ratio: 9.42
+  TA: '188'
   Tags:
   - Online/Offline
   - Single Player
@@ -480,48 +495,51 @@ Base Game Achievements:
   Description: Complete 10 quests for your colonists. Feel like an asset to the community!
   GS: '20'
   Guide: true
-  Number of Gamers: 167
+  Number of Gamers: 261
   Percentage of Gamers: 1%
-  Ratio: 10.76
-  TA: '215'
+  Ratio: 9.55
+  TA: '191'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Cumulative +
 - Achievement Name: A Cheeky Chore
   Description: "Complete 25 quests for your colonists. These guys sure do ask a lot\
     \ of you don't they\u2026"
   GS: '20'
   Guide: true
-  Number of Gamers: 82
-  Percentage of Gamers: 0%
-  Ratio: 15.35
-  TA: '307'
+  Number of Gamers: 148
+  Percentage of Gamers: 1%
+  Ratio: 12.66
+  TA: '253'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Cumulative +
 - Achievement Name: A Tireless Task
   Description: Complete 50 quests for your colonists. When did this become your full
     time job?
   GS: '20'
   Guide: true
-  Number of Gamers: 47
+  Number of Gamers: 105
   Percentage of Gamers: 0%
-  Ratio: 20.28
-  TA: '405'
+  Ratio: 15.03
+  TA: '300'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Cumulative +
 - Achievement Name: First Mate
   Description: Recruit your first crew member. Captain!
   GS: '20'
   Guide: true
-  Number of Gamers: 966
+  Number of Gamers: 1244
   Percentage of Gamers: 5%
-  Ratio: 4.47
-  TA: '89'
+  Ratio: 4.37
+  TA: '87'
   Tags:
   - Online/Offline
   - Single Player
@@ -530,10 +548,10 @@ Base Game Achievements:
   Description: Recruit at least 12 crew members. Consider starting a pension plan.
   GS: '20'
   Guide: true
-  Number of Gamers: 151
+  Number of Gamers: 254
   Percentage of Gamers: 1%
-  Ratio: 11.31
-  TA: '226'
+  Ratio: 9.68
+  TA: '193'
   Tags:
   - Online/Offline
   - Single Player
@@ -541,11 +559,11 @@ Base Game Achievements:
 - Achievement Name: A Motley Crew
   Description: Recruit one crew member from every race. It's like a teeny tiny protectorate.
   GS: '20'
-  Guide: true
-  Number of Gamers: 90
-  Percentage of Gamers: 0%
-  Ratio: 14.65
-  TA: '293'
+  Guide: false
+  Number of Gamers: 164
+  Percentage of Gamers: 1%
+  Ratio: 12.02
+  TA: '240'
   Tags:
   - Online/Offline
   - Single Player
@@ -554,35 +572,37 @@ Base Game Achievements:
   Description: Recruit a penguin mercenary from the Beakeasy.
   GS: '20'
   Guide: true
-  Number of Gamers: 358
+  Number of Gamers: 523
   Percentage of Gamers: 2%
-  Ratio: 7.34
-  TA: '146'
+  Ratio: 6.74
+  TA: '134'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Shop
 - Achievement Name: Destroyer of Worlds
   Description: Move a planet's worth of blocks. If you weren't using a Matter Manipulator
     you'd be ripped.
   GS: '20'
   Guide: true
-  Number of Gamers: 45
-  Percentage of Gamers: 0%
-  Ratio: 20.72
-  TA: '414'
+  Number of Gamers: 134
+  Percentage of Gamers: 1%
+  Ratio: 13.3
+  TA: '266'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Cumulative +
 - Achievement Name: Sweet Revenge
   Description: Kill 100 small flying monsters. They had it coming.
   GS: '20'
   Guide: true
-  Number of Gamers: 526
+  Number of Gamers: 706
   Percentage of Gamers: 3%
-  Ratio: 6.06
-  TA: '121'
+  Ratio: 5.8
+  TA: '116'
   Tags:
   - Online/Offline
   - Single Player
@@ -592,10 +612,10 @@ Base Game Achievements:
   Description: Destroy a robot chicken. Don't try to eat it.
   GS: '20'
   Guide: true
-  Number of Gamers: 407
+  Number of Gamers: 555
   Percentage of Gamers: 2%
-  Ratio: 6.89
-  TA: '137'
+  Ratio: 6.54
+  TA: '130'
   Tags:
   - Online/Offline
   - Single Player
@@ -605,9 +625,9 @@ Base Game Achievements:
     orphan.
   GS: '20'
   Guide: true
-  Number of Gamers: 3495
+  Number of Gamers: 4258
   Percentage of Gamers: 18%
-  Ratio: 2.35
+  Ratio: 2.36
   TA: '47'
   Tags:
   - Online/Offline
@@ -617,10 +637,10 @@ Base Game Achievements:
   Description: Incapacitate an innocent bystander. You monster.
   GS: '20'
   Guide: true
-  Number of Gamers: 816
-  Percentage of Gamers: 4%
-  Ratio: 4.86
-  TA: '97'
+  Number of Gamers: 1084
+  Percentage of Gamers: 5%
+  Ratio: 4.68
+  TA: '93'
   Tags:
   - Online/Offline
   - Single Player
@@ -628,34 +648,34 @@ Base Game Achievements:
 - Achievement Name: Nox's Apprentice
   Description: Kill another player. Unity is overrated anyway.
   GS: '20'
-  Guide: false
-  Number of Gamers: 107
+  Guide: true
+  Number of Gamers: 196
   Percentage of Gamers: 1%
-  Ratio: 13.57
-  TA: '271'
+  Ratio: 11.0
+  TA: '220'
   Tags:
   - Online Mode
   - Versus
-Base Ratio: 9.137
-Base TA: 9137
+Base Ratio: 7.446
+Base TA: 7446
 Delisted: false
 Developer: Chucklefish, BlitWorks
 Game Name: Starbound
 Genres: Platformer, Sandbox
 Install Size: 1190.0
-Number of Completions: 29
-Number of Gamers: 19338
+Number of Completions: 76
+Number of Gamers: 23861
 Overall Completion Time:
-- 44
-- 45
+- 12.0
+- 15.0
 Overall GS: 1000
-Overall Ratio: 9.137
-Overall TA: 9137
+Overall Ratio: 7.446
+Overall TA: 7446
 PDU: 0
-Percentage Completed: 0.15
+Percentage Completed: 0.32
 Publisher: Chucklefish
 Release Date: 24 October 2024
 Server Closure: false
-Site Rating: 3.16
+Site Rating: 3.06
 Update Achievements: []
 Walkthrough: false

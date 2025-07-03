@@ -1,16 +1,16 @@
 Add On Achievements: []
 Base Completion Time:
+- 19
 - 20
-- 21
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Win in online game
   Description: Win in online game
   GS: '10'
   Guide: false
-  Number of Gamers: 67
-  Percentage of Gamers: 25%
-  Ratio: 1.98
+  Number of Gamers: 78
+  Percentage of Gamers: 26%
+  Ratio: 1.94
   TA: '19'
   Tags:
   - Online Mode
@@ -19,10 +19,10 @@ Base Game Achievements:
   Description: Win in 4 players online game
   GS: '10'
   Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 9%
-  Ratio: 3.38
-  TA: '33'
+  Number of Gamers: 30
+  Percentage of Gamers: 10%
+  Ratio: 3.14
+  TA: '31'
   Tags:
   - Online Mode
   - Versus
@@ -31,10 +31,10 @@ Base Game Achievements:
   Description: Win in 4 players solo game against robots
   GS: '10'
   Guide: false
-  Number of Gamers: 65
+  Number of Gamers: 75
   Percentage of Gamers: 25%
-  Ratio: 2.01
-  TA: '20'
+  Ratio: 1.98
+  TA: '19'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -42,10 +42,10 @@ Base Game Achievements:
   Description: Win 10 solo games vs 3 robots
   GS: '15'
   Guide: false
-  Number of Gamers: 46
+  Number of Gamers: 51
   Percentage of Gamers: 17%
-  Ratio: 2.39
-  TA: '35'
+  Ratio: 2.4
+  TA: '36'
   Tags:
   - Offline Mode
   - Single Player
@@ -54,10 +54,10 @@ Base Game Achievements:
   Description: Win 30 solo games against robots
   GS: '30'
   Guide: false
-  Number of Gamers: 27
+  Number of Gamers: 31
   Percentage of Gamers: 10%
-  Ratio: 3.12
-  TA: '93'
+  Ratio: 3.09
+  TA: '92'
   Tags:
   - Offline Mode
   - Single Player
@@ -66,10 +66,10 @@ Base Game Achievements:
   Description: Win in 3 online games in a row
   GS: '30'
   Guide: false
-  Number of Gamers: 28
-  Percentage of Gamers: 11%
-  Ratio: 3.06
-  TA: '91'
+  Number of Gamers: 37
+  Percentage of Gamers: 12%
+  Ratio: 2.82
+  TA: '84'
   Tags:
   - Online Mode
   - Versus
@@ -77,10 +77,10 @@ Base Game Achievements:
   Description: Win in 10 online games in a row
   GS: '100'
   Guide: false
-  Number of Gamers: 19
-  Percentage of Gamers: 7%
-  Ratio: 3.72
-  TA: '372'
+  Number of Gamers: 24
+  Percentage of Gamers: 8%
+  Ratio: 3.51
+  TA: '351'
   Tags:
   - Online Mode
   - Versus
@@ -88,9 +88,9 @@ Base Game Achievements:
   Description: Win in 3 solo games in a row vs robots
   GS: '10'
   Guide: false
-  Number of Gamers: 71
-  Percentage of Gamers: 27%
-  Ratio: 1.92
+  Number of Gamers: 77
+  Percentage of Gamers: 26%
+  Ratio: 1.96
   TA: '19'
   Tags:
   - Offline Game Mode
@@ -99,10 +99,10 @@ Base Game Achievements:
   Description: Win in 10 solo games in a row vs robots
   GS: '45'
   Guide: false
-  Number of Gamers: 41
-  Percentage of Gamers: 16%
-  Ratio: 2.53
-  TA: '113'
+  Number of Gamers: 44
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '116'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -110,10 +110,10 @@ Base Game Achievements:
   Description: Win in 20 online games
   GS: '20'
   Guide: false
-  Number of Gamers: 19
-  Percentage of Gamers: 7%
-  Ratio: 3.72
-  TA: '74'
+  Number of Gamers: 23
+  Percentage of Gamers: 8%
+  Ratio: 3.58
+  TA: '71'
   Tags:
   - Online Mode
   - Versus
@@ -122,10 +122,10 @@ Base Game Achievements:
   Description: Win in 50 online games
   GS: '50'
   Guide: false
-  Number of Gamers: 15
+  Number of Gamers: 19
   Percentage of Gamers: 6%
-  Ratio: 4.18
-  TA: '209'
+  Ratio: 3.94
+  TA: '197'
   Tags:
   - Online Mode
   - Versus
@@ -134,10 +134,10 @@ Base Game Achievements:
   Description: Win in 100 online games
   GS: '100'
   Guide: true
-  Number of Gamers: 15
+  Number of Gamers: 19
   Percentage of Gamers: 6%
-  Ratio: 4.18
-  TA: '418'
+  Ratio: 3.94
+  TA: '394'
   Tags:
   - Online Mode
   - Versus
@@ -146,8 +146,8 @@ Base Game Achievements:
   Description: Used all letters
   GS: '30'
   Guide: false
-  Number of Gamers: 91
-  Percentage of Gamers: 35%
+  Number of Gamers: 102
+  Percentage of Gamers: 34%
   Ratio: 1.7
   TA: '51'
   Tags:
@@ -158,7 +158,7 @@ Base Game Achievements:
   Description: Scored 15 points
   GS: '15'
   Guide: false
-  Number of Gamers: 256
+  Number of Gamers: 288
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '15'
@@ -170,9 +170,9 @@ Base Game Achievements:
   Description: Scored 30 points
   GS: '30'
   Guide: false
-  Number of Gamers: 187
-  Percentage of Gamers: 71%
-  Ratio: 1.18
+  Number of Gamers: 208
+  Percentage of Gamers: 70%
+  Ratio: 1.19
   TA: '35'
   Tags:
   - Online/Offline
@@ -182,10 +182,10 @@ Base Game Achievements:
   Description: Scored 50 points
   GS: '50'
   Guide: false
-  Number of Gamers: 117
+  Number of Gamers: 130
   Percentage of Gamers: 44%
-  Ratio: 1.49
-  TA: '74'
+  Ratio: 1.5
+  TA: '75'
   Tags:
   - Online/Offline
   - Single Player
@@ -194,10 +194,10 @@ Base Game Achievements:
   Description: Scored 80 points
   GS: '70'
   Guide: false
-  Number of Gamers: 56
-  Percentage of Gamers: 21%
-  Ratio: 2.16
-  TA: '151'
+  Number of Gamers: 67
+  Percentage of Gamers: 23%
+  Ratio: 2.1
+  TA: '147'
   Tags:
   - Online/Offline
   - Single Player
@@ -206,10 +206,10 @@ Base Game Achievements:
   Description: Scored 100 points
   GS: '80'
   Guide: false
-  Number of Gamers: 32
+  Number of Gamers: 37
   Percentage of Gamers: 12%
-  Ratio: 2.86
-  TA: '229'
+  Ratio: 2.82
+  TA: '226'
   Tags:
   - Online/Offline
   - Single Player
@@ -218,10 +218,10 @@ Base Game Achievements:
   Description: Scored 120 points
   GS: '90'
   Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 10%
-  Ratio: 3.12
-  TA: '280'
+  Number of Gamers: 33
+  Percentage of Gamers: 11%
+  Ratio: 2.99
+  TA: '269'
   Tags:
   - Online/Offline
   - Single Player
@@ -230,10 +230,10 @@ Base Game Achievements:
   Description: Scored 150 points
   GS: '100'
   Guide: false
-  Number of Gamers: 23
+  Number of Gamers: 28
   Percentage of Gamers: 9%
-  Ratio: 3.38
-  TA: '338'
+  Ratio: 3.25
+  TA: '325'
   Tags:
   - Online/Offline
   - Single Player
@@ -242,9 +242,9 @@ Base Game Achievements:
   Description: Win in 4 players solo game in 20 minutes
   GS: '20'
   Guide: false
-  Number of Gamers: 64
-  Percentage of Gamers: 24%
-  Ratio: 2.02
+  Number of Gamers: 74
+  Percentage of Gamers: 25%
+  Ratio: 2.0
   TA: '40'
   Tags:
   - Offline Mode
@@ -254,10 +254,10 @@ Base Game Achievements:
   Description: Win in 4 players online game in 20 minutes
   GS: '20'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 7%
-  Ratio: 3.82
-  TA: '76'
+  Number of Gamers: 24
+  Percentage of Gamers: 8%
+  Ratio: 3.51
+  TA: '70'
   Tags:
   - Online Mode
   - Versus
@@ -267,10 +267,10 @@ Base Game Achievements:
   Description: Win in 4 players online game in 10 minutes
   GS: '35'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 6%
-  Ratio: 3.93
-  TA: '137'
+  Number of Gamers: 23
+  Percentage of Gamers: 8%
+  Ratio: 3.58
+  TA: '125'
   Tags:
   - Online Mode
   - Versus
@@ -280,33 +280,33 @@ Base Game Achievements:
   Description: Win online game ending with over 1000 points
   GS: '30'
   Guide: true
-  Number of Gamers: 17
-  Percentage of Gamers: 6%
-  Ratio: 3.93
-  TA: '117'
+  Number of Gamers: 21
+  Percentage of Gamers: 7%
+  Ratio: 3.75
+  TA: '112'
   Tags:
   - Online Mode
   - Versus
-Base Ratio: 3.039
-Base TA: 3039
+Base Ratio: 2.919
+Base TA: 2919
 Delisted: false
-Developer: LAN - GAMES EOOD
+Developer: LAN - GAMES
 Game Name: Happy Words
 Genres: Card & Board
 Install Size: 985.0
-Number of Completions: 12
-Number of Gamers: 263
+Number of Completions: 15
+Number of Gamers: 296
 Overall Completion Time:
+- 19
 - 20
-- 21
 Overall GS: 1000
-Overall Ratio: 3.039
-Overall TA: 3039
+Overall Ratio: 2.919
+Overall TA: 2919
 PDU: 0
-Percentage Completed: 4.56
-Publisher: LAN - GAMES EOOD
+Percentage Completed: 5.07
+Publisher: LAN - GAMES
 Release Date: 08 December 2023
 Server Closure: false
-Site Rating: 2.25
+Site Rating: 2.4
 Update Achievements: []
 Walkthrough: false

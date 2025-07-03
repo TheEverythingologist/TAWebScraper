@@ -1,4 +1,49 @@
-Add On Achievements: []
+Add On Achievements:
+- Achievement Name: Featherweight Fighter
+  Description: Shoot 15 arrows in a single game.
+  GS: '200'
+  Guide: false
+  Number of Gamers: 94
+  Percentage of Gamers: 100%
+  Ratio: 1.87
+  TA: '374'
+  Tags: []
+- Achievement Name: Quiver Quaker
+  Description: Shoot 30 arrows in a single game.
+  GS: '200'
+  Guide: false
+  Number of Gamers: 93
+  Percentage of Gamers: 99%
+  Ratio: 1.88
+  TA: '376'
+  Tags: []
+- Achievement Name: Storm of Arrows
+  Description: Shoot 50 arrows in a single game.
+  GS: '200'
+  Guide: false
+  Number of Gamers: 92
+  Percentage of Gamers: 98%
+  Ratio: 1.89
+  TA: '378'
+  Tags: []
+- Achievement Name: Dragon Slayer I
+  Description: Defeat 25 dragons in a single game.
+  GS: '200'
+  Guide: false
+  Number of Gamers: 90
+  Percentage of Gamers: 96%
+  Ratio: 1.91
+  TA: '382'
+  Tags: []
+- Achievement Name: Dragon Slayer II
+  Description: Defeat 50 dragons in a single game.
+  GS: '200'
+  Guide: false
+  Number of Gamers: 90
+  Percentage of Gamers: 96%
+  Ratio: 1.91
+  TA: '382'
+  Tags: []
 Base Completion Time:
 - 1.0
 - 2.5
@@ -8,10 +53,10 @@ Base Game Achievements:
   Description: Defeat Grasiar, the first boss, for the first time.
   GS: '100'
   Guide: false
-  Number of Gamers: 800
-  Percentage of Gamers: 90%
-  Ratio: 1.05
-  TA: '105'
+  Number of Gamers: 962
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '104'
   Tags:
   - Offline Mode
   - Single Player
@@ -20,7 +65,7 @@ Base Game Achievements:
   Description: Defeat the enemy Wyvern for the first time.
   GS: '100'
   Guide: false
-  Number of Gamers: 882
+  Number of Gamers: 1052
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '100'
@@ -32,7 +77,7 @@ Base Game Achievements:
   Description: Defeat a Coatl for the first time.
   GS: '100'
   Guide: false
-  Number of Gamers: 875
+  Number of Gamers: 1044
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -44,7 +89,7 @@ Base Game Achievements:
   Description: Defeat a red dragon for the first time.
   GS: '100'
   Guide: false
-  Number of Gamers: 842
+  Number of Gamers: 1009
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
@@ -56,10 +101,10 @@ Base Game Achievements:
   Description: Defeat a basilisk for the first time.
   GS: '100'
   Guide: true
-  Number of Gamers: 766
-  Percentage of Gamers: 86%
-  Ratio: 1.07
-  TA: '107'
+  Number of Gamers: 924
+  Percentage of Gamers: 87%
+  Ratio: 1.06
+  TA: '106'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,7 +113,7 @@ Base Game Achievements:
   Description: Defeat a dragon egg for the first time.
   GS: '100'
   Guide: false
-  Number of Gamers: 879
+  Number of Gamers: 1049
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -80,8 +125,8 @@ Base Game Achievements:
   Description: Get a Gold Upgrade for the first time.
   GS: '100'
   Guide: true
-  Number of Gamers: 746
-  Percentage of Gamers: 84%
+  Number of Gamers: 906
+  Percentage of Gamers: 86%
   Ratio: 1.08
   TA: '108'
   Tags:
@@ -91,10 +136,10 @@ Base Game Achievements:
   Description: Defeat Elzret, the Final Boss.
   GS: '100'
   Guide: false
-  Number of Gamers: 687
-  Percentage of Gamers: 78%
-  Ratio: 1.13
-  TA: '113'
+  Number of Gamers: 834
+  Percentage of Gamers: 79%
+  Ratio: 1.12
+  TA: '112'
   Tags:
   - Offline Mode
   - Single Player
@@ -103,7 +148,7 @@ Base Game Achievements:
   Description: Defeat a desert pseudodragon for the first time.
   GS: '100'
   Guide: false
-  Number of Gamers: 886
+  Number of Gamers: 1057
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '100'
@@ -115,43 +160,43 @@ Base Game Achievements:
   Description: Control 3 squirrels or 3 hawks at the same time.
   GS: '100'
   Guide: false
-  Number of Gamers: 830
+  Number of Gamers: 994
   Percentage of Gamers: 94%
   Ratio: 1.03
   TA: '103'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 1.1673333333333333
-Base TA: 3502
+Base Ratio: 1.1366666666666667
+Base TA: 3410
 Delisted: false
 Developer: Synnergy Circle Games
 Game Name: Arrowstorm Ascendant
 Genres: Roguelite, Shoot 'em up
 Install Size: 553.0
-Number of Completions: 467
-Number of Gamers: 886
+Number of Completions: 74
+Number of Gamers: 1057
 Overall Completion Time:
 - 1.0
-- 2.5
-Overall GS: 3000
-Overall Ratio: 1.1673333333333333
-Overall TA: 3502
+- 3.0
+Overall GS: 4000
+Overall Ratio: 1.3255
+Overall TA: 5302
 PDU: 0
-Percentage Completed: 52.71
+Percentage Completed: 7.0
 Publisher: Synnergy Circle Games
 Release Date: 28 August 2024
 Server Closure: false
-Site Rating: 2.29
+Site Rating: 2.36
 Update Achievements:
 - Achievement Name: Is this a bullet hell now?
   Description: Get the upgrade Double Arrow and Spread Shot at the same time.
   GS: '200'
   Guide: true
-  Number of Gamers: 654
-  Percentage of Gamers: 74%
-  Ratio: 1.16
-  TA: '232'
+  Number of Gamers: 816
+  Percentage of Gamers: 77%
+  Ratio: 1.13
+  TA: '227'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -159,10 +204,10 @@ Update Achievements:
   Description: Get 4 elemental arrows.
   GS: '200'
   Guide: true
-  Number of Gamers: 613
-  Percentage of Gamers: 69%
-  Ratio: 1.2
-  TA: '240'
+  Number of Gamers: 759
+  Percentage of Gamers: 72%
+  Ratio: 1.18
+  TA: '236'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -170,10 +215,10 @@ Update Achievements:
   Description: Achieve a critical hit with purple text
   GS: '200'
   Guide: true
-  Number of Gamers: 605
-  Percentage of Gamers: 68%
-  Ratio: 1.21
-  TA: '242'
+  Number of Gamers: 745
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '238'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -181,10 +226,10 @@ Update Achievements:
   Description: Summon a snowstorm inside the game.
   GS: '200'
   Guide: true
-  Number of Gamers: 607
-  Percentage of Gamers: 69%
-  Ratio: 1.2
-  TA: '241'
+  Number of Gamers: 747
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '237'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -192,10 +237,10 @@ Update Achievements:
   Description: Overcome death and keep on fighting
   GS: '200'
   Guide: true
-  Number of Gamers: 683
-  Percentage of Gamers: 77%
-  Ratio: 1.13
-  TA: '227'
+  Number of Gamers: 839
+  Percentage of Gamers: 79%
+  Ratio: 1.12
+  TA: '224'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -203,10 +248,10 @@ Update Achievements:
   Description: Play Time Attack for the first time.
   GS: '200'
   Guide: true
-  Number of Gamers: 616
-  Percentage of Gamers: 70%
-  Ratio: 1.2
-  TA: '240'
+  Number of Gamers: 815
+  Percentage of Gamers: 77%
+  Ratio: 1.13
+  TA: '227'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -214,10 +259,10 @@ Update Achievements:
   Description: Reach the Calamity in Time Attack mode.
   GS: '200'
   Guide: true
-  Number of Gamers: 490
-  Percentage of Gamers: 55%
-  Ratio: 1.34
-  TA: '269'
+  Number of Gamers: 650
+  Percentage of Gamers: 61%
+  Ratio: 1.27
+  TA: '255'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -225,10 +270,10 @@ Update Achievements:
   Description: Get the Golden Upgrade Ballista.
   GS: '200'
   Guide: true
-  Number of Gamers: 508
-  Percentage of Gamers: 57%
-  Ratio: 1.32
-  TA: '264'
+  Number of Gamers: 672
+  Percentage of Gamers: 64%
+  Ratio: 1.25
+  TA: '250'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -236,10 +281,10 @@ Update Achievements:
   Description: Drink a Super Potion (Giant Squirrel Golden Upgrade).
   GS: '200'
   Guide: true
-  Number of Gamers: 508
-  Percentage of Gamers: 57%
-  Ratio: 1.32
-  TA: '264'
+  Number of Gamers: 674
+  Percentage of Gamers: 64%
+  Ratio: 1.25
+  TA: '250'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -247,10 +292,10 @@ Update Achievements:
   Description: Do a triple jump.
   GS: '200'
   Guide: true
-  Number of Gamers: 589
-  Percentage of Gamers: 66%
-  Ratio: 1.22
-  TA: '245'
+  Number of Gamers: 791
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '231'
   Tags:
   - Offline Game Mode
   - Single Player

@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.5
-- 1.0
-Base GS: 1000
+- 1.5
+Base GS: 2000
 Base Game Achievements:
 - Achievement Name: Shining Start
   Description: Collect 50 Stars.
   GS: '100'
   Guide: false
-  Number of Gamers: 204
+  Number of Gamers: 376
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '101'
@@ -19,7 +19,7 @@ Base Game Achievements:
   Description: Collect 190 Stars.
   GS: '100'
   Guide: false
-  Number of Gamers: 199
+  Number of Gamers: 365
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
@@ -30,8 +30,8 @@ Base Game Achievements:
   Description: Defeat 30 aliens.
   GS: '100'
   Guide: false
-  Number of Gamers: 202
-  Percentage of Gamers: 96%
+  Number of Gamers: 376
+  Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '101'
   Tags:
@@ -42,8 +42,8 @@ Base Game Achievements:
   Description: Defeat 60 aliens.
   GS: '100'
   Guide: false
-  Number of Gamers: 200
-  Percentage of Gamers: 95%
+  Number of Gamers: 371
+  Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '102'
   Tags:
@@ -54,7 +54,7 @@ Base Game Achievements:
   Description: Destroy 40 asteroids.
   GS: '100'
   Guide: false
-  Number of Gamers: 203
+  Number of Gamers: 376
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '101'
@@ -66,8 +66,8 @@ Base Game Achievements:
   Description: Destroy 80 asteroids.
   GS: '100'
   Guide: false
-  Number of Gamers: 201
-  Percentage of Gamers: 96%
+  Number of Gamers: 374
+  Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '101'
   Tags:
@@ -78,7 +78,7 @@ Base Game Achievements:
   Description: Visit the planet Viros for the first time.
   GS: '100'
   Guide: false
-  Number of Gamers: 209
+  Number of Gamers: 386
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '100'
@@ -90,8 +90,8 @@ Base Game Achievements:
   Description: Visit the planet Arkon for the first time.
   GS: '100'
   Guide: false
-  Number of Gamers: 198
-  Percentage of Gamers: 94%
+  Number of Gamers: 365
+  Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
   Tags:
@@ -102,7 +102,7 @@ Base Game Achievements:
   Description: Visit the planet Flaris for the first time.
   GS: '100'
   Guide: false
-  Number of Gamers: 197
+  Number of Gamers: 361
   Percentage of Gamers: 94%
   Ratio: 1.03
   TA: '103'
@@ -114,33 +114,91 @@ Base Game Achievements:
   Description: Choose a planet to colonize.
   GS: '100'
   Guide: false
-  Number of Gamers: 196
+  Number of Gamers: 358
   Percentage of Gamers: 93%
   Ratio: 1.03
   TA: '103'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 1.016
-Base TA: 1016
+Base Ratio: 1.0435
+Base TA: 2087
 Delisted: false
 Developer: Synnergy Circle Games
 Game Name: Super Astro Cat (Windows)
 Genres: Platformer
 Install Size: 267.0
-Number of Completions: 197
-Number of Gamers: 210
+Number of Completions: 328
+Number of Gamers: 386
 Overall Completion Time:
 - 0.5
-- 1.0
-Overall GS: 1000
-Overall Ratio: 1.016
-Overall TA: 1016
+- 1.5
+Overall GS: 2000
+Overall Ratio: 1.0435
+Overall TA: 2087
 PDU: 0
-Percentage Completed: 93.81
+Percentage Completed: 84.97
 Publisher: Synnergy Circle Games
 Release Date: 04 December 2024
 Server Closure: false
-Site Rating: 1.83
-Update Achievements: []
+Site Rating: 2.02
+Update Achievements:
+- Achievement Name: Feline Furry
+  Description: Defeat 90 enemies
+  GS: '200'
+  Guide: false
+  Number of Gamers: 334
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '215'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Star Chaser
+  Description: Collect 240 stars
+  GS: '200'
+  Guide: false
+  Number of Gamers: 333
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '215'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Asteroid Obliterator
+  Description: Destroy 120 asteroids
+  GS: '200'
+  Guide: false
+  Number of Gamers: 336
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '214'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Timberrrrr!
+  Description: Defeat a monster tree
+  GS: '200'
+  Guide: true
+  Number of Gamers: 339
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '213'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Dune Predator
+  Description: Defeat a giant earthworm
+  GS: '200'
+  Guide: true
+  Number of Gamers: 336
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '214'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 Walkthrough: false

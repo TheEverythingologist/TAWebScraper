@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- 16
 - 17
+- 18
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Olympia
   Description: You achieved 50 gold medals (no free roam mode).
   GS: '200'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 5%
-  Ratio: 4.57
-  TA: '914'
+  Number of Gamers: 15
+  Percentage of Gamers: 6%
+  Ratio: 4.17
+  TA: '834'
   Tags:
   - Offline Mode
   - Single Player
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: You flew through 500 rings.
   GS: '125'
   Guide: false
-  Number of Gamers: 70
+  Number of Gamers: 73
   Percentage of Gamers: 28%
-  Ratio: 1.9
-  TA: '238'
+  Ratio: 1.89
+  TA: '236'
   Tags:
   - Offline Mode
   - Single Player
@@ -33,10 +33,10 @@ Base Game Achievements:
   Description: You unlocked every level packages.
   GS: '50'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 6%
-  Ratio: 3.96
-  TA: '198'
+  Number of Gamers: 18
+  Percentage of Gamers: 7%
+  Ratio: 3.8
+  TA: '190'
   Tags:
   - Offline Mode
   - Single Player
@@ -48,8 +48,8 @@ Base Game Achievements:
   Guide: true
   Number of Gamers: 10
   Percentage of Gamers: 4%
-  Ratio: 5.01
-  TA: '626'
+  Ratio: 5.1
+  TA: '638'
   Tags:
   - Offline Mode
   - Single Player
@@ -57,11 +57,11 @@ Base Game Achievements:
 - Achievement Name: Don't Touch This
   Description: You got pricked by 50 spikes.
   GS: '50'
-  Guide: false
-  Number of Gamers: 27
+  Guide: true
+  Number of Gamers: 30
   Percentage of Gamers: 11%
-  Ratio: 3.04
-  TA: '152'
+  Ratio: 2.94
+  TA: '147'
   Tags:
   - Offline Mode
   - Single Player
@@ -71,10 +71,10 @@ Base Game Achievements:
   Description: You let three ballons burst within one level.
   GS: '50'
   Guide: true
-  Number of Gamers: 28
+  Number of Gamers: 30
   Percentage of Gamers: 11%
-  Ratio: 2.99
-  TA: '149'
+  Ratio: 2.94
+  TA: '147'
   Tags:
   - Offline Mode
   - Single Player
@@ -83,10 +83,10 @@ Base Game Achievements:
   Description: You collected 1000 collectables.
   GS: '50'
   Guide: true
-  Number of Gamers: 47
+  Number of Gamers: 50
   Percentage of Gamers: 19%
-  Ratio: 2.31
-  TA: '115'
+  Ratio: 2.28
+  TA: '114'
   Tags:
   - Offline Mode
   - Single Player
@@ -96,10 +96,10 @@ Base Game Achievements:
   Description: You flew 150 km.
   GS: '50'
   Guide: false
-  Number of Gamers: 70
+  Number of Gamers: 74
   Percentage of Gamers: 28%
-  Ratio: 1.89
-  TA: '94'
+  Ratio: 1.87
+  TA: '93'
   Tags:
   - Offline Mode
   - Single Player
@@ -109,10 +109,10 @@ Base Game Achievements:
   Description: You collected 44 packets.
   GS: '50'
   Guide: true
-  Number of Gamers: 42
+  Number of Gamers: 46
   Percentage of Gamers: 17%
-  Ratio: 2.44
-  TA: '122'
+  Ratio: 2.4
+  TA: '120'
   Tags:
   - Offline Mode
   - Single Player
@@ -122,9 +122,9 @@ Base Game Achievements:
   Description: You restarted one level about five times without finishing it.
   GS: '50'
   Guide: true
-  Number of Gamers: 82
-  Percentage of Gamers: 33%
-  Ratio: 1.74
+  Number of Gamers: 85
+  Percentage of Gamers: 32%
+  Ratio: 1.75
   TA: '87'
   Tags:
   - Offline Mode
@@ -135,10 +135,10 @@ Base Game Achievements:
   Description: You finished Free Roam mode.
   GS: '50'
   Guide: false
-  Number of Gamers: 19
+  Number of Gamers: 21
   Percentage of Gamers: 8%
-  Ratio: 3.63
-  TA: '181'
+  Ratio: 3.52
+  TA: '176'
   Tags:
   - Offline Mode
   - Single Player
@@ -148,7 +148,7 @@ Base Game Achievements:
     gas.
   GS: '50'
   Guide: false
-  Number of Gamers: 123
+  Number of Gamers: 129
   Percentage of Gamers: 49%
   Ratio: 1.42
   TA: '71'
@@ -160,7 +160,7 @@ Base Game Achievements:
   Description: You achieved the third round in the challenge "Time Attack".
   GS: '50'
   Guide: false
-  Number of Gamers: 209
+  Number of Gamers: 218
   Percentage of Gamers: 83%
   Ratio: 1.09
   TA: '54'
@@ -173,7 +173,7 @@ Base Game Achievements:
     the finish platform.
   GS: '50'
   Guide: true
-  Number of Gamers: 114
+  Number of Gamers: 118
   Percentage of Gamers: 45%
   Ratio: 1.48
   TA: '74'
@@ -181,26 +181,26 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Versus
-Base Ratio: 3.075
-Base TA: 3075
+Base Ratio: 2.981
+Base TA: 2981
 Delisted: false
 Developer: Z-Software
 Game Name: Pilot Sports
 Genres: Aerial
 Install Size: 735.0
-Number of Completions: 8
-Number of Gamers: 252
+Number of Completions: 9
+Number of Gamers: 263
 Overall Completion Time:
-- 16
 - 17
+- 18
 Overall GS: 1000
-Overall Ratio: 3.075
-Overall TA: 3075
+Overall Ratio: 2.981
+Overall TA: 2981
 PDU: 0
-Percentage Completed: 3.17
+Percentage Completed: 3.42
 Publisher: Z-Software
 Release Date: 31 July 2019
 Server Closure: false
-Site Rating: 2.76
+Site Rating: 2.67
 Update Achievements: []
 Walkthrough: false

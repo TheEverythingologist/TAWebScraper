@@ -1,16 +1,16 @@
 Add On Achievements: []
 Base Completion Time:
-- 594
-- 595
+- 480
+- 481
 Base GS: 1430
 Base Game Achievements:
 - Achievement Name: Combat Hygiene
   Description: Flushed a toilet in-game.
   GS: '30'
   Guide: true
-  Number of Gamers: 2184
+  Number of Gamers: 2937
   Percentage of Gamers: 43%
-  Ratio: 1.53
+  Ratio: 1.52
   TA: '45'
   Tags:
   - Online Mode
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Destroyed 25 enemy vehicles.
   GS: '100'
   Guide: true
-  Number of Gamers: 316
-  Percentage of Gamers: 6%
-  Ratio: 4.03
-  TA: '403'
+  Number of Gamers: 566
+  Percentage of Gamers: 8%
+  Ratio: 3.48
+  TA: '348'
   Tags:
   - Online Mode
   - Cooperative
@@ -33,10 +33,10 @@ Base Game Achievements:
   Description: Neutralized 100 enemy players in any official game mode.
   GS: '100'
   Guide: true
-  Number of Gamers: 422
-  Percentage of Gamers: 8%
-  Ratio: 3.48
-  TA: '348'
+  Number of Gamers: 696
+  Percentage of Gamers: 10%
+  Ratio: 3.13
+  TA: '313'
   Tags:
   - Online Mode
   - Versus
@@ -45,10 +45,10 @@ Base Game Achievements:
   Description: Achieved the rank of major in a single Conflict play session.
   GS: '100'
   Guide: true
-  Number of Gamers: 681
-  Percentage of Gamers: 13%
-  Ratio: 2.74
-  TA: '274'
+  Number of Gamers: 968
+  Percentage of Gamers: 14%
+  Ratio: 2.66
+  TA: '266'
   Tags:
   - Online Mode
   - Versus
@@ -57,10 +57,10 @@ Base Game Achievements:
     session.
   GS: '100'
   Guide: false
-  Number of Gamers: 160
-  Percentage of Gamers: 3%
-  Ratio: 5.66
-  TA: '566'
+  Number of Gamers: 410
+  Percentage of Gamers: 6%
+  Ratio: 4.09
+  TA: '409'
   Tags:
   - Online Mode
   - Versus
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: Finished the Combat Ops scenario with every available task completed.
   GS: '100'
   Guide: true
-  Number of Gamers: 773
+  Number of Gamers: 1020
   Percentage of Gamers: 15%
-  Ratio: 2.57
-  TA: '257'
+  Ratio: 2.59
+  TA: '259'
   Tags:
   - Online Mode
   - Cooperative
@@ -80,10 +80,10 @@ Base Game Achievements:
     scenario.
   GS: '50'
   Guide: false
-  Number of Gamers: 806
-  Percentage of Gamers: 16%
-  Ratio: 2.52
-  TA: '126'
+  Number of Gamers: 1061
+  Percentage of Gamers: 15%
+  Ratio: 2.54
+  TA: '127'
   Tags:
   - Online Mode
   - Cooperative
@@ -91,10 +91,10 @@ Base Game Achievements:
   Description: Finished the tutorial with every available task completed.
   GS: '50'
   Guide: true
-  Number of Gamers: 509
-  Percentage of Gamers: 10%
-  Ratio: 3.17
-  TA: '158'
+  Number of Gamers: 775
+  Percentage of Gamers: 11%
+  Ratio: 2.97
+  TA: '148'
   Tags:
   - Online Mode
   - Single Player
@@ -102,9 +102,9 @@ Base Game Achievements:
   Description: Killed 10 times by other players in any official game mode.
   GS: '30'
   Guide: false
-  Number of Gamers: 3841
-  Percentage of Gamers: 75%
-  Ratio: 1.15
+  Number of Gamers: 5236
+  Percentage of Gamers: 76%
+  Ratio: 1.14
   TA: '34'
   Tags:
   - Online Mode
@@ -114,10 +114,10 @@ Base Game Achievements:
   Description: Placed 20 mines in any official game mode, on any official server.
   GS: '30'
   Guide: true
-  Number of Gamers: 200
+  Number of Gamers: 272
   Percentage of Gamers: 4%
-  Ratio: 5.06
-  TA: '151'
+  Ratio: 5.02
+  TA: '150'
   Tags:
   - Online Mode
   - Versus
@@ -126,11 +126,11 @@ Base Game Achievements:
   Description: Used a medical item to assist other players 50 times in any official
     game mode.
   GS: '50'
-  Guide: false
-  Number of Gamers: 131
+  Guide: true
+  Number of Gamers: 204
   Percentage of Gamers: 3%
-  Ratio: 6.25
-  TA: '312'
+  Ratio: 5.79
+  TA: '289'
   Tags:
   - Online Mode
   - Versus
@@ -139,10 +139,10 @@ Base Game Achievements:
   Description: Neutralized 500 enemy players in any official game mode.
   GS: '100'
   Guide: false
-  Number of Gamers: 62
-  Percentage of Gamers: 1%
-  Ratio: 9.09
-  TA: '909'
+  Number of Gamers: 131
+  Percentage of Gamers: 2%
+  Ratio: 7.26
+  TA: '726'
   Tags:
   - Online Mode
   - Versus
@@ -151,11 +151,11 @@ Base Game Achievements:
   Description: Used a medical item to assist other players 250 times in any official
     game mode.
   GS: '100'
-  Guide: false
-  Number of Gamers: 20
+  Guide: true
+  Number of Gamers: 26
   Percentage of Gamers: 0%
-  Ratio: 16.02
-  TA: 1,602
+  Ratio: 16.24
+  TA: 1,624
   Tags:
   - Online Mode
   - Versus
@@ -164,9 +164,9 @@ Base Game Achievements:
   Description: Interacted with a piano in any game mode.
   GS: '30'
   Guide: true
-  Number of Gamers: 1666
-  Percentage of Gamers: 32%
-  Ratio: 1.75
+  Number of Gamers: 2243
+  Percentage of Gamers: 33%
+  Ratio: 1.74
   TA: '52'
   Tags:
   - Online Mode
@@ -176,45 +176,45 @@ Base Game Achievements:
   Description: Interacted with a pipe organ in any game mode.
   GS: '30'
   Guide: true
-  Number of Gamers: 610
+  Number of Gamers: 846
   Percentage of Gamers: 12%
-  Ratio: 2.9
-  TA: '87'
+  Ratio: 2.84
+  TA: '85'
   Tags:
   - Online Mode
   - Cooperative
   - Versus
-Base Ratio: 6.6811188811188815
-Base TA: 9554
+Base Ratio: 5.674825174825175
+Base TA: 8115
 Delisted: false
 Developer: Bohemia Interactive
 Game Name: Arma Reforger
 Genres: First Person Shooter, Third Person Shooter
-Install Size: 19230.0
-Number of Completions: 5
-Number of Gamers: 5133
+Install Size: 20540.0
+Number of Completions: 8
+Number of Gamers: 6860
 Overall Completion Time:
-- 594
-- 595
+- 480
+- 481
 Overall GS: 1430
-Overall Ratio: 6.6811188811188815
-Overall TA: 9554
+Overall Ratio: 5.674825174825175
+Overall TA: 8115
 PDU: 0
-Percentage Completed: 0.1
+Percentage Completed: 0.12
 Publisher: Bohemia Interactive
 Release Date: 16 November 2023
 Server Closure: false
-Site Rating: 3.96
+Site Rating: 4.26
 Update Achievements:
 - Achievement Name: Deadeye
   Description: Kill 10 players from a range of 300 meters or more in a single Conflict
     play session.
   GS: '50'
   Guide: true
-  Number of Gamers: 54
-  Percentage of Gamers: 1%
-  Ratio: 9.74
-  TA: '487'
+  Number of Gamers: 120
+  Percentage of Gamers: 2%
+  Ratio: 7.56
+  TA: '378'
   Tags:
   - Online Mode
   - Versus
@@ -222,10 +222,10 @@ Update Achievements:
   Description: Kill 5 players at night in a single Conflict play session.
   GS: '100'
   Guide: false
-  Number of Gamers: 607
-  Percentage of Gamers: 12%
-  Ratio: 2.9
-  TA: '290'
+  Number of Gamers: 1010
+  Percentage of Gamers: 15%
+  Ratio: 2.6
+  TA: '260'
   Tags:
   - Online Mode
   - Versus
@@ -233,10 +233,10 @@ Update Achievements:
   Description: Kill 10 players without dying in a single Conflict play session.
   GS: '100'
   Guide: true
-  Number of Gamers: 321
-  Percentage of Gamers: 6%
-  Ratio: 3.99
-  TA: '399'
+  Number of Gamers: 508
+  Percentage of Gamers: 7%
+  Ratio: 3.67
+  TA: '367'
   Tags:
   - Online Mode
   - Versus
@@ -244,11 +244,11 @@ Update Achievements:
   Description: Decommission 50 civilian vehicles in exchange for supplies in the Conflict
     game mode.
   GS: '50'
-  Guide: false
-  Number of Gamers: 10
+  Guide: true
+  Number of Gamers: 26
   Percentage of Gamers: 0%
-  Ratio: 22.65
-  TA: 1,132
+  Ratio: 16.24
+  TA: '812'
   Tags:
   - Online Mode
   - Versus
@@ -257,11 +257,11 @@ Update Achievements:
   Description: Extinguish 10 vehicle fires by performing repairs in the Conflict game
     mode.
   GS: '30'
-  Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 0%
-  Ratio: 21.6
-  TA: '648'
+  Guide: true
+  Number of Gamers: 38
+  Percentage of Gamers: 1%
+  Ratio: 13.43
+  TA: '403'
   Tags:
   - Online Mode
   - Versus
@@ -270,10 +270,10 @@ Update Achievements:
   Description: Reconfigure a Radio Relay Station 25 times in the Conflict game mode.
   GS: '50'
   Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 0%
-  Ratio: 14.93
-  TA: '746'
+  Number of Gamers: 54
+  Percentage of Gamers: 1%
+  Ratio: 11.27
+  TA: '563'
   Tags:
   - Online Mode
   - Versus
@@ -282,11 +282,11 @@ Update Achievements:
   Description: Administer a saline solution to yourself or another injured party 25
     times in the Conflict game mode
   GS: '50'
-  Guide: false
-  Number of Gamers: 46
+  Guide: true
+  Number of Gamers: 82
   Percentage of Gamers: 1%
-  Ratio: 10.56
-  TA: '528'
+  Ratio: 9.14
+  TA: '457'
   Tags:
   - Online Mode
   - Versus

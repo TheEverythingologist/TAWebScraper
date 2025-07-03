@@ -1,119 +1,209 @@
 Add On Achievements: []
 Base Completion Time:
-- -1
-- -1
+- 60.0
+- 80.0
 Base GS: 1000
 Base Game Achievements:
-- Achievement Name: Placeholder 1
-  Description: Placeholder
+- Achievement Name: New Racer
+  Description: Claim the challenge 'New Racer'
+  GS: '30'
+  Guide: true
+  Number of Gamers: 791
+  Percentage of Gamers: 100%
+  Ratio: 1.0
+  TA: '30'
+  Tags:
+  - Discontinued
+- Achievement Name: Bask in Glory
+  Description: Claim the Challenge 'Bask in Glory'
+  GS: '50'
+  Guide: true
+  Number of Gamers: 441
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '66'
+  Tags:
+  - Discontinued
+- Achievement Name: Kart Champion
+  Description: Claim the Challenge 'Kart Champion'
+  GS: '50'
+  Guide: true
+  Number of Gamers: 266
+  Percentage of Gamers: 34%
+  Ratio: 1.72
+  TA: '86'
+  Tags:
+  - Discontinued
+- Achievement Name: The Triple Dub
+  Description: Claim the Challenge 'The Triple Dub'
   GS: '100'
-  Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
+  Guide: true
+  Number of Gamers: 124
+  Percentage of Gamers: 16%
+  Ratio: 2.54
+  TA: '254'
+  Tags:
+  - Discontinued
+- Achievement Name: Oops!
+  Description: Claim the Challenge 'Oops'
+  GS: '30'
+  Guide: true
+  Number of Gamers: 196
+  Percentage of Gamers: 25%
+  Ratio: 2.01
+  TA: '60'
+  Tags:
+  - Discontinued
+- Achievement Name: Quick off the mark
+  Description: Claim the Challenge 'Quick off the mark'
+  GS: '80'
+  Guide: true
+  Number of Gamers: 215
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '153'
+  Tags:
+  - Discontinued
+- Achievement Name: Spice of Life
+  Description: Claim the Challenge 'Spice of Life'
+  GS: '50'
+  Guide: true
+  Number of Gamers: 195
+  Percentage of Gamers: 25%
+  Ratio: 2.01
   TA: '100'
-  Tags: []
-- Achievement Name: Placeholder 2
-  Description: Placeholder
+  Tags:
+  - Discontinued
+- Achievement Name: Master of One
+  Description: Claim the Challenge 'Master of One'
+  GS: '50'
+  Guide: true
+  Number of Gamers: 215
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '96'
+  Tags:
+  - Discontinued
+- Achievement Name: Fashionista
+  Description: Claim the Challenge 'Fashionista'
+  GS: '80'
+  Guide: true
+  Number of Gamers: 149
+  Percentage of Gamers: 19%
+  Ratio: 2.3
+  TA: '184'
+  Tags:
+  - Discontinued
+- Achievement Name: Go for Broke
+  Description: Claim the Challenge 'Go for Broke'
+  GS: '80'
+  Guide: true
+  Number of Gamers: 168
+  Percentage of Gamers: 21%
+  Ratio: 2.17
+  TA: '173'
+  Tags:
+  - Discontinued
+- Achievement Name: Epic Threads
+  Description: Claim the Challenge 'Epic Threads'
+  GS: '80'
+  Guide: true
+  Number of Gamers: 151
+  Percentage of Gamers: 19%
+  Ratio: 2.29
+  TA: '183'
+  Tags:
+  - Discontinued
+- Achievement Name: Equal Opportunity
+  Description: Claim the Challenge 'Equal Opportunity'
+  GS: '50'
+  Guide: true
+  Number of Gamers: 187
+  Percentage of Gamers: 24%
+  Ratio: 2.05
+  TA: '102'
+  Tags:
+  - Discontinued
+- Achievement Name: Dressed for Success
+  Description: Claim the Challenge 'Dressed for Success'
+  GS: '30'
+  Guide: true
+  Number of Gamers: 257
+  Percentage of Gamers: 32%
+  Ratio: 1.75
+  TA: '52'
+  Tags:
+  - Discontinued
+- Achievement Name: Just Getting Started
+  Description: Claim the Challenge 'Just Getting Started'
+  GS: '30'
+  Guide: true
+  Number of Gamers: 282
+  Percentage of Gamers: 36%
+  Ratio: 1.67
+  TA: '50'
+  Tags:
+  - Discontinued
+- Achievement Name: Drift Champion
+  Description: Claim the Challenge 'Drift Champion'
+  GS: '30'
+  Guide: true
+  Number of Gamers: 300
+  Percentage of Gamers: 38%
+  Ratio: 1.62
+  TA: '48'
+  Tags:
+  - Discontinued
+- Achievement Name: Master of Many
+  Description: Claim the Challenge 'Master of Many'
   GS: '100'
-  Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '100'
-  Tags: []
-- Achievement Name: Placeholder 3
-  Description: Placeholder
-  GS: '100'
-  Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '100'
-  Tags: []
-- Achievement Name: Placeholder 4
-  Description: Placeholder
-  GS: '100'
-  Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '100'
-  Tags: []
-- Achievement Name: Placeholder 5
-  Description: Placeholder
-  GS: '100'
-  Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '100'
-  Tags: []
-- Achievement Name: Placeholder 6
-  Description: Placeholder
-  GS: '100'
-  Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '100'
-  Tags: []
-- Achievement Name: Placeholder 7
-  Description: Placeholder
-  GS: '100'
-  Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '100'
-  Tags: []
-- Achievement Name: Placeholder 8
-  Description: Placeholder
-  GS: '100'
-  Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '100'
-  Tags: []
-- Achievement Name: Placeholder 9
-  Description: Placeholder
-  GS: '100'
-  Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '100'
-  Tags: []
-- Achievement Name: Placeholder 10
-  Description: Placeholder
-  GS: '100'
-  Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '100'
-  Tags: []
-Base Ratio: 1.0
-Base TA: 1000
+  Guide: true
+  Number of Gamers: 140
+  Percentage of Gamers: 18%
+  Ratio: 2.38
+  TA: '238'
+  Tags:
+  - Discontinued
+- Achievement Name: "The Best Offense\u2026"
+  Description: Claim the Challenge 'The Best Offence...'
+  GS: '30'
+  Guide: true
+  Number of Gamers: 141
+  Percentage of Gamers: 18%
+  Ratio: 2.37
+  TA: '71'
+  Tags:
+  - Discontinued
+- Achievement Name: Explorer
+  Description: Claim the Challenge 'Explorer'
+  GS: '50'
+  Guide: true
+  Number of Gamers: 408
+  Percentage of Gamers: 51%
+  Ratio: 1.39
+  TA: '69'
+  Tags:
+  - Discontinued
+Base Ratio: 2.015
+Base TA: 2015
 Delisted: false
 Developer: Sumo Digital
 Game Name: 'Stampede: Racing Royale'
 Genres: Arcade Racing, Automobile
-Install Size: 5080.0
-Number of Completions: 0
-Number of Gamers: 2
+Install Size: 7100.0
+Number of Completions: 121
+Number of Gamers: 794
 Overall Completion Time:
-- -1
-- -1
+- 60.0
+- 80.0
 Overall GS: 1000
-Overall Ratio: 1.0
-Overall TA: 1000
-PDU: 0
-Percentage Completed: 0.0
+Overall Ratio: 2.015
+Overall TA: 2015
+PDU: 18
+Percentage Completed: 15.24
 Publisher: Secret Mode
-Release Date: To be announced
-Server Closure: false
-Site Rating: None
+Release Date: 14 March 2025
+Server Closure: true
+Site Rating: 2.96
 Update Achievements: []
 Walkthrough: false

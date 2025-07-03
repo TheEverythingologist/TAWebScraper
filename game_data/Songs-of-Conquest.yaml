@@ -1,4 +1,84 @@
-Add On Achievements: []
+Add On Achievements:
+- Achievement Name: Ready, Set, Go
+  Description: Complete an artifact set containing at least four pieces in a non-campaign
+    game
+  GS: '15'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '15'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: No Challenge At All
+  Description: Challenge an enemy and have it die before it gets a chance to attack
+  GS: '15'
+  Guide: false
+  Number of Gamers: 3
+  Percentage of Gamers: 50%
+  Ratio: 3.45
+  TA: '51'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Grisfest
+  Description: Have 540 Serimnaans return to be drafted
+  GS: '15'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '15'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: So Long, and Thanks for All the Fish
+  Description: Win a battle using a fish
+  GS: '15'
+  Guide: false
+  Number of Gamers: 5
+  Percentage of Gamers: 83%
+  Ratio: 2.67
+  TA: '40'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Great Deeds Done
+  Description: Win 25 times on non-campaign maps with Vanir
+  GS: '15'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '15'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Steadfast
+  Description: As Vanir, win a game without ever purchasing a Vildra troop
+  GS: '15'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '15'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
 Base Completion Time:
 - -1
 - -1
@@ -8,10 +88,10 @@ Base Game Achievements:
   Description: Cast five Apocalypse spells on the same troop turn
   GS: '15'
   Guide: false
-  Number of Gamers: 1
+  Number of Gamers: 3
   Percentage of Gamers: 1%
-  Ratio: 12.6
-  TA: '189'
+  Ratio: 8.44
+  TA: '126'
   Tags:
   - Online/Offline
   - Single Player
@@ -20,11 +100,11 @@ Base Game Achievements:
 - Achievement Name: The Song of Stoutheart
   Description: Complete all Arleon campaign maps (on any difficulty)
   GS: '20'
-  Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 17%
-  Ratio: 2.42
-  TA: '48'
+  Guide: true
+  Number of Gamers: 35
+  Percentage of Gamers: 16%
+  Ratio: 2.47
+  TA: '49'
   Tags:
   - Online/Offline
   - Single Player
@@ -35,8 +115,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 2
   Percentage of Gamers: 1%
-  Ratio: 8.91
-  TA: '267'
+  Ratio: 10.34
+  TA: '310'
   Tags:
   - Online/Offline
   - Single Player
@@ -46,10 +126,10 @@ Base Game Achievements:
   Description: Have a wielder equipped with artifacts in all slots
   GS: '15'
   Guide: false
-  Number of Gamers: 48
-  Percentage of Gamers: 30%
-  Ratio: 1.82
-  TA: '27'
+  Number of Gamers: 79
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '24'
   Tags:
   - Online/Offline
   - Single Player
@@ -59,10 +139,10 @@ Base Game Achievements:
   Description: Have troop perform six attacks on its turn
   GS: '15'
   Guide: false
-  Number of Gamers: 2
+  Number of Gamers: 3
   Percentage of Gamers: 1%
-  Ratio: 8.91
-  TA: '133'
+  Ratio: 8.44
+  TA: '126'
   Tags:
   - Online/Offline
   - Single Player
@@ -72,10 +152,10 @@ Base Game Achievements:
   Description: Complete all Barya campaign maps (on any difficulty)
   GS: '20'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 3%
-  Ratio: 6.3
-  TA: '126'
+  Number of Gamers: 5
+  Percentage of Gamers: 2%
+  Ratio: 6.54
+  TA: '130'
   Tags:
   - Online/Offline
   - Single Player
@@ -85,9 +165,9 @@ Base Game Achievements:
   GS: '30'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 1%
-  Ratio: 12.6
-  TA: '378'
+  Percentage of Gamers: 0%
+  Ratio: 14.62
+  TA: '438'
   Tags:
   - Online/Offline
   - Single Player
@@ -97,10 +177,10 @@ Base Game Achievements:
   Description: Block an enemy troop from burrowing up
   GS: '15'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 9%
-  Ratio: 3.25
-  TA: '48'
+  Number of Gamers: 22
+  Percentage of Gamers: 10%
+  Ratio: 3.11
+  TA: '46'
   Tags:
   - Online/Offline
   - Single Player
@@ -110,10 +190,10 @@ Base Game Achievements:
   Description: Burrow up next to three or more ranged enemy troops
   GS: '15'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 1%
-  Ratio: 8.91
-  TA: '133'
+  Number of Gamers: 4
+  Percentage of Gamers: 2%
+  Ratio: 7.31
+  TA: '109'
   Tags:
   - Online/Offline
   - Single Player
@@ -123,10 +203,10 @@ Base Game Achievements:
   Description: Cast each spell (over any number of games)
   GS: '15'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 1%
-  Ratio: 8.91
-  TA: '133'
+  Number of Gamers: 4
+  Percentage of Gamers: 2%
+  Ratio: 7.31
+  TA: '109'
   Tags:
   - Online/Offline
   - Single Player
@@ -136,10 +216,10 @@ Base Game Achievements:
   Description: Kill three enemies using Chain Lightning
   GS: '15'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 1%
-  Ratio: 8.91
-  TA: '133'
+  Number of Gamers: 4
+  Percentage of Gamers: 2%
+  Ratio: 7.31
+  TA: '109'
   Tags:
   - Online/Offline
   - Single Player
@@ -149,10 +229,10 @@ Base Game Achievements:
   Description: Have ten or more Charged buffs on a troop
   GS: '15'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 3%
-  Ratio: 6.3
-  TA: '94'
+  Number of Gamers: 5
+  Percentage of Gamers: 2%
+  Ratio: 6.54
+  TA: '98'
   Tags:
   - Online/Offline
   - Single Player
@@ -162,10 +242,10 @@ Base Game Achievements:
   Description: Trigger three Attacks of Opportunity in a single Bull Rush
   GS: '15'
   Guide: false
-  Number of Gamers: 1
+  Number of Gamers: 2
   Percentage of Gamers: 1%
-  Ratio: 12.6
-  TA: '189'
+  Ratio: 10.34
+  TA: '155'
   Tags:
   - Online/Offline
   - Single Player
@@ -175,10 +255,10 @@ Base Game Achievements:
   Description: Deal 500 damage or more in one attack
   GS: '15'
   Guide: false
-  Number of Gamers: 55
-  Percentage of Gamers: 35%
-  Ratio: 1.7
-  TA: '25'
+  Number of Gamers: 84
+  Percentage of Gamers: 39%
+  Ratio: 1.59
+  TA: '23'
   Tags:
   - Online/Offline
   - Single Player
@@ -189,9 +269,9 @@ Base Game Achievements:
     of Control
   GS: '15'
   Guide: false
-  Number of Gamers: 3
+  Number of Gamers: 4
   Percentage of Gamers: 2%
-  Ratio: 7.28
+  Ratio: 7.31
   TA: '109'
   Tags:
   - Online/Offline
@@ -203,9 +283,9 @@ Base Game Achievements:
   GS: '30'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 1%
-  Ratio: 12.6
-  TA: '378'
+  Percentage of Gamers: 0%
+  Ratio: 14.62
+  TA: '438'
   Tags:
   - Online/Offline
   - Single Player
@@ -230,10 +310,10 @@ Base Game Achievements:
   Description: Kill 100 000 enemies using melee attacks
   GS: '30'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '30'
+  Number of Gamers: 1
+  Percentage of Gamers: 0%
+  Ratio: 14.62
+  TA: '438'
   Tags:
   - Online/Offline
   - Single Player
@@ -244,10 +324,10 @@ Base Game Achievements:
   Description: Win two battles on the same turn with the same wielder
   GS: '15'
   Guide: false
-  Number of Gamers: 122
-  Percentage of Gamers: 77%
-  Ratio: 1.14
-  TA: '17'
+  Number of Gamers: 169
+  Percentage of Gamers: 79%
+  Ratio: 1.12
+  TA: '16'
   Tags:
   - Online/Offline
   - Single Player
@@ -257,10 +337,10 @@ Base Game Achievements:
   Description: Kill three enemies with one flame attack
   GS: '15'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 1%
-  Ratio: 8.91
-  TA: '133'
+  Number of Gamers: 4
+  Percentage of Gamers: 2%
+  Ratio: 7.31
+  TA: '109'
   Tags:
   - Online/Offline
   - Single Player
@@ -270,10 +350,10 @@ Base Game Achievements:
   Description: Have three or more Front Line Fighter buffs on a troop
   GS: '15'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 7
   Percentage of Gamers: 3%
-  Ratio: 6.3
-  TA: '94'
+  Ratio: 5.52
+  TA: '82'
   Tags:
   - Online/Offline
   - Single Player
@@ -283,10 +363,10 @@ Base Game Achievements:
   Description: Win a battle using each of the official wielders
   GS: '15'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '15'
+  Number of Gamers: 2
+  Percentage of Gamers: 1%
+  Ratio: 10.34
+  TA: '155'
   Tags:
   - Online/Offline
   - Single Player
@@ -296,10 +376,10 @@ Base Game Achievements:
   Description: Make enemy kill his friend using Blind Hatred
   GS: '15'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 4%
-  Ratio: 4.76
-  TA: '71'
+  Number of Gamers: 13
+  Percentage of Gamers: 6%
+  Ratio: 4.05
+  TA: '60'
   Tags:
   - Online/Offline
   - Single Player
@@ -309,10 +389,10 @@ Base Game Achievements:
   Description: Win six battles in a row on the same turn
   GS: '30'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 3%
-  Ratio: 6.3
-  TA: '189'
+  Number of Gamers: 5
+  Percentage of Gamers: 2%
+  Ratio: 6.54
+  TA: '196'
   Tags:
   - Online/Offline
   - Single Player
@@ -323,9 +403,9 @@ Base Game Achievements:
   GS: '20'
   Guide: false
   Number of Gamers: 6
-  Percentage of Gamers: 4%
-  Ratio: 5.14
-  TA: '102'
+  Percentage of Gamers: 3%
+  Ratio: 5.97
+  TA: '119'
   Tags:
   - Online/Offline
   - Single Player
@@ -335,9 +415,9 @@ Base Game Achievements:
   GS: '30'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 1%
-  Ratio: 12.6
-  TA: '378'
+  Percentage of Gamers: 0%
+  Ratio: 14.62
+  TA: '438'
   Tags:
   - Online/Offline
   - Single Player
@@ -347,10 +427,10 @@ Base Game Achievements:
   Description: Win three battles on the same turn with the same wielder
   GS: '15'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 16%
-  Ratio: 2.47
-  TA: '37'
+  Number of Gamers: 40
+  Percentage of Gamers: 19%
+  Ratio: 2.31
+  TA: '34'
   Tags:
   - Online/Offline
   - Single Player
@@ -362,8 +442,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 2
   Percentage of Gamers: 1%
-  Ratio: 8.91
-  TA: '133'
+  Ratio: 10.34
+  TA: '155'
   Tags:
   - Online/Offline
   - Single Player
@@ -373,10 +453,10 @@ Base Game Achievements:
   Description: Have enemy kill one of your own troops when you cast Blind Hatred
   GS: '15'
   Guide: false
-  Number of Gamers: 3
+  Number of Gamers: 5
   Percentage of Gamers: 2%
-  Ratio: 7.28
-  TA: '109'
+  Ratio: 6.54
+  TA: '98'
   Tags:
   - Online/Offline
   - Single Player
@@ -386,10 +466,10 @@ Base Game Achievements:
   Description: Kill three enemies using Breath of the Phoenix
   GS: '15'
   Guide: false
-  Number of Gamers: 1
+  Number of Gamers: 2
   Percentage of Gamers: 1%
-  Ratio: 12.6
-  TA: '189'
+  Ratio: 10.34
+  TA: '155'
   Tags:
   - Online/Offline
   - Single Player
@@ -399,10 +479,10 @@ Base Game Achievements:
   Description: Have your troop die from a Quick retaliation
   GS: '15'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 11%
-  Ratio: 2.97
-  TA: '44'
+  Number of Gamers: 30
+  Percentage of Gamers: 14%
+  Ratio: 2.67
+  TA: '40'
   Tags:
   - Online/Offline
   - Single Player
@@ -412,10 +492,10 @@ Base Game Achievements:
   Description: Complete all Rana campaign maps (on any difficulty)
   GS: '20'
   Guide: false
-  Number of Gamers: 11
+  Number of Gamers: 15
   Percentage of Gamers: 7%
-  Ratio: 3.8
-  TA: '76'
+  Ratio: 3.77
+  TA: '75'
   Tags:
   - Online/Offline
   - Single Player
@@ -426,8 +506,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 2
   Percentage of Gamers: 1%
-  Ratio: 8.91
-  TA: '267'
+  Ratio: 10.34
+  TA: '310'
   Tags:
   - Online/Offline
   - Single Player
@@ -438,10 +518,10 @@ Base Game Achievements:
     by the enemy
   GS: '15'
   Guide: false
-  Number of Gamers: 63
-  Percentage of Gamers: 40%
-  Ratio: 1.58
-  TA: '23'
+  Number of Gamers: 99
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '22'
   Tags:
   - Online/Offline
   - Single Player
@@ -451,10 +531,10 @@ Base Game Achievements:
   Description: Use Repel to push an enemy troop into three Explosive Fungi
   GS: '15'
   Guide: false
-  Number of Gamers: 2
+  Number of Gamers: 3
   Percentage of Gamers: 1%
-  Ratio: 8.91
-  TA: '133'
+  Ratio: 8.44
+  TA: '126'
   Tags:
   - Online/Offline
   - Single Player
@@ -464,10 +544,10 @@ Base Game Achievements:
   Description: Cast five spells on the same troop turn
   GS: '15'
   Guide: false
-  Number of Gamers: 19
-  Percentage of Gamers: 12%
-  Ratio: 2.89
-  TA: '43'
+  Number of Gamers: 31
+  Percentage of Gamers: 14%
+  Ratio: 2.62
+  TA: '39'
   Tags:
   - Online/Offline
   - Single Player
@@ -477,10 +557,10 @@ Base Game Achievements:
   Description: Swap enemy troop into Acid Cloud
   GS: '15'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 6
   Percentage of Gamers: 3%
-  Ratio: 6.3
-  TA: '94'
+  Ratio: 5.97
+  TA: '89'
   Tags:
   - Online/Offline
   - Single Player
@@ -490,9 +570,9 @@ Base Game Achievements:
   Description: Kill three enemies with one sweeping attack
   GS: '15'
   Guide: false
-  Number of Gamers: 3
+  Number of Gamers: 4
   Percentage of Gamers: 2%
-  Ratio: 7.28
+  Ratio: 7.31
   TA: '109'
   Tags:
   - Online/Offline
@@ -504,10 +584,10 @@ Base Game Achievements:
     on all build sites)
   GS: '15'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 9%
-  Ratio: 3.37
-  TA: '50'
+  Number of Gamers: 25
+  Percentage of Gamers: 12%
+  Ratio: 2.92
+  TA: '43'
   Tags:
   - Online/Offline
   - Single Player
@@ -518,10 +598,10 @@ Base Game Achievements:
     siege
   GS: '15'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 6%
-  Ratio: 3.98
-  TA: '59'
+  Number of Gamers: 15
+  Percentage of Gamers: 7%
+  Ratio: 3.77
+  TA: '56'
   Tags:
   - Online/Offline
   - Single Player
@@ -531,10 +611,10 @@ Base Game Achievements:
   Description: Win four battles on the same turn with the same wielder
   GS: '30'
   Guide: false
-  Number of Gamers: 7
+  Number of Gamers: 8
   Percentage of Gamers: 4%
-  Ratio: 4.76
-  TA: '142'
+  Ratio: 5.17
+  TA: '155'
   Tags:
   - Online/Offline
   - Single Player
@@ -544,9 +624,9 @@ Base Game Achievements:
   Description: Reach level 8 with a wielder
   GS: '15'
   Guide: false
-  Number of Gamers: 150
-  Percentage of Gamers: 94%
-  Ratio: 1.02
+  Number of Gamers: 200
+  Percentage of Gamers: 93%
+  Ratio: 1.03
   TA: '15'
   Tags:
   - Online/Offline
@@ -558,10 +638,10 @@ Base Game Achievements:
   Description: Reach level 16 with a wielder
   GS: '15'
   Guide: false
-  Number of Gamers: 69
-  Percentage of Gamers: 43%
-  Ratio: 1.51
-  TA: '22'
+  Number of Gamers: 102
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '21'
   Tags:
   - Online/Offline
   - Single Player
@@ -572,10 +652,10 @@ Base Game Achievements:
   Description: Reach level 24 with a wielder
   GS: '15'
   Guide: false
-  Number of Gamers: 21
-  Percentage of Gamers: 13%
-  Ratio: 2.75
-  TA: '41'
+  Number of Gamers: 32
+  Percentage of Gamers: 15%
+  Ratio: 2.58
+  TA: '38'
   Tags:
   - Online/Offline
   - Single Player
@@ -586,10 +666,10 @@ Base Game Achievements:
   Description: Reach level 32 with a wielder
   GS: '30'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 4%
-  Ratio: 4.76
-  TA: '142'
+  Number of Gamers: 10
+  Percentage of Gamers: 5%
+  Ratio: 4.62
+  TA: '138'
   Tags:
   - Online/Offline
   - Single Player
@@ -600,10 +680,10 @@ Base Game Achievements:
   Description: Win a battle before the enemy gets a turn
   GS: '15'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 11%
-  Ratio: 2.97
-  TA: '44'
+  Number of Gamers: 29
+  Percentage of Gamers: 14%
+  Ratio: 2.71
+  TA: '40'
   Tags:
   - Online/Offline
   - Single Player
@@ -613,10 +693,10 @@ Base Game Achievements:
   Description: Win a battle with only a single one unit left
   GS: '15'
   Guide: false
-  Number of Gamers: 11
+  Number of Gamers: 15
   Percentage of Gamers: 7%
-  Ratio: 3.8
-  TA: '57'
+  Ratio: 3.77
+  TA: '56'
   Tags:
   - Online/Offline
   - Single Player
@@ -626,10 +706,10 @@ Base Game Achievements:
   Description: Win a battle without making an attack
   GS: '15'
   Guide: false
-  Number of Gamers: 6
+  Number of Gamers: 9
   Percentage of Gamers: 4%
-  Ratio: 5.14
-  TA: '77'
+  Ratio: 4.87
+  TA: '73'
   Tags:
   - Online/Offline
   - Single Player
@@ -639,10 +719,10 @@ Base Game Achievements:
   Description: Win a battle against a walled town
   GS: '15'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 11%
-  Ratio: 3.05
-  TA: '45'
+  Number of Gamers: 34
+  Percentage of Gamers: 16%
+  Ratio: 2.5
+  TA: '37'
   Tags:
   - Online/Offline
   - Single Player
@@ -652,10 +732,10 @@ Base Game Achievements:
   Description: Defend a walled town in battle
   GS: '15'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 3%
-  Ratio: 6.3
-  TA: '94'
+  Number of Gamers: 8
+  Percentage of Gamers: 4%
+  Ratio: 5.17
+  TA: '77'
   Tags:
   - Online/Offline
   - Single Player
@@ -666,9 +746,9 @@ Base Game Achievements:
   GS: '20'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 1%
-  Ratio: 12.6
-  TA: '252'
+  Percentage of Gamers: 0%
+  Ratio: 14.62
+  TA: '292'
   Tags:
   - Online/Offline
   - Single Player
@@ -680,9 +760,9 @@ Base Game Achievements:
   GS: '20'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 1%
-  Ratio: 12.6
-  TA: '252'
+  Percentage of Gamers: 0%
+  Ratio: 14.62
+  TA: '292'
   Tags:
   - Online/Offline
   - Single Player
@@ -695,8 +775,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 2
   Percentage of Gamers: 1%
-  Ratio: 8.91
-  TA: '178'
+  Ratio: 10.34
+  TA: '206'
   Tags:
   - Online/Offline
   - Single Player
@@ -717,26 +797,26 @@ Base Game Achievements:
   - Cooperative
   - Versus
   - Cumulative +
-Base Ratio: 6.216
-Base TA: 6216
+Base Ratio: 6.853
+Base TA: 6853
 Delisted: false
 Developer: Lavapotion
 Game Name: Songs of Conquest
 Genres: Strategy, Turn Based
 Install Size: 2830.0
 Number of Completions: 0
-Number of Gamers: 159
+Number of Gamers: 214
 Overall Completion Time:
 - -1
 - -1
-Overall GS: 1000
-Overall Ratio: 6.216
-Overall TA: 6216
+Overall GS: 1090
+Overall Ratio: 6.425688073394495
+Overall TA: 7004
 PDU: 0
 Percentage Completed: 0.0
 Publisher: Coffee Stain Publishing
 Release Date: 12 November 2024
 Server Closure: false
-Site Rating: None
+Site Rating: 0.0
 Update Achievements: []
 Walkthrough: false

@@ -8,7 +8,7 @@ Base Game Achievements:
   Description: Find your way around.
   GS: '75'
   Guide: true
-  Number of Gamers: 567
+  Number of Gamers: 791
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '75'
@@ -20,9 +20,9 @@ Base Game Achievements:
   Description: Play the first tape.
   GS: '75'
   Guide: false
-  Number of Gamers: 477
-  Percentage of Gamers: 84%
-  Ratio: 1.09
+  Number of Gamers: 673
+  Percentage of Gamers: 85%
+  Ratio: 1.08
   TA: '81'
   Tags:
   - Offline Mode
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Find Jericho.
   GS: '75'
   Guide: false
-  Number of Gamers: 366
-  Percentage of Gamers: 65%
-  Ratio: 1.24
-  TA: '93'
+  Number of Gamers: 548
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '90'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: 'Finish Tape #1.'
   GS: '75'
   Guide: false
-  Number of Gamers: 358
-  Percentage of Gamers: 63%
-  Ratio: 1.25
-  TA: '94'
+  Number of Gamers: 534
+  Percentage of Gamers: 68%
+  Ratio: 1.21
+  TA: '91'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Play the second tape.
   GS: '75'
   Guide: false
-  Number of Gamers: 342
-  Percentage of Gamers: 60%
-  Ratio: 1.28
-  TA: '96'
+  Number of Gamers: 515
+  Percentage of Gamers: 65%
+  Ratio: 1.23
+  TA: '92'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: You made Mr Rabbit happy.
   GS: '75'
   Guide: false
-  Number of Gamers: 326
-  Percentage of Gamers: 57%
-  Ratio: 1.31
-  TA: '98'
+  Number of Gamers: 494
+  Percentage of Gamers: 62%
+  Ratio: 1.26
+  TA: '94'
   Tags:
   - Offline Mode
   - Single Player
@@ -80,10 +80,10 @@ Base Game Achievements:
   Description: 'Finish Tape #2.'
   GS: '75'
   Guide: false
-  Number of Gamers: 291
-  Percentage of Gamers: 51%
-  Ratio: 1.39
-  TA: '104'
+  Number of Gamers: 455
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '98'
   Tags:
   - Offline Mode
   - Single Player
@@ -92,10 +92,10 @@ Base Game Achievements:
   Description: Finish the story
   GS: '75'
   Guide: false
-  Number of Gamers: 289
-  Percentage of Gamers: 51%
-  Ratio: 1.4
-  TA: '105'
+  Number of Gamers: 453
+  Percentage of Gamers: 57%
+  Ratio: 1.32
+  TA: '99'
   Tags:
   - Offline Mode
   - Single Player
@@ -105,10 +105,10 @@ Base Game Achievements:
   Description: Play every audio tape.
   GS: '75'
   Guide: false
-  Number of Gamers: 343
-  Percentage of Gamers: 60%
-  Ratio: 1.28
-  TA: '96'
+  Number of Gamers: 514
+  Percentage of Gamers: 65%
+  Ratio: 1.24
+  TA: '93'
   Tags:
   - Offline Mode
   - Single Player
@@ -117,10 +117,10 @@ Base Game Achievements:
   Description: Hide from the doctor
   GS: '75'
   Guide: true
-  Number of Gamers: 234
-  Percentage of Gamers: 41%
-  Ratio: 1.55
-  TA: '116'
+  Number of Gamers: 371
+  Percentage of Gamers: 47%
+  Ratio: 1.46
+  TA: '109'
   Tags:
   - Offline Mode
   - Single Player
@@ -129,10 +129,10 @@ Base Game Achievements:
   Description: Find every keychain.
   GS: '75'
   Guide: true
-  Number of Gamers: 221
-  Percentage of Gamers: 39%
-  Ratio: 1.6
-  TA: '120'
+  Number of Gamers: 355
+  Percentage of Gamers: 45%
+  Ratio: 1.49
+  TA: '111'
   Tags:
   - Offline Mode
   - Single Player
@@ -142,47 +142,49 @@ Base Game Achievements:
   Description: Use the globe as each of the protagonists.
   GS: '75'
   Guide: true
-  Number of Gamers: 300
-  Percentage of Gamers: 53%
-  Ratio: 1.37
-  TA: '103'
+  Number of Gamers: 456
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '98'
   Tags:
   - Offline Mode
   - Single Player
   - Missable
+  - Buggy +
 - Achievement Name: Book Worm
   Description: Find all of the documents.
   GS: '100'
   Guide: false
-  Number of Gamers: 296
-  Percentage of Gamers: 52%
-  Ratio: 1.38
-  TA: '138'
+  Number of Gamers: 464
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '130'
   Tags:
   - Offline Mode
   - Single Player
   - Collectable
   - Missable
-Base Ratio: 1.319
-Base TA: 1319
+  - Buggy +
+Base Ratio: 1.261
+Base TA: 1261
 Delisted: false
 Developer: OhDeer Studio, 100 Games
 Game Name: Anthology of Fear
 Genres: Adventure
 Install Size: 3350.0
-Number of Completions: 166
-Number of Gamers: 567
+Number of Completions: 289
+Number of Gamers: 791
 Overall Completion Time:
 - 1.0
 - 2.0
 Overall GS: 1000
-Overall Ratio: 1.319
-Overall TA: 1319
+Overall Ratio: 1.261
+Overall TA: 1261
 PDU: 0
-Percentage Completed: 29.28
+Percentage Completed: 36.54
 Publisher: Ultimate Games
 Release Date: 04 October 2023
 Server Closure: false
-Site Rating: 2.98
+Site Rating: 2.81
 Update Achievements: []
 Walkthrough: false

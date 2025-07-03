@@ -1,15 +1,15 @@
 Add On Achievements: []
 Base Completion Time:
-- 15.0
-- 20.0
+- 25.0
+- 30.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Suburban Eviction
   Description: Complete Stage One
   GS: '15'
   Guide: false
-  Number of Gamers: 322
-  Percentage of Gamers: 68%
+  Number of Gamers: 339
+  Percentage of Gamers: 69%
   Ratio: 1.2
   TA: '18'
   Tags:
@@ -21,7 +21,7 @@ Base Game Achievements:
   Description: Complete Stage Two
   GS: '15'
   Guide: false
-  Number of Gamers: 246
+  Number of Gamers: 256
   Percentage of Gamers: 52%
   Ratio: 1.38
   TA: '20'
@@ -34,9 +34,9 @@ Base Game Achievements:
   Description: Complete Stage Three
   GS: '15'
   Guide: false
-  Number of Gamers: 200
+  Number of Gamers: 208
   Percentage of Gamers: 42%
-  Ratio: 1.52
+  Ratio: 1.53
   TA: '22'
   Tags:
   - Online/Offline
@@ -47,9 +47,9 @@ Base Game Achievements:
   Description: Complete Stage Four
   GS: '15'
   Guide: false
-  Number of Gamers: 163
-  Percentage of Gamers: 35%
-  Ratio: 1.69
+  Number of Gamers: 167
+  Percentage of Gamers: 34%
+  Ratio: 1.71
   TA: '25'
   Tags:
   - Online/Offline
@@ -60,10 +60,10 @@ Base Game Achievements:
   Description: Complete the game
   GS: '30'
   Guide: false
-  Number of Gamers: 152
+  Number of Gamers: 156
   Percentage of Gamers: 32%
-  Ratio: 1.75
-  TA: '52'
+  Ratio: 1.77
+  TA: '53'
   Tags:
   - Online/Offline
   - Single Player
@@ -72,9 +72,9 @@ Base Game Achievements:
   Description: Send yourself away in the van
   GS: '15'
   Guide: true
-  Number of Gamers: 461
+  Number of Gamers: 478
   Percentage of Gamers: 98%
-  Ratio: 1.0
+  Ratio: 1.01
   TA: '15'
   Tags:
   - Online/Offline
@@ -84,10 +84,10 @@ Base Game Achievements:
   Description: Complete Every Challenge
   GS: '30'
   Guide: true
-  Number of Gamers: 24
-  Percentage of Gamers: 5%
-  Ratio: 4.41
-  TA: '132'
+  Number of Gamers: 28
+  Percentage of Gamers: 6%
+  Ratio: 4.17
+  TA: '125'
   Tags:
   - Online/Offline
   - Single Player
@@ -96,10 +96,10 @@ Base Game Achievements:
   Description: Throw a Pizza on top of the van
   GS: '15'
   Guide: true
-  Number of Gamers: 40
-  Percentage of Gamers: 8%
-  Ratio: 3.42
-  TA: '51'
+  Number of Gamers: 43
+  Percentage of Gamers: 9%
+  Ratio: 3.37
+  TA: '50'
   Tags:
   - Online/Offline
   - Single Player
@@ -108,10 +108,10 @@ Base Game Achievements:
   Description: Get knocked out by a flying keg
   GS: '15'
   Guide: true
-  Number of Gamers: 63
+  Number of Gamers: 65
   Percentage of Gamers: 13%
-  Ratio: 2.72
-  TA: '40'
+  Ratio: 2.74
+  TA: '41'
   Tags:
   - Online/Offline
   - Single Player
@@ -120,9 +120,9 @@ Base Game Achievements:
   Description: Knock down a tree with a car
   GS: '15'
   Guide: true
-  Number of Gamers: 166
+  Number of Gamers: 173
   Percentage of Gamers: 35%
-  Ratio: 1.67
+  Ratio: 1.68
   TA: '25'
   Tags:
   - Online/Offline
@@ -132,10 +132,10 @@ Base Game Achievements:
   Description: Knock a guard out with a sarcophagus
   GS: '15'
   Guide: true
-  Number of Gamers: 67
-  Percentage of Gamers: 14%
-  Ratio: 2.64
-  TA: '39'
+  Number of Gamers: 73
+  Percentage of Gamers: 15%
+  Ratio: 2.58
+  TA: '38'
   Tags:
   - Online/Offline
   - Single Player
@@ -144,7 +144,7 @@ Base Game Achievements:
   Description: Dive up a flight of stairs
   GS: '15'
   Guide: true
-  Number of Gamers: 69
+  Number of Gamers: 72
   Percentage of Gamers: 15%
   Ratio: 2.6
   TA: '39'
@@ -156,10 +156,10 @@ Base Game Achievements:
   Description: Destroy a porta-potty with a jackhammer
   GS: '15'
   Guide: true
-  Number of Gamers: 72
-  Percentage of Gamers: 15%
-  Ratio: 2.54
-  TA: '38'
+  Number of Gamers: 77
+  Percentage of Gamers: 16%
+  Ratio: 2.52
+  TA: '37'
   Tags:
   - Online/Offline
   - Single Player
@@ -168,10 +168,10 @@ Base Game Achievements:
   Description: Hit a character over 10 meters
   GS: '15'
   Guide: false
-  Number of Gamers: 155
+  Number of Gamers: 164
   Percentage of Gamers: 33%
-  Ratio: 1.73
-  TA: '26'
+  Ratio: 1.72
+  TA: '25'
   Tags:
   - Online/Offline
   - Single Player
@@ -180,10 +180,10 @@ Base Game Achievements:
   Description: Collect every trophy
   GS: '15'
   Guide: true
-  Number of Gamers: 28
-  Percentage of Gamers: 6%
-  Ratio: 4.08
-  TA: '61'
+  Number of Gamers: 32
+  Percentage of Gamers: 7%
+  Ratio: 3.9
+  TA: '58'
   Tags:
   - Online/Offline
   - Single Player
@@ -193,10 +193,10 @@ Base Game Achievements:
   Description: Knock out a guard with a cannon ball
   GS: '15'
   Guide: true
-  Number of Gamers: 42
+  Number of Gamers: 45
   Percentage of Gamers: 9%
-  Ratio: 3.33
-  TA: '50'
+  Ratio: 3.29
+  TA: '49'
   Tags:
   - Online/Offline
   - Single Player
@@ -205,7 +205,7 @@ Base Game Achievements:
   Description: Stop the traffic with the stop sign
   GS: '15'
   Guide: false
-  Number of Gamers: 298
+  Number of Gamers: 311
   Percentage of Gamers: 63%
   Ratio: 1.25
   TA: '18'
@@ -217,9 +217,9 @@ Base Game Achievements:
   Description: Pack a parked car
   GS: '15'
   Guide: false
-  Number of Gamers: 150
+  Number of Gamers: 158
   Percentage of Gamers: 32%
-  Ratio: 1.76
+  Ratio: 1.75
   TA: '26'
   Tags:
   - Online/Offline
@@ -229,10 +229,10 @@ Base Game Achievements:
   Description: Cause -$3000 in damages in one forklift race
   GS: '15'
   Guide: true
-  Number of Gamers: 29
-  Percentage of Gamers: 6%
-  Ratio: 4.01
-  TA: '60'
+  Number of Gamers: 34
+  Percentage of Gamers: 7%
+  Ratio: 3.79
+  TA: '56'
   Tags:
   - Online/Offline
   - Single Player
@@ -241,10 +241,10 @@ Base Game Achievements:
   Description: Four players hold one item at the same time
   GS: '15'
   Guide: false
-  Number of Gamers: 67
-  Percentage of Gamers: 14%
-  Ratio: 2.64
-  TA: '39'
+  Number of Gamers: 73
+  Percentage of Gamers: 15%
+  Ratio: 2.58
+  TA: '38'
   Tags:
   - Online/Offline
   - Single Player
@@ -254,10 +254,10 @@ Base Game Achievements:
     the ground
   GS: '15'
   Guide: false
-  Number of Gamers: 44
-  Percentage of Gamers: 9%
-  Ratio: 3.26
-  TA: '48'
+  Number of Gamers: 50
+  Percentage of Gamers: 10%
+  Ratio: 3.12
+  TA: '46'
   Tags:
   - Online/Offline
   - Single Player
@@ -266,7 +266,7 @@ Base Game Achievements:
   Description: Dive over 20 meters
   GS: '15'
   Guide: true
-  Number of Gamers: 47
+  Number of Gamers: 49
   Percentage of Gamers: 10%
   Ratio: 3.15
   TA: '47'
@@ -278,10 +278,10 @@ Base Game Achievements:
   Description: Pack 20 objects in the first minute
   GS: '15'
   Guide: false
-  Number of Gamers: 262
+  Number of Gamers: 276
   Percentage of Gamers: 56%
   Ratio: 1.33
-  TA: '20'
+  TA: '19'
   Tags:
   - Online/Offline
   - Single Player
@@ -291,9 +291,9 @@ Base Game Achievements:
   Description: Pack a total of 1000 items
   GS: '15'
   Guide: false
-  Number of Gamers: 114
+  Number of Gamers: 120
   Percentage of Gamers: 24%
-  Ratio: 2.02
+  Ratio: 2.01
   TA: '30'
   Tags:
   - Online/Offline
@@ -304,9 +304,9 @@ Base Game Achievements:
   Description: Travel over 50 miles
   GS: '15'
   Guide: false
-  Number of Gamers: 71
-  Percentage of Gamers: 15%
-  Ratio: 2.56
+  Number of Gamers: 76
+  Percentage of Gamers: 16%
+  Ratio: 2.53
   TA: '38'
   Tags:
   - Online/Offline
@@ -318,9 +318,9 @@ Base Game Achievements:
     match
   GS: '15'
   Guide: false
-  Number of Gamers: 175
+  Number of Gamers: 181
   Percentage of Gamers: 37%
-  Ratio: 1.63
+  Ratio: 1.64
   TA: '24'
   Tags:
   - Online/Offline
@@ -330,7 +330,7 @@ Base Game Achievements:
   Description: Knock out a police officer and send them away in the van
   GS: '15'
   Guide: false
-  Number of Gamers: 189
+  Number of Gamers: 196
   Percentage of Gamers: 40%
   Ratio: 1.57
   TA: '23'
@@ -342,10 +342,10 @@ Base Game Achievements:
   Description: Pack every cat in the game
   GS: '15'
   Guide: true
-  Number of Gamers: 24
-  Percentage of Gamers: 5%
-  Ratio: 4.41
-  TA: '66'
+  Number of Gamers: 29
+  Percentage of Gamers: 6%
+  Ratio: 4.1
+  TA: '61'
   Tags:
   - Online/Offline
   - Single Player
@@ -355,10 +355,10 @@ Base Game Achievements:
   Description: Send off a client object within 5 seconds of it being requested
   GS: '15'
   Guide: false
-  Number of Gamers: 103
+  Number of Gamers: 110
   Percentage of Gamers: 22%
-  Ratio: 2.14
-  TA: '32'
+  Ratio: 2.1
+  TA: '31'
   Tags:
   - Online/Offline
   - Single Player
@@ -368,9 +368,9 @@ Base Game Achievements:
   Description: Smash all the windows in a house
   GS: '15'
   Guide: false
-  Number of Gamers: 147
+  Number of Gamers: 152
   Percentage of Gamers: 31%
-  Ratio: 1.78
+  Ratio: 1.79
   TA: '26'
   Tags:
   - Online/Offline
@@ -380,8 +380,8 @@ Base Game Achievements:
   Description: Kidnap and pack a pedestrian
   GS: '15'
   Guide: true
-  Number of Gamers: 162
-  Percentage of Gamers: 34%
+  Number of Gamers: 170
+  Percentage of Gamers: 35%
   Ratio: 1.69
   TA: '25'
   Tags:
@@ -392,10 +392,10 @@ Base Game Achievements:
   Description: Spin the rotating door with all four players for 30 seconds
   GS: '15'
   Guide: true
-  Number of Gamers: 30
-  Percentage of Gamers: 6%
-  Ratio: 3.94
-  TA: '59'
+  Number of Gamers: 35
+  Percentage of Gamers: 7%
+  Ratio: 3.73
+  TA: '56'
   Tags:
   - Online/Offline
   - Cooperative
@@ -404,10 +404,10 @@ Base Game Achievements:
   Description: Suck up a total of 25 ghosts
   GS: '15'
   Guide: true
-  Number of Gamers: 64
+  Number of Gamers: 69
   Percentage of Gamers: 14%
-  Ratio: 2.72
-  TA: '40'
+  Ratio: 2.66
+  TA: '39'
   Tags:
   - Online/Offline
   - Single Player
@@ -417,10 +417,10 @@ Base Game Achievements:
   Description: Pack the Atlas ball
   GS: '15'
   Guide: true
-  Number of Gamers: 45
+  Number of Gamers: 49
   Percentage of Gamers: 10%
-  Ratio: 3.22
-  TA: '48'
+  Ratio: 3.15
+  TA: '47'
   Tags:
   - Online/Offline
   - Single Player
@@ -429,10 +429,10 @@ Base Game Achievements:
   Description: Get 3 stars on every level
   GS: '30'
   Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 6%
-  Ratio: 3.94
-  TA: '118'
+  Number of Gamers: 35
+  Percentage of Gamers: 7%
+  Ratio: 3.73
+  TA: '112'
   Tags:
   - Online/Offline
   - Single Player
@@ -441,10 +441,10 @@ Base Game Achievements:
   Description: Complete every level on destruction mode
   GS: '30'
   Guide: false
-  Number of Gamers: 45
+  Number of Gamers: 48
   Percentage of Gamers: 10%
-  Ratio: 3.22
-  TA: '96'
+  Ratio: 3.19
+  TA: '95'
   Tags:
   - Online/Offline
   - Single Player
@@ -453,10 +453,10 @@ Base Game Achievements:
   Description: Get 3 stars on every level in destruction mode
   GS: '90'
   Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 6%
-  Ratio: 3.94
-  TA: '355'
+  Number of Gamers: 33
+  Percentage of Gamers: 7%
+  Ratio: 3.84
+  TA: '346'
   Tags:
   - Online/Offline
   - Single Player
@@ -465,10 +465,10 @@ Base Game Achievements:
   Description: Win 5 competitive games
   GS: '15'
   Guide: true
-  Number of Gamers: 54
-  Percentage of Gamers: 11%
-  Ratio: 2.94
-  TA: '44'
+  Number of Gamers: 59
+  Percentage of Gamers: 12%
+  Ratio: 2.87
+  TA: '43'
   Tags:
   - Online/Offline
   - Versus
@@ -476,9 +476,9 @@ Base Game Achievements:
   Description: Complete Stage Five
   GS: '15'
   Guide: false
-  Number of Gamers: 152
+  Number of Gamers: 156
   Percentage of Gamers: 32%
-  Ratio: 1.75
+  Ratio: 1.77
   TA: '26'
   Tags:
   - Online/Offline
@@ -489,10 +489,10 @@ Base Game Achievements:
   Description: Complete every level in time attack mode
   GS: '30'
   Guide: false
-  Number of Gamers: 23
+  Number of Gamers: 26
   Percentage of Gamers: 5%
-  Ratio: 4.51
-  TA: '135'
+  Ratio: 4.33
+  TA: '130'
   Tags:
   - Online/Offline
   - Single Player
@@ -501,10 +501,10 @@ Base Game Achievements:
   Description: Get 3 stars on every level in time attack mode
   GS: '90'
   Guide: false
-  Number of Gamers: 22
+  Number of Gamers: 25
   Percentage of Gamers: 5%
-  Ratio: 4.61
-  TA: '415'
+  Ratio: 4.42
+  TA: '398'
   Tags:
   - Online/Offline
   - Single Player
@@ -513,10 +513,10 @@ Base Game Achievements:
   Description: Survive 300 seconds on any level in time attack mode
   GS: '30'
   Guide: false
-  Number of Gamers: 32
+  Number of Gamers: 35
   Percentage of Gamers: 7%
-  Ratio: 3.82
-  TA: '114'
+  Ratio: 3.73
+  TA: '112'
   Tags:
   - Online/Offline
   - Single Player
@@ -525,10 +525,10 @@ Base Game Achievements:
   Description: Get 3 stars on every level in all game modes
   GS: '100'
   Guide: false
-  Number of Gamers: 22
+  Number of Gamers: 25
   Percentage of Gamers: 5%
-  Ratio: 4.61
-  TA: '461'
+  Ratio: 4.42
+  TA: '442'
   Tags:
   - Online/Offline
   - Single Player
@@ -537,7 +537,7 @@ Base Game Achievements:
   Description: Complete Stage Six
   GS: '15'
   Guide: false
-  Number of Gamers: 94
+  Number of Gamers: 98
   Percentage of Gamers: 20%
   Ratio: 2.23
   TA: '33'
@@ -550,34 +550,34 @@ Base Game Achievements:
   Description: Knockout the alien in Doswell Debacle
   GS: '15'
   Guide: true
-  Number of Gamers: 99
+  Number of Gamers: 105
   Percentage of Gamers: 21%
-  Ratio: 2.17
+  Ratio: 2.15
   TA: '32'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
-Base Ratio: 3.151
-Base TA: 3151
+Base Ratio: 3.059
+Base TA: 3059
 Delisted: false
 Developer: Moonshine Studios
 Game Name: 'Get Packed: Fully Loaded'
 Genres: Party
 Install Size: 2280.0
-Number of Completions: 18
-Number of Gamers: 471
+Number of Completions: 21
+Number of Gamers: 490
 Overall Completion Time:
-- 15.0
-- 20.0
+- 25.0
+- 30.0
 Overall GS: 1000
-Overall Ratio: 3.151
-Overall TA: 3151
+Overall Ratio: 3.059
+Overall TA: 3059
 PDU: 0
-Percentage Completed: 3.82
+Percentage Completed: 4.29
 Publisher: Coatsink
 Release Date: 29 July 2021
 Server Closure: false
-Site Rating: 3.64
+Site Rating: 3.53
 Update Achievements: []
 Walkthrough: false

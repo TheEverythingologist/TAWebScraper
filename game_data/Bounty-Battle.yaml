@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- 22
 - 23
+- 24
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Contender
   Description: Complete Tournament For 7 Characters.
   GS: '50'
   Guide: false
-  Number of Gamers: 53
-  Percentage of Gamers: 8%
-  Ratio: 3.45
-  TA: '172'
+  Number of Gamers: 55
+  Percentage of Gamers: 9%
+  Ratio: 3.41
+  TA: '170'
   Tags:
   - Offline Mode
   - Single Player
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Complete Tournament For 14 Characters.
   GS: '50'
   Guide: false
-  Number of Gamers: 42
+  Number of Gamers: 44
   Percentage of Gamers: 7%
-  Ratio: 3.88
-  TA: '194'
+  Ratio: 3.82
+  TA: '191'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Complete Tournament For 21 Characters.
   GS: '100'
   Guide: false
-  Number of Gamers: 32
+  Number of Gamers: 34
   Percentage of Gamers: 5%
-  Ratio: 4.45
-  TA: '445'
+  Ratio: 4.34
+  TA: '434'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Complete Tournament For All Characters.
   GS: '100'
   Guide: true
-  Number of Gamers: 29
+  Number of Gamers: 31
   Percentage of Gamers: 5%
-  Ratio: 4.67
-  TA: '467'
+  Ratio: 4.55
+  TA: '455'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Have a Bounty Put on You.
   GS: '25'
   Guide: false
-  Number of Gamers: 541
-  Percentage of Gamers: 85%
-  Ratio: 1.08
-  TA: '27'
+  Number of Gamers: 552
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '26'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: Finish a Battle With 100 Bounty Points.
   GS: '50'
   Guide: false
-  Number of Gamers: 218
-  Percentage of Gamers: 34%
-  Ratio: 1.7
-  TA: '85'
+  Number of Gamers: 224
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '84'
   Tags:
   - Offline Mode
   - Single Player
@@ -80,10 +80,10 @@ Base Game Achievements:
   Description: Reach a 100 Bounty Points Reward on You.
   GS: '50'
   Guide: false
-  Number of Gamers: 306
+  Number of Gamers: 310
   Percentage of Gamers: 48%
-  Ratio: 1.43
-  TA: '71'
+  Ratio: 1.44
+  TA: '72'
   Tags:
   - Offline Mode
   - Single Player
@@ -92,10 +92,10 @@ Base Game Achievements:
   Description: Eject 50 Opponents in Versus Mode.
   GS: '50'
   Guide: true
-  Number of Gamers: 39
+  Number of Gamers: 41
   Percentage of Gamers: 6%
-  Ratio: 4.03
-  TA: '201'
+  Ratio: 3.96
+  TA: '198'
   Tags:
   - Offline Mode
   - Single Player
@@ -105,10 +105,10 @@ Base Game Achievements:
   Description: Win a Battle in Gold Skin.
   GS: '100'
   Guide: true
-  Number of Gamers: 55
+  Number of Gamers: 57
   Percentage of Gamers: 9%
-  Ratio: 3.39
-  TA: '339'
+  Ratio: 3.35
+  TA: '335'
   Tags:
   - Offline Mode
   - Single Player
@@ -117,10 +117,10 @@ Base Game Achievements:
   Description: Win a Battle in Each Arena.
   GS: '100'
   Guide: true
-  Number of Gamers: 37
+  Number of Gamers: 39
   Percentage of Gamers: 6%
-  Ratio: 4.13
-  TA: '413'
+  Ratio: 4.06
+  TA: '406'
   Tags:
   - Offline Mode
   - Single Player
@@ -129,9 +129,9 @@ Base Game Achievements:
   Description: Complete the Tutorial.
   GS: '25'
   Guide: false
-  Number of Gamers: 400
+  Number of Gamers: 407
   Percentage of Gamers: 63%
-  Ratio: 1.26
+  Ratio: 1.25
   TA: '31'
   Tags:
   - Offline Mode
@@ -141,10 +141,10 @@ Base Game Achievements:
   Description: K.O. 1000 Opponents in Versus Mode.
   GS: '100'
   Guide: false
-  Number of Gamers: 19
+  Number of Gamers: 20
   Percentage of Gamers: 3%
-  Ratio: 5.77
-  TA: '577'
+  Ratio: 5.67
+  TA: '567'
   Tags:
   - Offline Mode
   - Single Player
@@ -154,10 +154,10 @@ Base Game Achievements:
   Description: Eject 1000 Opponents in Versus Mode.
   GS: '100'
   Guide: false
-  Number of Gamers: 22
-  Percentage of Gamers: 3%
-  Ratio: 5.36
-  TA: '536'
+  Number of Gamers: 24
+  Percentage of Gamers: 4%
+  Ratio: 5.17
+  TA: '517'
   Tags:
   - Offline Mode
   - Single Player
@@ -167,32 +167,32 @@ Base Game Achievements:
   Description: Unlock All Skins.
   GS: '100'
   Guide: true
-  Number of Gamers: 15
-  Percentage of Gamers: 2%
-  Ratio: 6.5
-  TA: '650'
+  Number of Gamers: 17
+  Percentage of Gamers: 3%
+  Ratio: 6.15
+  TA: '615'
   Tags:
   - Offline Mode
   - Single Player
   - Versus
-Base Ratio: 4.208
-Base TA: 4208
+Base Ratio: 4.101
+Base TA: 4101
 Delisted: false
 Developer: Dark Screen Games
 Game Name: Bounty Battle
 Genres: Fighting
 Install Size: 2850.0
-Number of Completions: 12
-Number of Gamers: 639
+Number of Completions: 13
+Number of Gamers: 643
 Overall Completion Time:
-- 22
 - 23
+- 24
 Overall GS: 1000
-Overall Ratio: 4.208
-Overall TA: 4208
+Overall Ratio: 4.101
+Overall TA: 4101
 PDU: 0
-Percentage Completed: 1.88
-Publisher: Merge Games
+Percentage Completed: 2.02
+Publisher: Silver Lining Interactive, Maximum Entertainment
 Release Date: 27 August 2020
 Server Closure: false
 Site Rating: 1.67

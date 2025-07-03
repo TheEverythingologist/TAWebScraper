@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 57
-- 58
+- 50
+- 51
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Corporate Climber
   Description: Earn your first promotion
   GS: '10'
   Guide: false
-  Number of Gamers: 400
+  Number of Gamers: 430
   Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '10'
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Get the Station 1 chip
   GS: '20'
   Guide: false
-  Number of Gamers: 17
+  Number of Gamers: 19
   Percentage of Gamers: 4%
-  Ratio: 4.89
-  TA: '97'
+  Ratio: 4.78
+  TA: '95'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -31,10 +31,10 @@ Base Game Achievements:
   Description: Fully upgrade Station 2
   GS: '100'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 2%
-  Ratio: 6.37
-  TA: '637'
+  Number of Gamers: 11
+  Percentage of Gamers: 3%
+  Ratio: 6.28
+  TA: '628'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -42,7 +42,7 @@ Base Game Achievements:
   Description: Get the Station 3 chip
   GS: '20'
   Guide: false
-  Number of Gamers: 221
+  Number of Gamers: 237
   Percentage of Gamers: 54%
   Ratio: 1.35
   TA: '27'
@@ -53,10 +53,10 @@ Base Game Achievements:
   Description: Get the Station 4 chip
   GS: '20'
   Guide: false
-  Number of Gamers: 66
-  Percentage of Gamers: 16%
-  Ratio: 2.48
-  TA: '49'
+  Number of Gamers: 75
+  Percentage of Gamers: 17%
+  Ratio: 2.42
+  TA: '48'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -64,9 +64,9 @@ Base Game Achievements:
   Description: Get the Station 5 chip
   GS: '20'
   Guide: false
-  Number of Gamers: 31
+  Number of Gamers: 33
   Percentage of Gamers: 8%
-  Ratio: 3.62
+  Ratio: 3.63
   TA: '72'
   Tags:
   - Offline Game Mode
@@ -75,7 +75,7 @@ Base Game Achievements:
   Description: Reach an input rate of 30 glowbulbs/min
   GS: '20'
   Guide: false
-  Number of Gamers: 197
+  Number of Gamers: 212
   Percentage of Gamers: 48%
   Ratio: 1.43
   TA: '28'
@@ -87,10 +87,10 @@ Base Game Achievements:
   Description: Reach an input rate of 30 shroom-fuel/min
   GS: '40'
   Guide: false
-  Number of Gamers: 50
-  Percentage of Gamers: 12%
-  Ratio: 2.85
-  TA: '114'
+  Number of Gamers: 57
+  Percentage of Gamers: 13%
+  Ratio: 2.76
+  TA: '110'
   Tags:
   - Offline Mode
   - Single Player
@@ -99,10 +99,10 @@ Base Game Achievements:
   Description: Reach an input rate of 30 blood-fuel/min
   GS: '60'
   Guide: false
-  Number of Gamers: 26
+  Number of Gamers: 28
   Percentage of Gamers: 6%
-  Ratio: 3.95
-  TA: '237'
+  Ratio: 3.94
+  TA: '236'
   Tags:
   - Offline Mode
   - Single Player
@@ -111,10 +111,10 @@ Base Game Achievements:
   Description: Reach an input rate of 30 corrosive-fuel/min
   GS: '80'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 3%
-  Ratio: 5.39
-  TA: '431'
+  Number of Gamers: 16
+  Percentage of Gamers: 4%
+  Ratio: 5.21
+  TA: '417'
   Tags:
   - Offline Mode
   - Single Player
@@ -123,10 +123,10 @@ Base Game Achievements:
   Description: Beat Station 1's Underground Supply Pod
   GS: '20'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 4%
-  Ratio: 4.75
-  TA: '95'
+  Number of Gamers: 20
+  Percentage of Gamers: 5%
+  Ratio: 4.66
+  TA: '93'
   Tags:
   - Offline Mode
   - Single Player
@@ -135,10 +135,10 @@ Base Game Achievements:
   Description: Beat Station 2's Underground Supply Pod
   GS: '20'
   Guide: false
-  Number of Gamers: 177
-  Percentage of Gamers: 43%
-  Ratio: 1.51
-  TA: '30'
+  Number of Gamers: 195
+  Percentage of Gamers: 44%
+  Ratio: 1.49
+  TA: '29'
   Tags:
   - Offline Mode
   - Single Player
@@ -147,7 +147,7 @@ Base Game Achievements:
   Description: Beat Station 3's Underground Supply Pod
   GS: '20'
   Guide: false
-  Number of Gamers: 146
+  Number of Gamers: 157
   Percentage of Gamers: 36%
   Ratio: 1.66
   TA: '33'
@@ -159,10 +159,10 @@ Base Game Achievements:
   Description: Beat Station 4's Underground Supply Pod
   GS: '20'
   Guide: false
-  Number of Gamers: 76
+  Number of Gamers: 83
   Percentage of Gamers: 19%
-  Ratio: 2.31
-  TA: '46'
+  Ratio: 2.28
+  TA: '45'
   Tags:
   - Offline Mode
   - Single Player
@@ -171,9 +171,9 @@ Base Game Achievements:
   Description: Beat Station 5's Underground Supply Pod
   GS: '20'
   Guide: false
-  Number of Gamers: 27
+  Number of Gamers: 29
   Percentage of Gamers: 7%
-  Ratio: 3.88
+  Ratio: 3.87
   TA: '77'
   Tags:
   - Offline Mode
@@ -183,9 +183,9 @@ Base Game Achievements:
   Description: Give up on friendship
   GS: '20'
   Guide: false
-  Number of Gamers: 75
-  Percentage of Gamers: 18%
-  Ratio: 2.32
+  Number of Gamers: 82
+  Percentage of Gamers: 19%
+  Ratio: 2.3
   TA: '46'
   Tags:
   - Offline Game Mode
@@ -194,9 +194,9 @@ Base Game Achievements:
   Description: Earn 180 friendship points
   GS: '20'
   Guide: false
-  Number of Gamers: 81
+  Number of Gamers: 89
   Percentage of Gamers: 20%
-  Ratio: 2.24
+  Ratio: 2.21
   TA: '44'
   Tags:
   - Offline Mode
@@ -206,10 +206,10 @@ Base Game Achievements:
   Description: Earn 275 friendship points
   GS: '30'
   Guide: false
-  Number of Gamers: 78
-  Percentage of Gamers: 19%
-  Ratio: 2.28
-  TA: '68'
+  Number of Gamers: 86
+  Percentage of Gamers: 20%
+  Ratio: 2.24
+  TA: '67'
   Tags:
   - Offline Mode
   - Single Player
@@ -218,10 +218,10 @@ Base Game Achievements:
   Description: Earn 500 friendship points
   GS: '40'
   Guide: false
-  Number of Gamers: 74
+  Number of Gamers: 81
   Percentage of Gamers: 18%
-  Ratio: 2.34
-  TA: '93'
+  Ratio: 2.31
+  TA: '92'
   Tags:
   - Offline Mode
   - Single Player
@@ -230,10 +230,10 @@ Base Game Achievements:
   Description: Earn 2500 friendship points
   GS: '100'
   Guide: false
-  Number of Gamers: 58
+  Number of Gamers: 61
   Percentage of Gamers: 14%
-  Ratio: 2.64
-  TA: '264'
+  Ratio: 2.67
+  TA: '267'
   Tags:
   - Offline Mode
   - Single Player
@@ -242,10 +242,10 @@ Base Game Achievements:
   Description: Earn 5000 friendship points
   GS: '200'
   Guide: false
-  Number of Gamers: 56
-  Percentage of Gamers: 14%
-  Ratio: 2.69
-  TA: '539'
+  Number of Gamers: 59
+  Percentage of Gamers: 13%
+  Ratio: 2.71
+  TA: '543'
   Tags:
   - Offline Mode
   - Single Player
@@ -254,34 +254,34 @@ Base Game Achievements:
   Description: Beat the game within 15 hours
   GS: '100'
   Guide: false
-  Number of Gamers: 3
+  Number of Gamers: 4
   Percentage of Gamers: 1%
-  Ratio: 11.64
-  TA: 1,164
+  Ratio: 10.42
+  TA: 1,042
   Tags:
   - Offline Mode
   - Single Player
   - Time/Date
-Base Ratio: 4.201
-Base TA: 4201
+Base Ratio: 4.049
+Base TA: 4049
 Delisted: false
 Developer: Isto
 Game Name: 'Atrio: The Dark Wild'
 Genres: Survival
 Install Size: 2970.0
-Number of Completions: 3
-Number of Gamers: 407
+Number of Completions: 4
+Number of Gamers: 439
 Overall Completion Time:
-- 57
-- 58
+- 50
+- 51
 Overall GS: 1000
-Overall Ratio: 4.201
-Overall TA: 4201
+Overall Ratio: 4.049
+Overall TA: 4049
 PDU: 0
-Percentage Completed: 0.74
+Percentage Completed: 0.91
 Publisher: Isto
 Release Date: 10 January 2023
 Server Closure: false
-Site Rating: 4.83
+Site Rating: 4.75
 Update Achievements: []
 Walkthrough: false

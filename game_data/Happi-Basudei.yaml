@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 2.0
-Base GS: 4000
+- 2.5
+Base GS: 5000
 Base Game Achievements:
 - Achievement Name: Complete World 1-1
   Description: Complete World 1-1
   GS: '100'
   Guide: true
-  Number of Gamers: 4633
+  Number of Gamers: 5049
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Complete World 1-2
   GS: '100'
   Guide: true
-  Number of Gamers: 4474
+  Number of Gamers: 4884
   Percentage of Gamers: 92%
   Ratio: 1.04
   TA: '104'
@@ -32,8 +32,8 @@ Base Game Achievements:
   Description: Complete World 1-3
   GS: '100'
   Guide: true
-  Number of Gamers: 4219
-  Percentage of Gamers: 86%
+  Number of Gamers: 4611
+  Percentage of Gamers: 87%
   Ratio: 1.07
   TA: '107'
   Tags:
@@ -44,7 +44,7 @@ Base Game Achievements:
   Description: Complete World 2-1
   GS: '100'
   Guide: true
-  Number of Gamers: 4131
+  Number of Gamers: 4507
   Percentage of Gamers: 85%
   Ratio: 1.08
   TA: '108'
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Complete World 2-2
   GS: '100'
   Guide: true
-  Number of Gamers: 3960
+  Number of Gamers: 4326
   Percentage of Gamers: 81%
-  Ratio: 1.11
-  TA: '111'
+  Ratio: 1.1
+  TA: '110'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,8 +68,8 @@ Base Game Achievements:
   Description: Complete World 2-3
   GS: '100'
   Guide: true
-  Number of Gamers: 3919
-  Percentage of Gamers: 80%
+  Number of Gamers: 4285
+  Percentage of Gamers: 81%
   Ratio: 1.11
   TA: '111'
   Tags:
@@ -80,7 +80,7 @@ Base Game Achievements:
   Description: Complete World 3-1
   GS: '100'
   Guide: true
-  Number of Gamers: 3792
+  Number of Gamers: 4154
   Percentage of Gamers: 78%
   Ratio: 1.13
   TA: '113'
@@ -92,7 +92,7 @@ Base Game Achievements:
   Description: Complete World 3-2
   GS: '100'
   Guide: true
-  Number of Gamers: 3647
+  Number of Gamers: 4005
   Percentage of Gamers: 75%
   Ratio: 1.15
   TA: '115'
@@ -104,10 +104,10 @@ Base Game Achievements:
   Description: Complete World 3-3
   GS: '100'
   Guide: true
-  Number of Gamers: 3610
-  Percentage of Gamers: 74%
-  Ratio: 1.16
-  TA: '116'
+  Number of Gamers: 3967
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '115'
   Tags:
   - Offline Mode
   - Single Player
@@ -116,7 +116,7 @@ Base Game Achievements:
   Description: Get stuck with Bad Karma
   GS: '50'
   Guide: true
-  Number of Gamers: 4868
+  Number of Gamers: 5302
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '50'
@@ -127,98 +127,103 @@ Base Game Achievements:
   Description: Get killed with Good Karma
   GS: '50'
   Guide: true
-  Number of Gamers: 4667
+  Number of Gamers: 5088
   Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '51'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 1.10425
-Base TA: 4417
+Base Ratio: 1.2034
+Base TA: 6017
 Delisted: false
 Developer: Xeneder Team
 Game Name: Happi Basudei
 Genres: Platformer
-Install Size: 128.0
-Number of Completions: 2920
-Number of Gamers: 4883
+Install Size: 348.0
+Number of Completions: 1734
+Number of Gamers: 5315
 Overall Completion Time:
 - 0.0
-- 2.0
-Overall GS: 4000
-Overall Ratio: 1.10425
-Overall TA: 4417
+- 2.5
+Overall GS: 5000
+Overall Ratio: 1.2034
+Overall TA: 6017
 PDU: 0
-Percentage Completed: 59.8
+Percentage Completed: 32.62
 Publisher: Xeneder Team
 Release Date: 12 April 2022
 Server Closure: false
-Site Rating: 1.41
+Site Rating: 1.44
 Update Achievements:
 - Achievement Name: Get a coin
   Description: Get a coin
   GS: '200'
   Guide: true
-  Number of Gamers: 4500
-  Percentage of Gamers: 92%
-  Ratio: 1.04
-  TA: '208'
+  Number of Gamers: 4945
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '207'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Buggy
 - Achievement Name: Get a power-up
   Description: Get a power-up
   GS: '200'
   Guide: true
-  Number of Gamers: 4475
-  Percentage of Gamers: 92%
-  Ratio: 1.04
-  TA: '208'
+  Number of Gamers: 4918
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '207'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Buggy
 - Achievement Name: Kill an enemy
   Description: Kill an enemy
   GS: '200'
   Guide: true
-  Number of Gamers: 4471
+  Number of Gamers: 4914
   Percentage of Gamers: 92%
   Ratio: 1.04
-  TA: '209'
+  TA: '208'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Buggy
 - Achievement Name: Warp across the screen
   Description: Warp across the screen
   GS: '200'
   Guide: true
-  Number of Gamers: 4480
-  Percentage of Gamers: 92%
-  Ratio: 1.04
-  TA: '208'
+  Number of Gamers: 4923
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '207'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Buggy
 - Achievement Name: Score at least 500 Karma points
   Description: Score at least 500 Karma points
   GS: '200'
   Guide: true
-  Number of Gamers: 4479
-  Percentage of Gamers: 92%
-  Ratio: 1.04
-  TA: '208'
+  Number of Gamers: 4924
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '207'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Buggy
 - Achievement Name: Get 3 coins
   Description: Get 3 coins
   GS: '200'
   Guide: true
-  Number of Gamers: 3887
-  Percentage of Gamers: 80%
-  Ratio: 1.12
-  TA: '224'
+  Number of Gamers: 4376
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '220'
   Tags:
   - Offline Mode
   - Single Player
@@ -227,10 +232,10 @@ Update Achievements:
   Description: Hold 2 power-ups simultaneously
   GS: '200'
   Guide: true
-  Number of Gamers: 3716
-  Percentage of Gamers: 76%
-  Ratio: 1.14
-  TA: '229'
+  Number of Gamers: 4194
+  Percentage of Gamers: 79%
+  Ratio: 1.12
+  TA: '225'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -238,10 +243,10 @@ Update Achievements:
   Description: Kill 3 enemies
   GS: '200'
   Guide: true
-  Number of Gamers: 3873
-  Percentage of Gamers: 79%
-  Ratio: 1.12
-  TA: '224'
+  Number of Gamers: 4362
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '220'
   Tags:
   - Offline Mode
   - Single Player
@@ -250,10 +255,10 @@ Update Achievements:
   Description: Get damaged mid-air
   GS: '200'
   Guide: true
-  Number of Gamers: 3897
-  Percentage of Gamers: 80%
-  Ratio: 1.11
-  TA: '223'
+  Number of Gamers: 4384
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '220'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -261,10 +266,10 @@ Update Achievements:
   Description: Score at least 1000 Karma points
   GS: '200'
   Guide: true
-  Number of Gamers: 3881
-  Percentage of Gamers: 79%
-  Ratio: 1.12
-  TA: '224'
+  Number of Gamers: 4369
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '220'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -272,10 +277,10 @@ Update Achievements:
   Description: Get 5 coins
   GS: '200'
   Guide: true
-  Number of Gamers: 3599
-  Percentage of Gamers: 74%
-  Ratio: 1.16
-  TA: '232'
+  Number of Gamers: 4124
+  Percentage of Gamers: 78%
+  Ratio: 1.13
+  TA: '227'
   Tags:
   - Offline Mode
   - Single Player
@@ -284,10 +289,10 @@ Update Achievements:
   Description: Get a coin while holding a power-up
   GS: '200'
   Guide: true
-  Number of Gamers: 3591
-  Percentage of Gamers: 74%
-  Ratio: 1.16
-  TA: '233'
+  Number of Gamers: 4119
+  Percentage of Gamers: 77%
+  Ratio: 1.13
+  TA: '227'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -295,10 +300,10 @@ Update Achievements:
   Description: Kill 5 enemies
   GS: '200'
   Guide: true
-  Number of Gamers: 3584
-  Percentage of Gamers: 73%
-  Ratio: 1.16
-  TA: '233'
+  Number of Gamers: 4109
+  Percentage of Gamers: 77%
+  Ratio: 1.13
+  TA: '227'
   Tags:
   - Offline Mode
   - Single Player
@@ -307,10 +312,10 @@ Update Achievements:
   Description: Jump above the upper screen border
   GS: '200'
   Guide: true
-  Number of Gamers: 3595
-  Percentage of Gamers: 74%
-  Ratio: 1.16
-  TA: '233'
+  Number of Gamers: 4126
+  Percentage of Gamers: 78%
+  Ratio: 1.13
+  TA: '227'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -318,10 +323,67 @@ Update Achievements:
   Description: Score at least 2000 Karma points
   GS: '200'
   Guide: true
-  Number of Gamers: 3579
-  Percentage of Gamers: 73%
-  Ratio: 1.16
-  TA: '233'
+  Number of Gamers: 4101
+  Percentage of Gamers: 77%
+  Ratio: 1.13
+  TA: '227'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Get 7 coins
+  Description: Get 7 coins
+  GS: '200'
+  Guide: true
+  Number of Gamers: 1945
+  Percentage of Gamers: 37%
+  Ratio: 1.65
+  TA: '330'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Get a coin while holding 2 power-ups
+  Description: Get a coin while holding 2 power-ups
+  GS: '200'
+  Guide: true
+  Number of Gamers: 1912
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '333'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Kill 7 enemies
+  Description: Kill 7 enemies
+  GS: '200'
+  Guide: true
+  Number of Gamers: 1940
+  Percentage of Gamers: 37%
+  Ratio: 1.65
+  TA: '331'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Warp across the screen mid-air
+  Description: Warp across the screen mid-air
+  GS: '200'
+  Guide: true
+  Number of Gamers: 1955
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '329'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Score at least 3000 Karma points
+  Description: Score at least 3000 Karma points
+  GS: '200'
+  Guide: true
+  Number of Gamers: 1925
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '332'
   Tags:
   - Offline Game Mode
   - Single Player

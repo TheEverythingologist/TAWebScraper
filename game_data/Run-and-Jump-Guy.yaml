@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.5
-- 2.0
+- 2.5
 Base GS: 4000
 Base Game Achievements:
 - Achievement Name: Flame Potion Fetcher
   Description: Acquire the Potion of Fire.
   GS: '100'
   Guide: false
-  Number of Gamers: 1330
+  Number of Gamers: 1644
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -19,8 +19,8 @@ Base Game Achievements:
   Description: Acquire the Bubbly Potion.
   GS: '100'
   Guide: false
-  Number of Gamers: 1277
-  Percentage of Gamers: 95%
+  Number of Gamers: 1592
+  Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '102'
   Tags:
@@ -30,8 +30,8 @@ Base Game Achievements:
   Description: Score 20,000 points.
   GS: '100'
   Guide: false
-  Number of Gamers: 1266
-  Percentage of Gamers: 94%
+  Number of Gamers: 1584
+  Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
   Tags:
@@ -41,7 +41,7 @@ Base Game Achievements:
   Description: Gather 100 coins.
   GS: '50'
   Guide: false
-  Number of Gamers: 1296
+  Number of Gamers: 1608
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '50'
@@ -53,8 +53,8 @@ Base Game Achievements:
   Description: Complete Level 5 on the Island.
   GS: '50'
   Guide: false
-  Number of Gamers: 1312
-  Percentage of Gamers: 98%
+  Number of Gamers: 1620
+  Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '50'
   Tags:
@@ -65,7 +65,7 @@ Base Game Achievements:
   Description: Complete Level 10 on the Island.
   GS: '50'
   Guide: false
-  Number of Gamers: 1284
+  Number of Gamers: 1591
   Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '51'
@@ -77,8 +77,8 @@ Base Game Achievements:
   Description: Complete Location Island
   GS: '100'
   Guide: false
-  Number of Gamers: 1246
-  Percentage of Gamers: 93%
+  Number of Gamers: 1560
+  Percentage of Gamers: 94%
   Ratio: 1.03
   TA: '103'
   Tags:
@@ -89,10 +89,10 @@ Base Game Achievements:
   Description: Complete Location Winter Forest
   GS: '100'
   Guide: false
-  Number of Gamers: 1162
-  Percentage of Gamers: 87%
-  Ratio: 1.07
-  TA: '107'
+  Number of Gamers: 1477
+  Percentage of Gamers: 89%
+  Ratio: 1.05
+  TA: '105'
   Tags:
   - Offline Mode
   - Single Player
@@ -101,10 +101,10 @@ Base Game Achievements:
   Description: Defeat the last boss
   GS: '200'
   Guide: false
-  Number of Gamers: 1042
-  Percentage of Gamers: 78%
-  Ratio: 1.13
-  TA: '226'
+  Number of Gamers: 1332
+  Percentage of Gamers: 80%
+  Ratio: 1.11
+  TA: '223'
   Tags:
   - Offline Mode
   - Single Player
@@ -112,11 +112,11 @@ Base Game Achievements:
 - Achievement Name: Undying Persistence
   Description: Die 21 times.
   GS: '50'
-  Guide: false
-  Number of Gamers: 1279
-  Percentage of Gamers: 95%
-  Ratio: 1.02
-  TA: '51'
+  Guide: true
+  Number of Gamers: 1601
+  Percentage of Gamers: 96%
+  Ratio: 1.01
+  TA: '50'
   Tags:
   - Offline Mode
   - Single Player
@@ -125,44 +125,44 @@ Base Game Achievements:
   Description: Collect 250 coins.
   GS: '100'
   Guide: false
-  Number of Gamers: 1249
-  Percentage of Gamers: 93%
+  Number of Gamers: 1565
+  Percentage of Gamers: 94%
   Ratio: 1.03
   TA: '103'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 1.1605
-Base TA: 4642
+Base Ratio: 1.0955
+Base TA: 4382
 Delisted: false
 Developer: Chepurniy Yevgeniy
 Game Name: Run & Jump Guy
 Genres: Platformer
 Install Size: 361.0
-Number of Completions: 694
-Number of Gamers: 1342
+Number of Completions: 1150
+Number of Gamers: 1664
 Overall Completion Time:
 - 0.5
-- 1.0
+- 2.5
 Overall GS: 4000
-Overall Ratio: 1.1605
-Overall TA: 4642
+Overall Ratio: 1.0955
+Overall TA: 4382
 PDU: 0
-Percentage Completed: 51.71
+Percentage Completed: 69.11
 Publisher: TERNOX
 Release Date: 05 June 2024
 Server Closure: false
-Site Rating: 1.85
+Site Rating: 1.92
 Update Achievements:
 - Achievement Name: Seeker of secrets 1
   Description: Find the Secret Warp in Level 1-6
   GS: '200'
   Guide: true
-  Number of Gamers: 1131
-  Percentage of Gamers: 84%
-  Ratio: 1.08
-  TA: '217'
+  Number of Gamers: 1432
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '215'
   Tags:
   - Offline Mode
   - Single Player
@@ -171,10 +171,10 @@ Update Achievements:
   Description: Find the Secret Warp in Level 2-2
   GS: '200'
   Guide: true
-  Number of Gamers: 1109
-  Percentage of Gamers: 83%
-  Ratio: 1.09
-  TA: '219'
+  Number of Gamers: 1415
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '216'
   Tags:
   - Offline Mode
   - Single Player
@@ -183,10 +183,10 @@ Update Achievements:
   Description: Find the Secret Warp in Level 3-3
   GS: '200'
   Guide: true
-  Number of Gamers: 1048
-  Percentage of Gamers: 78%
-  Ratio: 1.13
-  TA: '226'
+  Number of Gamers: 1350
+  Percentage of Gamers: 81%
+  Ratio: 1.1
+  TA: '221'
   Tags:
   - Offline Mode
   - Single Player
@@ -195,10 +195,10 @@ Update Achievements:
   Description: Find the Secret Warp in Level 3-7
   GS: '200'
   Guide: true
-  Number of Gamers: 1023
-  Percentage of Gamers: 76%
-  Ratio: 1.14
-  TA: '229'
+  Number of Gamers: 1323
+  Percentage of Gamers: 80%
+  Ratio: 1.12
+  TA: '224'
   Tags:
   - Offline Mode
   - Single Player
@@ -207,10 +207,10 @@ Update Achievements:
   Description: Find the Secret Warp in Level 2-6
   GS: '200'
   Guide: true
-  Number of Gamers: 1059
-  Percentage of Gamers: 79%
-  Ratio: 1.12
-  TA: '225'
+  Number of Gamers: 1362
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '220'
   Tags:
   - Offline Mode
   - Single Player
@@ -219,10 +219,10 @@ Update Achievements:
   Description: Collect 333 coins.
   GS: '200'
   Guide: false
-  Number of Gamers: 1001
-  Percentage of Gamers: 75%
-  Ratio: 1.15
-  TA: '231'
+  Number of Gamers: 1375
+  Percentage of Gamers: 83%
+  Ratio: 1.1
+  TA: '220'
   Tags:
   - Offline Mode
   - Single Player
@@ -231,10 +231,10 @@ Update Achievements:
   Description: Collect 400 coins.
   GS: '200'
   Guide: false
-  Number of Gamers: 985
-  Percentage of Gamers: 73%
-  Ratio: 1.16
-  TA: '233'
+  Number of Gamers: 1361
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '221'
   Tags:
   - Offline Mode
   - Single Player
@@ -243,10 +243,10 @@ Update Achievements:
   Description: Collect 500 coins.
   GS: '200'
   Guide: false
-  Number of Gamers: 972
-  Percentage of Gamers: 72%
-  Ratio: 1.17
-  TA: '235'
+  Number of Gamers: 1342
+  Percentage of Gamers: 81%
+  Ratio: 1.11
+  TA: '222'
   Tags:
   - Offline Mode
   - Single Player
@@ -255,10 +255,10 @@ Update Achievements:
   Description: Score 33,000 points.
   GS: '200'
   Guide: false
-  Number of Gamers: 1009
-  Percentage of Gamers: 75%
-  Ratio: 1.15
-  TA: '230'
+  Number of Gamers: 1383
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '219'
   Tags:
   - Offline Mode
   - Single Player
@@ -267,10 +267,10 @@ Update Achievements:
   Description: Score 40,000 points.
   GS: '200'
   Guide: false
-  Number of Gamers: 998
-  Percentage of Gamers: 74%
-  Ratio: 1.15
-  TA: '231'
+  Number of Gamers: 1370
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '220'
   Tags:
   - Offline Mode
   - Single Player
@@ -279,10 +279,10 @@ Update Achievements:
   Description: Score 50,000 points.
   GS: '200'
   Guide: false
-  Number of Gamers: 789
-  Percentage of Gamers: 59%
-  Ratio: 1.3
-  TA: '261'
+  Number of Gamers: 1285
+  Percentage of Gamers: 77%
+  Ratio: 1.13
+  TA: '227'
   Tags:
   - Offline Mode
   - Single Player
@@ -291,10 +291,10 @@ Update Achievements:
   Description: Score 66,666 points.
   GS: '200'
   Guide: false
-  Number of Gamers: 774
-  Percentage of Gamers: 58%
-  Ratio: 1.31
-  TA: '263'
+  Number of Gamers: 1263
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '229'
   Tags:
   - Offline Mode
   - Single Player
@@ -303,10 +303,10 @@ Update Achievements:
   Description: Collect 600 coins.
   GS: '200'
   Guide: false
-  Number of Gamers: 768
-  Percentage of Gamers: 57%
-  Ratio: 1.32
-  TA: '265'
+  Number of Gamers: 1260
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '229'
   Tags:
   - Offline Mode
   - Single Player
@@ -315,10 +315,10 @@ Update Achievements:
   Description: Collect 650 coins.
   GS: '200'
   Guide: false
-  Number of Gamers: 761
-  Percentage of Gamers: 57%
-  Ratio: 1.33
-  TA: '266'
+  Number of Gamers: 1253
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '230'
   Tags:
   - Offline Mode
   - Single Player
@@ -327,10 +327,10 @@ Update Achievements:
   Description: Collect 700 coins.
   GS: '200'
   Guide: false
-  Number of Gamers: 758
-  Percentage of Gamers: 56%
-  Ratio: 1.33
-  TA: '266'
+  Number of Gamers: 1249
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '230'
   Tags:
   - Offline Mode
   - Single Player

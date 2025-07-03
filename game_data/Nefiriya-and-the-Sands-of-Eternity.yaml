@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.5
-- 1.0
-Base GS: 1000
+- 1.5
+Base GS: 2000
 Base Game Achievements:
 - Achievement Name: Psychic Eye
   Description: Move a block with your psychic powers
   GS: '100'
   Guide: false
-  Number of Gamers: 336
+  Number of Gamers: 569
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '100'
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Move a platform with your psychic powers
   GS: '100'
   Guide: false
-  Number of Gamers: 288
-  Percentage of Gamers: 86%
-  Ratio: 1.08
-  TA: '108'
+  Number of Gamers: 513
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '105'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,8 +32,8 @@ Base Game Achievements:
   Description: Complete a level without losing any lives
   GS: '100'
   Guide: false
-  Number of Gamers: 327
-  Percentage of Gamers: 97%
+  Number of Gamers: 556
+  Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '101'
   Tags:
@@ -43,10 +43,10 @@ Base Game Achievements:
   Description: Complete 5 levels
   GS: '100'
   Guide: false
-  Number of Gamers: 302
-  Percentage of Gamers: 90%
-  Ratio: 1.05
-  TA: '105'
+  Number of Gamers: 525
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '104'
   Tags:
   - Offline Mode
   - Single Player
@@ -55,10 +55,10 @@ Base Game Achievements:
   Description: Complete 10 levels
   GS: '100'
   Guide: false
-  Number of Gamers: 280
-  Percentage of Gamers: 83%
-  Ratio: 1.09
-  TA: '109'
+  Number of Gamers: 494
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '107'
   Tags:
   - Offline Mode
   - Single Player
@@ -67,10 +67,10 @@ Base Game Achievements:
   Description: Complete 15 levels
   GS: '100'
   Guide: false
-  Number of Gamers: 267
-  Percentage of Gamers: 79%
-  Ratio: 1.12
-  TA: '112'
+  Number of Gamers: 474
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '109'
   Tags:
   - Offline Mode
   - Single Player
@@ -79,10 +79,10 @@ Base Game Achievements:
   Description: Collect 5 gems
   GS: '100'
   Guide: false
-  Number of Gamers: 295
-  Percentage of Gamers: 88%
-  Ratio: 1.06
-  TA: '106'
+  Number of Gamers: 518
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '104'
   Tags:
   - Offline Mode
   - Single Player
@@ -91,10 +91,10 @@ Base Game Achievements:
   Description: Collect 10 gems
   GS: '100'
   Guide: false
-  Number of Gamers: 274
-  Percentage of Gamers: 82%
-  Ratio: 1.1
-  TA: '110'
+  Number of Gamers: 487
+  Percentage of Gamers: 86%
+  Ratio: 1.08
+  TA: '108'
   Tags:
   - Offline Mode
   - Single Player
@@ -103,10 +103,10 @@ Base Game Achievements:
   Description: Collect 15 gems
   GS: '100'
   Guide: false
-  Number of Gamers: 262
-  Percentage of Gamers: 78%
-  Ratio: 1.13
-  TA: '113'
+  Number of Gamers: 463
+  Percentage of Gamers: 81%
+  Ratio: 1.11
+  TA: '111'
   Tags:
   - Offline Mode
   - Single Player
@@ -115,34 +115,94 @@ Base Game Achievements:
   Description: Reach the Good Ending
   GS: '100'
   Guide: true
-  Number of Gamers: 246
-  Percentage of Gamers: 73%
-  Ratio: 1.16
-  TA: '116'
+  Number of Gamers: 438
+  Percentage of Gamers: 77%
+  Ratio: 1.14
+  TA: '114'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.08
-Base TA: 1080
+Base Ratio: 1.093
+Base TA: 2186
 Delisted: false
 Developer: Synnergy Circle Games
 Game Name: Nefiriya and the Sands of Eternity
 Genres: Platformer
 Install Size: 452.0
-Number of Completions: 246
-Number of Gamers: 336
+Number of Completions: 399
+Number of Gamers: 569
 Overall Completion Time:
 - 0.5
-- 1.0
-Overall GS: 1000
-Overall Ratio: 1.08
-Overall TA: 1080
+- 1.5
+Overall GS: 2000
+Overall Ratio: 1.093
+Overall TA: 2186
 PDU: 0
-Percentage Completed: 73.21
+Percentage Completed: 70.12
 Publisher: Synnergy Circle Games
 Release Date: 11 December 2024
 Server Closure: false
-Site Rating: 1.78
-Update Achievements: []
+Site Rating: 2.01
+Update Achievements:
+- Achievement Name: Blue Scarab
+  Description: Find a blue scarab
+  GS: '200'
+  Guide: true
+  Number of Gamers: 459
+  Percentage of Gamers: 81%
+  Ratio: 1.11
+  TA: '222'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Red Scarab
+  Description: Find a Red Scarab
+  GS: '200'
+  Guide: true
+  Number of Gamers: 452
+  Percentage of Gamers: 79%
+  Ratio: 1.12
+  TA: '224'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Green Scarab
+  Description: Find a Green Scarab
+  GS: '200'
+  Guide: true
+  Number of Gamers: 451
+  Percentage of Gamers: 79%
+  Ratio: 1.12
+  TA: '224'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Gold Scarab
+  Description: Find a Gold Scarab
+  GS: '200'
+  Guide: true
+  Number of Gamers: 442
+  Percentage of Gamers: 78%
+  Ratio: 1.13
+  TA: '227'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Purple Scarab
+  Description: Find a Purple Scarab
+  GS: '200'
+  Guide: true
+  Number of Gamers: 443
+  Percentage of Gamers: 78%
+  Ratio: 1.13
+  TA: '226'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 Walkthrough: false

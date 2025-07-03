@@ -1,4 +1,173 @@
-Add On Achievements: []
+Add On Achievements:
+- Achievement Name: That New 'Mech Smell
+  Description: Successfully claimed the Night Gyr and Ebon Jaguar for Clan Ghost Bear.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 146
+  Percentage of Gamers: 82%
+  Ratio: 3.06
+  TA: '45'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Resilience
+  Description: Fought your way out of Fareer Canyon.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 116
+  Percentage of Gamers: 65%
+  Ratio: 3.43
+  TA: '51'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: A New Home
+  Description: "Complete the \u201CFlash Storm\u201D campaign."
+  GS: '15'
+  Guide: false
+  Number of Gamers: 98
+  Percentage of Gamers: 55%
+  Ratio: 3.74
+  TA: '56'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+  - Stackable
+- Achievement Name: Worthy of the Remembrance
+  Description: "Complete the entire \u201CFlash Storm\u201D campaign at Trueborn difficulty."
+  GS: '15'
+  Guide: true
+  Number of Gamers: 19
+  Percentage of Gamers: 11%
+  Ratio: 8.49
+  TA: '127'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Spirit Animal
+  Description: "Unlock all upgrades for Clan Ghost Bear\u2019s totem 'Mech."
+  GS: '15'
+  Guide: true
+  Number of Gamers: 33
+  Percentage of Gamers: 18%
+  Ratio: 6.44
+  TA: '96'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Another One For My Collection
+  Description: "Own two different variants of a single \u201CFlash Storm\u201D BattleMech\
+    \ Chassis."
+  GS: '15'
+  Guide: true
+  Number of Gamers: 141
+  Percentage of Gamers: 79%
+  Ratio: 3.11
+  TA: '46'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Curated Collection
+  Description: "Collect all variants of a single \u201CFlash Storm\u201D BattleMech\
+    \ Chassis."
+  GS: '15'
+  Guide: true
+  Number of Gamers: 71
+  Percentage of Gamers: 40%
+  Ratio: 4.39
+  TA: '65'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Shop
+- Achievement Name: The Complete Set
+  Description: "Collect all variants of every \u201CFlash Storm\u201D BattleMech Chassis."
+  GS: '15'
+  Guide: true
+  Number of Gamers: 37
+  Percentage of Gamers: 21%
+  Ratio: 6.08
+  TA: '91'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Shop
+- Achievement Name: Chop Shop
+  Description: "Modify the Engine of a \u201CFlash Storm\u201D BattleMech."
+  GS: '15'
+  Guide: true
+  Number of Gamers: 65
+  Percentage of Gamers: 36%
+  Ratio: 4.59
+  TA: '68'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Shop
+- Achievement Name: Quartermaster
+  Description: "Use each of the \u201CFlash Storm\u201D \u2018Mech Chassis\u2019 in\
+    \ a mission."
+  GS: '15'
+  Guide: true
+  Number of Gamers: 60
+  Percentage of Gamers: 34%
+  Ratio: 4.78
+  TA: '71'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Second Line Star
+  Description: "Complete a mission using only \u201CFlash Storm\u201D BattleMechs."
+  GS: '15'
+  Guide: true
+  Number of Gamers: 36
+  Percentage of Gamers: 20%
+  Ratio: 6.17
+  TA: '92'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: SaKhan Kabrinski Bids...
+  Description: Complete a mission using only Fire Moths.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 36
+  Percentage of Gamers: 20%
+  Ratio: 6.17
+  TA: '92'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Gotta Go Fast
+  Description: Accelerate to over 215 KPH in a mission.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 70
+  Percentage of Gamers: 39%
+  Ratio: 4.42
+  TA: '66'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
 Base Completion Time:
 - 40.0
 - 50.0
@@ -8,517 +177,548 @@ Base Game Achievements:
   Description: Complete the Huntress Arc.
   GS: '15'
   Guide: true
-  Number of Gamers: 9711
+  Number of Gamers: 10397
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '15'
   Tags:
   - Online/Offline
   - Single Player
+  - Cooperative
   - Main Storyline
 - Achievement Name: Exterminator
   Description: Complete the Santander Arc.
   GS: '15'
   Guide: false
-  Number of Gamers: 2543
-  Percentage of Gamers: 26%
-  Ratio: 1.96
+  Number of Gamers: 2803
+  Percentage of Gamers: 27%
+  Ratio: 1.93
   TA: '29'
   Tags:
   - Online/Offline
   - Single Player
+  - Cooperative
   - Main Storyline
 - Achievement Name: Fire and Brimstone
   Description: Complete the Turtle Bay Arc.
   GS: '15'
   Guide: false
-  Number of Gamers: 1820
+  Number of Gamers: 2038
   Percentage of Gamers: 19%
-  Ratio: 2.32
+  Ratio: 2.27
   TA: '34'
   Tags:
   - Online/Offline
   - Single Player
+  - Cooperative
   - Main Storyline
 - Achievement Name: Closing A Rift
   Description: Complete the Courchevel Arc.
   GS: '30'
   Guide: false
-  Number of Gamers: 1078
-  Percentage of Gamers: 11%
-  Ratio: 3.01
-  TA: '90'
+  Number of Gamers: 1224
+  Percentage of Gamers: 12%
+  Ratio: 2.93
+  TA: '87'
   Tags:
   - Online/Offline
   - Single Player
+  - Cooperative
   - Main Storyline
 - Achievement Name: Warden of Order
   Description: Complete the Luthien Arc as a Warden.
   GS: '45'
   Guide: true
-  Number of Gamers: 605
-  Percentage of Gamers: 6%
-  Ratio: 4.02
-  TA: '181'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Main Storyline
-  - Story Completed
-  - Multiple Playthroughs Required
+  Number of Gamers: 714
+  Percentage of Gamers: 7%
+  Ratio: 3.83
+  TA: '172'
+  Tags: []
 - Achievement Name: Crusader of Conquest
   Description: Complete the Luthien Arc as a Crusader.
   GS: '45'
   Guide: true
-  Number of Gamers: 646
+  Number of Gamers: 737
   Percentage of Gamers: 7%
-  Ratio: 3.89
-  TA: '175'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Main Storyline
-  - Story Completed
-  - Multiple Playthroughs Required
+  Ratio: 3.77
+  TA: '169'
+  Tags: []
 - Achievement Name: Melting Point
   Description: Deal 10,000 damage with energy weapons.
   GS: '15'
   Guide: false
-  Number of Gamers: 2224
+  Number of Gamers: 2460
   Percentage of Gamers: 23%
-  Ratio: 2.09
+  Ratio: 2.06
   TA: '31'
   Tags:
   - Online/Offline
   - Single Player
+  - Cooperative
   - Cumulative +
 - Achievement Name: Full Metal Jacket
   Description: Deal 10,000 damage with ballistic weapons.
   GS: '15'
   Guide: false
-  Number of Gamers: 1015
-  Percentage of Gamers: 10%
-  Ratio: 3.1
-  TA: '46'
+  Number of Gamers: 1177
+  Percentage of Gamers: 11%
+  Ratio: 2.98
+  TA: '44'
   Tags:
   - Online/Offline
   - Single Player
+  - Cooperative
   - Cumulative +
 - Achievement Name: Unrelenting Salvo
   Description: Deal 10,000 damage with missile weapons.
   GS: '15'
   Guide: true
-  Number of Gamers: 773
+  Number of Gamers: 889
+  Percentage of Gamers: 8%
+  Ratio: 3.43
+  TA: '51'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Giantsbane
+  Description: Get 50 kills while in a Light 'Mech.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 715
+  Percentage of Gamers: 7%
+  Ratio: 3.83
+  TA: '115'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Herculean
+  Description: Get 50 kills while in a Medium 'Mech.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 3090
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '55'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Greatest of All Time
+  Description: Get 50 kills while in a Heavy 'Mech.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 2071
+  Percentage of Gamers: 20%
+  Ratio: 2.25
+  TA: '67'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Apex Predator
+  Description: Get 50 kills while in a Assault 'Mech.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 1579
+  Percentage of Gamers: 15%
+  Ratio: 2.58
+  TA: '77'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: The Mauler and the Viper
+  Description: Destroy 25 Assault 'Mechs while in a Light 'Mech.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 244
+  Percentage of Gamers: 2%
+  Ratio: 6.56
+  TA: '196'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Goliath Incarnate
+  Description: Kill 25 Light 'Mechs while in an Assault 'Mech.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 352
+  Percentage of Gamers: 3%
+  Ratio: 5.46
+  TA: '163'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Optimized, Primed
+  Description: Max out a Skill.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2164
+  Percentage of Gamers: 21%
+  Ratio: 2.2
+  TA: '33'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Spearhead
+  Description: Hire 10 Support Personnel.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2818
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '28'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Avicide
+  Description: Shoot down a Aerospace Unit.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1822
+  Percentage of Gamers: 17%
+  Ratio: 2.4
+  TA: '36'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Bare Your Fangs
+  Description: Issue 100 commands in the Battle Grid.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 795
+  Percentage of Gamers: 8%
+  Ratio: 3.63
+  TA: '54'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Simply Prey
+  Description: Kill a Gazelle Boss.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1802
+  Percentage of Gamers: 17%
+  Ratio: 2.41
+  TA: '36'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Clip the Wings
+  Description: Kill a SOKOL.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3647
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '25'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Fall From Grace
+  Description: Kill a Union Boss.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 826
   Percentage of Gamers: 8%
   Ratio: 3.56
   TA: '53'
   Tags:
   - Online/Offline
   - Single Player
-  - Cumulative +
-- Achievement Name: Giantsbane
-  Description: Get 50 kills while in a Light 'Mech.
-  GS: '30'
-  Guide: false
-  Number of Gamers: 635
-  Percentage of Gamers: 6%
-  Ratio: 3.92
-  TA: '117'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Cumulative +
-- Achievement Name: Herculean
-  Description: Get 50 kills while in a Medium 'Mech.
-  GS: '30'
-  Guide: false
-  Number of Gamers: 2811
-  Percentage of Gamers: 29%
-  Ratio: 1.86
-  TA: '56'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Cumulative +
-- Achievement Name: Greatest of All Time
-  Description: Get 50 kills while in a Heavy 'Mech.
-  GS: '30'
-  Guide: false
-  Number of Gamers: 1849
-  Percentage of Gamers: 19%
-  Ratio: 2.3
-  TA: '69'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Cumulative +
-- Achievement Name: Apex Predator
-  Description: Get 50 kills while in a Assault 'Mech.
-  GS: '30'
-  Guide: false
-  Number of Gamers: 1405
-  Percentage of Gamers: 14%
-  Ratio: 2.64
-  TA: '79'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Cumulative +
-- Achievement Name: The Mauler and the Viper
-  Description: Destroy 25 Assault 'Mechs while in a Light 'Mech.
-  GS: '30'
-  Guide: true
-  Number of Gamers: 205
-  Percentage of Gamers: 2%
-  Ratio: 6.91
-  TA: '207'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Cumulative +
-- Achievement Name: Goliath Incarnate
-  Description: Kill 25 Light 'Mechs while in an Assault 'Mech.
-  GS: '30'
-  Guide: true
-  Number of Gamers: 274
-  Percentage of Gamers: 3%
-  Ratio: 5.98
-  TA: '179'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Cumulative +
-- Achievement Name: Optimized, Primed
-  Description: Max out a Skill.
-  GS: '15'
-  Guide: false
-  Number of Gamers: 1938
-  Percentage of Gamers: 20%
-  Ratio: 2.24
-  TA: '33'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Level
-- Achievement Name: Spearhead
-  Description: Hire 10 Support Personnel.
-  GS: '15'
-  Guide: true
-  Number of Gamers: 2548
-  Percentage of Gamers: 26%
-  Ratio: 1.96
-  TA: '29'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Cumulative +
-- Achievement Name: Avicide
-  Description: Shoot down a Aerospace Unit.
-  GS: '15'
-  Guide: true
-  Number of Gamers: 1630
-  Percentage of Gamers: 17%
-  Ratio: 2.45
-  TA: '36'
-  Tags:
-  - Online/Offline
-  - Single Player
-- Achievement Name: Bare Your Fangs
-  Description: Issue 100 commands in the Battle Grid.
-  GS: '15'
-  Guide: true
-  Number of Gamers: 695
-  Percentage of Gamers: 7%
-  Ratio: 3.75
-  TA: '56'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Cumulative +
-- Achievement Name: Simply Prey
-  Description: Kill a Gazelle Boss.
-  GS: '15'
-  Guide: true
-  Number of Gamers: 1608
-  Percentage of Gamers: 16%
-  Ratio: 2.46
-  TA: '37'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Main Storyline
-- Achievement Name: Clip the Wings
-  Description: Kill a SOKOL.
-  GS: '15'
-  Guide: true
-  Number of Gamers: 3340
-  Percentage of Gamers: 34%
-  Ratio: 1.71
-  TA: '25'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Main Storyline
-- Achievement Name: Fall From Grace
-  Description: Kill a Union Boss.
-  GS: '15'
-  Guide: true
-  Number of Gamers: 715
-  Percentage of Gamers: 7%
-  Ratio: 3.7
-  TA: '55'
-  Tags:
-  - Online/Offline
-  - Single Player
+  - Cooperative
   - Main Storyline
 - Achievement Name: A Mere Warrior
   Description: Reach Level 2 Honor.
   GS: '15'
   Guide: true
-  Number of Gamers: 9418
+  Number of Gamers: 10103
   Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '15'
   Tags:
   - Online/Offline
   - Single Player
-  - Main Storyline
-  - Stackable
+  - Cooperative
+  - Level
 - Achievement Name: An Adept Jaguar
   Description: Reach Level 5 Honor.
   GS: '15'
   Guide: false
-  Number of Gamers: 2637
-  Percentage of Gamers: 27%
-  Ratio: 1.92
+  Number of Gamers: 2899
+  Percentage of Gamers: 28%
+  Ratio: 1.9
   TA: '28'
   Tags:
   - Online/Offline
   - Single Player
-  - Main Storyline
-  - Stackable
+  - Cooperative
+  - Level
 - Achievement Name: The Paragon of Honor
   Description: Reach Level 10 Honor.
   GS: '30'
   Guide: false
-  Number of Gamers: 1753
-  Percentage of Gamers: 18%
-  Ratio: 2.36
-  TA: '70'
+  Number of Gamers: 1965
+  Percentage of Gamers: 19%
+  Ratio: 2.31
+  TA: '69'
   Tags:
   - Online/Offline
   - Single Player
-  - Main Storyline
-  - Stackable
+  - Cooperative
+  - Level
 - Achievement Name: The Khan of Khans
   Description: Reach Level 15 Honor.
   GS: '45'
   Guide: false
-  Number of Gamers: 1043
+  Number of Gamers: 1183
   Percentage of Gamers: 11%
-  Ratio: 3.06
-  TA: '137'
+  Ratio: 2.98
+  TA: '134'
   Tags:
   - Online/Offline
   - Single Player
-  - Main Storyline
-  - Stackable
+  - Cooperative
+  - Level
 - Achievement Name: No Small Feat
   Description: Complete Chassis Milestones for 5 Chassis.
   GS: '30'
   Guide: true
-  Number of Gamers: 208
+  Number of Gamers: 250
   Percentage of Gamers: 2%
-  Ratio: 6.86
-  TA: '205'
+  Ratio: 6.48
+  TA: '194'
   Tags:
   - Online/Offline
   - Single Player
+  - Cooperative
   - Cumulative +
 - Achievement Name: OmniPotent
   Description: Unlock an OmniPod set for a Chassis.
   GS: '15'
   Guide: true
-  Number of Gamers: 2468
-  Percentage of Gamers: 25%
-  Ratio: 1.99
-  TA: '29'
+  Number of Gamers: 2820
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '28'
   Tags:
   - Online/Offline
   - Single Player
+  - Cooperative
 - Achievement Name: Power Surge
   Description: Permanently increase a stat of a 'Mech.
   GS: '15'
   Guide: true
-  Number of Gamers: 4099
+  Number of Gamers: 4454
   Percentage of Gamers: 42%
-  Ratio: 1.54
+  Ratio: 1.53
   TA: '23'
   Tags:
   - Online/Offline
   - Single Player
+  - Cooperative
   - Level
 - Achievement Name: Debonair
   Description: Unlock 5 Camo Patterns.
   GS: '15'
   Guide: false
-  Number of Gamers: 3285
-  Percentage of Gamers: 34%
-  Ratio: 1.72
+  Number of Gamers: 3647
+  Percentage of Gamers: 35%
+  Ratio: 1.69
   TA: '25'
   Tags:
   - Online/Offline
   - Single Player
+  - Cooperative
   - Cumulative +
 - Achievement Name: Doomsday Machine
   Description: Permanently increase all stats of a 'Mech.
   GS: '45'
   Guide: true
-  Number of Gamers: 608
-  Percentage of Gamers: 6%
-  Ratio: 4.01
-  TA: '180'
+  Number of Gamers: 805
+  Percentage of Gamers: 8%
+  Ratio: 3.61
+  TA: '162'
   Tags:
   - Online/Offline
   - Single Player
+  - Cooperative
   - Level
 - Achievement Name: The Strength of 10 Jaguars
   Description: Unlock 10 'Mech Chassis.
   GS: '15'
   Guide: false
-  Number of Gamers: 1735
-  Percentage of Gamers: 18%
-  Ratio: 2.37
-  TA: '35'
+  Number of Gamers: 1978
+  Percentage of Gamers: 19%
+  Ratio: 2.3
+  TA: '34'
   Tags:
   - Online/Offline
   - Single Player
-  - Cumulative +
+  - Cooperative
+  - Shop
 - Achievement Name: Demolition Man
   Description: Destroy 50 vehicle units.
   GS: '15'
   Guide: false
-  Number of Gamers: 2026
-  Percentage of Gamers: 21%
-  Ratio: 2.19
+  Number of Gamers: 2266
+  Percentage of Gamers: 22%
+  Ratio: 2.15
   TA: '32'
   Tags:
   - Online/Offline
   - Single Player
+  - Cooperative
   - Cumulative +
 - Achievement Name: In High Standing
   Description: Spend 500 Merits.
   GS: '15'
   Guide: false
-  Number of Gamers: 3664
-  Percentage of Gamers: 37%
-  Ratio: 1.63
+  Number of Gamers: 3995
+  Percentage of Gamers: 38%
+  Ratio: 1.62
   TA: '24'
   Tags:
   - Online/Offline
   - Single Player
+  - Cooperative
   - Cumulative +
+  - Shop
 - Achievement Name: Generational Wealth
   Description: Own 20,000,000 Kerenskies.
   GS: '30'
   Guide: true
-  Number of Gamers: 1815
+  Number of Gamers: 2023
   Percentage of Gamers: 19%
-  Ratio: 2.32
-  TA: '69'
+  Ratio: 2.28
+  TA: '68'
   Tags:
   - Online/Offline
   - Single Player
+  - Cooperative
+  - Cumulative
 - Achievement Name: Maverick
   Description: Gain 80,000 Pilot XP.
   GS: '15'
   Guide: false
-  Number of Gamers: 1823
-  Percentage of Gamers: 19%
-  Ratio: 2.31
-  TA: '34'
+  Number of Gamers: 2052
+  Percentage of Gamers: 20%
+  Ratio: 2.26
+  TA: '33'
   Tags:
   - Online/Offline
   - Single Player
+  - Cooperative
   - Cumulative +
 - Achievement Name: My Defense is Impregnable
   Description: Survive a Mission with 80% or more health.
   GS: '45'
   Guide: true
-  Number of Gamers: 4607
+  Number of Gamers: 4981
   Percentage of Gamers: 47%
   Ratio: 1.45
   TA: '65'
   Tags:
   - Online/Offline
   - Single Player
+  - Cooperative
 - Achievement Name: Quick Fix
   Description: Repair a 'Mech from 20% to 100% all at once.
   GS: '15'
   Guide: true
-  Number of Gamers: 209
+  Number of Gamers: 258
   Percentage of Gamers: 2%
-  Ratio: 6.84
-  TA: '102'
+  Ratio: 6.38
+  TA: '95'
   Tags:
   - Online/Offline
   - Single Player
+  - Cooperative
   - Missable
 - Achievement Name: Iron Sharpens Iron
   Description: Perform 5 Technician Upgrades.
   GS: '15'
   Guide: false
-  Number of Gamers: 1974
-  Percentage of Gamers: 20%
-  Ratio: 2.22
-  TA: '33'
+  Number of Gamers: 2205
+  Percentage of Gamers: 21%
+  Ratio: 2.18
+  TA: '32'
   Tags:
   - Online/Offline
   - Single Player
+  - Cooperative
   - Cumulative +
+  - Shop
 - Achievement Name: No Room for Imprudence
   Description: Complete 20 advanced parameter milestones.
   GS: '15'
   Guide: true
-  Number of Gamers: 337
-  Percentage of Gamers: 3%
-  Ratio: 5.39
-  TA: '80'
+  Number of Gamers: 395
+  Percentage of Gamers: 4%
+  Ratio: 5.15
+  TA: '77'
   Tags:
   - Online/Offline
   - Single Player
+  - Cooperative
   - Cumulative +
 - Achievement Name: The Illustrious
   Description: Obtain all achievements.
   GS: '100'
   Guide: false
-  Number of Gamers: 153
+  Number of Gamers: 189
   Percentage of Gamers: 2%
-  Ratio: 8.0
-  TA: '800'
+  Ratio: 7.45
+  TA: '745'
   Tags:
   - Online/Offline
   - Single Player
-Base Ratio: 3.618
-Base TA: 3618
+  - Cooperative
+  - Level
+  - Shop
+  - Multiple Playthroughs Required
+Base Ratio: 3.453
+Base TA: 3453
 Delisted: false
 Developer: Piranha Games
 Game Name: 'MechWarrior 5: Clans'
 Genres: Mech, Vehicular Combat
-Install Size: 66810.0
-Number of Completions: 153
-Number of Gamers: 9801
+Install Size: 94370.0
+Number of Completions: 19
+Number of Gamers: 10517
 Overall Completion Time:
 - 40.0
 - 50.0
-Overall GS: 1000
-Overall Ratio: 3.618
-Overall TA: 3618
+Overall GS: 1195
+Overall Ratio: 3.697907949790795
+Overall TA: 4419
 PDU: 0
-Percentage Completed: 1.56
+Percentage Completed: 0.18
 Publisher: Piranha Games
 Release Date: 17 October 2024
 Server Closure: false
-Site Rating: 3.91
+Site Rating: 3.76
 Update Achievements: []
 Walkthrough: false

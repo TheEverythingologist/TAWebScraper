@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 0.5
-Base GS: 2000
+- 1.0
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: Red-Hot Blast
   Description: Shoot with your blaster in Red Overdrive Mode at least once
   GS: '100'
   Guide: false
-  Number of Gamers: 701
+  Number of Gamers: 827
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '100'
@@ -19,8 +19,8 @@ Base Game Achievements:
   Description: Shoot with your blaster in Green Overdrive Mode at least once
   GS: '100'
   Guide: false
-  Number of Gamers: 693
-  Percentage of Gamers: 98%
+  Number of Gamers: 819
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
   Tags:
@@ -30,7 +30,7 @@ Base Game Achievements:
   Description: Shoot with your blaster in Blue Overdrive Mode at least once
   GS: '100'
   Guide: false
-  Number of Gamers: 683
+  Number of Gamers: 806
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '101'
@@ -41,7 +41,7 @@ Base Game Achievements:
   Description: Defeat a Bat enemy
   GS: '100'
   Guide: false
-  Number of Gamers: 702
+  Number of Gamers: 828
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '100'
@@ -52,7 +52,7 @@ Base Game Achievements:
   Description: Defeat a Slime enemy
   GS: '100'
   Guide: false
-  Number of Gamers: 698
+  Number of Gamers: 824
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -63,8 +63,8 @@ Base Game Achievements:
   Description: Defeat a Spider enemy
   GS: '100'
   Guide: false
-  Number of Gamers: 688
-  Percentage of Gamers: 98%
+  Number of Gamers: 809
+  Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '101'
   Tags:
@@ -74,7 +74,7 @@ Base Game Achievements:
   Description: Get a combination of 3 red spheres
   GS: '100'
   Guide: false
-  Number of Gamers: 701
+  Number of Gamers: 828
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '100'
@@ -85,7 +85,7 @@ Base Game Achievements:
   Description: Get a combination of 3 green spheres
   GS: '100'
   Guide: false
-  Number of Gamers: 694
+  Number of Gamers: 820
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -96,7 +96,7 @@ Base Game Achievements:
   Description: Get a combination of 3 blue spheres
   GS: '100'
   Guide: false
-  Number of Gamers: 685
+  Number of Gamers: 807
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '101'
@@ -107,7 +107,7 @@ Base Game Achievements:
   Description: Get a broken combo by getting at least one sphere of a different color
   GS: '25'
   Guide: false
-  Number of Gamers: 696
+  Number of Gamers: 822
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '25'
@@ -118,8 +118,8 @@ Base Game Achievements:
   Description: Get a broken combo of red, green and blue spheres
   GS: '25'
   Guide: false
-  Number of Gamers: 680
-  Percentage of Gamers: 97%
+  Number of Gamers: 801
+  Percentage of Gamers: 96%
   Ratio: 1.01
   TA: '25'
   Tags:
@@ -129,7 +129,7 @@ Base Game Achievements:
   Description: Complete the game by getting all colors to Level 10
   GS: '50'
   Guide: false
-  Number of Gamers: 637
+  Number of Gamers: 745
   Percentage of Gamers: 90%
   Ratio: 1.05
   TA: '52'
@@ -141,7 +141,7 @@ Base Game Achievements:
   Description: Kill same kind of enemy twice in a row
   GS: '200'
   Guide: false
-  Number of Gamers: 702
+  Number of Gamers: 828
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '200'
@@ -152,7 +152,7 @@ Base Game Achievements:
   Description: Upgrade the same color twice
   GS: '200'
   Guide: false
-  Number of Gamers: 702
+  Number of Gamers: 828
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '200'
@@ -163,7 +163,7 @@ Base Game Achievements:
   Description: Recieve damage from enemies
   GS: '200'
   Guide: false
-  Number of Gamers: 702
+  Number of Gamers: 828
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '200'
@@ -174,7 +174,7 @@ Base Game Achievements:
   Description: Touch the upper border of the level
   GS: '200'
   Guide: false
-  Number of Gamers: 684
+  Number of Gamers: 807
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '202'
@@ -185,33 +185,91 @@ Base Game Achievements:
   Description: Collect a blinking shpere that's about to disappear
   GS: '200'
   Guide: false
-  Number of Gamers: 682
-  Percentage of Gamers: 97%
+  Number of Gamers: 811
+  Percentage of Gamers: 98%
   Ratio: 1.01
-  TA: '203'
+  TA: '202'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 1.005
-Base TA: 2010
+Base Ratio: 1.0976666666666666
+Base TA: 3293
 Delisted: false
 Developer: Xeneder Team
 Game Name: Overdrive Blaster (Windows)
 Genres: Shoot 'em up
 Install Size: 33.0
-Number of Completions: 634
-Number of Gamers: 704
+Number of Completions: 474
+Number of Gamers: 831
 Overall Completion Time:
 - 0.0
-- 0.5
-Overall GS: 2000
-Overall Ratio: 1.005
-Overall TA: 2010
+- 1.0
+Overall GS: 3000
+Overall Ratio: 1.0976666666666666
+Overall TA: 3293
 PDU: 0
-Percentage Completed: 90.06
+Percentage Completed: 57.04
 Publisher: Xeneder Team
 Release Date: 05 July 2024
 Server Closure: false
-Site Rating: 1.98
-Update Achievements: []
+Site Rating: 1.97
+Update Achievements:
+- Achievement Name: Triple Striker
+  Description: Kill same kind of enemy three times in a row
+  GS: '200'
+  Guide: false
+  Number of Gamers: 513
+  Percentage of Gamers: 62%
+  Ratio: 1.28
+  TA: '256'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Trio Upgrade
+  Description: Upgrade the same color three times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 513
+  Percentage of Gamers: 62%
+  Ratio: 1.28
+  TA: '256'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Still Alive!
+  Description: Receive damage from enemies twice
+  GS: '200'
+  Guide: false
+  Number of Gamers: 513
+  Percentage of Gamers: 62%
+  Ratio: 1.28
+  TA: '256'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: You're Right!
+  Description: Touch the right border of the level
+  GS: '200'
+  Guide: false
+  Number of Gamers: 508
+  Percentage of Gamers: 61%
+  Ratio: 1.28
+  TA: '257'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Made It!
+  Description: Collect two blinking shperes that are about to disappear
+  GS: '200'
+  Guide: false
+  Number of Gamers: 500
+  Percentage of Gamers: 60%
+  Ratio: 1.29
+  TA: '259'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 Walkthrough: false

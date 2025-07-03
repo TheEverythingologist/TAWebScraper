@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 0.5
-Base GS: 1000
+- 1.0
+Base GS: 2000
 Base Game Achievements:
 - Achievement Name: 1 Star Forklift
   Description: Get 20.000 points in Stage 1!
   GS: '100'
   Guide: true
-  Number of Gamers: 137
+  Number of Gamers: 350
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '101'
@@ -19,10 +19,10 @@ Base Game Achievements:
   Description: Get 50.000 points in Stage 2
   GS: '100'
   Guide: true
-  Number of Gamers: 132
-  Percentage of Gamers: 94%
-  Ratio: 1.03
-  TA: '103'
+  Number of Gamers: 343
+  Percentage of Gamers: 96%
+  Ratio: 1.02
+  TA: '102'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -30,7 +30,7 @@ Base Game Achievements:
   Description: Get 30.000 points in Stage 3
   GS: '100'
   Guide: true
-  Number of Gamers: 132
+  Number of Gamers: 337
   Percentage of Gamers: 94%
   Ratio: 1.03
   TA: '103'
@@ -41,10 +41,10 @@ Base Game Achievements:
   Description: Get 30.000 points in Stage 4
   GS: '100'
   Guide: true
-  Number of Gamers: 131
-  Percentage of Gamers: 93%
-  Ratio: 1.03
-  TA: '103'
+  Number of Gamers: 331
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '104'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -52,10 +52,10 @@ Base Game Achievements:
   Description: Get 70.000 points in any stage
   GS: '100'
   Guide: true
-  Number of Gamers: 128
-  Percentage of Gamers: 91%
-  Ratio: 1.04
-  TA: '104'
+  Number of Gamers: 334
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '103'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -63,10 +63,10 @@ Base Game Achievements:
   Description: Defeat 50 Spikey Enemies
   GS: '100'
   Guide: true
-  Number of Gamers: 138
-  Percentage of Gamers: 98%
-  Ratio: 1.01
-  TA: '101'
+  Number of Gamers: 354
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '100'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -74,7 +74,7 @@ Base Game Achievements:
   Description: Get 7.000 points in Boss Rush Mode
   GS: '100'
   Guide: true
-  Number of Gamers: 133
+  Number of Gamers: 339
   Percentage of Gamers: 94%
   Ratio: 1.02
   TA: '102'
@@ -85,10 +85,10 @@ Base Game Achievements:
   Description: Get 15.000 points in Random Boxes Mode
   GS: '100'
   Guide: true
-  Number of Gamers: 131
-  Percentage of Gamers: 93%
-  Ratio: 1.03
-  TA: '103'
+  Number of Gamers: 343
+  Percentage of Gamers: 96%
+  Ratio: 1.02
+  TA: '102'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -96,8 +96,8 @@ Base Game Achievements:
   Description: Visit every level in the game
   GS: '100'
   Guide: true
-  Number of Gamers: 134
-  Percentage of Gamers: 95%
+  Number of Gamers: 343
+  Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '102'
   Tags:
@@ -108,34 +108,94 @@ Base Game Achievements:
   Description: Die 8 times
   GS: '100'
   Guide: true
-  Number of Gamers: 139
-  Percentage of Gamers: 99%
+  Number of Gamers: 353
+  Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '100'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 1.022
-Base TA: 1022
+Base Ratio: 1.02
+Base TA: 2040
 Delisted: false
-Developer: Marcos Game Dev
+Developer: Sweet Bread Games
 Game Name: Super Forklift 3000 (Windows)
-Genres: Action
-Install Size: 303.0
-Number of Completions: 127
-Number of Gamers: 141
+Genres: Shoot 'em up
+Install Size: 307.0
+Number of Completions: 312
+Number of Gamers: 359
 Overall Completion Time:
 - 0.0
-- 0.5
-Overall GS: 1000
-Overall Ratio: 1.022
-Overall TA: 1022
+- 1.0
+Overall GS: 2000
+Overall Ratio: 1.02
+Overall TA: 2040
 PDU: 0
-Percentage Completed: 90.07
-Publisher: Marcos Game Dev
+Percentage Completed: 86.91
+Publisher: Sweet Bread Games
 Release Date: 12 February 2025
 Server Closure: false
-Site Rating: 1.69
-Update Achievements: []
+Site Rating: 2.17
+Update Achievements:
+- Achievement Name: Boss Killer
+  Description: Defeat the boss from Stage 1, on any game mode
+  GS: '200'
+  Guide: false
+  Number of Gamers: 340
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '205'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Mechanical Mess
+  Description: Die 16 times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 334
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '207'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Box Shooter
+  Description: Shoot boxes 20 times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 350
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '202'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Roadblock Wrecker
+  Description: Defeat 100 Spikey enemies
+  GS: '200'
+  Guide: false
+  Number of Gamers: 342
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '204'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Box Submachine Gun
+  Description: Shoot boxes 40 times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 346
+  Percentage of Gamers: 96%
+  Ratio: 1.01
+  TA: '203'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 Walkthrough: false

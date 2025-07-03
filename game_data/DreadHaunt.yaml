@@ -1,7 +1,7 @@
 Add On Achievements: []
 Base Completion Time:
-- 9
-- 10
+- 11
+- 12
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Imperfect Ten
@@ -9,108 +9,147 @@ Base Game Achievements:
   GS: '100'
   Guide: false
   Number of Gamers: 13
-  Percentage of Gamers: 41%
-  Ratio: 1.56
-  TA: '156'
-  Tags: []
+  Percentage of Gamers: 32%
+  Ratio: 1.75
+  TA: '175'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
 - Achievement Name: Fatality
   Description: Kill an agent using Finisher Move
   GS: '100'
-  Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 34%
-  Ratio: 1.7
-  TA: '170'
-  Tags: []
+  Guide: true
+  Number of Gamers: 12
+  Percentage of Gamers: 30%
+  Ratio: 1.82
+  TA: '182'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
 - Achievement Name: Disposable Hero
   Description: Dispose 6 cursed items
   GS: '100'
-  Guide: false
+  Guide: true
   Number of Gamers: 14
-  Percentage of Gamers: 44%
-  Ratio: 1.51
-  TA: '151'
-  Tags: []
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '169'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
 - Achievement Name: This Is Not My Final Form
   Description: Transform to the Spectromorph
   GS: '100'
-  Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 44%
-  Ratio: 1.51
-  TA: '151'
-  Tags: []
+  Guide: true
+  Number of Gamers: 15
+  Percentage of Gamers: 38%
+  Ratio: 1.63
+  TA: '163'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
 - Achievement Name: Fresh Graduate
   Description: Finish the tutorial
   GS: '100'
   Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 94%
+  Number of Gamers: 37
+  Percentage of Gamers: 92%
   Ratio: 1.03
   TA: '103'
-  Tags: []
+  Tags:
+  - Online Mode
+  - Single Player
 - Achievement Name: Community Service
   Description: Use the Health Spray 66 times
   GS: '100'
   Guide: false
   Number of Gamers: 14
-  Percentage of Gamers: 44%
-  Ratio: 1.51
-  TA: '151'
-  Tags: []
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '169'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
 - Achievement Name: The Night Is Still Young
   Description: Finish Co-op Solo Mode 3 times
   GS: '100'
   Guide: true
   Number of Gamers: 10
-  Percentage of Gamers: 31%
-  Ratio: 1.78
-  TA: '178'
-  Tags: []
+  Percentage of Gamers: 25%
+  Ratio: 2.0
+  TA: '200'
+  Tags:
+  - Online Mode
+  - Cooperative
+  - Cumulative +
 - Achievement Name: Finish The Job
   Description: Utilize the Killing Item 5 times
   GS: '100'
   Guide: true
   Number of Gamers: 12
-  Percentage of Gamers: 38%
-  Ratio: 1.63
-  TA: '163'
-  Tags: []
+  Percentage of Gamers: 30%
+  Ratio: 1.82
+  TA: '182'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
 - Achievement Name: Backstabber
   Description: Win Deception Mode 5 times
   GS: '100'
-  Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 38%
-  Ratio: 1.63
-  TA: '163'
-  Tags: []
+  Guide: true
+  Number of Gamers: 13
+  Percentage of Gamers: 32%
+  Ratio: 1.75
+  TA: '175'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+  - 4 Players Required
 - Achievement Name: Singled Out
   Description: Finish the Single Player Campaign
   GS: '100'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 44%
-  Ratio: 1.51
-  TA: '151'
-  Tags: []
-Base Ratio: 1.537
-Base TA: 1537
+  Number of Gamers: 17
+  Percentage of Gamers: 42%
+  Ratio: 1.53
+  TA: '153'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
+Base Ratio: 1.671
+Base TA: 1671
 Delisted: false
 Developer: Digital Happiness
 Game Name: DreadHaunt
 Genres: Survival Horror
 Install Size: 8600.0
-Number of Completions: 8
-Number of Gamers: 32
+Number of Completions: 9
+Number of Gamers: 40
 Overall Completion Time:
-- 9
-- 10
+- 11
+- 12
 Overall GS: 1000
-Overall Ratio: 1.537
-Overall TA: 1537
+Overall Ratio: 1.671
+Overall TA: 1671
 PDU: 0
-Percentage Completed: 25.0
+Percentage Completed: 22.5
 Publisher: Digital Happiness
 Release Date: 17 October 2024
 Server Closure: false

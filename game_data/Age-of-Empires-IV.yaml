@@ -3,233 +3,257 @@ Add On Achievements:
   Description: Win a match as the Byzantines.
   GS: '10'
   Guide: true
-  Number of Gamers: 20884
-  Percentage of Gamers: 98%
-  Ratio: 1.55
+  Number of Gamers: 21406
+  Percentage of Gamers: 97%
+  Ratio: 1.56
   TA: '15'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: Protecting Constantinople
   Description: Win 20 matches as the Byzantines.
   GS: '20'
   Guide: true
-  Number of Gamers: 460
+  Number of Gamers: 544
   Percentage of Gamers: 2%
-  Ratio: 10.5
-  TA: '210'
+  Ratio: 9.78
+  TA: '195'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
+  - Cumulative +
 - Achievement Name: Unsinkable
   Description: Construct a Transport Ship with a Varangian Guard and garrison it fully
     as the Byzantines.
   GS: '10'
   Guide: true
-  Number of Gamers: 424
+  Number of Gamers: 474
   Percentage of Gamers: 2%
-  Ratio: 10.94
-  TA: '109'
+  Ratio: 10.48
+  TA: '104'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: Getting Some Help
   Description: Recruit 60 mercenaries from a Mercenary House in a single match as
     the Byzantines.
   GS: '10'
   Guide: true
-  Number of Gamers: 1104
-  Percentage of Gamers: 5%
-  Ratio: 6.77
-  TA: '67'
+  Number of Gamers: 1231
+  Percentage of Gamers: 6%
+  Ratio: 6.5
+  TA: '65'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: Bulwark
   Description: Defeat 200 enemies with Limitanei while Shield Wall is active as the
     Byzantines.
   GS: '10'
   Guide: false
-  Number of Gamers: 478
+  Number of Gamers: 530
   Percentage of Gamers: 2%
-  Ratio: 10.32
-  TA: '103'
+  Ratio: 9.91
+  TA: '99'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
+  - Cumulative +
 - Achievement Name: Let There Be Fire
   Description: Destroy 50 buildings with Cheirosiphons as the Byzantines.
   GS: '20'
   Guide: false
-  Number of Gamers: 696
-  Percentage of Gamers: 3%
-  Ratio: 8.55
-  TA: '171'
+  Number of Gamers: 781
+  Percentage of Gamers: 4%
+  Ratio: 8.16
+  TA: '163'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
+  - Cumulative +
 - Achievement Name: Overflow
   Description: Build 10 Cisterns in a single match as the Byzantines.
   GS: '10'
   Guide: true
-  Number of Gamers: 715
-  Percentage of Gamers: 3%
-  Ratio: 8.43
-  TA: '84'
+  Number of Gamers: 797
+  Percentage of Gamers: 4%
+  Ratio: 8.08
+  TA: '80'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: Let It Flow
   Description: Accrue 2,000 Olive Oil in a single match as the Byzantines.
   GS: '10'
   Guide: true
-  Number of Gamers: 2147
-  Percentage of Gamers: 10%
-  Ratio: 4.86
-  TA: '48'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Cooperative
-- Achievement Name: A First for the Emperor
-  Description: Win a match as the Japanese.
-  GS: '10'
-  Guide: true
-  Number of Gamers: 2575
-  Percentage of Gamers: 12%
-  Ratio: 4.45
-  TA: '44'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Cooperative
-- Achievement Name: Established Lands
-  Description: Win 20 matches as the Japanese.
-  GS: '20'
-  Guide: true
-  Number of Gamers: 566
-  Percentage of Gamers: 3%
-  Ratio: 9.47
-  TA: '189'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Cooperative
-- Achievement Name: Protecting Us
-  Description: Heal 20 units using Shinto Priest units in a single match as the Japanese.
-  GS: '5'
-  Guide: true
-  Number of Gamers: 1658
-  Percentage of Gamers: 8%
-  Ratio: 5.55
-  TA: '27'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Cooperative
-- Achievement Name: Daimyo Mastery
-  Description: Spend Stone to research all Town Center upgrades as the Japanese.
-  GS: '10'
-  Guide: true
-  Number of Gamers: 2393
+  Number of Gamers: 2408
   Percentage of Gamers: 11%
-  Ratio: 4.6
+  Ratio: 4.65
   TA: '46'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
+- Achievement Name: A First for the Emperor
+  Description: Win a match as the Japanese.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2904
+  Percentage of Gamers: 13%
+  Ratio: 4.23
+  TA: '42'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Established Lands
+  Description: Win 20 matches as the Japanese.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 662
+  Percentage of Gamers: 3%
+  Ratio: 8.87
+  TA: '177'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Protecting Us
+  Description: Heal 20 units using Shinto Priest units in a single match as the Japanese.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1871
+  Percentage of Gamers: 8%
+  Ratio: 5.27
+  TA: '26'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Daimyo Mastery
+  Description: Spend Stone to research all Town Center upgrades as the Japanese.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2687
+  Percentage of Gamers: 12%
+  Ratio: 4.4
+  TA: '44'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
 - Achievement Name: Exchange Rates
   Description: Convert Stone to Gold at a Forge 250 times in a single match as the
     Japanese.
   GS: '5'
   Guide: true
-  Number of Gamers: 2243
-  Percentage of Gamers: 10%
-  Ratio: 4.76
-  TA: '23'
+  Number of Gamers: 2522
+  Percentage of Gamers: 11%
+  Ratio: 4.54
+  TA: '22'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: Shinobi Mastermind
   Description: Disable 50 buildings with Shinobi units as the Japanese.
   GS: '10'
   Guide: false
-  Number of Gamers: 357
+  Number of Gamers: 407
   Percentage of Gamers: 2%
-  Ratio: 11.93
-  TA: '119'
+  Ratio: 11.31
+  TA: '113'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
+  - Cumulative +
 - Achievement Name: Gunpowder Mastery
   Description: Defeat 50 siege units using Ozutsu units as the Japanese.
   GS: '10'
   Guide: true
-  Number of Gamers: 267
+  Number of Gamers: 307
   Percentage of Gamers: 1%
-  Ratio: 13.84
-  TA: '138'
+  Ratio: 13.03
+  TA: '130'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
+  - Cumulative +
 - Achievement Name: Successful Gatherer
   Description: Enhance 10 resource dropoff buildings by depositing a Sacred Object
     as the Japanese.
   GS: '10'
   Guide: true
-  Number of Gamers: 1478
-  Percentage of Gamers: 7%
-  Ratio: 5.88
-  TA: '58'
+  Number of Gamers: 1657
+  Percentage of Gamers: 8%
+  Ratio: 5.6
+  TA: '56'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
+  - Cumulative +
 - Achievement Name: The Sultans
   Description: Complete The Sultans Ascend campaign.
   GS: '50'
   Guide: true
-  Number of Gamers: 970
+  Number of Gamers: 1088
   Percentage of Gamers: 5%
-  Ratio: 7.24
-  TA: '362'
+  Ratio: 6.92
+  TA: '346'
   Tags:
-  - Online/Offline
+  - Offline Mode
   - Single Player
-  - Cooperative
   - Buggy +
 - Achievement Name: Master Naval Trader
   Description: Have 20 Trade Ships trading simultaneously during the Raiders of the
     Red Sea.
   GS: '10'
   Guide: true
-  Number of Gamers: 547
+  Number of Gamers: 601
   Percentage of Gamers: 3%
-  Ratio: 9.6
-  TA: '96'
+  Ratio: 9.31
+  TA: '93'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
+  - Cumulative
 - Achievement Name: In the Lead by a Quarter Nile
   Description: Capture all Control Points during Into Egypt.
   GS: '10'
   Guide: true
-  Number of Gamers: 652
+  Number of Gamers: 739
   Percentage of Gamers: 3%
-  Ratio: 8.81
-  TA: '88'
+  Ratio: 8.39
+  TA: '83'
   Tags:
   - Online/Offline
   - Single Player
@@ -239,22 +263,220 @@ Add On Achievements:
     the Battle of Mansurah.
   GS: '10'
   Guide: true
-  Number of Gamers: 316
-  Percentage of Gamers: 1%
-  Ratio: 12.64
-  TA: '126'
+  Number of Gamers: 352
+  Percentage of Gamers: 2%
+  Ratio: 12.16
+  TA: '121'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Time/Date
 - Achievement Name: Rescue
   Description: Rescue all the prisoners during the Invasion of Cyprus.
   GS: '10'
   Guide: true
-  Number of Gamers: 918
+  Number of Gamers: 1050
+  Percentage of Gamers: 5%
+  Ratio: 7.04
+  TA: '70'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Victory Through Cross and Sword
+  Description: Win a Multiplayer or Skirmish match with Knights Templar.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 754
+  Percentage of Gamers: 73%
+  Ratio: 3.86
+  TA: '38'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Journey to the Sacred Land
+  Description: As the Knights Templar, have 50 Pilgrims reach a sacred site.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 766
+  Percentage of Gamers: 75%
+  Ratio: 3.83
+  TA: '38'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Castle Crasher
+  Description: Destroy an enemy building with the Trebuchet Emplacement.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 541
+  Percentage of Gamers: 53%
+  Ratio: 4.55
+  TA: '91'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: '''Tis But a Scratch'
+  Description: Heal allied units by 500 health with the Hospitaller Knight.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 547
+  Percentage of Gamers: 53%
+  Ratio: 4.53
+  TA: '45'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Feeding the Rich
+  Description: Generate 2000 Gold with the Pilgrim Loan at the market.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 391
+  Percentage of Gamers: 38%
+  Ratio: 5.36
+  TA: '53'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: The Red Rose Flourishes
+  Description: Win a Multiplayer or Skirmish match with the House of Lancaster.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 690
+  Percentage of Gamers: 67%
+  Ratio: 4.03
+  TA: '40'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Blot out the Sun
+  Description: As the House of Lancaster, hit 500 times using the Yeoman's Synchronized
+    Shot.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 523
+  Percentage of Gamers: 51%
+  Ratio: 4.63
+  TA: '46'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: My House is Richer Than Yours
+  Description: Generate 4000 Gold with Manors in one match.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 559
+  Percentage of Gamers: 54%
+  Ratio: 4.48
+  TA: '44'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Lead the Charge
+  Description: Empower at least 30 units with all 4 Lords of Lancaster at once.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 405
+  Percentage of Gamers: 39%
+  Ratio: 5.26
+  TA: '52'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Knife to Meet You
+  Description: Kill 50 units with Earl's Guards after researching Throwing Dagger
+    Drills.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 380
+  Percentage of Gamers: 37%
+  Ratio: 5.44
+  TA: '54'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Against All Odds
+  Description: Defeat the French army at Agincourt.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 289
+  Percentage of Gamers: 28%
+  Ratio: 6.23
+  TA: '62'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Get Off My Lawn
+  Description: Destroy the army besieging Safed.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 155
+  Percentage of Gamers: 15%
+  Ratio: 8.51
+  TA: '85'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Jerusalem Has Come
+  Description: Capture all Sacred Sites and drive the Ayyubids out of Montgisard.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 166
+  Percentage of Gamers: 16%
+  Ratio: 8.23
+  TA: '82'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: A Rose for the Fallen
+  Description: Survive the Aftermath of Towton.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 184
+  Percentage of Gamers: 18%
+  Ratio: 7.81
+  TA: '78'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Conqueror of History
+  Description: Complete all Historical Battles in Conqueror Mode.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 38
   Percentage of Gamers: 4%
-  Ratio: 7.44
-  TA: '74'
+  Ratio: 17.2
+  TA: '860'
   Tags:
   - Online/Offline
   - Single Player
@@ -268,7 +490,7 @@ Base Game Achievements:
   Description: Construct your first Landmark.
   GS: '5'
   Guide: true
-  Number of Gamers: 104197
+  Number of Gamers: 107641
   Percentage of Gamers: 87%
   Ratio: 1.06
   TA: '5'
@@ -276,11 +498,12 @@ Base Game Achievements:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: Kingdoms Will Fall
   Description: Defeat 20 enemy units.
   GS: '5'
   Guide: true
-  Number of Gamers: 112932
+  Number of Gamers: 116748
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '5'
@@ -288,12 +511,13 @@ Base Game Achievements:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
   - Cumulative +
 - Achievement Name: A New Age Is Upon Us
   Description: Complete the Introductory Tutorial.
   GS: '5'
   Guide: true
-  Number of Gamers: 69711
+  Number of Gamers: 71909
   Percentage of Gamers: 58%
   Ratio: 1.3
   TA: '6'
@@ -304,75 +528,70 @@ Base Game Achievements:
   Description: Complete The Normans campaign.
   GS: '10'
   Guide: true
-  Number of Gamers: 36753
+  Number of Gamers: 37635
   Percentage of Gamers: 31%
-  Ratio: 1.79
-  TA: '17'
+  Ratio: 1.8
+  TA: '18'
   Tags:
-  - Online/Offline
+  - Offline Mode
   - Single Player
-  - Cooperative
   - Main Storyline
   - Buggy +
 - Achievement Name: The Hundred Years War
   Description: Complete The Hundred Years War campaign.
   GS: '10'
   Guide: true
-  Number of Gamers: 6777
+  Number of Gamers: 7099
   Percentage of Gamers: 6%
-  Ratio: 4.19
+  Ratio: 4.16
   TA: '41'
   Tags:
-  - Online/Offline
+  - Offline Mode
   - Single Player
-  - Cooperative
   - Main Storyline
 - Achievement Name: The Mongol Empire
   Description: Complete The Mongol Empire campaign.
   GS: '10'
   Guide: true
-  Number of Gamers: 5331
-  Percentage of Gamers: 4%
-  Ratio: 4.72
-  TA: '47'
+  Number of Gamers: 5603
+  Percentage of Gamers: 5%
+  Ratio: 4.68
+  TA: '46'
   Tags:
-  - Online/Offline
+  - Offline Mode
   - Single Player
-  - Cooperative
   - Main Storyline
   - Buggy
 - Achievement Name: The Rise of Moscow
   Description: Complete The Rise of Moscow campaign.
   GS: '10'
   Guide: true
-  Number of Gamers: 7160
+  Number of Gamers: 7500
   Percentage of Gamers: 6%
-  Ratio: 4.08
+  Ratio: 4.05
   TA: '40'
   Tags:
-  - Online/Offline
+  - Offline Mode
   - Single Player
-  - Cooperative
   - Main Storyline
 - Achievement Name: Age of Empires IV Campaign
   Description: Complete the Age of Empires IV campaigns.
   GS: '50'
   Guide: true
-  Number of Gamers: 4134
-  Percentage of Gamers: 3%
-  Ratio: 5.36
-  TA: '268'
+  Number of Gamers: 4346
+  Percentage of Gamers: 4%
+  Ratio: 5.32
+  TA: '266'
   Tags:
-  - Online/Offline
+  - Offline Mode
   - Single Player
-  - Cooperative
   - Main Storyline
   - Story Completed
 - Achievement Name: Counter-Raider
   Description: Loot the Danish war camp during the North to York mission.
   GS: '10'
   Guide: true
-  Number of Gamers: 28565
+  Number of Gamers: 29488
   Percentage of Gamers: 24%
   Ratio: 2.04
   TA: '20'
@@ -383,7 +602,7 @@ Base Game Achievements:
   Description: Enlist the aid of 45 Knights during the Battle of Tinchebray.
   GS: '10'
   Guide: true
-  Number of Gamers: 3950
+  Number of Gamers: 4084
   Percentage of Gamers: 3%
   Ratio: 5.49
   TA: '54'
@@ -396,9 +615,9 @@ Base Game Achievements:
     of Lincoln.
   GS: '10'
   Guide: true
-  Number of Gamers: 18913
+  Number of Gamers: 19594
   Percentage of Gamers: 16%
-  Ratio: 2.51
+  Ratio: 2.5
   TA: '25'
   Tags:
   - Online/Offline
@@ -408,9 +627,9 @@ Base Game Achievements:
   Description: Stop any of the city's walls being destroyed during the Siege of Wallingford.
   GS: '10'
   Guide: true
-  Number of Gamers: 10655
+  Number of Gamers: 11156
   Percentage of Gamers: 9%
-  Ratio: 3.34
+  Ratio: 3.32
   TA: '33'
   Tags:
   - Online/Offline
@@ -420,9 +639,9 @@ Base Game Achievements:
   Description: Collect every treasure chest during the Battle of Patay.
   GS: '10'
   Guide: true
-  Number of Gamers: 3248
+  Number of Gamers: 3396
   Percentage of Gamers: 3%
-  Ratio: 6.06
+  Ratio: 6.02
   TA: '60'
   Tags:
   - Online/Offline
@@ -433,9 +652,9 @@ Base Game Achievements:
     Normandy.
   GS: '10'
   Guide: true
-  Number of Gamers: 4853
+  Number of Gamers: 5101
   Percentage of Gamers: 4%
-  Ratio: 4.95
+  Ratio: 4.91
   TA: '49'
   Tags:
   - Online/Offline
@@ -445,10 +664,10 @@ Base Game Achievements:
   Description: Win the Battle of Formigny without losing any cannons.
   GS: '10'
   Guide: true
-  Number of Gamers: 5164
+  Number of Gamers: 5484
   Percentage of Gamers: 4%
-  Ratio: 4.8
-  TA: '48'
+  Ratio: 4.73
+  TA: '47'
   Tags:
   - Online/Offline
   - Single Player
@@ -457,10 +676,10 @@ Base Game Achievements:
   Description: "Don't lose any Mangudai\_during the Battle of the Kalka River."
   GS: '10'
   Guide: true
-  Number of Gamers: 2279
+  Number of Gamers: 2384
   Percentage of Gamers: 2%
-  Ratio: 7.23
-  TA: '72'
+  Ratio: 7.18
+  TA: '71'
   Tags:
   - Online/Offline
   - Single Player
@@ -470,10 +689,10 @@ Base Game Achievements:
     \ mission."
   GS: '10'
   Guide: true
-  Number of Gamers: 2173
+  Number of Gamers: 2296
   Percentage of Gamers: 2%
-  Ratio: 7.41
-  TA: '74'
+  Ratio: 7.32
+  TA: '73'
   Tags:
   - Online/Offline
   - Single Player
@@ -483,9 +702,9 @@ Base Game Achievements:
     of Mohi.
   GS: '10'
   Guide: true
-  Number of Gamers: 2381
+  Number of Gamers: 2489
   Percentage of Gamers: 2%
-  Ratio: 7.07
+  Ratio: 7.03
   TA: '70'
   Tags:
   - Online/Offline
@@ -495,10 +714,10 @@ Base Game Achievements:
   Description: Don't lose any Huihui Pao during the Fall of Xiangyang.
   GS: '10'
   Guide: true
-  Number of Gamers: 16355
+  Number of Gamers: 16674
   Percentage of Gamers: 14%
-  Ratio: 2.69
-  TA: '26'
+  Ratio: 2.71
+  TA: '27'
   Tags:
   - Online/Offline
   - Single Player
@@ -508,22 +727,23 @@ Base Game Achievements:
   Description: Pay off the Mongols within 3 minutes during the Tribute mission.
   GS: '10'
   Guide: true
-  Number of Gamers: 5405
+  Number of Gamers: 5656
   Percentage of Gamers: 5%
-  Ratio: 4.69
+  Ratio: 4.66
   TA: '46'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Time/Date
 - Achievement Name: Get Off My Bailey!
   Description: Stop the Mongols from entering the outer city during Hold Against the
     Horde.
   GS: '10'
   Guide: true
-  Number of Gamers: 2857
+  Number of Gamers: 2992
   Percentage of Gamers: 2%
-  Ratio: 6.46
+  Ratio: 6.41
   TA: '64'
   Tags:
   - Online/Offline
@@ -534,9 +754,9 @@ Base Game Achievements:
     Ugra River.
   GS: '10'
   Guide: true
-  Number of Gamers: 2260
+  Number of Gamers: 2374
   Percentage of Gamers: 2%
-  Ratio: 7.26
+  Ratio: 7.2
   TA: '72'
   Tags:
   - Online/Offline
@@ -547,10 +767,10 @@ Base Game Achievements:
     Kazan.
   GS: '10'
   Guide: true
-  Number of Gamers: 1172
+  Number of Gamers: 1234
   Percentage of Gamers: 1%
-  Ratio: 10.08
-  TA: '100'
+  Ratio: 9.98
+  TA: '99'
   Tags:
   - Online/Offline
   - Single Player
@@ -559,214 +779,221 @@ Base Game Achievements:
   Description: Complete the Training Mastery.
   GS: '5'
   Guide: false
-  Number of Gamers: 27666
+  Number of Gamers: 28592
   Percentage of Gamers: 23%
   Ratio: 2.07
   TA: '10'
   Tags:
-  - Online/Offline
+  - Offline Game Mode
   - Single Player
-  - Cooperative
 - Achievement Name: Quick Study
   Description: Complete your first Civilization Mastery task.
   GS: '5'
   Guide: false
-  Number of Gamers: 43250
-  Percentage of Gamers: 36%
-  Ratio: 1.66
+  Number of Gamers: 45288
+  Percentage of Gamers: 37%
+  Ratio: 1.64
   TA: '8'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: Master of the French
   Description: "Complete the\_French Mastery."
   GS: '10'
   Guide: true
-  Number of Gamers: 1202
+  Number of Gamers: 1267
   Percentage of Gamers: 1%
-  Ratio: 9.95
-  TA: '99'
+  Ratio: 9.85
+  TA: '98'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: Master of the Holy Roman Empire
   Description: "Complete the\_Holy Roman Empire Mastery."
   GS: '10'
   Guide: true
-  Number of Gamers: 961
+  Number of Gamers: 1032
   Percentage of Gamers: 1%
-  Ratio: 11.13
-  TA: '111'
+  Ratio: 10.92
+  TA: '109'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: Master of the Delhi Sultanate
   Description: "Complete the\_Delhi Sultanate Mastery."
   GS: '10'
   Guide: true
-  Number of Gamers: 724
+  Number of Gamers: 773
   Percentage of Gamers: 1%
-  Ratio: 12.82
-  TA: '128'
+  Ratio: 12.62
+  TA: '126'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
   - Buggy
 - Achievement Name: Master of the Chinese
   Description: "Complete the\_Chinese Mastery."
   GS: '10'
   Guide: true
-  Number of Gamers: 841
+  Number of Gamers: 893
   Percentage of Gamers: 1%
-  Ratio: 11.9
-  TA: '119'
+  Ratio: 11.74
+  TA: '117'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: Master of the Abbasid Dynasty
   Description: "Complete the\_Abbasid Dynasty Mastery."
   GS: '10'
   Guide: true
-  Number of Gamers: 677
+  Number of Gamers: 722
   Percentage of Gamers: 1%
-  Ratio: 13.27
-  TA: '132'
+  Ratio: 13.05
+  TA: '130'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: Recorded History
   Description: View a replay.
   GS: '5'
   Guide: true
-  Number of Gamers: 5874
+  Number of Gamers: 6157
   Percentage of Gamers: 5%
-  Ratio: 4.5
+  Ratio: 4.47
   TA: '22'
   Tags:
   - Online/Offline
   - Single Player
-  - Cooperative
 - Achievement Name: By Force
   Description: Achieve a Landmarks Victory.
   GS: '5'
   Guide: true
-  Number of Gamers: 30169
-  Percentage of Gamers: 25%
-  Ratio: 1.98
+  Number of Gamers: 31462
+  Percentage of Gamers: 26%
+  Ratio: 1.97
   TA: '9'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: By Faith
   Description: Achieve a Sacred Victory.
   GS: '5'
   Guide: false
-  Number of Gamers: 13693
-  Percentage of Gamers: 11%
-  Ratio: 2.95
+  Number of Gamers: 14295
+  Percentage of Gamers: 12%
+  Ratio: 2.93
   TA: '14'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: By Fortune
   Description: Achieve a Wonder Victory.
   GS: '5'
   Guide: true
-  Number of Gamers: 14846
-  Percentage of Gamers: 12%
-  Ratio: 2.83
+  Number of Gamers: 15456
+  Percentage of Gamers: 13%
+  Ratio: 2.82
   TA: '14'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: Make It Quick
   Description: Achieve a Conquest Victory in the Dark Age (I).
   GS: '10'
   Guide: true
-  Number of Gamers: 2465
+  Number of Gamers: 2619
   Percentage of Gamers: 2%
-  Ratio: 6.96
-  TA: '69'
+  Ratio: 6.85
+  TA: '68'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: Walk the Earth
   Description: Achieve a Sacred Victory without losing a religious unit.
   GS: '10'
   Guide: true
-  Number of Gamers: 8838
-  Percentage of Gamers: 7%
-  Ratio: 3.67
+  Number of Gamers: 9284
+  Percentage of Gamers: 8%
+  Ratio: 3.64
   TA: '36'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: Wonderstruck
   Description: Achieve a Wonder Victory without constructing walls.
   GS: '10'
   Guide: true
-  Number of Gamers: 8188
+  Number of Gamers: 8528
   Percentage of Gamers: 7%
-  Ratio: 3.81
+  Ratio: 3.8
   TA: '38'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: Precious Medals
   Description: Earn a Medal in 3 Art of War challenges.
   GS: '10'
   Guide: true
-  Number of Gamers: 5457
+  Number of Gamers: 5692
   Percentage of Gamers: 5%
-  Ratio: 4.67
+  Ratio: 4.65
   TA: '46'
   Tags:
-  - Online/Offline
+  - Offline Game Mode
   - Single Player
-  - Cooperative
 - Achievement Name: Challenge Taker
   Description: "Earn your first Gold Medal in an\_Art of War challenge."
   GS: '10'
   Guide: true
-  Number of Gamers: 6575
+  Number of Gamers: 6842
   Percentage of Gamers: 6%
-  Ratio: 4.25
+  Ratio: 4.24
   TA: '42'
   Tags:
-  - Online/Offline
+  - Offline Game Mode
   - Single Player
-  - Cooperative
 - Achievement Name: Record Breaker
   Description: Earn a Gold Medal in 5 Art of War challenges.
   GS: '10'
   Guide: true
-  Number of Gamers: 1202
+  Number of Gamers: 1265
   Percentage of Gamers: 1%
-  Ratio: 9.95
-  TA: '99'
+  Ratio: 9.86
+  TA: '98'
   Tags:
-  - Online/Offline
+  - Offline Game Mode
   - Single Player
-  - Cooperative
 - Achievement Name: Sub-Human Subduer
   Description: Win a 1v1 match against the Easy A.I.
   GS: '5'
   Guide: false
-  Number of Gamers: 24982
-  Percentage of Gamers: 21%
-  Ratio: 2.18
+  Number of Gamers: 26661
+  Percentage of Gamers: 22%
+  Ratio: 2.14
   TA: '10'
   Tags:
   - Offline Game Mode
@@ -776,346 +1003,159 @@ Base Game Achievements:
   Description: Win a 1v1 match against the Intermediate A.I.
   GS: '10'
   Guide: false
-  Number of Gamers: 16786
-  Percentage of Gamers: 14%
-  Ratio: 2.67
-  TA: '26'
+  Number of Gamers: 18503
+  Percentage of Gamers: 15%
+  Ratio: 2.57
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
   - Difficulty Specific
   - Stackable
+  - Buggy +
 - Achievement Name: High-Human Hero
   Description: Win a 1v1 match against the Hard A.I.
   GS: '20'
   Guide: false
-  Number of Gamers: 10390
-  Percentage of Gamers: 9%
-  Ratio: 3.41
-  TA: '68'
+  Number of Gamers: 12247
+  Percentage of Gamers: 10%
+  Ratio: 3.17
+  TA: '63'
   Tags:
   - Offline Mode
   - Single Player
   - Difficulty Specific
   - Stackable
+  - Buggy +
 - Achievement Name: Super-Human Subjugator
   Description: Win a 1v1 match against the Hardest A.I.
   GS: '50'
   Guide: true
-  Number of Gamers: 8148
-  Percentage of Gamers: 7%
-  Ratio: 3.86
-  TA: '193'
+  Number of Gamers: 10122
+  Percentage of Gamers: 8%
+  Ratio: 3.48
+  TA: '174'
   Tags:
   - Offline Mode
   - Single Player
   - Difficulty Specific
   - Stackable
+  - Buggy +
 - Achievement Name: The Faithful
   Description: Convert 30 enemies without holding a Relic as the Abbasid Dynasty.
   GS: '10'
   Guide: true
-  Number of Gamers: 817
+  Number of Gamers: 879
   Percentage of Gamers: 1%
-  Ratio: 12.08
-  TA: '120'
+  Ratio: 11.83
+  TA: '118'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
   - Cumulative +
 - Achievement Name: All the World's Knowledge
   Description: During a match, research everything in the wings of the Abbasid House
     of Wisdom.
   GS: '10'
   Guide: true
-  Number of Gamers: 3907
+  Number of Gamers: 4070
   Percentage of Gamers: 3%
-  Ratio: 5.52
+  Ratio: 5.5
   TA: '55'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: Shifting Winds
   Description: Defeat 1,000 enemy cavalry units with your Camel Riders as the Abbasid
     Dynasty.
   GS: '20'
   Guide: true
-  Number of Gamers: 753
+  Number of Gamers: 801
   Percentage of Gamers: 1%
-  Ratio: 12.58
-  TA: '251'
+  Ratio: 12.39
+  TA: '247'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
+  - Cumulative +
 - Achievement Name: A Golden Age
   Description: Achieve the third tier of the Golden Age as the Abbasid Dynasty.
   GS: '5'
   Guide: true
-  Number of Gamers: 3382
+  Number of Gamers: 3595
   Percentage of Gamers: 3%
-  Ratio: 5.94
+  Ratio: 5.85
   TA: '29'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: Dread Fort
   Description: Kill 100 enemies with Keeps as the English.
   GS: '10'
   Guide: true
-  Number of Gamers: 17029
+  Number of Gamers: 17776
   Percentage of Gamers: 14%
-  Ratio: 2.64
+  Ratio: 2.63
   TA: '26'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
   - Cumulative +
 - Achievement Name: Pass the Marshmallows
   Description: Use the Setup Camp ability 20 times as the English.
   GS: '5'
   Guide: true
-  Number of Gamers: 5757
+  Number of Gamers: 5935
   Percentage of Gamers: 5%
-  Ratio: 4.54
+  Ratio: 4.55
   TA: '22'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
   - Cumulative +
 - Achievement Name: Lancerlot
   Description: Charge an enemy with 50 Royal Knights simultaneously as the French.
   GS: '5'
   Guide: true
-  Number of Gamers: 6803
+  Number of Gamers: 7172
   Percentage of Gamers: 6%
-  Ratio: 4.18
+  Ratio: 4.14
   TA: '20'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: Who Needs Infantry?
   Description: Win a match without producing infantry as the French.
   GS: '20'
   Guide: true
-  Number of Gamers: 4989
+  Number of Gamers: 5257
   Percentage of Gamers: 4%
-  Ratio: 4.88
-  TA: '97'
+  Ratio: 4.83
+  TA: '96'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: Big Shot
   Description: Destroy 1,000 enemy units with gunpowder siege engines as the French.
   GS: '10'
   Guide: true
-  Number of Gamers: 1872
-  Percentage of Gamers: 2%
-  Ratio: 7.98
-  TA: '79'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Cooperative
-  - Cumulative +
-- Achievement Name: Do You Deliver?
-  Description: Accrue 1,000 Food from Traders in a single match as the French.
-  GS: '10'
-  Guide: true
-  Number of Gamers: 2628
-  Percentage of Gamers: 2%
-  Ratio: 6.73
-  TA: '67'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Cooperative
-- Achievement Name: Wild's Bounty
-  Description: Accrue 2,000 Gold with Hunting Cabins in a single match as the Rus.
-  GS: '5'
-  Guide: true
-  Number of Gamers: 8205
-  Percentage of Gamers: 7%
-  Ratio: 3.81
-  TA: '19'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Cooperative
-- Achievement Name: Big Game Hunter
-  Description: Earn 500 Gold from bounties in a single match as the Rus.
-  GS: '20'
-  Guide: true
-  Number of Gamers: 6586
-  Percentage of Gamers: 6%
-  Ratio: 4.25
-  TA: '85'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Cooperative
-- Achievement Name: Deforestation
-  Description: Gather Wood 1,000 times as the Rus.
-  GS: '10'
-  Guide: true
-  Number of Gamers: 20795
-  Percentage of Gamers: 17%
-  Ratio: 2.39
-  TA: '23'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Cooperative
-  - Cumulative +
-- Achievement Name: In Memory of Kulikovo
-  Description: Enhance 10 units with a single Saint's Blessing strike as the Rus.
-  GS: '10'
-  Guide: true
-  Number of Gamers: 16201
-  Percentage of Gamers: 14%
-  Ratio: 2.71
-  TA: '27'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Cooperative
-- Achievement Name: Raiding Party
-  Description: Raid an enemy building in the Dark Age (I) as the Mongols.
-  GS: '10'
-  Guide: true
-  Number of Gamers: 2529
-  Percentage of Gamers: 2%
-  Ratio: 6.86
-  TA: '68'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Cooperative
-- Achievement Name: Jagutu-iin Darga
-  Description: Enhance 100 units with a single Khan Signal Arrow as the Mongols.
-  GS: '5'
-  Guide: true
-  Number of Gamers: 5787
-  Percentage of Gamers: 5%
-  Ratio: 4.54
-  TA: '22'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Cooperative
-- Achievement Name: Long Live the Khan
-  Description: Win a match without your Khan being killed as the Mongols.
-  GS: '10'
-  Guide: true
-  Number of Gamers: 5415
-  Percentage of Gamers: 5%
-  Ratio: 4.69
-  TA: '46'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Cooperative
-- Achievement Name: Explore, Expand, Exploit
-  Description: Accrue 10,000 Stone in a single match as the Mongols.
-  GS: '20'
-  Guide: true
-  Number of Gamers: 8631
-  Percentage of Gamers: 7%
-  Ratio: 3.71
-  TA: '74'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Cooperative
-- Achievement Name: Who Needs Cavalry?
-  Description: Win a match without producing cavalry as the Holy Roman Empire.
-  GS: '10'
-  Guide: true
-  Number of Gamers: 5948
-  Percentage of Gamers: 5%
-  Ratio: 4.48
-  TA: '44'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Cooperative
-- Achievement Name: Inspired Economics
-  Description: Have at least 60 simultaneously inspired Villagers as the Holy Roman
-    Empire.
-  GS: '20'
-  Guide: true
-  Number of Gamers: 4042
-  Percentage of Gamers: 3%
-  Ratio: 5.43
-  TA: '108'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Cooperative
-  - Cumulative
-- Achievement Name: Servants of the Land
-  Description: Kill 10,000 enemies with Landsknechte.
-  GS: '10'
-  Guide: true
-  Number of Gamers: 591
-  Percentage of Gamers: 0%
-  Ratio: 14.24
-  TA: '142'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Cooperative
-  - Cumulative +
-- Achievement Name: Swift Site
-  Description: Begin capturing a Sacred Site immediately upon entering Age III as
-    the Holy Roman Empire.
-  GS: '5'
-  Guide: true
-  Number of Gamers: 2250
-  Percentage of Gamers: 2%
-  Ratio: 7.28
-  TA: '36'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Cooperative
-- Achievement Name: Herd You Like Elephants
-  Description: Destroy 100 enemy buildings with your elephants as the Delhi Sultanate.
-  GS: '10'
-  Guide: true
-  Number of Gamers: 2203
-  Percentage of Gamers: 2%
-  Ratio: 7.36
-  TA: '73'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Cooperative
-  - Cumulative +
-- Achievement Name: Field Construction
-  Description: Build a Stone Wall, Gate, and Tower using infantry as the Delhi Sultanate.
-  GS: '5'
-  Guide: true
-  Number of Gamers: 1969
-  Percentage of Gamers: 2%
-  Ratio: 7.78
-  TA: '38'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Cooperative
-- Achievement Name: Higher Education
-  Description: "Have 20 Scholars garrisoned in a Madrasa\_as the Delhi Sultanate."
-  GS: '10'
-  Guide: true
-  Number of Gamers: 1963
+  Number of Gamers: 2029
   Percentage of Gamers: 2%
   Ratio: 7.79
   TA: '77'
@@ -1123,174 +1163,397 @@ Base Game Achievements:
   - Online/Offline
   - Single Player
   - Cooperative
-  - Cumulative
-- Achievement Name: Pantomath
-  Description: "Research all technologies in a match\_as the Delhi Sultanate."
-  GS: '20'
+  - Versus
+  - Cumulative +
+- Achievement Name: Do You Deliver?
+  Description: Accrue 1,000 Food from Traders in a single match as the French.
+  GS: '10'
   Guide: true
-  Number of Gamers: 3251
-  Percentage of Gamers: 3%
-  Ratio: 6.05
-  TA: '121'
+  Number of Gamers: 2777
+  Percentage of Gamers: 2%
+  Ratio: 6.65
+  TA: '66'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
-- Achievement Name: Be Subtle
-  Description: Reveal 300 Villagers with a single use of Imperial Spies as the Chinese.
-  GS: '10'
+  - Versus
+- Achievement Name: Wild's Bounty
+  Description: Accrue 2,000 Gold with Hunting Cabins in a single match as the Rus.
+  GS: '5'
   Guide: true
-  Number of Gamers: 1708
-  Percentage of Gamers: 1%
-  Ratio: 8.35
+  Number of Gamers: 8658
+  Percentage of Gamers: 7%
+  Ratio: 3.77
+  TA: '18'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Big Game Hunter
+  Description: Earn 500 Gold from bounties in a single match as the Rus.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 7042
+  Percentage of Gamers: 6%
+  Ratio: 4.18
   TA: '83'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
-- Achievement Name: Great Walls
-  Description: Construct 1,000 Stone Walls as the Chinese.
-  GS: '5'
-  Guide: true
-  Number of Gamers: 1804
-  Percentage of Gamers: 2%
-  Ratio: 8.13
-  TA: '40'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Cooperative
-  - Cumulative +
-- Achievement Name: Move Like Wind, Attack Like Fire
-  Description: Defeat 1,000 enemy units with the Nest of Bees as the Chinese.
-  GS: '20'
-  Guide: true
-  Number of Gamers: 1553
-  Percentage of Gamers: 1%
-  Ratio: 8.76
-  TA: '175'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Cooperative
-  - Cumulative +
-- Achievement Name: Four Histories
-  Description: "Establish all of the Dynasties in a single match\_as the Chinese."
+  - Versus
+- Achievement Name: Deforestation
+  Description: Gather Wood 1,000 times as the Rus.
   GS: '10'
   Guide: true
-  Number of Gamers: 7972
+  Number of Gamers: 21710
+  Percentage of Gamers: 18%
+  Ratio: 2.38
+  TA: '23'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: In Memory of Kulikovo
+  Description: Enhance 10 units with a single Saint's Blessing strike as the Rus.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 16925
+  Percentage of Gamers: 14%
+  Ratio: 2.69
+  TA: '26'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Raiding Party
+  Description: Raid an enemy building in the Dark Age (I) as the Mongols.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2651
+  Percentage of Gamers: 2%
+  Ratio: 6.81
+  TA: '68'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Jagutu-iin Darga
+  Description: Enhance 100 units with a single Khan Signal Arrow as the Mongols.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 6013
+  Percentage of Gamers: 5%
+  Ratio: 4.52
+  TA: '22'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Long Live the Khan
+  Description: Win a match without your Khan being killed as the Mongols.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5660
+  Percentage of Gamers: 5%
+  Ratio: 4.66
+  TA: '46'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Explore, Expand, Exploit
+  Description: Accrue 10,000 Stone in a single match as the Mongols.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 9044
   Percentage of Gamers: 7%
-  Ratio: 3.86
+  Ratio: 3.69
+  TA: '73'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Who Needs Cavalry?
+  Description: Win a match without producing cavalry as the Holy Roman Empire.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 6228
+  Percentage of Gamers: 5%
+  Ratio: 4.44
+  TA: '44'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Inspired Economics
+  Description: Have at least 60 simultaneously inspired Villagers as the Holy Roman
+    Empire.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 4295
+  Percentage of Gamers: 3%
+  Ratio: 5.35
+  TA: '107'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative
+- Achievement Name: Servants of the Land
+  Description: Kill 10,000 enemies with Landsknechte.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 635
+  Percentage of Gamers: 1%
+  Ratio: 13.92
+  TA: '139'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Swift Site
+  Description: Begin capturing a Sacred Site immediately upon entering Age III as
+    the Holy Roman Empire.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 2372
+  Percentage of Gamers: 2%
+  Ratio: 7.2
+  TA: '36'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Herd You Like Elephants
+  Description: Destroy 100 enemy buildings with your elephants as the Delhi Sultanate.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2359
+  Percentage of Gamers: 2%
+  Ratio: 7.22
+  TA: '72'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Field Construction
+  Description: Build a Stone Wall, Gate, and Tower using infantry as the Delhi Sultanate.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 2069
+  Percentage of Gamers: 2%
+  Ratio: 7.71
   TA: '38'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
+- Achievement Name: Higher Education
+  Description: "Have 20 Scholars garrisoned in a Madrasa\_as the Delhi Sultanate."
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2082
+  Percentage of Gamers: 2%
+  Ratio: 7.69
+  TA: '76'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative
+- Achievement Name: Pantomath
+  Description: "Research all technologies in a match\_as the Delhi Sultanate."
+  GS: '20'
+  Guide: true
+  Number of Gamers: 3407
+  Percentage of Gamers: 3%
+  Ratio: 6.01
+  TA: '120'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Be Subtle
+  Description: Reveal 300 Villagers with a single use of Imperial Spies as the Chinese.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1825
+  Percentage of Gamers: 1%
+  Ratio: 8.21
+  TA: '82'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Great Walls
+  Description: Construct 1,000 Stone Walls as the Chinese.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1896
+  Percentage of Gamers: 2%
+  Ratio: 8.05
+  TA: '40'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Move Like Wind, Attack Like Fire
+  Description: Defeat 1,000 enemy units with the Nest of Bees as the Chinese.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1630
+  Percentage of Gamers: 1%
+  Ratio: 8.69
+  TA: '173'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Four Histories
+  Description: "Establish all of the Dynasties in a single match\_as the Chinese."
+  GS: '10'
+  Guide: true
+  Number of Gamers: 8315
+  Percentage of Gamers: 7%
+  Ratio: 3.84
+  TA: '38'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
 - Achievement Name: Wololottery
   Description: Assume control of 25 units in a single conversion.
   GS: '10'
   Guide: true
-  Number of Gamers: 1436
+  Number of Gamers: 1546
   Percentage of Gamers: 1%
-  Ratio: 9.12
-  TA: '91'
+  Ratio: 8.92
+  TA: '89'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: Having a Blast
   Description: Destroy 5 enemies with a single Demolition Ship detonation.
   GS: '10'
   Guide: true
-  Number of Gamers: 4431
+  Number of Gamers: 4780
   Percentage of Gamers: 4%
-  Ratio: 5.19
-  TA: '51'
+  Ratio: 5.07
+  TA: '50'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: All Creek, No Paddle
   Description: Sink an enemy Transport Ship that is garrisoned to max capacity.
   GS: '10'
   Guide: true
-  Number of Gamers: 5691
+  Number of Gamers: 5968
   Percentage of Gamers: 5%
-  Ratio: 4.57
+  Ratio: 4.54
   TA: '45'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: Through the Ages
   Description: Advance to the next Age 500 times.
   GS: '20'
   Guide: true
-  Number of Gamers: 1820
+  Number of Gamers: 2001
   Percentage of Gamers: 2%
-  Ratio: 8.1
-  TA: '162'
+  Ratio: 7.84
+  TA: '156'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
   - Cumulative +
 - Achievement Name: Coast Is Clear
   Description: Win a match during which fishing was your only source of gathered Food.
   GS: '5'
   Guide: true
-  Number of Gamers: 2407
+  Number of Gamers: 2521
   Percentage of Gamers: 2%
-  Ratio: 7.04
-  TA: '35'
+  Ratio: 6.98
+  TA: '34'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: Accurate Likeness
   Description: "Equip your first\_portrait."
   GS: '5'
   Guide: true
-  Number of Gamers: 15159
+  Number of Gamers: 15979
   Percentage of Gamers: 13%
-  Ratio: 2.8
-  TA: '14'
+  Ratio: 2.77
+  TA: '13'
   Tags:
-  - Online/Offline
+  - Offline Game Mode
   - Single Player
-  - Cooperative
 - Achievement Name: To Remind, To Advise, To Warn
   Description: "Equip your first\_monument."
   GS: '5'
   Guide: true
-  Number of Gamers: 14042
+  Number of Gamers: 14748
   Percentage of Gamers: 12%
-  Ratio: 2.91
+  Ratio: 2.88
   TA: '14'
   Tags:
-  - Online/Offline
+  - Offline Game Mode
   - Single Player
-  - Cooperative
 - Achievement Name: A Heraldic Achievement
   Description: Customize your coat of arms.
   GS: '5'
   Guide: true
-  Number of Gamers: 19677
-  Percentage of Gamers: 16%
-  Ratio: 2.46
+  Number of Gamers: 20456
+  Percentage of Gamers: 17%
+  Ratio: 2.45
   TA: '12'
   Tags:
-  - Online/Offline
+  - Offline Game Mode
   - Single Player
-  - Cooperative
 - Achievement Name: Du Bois Are Back in Town
   Description: Win in the arena without losing more than 10 units during the Combat
     of the Thirty.
   GS: '10'
   Guide: true
-  Number of Gamers: 7893
+  Number of Gamers: 8278
   Percentage of Gamers: 7%
-  Ratio: 3.88
+  Ratio: 3.85
   TA: '38'
   Tags:
   - Online/Offline
@@ -1300,7 +1563,7 @@ Base Game Achievements:
   Description: Shutdown a Cavalry Charge with Palings as the English.
   GS: '20'
   Guide: true
-  Number of Gamers: 38824
+  Number of Gamers: 40122
   Percentage of Gamers: 33%
   Ratio: 1.75
   TA: '35'
@@ -1308,85 +1571,91 @@ Base Game Achievements:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: Hope Is Kindled
   Description: Extend the Network of Castles alarm across 12 buildings simultaneously
     as the English.
   GS: '10'
   Guide: true
-  Number of Gamers: 11530
+  Number of Gamers: 12312
   Percentage of Gamers: 10%
-  Ratio: 3.21
-  TA: '32'
+  Ratio: 3.16
+  TA: '31'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: Master of the English
   Description: Complete the English Mastery.
   GS: '10'
   Guide: true
-  Number of Gamers: 1321
+  Number of Gamers: 1386
   Percentage of Gamers: 1%
-  Ratio: 9.51
-  TA: '95'
+  Ratio: 9.42
+  TA: '94'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: Master of the Mongols
   Description: "Complete the\_Mongol Mastery."
   GS: '10'
   Guide: true
-  Number of Gamers: 737
+  Number of Gamers: 782
   Percentage of Gamers: 1%
-  Ratio: 12.72
-  TA: '127'
+  Ratio: 12.54
+  TA: '125'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
   - Buggy
 - Achievement Name: Master of the Rus
   Description: "Complete the\_Rus Mastery."
   GS: '10'
   Guide: true
-  Number of Gamers: 868
+  Number of Gamers: 913
   Percentage of Gamers: 1%
-  Ratio: 11.72
-  TA: '117'
+  Ratio: 11.61
+  TA: '116'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: Master of the Ages
   Description: Complete all Civilization Masteries.
   GS: '50'
   Guide: true
-  Number of Gamers: 540
+  Number of Gamers: 580
   Percentage of Gamers: 0%
-  Ratio: 14.85
-  TA: '742'
+  Ratio: 14.57
+  TA: '728'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
-Base Ratio: 7.498473282442748
-Base TA: 9823
+  - Versus
+Base Ratio: 7.361832061068703
+Base TA: 9644
 Delisted: false
-Developer: Relic Entertainment, World's Edge
+Developer: Relic Entertainment, World's Edge, Forgotten Empires, Climax Studios
 Game Name: 'Age of Empires IV: Anniversary Edition'
 Genres: Strategy, Real Time
-Install Size: 90540.0
-Number of Completions: 144
-Number of Gamers: 119306
+Install Size: 92090.0
+Number of Completions: 32
+Number of Gamers: 123142
 Overall Completion Time:
-- 101.0
-- 128.0
-Overall GS: 1580
-Overall Ratio: 7.6075949367088604
-Overall TA: 12020
+- 80.0
+- 100.0
+Overall GS: 1780
+Overall Ratio: 7.5292134831460675
+Overall TA: 13402
 PDU: 0
-Percentage Completed: 0.12
+Percentage Completed: 0.03
 Publisher: Xbox Game Studios
 Release Date: 28 October 2021
 Server Closure: false
@@ -1396,249 +1665,265 @@ Update Achievements:
   Description: Win a match as the Ottomans.
   GS: '10'
   Guide: true
-  Number of Gamers: 7769
+  Number of Gamers: 8233
   Percentage of Gamers: 7%
-  Ratio: 3.92
-  TA: '39'
+  Ratio: 3.86
+  TA: '38'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: Transcontinental Empire
   Description: Win 20 matches as the Ottomans.
   GS: '20'
   Guide: true
-  Number of Gamers: 902
+  Number of Gamers: 983
   Percentage of Gamers: 1%
-  Ratio: 11.52
-  TA: '230'
+  Ratio: 11.19
+  TA: '223'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
   - Cumulative +
 - Achievement Name: Regimented Training
   Description: Have 5 Military Schools active at the same time as the Ottomans.
   GS: '10'
   Guide: true
-  Number of Gamers: 3101
+  Number of Gamers: 3318
   Percentage of Gamers: 3%
-  Ratio: 6.21
-  TA: '62'
+  Ratio: 6.09
+  TA: '60'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: Mobile Strikes
   Description: Defeat 100 ranged units with a Sipahi unit as the Ottomans.
   GS: '10'
   Guide: true
-  Number of Gamers: 1584
+  Number of Gamers: 1729
   Percentage of Gamers: 1%
-  Ratio: 8.68
-  TA: '86'
+  Ratio: 8.43
+  TA: '84'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
   - Cumulative +
 - Achievement Name: A Wonderful Cannon
   Description: Destroy a Wonder with a Great Bombard as the Ottomans.
   GS: '10'
   Guide: true
-  Number of Gamers: 764
+  Number of Gamers: 822
   Percentage of Gamers: 1%
-  Ratio: 12.49
-  TA: '124'
+  Ratio: 12.23
+  TA: '122'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: Sound Advice
   Description: Unlock 7 Imperial Council upgrades in a single match as the Ottomans.
   GS: '20'
   Guide: true
-  Number of Gamers: 1964
+  Number of Gamers: 2117
   Percentage of Gamers: 2%
-  Ratio: 7.79
-  TA: '155'
+  Ratio: 7.62
+  TA: '152'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: Hell of a Beat
   Description: Defeat 500 enemies with units affected by Mehteran as the Ottomans.
   GS: '10'
   Guide: true
-  Number of Gamers: 2321
+  Number of Gamers: 2513
   Percentage of Gamers: 2%
-  Ratio: 7.17
-  TA: '71'
+  Ratio: 7.0
+  TA: '70'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
   - Cumulative +
 - Achievement Name: Trojan Horses
   Description: Garrison units into 3 Trebuchets as the Ottomans.
   GS: '5'
   Guide: true
-  Number of Gamers: 1166
+  Number of Gamers: 1246
   Percentage of Gamers: 1%
-  Ratio: 10.12
-  TA: '50'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Cooperative
-  - Cumulative +
-- Achievement Name: Malian Rise
-  Description: Win a match as the Malians.
-  GS: '10'
-  Guide: true
-  Number of Gamers: 4780
-  Percentage of Gamers: 4%
-  Ratio: 4.99
+  Ratio: 9.94
   TA: '49'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
-- Achievement Name: Trans-Saharan Empire
-  Description: Win 20 matches as the Malians.
-  GS: '20'
+  - Versus
+  - Cumulative +
+- Achievement Name: Malian Rise
+  Description: Win a match as the Malians.
+  GS: '10'
   Guide: true
-  Number of Gamers: 660
-  Percentage of Gamers: 1%
-  Ratio: 13.46
-  TA: '269'
+  Number of Gamers: 5098
+  Percentage of Gamers: 4%
+  Ratio: 4.91
+  TA: '49'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
+- Achievement Name: Trans-Saharan Empire
+  Description: Win 20 matches as the Malians.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 724
+  Percentage of Gamers: 1%
+  Ratio: 13.04
+  TA: '260'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
   - Cumulative +
 - Achievement Name: Tax Collector
   Description: Generate tax from 5 Toll Outposts on a single trip as the Malians.
   GS: '5'
   Guide: true
-  Number of Gamers: 1657
+  Number of Gamers: 1791
   Percentage of Gamers: 1%
-  Ratio: 8.49
-  TA: '42'
+  Ratio: 8.29
+  TA: '41'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: From the Shadows
   Description: Attack 100 enemies with invisible Musofadi Warriors or Gunners in a
     single match as the Malians.
   GS: '10'
   Guide: true
-  Number of Gamers: 874
+  Number of Gamers: 960
   Percentage of Gamers: 1%
-  Ratio: 11.7
-  TA: '117'
+  Ratio: 11.32
+  TA: '113'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
   - Cumulative +
 - Achievement Name: Just a Prick
   Description: Defeat a Heavy Cavalry unit with a Poisoned Arrow as the Malians.
   GS: '10'
   Guide: true
-  Number of Gamers: 2624
+  Number of Gamers: 2829
   Percentage of Gamers: 2%
-  Ratio: 6.75
-  TA: '67'
+  Ratio: 6.59
+  TA: '65'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: All Mine
   Description: Gather Gold 1,000 times from Open Pit Mines as the Malians.
   GS: '10'
   Guide: true
-  Number of Gamers: 3607
+  Number of Gamers: 3855
   Percentage of Gamers: 3%
-  Ratio: 5.75
-  TA: '57'
+  Ratio: 5.65
+  TA: '56'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
   - Cumulative +
 - Achievement Name: Aerial Poisoned Attacks
   Description: Defeat 500 units with Poisoned Arrow as the Malians.
   GS: '20'
   Guide: true
-  Number of Gamers: 870
+  Number of Gamers: 933
   Percentage of Gamers: 1%
-  Ratio: 11.73
-  TA: '234'
+  Ratio: 11.48
+  TA: '229'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
   - Cumulative +
 - Achievement Name: All in the Ranch
   Description: Garrison 20 Cattle in Ranches at the same time as the Malians.
   GS: '10'
   Guide: true
-  Number of Gamers: 2113
+  Number of Gamers: 2292
   Percentage of Gamers: 2%
-  Ratio: 7.51
-  TA: '75'
+  Ratio: 7.32
+  TA: '73'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: Master of the Ottomans
   Description: Complete the Ottoman Mastery.
   GS: '50'
   Guide: true
-  Number of Gamers: 546
+  Number of Gamers: 587
   Percentage of Gamers: 0%
-  Ratio: 14.78
-  TA: '739'
+  Ratio: 14.48
+  TA: '724'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: Master of the Malians
   Description: Complete the Malian Mastery.
   GS: '50'
   Guide: true
-  Number of Gamers: 468
+  Number of Gamers: 508
   Percentage of Gamers: 0%
-  Ratio: 15.97
-  TA: '798'
+  Ratio: 15.56
+  TA: '778'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+  - Versus
 - Achievement Name: The Ottoman Arts
   Description: Earn a gold medal in the Ottoman Art of War challenge.
   GS: '10'
   Guide: true
-  Number of Gamers: 491
+  Number of Gamers: 524
   Percentage of Gamers: 0%
-  Ratio: 15.56
-  TA: '155'
+  Ratio: 15.32
+  TA: '153'
   Tags:
-  - Online/Offline
+  - Offline Game Mode
   - Single Player
-  - Cooperative
 - Achievement Name: The Malian Arts
   Description: Earn a gold medal in the Malian Art of War challenge.
   GS: '10'
   Guide: true
-  Number of Gamers: 497
+  Number of Gamers: 535
   Percentage of Gamers: 0%
-  Ratio: 15.47
-  TA: '154'
+  Ratio: 15.17
+  TA: '151'
   Tags:
-  - Online/Offline
+  - Offline Game Mode
   - Single Player
-  - Cooperative
 Walkthrough: false

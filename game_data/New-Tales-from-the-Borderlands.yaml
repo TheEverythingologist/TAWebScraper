@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 25.0
-- 30.0
+- 15.0
+- 20.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: From Zeroes...
   Description: Complete Episode 1.
   GS: '100'
   Guide: false
-  Number of Gamers: 5545
+  Number of Gamers: 5977
   Percentage of Gamers: 71%
   Ratio: 1.18
   TA: '118'
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Complete Episode 2.
   GS: '100'
   Guide: false
-  Number of Gamers: 4783
+  Number of Gamers: 5167
   Percentage of Gamers: 61%
   Ratio: 1.27
   TA: '127'
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Complete Episode 3.
   GS: '100'
   Guide: false
-  Number of Gamers: 4281
+  Number of Gamers: 4634
   Percentage of Gamers: 55%
-  Ratio: 1.35
-  TA: '135'
+  Ratio: 1.34
+  TA: '134'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,8 +44,8 @@ Base Game Achievements:
   Description: Complete Episode 4.
   GS: '100'
   Guide: false
-  Number of Gamers: 4000
-  Percentage of Gamers: 51%
+  Number of Gamers: 4338
+  Percentage of Gamers: 52%
   Ratio: 1.39
   TA: '139'
   Tags:
@@ -56,8 +56,8 @@ Base Game Achievements:
   Description: Complete Episode 5.
   GS: '100'
   Guide: false
-  Number of Gamers: 3835
-  Percentage of Gamers: 49%
+  Number of Gamers: 4164
+  Percentage of Gamers: 50%
   Ratio: 1.42
   TA: '142'
   Tags:
@@ -69,10 +69,10 @@ Base Game Achievements:
   Description: Finish the game with a good skateboard rating.
   GS: '25'
   Guide: true
-  Number of Gamers: 724
-  Percentage of Gamers: 9%
-  Ratio: 3.28
-  TA: '82'
+  Number of Gamers: 852
+  Percentage of Gamers: 10%
+  Ratio: 3.14
+  TA: '78'
   Tags:
   - Offline Mode
   - Single Player
@@ -82,10 +82,10 @@ Base Game Achievements:
   Description: Collect every Vaultlander figure.
   GS: '25'
   Guide: true
-  Number of Gamers: 543
-  Percentage of Gamers: 7%
-  Ratio: 3.79
-  TA: '94'
+  Number of Gamers: 654
+  Percentage of Gamers: 8%
+  Ratio: 3.58
+  TA: '89'
   Tags:
   - Offline Mode
   - Single Player
@@ -94,10 +94,10 @@ Base Game Achievements:
   Description: Obtain every cosmetic.
   GS: '100'
   Guide: true
-  Number of Gamers: 953
-  Percentage of Gamers: 12%
-  Ratio: 2.86
-  TA: '286'
+  Number of Gamers: 1085
+  Percentage of Gamers: 13%
+  Ratio: 2.78
+  TA: '278'
   Tags:
   - Offline Mode
   - Single Player
@@ -106,7 +106,7 @@ Base Game Achievements:
   Description: Obtain a cosmetic item.
   GS: '10'
   Guide: true
-  Number of Gamers: 5549
+  Number of Gamers: 5990
   Percentage of Gamers: 71%
   Ratio: 1.18
   TA: '11'
@@ -118,7 +118,7 @@ Base Game Achievements:
   Description: Obtain a Vaultlander figure.
   GS: '10'
   Guide: true
-  Number of Gamers: 6313
+  Number of Gamers: 6795
   Percentage of Gamers: 81%
   Ratio: 1.11
   TA: '11'
@@ -130,7 +130,7 @@ Base Game Achievements:
   Description: Win a Vaultlanders battle.
   GS: '15'
   Guide: false
-  Number of Gamers: 4999
+  Number of Gamers: 5394
   Percentage of Gamers: 64%
   Ratio: 1.24
   TA: '18'
@@ -141,10 +141,10 @@ Base Game Achievements:
   Description: Win every Vaultlanders battle.
   GS: '100'
   Guide: true
-  Number of Gamers: 3223
-  Percentage of Gamers: 41%
-  Ratio: 1.55
-  TA: '155'
+  Number of Gamers: 3515
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '154'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -152,7 +152,7 @@ Base Game Achievements:
   Description: Complete a hack.
   GS: '10'
   Guide: true
-  Number of Gamers: 5841
+  Number of Gamers: 6302
   Percentage of Gamers: 75%
   Ratio: 1.15
   TA: '11'
@@ -163,7 +163,7 @@ Base Game Achievements:
   Description: Perform a Super Science Slap.
   GS: '10'
   Guide: true
-  Number of Gamers: 7731
+  Number of Gamers: 8336
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '10'
@@ -174,7 +174,7 @@ Base Game Achievements:
   Description: Fail an action for the first time.
   GS: '5'
   Guide: true
-  Number of Gamers: 6560
+  Number of Gamers: 7062
   Percentage of Gamers: 84%
   Ratio: 1.09
   TA: '5'
@@ -185,7 +185,7 @@ Base Game Achievements:
   Description: Get the money from Sink or Swim.
   GS: '5'
   Guide: false
-  Number of Gamers: 4411
+  Number of Gamers: 4777
   Percentage of Gamers: 57%
   Ratio: 1.32
   TA: '6'
@@ -196,7 +196,7 @@ Base Game Achievements:
   Description: Spend the money from Sink or Swim.
   GS: '5'
   Guide: false
-  Number of Gamers: 4177
+  Number of Gamers: 4525
   Percentage of Gamers: 54%
   Ratio: 1.36
   TA: '6'
@@ -207,10 +207,10 @@ Base Game Achievements:
   Description: Win a Vaultlanders battle using the Claptrap figure.
   GS: '10'
   Guide: true
-  Number of Gamers: 1766
+  Number of Gamers: 1950
   Percentage of Gamers: 23%
-  Ratio: 2.1
-  TA: '21'
+  Ratio: 2.07
+  TA: '20'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -218,10 +218,10 @@ Base Game Achievements:
   Description: View every ending.
   GS: '100'
   Guide: true
-  Number of Gamers: 376
-  Percentage of Gamers: 5%
-  Ratio: 4.55
-  TA: '455'
+  Number of Gamers: 478
+  Percentage of Gamers: 6%
+  Ratio: 4.19
+  TA: '419'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -229,9 +229,9 @@ Base Game Achievements:
   Description: Watch the credits after finishing the game.
   GS: '5'
   Guide: true
-  Number of Gamers: 2658
-  Percentage of Gamers: 34%
-  Ratio: 1.71
+  Number of Gamers: 2901
+  Percentage of Gamers: 35%
+  Ratio: 1.7
   TA: '8'
   Tags:
   - Offline Game Mode
@@ -240,7 +240,7 @@ Base Game Achievements:
   Description: Wish for more tacos.
   GS: '20'
   Guide: true
-  Number of Gamers: 3880
+  Number of Gamers: 4224
   Percentage of Gamers: 50%
   Ratio: 1.41
   TA: '28'
@@ -251,9 +251,9 @@ Base Game Achievements:
   Description: Reach a Tale Over for the first time.
   GS: '5'
   Guide: true
-  Number of Gamers: 4595
+  Number of Gamers: 4977
   Percentage of Gamers: 59%
-  Ratio: 1.3
+  Ratio: 1.29
   TA: '6'
   Tags:
   - Offline Game Mode
@@ -262,9 +262,9 @@ Base Game Achievements:
   Description: Perform every background check.
   GS: '20'
   Guide: true
-  Number of Gamers: 2789
+  Number of Gamers: 3044
   Percentage of Gamers: 36%
-  Ratio: 1.67
+  Ratio: 1.66
   TA: '33'
   Tags:
   - Offline Game Mode
@@ -273,9 +273,9 @@ Base Game Achievements:
   Description: Win the retro battle.
   GS: '5'
   Guide: false
-  Number of Gamers: 3909
-  Percentage of Gamers: 50%
-  Ratio: 1.41
+  Number of Gamers: 4250
+  Percentage of Gamers: 51%
+  Ratio: 1.4
   TA: '7'
   Tags:
   - Offline Game Mode
@@ -284,9 +284,9 @@ Base Game Achievements:
   Description: Summon the Sexy Intern.
   GS: '5'
   Guide: true
-  Number of Gamers: 1757
+  Number of Gamers: 1943
   Percentage of Gamers: 23%
-  Ratio: 2.1
+  Ratio: 2.08
   TA: '10'
   Tags:
   - Offline Game Mode
@@ -295,34 +295,34 @@ Base Game Achievements:
   Description: Nail a perfect, sexy dance.
   GS: '10'
   Guide: true
-  Number of Gamers: 4169
-  Percentage of Gamers: 53%
+  Number of Gamers: 4516
+  Percentage of Gamers: 54%
   Ratio: 1.36
   TA: '13'
   Tags:
   - Offline Mode
   - Single Player
   - Buggy
-Base Ratio: 1.937
-Base TA: 1937
+Base Ratio: 1.881
+Base TA: 1881
 Delisted: false
 Developer: Gearbox Software
 Game Name: New Tales from the Borderlands
 Genres: Adventure, Point & Click
 Install Size: 30160.0
-Number of Completions: 367
-Number of Gamers: 7802
+Number of Completions: 465
+Number of Gamers: 8408
 Overall Completion Time:
-- 25.0
-- 30.0
+- 15.0
+- 20.0
 Overall GS: 1000
-Overall Ratio: 1.937
-Overall TA: 1937
+Overall Ratio: 1.881
+Overall TA: 1881
 PDU: 0
-Percentage Completed: 4.7
+Percentage Completed: 5.53
 Publisher: 2K Games
-Release Date: 21 October 2022
+Release Date: 20 October 2022
 Server Closure: false
-Site Rating: 3.0
+Site Rating: 2.98
 Update Achievements: []
 Walkthrough: false

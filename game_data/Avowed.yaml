@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- 68
-- 69
+- 60.0
+- 80.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Avowed
   Description: Complete Avowed on any difficulty.
   GS: '100'
-  Guide: false
-  Number of Gamers: 743
-  Percentage of Gamers: 1%
-  Ratio: 10.48
-  TA: 1,048
+  Guide: true
+  Number of Gamers: 39259
+  Percentage of Gamers: 24%
+  Ratio: 2.05
+  TA: '205'
   Tags:
   - Offline Mode
   - Single Player
@@ -22,10 +22,10 @@ Base Game Achievements:
   Description: Confront your assassin in the Cistern.
   GS: '15'
   Guide: true
-  Number of Gamers: 19161
-  Percentage of Gamers: 23%
-  Ratio: 2.06
-  TA: '31'
+  Number of Gamers: 87667
+  Percentage of Gamers: 53%
+  Ratio: 1.37
+  TA: '20'
   Tags:
   - Offline Mode
   - Single Player
@@ -34,10 +34,10 @@ Base Game Achievements:
   Description: Uncover the secret of Naku Tedek.
   GS: '15'
   Guide: true
-  Number of Gamers: 5521
-  Percentage of Gamers: 7%
-  Ratio: 3.85
-  TA: '57'
+  Number of Gamers: 60955
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '24'
   Tags:
   - Offline Mode
   - Single Player
@@ -46,9 +46,9 @@ Base Game Achievements:
   Description: Sail to Paradis from Fort Northreach.
   GS: '15'
   Guide: true
-  Number of Gamers: 77649
-  Percentage of Gamers: 95%
-  Ratio: 1.02
+  Number of Gamers: 159229
+  Percentage of Gamers: 97%
+  Ratio: 1.01
   TA: '15'
   Tags:
   - Offline Mode
@@ -58,10 +58,10 @@ Base Game Achievements:
   Description: "Save Fior mes Iv\xE8rno from being razed by the Steel Garrote."
   GS: '15'
   Guide: true
-  Number of Gamers: 1868
-  Percentage of Gamers: 2%
-  Ratio: 6.62
-  TA: '99'
+  Number of Gamers: 26399
+  Percentage of Gamers: 16%
+  Ratio: 2.49
+  TA: '37'
   Tags:
   - Offline Mode
   - Single Player
@@ -69,23 +69,23 @@ Base Game Achievements:
 - Achievement Name: Spectral Evidence
   Description: Complete the Trials of the Tebaru Sanakis.
   GS: '15'
-  Guide: false
-  Number of Gamers: 1840
-  Percentage of Gamers: 2%
-  Ratio: 6.67
-  TA: '100'
+  Guide: true
+  Number of Gamers: 46718
+  Percentage of Gamers: 28%
+  Ratio: 1.87
+  TA: '28'
   Tags:
   - Offline Mode
   - Single Player
-  - Missable
+  - Main Storyline
 - Achievement Name: It'll Cost Ya
   Description: Confront Kostya in the Lava Tubes of Solace Keep.
   GS: '15'
-  Guide: false
-  Number of Gamers: 928
-  Percentage of Gamers: 1%
-  Ratio: 9.38
-  TA: '140'
+  Guide: true
+  Number of Gamers: 40856
+  Percentage of Gamers: 25%
+  Ratio: 2.01
+  TA: '30'
   Tags:
   - Offline Mode
   - Single Player
@@ -94,10 +94,10 @@ Base Game Achievements:
   Description: Release Sapadal from their prison.
   GS: '15'
   Guide: true
-  Number of Gamers: 640
-  Percentage of Gamers: 1%
-  Ratio: 11.31
-  TA: '169'
+  Number of Gamers: 33807
+  Percentage of Gamers: 21%
+  Ratio: 2.21
+  TA: '33'
   Tags:
   - Offline Mode
   - Single Player
@@ -105,11 +105,11 @@ Base Game Achievements:
 - Achievement Name: Parasitoid
   Description: Destroy Sapadal and absorb their power.
   GS: '15'
-  Guide: false
-  Number of Gamers: 237
-  Percentage of Gamers: 0%
-  Ratio: 18.59
-  TA: '278'
+  Guide: true
+  Number of Gamers: 12196
+  Percentage of Gamers: 7%
+  Ratio: 3.68
+  TA: '55'
   Tags:
   - Offline Mode
   - Single Player
@@ -119,10 +119,10 @@ Base Game Achievements:
     Steel Garrote.
   GS: '15'
   Guide: true
-  Number of Gamers: 155
-  Percentage of Gamers: 0%
-  Ratio: 22.94
-  TA: '344'
+  Number of Gamers: 7469
+  Percentage of Gamers: 5%
+  Ratio: 4.7
+  TA: '70'
   Tags:
   - Offline Mode
   - Single Player
@@ -131,10 +131,10 @@ Base Game Achievements:
   Description: Unlock all of Kai's abilities.
   GS: '15'
   Guide: true
-  Number of Gamers: 4438
-  Percentage of Gamers: 5%
-  Ratio: 4.3
-  TA: '64'
+  Number of Gamers: 45286
+  Percentage of Gamers: 27%
+  Ratio: 1.9
+  TA: '28'
   Tags:
   - Offline Mode
   - Single Player
@@ -143,10 +143,10 @@ Base Game Achievements:
   Description: Unlock all of Giatta's abilities.
   GS: '15'
   Guide: true
-  Number of Gamers: 2852
-  Percentage of Gamers: 3%
-  Ratio: 5.36
-  TA: '80'
+  Number of Gamers: 41483
+  Percentage of Gamers: 25%
+  Ratio: 1.99
+  TA: '29'
   Tags:
   - Offline Mode
   - Single Player
@@ -155,10 +155,10 @@ Base Game Achievements:
   Description: Unlock all of Marius' abilities.
   GS: '15'
   Guide: true
-  Number of Gamers: 4599
-  Percentage of Gamers: 6%
-  Ratio: 4.22
-  TA: '63'
+  Number of Gamers: 45953
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '28'
   Tags:
   - Offline Mode
   - Single Player
@@ -167,10 +167,10 @@ Base Game Achievements:
   Description: Unlock all of Yatzli's abilities.
   GS: '15'
   Guide: true
-  Number of Gamers: 1884
-  Percentage of Gamers: 2%
-  Ratio: 6.59
-  TA: '98'
+  Number of Gamers: 38499
+  Percentage of Gamers: 23%
+  Ratio: 2.07
+  TA: '31'
   Tags:
   - Offline Mode
   - Single Player
@@ -179,10 +179,10 @@ Base Game Achievements:
   Description: Collect and place all of the God Shrine Totems & Fragments.
   GS: '30'
   Guide: true
-  Number of Gamers: 261
-  Percentage of Gamers: 0%
-  Ratio: 17.68
-  TA: '530'
+  Number of Gamers: 18388
+  Percentage of Gamers: 11%
+  Ratio: 2.99
+  TA: '89'
   Tags:
   - Offline Mode
   - Single Player
@@ -191,10 +191,10 @@ Base Game Achievements:
   Description: Reach max level.
   GS: '30'
   Guide: true
-  Number of Gamers: 333
-  Percentage of Gamers: 0%
-  Ratio: 15.65
-  TA: '469'
+  Number of Gamers: 19708
+  Percentage of Gamers: 12%
+  Ratio: 2.89
+  TA: '86'
   Tags:
   - Offline Mode
   - Single Player
@@ -203,22 +203,23 @@ Base Game Achievements:
   Description: Find all items from Treasure Maps.
   GS: '30'
   Guide: true
-  Number of Gamers: 141
-  Percentage of Gamers: 0%
-  Ratio: 24.05
-  TA: '721'
+  Number of Gamers: 9436
+  Percentage of Gamers: 6%
+  Ratio: 4.18
+  TA: '125'
   Tags:
   - Offline Mode
   - Single Player
   - Collectable
+  - Missable
 - Achievement Name: Pillars of Eternity
   Description: Cleanse all the Strangled Adra across all regions.
   GS: '30'
   Guide: true
-  Number of Gamers: 193
-  Percentage of Gamers: 0%
-  Ratio: 20.56
-  TA: '616'
+  Number of Gamers: 14715
+  Percentage of Gamers: 9%
+  Ratio: 3.35
+  TA: '100'
   Tags:
   - Offline Mode
   - Single Player
@@ -227,10 +228,10 @@ Base Game Achievements:
   Description: Complete all Ancient Memories.
   GS: '30'
   Guide: true
-  Number of Gamers: 258
-  Percentage of Gamers: 0%
-  Ratio: 17.78
-  TA: '533'
+  Number of Gamers: 19547
+  Percentage of Gamers: 12%
+  Ratio: 2.9
+  TA: '87'
   Tags:
   - Offline Mode
   - Single Player
@@ -239,10 +240,10 @@ Base Game Achievements:
   Description: Find and open all Pargrunen Caches across the Living Lands.
   GS: '30'
   Guide: true
-  Number of Gamers: 140
-  Percentage of Gamers: 0%
-  Ratio: 24.14
-  TA: '724'
+  Number of Gamers: 12905
+  Percentage of Gamers: 8%
+  Ratio: 3.57
+  TA: '107'
   Tags:
   - Offline Mode
   - Single Player
@@ -251,22 +252,23 @@ Base Game Achievements:
   Description: Complete all Bounties from all regions.
   GS: '30'
   Guide: true
-  Number of Gamers: 439
-  Percentage of Gamers: 1%
-  Ratio: 13.68
-  TA: '410'
+  Number of Gamers: 25893
+  Percentage of Gamers: 16%
+  Ratio: 2.52
+  TA: '75'
   Tags:
   - Offline Mode
   - Single Player
   - Collectable
+  - Missable
 - Achievement Name: Kith Lord
   Description: Discover all Party Camps across the Living Lands.
   GS: '30'
   Guide: true
-  Number of Gamers: 229
-  Percentage of Gamers: 0%
-  Ratio: 18.96
-  TA: '568'
+  Number of Gamers: 19238
+  Percentage of Gamers: 12%
+  Ratio: 2.93
+  TA: '87'
   Tags:
   - Offline Mode
   - Single Player
@@ -275,21 +277,22 @@ Base Game Achievements:
   Description: Summon a bear to fight another bear.
   GS: '15'
   Guide: true
-  Number of Gamers: 593
-  Percentage of Gamers: 1%
-  Ratio: 11.79
-  TA: '176'
+  Number of Gamers: 15206
+  Percentage of Gamers: 9%
+  Ratio: 3.29
+  TA: '49'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Missable
 - Achievement Name: Dungeon Siege
   Description: Enter every dungeon across all regions.
   GS: '30'
   Guide: true
-  Number of Gamers: 200
-  Percentage of Gamers: 0%
-  Ratio: 20.25
-  TA: '607'
+  Number of Gamers: 17625
+  Percentage of Gamers: 11%
+  Ratio: 3.06
+  TA: '91'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -297,10 +300,10 @@ Base Game Achievements:
   Description: Kill 15 enemies using stealth attacks.
   GS: '15'
   Guide: true
-  Number of Gamers: 13373
-  Percentage of Gamers: 16%
-  Ratio: 2.47
-  TA: '37'
+  Number of Gamers: 68895
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '23'
   Tags:
   - Offline Mode
   - Single Player
@@ -309,10 +312,10 @@ Base Game Achievements:
   Description: Equip a fully upgraded set of armor.
   GS: '15'
   Guide: true
-  Number of Gamers: 493
-  Percentage of Gamers: 1%
-  Ratio: 12.87
-  TA: '193'
+  Number of Gamers: 25043
+  Percentage of Gamers: 15%
+  Ratio: 2.56
+  TA: '38'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -320,10 +323,10 @@ Base Game Achievements:
   Description: Be knighted as a member of the Steel Garrote.
   GS: '15'
   Guide: true
-  Number of Gamers: 19
-  Percentage of Gamers: 0%
-  Ratio: 65.54
-  TA: '983'
+  Number of Gamers: 2451
+  Percentage of Gamers: 1%
+  Ratio: 8.22
+  TA: '123'
   Tags:
   - Offline Mode
   - Single Player
@@ -332,10 +335,10 @@ Base Game Achievements:
   Description: Complete every side quest.
   GS: '30'
   Guide: true
-  Number of Gamers: 4
-  Percentage of Gamers: 0%
-  Ratio: 142.84
-  TA: 4,285
+  Number of Gamers: 6107
+  Percentage of Gamers: 4%
+  Ratio: 5.21
+  TA: '156'
   Tags:
   - Offline Mode
   - Single Player
@@ -343,11 +346,11 @@ Base Game Achievements:
 - Achievement Name: Big Iron On Your Hip
   Description: Equip a fully upgraded weapon.
   GS: '15'
-  Guide: false
-  Number of Gamers: 579
-  Percentage of Gamers: 1%
-  Ratio: 11.88
-  TA: '178'
+  Guide: true
+  Number of Gamers: 28703
+  Percentage of Gamers: 17%
+  Ratio: 2.39
+  TA: '35'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -355,10 +358,10 @@ Base Game Achievements:
   Description: Slay 10 Spiders and 10 Beetles.
   GS: '15'
   Guide: true
-  Number of Gamers: 14142
-  Percentage of Gamers: 17%
-  Ratio: 2.4
-  TA: '36'
+  Number of Gamers: 76686
+  Percentage of Gamers: 47%
+  Ratio: 1.46
+  TA: '21'
   Tags:
   - Offline Mode
   - Single Player
@@ -367,10 +370,10 @@ Base Game Achievements:
   Description: Unlock all Fast Travel beacons.
   GS: '15'
   Guide: true
-  Number of Gamers: 197
-  Percentage of Gamers: 0%
-  Ratio: 20.4
-  TA: '306'
+  Number of Gamers: 15328
+  Percentage of Gamers: 9%
+  Ratio: 3.28
+  TA: '49'
   Tags:
   - Offline Mode
   - Single Player
@@ -379,10 +382,10 @@ Base Game Achievements:
   Description: Complete Avowed on the difficulty Path of the Damned.
   GS: '30'
   Guide: true
-  Number of Gamers: 42
-  Percentage of Gamers: 0%
-  Ratio: 44.08
-  TA: 1,322
+  Number of Gamers: 3210
+  Percentage of Gamers: 2%
+  Ratio: 7.17
+  TA: '215'
   Tags:
   - Offline Mode
   - Single Player
@@ -394,10 +397,10 @@ Base Game Achievements:
   Description: Contemplate death.
   GS: '15'
   Guide: true
-  Number of Gamers: 1989
-  Percentage of Gamers: 2%
-  Ratio: 6.43
-  TA: '96'
+  Number of Gamers: 10743
+  Percentage of Gamers: 7%
+  Ratio: 3.91
+  TA: '58'
   Tags:
   - Offline Mode
   - Single Player
@@ -406,10 +409,10 @@ Base Game Achievements:
   Description: Complete all companion moments in the Garden.
   GS: '15'
   Guide: true
-  Number of Gamers: 436
-  Percentage of Gamers: 1%
-  Ratio: 13.71
-  TA: '205'
+  Number of Gamers: 27286
+  Percentage of Gamers: 17%
+  Ratio: 2.46
+  TA: '36'
   Tags:
   - Offline Mode
   - Single Player
@@ -418,10 +421,10 @@ Base Game Achievements:
   Description: Try Aiko's drugs with your companions.
   GS: '15'
   Guide: true
-  Number of Gamers: 1568
-  Percentage of Gamers: 2%
-  Ratio: 7.22
-  TA: '108'
+  Number of Gamers: 32157
+  Percentage of Gamers: 20%
+  Ratio: 2.26
+  TA: '33'
   Tags:
   - Offline Mode
   - Single Player
@@ -430,10 +433,10 @@ Base Game Achievements:
   Description: Demand payment for your services 5 times.
   GS: '15'
   Guide: true
-  Number of Gamers: 1412
-  Percentage of Gamers: 2%
-  Ratio: 7.62
-  TA: '114'
+  Number of Gamers: 12508
+  Percentage of Gamers: 8%
+  Ratio: 3.63
+  TA: '54'
   Tags:
   - Offline Mode
   - Single Player
@@ -443,10 +446,10 @@ Base Game Achievements:
   Description: Kill Captain Ngunu with his own poison.
   GS: '15'
   Guide: true
-  Number of Gamers: 307
-  Percentage of Gamers: 0%
-  Ratio: 16.35
-  TA: '245'
+  Number of Gamers: 9498
+  Percentage of Gamers: 6%
+  Ratio: 4.16
+  TA: '62'
   Tags:
   - Offline Mode
   - Single Player
@@ -455,10 +458,10 @@ Base Game Achievements:
   Description: Sell your future corpse to Elia.
   GS: '15'
   Guide: true
-  Number of Gamers: 629
-  Percentage of Gamers: 1%
-  Ratio: 11.4
-  TA: '171'
+  Number of Gamers: 8077
+  Percentage of Gamers: 5%
+  Ratio: 4.51
+  TA: '67'
   Tags:
   - Offline Mode
   - Single Player
@@ -467,9 +470,9 @@ Base Game Achievements:
   Description: Find the hidden room in Fort Northreach.
   GS: '15'
   Guide: true
-  Number of Gamers: 33130
+  Number of Gamers: 67988
   Percentage of Gamers: 41%
-  Ratio: 1.57
+  Ratio: 1.55
   TA: '23'
   Tags:
   - Offline Mode
@@ -479,21 +482,22 @@ Base Game Achievements:
   Description: Ignore the warning note and pull the lever in the Sand Sea Ruins.
   GS: '15'
   Guide: true
-  Number of Gamers: 1570
-  Percentage of Gamers: 2%
-  Ratio: 7.22
-  TA: '108'
+  Number of Gamers: 34074
+  Percentage of Gamers: 21%
+  Ratio: 2.2
+  TA: '33'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Missable
 - Achievement Name: Tired Of Being Nice
   Description: Resort to violence in a conversation 10 times.
   GS: '15'
   Guide: true
-  Number of Gamers: 370
-  Percentage of Gamers: 0%
-  Ratio: 14.85
-  TA: '222'
+  Number of Gamers: 9879
+  Percentage of Gamers: 6%
+  Ratio: 4.08
+  TA: '61'
   Tags:
   - Offline Mode
   - Single Player
@@ -502,11 +506,11 @@ Base Game Achievements:
 - Achievement Name: Can't We All Get Along?
   Description: Resolve a potential conflict peacefully 5 times.
   GS: '15'
-  Guide: true
-  Number of Gamers: 12984
-  Percentage of Gamers: 16%
-  Ratio: 2.51
-  TA: '37'
+  Guide: false
+  Number of Gamers: 74190
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '22'
   Tags:
   - Offline Mode
   - Single Player
@@ -515,10 +519,10 @@ Base Game Achievements:
   Description: Max out an attribute.
   GS: '15'
   Guide: true
-  Number of Gamers: 747
-  Percentage of Gamers: 1%
-  Ratio: 10.46
-  TA: '157'
+  Number of Gamers: 12553
+  Percentage of Gamers: 8%
+  Ratio: 3.62
+  TA: '54'
   Tags:
   - Offline Mode
   - Single Player
@@ -527,10 +531,10 @@ Base Game Achievements:
   Description: Lie 15 times.
   GS: '15'
   Guide: true
-  Number of Gamers: 1047
-  Percentage of Gamers: 1%
-  Ratio: 8.85
-  TA: '132'
+  Number of Gamers: 11251
+  Percentage of Gamers: 7%
+  Ratio: 3.82
+  TA: '57'
   Tags:
   - Offline Mode
   - Single Player
@@ -539,11 +543,11 @@ Base Game Achievements:
 - Achievement Name: Training Arc
   Description: Complete all training sessions with companions.
   GS: '15'
-  Guide: false
-  Number of Gamers: 185
-  Percentage of Gamers: 0%
-  Ratio: 21.0
-  TA: '315'
+  Guide: true
+  Number of Gamers: 12872
+  Percentage of Gamers: 8%
+  Ratio: 3.58
+  TA: '53'
   Tags:
   - Offline Mode
   - Single Player
@@ -552,10 +556,10 @@ Base Game Achievements:
   Description: Parry an enemy's attacks 25 times.
   GS: '15'
   Guide: true
-  Number of Gamers: 2861
-  Percentage of Gamers: 4%
-  Ratio: 5.35
-  TA: '80'
+  Number of Gamers: 21191
+  Percentage of Gamers: 13%
+  Ratio: 2.79
+  TA: '41'
   Tags:
   - Offline Mode
   - Single Player
@@ -565,10 +569,10 @@ Base Game Achievements:
   Description: Cook every recipe at your Party Camp.
   GS: '15'
   Guide: true
-  Number of Gamers: 57
-  Percentage of Gamers: 0%
-  Ratio: 38.17
-  TA: '572'
+  Number of Gamers: 4368
+  Percentage of Gamers: 3%
+  Ratio: 6.15
+  TA: '92'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -577,10 +581,10 @@ Base Game Achievements:
     Temple.
   GS: '15'
   Guide: true
-  Number of Gamers: 548
-  Percentage of Gamers: 1%
-  Ratio: 12.27
-  TA: '184'
+  Number of Gamers: 5134
+  Percentage of Gamers: 3%
+  Ratio: 5.67
+  TA: '85'
   Tags:
   - Offline Mode
   - Single Player
@@ -590,10 +594,10 @@ Base Game Achievements:
   Description: Complete Sanza's map of the Living Lands.
   GS: '15'
   Guide: true
-  Number of Gamers: 514
-  Percentage of Gamers: 1%
-  Ratio: 12.6
-  TA: '189'
+  Number of Gamers: 25887
+  Percentage of Gamers: 16%
+  Ratio: 2.52
+  TA: '37'
   Tags:
   - Offline Mode
   - Single Player
@@ -603,34 +607,34 @@ Base Game Achievements:
   Description: Wear Necropants and a Revenant Bell Collar at the same time.
   GS: '15'
   Guide: true
-  Number of Gamers: 83
-  Percentage of Gamers: 0%
-  Ratio: 31.35
-  TA: '470'
+  Number of Gamers: 3948
+  Percentage of Gamers: 2%
+  Ratio: 6.47
+  TA: '97'
   Tags:
   - Offline Mode
   - Single Player
   - Missable
-Base Ratio: 18.708
-Base TA: 18708
+Base Ratio: 3.154
+Base TA: 3154
 Delisted: false
 Developer: Obsidian Entertainment
 Game Name: Avowed
-Genres: Action-RPG, Role Playing
+Genres: Action-RPG, Role Playing, Open World
 Install Size: 74770.0
-Number of Completions: 1
-Number of Gamers: 81684
+Number of Completions: 1638
+Number of Gamers: 164767
 Overall Completion Time:
-- 68
-- 69
+- 60.0
+- 80.0
 Overall GS: 1000
-Overall Ratio: 18.708
-Overall TA: 18708
+Overall Ratio: 3.154
+Overall TA: 3154
 PDU: 0
-Percentage Completed: 0.0
+Percentage Completed: 0.99
 Publisher: Xbox Game Studios
 Release Date: 18 February 2025
 Server Closure: false
-Site Rating: 4.4
+Site Rating: 4.0
 Update Achievements: []
 Walkthrough: false

@@ -1,16 +1,16 @@
 Add On Achievements: []
 Base Completion Time:
-- 17
-- 18
+- 20
+- 21
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Shopper
   Description: Buy your first item
   GS: '25'
   Guide: false
-  Number of Gamers: 157
-  Percentage of Gamers: 91%
-  Ratio: 1.04
+  Number of Gamers: 160
+  Percentage of Gamers: 90%
+  Ratio: 1.05
   TA: '26'
   Tags:
   - Online/Offline
@@ -21,7 +21,7 @@ Base Game Achievements:
   Description: Make your first park
   GS: '25'
   Guide: true
-  Number of Gamers: 74
+  Number of Gamers: 76
   Percentage of Gamers: 43%
   Ratio: 1.52
   TA: '38'
@@ -33,9 +33,9 @@ Base Game Achievements:
   Description: 100% Briny's Boatyard
   GS: '50'
   Guide: false
-  Number of Gamers: 48
+  Number of Gamers: 50
   Percentage of Gamers: 28%
-  Ratio: 1.89
+  Ratio: 1.88
   TA: '94'
   Tags:
   - Online/Offline
@@ -45,10 +45,10 @@ Base Game Achievements:
   Description: 100% High Tides Hotel
   GS: '50'
   Guide: false
-  Number of Gamers: 19
+  Number of Gamers: 20
   Percentage of Gamers: 11%
-  Ratio: 3.01
-  TA: '150'
+  Ratio: 2.97
+  TA: '148'
   Tags:
   - Online/Offline
   - Single Player
@@ -57,10 +57,10 @@ Base Game Achievements:
   Description: 100% Polar Patroleum
   GS: '50'
   Guide: false
-  Number of Gamers: 17
+  Number of Gamers: 18
   Percentage of Gamers: 10%
-  Ratio: 3.19
-  TA: '159'
+  Ratio: 3.13
+  TA: '156'
   Tags:
   - Online/Offline
   - Single Player
@@ -69,10 +69,10 @@ Base Game Achievements:
   Description: 100% Canyon Cartel
   GS: '50'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 5%
-  Ratio: 4.38
-  TA: '219'
+  Number of Gamers: 10
+  Percentage of Gamers: 6%
+  Ratio: 4.2
+  TA: '210'
   Tags:
   - Online/Offline
   - Single Player
@@ -81,10 +81,10 @@ Base Game Achievements:
   Description: 100% Quad City
   GS: '50'
   Guide: false
-  Number of Gamers: 7
+  Number of Gamers: 8
   Percentage of Gamers: 4%
-  Ratio: 4.97
-  TA: '248'
+  Ratio: 4.7
+  TA: '235'
   Tags:
   - Online/Offline
   - Single Player
@@ -93,10 +93,10 @@ Base Game Achievements:
   Description: Get 10 kills in one round!
   GS: '25'
   Guide: false
-  Number of Gamers: 31
+  Number of Gamers: 32
   Percentage of Gamers: 18%
-  Ratio: 2.36
-  TA: '59'
+  Ratio: 2.35
+  TA: '58'
   Tags:
   - Online Mode
   - Versus
@@ -104,10 +104,10 @@ Base Game Achievements:
   Description: Get 5 kills using a rocket launcher!
   GS: '25'
   Guide: false
-  Number of Gamers: 24
-  Percentage of Gamers: 14%
-  Ratio: 2.68
-  TA: '67'
+  Number of Gamers: 26
+  Percentage of Gamers: 15%
+  Ratio: 2.6
+  TA: '65'
   Tags:
   - Online Mode
   - Versus
@@ -115,10 +115,10 @@ Base Game Achievements:
   Description: Score 1,000,000 points in one round
   GS: '75'
   Guide: false
-  Number of Gamers: 8
+  Number of Gamers: 9
   Percentage of Gamers: 5%
-  Ratio: 4.65
-  TA: '348'
+  Ratio: 4.43
+  TA: '332'
   Tags:
   - Online Mode
   - Versus
@@ -126,10 +126,10 @@ Base Game Achievements:
   Description: Accumulate $100,000
   GS: '75'
   Guide: false
-  Number of Gamers: 7
+  Number of Gamers: 8
   Percentage of Gamers: 4%
-  Ratio: 4.97
-  TA: '372'
+  Ratio: 4.7
+  TA: '352'
   Tags:
   - Offline Mode
   - Single Player
@@ -138,10 +138,10 @@ Base Game Achievements:
   Description: Land a combo of at least 999,999 points
   GS: '100'
   Guide: false
-  Number of Gamers: 8
+  Number of Gamers: 9
   Percentage of Gamers: 5%
-  Ratio: 4.65
-  TA: '465'
+  Ratio: 4.43
+  TA: '443'
   Tags:
   - Online/Offline
   - Single Player
@@ -150,10 +150,10 @@ Base Game Achievements:
   Description: Max out the stats of any character
   GS: '100'
   Guide: false
-  Number of Gamers: 8
+  Number of Gamers: 9
   Percentage of Gamers: 5%
-  Ratio: 4.65
-  TA: '465'
+  Ratio: 4.43
+  TA: '443'
   Tags:
   - Online/Offline
   - Single Player
@@ -162,10 +162,10 @@ Base Game Achievements:
   Description: 100% the entire campaign
   GS: '150'
   Guide: false
-  Number of Gamers: 7
+  Number of Gamers: 8
   Percentage of Gamers: 4%
-  Ratio: 4.97
-  TA: '745'
+  Ratio: 4.7
+  TA: '705'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -173,34 +173,34 @@ Base Game Achievements:
   Description: Complete every achievement
   GS: '150'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 3%
-  Ratio: 5.36
-  TA: '805'
+  Number of Gamers: 7
+  Percentage of Gamers: 4%
+  Ratio: 5.02
+  TA: '754'
   Tags:
   - Online/Offline
   - Single Player
   - Versus
-Base Ratio: 4.26
-Base TA: 4260
+Base Ratio: 4.059
+Base TA: 4059
 Delisted: false
 Developer: Funktronic Labs
 Game Name: Wave Break
 Genres: Automobile, Vehicular Combat, Skateboarding
 Install Size: 7140.0
-Number of Completions: 6
-Number of Gamers: 173
+Number of Completions: 7
+Number of Gamers: 178
 Overall Completion Time:
-- 17
-- 18
+- 20
+- 21
 Overall GS: 1000
-Overall Ratio: 4.26
-Overall TA: 4260
+Overall Ratio: 4.059
+Overall TA: 4059
 PDU: 0
-Percentage Completed: 3.47
+Percentage Completed: 3.93
 Publisher: Funktronic Labs
 Release Date: 21 December 2022
 Server Closure: false
-Site Rating: 3.33
+Site Rating: 3.36
 Update Achievements: []
 Walkthrough: false

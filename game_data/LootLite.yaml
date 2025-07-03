@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
+- 8
 - 9
-- 10
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Welcome to LootLite
   Description: Complete the Peninsular Prairies
   GS: '30'
   Guide: true
-  Number of Gamers: 441
+  Number of Gamers: 457
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '30'
@@ -20,9 +20,9 @@ Base Game Achievements:
   Description: Complete the Desert
   GS: '30'
   Guide: false
-  Number of Gamers: 89
+  Number of Gamers: 93
   Percentage of Gamers: 20%
-  Ratio: 2.22
+  Ratio: 2.21
   TA: '66'
   Tags:
   - Offline Mode
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Complete the Volcano
   GS: '30'
   Guide: true
-  Number of Gamers: 84
-  Percentage of Gamers: 19%
-  Ratio: 2.29
-  TA: '68'
+  Number of Gamers: 90
+  Percentage of Gamers: 20%
+  Ratio: 2.26
+  TA: '67'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Complete the Graveyard
   GS: '30'
   Guide: false
-  Number of Gamers: 65
+  Number of Gamers: 70
   Percentage of Gamers: 15%
-  Ratio: 2.6
-  TA: '78'
+  Ratio: 2.56
+  TA: '77'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Complete the Reptile Island
   GS: '30'
   Guide: true
-  Number of Gamers: 21
+  Number of Gamers: 23
   Percentage of Gamers: 5%
-  Ratio: 4.58
-  TA: '137'
+  Ratio: 4.44
+  TA: '133'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: Activate a Loop Mode
   GS: '40'
   Guide: true
-  Number of Gamers: 25
+  Number of Gamers: 27
   Percentage of Gamers: 6%
-  Ratio: 4.2
-  TA: '168'
+  Ratio: 4.1
+  TA: '164'
   Tags:
   - Offline Mode
   - Single Player
@@ -80,10 +80,10 @@ Base Game Achievements:
   Description: Finish a run as a Warrior
   GS: '90'
   Guide: false
-  Number of Gamers: 37
-  Percentage of Gamers: 8%
-  Ratio: 3.45
-  TA: '310'
+  Number of Gamers: 40
+  Percentage of Gamers: 9%
+  Ratio: 3.37
+  TA: '303'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -91,10 +91,10 @@ Base Game Achievements:
   Description: Finish a run as a Mage
   GS: '90'
   Guide: false
-  Number of Gamers: 25
+  Number of Gamers: 28
   Percentage of Gamers: 6%
-  Ratio: 4.2
-  TA: '378'
+  Ratio: 4.1
+  TA: '369'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -102,10 +102,10 @@ Base Game Achievements:
   Description: Finish a run as an Assassin
   GS: '90'
   Guide: true
-  Number of Gamers: 24
-  Percentage of Gamers: 5%
-  Ratio: 4.28
-  TA: '385'
+  Number of Gamers: 26
+  Percentage of Gamers: 6%
+  Ratio: 4.26
+  TA: '383'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -113,10 +113,10 @@ Base Game Achievements:
   Description: Finish a run as a Barbarian
   GS: '90'
   Guide: false
-  Number of Gamers: 21
+  Number of Gamers: 23
   Percentage of Gamers: 5%
-  Ratio: 4.58
-  TA: '412'
+  Ratio: 4.44
+  TA: '400'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -124,10 +124,10 @@ Base Game Achievements:
   Description: Finish a run as an Apothecary
   GS: '90'
   Guide: false
-  Number of Gamers: 23
+  Number of Gamers: 25
   Percentage of Gamers: 5%
-  Ratio: 4.37
-  TA: '394'
+  Ratio: 4.26
+  TA: '383'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -135,10 +135,10 @@ Base Game Achievements:
   Description: Finish a run as a Necromancer
   GS: '90'
   Guide: true
-  Number of Gamers: 13
+  Number of Gamers: 15
   Percentage of Gamers: 3%
-  Ratio: 5.82
-  TA: '524'
+  Ratio: 5.7
+  TA: '513'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -146,10 +146,10 @@ Base Game Achievements:
   Description: Finish a run as a Dragon Knight
   GS: '90'
   Guide: true
-  Number of Gamers: 25
+  Number of Gamers: 27
   Percentage of Gamers: 6%
-  Ratio: 4.2
-  TA: '378'
+  Ratio: 4.1
+  TA: '369'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -157,10 +157,10 @@ Base Game Achievements:
   Description: Finish a run as a Scavenger
   GS: '90'
   Guide: true
-  Number of Gamers: 13
+  Number of Gamers: 15
   Percentage of Gamers: 3%
-  Ratio: 5.82
-  TA: '524'
+  Ratio: 5.5
+  TA: '495'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -168,33 +168,33 @@ Base Game Achievements:
   Description: Finish a No-Hit run
   GS: '90'
   Guide: true
-  Number of Gamers: 12
+  Number of Gamers: 13
   Percentage of Gamers: 3%
-  Ratio: 6.06
-  TA: '545'
+  Ratio: 5.91
+  TA: '532'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 4.397
-Base TA: 4397
+Base Ratio: 4.284
+Base TA: 4284
 Delisted: false
 Developer: Isoca Games
 Game Name: LootLite
 Genres: Shoot 'em up
 Install Size: 485.0
-Number of Completions: 12
-Number of Gamers: 441
+Number of Completions: 13
+Number of Gamers: 457
 Overall Completion Time:
+- 8
 - 9
-- 10
 Overall GS: 1000
-Overall Ratio: 4.397
-Overall TA: 4397
+Overall Ratio: 4.284
+Overall TA: 4284
 PDU: 0
-Percentage Completed: 2.72
+Percentage Completed: 2.84
 Publisher: JanduSoft
 Release Date: 28 July 2022
 Server Closure: false
-Site Rating: 2.93
+Site Rating: 2.75
 Update Achievements: []
 Walkthrough: false

@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 1.5
-Base GS: 3000
+- 2.0
+Base GS: 4000
 Base Game Achievements:
 - Achievement Name: Purple Gem
   Description: Dig Up an Amethyst
   GS: '100'
   Guide: false
-  Number of Gamers: 2495
+  Number of Gamers: 2956
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '100'
@@ -19,7 +19,7 @@ Base Game Achievements:
   Description: Dig Up a Sapphire
   GS: '100'
   Guide: false
-  Number of Gamers: 2496
+  Number of Gamers: 2955
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '100'
@@ -30,7 +30,7 @@ Base Game Achievements:
   Description: Dig Up a Ruby
   GS: '100'
   Guide: false
-  Number of Gamers: 2497
+  Number of Gamers: 2956
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '100'
@@ -41,7 +41,7 @@ Base Game Achievements:
   Description: Dig Up an Emerald
   GS: '100'
   Guide: true
-  Number of Gamers: 2436
+  Number of Gamers: 2880
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '101'
@@ -52,7 +52,7 @@ Base Game Achievements:
   Description: Dig Up a Diamond
   GS: '100'
   Guide: false
-  Number of Gamers: 2416
+  Number of Gamers: 2855
   Percentage of Gamers: 96%
   Ratio: 1.01
   TA: '101'
@@ -63,8 +63,8 @@ Base Game Achievements:
   Description: Defeat a Zombie
   GS: '100'
   Guide: true
-  Number of Gamers: 2494
-  Percentage of Gamers: 99%
+  Number of Gamers: 2952
+  Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '100'
   Tags:
@@ -74,7 +74,7 @@ Base Game Achievements:
   Description: Defeat a Ghost
   GS: '100'
   Guide: true
-  Number of Gamers: 2426
+  Number of Gamers: 2868
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '101'
@@ -85,7 +85,7 @@ Base Game Achievements:
   Description: Defeat a Demon
   GS: '100'
   Guide: true
-  Number of Gamers: 2414
+  Number of Gamers: 2852
   Percentage of Gamers: 96%
   Ratio: 1.01
   TA: '101'
@@ -96,7 +96,7 @@ Base Game Achievements:
   Description: Get 5 000 Money
   GS: '50'
   Guide: false
-  Number of Gamers: 2457
+  Number of Gamers: 2910
   Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '50'
@@ -108,7 +108,7 @@ Base Game Achievements:
   Description: Get 10 000 Money
   GS: '50'
   Guide: false
-  Number of Gamers: 2445
+  Number of Gamers: 2891
   Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '50'
@@ -120,7 +120,7 @@ Base Game Achievements:
   Description: Get 15 000 Money
   GS: '50'
   Guide: false
-  Number of Gamers: 2432
+  Number of Gamers: 2875
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '50'
@@ -132,44 +132,44 @@ Base Game Achievements:
   Description: Go on a Cruise to Complete the Game
   GS: '50'
   Guide: false
-  Number of Gamers: 2405
+  Number of Gamers: 2843
   Percentage of Gamers: 96%
-  Ratio: 1.01
-  TA: '50'
+  Ratio: 1.02
+  TA: '51'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.027
-Base TA: 3081
+Base Ratio: 1.1015
+Base TA: 4406
 Delisted: false
 Developer: Xeneder Team
 Game Name: DARKGEMS
 Genres: Action
 Install Size: 347.0
-Number of Completions: 2208
-Number of Gamers: 2507
+Number of Completions: 1620
+Number of Gamers: 2960
 Overall Completion Time:
 - 0.0
-- 1.5
-Overall GS: 3000
-Overall Ratio: 1.027
-Overall TA: 3081
+- 2.0
+Overall GS: 4000
+Overall Ratio: 1.1015
+Overall TA: 4406
 PDU: 0
-Percentage Completed: 88.07
+Percentage Completed: 54.73
 Publisher: Xeneder Team
 Release Date: 22 March 2024
 Server Closure: false
-Site Rating: 2.38
+Site Rating: 2.44
 Update Achievements:
 - Achievement Name: Light Up +1
   Description: Upgrade Light to Lv.2
   GS: '200'
   Guide: false
-  Number of Gamers: 2370
-  Percentage of Gamers: 95%
+  Number of Gamers: 2836
+  Percentage of Gamers: 96%
   Ratio: 1.02
-  TA: '205'
+  TA: '204'
   Tags:
   - Offline Mode
   - Single Player
@@ -178,10 +178,10 @@ Update Achievements:
   Description: Upgrade Life to Lv.2
   GS: '200'
   Guide: false
-  Number of Gamers: 2368
-  Percentage of Gamers: 94%
+  Number of Gamers: 2831
+  Percentage of Gamers: 96%
   Ratio: 1.02
-  TA: '205'
+  TA: '204'
   Tags:
   - Offline Mode
   - Single Player
@@ -190,10 +190,10 @@ Update Achievements:
   Description: Purchase an Advanced Drill
   GS: '200'
   Guide: false
-  Number of Gamers: 2352
-  Percentage of Gamers: 94%
-  Ratio: 1.03
-  TA: '206'
+  Number of Gamers: 2810
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '205'
   Tags:
   - Offline Mode
   - Single Player
@@ -202,10 +202,10 @@ Update Achievements:
   Description: Lose a Life in a run
   GS: '200'
   Guide: false
-  Number of Gamers: 2371
-  Percentage of Gamers: 95%
+  Number of Gamers: 2835
+  Percentage of Gamers: 96%
   Ratio: 1.02
-  TA: '205'
+  TA: '204'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -213,10 +213,10 @@ Update Achievements:
   Description: Get an Energy Orb in a run
   GS: '200'
   Guide: false
-  Number of Gamers: 2373
-  Percentage of Gamers: 95%
+  Number of Gamers: 2839
+  Percentage of Gamers: 96%
   Ratio: 1.02
-  TA: '205'
+  TA: '204'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -224,10 +224,10 @@ Update Achievements:
   Description: Upgrade Light to Lv.3
   GS: '200'
   Guide: false
-  Number of Gamers: 2255
-  Percentage of Gamers: 90%
-  Ratio: 1.05
-  TA: '210'
+  Number of Gamers: 2734
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '208'
   Tags:
   - Offline Mode
   - Single Player
@@ -236,10 +236,10 @@ Update Achievements:
   Description: Upgrade Life to Lv.3
   GS: '200'
   Guide: false
-  Number of Gamers: 2253
-  Percentage of Gamers: 90%
-  Ratio: 1.05
-  TA: '210'
+  Number of Gamers: 2728
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '208'
   Tags:
   - Offline Mode
   - Single Player
@@ -248,10 +248,10 @@ Update Achievements:
   Description: Purchase a Spiked Drill
   GS: '200'
   Guide: false
-  Number of Gamers: 2242
-  Percentage of Gamers: 89%
-  Ratio: 1.05
-  TA: '211'
+  Number of Gamers: 2714
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '208'
   Tags:
   - Offline Mode
   - Single Player
@@ -260,10 +260,10 @@ Update Achievements:
   Description: Lose 2 Lives in a run
   GS: '200'
   Guide: false
-  Number of Gamers: 2256
-  Percentage of Gamers: 90%
-  Ratio: 1.05
-  TA: '210'
+  Number of Gamers: 2735
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '208'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -271,10 +271,68 @@ Update Achievements:
   Description: Get 2 Energy Orbs in a run
   GS: '200'
   Guide: false
-  Number of Gamers: 2259
-  Percentage of Gamers: 90%
-  Ratio: 1.05
-  TA: '210'
+  Number of Gamers: 2740
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '207'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Light Up +3
+  Description: Upgrade Light to Lv.4
+  GS: '200'
+  Guide: false
+  Number of Gamers: 1638
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '268'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Life Up +3
+  Description: Upgrade Light to Lv.4
+  GS: '200'
+  Guide: false
+  Number of Gamers: 1639
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '268'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Gear Tier +3
+  Description: Purchase a Lazer Drill
+  GS: '200'
+  Guide: false
+  Number of Gamers: 1630
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '269'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Deadly Dealing
+  Description: Lose 3 Lives in a run
+  GS: '200'
+  Guide: false
+  Number of Gamers: 1639
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '268'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Hyper Energy Synergy
+  Description: Get 3 Energy Orbs in a run
+  GS: '200'
+  Guide: false
+  Number of Gamers: 1640
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '268'
   Tags:
   - Offline Game Mode
   - Single Player

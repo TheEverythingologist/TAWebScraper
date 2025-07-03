@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- 20.0
-- 25.0
+- -1
+- -1
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Avid Worker
   Description: Show Too Much Dedication
   GS: '10'
-  Guide: true
-  Number of Gamers: 496
-  Percentage of Gamers: 18%
-  Ratio: 2.36
-  TA: '23'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 100%
+  Ratio: 1.0
+  TA: '10'
   Tags:
   - Offline Mode
   - Single Player
@@ -20,11 +20,11 @@ Base Game Achievements:
 - Achievement Name: Armed and Ready
   Description: Find Your First Weapon
   GS: '10'
-  Guide: true
-  Number of Gamers: 2017
-  Percentage of Gamers: 74%
-  Ratio: 1.16
-  TA: '11'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '10'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,11 +32,11 @@ Base Game Achievements:
 - Achievement Name: The Insane Reader
   Description: Seek Out The Writings of Joey Drew
   GS: '25'
-  Guide: true
-  Number of Gamers: 154
-  Percentage of Gamers: 6%
-  Ratio: 4.22
-  TA: '105'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
@@ -45,11 +45,11 @@ Base Game Achievements:
 - Achievement Name: Familiar Faces
   Description: Reveal A Very Old Friend
   GS: '25'
-  Guide: true
-  Number of Gamers: 174
-  Percentage of Gamers: 6%
-  Ratio: 3.97
-  TA: '99'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
@@ -58,10 +58,10 @@ Base Game Achievements:
   Description: Maximize Your Dark Potential
   GS: '25'
   Guide: false
-  Number of Gamers: 241
-  Percentage of Gamers: 9%
-  Ratio: 3.35
-  TA: '83'
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
@@ -69,11 +69,11 @@ Base Game Achievements:
 - Achievement Name: Gent's Finest
   Description: Create The Ultimate Weapon
   GS: '25'
-  Guide: true
-  Number of Gamers: 263
-  Percentage of Gamers: 10%
-  Ratio: 3.22
-  TA: '80'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
@@ -81,22 +81,22 @@ Base Game Achievements:
 - Achievement Name: Plaything
   Description: Locate The Toyman's Secret
   GS: '10'
-  Guide: true
-  Number of Gamers: 282
-  Percentage of Gamers: 10%
-  Ratio: 3.1
-  TA: '31'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: The Well of Voices
   Description: Pick Up All Audio Logs
   GS: '25'
-  Guide: true
-  Number of Gamers: 158
-  Percentage of Gamers: 6%
-  Ratio: 4.15
-  TA: '103'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
@@ -106,10 +106,10 @@ Base Game Achievements:
   Description: Read All Memos
   GS: '25'
   Guide: false
-  Number of Gamers: 184
-  Percentage of Gamers: 7%
-  Ratio: 3.85
-  TA: '96'
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
@@ -118,10 +118,10 @@ Base Game Achievements:
   Description: Collect All Memories
   GS: '25'
   Guide: false
-  Number of Gamers: 172
-  Percentage of Gamers: 6%
-  Ratio: 3.98
-  TA: '99'
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
@@ -130,11 +130,11 @@ Base Game Achievements:
 - Achievement Name: Ink Master
   Description: Complete The Game Without Dying
   GS: '25'
-  Guide: true
-  Number of Gamers: 147
-  Percentage of Gamers: 5%
-  Ratio: 4.31
-  TA: '107'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
@@ -143,10 +143,10 @@ Base Game Achievements:
   Description: Complete Chapter One
   GS: '50'
   Guide: false
-  Number of Gamers: 1870
-  Percentage of Gamers: 68%
-  Ratio: 1.2
-  TA: '60'
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '50'
   Tags:
   - Offline Mode
   - Single Player
@@ -155,10 +155,10 @@ Base Game Achievements:
   Description: Complete Chapter Two
   GS: '50'
   Guide: false
-  Number of Gamers: 1235
-  Percentage of Gamers: 45%
-  Ratio: 1.48
-  TA: '74'
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '50'
   Tags:
   - Offline Mode
   - Single Player
@@ -167,10 +167,10 @@ Base Game Achievements:
   Description: Complete Chapter Three
   GS: '50'
   Guide: false
-  Number of Gamers: 1096
-  Percentage of Gamers: 40%
-  Ratio: 1.57
-  TA: '78'
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '50'
   Tags:
   - Offline Mode
   - Single Player
@@ -179,10 +179,10 @@ Base Game Achievements:
   Description: Complete Chapter Four
   GS: '50'
   Guide: false
-  Number of Gamers: 1028
-  Percentage of Gamers: 38%
-  Ratio: 1.62
-  TA: '81'
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '50'
   Tags:
   - Offline Mode
   - Single Player
@@ -191,10 +191,10 @@ Base Game Achievements:
   Description: Complete Chapter Five
   GS: '50'
   Guide: false
-  Number of Gamers: 940
-  Percentage of Gamers: 34%
-  Ratio: 1.7
-  TA: '85'
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '50'
   Tags:
   - Offline Mode
   - Single Player
@@ -202,11 +202,11 @@ Base Game Achievements:
 - Achievement Name: Studio Starter
   Description: Complete The Game on Easy
   GS: '50'
-  Guide: true
-  Number of Gamers: 938
-  Percentage of Gamers: 34%
-  Ratio: 1.7
-  TA: '85'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '50'
   Tags:
   - Offline Mode
   - Single Player
@@ -215,11 +215,11 @@ Base Game Achievements:
 - Achievement Name: Studio Scrapper
   Description: Complete The Game on Normal
   GS: '50'
-  Guide: true
-  Number of Gamers: 765
-  Percentage of Gamers: 28%
-  Ratio: 1.88
-  TA: '94'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '50'
   Tags:
   - Offline Mode
   - Single Player
@@ -228,11 +228,11 @@ Base Game Achievements:
 - Achievement Name: Studio Breaker
   Description: Complete The Game on Hard
   GS: '100'
-  Guide: true
-  Number of Gamers: 216
-  Percentage of Gamers: 8%
-  Ratio: 3.57
-  TA: '357'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '100'
   Tags:
   - Offline Mode
   - Single Player
@@ -241,11 +241,11 @@ Base Game Achievements:
 - Achievement Name: Socialite
   Description: Be A First Time Party Pooper
   GS: '10'
-  Guide: true
-  Number of Gamers: 731
-  Percentage of Gamers: 27%
-  Ratio: 1.92
-  TA: '19'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '10'
   Tags:
   - Offline Mode
   - Single Player
@@ -253,11 +253,11 @@ Base Game Achievements:
 - Achievement Name: The Demon's Dismay
   Description: Survive 25 Ink Demon Attacks
   GS: '25'
-  Guide: true
-  Number of Gamers: 200
-  Percentage of Gamers: 7%
-  Ratio: 3.68
-  TA: '92'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
@@ -265,23 +265,23 @@ Base Game Achievements:
 - Achievement Name: The Fancy Foodie
   Description: Collect 100 Pieces of Food
   GS: '25'
-  Guide: true
-  Number of Gamers: 385
-  Percentage of Gamers: 14%
-  Ratio: 2.65
-  TA: '66'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
 - Achievement Name: A Butchered Decision
-  Description: Complete The Game
+  Description: Complete the Game While Surviving The Slicer
   GS: '50'
-  Guide: true
-  Number of Gamers: 816
-  Percentage of Gamers: 30%
-  Ratio: 1.82
-  TA: '91'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '50'
   Tags:
   - Offline Mode
   - Single Player
@@ -289,11 +289,11 @@ Base Game Achievements:
 - Achievement Name: Back To The Puddles
   Description: Banish 25 Enemies
   GS: '15'
-  Guide: true
-  Number of Gamers: 290
-  Percentage of Gamers: 11%
-  Ratio: 3.06
-  TA: '45'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '15'
   Tags:
   - Offline Mode
   - Single Player
@@ -301,11 +301,11 @@ Base Game Achievements:
 - Achievement Name: Heavy Hitter
   Description: Defeat 25 Enemies With Shock Pipe
   GS: '15'
-  Guide: true
-  Number of Gamers: 158
-  Percentage of Gamers: 6%
-  Ratio: 4.17
-  TA: '62'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '15'
   Tags:
   - Offline Mode
   - Single Player
@@ -313,11 +313,11 @@ Base Game Achievements:
 - Achievement Name: Crawling Killer
   Description: Defeat the Crawling King
   GS: '25'
-  Guide: true
-  Number of Gamers: 1180
-  Percentage of Gamers: 43%
-  Ratio: 1.51
-  TA: '37'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
@@ -325,11 +325,11 @@ Base Game Achievements:
 - Achievement Name: The Master's Pen
   Description: Complete The Main Story
   GS: '50'
-  Guide: true
-  Number of Gamers: 937
-  Percentage of Gamers: 34%
-  Ratio: 1.7
-  TA: '85'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '50'
   Tags:
   - Offline Mode
   - Single Player
@@ -339,11 +339,11 @@ Base Game Achievements:
 - Achievement Name: Did You See That?
   Description: A Very Random Occurance
   GS: '5'
-  Guide: true
-  Number of Gamers: 431
-  Percentage of Gamers: 16%
-  Ratio: 2.52
-  TA: '12'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '5'
   Tags:
   - Offline Mode
   - Single Player
@@ -352,10 +352,10 @@ Base Game Achievements:
 - Achievement Name: The Ritual
   Description: Clean Up The Exhibit
   GS: '10'
-  Guide: true
-  Number of Gamers: 2693
-  Percentage of Gamers: 99%
-  Ratio: 1.0
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
   TA: '10'
   Tags:
   - Offline Mode
@@ -364,22 +364,22 @@ Base Game Achievements:
 - Achievement Name: Time To Reflect
   Description: Take Some Time For Yourself
   GS: '10'
-  Guide: true
-  Number of Gamers: 521
-  Percentage of Gamers: 19%
-  Ratio: 2.29
-  TA: '22'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: It Stinks
   Description: You Should Really Just Relax
   GS: '10'
-  Guide: true
-  Number of Gamers: 443
-  Percentage of Gamers: 16%
-  Ratio: 2.47
-  TA: '24'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -387,10 +387,10 @@ Base Game Achievements:
   Description: Defeat the Ruler of the Lower Realm
   GS: '25'
   Guide: false
-  Number of Gamers: 1100
-  Percentage of Gamers: 40%
-  Ratio: 1.57
-  TA: '39'
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
@@ -398,10 +398,10 @@ Base Game Achievements:
 - Achievement Name: Welcome To The Studio
   Description: Meet Up With An Old Friend
   GS: '10'
-  Guide: true
-  Number of Gamers: 2496
-  Percentage of Gamers: 91%
-  Ratio: 1.04
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
   TA: '10'
   Tags:
   - Offline Mode
@@ -410,11 +410,11 @@ Base Game Achievements:
 - Achievement Name: Banish The Darkness
   Description: Obtain The Banish Power
   GS: '10'
-  Guide: true
-  Number of Gamers: 1986
-  Percentage of Gamers: 73%
-  Ratio: 1.17
-  TA: '11'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '10'
   Tags:
   - Offline Mode
   - Single Player
@@ -422,35 +422,35 @@ Base Game Achievements:
 - Achievement Name: Big Spender
   Description: Spend 500 Slugs
   GS: '25'
-  Guide: true
-  Number of Gamers: 145
-  Percentage of Gamers: 5%
-  Ratio: 4.34
-  TA: '108'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
   - Shop
-Base Ratio: 2.484
-Base TA: 2484
+Base Ratio: 1.0
+Base TA: 1000
 Delisted: false
 Developer: Joey Drew Studios
 Game Name: Bendy and the Dark Revival
 Genres: Stealth, Survival Horror
-Install Size: 8160.0
-Number of Completions: 111
-Number of Gamers: 2733
+Install Size: 8650.0
+Number of Completions: 0
+Number of Gamers: 1
 Overall Completion Time:
-- 20.0
-- 25.0
+- -1
+- -1
 Overall GS: 1000
-Overall Ratio: 2.484
-Overall TA: 2484
+Overall Ratio: 1.0
+Overall TA: 1000
 PDU: 0
-Percentage Completed: 4.06
+Percentage Completed: 0.0
 Publisher: Joey Drew Studios
-Release Date: 01 March 2023
+Release Date: 11 July 2025
 Server Closure: false
-Site Rating: 3.67
+Site Rating: None
 Update Achievements: []
 Walkthrough: false

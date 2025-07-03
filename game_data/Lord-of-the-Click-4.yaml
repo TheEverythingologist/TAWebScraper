@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 0.5
-Base GS: 1000
+- 1.0
+Base GS: 2000
 Base Game Achievements:
 - Achievement Name: The Blue Wasteland
   Description: Reach 2nd level
   GS: '100'
   Guide: false
-  Number of Gamers: 503
+  Number of Gamers: 926
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '100'
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Reach 3rd level
   GS: '100'
   Guide: false
-  Number of Gamers: 489
+  Number of Gamers: 899
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '101'
@@ -32,8 +32,8 @@ Base Game Achievements:
   Description: Reach 4th level
   GS: '100'
   Guide: false
-  Number of Gamers: 481
-  Percentage of Gamers: 96%
+  Number of Gamers: 885
+  Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
   Tags:
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Reach 5th level
   GS: '100'
   Guide: false
-  Number of Gamers: 471
+  Number of Gamers: 875
   Percentage of Gamers: 94%
-  Ratio: 1.03
-  TA: '103'
+  Ratio: 1.02
+  TA: '102'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,7 +56,7 @@ Base Game Achievements:
   Description: Reach 6th level
   GS: '100'
   Guide: false
-  Number of Gamers: 466
+  Number of Gamers: 865
   Percentage of Gamers: 93%
   Ratio: 1.03
   TA: '103'
@@ -68,7 +68,7 @@ Base Game Achievements:
   Description: Reach 7th level
   GS: '100'
   Guide: false
-  Number of Gamers: 462
+  Number of Gamers: 854
   Percentage of Gamers: 92%
   Ratio: 1.04
   TA: '104'
@@ -80,7 +80,7 @@ Base Game Achievements:
   Description: Kill 500 enemies
   GS: '100'
   Guide: false
-  Number of Gamers: 490
+  Number of Gamers: 903
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '101'
@@ -92,8 +92,8 @@ Base Game Achievements:
   Description: Kill 1000 enemies
   GS: '100'
   Guide: false
-  Number of Gamers: 486
-  Percentage of Gamers: 97%
+  Number of Gamers: 895
+  Percentage of Gamers: 96%
   Ratio: 1.01
   TA: '101'
   Tags:
@@ -104,8 +104,8 @@ Base Game Achievements:
   Description: Kill 2000 enemies
   GS: '100'
   Guide: false
-  Number of Gamers: 475
-  Percentage of Gamers: 94%
+  Number of Gamers: 881
+  Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
   Tags:
@@ -116,34 +116,94 @@ Base Game Achievements:
   Description: Kill 3000 enemies
   GS: '100'
   Guide: false
-  Number of Gamers: 471
+  Number of Gamers: 876
   Percentage of Gamers: 94%
-  Ratio: 1.03
-  TA: '103'
+  Ratio: 1.02
+  TA: '102'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 1.02
-Base TA: 1020
+Base Ratio: 1.0695
+Base TA: 2139
 Delisted: false
 Developer: HugePixel
 Game Name: Lord of the Click 4
 Genres: Management
 Install Size: 469.0
-Number of Completions: 462
-Number of Gamers: 503
+Number of Completions: 719
+Number of Gamers: 930
 Overall Completion Time:
 - 0.0
-- 0.5
-Overall GS: 1000
-Overall Ratio: 1.02
-Overall TA: 1020
+- 1.0
+Overall GS: 2000
+Overall Ratio: 1.0695
+Overall TA: 2139
 PDU: 0
-Percentage Completed: 91.85
+Percentage Completed: 77.31
 Publisher: Desert Water Games
 Release Date: 06 December 2024
 Server Closure: false
-Site Rating: 2.58
-Update Achievements: []
+Site Rating: 2.43
+Update Achievements:
+- Achievement Name: High King II
+  Description: Kill 3500 enemies
+  GS: '200'
+  Guide: false
+  Number of Gamers: 732
+  Percentage of Gamers: 79%
+  Ratio: 1.12
+  TA: '225'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Supreme King
+  Description: Kill 4000 enemies
+  GS: '200'
+  Guide: false
+  Number of Gamers: 726
+  Percentage of Gamers: 78%
+  Ratio: 1.13
+  TA: '226'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Wind Hill
+  Description: Reach 8th level
+  GS: '200'
+  Guide: true
+  Number of Gamers: 719
+  Percentage of Gamers: 77%
+  Ratio: 1.13
+  TA: '227'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Reinforcements are on their way
+  Description: Summon 25 units
+  GS: '200'
+  Guide: false
+  Number of Gamers: 756
+  Percentage of Gamers: 81%
+  Ratio: 1.1
+  TA: '221'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Power advantage
+  Description: Summon 50 units
+  GS: '200'
+  Guide: false
+  Number of Gamers: 753
+  Percentage of Gamers: 81%
+  Ratio: 1.11
+  TA: '222'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 Walkthrough: false

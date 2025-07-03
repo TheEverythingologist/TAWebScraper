@@ -1,14 +1,153 @@
-Add On Achievements: []
+Add On Achievements:
+- Achievement Name: Unnerving Mass
+  Description: Kill 7+ Slimes in a single combat
+  GS: '20'
+  Guide: false
+  Number of Gamers: 31
+  Percentage of Gamers: 23%
+  Ratio: 4.22
+  TA: '84'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Catacomb Cracker
+  Description: Have any hero use a Cracked Geode in combat
+  GS: '20'
+  Guide: true
+  Number of Gamers: 24
+  Percentage of Gamers: 18%
+  Ratio: 4.73
+  TA: '94'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Chthonian Nightmares
+  Description: Clear the Catacombs and the Sluice in a single expedition
+  GS: '25'
+  Guide: true
+  Number of Gamers: 62
+  Percentage of Gamers: 46%
+  Ratio: 2.95
+  TA: '73'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Transformed
+  Description: Complete Abomination's Backstory
+  GS: '20'
+  Guide: false
+  Number of Gamers: 98
+  Percentage of Gamers: 73%
+  Ratio: 2.32
+  TA: '46'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Inquisition's Prize
+  Description: Apply 5 memories onto the Abomination
+  GS: '20'
+  Guide: false
+  Number of Gamers: 13
+  Percentage of Gamers: 10%
+  Ratio: 6.3
+  TA: '126'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Sacrilegious
+  Description: 'Form a team with the Abomination and 3 of the following heroes: Vestal,
+    Crusader, Flagellant, Leper'
+  GS: '20'
+  Guide: false
+  Number of Gamers: 42
+  Percentage of Gamers: 31%
+  Ratio: 3.5
+  TA: '70'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: It's Not A Phase
+  Description: Have the Abomination force a resolve check for 2 heroes in a single
+    Expedition or Kingdom campaign.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 25
+  Percentage of Gamers: 19%
+  Ratio: 4.54
+  TA: '90'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Three Chains
+  Description: Have the Abomination use a Coiled Chain on the Cryptkeeper in the Catacombs
+  GS: '20'
+  Guide: true
+  Number of Gamers: 5
+  Percentage of Gamers: 4%
+  Ratio: 10.16
+  TA: '203'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Undecided
+  Description: Have the Abomination transform into beast form three times in a single
+    fight
+  GS: '20'
+  Guide: false
+  Number of Gamers: 28
+  Percentage of Gamers: 21%
+  Ratio: 4.37
+  TA: '87'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Let Them Fight
+  Description: Land the killing blow on the Alpha Rot Claw from the Abomination
+  GS: '20'
+  Guide: false
+  Number of Gamers: 9
+  Percentage of Gamers: 7%
+  Ratio: 8.03
+  TA: '160'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Paid Off
+  Description: Hit the Antiquarian with a Ragged Coin Purse
+  GS: '20'
+  Guide: true
+  Number of Gamers: 9
+  Percentage of Gamers: 7%
+  Ratio: 7.57
+  TA: '151'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Toxoplasma Gondii
+  Description: Gain each of the effects from the Purloiner Felid at least once in
+    a single expedition or campaign
+  GS: '25'
+  Guide: true
+  Number of Gamers: 9
+  Percentage of Gamers: 7%
+  Ratio: 7.57
+  TA: '189'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 Base Completion Time:
-- 185
-- 186
-Base GS: 1250
+- 218
+- 219
+Base GS: 1590
 Base Game Achievements:
 - Achievement Name: Don't Make Me Turn This Coach Around
   Description: Have a hero meltdown
   GS: '5'
   Guide: false
-  Number of Gamers: 1556
+  Number of Gamers: 1773
   Percentage of Gamers: 87%
   Ratio: 1.07
   TA: '5'
@@ -19,8 +158,8 @@ Base Game Achievements:
   Description: Have a hero become resolute
   GS: '5'
   Guide: false
-  Number of Gamers: 1447
-  Percentage of Gamers: 81%
+  Number of Gamers: 1638
+  Percentage of Gamers: 80%
   Ratio: 1.11
   TA: '5'
   Tags:
@@ -30,7 +169,7 @@ Base Game Achievements:
   Description: Apply a memory onto a hero
   GS: '5'
   Guide: false
-  Number of Gamers: 892
+  Number of Gamers: 1028
   Percentage of Gamers: 50%
   Ratio: 1.41
   TA: '7'
@@ -41,10 +180,10 @@ Base Game Achievements:
   Description: Apply 5 memories onto a single hero
   GS: '10'
   Guide: false
-  Number of Gamers: 66
-  Percentage of Gamers: 4%
-  Ratio: 5.21
-  TA: '52'
+  Number of Gamers: 94
+  Percentage of Gamers: 5%
+  Ratio: 4.68
+  TA: '46'
   Tags:
   - Offline Mode
   - Single Player
@@ -53,7 +192,7 @@ Base Game Achievements:
   Description: Unlock the Flagellant
   GS: '5'
   Guide: false
-  Number of Gamers: 999
+  Number of Gamers: 1137
   Percentage of Gamers: 56%
   Ratio: 1.34
   TA: '6'
@@ -65,8 +204,8 @@ Base Game Achievements:
   Description: Unlock the Hellion
   GS: '5'
   Guide: false
-  Number of Gamers: 1109
-  Percentage of Gamers: 62%
+  Number of Gamers: 1254
+  Percentage of Gamers: 61%
   Ratio: 1.27
   TA: '6'
   Tags:
@@ -77,9 +216,9 @@ Base Game Achievements:
   Description: Unlock the Jester
   GS: '5'
   Guide: false
-  Number of Gamers: 1033
+  Number of Gamers: 1174
   Percentage of Gamers: 57%
-  Ratio: 1.31
+  Ratio: 1.32
   TA: '6'
   Tags:
   - Offline Mode
@@ -89,7 +228,7 @@ Base Game Achievements:
   Description: Unlock the Leper
   GS: '5'
   Guide: false
-  Number of Gamers: 1077
+  Number of Gamers: 1223
   Percentage of Gamers: 60%
   Ratio: 1.29
   TA: '6'
@@ -101,7 +240,7 @@ Base Game Achievements:
   Description: Unlock the Occultist
   GS: '5'
   Guide: false
-  Number of Gamers: 975
+  Number of Gamers: 1109
   Percentage of Gamers: 54%
   Ratio: 1.35
   TA: '6'
@@ -113,7 +252,7 @@ Base Game Achievements:
   Description: Unlock the Runaway
   GS: '5'
   Guide: false
-  Number of Gamers: 969
+  Number of Gamers: 1098
   Percentage of Gamers: 54%
   Ratio: 1.36
   TA: '6'
@@ -125,9 +264,9 @@ Base Game Achievements:
   Description: Unlock the Vestal
   GS: '5'
   Guide: false
-  Number of Gamers: 1159
+  Number of Gamers: 1308
   Percentage of Gamers: 64%
-  Ratio: 1.24
+  Ratio: 1.25
   TA: '6'
   Tags:
   - Offline Mode
@@ -137,10 +276,10 @@ Base Game Achievements:
   Description: Unlock 100% of the Altar of Hope
   GS: '30'
   Guide: false
-  Number of Gamers: 62
-  Percentage of Gamers: 3%
-  Ratio: 5.38
-  TA: '161'
+  Number of Gamers: 81
+  Percentage of Gamers: 4%
+  Ratio: 5.01
+  TA: '150'
   Tags:
   - Offline Mode
   - Single Player
@@ -149,9 +288,9 @@ Base Game Achievements:
   Description: Unlock 50% of the Altar of Hope
   GS: '20'
   Guide: false
-  Number of Gamers: 355
+  Number of Gamers: 418
   Percentage of Gamers: 20%
-  Ratio: 2.24
+  Ratio: 2.21
   TA: '44'
   Tags:
   - Offline Mode
@@ -161,9 +300,9 @@ Base Game Achievements:
   Description: Unlock 25% of the Altar of Hope
   GS: '10'
   Guide: false
-  Number of Gamers: 683
+  Number of Gamers: 787
   Percentage of Gamers: 38%
-  Ratio: 1.62
+  Ratio: 1.61
   TA: '16'
   Tags:
   - Offline Mode
@@ -173,9 +312,9 @@ Base Game Achievements:
   Description: Kill 100 Creatures
   GS: '5'
   Guide: false
-  Number of Gamers: 477
+  Number of Gamers: 561
   Percentage of Gamers: 27%
-  Ratio: 1.94
+  Ratio: 1.9
   TA: '9'
   Tags:
   - Offline Mode
@@ -185,9 +324,9 @@ Base Game Achievements:
   Description: Defeat the Antiquarian
   GS: '5'
   Guide: true
-  Number of Gamers: 495
+  Number of Gamers: 571
   Percentage of Gamers: 28%
-  Ratio: 1.9
+  Ratio: 1.89
   TA: '9'
   Tags:
   - Offline Game Mode
@@ -196,9 +335,9 @@ Base Game Achievements:
   Description: Kill 100 Cadavers
   GS: '5'
   Guide: false
-  Number of Gamers: 491
-  Percentage of Gamers: 27%
-  Ratio: 1.91
+  Number of Gamers: 591
+  Percentage of Gamers: 29%
+  Ratio: 1.86
   TA: '9'
   Tags:
   - Offline Mode
@@ -208,9 +347,9 @@ Base Game Achievements:
   Description: Kill 100 Cosmic Beings
   GS: '10'
   Guide: false
-  Number of Gamers: 602
-  Percentage of Gamers: 34%
-  Ratio: 1.72
+  Number of Gamers: 711
+  Percentage of Gamers: 35%
+  Ratio: 1.7
   TA: '17'
   Tags:
   - Offline Mode
@@ -220,9 +359,9 @@ Base Game Achievements:
   Description: Defeat Death
   GS: '10'
   Guide: true
-  Number of Gamers: 415
-  Percentage of Gamers: 23%
-  Ratio: 2.08
+  Number of Gamers: 493
+  Percentage of Gamers: 24%
+  Ratio: 2.03
   TA: '20'
   Tags:
   - Offline Game Mode
@@ -231,7 +370,7 @@ Base Game Achievements:
   Description: Defeat the lair boss found in the Tangle
   GS: '10'
   Guide: false
-  Number of Gamers: 818
+  Number of Gamers: 933
   Percentage of Gamers: 46%
   Ratio: 1.48
   TA: '14'
@@ -242,9 +381,9 @@ Base Game Achievements:
   Description: Kill 100 Fanatics
   GS: '5'
   Guide: false
-  Number of Gamers: 406
-  Percentage of Gamers: 23%
-  Ratio: 2.1
+  Number of Gamers: 497
+  Percentage of Gamers: 24%
+  Ratio: 2.02
   TA: '10'
   Tags:
   - Offline Mode
@@ -254,9 +393,9 @@ Base Game Achievements:
   Description: Kill 100 Fisherfolk
   GS: '5'
   Guide: false
-  Number of Gamers: 231
-  Percentage of Gamers: 13%
-  Ratio: 2.78
+  Number of Gamers: 277
+  Percentage of Gamers: 14%
+  Ratio: 2.71
   TA: '13'
   Tags:
   - Offline Mode
@@ -266,9 +405,9 @@ Base Game Achievements:
   Description: Kill 100 Gaunt
   GS: '5'
   Guide: false
-  Number of Gamers: 759
-  Percentage of Gamers: 42%
-  Ratio: 1.53
+  Number of Gamers: 881
+  Percentage of Gamers: 43%
+  Ratio: 1.52
   TA: '7'
   Tags:
   - Offline Mode
@@ -278,10 +417,10 @@ Base Game Achievements:
   Description: Kill 100 Gentry
   GS: '5'
   Guide: false
-  Number of Gamers: 194
-  Percentage of Gamers: 11%
-  Ratio: 3.04
-  TA: '15'
+  Number of Gamers: 255
+  Percentage of Gamers: 12%
+  Ratio: 2.82
+  TA: '14'
   Tags:
   - Offline Mode
   - Single Player
@@ -290,9 +429,9 @@ Base Game Achievements:
   Description: Defeat the lair boss found in the Foetor
   GS: '10'
   Guide: false
-  Number of Gamers: 481
+  Number of Gamers: 555
   Percentage of Gamers: 27%
-  Ratio: 1.93
+  Ratio: 1.91
   TA: '19'
   Tags:
   - Offline Game Mode
@@ -301,10 +440,10 @@ Base Game Achievements:
   Description: Land the killing blow on a lair boss from the Bounty Hunter
   GS: '20'
   Guide: false
-  Number of Gamers: 139
+  Number of Gamers: 167
   Percentage of Gamers: 8%
-  Ratio: 3.59
-  TA: '71'
+  Ratio: 3.5
+  TA: '70'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -312,9 +451,9 @@ Base Game Achievements:
   Description: Defeat the lair boss found in the Shroud
   GS: '10'
   Guide: true
-  Number of Gamers: 410
+  Number of Gamers: 481
   Percentage of Gamers: 23%
-  Ratio: 2.09
+  Ratio: 2.06
   TA: '20'
   Tags:
   - Offline Game Mode
@@ -323,9 +462,9 @@ Base Game Achievements:
   Description: Defeat the lair boss found in the Sprawl
   GS: '10'
   Guide: false
-  Number of Gamers: 754
-  Percentage of Gamers: 42%
-  Ratio: 1.54
+  Number of Gamers: 872
+  Percentage of Gamers: 43%
+  Ratio: 1.53
   TA: '15'
   Tags:
   - Offline Game Mode
@@ -334,9 +473,9 @@ Base Game Achievements:
   Description: Kill 100 Pillagers
   GS: '5'
   Guide: false
-  Number of Gamers: 485
-  Percentage of Gamers: 27%
-  Ratio: 1.92
+  Number of Gamers: 570
+  Percentage of Gamers: 28%
+  Ratio: 1.89
   TA: '9'
   Tags:
   - Offline Mode
@@ -346,9 +485,9 @@ Base Game Achievements:
   Description: Defeat a Shambler
   GS: '10'
   Guide: true
-  Number of Gamers: 534
-  Percentage of Gamers: 30%
-  Ratio: 1.83
+  Number of Gamers: 627
+  Percentage of Gamers: 31%
+  Ratio: 1.8
   TA: '18'
   Tags:
   - Offline Game Mode
@@ -357,21 +496,21 @@ Base Game Achievements:
   Description: Defeat a Shambler with Shambler's Spawn equipped
   GS: '20'
   Guide: true
-  Number of Gamers: 50
+  Number of Gamers: 65
   Percentage of Gamers: 3%
-  Ratio: 5.99
-  TA: '119'
+  Ratio: 5.59
+  TA: '111'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Bacon Bits
   Description: Kill 100 Swine
   GS: '5'
-  Guide: false
-  Number of Gamers: 59
-  Percentage of Gamers: 3%
-  Ratio: 5.51
-  TA: '27'
+  Guide: true
+  Number of Gamers: 78
+  Percentage of Gamers: 4%
+  Ratio: 5.11
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
@@ -380,10 +519,10 @@ Base Game Achievements:
   Description: Party wipe against each Confession endboss
   GS: '20'
   Guide: false
-  Number of Gamers: 28
+  Number of Gamers: 38
   Percentage of Gamers: 2%
-  Ratio: 8.01
-  TA: '160'
+  Ratio: 7.32
+  TA: '146'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -391,9 +530,9 @@ Base Game Achievements:
   Description: Party wipe against any Confession endboss
   GS: '5'
   Guide: false
-  Number of Gamers: 912
-  Percentage of Gamers: 51%
-  Ratio: 1.4
+  Number of Gamers: 1017
+  Percentage of Gamers: 50%
+  Ratio: 1.41
   TA: '7'
   Tags:
   - Offline Game Mode
@@ -402,10 +541,10 @@ Base Game Achievements:
   Description: Defeat 3 lair bosses in a single expedition
   GS: '20'
   Guide: true
-  Number of Gamers: 151
-  Percentage of Gamers: 8%
-  Ratio: 3.44
-  TA: '68'
+  Number of Gamers: 183
+  Percentage of Gamers: 9%
+  Ratio: 3.33
+  TA: '66'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -413,9 +552,9 @@ Base Game Achievements:
   Description: Clear the Sluice
   GS: '5'
   Guide: true
-  Number of Gamers: 642
+  Number of Gamers: 733
   Percentage of Gamers: 36%
-  Ratio: 1.67
+  Ratio: 1.66
   TA: '8'
   Tags:
   - Offline Mode
@@ -425,7 +564,7 @@ Base Game Achievements:
   Description: Clear the Sprawl
   GS: '5'
   Guide: false
-  Number of Gamers: 1363
+  Number of Gamers: 1548
   Percentage of Gamers: 76%
   Ratio: 1.14
   TA: '5'
@@ -437,9 +576,9 @@ Base Game Achievements:
   Description: Clear the Shroud
   GS: '5'
   Guide: false
-  Number of Gamers: 756
-  Percentage of Gamers: 42%
-  Ratio: 1.54
+  Number of Gamers: 885
+  Percentage of Gamers: 43%
+  Ratio: 1.52
   TA: '7'
   Tags:
   - Offline Mode
@@ -449,9 +588,9 @@ Base Game Achievements:
   Description: Clear the Foetor
   GS: '5'
   Guide: false
-  Number of Gamers: 765
-  Percentage of Gamers: 43%
-  Ratio: 1.53
+  Number of Gamers: 891
+  Percentage of Gamers: 44%
+  Ratio: 1.51
   TA: '7'
   Tags:
   - Offline Mode
@@ -461,7 +600,7 @@ Base Game Achievements:
   Description: Clear the Tangle
   GS: '5'
   Guide: false
-  Number of Gamers: 1356
+  Number of Gamers: 1538
   Percentage of Gamers: 75%
   Ratio: 1.15
   TA: '5'
@@ -473,9 +612,9 @@ Base Game Achievements:
   Description: Drive 1,000 leagues in the stagecoach
   GS: '5'
   Guide: false
-  Number of Gamers: 952
-  Percentage of Gamers: 53%
-  Ratio: 1.37
+  Number of Gamers: 1111
+  Percentage of Gamers: 54%
+  Ratio: 1.35
   TA: '6'
   Tags:
   - Offline Mode
@@ -485,10 +624,10 @@ Base Game Achievements:
   Description: Drive 20,000 leagues in the stagecoach
   GS: '20'
   Guide: true
-  Number of Gamers: 20
-  Percentage of Gamers: 1%
-  Ratio: 9.47
-  TA: '189'
+  Number of Gamers: 44
+  Percentage of Gamers: 2%
+  Ratio: 6.8
+  TA: '136'
   Tags:
   - Offline Mode
   - Single Player
@@ -497,10 +636,10 @@ Base Game Achievements:
   Description: Lose a hero who was full of memories
   GS: '50'
   Guide: false
-  Number of Gamers: 48
+  Number of Gamers: 65
   Percentage of Gamers: 3%
-  Ratio: 6.11
-  TA: '305'
+  Ratio: 5.64
+  TA: '282'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -508,8 +647,8 @@ Base Game Achievements:
   Description: Master 5 skills on a single hero during an expedition
   GS: '5'
   Guide: false
-  Number of Gamers: 1100
-  Percentage of Gamers: 61%
+  Number of Gamers: 1264
+  Percentage of Gamers: 62%
   Ratio: 1.27
   TA: '6'
   Tags:
@@ -520,10 +659,10 @@ Base Game Achievements:
   Description: Complete all heroes' entire backstory
   GS: '20'
   Guide: true
-  Number of Gamers: 146
-  Percentage of Gamers: 8%
-  Ratio: 3.5
-  TA: '70'
+  Number of Gamers: 189
+  Percentage of Gamers: 9%
+  Ratio: 3.29
+  TA: '65'
   Tags:
   - Offline Mode
   - Single Player
@@ -532,7 +671,7 @@ Base Game Achievements:
   Description: Complete any hero's entire backstory
   GS: '20'
   Guide: false
-  Number of Gamers: 963
+  Number of Gamers: 1097
   Percentage of Gamers: 54%
   Ratio: 1.36
   TA: '27'
@@ -544,9 +683,9 @@ Base Game Achievements:
   Description: Purchase an indelible trinket from the Hoarder
   GS: '5'
   Guide: false
-  Number of Gamers: 682
-  Percentage of Gamers: 38%
-  Ratio: 1.62
+  Number of Gamers: 790
+  Percentage of Gamers: 39%
+  Ratio: 1.6
   TA: '8'
   Tags:
   - Offline Mode
@@ -557,9 +696,9 @@ Base Game Achievements:
     at a single Field Hospital
   GS: '5'
   Guide: true
-  Number of Gamers: 204
-  Percentage of Gamers: 11%
-  Ratio: 2.96
+  Number of Gamers: 252
+  Percentage of Gamers: 12%
+  Ratio: 2.84
   TA: '14'
   Tags:
   - Offline Game Mode
@@ -568,7 +707,7 @@ Base Game Achievements:
   Description: Reach the first Inn
   GS: '5'
   Guide: false
-  Number of Gamers: 1797
+  Number of Gamers: 2045
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '5'
@@ -580,9 +719,9 @@ Base Game Achievements:
   Description: Hire the Bounty Hunter
   GS: '5'
   Guide: true
-  Number of Gamers: 462
-  Percentage of Gamers: 26%
-  Ratio: 1.97
+  Number of Gamers: 544
+  Percentage of Gamers: 27%
+  Ratio: 1.93
   TA: '9'
   Tags:
   - Offline Mode
@@ -592,9 +731,9 @@ Base Game Achievements:
   Description: Find a replacement for a fallen hero
   GS: '5'
   Guide: false
-  Number of Gamers: 1053
+  Number of Gamers: 1212
   Percentage of Gamers: 59%
-  Ratio: 1.3
+  Ratio: 1.29
   TA: '6'
   Tags:
   - Offline Game Mode
@@ -603,10 +742,10 @@ Base Game Achievements:
   Description: Visit every Inn
   GS: '20'
   Guide: true
-  Number of Gamers: 128
-  Percentage of Gamers: 7%
-  Ratio: 3.74
-  TA: '74'
+  Number of Gamers: 175
+  Percentage of Gamers: 9%
+  Ratio: 3.41
+  TA: '68'
   Tags:
   - Offline Mode
   - Single Player
@@ -615,10 +754,10 @@ Base Game Achievements:
   Description: Enter the Mountain with a full party and all negative relationships
   GS: '10'
   Guide: true
-  Number of Gamers: 64
+  Number of Gamers: 78
   Percentage of Gamers: 4%
-  Ratio: 5.29
-  TA: '52'
+  Ratio: 5.11
+  TA: '51'
   Tags:
   - Offline Mode
   - Single Player
@@ -627,10 +766,10 @@ Base Game Achievements:
   Description: Enter the Mountain with a full party and all positive relationships
   GS: '10'
   Guide: false
-  Number of Gamers: 255
-  Percentage of Gamers: 14%
-  Ratio: 2.65
-  TA: '26'
+  Number of Gamers: 305
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
@@ -639,10 +778,10 @@ Base Game Achievements:
   Description: Have a full roster of heroes with at least one memory each
   GS: '20'
   Guide: false
-  Number of Gamers: 99
+  Number of Gamers: 121
   Percentage of Gamers: 6%
-  Ratio: 4.26
-  TA: '85'
+  Ratio: 4.13
+  TA: '82'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -650,7 +789,7 @@ Base Game Achievements:
   Description: Abandon an expedition
   GS: '5'
   Guide: false
-  Number of Gamers: 1179
+  Number of Gamers: 1347
   Percentage of Gamers: 66%
   Ratio: 1.23
   TA: '6'
@@ -661,7 +800,7 @@ Base Game Achievements:
   Description: Complete Denial
   GS: '20'
   Guide: false
-  Number of Gamers: 1034
+  Number of Gamers: 1182
   Percentage of Gamers: 58%
   Ratio: 1.31
   TA: '26'
@@ -673,10 +812,10 @@ Base Game Achievements:
   Description: Complete Resentment
   GS: '50'
   Guide: false
-  Number of Gamers: 445
-  Percentage of Gamers: 25%
-  Ratio: 2.0
-  TA: '100'
+  Number of Gamers: 538
+  Percentage of Gamers: 26%
+  Ratio: 1.95
+  TA: '97'
   Tags:
   - Offline Mode
   - Single Player
@@ -685,10 +824,10 @@ Base Game Achievements:
   Description: Complete Obsession
   GS: '50'
   Guide: false
-  Number of Gamers: 313
-  Percentage of Gamers: 17%
-  Ratio: 2.39
-  TA: '119'
+  Number of Gamers: 383
+  Percentage of Gamers: 19%
+  Ratio: 2.3
+  TA: '115'
   Tags:
   - Offline Mode
   - Single Player
@@ -697,10 +836,10 @@ Base Game Achievements:
   Description: Complete Ambition
   GS: '50'
   Guide: false
-  Number of Gamers: 230
-  Percentage of Gamers: 13%
-  Ratio: 2.79
-  TA: '139'
+  Number of Gamers: 292
+  Percentage of Gamers: 14%
+  Ratio: 2.64
+  TA: '132'
   Tags:
   - Offline Mode
   - Single Player
@@ -709,10 +848,10 @@ Base Game Achievements:
   Description: Complete Cowardice
   GS: '50'
   Guide: false
-  Number of Gamers: 165
-  Percentage of Gamers: 9%
-  Ratio: 3.3
-  TA: '165'
+  Number of Gamers: 223
+  Percentage of Gamers: 11%
+  Ratio: 3.02
+  TA: '151'
   Tags:
   - Offline Mode
   - Single Player
@@ -721,11 +860,11 @@ Base Game Achievements:
   Description: Defeat all 5 Confessions with the same four heroes without any of them
     dying
   GS: '100'
-  Guide: false
-  Number of Gamers: 52
-  Percentage of Gamers: 3%
-  Ratio: 5.87
-  TA: '587'
+  Guide: true
+  Number of Gamers: 72
+  Percentage of Gamers: 4%
+  Ratio: 5.32
+  TA: '532'
   Tags:
   - Offline Mode
   - Single Player
@@ -734,10 +873,10 @@ Base Game Achievements:
   Description: Defeat the final boss with the Stygian Blaze equipped
   GS: '100'
   Guide: false
-  Number of Gamers: 28
+  Number of Gamers: 34
   Percentage of Gamers: 2%
-  Ratio: 8.01
-  TA: '801'
+  Ratio: 7.74
+  TA: '774'
   Tags:
   - Offline Mode
   - Single Player
@@ -746,9 +885,9 @@ Base Game Achievements:
   Description: Have a trophy, pet, and four stagecoach items equipped all at once
   GS: '5'
   Guide: false
-  Number of Gamers: 431
-  Percentage of Gamers: 24%
-  Ratio: 2.04
+  Number of Gamers: 505
+  Percentage of Gamers: 25%
+  Ratio: 2.01
   TA: '10'
   Tags:
   - Offline Game Mode
@@ -757,10 +896,10 @@ Base Game Achievements:
   Description: Defeat the Collector
   GS: '10'
   Guide: false
-  Number of Gamers: 330
-  Percentage of Gamers: 18%
-  Ratio: 2.33
-  TA: '23'
+  Number of Gamers: 403
+  Percentage of Gamers: 20%
+  Ratio: 2.25
+  TA: '22'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -768,7 +907,7 @@ Base Game Achievements:
   Description: Defeat the Chirurgeon
   GS: '10'
   Guide: false
-  Number of Gamers: 1011
+  Number of Gamers: 1153
   Percentage of Gamers: 56%
   Ratio: 1.33
   TA: '13'
@@ -780,10 +919,10 @@ Base Game Achievements:
     fight
   GS: '20'
   Guide: true
-  Number of Gamers: 140
+  Number of Gamers: 166
   Percentage of Gamers: 8%
-  Ratio: 3.58
-  TA: '71'
+  Ratio: 3.5
+  TA: '70'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -791,10 +930,10 @@ Base Game Achievements:
   Description: Land the killing blow on a lair boss with The Boot from the Duelist
   GS: '20'
   Guide: true
-  Number of Gamers: 55
+  Number of Gamers: 64
   Percentage of Gamers: 3%
-  Ratio: 5.71
-  TA: '114'
+  Ratio: 5.64
+  TA: '112'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -802,10 +941,10 @@ Base Game Achievements:
   Description: Deal 20 damage with a Riposte skill from the Duelist
   GS: '50'
   Guide: true
-  Number of Gamers: 99
+  Number of Gamers: 121
   Percentage of Gamers: 6%
-  Ratio: 4.26
-  TA: '213'
+  Ratio: 4.1
+  TA: '205'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -813,10 +952,10 @@ Base Game Achievements:
   Description: Complete the Duelist's backstory
   GS: '10'
   Guide: false
-  Number of Gamers: 205
-  Percentage of Gamers: 11%
-  Ratio: 2.96
-  TA: '29'
+  Number of Gamers: 256
+  Percentage of Gamers: 13%
+  Ratio: 2.82
+  TA: '28'
   Tags:
   - Offline Mode
   - Single Player
@@ -825,10 +964,10 @@ Base Game Achievements:
   Description: Apply 5 memories onto the Duelist
   GS: '20'
   Guide: false
-  Number of Gamers: 31
+  Number of Gamers: 36
   Percentage of Gamers: 2%
-  Ratio: 7.61
-  TA: '152'
+  Ratio: 7.52
+  TA: '150'
   Tags:
   - Offline Mode
   - Single Player
@@ -837,10 +976,10 @@ Base Game Achievements:
   Description: Apply 5 memories onto the Crusader
   GS: '20'
   Guide: false
-  Number of Gamers: 38
-  Percentage of Gamers: 2%
-  Ratio: 6.87
-  TA: '137'
+  Number of Gamers: 54
+  Percentage of Gamers: 3%
+  Ratio: 6.2
+  TA: '124'
   Tags:
   - Offline Mode
   - Single Player
@@ -849,10 +988,10 @@ Base Game Achievements:
   Description: Complete the Crusader's backstory
   GS: '10'
   Guide: false
-  Number of Gamers: 443
+  Number of Gamers: 513
   Percentage of Gamers: 25%
-  Ratio: 2.01
-  TA: '20'
+  Ratio: 1.99
+  TA: '19'
   Tags:
   - Offline Mode
   - Single Player
@@ -861,10 +1000,10 @@ Base Game Achievements:
   Description: Complete Cowardice with the Highwayman and Crusader in your party
   GS: '50'
   Guide: false
-  Number of Gamers: 60
-  Percentage of Gamers: 3%
-  Ratio: 5.47
-  TA: '273'
+  Number of Gamers: 79
+  Percentage of Gamers: 4%
+  Ratio: 5.11
+  TA: '255'
   Tags:
   - Offline Mode
   - Single Player
@@ -873,10 +1012,10 @@ Base Game Achievements:
   Description: Land the killing blow on the Warlord from the Crusader
   GS: '20'
   Guide: false
-  Number of Gamers: 120
+  Number of Gamers: 144
   Percentage of Gamers: 7%
-  Ratio: 3.86
-  TA: '77'
+  Ratio: 3.76
+  TA: '75'
   Tags:
   - Offline Mode
   - Single Player
@@ -885,7 +1024,7 @@ Base Game Achievements:
   Description: Complete The Lost Crusade
   GS: '10'
   Guide: true
-  Number of Gamers: 755
+  Number of Gamers: 858
   Percentage of Gamers: 42%
   Ratio: 1.54
   TA: '15'
@@ -897,9 +1036,9 @@ Base Game Achievements:
   Description: Have the Highwayman and the Crusader form a positive relationship
   GS: '10'
   Guide: false
-  Number of Gamers: 349
-  Percentage of Gamers: 19%
-  Ratio: 2.26
+  Number of Gamers: 419
+  Percentage of Gamers: 20%
+  Ratio: 2.2
   TA: '22'
   Tags:
   - Offline Mode
@@ -909,33 +1048,279 @@ Base Game Achievements:
   Description: Complete an expedition with The Usual Suspects
   GS: '10'
   Guide: true
-  Number of Gamers: 131
-  Percentage of Gamers: 7%
-  Ratio: 3.7
-  TA: '37'
+  Number of Gamers: 160
+  Percentage of Gamers: 8%
+  Ratio: 3.56
+  TA: '35'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 4.0408
-Base TA: 5051
+Base Ratio: 6.033962264150944
+Base TA: 9594
 Delisted: false
 Developer: Red Hook Studios
 Game Name: Darkest Dungeon II
 Genres: Role Playing, Turn Based
-Install Size: 4900.0
-Number of Completions: 7
-Number of Gamers: 1797
+Install Size: 6240.0
+Number of Completions: 4
+Number of Gamers: 2047
 Overall Completion Time:
-- 185
-- 186
-Overall GS: 1250
-Overall Ratio: 4.0408
-Overall TA: 5051
+- 218
+- 219
+Overall GS: 1840
+Overall Ratio: 5.960326086956521
+Overall TA: 10967
 PDU: 0
-Percentage Completed: 0.39
+Percentage Completed: 0.2
 Publisher: Red Hook Studios
 Release Date: 15 July 2024
 Server Closure: false
-Site Rating: 4.3
-Update Achievements: []
+Site Rating: 4.25
+Update Achievements:
+- Achievement Name: Fanfare for the Common
+  Description: Defend a siege using only Peasant Militia
+  GS: '10'
+  Guide: true
+  Number of Gamers: 40
+  Percentage of Gamers: 2%
+  Ratio: 7.22
+  TA: '72'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Bat Signal
+  Description: Use a Signal Flare
+  GS: '10'
+  Guide: true
+  Number of Gamers: 39
+  Percentage of Gamers: 2%
+  Ratio: 7.63
+  TA: '76'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: A Little Hope
+  Description: Purchase an Inn Capstone
+  GS: '10'
+  Guide: true
+  Number of Gamers: 48
+  Percentage of Gamers: 2%
+  Ratio: 6.51
+  TA: '65'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Professional
+  Description: Complete 5 kill contracts in a single campaign
+  GS: '25'
+  Guide: true
+  Number of Gamers: 14
+  Percentage of Gamers: 1%
+  Ratio: 12.52
+  TA: '313'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Trophy Case
+  Description: Possess a Trophy from the Sprawl, Foetor, Tangle, Tundra and Shroud
+    at once in a single campaign
+  GS: '25'
+  Guide: false
+  Number of Gamers: 6
+  Percentage of Gamers: 0%
+  Ratio: 18.43
+  TA: '460'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: It's Complicated
+  Description: Have 8 heroes involved in relationships at the same time
+  GS: '10'
+  Guide: false
+  Number of Gamers: 10
+  Percentage of Gamers: 0%
+  Ratio: 14.27
+  TA: '142'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative
+- Achievement Name: Rebuilt
+  Description: Purchase one of each Inn Capstone in a single campaign
+  GS: '25'
+  Guide: true
+  Number of Gamers: 12
+  Percentage of Gamers: 1%
+  Ratio: 13.61
+  TA: '340'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Rumormonger
+  Description: Deliver 5 rumours over the course of a single campaign
+  GS: '10'
+  Guide: true
+  Number of Gamers: 7
+  Percentage of Gamers: 0%
+  Ratio: 17.06
+  TA: '170'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Tax Collector
+  Description: Collect 5 Inn treasures over the course of a single campaign
+  GS: '5'
+  Guide: true
+  Number of Gamers: 41
+  Percentage of Gamers: 2%
+  Ratio: 7.13
+  TA: '35'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Hard Day's Night
+  Description: Successfully complete a Kingdoms campaign on any difficulty without
+    ever passing a day.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 14
+  Percentage of Gamers: 1%
+  Ratio: 12.52
+  TA: '250'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Teetering on the Brink
+  Description: Successfully complete a Kingdoms campaign with no possible Inn losses
+    remaining
+  GS: '25'
+  Guide: false
+  Number of Gamers: 7
+  Percentage of Gamers: 0%
+  Ratio: 17.06
+  TA: '426'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: A Great Tomorrow
+  Description: Successfully complete a Kingdoms campaign while losing only a single
+    Inn
+  GS: '25'
+  Guide: false
+  Number of Gamers: 22
+  Percentage of Gamers: 1%
+  Ratio: 10.35
+  TA: '258'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: I've Been Here the Whole Time
+  Description: Clear 30 stealth tokens over the course of a single expedition or campaign
+  GS: '10'
+  Guide: false
+  Number of Gamers: 5
+  Percentage of Gamers: 0%
+  Ratio: 20.18
+  TA: '201'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Beasts Brought Low
+  Description: 'Successfully complete the K1: Hunger of the Beast Clan module on any
+    difficulty'
+  GS: '20'
+  Guide: false
+  Number of Gamers: 24
+  Percentage of Gamers: 1%
+  Ratio: 9.85
+  TA: '197'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
+- Achievement Name: Beast Blood
+  Description: 'Successfully complete the K1: Hunger of the Beast Clan module on Blood
+    Moon difficulty'
+  GS: '25'
+  Guide: false
+  Number of Gamers: 7
+  Percentage of Gamers: 0%
+  Ratio: 18.43
+  TA: '460'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Taste of their Own
+  Description: Land the killing blow on a beastman with a Huntsman Axe
+  GS: '5'
+  Guide: false
+  Number of Gamers: 17
+  Percentage of Gamers: 1%
+  Ratio: 11.28
+  TA: '56'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Veni Vidi VVitchy
+  Description: 'Successfully complete the K2: Secrets of the Coven module on any difficulty'
+  GS: '20'
+  Guide: false
+  Number of Gamers: 6
+  Percentage of Gamers: 0%
+  Ratio: 18.43
+  TA: '368'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Pure Skill
+  Description: Have any hero use a Mandrake Root and fail to stun an enemy while also
+    stunning yourself
+  GS: '20'
+  Guide: true
+  Number of Gamers: 12
+  Percentage of Gamers: 1%
+  Ratio: 14.27
+  TA: '285'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: License Revoked
+  Description: Have any hero use a Magic Mushroom on the Chirurgeon
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5
+  Percentage of Gamers: 0%
+  Ratio: 20.18
+  TA: '201'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: True Sight
+  Description: Always make the correct choice when encountering the Suspicious Few
+    in a single campaign
+  GS: '20'
+  Guide: true
+  Number of Gamers: 6
+  Percentage of Gamers: 0%
+  Ratio: 18.43
+  TA: '368'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Soup's On
+  Description: Defeat a cauldron before it can apply any herb effects, without using
+    a Finger Bomb
+  GS: '10'
+  Guide: false
+  Number of Gamers: 22
+  Percentage of Gamers: 1%
+  Ratio: 9.85
+  TA: '98'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 Walkthrough: false

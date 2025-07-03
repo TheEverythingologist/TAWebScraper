@@ -3,10 +3,10 @@ Add On Achievements:
   Description: Beat all "Cold as Eyes" scenarios
   GS: '75'
   Guide: false
-  Number of Gamers: 1886
-  Percentage of Gamers: 50%
-  Ratio: 2.56
-  TA: '192'
+  Number of Gamers: 2047
+  Percentage of Gamers: 51%
+  Ratio: 2.53
+  TA: '189'
   Tags:
   - Online/Offline
   - Single Player
@@ -16,10 +16,10 @@ Add On Achievements:
   Description: Kill 250 Cyclopes
   GS: '75'
   Guide: true
-  Number of Gamers: 2084
-  Percentage of Gamers: 55%
-  Ratio: 2.44
-  TA: '183'
+  Number of Gamers: 2261
+  Percentage of Gamers: 56%
+  Ratio: 2.4
+  TA: '180'
   Tags:
   - Online/Offline
   - Single Player
@@ -29,10 +29,10 @@ Add On Achievements:
   Description: Purchase all 3 pieces of "Cold as Eyes" gear
   GS: '75'
   Guide: true
-  Number of Gamers: 3771
+  Number of Gamers: 4009
   Percentage of Gamers: 100%
-  Ratio: 1.81
-  TA: '136'
+  Ratio: 1.8
+  TA: '135'
   Tags:
   - Online/Offline
   - Single Player
@@ -42,10 +42,10 @@ Add On Achievements:
   Description: 5 Skull one "Cold as Eyes" scenario on Endless
   GS: '100'
   Guide: false
-  Number of Gamers: 860
-  Percentage of Gamers: 23%
-  Ratio: 3.8
-  TA: '380'
+  Number of Gamers: 976
+  Percentage of Gamers: 24%
+  Ratio: 3.66
+  TA: '366'
   Tags:
   - Online/Offline
   - Single Player
@@ -54,10 +54,10 @@ Add On Achievements:
   Description: Kill 1000 Cyclopes
   GS: '100'
   Guide: true
-  Number of Gamers: 1273
-  Percentage of Gamers: 34%
-  Ratio: 3.12
-  TA: '312'
+  Number of Gamers: 1414
+  Percentage of Gamers: 35%
+  Ratio: 3.04
+  TA: '304'
   Tags:
   - Online/Offline
   - Single Player
@@ -67,10 +67,10 @@ Add On Achievements:
   Description: 5 Skull all "Cold as Eyes" scenarios on Rift Lord
   GS: '150'
   Guide: false
-  Number of Gamers: 673
-  Percentage of Gamers: 18%
-  Ratio: 4.3
-  TA: '645'
+  Number of Gamers: 770
+  Percentage of Gamers: 19%
+  Ratio: 4.12
+  TA: '619'
   Tags:
   - Online/Offline
   - Single Player
@@ -80,10 +80,10 @@ Add On Achievements:
   Description: Beat all "Tipping the Scales" scenarios
   GS: '75'
   Guide: false
-  Number of Gamers: 1585
-  Percentage of Gamers: 51%
-  Ratio: 2.66
-  TA: '199'
+  Number of Gamers: 1744
+  Percentage of Gamers: 52%
+  Ratio: 2.61
+  TA: '196'
   Tags:
   - Online/Offline
   - Single Player
@@ -92,10 +92,10 @@ Add On Achievements:
   Description: Kill 250 Tuatara
   GS: '75'
   Guide: false
-  Number of Gamers: 1960
-  Percentage of Gamers: 63%
-  Ratio: 2.39
-  TA: '179'
+  Number of Gamers: 2136
+  Percentage of Gamers: 64%
+  Ratio: 2.36
+  TA: '177'
   Tags:
   - Online/Offline
   - Single Player
@@ -105,10 +105,10 @@ Add On Achievements:
   Description: Purchase one upgrade for any "Tipping the Scales" gear
   GS: '75'
   Guide: true
-  Number of Gamers: 3009
+  Number of Gamers: 3229
   Percentage of Gamers: 97%
-  Ratio: 1.93
-  TA: '145'
+  Ratio: 1.92
+  TA: '144'
   Tags:
   - Online/Offline
   - Single Player
@@ -117,11 +117,11 @@ Add On Achievements:
 - Achievement Name: Heads and Tails
   Description: 5 Skull one "Tipping the Scales" scenario on Endless
   GS: '100'
-  Guide: true
-  Number of Gamers: 813
-  Percentage of Gamers: 26%
-  Ratio: 3.72
-  TA: '372'
+  Guide: false
+  Number of Gamers: 931
+  Percentage of Gamers: 28%
+  Ratio: 3.58
+  TA: '358'
   Tags:
   - Online/Offline
   - Single Player
@@ -129,11 +129,11 @@ Add On Achievements:
 - Achievement Name: Collecting Tails
   Description: Kill 1000 Tuatara
   GS: '100'
-  Guide: false
-  Number of Gamers: 1470
-  Percentage of Gamers: 47%
-  Ratio: 2.76
-  TA: '276'
+  Guide: true
+  Number of Gamers: 1621
+  Percentage of Gamers: 49%
+  Ratio: 2.71
+  TA: '271'
   Tags:
   - Online/Offline
   - Single Player
@@ -143,10 +143,10 @@ Add On Achievements:
   Description: 5 Skull all "Tipping the Scales" scenarios on Rift Lord
   GS: '150'
   Guide: false
-  Number of Gamers: 607
-  Percentage of Gamers: 20%
-  Ratio: 4.3
-  TA: '646'
+  Number of Gamers: 706
+  Percentage of Gamers: 21%
+  Ratio: 4.11
+  TA: '617'
   Tags:
   - Online/Offline
   - Single Player
@@ -161,34 +161,36 @@ Base Game Achievements:
   Description: All Achievements Unlocked
   GS: '100'
   Guide: false
-  Number of Gamers: 1395
-  Percentage of Gamers: 3%
-  Ratio: 5.41
-  TA: '541'
+  Number of Gamers: 1558
+  Percentage of Gamers: 4%
+  Ratio: 5.24
+  TA: '524'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
   - Difficulty Specific
   - Shop
+  - Buggy
 - Achievement Name: Collector
   Description: Acquire every item in the game
   GS: '70'
   Guide: true
-  Number of Gamers: 2271
+  Number of Gamers: 2498
   Percentage of Gamers: 6%
-  Ratio: 4.24
-  TA: '297'
+  Ratio: 4.14
+  TA: '289'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
   - Shop
+  - Buggy
 - Achievement Name: Assassin
   Description: Kill 100 enemies
   GS: '10'
   Guide: true
-  Number of Gamers: 40896
+  Number of Gamers: 42794
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '10'
@@ -201,9 +203,9 @@ Base Game Achievements:
   Description: Earn a total of 100,000 Coin
   GS: '30'
   Guide: true
-  Number of Gamers: 22803
+  Number of Gamers: 23925
   Percentage of Gamers: 56%
-  Ratio: 1.34
+  Ratio: 1.33
   TA: '40'
   Tags:
   - Online/Offline
@@ -213,11 +215,11 @@ Base Game Achievements:
 - Achievement Name: Valedictorian
   Description: 5 skulls on every scenario of the story campaign on Rift Lord
   GS: '70'
-  Guide: false
-  Number of Gamers: 1104
+  Guide: true
+  Number of Gamers: 1254
   Percentage of Gamers: 3%
-  Ratio: 6.09
-  TA: '426'
+  Ratio: 5.84
+  TA: '409'
   Tags:
   - Online/Offline
   - Single Player
@@ -226,11 +228,11 @@ Base Game Achievements:
 - Achievement Name: Rift Lord
   Description: Complete the Campaign on Rift Lord Difficulty
   GS: '50'
-  Guide: false
-  Number of Gamers: 1282
+  Guide: true
+  Number of Gamers: 1448
   Percentage of Gamers: 3%
-  Ratio: 5.65
-  TA: '282'
+  Ratio: 5.44
+  TA: '272'
   Tags:
   - Online/Offline
   - Single Player
@@ -242,7 +244,7 @@ Base Game Achievements:
   Description: Unlock all upgrades for a single trap
   GS: '10'
   Guide: true
-  Number of Gamers: 13550
+  Number of Gamers: 14273
   Percentage of Gamers: 33%
   Ratio: 1.73
   TA: '17'
@@ -255,7 +257,7 @@ Base Game Achievements:
   Description: Beat the first war scenario
   GS: '20'
   Guide: true
-  Number of Gamers: 19260
+  Number of Gamers: 20221
   Percentage of Gamers: 47%
   Ratio: 1.45
   TA: '29'
@@ -268,7 +270,7 @@ Base Game Achievements:
   Description: Upgrade a piece of gear
   GS: '10'
   Guide: true
-  Number of Gamers: 35653
+  Number of Gamers: 37307
   Percentage of Gamers: 87%
   Ratio: 1.07
   TA: '10'
@@ -281,7 +283,7 @@ Base Game Achievements:
   Description: Purchase a new piece of gear
   GS: '10'
   Guide: true
-  Number of Gamers: 26971
+  Number of Gamers: 28307
   Percentage of Gamers: 66%
   Ratio: 1.23
   TA: '12'
@@ -294,10 +296,10 @@ Base Game Achievements:
   Description: Survive 10 waves in a single Endless match
   GS: '30'
   Guide: false
-  Number of Gamers: 8444
+  Number of Gamers: 8942
   Percentage of Gamers: 21%
-  Ratio: 2.2
-  TA: '66'
+  Ratio: 2.18
+  TA: '65'
   Tags:
   - Online/Offline
   - Single Player
@@ -306,10 +308,10 @@ Base Game Achievements:
   Description: Unlock all gear slots
   GS: '20'
   Guide: true
-  Number of Gamers: 12610
+  Number of Gamers: 13289
   Percentage of Gamers: 31%
-  Ratio: 1.8
-  TA: '36'
+  Ratio: 1.79
+  TA: '35'
   Tags:
   - Online/Offline
   - Single Player
@@ -319,10 +321,10 @@ Base Game Achievements:
   Description: Complete Drastic Steps Campaign
   GS: '20'
   Guide: false
-  Number of Gamers: 4599
-  Percentage of Gamers: 11%
-  Ratio: 2.98
-  TA: '59'
+  Number of Gamers: 4965
+  Percentage of Gamers: 12%
+  Ratio: 2.93
+  TA: '58'
   Tags:
   - Online/Offline
   - Single Player
@@ -332,11 +334,11 @@ Base Game Achievements:
 - Achievement Name: The Landing
   Description: Complete Drastic Steps Campaign on Rift Lord
   GS: '50'
-  Guide: false
-  Number of Gamers: 1143
+  Guide: true
+  Number of Gamers: 1289
   Percentage of Gamers: 3%
-  Ratio: 5.98
-  TA: '299'
+  Ratio: 5.76
+  TA: '288'
   Tags:
   - Online/Offline
   - Single Player
@@ -347,11 +349,11 @@ Base Game Achievements:
 - Achievement Name: Top Floor
   Description: 5 skulls on every scenario from Drastic Steps on Rift Lord
   GS: '70'
-  Guide: false
-  Number of Gamers: 972
-  Percentage of Gamers: 2%
-  Ratio: 6.49
-  TA: '454'
+  Guide: true
+  Number of Gamers: 1107
+  Percentage of Gamers: 3%
+  Ratio: 6.22
+  TA: '435'
   Tags:
   - Online/Offline
   - Single Player
@@ -361,10 +363,10 @@ Base Game Achievements:
   Description: Kill 10,000 enemies
   GS: '30'
   Guide: false
-  Number of Gamers: 9900
+  Number of Gamers: 10469
   Percentage of Gamers: 24%
-  Ratio: 2.03
-  TA: '61'
+  Ratio: 2.02
+  TA: '60'
   Tags:
   - Online/Offline
   - Single Player
@@ -374,10 +376,10 @@ Base Game Achievements:
   Description: Survive 25 waves in a single Endless match
   GS: '70'
   Guide: true
-  Number of Gamers: 5829
+  Number of Gamers: 6206
   Percentage of Gamers: 14%
-  Ratio: 2.65
-  TA: '185'
+  Ratio: 2.62
+  TA: '183'
   Tags:
   - Online/Offline
   - Single Player
@@ -386,9 +388,9 @@ Base Game Achievements:
   Description: Complete any Weekly Challenge
   GS: '10'
   Guide: true
-  Number of Gamers: 5693
+  Number of Gamers: 6035
   Percentage of Gamers: 14%
-  Ratio: 2.68
+  Ratio: 2.66
   TA: '26'
   Tags:
   - Online/Offline
@@ -398,10 +400,10 @@ Base Game Achievements:
   Description: Complete Tier 2 in Scramble
   GS: '20'
   Guide: false
-  Number of Gamers: 3732
+  Number of Gamers: 4000
   Percentage of Gamers: 9%
-  Ratio: 3.31
-  TA: '66'
+  Ratio: 3.27
+  TA: '65'
   Tags:
   - Online/Offline
   - Single Player
@@ -410,10 +412,10 @@ Base Game Achievements:
   Description: Complete Tier 5 in Scramble
   GS: '70'
   Guide: false
-  Number of Gamers: 2258
+  Number of Gamers: 2455
   Percentage of Gamers: 6%
-  Ratio: 4.25
-  TA: '298'
+  Ratio: 4.17
+  TA: '292'
   Tags:
   - Online/Offline
   - Single Player
@@ -422,10 +424,10 @@ Base Game Achievements:
   Description: Reroll a debuff in Scramble
   GS: '10'
   Guide: true
-  Number of Gamers: 3261
+  Number of Gamers: 3520
   Percentage of Gamers: 8%
-  Ratio: 3.54
-  TA: '35'
+  Ratio: 3.48
+  TA: '34'
   Tags:
   - Online/Offline
   - Single Player
@@ -434,9 +436,9 @@ Base Game Achievements:
   Description: 500,000 score on any campaign scenario (Scramble excluded)
   GS: '50'
   Guide: false
-  Number of Gamers: 11409
+  Number of Gamers: 12064
   Percentage of Gamers: 28%
-  Ratio: 1.89
+  Ratio: 1.88
   TA: '94'
   Tags:
   - Online/Offline
@@ -446,10 +448,10 @@ Base Game Achievements:
   Description: 5,000,000 score on any Endless scenario
   GS: '50'
   Guide: true
-  Number of Gamers: 3959
+  Number of Gamers: 4258
   Percentage of Gamers: 10%
-  Ratio: 3.21
-  TA: '160'
+  Ratio: 3.17
+  TA: '158'
   Tags:
   - Online/Offline
   - Single Player
@@ -458,10 +460,10 @@ Base Game Achievements:
   Description: 5,000,000 score total in Scramble
   GS: '50'
   Guide: true
-  Number of Gamers: 1061
+  Number of Gamers: 1206
   Percentage of Gamers: 3%
-  Ratio: 6.21
-  TA: '310'
+  Ratio: 5.96
+  TA: '298'
   Tags:
   - Online/Offline
   - Single Player
@@ -470,10 +472,10 @@ Base Game Achievements:
   Description: Earn a total of 1,000,000 coin
   GS: '50'
   Guide: true
-  Number of Gamers: 8248
+  Number of Gamers: 8742
   Percentage of Gamers: 20%
-  Ratio: 2.22
-  TA: '111'
+  Ratio: 2.21
+  TA: '110'
   Tags:
   - Online/Offline
   - Single Player
@@ -483,10 +485,10 @@ Base Game Achievements:
   Description: Complete the main Campaign
   GS: '20'
   Guide: false
-  Number of Gamers: 8362
-  Percentage of Gamers: 20%
-  Ratio: 2.21
-  TA: '44'
+  Number of Gamers: 8906
+  Percentage of Gamers: 21%
+  Ratio: 2.19
+  TA: '43'
   Tags:
   - Online/Offline
   - Single Player
@@ -494,26 +496,26 @@ Base Game Achievements:
   - Main Storyline
   - Story Completed
   - Stackable
-Base Ratio: 3.968
-Base TA: 3968
+Base Ratio: 3.856
+Base TA: 3856
 Delisted: false
 Developer: Robot Entertainment
 Game Name: Orcs Must Die! 3
 Genres: Strategy, Tower Defence
 Install Size: 12570.0
-Number of Completions: 533
-Number of Gamers: 40939
+Number of Completions: 629
+Number of Gamers: 42877
 Overall Completion Time:
 - 43.0
 - 50.0
 Overall GS: 2150
-Overall Ratio: 3.550232558139535
-Overall TA: 7633
+Overall Ratio: 3.4474418604651165
+Overall TA: 7412
 PDU: 0
-Percentage Completed: 1.3
+Percentage Completed: 1.47
 Publisher: Robot Entertainment
 Release Date: 23 July 2021
 Server Closure: false
-Site Rating: 3.93
+Site Rating: 3.87
 Update Achievements: []
 Walkthrough: false

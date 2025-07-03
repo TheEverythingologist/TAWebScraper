@@ -1,15 +1,15 @@
 Add On Achievements: []
 Base Completion Time:
-- 20
-- 21
+- 16
+- 17
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: You are dead
   Description: :-D
   GS: '30'
   Guide: true
-  Number of Gamers: 522
-  Percentage of Gamers: 100%
+  Number of Gamers: 534
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '30'
   Tags:
@@ -19,7 +19,7 @@ Base Game Achievements:
   Description: Killed 100 enemies
   GS: '50'
   Guide: true
-  Number of Gamers: 482
+  Number of Gamers: 492
   Percentage of Gamers: 92%
   Ratio: 1.04
   TA: '52'
@@ -31,8 +31,8 @@ Base Game Achievements:
   Description: Killed 500 enemies
   GS: '80'
   Guide: false
-  Number of Gamers: 327
-  Percentage of Gamers: 63%
+  Number of Gamers: 332
+  Percentage of Gamers: 62%
   Ratio: 1.26
   TA: '101'
   Tags:
@@ -43,7 +43,7 @@ Base Game Achievements:
   Description: Killed 1000 enemies
   GS: '100'
   Guide: false
-  Number of Gamers: 194
+  Number of Gamers: 197
   Percentage of Gamers: 37%
   Ratio: 1.64
   TA: '164'
@@ -55,10 +55,10 @@ Base Game Achievements:
   Description: Defeat the Swarm boss at least once
   GS: '70'
   Guide: false
-  Number of Gamers: 15
+  Number of Gamers: 16
   Percentage of Gamers: 3%
-  Ratio: 5.89
-  TA: '412'
+  Ratio: 5.77
+  TA: '404'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -66,10 +66,10 @@ Base Game Achievements:
   Description: Defeat the Twin boss at least once
   GS: '70'
   Guide: false
-  Number of Gamers: 25
+  Number of Gamers: 27
   Percentage of Gamers: 5%
-  Ratio: 4.56
-  TA: '319'
+  Ratio: 4.44
+  TA: '311'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -77,10 +77,10 @@ Base Game Achievements:
   Description: Defeat the Dragon boss at least once
   GS: '70'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 2%
-  Ratio: 6.33
-  TA: '443'
+  Number of Gamers: 14
+  Percentage of Gamers: 3%
+  Ratio: 6.17
+  TA: '431'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -88,10 +88,10 @@ Base Game Achievements:
   Description: Defeat the Stronghold boss at least once
   GS: '70'
   Guide: false
-  Number of Gamers: 15
+  Number of Gamers: 16
   Percentage of Gamers: 3%
-  Ratio: 5.89
-  TA: '412'
+  Ratio: 5.77
+  TA: '404'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -99,10 +99,10 @@ Base Game Achievements:
   Description: Defeat the Vortex Defender at least once
   GS: '70'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 2%
-  Ratio: 6.33
-  TA: '443'
+  Number of Gamers: 14
+  Percentage of Gamers: 3%
+  Ratio: 6.17
+  TA: '431'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -110,10 +110,10 @@ Base Game Achievements:
   Description: Survive till the second stage
   GS: '30'
   Guide: false
-  Number of Gamers: 29
+  Number of Gamers: 31
   Percentage of Gamers: 6%
-  Ratio: 4.24
-  TA: '127'
+  Ratio: 4.14
+  TA: '124'
   Tags:
   - Offline Mode
   - Single Player
@@ -122,10 +122,10 @@ Base Game Achievements:
   Description: Survive till the third stage
   GS: '40'
   Guide: false
-  Number of Gamers: 14
+  Number of Gamers: 15
   Percentage of Gamers: 3%
-  Ratio: 6.1
-  TA: '244'
+  Ratio: 5.96
+  TA: '238'
   Tags:
   - Offline Mode
   - Single Player
@@ -134,10 +134,10 @@ Base Game Achievements:
   Description: Survive till the fourth stage
   GS: '50'
   Guide: false
-  Number of Gamers: 11
+  Number of Gamers: 12
   Percentage of Gamers: 2%
-  Ratio: 6.88
-  TA: '344'
+  Ratio: 6.66
+  TA: '333'
   Tags:
   - Offline Mode
   - Single Player
@@ -146,10 +146,10 @@ Base Game Achievements:
   Description: Survive till the fifth stage
   GS: '70'
   Guide: false
-  Number of Gamers: 5
+  Number of Gamers: 6
   Percentage of Gamers: 1%
-  Ratio: 10.21
-  TA: '715'
+  Ratio: 9.42
+  TA: '659'
   Tags:
   - Offline Mode
   - Single Player
@@ -158,10 +158,10 @@ Base Game Achievements:
   Description: Unlock all of the heroes
   GS: '100'
   Guide: false
-  Number of Gamers: 8
+  Number of Gamers: 9
   Percentage of Gamers: 2%
-  Ratio: 8.07
-  TA: '807'
+  Ratio: 7.69
+  TA: '769'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -169,31 +169,31 @@ Base Game Achievements:
   Description: Escape the Factor city and break the Fourth Wall
   GS: '100'
   Guide: false
-  Number of Gamers: 5
+  Number of Gamers: 6
   Percentage of Gamers: 1%
-  Ratio: 10.21
-  TA: 1,021
+  Ratio: 9.42
+  TA: '942'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 5.634
-Base TA: 5634
+Base Ratio: 5.393
+Base TA: 5393
 Delisted: false
 Developer: CoMiGo Games
 Game Name: Bitmaster
 Genres: Shoot 'em up
 Install Size: 471.0
-Number of Completions: 4
-Number of Gamers: 522
+Number of Completions: 5
+Number of Gamers: 537
 Overall Completion Time:
-- 20
-- 21
+- 16
+- 17
 Overall GS: 1000
-Overall Ratio: 5.634
-Overall TA: 5634
+Overall Ratio: 5.393
+Overall TA: 5393
 PDU: 0
-Percentage Completed: 0.77
+Percentage Completed: 0.93
 Publisher: Sometimes You
 Release Date: 23 June 2021
 Server Closure: false

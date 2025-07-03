@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- 76
-- 77
+- 57
+- 58
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Sightseer
   Description: Finish a shift in every city district
   GS: '10'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 3%
-  Ratio: 5.49
-  TA: '54'
+  Number of Gamers: 79
+  Percentage of Gamers: 7%
+  Ratio: 3.8
+  TA: '38'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -19,10 +19,10 @@ Base Game Achievements:
   Description: Fully bandage a patient
   GS: '10'
   Guide: false
-  Number of Gamers: 21
-  Percentage of Gamers: 4%
-  Ratio: 5.08
-  TA: '50'
+  Number of Gamers: 60
+  Percentage of Gamers: 5%
+  Ratio: 4.36
+  TA: '43'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -30,9 +30,9 @@ Base Game Achievements:
   Description: Play the same Catastrophic shift again
   GS: '10'
   Guide: false
-  Number of Gamers: 61
-  Percentage of Gamers: 11%
-  Ratio: 2.98
+  Number of Gamers: 133
+  Percentage of Gamers: 12%
+  Ratio: 2.93
   TA: '29'
   Tags:
   - Offline Game Mode
@@ -41,21 +41,21 @@ Base Game Achievements:
   Description: Find all patients during a catastrophic shift
   GS: '10'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 5%
-  Ratio: 4.57
-  TA: '45'
+  Number of Gamers: 63
+  Percentage of Gamers: 6%
+  Ratio: 4.26
+  TA: '42'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Express Care
   Description: Finish Field Treatment in less than 5 minutes
   GS: '10'
-  Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 4%
-  Ratio: 4.85
-  TA: '48'
+  Guide: true
+  Number of Gamers: 60
+  Percentage of Gamers: 5%
+  Ratio: 4.36
+  TA: '43'
   Tags:
   - Offline Mode
   - Single Player
@@ -64,10 +64,10 @@ Base Game Achievements:
   Description: Trigger Game Over from Collision
   GS: '10'
   Guide: false
-  Number of Gamers: 137
-  Percentage of Gamers: 25%
-  Ratio: 1.99
-  TA: '19'
+  Number of Gamers: 337
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '18'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -75,7 +75,7 @@ Base Game Achievements:
   Description: Complete three shifts on classic mode
   GS: '20'
   Guide: false
-  Number of Gamers: 361
+  Number of Gamers: 758
   Percentage of Gamers: 66%
   Ratio: 1.22
   TA: '24'
@@ -86,10 +86,10 @@ Base Game Achievements:
   Description: Opened every handbook page
   GS: '10'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 0%
-  Ratio: 16.47
-  TA: '164'
+  Number of Gamers: 17
+  Percentage of Gamers: 1%
+  Ratio: 8.2
+  TA: '82'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -97,7 +97,7 @@ Base Game Achievements:
   Description: Complete your first shift
   GS: '20'
   Guide: false
-  Number of Gamers: 537
+  Number of Gamers: 1136
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '20'
@@ -109,10 +109,10 @@ Base Game Achievements:
   Description: Spent more than 20 minutes in Shift Overtime
   GS: '20'
   Guide: false
-  Number of Gamers: 261
-  Percentage of Gamers: 48%
-  Ratio: 1.44
-  TA: '28'
+  Number of Gamers: 533
+  Percentage of Gamers: 47%
+  Ratio: 1.46
+  TA: '29'
   Tags:
   - Offline Mode
   - Single Player
@@ -121,10 +121,10 @@ Base Game Achievements:
   Description: You gathered all available information before treating a patient
   GS: '20'
   Guide: false
-  Number of Gamers: 382
-  Percentage of Gamers: 70%
-  Ratio: 1.19
-  TA: '23'
+  Number of Gamers: 492
+  Percentage of Gamers: 43%
+  Ratio: 1.52
+  TA: '30'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -132,10 +132,10 @@ Base Game Achievements:
   Description: Unlock a second vehicle
   GS: '20'
   Guide: false
-  Number of Gamers: 33
-  Percentage of Gamers: 6%
-  Ratio: 4.05
-  TA: '81'
+  Number of Gamers: 103
+  Percentage of Gamers: 9%
+  Ratio: 3.33
+  TA: '66'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -143,10 +143,10 @@ Base Game Achievements:
   Description: Move the stretcher over 2 miles
   GS: '30'
   Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 4%
-  Ratio: 4.85
-  TA: '145'
+  Number of Gamers: 74
+  Percentage of Gamers: 6%
+  Ratio: 3.93
+  TA: '117'
   Tags:
   - Offline Mode
   - Single Player
@@ -155,10 +155,10 @@ Base Game Achievements:
   Description: Travel 10 miles on foot
   GS: '20'
   Guide: false
-  Number of Gamers: 24
-  Percentage of Gamers: 4%
-  Ratio: 4.75
-  TA: '95'
+  Number of Gamers: 65
+  Percentage of Gamers: 6%
+  Ratio: 4.19
+  TA: '83'
   Tags:
   - Offline Mode
   - Single Player
@@ -167,10 +167,10 @@ Base Game Achievements:
   Description: Drive 100 miles
   GS: '20'
   Guide: false
-  Number of Gamers: 32
-  Percentage of Gamers: 6%
-  Ratio: 4.11
-  TA: '82'
+  Number of Gamers: 92
+  Percentage of Gamers: 8%
+  Ratio: 3.52
+  TA: '70'
   Tags:
   - Offline Mode
   - Single Player
@@ -179,10 +179,10 @@ Base Game Achievements:
   Description: Total Playtime reached 50 hours
   GS: '20'
   Guide: false
-  Number of Gamers: 60
-  Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '60'
+  Number of Gamers: 174
+  Percentage of Gamers: 15%
+  Ratio: 2.56
+  TA: '51'
   Tags:
   - Offline Mode
   - Single Player
@@ -191,7 +191,7 @@ Base Game Achievements:
   Description: Sucessful transport a patient to a hospital
   GS: '30'
   Guide: false
-  Number of Gamers: 543
+  Number of Gamers: 1144
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '30'
@@ -202,10 +202,10 @@ Base Game Achievements:
   Description: Successful finish the catastrophic event "Freeway Catastrophe"
   GS: '40'
   Guide: false
-  Number of Gamers: 224
-  Percentage of Gamers: 41%
-  Ratio: 1.55
-  TA: '62'
+  Number of Gamers: 452
+  Percentage of Gamers: 40%
+  Ratio: 1.59
+  TA: '63'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -213,10 +213,10 @@ Base Game Achievements:
   Description: Successful finish the catastrophic event "The Mall is on Fire"
   GS: '40'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 3%
-  Ratio: 6.01
-  TA: '240'
+  Number of Gamers: 50
+  Percentage of Gamers: 4%
+  Ratio: 4.78
+  TA: '191'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -224,10 +224,10 @@ Base Game Achievements:
   Description: Successful finish the catastrophic event "Acidic Poison Accident"
   GS: '40'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 0%
-  Ratio: 16.47
-  TA: '659'
+  Number of Gamers: 17
+  Percentage of Gamers: 1%
+  Ratio: 8.2
+  TA: '328'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -235,10 +235,10 @@ Base Game Achievements:
   Description: Save 3 patients in a regular shift
   GS: '30'
   Guide: false
-  Number of Gamers: 237
-  Percentage of Gamers: 43%
-  Ratio: 1.51
-  TA: '45'
+  Number of Gamers: 480
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '46'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -246,10 +246,10 @@ Base Game Achievements:
   Description: Complete three shifts on simulation mode
   GS: '40'
   Guide: false
-  Number of Gamers: 15
+  Number of Gamers: 30
   Percentage of Gamers: 3%
-  Ratio: 6.01
-  TA: '240'
+  Ratio: 6.17
+  TA: '247'
   Tags:
   - Offline Mode
   - Single Player
@@ -258,10 +258,10 @@ Base Game Achievements:
   Description: Play a Catastrophic Event 10 times
   GS: '30'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 0%
-  Ratio: 23.3
-  TA: '699'
+  Number of Gamers: 7
+  Percentage of Gamers: 1%
+  Ratio: 12.78
+  TA: '383'
   Tags:
   - Offline Mode
   - Single Player
@@ -270,10 +270,10 @@ Base Game Achievements:
   Description: Complete all callouts at least once
   GS: '30'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 1%
-  Ratio: 13.45
-  TA: '403'
+  Number of Gamers: 33
+  Percentage of Gamers: 3%
+  Ratio: 5.88
+  TA: '176'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -281,10 +281,10 @@ Base Game Achievements:
   Description: Unlock all tools
   GS: '40'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 2%
-  Ratio: 7.76
-  TA: '310'
+  Number of Gamers: 53
+  Percentage of Gamers: 5%
+  Ratio: 4.64
+  TA: '185'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -292,10 +292,10 @@ Base Game Achievements:
   Description: Unlock all callouts
   GS: '40'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 1%
-  Ratio: 13.45
-  TA: '538'
+  Number of Gamers: 30
+  Percentage of Gamers: 3%
+  Ratio: 6.17
+  TA: '247'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -303,10 +303,10 @@ Base Game Achievements:
   Description: Play at least 1 hour in each city district
   GS: '40'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 3%
-  Ratio: 6.22
-  TA: '249'
+  Number of Gamers: 69
+  Percentage of Gamers: 6%
+  Ratio: 4.07
+  TA: '162'
   Tags:
   - Offline Mode
   - Single Player
@@ -315,10 +315,10 @@ Base Game Achievements:
   Description: Triage 100 patients
   GS: '60'
   Guide: false
-  Number of Gamers: 29
-  Percentage of Gamers: 5%
-  Ratio: 4.32
-  TA: '259'
+  Number of Gamers: 63
+  Percentage of Gamers: 6%
+  Ratio: 4.26
+  TA: '255'
   Tags:
   - Offline Mode
   - Single Player
@@ -327,10 +327,10 @@ Base Game Achievements:
   Description: Unlock everything!
   GS: '80'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 0%
-  Ratio: 16.47
-  TA: 1,318
+  Number of Gamers: 20
+  Percentage of Gamers: 2%
+  Ratio: 7.56
+  TA: '605'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -338,44 +338,44 @@ Base Game Achievements:
   Description: Complete all callouts with the highest rank
   GS: '100'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 0%
-  Ratio: 16.47
-  TA: 1,647
+  Number of Gamers: 23
+  Percentage of Gamers: 2%
+  Ratio: 7.05
+  TA: '705'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Master of Disaster
   Description: Complete all Catastrophic Events with the highest rank
   GS: '100'
-  Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 0%
-  Ratio: 23.3
-  TA: 2,330
+  Guide: true
+  Number of Gamers: 6
+  Percentage of Gamers: 1%
+  Ratio: 13.8
+  TA: 1,380
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 9.996
-Base TA: 9996
+Base Ratio: 5.788
+Base TA: 5788
 Delisted: false
 Developer: Aesir Interactive
 Game Name: 'Ambulance Life: A Paramedic Simulator'
 Genres: Simulation
 Install Size: 63420.0
-Number of Completions: 1
-Number of Gamers: 545
+Number of Completions: 6
+Number of Gamers: 1144
 Overall Completion Time:
-- 76
-- 77
+- 57
+- 58
 Overall GS: 1000
-Overall Ratio: 9.996
-Overall TA: 9996
+Overall Ratio: 5.788
+Overall TA: 5788
 PDU: 0
-Percentage Completed: 0.18
+Percentage Completed: 0.52
 Publisher: Nacon
 Release Date: 06 February 2025
 Server Closure: false
-Site Rating: None
+Site Rating: 3.92
 Update Achievements: []
 Walkthrough: false

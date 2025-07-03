@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 176
-- 177
+- -1
+- -1
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: I Got You
   Description: Throw a long skip pass using Maximum Passing.
   GS: '15'
   Guide: true
-  Number of Gamers: 51105
+  Number of Gamers: 51582
   Percentage of Gamers: 83%
   Ratio: 1.09
   TA: '16'
@@ -21,8 +21,8 @@ Base Game Achievements:
   Description: Perform a spin with the Dribble Move button.
   GS: '15'
   Guide: true
-  Number of Gamers: 19937
-  Percentage of Gamers: 33%
+  Number of Gamers: 20140
+  Percentage of Gamers: 32%
   Ratio: 1.75
   TA: '26'
   Tags:
@@ -34,8 +34,8 @@ Base Game Achievements:
   Description: Make an on-the-fly defensive coaching adjustment during a game.
   GS: '15'
   Guide: true
-  Number of Gamers: 43266
-  Percentage of Gamers: 71%
+  Number of Gamers: 43686
+  Percentage of Gamers: 70%
   Ratio: 1.18
   TA: '17'
   Tags:
@@ -47,9 +47,9 @@ Base Game Achievements:
   Description: Earn a Call-Up in Play Now Online.
   GS: '15'
   Guide: false
-  Number of Gamers: 4492
+  Number of Gamers: 4518
   Percentage of Gamers: 7%
-  Ratio: 3.68
+  Ratio: 3.69
   TA: '55'
   Tags:
   - Discontinued
@@ -57,27 +57,27 @@ Base Game Achievements:
   Description: Win all 10 games of 'Greatest of All-Time' in Play Now Online.
   GS: '40'
   Guide: false
-  Number of Gamers: 180
+  Number of Gamers: 179
   Percentage of Gamers: 0%
-  Ratio: 18.43
-  TA: '737'
+  Ratio: 18.62
+  TA: '744'
   Tags:
   - Discontinued
 - Achievement Name: Ringer
   Description: Beat a Tier 1 team with a team from a lower tier in Play Now Online.
   GS: '15'
   Guide: true
-  Number of Gamers: 846
+  Number of Gamers: 847
   Percentage of Gamers: 1%
-  Ratio: 8.5
-  TA: '127'
+  Ratio: 8.53
+  TA: '128'
   Tags:
   - Discontinued
 - Achievement Name: My Every Day Player
   Description: Become a starter in the NBA in MyCAREER.
   GS: '15'
   Guide: true
-  Number of Gamers: 25923
+  Number of Gamers: 26151
   Percentage of Gamers: 42%
   Ratio: 1.53
   TA: '23'
@@ -88,7 +88,7 @@ Base Game Achievements:
   Description: Be named an NBA All-Star in MyCAREER.
   GS: '15'
   Guide: true
-  Number of Gamers: 12481
+  Number of Gamers: 12588
   Percentage of Gamers: 20%
   Ratio: 2.21
   TA: '33'
@@ -99,7 +99,7 @@ Base Game Achievements:
   Description: Win the Rookie of the Year award in MyCAREER.
   GS: '30'
   Guide: true
-  Number of Gamers: 9370
+  Number of Gamers: 9445
   Percentage of Gamers: 15%
   Ratio: 2.55
   TA: '76'
@@ -110,8 +110,8 @@ Base Game Achievements:
   Description: Complete a full-team practice in MyCAREER.
   GS: '15'
   Guide: true
-  Number of Gamers: 29821
-  Percentage of Gamers: 49%
+  Number of Gamers: 30070
+  Percentage of Gamers: 48%
   Ratio: 1.43
   TA: '21'
   Tags:
@@ -120,7 +120,7 @@ Base Game Achievements:
   Description: Earn a badge in MyCAREER.
   GS: '15'
   Guide: true
-  Number of Gamers: 29538
+  Number of Gamers: 29805
   Percentage of Gamers: 48%
   Ratio: 1.43
   TA: '21'
@@ -132,7 +132,7 @@ Base Game Achievements:
   Description: Level up a badge to Hall of Fame in MyCAREER.
   GS: '15'
   Guide: false
-  Number of Gamers: 3802
+  Number of Gamers: 3836
   Percentage of Gamers: 6%
   Ratio: 4.01
   TA: '60'
@@ -144,10 +144,10 @@ Base Game Achievements:
   Description: Max out all of your badges in MyCAREER.
   GS: '30'
   Guide: false
-  Number of Gamers: 420
+  Number of Gamers: 423
   Percentage of Gamers: 1%
-  Ratio: 12.06
-  TA: '361'
+  Ratio: 12.08
+  TA: '362'
   Tags:
   - Offline Mode
   - Single Player
@@ -156,7 +156,7 @@ Base Game Achievements:
   Description: Play a game of Downtown, King of the Court, or Dunk Off in MyCAREER.
   GS: '15'
   Guide: true
-  Number of Gamers: 27410
+  Number of Gamers: 27665
   Percentage of Gamers: 45%
   Ratio: 1.49
   TA: '22'
@@ -166,9 +166,9 @@ Base Game Achievements:
   Description: Correctly answer a trivia question in the 2K Zone in MyCAREER.
   GS: '15'
   Guide: true
-  Number of Gamers: 15169
+  Number of Gamers: 15280
   Percentage of Gamers: 25%
-  Ratio: 2.0
+  Ratio: 2.01
   TA: '30'
   Tags:
   - Discontinued
@@ -176,7 +176,7 @@ Base Game Achievements:
   Description: Get a tattoo from the Tattoo Shop in MyCAREER.
   GS: '15'
   Guide: true
-  Number of Gamers: 19669
+  Number of Gamers: 19839
   Percentage of Gamers: 32%
   Ratio: 1.76
   TA: '26'
@@ -186,7 +186,7 @@ Base Game Achievements:
   Description: Get a haircut from the Barber Shop in MyCAREER.
   GS: '15'
   Guide: true
-  Number of Gamers: 36221
+  Number of Gamers: 36542
   Percentage of Gamers: 59%
   Ratio: 1.29
   TA: '19'
@@ -196,9 +196,9 @@ Base Game Achievements:
   Description: Get a juice from the Juice Stand in MyCAREER.
   GS: '15'
   Guide: true
-  Number of Gamers: 21425
+  Number of Gamers: 21598
   Percentage of Gamers: 35%
-  Ratio: 1.68
+  Ratio: 1.69
   TA: '25'
   Tags:
   - Discontinued
@@ -206,7 +206,7 @@ Base Game Achievements:
   Description: Use every piece of gym equipment in MyCAREER.
   GS: '15'
   Guide: true
-  Number of Gamers: 5644
+  Number of Gamers: 5691
   Percentage of Gamers: 9%
   Ratio: 3.29
   TA: '49'
@@ -216,7 +216,7 @@ Base Game Achievements:
   Description: Find the Spalding IQ equipment in the team practice facility in MyCAREER.
   GS: '15'
   Guide: true
-  Number of Gamers: 22300
+  Number of Gamers: 22493
   Percentage of Gamers: 36%
   Ratio: 1.65
   TA: '24'
@@ -226,9 +226,9 @@ Base Game Achievements:
   Description: Purchase a skill boost at the Newsstand in MyCAREER.
   GS: '15'
   Guide: true
-  Number of Gamers: 9943
+  Number of Gamers: 10018
   Percentage of Gamers: 16%
-  Ratio: 2.47
+  Ratio: 2.48
   TA: '37'
   Tags:
   - Discontinued
@@ -236,7 +236,7 @@ Base Game Achievements:
   Description: Achieve an overall rating of 90 in MyCAREER.
   GS: '30'
   Guide: true
-  Number of Gamers: 5682
+  Number of Gamers: 5727
   Percentage of Gamers: 9%
   Ratio: 3.28
   TA: '98'
@@ -248,9 +248,9 @@ Base Game Achievements:
   Description: Listen to the fish in your MyCOURT.
   GS: '15'
   Guide: true
-  Number of Gamers: 11464
+  Number of Gamers: 11560
   Percentage of Gamers: 19%
-  Ratio: 2.3
+  Ratio: 2.31
   TA: '34'
   Tags:
   - Discontinued
@@ -258,7 +258,7 @@ Base Game Achievements:
   Description: Win a bet with Doc in MyCAREER.
   GS: '15'
   Guide: true
-  Number of Gamers: 2756
+  Number of Gamers: 2775
   Percentage of Gamers: 4%
   Ratio: 4.71
   TA: '70'
@@ -268,8 +268,8 @@ Base Game Achievements:
   Description: Have two consecutive breakout games in the NBA in MyCAREER.
   GS: '15'
   Guide: true
-  Number of Gamers: 24852
-  Percentage of Gamers: 41%
+  Number of Gamers: 25085
+  Percentage of Gamers: 40%
   Ratio: 1.56
   TA: '23'
   Tags:
@@ -279,17 +279,17 @@ Base Game Achievements:
   Description: Achieve a 10 game win streak on King of the Court in MyCAREER.
   GS: '30'
   Guide: true
-  Number of Gamers: 511
+  Number of Gamers: 518
   Percentage of Gamers: 1%
-  Ratio: 10.93
-  TA: '328'
+  Ratio: 10.91
+  TA: '327'
   Tags:
   - Discontinued
 - Achievement Name: Inception
   Description: Play a game of NBA 2K18 against a friend in your MyCOURT.
   GS: '15'
   Guide: true
-  Number of Gamers: 1409
+  Number of Gamers: 1423
   Percentage of Gamers: 2%
   Ratio: 6.58
   TA: '98'
@@ -299,7 +299,7 @@ Base Game Achievements:
   Description: Score 50 points in the mini basketball game in the 2K Zone in MyCAREER.
   GS: '30'
   Guide: true
-  Number of Gamers: 22811
+  Number of Gamers: 23013
   Percentage of Gamers: 37%
   Ratio: 1.63
   TA: '49'
@@ -309,17 +309,17 @@ Base Game Achievements:
   Description: Run 26.2 miles in the streets in MyCAREER.
   GS: '30'
   Guide: true
-  Number of Gamers: 11905
+  Number of Gamers: 12004
   Percentage of Gamers: 19%
   Ratio: 2.26
-  TA: '67'
+  TA: '68'
   Tags:
   - Discontinued
 - Achievement Name: No 'I' In Team
   Description: Join or Own a 2K Pro-Am Team.
   GS: '15'
   Guide: true
-  Number of Gamers: 16823
+  Number of Gamers: 16971
   Percentage of Gamers: 27%
   Ratio: 1.9
   TA: '28'
@@ -329,7 +329,7 @@ Base Game Achievements:
   Description: Complete a 2K Pro-Am Walk-On game.
   GS: '15'
   Guide: true
-  Number of Gamers: 13447
+  Number of Gamers: 13565
   Percentage of Gamers: 22%
   Ratio: 2.13
   TA: '31'
@@ -339,9 +339,9 @@ Base Game Achievements:
   Description: Win as a member of a Pro-Level or higher 2K Pro-Am team.
   GS: '15'
   Guide: false
-  Number of Gamers: 3556
+  Number of Gamers: 3576
   Percentage of Gamers: 6%
-  Ratio: 4.14
+  Ratio: 4.15
   TA: '62'
   Tags:
   - Discontinued
@@ -349,7 +349,7 @@ Base Game Achievements:
   Description: State your intentions for your franchise in MyGM.
   GS: '15'
   Guide: true
-  Number of Gamers: 18228
+  Number of Gamers: 18395
   Percentage of Gamers: 30%
   Ratio: 1.83
   TA: '27'
@@ -360,9 +360,9 @@ Base Game Achievements:
   Description: Make the pivotal decision for your franchise in MyGM.
   GS: '30'
   Guide: true
-  Number of Gamers: 7033
+  Number of Gamers: 7087
   Percentage of Gamers: 11%
-  Ratio: 2.94
+  Ratio: 2.95
   TA: '88'
   Tags:
   - Offline Game Mode
@@ -371,7 +371,7 @@ Base Game Achievements:
   Description: Renounce the rights to one of your players in MyGM/MyLEAGUE.
   GS: '15'
   Guide: true
-  Number of Gamers: 12201
+  Number of Gamers: 12312
   Percentage of Gamers: 20%
   Ratio: 2.23
   TA: '33'
@@ -382,9 +382,9 @@ Base Game Achievements:
   Description: Sign a player to a Two-Way contract in MyGM/MyLEAGUE.
   GS: '15'
   Guide: true
-  Number of Gamers: 4597
-  Percentage of Gamers: 8%
-  Ratio: 3.64
+  Number of Gamers: 4622
+  Percentage of Gamers: 7%
+  Ratio: 3.65
   TA: '54'
   Tags:
   - Offline Game Mode
@@ -393,7 +393,7 @@ Base Game Achievements:
   Description: Draft a player that will remain overseas in MyGM/MyLEAGUE.
   GS: '15'
   Guide: true
-  Number of Gamers: 9140
+  Number of Gamers: 9220
   Percentage of Gamers: 15%
   Ratio: 2.58
   TA: '38'
@@ -404,9 +404,9 @@ Base Game Achievements:
   Description: Perform a stat plot using the Analytics Tool in MyGM/MyLEAGUE.
   GS: '15'
   Guide: true
-  Number of Gamers: 7094
+  Number of Gamers: 7139
   Percentage of Gamers: 12%
-  Ratio: 2.93
+  Ratio: 2.94
   TA: '44'
   Tags:
   - Offline Game Mode
@@ -415,7 +415,7 @@ Base Game Achievements:
   Description: Sign a player from the G-League to a contract in MyGM/MyLEAGUE.
   GS: '15'
   Guide: true
-  Number of Gamers: 7906
+  Number of Gamers: 7970
   Percentage of Gamers: 13%
   Ratio: 2.78
   TA: '41'
@@ -426,7 +426,7 @@ Base Game Achievements:
   Description: Send a player down to the G-League in MyGM/MyLEAGUE.
   GS: '15'
   Guide: true
-  Number of Gamers: 9447
+  Number of Gamers: 9531
   Percentage of Gamers: 15%
   Ratio: 2.54
   TA: '38'
@@ -437,7 +437,7 @@ Base Game Achievements:
   Description: Purchase a Card Pack in MyTEAM.
   GS: '15'
   Guide: true
-  Number of Gamers: 25606
+  Number of Gamers: 25863
   Percentage of Gamers: 42%
   Ratio: 1.54
   TA: '23'
@@ -447,7 +447,7 @@ Base Game Achievements:
   Description: Acquire a Signature Player in MyTEAM.
   GS: '15'
   Guide: true
-  Number of Gamers: 4312
+  Number of Gamers: 4347
   Percentage of Gamers: 7%
   Ratio: 3.76
   TA: '56'
@@ -457,7 +457,7 @@ Base Game Achievements:
   Description: Acquire a Numbered Player in MyTEAM.
   GS: '15'
   Guide: true
-  Number of Gamers: 1594
+  Number of Gamers: 1608
   Percentage of Gamers: 3%
   Ratio: 6.19
   TA: '92'
@@ -467,9 +467,9 @@ Base Game Achievements:
   Description: Earn 297 Stars by completing all Domination modes in MyTEAM.
   GS: '30'
   Guide: true
-  Number of Gamers: 909
+  Number of Gamers: 912
   Percentage of Gamers: 1%
-  Ratio: 8.2
+  Ratio: 8.22
   TA: '246'
   Tags:
   - Discontinued
@@ -477,7 +477,7 @@ Base Game Achievements:
   Description: Complete a checklist goal in MyTEAM.
   GS: '15'
   Guide: true
-  Number of Gamers: 18045
+  Number of Gamers: 18232
   Percentage of Gamers: 29%
   Ratio: 1.84
   TA: '27'
@@ -489,25 +489,25 @@ Base Game Achievements:
   Guide: true
   Number of Gamers: 2
   Percentage of Gamers: 0%
-  Ratio: 142.76
-  TA: 12,848
+  Ratio: 175.68
+  TA: 15,811
   Tags:
   - Discontinued
 - Achievement Name: It Isn't Over Yet
   Description: Use a lifeline in Pack and Playoffs in MyTEAM.
   GS: '15'
   Guide: true
-  Number of Gamers: 67
+  Number of Gamers: 66
   Percentage of Gamers: 0%
-  Ratio: 30.2
-  TA: '453'
+  Ratio: 30.81
+  TA: '462'
   Tags:
   - Discontinued
 - Achievement Name: Double Trouble
   Description: Play a game with two players who form a duo in MyTEAM.
   GS: '30'
   Guide: true
-  Number of Gamers: 5690
+  Number of Gamers: 5751
   Percentage of Gamers: 9%
   Ratio: 3.27
   TA: '98'
@@ -517,9 +517,9 @@ Base Game Achievements:
   Description: Complete a Round ranked Sapphire or higher in MyTEAM Super Max.
   GS: '15'
   Guide: false
-  Number of Gamers: 1312
+  Number of Gamers: 1318
   Percentage of Gamers: 2%
-  Ratio: 6.82
+  Ratio: 6.84
   TA: '102'
   Tags:
   - Discontinued
@@ -527,32 +527,32 @@ Base Game Achievements:
   Description: Complete a Season ranked Ruby or higher in MyTEAM Super Max.
   GS: '30'
   Guide: false
-  Number of Gamers: 260
+  Number of Gamers: 259
   Percentage of Gamers: 0%
-  Ratio: 15.33
-  TA: '460'
+  Ratio: 15.46
+  TA: '464'
   Tags:
   - Discontinued
-Base Ratio: 17.461
-Base TA: 17461
+Base Ratio: 20.446
+Base TA: 20446
 Delisted: false
 Developer: Visual Concepts
 Game Name: NBA 2K18
 Genres: Sports, Basketball
 Install Size: 50630.0
-Number of Completions: 1
-Number of Gamers: 61264
+Number of Completions: 0
+Number of Gamers: 62026
 Overall Completion Time:
-- 176
-- 177
+- -1
+- -1
 Overall GS: 1000
-Overall Ratio: 17.461
-Overall TA: 17461
+Overall Ratio: 20.446
+Overall TA: 20446
 PDU: 31
 Percentage Completed: 0.0
 Publisher: 2K Sports
-Release Date: 15 September 2017
+Release Date: 19 September 2017
 Server Closure: true
-Site Rating: 3.42
+Site Rating: 3.41
 Update Achievements: []
 Walkthrough: false

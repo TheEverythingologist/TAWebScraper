@@ -1,35 +1,11 @@
 Add On Achievements: []
 Base Completion Time:
+- 21
 - 22
-- 23
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Entertain
   Description: Accept the facility's fate and turn off the shields
-  GS: '50'
-  Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 41%
-  Ratio: 1.55
-  TA: '77'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Cooperative
-- Achievement Name: Defective Operator
-  Description: Reject the facility's fate and drive the fire away
-  GS: '50'
-  Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 29%
-  Ratio: 1.84
-  TA: '92'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Cooperative
-- Achievement Name: You're already burning
-  Description: Yield to the flames too soon and let the facility burn
   GS: '50'
   Guide: false
   Number of Gamers: 8
@@ -40,16 +16,40 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Cooperative
+- Achievement Name: Defective Operator
+  Description: Reject the facility's fate and drive the fire away
+  GS: '50'
+  Guide: false
+  Number of Gamers: 6
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '84'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: You're already burning
+  Description: Yield to the flames too soon and let the facility burn
+  GS: '50'
+  Guide: false
+  Number of Gamers: 9
+  Percentage of Gamers: 53%
+  Ratio: 1.37
+  TA: '68'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
   - Buggy
 - Achievement Name: Factory-fresh
   Description: Reach the top of the facility without saving any star or picking up
     boss weapons
   GS: '100'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 24%
-  Ratio: 2.06
-  TA: '206'
+  Number of Gamers: 5
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '184'
   Tags:
   - Offline Mode
   - Single Player
@@ -58,10 +58,10 @@ Base Game Achievements:
   Description: Save all the lost stars
   GS: '100'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 41%
-  Ratio: 1.55
-  TA: '155'
+  Number of Gamers: 8
+  Percentage of Gamers: 47%
+  Ratio: 1.45
+  TA: '145'
   Tags:
   - Offline Mode
   - Single Player
@@ -83,10 +83,10 @@ Base Game Achievements:
   Description: Defeat Foveo without taking damage
   GS: '50'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 29%
-  Ratio: 1.84
-  TA: '92'
+  Number of Gamers: 6
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '84'
   Tags:
   - Offline Mode
   - Single Player
@@ -95,10 +95,10 @@ Base Game Achievements:
   Description: Defeat Phos without taking damage
   GS: '50'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 29%
-  Ratio: 1.84
-  TA: '92'
+  Number of Gamers: 6
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '84'
   Tags:
   - Offline Mode
   - Single Player
@@ -107,10 +107,10 @@ Base Game Achievements:
   Description: Defeat the Trio without taking damage
   GS: '100'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 24%
-  Ratio: 2.06
-  TA: '206'
+  Number of Gamers: 5
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '184'
   Tags:
   - Offline Mode
   - Single Player
@@ -119,10 +119,10 @@ Base Game Achievements:
   Description: Defeat Ignis without taking damage
   GS: '100'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 24%
-  Ratio: 2.06
-  TA: '206'
+  Number of Gamers: 5
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '184'
   Tags:
   - Offline Mode
   - Single Player
@@ -131,10 +131,10 @@ Base Game Achievements:
   Description: Defeat Serene without taking damage
   GS: '100'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 24%
-  Ratio: 2.06
-  TA: '206'
+  Number of Gamers: 5
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '184'
   Tags:
   - Offline Mode
   - Single Player
@@ -143,10 +143,10 @@ Base Game Achievements:
   Description: Here's your [fire] achievement
   GS: '50'
   Guide: true
-  Number of Gamers: 4
-  Percentage of Gamers: 24%
-  Ratio: 2.06
-  TA: '103'
+  Number of Gamers: 5
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '92'
   Tags:
   - Offline Mode
   - Single Player
@@ -155,34 +155,34 @@ Base Game Achievements:
   Description: Complete the game in its hardest loop
   GS: '150'
   Guide: true
-  Number of Gamers: 4
-  Percentage of Gamers: 24%
-  Ratio: 2.06
-  TA: '309'
+  Number of Gamers: 5
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '276'
   Tags:
   - Offline Mode
   - Single Player
   - Cooperative
-Base Ratio: 1.875
-Base TA: 1875
+Base Ratio: 1.7
+Base TA: 1700
 Delisted: false
 Developer: Ivan Zanotti
 Game Name: Firework - a modern tale
 Genres: Platformer
 Install Size: 486.0
-Number of Completions: 3
+Number of Completions: 4
 Number of Gamers: 17
 Overall Completion Time:
+- 21
 - 22
-- 23
 Overall GS: 1000
-Overall Ratio: 1.875
-Overall TA: 1875
+Overall Ratio: 1.7
+Overall TA: 1700
 PDU: 0
-Percentage Completed: 17.65
+Percentage Completed: 23.53
 Publisher: Fantastico Studio
 Release Date: 12 February 2021
 Server Closure: false
-Site Rating: 1.0
+Site Rating: 0.83
 Update Achievements: []
 Walkthrough: false

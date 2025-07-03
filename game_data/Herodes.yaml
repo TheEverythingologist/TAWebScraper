@@ -1,15 +1,15 @@
 Add On Achievements: []
 Base Completion Time:
-- 10
-- 11
+- 12
+- 13
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: On the Needle's Point
   Description: Start a new game.
   GS: '10'
   Guide: false
-  Number of Gamers: 174
-  Percentage of Gamers: 99%
+  Number of Gamers: 181
+  Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '10'
   Tags:
@@ -20,9 +20,9 @@ Base Game Achievements:
   Description: Complete the "Blood Vessel" stage.
   GS: '20'
   Guide: false
-  Number of Gamers: 100
-  Percentage of Gamers: 57%
-  Ratio: 1.31
+  Number of Gamers: 101
+  Percentage of Gamers: 56%
+  Ratio: 1.33
   TA: '26'
   Tags:
   - Offline Mode
@@ -32,9 +32,9 @@ Base Game Achievements:
   Description: Complete the kidney stage.
   GS: '20'
   Guide: false
-  Number of Gamers: 43
-  Percentage of Gamers: 25%
-  Ratio: 2.01
+  Number of Gamers: 44
+  Percentage of Gamers: 24%
+  Ratio: 2.02
   TA: '40'
   Tags:
   - Offline Mode
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Complete the stomach stage.
   GS: '20'
   Guide: false
-  Number of Gamers: 15
+  Number of Gamers: 16
   Percentage of Gamers: 9%
-  Ratio: 3.4
-  TA: '68'
+  Ratio: 3.36
+  TA: '67'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,9 +56,9 @@ Base Game Achievements:
   Description: Complete the heart stage.
   GS: '30'
   Guide: false
-  Number of Gamers: 20
-  Percentage of Gamers: 11%
-  Ratio: 2.94
+  Number of Gamers: 21
+  Percentage of Gamers: 12%
+  Ratio: 2.93
   TA: '88'
   Tags:
   - Offline Mode
@@ -68,7 +68,7 @@ Base Game Achievements:
   Description: Complete the lung stage.
   GS: '25'
   Guide: false
-  Number of Gamers: 26
+  Number of Gamers: 27
   Percentage of Gamers: 15%
   Ratio: 2.58
   TA: '64'
@@ -80,9 +80,9 @@ Base Game Achievements:
   Description: Complete the liver stage.
   GS: '25'
   Guide: false
-  Number of Gamers: 21
+  Number of Gamers: 22
   Percentage of Gamers: 12%
-  Ratio: 2.87
+  Ratio: 2.86
   TA: '71'
   Tags:
   - Offline Mode
@@ -92,10 +92,10 @@ Base Game Achievements:
   Description: Start the brain stage.
   GS: '100'
   Guide: false
-  Number of Gamers: 68
-  Percentage of Gamers: 39%
-  Ratio: 1.59
-  TA: '159'
+  Number of Gamers: 69
+  Percentage of Gamers: 38%
+  Ratio: 1.61
+  TA: '161'
   Tags:
   - Offline Mode
   - Single Player
@@ -105,10 +105,10 @@ Base Game Achievements:
     by the doctor.
   GS: '30'
   Guide: false
-  Number of Gamers: 37
-  Percentage of Gamers: 21%
-  Ratio: 2.16
-  TA: '65'
+  Number of Gamers: 39
+  Percentage of Gamers: 22%
+  Ratio: 2.15
+  TA: '64'
   Tags:
   - Offline Mode
   - Single Player
@@ -117,10 +117,10 @@ Base Game Achievements:
   Description: Complete the stomach stage by eliminating all Junix bacteria.
   GS: '50'
   Guide: false
-  Number of Gamers: 10
+  Number of Gamers: 11
   Percentage of Gamers: 6%
-  Ratio: 4.17
-  TA: '208'
+  Ratio: 4.05
+  TA: '202'
   Tags:
   - Offline Mode
   - Single Player
@@ -129,10 +129,10 @@ Base Game Achievements:
   Description: Complete the stomach stage without eliminating all Junix bacteria.
   GS: '30'
   Guide: false
-  Number of Gamers: 10
+  Number of Gamers: 11
   Percentage of Gamers: 6%
-  Ratio: 4.17
-  TA: '125'
+  Ratio: 4.05
+  TA: '121'
   Tags:
   - Offline Mode
   - Single Player
@@ -141,10 +141,10 @@ Base Game Achievements:
   Description: Complete the lung stage before the time runs out.
   GS: '50'
   Guide: false
-  Number of Gamers: 15
+  Number of Gamers: 16
   Percentage of Gamers: 9%
-  Ratio: 3.4
-  TA: '170'
+  Ratio: 3.36
+  TA: '168'
   Tags:
   - Offline Mode
   - Single Player
@@ -153,10 +153,10 @@ Base Game Achievements:
   Description: Complete the lung stage after the time runs over.
   GS: '30'
   Guide: false
-  Number of Gamers: 16
+  Number of Gamers: 17
   Percentage of Gamers: 9%
-  Ratio: 3.29
-  TA: '98'
+  Ratio: 3.26
+  TA: '97'
   Tags:
   - Offline Mode
   - Single Player
@@ -166,10 +166,10 @@ Base Game Achievements:
     can suffer.
   GS: '50'
   Guide: false
-  Number of Gamers: 14
+  Number of Gamers: 15
   Percentage of Gamers: 8%
-  Ratio: 3.52
-  TA: '176'
+  Ratio: 3.47
+  TA: '173'
   Tags:
   - Offline Mode
   - Single Player
@@ -179,10 +179,10 @@ Base Game Achievements:
     can suffer.
   GS: '30'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 6%
-  Ratio: 3.97
-  TA: '119'
+  Number of Gamers: 12
+  Percentage of Gamers: 7%
+  Ratio: 3.88
+  TA: '116'
   Tags:
   - Offline Mode
   - Single Player
@@ -191,10 +191,10 @@ Base Game Achievements:
   Description: Complete the liver stage by eliminating all enzymatic fats.
   GS: '50'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 6%
-  Ratio: 3.97
-  TA: '198'
+  Number of Gamers: 12
+  Percentage of Gamers: 7%
+  Ratio: 3.88
+  TA: '194'
   Tags:
   - Offline Mode
   - Single Player
@@ -203,10 +203,10 @@ Base Game Achievements:
   Description: Complete the liver stage without eliminating all enzymatic fats.
   GS: '30'
   Guide: false
-  Number of Gamers: 16
+  Number of Gamers: 17
   Percentage of Gamers: 9%
-  Ratio: 3.29
-  TA: '98'
+  Ratio: 3.26
+  TA: '97'
   Tags:
   - Offline Mode
   - Single Player
@@ -215,10 +215,10 @@ Base Game Achievements:
   Description: Eliminate the Herodes virus.
   GS: '50'
   Guide: false
-  Number of Gamers: 12
+  Number of Gamers: 13
   Percentage of Gamers: 7%
-  Ratio: 3.8
-  TA: '190'
+  Ratio: 3.73
+  TA: '186'
   Tags:
   - Offline Mode
   - Single Player
@@ -228,10 +228,10 @@ Base Game Achievements:
   Description: Achieve the bad ending.
   GS: '100'
   Guide: true
-  Number of Gamers: 4
-  Percentage of Gamers: 2%
-  Ratio: 6.59
-  TA: '659'
+  Number of Gamers: 5
+  Percentage of Gamers: 3%
+  Ratio: 6.01
+  TA: '601'
   Tags:
   - Offline Mode
   - Single Player
@@ -240,10 +240,10 @@ Base Game Achievements:
   Description: Achieve the average ending.
   GS: '100'
   Guide: true
-  Number of Gamers: 5
+  Number of Gamers: 6
   Percentage of Gamers: 3%
-  Ratio: 5.89
-  TA: '589'
+  Ratio: 5.49
+  TA: '549'
   Tags:
   - Offline Mode
   - Single Player
@@ -252,10 +252,10 @@ Base Game Achievements:
   Description: Achieve the good ending.
   GS: '100'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 6%
-  Ratio: 3.97
-  TA: '397'
+  Number of Gamers: 12
+  Percentage of Gamers: 7%
+  Ratio: 3.88
+  TA: '388'
   Tags:
   - Offline Mode
   - Single Player
@@ -265,7 +265,7 @@ Base Game Achievements:
     by the doctor.
   GS: '50'
   Guide: false
-  Number of Gamers: 25
+  Number of Gamers: 26
   Percentage of Gamers: 14%
   Ratio: 2.63
   TA: '131'
@@ -273,23 +273,23 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Missable
-Base Ratio: 3.749
-Base TA: 3749
+Base Ratio: 3.614
+Base TA: 3614
 Delisted: false
 Developer: Tecnologils
 Game Name: Herodes
 Genres: Shoot 'em up
 Install Size: 1630.0
-Number of Completions: 4
-Number of Gamers: 175
+Number of Completions: 5
+Number of Gamers: 181
 Overall Completion Time:
-- 10
-- 11
+- 12
+- 13
 Overall GS: 1000
-Overall Ratio: 3.749
-Overall TA: 3749
+Overall Ratio: 3.614
+Overall TA: 3614
 PDU: 0
-Percentage Completed: 2.29
+Percentage Completed: 2.76
 Publisher: QUByte Interactive
 Release Date: 11 May 2023
 Server Closure: false

@@ -1,220 +1,286 @@
 Add On Achievements: []
 Base Completion Time:
-- 8
-- 9
+- 10
+- 11
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Collector
   Description: Collect all Achievements
   GS: '100'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 21%
-  Ratio: 2.18
-  TA: '218'
-  Tags: []
+  Number of Gamers: 17
+  Percentage of Gamers: 27%
+  Ratio: 1.9
+  TA: '190'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Less than a minute
   Description: Completed a mini-game in less than one minute
   GS: '25'
   Guide: false
-  Number of Gamers: 41
-  Percentage of Gamers: 95%
-  Ratio: 1.02
-  TA: '25'
-  Tags: []
+  Number of Gamers: 57
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Time/Date
 - Achievement Name: Elementary
   Description: Found every item in hidden object puzzle scene without using a hint
   GS: '50'
   Guide: false
-  Number of Gamers: 36
-  Percentage of Gamers: 84%
-  Ratio: 1.09
-  TA: '54'
-  Tags: []
+  Number of Gamers: 50
+  Percentage of Gamers: 81%
+  Ratio: 1.11
+  TA: '55'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Look, ma! No hints!
   Description: Found every item in every hidden object puzzle scene without using
     hints
   GS: '50'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 30%
-  Ratio: 1.81
-  TA: '90'
-  Tags: []
+  Number of Gamers: 23
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '82'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Infection Slayer
   Description: Cured every infected thing without skipping one
   GS: '50'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 40%
-  Ratio: 1.59
-  TA: '79'
-  Tags: []
+  Number of Gamers: 32
+  Percentage of Gamers: 52%
+  Ratio: 1.39
+  TA: '69'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Puzzle Master
   Description: Completed every mini-game without skipping one
   GS: '100'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 28%
-  Ratio: 1.89
-  TA: '189'
-  Tags: []
+  Number of Gamers: 23
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '164'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Everything is possible
   Description: Completed the game without using a single hint
   GS: '100'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 26%
-  Ratio: 1.97
-  TA: '197'
-  Tags: []
+  Number of Gamers: 21
+  Percentage of Gamers: 34%
+  Ratio: 1.71
+  TA: '171'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: As easy as pie
   Description: Completed three mini-games without skipping them
   GS: '25'
   Guide: false
-  Number of Gamers: 32
+  Number of Gamers: 46
   Percentage of Gamers: 74%
-  Ratio: 1.15
-  TA: '28'
-  Tags: []
+  Ratio: 1.16
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Cumulative +
 - Achievement Name: Glued to my chair!
   Description: 'Played House of 1000 Doors: Evil inside for more than 1 hour in one
     sitting'
   GS: '25'
   Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 72%
-  Ratio: 1.17
+  Number of Gamers: 46
+  Percentage of Gamers: 74%
+  Ratio: 1.16
   TA: '29'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Film Critic
   Description: Watch five videos without skipping them
   GS: '25'
   Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 53%
-  Ratio: 1.36
-  TA: '34'
-  Tags: []
+  Number of Gamers: 36
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '32'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Cumulative +
 - Achievement Name: Evil Faces
   Description: Find the evil faces
   GS: '100'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 21%
-  Ratio: 2.18
-  TA: '218'
-  Tags: []
+  Number of Gamers: 17
+  Percentage of Gamers: 27%
+  Ratio: 1.9
+  TA: '190'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Missable
 - Achievement Name: Healing Light
   Description: Learn how to use the Hand of Light
   GS: '25'
   Guide: false
-  Number of Gamers: 43
+  Number of Gamers: 62
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '25'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Invention
   Description: Help Hugo find the parts he needs for his invention
   GS: '25'
   Guide: false
-  Number of Gamers: 22
-  Percentage of Gamers: 51%
-  Ratio: 1.39
-  TA: '34'
-  Tags: []
+  Number of Gamers: 35
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '33'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Arya
   Description: Heal the cat from the infection
   GS: '25'
   Guide: false
-  Number of Gamers: 37
-  Percentage of Gamers: 86%
-  Ratio: 1.07
-  TA: '26'
-  Tags: []
+  Number of Gamers: 52
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Ice cream
   Description: Feed Yeti ice cream
   GS: '25'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 40%
-  Ratio: 1.59
-  TA: '39'
-  Tags: []
+  Number of Gamers: 32
+  Percentage of Gamers: 52%
+  Ratio: 1.39
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Mimes
   Description: Help two mimes
   GS: '25'
   Guide: false
-  Number of Gamers: 21
-  Percentage of Gamers: 49%
-  Ratio: 1.43
-  TA: '35'
-  Tags: []
+  Number of Gamers: 35
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '33'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Sammy
   Description: Heal Sammy from the infection
   GS: '25'
   Guide: false
-  Number of Gamers: 22
-  Percentage of Gamers: 51%
-  Ratio: 1.39
-  TA: '34'
-  Tags: []
+  Number of Gamers: 35
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '33'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Amanda
   Description: Heal Amanda from the infection
   GS: '50'
   Guide: false
-  Number of Gamers: 19
-  Percentage of Gamers: 44%
-  Ratio: 1.5
-  TA: '75'
-  Tags: []
+  Number of Gamers: 34
+  Percentage of Gamers: 55%
+  Ratio: 1.35
+  TA: '67'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Simon
   Description: Heal Simon from the infection
   GS: '50'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 40%
-  Ratio: 1.59
-  TA: '79'
-  Tags: []
+  Number of Gamers: 32
+  Percentage of Gamers: 52%
+  Ratio: 1.39
+  TA: '69'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Kate
   Description: Heal Kate from the infection
   GS: '50'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 40%
-  Ratio: 1.59
-  TA: '79'
-  Tags: []
+  Number of Gamers: 32
+  Percentage of Gamers: 52%
+  Ratio: 1.39
+  TA: '69'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Uninvited guest
   Description: Defeat the monster from outer space
   GS: '50'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 40%
-  Ratio: 1.59
-  TA: '79'
-  Tags: []
-Base Ratio: 1.666
-Base TA: 1666
+  Number of Gamers: 32
+  Percentage of Gamers: 52%
+  Ratio: 1.39
+  TA: '69'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
+Base Ratio: 1.496
+Base TA: 1496
 Delisted: false
 Developer: Logris Games
 Game Name: 'House of 1000 Doors: Evil Inside Collector''s Edition'
 Genres: Adventure, Point & Click
 Install Size: 2240.0
-Number of Completions: 9
-Number of Gamers: 43
+Number of Completions: 17
+Number of Gamers: 62
 Overall Completion Time:
-- 8
-- 9
+- 10
+- 11
 Overall GS: 1000
-Overall Ratio: 1.666
-Overall TA: 1666
+Overall Ratio: 1.496
+Overall TA: 1496
 PDU: 0
-Percentage Completed: 20.93
+Percentage Completed: 27.42
 Publisher: Ocean Media
 Release Date: 08 January 2025
 Server Closure: false
-Site Rating: None
+Site Rating: 3.5
 Update Achievements: []
 Walkthrough: false

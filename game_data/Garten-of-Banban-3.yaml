@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 5
-- 6
+- 1.0
+- 2.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Free Janitor Services
   Description: Gain the approval of the Kleaner
   GS: '50'
   Guide: false
-  Number of Gamers: 538
+  Number of Gamers: 679
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '50'
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Finish the first Stinger Flynn sequence
   GS: '50'
   Guide: false
-  Number of Gamers: 427
-  Percentage of Gamers: 79%
-  Ratio: 1.12
-  TA: '56'
+  Number of Gamers: 563
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '54'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Escape Sheriff Toadster's room
   GS: '50'
   Guide: false
-  Number of Gamers: 450
-  Percentage of Gamers: 83%
-  Ratio: 1.09
-  TA: '54'
+  Number of Gamers: 588
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '53'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Successfully finish Nabnaleena's surgery
   GS: '50'
   Guide: false
-  Number of Gamers: 368
-  Percentage of Gamers: 68%
-  Ratio: 1.2
-  TA: '60'
+  Number of Gamers: 490
+  Percentage of Gamers: 72%
+  Ratio: 1.17
+  TA: '58'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Finish the second Stinger Flynn sequence
   GS: '50'
   Guide: false
-  Number of Gamers: 360
-  Percentage of Gamers: 67%
-  Ratio: 1.22
-  TA: '61'
+  Number of Gamers: 482
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '59'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: Escape Jumbo Josh's trial room
   GS: '50'
   Guide: false
-  Number of Gamers: 321
-  Percentage of Gamers: 60%
-  Ratio: 1.29
-  TA: '64'
+  Number of Gamers: 436
+  Percentage of Gamers: 64%
+  Ratio: 1.24
+  TA: '62'
   Tags:
   - Offline Mode
   - Single Player
@@ -80,10 +80,10 @@ Base Game Achievements:
   Description: Solve the cryptic math equations
   GS: '50'
   Guide: false
-  Number of Gamers: 319
-  Percentage of Gamers: 59%
-  Ratio: 1.29
-  TA: '64'
+  Number of Gamers: 431
+  Percentage of Gamers: 63%
+  Ratio: 1.25
+  TA: '62'
   Tags:
   - Offline Mode
   - Single Player
@@ -92,10 +92,10 @@ Base Game Achievements:
   Description: Defeat Chamataki and Tamataki
   GS: '50'
   Guide: false
-  Number of Gamers: 291
-  Percentage of Gamers: 54%
-  Ratio: 1.36
-  TA: '68'
+  Number of Gamers: 396
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '65'
   Tags:
   - Offline Mode
   - Single Player
@@ -104,10 +104,10 @@ Base Game Achievements:
   Description: Tame Tarta Bird
   GS: '50'
   Guide: false
-  Number of Gamers: 291
-  Percentage of Gamers: 54%
-  Ratio: 1.36
-  TA: '68'
+  Number of Gamers: 396
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '65'
   Tags:
   - Offline Mode
   - Single Player
@@ -116,95 +116,97 @@ Base Game Achievements:
   Description: Bid farewell to Banbaleena
   GS: '50'
   Guide: false
-  Number of Gamers: 166
-  Percentage of Gamers: 31%
-  Ratio: 1.8
-  TA: '90'
+  Number of Gamers: 236
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '84'
   Tags:
   - Offline Mode
   - Single Player
-  - Main Storyline
+  - Missable
 - Achievement Name: Givanium-ologist
   Description: Learn more about the nature of givanium
   GS: '50'
   Guide: false
-  Number of Gamers: 76
-  Percentage of Gamers: 14%
-  Ratio: 2.67
-  TA: '133'
+  Number of Gamers: 112
+  Percentage of Gamers: 16%
+  Ratio: 2.47
+  TA: '123'
   Tags:
   - Offline Mode
   - Single Player
-  - Main Storyline
+  - Missable
 - Achievement Name: The Summoner
   Description: Call Zolphius
   GS: '50'
   Guide: false
-  Number of Gamers: 93
-  Percentage of Gamers: 17%
-  Ratio: 2.41
-  TA: '120'
+  Number of Gamers: 135
+  Percentage of Gamers: 20%
+  Ratio: 2.25
+  TA: '112'
   Tags:
   - Offline Mode
   - Single Player
-  - Main Storyline
+  - Missable
 - Achievement Name: Fashionable Companion
   Description: Collect all drone hats
   GS: '100'
   Guide: false
-  Number of Gamers: 109
-  Percentage of Gamers: 20%
-  Ratio: 2.22
-  TA: '222'
+  Number of Gamers: 152
+  Percentage of Gamers: 22%
+  Ratio: 2.12
+  TA: '212'
   Tags:
   - Offline Mode
   - Single Player
   - Collectable
+  - Missable
 - Achievement Name: Reader
   Description: Read all notes
   GS: '100'
   Guide: false
-  Number of Gamers: 50
-  Percentage of Gamers: 9%
-  Ratio: 3.31
-  TA: '331'
+  Number of Gamers: 78
+  Percentage of Gamers: 11%
+  Ratio: 2.96
+  TA: '296'
   Tags:
   - Offline Mode
   - Single Player
   - Collectable
+  - Missable
 - Achievement Name: Family Feud
   Description: Complete Garten of Banban 3
   GS: '200'
   Guide: false
-  Number of Gamers: 280
-  Percentage of Gamers: 52%
-  Ratio: 1.38
-  TA: '277'
+  Number of Gamers: 382
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '267'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
   - Story Completed
-Base Ratio: 1.718
-Base TA: 1718
+Base Ratio: 1.622
+Base TA: 1622
 Delisted: false
 Developer: Euphoric Brothers
 Game Name: Garten of Banban 3
 Genres: Adventure
 Install Size: 1620.0
-Number of Completions: 49
-Number of Gamers: 539
+Number of Completions: 76
+Number of Gamers: 680
 Overall Completion Time:
-- 5
-- 6
+- 1.0
+- 2.0
 Overall GS: 1000
-Overall Ratio: 1.718
-Overall TA: 1718
+Overall Ratio: 1.622
+Overall TA: 1622
 PDU: 0
-Percentage Completed: 9.09
+Percentage Completed: 11.18
 Publisher: Feardemic
 Release Date: 25 June 2024
 Server Closure: false
-Site Rating: 4.8
+Site Rating: 4.38
 Update Achievements: []
 Walkthrough: false

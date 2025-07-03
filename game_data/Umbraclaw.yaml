@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
+- 23
 - 24
-- 25
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Umbraclaw
   Description: Earn every other achievement
   GS: '200'
   Guide: false
-  Number of Gamers: 2
+  Number of Gamers: 3
   Percentage of Gamers: 2%
-  Ratio: 7.44
-  TA: 1,489
+  Ratio: 6.35
+  TA: 1,270
   Tags:
   - Offline Game Mode
   - Single Player
@@ -19,10 +19,10 @@ Base Game Achievements:
   Description: Viewed the best ending.
   GS: '100'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 9%
-  Ratio: 3.33
-  TA: '333'
+  Number of Gamers: 12
+  Percentage of Gamers: 10%
+  Ratio: 3.17
+  TA: '317'
   Tags:
   - Offline Mode
   - Single Player
@@ -31,10 +31,10 @@ Base Game Achievements:
   Description: Viewed bad ending 1.
   GS: '30'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 5
   Percentage of Gamers: 4%
-  Ratio: 5.26
-  TA: '158'
+  Ratio: 4.91
+  TA: '147'
   Tags:
   - Offline Mode
   - Single Player
@@ -43,10 +43,10 @@ Base Game Achievements:
   Description: Viewed bad ending 2.
   GS: '30'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 5%
-  Ratio: 4.3
-  TA: '129'
+  Number of Gamers: 7
+  Percentage of Gamers: 6%
+  Ratio: 4.15
+  TA: '124'
   Tags:
   - Offline Mode
   - Single Player
@@ -55,10 +55,10 @@ Base Game Achievements:
   Description: Viewed bad ending 3.
   GS: '30'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 5%
-  Ratio: 4.3
-  TA: '129'
+  Number of Gamers: 7
+  Percentage of Gamers: 6%
+  Ratio: 4.15
+  TA: '124'
   Tags:
   - Offline Mode
   - Single Player
@@ -67,10 +67,10 @@ Base Game Achievements:
   Description: Viewed bad ending 4.
   GS: '30'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 5%
-  Ratio: 4.71
-  TA: '141'
+  Number of Gamers: 7
+  Percentage of Gamers: 6%
+  Ratio: 4.15
+  TA: '124'
   Tags:
   - Offline Mode
   - Single Player
@@ -79,10 +79,10 @@ Base Game Achievements:
   Description: Viewed the good ending.
   GS: '50'
   Guide: false
-  Number of Gamers: 2
+  Number of Gamers: 3
   Percentage of Gamers: 2%
-  Ratio: 7.44
-  TA: '372'
+  Ratio: 6.35
+  TA: '317'
   Tags:
   - Offline Mode
   - Single Player
@@ -91,10 +91,10 @@ Base Game Achievements:
   Description: Viewed the hidden ending.
   GS: '50'
   Guide: true
-  Number of Gamers: 2
+  Number of Gamers: 3
   Percentage of Gamers: 2%
-  Ratio: 7.44
-  TA: '372'
+  Ratio: 6.35
+  TA: '317'
   Tags:
   - Offline Mode
   - Single Player
@@ -103,9 +103,9 @@ Base Game Achievements:
   Description: Cleared the prologue.
   GS: '10'
   Guide: false
-  Number of Gamers: 100
-  Percentage of Gamers: 90%
-  Ratio: 1.05
+  Number of Gamers: 108
+  Percentage of Gamers: 89%
+  Ratio: 1.06
   TA: '10'
   Tags:
   - Offline Mode
@@ -115,9 +115,9 @@ Base Game Achievements:
   Description: Cleared chapter one.
   GS: '10'
   Guide: false
-  Number of Gamers: 24
+  Number of Gamers: 27
   Percentage of Gamers: 22%
-  Ratio: 2.15
+  Ratio: 2.11
   TA: '21'
   Tags:
   - Offline Mode
@@ -127,10 +127,10 @@ Base Game Achievements:
   Description: Cleared chapter two.
   GS: '10'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 15%
-  Ratio: 2.63
-  TA: '26'
+  Number of Gamers: 19
+  Percentage of Gamers: 16%
+  Ratio: 2.52
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
@@ -139,7 +139,7 @@ Base Game Achievements:
   Description: Defeated a powerful fiend.
   GS: '10'
   Guide: false
-  Number of Gamers: 100
+  Number of Gamers: 109
   Percentage of Gamers: 90%
   Ratio: 1.05
   TA: '10'
@@ -151,9 +151,9 @@ Base Game Achievements:
   Description: Defeated Galvestone.
   GS: '10'
   Guide: false
-  Number of Gamers: 43
-  Percentage of Gamers: 39%
-  Ratio: 1.6
+  Number of Gamers: 46
+  Percentage of Gamers: 38%
+  Ratio: 1.63
   TA: '16'
   Tags:
   - Offline Mode
@@ -163,10 +163,10 @@ Base Game Achievements:
   Description: Defeated Alice.
   GS: '10'
   Guide: false
-  Number of Gamers: 34
+  Number of Gamers: 38
   Percentage of Gamers: 31%
-  Ratio: 1.8
-  TA: '18'
+  Ratio: 1.78
+  TA: '17'
   Tags:
   - Offline Mode
   - Single Player
@@ -175,9 +175,9 @@ Base Game Achievements:
   Description: Defeated Stuart.
   GS: '10'
   Guide: false
-  Number of Gamers: 39
+  Number of Gamers: 42
   Percentage of Gamers: 35%
-  Ratio: 1.68
+  Ratio: 1.69
   TA: '16'
   Tags:
   - Offline Mode
@@ -187,9 +187,9 @@ Base Game Achievements:
   Description: Defeated Moenna.
   GS: '10'
   Guide: false
-  Number of Gamers: 32
-  Percentage of Gamers: 29%
-  Ratio: 1.86
+  Number of Gamers: 34
+  Percentage of Gamers: 28%
+  Ratio: 1.88
   TA: '18'
   Tags:
   - Offline Mode
@@ -199,10 +199,10 @@ Base Game Achievements:
   Description: Allowed Moenna to live.
   GS: '30'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 11%
-  Ratio: 3.17
-  TA: '95'
+  Number of Gamers: 15
+  Percentage of Gamers: 12%
+  Ratio: 2.84
+  TA: '85'
   Tags:
   - Offline Mode
   - Single Player
@@ -211,9 +211,9 @@ Base Game Achievements:
   Description: Fought Locke.
   GS: '10'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 23%
-  Ratio: 2.06
+  Number of Gamers: 29
+  Percentage of Gamers: 24%
+  Ratio: 2.04
   TA: '20'
   Tags:
   - Offline Mode
@@ -223,10 +223,10 @@ Base Game Achievements:
   Description: Defeated Locke.
   GS: '30'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 15%
-  Ratio: 2.63
-  TA: '79'
+  Number of Gamers: 19
+  Percentage of Gamers: 16%
+  Ratio: 2.52
+  TA: '75'
   Tags:
   - Offline Mode
   - Single Player
@@ -235,9 +235,9 @@ Base Game Achievements:
   Description: Defeated Navier.
   GS: '10'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 15%
-  Ratio: 2.55
+  Number of Gamers: 19
+  Percentage of Gamers: 16%
+  Ratio: 2.52
   TA: '25'
   Tags:
   - Offline Mode
@@ -247,7 +247,7 @@ Base Game Achievements:
   Description: "Defeated Schr\xF6dinger."
   GS: '10'
   Guide: false
-  Number of Gamers: 21
+  Number of Gamers: 23
   Percentage of Gamers: 19%
   Ratio: 2.29
   TA: '22'
@@ -259,9 +259,9 @@ Base Game Achievements:
   Description: Defeated Georges.
   GS: '10'
   Guide: false
-  Number of Gamers: 19
+  Number of Gamers: 21
   Percentage of Gamers: 17%
-  Ratio: 2.41
+  Ratio: 2.4
   TA: '24'
   Tags:
   - Offline Mode
@@ -271,9 +271,9 @@ Base Game Achievements:
   Description: Defeated Harland.
   GS: '10'
   Guide: false
-  Number of Gamers: 19
+  Number of Gamers: 21
   Percentage of Gamers: 17%
-  Ratio: 2.48
+  Ratio: 2.4
   TA: '24'
   Tags:
   - Offline Mode
@@ -283,10 +283,10 @@ Base Game Achievements:
   Description: Defeated Claudius.
   GS: '30'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 15%
-  Ratio: 2.63
-  TA: '79'
+  Number of Gamers: 19
+  Percentage of Gamers: 16%
+  Ratio: 2.52
+  TA: '75'
   Tags:
   - Offline Mode
   - Single Player
@@ -295,10 +295,10 @@ Base Game Achievements:
   Description: Viewed Claudius's hidden dialogue.
   GS: '60'
   Guide: true
-  Number of Gamers: 2
+  Number of Gamers: 3
   Percentage of Gamers: 2%
-  Ratio: 7.44
-  TA: '446'
+  Ratio: 6.35
+  TA: '381'
   Tags:
   - Offline Mode
   - Single Player
@@ -307,10 +307,10 @@ Base Game Achievements:
   Description: Defeated every mid-boss and boss while in feline mode in one playthrough.
   GS: '60'
   Guide: false
-  Number of Gamers: 5
+  Number of Gamers: 6
   Percentage of Gamers: 5%
-  Ratio: 4.71
-  TA: '282'
+  Ratio: 4.49
+  TA: '269'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -318,10 +318,10 @@ Base Game Achievements:
   Description: Made plentiful use of marking spots.
   GS: '10'
   Guide: false
-  Number of Gamers: 9
+  Number of Gamers: 10
   Percentage of Gamers: 8%
-  Ratio: 3.51
-  TA: '35'
+  Ratio: 3.47
+  TA: '34'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -329,10 +329,10 @@ Base Game Achievements:
   Description: Viewed all of Kuon's memories with her owner.
   GS: '30'
   Guide: false
-  Number of Gamers: 2
+  Number of Gamers: 3
   Percentage of Gamers: 2%
-  Ratio: 7.44
-  TA: '223'
+  Ratio: 6.35
+  TA: '190'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -340,9 +340,9 @@ Base Game Achievements:
   Description: Performed your first upgrade.
   GS: '10'
   Guide: false
-  Number of Gamers: 52
-  Percentage of Gamers: 47%
-  Ratio: 1.46
+  Number of Gamers: 58
+  Percentage of Gamers: 48%
+  Ratio: 1.45
   TA: '14'
   Tags:
   - Offline Game Mode
@@ -351,10 +351,10 @@ Base Game Achievements:
   Description: Performed every upgrade.
   GS: '30'
   Guide: false
-  Number of Gamers: 2
+  Number of Gamers: 3
   Percentage of Gamers: 2%
-  Ratio: 7.44
-  TA: '223'
+  Ratio: 6.35
+  TA: '190'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -362,10 +362,10 @@ Base Game Achievements:
   Description: Completed the Soulplane Guide.
   GS: '30'
   Guide: false
-  Number of Gamers: 3
+  Number of Gamers: 4
   Percentage of Gamers: 3%
-  Ratio: 6.08
-  TA: '182'
+  Ratio: 5.5
+  TA: '165'
   Tags:
   - Offline Mode
   - Single Player
@@ -374,7 +374,7 @@ Base Game Achievements:
   Description: Activated Anima Revive for the first time.
   GS: '10'
   Guide: false
-  Number of Gamers: 111
+  Number of Gamers: 121
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '10'
@@ -385,10 +385,10 @@ Base Game Achievements:
   Description: Groomed yourself before taking on a powerful foe.
   GS: '10'
   Guide: false
-  Number of Gamers: 3
+  Number of Gamers: 4
   Percentage of Gamers: 3%
-  Ratio: 6.08
-  TA: '60'
+  Ratio: 5.5
+  TA: '55'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -396,33 +396,33 @@ Base Game Achievements:
   Description: Remained steadfast in your desire to be a cat.
   GS: '10'
   Guide: false
-  Number of Gamers: 75
-  Percentage of Gamers: 68%
+  Number of Gamers: 83
+  Percentage of Gamers: 69%
   Ratio: 1.21
   TA: '12'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 5.113
-Base TA: 5113
+Base Ratio: 4.543
+Base TA: 4543
 Delisted: false
 Developer: Inti CREATES
 Game Name: Umbraclaw
 Genres: Platformer
 Install Size: 2040.0
-Number of Completions: 2
-Number of Gamers: 111
+Number of Completions: 3
+Number of Gamers: 121
 Overall Completion Time:
+- 23
 - 24
-- 25
 Overall GS: 1000
-Overall Ratio: 5.113
-Overall TA: 5113
+Overall Ratio: 4.543
+Overall TA: 4543
 PDU: 0
-Percentage Completed: 1.8
+Percentage Completed: 2.48
 Publisher: Inti CREATES
 Release Date: 30 May 2024
 Server Closure: false
-Site Rating: 4.3
+Site Rating: 4.42
 Update Achievements: []
 Walkthrough: false

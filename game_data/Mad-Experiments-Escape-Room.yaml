@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 2
-- 3
+- 0.5
+- 1.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Escaped from Room 1
   Description: Successfully escape from room 1
   GS: '50'
   Guide: false
-  Number of Gamers: 116
+  Number of Gamers: 141
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '50'
@@ -21,10 +21,10 @@ Base Game Achievements:
   Description: Finish the room in less than 90 seconds
   GS: '100'
   Guide: false
-  Number of Gamers: 81
-  Percentage of Gamers: 68%
-  Ratio: 1.21
-  TA: '121'
+  Number of Gamers: 105
+  Percentage of Gamers: 72%
+  Ratio: 1.17
+  TA: '117'
   Tags:
   - Online/Offline
   - Single Player
@@ -34,10 +34,10 @@ Base Game Achievements:
   Description: Who thought someone could get there?
   GS: '100'
   Guide: false
-  Number of Gamers: 83
-  Percentage of Gamers: 69%
-  Ratio: 1.2
-  TA: '120'
+  Number of Gamers: 108
+  Percentage of Gamers: 74%
+  Ratio: 1.16
+  TA: '116'
   Tags:
   - Online/Offline
   - Single Player
@@ -46,10 +46,10 @@ Base Game Achievements:
   Description: You used a powerful crystal to see the future
   GS: '150'
   Guide: false
-  Number of Gamers: 79
-  Percentage of Gamers: 66%
-  Ratio: 1.23
-  TA: '184'
+  Number of Gamers: 103
+  Percentage of Gamers: 71%
+  Ratio: 1.19
+  TA: '178'
   Tags:
   - Online/Offline
   - Single Player
@@ -58,8 +58,8 @@ Base Game Achievements:
   Description: Finish a room with 2 or more players
   GS: '50'
   Guide: false
-  Number of Gamers: 96
-  Percentage of Gamers: 80%
+  Number of Gamers: 118
+  Percentage of Gamers: 81%
   Ratio: 1.11
   TA: '55'
   Tags:
@@ -69,8 +69,8 @@ Base Game Achievements:
   Description: Finish the room without using extra clues
   GS: '50'
   Guide: false
-  Number of Gamers: 103
-  Percentage of Gamers: 86%
+  Number of Gamers: 127
+  Percentage of Gamers: 87%
   Ratio: 1.07
   TA: '53'
   Tags:
@@ -81,10 +81,10 @@ Base Game Achievements:
   Description: Successfully escape from room 2
   GS: '50'
   Guide: false
-  Number of Gamers: 97
-  Percentage of Gamers: 81%
-  Ratio: 1.11
-  TA: '55'
+  Number of Gamers: 123
+  Percentage of Gamers: 84%
+  Ratio: 1.08
+  TA: '54'
   Tags:
   - Online/Offline
   - Single Player
@@ -94,10 +94,10 @@ Base Game Achievements:
   Description: Finish the room in less than 90 seconds
   GS: '100'
   Guide: false
-  Number of Gamers: 79
-  Percentage of Gamers: 66%
-  Ratio: 1.23
-  TA: '123'
+  Number of Gamers: 104
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '118'
   Tags:
   - Online/Offline
   - Single Player
@@ -107,10 +107,10 @@ Base Game Achievements:
   Description: Finish Room 2 without using extra clues
   GS: '50'
   Guide: false
-  Number of Gamers: 92
-  Percentage of Gamers: 77%
-  Ratio: 1.14
-  TA: '57'
+  Number of Gamers: 117
+  Percentage of Gamers: 80%
+  Ratio: 1.11
+  TA: '55'
   Tags:
   - Online/Offline
   - Single Player
@@ -119,10 +119,10 @@ Base Game Achievements:
   Description: Send the peculiar visitor back home!
   GS: '100'
   Guide: false
-  Number of Gamers: 79
-  Percentage of Gamers: 66%
-  Ratio: 1.23
-  TA: '123'
+  Number of Gamers: 104
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '118'
   Tags:
   - Online/Offline
   - Single Player
@@ -131,10 +131,10 @@ Base Game Achievements:
   Description: Successfully escape from room 3
   GS: '50'
   Guide: false
-  Number of Gamers: 92
-  Percentage of Gamers: 77%
-  Ratio: 1.14
-  TA: '57'
+  Number of Gamers: 117
+  Percentage of Gamers: 80%
+  Ratio: 1.11
+  TA: '55'
   Tags:
   - Online/Offline
   - Single Player
@@ -144,10 +144,10 @@ Base Game Achievements:
   Description: Finish the room in less than 90 seconds
   GS: '100'
   Guide: false
-  Number of Gamers: 68
-  Percentage of Gamers: 57%
-  Ratio: 1.32
-  TA: '132'
+  Number of Gamers: 91
+  Percentage of Gamers: 62%
+  Ratio: 1.26
+  TA: '126'
   Tags:
   - Online/Offline
   - Single Player
@@ -157,34 +157,34 @@ Base Game Achievements:
   Description: Finish Room 3 without using extra clues
   GS: '50'
   Guide: false
-  Number of Gamers: 90
-  Percentage of Gamers: 75%
-  Ratio: 1.15
-  TA: '57'
+  Number of Gamers: 114
+  Percentage of Gamers: 78%
+  Ratio: 1.13
+  TA: '56'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
-Base Ratio: 1.187
-Base TA: 1187
+Base Ratio: 1.151
+Base TA: 1151
 Delisted: false
 Developer: PlayTogether Studio
 Game Name: 'Mad Experiments: Escape Room'
 Genres: Puzzle
 Install Size: 1720.0
-Number of Completions: 64
-Number of Gamers: 120
+Number of Completions: 87
+Number of Gamers: 146
 Overall Completion Time:
-- 2
-- 3
+- 0.5
+- 1.0
 Overall GS: 1000
-Overall Ratio: 1.187
-Overall TA: 1187
+Overall Ratio: 1.151
+Overall TA: 1151
 PDU: 0
-Percentage Completed: 53.33
+Percentage Completed: 59.59
 Publisher: "Nejcraft\u202C"
 Release Date: 28 August 2024
 Server Closure: false
-Site Rating: 1.25
+Site Rating: 1.86
 Update Achievements: []
 Walkthrough: false

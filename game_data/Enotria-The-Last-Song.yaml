@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- 65
-- 66
-Base GS: 1100
+- 84
+- 85
+Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Wonders of the World
   Description: Collect all Compendium entries in the world
   GS: '15'
   Guide: false
-  Number of Gamers: 23
+  Number of Gamers: 34
   Percentage of Gamers: 4%
-  Ratio: 5.1
-  TA: '76'
+  Ratio: 4.84
+  TA: '72'
   Tags:
   - Offline Mode
   - Single Player
@@ -20,21 +20,22 @@ Base Game Achievements:
   Description: Unlock all Compendium entries
   GS: '70'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 2%
-  Ratio: 6.79
-  TA: '475'
+  Number of Gamers: 26
+  Percentage of Gamers: 3%
+  Ratio: 5.54
+  TA: '387'
   Tags:
   - Offline Mode
   - Single Player
   - Collectable
+  - Missable
 - Achievement Name: Deeply Focused
   Description: Obtain one of the four final Perks in the Path of Innovators
   GS: '15'
   Guide: false
-  Number of Gamers: 242
-  Percentage of Gamers: 40%
-  Ratio: 1.57
+  Number of Gamers: 325
+  Percentage of Gamers: 41%
+  Ratio: 1.56
   TA: '23'
   Tags:
   - Offline Mode
@@ -44,10 +45,10 @@ Base Game Achievements:
   Description: Obtain all available Mask Perks in the Path of Innovators
   GS: '15'
   Guide: false
-  Number of Gamers: 24
-  Percentage of Gamers: 4%
-  Ratio: 5.0
-  TA: '75'
+  Number of Gamers: 38
+  Percentage of Gamers: 5%
+  Ratio: 4.58
+  TA: '68'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,10 +57,10 @@ Base Game Achievements:
   Description: Fully upgrade a regular Mask
   GS: '15'
   Guide: false
-  Number of Gamers: 234
-  Percentage of Gamers: 39%
-  Ratio: 1.6
-  TA: '24'
+  Number of Gamers: 322
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '23'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,7 +69,7 @@ Base Game Achievements:
   Description: Fully upgrade a special Mask
   GS: '15'
   Guide: false
-  Number of Gamers: 184
+  Number of Gamers: 246
   Percentage of Gamers: 31%
   Ratio: 1.8
   TA: '27'
@@ -80,10 +81,10 @@ Base Game Achievements:
   Description: Fully upgrade a regular Weapon
   GS: '15'
   Guide: false
-  Number of Gamers: 112
-  Percentage of Gamers: 19%
-  Ratio: 2.31
-  TA: '34'
+  Number of Gamers: 180
+  Percentage of Gamers: 23%
+  Ratio: 2.1
+  TA: '31'
   Tags:
   - Offline Mode
   - Single Player
@@ -92,9 +93,9 @@ Base Game Achievements:
   Description: Fully upgrade a regular Line
   GS: '15'
   Guide: false
-  Number of Gamers: 196
-  Percentage of Gamers: 33%
-  Ratio: 1.74
+  Number of Gamers: 258
+  Percentage of Gamers: 32%
+  Ratio: 1.75
   TA: '26'
   Tags:
   - Offline Mode
@@ -104,10 +105,10 @@ Base Game Achievements:
   Description: Collect all the Masks in the game
   GS: '15'
   Guide: true
-  Number of Gamers: 41
-  Percentage of Gamers: 7%
-  Ratio: 3.82
-  TA: '57'
+  Number of Gamers: 62
+  Percentage of Gamers: 8%
+  Ratio: 3.58
+  TA: '53'
   Tags:
   - Offline Mode
   - Single Player
@@ -116,10 +117,10 @@ Base Game Achievements:
   Description: Collect all the Weapons in the game
   GS: '15'
   Guide: true
-  Number of Gamers: 59
+  Number of Gamers: 82
   Percentage of Gamers: 10%
-  Ratio: 3.18
-  TA: '47'
+  Ratio: 3.11
+  TA: '46'
   Tags:
   - Offline Mode
   - Single Player
@@ -128,10 +129,10 @@ Base Game Achievements:
   Description: Collect all the Lines in the game
   GS: '15'
   Guide: false
-  Number of Gamers: 36
+  Number of Gamers: 51
   Percentage of Gamers: 6%
-  Ratio: 4.08
-  TA: '61'
+  Ratio: 3.95
+  TA: '59'
   Tags:
   - Offline Mode
   - Single Player
@@ -140,10 +141,10 @@ Base Game Achievements:
   Description: Collect all the Aspects in the game
   GS: '15'
   Guide: false
-  Number of Gamers: 37
-  Percentage of Gamers: 6%
-  Ratio: 4.02
-  TA: '60'
+  Number of Gamers: 54
+  Percentage of Gamers: 7%
+  Ratio: 3.84
+  TA: '57'
   Tags:
   - Offline Mode
   - Single Player
@@ -152,9 +153,9 @@ Base Game Achievements:
   Description: Use a Rift for the first time
   GS: '15'
   Guide: false
-  Number of Gamers: 499
-  Percentage of Gamers: 83%
-  Ratio: 1.09
+  Number of Gamers: 656
+  Percentage of Gamers: 82%
+  Ratio: 1.1
   TA: '16'
   Tags:
   - Offline Game Mode
@@ -163,10 +164,10 @@ Base Game Achievements:
   Description: Completed all the combat Rift in the game
   GS: '30'
   Guide: false
-  Number of Gamers: 86
-  Percentage of Gamers: 14%
-  Ratio: 2.64
-  TA: '79'
+  Number of Gamers: 120
+  Percentage of Gamers: 15%
+  Ratio: 2.57
+  TA: '77'
   Tags:
   - Offline Mode
   - Single Player
@@ -175,9 +176,9 @@ Base Game Achievements:
   Description: City of Actors
   GS: '15'
   Guide: false
-  Number of Gamers: 499
-  Percentage of Gamers: 83%
-  Ratio: 1.09
+  Number of Gamers: 656
+  Percentage of Gamers: 82%
+  Ratio: 1.1
   TA: '16'
   Tags:
   - Offline Mode
@@ -187,7 +188,7 @@ Base Game Achievements:
   Description: Caput Mundi
   GS: '15'
   Guide: false
-  Number of Gamers: 337
+  Number of Gamers: 447
   Percentage of Gamers: 56%
   Ratio: 1.33
   TA: '20'
@@ -199,7 +200,7 @@ Base Game Achievements:
   Description: Stargazing
   GS: '15'
   Guide: false
-  Number of Gamers: 241
+  Number of Gamers: 323
   Percentage of Gamers: 40%
   Ratio: 1.57
   TA: '23'
@@ -211,10 +212,10 @@ Base Game Achievements:
   Description: I did learn the part
   GS: '30'
   Guide: true
-  Number of Gamers: 15
-  Percentage of Gamers: 2%
-  Ratio: 6.32
-  TA: '189'
+  Number of Gamers: 28
+  Percentage of Gamers: 4%
+  Ratio: 5.33
+  TA: '160'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -222,10 +223,10 @@ Base Game Achievements:
   Description: Golden Spider
   GS: '30'
   Guide: false
-  Number of Gamers: 24
-  Percentage of Gamers: 4%
-  Ratio: 5.0
-  TA: '150'
+  Number of Gamers: 100
+  Percentage of Gamers: 13%
+  Ratio: 2.82
+  TA: '84'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -233,43 +234,46 @@ Base Game Achievements:
   Description: Life and Death
   GS: '30'
   Guide: false
-  Number of Gamers: 20
-  Percentage of Gamers: 3%
-  Ratio: 5.47
-  TA: '164'
+  Number of Gamers: 59
+  Percentage of Gamers: 7%
+  Ratio: 3.67
+  TA: '110'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Missable
 - Achievement Name: God of War
   Description: God of War
   GS: '30'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 2%
-  Ratio: 6.32
-  TA: '189'
+  Number of Gamers: 51
+  Percentage of Gamers: 6%
+  Ratio: 3.95
+  TA: '118'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Missable
 - Achievement Name: The object
   Description: The object
   GS: '30'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 3%
-  Ratio: 6.12
-  TA: '183'
+  Number of Gamers: 50
+  Percentage of Gamers: 6%
+  Ratio: 3.99
+  TA: '119'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Missable
 - Achievement Name: There is much yet to do
   Description: There is much yet to do
   GS: '70'
-  Guide: false
-  Number of Gamers: 21
-  Percentage of Gamers: 4%
-  Ratio: 5.34
-  TA: '374'
+  Guide: true
+  Number of Gamers: 88
+  Percentage of Gamers: 11%
+  Ratio: 3.01
+  TA: '210'
   Tags:
   - Offline Mode
   - Single Player
@@ -279,10 +283,10 @@ Base Game Achievements:
   Description: Our Song Begins
   GS: '70'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 2%
-  Ratio: 6.54
-  TA: '458'
+  Number of Gamers: 47
+  Percentage of Gamers: 6%
+  Ratio: 4.12
+  TA: '288'
   Tags:
   - Offline Mode
   - Single Player
@@ -292,10 +296,10 @@ Base Game Achievements:
   Description: God of Man
   GS: '70'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 2%
-  Ratio: 6.79
-  TA: '475'
+  Number of Gamers: 37
+  Percentage of Gamers: 5%
+  Ratio: 4.64
+  TA: '325'
   Tags:
   - Offline Mode
   - Single Player
@@ -304,8 +308,8 @@ Base Game Achievements:
 - Achievement Name: Force of Change
   Description: Force of Change
   GS: '15'
-  Guide: false
-  Number of Gamers: 564
+  Guide: true
+  Number of Gamers: 750
   Percentage of Gamers: 94%
   Ratio: 1.03
   TA: '15'
@@ -313,14 +317,15 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Main Storyline
+  - Missable
 - Achievement Name: Crushing Laughter
   Description: Crushing Laughter
   GS: '15'
   Guide: false
-  Number of Gamers: 423
-  Percentage of Gamers: 70%
-  Ratio: 1.19
-  TA: '17'
+  Number of Gamers: 549
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '18'
   Tags:
   - Offline Mode
   - Single Player
@@ -329,9 +334,9 @@ Base Game Achievements:
   Description: Curtis
   GS: '15'
   Guide: false
-  Number of Gamers: 454
-  Percentage of Gamers: 76%
-  Ratio: 1.14
+  Number of Gamers: 597
+  Percentage of Gamers: 75%
+  Ratio: 1.15
   TA: '17'
   Tags:
   - Offline Mode
@@ -341,9 +346,9 @@ Base Game Achievements:
   Description: Zanni
   GS: '15'
   Guide: false
-  Number of Gamers: 361
+  Number of Gamers: 478
   Percentage of Gamers: 60%
-  Ratio: 1.28
+  Ratio: 1.29
   TA: '19'
   Tags:
   - Offline Mode
@@ -353,7 +358,7 @@ Base Game Achievements:
   Description: Vermiglio
   GS: '15'
   Guide: false
-  Number of Gamers: 341
+  Number of Gamers: 456
   Percentage of Gamers: 57%
   Ratio: 1.32
   TA: '19'
@@ -365,7 +370,7 @@ Base Game Achievements:
   Description: Sand Paguro
   GS: '15'
   Guide: false
-  Number of Gamers: 324
+  Number of Gamers: 429
   Percentage of Gamers: 54%
   Ratio: 1.36
   TA: '20'
@@ -377,7 +382,7 @@ Base Game Achievements:
   Description: Breach Defender
   GS: '15'
   Guide: false
-  Number of Gamers: 316
+  Number of Gamers: 420
   Percentage of Gamers: 53%
   Ratio: 1.37
   TA: '20'
@@ -389,10 +394,10 @@ Base Game Achievements:
   Description: High Priestess
   GS: '15'
   Guide: false
-  Number of Gamers: 249
-  Percentage of Gamers: 42%
-  Ratio: 1.55
-  TA: '23'
+  Number of Gamers: 341
+  Percentage of Gamers: 43%
+  Ratio: 1.52
+  TA: '22'
   Tags:
   - Offline Mode
   - Single Player
@@ -401,10 +406,10 @@ Base Game Achievements:
   Description: Zealot
   GS: '15'
   Guide: false
-  Number of Gamers: 253
-  Percentage of Gamers: 42%
-  Ratio: 1.54
-  TA: '23'
+  Number of Gamers: 344
+  Percentage of Gamers: 43%
+  Ratio: 1.52
+  TA: '22'
   Tags:
   - Offline Mode
   - Single Player
@@ -413,9 +418,9 @@ Base Game Achievements:
   Description: High Ranked
   GS: '15'
   Guide: false
-  Number of Gamers: 237
-  Percentage of Gamers: 40%
-  Ratio: 1.59
+  Number of Gamers: 328
+  Percentage of Gamers: 41%
+  Ratio: 1.55
   TA: '23'
   Tags:
   - Offline Mode
@@ -425,9 +430,9 @@ Base Game Achievements:
   Description: Capitan Spaventa
   GS: '15'
   Guide: false
-  Number of Gamers: 227
-  Percentage of Gamers: 38%
-  Ratio: 1.62
+  Number of Gamers: 308
+  Percentage of Gamers: 39%
+  Ratio: 1.6
   TA: '24'
   Tags:
   - Offline Mode
@@ -437,9 +442,9 @@ Base Game Achievements:
   Description: Giangurgolo
   GS: '15'
   Guide: false
-  Number of Gamers: 209
-  Percentage of Gamers: 35%
-  Ratio: 1.69
+  Number of Gamers: 285
+  Percentage of Gamers: 36%
+  Ratio: 1.67
   TA: '25'
   Tags:
   - Offline Mode
@@ -449,22 +454,23 @@ Base Game Achievements:
   Description: Earth and Strife
   GS: '15'
   Guide: false
-  Number of Gamers: 248
-  Percentage of Gamers: 41%
-  Ratio: 1.55
+  Number of Gamers: 339
+  Percentage of Gamers: 42%
+  Ratio: 1.53
   TA: '23'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
+  - Missable
 - Achievement Name: Moretta
   Description: Moretta
   GS: '15'
   Guide: false
-  Number of Gamers: 209
-  Percentage of Gamers: 35%
-  Ratio: 1.69
-  TA: '25'
+  Number of Gamers: 290
+  Percentage of Gamers: 36%
+  Ratio: 1.65
+  TA: '24'
   Tags:
   - Offline Mode
   - Single Player
@@ -473,10 +479,10 @@ Base Game Achievements:
   Description: Rulers of Litumnia
   GS: '15'
   Guide: false
-  Number of Gamers: 199
-  Percentage of Gamers: 33%
-  Ratio: 1.73
-  TA: '26'
+  Number of Gamers: 280
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
@@ -485,10 +491,10 @@ Base Game Achievements:
   Description: Arlecchino
   GS: '15'
   Guide: false
-  Number of Gamers: 184
-  Percentage of Gamers: 31%
-  Ratio: 1.8
-  TA: '27'
+  Number of Gamers: 257
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '26'
   Tags:
   - Offline Mode
   - Single Player
@@ -497,22 +503,23 @@ Base Game Achievements:
   Description: Pulcinella
   GS: '15'
   Guide: true
-  Number of Gamers: 77
-  Percentage of Gamers: 13%
-  Ratio: 2.79
-  TA: '41'
+  Number of Gamers: 110
+  Percentage of Gamers: 14%
+  Ratio: 2.69
+  TA: '40'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
+  - Missable
 - Achievement Name: Unstoppable Force
   Description: Defeated the strongest foes in the Land of Enotria
   GS: '30'
   Guide: false
-  Number of Gamers: 59
-  Percentage of Gamers: 10%
-  Ratio: 3.18
-  TA: '95'
+  Number of Gamers: 86
+  Percentage of Gamers: 11%
+  Ratio: 3.04
+  TA: '91'
   Tags:
   - Offline Mode
   - Single Player
@@ -521,47 +528,36 @@ Base Game Achievements:
   Description: Unlocked all the achievements
   GS: '30'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 0%
-  Ratio: 14.14
-  TA: '424'
+  Number of Gamers: 20
+  Percentage of Gamers: 3%
+  Ratio: 6.31
+  TA: '189'
   Tags:
   - Offline Mode
   - Single Player
   - Collectable
   - Level
   - Shop
-Base Ratio: 3.9336363636363636
-Base TA: 4327
+Base Ratio: 3.1
+Base TA: 3100
 Delisted: false
 Developer: Jyamma Games
 Game Name: 'Enotria: The Last Song'
 Genres: Action-RPG, Role Playing
-Install Size: 13120.0
-Number of Completions: 0
-Number of Gamers: 600
+Install Size: 12560.0
+Number of Completions: 6
+Number of Gamers: 798
 Overall Completion Time:
-- 65
-- 66
-Overall GS: 1100
-Overall Ratio: 3.9336363636363636
-Overall TA: 4327
+- 84
+- 85
+Overall GS: 1000
+Overall Ratio: 3.1
+Overall TA: 3100
 PDU: 0
-Percentage Completed: 0.0
+Percentage Completed: 0.75
 Publisher: Jyamma Games
 Release Date: 12 December 2024
 Server Closure: false
-Site Rating: 4.08
-Update Achievements:
-- Achievement Name: The thing about Hatred
-  Description: The thing about Hatred
-  GS: '100'
-  Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '100'
-  Tags:
-  - Offline Game Mode
-  - Single Player
+Site Rating: 4.23
+Update Achievements: []
 Walkthrough: false

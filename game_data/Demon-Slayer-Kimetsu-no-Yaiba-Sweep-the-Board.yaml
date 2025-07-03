@@ -1,16 +1,16 @@
 Add On Achievements: []
 Base Completion Time:
-- 16
 - 17
+- 18
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Winner Takes All
   Description: Acquired all achievements.
   GS: '0'
   Guide: false
-  Number of Gamers: 29
-  Percentage of Gamers: 6%
-  Ratio: 4.01
+  Number of Gamers: 39
+  Percentage of Gamers: 7%
+  Ratio: 3.74
   TA: '0'
   Tags:
   - Online/Offline
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Complete one game in "Sweep the Board!" mode.
   GS: '15'
   Guide: false
-  Number of Gamers: 428
+  Number of Gamers: 506
   Percentage of Gamers: 92%
   Ratio: 1.04
   TA: '15'
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Complete one game on Board One.
   GS: '15'
   Guide: false
-  Number of Gamers: 362
-  Percentage of Gamers: 78%
-  Ratio: 1.13
-  TA: '17'
+  Number of Gamers: 436
+  Percentage of Gamers: 79%
+  Ratio: 1.12
+  TA: '16'
   Tags:
   - Online/Offline
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Secure first place in the Final Results on Board One.
   GS: '30'
   Guide: true
-  Number of Gamers: 229
-  Percentage of Gamers: 49%
-  Ratio: 1.42
-  TA: '42'
+  Number of Gamers: 282
+  Percentage of Gamers: 51%
+  Ratio: 1.39
+  TA: '41'
   Tags:
   - Online/Offline
   - Single Player
@@ -56,9 +56,9 @@ Base Game Achievements:
   Description: Complete one game on Board Two.
   GS: '15'
   Guide: false
-  Number of Gamers: 240
-  Percentage of Gamers: 51%
-  Ratio: 1.39
+  Number of Gamers: 297
+  Percentage of Gamers: 54%
+  Ratio: 1.36
   TA: '20'
   Tags:
   - Online/Offline
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: Secure first place in the Final Results on Board Two.
   GS: '30'
   Guide: false
-  Number of Gamers: 156
-  Percentage of Gamers: 33%
-  Ratio: 1.73
-  TA: '51'
+  Number of Gamers: 195
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '50'
   Tags:
   - Online/Offline
   - Single Player
@@ -80,9 +80,9 @@ Base Game Achievements:
   Description: Complete one game on Board Three.
   GS: '15'
   Guide: false
-  Number of Gamers: 242
-  Percentage of Gamers: 52%
-  Ratio: 1.38
+  Number of Gamers: 300
+  Percentage of Gamers: 54%
+  Ratio: 1.35
   TA: '20'
   Tags:
   - Online/Offline
@@ -92,10 +92,10 @@ Base Game Achievements:
   Description: Secure first place in the Final Results on Board Three.
   GS: '30'
   Guide: false
-  Number of Gamers: 159
-  Percentage of Gamers: 34%
-  Ratio: 1.71
-  TA: '51'
+  Number of Gamers: 203
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '49'
   Tags:
   - Online/Offline
   - Single Player
@@ -104,9 +104,9 @@ Base Game Achievements:
   Description: Complete one game on Board Four.
   GS: '15'
   Guide: false
-  Number of Gamers: 224
-  Percentage of Gamers: 48%
-  Ratio: 1.44
+  Number of Gamers: 269
+  Percentage of Gamers: 49%
+  Ratio: 1.43
   TA: '21'
   Tags:
   - Online/Offline
@@ -116,10 +116,10 @@ Base Game Achievements:
   Description: Secure first place in the Final Results on Board Four.
   GS: '30'
   Guide: false
-  Number of Gamers: 146
-  Percentage of Gamers: 31%
-  Ratio: 1.78
-  TA: '53'
+  Number of Gamers: 178
+  Percentage of Gamers: 32%
+  Ratio: 1.75
+  TA: '52'
   Tags:
   - Online/Offline
   - Single Player
@@ -128,10 +128,10 @@ Base Game Achievements:
   Description: Complete one game on Board Five.
   GS: '15'
   Guide: false
-  Number of Gamers: 179
-  Percentage of Gamers: 38%
-  Ratio: 1.61
-  TA: '24'
+  Number of Gamers: 219
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '23'
   Tags:
   - Online/Offline
   - Single Player
@@ -140,10 +140,10 @@ Base Game Achievements:
   Description: Secure first place in the Final Results on Board Five.
   GS: '30'
   Guide: false
-  Number of Gamers: 137
-  Percentage of Gamers: 29%
-  Ratio: 1.84
-  TA: '55'
+  Number of Gamers: 167
+  Percentage of Gamers: 30%
+  Ratio: 1.83
+  TA: '54'
   Tags:
   - Online/Offline
   - Single Player
@@ -153,10 +153,10 @@ Base Game Achievements:
     Board Five).
   GS: '80'
   Guide: false
-  Number of Gamers: 81
-  Percentage of Gamers: 17%
-  Ratio: 2.4
-  TA: '192'
+  Number of Gamers: 98
+  Percentage of Gamers: 18%
+  Ratio: 2.37
+  TA: '189'
   Tags:
   - Online/Offline
   - Single Player
@@ -165,9 +165,9 @@ Base Game Achievements:
   Description: Achieve Hashira rank in the Final Results in "Sweep the Board!" mode.
   GS: '30'
   Guide: false
-  Number of Gamers: 368
-  Percentage of Gamers: 79%
-  Ratio: 1.12
+  Number of Gamers: 440
+  Percentage of Gamers: 80%
+  Ratio: 1.11
   TA: '33'
   Tags:
   - Online/Offline
@@ -178,10 +178,10 @@ Base Game Achievements:
     cumulative total of 20 times.
   GS: '80'
   Guide: true
-  Number of Gamers: 30
-  Percentage of Gamers: 6%
-  Ratio: 3.94
-  TA: '315'
+  Number of Gamers: 39
+  Percentage of Gamers: 7%
+  Ratio: 3.74
+  TA: '299'
   Tags:
   - Online/Offline
   - Single Player
@@ -191,7 +191,7 @@ Base Game Achievements:
   Description: Put your stamina to the test in Endurance Training mode.
   GS: '15'
   Guide: false
-  Number of Gamers: 140
+  Number of Gamers: 165
   Percentage of Gamers: 30%
   Ratio: 1.82
   TA: '27'
@@ -203,9 +203,9 @@ Base Game Achievements:
   Description: Work with another Slayer Character in Team Brawl mode.
   GS: '15'
   Guide: false
-  Number of Gamers: 118
+  Number of Gamers: 140
   Percentage of Gamers: 25%
-  Ratio: 1.98
+  Ratio: 1.97
   TA: '29'
   Tags:
   - Online/Offline
@@ -215,11 +215,11 @@ Base Game Achievements:
   Description: Carry the katana to the end without hitting an obstacle in Muscle,
     Muscle Delivery!
   GS: '15'
-  Guide: false
-  Number of Gamers: 75
-  Percentage of Gamers: 16%
-  Ratio: 2.49
-  TA: '37'
+  Guide: true
+  Number of Gamers: 92
+  Percentage of Gamers: 17%
+  Ratio: 2.43
+  TA: '36'
   Tags:
   - Online/Offline
   - Single Player
@@ -228,11 +228,11 @@ Base Game Achievements:
   Description: Put on a flawless performance without making a single mistake in Zenko's
     Zealous Performance.
   GS: '15'
-  Guide: false
-  Number of Gamers: 121
-  Percentage of Gamers: 26%
-  Ratio: 1.96
-  TA: '29'
+  Guide: true
+  Number of Gamers: 150
+  Percentage of Gamers: 27%
+  Ratio: 1.9
+  TA: '28'
   Tags:
   - Online/Offline
   - Single Player
@@ -241,9 +241,9 @@ Base Game Achievements:
   Description: Clear Nezuko Shuffle! without making a single mistake.
   GS: '15'
   Guide: false
-  Number of Gamers: 223
+  Number of Gamers: 267
   Percentage of Gamers: 48%
-  Ratio: 1.44
+  Ratio: 1.43
   TA: '21'
   Tags:
   - Online/Offline
@@ -253,11 +253,11 @@ Base Game Achievements:
   Description: Strike the sword three times or more each round without being caught
     in Sneaky Sword Styling.
   GS: '15'
-  Guide: false
-  Number of Gamers: 123
-  Percentage of Gamers: 26%
-  Ratio: 1.94
-  TA: '29'
+  Guide: true
+  Number of Gamers: 161
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '27'
   Tags:
   - Online/Offline
   - Single Player
@@ -266,9 +266,9 @@ Base Game Achievements:
   Description: Match card pairs without making a single mistake in Team Memory Matching.
   GS: '15'
   Guide: false
-  Number of Gamers: 188
-  Percentage of Gamers: 40%
-  Ratio: 1.57
+  Number of Gamers: 228
+  Percentage of Gamers: 41%
+  Ratio: 1.55
   TA: '23'
   Tags:
   - Online/Offline
@@ -278,10 +278,10 @@ Base Game Achievements:
   Description: Beat Dance to the Chun! without making a single mistake.
   GS: '15'
   Guide: false
-  Number of Gamers: 109
-  Percentage of Gamers: 23%
-  Ratio: 2.06
-  TA: '31'
+  Number of Gamers: 144
+  Percentage of Gamers: 26%
+  Ratio: 1.96
+  TA: '29'
   Tags:
   - Online/Offline
   - Single Player
@@ -289,11 +289,11 @@ Base Game Achievements:
 - Achievement Name: Quick to Act
   Description: Reach the goal without hitting a single obstacle in Dash Down Mt. Sagiri.
   GS: '15'
-  Guide: false
-  Number of Gamers: 116
+  Guide: true
+  Number of Gamers: 140
   Percentage of Gamers: 25%
-  Ratio: 2.0
-  TA: '30'
+  Ratio: 1.97
+  TA: '29'
   Tags:
   - Online/Offline
   - Single Player
@@ -303,10 +303,10 @@ Base Game Achievements:
     Spinning Tops.
   GS: '15'
   Guide: false
-  Number of Gamers: 129
-  Percentage of Gamers: 28%
-  Ratio: 1.9
-  TA: '28'
+  Number of Gamers: 160
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '27'
   Tags:
   - Online/Offline
   - Single Player
@@ -315,11 +315,11 @@ Base Game Achievements:
   Description: Win without making a single mistake in Don't Miss a Beat! Escape Tsuzumi
     Mansion.
   GS: '15'
-  Guide: false
-  Number of Gamers: 95
-  Percentage of Gamers: 20%
-  Ratio: 2.21
-  TA: '33'
+  Guide: true
+  Number of Gamers: 118
+  Percentage of Gamers: 21%
+  Ratio: 2.15
+  TA: '32'
   Tags:
   - Online/Offline
   - Single Player
@@ -327,10 +327,10 @@ Base Game Achievements:
 - Achievement Name: Artistically Gifted
   Description: Score 85 points in In One Fell Stroke.
   GS: '15'
-  Guide: false
-  Number of Gamers: 261
+  Guide: true
+  Number of Gamers: 306
   Percentage of Gamers: 56%
-  Ratio: 1.33
+  Ratio: 1.34
   TA: '20'
   Tags:
   - Online/Offline
@@ -339,10 +339,10 @@ Base Game Achievements:
 - Achievement Name: Skilled Assessor
   Description: Secure victory with five points or more in Ohajiki.
   GS: '15'
-  Guide: false
-  Number of Gamers: 255
-  Percentage of Gamers: 55%
-  Ratio: 1.35
+  Guide: true
+  Number of Gamers: 297
+  Percentage of Gamers: 54%
+  Ratio: 1.36
   TA: '20'
   Tags:
   - Online/Offline
@@ -352,10 +352,10 @@ Base Game Achievements:
   Description: Send all of the Daruma blocks flying within 15 seconds perfectly in
     Daruma Left, Daruma Right.
   GS: '15'
-  Guide: false
-  Number of Gamers: 177
-  Percentage of Gamers: 38%
-  Ratio: 1.62
+  Guide: true
+  Number of Gamers: 213
+  Percentage of Gamers: 39%
+  Ratio: 1.6
   TA: '24'
   Tags:
   - Online/Offline
@@ -366,10 +366,10 @@ Base Game Achievements:
     limit in All-Out Snowball Fight.
   GS: '15'
   Guide: false
-  Number of Gamers: 168
-  Percentage of Gamers: 36%
-  Ratio: 1.66
-  TA: '25'
+  Number of Gamers: 208
+  Percentage of Gamers: 38%
+  Ratio: 1.62
+  TA: '24'
   Tags:
   - Online/Offline
   - Single Player
@@ -378,7 +378,7 @@ Base Game Achievements:
   Description: Score 200 points or more with your partner in Sure Shooter.
   GS: '15'
   Guide: false
-  Number of Gamers: 332
+  Number of Gamers: 390
   Percentage of Gamers: 71%
   Ratio: 1.18
   TA: '17'
@@ -390,11 +390,11 @@ Base Game Achievements:
   Description: Secure first place without getting hit a single time in Knock 'Em Out!
     Chanbara Swordplay.
   GS: '15'
-  Guide: false
-  Number of Gamers: 157
-  Percentage of Gamers: 34%
-  Ratio: 1.72
-  TA: '25'
+  Guide: true
+  Number of Gamers: 197
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '24'
   Tags:
   - Online/Offline
   - Single Player
@@ -403,11 +403,11 @@ Base Game Achievements:
   Description: Win without letting the opposing team score a single point in Team
     Badminton.
   GS: '15'
-  Guide: false
-  Number of Gamers: 167
+  Guide: true
+  Number of Gamers: 198
   Percentage of Gamers: 36%
-  Ratio: 1.67
-  TA: '25'
+  Ratio: 1.66
+  TA: '24'
   Tags:
   - Online/Offline
   - Single Player
@@ -416,8 +416,8 @@ Base Game Achievements:
   Description: Launch 20 or more fireworks within the time limit in Tengen's Flashy
     Fireworks.
   GS: '15'
-  Guide: false
-  Number of Gamers: 301
+  Guide: true
+  Number of Gamers: 354
   Percentage of Gamers: 64%
   Ratio: 1.24
   TA: '18'
@@ -429,10 +429,10 @@ Base Game Achievements:
   Description: Rouse Tanjiro in under 0.3 seconds in Tanjiro's Total Concentration
     Training.
   GS: '15'
-  Guide: false
-  Number of Gamers: 82
+  Guide: true
+  Number of Gamers: 101
   Percentage of Gamers: 18%
-  Ratio: 2.38
+  Ratio: 2.33
   TA: '35'
   Tags:
   - Online/Offline
@@ -442,9 +442,9 @@ Base Game Achievements:
   Description: Score 130 points or higher within the time limit in Whack-a-Demon.
   GS: '15'
   Guide: false
-  Number of Gamers: 206
-  Percentage of Gamers: 44%
-  Ratio: 1.5
+  Number of Gamers: 253
+  Percentage of Gamers: 46%
+  Ratio: 1.47
   TA: '22'
   Tags:
   - Online/Offline
@@ -454,11 +454,11 @@ Base Game Achievements:
   Description: Ride over ice 15 times or more before reaching the goal in Demon Sleigh-er,
     Snowy Sleigh Race.
   GS: '15'
-  Guide: false
-  Number of Gamers: 73
-  Percentage of Gamers: 16%
-  Ratio: 2.52
-  TA: '37'
+  Guide: true
+  Number of Gamers: 96
+  Percentage of Gamers: 17%
+  Ratio: 2.38
+  TA: '35'
   Tags:
   - Online/Offline
   - Single Player
@@ -468,9 +468,9 @@ Base Game Achievements:
     time limit.
   GS: '15'
   Guide: false
-  Number of Gamers: 266
-  Percentage of Gamers: 57%
-  Ratio: 1.32
+  Number of Gamers: 322
+  Percentage of Gamers: 58%
+  Ratio: 1.3
   TA: '19'
   Tags:
   - Online/Offline
@@ -480,10 +480,10 @@ Base Game Achievements:
   Description: Make it to the end and score 10 points or more within the time limit
     in Last One Jumping.
   GS: '15'
-  Guide: false
-  Number of Gamers: 141
+  Guide: true
+  Number of Gamers: 164
   Percentage of Gamers: 30%
-  Ratio: 1.81
+  Ratio: 1.82
   TA: '27'
   Tags:
   - Online/Offline
@@ -492,11 +492,11 @@ Base Game Achievements:
 - Achievement Name: Culinary Artist
   Description: Score 40 points or more in Food Delivery! within the time limit.
   GS: '15'
-  Guide: false
-  Number of Gamers: 144
-  Percentage of Gamers: 31%
-  Ratio: 1.8
-  TA: '27'
+  Guide: true
+  Number of Gamers: 174
+  Percentage of Gamers: 32%
+  Ratio: 1.77
+  TA: '26'
   Tags:
   - Online/Offline
   - Single Player
@@ -504,11 +504,11 @@ Base Game Achievements:
 - Achievement Name: Hyottoko Mask Buff
   Description: Score 10 points or more within the time limit in Mask Match.
   GS: '15'
-  Guide: false
-  Number of Gamers: 107
-  Percentage of Gamers: 23%
-  Ratio: 2.08
-  TA: '31'
+  Guide: true
+  Number of Gamers: 141
+  Percentage of Gamers: 26%
+  Ratio: 1.97
+  TA: '29'
   Tags:
   - Online/Offline
   - Single Player
@@ -516,11 +516,11 @@ Base Game Achievements:
 - Achievement Name: Stamp Collector
   Description: Collect 65 stamps (excluding downloadable content).
   GS: '30'
-  Guide: false
-  Number of Gamers: 141
-  Percentage of Gamers: 30%
-  Ratio: 1.81
-  TA: '54'
+  Guide: true
+  Number of Gamers: 176
+  Percentage of Gamers: 32%
+  Ratio: 1.77
+  TA: '53'
   Tags:
   - Offline Mode
   - Single Player
@@ -528,11 +528,11 @@ Base Game Achievements:
 - Achievement Name: Photo Collector
   Description: Collect 100 avatar images.
   GS: '30'
-  Guide: false
-  Number of Gamers: 94
-  Percentage of Gamers: 20%
-  Ratio: 2.22
-  TA: '66'
+  Guide: true
+  Number of Gamers: 117
+  Percentage of Gamers: 21%
+  Ratio: 2.17
+  TA: '65'
   Tags:
   - Offline Mode
   - Single Player
@@ -541,9 +541,9 @@ Base Game Achievements:
   Description: Collect 20 wallpapers.
   GS: '30'
   Guide: false
-  Number of Gamers: 194
+  Number of Gamers: 231
   Percentage of Gamers: 42%
-  Ratio: 1.55
+  Ratio: 1.54
   TA: '46'
   Tags:
   - Offline Mode
@@ -552,11 +552,11 @@ Base Game Achievements:
 - Achievement Name: Frame Collector
   Description: Collect 20 frames.
   GS: '30'
-  Guide: false
-  Number of Gamers: 86
-  Percentage of Gamers: 18%
-  Ratio: 2.33
-  TA: '69'
+  Guide: true
+  Number of Gamers: 109
+  Percentage of Gamers: 20%
+  Ratio: 2.26
+  TA: '67'
   Tags:
   - Offline Mode
   - Single Player
@@ -564,10 +564,10 @@ Base Game Achievements:
 - Achievement Name: Wardrobe Collector
   Description: Collect eight sets of battle attire at the Raffle.
   GS: '30'
-  Guide: false
-  Number of Gamers: 193
-  Percentage of Gamers: 41%
-  Ratio: 1.55
+  Guide: true
+  Number of Gamers: 229
+  Percentage of Gamers: 42%
+  Ratio: 1.54
   TA: '46'
   Tags:
   - Offline Mode
@@ -577,7 +577,7 @@ Base Game Achievements:
   Description: Edit your Player Card.
   GS: '15'
   Guide: false
-  Number of Gamers: 322
+  Number of Gamers: 378
   Percentage of Gamers: 69%
   Ratio: 1.2
   TA: '18'
@@ -588,34 +588,34 @@ Base Game Achievements:
   Description: Obtain 10 prizes from the Raffle.
   GS: '15'
   Guide: false
-  Number of Gamers: 341
+  Number of Gamers: 404
   Percentage of Gamers: 73%
-  Ratio: 1.17
+  Ratio: 1.16
   TA: '17'
   Tags:
   - Offline Mode
   - Single Player
   - Shop
-Base Ratio: 1.914
-Base TA: 1914
+Base Ratio: 1.866
+Base TA: 1866
 Delisted: false
 Developer: CyberConnect2
 Game Name: Demon Slayer -Kimetsu no Yaiba- Sweep the Board!
 Genres: Card & Board, Party
 Install Size: 4920.0
-Number of Completions: 29
-Number of Gamers: 467
+Number of Completions: 39
+Number of Gamers: 551
 Overall Completion Time:
-- 16
 - 17
+- 18
 Overall GS: 1000
-Overall Ratio: 1.914
-Overall TA: 1914
+Overall Ratio: 1.866
+Overall TA: 1866
 PDU: 0
-Percentage Completed: 6.21
+Percentage Completed: 7.08
 Publisher: SEGA, Aniplex
 Release Date: 16 July 2024
 Server Closure: false
-Site Rating: 3.79
+Site Rating: 3.81
 Update Achievements: []
 Walkthrough: false

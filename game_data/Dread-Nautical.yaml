@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 30
-- 31
+- 35
+- 36
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: What the Hell
   Description: Reach the foghorn on the first deck
   GS: '25'
   Guide: true
-  Number of Gamers: 445
+  Number of Gamers: 447
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '25'
@@ -19,10 +19,10 @@ Base Game Achievements:
   Description: Recycle 25 items
   GS: '50'
   Guide: false
-  Number of Gamers: 48
+  Number of Gamers: 49
   Percentage of Gamers: 11%
-  Ratio: 3.07
-  TA: '153'
+  Ratio: 3.02
+  TA: '151'
   Tags:
   - Online/Offline
   - Single Player
@@ -31,10 +31,10 @@ Base Game Achievements:
   Description: Reach Deck 10
   GS: '50'
   Guide: false
-  Number of Gamers: 46
-  Percentage of Gamers: 10%
-  Ratio: 3.11
-  TA: '155'
+  Number of Gamers: 47
+  Percentage of Gamers: 11%
+  Ratio: 3.08
+  TA: '154'
   Tags:
   - Online/Offline
   - Single Player
@@ -42,10 +42,10 @@ Base Game Achievements:
   Description: Find 3 ultra rare weapons
   GS: '50'
   Guide: false
-  Number of Gamers: 60
-  Percentage of Gamers: 13%
-  Ratio: 2.72
-  TA: '136'
+  Number of Gamers: 61
+  Percentage of Gamers: 14%
+  Ratio: 2.7
+  TA: '135'
   Tags:
   - Online/Offline
   - Single Player
@@ -56,8 +56,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 20
   Percentage of Gamers: 4%
-  Ratio: 4.71
-  TA: '235'
+  Ratio: 4.72
+  TA: '236'
   Tags:
   - Online/Offline
   - Single Player
@@ -66,10 +66,10 @@ Base Game Achievements:
   Description: Defeat the Apex Predator
   GS: '100'
   Guide: true
-  Number of Gamers: 17
+  Number of Gamers: 18
   Percentage of Gamers: 4%
-  Ratio: 5.11
-  TA: '511'
+  Ratio: 4.98
+  TA: '498'
   Tags:
   - Online/Offline
   - Single Player
@@ -78,7 +78,7 @@ Base Game Achievements:
   Description: Defeat an unaware enemy with one hit
   GS: '25'
   Guide: false
-  Number of Gamers: 256
+  Number of Gamers: 257
   Percentage of Gamers: 57%
   Ratio: 1.31
   TA: '32'
@@ -89,10 +89,10 @@ Base Game Achievements:
   Description: Recruit the same survivor twice during a playthrough
   GS: '50'
   Guide: true
-  Number of Gamers: 18
+  Number of Gamers: 19
   Percentage of Gamers: 4%
-  Ratio: 4.97
-  TA: '248'
+  Ratio: 4.85
+  TA: '242'
   Tags:
   - Online/Offline
   - Single Player
@@ -100,10 +100,10 @@ Base Game Achievements:
   Description: Open a room with a special key
   GS: '100'
   Guide: true
-  Number of Gamers: 78
-  Percentage of Gamers: 17%
-  Ratio: 2.38
-  TA: '238'
+  Number of Gamers: 79
+  Percentage of Gamers: 18%
+  Ratio: 2.37
+  TA: '237'
   Tags:
   - Online/Offline
   - Single Player
@@ -111,10 +111,10 @@ Base Game Achievements:
   Description: Beat the game on insane difficulty
   GS: '100'
   Guide: false
-  Number of Gamers: 5
+  Number of Gamers: 6
   Percentage of Gamers: 1%
-  Ratio: 9.43
-  TA: '943'
+  Ratio: 8.63
+  TA: '863'
   Tags:
   - Online/Offline
   - Single Player
@@ -127,8 +127,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 26
   Percentage of Gamers: 6%
-  Ratio: 4.13
-  TA: '413'
+  Ratio: 4.14
+  TA: '414'
   Tags:
   - Online/Offline
   - Single Player
@@ -137,10 +137,10 @@ Base Game Achievements:
   Description: Take a panicking survivor to a deck
   GS: '50'
   Guide: true
-  Number of Gamers: 24
-  Percentage of Gamers: 5%
-  Ratio: 4.3
-  TA: '215'
+  Number of Gamers: 25
+  Percentage of Gamers: 6%
+  Ratio: 4.22
+  TA: '211'
   Tags:
   - Online/Offline
   - Single Player
@@ -150,8 +150,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 22
   Percentage of Gamers: 5%
-  Ratio: 4.49
-  TA: '449'
+  Ratio: 4.5
+  TA: '450'
   Tags:
   - Online/Offline
   - Single Player
@@ -160,10 +160,10 @@ Base Game Achievements:
   Description: Finish off an enemy from more than six tiles away
   GS: '50'
   Guide: true
-  Number of Gamers: 41
+  Number of Gamers: 42
   Percentage of Gamers: 9%
-  Ratio: 3.29
-  TA: '164'
+  Ratio: 3.26
+  TA: '163'
   Tags:
   - Online/Offline
   - Single Player
@@ -171,33 +171,33 @@ Base Game Achievements:
   Description: Reach the foghorn while danger level is at its maximum
   GS: '100'
   Guide: true
-  Number of Gamers: 26
+  Number of Gamers: 27
   Percentage of Gamers: 6%
-  Ratio: 4.13
-  TA: '413'
+  Ratio: 4.06
+  TA: '406'
   Tags:
   - Online/Offline
   - Single Player
-Base Ratio: 4.33
-Base TA: 4330
+Base Ratio: 4.217
+Base TA: 4217
 Delisted: false
 Developer: Zen Studios
 Game Name: Dread Nautical
 Genres: Roguelite, Strategy, Turn Based
 Install Size: 2400.0
-Number of Completions: 4
-Number of Gamers: 446
+Number of Completions: 5
+Number of Gamers: 447
 Overall Completion Time:
-- 30
-- 31
+- 35
+- 36
 Overall GS: 1000
-Overall Ratio: 4.33
-Overall TA: 4330
+Overall Ratio: 4.217
+Overall TA: 4217
 PDU: 0
-Percentage Completed: 0.9
+Percentage Completed: 1.12
 Publisher: Zen Studios
 Release Date: 29 April 2020
 Server Closure: false
-Site Rating: 3.6
+Site Rating: 3.59
 Update Achievements: []
 Walkthrough: false

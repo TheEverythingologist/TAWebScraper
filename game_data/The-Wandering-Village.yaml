@@ -2,13 +2,13 @@ Add On Achievements: []
 Base Completion Time:
 - 40.0
 - 50.0
-Base GS: 1000
+Base GS: 1490
 Base Game Achievements:
 - Achievement Name: Petting Zoo
   Description: Pet Onbu
   GS: '10'
   Guide: true
-  Number of Gamers: 2882
+  Number of Gamers: 2937
   Percentage of Gamers: 27%
   Ratio: 1.91
   TA: '19'
@@ -19,10 +19,10 @@ Base Game Achievements:
   Description: Build the Survival Monument
   GS: '50'
   Guide: true
-  Number of Gamers: 762
+  Number of Gamers: 780
   Percentage of Gamers: 7%
-  Ratio: 3.72
-  TA: '186'
+  Ratio: 3.71
+  TA: '185'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -30,10 +30,10 @@ Base Game Achievements:
   Description: Build the Onbu Monument
   GS: '100'
   Guide: true
-  Number of Gamers: 295
+  Number of Gamers: 307
   Percentage of Gamers: 3%
-  Ratio: 5.98
-  TA: '598'
+  Ratio: 5.91
+  TA: '591'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -41,7 +41,7 @@ Base Game Achievements:
   Description: Build the Village Monument
   GS: '100'
   Guide: true
-  Number of Gamers: 1672
+  Number of Gamers: 1691
   Percentage of Gamers: 16%
   Ratio: 2.51
   TA: '251'
@@ -52,9 +52,9 @@ Base Game Achievements:
   Description: Pet, feed, heal and detox Onbu within one day
   GS: '50'
   Guide: true
-  Number of Gamers: 870
+  Number of Gamers: 881
   Percentage of Gamers: 8%
-  Ratio: 3.48
+  Ratio: 3.49
   TA: '174'
   Tags:
   - Offline Game Mode
@@ -63,7 +63,7 @@ Base Game Achievements:
   Description: Survive until day 100 without building any Air Wells
   GS: '100'
   Guide: true
-  Number of Gamers: 420
+  Number of Gamers: 426
   Percentage of Gamers: 4%
   Ratio: 5.01
   TA: '501'
@@ -74,10 +74,10 @@ Base Game Achievements:
   Description: Reach a population of at least 500 villagers
   GS: '100'
   Guide: true
-  Number of Gamers: 183
+  Number of Gamers: 186
   Percentage of Gamers: 2%
-  Ratio: 7.59
-  TA: '759'
+  Ratio: 7.61
+  TA: '761'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -85,10 +85,10 @@ Base Game Achievements:
   Description: Reach a population of at least 200 villagers
   GS: '50'
   Guide: false
-  Number of Gamers: 502
+  Number of Gamers: 513
   Percentage of Gamers: 5%
-  Ratio: 4.58
-  TA: '229'
+  Ratio: 4.57
+  TA: '228'
   Tags:
   - Offline Mode
   - Single Player
@@ -97,7 +97,7 @@ Base Game Achievements:
   Description: Feed Onbu with the Feeding Trebuchet
   GS: '10'
   Guide: true
-  Number of Gamers: 9334
+  Number of Gamers: 9486
   Percentage of Gamers: 88%
   Ratio: 1.06
   TA: '10'
@@ -108,7 +108,7 @@ Base Game Achievements:
   Description: Achieve 100% efficiency with a Berry Gatherer
   GS: '10'
   Guide: true
-  Number of Gamers: 5902
+  Number of Gamers: 5999
   Percentage of Gamers: 56%
   Ratio: 1.33
   TA: '13'
@@ -119,10 +119,10 @@ Base Game Achievements:
   Description: Survive until day 100 without building any Farms
   GS: '100'
   Guide: true
-  Number of Gamers: 460
+  Number of Gamers: 468
   Percentage of Gamers: 4%
-  Ratio: 4.79
-  TA: '479'
+  Ratio: 4.78
+  TA: '478'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -130,9 +130,9 @@ Base Game Achievements:
   Description: "Cut down every tree on Onbu\u2019s back"
   GS: '10'
   Guide: true
-  Number of Gamers: 1011
+  Number of Gamers: 1022
   Percentage of Gamers: 10%
-  Ratio: 3.23
+  Ratio: 3.24
   TA: '32'
   Tags:
   - Offline Game Mode
@@ -141,7 +141,7 @@ Base Game Achievements:
   Description: Get Onbu's heartrate to go above 6 bpm
   GS: '50'
   Guide: true
-  Number of Gamers: 4892
+  Number of Gamers: 4975
   Percentage of Gamers: 46%
   Ratio: 1.46
   TA: '73'
@@ -153,7 +153,7 @@ Base Game Achievements:
     3 times
   GS: '100'
   Guide: true
-  Number of Gamers: 1647
+  Number of Gamers: 1674
   Percentage of Gamers: 16%
   Ratio: 2.53
   TA: '253'
@@ -164,7 +164,7 @@ Base Game Achievements:
   Description: Survive until day 100 without harvesting any Berries
   GS: '140'
   Guide: true
-  Number of Gamers: 306
+  Number of Gamers: 311
   Percentage of Gamers: 3%
   Ratio: 5.87
   TA: '822'
@@ -175,7 +175,7 @@ Base Game Achievements:
   Description: Lose a villager on a scavenging mission
   GS: '10'
   Guide: true
-  Number of Gamers: 4480
+  Number of Gamers: 4561
   Percentage of Gamers: 42%
   Ratio: 1.53
   TA: '15'
@@ -186,33 +186,203 @@ Base Game Achievements:
   Description: Produce Black Pudding
   GS: '10'
   Guide: true
-  Number of Gamers: 820
+  Number of Gamers: 835
   Percentage of Gamers: 8%
   Ratio: 3.58
   TA: '35'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 4.449
-Base TA: 4449
+Base Ratio: 9.942953020134228
+Base TA: 14815
 Delisted: false
 Developer: Stray Fawn Studio
 Game Name: The Wandering Village
 Genres: Simulation, Management
-Install Size: 1410.0
-Number of Completions: 134
-Number of Gamers: 10584
+Install Size: 1360.0
+Number of Completions: 15
+Number of Gamers: 10755
 Overall Completion Time:
 - 40.0
 - 50.0
-Overall GS: 1000
-Overall Ratio: 4.449
-Overall TA: 4449
+Overall GS: 1490
+Overall Ratio: 9.942953020134228
+Overall TA: 14815
 PDU: 0
-Percentage Completed: 1.27
+Percentage Completed: 0.14
 Publisher: Stray Fawn Studio
 Release Date: 20 July 2023
 Server Closure: false
-Site Rating: 3.73
-Update Achievements: []
+Site Rating: 3.74
+Update Achievements:
+- Achievement Name: The Enlightened Village
+  Description: Research every technology in a single playthrough
+  GS: '35'
+  Guide: false
+  Number of Gamers: 23
+  Percentage of Gamers: 0%
+  Ratio: 23.16
+  TA: '810'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Rock Bottom
+  Description: "Mine every boulder on Onbu\u2019s back"
+  GS: '15'
+  Guide: false
+  Number of Gamers: 34
+  Percentage of Gamers: 0%
+  Ratio: 18.31
+  TA: '274'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: A Breath of Fresh Air
+  Description: Survive until day 100 without any housing
+  GS: '35'
+  Guide: false
+  Number of Gamers: 22
+  Percentage of Gamers: 0%
+  Ratio: 22.6
+  TA: '791'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Perfect Sight
+  Description: Have at least 3 Scout Towers built at once
+  GS: '15'
+  Guide: false
+  Number of Gamers: 31
+  Percentage of Gamers: 0%
+  Ratio: 19.57
+  TA: '293'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative
+- Achievement Name: Age of Exploration
+  Description: Have at least 5 ongoing scavenging missions at once
+  GS: '35'
+  Guide: false
+  Number of Gamers: 30
+  Percentage of Gamers: 0%
+  Ratio: 18.91
+  TA: '661'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Sandman
+  Description: Successfully command Onbu to sleep
+  GS: '15'
+  Guide: false
+  Number of Gamers: 53
+  Percentage of Gamers: 0%
+  Ratio: 14.95
+  TA: '224'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: But I'm not Hungry!
+  Description: Successfully command Onbu to eat
+  GS: '15'
+  Guide: false
+  Number of Gamers: 51
+  Percentage of Gamers: 0%
+  Ratio: 15.11
+  TA: '226'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Happy Folks
+  Description: Achieve a happiness rating of at least 35
+  GS: '35'
+  Guide: false
+  Number of Gamers: 28
+  Percentage of Gamers: 0%
+  Ratio: 20.31
+  TA: '711'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Free Real Estate
+  Description: Achieve a housing quality of 6 while having at least 50 villagers
+  GS: '15'
+  Guide: false
+  Number of Gamers: 42
+  Percentage of Gamers: 0%
+  Ratio: 16.58
+  TA: '248'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Modern Times
+  Description: Have at least 10 buildings with upgrades
+  GS: '15'
+  Guide: false
+  Number of Gamers: 41
+  Percentage of Gamers: 0%
+  Ratio: 16.58
+  TA: '248'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative
+- Achievement Name: The Soaring Village
+  Description: Build a Scavenger Hut before day 12 begins
+  GS: '70'
+  Guide: false
+  Number of Gamers: 21
+  Percentage of Gamers: 0%
+  Ratio: 23.76
+  TA: 1,663
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: Globetrotter
+  Description: Visit the Mountains, Jungle, Desert, Ocean and Ruins in a single playthrough
+  GS: '15'
+  Guide: false
+  Number of Gamers: 49
+  Percentage of Gamers: 0%
+  Ratio: 15.44
+  TA: '231'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Food for Thought
+  Description: Survive until day 100 without building any Kitchen or Gourmet Kitchen
+  GS: '70'
+  Guide: false
+  Number of Gamers: 22
+  Percentage of Gamers: 0%
+  Ratio: 23.16
+  TA: 1,621
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: What's the Buzz?
+  Description: Have at least 20 Elefleas and 5 Sporemoths on Onbu at the same time
+  GS: '35'
+  Guide: false
+  Number of Gamers: 23
+  Percentage of Gamers: 0%
+  Ratio: 22.6
+  TA: '791'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative
+- Achievement Name: Priorities
+  Description: Build a Community Plaza before building the Feeding Trebuchet
+  GS: '70'
+  Guide: false
+  Number of Gamers: 24
+  Percentage of Gamers: 0%
+  Ratio: 22.6
+  TA: 1,582
+  Tags:
+  - Offline Game Mode
+  - Single Player
 Walkthrough: false

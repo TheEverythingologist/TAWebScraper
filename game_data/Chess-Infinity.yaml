@@ -1,16 +1,16 @@
 Add On Achievements: []
 Base Completion Time:
-- 30
-- 31
+- 26
+- 27
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Good Morning, Good Afternoon and Good Night
   Description: Play a game in Tour mode with a different time of day
   GS: '20'
-  Guide: false
-  Number of Gamers: 98
-  Percentage of Gamers: 50%
-  Ratio: 1.41
+  Guide: true
+  Number of Gamers: 131
+  Percentage of Gamers: 49%
+  Ratio: 1.43
   TA: '28'
   Tags:
   - Offline Game Mode
@@ -18,10 +18,10 @@ Base Game Achievements:
 - Achievement Name: This One!
   Description: Play a game with a favourited chess set
   GS: '20'
-  Guide: false
-  Number of Gamers: 98
+  Guide: true
+  Number of Gamers: 135
   Percentage of Gamers: 50%
-  Ratio: 1.41
+  Ratio: 1.4
   TA: '28'
   Tags:
   - Online/Offline
@@ -31,9 +31,9 @@ Base Game Achievements:
   Description: Use a Phrase
   GS: '20'
   Guide: false
-  Number of Gamers: 46
-  Percentage of Gamers: 24%
-  Ratio: 2.05
+  Number of Gamers: 62
+  Percentage of Gamers: 23%
+  Ratio: 2.07
   TA: '41'
   Tags:
   - Online/Offline
@@ -42,8 +42,8 @@ Base Game Achievements:
 - Achievement Name: Going Places
   Description: Complete all lessons within a category
   GS: '20'
-  Guide: false
-  Number of Gamers: 61
+  Guide: true
+  Number of Gamers: 84
   Percentage of Gamers: 31%
   Ratio: 1.78
   TA: '35'
@@ -54,21 +54,21 @@ Base Game Achievements:
   Description: Get a score and grade in a Tour event
   GS: '20'
   Guide: false
-  Number of Gamers: 108
-  Percentage of Gamers: 55%
-  Ratio: 1.34
-  TA: '26'
+  Number of Gamers: 143
+  Percentage of Gamers: 53%
+  Ratio: 1.36
+  TA: '27'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Think Fast
   Description: Start a game using the Rapid timer
   GS: '20'
-  Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 14%
-  Ratio: 2.68
-  TA: '53'
+  Guide: true
+  Number of Gamers: 43
+  Percentage of Gamers: 16%
+  Ratio: 2.49
+  TA: '49'
   Tags:
   - Online/Offline
   - Single Player
@@ -77,10 +77,10 @@ Base Game Achievements:
   Description: Win 50 games
   GS: '20'
   Guide: false
-  Number of Gamers: 9
+  Number of Gamers: 13
   Percentage of Gamers: 5%
-  Ratio: 4.65
-  TA: '93'
+  Ratio: 4.54
+  TA: '90'
   Tags:
   - Online/Offline
   - Single Player
@@ -89,11 +89,11 @@ Base Game Achievements:
 - Achievement Name: Chess Protege
   Description: Complete a lesson
   GS: '20'
-  Guide: false
-  Number of Gamers: 84
-  Percentage of Gamers: 43%
-  Ratio: 1.52
-  TA: '30'
+  Guide: true
+  Number of Gamers: 120
+  Percentage of Gamers: 45%
+  Ratio: 1.49
+  TA: '29'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -101,9 +101,9 @@ Base Game Achievements:
   Description: Reach a bronze Challenge tier
   GS: '20'
   Guide: false
-  Number of Gamers: 140
-  Percentage of Gamers: 72%
-  Ratio: 1.18
+  Number of Gamers: 199
+  Percentage of Gamers: 74%
+  Ratio: 1.16
   TA: '23'
   Tags:
   - Online/Offline
@@ -112,10 +112,10 @@ Base Game Achievements:
 - Achievement Name: Wood Chopping
   Description: Complete a Capture puzzle
   GS: '20'
-  Guide: false
-  Number of Gamers: 87
-  Percentage of Gamers: 45%
-  Ratio: 1.49
+  Guide: true
+  Number of Gamers: 122
+  Percentage of Gamers: 46%
+  Ratio: 1.48
   TA: '29'
   Tags:
   - Offline Game Mode
@@ -124,10 +124,10 @@ Base Game Achievements:
   Description: Unlock a chess set
   GS: '20'
   Guide: false
-  Number of Gamers: 98
-  Percentage of Gamers: 50%
-  Ratio: 1.41
-  TA: '28'
+  Number of Gamers: 137
+  Percentage of Gamers: 51%
+  Ratio: 1.39
+  TA: '27'
   Tags:
   - Offline Mode
   - Single Player
@@ -135,21 +135,21 @@ Base Game Achievements:
 - Achievement Name: Mate-in
   Description: Complete any Mate-in puzzle
   GS: '20'
-  Guide: false
-  Number of Gamers: 62
-  Percentage of Gamers: 32%
-  Ratio: 1.77
-  TA: '35'
+  Guide: true
+  Number of Gamers: 90
+  Percentage of Gamers: 34%
+  Ratio: 1.72
+  TA: '34'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Fancy
   Description: Unlock and equip a new Banner
   GS: '20'
-  Guide: false
-  Number of Gamers: 54
-  Percentage of Gamers: 28%
-  Ratio: 1.9
+  Guide: true
+  Number of Gamers: 71
+  Percentage of Gamers: 26%
+  Ratio: 1.94
   TA: '38'
   Tags:
   - Offline Game Mode
@@ -158,20 +158,20 @@ Base Game Achievements:
   Description: Unlock and equip the Shogun's Cuirass
   GS: '20'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 8%
-  Ratio: 3.49
-  TA: '69'
+  Number of Gamers: 23
+  Percentage of Gamers: 9%
+  Ratio: 3.41
+  TA: '68'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Oopsy
   Description: Use undo in a Tour event
   GS: '20'
-  Guide: false
-  Number of Gamers: 67
-  Percentage of Gamers: 34%
-  Ratio: 1.7
+  Guide: true
+  Number of Gamers: 88
+  Percentage of Gamers: 33%
+  Ratio: 1.74
   TA: '34'
   Tags:
   - Offline Game Mode
@@ -179,10 +179,10 @@ Base Game Achievements:
 - Achievement Name: Better Moves
   Description: Use Best Move in a Tour event
   GS: '20'
-  Guide: false
-  Number of Gamers: 67
+  Guide: true
+  Number of Gamers: 91
   Percentage of Gamers: 34%
-  Ratio: 1.7
+  Ratio: 1.71
   TA: '34'
   Tags:
   - Offline Game Mode
@@ -191,9 +191,9 @@ Base Game Achievements:
   Description: Complete a game against the AI
   GS: '20'
   Guide: false
-  Number of Gamers: 151
-  Percentage of Gamers: 77%
-  Ratio: 1.13
+  Number of Gamers: 214
+  Percentage of Gamers: 80%
+  Ratio: 1.11
   TA: '22'
   Tags:
   - Offline Game Mode
@@ -201,8 +201,8 @@ Base Game Achievements:
 - Achievement Name: Castling
   Description: Castle kingside or Queenside during a game.
   GS: '20'
-  Guide: false
-  Number of Gamers: 101
+  Guide: true
+  Number of Gamers: 139
   Percentage of Gamers: 52%
   Ratio: 1.38
   TA: '27'
@@ -213,10 +213,10 @@ Base Game Achievements:
 - Achievement Name: Just one Fianchetto
   Description: Make a Fianchetto move during game
   GS: '20'
-  Guide: false
-  Number of Gamers: 116
-  Percentage of Gamers: 59%
-  Ratio: 1.29
+  Guide: true
+  Number of Gamers: 168
+  Percentage of Gamers: 63%
+  Ratio: 1.26
   TA: '25'
   Tags:
   - Online/Offline
@@ -225,11 +225,11 @@ Base Game Achievements:
 - Achievement Name: Check!
   Description: Put the opponent king into Check
   GS: '20'
-  Guide: false
-  Number of Gamers: 160
-  Percentage of Gamers: 82%
-  Ratio: 1.1
-  TA: '22'
+  Guide: true
+  Number of Gamers: 225
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '21'
   Tags:
   - Online/Offline
   - Single Player
@@ -238,10 +238,10 @@ Base Game Achievements:
   Description: Have two pawns of the same colour on the same file
   GS: '20'
   Guide: false
-  Number of Gamers: 141
-  Percentage of Gamers: 72%
-  Ratio: 1.17
-  TA: '23'
+  Number of Gamers: 204
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '22'
   Tags:
   - Online/Offline
   - Single Player
@@ -250,20 +250,20 @@ Base Game Achievements:
   Description: Unlock and equip the Hoplon Shield
   GS: '20'
   Guide: false
-  Number of Gamers: 18
+  Number of Gamers: 24
   Percentage of Gamers: 9%
-  Ratio: 3.29
-  TA: '65'
+  Ratio: 3.34
+  TA: '66'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Chess Jail
   Description: Create a relative pin or an absolute pin
   GS: '20'
-  Guide: false
-  Number of Gamers: 173
-  Percentage of Gamers: 89%
-  Ratio: 1.06
+  Guide: true
+  Number of Gamers: 242
+  Percentage of Gamers: 90%
+  Ratio: 1.05
   TA: '21'
   Tags:
   - Online/Offline
@@ -272,10 +272,10 @@ Base Game Achievements:
 - Achievement Name: Skews You!
   Description: Create a relative or absolute skewer
   GS: '20'
-  Guide: false
-  Number of Gamers: 166
-  Percentage of Gamers: 85%
-  Ratio: 1.08
+  Guide: true
+  Number of Gamers: 230
+  Percentage of Gamers: 86%
+  Ratio: 1.07
   TA: '21'
   Tags:
   - Online/Offline
@@ -284,10 +284,10 @@ Base Game Achievements:
 - Achievement Name: Double Attack!
   Description: Create a fork
   GS: '20'
-  Guide: false
-  Number of Gamers: 186
-  Percentage of Gamers: 95%
-  Ratio: 1.02
+  Guide: true
+  Number of Gamers: 258
+  Percentage of Gamers: 96%
+  Ratio: 1.01
   TA: '20'
   Tags:
   - Online/Offline
@@ -296,11 +296,11 @@ Base Game Achievements:
 - Achievement Name: Promotion
   Description: Promote a pawn
   GS: '20'
-  Guide: false
-  Number of Gamers: 124
-  Percentage of Gamers: 64%
-  Ratio: 1.25
-  TA: '25'
+  Guide: true
+  Number of Gamers: 177
+  Percentage of Gamers: 66%
+  Ratio: 1.23
+  TA: '24'
   Tags:
   - Online/Offline
   - Single Player
@@ -309,10 +309,10 @@ Base Game Achievements:
   Description: Improve your Elo by 100
   GS: '20'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 6%
-  Ratio: 4.03
-  TA: '80'
+  Number of Gamers: 21
+  Percentage of Gamers: 8%
+  Ratio: 3.57
+  TA: '71'
   Tags:
   - Online/Offline
   - Single Player
@@ -321,10 +321,10 @@ Base Game Achievements:
 - Achievement Name: Octopus
   Description: Place a white knight on e6
   GS: '20'
-  Guide: false
-  Number of Gamers: 70
-  Percentage of Gamers: 36%
-  Ratio: 1.66
+  Guide: true
+  Number of Gamers: 98
+  Percentage of Gamers: 37%
+  Ratio: 1.65
   TA: '33'
   Tags:
   - Online/Offline
@@ -333,10 +333,10 @@ Base Game Achievements:
 - Achievement Name: Spanish Bishop
   Description: Develop a white bishop to b5
   GS: '20'
-  Guide: false
-  Number of Gamers: 93
-  Percentage of Gamers: 48%
-  Ratio: 1.44
+  Guide: true
+  Number of Gamers: 134
+  Percentage of Gamers: 50%
+  Ratio: 1.41
   TA: '28'
   Tags:
   - Online/Offline
@@ -346,9 +346,9 @@ Base Game Achievements:
   Description: Exchange queens in a game
   GS: '20'
   Guide: false
-  Number of Gamers: 93
-  Percentage of Gamers: 48%
-  Ratio: 1.44
+  Number of Gamers: 135
+  Percentage of Gamers: 50%
+  Ratio: 1.4
   TA: '28'
   Tags:
   - Online/Offline
@@ -358,10 +358,10 @@ Base Game Achievements:
   Description: Perform the En Passant move
   GS: '25'
   Guide: false
-  Number of Gamers: 20
-  Percentage of Gamers: 10%
-  Ratio: 3.12
-  TA: '78'
+  Number of Gamers: 36
+  Percentage of Gamers: 13%
+  Ratio: 2.72
+  TA: '68'
   Tags:
   - Online/Offline
   - Single Player
@@ -370,10 +370,10 @@ Base Game Achievements:
   Description: Promote a pawn to a rook, bishop, or knight instead of a queen
   GS: '25'
   Guide: false
-  Number of Gamers: 36
-  Percentage of Gamers: 18%
-  Ratio: 2.32
-  TA: '58'
+  Number of Gamers: 59
+  Percentage of Gamers: 22%
+  Ratio: 2.13
+  TA: '53'
   Tags:
   - Online/Offline
   - Single Player
@@ -382,10 +382,10 @@ Base Game Achievements:
   Description: Reach a silver Challenge tier
   GS: '25'
   Guide: false
-  Number of Gamers: 97
-  Percentage of Gamers: 50%
-  Ratio: 1.41
-  TA: '35'
+  Number of Gamers: 137
+  Percentage of Gamers: 51%
+  Ratio: 1.39
+  TA: '34'
   Tags:
   - Online/Offline
   - Single Player
@@ -394,10 +394,10 @@ Base Game Achievements:
   Description: Unlock and purchase all Editions of a chess set
   GS: '25'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 8%
-  Ratio: 3.6
-  TA: '90'
+  Number of Gamers: 20
+  Percentage of Gamers: 7%
+  Ratio: 3.66
+  TA: '91'
   Tags:
   - Offline Mode
   - Single Player
@@ -406,10 +406,10 @@ Base Game Achievements:
   Description: Unlock and equip the Banner of Wisdom
   GS: '25'
   Guide: false
-  Number of Gamers: 6
+  Number of Gamers: 8
   Percentage of Gamers: 3%
-  Ratio: 5.7
-  TA: '142'
+  Ratio: 5.78
+  TA: '144'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -417,10 +417,10 @@ Base Game Achievements:
   Description: Win a game of chess
   GS: '25'
   Guide: false
-  Number of Gamers: 109
-  Percentage of Gamers: 56%
-  Ratio: 1.33
-  TA: '33'
+  Number of Gamers: 154
+  Percentage of Gamers: 57%
+  Ratio: 1.31
+  TA: '32'
   Tags:
   - Online/Offline
   - Single Player
@@ -428,11 +428,11 @@ Base Game Achievements:
 - Achievement Name: Puzzle Master
   Description: Complete all puzzles within a section (pack of puzzles)
   GS: '25'
-  Guide: false
-  Number of Gamers: 28
+  Guide: true
+  Number of Gamers: 38
   Percentage of Gamers: 14%
-  Ratio: 2.63
-  TA: '65'
+  Ratio: 2.65
+  TA: '66'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -440,10 +440,10 @@ Base Game Achievements:
   Description: Unlock and equip Jarl's Shield
   GS: '25'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 7%
-  Ratio: 3.73
-  TA: '93'
+  Number of Gamers: 22
+  Percentage of Gamers: 8%
+  Ratio: 3.49
+  TA: '87'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -451,10 +451,10 @@ Base Game Achievements:
   Description: Reach a gold Challenge tier
   GS: '50'
   Guide: false
-  Number of Gamers: 63
-  Percentage of Gamers: 32%
-  Ratio: 1.75
-  TA: '87'
+  Number of Gamers: 94
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '84'
   Tags:
   - Online/Offline
   - Single Player
@@ -462,11 +462,11 @@ Base Game Achievements:
 - Achievement Name: Personal Best
   Description: Beat your previous score on a Tour event
   GS: '50'
-  Guide: false
-  Number of Gamers: 77
-  Percentage of Gamers: 39%
-  Ratio: 1.59
-  TA: '79'
+  Guide: true
+  Number of Gamers: 102
+  Percentage of Gamers: 38%
+  Ratio: 1.62
+  TA: '81'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -474,10 +474,10 @@ Base Game Achievements:
   Description: Unlock and purchase all Editions of all chess sets
   GS: '50'
   Guide: false
-  Number of Gamers: 5
+  Number of Gamers: 8
   Percentage of Gamers: 3%
-  Ratio: 6.24
-  TA: '312'
+  Ratio: 5.78
+  TA: '289'
   Tags:
   - Offline Mode
   - Single Player
@@ -486,33 +486,33 @@ Base Game Achievements:
   Description: Win an online game of chess
   GS: '50'
   Guide: false
-  Number of Gamers: 42
-  Percentage of Gamers: 22%
-  Ratio: 2.15
-  TA: '107'
+  Number of Gamers: 51
+  Percentage of Gamers: 19%
+  Ratio: 2.29
+  TA: '114'
   Tags:
   - Online Mode
   - Versus
-Base Ratio: 2.243
-Base TA: 2243
+Base Ratio: 2.186
+Base TA: 2186
 Delisted: false
 Developer: Rockwater Games
 Game Name: Chess Infinity
 Genres: Card & Board
 Install Size: 32580.0
-Number of Completions: 4
-Number of Gamers: 195
+Number of Completions: 5
+Number of Gamers: 268
 Overall Completion Time:
-- 30
-- 31
+- 26
+- 27
 Overall GS: 1000
-Overall Ratio: 2.243
-Overall TA: 2243
+Overall Ratio: 2.186
+Overall TA: 2186
 PDU: 0
-Percentage Completed: 2.05
+Percentage Completed: 1.87
 Publisher: Ripstone
 Release Date: 11 December 2024
 Server Closure: false
-Site Rating: 4.0
+Site Rating: 4.25
 Update Achievements: []
 Walkthrough: false

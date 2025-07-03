@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 16
-- 17
+- 10.0
+- 12.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: DATA-BAY
   Description: Explore Data-Bay.
   GS: '10'
-  Guide: false
-  Number of Gamers: 541
+  Guide: true
+  Number of Gamers: 913
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '10'
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: "Kill 10 inhabitants who didn\u2019t ask for anything without dying."
   GS: '10'
   Guide: true
-  Number of Gamers: 235
-  Percentage of Gamers: 43%
-  Ratio: 1.51
-  TA: '15'
+  Number of Gamers: 423
+  Percentage of Gamers: 46%
+  Ratio: 1.46
+  TA: '14'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -31,10 +31,10 @@ Base Game Achievements:
   Description: "Take the DJ\u2019s spot."
   GS: '10'
   Guide: true
-  Number of Gamers: 106
-  Percentage of Gamers: 20%
-  Ratio: 2.26
-  TA: '22'
+  Number of Gamers: 212
+  Percentage of Gamers: 23%
+  Ratio: 2.07
+  TA: '20'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -42,10 +42,10 @@ Base Game Achievements:
   Description: You defeated Roboglioni.
   GS: '25'
   Guide: false
-  Number of Gamers: 440
-  Percentage of Gamers: 81%
-  Ratio: 1.1
-  TA: '27'
+  Number of Gamers: 719
+  Percentage of Gamers: 79%
+  Ratio: 1.12
+  TA: '28'
   Tags:
   - Offline Mode
   - Single Player
@@ -54,9 +54,9 @@ Base Game Achievements:
   Description: "Explore Data-Bay, but it\u2019s on fire."
   GS: '10'
   Guide: false
-  Number of Gamers: 438
-  Percentage of Gamers: 81%
-  Ratio: 1.11
+  Number of Gamers: 715
+  Percentage of Gamers: 78%
+  Ratio: 1.13
   TA: '11'
   Tags:
   - Offline Mode
@@ -66,8 +66,8 @@ Base Game Achievements:
   Description: Do not let any spaceship cross when using the Anti-Aircraft Artillery.
   GS: '25'
   Guide: false
-  Number of Gamers: 276
-  Percentage of Gamers: 51%
+  Number of Gamers: 472
+  Percentage of Gamers: 52%
   Ratio: 1.39
   TA: '34'
   Tags:
@@ -77,9 +77,9 @@ Base Game Achievements:
   Description: SPAAAAAACE!
   GS: '10'
   Guide: false
-  Number of Gamers: 304
-  Percentage of Gamers: 56%
-  Ratio: 1.33
+  Number of Gamers: 504
+  Percentage of Gamers: 55%
+  Ratio: 1.34
   TA: '13'
   Tags:
   - Offline Mode
@@ -89,8 +89,8 @@ Base Game Achievements:
   Description: Explore Materia.
   GS: '10'
   Guide: false
-  Number of Gamers: 273
-  Percentage of Gamers: 50%
+  Number of Gamers: 463
+  Percentage of Gamers: 51%
   Ratio: 1.4
   TA: '14'
   Tags:
@@ -100,11 +100,11 @@ Base Game Achievements:
 - Achievement Name: STREET FIGHTER
   Description: Kill the 2D driller bot without taking a hit.
   GS: '25'
-  Guide: false
-  Number of Gamers: 49
-  Percentage of Gamers: 9%
-  Ratio: 3.31
-  TA: '82'
+  Guide: true
+  Number of Gamers: 103
+  Percentage of Gamers: 11%
+  Ratio: 2.97
+  TA: '74'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -112,9 +112,9 @@ Base Game Achievements:
   Description: "Explore\u2026 erhm\u2026 what is this place?"
   GS: '10'
   Guide: false
-  Number of Gamers: 222
+  Number of Gamers: 371
   Percentage of Gamers: 41%
-  Ratio: 1.55
+  Ratio: 1.56
   TA: '15'
   Tags:
   - Offline Mode
@@ -124,10 +124,10 @@ Base Game Achievements:
   Description: Make a flawless run with Shipset.
   GS: '25'
   Guide: false
-  Number of Gamers: 88
-  Percentage of Gamers: 16%
-  Ratio: 2.47
-  TA: '61'
+  Number of Gamers: 167
+  Percentage of Gamers: 18%
+  Ratio: 2.33
+  TA: '58'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -135,9 +135,9 @@ Base Game Achievements:
   Description: Take down every Praetor while riding the T-Rex.
   GS: '10'
   Guide: false
-  Number of Gamers: 102
-  Percentage of Gamers: 19%
-  Ratio: 2.29
+  Number of Gamers: 186
+  Percentage of Gamers: 20%
+  Ratio: 2.21
   TA: '22'
   Tags:
   - Offline Game Mode
@@ -146,9 +146,9 @@ Base Game Achievements:
   Description: Defeat Mechazilla.
   GS: '25'
   Guide: false
-  Number of Gamers: 188
+  Number of Gamers: 321
   Percentage of Gamers: 35%
-  Ratio: 1.69
+  Ratio: 1.68
   TA: '42'
   Tags:
   - Offline Mode
@@ -158,9 +158,9 @@ Base Game Achievements:
   Description: Where are we?
   GS: '10'
   Guide: false
-  Number of Gamers: 188
+  Number of Gamers: 320
   Percentage of Gamers: 35%
-  Ratio: 1.69
+  Ratio: 1.68
   TA: '16'
   Tags:
   - Offline Mode
@@ -169,11 +169,11 @@ Base Game Achievements:
 - Achievement Name: PNEUMATIC PRESS
   Description: Crush a Praetor with the buggy.
   GS: '10'
-  Guide: false
-  Number of Gamers: 68
-  Percentage of Gamers: 13%
-  Ratio: 2.81
-  TA: '28'
+  Guide: true
+  Number of Gamers: 134
+  Percentage of Gamers: 15%
+  Ratio: 2.61
+  TA: '26'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -181,9 +181,9 @@ Base Game Achievements:
   Description: "Explore Materia, but it\u2019s lava."
   GS: '10'
   Guide: false
-  Number of Gamers: 165
+  Number of Gamers: 275
   Percentage of Gamers: 30%
-  Ratio: 1.8
+  Ratio: 1.82
   TA: '18'
   Tags:
   - Offline Mode
@@ -192,10 +192,10 @@ Base Game Achievements:
 - Achievement Name: THE FLOOR IS LAVA
   Description: Die from lava.
   GS: '10'
-  Guide: false
-  Number of Gamers: 128
+  Guide: true
+  Number of Gamers: 219
   Percentage of Gamers: 24%
-  Ratio: 2.05
+  Ratio: 2.04
   TA: '20'
   Tags:
   - Offline Game Mode
@@ -203,10 +203,10 @@ Base Game Achievements:
 - Achievement Name: MICHAEL BOT
   Description: Make 20 mines explode without dying.
   GS: '10'
-  Guide: false
-  Number of Gamers: 159
+  Guide: true
+  Number of Gamers: 261
   Percentage of Gamers: 29%
-  Ratio: 1.84
+  Ratio: 1.87
   TA: '18'
   Tags:
   - Offline Game Mode
@@ -215,9 +215,9 @@ Base Game Achievements:
   Description: SPAAAAAAC--?
   GS: '10'
   Guide: false
-  Number of Gamers: 157
-  Percentage of Gamers: 29%
-  Ratio: 1.85
+  Number of Gamers: 259
+  Percentage of Gamers: 28%
+  Ratio: 1.87
   TA: '18'
   Tags:
   - Offline Mode
@@ -227,10 +227,10 @@ Base Game Achievements:
   Description: Explore the Mothership.
   GS: '10'
   Guide: false
-  Number of Gamers: 151
+  Number of Gamers: 252
   Percentage of Gamers: 28%
-  Ratio: 1.89
-  TA: '18'
+  Ratio: 1.9
+  TA: '19'
   Tags:
   - Offline Mode
   - Single Player
@@ -238,11 +238,11 @@ Base Game Achievements:
 - Achievement Name: SPLINTER CHIPS
   Description: Never get spotted by the Praetors.
   GS: '50'
-  Guide: false
-  Number of Gamers: 44
-  Percentage of Gamers: 8%
-  Ratio: 3.5
-  TA: '175'
+  Guide: true
+  Number of Gamers: 91
+  Percentage of Gamers: 10%
+  Ratio: 3.16
+  TA: '158'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -250,10 +250,10 @@ Base Game Achievements:
   Description: Cross through the lasers without taking damage.
   GS: '50'
   Guide: false
-  Number of Gamers: 54
-  Percentage of Gamers: 10%
-  Ratio: 3.15
-  TA: '157'
+  Number of Gamers: 102
+  Percentage of Gamers: 11%
+  Ratio: 2.99
+  TA: '149'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -261,9 +261,9 @@ Base Game Achievements:
   Description: Explore Firee.
   GS: '10'
   Guide: false
-  Number of Gamers: 144
-  Percentage of Gamers: 27%
-  Ratio: 1.94
+  Number of Gamers: 240
+  Percentage of Gamers: 26%
+  Ratio: 1.95
   TA: '19'
   Tags:
   - Offline Mode
@@ -273,10 +273,10 @@ Base Game Achievements:
   Description: Clear the caves from all bomb traps without dying.
   GS: '25'
   Guide: false
-  Number of Gamers: 95
-  Percentage of Gamers: 18%
-  Ratio: 2.39
-  TA: '59'
+  Number of Gamers: 169
+  Percentage of Gamers: 19%
+  Ratio: 2.32
+  TA: '58'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -284,9 +284,9 @@ Base Game Achievements:
   Description: Reach the Commander.
   GS: '10'
   Guide: false
-  Number of Gamers: 138
-  Percentage of Gamers: 26%
-  Ratio: 1.98
+  Number of Gamers: 230
+  Percentage of Gamers: 25%
+  Ratio: 1.99
   TA: '19'
   Tags:
   - Offline Mode
@@ -296,7 +296,7 @@ Base Game Achievements:
   Description: Defeat the Commander.
   GS: '25'
   Guide: false
-  Number of Gamers: 134
+  Number of Gamers: 225
   Percentage of Gamers: 25%
   Ratio: 2.01
   TA: '50'
@@ -308,7 +308,7 @@ Base Game Achievements:
   Description: Explore a different Firee.
   GS: '10'
   Guide: false
-  Number of Gamers: 135
+  Number of Gamers: 226
   Percentage of Gamers: 25%
   Ratio: 2.0
   TA: '20'
@@ -320,21 +320,21 @@ Base Game Achievements:
   Description: Reach the extraction point without taking a hit.
   GS: '25'
   Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 6%
-  Ratio: 4.16
-  TA: '104'
+  Number of Gamers: 63
+  Percentage of Gamers: 7%
+  Ratio: 3.8
+  TA: '95'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: KING OF THE KILL
   Description: Crush 15 enemies while controlling the tank without dying.
   GS: '25'
-  Guide: false
-  Number of Gamers: 54
-  Percentage of Gamers: 10%
-  Ratio: 3.15
-  TA: '78'
+  Guide: true
+  Number of Gamers: 104
+  Percentage of Gamers: 11%
+  Ratio: 2.96
+  TA: '74'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -342,7 +342,7 @@ Base Game Achievements:
   Description: Explore... who knows?
   GS: '10'
   Guide: false
-  Number of Gamers: 131
+  Number of Gamers: 220
   Percentage of Gamers: 24%
   Ratio: 2.03
   TA: '20'
@@ -353,21 +353,21 @@ Base Game Achievements:
 - Achievement Name: DO A DOUBLE BARREL ROLL!
   Description: Do two turns at once while riding a candy cart.
   GS: '10'
-  Guide: false
-  Number of Gamers: 61
-  Percentage of Gamers: 11%
-  Ratio: 2.99
-  TA: '29'
+  Guide: true
+  Number of Gamers: 120
+  Percentage of Gamers: 13%
+  Ratio: 2.75
+  TA: '27'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: ANIMAL CROSSFIT
   Description: Cross without letting the giant cat see you move.
   GS: '25'
-  Guide: false
-  Number of Gamers: 90
-  Percentage of Gamers: 17%
-  Ratio: 2.46
+  Guide: true
+  Number of Gamers: 149
+  Percentage of Gamers: 16%
+  Ratio: 2.47
   TA: '61'
   Tags:
   - Offline Game Mode
@@ -376,7 +376,7 @@ Base Game Achievements:
   Description: Defeat the Chicken King.
   GS: '50'
   Guide: false
-  Number of Gamers: 126
+  Number of Gamers: 212
   Percentage of Gamers: 23%
   Ratio: 2.07
   TA: '103'
@@ -388,7 +388,7 @@ Base Game Achievements:
   Description: Explore the war-torn planet.
   GS: '10'
   Guide: false
-  Number of Gamers: 126
+  Number of Gamers: 212
   Percentage of Gamers: 23%
   Ratio: 2.07
   TA: '20'
@@ -399,11 +399,11 @@ Base Game Achievements:
 - Achievement Name: VERY BAD JAMES BOT
   Description: Cut a wrong wire.
   GS: '10'
-  Guide: false
-  Number of Gamers: 91
-  Percentage of Gamers: 17%
-  Ratio: 2.43
-  TA: '24'
+  Guide: true
+  Number of Gamers: 163
+  Percentage of Gamers: 18%
+  Ratio: 2.36
+  TA: '23'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -411,9 +411,9 @@ Base Game Achievements:
   Description: Cross through all the rings while riding the rocket.
   GS: '25'
   Guide: false
-  Number of Gamers: 112
+  Number of Gamers: 192
   Percentage of Gamers: 21%
-  Ratio: 2.19
+  Ratio: 2.18
   TA: '54'
   Tags:
   - Offline Game Mode
@@ -421,11 +421,11 @@ Base Game Achievements:
 - Achievement Name: "YOU CAN\u2019T SEE ME"
   Description: Take down a camera before it spots you.
   GS: '10'
-  Guide: false
-  Number of Gamers: 74
-  Percentage of Gamers: 14%
-  Ratio: 2.69
-  TA: '26'
+  Guide: true
+  Number of Gamers: 140
+  Percentage of Gamers: 15%
+  Ratio: 2.55
+  TA: '25'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -433,7 +433,7 @@ Base Game Achievements:
   Description: Explore the surroundings.
   GS: '10'
   Guide: false
-  Number of Gamers: 120
+  Number of Gamers: 205
   Percentage of Gamers: 22%
   Ratio: 2.11
   TA: '21'
@@ -445,10 +445,10 @@ Base Game Achievements:
   Description: Prevent the buggy from riding in a mud puddle.
   GS: '25'
   Guide: false
-  Number of Gamers: 63
-  Percentage of Gamers: 12%
-  Ratio: 2.92
-  TA: '73'
+  Number of Gamers: 117
+  Percentage of Gamers: 13%
+  Ratio: 2.79
+  TA: '69'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -456,10 +456,10 @@ Base Game Achievements:
   Description: Do not fail any hack during the elevator sequence.
   GS: '10'
   Guide: false
-  Number of Gamers: 97
-  Percentage of Gamers: 18%
-  Ratio: 2.35
-  TA: '23'
+  Number of Gamers: 173
+  Percentage of Gamers: 19%
+  Ratio: 2.29
+  TA: '22'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -467,9 +467,9 @@ Base Game Achievements:
   Description: SPAAAAACE-WAR!
   GS: '10'
   Guide: false
-  Number of Gamers: 116
-  Percentage of Gamers: 21%
-  Ratio: 2.15
+  Number of Gamers: 200
+  Percentage of Gamers: 22%
+  Ratio: 2.13
   TA: '21'
   Tags:
   - Offline Mode
@@ -479,9 +479,9 @@ Base Game Achievements:
   Description: The world's end.
   GS: '10'
   Guide: false
-  Number of Gamers: 116
-  Percentage of Gamers: 21%
-  Ratio: 2.15
+  Number of Gamers: 199
+  Percentage of Gamers: 22%
+  Ratio: 2.14
   TA: '21'
   Tags:
   - Offline Mode
@@ -491,10 +491,10 @@ Base Game Achievements:
   Description: Defeat both the Ambassador and Evilware.
   GS: '50'
   Guide: false
-  Number of Gamers: 113
+  Number of Gamers: 195
   Percentage of Gamers: 21%
-  Ratio: 2.18
-  TA: '109'
+  Ratio: 2.16
+  TA: '108'
   Tags:
   - Offline Mode
   - Single Player
@@ -503,9 +503,9 @@ Base Game Achievements:
   Description: Obtain your first special weapon.
   GS: '10'
   Guide: false
-  Number of Gamers: 473
-  Percentage of Gamers: 87%
-  Ratio: 1.06
+  Number of Gamers: 788
+  Percentage of Gamers: 86%
+  Ratio: 1.07
   TA: '10'
   Tags:
   - Offline Mode
@@ -514,8 +514,8 @@ Base Game Achievements:
 - Achievement Name: MONEY LAUNDERING
   Description: Max out one special weapon.
   GS: '25'
-  Guide: false
-  Number of Gamers: 139
+  Guide: true
+  Number of Gamers: 234
   Percentage of Gamers: 26%
   Ratio: 1.97
   TA: '49'
@@ -527,9 +527,9 @@ Base Game Achievements:
   Description: Find your first Lost Data.
   GS: '10'
   Guide: false
-  Number of Gamers: 481
+  Number of Gamers: 816
   Percentage of Gamers: 89%
-  Ratio: 1.06
+  Ratio: 1.05
   TA: '10'
   Tags:
   - Offline Mode
@@ -539,9 +539,9 @@ Base Game Achievements:
   Description: Find all Lost Data in a single level.
   GS: '25'
   Guide: false
-  Number of Gamers: 249
-  Percentage of Gamers: 46%
-  Ratio: 1.47
+  Number of Gamers: 439
+  Percentage of Gamers: 48%
+  Ratio: 1.44
   TA: '36'
   Tags:
   - Offline Mode
@@ -551,10 +551,10 @@ Base Game Achievements:
   Description: Find all Lost Data.
   GS: '50'
   Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 6%
-  Ratio: 4.16
-  TA: '208'
+  Number of Gamers: 68
+  Percentage of Gamers: 7%
+  Ratio: 3.66
+  TA: '183'
   Tags:
   - Offline Mode
   - Single Player
@@ -563,10 +563,10 @@ Base Game Achievements:
   Description: Break 75% of the galaxy's botcoin crates.
   GS: '50'
   Guide: false
-  Number of Gamers: 60
-  Percentage of Gamers: 11%
-  Ratio: 2.99
-  TA: '149'
+  Number of Gamers: 118
+  Percentage of Gamers: 13%
+  Ratio: 2.78
+  TA: '139'
   Tags:
   - Offline Mode
   - Single Player
@@ -575,9 +575,9 @@ Base Game Achievements:
   Description: Thanks for playing!
   GS: '10'
   Guide: true
-  Number of Gamers: 106
-  Percentage of Gamers: 20%
-  Ratio: 2.25
+  Number of Gamers: 188
+  Percentage of Gamers: 21%
+  Ratio: 2.2
   TA: '22'
   Tags:
   - Offline Mode
@@ -588,35 +588,35 @@ Base Game Achievements:
   Description: Unlock all achievements.
   GS: '50'
   Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 5%
-  Ratio: 4.46
-  TA: '223'
+  Number of Gamers: 60
+  Percentage of Gamers: 7%
+  Ratio: 3.9
+  TA: '195'
   Tags:
   - Offline Mode
   - Single Player
   - Collectable
   - Shop
-Base Ratio: 2.497
-Base TA: 2497
+Base Ratio: 2.371
+Base TA: 2371
 Delisted: false
 Developer: Evil Raptor
 Game Name: Akimbot
 Genres: Third Person Shooter, Platformer
 Install Size: 8000.0
-Number of Completions: 27
-Number of Gamers: 541
+Number of Completions: 60
+Number of Gamers: 913
 Overall Completion Time:
-- 16
-- 17
+- 10.0
+- 12.0
 Overall GS: 1000
-Overall Ratio: 2.497
-Overall TA: 2497
+Overall Ratio: 2.371
+Overall TA: 2371
 PDU: 0
-Percentage Completed: 4.99
+Percentage Completed: 6.57
 Publisher: PLAION
-Release Date: 29 August 2024
+Release Date: 28 August 2024
 Server Closure: false
-Site Rating: 3.32
+Site Rating: 3.5
 Update Achievements: []
 Walkthrough: false

@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 1.0
-Base GS: 2000
+- 1.5
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: Mission 1
   Description: Complete any Survival level
   GS: '100'
   Guide: false
-  Number of Gamers: 734
+  Number of Gamers: 1073
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '100'
@@ -20,8 +20,8 @@ Base Game Achievements:
   Description: Complete any Defence level
   GS: '100'
   Guide: false
-  Number of Gamers: 732
-  Percentage of Gamers: 100%
+  Number of Gamers: 1066
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
   Tags:
@@ -32,8 +32,8 @@ Base Game Achievements:
   Description: Complete any Annihilation level
   GS: '100'
   Guide: false
-  Number of Gamers: 732
-  Percentage of Gamers: 100%
+  Number of Gamers: 1066
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
   Tags:
@@ -44,7 +44,7 @@ Base Game Achievements:
   Description: Complete any Boss Fight
   GS: '100'
   Guide: false
-  Number of Gamers: 730
+  Number of Gamers: 1064
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -56,7 +56,7 @@ Base Game Achievements:
   Description: Complete the bonus level
   GS: '50'
   Guide: false
-  Number of Gamers: 728
+  Number of Gamers: 1058
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '50'
@@ -68,7 +68,7 @@ Base Game Achievements:
   Description: Complete all divine tasks in any level
   GS: '100'
   Guide: false
-  Number of Gamers: 734
+  Number of Gamers: 1073
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '100'
@@ -80,8 +80,8 @@ Base Game Achievements:
   Description: Upgrade any ant health
   GS: '100'
   Guide: false
-  Number of Gamers: 731
-  Percentage of Gamers: 100%
+  Number of Gamers: 1066
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
   Tags:
@@ -92,7 +92,7 @@ Base Game Achievements:
   Description: Upgrade any weapon or magic
   GS: '75'
   Guide: false
-  Number of Gamers: 730
+  Number of Gamers: 1065
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '75'
@@ -104,7 +104,7 @@ Base Game Achievements:
   Description: Unlock new weapon or magic
   GS: '75'
   Guide: false
-  Number of Gamers: 729
+  Number of Gamers: 1066
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '75'
@@ -116,7 +116,7 @@ Base Game Achievements:
   Description: Defeat the final Boss
   GS: '200'
   Guide: false
-  Number of Gamers: 721
+  Number of Gamers: 1054
   Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '201'
@@ -124,36 +124,36 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.0005
-Base TA: 2001
+Base Ratio: 1.0243333333333333
+Base TA: 3073
 Delisted: false
 Developer: SilenGames
 Game Name: Ancient Ants Adventure (Xbox One)
 Genres: Shoot 'em up
 Install Size: 439.0
-Number of Completions: 719
-Number of Gamers: 734
+Number of Completions: 927
+Number of Gamers: 1074
 Overall Completion Time:
 - 0.0
-- 1.0
-Overall GS: 2000
-Overall Ratio: 1.0005
-Overall TA: 2001
+- 1.5
+Overall GS: 3000
+Overall Ratio: 1.0243333333333333
+Overall TA: 3073
 PDU: 0
-Percentage Completed: 97.96
+Percentage Completed: 86.31
 Publisher: SilenGames
 Release Date: 20 December 2024
 Server Closure: false
-Site Rating: 2.51
+Site Rating: 2.65
 Update Achievements:
 - Achievement Name: Mission 11
   Description: Complete two Survival levels
   GS: '200'
   Guide: false
-  Number of Gamers: 730
+  Number of Gamers: 1061
   Percentage of Gamers: 99%
   Ratio: 1.0
-  TA: '200'
+  TA: '201'
   Tags:
   - Offline Mode
   - Single Player
@@ -162,7 +162,7 @@ Update Achievements:
   Description: Complete two Defence levels
   GS: '200'
   Guide: false
-  Number of Gamers: 730
+  Number of Gamers: 1063
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '200'
@@ -174,7 +174,7 @@ Update Achievements:
   Description: Complete two Annihilation levels
   GS: '200'
   Guide: false
-  Number of Gamers: 730
+  Number of Gamers: 1063
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '200'
@@ -186,7 +186,7 @@ Update Achievements:
   Description: Complete two Boss Fights
   GS: '200'
   Guide: false
-  Number of Gamers: 729
+  Number of Gamers: 1062
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '200'
@@ -198,10 +198,70 @@ Update Achievements:
   Description: Complete 8 levels total
   GS: '200'
   Guide: false
-  Number of Gamers: 730
+  Number of Gamers: 1061
   Percentage of Gamers: 99%
   Ratio: 1.0
-  TA: '200'
+  TA: '201'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Mission 16
+  Description: Complete three Survival levels
+  GS: '200'
+  Guide: false
+  Number of Gamers: 932
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '214'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Mission 17
+  Description: Complete three Defence levels
+  GS: '200'
+  Guide: false
+  Number of Gamers: 932
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '214'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Mission 18
+  Description: Complete three Annihilation levels
+  GS: '200'
+  Guide: false
+  Number of Gamers: 932
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '214'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Mission 19
+  Description: Complete three Boss Fights
+  GS: '200'
+  Guide: false
+  Number of Gamers: 932
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '214'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Mission 20
+  Description: Complete 12 levels total
+  GS: '200'
+  Guide: false
+  Number of Gamers: 932
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '214'
   Tags:
   - Offline Mode
   - Single Player

@@ -1,16 +1,16 @@
 Add On Achievements: []
 Base Completion Time:
-- 38
-- 39
+- 35
+- 36
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Defender
   Description: Hold off pirate attack
   GS: '10'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 14%
-  Ratio: 2.71
+  Number of Gamers: 19
+  Percentage of Gamers: 13%
+  Ratio: 2.74
   TA: '27'
   Tags:
   - Offline Game Mode
@@ -19,9 +19,9 @@ Base Game Achievements:
   Description: Make a transaction with a trader
   GS: '10'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 14%
-  Ratio: 2.71
+  Number of Gamers: 19
+  Percentage of Gamers: 13%
+  Ratio: 2.74
   TA: '27'
   Tags:
   - Offline Mode
@@ -31,10 +31,10 @@ Base Game Achievements:
   Description: Hold off the Kraken's attack
   GS: '10'
   Guide: true
-  Number of Gamers: 6
+  Number of Gamers: 7
   Percentage of Gamers: 5%
-  Ratio: 4.7
-  TA: '47'
+  Ratio: 4.51
+  TA: '45'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -42,10 +42,10 @@ Base Game Achievements:
   Description: Hold off ghost ship attack
   GS: '10'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 2%
-  Ratio: 6.65
-  TA: '66'
+  Number of Gamers: 4
+  Percentage of Gamers: 3%
+  Ratio: 5.97
+  TA: '59'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -53,9 +53,9 @@ Base Game Achievements:
   Description: Defeat Jack Torpedo
   GS: '10'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 14%
-  Ratio: 2.71
+  Number of Gamers: 19
+  Percentage of Gamers: 13%
+  Ratio: 2.74
   TA: '27'
   Tags:
   - Offline Game Mode
@@ -64,10 +64,10 @@ Base Game Achievements:
   Description: Defeat Tom Torpedo
   GS: '30'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 2%
-  Ratio: 6.65
-  TA: '199'
+  Number of Gamers: 4
+  Percentage of Gamers: 3%
+  Ratio: 5.97
+  TA: '179'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -75,10 +75,10 @@ Base Game Achievements:
   Description: "Choose \u2018Don\u2019t pay ransom\u2019 option during a pirate attack"
   GS: '10'
   Guide: false
-  Number of Gamers: 20
+  Number of Gamers: 21
   Percentage of Gamers: 15%
-  Ratio: 2.57
-  TA: '25'
+  Ratio: 2.6
+  TA: '26'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -86,10 +86,10 @@ Base Game Achievements:
   Description: Pay the leaflet helicopter to work in your favor
   GS: '10'
   Guide: true
-  Number of Gamers: 16
+  Number of Gamers: 17
   Percentage of Gamers: 12%
-  Ratio: 2.88
-  TA: '28'
+  Ratio: 2.9
+  TA: '29'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -97,10 +97,10 @@ Base Game Achievements:
   Description: Defend the natives from the chase
   GS: '10'
   Guide: true
-  Number of Gamers: 6
+  Number of Gamers: 7
   Percentage of Gamers: 5%
-  Ratio: 4.7
-  TA: '47'
+  Ratio: 4.51
+  TA: '45'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -108,9 +108,9 @@ Base Game Achievements:
   Description: Defend the tourists from the chase
   GS: '10'
   Guide: false
-  Number of Gamers: 12
+  Number of Gamers: 13
   Percentage of Gamers: 9%
-  Ratio: 3.32
+  Ratio: 3.31
   TA: '33'
   Tags:
   - Offline Game Mode
@@ -119,8 +119,8 @@ Base Game Achievements:
   Description: Build a platform with a bedroom, kitchen, cinema, and dining room
   GS: '10'
   Guide: false
-  Number of Gamers: 132
-  Percentage of Gamers: 99%
+  Number of Gamers: 141
+  Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '10'
   Tags:
@@ -130,10 +130,10 @@ Base Game Achievements:
   Description: Have 10 employees at the same time
   GS: '10'
   Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 23%
-  Ratio: 2.07
-  TA: '20'
+  Number of Gamers: 32
+  Percentage of Gamers: 22%
+  Ratio: 2.11
+  TA: '21'
   Tags:
   - Offline Mode
   - Single Player
@@ -142,9 +142,9 @@ Base Game Achievements:
   Description: Have 25 employees at the same time
   GS: '20'
   Guide: true
-  Number of Gamers: 10
+  Number of Gamers: 11
   Percentage of Gamers: 8%
-  Ratio: 3.64
+  Ratio: 3.6
   TA: '72'
   Tags:
   - Offline Mode
@@ -154,10 +154,10 @@ Base Game Achievements:
   Description: Have 35 employees at the same time
   GS: '30'
   Guide: true
-  Number of Gamers: 7
-  Percentage of Gamers: 5%
-  Ratio: 4.35
-  TA: '130'
+  Number of Gamers: 8
+  Percentage of Gamers: 6%
+  Ratio: 4.22
+  TA: '126'
   Tags:
   - Offline Mode
   - Single Player
@@ -166,8 +166,8 @@ Base Game Achievements:
   Description: Hire at least 5 employees with satisfaction over 75
   GS: '10'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 11%
+  Number of Gamers: 15
+  Percentage of Gamers: 10%
   Ratio: 3.08
   TA: '30'
   Tags:
@@ -178,10 +178,10 @@ Base Game Achievements:
   Description: Hire at least 5 employees with satisfaction of 100
   GS: '20'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 5%
-  Ratio: 4.35
-  TA: '87'
+  Number of Gamers: 8
+  Percentage of Gamers: 6%
+  Ratio: 4.22
+  TA: '84'
   Tags:
   - Offline Mode
   - Single Player
@@ -190,9 +190,9 @@ Base Game Achievements:
   Description: Have 20 buildings
   GS: '10'
   Guide: false
-  Number of Gamers: 23
+  Number of Gamers: 24
   Percentage of Gamers: 17%
-  Ratio: 2.4
+  Ratio: 2.44
   TA: '24'
   Tags:
   - Offline Mode
@@ -202,10 +202,10 @@ Base Game Achievements:
   Description: Have 40 buildings
   GS: '20'
   Guide: false
-  Number of Gamers: 8
+  Number of Gamers: 9
   Percentage of Gamers: 6%
-  Ratio: 4.07
-  TA: '81'
+  Ratio: 3.98
+  TA: '79'
   Tags:
   - Offline Mode
   - Single Player
@@ -214,9 +214,9 @@ Base Game Achievements:
   Description: Build 3 bedrooms in one mission
   GS: '10'
   Guide: true
-  Number of Gamers: 34
-  Percentage of Gamers: 26%
-  Ratio: 1.97
+  Number of Gamers: 36
+  Percentage of Gamers: 25%
+  Ratio: 1.99
   TA: '19'
   Tags:
   - Offline Game Mode
@@ -225,10 +225,10 @@ Base Game Achievements:
   Description: Live 10 days in any scenario
   GS: '10'
   Guide: false
-  Number of Gamers: 37
-  Percentage of Gamers: 28%
-  Ratio: 1.89
-  TA: '18'
+  Number of Gamers: 39
+  Percentage of Gamers: 27%
+  Ratio: 1.91
+  TA: '19'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -236,10 +236,10 @@ Base Game Achievements:
   Description: Live 25 days in any scenario
   GS: '20'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 20%
-  Ratio: 2.26
-  TA: '45'
+  Number of Gamers: 27
+  Percentage of Gamers: 19%
+  Ratio: 2.3
+  TA: '46'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -247,10 +247,10 @@ Base Game Achievements:
   Description: Sell resources for 20k during the mission
   GS: '20'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 20%
-  Ratio: 2.26
-  TA: '45'
+  Number of Gamers: 27
+  Percentage of Gamers: 19%
+  Ratio: 2.3
+  TA: '46'
   Tags:
   - Offline Mode
   - Single Player
@@ -259,10 +259,10 @@ Base Game Achievements:
   Description: Order 1000 building blocks in one scenario
   GS: '20'
   Guide: true
-  Number of Gamers: 16
+  Number of Gamers: 17
   Percentage of Gamers: 12%
-  Ratio: 2.88
-  TA: '57'
+  Ratio: 2.9
+  TA: '58'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -270,9 +270,9 @@ Base Game Achievements:
   Description: Have 80 or more reputation
   GS: '20'
   Guide: false
-  Number of Gamers: 15
+  Number of Gamers: 16
   Percentage of Gamers: 11%
-  Ratio: 2.97
+  Ratio: 2.98
   TA: '59'
   Tags:
   - Offline Game Mode
@@ -281,10 +281,10 @@ Base Game Achievements:
   Description: Heal 25 workers from disease in one scenario
   GS: '20'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 5
   Percentage of Gamers: 3%
-  Ratio: 5.76
-  TA: '115'
+  Ratio: 5.34
+  TA: '106'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -292,10 +292,10 @@ Base Game Achievements:
   Description: Sell resources for 100k during the mission
   GS: '20'
   Guide: false
-  Number of Gamers: 16
+  Number of Gamers: 17
   Percentage of Gamers: 12%
-  Ratio: 2.88
-  TA: '57'
+  Ratio: 2.9
+  TA: '58'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -303,8 +303,8 @@ Base Game Achievements:
   Description: Cook 300 meals during the mission
   GS: '0'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 11%
+  Number of Gamers: 15
+  Percentage of Gamers: 10%
   Ratio: 3.08
   TA: '0'
   Tags:
@@ -314,7 +314,7 @@ Base Game Achievements:
   Description: Process 50k crude oil in the refinery into other products in one mission
   GS: '20'
   Guide: false
-  Number of Gamers: 13
+  Number of Gamers: 14
   Percentage of Gamers: 10%
   Ratio: 3.19
   TA: '63'
@@ -325,9 +325,9 @@ Base Game Achievements:
   Description: Get a star
   GS: '10'
   Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 23%
-  Ratio: 2.1
+  Number of Gamers: 31
+  Percentage of Gamers: 22%
+  Ratio: 2.14
   TA: '21'
   Tags:
   - Offline Game Mode
@@ -336,9 +336,9 @@ Base Game Achievements:
   Description: Complete a 3 star mission
   GS: '20'
   Guide: false
-  Number of Gamers: 25
-  Percentage of Gamers: 19%
-  Ratio: 2.3
+  Number of Gamers: 26
+  Percentage of Gamers: 18%
+  Ratio: 2.34
   TA: '46'
   Tags:
   - Offline Game Mode
@@ -347,10 +347,10 @@ Base Game Achievements:
   Description: Complete 3 missions with a 3 star rating
   GS: '30'
   Guide: false
-  Number of Gamers: 10
+  Number of Gamers: 11
   Percentage of Gamers: 8%
-  Ratio: 3.64
-  TA: '109'
+  Ratio: 3.6
+  TA: '108'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -358,10 +358,10 @@ Base Game Achievements:
   Description: Earn 10 stars
   GS: '20'
   Guide: false
-  Number of Gamers: 8
+  Number of Gamers: 9
   Percentage of Gamers: 6%
-  Ratio: 4.07
-  TA: '81'
+  Ratio: 3.98
+  TA: '79'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -369,10 +369,10 @@ Base Game Achievements:
   Description: Earn 20 stars
   GS: '30'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 2%
-  Ratio: 6.65
-  TA: '199'
+  Number of Gamers: 4
+  Percentage of Gamers: 3%
+  Ratio: 5.97
+  TA: '179'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -380,10 +380,10 @@ Base Game Achievements:
   Description: Complete 7 missions with a 3 star rating
   GS: '50'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 2%
-  Ratio: 6.65
-  TA: '332'
+  Number of Gamers: 4
+  Percentage of Gamers: 3%
+  Ratio: 5.97
+  TA: '298'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -391,10 +391,10 @@ Base Game Achievements:
   Description: Complete all 3 star missions
   GS: '100'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 2%
-  Ratio: 6.65
-  TA: '665'
+  Number of Gamers: 4
+  Percentage of Gamers: 3%
+  Ratio: 5.97
+  TA: '597'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -402,10 +402,10 @@ Base Game Achievements:
   Description: Defeat 20 pirate attacks
   GS: '10'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 2%
-  Ratio: 6.65
-  TA: '66'
+  Number of Gamers: 4
+  Percentage of Gamers: 3%
+  Ratio: 5.97
+  TA: '59'
   Tags:
   - Offline Mode
   - Single Player
@@ -414,10 +414,10 @@ Base Game Achievements:
   Description: Defeat 40 pirate attacks
   GS: '20'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 2%
-  Ratio: 6.65
-  TA: '133'
+  Number of Gamers: 4
+  Percentage of Gamers: 3%
+  Ratio: 5.97
+  TA: '119'
   Tags:
   - Offline Mode
   - Single Player
@@ -426,10 +426,10 @@ Base Game Achievements:
   Description: Defeat 60 pirate attacks
   GS: '30'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 2%
-  Ratio: 6.65
-  TA: '199'
+  Number of Gamers: 4
+  Percentage of Gamers: 3%
+  Ratio: 5.97
+  TA: '179'
   Tags:
   - Offline Mode
   - Single Player
@@ -438,10 +438,10 @@ Base Game Achievements:
   Description: Put out 15 fires
   GS: '10'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 5
   Percentage of Gamers: 3%
-  Ratio: 5.76
-  TA: '57'
+  Ratio: 5.34
+  TA: '53'
   Tags:
   - Offline Mode
   - Single Player
@@ -450,10 +450,10 @@ Base Game Achievements:
   Description: Make 30 transactions with merchants
   GS: '30'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 2%
-  Ratio: 6.65
-  TA: '199'
+  Number of Gamers: 4
+  Percentage of Gamers: 3%
+  Ratio: 5.97
+  TA: '179'
   Tags:
   - Offline Mode
   - Single Player
@@ -463,8 +463,8 @@ Base Game Achievements:
   Description: Build 100 buildings
   GS: '10'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 11%
+  Number of Gamers: 15
+  Percentage of Gamers: 10%
   Ratio: 3.08
   TA: '30'
   Tags:
@@ -475,10 +475,10 @@ Base Game Achievements:
   Description: Hire 100 employees
   GS: '10'
   Guide: false
-  Number of Gamers: 8
+  Number of Gamers: 9
   Percentage of Gamers: 6%
-  Ratio: 4.07
-  TA: '40'
+  Ratio: 3.98
+  TA: '39'
   Tags:
   - Offline Mode
   - Single Player
@@ -487,10 +487,10 @@ Base Game Achievements:
   Description: Heal 50 workers from diseases
   GS: '20'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 2%
-  Ratio: 6.65
-  TA: '133'
+  Number of Gamers: 4
+  Percentage of Gamers: 3%
+  Ratio: 5.97
+  TA: '119'
   Tags:
   - Offline Mode
   - Single Player
@@ -499,10 +499,10 @@ Base Game Achievements:
   Description: Upgrade your platform to level 12 in sandbox mode
   GS: '50'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 5
   Percentage of Gamers: 3%
-  Ratio: 5.76
-  TA: '288'
+  Ratio: 5.34
+  TA: '267'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -510,30 +510,30 @@ Base Game Achievements:
   Description: Upgrade your platform to level 20 in sandbox mode
   GS: '140'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 2%
-  Ratio: 6.65
-  TA: '932'
+  Number of Gamers: 4
+  Percentage of Gamers: 3%
+  Ratio: 5.97
+  TA: '837'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 4.988
-Base TA: 4988
+Base Ratio: 4.626
+Base TA: 4626
 Delisted: false
 Developer: A2 Softworks, Manager Games
 Game Name: Drill Deal - Oil Tycoon
 Genres: Simulation, Management
 Install Size: 1080.0
-Number of Completions: 3
-Number of Gamers: 133
+Number of Completions: 4
+Number of Gamers: 144
 Overall Completion Time:
-- 38
-- 39
+- 35
+- 36
 Overall GS: 1000
-Overall Ratio: 4.988
-Overall TA: 4988
+Overall Ratio: 4.626
+Overall TA: 4626
 PDU: 0
-Percentage Completed: 2.26
+Percentage Completed: 2.78
 Publisher: Ultimate Games
 Release Date: 26 May 2023
 Server Closure: false

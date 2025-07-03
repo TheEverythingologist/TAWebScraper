@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 1.0
-Base GS: 2000
+- 1.5
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: Feed your cat
   Description: Feed a cat for the first time
   GS: '30'
   Guide: false
-  Number of Gamers: 1688
+  Number of Gamers: 2174
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '30'
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Feed two cat foods to a Hungry cat
   GS: '30'
   Guide: false
-  Number of Gamers: 1684
+  Number of Gamers: 2168
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '30'
@@ -32,7 +32,7 @@ Base Game Achievements:
   Description: Complete the first level
   GS: '30'
   Guide: true
-  Number of Gamers: 1687
+  Number of Gamers: 2173
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '30'
@@ -44,7 +44,7 @@ Base Game Achievements:
   Description: Complete 5 levels
   GS: '30'
   Guide: true
-  Number of Gamers: 1671
+  Number of Gamers: 2154
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '30'
@@ -56,7 +56,7 @@ Base Game Achievements:
   Description: Complete 10 levels
   GS: '30'
   Guide: true
-  Number of Gamers: 1629
+  Number of Gamers: 2099
   Percentage of Gamers: 96%
   Ratio: 1.01
   TA: '30'
@@ -68,7 +68,7 @@ Base Game Achievements:
   Description: Complete 15 levels
   GS: '90'
   Guide: true
-  Number of Gamers: 1609
+  Number of Gamers: 2070
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '92'
@@ -80,7 +80,7 @@ Base Game Achievements:
   Description: Complete 20 levels
   GS: '90'
   Guide: true
-  Number of Gamers: 1605
+  Number of Gamers: 2063
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '92'
@@ -92,7 +92,7 @@ Base Game Achievements:
   Description: Feed 10 cats
   GS: '30'
   Guide: false
-  Number of Gamers: 1675
+  Number of Gamers: 2156
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '30'
@@ -104,7 +104,7 @@ Base Game Achievements:
   Description: Feed 25 cats
   GS: '30'
   Guide: false
-  Number of Gamers: 1638
+  Number of Gamers: 2108
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '30'
@@ -116,7 +116,7 @@ Base Game Achievements:
   Description: Feed 40 cats
   GS: '90'
   Guide: false
-  Number of Gamers: 1626
+  Number of Gamers: 2096
   Percentage of Gamers: 96%
   Ratio: 1.01
   TA: '91'
@@ -128,7 +128,7 @@ Base Game Achievements:
   Description: Collect 10 cat foods
   GS: '30'
   Guide: false
-  Number of Gamers: 1676
+  Number of Gamers: 2157
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '30'
@@ -140,7 +140,7 @@ Base Game Achievements:
   Description: Collect 25 cat foods
   GS: '30'
   Guide: false
-  Number of Gamers: 1656
+  Number of Gamers: 2133
   Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '30'
@@ -152,7 +152,7 @@ Base Game Achievements:
   Description: Collect 40 cat foods
   GS: '90'
   Guide: false
-  Number of Gamers: 1635
+  Number of Gamers: 2105
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '91'
@@ -163,9 +163,9 @@ Base Game Achievements:
 - Achievement Name: Again?
   Description: Use the retry for the first time
   GS: '20'
-  Guide: false
-  Number of Gamers: 1680
-  Percentage of Gamers: 99%
+  Guide: true
+  Number of Gamers: 2166
+  Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '20'
   Tags:
@@ -175,7 +175,7 @@ Base Game Achievements:
   Description: Use the retry button 5x
   GS: '30'
   Guide: true
-  Number of Gamers: 1670
+  Number of Gamers: 2150
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '30'
@@ -186,8 +186,8 @@ Base Game Achievements:
 - Achievement Name: King repeater
   Description: Use the retry button 15x
   GS: '30'
-  Guide: false
-  Number of Gamers: 1657
+  Guide: true
+  Number of Gamers: 2133
   Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '30'
@@ -199,7 +199,7 @@ Base Game Achievements:
   Description: Use the retry button 20x
   GS: '90'
   Guide: true
-  Number of Gamers: 1653
+  Number of Gamers: 2128
   Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '90'
@@ -211,8 +211,8 @@ Base Game Achievements:
   Description: Get pushed by a cat for not having food
   GS: '20'
   Guide: false
-  Number of Gamers: 1682
-  Percentage of Gamers: 99%
+  Number of Gamers: 2167
+  Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '20'
   Tags:
@@ -222,7 +222,7 @@ Base Game Achievements:
   Description: Feed 5 cats on the same level
   GS: '90'
   Guide: false
-  Number of Gamers: 1678
+  Number of Gamers: 2160
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '90'
@@ -234,7 +234,7 @@ Base Game Achievements:
   Description: Collect 10 cat foods on the same level
   GS: '90'
   Guide: false
-  Number of Gamers: 1658
+  Number of Gamers: 2135
   Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '90'
@@ -242,36 +242,36 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.0365
-Base TA: 2073
+Base Ratio: 1.1786666666666668
+Base TA: 3536
 Delisted: false
 Developer: Tribus Games
 Game Name: PuzzlePet - Feed Your Cat
 Genres: Puzzle
 Install Size: 773.0
-Number of Completions: 1450
-Number of Gamers: 1691
+Number of Completions: 987
+Number of Gamers: 2176
 Overall Completion Time:
 - 0.0
-- 1.0
-Overall GS: 2000
-Overall Ratio: 1.0365
-Overall TA: 2073
+- 1.5
+Overall GS: 3000
+Overall Ratio: 1.1786666666666668
+Overall TA: 3536
 PDU: 0
-Percentage Completed: 85.75
+Percentage Completed: 45.36
 Publisher: AFIL Games
 Release Date: 25 January 2024
 Server Closure: false
-Site Rating: 2.64
+Site Rating: 2.62
 Update Achievements:
 - Achievement Name: Feline Feast
   Description: Complete level 21
   GS: '200'
   Guide: true
-  Number of Gamers: 1454
-  Percentage of Gamers: 86%
-  Ratio: 1.07
-  TA: '215'
+  Number of Gamers: 1926
+  Percentage of Gamers: 89%
+  Ratio: 1.06
+  TA: '212'
   Tags:
   - Offline Mode
   - Single Player
@@ -279,11 +279,11 @@ Update Achievements:
 - Achievement Name: Retry Rookie
   Description: Use the retry button 21x
   GS: '200'
-  Guide: false
-  Number of Gamers: 1492
-  Percentage of Gamers: 88%
-  Ratio: 1.06
-  TA: '212'
+  Guide: true
+  Number of Gamers: 1983
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '209'
   Tags:
   - Offline Mode
   - Single Player
@@ -292,10 +292,10 @@ Update Achievements:
   Description: Complete level 22
   GS: '200'
   Guide: true
-  Number of Gamers: 1453
-  Percentage of Gamers: 86%
-  Ratio: 1.07
-  TA: '215'
+  Number of Gamers: 1925
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '212'
   Tags:
   - Offline Mode
   - Single Player
@@ -303,11 +303,11 @@ Update Achievements:
 - Achievement Name: Retry Rookie Plus
   Description: Use the retry button 25x
   GS: '200'
-  Guide: false
-  Number of Gamers: 1491
-  Percentage of Gamers: 88%
-  Ratio: 1.06
-  TA: '213'
+  Guide: true
+  Number of Gamers: 1982
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '209'
   Tags:
   - Offline Mode
   - Single Player
@@ -316,10 +316,69 @@ Update Achievements:
   Description: Press Menu during the level
   GS: '200'
   Guide: true
-  Number of Gamers: 1504
-  Percentage of Gamers: 89%
-  Ratio: 1.06
-  TA: '212'
+  Number of Gamers: 1999
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '208'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Whisker Winner
+  Description: Complete level 23
+  GS: '200'
+  Guide: true
+  Number of Gamers: 994
+  Percentage of Gamers: 46%
+  Ratio: 1.48
+  TA: '297'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Retry Rescuer
+  Description: Use the retry button 28x
+  GS: '200'
+  Guide: true
+  Number of Gamers: 1012
+  Percentage of Gamers: 47%
+  Ratio: 1.47
+  TA: '295'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Meow-ster Muncher
+  Description: Complete level 24
+  GS: '200'
+  Guide: true
+  Number of Gamers: 991
+  Percentage of Gamers: 46%
+  Ratio: 1.49
+  TA: '298'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Retry Rescuer Plus
+  Description: Use the retry button 30x
+  GS: '200'
+  Guide: true
+  Number of Gamers: 1011
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '295'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Inquisitive Kitten
+  Description: Open the Tutorial during the level
+  GS: '200'
+  Guide: true
+  Number of Gamers: 1011
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '295'
   Tags:
   - Offline Game Mode
   - Single Player

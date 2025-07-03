@@ -7,8 +7,8 @@ Base Game Achievements:
 - Achievement Name: Challenge N.01
   Description: 'Collect Hamburgers: 25'
   GS: '100'
-  Guide: false
-  Number of Gamers: 1579
+  Guide: true
+  Number of Gamers: 1901
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '100'
@@ -19,9 +19,9 @@ Base Game Achievements:
 - Achievement Name: Challenge N.02
   Description: 'Collect Hamburgers: 50'
   GS: '100'
-  Guide: false
-  Number of Gamers: 1556
-  Percentage of Gamers: 99%
+  Guide: true
+  Number of Gamers: 1875
+  Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '100'
   Tags:
@@ -31,11 +31,11 @@ Base Game Achievements:
 - Achievement Name: Challenge N.03
   Description: 'Collect Hamburgers: 75'
   GS: '100'
-  Guide: false
-  Number of Gamers: 1549
+  Guide: true
+  Number of Gamers: 1866
   Percentage of Gamers: 98%
-  Ratio: 1.0
-  TA: '100'
+  Ratio: 1.01
+  TA: '101'
   Tags:
   - Offline Mode
   - Single Player
@@ -43,9 +43,9 @@ Base Game Achievements:
 - Achievement Name: Challenge N.04
   Description: 'Collect Hamburgers: 100'
   GS: '100'
-  Guide: false
-  Number of Gamers: 1540
-  Percentage of Gamers: 98%
+  Guide: true
+  Number of Gamers: 1852
+  Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '101'
   Tags:
@@ -55,8 +55,8 @@ Base Game Achievements:
 - Achievement Name: Challenge N.05
   Description: 'Collect Hamburgers: 125'
   GS: '100'
-  Guide: false
-  Number of Gamers: 1514
+  Guide: true
+  Number of Gamers: 1826
   Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '102'
@@ -67,8 +67,8 @@ Base Game Achievements:
 - Achievement Name: Challenge N.06
   Description: 'Collect Hamburgers: 150'
   GS: '100'
-  Guide: false
-  Number of Gamers: 1494
+  Guide: true
+  Number of Gamers: 1802
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
@@ -79,8 +79,8 @@ Base Game Achievements:
 - Achievement Name: Challenge N.07
   Description: 'Collect Hamburgers: 175'
   GS: '100'
-  Guide: false
-  Number of Gamers: 1457
+  Guide: true
+  Number of Gamers: 1758
   Percentage of Gamers: 92%
   Ratio: 1.04
   TA: '104'
@@ -91,8 +91,8 @@ Base Game Achievements:
 - Achievement Name: Challenge N.08
   Description: 'Collect Hamburgers: 200'
   GS: '100'
-  Guide: false
-  Number of Gamers: 1406
+  Guide: true
+  Number of Gamers: 1700
   Percentage of Gamers: 89%
   Ratio: 1.05
   TA: '105'
@@ -103,8 +103,8 @@ Base Game Achievements:
 - Achievement Name: Challenge N.09
   Description: 'Collect Hamburgers: 225'
   GS: '100'
-  Guide: false
-  Number of Gamers: 1386
+  Guide: true
+  Number of Gamers: 1675
   Percentage of Gamers: 88%
   Ratio: 1.06
   TA: '106'
@@ -116,7 +116,7 @@ Base Game Achievements:
   Description: 'Collect Hamburgers: 250'
   GS: '100'
   Guide: true
-  Number of Gamers: 1386
+  Number of Gamers: 1675
   Percentage of Gamers: 88%
   Ratio: 1.06
   TA: '106'
@@ -124,36 +124,36 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 1.1395
-Base TA: 2279
+Base Ratio: 1.088
+Base TA: 2176
 Delisted: false
 Developer: DERIK DF
 Game Name: Elon and the Divine Proof
 Genres: Platformer
 Install Size: 1710.0
-Number of Completions: 975
-Number of Gamers: 1579
+Number of Completions: 1382
+Number of Gamers: 1904
 Overall Completion Time:
 - 0.0
 - 1.0
 Overall GS: 2000
-Overall Ratio: 1.1395
-Overall TA: 2279
+Overall Ratio: 1.088
+Overall TA: 2176
 PDU: 0
-Percentage Completed: 61.75
+Percentage Completed: 72.58
 Publisher: DERIK DF
 Release Date: 04 September 2024
 Server Closure: false
-Site Rating: 2.16
+Site Rating: 2.13
 Update Achievements:
 - Achievement Name: Diamond
   Description: Take the 1th diamond
   GS: '200'
   Guide: true
-  Number of Gamers: 1015
-  Percentage of Gamers: 64%
-  Ratio: 1.24
-  TA: '249'
+  Number of Gamers: 1467
+  Percentage of Gamers: 77%
+  Ratio: 1.13
+  TA: '227'
   Tags:
   - Offline Mode
   - Single Player
@@ -162,10 +162,10 @@ Update Achievements:
   Description: Take the 2th diamond
   GS: '200'
   Guide: true
-  Number of Gamers: 1003
-  Percentage of Gamers: 64%
-  Ratio: 1.25
-  TA: '251'
+  Number of Gamers: 1426
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '231'
   Tags:
   - Offline Mode
   - Single Player
@@ -174,10 +174,10 @@ Update Achievements:
   Description: Take the 3th diamond
   GS: '200'
   Guide: true
-  Number of Gamers: 999
-  Percentage of Gamers: 63%
-  Ratio: 1.25
-  TA: '251'
+  Number of Gamers: 1424
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '231'
   Tags:
   - Offline Mode
   - Single Player
@@ -186,10 +186,10 @@ Update Achievements:
   Description: Take the 4th diamond
   GS: '200'
   Guide: true
-  Number of Gamers: 997
-  Percentage of Gamers: 63%
-  Ratio: 1.26
-  TA: '252'
+  Number of Gamers: 1422
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '231'
   Tags:
   - Offline Mode
   - Single Player
@@ -198,10 +198,10 @@ Update Achievements:
   Description: Take the 5th diamond
   GS: '200'
   Guide: true
-  Number of Gamers: 1009
-  Percentage of Gamers: 64%
-  Ratio: 1.25
-  TA: '250'
+  Number of Gamers: 1441
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '229'
   Tags:
   - Offline Mode
   - Single Player

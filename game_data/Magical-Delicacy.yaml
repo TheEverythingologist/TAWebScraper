@@ -8,7 +8,7 @@ Base Game Achievements:
   Description: Change the layout of your kitchen.
   GS: '10'
   Guide: true
-  Number of Gamers: 5701
+  Number of Gamers: 6415
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '10'
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Cooked 10 meals.
   GS: '10'
   Guide: false
-  Number of Gamers: 1950
-  Percentage of Gamers: 34%
-  Ratio: 1.71
-  TA: '17'
+  Number of Gamers: 2265
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '16'
   Tags:
   - Offline Mode
   - Single Player
@@ -31,11 +31,11 @@ Base Game Achievements:
 - Achievement Name: Kitchen Mania
   Description: Cook 50 meals.
   GS: '30'
-  Guide: true
-  Number of Gamers: 879
-  Percentage of Gamers: 15%
-  Ratio: 2.55
-  TA: '76'
+  Guide: false
+  Number of Gamers: 1047
+  Percentage of Gamers: 16%
+  Ratio: 2.48
+  TA: '74'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Fail 5 meals.
   GS: '10'
   Guide: true
-  Number of Gamers: 839
+  Number of Gamers: 997
   Percentage of Gamers: 15%
-  Ratio: 2.61
-  TA: '26'
+  Ratio: 2.54
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Create a wares of exceptional quality.
   GS: '20'
   Guide: true
-  Number of Gamers: 575
-  Percentage of Gamers: 10%
-  Ratio: 3.15
-  TA: '63'
+  Number of Gamers: 688
+  Percentage of Gamers: 11%
+  Ratio: 3.06
+  TA: '61'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -67,10 +67,10 @@ Base Game Achievements:
   Description: Finish 50 orders.
   GS: '50'
   Guide: false
-  Number of Gamers: 424
-  Percentage of Gamers: 7%
-  Ratio: 3.67
-  TA: '183'
+  Number of Gamers: 510
+  Percentage of Gamers: 8%
+  Ratio: 3.54
+  TA: '177'
   Tags:
   - Offline Mode
   - Single Player
@@ -79,10 +79,10 @@ Base Game Achievements:
   Description: Earn 2000 by selling wares at the walk-up window.
   GS: '20'
   Guide: false
-  Number of Gamers: 592
-  Percentage of Gamers: 10%
-  Ratio: 3.1
-  TA: '62'
+  Number of Gamers: 701
+  Percentage of Gamers: 11%
+  Ratio: 3.03
+  TA: '60'
   Tags:
   - Offline Mode
   - Single Player
@@ -91,43 +91,46 @@ Base Game Achievements:
   Description: Acquire all cooking modules
   GS: '20'
   Guide: true
-  Number of Gamers: 545
+  Number of Gamers: 645
   Percentage of Gamers: 10%
-  Ratio: 3.23
-  TA: '64'
+  Ratio: 3.16
+  TA: '63'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Shop
 - Achievement Name: Building Code
   Description: Acquire all the permits for a fully upgraded kitchen.
   GS: '20'
   Guide: true
-  Number of Gamers: 550
+  Number of Gamers: 653
   Percentage of Gamers: 10%
-  Ratio: 3.22
-  TA: '64'
+  Ratio: 3.14
+  TA: '62'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Shop
 - Achievement Name: Spelunking Hobbyist
   Description: Complete every catacomb.
   GS: '20'
   Guide: true
-  Number of Gamers: 347
+  Number of Gamers: 418
   Percentage of Gamers: 6%
-  Ratio: 4.05
-  TA: '81'
+  Ratio: 3.93
+  TA: '78'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Collectable
 - Achievement Name: Shopper
   Description: Visit every merchant in the game.
   GS: '50'
   Guide: true
-  Number of Gamers: 410
-  Percentage of Gamers: 7%
-  Ratio: 3.73
-  TA: '186'
+  Number of Gamers: 505
+  Percentage of Gamers: 8%
+  Ratio: 3.58
+  TA: '179'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -135,10 +138,10 @@ Base Game Achievements:
   Description: Plant every plantable ingredient.
   GS: '50'
   Guide: true
-  Number of Gamers: 352
-  Percentage of Gamers: 6%
-  Ratio: 4.03
-  TA: '201'
+  Number of Gamers: 433
+  Percentage of Gamers: 7%
+  Ratio: 3.86
+  TA: '193'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -146,10 +149,10 @@ Base Game Achievements:
   Description: Use every ingredient at least once. (Excluding relics)
   GS: '70'
   Guide: true
-  Number of Gamers: 237
-  Percentage of Gamers: 4%
-  Ratio: 4.91
-  TA: '343'
+  Number of Gamers: 294
+  Percentage of Gamers: 5%
+  Ratio: 4.67
+  TA: '326'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -157,10 +160,10 @@ Base Game Achievements:
   Description: Acquire all outfit palettes.
   GS: '50'
   Guide: true
-  Number of Gamers: 289
+  Number of Gamers: 354
   Percentage of Gamers: 5%
-  Ratio: 4.44
-  TA: '222'
+  Ratio: 4.25
+  TA: '212'
   Tags:
   - Offline Mode
   - Single Player
@@ -169,10 +172,10 @@ Base Game Achievements:
   Description: Acquire every keepsake.
   GS: '70'
   Guide: true
-  Number of Gamers: 257
-  Percentage of Gamers: 4%
-  Ratio: 4.71
-  TA: '330'
+  Number of Gamers: 327
+  Percentage of Gamers: 5%
+  Ratio: 4.43
+  TA: '310'
   Tags:
   - Offline Mode
   - Single Player
@@ -181,9 +184,9 @@ Base Game Achievements:
   Description: Acquire the double jump.
   GS: '10'
   Guide: true
-  Number of Gamers: 3191
-  Percentage of Gamers: 56%
-  Ratio: 1.33
+  Number of Gamers: 3660
+  Percentage of Gamers: 57%
+  Ratio: 1.32
   TA: '13'
   Tags:
   - Offline Mode
@@ -193,10 +196,10 @@ Base Game Achievements:
   Description: Acquire the Keskar Shadowform.
   GS: '50'
   Guide: true
-  Number of Gamers: 801
-  Percentage of Gamers: 14%
-  Ratio: 2.67
-  TA: '133'
+  Number of Gamers: 959
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '129'
   Tags:
   - Offline Mode
   - Single Player
@@ -205,10 +208,10 @@ Base Game Achievements:
   Description: Acquire the Shena high jump.
   GS: '50'
   Guide: true
-  Number of Gamers: 1130
-  Percentage of Gamers: 20%
-  Ratio: 2.24
-  TA: '112'
+  Number of Gamers: 1357
+  Percentage of Gamers: 21%
+  Ratio: 2.18
+  TA: '109'
   Tags:
   - Offline Mode
   - Single Player
@@ -217,10 +220,10 @@ Base Game Achievements:
   Description: Acquire a broom.
   GS: '70'
   Guide: true
-  Number of Gamers: 717
+  Number of Gamers: 852
   Percentage of Gamers: 13%
-  Ratio: 2.82
-  TA: '197'
+  Ratio: 2.75
+  TA: '192'
   Tags:
   - Offline Mode
   - Single Player
@@ -229,10 +232,10 @@ Base Game Achievements:
   Description: Acquire a small dragon friend.
   GS: '20'
   Guide: true
-  Number of Gamers: 1124
-  Percentage of Gamers: 20%
-  Ratio: 2.25
-  TA: '45'
+  Number of Gamers: 1351
+  Percentage of Gamers: 21%
+  Ratio: 2.18
+  TA: '43'
   Tags:
   - Offline Mode
   - Single Player
@@ -241,10 +244,10 @@ Base Game Achievements:
   Description: Finish the orders of the three masters.
   GS: '50'
   Guide: true
-  Number of Gamers: 452
+  Number of Gamers: 545
   Percentage of Gamers: 8%
-  Ratio: 3.55
-  TA: '177'
+  Ratio: 3.43
+  TA: '171'
   Tags:
   - Offline Mode
   - Single Player
@@ -253,46 +256,43 @@ Base Game Achievements:
   Description: Meet all faes.
   GS: '20'
   Guide: false
-  Number of Gamers: 646
-  Percentage of Gamers: 11%
-  Ratio: 2.97
-  TA: '59'
+  Number of Gamers: 762
+  Percentage of Gamers: 12%
+  Ratio: 2.91
+  TA: '58'
   Tags:
-  - Offline Mode
+  - Offline Game Mode
   - Single Player
-  - Main Storyline
 - Achievement Name: Out of Place
   Description: "Finish Hina\u2019s story."
   GS: '50'
   Guide: true
-  Number of Gamers: 487
+  Number of Gamers: 586
   Percentage of Gamers: 9%
-  Ratio: 3.42
-  TA: '171'
+  Ratio: 3.31
+  TA: '165'
   Tags:
-  - Offline Mode
+  - Offline Game Mode
   - Single Player
-  - Main Storyline
 - Achievement Name: Princess
   Description: "Finish Adelaide\u2019s story."
   GS: '50'
   Guide: true
-  Number of Gamers: 441
+  Number of Gamers: 533
   Percentage of Gamers: 8%
-  Ratio: 3.6
-  TA: '180'
+  Ratio: 3.46
+  TA: '173'
   Tags:
-  - Offline Mode
+  - Offline Game Mode
   - Single Player
-  - Main Storyline
 - Achievement Name: Close Encounter
   Description: Get rid of Kajogat.
   GS: '30'
   Guide: true
-  Number of Gamers: 436
+  Number of Gamers: 522
   Percentage of Gamers: 8%
-  Ratio: 3.62
-  TA: '108'
+  Ratio: 3.5
+  TA: '105'
   Tags:
   - Offline Mode
   - Single Player
@@ -301,34 +301,35 @@ Base Game Achievements:
   Description: Bring Heji back home.
   GS: '100'
   Guide: true
-  Number of Gamers: 409
-  Percentage of Gamers: 7%
-  Ratio: 3.73
-  TA: '373'
+  Number of Gamers: 490
+  Percentage of Gamers: 8%
+  Ratio: 3.62
+  TA: '362'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 3.496
-Base TA: 3496
+  - Story Completed
+Base Ratio: 3.366
+Base TA: 3366
 Delisted: false
 Developer: Skaule
 Game Name: Magical Delicacy
 Genres: Platformer, Simulation, Metroidvania
 Install Size: 1240.0
-Number of Completions: 221
-Number of Gamers: 5725
+Number of Completions: 279
+Number of Gamers: 6438
 Overall Completion Time:
 - 25.0
 - 30.0
 Overall GS: 1000
-Overall Ratio: 3.496
-Overall TA: 3496
+Overall Ratio: 3.366
+Overall TA: 3366
 PDU: 0
-Percentage Completed: 3.86
+Percentage Completed: 4.33
 Publisher: Whitethorn Games
 Release Date: 16 July 2024
 Server Closure: false
-Site Rating: 3.52
+Site Rating: 3.49
 Update Achievements: []
 Walkthrough: false

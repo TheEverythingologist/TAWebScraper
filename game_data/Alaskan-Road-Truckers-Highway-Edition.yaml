@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- -1
-- -1
+- 477
+- 478
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Welcome to Alaska
   Description: Complete your first job
   GS: '10'
   Guide: true
-  Number of Gamers: 1236
+  Number of Gamers: 1409
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '10'
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Reach your base
   GS: '15'
   Guide: true
-  Number of Gamers: 1134
+  Number of Gamers: 1289
   Percentage of Gamers: 91%
   Ratio: 1.04
   TA: '15'
@@ -32,9 +32,9 @@ Base Game Achievements:
   Description: Build a new facility in the base
   GS: '15'
   Guide: true
-  Number of Gamers: 771
-  Percentage of Gamers: 62%
-  Ratio: 1.26
+  Number of Gamers: 866
+  Percentage of Gamers: 61%
+  Ratio: 1.27
   TA: '19'
   Tags:
   - Offline Mode
@@ -44,7 +44,7 @@ Base Game Achievements:
   Description: Take a loan
   GS: '15'
   Guide: true
-  Number of Gamers: 287
+  Number of Gamers: 326
   Percentage of Gamers: 23%
   Ratio: 2.08
   TA: '31'
@@ -56,7 +56,7 @@ Base Game Achievements:
   Description: Buy your first truck
   GS: '15'
   Guide: true
-  Number of Gamers: 512
+  Number of Gamers: 586
   Percentage of Gamers: 41%
   Ratio: 1.55
   TA: '23'
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: Unlock the D License
   GS: '15'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 7
   Percentage of Gamers: 0%
-  Ratio: 17.59
-  TA: '263'
+  Ratio: 14.21
+  TA: '213'
   Tags:
   - Offline Mode
   - Single Player
@@ -80,19 +80,21 @@ Base Game Achievements:
   Description: Unlock military transports
   GS: '15'
   Guide: false
-  Number of Gamers: 2
+  Number of Gamers: 4
   Percentage of Gamers: 0%
-  Ratio: 1.0
-  TA: '15'
+  Ratio: 18.8
+  TA: '282'
   Tags:
-  - Unobtainable
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Pimp My Truck
   Description: Buy any customization item
   GS: '15'
   Guide: false
-  Number of Gamers: 449
+  Number of Gamers: 514
   Percentage of Gamers: 36%
-  Ratio: 1.66
+  Ratio: 1.65
   TA: '24'
   Tags:
   - Offline Mode
@@ -103,10 +105,10 @@ Base Game Achievements:
   Description: Build and fully upgrade all facilities at the base
   GS: '30'
   Guide: false
-  Number of Gamers: 1
+  Number of Gamers: 3
   Percentage of Gamers: 0%
-  Ratio: 35.19
-  TA: 1,055
+  Ratio: 21.71
+  TA: '651'
   Tags:
   - Offline Mode
   - Single Player
@@ -115,10 +117,10 @@ Base Game Achievements:
   Description: Own three trucks at once
   GS: '30'
   Guide: true
-  Number of Gamers: 221
+  Number of Gamers: 257
   Percentage of Gamers: 18%
-  Ratio: 2.36
-  TA: '71'
+  Ratio: 2.34
+  TA: '70'
   Tags:
   - Offline Mode
   - Single Player
@@ -127,10 +129,10 @@ Base Game Achievements:
   Description: Collect $100,000 on your account
   GS: '30'
   Guide: false
-  Number of Gamers: 25
+  Number of Gamers: 35
   Percentage of Gamers: 2%
-  Ratio: 7.03
-  TA: '211'
+  Ratio: 6.35
+  TA: '190'
   Tags:
   - Offline Mode
   - Single Player
@@ -139,9 +141,9 @@ Base Game Achievements:
   Description: Have an average reputation of 4.5
   GS: '30'
   Guide: false
-  Number of Gamers: 323
-  Percentage of Gamers: 26%
-  Ratio: 1.96
+  Number of Gamers: 360
+  Percentage of Gamers: 25%
+  Ratio: 1.98
   TA: '59'
   Tags:
   - Offline Game Mode
@@ -150,9 +152,9 @@ Base Game Achievements:
   Description: And I would drive 500 miles, and I would drive 500 more
   GS: '15'
   Guide: true
-  Number of Gamers: 725
+  Number of Gamers: 814
   Percentage of Gamers: 58%
-  Ratio: 1.3
+  Ratio: 1.31
   TA: '19'
   Tags:
   - Offline Mode
@@ -164,17 +166,19 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 1
   Percentage of Gamers: 0%
-  Ratio: 1.0
-  TA: '30'
+  Ratio: 37.6
+  TA: 1,128
   Tags:
-  - Unobtainable
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Santa's Place
   Description: Reach North Pole
   GS: '30'
   Guide: true
-  Number of Gamers: 829
-  Percentage of Gamers: 67%
-  Ratio: 1.22
+  Number of Gamers: 934
+  Percentage of Gamers: 66%
+  Ratio: 1.23
   TA: '36'
   Tags:
   - Offline Game Mode
@@ -183,10 +187,10 @@ Base Game Achievements:
   Description: Take a photo of the Arctic Circle
   GS: '30'
   Guide: true
-  Number of Gamers: 125
+  Number of Gamers: 140
   Percentage of Gamers: 10%
-  Ratio: 3.16
-  TA: '94'
+  Ratio: 3.17
+  TA: '95'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -194,10 +198,10 @@ Base Game Achievements:
   Description: Take a picture of the War Veteran Memorial
   GS: '30'
   Guide: true
-  Number of Gamers: 108
-  Percentage of Gamers: 9%
-  Ratio: 3.38
-  TA: '101'
+  Number of Gamers: 119
+  Percentage of Gamers: 8%
+  Ratio: 3.44
+  TA: '103'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -205,10 +209,10 @@ Base Game Achievements:
   Description: Cook any meal at your base
   GS: '15'
   Guide: true
-  Number of Gamers: 144
-  Percentage of Gamers: 12%
-  Ratio: 2.93
-  TA: '43'
+  Number of Gamers: 156
+  Percentage of Gamers: 11%
+  Ratio: 3.01
+  TA: '45'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -216,10 +220,10 @@ Base Game Achievements:
   Description: Chainsaw goes brrr
   GS: '15'
   Guide: true
-  Number of Gamers: 391
-  Percentage of Gamers: 32%
-  Ratio: 1.78
-  TA: '26'
+  Number of Gamers: 432
+  Percentage of Gamers: 31%
+  Ratio: 1.8
+  TA: '27'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -227,10 +231,10 @@ Base Game Achievements:
   Description: Take painkillers
   GS: '15'
   Guide: true
-  Number of Gamers: 384
+  Number of Gamers: 433
   Percentage of Gamers: 31%
-  Ratio: 1.79
-  TA: '26'
+  Ratio: 1.8
+  TA: '27'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -238,10 +242,10 @@ Base Game Achievements:
   Description: Do not eat hot dogs for 5 consecutive days
   GS: '15'
   Guide: true
-  Number of Gamers: 383
+  Number of Gamers: 436
   Percentage of Gamers: 31%
-  Ratio: 1.79
-  TA: '26'
+  Ratio: 1.8
+  TA: '27'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -249,10 +253,10 @@ Base Game Achievements:
   Description: Experience all the varieties of death
   GS: '30'
   Guide: true
-  Number of Gamers: 4
-  Percentage of Gamers: 0%
-  Ratio: 17.59
-  TA: '527'
+  Number of Gamers: 9
+  Percentage of Gamers: 1%
+  Ratio: 12.53
+  TA: '376'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -260,10 +264,10 @@ Base Game Achievements:
   Description: Finish a job without damaging the cargo
   GS: '30'
   Guide: true
-  Number of Gamers: 1160
+  Number of Gamers: 1328
   Percentage of Gamers: 94%
   Ratio: 1.03
-  TA: '31'
+  TA: '30'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -271,8 +275,8 @@ Base Game Achievements:
   Description: Get a 5.0 reputation score for a job
   GS: '90'
   Guide: true
-  Number of Gamers: 629
-  Percentage of Gamers: 51%
+  Number of Gamers: 714
+  Percentage of Gamers: 50%
   Ratio: 1.4
   TA: '126'
   Tags:
@@ -282,10 +286,10 @@ Base Game Achievements:
   Description: Drive 60 mph for over 30 seconds
   GS: '30'
   Guide: false
-  Number of Gamers: 185
+  Number of Gamers: 216
   Percentage of Gamers: 15%
-  Ratio: 2.59
-  TA: '77'
+  Ratio: 2.55
+  TA: '76'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -293,10 +297,10 @@ Base Game Achievements:
   Description: Complete 50 deliveries
   GS: '30'
   Guide: false
-  Number of Gamers: 22
+  Number of Gamers: 30
   Percentage of Gamers: 2%
-  Ratio: 7.5
-  TA: '225'
+  Ratio: 6.86
+  TA: '205'
   Tags:
   - Offline Mode
   - Single Player
@@ -305,10 +309,10 @@ Base Game Achievements:
   Description: Get a 5-star rating for parking in reverse
   GS: '90'
   Guide: true
-  Number of Gamers: 796
-  Percentage of Gamers: 64%
-  Ratio: 1.24
-  TA: '112'
+  Number of Gamers: 896
+  Percentage of Gamers: 63%
+  Ratio: 1.25
+  TA: '113'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -316,10 +320,10 @@ Base Game Achievements:
   Description: Deliver cargo with 10% or less durability left
   GS: '90'
   Guide: true
-  Number of Gamers: 56
+  Number of Gamers: 70
   Percentage of Gamers: 5%
-  Ratio: 4.74
-  TA: '427'
+  Ratio: 4.49
+  TA: '404'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -327,10 +331,10 @@ Base Game Achievements:
   Description: Deliver a tank or an oversized load without damaging it
   GS: '90'
   Guide: false
-  Number of Gamers: 6
+  Number of Gamers: 7
   Percentage of Gamers: 0%
-  Ratio: 14.37
-  TA: 1,293
+  Ratio: 14.21
+  TA: 1,279
   Tags:
   - Offline Game Mode
   - Single Player
@@ -338,33 +342,33 @@ Base Game Achievements:
   Description: Deliver any assigment 1 hour before the deadline
   GS: '90'
   Guide: true
-  Number of Gamers: 468
-  Percentage of Gamers: 38%
-  Ratio: 1.62
-  TA: '146'
+  Number of Gamers: 528
+  Percentage of Gamers: 37%
+  Ratio: 1.63
+  TA: '147'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 5.161
-Base TA: 5161
+Base Ratio: 5.85
+Base TA: 5850
 Delisted: false
 Developer: Road Studio
 Game Name: 'Alaskan Road Truckers: Highway Edition'
 Genres: Simulation
 Install Size: 39020.0
-Number of Completions: 0
-Number of Gamers: 1240
+Number of Completions: 1
+Number of Gamers: 1414
 Overall Completion Time:
-- -1
-- -1
+- 477
+- 478
 Overall GS: 1000
-Overall Ratio: 5.161
-Overall TA: 5161
+Overall Ratio: 5.85
+Overall TA: 5850
 PDU: 0
-Percentage Completed: 0.0
+Percentage Completed: 0.07
 Publisher: Green Man Gaming, Movie Games
 Release Date: 11 July 2024
 Server Closure: false
-Site Rating: 4.08
+Site Rating: 3.67
 Update Achievements: []
 Walkthrough: false

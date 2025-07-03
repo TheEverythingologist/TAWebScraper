@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 44
-- 45
+- 31
+- 32
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Welcome to Eden City
   Description: Get to Eden City for the first time
   GS: '20'
   Guide: false
-  Number of Gamers: 62
+  Number of Gamers: 90
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '20'
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Get Daniel Jensen ID
   GS: '30'
   Guide: false
-  Number of Gamers: 25
-  Percentage of Gamers: 40%
-  Ratio: 1.57
-  TA: '47'
+  Number of Gamers: 32
+  Percentage of Gamers: 36%
+  Ratio: 1.67
+  TA: '50'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Survive to the SND crisis
   GS: '30'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 24%
-  Ratio: 2.03
-  TA: '60'
+  Number of Gamers: 20
+  Percentage of Gamers: 22%
+  Ratio: 2.12
+  TA: '63'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Talk to Daniel Jensen for the first time
   GS: '30'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 23%
-  Ratio: 2.1
-  TA: '63'
+  Number of Gamers: 19
+  Percentage of Gamers: 21%
+  Ratio: 2.17
+  TA: '65'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Convince the Misery King to give you his card to The Top
   GS: '30'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 21%
-  Ratio: 2.18
-  TA: '65'
+  Number of Gamers: 18
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '67'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: Survive the encounter against the KeyMaker
   GS: '30'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 21%
-  Ratio: 2.18
-  TA: '65'
+  Number of Gamers: 17
+  Percentage of Gamers: 19%
+  Ratio: 2.3
+  TA: '69'
   Tags:
   - Offline Mode
   - Single Player
@@ -80,10 +80,10 @@ Base Game Achievements:
   Description: Visit Hypnos in The Top
   GS: '90'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 21%
-  Ratio: 2.18
-  TA: '196'
+  Number of Gamers: 16
+  Percentage of Gamers: 18%
+  Ratio: 2.37
+  TA: '213'
   Tags:
   - Offline Mode
   - Single Player
@@ -92,10 +92,10 @@ Base Game Achievements:
   Description: Check the Data Base at the Medic Center
   GS: '90'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 21%
-  Ratio: 2.18
-  TA: '196'
+  Number of Gamers: 16
+  Percentage of Gamers: 18%
+  Ratio: 2.37
+  TA: '213'
   Tags:
   - Offline Mode
   - Single Player
@@ -104,10 +104,10 @@ Base Game Achievements:
   Description: Open the gate to the Matrix
   GS: '90'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 21%
-  Ratio: 2.18
-  TA: '196'
+  Number of Gamers: 16
+  Percentage of Gamers: 18%
+  Ratio: 2.37
+  TA: '213'
   Tags:
   - Offline Mode
   - Single Player
@@ -116,10 +116,10 @@ Base Game Achievements:
   Description: Press the Red Button at CORA's Matrix
   GS: '90'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 18%
-  Ratio: 2.37
-  TA: '213'
+  Number of Gamers: 14
+  Percentage of Gamers: 16%
+  Ratio: 2.53
+  TA: '228'
   Tags:
   - Offline Mode
   - Single Player
@@ -129,10 +129,10 @@ Base Game Achievements:
   Description: Find the Artemis-01
   GS: '90'
   Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 37%
-  Ratio: 1.64
-  TA: '147'
+  Number of Gamers: 30
+  Percentage of Gamers: 33%
+  Ratio: 1.73
+  TA: '155'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -140,9 +140,9 @@ Base Game Achievements:
   Description: Find the supercool bike
   GS: '90'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 15%
-  Ratio: 2.62
+  Number of Gamers: 13
+  Percentage of Gamers: 14%
+  Ratio: 2.63
   TA: '236'
   Tags:
   - Offline Game Mode
@@ -151,10 +151,10 @@ Base Game Achievements:
   Description: Talk to Rick about the antiques (they look fake)
   GS: '90'
   Guide: true
-  Number of Gamers: 7
+  Number of Gamers: 10
   Percentage of Gamers: 11%
-  Ratio: 2.97
-  TA: '267'
+  Ratio: 3.0
+  TA: '270'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -162,10 +162,10 @@ Base Game Achievements:
   Description: Threat to Hypnos
   GS: '90'
   Guide: true
-  Number of Gamers: 6
+  Number of Gamers: 9
   Percentage of Gamers: 10%
-  Ratio: 3.21
-  TA: '289'
+  Ratio: 3.16
+  TA: '284'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -173,10 +173,10 @@ Base Game Achievements:
   Description: Hack your first FOG
   GS: '20'
   Guide: false
-  Number of Gamers: 29
-  Percentage of Gamers: 47%
-  Ratio: 1.46
-  TA: '29'
+  Number of Gamers: 37
+  Percentage of Gamers: 41%
+  Ratio: 1.55
+  TA: '31'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -184,33 +184,33 @@ Base Game Achievements:
   Description: Discover all areas in Eden City
   GS: '90'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 13%
-  Ratio: 2.78
-  TA: '250'
+  Number of Gamers: 11
+  Percentage of Gamers: 12%
+  Ratio: 2.86
+  TA: '257'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 2.339
-Base TA: 2339
+Base Ratio: 2.434
+Base TA: 2434
 Delisted: false
 Developer: Aeternum Game Studios
 Game Name: Eden Genesis
 Genres: Platformer
 Install Size: 2220.0
-Number of Completions: 5
-Number of Gamers: 62
+Number of Completions: 8
+Number of Gamers: 90
 Overall Completion Time:
-- 44
-- 45
+- 31
+- 32
 Overall GS: 1000
-Overall Ratio: 2.339
-Overall TA: 2339
+Overall Ratio: 2.434
+Overall TA: 2434
 PDU: 0
-Percentage Completed: 8.06
+Percentage Completed: 8.89
 Publisher: Aeternum Game Studios
 Release Date: 06 August 2024
 Server Closure: false
-Site Rating: 4.3
+Site Rating: 4.21
 Update Achievements: []
 Walkthrough: false

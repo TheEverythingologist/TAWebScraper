@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 34
-- 35
+- 29
+- 30
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Is it really you?
   Description: Beat Julia in Arcade mode
   GS: '10'
   Guide: false
-  Number of Gamers: 193
+  Number of Gamers: 198
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '10'
@@ -19,7 +19,7 @@ Base Game Achievements:
   Description: Continue after losing a match in Arcade mode
   GS: '10'
   Guide: false
-  Number of Gamers: 116
+  Number of Gamers: 119
   Percentage of Gamers: 57%
   Ratio: 1.32
   TA: '13'
@@ -30,9 +30,9 @@ Base Game Achievements:
   Description: Play a 2 players Versus game
   GS: '10'
   Guide: false
-  Number of Gamers: 50
+  Number of Gamers: 52
   Percentage of Gamers: 25%
-  Ratio: 2.01
+  Ratio: 2.0
   TA: '20'
   Tags:
   - Offline Mode
@@ -41,10 +41,10 @@ Base Game Achievements:
   Description: Unlock Tcheco
   GS: '30'
   Guide: true
-  Number of Gamers: 12
+  Number of Gamers: 13
   Percentage of Gamers: 6%
-  Ratio: 4.11
-  TA: '123'
+  Ratio: 4.0
+  TA: '120'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -52,9 +52,9 @@ Base Game Achievements:
   Description: Beat ???? in Arcade Mode's Stage 9
   GS: '10'
   Guide: false
-  Number of Gamers: 67
+  Number of Gamers: 69
   Percentage of Gamers: 33%
-  Ratio: 1.74
+  Ratio: 1.73
   TA: '17'
   Tags:
   - Offline Game Mode
@@ -63,10 +63,10 @@ Base Game Achievements:
   Description: Beat ???? in Arcade Mode's Stage 18
   GS: '20'
   Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 13%
-  Ratio: 2.74
-  TA: '54'
+  Number of Gamers: 29
+  Percentage of Gamers: 14%
+  Ratio: 2.67
+  TA: '53'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -74,10 +74,10 @@ Base Game Achievements:
   Description: Beat Arcade mode on Beginner difficulty
   GS: '30'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 5%
-  Ratio: 4.29
-  TA: '128'
+  Number of Gamers: 13
+  Percentage of Gamers: 6%
+  Ratio: 4.0
+  TA: '120'
   Tags:
   - Offline Mode
   - Single Player
@@ -86,10 +86,10 @@ Base Game Achievements:
   Description: Beat Arcade mode on Normal difficulty
   GS: '60'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 5
   Percentage of Gamers: 2%
-  Ratio: 7.12
-  TA: '427'
+  Ratio: 6.44
+  TA: '386'
   Tags:
   - Offline Mode
   - Single Player
@@ -98,10 +98,10 @@ Base Game Achievements:
   Description: Beat Arcade mode on Master difficulty
   GS: '100'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 5
   Percentage of Gamers: 2%
-  Ratio: 7.12
-  TA: '712'
+  Ratio: 6.44
+  TA: '644'
   Tags:
   - Offline Mode
   - Single Player
@@ -110,10 +110,10 @@ Base Game Achievements:
   Description: Have 5 ghosts on a Time Attack stage
   GS: '10'
   Guide: false
-  Number of Gamers: 37
-  Percentage of Gamers: 18%
-  Ratio: 2.34
-  TA: '23'
+  Number of Gamers: 40
+  Percentage of Gamers: 19%
+  Ratio: 2.28
+  TA: '22'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -121,10 +121,10 @@ Base Game Achievements:
   Description: Beat or Equal one of the Hike Master's times in Time Attack mode
   GS: '20'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 4%
-  Ratio: 4.74
-  TA: '94'
+  Number of Gamers: 10
+  Percentage of Gamers: 5%
+  Ratio: 4.56
+  TA: '91'
   Tags:
   - Offline Mode
   - Single Player
@@ -133,10 +133,10 @@ Base Game Achievements:
   Description: Beat or Equal 10 of the Hike Master's times in Time Attack mode
   GS: '60'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 5
   Percentage of Gamers: 2%
-  Ratio: 7.12
-  TA: '427'
+  Ratio: 6.44
+  TA: '386'
   Tags:
   - Offline Mode
   - Single Player
@@ -146,10 +146,10 @@ Base Game Achievements:
     mode
   GS: '100'
   Guide: true
-  Number of Gamers: 3
-  Percentage of Gamers: 1%
-  Ratio: 8.22
-  TA: '822'
+  Number of Gamers: 4
+  Percentage of Gamers: 2%
+  Ratio: 7.21
+  TA: '721'
   Tags:
   - Offline Mode
   - Single Player
@@ -158,10 +158,10 @@ Base Game Achievements:
   Description: Make a time of less than 4 seconds in Time Attack mode
   GS: '40'
   Guide: true
-  Number of Gamers: 4
+  Number of Gamers: 5
   Percentage of Gamers: 2%
-  Ratio: 7.12
-  TA: '284'
+  Ratio: 6.44
+  TA: '257'
   Tags:
   - Offline Mode
   - Single Player
@@ -171,10 +171,10 @@ Base Game Achievements:
     mode
   GS: '40'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 5
   Percentage of Gamers: 2%
-  Ratio: 7.12
-  TA: '284'
+  Ratio: 6.44
+  TA: '257'
   Tags:
   - Offline Mode
   - Single Player
@@ -184,10 +184,10 @@ Base Game Achievements:
     Attack mode
   GS: '80'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 5
   Percentage of Gamers: 2%
-  Ratio: 7.12
-  TA: '569'
+  Ratio: 6.44
+  TA: '515'
   Tags:
   - Offline Mode
   - Single Player
@@ -197,10 +197,10 @@ Base Game Achievements:
     Attack mode
   GS: '100'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 5
   Percentage of Gamers: 2%
-  Ratio: 7.12
-  TA: '712'
+  Ratio: 6.44
+  TA: '644'
   Tags:
   - Offline Mode
   - Single Player
@@ -209,10 +209,10 @@ Base Game Achievements:
   Description: Beat the AI on Master difficulty in 10 stages in Vs mode
   GS: '40'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 5
   Percentage of Gamers: 2%
-  Ratio: 7.12
-  TA: '284'
+  Ratio: 6.44
+  TA: '257'
   Tags:
   - Offline Mode
   - Single Player
@@ -221,10 +221,10 @@ Base Game Achievements:
   Description: Beat the AI on Master difficulty in all 54 stages in Vs mode
   GS: '100'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 5
   Percentage of Gamers: 2%
-  Ratio: 7.12
-  TA: '712'
+  Ratio: 6.44
+  TA: '644'
   Tags:
   - Offline Mode
   - Single Player
@@ -233,10 +233,10 @@ Base Game Achievements:
   Description: Beat the AI on Master difficulty in 10 stages in Race mode
   GS: '20'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 5
   Percentage of Gamers: 2%
-  Ratio: 7.12
-  TA: '142'
+  Ratio: 6.44
+  TA: '128'
   Tags:
   - Offline Mode
   - Single Player
@@ -245,10 +245,10 @@ Base Game Achievements:
   Description: Beat the AI on Master difficulty in all 54 stages in Race mode
   GS: '100'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 5
   Percentage of Gamers: 2%
-  Ratio: 7.12
-  TA: '712'
+  Ratio: 6.44
+  TA: '644'
   Tags:
   - Offline Mode
   - Single Player
@@ -257,33 +257,33 @@ Base Game Achievements:
   Description: Watch a replay in Time Attack mode
   GS: '10'
   Guide: true
-  Number of Gamers: 39
-  Percentage of Gamers: 19%
-  Ratio: 2.28
+  Number of Gamers: 42
+  Percentage of Gamers: 20%
+  Ratio: 2.22
   TA: '22'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 6.591
-Base TA: 6591
+Base Ratio: 5.971
+Base TA: 5971
 Delisted: false
 Developer: Bit Ink Studios
 Game Name: Super Hiking League DX
 Genres: Platformer
 Install Size: 303.0
-Number of Completions: 3
-Number of Gamers: 204
+Number of Completions: 4
+Number of Gamers: 208
 Overall Completion Time:
-- 34
-- 35
+- 29
+- 30
 Overall GS: 1000
-Overall Ratio: 6.591
-Overall TA: 6591
+Overall Ratio: 5.971
+Overall TA: 5971
 PDU: 0
-Percentage Completed: 1.47
+Percentage Completed: 1.92
 Publisher: QUByte Interactive
 Release Date: 10 August 2021
 Server Closure: false
-Site Rating: 3.3
+Site Rating: 3.5
 Update Achievements: []
 Walkthrough: false

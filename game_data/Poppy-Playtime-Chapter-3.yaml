@@ -1,16 +1,16 @@
 Add On Achievements: []
 Base Completion Time:
-- 16
-- 17
+- 12.0
+- 15.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Welcome to Playcare!
   Description: Enter the Playcare dome
   GS: '25'
   Guide: true
-  Number of Gamers: 1782
-  Percentage of Gamers: 95%
-  Ratio: 1.02
+  Number of Gamers: 2555
+  Percentage of Gamers: 94%
+  Ratio: 1.03
   TA: '25'
   Tags:
   - Offline Mode
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Obtain the GrabPack 2.0
   GS: '25'
   Guide: true
-  Number of Gamers: 1732
+  Number of Gamers: 2497
   Percentage of Gamers: 92%
   Ratio: 1.04
   TA: '26'
@@ -31,7 +31,7 @@ Base Game Achievements:
   Description: "\u201CEscape\u201D Nightmare Huggy"
   GS: '25'
   Guide: true
-  Number of Gamers: 1606
+  Number of Gamers: 2307
   Percentage of Gamers: 85%
   Ratio: 1.08
   TA: '27'
@@ -43,9 +43,9 @@ Base Game Achievements:
   Description: Defeat Miss Delight
   GS: '25'
   Guide: true
-  Number of Gamers: 1247
+  Number of Gamers: 1785
   Percentage of Gamers: 66%
-  Ratio: 1.22
+  Ratio: 1.23
   TA: '30'
   Tags:
   - Offline Mode
@@ -55,8 +55,8 @@ Base Game Achievements:
   Description: Escape DogDay
   GS: '25'
   Guide: true
-  Number of Gamers: 1146
-  Percentage of Gamers: 61%
+  Number of Gamers: 1644
+  Percentage of Gamers: 60%
   Ratio: 1.28
   TA: '32'
   Tags:
@@ -67,9 +67,9 @@ Base Game Achievements:
   Description: Survive A Nightmarish Encounter
   GS: '25'
   Guide: true
-  Number of Gamers: 1097
+  Number of Gamers: 1577
   Percentage of Gamers: 58%
-  Ratio: 1.3
+  Ratio: 1.31
   TA: '32'
   Tags:
   - Offline Mode
@@ -79,7 +79,7 @@ Base Game Achievements:
   Description: Defeat CatNap
   GS: '50'
   Guide: true
-  Number of Gamers: 977
+  Number of Gamers: 1426
   Percentage of Gamers: 52%
   Ratio: 1.38
   TA: '69'
@@ -91,7 +91,7 @@ Base Game Achievements:
   Description: Complete the game
   GS: '50'
   Guide: true
-  Number of Gamers: 975
+  Number of Gamers: 1425
   Percentage of Gamers: 52%
   Ratio: 1.38
   TA: '69'
@@ -104,10 +104,10 @@ Base Game Achievements:
   Description: Escape the First Dream without taking a wrong turn
   GS: '50'
   Guide: true
-  Number of Gamers: 336
-  Percentage of Gamers: 18%
-  Ratio: 2.36
-  TA: '118'
+  Number of Gamers: 510
+  Percentage of Gamers: 19%
+  Ratio: 2.31
+  TA: '115'
   Tags:
   - Offline Mode
   - Single Player
@@ -116,7 +116,7 @@ Base Game Achievements:
   Description: Remove Bobby Bearhug's battery without being noticed
   GS: '50'
   Guide: true
-  Number of Gamers: 722
+  Number of Gamers: 1046
   Percentage of Gamers: 38%
   Ratio: 1.61
   TA: '80'
@@ -128,10 +128,10 @@ Base Game Achievements:
   Description: Complete the Miss Delight chase in 2 minutes
   GS: '50'
   Guide: true
-  Number of Gamers: 220
-  Percentage of Gamers: 12%
-  Ratio: 2.92
-  TA: '146'
+  Number of Gamers: 368
+  Percentage of Gamers: 14%
+  Ratio: 2.71
+  TA: '135'
   Tags:
   - Offline Mode
   - Single Player
@@ -140,10 +140,10 @@ Base Game Achievements:
   Description: Defeat CatNap without powering any additional steam walls with batteries
   GS: '50'
   Guide: true
-  Number of Gamers: 287
-  Percentage of Gamers: 15%
-  Ratio: 2.56
-  TA: '128'
+  Number of Gamers: 448
+  Percentage of Gamers: 16%
+  Ratio: 2.46
+  TA: '123'
   Tags:
   - Offline Mode
   - Single Player
@@ -152,10 +152,10 @@ Base Game Achievements:
   Description: Listen to all of the Smiling Critter screams
   GS: '50'
   Guide: false
-  Number of Gamers: 504
+  Number of Gamers: 745
   Percentage of Gamers: 27%
-  Ratio: 1.93
-  TA: '96'
+  Ratio: 1.91
+  TA: '95'
   Tags:
   - Offline Mode
   - Single Player
@@ -164,10 +164,10 @@ Base Game Achievements:
   Description: Experience every jumpscare
   GS: '50'
   Guide: true
-  Number of Gamers: 651
-  Percentage of Gamers: 35%
-  Ratio: 1.7
-  TA: '85'
+  Number of Gamers: 997
+  Percentage of Gamers: 37%
+  Ratio: 1.65
+  TA: '82'
   Tags:
   - Offline Mode
   - Single Player
@@ -177,10 +177,10 @@ Base Game Achievements:
     200 times
   GS: '75'
   Guide: true
-  Number of Gamers: 101
-  Percentage of Gamers: 5%
-  Ratio: 4.33
-  TA: '325'
+  Number of Gamers: 173
+  Percentage of Gamers: 6%
+  Ratio: 3.96
+  TA: '297'
   Tags:
   - Offline Mode
   - Single Player
@@ -189,10 +189,10 @@ Base Game Achievements:
   Description: Complete the game without dying
   GS: '75'
   Guide: true
-  Number of Gamers: 112
-  Percentage of Gamers: 6%
-  Ratio: 4.09
-  TA: '307'
+  Number of Gamers: 205
+  Percentage of Gamers: 8%
+  Ratio: 3.64
+  TA: '273'
   Tags:
   - Offline Mode
   - Single Player
@@ -201,10 +201,10 @@ Base Game Achievements:
   Description: Find all notes in the school
   GS: '50'
   Guide: true
-  Number of Gamers: 286
-  Percentage of Gamers: 15%
-  Ratio: 2.56
-  TA: '128'
+  Number of Gamers: 430
+  Percentage of Gamers: 16%
+  Ratio: 2.51
+  TA: '125'
   Tags:
   - Offline Mode
   - Single Player
@@ -213,10 +213,10 @@ Base Game Achievements:
   Description: Play every VHS Tape
   GS: '50'
   Guide: false
-  Number of Gamers: 264
-  Percentage of Gamers: 14%
-  Ratio: 2.67
-  TA: '133'
+  Number of Gamers: 415
+  Percentage of Gamers: 15%
+  Ratio: 2.56
+  TA: '128'
   Tags:
   - Offline Mode
   - Single Player
@@ -225,9 +225,9 @@ Base Game Achievements:
   Description: Get crushed in the trash compactor
   GS: '15'
   Guide: true
-  Number of Gamers: 1224
-  Percentage of Gamers: 65%
-  Ratio: 1.23
+  Number of Gamers: 1852
+  Percentage of Gamers: 68%
+  Ratio: 1.21
   TA: '18'
   Tags:
   - Offline Game Mode
@@ -236,9 +236,9 @@ Base Game Achievements:
   Description: Get scolded by Ollie
   GS: '15'
   Guide: true
-  Number of Gamers: 389
-  Percentage of Gamers: 21%
-  Ratio: 2.19
+  Number of Gamers: 589
+  Percentage of Gamers: 22%
+  Ratio: 2.14
   TA: '32'
   Tags:
   - Offline Game Mode
@@ -247,9 +247,9 @@ Base Game Achievements:
   Description: Listen to a secret song with CatNap
   GS: '15'
   Guide: true
-  Number of Gamers: 448
+  Number of Gamers: 652
   Percentage of Gamers: 24%
-  Ratio: 2.05
+  Ratio: 2.04
   TA: '30'
   Tags:
   - Offline Game Mode
@@ -258,9 +258,9 @@ Base Game Achievements:
   Description: Stay in the air for 30 seconds using the Purple Hand
   GS: '20'
   Guide: true
-  Number of Gamers: 452
+  Number of Gamers: 662
   Percentage of Gamers: 24%
-  Ratio: 2.04
+  Ratio: 2.02
   TA: '40'
   Tags:
   - Offline Game Mode
@@ -269,7 +269,7 @@ Base Game Achievements:
   Description: Find Kissy Missy in Home Sweet Home
   GS: '15'
   Guide: true
-  Number of Gamers: 1403
+  Number of Gamers: 2030
   Percentage of Gamers: 75%
   Ratio: 1.15
   TA: '17'
@@ -280,10 +280,10 @@ Base Game Achievements:
   Description: Ride on a Race Car in Home Sweet Home
   GS: '15'
   Guide: true
-  Number of Gamers: 529
-  Percentage of Gamers: 28%
-  Ratio: 1.88
-  TA: '28'
+  Number of Gamers: 798
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '27'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -291,9 +291,9 @@ Base Game Achievements:
   Description: Shoot yourself with a Grab Turret 5 times
   GS: '15'
   Guide: true
-  Number of Gamers: 435
+  Number of Gamers: 634
   Percentage of Gamers: 23%
-  Ratio: 2.08
+  Ratio: 2.07
   TA: '31'
   Tags:
   - Offline Game Mode
@@ -302,10 +302,10 @@ Base Game Achievements:
   Description: Shoot your hand at Kissy Missy when she waves at you
   GS: '15'
   Guide: true
-  Number of Gamers: 362
-  Percentage of Gamers: 19%
-  Ratio: 2.28
-  TA: '34'
+  Number of Gamers: 554
+  Percentage of Gamers: 20%
+  Ratio: 2.21
+  TA: '33'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -313,7 +313,7 @@ Base Game Achievements:
   Description: Witness CatNap worshiping the Prototype
   GS: '10'
   Guide: true
-  Number of Gamers: 586
+  Number of Gamers: 848
   Percentage of Gamers: 31%
   Ratio: 1.79
   TA: '17'
@@ -324,9 +324,9 @@ Base Game Achievements:
   Description: Shoot a flare at every Smiling Critter variant
   GS: '20'
   Guide: true
-  Number of Gamers: 1170
-  Percentage of Gamers: 62%
-  Ratio: 1.26
+  Number of Gamers: 1674
+  Percentage of Gamers: 61%
+  Ratio: 1.27
   TA: '25'
   Tags:
   - Offline Game Mode
@@ -335,9 +335,9 @@ Base Game Achievements:
   Description: "Discover CatNap\u2019s secret lair"
   GS: '15'
   Guide: true
-  Number of Gamers: 590
-  Percentage of Gamers: 31%
-  Ratio: 1.78
+  Number of Gamers: 862
+  Percentage of Gamers: 32%
+  Ratio: 1.77
   TA: '26'
   Tags:
   - Offline Game Mode
@@ -346,7 +346,7 @@ Base Game Achievements:
   Description: Watch CatNap attack a Bunzo doll
   GS: '10'
   Guide: true
-  Number of Gamers: 863
+  Number of Gamers: 1250
   Percentage of Gamers: 46%
   Ratio: 1.47
   TA: '14'
@@ -357,34 +357,34 @@ Base Game Achievements:
   Description: Run around with CatNap for 1 minute
   GS: '20'
   Guide: true
-  Number of Gamers: 271
-  Percentage of Gamers: 14%
-  Ratio: 2.63
-  TA: '52'
+  Number of Gamers: 418
+  Percentage of Gamers: 15%
+  Ratio: 2.55
+  TA: '51'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 2.22
-Base TA: 2220
+Base Ratio: 2.124
+Base TA: 2124
 Delisted: false
 Developer: Pingle Studio
 Game Name: 'Poppy Playtime: Chapter 3'
 Genres: Action
 Install Size: 10910.0
-Number of Completions: 97
-Number of Gamers: 1879
+Number of Completions: 169
+Number of Gamers: 2722
 Overall Completion Time:
-- 16
-- 17
+- 12.0
+- 15.0
 Overall GS: 1000
-Overall Ratio: 2.22
-Overall TA: 2220
+Overall Ratio: 2.124
+Overall TA: 2124
 PDU: 0
-Percentage Completed: 5.16
+Percentage Completed: 6.21
 Publisher: Mob Entertainment
 Release Date: 20 September 2024
 Server Closure: false
-Site Rating: 4.69
+Site Rating: 4.6
 Update Achievements: []
 Walkthrough: false

@@ -1,353 +1,472 @@
 Add On Achievements: []
 Base Completion Time:
-- 4
-- 5
+- 6
+- 7
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: First Traces
   Description: Finish a HOP without any hints.
   GS: '27'
   Guide: false
-  Number of Gamers: 19
-  Percentage of Gamers: 90%
+  Number of Gamers: 39
+  Percentage of Gamers: 91%
   Ratio: 1.05
   TA: '28'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Trusty Path
   Description: Finish 3 HOPs without any hints.
   GS: '27'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 76%
-  Ratio: 1.15
-  TA: '31'
-  Tags: []
+  Number of Gamers: 33
+  Percentage of Gamers: 77%
+  Ratio: 1.14
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Cumulative +
 - Achievement Name: Sleuth's Sense of Smell
   Description: Finish 5 HOPs without any hints.
   GS: '27'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 67%
-  Ratio: 1.29
-  TA: '34'
-  Tags: []
+  Number of Gamers: 32
+  Percentage of Gamers: 74%
+  Ratio: 1.15
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Cumulative +
 - Achievement Name: I Passed By
   Description: Finish a HOP in one minute.
   GS: '27'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 19%
-  Ratio: 2.23
-  TA: '60'
-  Tags: []
+  Number of Gamers: 13
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '49'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Time/Date
 - Achievement Name: Saw It with One Eye
   Description: Finish 3 HOPs in a row in one minute each.
   GS: '27'
   Guide: false
-  Number of Gamers: 3
+  Number of Gamers: 6
   Percentage of Gamers: 14%
-  Ratio: 2.58
-  TA: '69'
-  Tags: []
+  Ratio: 2.67
+  TA: '72'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Time/Date
 - Achievement Name: Can't Hide Anything
   Description: Finish 5 HOPs in a row in one minute each.
   GS: '27'
   Guide: false
-  Number of Gamers: 3
+  Number of Gamers: 6
   Percentage of Gamers: 14%
-  Ratio: 2.58
-  TA: '69'
-  Tags: []
+  Ratio: 2.93
+  TA: '79'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Time/Date
 - Achievement Name: Help Yourself
   Description: Find 100 objects.
   GS: '27'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 62%
-  Ratio: 1.24
-  TA: '33'
-  Tags: []
+  Number of Gamers: 31
+  Percentage of Gamers: 72%
+  Ratio: 1.17
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: I Don't Need Doors
   Description: Finish a HOP using only the alternate puzzle.
   GS: '27'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 67%
-  Ratio: 1.24
-  TA: '33'
-  Tags: []
+  Number of Gamers: 27
+  Percentage of Gamers: 63%
+  Ratio: 1.26
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Accuracy of a Sapper
   Description: No wrong selections in a HOP.
   GS: '27'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 62%
-  Ratio: 1.29
+  Number of Gamers: 26
+  Percentage of Gamers: 60%
+  Ratio: 1.28
   TA: '34'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Playing with Fire
   Description: Complete 5 mini-games without skipping.
   GS: '27'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 67%
-  Ratio: 1.29
-  TA: '34'
-  Tags: []
+  Number of Gamers: 32
+  Percentage of Gamers: 74%
+  Ratio: 1.15
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Cumulative +
 - Achievement Name: Key to the Solution
   Description: Complete 10 mini-games without skipping.
   GS: '27'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 57%
-  Ratio: 1.34
-  TA: '36'
-  Tags: []
+  Number of Gamers: 30
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '32'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Cumulative +
 - Achievement Name: Proof on Fingers
   Description: Complete a mini-game in one minute.
   GS: '27'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 81%
-  Ratio: 1.11
-  TA: '30'
-  Tags: []
+  Number of Gamers: 36
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Time/Date
 - Achievement Name: Best on the Shooting Range
   Description: Find 3 hidden objects in 3 seconds.
   GS: '27'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 52%
-  Ratio: 1.41
-  TA: '38'
-  Tags: []
+  Number of Gamers: 23
+  Percentage of Gamers: 53%
+  Ratio: 1.36
+  TA: '36'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Time/Date
 - Achievement Name: Shooting Champion
   Description: Find 5 hidden objects in 5 seconds.
   GS: '27'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 19%
-  Ratio: 2.23
-  TA: '60'
-  Tags: []
+  Number of Gamers: 11
+  Percentage of Gamers: 26%
+  Ratio: 2.07
+  TA: '55'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Time/Date
 - Achievement Name: Sniper
   Description: Find 10 hidden objects in 10 seconds.
   GS: '27'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 10%
-  Ratio: 3.16
-  TA: '85'
-  Tags: []
+  Number of Gamers: 7
+  Percentage of Gamers: 16%
+  Ratio: 2.67
+  TA: '72'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Time/Date
 - Achievement Name: Same Face!
   Description: Use fake documents.
   GS: '27'
   Guide: false
-  Number of Gamers: 17
+  Number of Gamers: 35
   Percentage of Gamers: 81%
-  Ratio: 1.11
-  TA: '30'
-  Tags: []
+  Ratio: 1.1
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Suspiciously Low Price
   Description: Learn about the Ministry's shady dealings.
   GS: '27'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 76%
-  Ratio: 1.15
-  TA: '31'
-  Tags: []
+  Number of Gamers: 34
+  Percentage of Gamers: 79%
+  Ratio: 1.12
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Don't peek!
   Description: Disable the motion detector.
   GS: '27'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 71%
-  Ratio: 1.24
-  TA: '33'
-  Tags: []
+  Number of Gamers: 32
+  Percentage of Gamers: 74%
+  Ratio: 1.15
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Let's go!
   Description: Get the helicopter remote control.
   GS: '27'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 67%
-  Ratio: 1.24
-  TA: '33'
-  Tags: []
+  Number of Gamers: 31
+  Percentage of Gamers: 72%
+  Ratio: 1.17
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Echoes of the Past
   Description: Find out about Victor Blackrose.
   GS: '27'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 52%
-  Ratio: 1.49
-  TA: '40'
-  Tags: []
+  Number of Gamers: 25
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '35'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: What a Catch!
   Description: Pull out the ID with a hook.
   GS: '27'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 62%
-  Ratio: 1.24
-  TA: '33'
-  Tags: []
+  Number of Gamers: 31
+  Percentage of Gamers: 72%
+  Ratio: 1.17
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: DNA Analysis
   Description: Analyze the blood on the clue.
   GS: '27'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 62%
-  Ratio: 1.24
-  TA: '33'
-  Tags: []
+  Number of Gamers: 31
+  Percentage of Gamers: 72%
+  Ratio: 1.17
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Old Tricks
   Description: Play with a cat.
   GS: '27'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 57%
-  Ratio: 1.29
-  TA: '34'
-  Tags: []
+  Number of Gamers: 31
+  Percentage of Gamers: 72%
+  Ratio: 1.17
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Secrets Unveiled
   Description: Find out about the victim's cause of death.
   GS: '27'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 57%
-  Ratio: 1.29
-  TA: '34'
-  Tags: []
+  Number of Gamers: 31
+  Percentage of Gamers: 72%
+  Ratio: 1.17
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Battle of the Dark Forces
   Description: Find out about the mystic's competition.
   GS: '27'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 57%
-  Ratio: 1.29
-  TA: '34'
-  Tags: []
+  Number of Gamers: 31
+  Percentage of Gamers: 72%
+  Ratio: 1.17
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Follow the trail
   Description: Learn about Woods' movements.
   GS: '27'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 57%
-  Ratio: 1.29
-  TA: '34'
-  Tags: []
+  Number of Gamers: 30
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '32'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Voice of Reason
   Description: Read the note of disapproval.
   GS: '27'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 52%
-  Ratio: 1.34
-  TA: '36'
-  Tags: []
+  Number of Gamers: 29
+  Percentage of Gamers: 67%
+  Ratio: 1.21
+  TA: '32'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Look, there's a bird!
   Description: Distract the guard with a vacuum cleaner.
   GS: '27'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 48%
-  Ratio: 1.41
-  TA: '38'
-  Tags: []
+  Number of Gamers: 29
+  Percentage of Gamers: 67%
+  Ratio: 1.21
+  TA: '32'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Pretty illegal
   Description: Read the contract.
   GS: '27'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 48%
-  Ratio: 1.41
-  TA: '38'
-  Tags: []
+  Number of Gamers: 29
+  Percentage of Gamers: 67%
+  Ratio: 1.21
+  TA: '32'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
 - Achievement Name: Truth wins
   Description: Learn about blackmail.
   GS: '27'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 48%
-  Ratio: 1.41
-  TA: '38'
-  Tags: []
+  Number of Gamers: 29
+  Percentage of Gamers: 67%
+  Ratio: 1.21
+  TA: '32'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Top Secret
   Description: Read the Blackrose case
   GS: '27'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 33%
-  Ratio: 1.69
-  TA: '45'
-  Tags: []
+  Number of Gamers: 25
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '35'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Till every last minute
   Description: Reconstruct the chain of events
   GS: '27'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 33%
-  Ratio: 1.69
-  TA: '45'
-  Tags: []
+  Number of Gamers: 25
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '35'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Lovely hater
   Description: Read the hate letters
   GS: '27'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 29%
-  Ratio: 1.82
-  TA: '49'
-  Tags: []
+  Number of Gamers: 24
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '36'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Maybe it's not for you?
   Description: Read some disappointing reviews
   GS: '27'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 29%
-  Ratio: 1.82
-  TA: '49'
-  Tags: []
+  Number of Gamers: 23
+  Percentage of Gamers: 53%
+  Ratio: 1.36
+  TA: '36'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: And then...a twist!
   Description: Learned about Marty's motives
   GS: '27'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 24%
-  Ratio: 2.0
-  TA: '54'
-  Tags: []
+  Number of Gamers: 21
+  Percentage of Gamers: 49%
+  Ratio: 1.43
+  TA: '38'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Case Solved!
   Description: Obtain all other achievements.
   GS: '55'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 10%
-  Ratio: 3.16
-  TA: '173'
-  Tags: []
-Base Ratio: 1.608
-Base TA: 1608
+  Number of Gamers: 6
+  Percentage of Gamers: 14%
+  Ratio: 2.93
+  TA: '161'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 1.455
+Base TA: 1455
 Delisted: false
 Developer: Domini Games, Mataboo
 Game Name: 'Unsolved Case: Above the Law Collector''s Edition'
 Genres: Adventure, Point & Click
 Install Size: 3050.0
-Number of Completions: 2
-Number of Gamers: 21
+Number of Completions: 6
+Number of Gamers: 43
 Overall Completion Time:
-- 4
-- 5
+- 6
+- 7
 Overall GS: 1000
-Overall Ratio: 1.608
-Overall TA: 1608
+Overall Ratio: 1.455
+Overall TA: 1455
 PDU: 0
-Percentage Completed: 9.52
+Percentage Completed: 13.95
 Publisher: Legacy Games
 Release Date: 14 February 2025
 Server Closure: false
-Site Rating: None
+Site Rating: 4.0
 Update Achievements: []
 Walkthrough: false

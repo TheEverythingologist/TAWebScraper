@@ -1,16 +1,16 @@
 Add On Achievements: []
 Base Completion Time:
-- 13
-- 14
+- 6.0
+- 8.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Down from the Mountain
   Description: Unlock the Second Letter
   GS: '20'
   Guide: false
-  Number of Gamers: 87
-  Percentage of Gamers: 58%
-  Ratio: 1.31
+  Number of Gamers: 123
+  Percentage of Gamers: 56%
+  Ratio: 1.33
   TA: '26'
   Tags:
   - Offline Mode
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Unlock the Third Letter
   GS: '20'
   Guide: false
-  Number of Gamers: 57
-  Percentage of Gamers: 38%
-  Ratio: 1.62
-  TA: '32'
+  Number of Gamers: 90
+  Percentage of Gamers: 41%
+  Ratio: 1.55
+  TA: '31'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Unlock the Fourth Letter
   GS: '20'
   Guide: false
-  Number of Gamers: 49
-  Percentage of Gamers: 33%
-  Ratio: 1.74
-  TA: '34'
+  Number of Gamers: 79
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '33'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Unlock the Fifth Letter
   GS: '20'
   Guide: false
-  Number of Gamers: 43
-  Percentage of Gamers: 29%
-  Ratio: 1.86
-  TA: '37'
+  Number of Gamers: 69
+  Percentage of Gamers: 32%
+  Ratio: 1.78
+  TA: '35'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Unlock the Sixth Letter
   GS: '20'
   Guide: false
-  Number of Gamers: 42
-  Percentage of Gamers: 28%
-  Ratio: 1.88
-  TA: '37'
+  Number of Gamers: 64
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '36'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: Unlock the Seventh Letter
   GS: '20'
   Guide: false
-  Number of Gamers: 38
-  Percentage of Gamers: 25%
-  Ratio: 1.98
-  TA: '39'
+  Number of Gamers: 62
+  Percentage of Gamers: 28%
+  Ratio: 1.87
+  TA: '37'
   Tags:
   - Offline Mode
   - Single Player
@@ -80,10 +80,10 @@ Base Game Achievements:
   Description: Unlock the Eighth Letter
   GS: '45'
   Guide: false
-  Number of Gamers: 33
-  Percentage of Gamers: 22%
-  Ratio: 2.13
-  TA: '95'
+  Number of Gamers: 55
+  Percentage of Gamers: 25%
+  Ratio: 1.99
+  TA: '89'
   Tags:
   - Offline Mode
   - Single Player
@@ -93,10 +93,10 @@ Base Game Achievements:
   Description: Win 10 Skirmishes Battle
   GS: '20'
   Guide: true
-  Number of Gamers: 48
-  Percentage of Gamers: 32%
-  Ratio: 1.76
-  TA: '35'
+  Number of Gamers: 75
+  Percentage of Gamers: 34%
+  Ratio: 1.7
+  TA: '34'
   Tags:
   - Offline Mode
   - Single Player
@@ -105,10 +105,10 @@ Base Game Achievements:
   Description: Win 50 Skirmishes Battle
   GS: '45'
   Guide: true
-  Number of Gamers: 29
-  Percentage of Gamers: 19%
-  Ratio: 2.27
-  TA: '102'
+  Number of Gamers: 50
+  Percentage of Gamers: 23%
+  Ratio: 2.09
+  TA: '94'
   Tags:
   - Offline Mode
   - Single Player
@@ -117,10 +117,10 @@ Base Game Achievements:
   Description: Acquire 1500 Gold in total
   GS: '20'
   Guide: true
-  Number of Gamers: 50
-  Percentage of Gamers: 33%
-  Ratio: 1.73
-  TA: '34'
+  Number of Gamers: 80
+  Percentage of Gamers: 37%
+  Ratio: 1.65
+  TA: '33'
   Tags:
   - Offline Mode
   - Single Player
@@ -129,10 +129,10 @@ Base Game Achievements:
   Description: 'Unlock Secret Hero: Ruith'
   GS: '45'
   Guide: false
-  Number of Gamers: 25
-  Percentage of Gamers: 17%
-  Ratio: 2.44
-  TA: '110'
+  Number of Gamers: 44
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '100'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -140,10 +140,10 @@ Base Game Achievements:
   Description: 'Unlock Secret Hero: Zephiriel'
   GS: '45'
   Guide: false
-  Number of Gamers: 39
-  Percentage of Gamers: 26%
-  Ratio: 1.96
-  TA: '88'
+  Number of Gamers: 64
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '83'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -151,10 +151,10 @@ Base Game Achievements:
   Description: 'Unlock Secret Hero: Jachim'
   GS: '45'
   Guide: false
-  Number of Gamers: 47
-  Percentage of Gamers: 31%
-  Ratio: 1.78
-  TA: '80'
+  Number of Gamers: 77
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '75'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -162,10 +162,10 @@ Base Game Achievements:
   Description: 'Unlock Secret Hero: Sachael'
   GS: '45'
   Guide: false
-  Number of Gamers: 41
-  Percentage of Gamers: 27%
-  Ratio: 1.91
-  TA: '86'
+  Number of Gamers: 66
+  Percentage of Gamers: 30%
+  Ratio: 1.82
+  TA: '81'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -173,10 +173,10 @@ Base Game Achievements:
   Description: Unlock all Heroes
   GS: '80'
   Guide: true
-  Number of Gamers: 25
-  Percentage of Gamers: 17%
-  Ratio: 2.44
-  TA: '195'
+  Number of Gamers: 43
+  Percentage of Gamers: 20%
+  Ratio: 2.25
+  TA: '180'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -184,9 +184,9 @@ Base Game Achievements:
   Description: Win a mission with a Ballista shot
   GS: '20'
   Guide: false
-  Number of Gamers: 85
-  Percentage of Gamers: 57%
-  Ratio: 1.32
+  Number of Gamers: 123
+  Percentage of Gamers: 56%
+  Ratio: 1.33
   TA: '26'
   Tags:
   - Offline Game Mode
@@ -195,10 +195,10 @@ Base Game Achievements:
   Description: Unlock all Fire Projectile types
   GS: '45'
   Guide: false
-  Number of Gamers: 35
-  Percentage of Gamers: 23%
-  Ratio: 2.07
-  TA: '93'
+  Number of Gamers: 58
+  Percentage of Gamers: 26%
+  Ratio: 1.94
+  TA: '87'
   Tags:
   - Offline Mode
   - Single Player
@@ -207,10 +207,10 @@ Base Game Achievements:
   Description: Unlock all Ice Projectile types
   GS: '45'
   Guide: false
-  Number of Gamers: 35
-  Percentage of Gamers: 23%
-  Ratio: 2.07
-  TA: '93'
+  Number of Gamers: 53
+  Percentage of Gamers: 24%
+  Ratio: 2.03
+  TA: '91'
   Tags:
   - Offline Mode
   - Single Player
@@ -219,10 +219,10 @@ Base Game Achievements:
   Description: Unlock Poison Projectile types
   GS: '45'
   Guide: false
-  Number of Gamers: 39
-  Percentage of Gamers: 26%
-  Ratio: 1.96
-  TA: '88'
+  Number of Gamers: 62
+  Percentage of Gamers: 28%
+  Ratio: 1.87
+  TA: '84'
   Tags:
   - Offline Mode
   - Single Player
@@ -231,7 +231,7 @@ Base Game Achievements:
   Description: Mine 500 Crystals
   GS: '20'
   Guide: false
-  Number of Gamers: 145
+  Number of Gamers: 213
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '20'
@@ -243,10 +243,10 @@ Base Game Achievements:
   Description: Acquire 2000 Crystals in a single battle
   GS: '30'
   Guide: false
-  Number of Gamers: 42
-  Percentage of Gamers: 28%
-  Ratio: 1.88
-  TA: '56'
+  Number of Gamers: 67
+  Percentage of Gamers: 31%
+  Ratio: 1.8
+  TA: '54'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -254,7 +254,7 @@ Base Game Achievements:
   Description: Mine a Crystal beside the enemy base
   GS: '30'
   Guide: false
-  Number of Gamers: 148
+  Number of Gamers: 217
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '30'
@@ -265,8 +265,8 @@ Base Game Achievements:
   Description: Have a Miner survive for 2 minutes
   GS: '30'
   Guide: false
-  Number of Gamers: 135
-  Percentage of Gamers: 90%
+  Number of Gamers: 195
+  Percentage of Gamers: 89%
   Ratio: 1.05
   TA: '31'
   Tags:
@@ -276,10 +276,10 @@ Base Game Achievements:
   Description: Win a Battle with 7 fully upgraded troops
   GS: '45'
   Guide: true
-  Number of Gamers: 37
-  Percentage of Gamers: 25%
-  Ratio: 2.01
-  TA: '90'
+  Number of Gamers: 59
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '86'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -287,10 +287,10 @@ Base Game Achievements:
   Description: Have a unit attack 5 enemies at the same time
   GS: '45'
   Guide: false
-  Number of Gamers: 45
-  Percentage of Gamers: 30%
-  Ratio: 1.82
-  TA: '82'
+  Number of Gamers: 72
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '78'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -298,10 +298,10 @@ Base Game Achievements:
   Description: Summon 1000 Troops
   GS: '20'
   Guide: true
-  Number of Gamers: 47
-  Percentage of Gamers: 31%
-  Ratio: 1.78
-  TA: '35'
+  Number of Gamers: 74
+  Percentage of Gamers: 34%
+  Ratio: 1.72
+  TA: '34'
   Tags:
   - Offline Mode
   - Single Player
@@ -310,10 +310,10 @@ Base Game Achievements:
   Description: Have 20 units on the screen
   GS: '40'
   Guide: false
-  Number of Gamers: 53
-  Percentage of Gamers: 35%
-  Ratio: 1.68
-  TA: '67'
+  Number of Gamers: 85
+  Percentage of Gamers: 39%
+  Ratio: 1.6
+  TA: '64'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -321,9 +321,9 @@ Base Game Achievements:
   Description: 50 Units lost during a mission
   GS: '30'
   Guide: false
-  Number of Gamers: 103
-  Percentage of Gamers: 69%
-  Ratio: 1.2
+  Number of Gamers: 149
+  Percentage of Gamers: 68%
+  Ratio: 1.21
   TA: '36'
   Tags:
   - Offline Game Mode
@@ -332,34 +332,34 @@ Base Game Achievements:
   Description: Defeat all type of Enemy Troops
   GS: '45'
   Guide: true
-  Number of Gamers: 53
-  Percentage of Gamers: 35%
-  Ratio: 1.68
-  TA: '75'
+  Number of Gamers: 85
+  Percentage of Gamers: 39%
+  Ratio: 1.6
+  TA: '72'
   Tags:
   - Offline Mode
   - Single Player
   - Collectable
-Base Ratio: 1.852
-Base TA: 1852
+Base Ratio: 1.76
+Base TA: 1760
 Delisted: false
 Developer: Makee, Beast Games
 Game Name: Rise Eterna War
 Genres: Management
 Install Size: 1470.0
-Number of Completions: 23
-Number of Gamers: 150
+Number of Completions: 39
+Number of Gamers: 219
 Overall Completion Time:
-- 13
-- 14
+- 6.0
+- 8.0
 Overall GS: 1000
-Overall Ratio: 1.852
-Overall TA: 1852
+Overall Ratio: 1.76
+Overall TA: 1760
 PDU: 0
-Percentage Completed: 15.33
+Percentage Completed: 17.81
 Publisher: Forever Entertainment
 Release Date: 22 August 2024
 Server Closure: false
-Site Rating: 3.86
+Site Rating: 3.67
 Update Achievements: []
 Walkthrough: false

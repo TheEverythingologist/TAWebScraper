@@ -1,16 +1,190 @@
-Add On Achievements: []
+Add On Achievements:
+- Achievement Name: Opening Salvo
+  Description: 'Complete The Voice Beyond Chapter 1: Aftermath.'
+  GS: '15'
+  Guide: false
+  Number of Gamers: 27
+  Percentage of Gamers: 90%
+  Ratio: 4.56
+  TA: '68'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Resistance on Rails
+  Description: 'Complete The Voice Beyond Chapter 2: Safe Haven.'
+  GS: '15'
+  Guide: false
+  Number of Gamers: 25
+  Percentage of Gamers: 83%
+  Ratio: 4.74
+  TA: '71'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: End of Line
+  Description: 'Complete The Voice Beyond Chapter 3: Return to Sender.'
+  GS: '50'
+  Guide: false
+  Number of Gamers: 23
+  Percentage of Gamers: 77%
+  Ratio: 4.94
+  TA: '247'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Stay with me!
+  Description: 'Do not allow any Emergency Patient to die in The Voice Beyond Chapter
+    1: Aftermath.'
+  GS: '15'
+  Guide: false
+  Number of Gamers: 26
+  Percentage of Gamers: 87%
+  Ratio: 4.84
+  TA: '72'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: See it, Say it, Sorted
+  Description: 'Disintegrate 5 Saboteurs before they perform any sabotage in The Voice
+    Beyond Chapter 2: Safe Haven.'
+  GS: '15'
+  Guide: false
+  Number of Gamers: 20
+  Percentage of Gamers: 67%
+  Ratio: 5.3
+  TA: '79'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The Best Form of Defense
+  Description: Defeat the VOICE without clearing the final set of mutated conditions
+    in The Voice Beyond Chapter 3.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 23
+  Percentage of Gamers: 77%
+  Ratio: 4.94
+  TA: '74'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Deny them your essence
+  Description: 'Achieve a 5-star hospital rating in The Voice Beyond Chapter 1: Aftermath..'
+  GS: '30'
+  Guide: false
+  Number of Gamers: 24
+  Percentage of Gamers: 80%
+  Ratio: 4.84
+  TA: '145'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
+- Achievement Name: Safest Spot in the Galaxy
+  Description: 'Achieve a 5-star hospital rating in The Voice Beyond Chapter 2: Safe
+    Haven.'
+  GS: '30'
+  Guide: false
+  Number of Gamers: 21
+  Percentage of Gamers: 70%
+  Ratio: 5.17
+  TA: '155'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
+- Achievement Name: Silence is Golden
+  Description: 'Achieve a 5-star hospital rating in The Voice Beyond Chapter 3: Return
+    to Sender.'
+  GS: '30'
+  Guide: false
+  Number of Gamers: 18
+  Percentage of Gamers: 60%
+  Ratio: 5.59
+  TA: '167'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
+- Achievement Name: Seeing the Big Board
+  Description: 'Achieve a 5-star hospital rating in Challenge Mode in The Voice Beyond
+    Chapter 1: Aftermath..'
+  GS: '10'
+  Guide: false
+  Number of Gamers: 13
+  Percentage of Gamers: 43%
+  Ratio: 6.58
+  TA: '65'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: It's All Coming Together
+  Description: 'Achieve a 5-star hospital rating in Challenge Mode in The Voice Beyond
+    Chapter 2: Safe Haven.'
+  GS: '10'
+  Guide: false
+  Number of Gamers: 12
+  Percentage of Gamers: 40%
+  Ratio: 6.85
+  TA: '68'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: 1337 H4x0r
+  Description: 'Achieve a 5-star hospital rating in Challenge Mode in The Voice Beyond
+    Chapter 3: Return to Sender.'
+  GS: '10'
+  Guide: false
+  Number of Gamers: 11
+  Percentage of Gamers: 37%
+  Ratio: 7.15
+  TA: '71'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Still Gotta Catch 'Em All
+  Description: Encounter all 12 New conditions in The Voice Beyond.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 26
+  Percentage of Gamers: 87%
+  Ratio: 4.65
+  TA: '69'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: On a Master Quest
+  Description: Fully research all 12 new conditions in The Voice Beyond.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 18
+  Percentage of Gamers: 60%
+  Ratio: 5.59
+  TA: '167'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 Base Completion Time:
 - 40.0
 - 50.0
-Base GS: 1000
+Base GS: 1185
 Base Game Achievements:
 - Achievement Name: Welcome to Galacticare
   Description: 'Complete Chapter 1: Orientation.'
   GS: '15'
   Guide: true
-  Number of Gamers: 7731
+  Number of Gamers: 8404
   Percentage of Gamers: 77%
-  Ratio: 1.13
+  Ratio: 1.14
   TA: '17'
   Tags:
   - Offline Mode
@@ -20,7 +194,7 @@ Base Game Achievements:
   Description: 'Complete Chapter 2: Burning Moon.'
   GS: '15'
   Guide: true
-  Number of Gamers: 4022
+  Number of Gamers: 4412
   Percentage of Gamers: 40%
   Ratio: 1.57
   TA: '23'
@@ -32,9 +206,9 @@ Base Game Achievements:
   Description: 'Complete Chapter 3: Transport Tycoon.'
   GS: '15'
   Guide: true
-  Number of Gamers: 2640
+  Number of Gamers: 2884
   Percentage of Gamers: 26%
-  Ratio: 1.95
+  Ratio: 1.94
   TA: '29'
   Tags:
   - Offline Mode
@@ -44,10 +218,10 @@ Base Game Achievements:
   Description: 'Complete Chapter 4: Big Farma.'
   GS: '15'
   Guide: true
-  Number of Gamers: 1840
+  Number of Gamers: 2016
   Percentage of Gamers: 18%
   Ratio: 2.33
-  TA: '35'
+  TA: '34'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,9 +230,9 @@ Base Game Achievements:
   Description: 'Complete Chapter 5: Pyre Sale.'
   GS: '15'
   Guide: true
-  Number of Gamers: 1441
-  Percentage of Gamers: 14%
-  Ratio: 2.63
+  Number of Gamers: 1591
+  Percentage of Gamers: 15%
+  Ratio: 2.62
   TA: '39'
   Tags:
   - Offline Mode
@@ -68,10 +242,10 @@ Base Game Achievements:
   Description: 'Complete Chapter 6: Many Me.'
   GS: '15'
   Guide: true
-  Number of Gamers: 1165
+  Number of Gamers: 1304
   Percentage of Gamers: 12%
-  Ratio: 2.93
-  TA: '44'
+  Ratio: 2.89
+  TA: '43'
   Tags:
   - Offline Mode
   - Single Player
@@ -80,10 +254,10 @@ Base Game Achievements:
   Description: 'Complete Chapter 7: Mother.'
   GS: '15'
   Guide: true
-  Number of Gamers: 1043
-  Percentage of Gamers: 10%
-  Ratio: 3.1
-  TA: '46'
+  Number of Gamers: 1173
+  Percentage of Gamers: 11%
+  Ratio: 3.05
+  TA: '45'
   Tags:
   - Offline Mode
   - Single Player
@@ -92,10 +266,10 @@ Base Game Achievements:
   Description: 'Complete Chapter 8: One Species'' Trash.'
   GS: '15'
   Guide: true
-  Number of Gamers: 852
-  Percentage of Gamers: 8%
-  Ratio: 3.43
-  TA: '51'
+  Number of Gamers: 966
+  Percentage of Gamers: 9%
+  Ratio: 3.36
+  TA: '50'
   Tags:
   - Offline Mode
   - Single Player
@@ -104,10 +278,10 @@ Base Game Achievements:
   Description: 'Complete Chapter 9: The Fourth Wall.'
   GS: '15'
   Guide: true
-  Number of Gamers: 772
+  Number of Gamers: 872
   Percentage of Gamers: 8%
-  Ratio: 3.6
-  TA: '54'
+  Ratio: 3.54
+  TA: '53'
   Tags:
   - Offline Mode
   - Single Player
@@ -116,10 +290,10 @@ Base Game Achievements:
   Description: 'Complete Chapter 10: Tick Tock.'
   GS: '15'
   Guide: true
-  Number of Gamers: 712
+  Number of Gamers: 808
   Percentage of Gamers: 7%
-  Ratio: 3.75
-  TA: '56'
+  Ratio: 3.68
+  TA: '55'
   Tags:
   - Offline Mode
   - Single Player
@@ -128,10 +302,10 @@ Base Game Achievements:
   Description: 'Complete Chapter 11: The Loamcore.'
   GS: '100'
   Guide: true
-  Number of Gamers: 672
+  Number of Gamers: 768
   Percentage of Gamers: 7%
-  Ratio: 3.86
-  TA: '386'
+  Ratio: 3.77
+  TA: '377'
   Tags:
   - Offline Mode
   - Single Player
@@ -141,9 +315,9 @@ Base Game Achievements:
     \ 1: Orientation."
   GS: '15'
   Guide: true
-  Number of Gamers: 2777
-  Percentage of Gamers: 28%
-  Ratio: 1.9
+  Number of Gamers: 2985
+  Percentage of Gamers: 27%
+  Ratio: 1.91
   TA: '28'
   Tags:
   - Offline Game Mode
@@ -153,7 +327,7 @@ Base Game Achievements:
     Moon.'
   GS: '15'
   Guide: true
-  Number of Gamers: 3435
+  Number of Gamers: 3761
   Percentage of Gamers: 34%
   Ratio: 1.7
   TA: '25'
@@ -164,9 +338,9 @@ Base Game Achievements:
   Description: 'Place six teleporter pads in Chapter 3: Transport Tycoon.'
   GS: '15'
   Guide: true
-  Number of Gamers: 1375
+  Number of Gamers: 1517
   Percentage of Gamers: 14%
-  Ratio: 2.7
+  Ratio: 2.68
   TA: '40'
   Tags:
   - Offline Game Mode
@@ -176,7 +350,7 @@ Base Game Achievements:
     Farma.'
   GS: '15'
   Guide: true
-  Number of Gamers: 1634
+  Number of Gamers: 1793
   Percentage of Gamers: 16%
   Ratio: 2.47
   TA: '37'
@@ -187,9 +361,9 @@ Base Game Achievements:
   Description: 'Beat Salazon to all 4 milestone objectives in Chapter 5: Pyre Sale.'
   GS: '15'
   Guide: true
-  Number of Gamers: 1445
-  Percentage of Gamers: 14%
-  Ratio: 2.63
+  Number of Gamers: 1597
+  Percentage of Gamers: 15%
+  Ratio: 2.61
   TA: '39'
   Tags:
   - Offline Game Mode
@@ -198,10 +372,10 @@ Base Game Achievements:
   Description: 'Have 10 clones of the same doctor in Chapter 6: Many Me.'
   GS: '15'
   Guide: true
-  Number of Gamers: 1047
-  Percentage of Gamers: 10%
-  Ratio: 3.09
-  TA: '46'
+  Number of Gamers: 1171
+  Percentage of Gamers: 11%
+  Ratio: 3.05
+  TA: '45'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -210,10 +384,10 @@ Base Game Achievements:
     7: Mother.'
   GS: '15'
   Guide: true
-  Number of Gamers: 533
+  Number of Gamers: 602
   Percentage of Gamers: 5%
-  Ratio: 4.33
-  TA: '65'
+  Ratio: 4.26
+  TA: '63'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -221,10 +395,10 @@ Base Game Achievements:
   Description: 'Collect 10 Chitters in Chapter 8: One Species'' Trash.'
   GS: '15'
   Guide: true
-  Number of Gamers: 766
+  Number of Gamers: 860
   Percentage of Gamers: 8%
-  Ratio: 3.62
-  TA: '54'
+  Ratio: 3.56
+  TA: '53'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -232,10 +406,10 @@ Base Game Achievements:
   Description: 'Equip Retrograde skin on any character in Chapter 9: The Fourth Wall.'
   GS: '15'
   Guide: true
-  Number of Gamers: 418
+  Number of Gamers: 481
   Percentage of Gamers: 4%
-  Ratio: 4.9
-  TA: '73'
+  Ratio: 4.77
+  TA: '71'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -244,10 +418,10 @@ Base Game Achievements:
     10: Tick Tock.'
   GS: '15'
   Guide: true
-  Number of Gamers: 453
+  Number of Gamers: 535
   Percentage of Gamers: 5%
-  Ratio: 4.7
-  TA: '70'
+  Ratio: 4.52
+  TA: '67'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -256,153 +430,165 @@ Base Game Achievements:
     11: The Loamcore.'
   GS: '15'
   Guide: true
-  Number of Gamers: 359
+  Number of Gamers: 426
   Percentage of Gamers: 4%
-  Ratio: 5.28
-  TA: '79'
+  Ratio: 5.06
+  TA: '76'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Earth's Mightiest Doctors
   Description: 'Achieve a 5 star Hospital Rating in Chapter 1: Orientation.'
   GS: '30'
-  Guide: false
-  Number of Gamers: 1210
-  Percentage of Gamers: 12%
-  Ratio: 2.88
-  TA: '86'
+  Guide: true
+  Number of Gamers: 1385
+  Percentage of Gamers: 13%
+  Ratio: 2.81
+  TA: '84'
   Tags:
   - Offline Game Mode
   - Single Player
+  - Stackable
 - Achievement Name: Going Platinum
   Description: 'Achieve a 5 star hospital rating in Chapter 2: Burning Moon.'
   GS: '30'
   Guide: false
-  Number of Gamers: 993
+  Number of Gamers: 1143
   Percentage of Gamers: 10%
-  Ratio: 3.17
-  TA: '95'
+  Ratio: 3.09
+  TA: '92'
   Tags:
   - Offline Game Mode
   - Single Player
+  - Stackable
 - Achievement Name: First Class
   Description: 'Achieve a 5-star hospital rating in Chapter 3: Transport Tycoon.'
   GS: '30'
   Guide: false
-  Number of Gamers: 846
-  Percentage of Gamers: 8%
-  Ratio: 3.44
-  TA: '103'
+  Number of Gamers: 967
+  Percentage of Gamers: 9%
+  Ratio: 3.36
+  TA: '100'
   Tags:
   - Offline Game Mode
   - Single Player
+  - Stackable
 - Achievement Name: Organic
   Description: 'Achieve a 5-star hospital rating in Chapter 4: Big Farma.'
   GS: '30'
   Guide: false
-  Number of Gamers: 723
-  Percentage of Gamers: 7%
-  Ratio: 3.72
-  TA: '111'
+  Number of Gamers: 845
+  Percentage of Gamers: 8%
+  Ratio: 3.59
+  TA: '107'
   Tags:
   - Offline Game Mode
   - Single Player
+  - Stackable
 - Achievement Name: Business Avocado
   Description: 'Achieve a 5-star hospital rating in Chapter 5: Pyre Sale.'
   GS: '30'
   Guide: false
-  Number of Gamers: 619
-  Percentage of Gamers: 6%
-  Ratio: 4.02
-  TA: '120'
+  Number of Gamers: 723
+  Percentage of Gamers: 7%
+  Ratio: 3.89
+  TA: '116'
   Tags:
   - Offline Game Mode
   - Single Player
+  - Stackable
 - Achievement Name: Prison Architect
   Description: 'Achieve a 5-star hospital rating in Chapter 6: Many Me.'
   GS: '30'
   Guide: false
-  Number of Gamers: 509
+  Number of Gamers: 594
   Percentage of Gamers: 5%
-  Ratio: 4.44
-  TA: '133'
+  Ratio: 4.29
+  TA: '128'
   Tags:
   - Offline Game Mode
   - Single Player
+  - Stackable
 - Achievement Name: Daughter
   Description: 'Achieve a 5-star hospital rating in Chapter 7: Mother.'
   GS: '30'
   Guide: false
-  Number of Gamers: 513
+  Number of Gamers: 598
   Percentage of Gamers: 5%
-  Ratio: 4.42
-  TA: '132'
+  Ratio: 4.27
+  TA: '128'
   Tags:
   - Offline Game Mode
   - Single Player
+  - Stackable
 - Achievement Name: Upcycle
   Description: 'Achieve a 5-star hospital rating in Chapter 8: One Species'' Trash.'
   GS: '30'
   Guide: true
-  Number of Gamers: 352
+  Number of Gamers: 419
   Percentage of Gamers: 4%
-  Ratio: 5.34
-  TA: '160'
+  Ratio: 5.11
+  TA: '153'
   Tags:
   - Offline Game Mode
   - Single Player
+  - Stackable
 - Achievement Name: High Score
   Description: 'Achieve a 5-star hospital rating in Chapter 9: The Fourth Wall.'
   GS: '30'
   Guide: false
-  Number of Gamers: 559
+  Number of Gamers: 636
   Percentage of Gamers: 6%
-  Ratio: 4.23
-  TA: '127'
+  Ratio: 4.14
+  TA: '124'
   Tags:
   - Offline Game Mode
   - Single Player
+  - Stackable
 - Achievement Name: Go. Hunt. Kill Cabal.
   Description: 'Achieve a 5-star hospital rating in Chapter 10: Tick Tock.'
   GS: '30'
   Guide: false
-  Number of Gamers: 428
-  Percentage of Gamers: 4%
-  Ratio: 4.84
-  TA: '145'
+  Number of Gamers: 501
+  Percentage of Gamers: 5%
+  Ratio: 4.67
+  TA: '140'
   Tags:
   - Offline Game Mode
   - Single Player
+  - Stackable
 - Achievement Name: There and Baz Again
   Description: 'Achieve a 5-star hospital rating in Chapter 11: The Loamcore.'
   GS: '30'
   Guide: false
-  Number of Gamers: 401
+  Number of Gamers: 469
   Percentage of Gamers: 4%
-  Ratio: 5.0
-  TA: '150'
+  Ratio: 4.83
+  TA: '144'
   Tags:
   - Offline Game Mode
   - Single Player
+  - Stackable
 - Achievement Name: My Pet Hospital
   Description: Achieve a 5-star rating in 5 sandbox levels.
   GS: '50'
   Guide: true
-  Number of Gamers: 284
+  Number of Gamers: 332
   Percentage of Gamers: 3%
-  Ratio: 5.94
-  TA: '297'
+  Ratio: 5.74
+  TA: '287'
   Tags:
   - Offline Game Mode
   - Single Player
+  - Stackable
 - Achievement Name: Gotta Catch 'Em All
   Description: Encounter all 50 conditions in the Pathodex. Seek medical assistance.
   GS: '30'
   Guide: true
-  Number of Gamers: 701
+  Number of Gamers: 809
   Percentage of Gamers: 7%
-  Ratio: 3.78
-  TA: '113'
+  Ratio: 3.67
+  TA: '110'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -410,10 +596,10 @@ Base Game Achievements:
   Description: Fully research all 50 conditions in the Pathodex.
   GS: '50'
   Guide: true
-  Number of Gamers: 293
+  Number of Gamers: 349
   Percentage of Gamers: 3%
-  Ratio: 5.85
-  TA: '292'
+  Ratio: 5.6
+  TA: '280'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -421,22 +607,23 @@ Base Game Achievements:
   Description: Max out your reputation with all 7 species.
   GS: '50'
   Guide: true
-  Number of Gamers: 271
+  Number of Gamers: 321
   Percentage of Gamers: 3%
-  Ratio: 6.08
-  TA: '304'
+  Ratio: 5.83
+  TA: '291'
   Tags:
   - Offline Mode
   - Single Player
   - Level
+  - Time Consuming
 - Achievement Name: Do No Harm
   Description: Kill a patient. Oops.
   GS: '15'
   Guide: true
-  Number of Gamers: 6174
-  Percentage of Gamers: 62%
-  Ratio: 1.27
-  TA: '19'
+  Number of Gamers: 6892
+  Percentage of Gamers: 63%
+  Ratio: 1.26
+  TA: '18'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -444,10 +631,10 @@ Base Game Achievements:
   Description: Earn 10,000,000 credits. Space has, in fact, been corrupted by capitalism.
   GS: '30'
   Guide: false
-  Number of Gamers: 1311
+  Number of Gamers: 1451
   Percentage of Gamers: 13%
-  Ratio: 2.76
-  TA: '83'
+  Ratio: 2.74
+  TA: '82'
   Tags:
   - Offline Mode
   - Single Player
@@ -456,10 +643,10 @@ Base Game Achievements:
   Description: Have at least one doctor of each species in the same hospital.
   GS: '15'
   Guide: true
-  Number of Gamers: 899
+  Number of Gamers: 1020
   Percentage of Gamers: 9%
-  Ratio: 3.34
-  TA: '50'
+  Ratio: 3.27
+  TA: '49'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -467,33 +654,210 @@ Base Game Achievements:
   Description: Hire a psychopath. Look the other way.
   GS: '15'
   Guide: true
-  Number of Gamers: 6434
+  Number of Gamers: 7023
   Percentage of Gamers: 64%
   Ratio: 1.24
   TA: '18'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 3.874
-Base TA: 3874
+Base Ratio: 7.740084388185654
+Base TA: 9172
 Delisted: false
 Developer: Brightrock Games
 Game Name: Galacticare
 Genres: Simulation, Management
-Install Size: 26580.0
-Number of Completions: 209
-Number of Gamers: 10039
+Install Size: 28710.0
+Number of Completions: 7
+Number of Gamers: 10953
 Overall Completion Time:
 - 40.0
 - 50.0
-Overall GS: 1000
-Overall Ratio: 3.874
-Overall TA: 3874
+Overall GS: 1475
+Overall Ratio: 7.247457627118644
+Overall TA: 10690
 PDU: 0
-Percentage Completed: 2.08
+Percentage Completed: 0.06
 Publisher: CULT Games
 Release Date: 23 May 2024
 Server Closure: false
-Site Rating: 3.61
-Update Achievements: []
+Site Rating: 3.62
+Update Achievements:
+- Achievement Name: Earth's Mightiester Doctors
+  Description: 'Achieve a 5-star hospital rating in Challenge Mode in Chapter 1: Orientation.'
+  GS: '10'
+  Guide: false
+  Number of Gamers: 23
+  Percentage of Gamers: 0%
+  Ratio: 21.81
+  TA: '218'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Multiplatinum Medicine
+  Description: 'Achieve a 5-star hospital rating in Challenge Mode in Chapter 2: Burning
+    Moon.'
+  GS: '10'
+  Guide: false
+  Number of Gamers: 19
+  Percentage of Gamers: 0%
+  Ratio: 24.0
+  TA: '240'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Fat Controller
+  Description: 'Achieve a 5-star hospital rating in Challenge Mode in Chapter 3: Transport
+    Tycoon.'
+  GS: '10'
+  Guide: false
+  Number of Gamers: 17
+  Percentage of Gamers: 0%
+  Ratio: 25.37
+  TA: '253'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Psychic Intuition
+  Description: 'Achieve a 5-star hospital rating in Challenge Mode in Chapter 4: Big
+    Farma.'
+  GS: '10'
+  Guide: false
+  Number of Gamers: 17
+  Percentage of Gamers: 0%
+  Ratio: 25.37
+  TA: '253'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Really Rubbing it In
+  Description: 'Achieve a 5-star hospital rating in Challenge Mode in Chapter 5: Pyre
+    Sale.'
+  GS: '10'
+  Guide: false
+  Number of Gamers: 13
+  Percentage of Gamers: 0%
+  Ratio: 29.01
+  TA: '290'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Life Sentence
+  Description: 'Achieve a 5-star hospital rating in Challenge Mode in Chapter 6: Many
+    Me.'
+  GS: '10'
+  Guide: false
+  Number of Gamers: 13
+  Percentage of Gamers: 0%
+  Ratio: 29.01
+  TA: '290'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: The World Whisperer
+  Description: 'Achieve a 5-star hospital rating in Challenge Mode in Chapter 7: Mother.'
+  GS: '10'
+  Guide: false
+  Number of Gamers: 13
+  Percentage of Gamers: 0%
+  Ratio: 29.01
+  TA: '290'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Salvage Supremacy
+  Description: 'Achieve a 5-star hospital rating in Challenge Mode in Chapter 8: One
+    Species'' Trash.'
+  GS: '10'
+  Guide: false
+  Number of Gamers: 13
+  Percentage of Gamers: 0%
+  Ratio: 29.01
+  TA: '290'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: World Record
+  Description: 'Achieve a 5-star hospital rating in Challenge Mode in Chapter 9: The
+    Fourth Wall.'
+  GS: '10'
+  Guide: false
+  Number of Gamers: 13
+  Percentage of Gamers: 0%
+  Ratio: 29.01
+  TA: '290'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Quickscoped the Cabal
+  Description: 'Achieve a 5-star hospital rating in Challenge Mode in Chapter 10:
+    Tick Tock.'
+  GS: '10'
+  Guide: false
+  Number of Gamers: 13
+  Percentage of Gamers: 0%
+  Ratio: 29.01
+  TA: '290'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: A Win to Remember
+  Description: 'Achieve a 5-star hospital rating in Challenge Mode in Chapter 11:
+    The Loamcore.'
+  GS: '10'
+  Guide: false
+  Number of Gamers: 13
+  Percentage of Gamers: 0%
+  Ratio: 29.01
+  TA: '290'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Superb Director of the Month
+  Description: Achieve a 5-star hospital rating in Challenge Mode on 5 levels.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 15
+  Percentage of Gamers: 0%
+  Ratio: 27.01
+  TA: '675'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Supreme Director of the Year
+  Description: Achieve a 5-star hospital rating in Challenge Mode on 15 levels.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 9
+  Percentage of Gamers: 0%
+  Ratio: 34.87
+  TA: 1,743
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
 Walkthrough: false

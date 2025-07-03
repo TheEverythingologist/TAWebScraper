@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- 131
-- 132
+- 120
+- 121
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Core Collector
   Description: Unlock all Die Cores.
   GS: '100'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 8%
-  Ratio: 3.55
-  TA: '355'
+  Number of Gamers: 10
+  Percentage of Gamers: 12%
+  Ratio: 2.91
+  TA: '291'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -19,10 +19,10 @@ Base Game Achievements:
   Description: Unlock all upgrades in the Sturgeon Lodge.
   GS: '100'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 5%
-  Ratio: 4.35
-  TA: '435'
+  Number of Gamers: 7
+  Percentage of Gamers: 8%
+  Ratio: 3.48
+  TA: '348'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -30,10 +30,10 @@ Base Game Achievements:
   Description: "You\u2019ve saved Tamarak Trail! But is there another way?"
   GS: '75'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 11%
-  Ratio: 3.08
-  TA: '231'
+  Number of Gamers: 12
+  Percentage of Gamers: 14%
+  Ratio: 2.66
+  TA: '199'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -41,10 +41,10 @@ Base Game Achievements:
   Description: Defeat the Teapot Hydra.
   GS: '50'
   Guide: false
-  Number of Gamers: 20
-  Percentage of Gamers: 26%
-  Ratio: 1.94
-  TA: '97'
+  Number of Gamers: 25
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '92'
   Tags:
   - Offline Mode
   - Single Player
@@ -53,7 +53,7 @@ Base Game Achievements:
   Description: Defeat the Ghost Hypnozard.
   GS: '50'
   Guide: false
-  Number of Gamers: 40
+  Number of Gamers: 45
   Percentage of Gamers: 53%
   Ratio: 1.37
   TA: '68'
@@ -65,7 +65,7 @@ Base Game Achievements:
   Description: Defeat the Raccoon Moose.
   GS: '50'
   Guide: false
-  Number of Gamers: 76
+  Number of Gamers: 85
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '50'
@@ -77,10 +77,10 @@ Base Game Achievements:
   Description: Perform an Infinite Combo.
   GS: '50'
   Guide: false
-  Number of Gamers: 36
-  Percentage of Gamers: 47%
-  Ratio: 1.45
-  TA: '72'
+  Number of Gamers: 42
+  Percentage of Gamers: 49%
+  Ratio: 1.42
+  TA: '71'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -88,10 +88,10 @@ Base Game Achievements:
   Description: Defeat the Source.
   GS: '50'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 11%
-  Ratio: 3.08
-  TA: '154'
+  Number of Gamers: 12
+  Percentage of Gamers: 14%
+  Ratio: 2.66
+  TA: '133'
   Tags:
   - Offline Mode
   - Single Player
@@ -99,11 +99,11 @@ Base Game Achievements:
 - Achievement Name: Trail's End
   Description: You have saved the Trail!
   GS: '100'
-  Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 1%
-  Ratio: 8.71
-  TA: '871'
+  Guide: true
+  Number of Gamers: 4
+  Percentage of Gamers: 5%
+  Ratio: 4.6
+  TA: '460'
   Tags:
   - Offline Mode
   - Single Player
@@ -112,10 +112,10 @@ Base Game Achievements:
   Description: Unlock all Dice Sides.
   GS: '100'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 1%
-  Ratio: 8.71
-  TA: '871'
+  Number of Gamers: 3
+  Percentage of Gamers: 4%
+  Ratio: 5.32
+  TA: '532'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -123,8 +123,8 @@ Base Game Achievements:
   Description: Win the battle in a single turn.
   GS: '50'
   Guide: false
-  Number of Gamers: 33
-  Percentage of Gamers: 43%
+  Number of Gamers: 37
+  Percentage of Gamers: 44%
   Ratio: 1.51
   TA: '75'
   Tags:
@@ -134,10 +134,10 @@ Base Game Achievements:
   Description: Beat the game with the Detective.
   GS: '75'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 11%
-  Ratio: 3.08
-  TA: '231'
+  Number of Gamers: 12
+  Percentage of Gamers: 14%
+  Ratio: 2.66
+  TA: '199'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -145,10 +145,10 @@ Base Game Achievements:
   Description: Beat the game with the Magician.
   GS: '75'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 1%
-  Ratio: 8.71
-  TA: '653'
+  Number of Gamers: 4
+  Percentage of Gamers: 5%
+  Ratio: 4.6
+  TA: '345'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -156,33 +156,33 @@ Base Game Achievements:
   Description: Beat the game with the Tracker.
   GS: '75'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 3%
-  Ratio: 6.16
-  TA: '462'
+  Number of Gamers: 5
+  Percentage of Gamers: 6%
+  Ratio: 4.12
+  TA: '309'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 4.625
-Base TA: 4625
+Base Ratio: 3.172
+Base TA: 3172
 Delisted: false
 Developer: Yarrow Games
 Game Name: Tamarak Trail
 Genres: Roguelite, Collectable Card Game
 Install Size: 2360.0
-Number of Completions: 1
-Number of Gamers: 76
+Number of Completions: 3
+Number of Gamers: 85
 Overall Completion Time:
-- 131
-- 132
+- 120
+- 121
 Overall GS: 1000
-Overall Ratio: 4.625
-Overall TA: 4625
+Overall Ratio: 3.172
+Overall TA: 3172
 PDU: 0
-Percentage Completed: 1.32
+Percentage Completed: 3.53
 Publisher: Versus Evil
 Release Date: 29 February 2024
 Server Closure: false
-Site Rating: 0.5
+Site Rating: 2.75
 Update Achievements: []
 Walkthrough: false

@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 1.0
-- 3.0
-Base GS: 3000
+- 3.5
+Base GS: 4000
 Base Game Achievements:
 - Achievement Name: The First One
   Description: Kill your first enemy
   GS: '30'
   Guide: false
-  Number of Gamers: 1437
+  Number of Gamers: 1872
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '30'
@@ -19,7 +19,7 @@ Base Game Achievements:
   Description: Defeat 15 snakes
   GS: '40'
   Guide: false
-  Number of Gamers: 1433
+  Number of Gamers: 1869
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '40'
@@ -31,8 +31,8 @@ Base Game Achievements:
   Description: Defeat 30 snakes
   GS: '40'
   Guide: false
-  Number of Gamers: 1430
-  Percentage of Gamers: 99%
+  Number of Gamers: 1867
+  Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '40'
   Tags:
@@ -43,8 +43,8 @@ Base Game Achievements:
   Description: Defeat 50 snakes
   GS: '60'
   Guide: false
-  Number of Gamers: 1430
-  Percentage of Gamers: 99%
+  Number of Gamers: 1867
+  Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '60'
   Tags:
@@ -55,8 +55,8 @@ Base Game Achievements:
   Description: Survive for 2 minutes in the same game
   GS: '40'
   Guide: false
-  Number of Gamers: 1429
-  Percentage of Gamers: 99%
+  Number of Gamers: 1865
+  Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '40'
   Tags:
@@ -66,8 +66,8 @@ Base Game Achievements:
   Description: Survive for 5 minutes in the same game
   GS: '40'
   Guide: false
-  Number of Gamers: 1412
-  Percentage of Gamers: 98%
+  Number of Gamers: 1846
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '40'
   Tags:
@@ -77,8 +77,8 @@ Base Game Achievements:
   Description: Survive for 9 minutes in the same game
   GS: '60'
   Guide: false
-  Number of Gamers: 1359
-  Percentage of Gamers: 94%
+  Number of Gamers: 1775
+  Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '61'
   Tags:
@@ -88,8 +88,8 @@ Base Game Achievements:
   Description: Reach the level 5
   GS: '40'
   Guide: false
-  Number of Gamers: 1428
-  Percentage of Gamers: 99%
+  Number of Gamers: 1864
+  Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '40'
   Tags:
@@ -100,7 +100,7 @@ Base Game Achievements:
   Description: Reach the level 10
   GS: '40'
   Guide: false
-  Number of Gamers: 1389
+  Number of Gamers: 1815
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '40'
@@ -112,7 +112,7 @@ Base Game Achievements:
   Description: Reach the level 15
   GS: '60'
   Guide: true
-  Number of Gamers: 1219
+  Number of Gamers: 1591
   Percentage of Gamers: 85%
   Ratio: 1.08
   TA: '65'
@@ -124,8 +124,8 @@ Base Game Achievements:
   Description: Defeat 15 living bush
   GS: '40'
   Guide: false
-  Number of Gamers: 1429
-  Percentage of Gamers: 99%
+  Number of Gamers: 1865
+  Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '40'
   Tags:
@@ -136,8 +136,8 @@ Base Game Achievements:
   Description: Defeat 30 living bush
   GS: '40'
   Guide: false
-  Number of Gamers: 1428
-  Percentage of Gamers: 99%
+  Number of Gamers: 1864
+  Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '40'
   Tags:
@@ -148,8 +148,8 @@ Base Game Achievements:
   Description: Defeat 50 living bush
   GS: '60'
   Guide: false
-  Number of Gamers: 1427
-  Percentage of Gamers: 99%
+  Number of Gamers: 1863
+  Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '60'
   Tags:
@@ -160,7 +160,7 @@ Base Game Achievements:
   Description: Defeat 15 bees
   GS: '40'
   Guide: false
-  Number of Gamers: 1424
+  Number of Gamers: 1861
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '40'
@@ -172,7 +172,7 @@ Base Game Achievements:
   Description: Defeat 30 bees
   GS: '40'
   Guide: false
-  Number of Gamers: 1423
+  Number of Gamers: 1859
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '40'
@@ -184,7 +184,7 @@ Base Game Achievements:
   Description: Defeat 50 bees
   GS: '60'
   Guide: false
-  Number of Gamers: 1420
+  Number of Gamers: 1856
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '60'
@@ -196,7 +196,7 @@ Base Game Achievements:
   Description: Defeat a wild thorn
   GS: '60'
   Guide: true
-  Number of Gamers: 1395
+  Number of Gamers: 1818
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '60'
@@ -207,7 +207,7 @@ Base Game Achievements:
   Description: Defeat King Wasp
   GS: '60'
   Guide: true
-  Number of Gamers: 1378
+  Number of Gamers: 1798
   Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '61'
@@ -218,9 +218,9 @@ Base Game Achievements:
   Description: Die 10 times
   GS: '30'
   Guide: false
-  Number of Gamers: 1201
-  Percentage of Gamers: 83%
-  Ratio: 1.09
+  Number of Gamers: 1599
+  Percentage of Gamers: 85%
+  Ratio: 1.08
   TA: '32'
   Tags:
   - Offline Mode
@@ -230,8 +230,8 @@ Base Game Achievements:
   Description: Buy the first upgrade
   GS: '40'
   Guide: false
-  Number of Gamers: 1386
-  Percentage of Gamers: 96%
+  Number of Gamers: 1819
+  Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '40'
   Tags:
@@ -242,8 +242,8 @@ Base Game Achievements:
   Description: Survive for 10 minutes in the same game run
   GS: '20'
   Guide: false
-  Number of Gamers: 1339
-  Percentage of Gamers: 93%
+  Number of Gamers: 1753
+  Percentage of Gamers: 94%
   Ratio: 1.03
   TA: '20'
   Tags:
@@ -253,9 +253,9 @@ Base Game Achievements:
   Description: Defeat Kong in a Cursed Spirits game run
   GS: '30'
   Guide: true
-  Number of Gamers: 868
-  Percentage of Gamers: 60%
-  Ratio: 1.28
+  Number of Gamers: 1143
+  Percentage of Gamers: 61%
+  Ratio: 1.27
   TA: '38'
   Tags:
   - Offline Game Mode
@@ -264,30 +264,30 @@ Base Game Achievements:
   Description: Defeat King Wasp in a Cursed Spirits game run
   GS: '30'
   Guide: true
-  Number of Gamers: 998
-  Percentage of Gamers: 69%
-  Ratio: 1.2
-  TA: '36'
+  Number of Gamers: 1308
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '35'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 1.0506666666666666
-Base TA: 3152
+Base Ratio: 1.1705
+Base TA: 4682
 Delisted: false
 Developer: Old School Vibes
 Game Name: Primal Survivors
 Genres: Roguelite
 Install Size: 868.0
-Number of Completions: 807
-Number of Gamers: 1439
+Number of Completions: 605
+Number of Gamers: 1872
 Overall Completion Time:
 - 1.0
-- 3.0
-Overall GS: 3000
-Overall Ratio: 1.0506666666666666
-Overall TA: 3152
+- 3.5
+Overall GS: 4000
+Overall Ratio: 1.1705
+Overall TA: 4682
 PDU: 0
-Percentage Completed: 56.08
+Percentage Completed: 32.32
 Publisher: AFIL Games
 Release Date: 20 June 2024
 Server Closure: false
@@ -297,10 +297,10 @@ Update Achievements:
   Description: Die 15 times
   GS: '200'
   Guide: true
-  Number of Gamers: 1167
-  Percentage of Gamers: 81%
-  Ratio: 1.11
-  TA: '222'
+  Number of Gamers: 1552
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '219'
   Tags:
   - Offline Mode
   - Single Player
@@ -309,10 +309,10 @@ Update Achievements:
   Description: Defeat 55 snakes
   GS: '200'
   Guide: false
-  Number of Gamers: 1392
-  Percentage of Gamers: 97%
+  Number of Gamers: 1829
+  Percentage of Gamers: 98%
   Ratio: 1.01
-  TA: '203'
+  TA: '202'
   Tags:
   - Offline Mode
   - Single Player
@@ -321,10 +321,10 @@ Update Achievements:
   Description: Defeat 55 bees
   GS: '200'
   Guide: false
-  Number of Gamers: 1382
-  Percentage of Gamers: 96%
+  Number of Gamers: 1819
+  Percentage of Gamers: 97%
   Ratio: 1.01
-  TA: '203'
+  TA: '202'
   Tags:
   - Offline Mode
   - Single Player
@@ -333,10 +333,10 @@ Update Achievements:
   Description: Defeat 55 living bush
   GS: '200'
   Guide: false
-  Number of Gamers: 1388
-  Percentage of Gamers: 96%
+  Number of Gamers: 1825
+  Percentage of Gamers: 97%
   Ratio: 1.01
-  TA: '203'
+  TA: '202'
   Tags:
   - Offline Mode
   - Single Player
@@ -345,10 +345,10 @@ Update Achievements:
   Description: Defeat 60 snakes
   GS: '200'
   Guide: false
-  Number of Gamers: 1392
-  Percentage of Gamers: 97%
+  Number of Gamers: 1829
+  Percentage of Gamers: 98%
   Ratio: 1.01
-  TA: '203'
+  TA: '202'
   Tags:
   - Offline Mode
   - Single Player
@@ -357,10 +357,10 @@ Update Achievements:
   Description: Die 20 times
   GS: '200'
   Guide: false
-  Number of Gamers: 1077
-  Percentage of Gamers: 75%
-  Ratio: 1.15
-  TA: '231'
+  Number of Gamers: 1471
+  Percentage of Gamers: 79%
+  Ratio: 1.12
+  TA: '225'
   Tags:
   - Offline Mode
   - Single Player
@@ -369,10 +369,10 @@ Update Achievements:
   Description: Defeat 65 snakes
   GS: '200'
   Guide: false
-  Number of Gamers: 1233
-  Percentage of Gamers: 86%
-  Ratio: 1.08
-  TA: '216'
+  Number of Gamers: 1702
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '209'
   Tags:
   - Offline Mode
   - Single Player
@@ -381,10 +381,10 @@ Update Achievements:
   Description: Defeat 60 bees
   GS: '200'
   Guide: false
-  Number of Gamers: 1226
-  Percentage of Gamers: 85%
-  Ratio: 1.08
-  TA: '216'
+  Number of Gamers: 1694
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '210'
   Tags:
   - Offline Mode
   - Single Player
@@ -393,10 +393,10 @@ Update Achievements:
   Description: Defeat 60 living bush
   GS: '200'
   Guide: false
-  Number of Gamers: 1229
-  Percentage of Gamers: 85%
-  Ratio: 1.08
-  TA: '216'
+  Number of Gamers: 1697
+  Percentage of Gamers: 91%
+  Ratio: 1.05
+  TA: '210'
   Tags:
   - Offline Mode
   - Single Player
@@ -405,10 +405,69 @@ Update Achievements:
   Description: Defeat 65 bees
   GS: '200'
   Guide: false
-  Number of Gamers: 1226
-  Percentage of Gamers: 85%
-  Ratio: 1.08
-  TA: '216'
+  Number of Gamers: 1694
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '210'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Wandering Spirit
+  Description: Die 25 times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 725
+  Percentage of Gamers: 39%
+  Ratio: 1.6
+  TA: '321'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Three for your Life
+  Description: Defeat 70 snakes
+  GS: '200'
+  Guide: false
+  Number of Gamers: 818
+  Percentage of Gamers: 44%
+  Ratio: 1.51
+  TA: '302'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: He ain't Never Been Caught
+  Description: Defeat 70 bees
+  GS: '200'
+  Guide: false
+  Number of Gamers: 811
+  Percentage of Gamers: 43%
+  Ratio: 1.51
+  TA: '303'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Eye of the tiger
+  Description: Survive for 15 minutes in the same game run
+  GS: '200'
+  Guide: false
+  Number of Gamers: 645
+  Percentage of Gamers: 34%
+  Ratio: 1.7
+  TA: '340'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Destined for Glory
+  Description: Defeat 65 living bush
+  GS: '200'
+  Guide: false
+  Number of Gamers: 811
+  Percentage of Gamers: 43%
+  Ratio: 1.51
+  TA: '303'
   Tags:
   - Offline Mode
   - Single Player

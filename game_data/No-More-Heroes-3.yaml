@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- 100.0
-- 120.0
+- 60.0
+- 80.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Superhero!
   Description: Unlock all achievements
   GS: '180'
   Guide: false
-  Number of Gamers: 63
+  Number of Gamers: 73
   Percentage of Gamers: 0%
-  Ratio: 19.37
-  TA: 3,488
+  Ratio: 18.01
+  TA: 3,242
   Tags:
   - Offline Mode
   - Single Player
@@ -23,7 +23,7 @@ Base Game Achievements:
   Description: Speak to Sylvia
   GS: '10'
   Guide: true
-  Number of Gamers: 22586
+  Number of Gamers: 23687
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '10'
@@ -35,7 +35,7 @@ Base Game Achievements:
   Description: Save on the toilet
   GS: '10'
   Guide: true
-  Number of Gamers: 21520
+  Number of Gamers: 22583
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '10'
@@ -47,9 +47,9 @@ Base Game Achievements:
   Description: Transfer ranking battle registration fee via ATM
   GS: '10'
   Guide: false
-  Number of Gamers: 5755
-  Percentage of Gamers: 25%
-  Ratio: 1.98
+  Number of Gamers: 6130
+  Percentage of Gamers: 26%
+  Ratio: 1.96
   TA: '19'
   Tags:
   - Offline Mode
@@ -59,7 +59,7 @@ Base Game Achievements:
   Description: 'Clear Episode 1: Darkness'
   GS: '10'
   Guide: true
-  Number of Gamers: 12450
+  Number of Gamers: 13089
   Percentage of Gamers: 55%
   Ratio: 1.34
   TA: '13'
@@ -71,10 +71,10 @@ Base Game Achievements:
   Description: 'Clear Episode 2: Space'
   GS: '10'
   Guide: false
-  Number of Gamers: 5105
+  Number of Gamers: 5455
   Percentage of Gamers: 23%
-  Ratio: 2.1
-  TA: '21'
+  Ratio: 2.08
+  TA: '20'
   Tags:
   - Offline Mode
   - Single Player
@@ -83,9 +83,9 @@ Base Game Achievements:
   Description: 'Clear Episode 3: Memory'
   GS: '10'
   Guide: false
-  Number of Gamers: 3672
-  Percentage of Gamers: 16%
-  Ratio: 2.48
+  Number of Gamers: 3973
+  Percentage of Gamers: 17%
+  Ratio: 2.44
   TA: '24'
   Tags:
   - Offline Mode
@@ -95,9 +95,9 @@ Base Game Achievements:
   Description: 'Clear Episode 4: Sorrow'
   GS: '10'
   Guide: false
-  Number of Gamers: 3145
+  Number of Gamers: 3410
   Percentage of Gamers: 14%
-  Ratio: 2.68
+  Ratio: 2.63
   TA: '26'
   Tags:
   - Offline Mode
@@ -107,10 +107,10 @@ Base Game Achievements:
   Description: 'Clear Episode 5: Dead Cannon'
   GS: '10'
   Guide: false
-  Number of Gamers: 2693
+  Number of Gamers: 2926
   Percentage of Gamers: 12%
-  Ratio: 2.9
-  TA: '29'
+  Ratio: 2.84
+  TA: '28'
   Tags:
   - Offline Mode
   - Single Player
@@ -119,10 +119,10 @@ Base Game Achievements:
   Description: 'Clear Episode 6: Hell'
   GS: '10'
   Guide: false
-  Number of Gamers: 2491
+  Number of Gamers: 2719
   Percentage of Gamers: 11%
-  Ratio: 3.01
-  TA: '30'
+  Ratio: 2.95
+  TA: '29'
   Tags:
   - Offline Mode
   - Single Player
@@ -131,10 +131,10 @@ Base Game Achievements:
   Description: 'Clear Episode 7: Crosshairs'
   GS: '10'
   Guide: false
-  Number of Gamers: 2305
-  Percentage of Gamers: 10%
-  Ratio: 3.13
-  TA: '31'
+  Number of Gamers: 2526
+  Percentage of Gamers: 11%
+  Ratio: 3.06
+  TA: '30'
   Tags:
   - Offline Mode
   - Single Player
@@ -143,9 +143,9 @@ Base Game Achievements:
   Description: 'Clear Episode 8: Loyalty'
   GS: '10'
   Guide: false
-  Number of Gamers: 2218
+  Number of Gamers: 2435
   Percentage of Gamers: 10%
-  Ratio: 3.19
+  Ratio: 3.12
   TA: '31'
   Tags:
   - Offline Mode
@@ -155,10 +155,10 @@ Base Game Achievements:
   Description: 'Clear Episode 9: Flesh and Blood'
   GS: '10'
   Guide: false
-  Number of Gamers: 2201
+  Number of Gamers: 2417
   Percentage of Gamers: 10%
-  Ratio: 3.21
-  TA: '32'
+  Ratio: 3.13
+  TA: '31'
   Tags:
   - Offline Mode
   - Single Player
@@ -167,10 +167,10 @@ Base Game Achievements:
   Description: 'Clear Episode 10: Friends'
   GS: '10'
   Guide: false
-  Number of Gamers: 2119
-  Percentage of Gamers: 9%
-  Ratio: 3.27
-  TA: '32'
+  Number of Gamers: 2334
+  Percentage of Gamers: 10%
+  Ratio: 3.18
+  TA: '31'
   Tags:
   - Offline Mode
   - Single Player
@@ -179,11 +179,11 @@ Base Game Achievements:
 - Achievement Name: Full Power!
   Description: Upgrade everything on the Skill Tree
   GS: '10'
-  Guide: false
-  Number of Gamers: 702
+  Guide: true
+  Number of Gamers: 772
   Percentage of Gamers: 3%
-  Ratio: 5.71
-  TA: '57'
+  Ratio: 5.54
+  TA: '55'
   Tags:
   - Offline Mode
   - Single Player
@@ -192,10 +192,10 @@ Base Game Achievements:
   Description: Acquire all Death Glove Chips
   GS: '30'
   Guide: true
-  Number of Gamers: 63
+  Number of Gamers: 73
   Percentage of Gamers: 0%
-  Ratio: 19.37
-  TA: '581'
+  Ratio: 18.01
+  TA: '540'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -203,10 +203,10 @@ Base Game Achievements:
   Description: Clear the game on Spicy difficulty
   GS: '10'
   Guide: false
-  Number of Gamers: 240
+  Number of Gamers: 258
   Percentage of Gamers: 1%
-  Ratio: 9.77
-  TA: '97'
+  Ratio: 9.58
+  TA: '95'
   Tags:
   - Offline Mode
   - Single Player
@@ -216,10 +216,10 @@ Base Game Achievements:
   Description: Clear the game on Carolina Reaper difficulty
   GS: '30'
   Guide: false
-  Number of Gamers: 83
+  Number of Gamers: 96
   Percentage of Gamers: 0%
-  Ratio: 16.67
-  TA: '500'
+  Ratio: 15.7
+  TA: '471'
   Tags:
   - Offline Mode
   - Single Player
@@ -229,10 +229,10 @@ Base Game Achievements:
   Description: Beat all bosses on Death difficulty
   GS: '90'
   Guide: false
-  Number of Gamers: 90
+  Number of Gamers: 100
   Percentage of Gamers: 0%
-  Ratio: 16.09
-  TA: 1,448
+  Ratio: 15.38
+  TA: 1,385
   Tags:
   - Offline Mode
   - Single Player
@@ -241,10 +241,10 @@ Base Game Achievements:
   Description: Beat all bosses with Rank S or higher
   GS: '30'
   Guide: false
-  Number of Gamers: 131
+  Number of Gamers: 149
   Percentage of Gamers: 1%
-  Ratio: 13.37
-  TA: '401'
+  Ratio: 12.6
+  TA: '378'
   Tags:
   - Offline Mode
   - Single Player
@@ -254,10 +254,10 @@ Base Game Achievements:
   Description: Beat all bosses with Rank SS or higher
   GS: '90'
   Guide: true
-  Number of Gamers: 109
-  Percentage of Gamers: 0%
-  Ratio: 14.71
-  TA: 1,324
+  Number of Gamers: 124
+  Percentage of Gamers: 1%
+  Ratio: 13.81
+  TA: 1,243
   Tags:
   - Offline Mode
   - Single Player
@@ -267,10 +267,10 @@ Base Game Achievements:
   Description: Buy all types of takeout sushi
   GS: '10'
   Guide: true
-  Number of Gamers: 3910
-  Percentage of Gamers: 17%
-  Ratio: 2.4
-  TA: '24'
+  Number of Gamers: 4181
+  Percentage of Gamers: 18%
+  Ratio: 2.38
+  TA: '23'
   Tags:
   - Offline Mode
   - Single Player
@@ -279,9 +279,9 @@ Base Game Achievements:
   Description: Change your clothes
   GS: '10'
   Guide: true
-  Number of Gamers: 10314
+  Number of Gamers: 10866
   Percentage of Gamers: 46%
-  Ratio: 1.48
+  Ratio: 1.47
   TA: '14'
   Tags:
   - Offline Game Mode
@@ -290,10 +290,10 @@ Base Game Achievements:
   Description: Destroy all alien shells
   GS: '10'
   Guide: false
-  Number of Gamers: 370
+  Number of Gamers: 404
   Percentage of Gamers: 2%
-  Ratio: 7.85
-  TA: '78'
+  Ratio: 7.65
+  TA: '76'
   Tags:
   - Offline Mode
   - Single Player
@@ -302,10 +302,10 @@ Base Game Achievements:
   Description: Acquire all scorpions
   GS: '10'
   Guide: false
-  Number of Gamers: 364
+  Number of Gamers: 393
   Percentage of Gamers: 2%
-  Ratio: 7.92
-  TA: '79'
+  Ratio: 7.76
+  TA: '77'
   Tags:
   - Offline Mode
   - Single Player
@@ -314,10 +314,10 @@ Base Game Achievements:
   Description: Plant seeds at all greenification points
   GS: '10'
   Guide: false
-  Number of Gamers: 248
+  Number of Gamers: 270
   Percentage of Gamers: 1%
-  Ratio: 9.6
-  TA: '96'
+  Ratio: 9.36
+  TA: '93'
   Tags:
   - Offline Mode
   - Single Player
@@ -326,10 +326,10 @@ Base Game Achievements:
   Description: Acquire all Deathman cards
   GS: '10'
   Guide: false
-  Number of Gamers: 390
+  Number of Gamers: 422
   Percentage of Gamers: 2%
-  Ratio: 7.65
-  TA: '76'
+  Ratio: 7.49
+  TA: '74'
   Tags:
   - Offline Mode
   - Single Player
@@ -338,10 +338,10 @@ Base Game Achievements:
   Description: Rescue all kittens
   GS: '10'
   Guide: true
-  Number of Gamers: 450
+  Number of Gamers: 489
   Percentage of Gamers: 2%
-  Ratio: 7.1
-  TA: '71'
+  Ratio: 6.95
+  TA: '69'
   Tags:
   - Offline Mode
   - Single Player
@@ -350,10 +350,10 @@ Base Game Achievements:
   Description: Collect all Assassin capsule toys
   GS: '10'
   Guide: false
-  Number of Gamers: 416
+  Number of Gamers: 461
   Percentage of Gamers: 2%
-  Ratio: 7.39
-  TA: '73'
+  Ratio: 7.17
+  TA: '71'
   Tags:
   - Offline Mode
   - Single Player
@@ -362,10 +362,10 @@ Base Game Achievements:
   Description: Collect all Battle Recreation capsule toys
   GS: '10'
   Guide: false
-  Number of Gamers: 499
+  Number of Gamers: 547
   Percentage of Gamers: 2%
-  Ratio: 6.73
-  TA: '67'
+  Ratio: 6.59
+  TA: '65'
   Tags:
   - Offline Mode
   - Single Player
@@ -374,10 +374,10 @@ Base Game Achievements:
   Description: Collect all Alien capsule toys
   GS: '10'
   Guide: false
-  Number of Gamers: 362
+  Number of Gamers: 396
   Percentage of Gamers: 2%
-  Ratio: 7.92
-  TA: '79'
+  Ratio: 7.74
+  TA: '77'
   Tags:
   - Offline Mode
   - Single Player
@@ -386,10 +386,10 @@ Base Game Achievements:
   Description: Enter the motel Gacha Room
   GS: '10'
   Guide: true
-  Number of Gamers: 1103
+  Number of Gamers: 1198
   Percentage of Gamers: 5%
-  Ratio: 4.53
-  TA: '45'
+  Ratio: 4.45
+  TA: '44'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -397,10 +397,10 @@ Base Game Achievements:
   Description: Find all Doppelgangers
   GS: '10'
   Guide: false
-  Number of Gamers: 428
+  Number of Gamers: 466
   Percentage of Gamers: 2%
-  Ratio: 7.27
-  TA: '72'
+  Ratio: 7.13
+  TA: '71'
   Tags:
   - Offline Mode
   - Single Player
@@ -409,10 +409,10 @@ Base Game Achievements:
   Description: Clear all Defense Missions
   GS: '10'
   Guide: false
-  Number of Gamers: 156
+  Number of Gamers: 171
   Percentage of Gamers: 1%
-  Ratio: 12.21
-  TA: '122'
+  Ratio: 11.76
+  TA: '117'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -421,10 +421,10 @@ Base Game Achievements:
   Description: Clear all Defense Missions with Rank S or higher
   GS: '30'
   Guide: false
-  Number of Gamers: 150
+  Number of Gamers: 165
   Percentage of Gamers: 1%
-  Ratio: 12.46
-  TA: '373'
+  Ratio: 11.98
+  TA: '359'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -433,10 +433,10 @@ Base Game Achievements:
   Description: Clear all Defense Missions with Rank SS or higher
   GS: '90'
   Guide: false
-  Number of Gamers: 150
+  Number of Gamers: 165
   Percentage of Gamers: 1%
-  Ratio: 12.46
-  TA: 1,121
+  Ratio: 11.98
+  TA: 1,078
   Tags:
   - Offline Game Mode
   - Single Player
@@ -445,10 +445,10 @@ Base Game Achievements:
   Description: Succeed in playing catch with Jeane 10 times
   GS: '10'
   Guide: true
-  Number of Gamers: 2817
-  Percentage of Gamers: 12%
-  Ratio: 2.83
-  TA: '28'
+  Number of Gamers: 3031
+  Percentage of Gamers: 13%
+  Ratio: 2.79
+  TA: '27'
   Tags:
   - Offline Mode
   - Single Player
@@ -457,10 +457,10 @@ Base Game Achievements:
   Description: Perform 100 wrestling moves
   GS: '10'
   Guide: true
-  Number of Gamers: 1811
+  Number of Gamers: 1966
   Percentage of Gamers: 8%
-  Ratio: 3.53
-  TA: '35'
+  Ratio: 3.47
+  TA: '34'
   Tags:
   - Offline Mode
   - Single Player
@@ -469,9 +469,9 @@ Base Game Achievements:
   Description: Unlock all save points
   GS: '10'
   Guide: false
-  Number of Gamers: 1577
+  Number of Gamers: 1708
   Percentage of Gamers: 7%
-  Ratio: 3.79
+  Ratio: 3.72
   TA: '37'
   Tags:
   - Offline Mode
@@ -481,10 +481,10 @@ Base Game Achievements:
   Description: Beat Ryuichi
   GS: '10'
   Guide: true
-  Number of Gamers: 154
+  Number of Gamers: 172
   Percentage of Gamers: 1%
-  Ratio: 12.17
-  TA: '121'
+  Ratio: 11.73
+  TA: '117'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -492,9 +492,9 @@ Base Game Achievements:
   Description: Equip a Death Glove Chip
   GS: '10'
   Guide: false
-  Number of Gamers: 4424
+  Number of Gamers: 4739
   Percentage of Gamers: 20%
-  Ratio: 2.26
+  Ratio: 2.23
   TA: '22'
   Tags:
   - Offline Game Mode
@@ -503,9 +503,9 @@ Base Game Achievements:
   Description: Unlock all Death Glove skills
   GS: '10'
   Guide: false
-  Number of Gamers: 3485
-  Percentage of Gamers: 15%
-  Ratio: 2.54
+  Number of Gamers: 3788
+  Percentage of Gamers: 16%
+  Ratio: 2.5
   TA: '25'
   Tags:
   - Offline Mode
@@ -515,10 +515,10 @@ Base Game Achievements:
   Description: Play Deathman
   GS: '10'
   Guide: true
-  Number of Gamers: 1086
+  Number of Gamers: 1197
   Percentage of Gamers: 5%
-  Ratio: 4.56
-  TA: '45'
+  Ratio: 4.45
+  TA: '44'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -526,10 +526,10 @@ Base Game Achievements:
   Description: Take the tutorial in the Tutorial Room
   GS: '10'
   Guide: true
-  Number of Gamers: 1932
+  Number of Gamers: 2095
   Percentage of Gamers: 9%
-  Ratio: 3.41
-  TA: '34'
+  Ratio: 3.36
+  TA: '33'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -537,10 +537,10 @@ Base Game Achievements:
   Description: Fly on your bike 20 times
   GS: '10'
   Guide: true
-  Number of Gamers: 1615
+  Number of Gamers: 1779
   Percentage of Gamers: 7%
-  Ratio: 3.74
-  TA: '37'
+  Ratio: 3.65
+  TA: '36'
   Tags:
   - Offline Mode
   - Single Player
@@ -549,10 +549,10 @@ Base Game Achievements:
   Description: Perform a successful Perfect Dodge 50 times
   GS: '10'
   Guide: true
-  Number of Gamers: 2842
+  Number of Gamers: 3076
   Percentage of Gamers: 13%
-  Ratio: 2.82
-  TA: '28'
+  Ratio: 2.77
+  TA: '27'
   Tags:
   - Offline Mode
   - Single Player
@@ -561,9 +561,9 @@ Base Game Achievements:
   Description: Match up the slots 30 times
   GS: '10'
   Guide: false
-  Number of Gamers: 4900
+  Number of Gamers: 5235
   Percentage of Gamers: 22%
-  Ratio: 2.15
+  Ratio: 2.12
   TA: '21'
   Tags:
   - Offline Mode
@@ -573,10 +573,10 @@ Base Game Achievements:
   Description: Move 30km on foot
   GS: '10'
   Guide: false
-  Number of Gamers: 932
+  Number of Gamers: 1016
   Percentage of Gamers: 4%
-  Ratio: 4.93
-  TA: '49'
+  Ratio: 4.83
+  TA: '48'
   Tags:
   - Offline Mode
   - Single Player
@@ -585,10 +585,10 @@ Base Game Achievements:
   Description: Move 100km on bike
   GS: '10'
   Guide: true
-  Number of Gamers: 456
+  Number of Gamers: 505
   Percentage of Gamers: 2%
-  Ratio: 7.07
-  TA: '70'
+  Ratio: 6.84
+  TA: '68'
   Tags:
   - Offline Mode
   - Single Player
@@ -597,9 +597,9 @@ Base Game Achievements:
   Description: Pull off a 99-hit combo during battle
   GS: '10'
   Guide: true
-  Number of Gamers: 3221
-  Percentage of Gamers: 14%
-  Ratio: 2.65
+  Number of Gamers: 3495
+  Percentage of Gamers: 15%
+  Ratio: 2.6
   TA: '26'
   Tags:
   - Offline Game Mode
@@ -608,34 +608,34 @@ Base Game Achievements:
   Description: Beat 51 Mass-Produced Destroymen
   GS: '10'
   Guide: true
-  Number of Gamers: 343
+  Number of Gamers: 389
   Percentage of Gamers: 2%
-  Ratio: 8.16
-  TA: '81'
+  Ratio: 7.81
+  TA: '78'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 11.253
-Base TA: 11253
+Base Ratio: 10.662
+Base TA: 10662
 Delisted: false
 Developer: Grasshopper Manufacture
 Game Name: No More Heroes 3
 Genres: Hack & Slash
 Install Size: 21200.0
-Number of Completions: 64
-Number of Gamers: 22639
+Number of Completions: 73
+Number of Gamers: 23752
 Overall Completion Time:
-- 100.0
-- 120.0
+- 60.0
+- 80.0
 Overall GS: 1000
-Overall Ratio: 11.253
-Overall TA: 11253
+Overall Ratio: 10.662
+Overall TA: 10662
 PDU: 0
-Percentage Completed: 0.28
+Percentage Completed: 0.31
 Publisher: Marvelous Entertainment
-Release Date: 11 October 2022
+Release Date: 14 October 2022
 Server Closure: false
-Site Rating: 3.65
+Site Rating: 3.56
 Update Achievements: []
 Walkthrough: false

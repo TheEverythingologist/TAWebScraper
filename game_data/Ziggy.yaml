@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 1.5
-Base GS: 3000
+- 2.0
+Base GS: 4000
 Base Game Achievements:
 - Achievement Name: Finish level 1
   Description: Complete level 1
   GS: '20'
   Guide: false
-  Number of Gamers: 1330
+  Number of Gamers: 1713
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '20'
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Complete level 2
   GS: '20'
   Guide: false
-  Number of Gamers: 1323
+  Number of Gamers: 1705
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '20'
@@ -32,7 +32,7 @@ Base Game Achievements:
   Description: Complete level 3
   GS: '20'
   Guide: false
-  Number of Gamers: 1309
+  Number of Gamers: 1684
   Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '20'
@@ -44,7 +44,7 @@ Base Game Achievements:
   Description: Complete level 4
   GS: '20'
   Guide: false
-  Number of Gamers: 1290
+  Number of Gamers: 1662
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '20'
@@ -56,7 +56,7 @@ Base Game Achievements:
   Description: Complete level 5
   GS: '30'
   Guide: false
-  Number of Gamers: 1235
+  Number of Gamers: 1598
   Percentage of Gamers: 93%
   Ratio: 1.03
   TA: '31'
@@ -68,8 +68,8 @@ Base Game Achievements:
   Description: Complete level 6
   GS: '30'
   Guide: false
-  Number of Gamers: 1172
-  Percentage of Gamers: 88%
+  Number of Gamers: 1521
+  Percentage of Gamers: 89%
   Ratio: 1.06
   TA: '31'
   Tags:
@@ -80,7 +80,7 @@ Base Game Achievements:
   Description: Complete level 7
   GS: '35'
   Guide: false
-  Number of Gamers: 1152
+  Number of Gamers: 1495
   Percentage of Gamers: 87%
   Ratio: 1.07
   TA: '37'
@@ -92,9 +92,9 @@ Base Game Achievements:
   Description: Complete level 8
   GS: '35'
   Guide: false
-  Number of Gamers: 1140
+  Number of Gamers: 1477
   Percentage of Gamers: 86%
-  Ratio: 1.08
+  Ratio: 1.07
   TA: '37'
   Tags:
   - Offline Mode
@@ -104,7 +104,7 @@ Base Game Achievements:
   Description: Complete level 9
   GS: '35'
   Guide: false
-  Number of Gamers: 1129
+  Number of Gamers: 1463
   Percentage of Gamers: 85%
   Ratio: 1.08
   TA: '37'
@@ -116,7 +116,7 @@ Base Game Achievements:
   Description: Complete level 10
   GS: '35'
   Guide: false
-  Number of Gamers: 1092
+  Number of Gamers: 1411
   Percentage of Gamers: 82%
   Ratio: 1.1
   TA: '38'
@@ -128,7 +128,7 @@ Base Game Achievements:
   Description: Die at least once to every trap in the Forest
   GS: '100'
   Guide: true
-  Number of Gamers: 1269
+  Number of Gamers: 1634
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
@@ -139,8 +139,8 @@ Base Game Achievements:
   Description: Die 5 times to arrows
   GS: '20'
   Guide: false
-  Number of Gamers: 1284
-  Percentage of Gamers: 96%
+  Number of Gamers: 1656
+  Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '20'
   Tags:
@@ -151,8 +151,8 @@ Base Game Achievements:
   Description: Die 5 times to spikes
   GS: '20'
   Guide: false
-  Number of Gamers: 1326
-  Percentage of Gamers: 100%
+  Number of Gamers: 1707
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '20'
   Tags:
@@ -163,8 +163,8 @@ Base Game Achievements:
   Description: Die 10 times
   GS: '30'
   Guide: false
-  Number of Gamers: 1325
-  Percentage of Gamers: 100%
+  Number of Gamers: 1703
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '30'
   Tags:
@@ -175,7 +175,7 @@ Base Game Achievements:
   Description: Die 20 times
   GS: '80'
   Guide: false
-  Number of Gamers: 1321
+  Number of Gamers: 1697
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '80'
@@ -187,7 +187,7 @@ Base Game Achievements:
   Description: Die 30 times
   GS: '90'
   Guide: false
-  Number of Gamers: 1319
+  Number of Gamers: 1691
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '90'
@@ -198,8 +198,8 @@ Base Game Achievements:
 - Achievement Name: 10 Checkpoints
   Description: Pass by 10 checkpoints
   GS: '100'
-  Guide: false
-  Number of Gamers: 1225
+  Guide: true
+  Number of Gamers: 1580
   Percentage of Gamers: 92%
   Ratio: 1.04
   TA: '104'
@@ -211,7 +211,7 @@ Base Game Achievements:
   Description: Complete a level that has Checkpoint without activating any Checkpoint
   GS: '100'
   Guide: true
-  Number of Gamers: 1132
+  Number of Gamers: 1459
   Percentage of Gamers: 85%
   Ratio: 1.08
   TA: '108'
@@ -222,10 +222,10 @@ Base Game Achievements:
   Description: Complete level 12
   GS: '35'
   Guide: false
-  Number of Gamers: 1022
-  Percentage of Gamers: 77%
+  Number of Gamers: 1311
+  Percentage of Gamers: 76%
   Ratio: 1.14
-  TA: '39'
+  TA: '40'
   Tags:
   - Offline Mode
   - Single Player
@@ -234,8 +234,8 @@ Base Game Achievements:
   Description: Complete level 14
   GS: '35'
   Guide: false
-  Number of Gamers: 842
-  Percentage of Gamers: 63%
+  Number of Gamers: 1095
+  Percentage of Gamers: 64%
   Ratio: 1.25
   TA: '43'
   Tags:
@@ -245,10 +245,10 @@ Base Game Achievements:
   Description: Complete level 16
   GS: '35'
   Guide: false
-  Number of Gamers: 840
-  Percentage of Gamers: 63%
+  Number of Gamers: 1091
+  Percentage of Gamers: 64%
   Ratio: 1.25
-  TA: '44'
+  TA: '43'
   Tags:
   - Offline Mode
   - Single Player
@@ -257,10 +257,10 @@ Base Game Achievements:
   Description: Complete level 18
   GS: '35'
   Guide: false
-  Number of Gamers: 840
-  Percentage of Gamers: 63%
+  Number of Gamers: 1090
+  Percentage of Gamers: 64%
   Ratio: 1.25
-  TA: '44'
+  TA: '43'
   Tags:
   - Offline Mode
   - Single Player
@@ -269,42 +269,42 @@ Base Game Achievements:
   Description: Complete level 20
   GS: '40'
   Guide: false
-  Number of Gamers: 836
+  Number of Gamers: 1084
   Percentage of Gamers: 63%
-  Ratio: 1.26
+  Ratio: 1.25
   TA: '50'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.0596666666666668
-Base TA: 3179
+Base Ratio: 1.148
+Base TA: 4592
 Delisted: false
 Developer: Antonio Filipe, AFIL Games
 Game Name: Ziggy
 Genres: Platformer
 Install Size: 721.0
-Number of Completions: 816
-Number of Gamers: 1331
+Number of Completions: 661
+Number of Gamers: 1716
 Overall Completion Time:
 - 0.0
-- 1.5
-Overall GS: 3000
-Overall Ratio: 1.0596666666666668
-Overall TA: 3179
+- 2.0
+Overall GS: 4000
+Overall Ratio: 1.148
+Overall TA: 4592
 PDU: 0
-Percentage Completed: 61.31
+Percentage Completed: 38.52
 Publisher: AFIL Games
 Release Date: 14 May 2024
 Server Closure: false
-Site Rating: 1.73
+Site Rating: 1.78
 Update Achievements:
 - Achievement Name: Resilient
   Description: Die 50 times
   GS: '200'
   Guide: false
-  Number of Gamers: 1268
-  Percentage of Gamers: 95%
+  Number of Gamers: 1642
+  Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '204'
   Tags:
@@ -315,10 +315,10 @@ Update Achievements:
   Description: Pass by 15 checkpoints
   GS: '200'
   Guide: true
-  Number of Gamers: 1131
-  Percentage of Gamers: 85%
-  Ratio: 1.08
-  TA: '216'
+  Number of Gamers: 1474
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '215'
   Tags:
   - Offline Mode
   - Single Player
@@ -327,10 +327,10 @@ Update Achievements:
   Description: Die 05 times to Bear Trap
   GS: '200'
   Guide: true
-  Number of Gamers: 1196
-  Percentage of Gamers: 90%
-  Ratio: 1.05
-  TA: '210'
+  Number of Gamers: 1558
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '209'
   Tags:
   - Offline Mode
   - Single Player
@@ -339,10 +339,10 @@ Update Achievements:
   Description: Die 10 times to spikes
   GS: '200'
   Guide: true
-  Number of Gamers: 1288
+  Number of Gamers: 1667
   Percentage of Gamers: 97%
   Ratio: 1.01
-  TA: '203'
+  TA: '202'
   Tags:
   - Offline Mode
   - Single Player
@@ -351,10 +351,10 @@ Update Achievements:
   Description: Die 10 times to arrows
   GS: '200'
   Guide: true
-  Number of Gamers: 1231
-  Percentage of Gamers: 92%
+  Number of Gamers: 1604
+  Percentage of Gamers: 93%
   Ratio: 1.03
-  TA: '207'
+  TA: '206'
   Tags:
   - Offline Mode
   - Single Player
@@ -363,10 +363,10 @@ Update Achievements:
   Description: Die 70 times
   GS: '200'
   Guide: false
-  Number of Gamers: 1211
-  Percentage of Gamers: 91%
-  Ratio: 1.04
-  TA: '209'
+  Number of Gamers: 1589
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '207'
   Tags:
   - Offline Mode
   - Single Player
@@ -375,10 +375,10 @@ Update Achievements:
   Description: Pass by 25 checkpoints
   GS: '200'
   Guide: true
-  Number of Gamers: 1016
-  Percentage of Gamers: 76%
-  Ratio: 1.14
-  TA: '228'
+  Number of Gamers: 1349
+  Percentage of Gamers: 79%
+  Ratio: 1.12
+  TA: '225'
   Tags:
   - Offline Mode
   - Single Player
@@ -387,10 +387,10 @@ Update Achievements:
   Description: Die 10 times to Bear Trap
   GS: '200'
   Guide: true
-  Number of Gamers: 1131
-  Percentage of Gamers: 85%
-  Ratio: 1.08
-  TA: '216'
+  Number of Gamers: 1480
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '215'
   Tags:
   - Offline Mode
   - Single Player
@@ -399,10 +399,10 @@ Update Achievements:
   Description: Die 20 times to spikes
   GS: '200'
   Guide: true
-  Number of Gamers: 1230
-  Percentage of Gamers: 92%
+  Number of Gamers: 1611
+  Percentage of Gamers: 94%
   Ratio: 1.03
-  TA: '207'
+  TA: '206'
   Tags:
   - Offline Mode
   - Single Player
@@ -411,10 +411,70 @@ Update Achievements:
   Description: Die 20 times to arrows
   GS: '200'
   Guide: true
-  Number of Gamers: 1156
-  Percentage of Gamers: 87%
-  Ratio: 1.07
-  TA: '214'
+  Number of Gamers: 1518
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '212'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Immortal in Adversity
+  Description: Die 90 times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 869
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '280'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Experienced Trailblazer
+  Description: Pass by 35 checkpoints
+  GS: '200'
+  Guide: true
+  Number of Gamers: 792
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '294'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Tricky Maze
+  Description: Die 17 times to Bear Trap
+  GS: '200'
+  Guide: true
+  Number of Gamers: 831
+  Percentage of Gamers: 48%
+  Ratio: 1.43
+  TA: '287'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Impaled Trailblazer
+  Description: Die 30 times to spikes
+  GS: '200'
+  Guide: false
+  Number of Gamers: 867
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '281'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Persistent Target
+  Description: Die 30 times to arrows
+  GS: '200'
+  Guide: true
+  Number of Gamers: 843
+  Percentage of Gamers: 49%
+  Ratio: 1.42
+  TA: '285'
   Tags:
   - Offline Mode
   - Single Player

@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- -1
-- -1
+- 34
+- 35
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: First Flight
   Description: Complete a flight in any game mode
   GS: '10'
   Guide: true
-  Number of Gamers: 65078
+  Number of Gamers: 75269
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '10'
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Take three 3 star photos in World Photographer, in three separate collections
   GS: '60'
   Guide: true
-  Number of Gamers: 856
+  Number of Gamers: 986
   Percentage of Gamers: 1%
-  Ratio: 8.74
-  TA: '524'
+  Ratio: 8.75
+  TA: '525'
   Tags:
   - Online Mode
   - Single Player
@@ -31,10 +31,10 @@ Base Game Achievements:
   Description: Soar for 20 minutes in a glider
   GS: '20'
   Guide: true
-  Number of Gamers: 1059
+  Number of Gamers: 1333
   Percentage of Gamers: 2%
-  Ratio: 7.86
-  TA: '157'
+  Ratio: 7.53
+  TA: '150'
   Tags:
   - Online Mode
   - Single Player
@@ -43,10 +43,10 @@ Base Game Achievements:
   Description: Walk or run for 5km total
   GS: '20'
   Guide: true
-  Number of Gamers: 892
-  Percentage of Gamers: 1%
-  Ratio: 8.56
-  TA: '171'
+  Number of Gamers: 1246
+  Percentage of Gamers: 2%
+  Ratio: 7.81
+  TA: '156'
   Tags:
   - Online Mode
   - Single Player
@@ -55,10 +55,10 @@ Base Game Achievements:
   Description: Successfully complete 30 seaplane landings without incident
   GS: '50'
   Guide: true
-  Number of Gamers: 330
+  Number of Gamers: 455
   Percentage of Gamers: 1%
-  Ratio: 14.08
-  TA: '704'
+  Ratio: 12.93
+  TA: '646'
   Tags:
   - Online Mode
   - Single Player
@@ -67,10 +67,10 @@ Base Game Achievements:
   Description: Take off from an airport and land at another in an aircraft you own
   GS: '40'
   Guide: true
-  Number of Gamers: 1630
-  Percentage of Gamers: 2%
-  Ratio: 6.33
-  TA: '253'
+  Number of Gamers: 2000
+  Percentage of Gamers: 3%
+  Ratio: 6.15
+  TA: '246'
   Tags:
   - Online Mode
   - Single Player
@@ -78,22 +78,21 @@ Base Game Achievements:
   Description: Achieve an A grade in any base Training mission outside of the Career
   GS: '30'
   Guide: true
-  Number of Gamers: 21721
-  Percentage of Gamers: 33%
-  Ratio: 1.73
-  TA: '52'
+  Number of Gamers: 23487
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '53'
   Tags:
-  - Online Mode
-  - Single Player
+  - Discontinued
 - Achievement Name: Jack of all Trades
   Description: Complete 3 missions in each of the World Photographer, Career, and
     Challenge League modes
   GS: '20'
   Guide: true
-  Number of Gamers: 373
+  Number of Gamers: 461
   Percentage of Gamers: 1%
-  Ratio: 13.24
-  TA: '264'
+  Ratio: 12.83
+  TA: '256'
   Tags:
   - Online Mode
   - Single Player
@@ -103,10 +102,10 @@ Base Game Achievements:
     at each landmark you visit
   GS: '30'
   Guide: true
-  Number of Gamers: 330
+  Number of Gamers: 411
   Percentage of Gamers: 1%
-  Ratio: 14.08
-  TA: '422'
+  Ratio: 13.59
+  TA: '407'
   Tags:
   - Online Mode
   - Single Player
@@ -115,10 +114,10 @@ Base Game Achievements:
     session
   GS: '25'
   Guide: true
-  Number of Gamers: 9464
-  Percentage of Gamers: 14%
-  Ratio: 2.62
-  TA: '65'
+  Number of Gamers: 11830
+  Percentage of Gamers: 16%
+  Ratio: 2.53
+  TA: '63'
   Tags:
   - Online Mode
   - Single Player
@@ -126,10 +125,10 @@ Base Game Achievements:
   Description: Accumulate 2 hours of flight each in a jet, airliner, glider, and rotorcraft
   GS: '25'
   Guide: true
-  Number of Gamers: 189
+  Number of Gamers: 263
   Percentage of Gamers: 0%
-  Ratio: 18.6
-  TA: '465'
+  Ratio: 16.96
+  TA: '424'
   Tags:
   - Online Mode
   - Single Player
@@ -138,10 +137,10 @@ Base Game Achievements:
   Description: Accumulate 50 hours of total flight time
   GS: '60'
   Guide: false
-  Number of Gamers: 690
+  Number of Gamers: 1081
   Percentage of Gamers: 1%
-  Ratio: 9.73
-  TA: '584'
+  Ratio: 8.39
+  TA: '503'
   Tags:
   - Online Mode
   - Single Player
@@ -151,10 +150,10 @@ Base Game Achievements:
   Description: Complete 50 successful landings at any heliport with no incidents
   GS: '100'
   Guide: true
-  Number of Gamers: 257
+  Number of Gamers: 332
   Percentage of Gamers: 0%
-  Ratio: 15.95
-  TA: 1,595
+  Ratio: 15.09
+  TA: 1,509
   Tags:
   - Online Mode
   - Single Player
@@ -163,10 +162,10 @@ Base Game Achievements:
   Description: Have a rank in each active weekly Challenge in the Challenge League
   GS: '15'
   Guide: true
-  Number of Gamers: 2511
+  Number of Gamers: 2785
   Percentage of Gamers: 4%
-  Ratio: 5.1
-  TA: '76'
+  Ratio: 5.21
+  TA: '78'
   Tags:
   - Online Mode
   - Single Player
@@ -175,10 +174,10 @@ Base Game Achievements:
   Description: Complete 10 weekly Challenges in the Challenge League
   GS: '20'
   Guide: true
-  Number of Gamers: 1361
+  Number of Gamers: 1551
   Percentage of Gamers: 2%
-  Ratio: 6.93
-  TA: '138'
+  Ratio: 6.97
+  TA: '139'
   Tags:
   - Online Mode
   - Single Player
@@ -188,10 +187,10 @@ Base Game Achievements:
   Description: Complete 100 weekly Challenges in the Challenge League
   GS: '50'
   Guide: true
-  Number of Gamers: 214
+  Number of Gamers: 302
   Percentage of Gamers: 0%
-  Ratio: 17.48
-  TA: '874'
+  Ratio: 15.9
+  TA: '795'
   Tags:
   - Online Mode
   - Single Player
@@ -201,21 +200,20 @@ Base Game Achievements:
   Description: Earn all 20 base certifications in the Career
   GS: '100'
   Guide: true
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
+  Number of Gamers: 3
+  Percentage of Gamers: 0%
+  Ratio: 1.0
   TA: '100'
   Tags:
-  - Online Mode
-  - Single Player
+  - Unobtainable
 - Achievement Name: Amateur Photographer
   Description: Take a photo in World Photographer, using photo mode
   GS: '10'
   Guide: true
-  Number of Gamers: 7209
+  Number of Gamers: 8563
   Percentage of Gamers: 11%
-  Ratio: 3.01
-  TA: '30'
+  Ratio: 2.97
+  TA: '29'
   Tags:
   - Online Mode
   - Single Player
@@ -223,10 +221,10 @@ Base Game Achievements:
   Description: Complete a Collection Page in World Photographer
   GS: '25'
   Guide: true
-  Number of Gamers: 317
-  Percentage of Gamers: 0%
-  Ratio: 14.36
-  TA: '359'
+  Number of Gamers: 396
+  Percentage of Gamers: 1%
+  Ratio: 13.85
+  TA: '346'
   Tags:
   - Online Mode
   - Single Player
@@ -235,10 +233,10 @@ Base Game Achievements:
   Description: Complete 10 Collection Pages in World Photographer
   GS: '70'
   Guide: true
-  Number of Gamers: 68
+  Number of Gamers: 101
   Percentage of Gamers: 0%
-  Ratio: 31.01
-  TA: 2,171
+  Ratio: 27.32
+  TA: 1,912
   Tags:
   - Online Mode
   - Single Player
@@ -248,10 +246,10 @@ Base Game Achievements:
     in World Photographer
   GS: '20'
   Guide: true
-  Number of Gamers: 48
+  Number of Gamers: 77
   Percentage of Gamers: 0%
-  Ratio: 36.92
-  TA: '738'
+  Ratio: 31.29
+  TA: '625'
   Tags:
   - Online Mode
   - Single Player
@@ -260,10 +258,10 @@ Base Game Achievements:
   Description: Collect 100 Stars in World Photographer
   GS: '50'
   Guide: false
-  Number of Gamers: 174
+  Number of Gamers: 224
   Percentage of Gamers: 0%
-  Ratio: 19.39
-  TA: '969'
+  Ratio: 18.43
+  TA: '921'
   Tags:
   - Online Mode
   - Single Player
@@ -271,10 +269,10 @@ Base Game Achievements:
   Description: Complete your first tutorial training mission
   GS: '15'
   Guide: true
-  Number of Gamers: 24825
-  Percentage of Gamers: 38%
-  Ratio: 1.62
-  TA: '24'
+  Number of Gamers: 26977
+  Percentage of Gamers: 36%
+  Ratio: 1.67
+  TA: '25'
   Tags:
   - Online Mode
   - Single Player
@@ -283,10 +281,10 @@ Base Game Achievements:
     missions
   GS: '50'
   Guide: true
-  Number of Gamers: 3425
+  Number of Gamers: 3848
   Percentage of Gamers: 5%
-  Ratio: 4.37
-  TA: '218'
+  Ratio: 4.43
+  TA: '221'
   Tags:
   - Online Mode
   - Single Player
@@ -294,9 +292,9 @@ Base Game Achievements:
   Description: Earn your Private Pilots License in the Career
   GS: '15'
   Guide: false
-  Number of Gamers: 17328
+  Number of Gamers: 19437
   Percentage of Gamers: 26%
-  Ratio: 1.94
+  Ratio: 1.97
   TA: '29'
   Tags:
   - Online Mode
@@ -305,10 +303,10 @@ Base Game Achievements:
   Description: Purchase 5 aircraft in the Career
   GS: '50'
   Guide: true
-  Number of Gamers: 694
+  Number of Gamers: 991
   Percentage of Gamers: 1%
-  Ratio: 9.7
-  TA: '485'
+  Ratio: 8.75
+  TA: '437'
   Tags:
   - Online Mode
   - Single Player
@@ -318,33 +316,33 @@ Base Game Achievements:
   Description: Create your first company in the Career
   GS: '20'
   Guide: true
-  Number of Gamers: 2923
-  Percentage of Gamers: 4%
-  Ratio: 4.73
-  TA: '94'
+  Number of Gamers: 3518
+  Percentage of Gamers: 5%
+  Ratio: 4.64
+  TA: '92'
   Tags:
   - Online Mode
   - Single Player
-Base Ratio: 11.571
-Base TA: 11571
+Base Ratio: 10.697
+Base TA: 10697
 Delisted: false
 Developer: Asobo Studio
 Game Name: Microsoft Flight Simulator 2024
 Genres: Simulation, Aerial, Open World
 Install Size: 50000.0
-Number of Completions: 0
-Number of Gamers: 65432
+Number of Completions: 3
+Number of Gamers: 75748
 Overall Completion Time:
-- -1
-- -1
+- 34
+- 35
 Overall GS: 1000
-Overall Ratio: 11.571
-Overall TA: 11571
+Overall Ratio: 10.697
+Overall TA: 10697
 PDU: 0
 Percentage Completed: 0.0
 Publisher: Xbox Game Studios
 Release Date: 19 November 2024
 Server Closure: false
-Site Rating: 3.83
+Site Rating: 3.71
 Update Achievements: []
 Walkthrough: false

@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- 1
-- 2
+- 0.5
+- 1.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: First Victory
   Description: Defeat the Crow
   GS: '80'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 37%
-  Ratio: 1.64
-  TA: '131'
+  Number of Gamers: 88
+  Percentage of Gamers: 60%
+  Ratio: 1.28
+  TA: '102'
   Tags:
   - Offline Mode
   - Single Player
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Defeat the Yeti
   GS: '90'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 30%
-  Ratio: 1.83
-  TA: '165'
+  Number of Gamers: 74
+  Percentage of Gamers: 51%
+  Ratio: 1.39
+  TA: '125'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Defeat the Armadillo
   GS: '100'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 30%
-  Ratio: 1.83
-  TA: '183'
+  Number of Gamers: 73
+  Percentage of Gamers: 50%
+  Ratio: 1.4
+  TA: '140'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Rise your health to maximum
   GS: '90'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 26%
-  Ratio: 1.96
-  TA: '176'
+  Number of Gamers: 66
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '133'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -55,10 +55,10 @@ Base Game Achievements:
   Description: Make a 5X jumping-combo
   GS: '50'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 33%
-  Ratio: 1.73
-  TA: '86'
+  Number of Gamers: 81
+  Percentage of Gamers: 55%
+  Ratio: 1.33
+  TA: '66'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -66,10 +66,10 @@ Base Game Achievements:
   Description: Complete all summer levels
   GS: '60'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 30%
-  Ratio: 1.83
-  TA: '110'
+  Number of Gamers: 79
+  Percentage of Gamers: 54%
+  Ratio: 1.35
+  TA: '81'
   Tags:
   - Offline Mode
   - Single Player
@@ -78,10 +78,10 @@ Base Game Achievements:
   Description: Complete all winter levels
   GS: '60'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 30%
-  Ratio: 1.83
-  TA: '110'
+  Number of Gamers: 73
+  Percentage of Gamers: 50%
+  Ratio: 1.4
+  TA: '84'
   Tags:
   - Offline Mode
   - Single Player
@@ -89,11 +89,11 @@ Base Game Achievements:
 - Achievement Name: Dusty
   Description: Complete all desert levels
   GS: '60'
-  Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 30%
-  Ratio: 1.83
-  TA: '110'
+  Guide: true
+  Number of Gamers: 73
+  Percentage of Gamers: 50%
+  Ratio: 1.4
+  TA: '84'
   Tags:
   - Offline Mode
   - Single Player
@@ -102,10 +102,10 @@ Base Game Achievements:
   Description: Complete any level with 3 stars
   GS: '50'
   Guide: false
-  Number of Gamers: 20
-  Percentage of Gamers: 74%
-  Ratio: 1.16
-  TA: '58'
+  Number of Gamers: 119
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '55'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -113,10 +113,10 @@ Base Game Achievements:
   Description: Buy a Villager costume
   GS: '30'
   Guide: false
-  Number of Gamers: 22
-  Percentage of Gamers: 81%
-  Ratio: 1.1
-  TA: '33'
+  Number of Gamers: 120
+  Percentage of Gamers: 82%
+  Ratio: 1.09
+  TA: '32'
   Tags:
   - Offline Mode
   - Single Player
@@ -125,10 +125,10 @@ Base Game Achievements:
   Description: Buy a Cowboy costume
   GS: '30'
   Guide: false
-  Number of Gamers: 21
-  Percentage of Gamers: 78%
-  Ratio: 1.13
-  TA: '34'
+  Number of Gamers: 117
+  Percentage of Gamers: 80%
+  Ratio: 1.11
+  TA: '33'
   Tags:
   - Offline Mode
   - Single Player
@@ -137,10 +137,10 @@ Base Game Achievements:
   Description: Buy a Gentleman costume
   GS: '30'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 56%
-  Ratio: 1.34
-  TA: '40'
+  Number of Gamers: 100
+  Percentage of Gamers: 68%
+  Ratio: 1.2
+  TA: '36'
   Tags:
   - Offline Mode
   - Single Player
@@ -149,10 +149,10 @@ Base Game Achievements:
   Description: Buy a Football costume
   GS: '30'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 44%
-  Ratio: 1.5
-  TA: '45'
+  Number of Gamers: 91
+  Percentage of Gamers: 62%
+  Ratio: 1.26
+  TA: '37'
   Tags:
   - Offline Mode
   - Single Player
@@ -161,10 +161,10 @@ Base Game Achievements:
   Description: Buy a Sengoku costume
   GS: '30'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 33%
-  Ratio: 1.73
-  TA: '51'
+  Number of Gamers: 84
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '39'
   Tags:
   - Offline Mode
   - Single Player
@@ -173,10 +173,10 @@ Base Game Achievements:
   Description: Buy a Frog costume
   GS: '30'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 41%
-  Ratio: 1.56
-  TA: '47'
+  Number of Gamers: 84
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '39'
   Tags:
   - Offline Mode
   - Single Player
@@ -185,10 +185,10 @@ Base Game Achievements:
   Description: Buy a Kitten costume
   GS: '40'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 33%
-  Ratio: 1.73
-  TA: '69'
+  Number of Gamers: 78
+  Percentage of Gamers: 53%
+  Ratio: 1.36
+  TA: '54'
   Tags:
   - Offline Mode
   - Single Player
@@ -197,10 +197,10 @@ Base Game Achievements:
   Description: Buy a Pumpkin costume
   GS: '40'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 33%
-  Ratio: 1.73
-  TA: '69'
+  Number of Gamers: 73
+  Percentage of Gamers: 50%
+  Ratio: 1.4
+  TA: '56'
   Tags:
   - Offline Mode
   - Single Player
@@ -209,10 +209,10 @@ Base Game Achievements:
   Description: Buy a Buffoon costume
   GS: '50'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 33%
-  Ratio: 1.73
-  TA: '86'
+  Number of Gamers: 74
+  Percentage of Gamers: 51%
+  Ratio: 1.39
+  TA: '69'
   Tags:
   - Offline Mode
   - Single Player
@@ -221,34 +221,34 @@ Base Game Achievements:
   Description: Buy Uncle Frost costume
   GS: '50'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 37%
-  Ratio: 1.64
-  TA: '82'
+  Number of Gamers: 75
+  Percentage of Gamers: 51%
+  Ratio: 1.39
+  TA: '69'
   Tags:
   - Offline Mode
   - Single Player
   - Shop
-Base Ratio: 1.685
-Base TA: 1685
+Base Ratio: 1.334
+Base TA: 1334
 Delisted: false
 Developer: Uncle Frost Team
 Game Name: Rabbit Raid
 Genres: Platformer
 Install Size: 573.0
-Number of Completions: 7
-Number of Gamers: 27
+Number of Completions: 67
+Number of Gamers: 146
 Overall Completion Time:
-- 1
-- 2
+- 0.5
+- 1.0
 Overall GS: 1000
-Overall Ratio: 1.685
-Overall TA: 1685
+Overall Ratio: 1.334
+Overall TA: 1334
 PDU: 0
-Percentage Completed: 25.93
+Percentage Completed: 45.89
 Publisher: Sometimes You
 Release Date: 26 February 2025
 Server Closure: false
-Site Rating: 1.5
+Site Rating: 2.43
 Update Achievements: []
 Walkthrough: false

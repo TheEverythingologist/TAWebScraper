@@ -8,7 +8,7 @@ Base Game Achievements:
   Description: Survive through all the lines in city 1
   GS: '20'
   Guide: false
-  Number of Gamers: 64
+  Number of Gamers: 76
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '20'
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Survive through all the lines in city 2
   GS: '30'
   Guide: false
-  Number of Gamers: 43
-  Percentage of Gamers: 67%
-  Ratio: 1.22
-  TA: '36'
+  Number of Gamers: 47
+  Percentage of Gamers: 62%
+  Ratio: 1.26
+  TA: '37'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Survive through all the lines in city 3
   GS: '50'
   Guide: false
-  Number of Gamers: 35
-  Percentage of Gamers: 55%
-  Ratio: 1.35
-  TA: '67'
+  Number of Gamers: 39
+  Percentage of Gamers: 51%
+  Ratio: 1.38
+  TA: '69'
   Tags:
   - Offline Mode
   - Single Player
@@ -45,9 +45,9 @@ Base Game Achievements:
   GS: '30'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 2%
-  Ratio: 8.0
-  TA: '240'
+  Percentage of Gamers: 1%
+  Ratio: 8.66
+  TA: '259'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -57,8 +57,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 2
   Percentage of Gamers: 3%
-  Ratio: 5.65
-  TA: '169'
+  Ratio: 6.12
+  TA: '183'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -67,9 +67,9 @@ Base Game Achievements:
   GS: '30'
   Guide: false
   Number of Gamers: 5
-  Percentage of Gamers: 8%
-  Ratio: 3.57
-  TA: '107'
+  Percentage of Gamers: 7%
+  Ratio: 3.87
+  TA: '116'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -77,10 +77,10 @@ Base Game Achievements:
   Description: Unlock all the different difficulties
   GS: '30'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 14%
-  Ratio: 2.66
-  TA: '80'
+  Number of Gamers: 10
+  Percentage of Gamers: 13%
+  Ratio: 2.73
+  TA: '82'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -89,9 +89,9 @@ Base Game Achievements:
   GS: '100'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 2%
-  Ratio: 8.0
-  TA: '800'
+  Percentage of Gamers: 1%
+  Ratio: 8.66
+  TA: '866'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -99,10 +99,10 @@ Base Game Achievements:
   Description: Complete the game in easy mode
   GS: '30'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 27%
-  Ratio: 1.94
-  TA: '58'
+  Number of Gamers: 19
+  Percentage of Gamers: 25%
+  Ratio: 1.98
+  TA: '59'
   Tags:
   - Offline Mode
   - Single Player
@@ -114,9 +114,9 @@ Base Game Achievements:
   GS: '50'
   Guide: false
   Number of Gamers: 7
-  Percentage of Gamers: 11%
-  Ratio: 3.02
-  TA: '151'
+  Percentage of Gamers: 9%
+  Ratio: 3.27
+  TA: '163'
   Tags:
   - Offline Mode
   - Single Player
@@ -127,9 +127,9 @@ Base Game Achievements:
   GS: '100'
   Guide: false
   Number of Gamers: 4
-  Percentage of Gamers: 6%
-  Ratio: 4.0
-  TA: '400'
+  Percentage of Gamers: 5%
+  Ratio: 4.33
+  TA: '433'
   Tags:
   - Offline Mode
   - Single Player
@@ -144,19 +144,17 @@ Base Game Achievements:
   Ratio: NA
   TA: '100'
   Tags:
-  - Offline Game Mode
-  - Single Player
+  - Unobtainable
 - Achievement Name: Selfish b******
   Description: Reach the end of the game while keeping all the containers you stole
   GS: '50'
   Guide: false
   Number of Gamers: 3
-  Percentage of Gamers: 5%
-  Ratio: 4.61
-  TA: '230'
+  Percentage of Gamers: 4%
+  Ratio: 5.0
+  TA: '250'
   Tags:
-  - Offline Game Mode
-  - Single Player
+  - Discontinued
 - Achievement Name: Gentleman-Burglar
   Description: Kill the boss after stealing the max possible amount of containers
   GS: '100'
@@ -166,56 +164,57 @@ Base Game Achievements:
   Ratio: NA
   TA: '100'
   Tags:
-  - Offline Game Mode
-  - Single Player
+  - Unobtainable
 - Achievement Name: Moby Dick
   Description: Kill the boss it its most powerful form
   GS: '100'
   Guide: false
   Number of Gamers: 2
   Percentage of Gamers: 3%
-  Ratio: 5.65
-  TA: '565'
+  Ratio: 6.12
+  TA: '612'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Difficulty Specific
 - Achievement Name: Is that it?...
   Description: Reach the end of the game.... but...
   GS: '50'
   Guide: false
   Number of Gamers: 4
-  Percentage of Gamers: 6%
-  Ratio: 4.0
-  TA: '200'
+  Percentage of Gamers: 5%
+  Ratio: 4.33
+  TA: '216'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Buggy
 - Achievement Name: Missed something?
   Description: Do you really have to steal these containers?
   GS: '100'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 2%
-  Ratio: 8.0
-  TA: '800'
+  Percentage of Gamers: 1%
+  Ratio: 8.66
+  TA: '866'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 4.123
-Base TA: 4123
+Base Ratio: 4.431
+Base TA: 4431
 Delisted: false
 Developer: Digital Kingdom
 Game Name: Swordship
 Genres: Action
 Install Size: 1110.0
 Number of Completions: 0
-Number of Gamers: 64
+Number of Gamers: 76
 Overall Completion Time:
 - -1
 - -1
 Overall GS: 1000
-Overall Ratio: 4.123
-Overall TA: 4123
+Overall Ratio: 4.431
+Overall TA: 4431
 PDU: 0
 Percentage Completed: 0.0
 Publisher: Thunderful Games

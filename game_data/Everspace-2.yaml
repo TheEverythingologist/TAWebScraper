@@ -3,10 +3,10 @@ Add On Achievements:
   Description: Destroy the Dreadnought's first of two interstellar drives.
   GS: '20'
   Guide: false
-  Number of Gamers: 117
-  Percentage of Gamers: 91%
-  Ratio: 3.94
-  TA: '78'
+  Number of Gamers: 170
+  Percentage of Gamers: 93%
+  Ratio: 3.6
+  TA: '72'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -14,10 +14,10 @@ Add On Achievements:
   Description: Disrupt the Dreadnought auction.
   GS: '20'
   Guide: false
-  Number of Gamers: 97
-  Percentage of Gamers: 76%
-  Ratio: 4.33
-  TA: '86'
+  Number of Gamers: 127
+  Percentage of Gamers: 69%
+  Ratio: 4.15
+  TA: '83'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -25,10 +25,10 @@ Add On Achievements:
   Description: Get swallowed up by a Leviathan.
   GS: '20'
   Guide: false
-  Number of Gamers: 118
-  Percentage of Gamers: 92%
-  Ratio: 3.92
-  TA: '78'
+  Number of Gamers: 163
+  Percentage of Gamers: 89%
+  Ratio: 3.68
+  TA: '73'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -36,10 +36,10 @@ Add On Achievements:
   Description: Break open your first Leviathan Pearl.
   GS: '20'
   Guide: false
-  Number of Gamers: 94
-  Percentage of Gamers: 73%
-  Ratio: 4.4
-  TA: '88'
+  Number of Gamers: 126
+  Percentage of Gamers: 69%
+  Ratio: 4.19
+  TA: '83'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -47,10 +47,10 @@ Add On Achievements:
   Description: "Explode one of XR\u2019s bombs inside a Leviathan."
   GS: '150'
   Guide: true
-  Number of Gamers: 55
-  Percentage of Gamers: 43%
-  Ratio: 5.75
-  TA: '863'
+  Number of Gamers: 64
+  Percentage of Gamers: 35%
+  Ratio: 5.85
+  TA: '878'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -59,10 +59,10 @@ Add On Achievements:
     Dreadnought.
   GS: '30'
   Guide: true
-  Number of Gamers: 116
-  Percentage of Gamers: 91%
-  Ratio: 3.96
-  TA: '118'
+  Number of Gamers: 168
+  Percentage of Gamers: 92%
+  Ratio: 3.61
+  TA: '108'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -71,10 +71,10 @@ Add On Achievements:
     launcher system.
   GS: '30'
   Guide: true
-  Number of Gamers: 74
-  Percentage of Gamers: 58%
-  Ratio: 4.96
-  TA: '148'
+  Number of Gamers: 93
+  Percentage of Gamers: 51%
+  Ratio: 4.88
+  TA: '146'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -82,10 +82,10 @@ Add On Achievements:
   Description: Break 20 Leviathan Pearls.
   GS: '30'
   Guide: false
-  Number of Gamers: 55
-  Percentage of Gamers: 43%
-  Ratio: 5.75
-  TA: '172'
+  Number of Gamers: 60
+  Percentage of Gamers: 33%
+  Ratio: 6.05
+  TA: '181'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -93,10 +93,10 @@ Add On Achievements:
   Description: Destroy a Cloudgrazer with its own weapons.
   GS: '150'
   Guide: true
-  Number of Gamers: 63
-  Percentage of Gamers: 49%
-  Ratio: 5.37
-  TA: '806'
+  Number of Gamers: 77
+  Percentage of Gamers: 42%
+  Ratio: 5.34
+  TA: '801'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -104,10 +104,120 @@ Add On Achievements:
   Description: Obtain a Leviathan Pearl while agitation is below 20%.
   GS: '30'
   Guide: true
-  Number of Gamers: 63
-  Percentage of Gamers: 49%
-  Ratio: 5.37
-  TA: '161'
+  Number of Gamers: 76
+  Percentage of Gamers: 42%
+  Ratio: 5.41
+  TA: '162'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Gone Kayaking
+  Description: Give a friend a second chance.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 37
+  Percentage of Gamers: 92%
+  Ratio: 5.38
+  TA: '107'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Ancient History
+  Description: Avert another crisis.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 33
+  Percentage of Gamers: 82%
+  Ratio: 5.81
+  TA: '232'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: That Belongs In A Museum
+  Description: Obtain the Tactical Artillery Beam device.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 28
+  Percentage of Gamers: 70%
+  Ratio: 6.24
+  TA: '124'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Backup Plan
+  Description: Obtain the Entropy Anchor device.
+  GS: '100'
+  Guide: true
+  Number of Gamers: 22
+  Percentage of Gamers: 55%
+  Ratio: 7.12
+  TA: '712'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Bean There Done That
+  Description: Buy the Wraith.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 28
+  Percentage of Gamers: 70%
+  Ratio: 6.12
+  TA: '122'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Beam There Done That
+  Description: Have 3 Tactical Artillery Beams active at the same time.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 15
+  Percentage of Gamers: 38%
+  Ratio: 8.51
+  TA: '425'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Home Is Where The Ace Is
+  Description: Park the Golden Ace in Ceto.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 22
+  Percentage of Gamers: 55%
+  Ratio: 6.95
+  TA: '139'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Altar Boy
+  Description: Upgrade an item at an Ancient Altar.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 19
+  Percentage of Gamers: 48%
+  Ratio: 7.5
+  TA: '150'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Power Fantasy? Power Reality!
+  Description: Own a rank 8 equipment item of Ascendant rarity.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 15
+  Percentage of Gamers: 38%
+  Ratio: 8.22
+  TA: '411'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Now We Can Finally Play The Game!
+  Description: Unlock the full set bonus of the Ascendancy item set.
+  GS: '100'
+  Guide: false
+  Number of Gamers: 15
+  Percentage of Gamers: 38%
+  Ratio: 8.51
+  TA: '851'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -120,7 +230,7 @@ Base Game Achievements:
   Description: Revive an old hideout.
   GS: '15'
   Guide: true
-  Number of Gamers: 25767
+  Number of Gamers: 26257
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '15'
@@ -132,7 +242,7 @@ Base Game Achievements:
   Description: Find a HIVE unit.
   GS: '15'
   Guide: false
-  Number of Gamers: 7989
+  Number of Gamers: 8147
   Percentage of Gamers: 31%
   Ratio: 1.8
   TA: '27'
@@ -144,9 +254,9 @@ Base Game Achievements:
   Description: Take in Elek.
   GS: '15'
   Guide: true
-  Number of Gamers: 5060
+  Number of Gamers: 5182
   Percentage of Gamers: 20%
-  Ratio: 2.26
+  Ratio: 2.25
   TA: '33'
   Tags:
   - Offline Mode
@@ -156,10 +266,10 @@ Base Game Achievements:
   Description: Save Tareen from the G&B Elite Squad.
   GS: '15'
   Guide: true
-  Number of Gamers: 3637
+  Number of Gamers: 3746
   Percentage of Gamers: 14%
-  Ratio: 2.66
-  TA: '40'
+  Ratio: 2.65
+  TA: '39'
   Tags:
   - Offline Mode
   - Single Player
@@ -168,9 +278,9 @@ Base Game Achievements:
   Description: Survive an Ancient Rift.
   GS: '15'
   Guide: true
-  Number of Gamers: 2484
+  Number of Gamers: 2556
   Percentage of Gamers: 10%
-  Ratio: 3.22
+  Ratio: 3.21
   TA: '48'
   Tags:
   - Offline Mode
@@ -180,9 +290,9 @@ Base Game Achievements:
   Description: Escape the Khione System.
   GS: '15'
   Guide: true
-  Number of Gamers: 2128
+  Number of Gamers: 2191
   Percentage of Gamers: 8%
-  Ratio: 3.48
+  Ratio: 3.47
   TA: '52'
   Tags:
   - Offline Mode
@@ -192,10 +302,10 @@ Base Game Achievements:
   Description: Prevent a new war.
   GS: '80'
   Guide: false
-  Number of Gamers: 1953
+  Number of Gamers: 2009
   Percentage of Gamers: 8%
-  Ratio: 3.64
-  TA: '291'
+  Ratio: 3.62
+  TA: '290'
   Tags:
   - Offline Mode
   - Single Player
@@ -205,10 +315,10 @@ Base Game Achievements:
   Description: Reach the highest level of renown.
   GS: '15'
   Guide: true
-  Number of Gamers: 994
+  Number of Gamers: 1030
   Percentage of Gamers: 4%
-  Ratio: 5.1
-  TA: '76'
+  Ratio: 5.06
+  TA: '75'
   Tags:
   - Offline Mode
   - Single Player
@@ -217,9 +327,9 @@ Base Game Achievements:
   Description: Buy a new ship.
   GS: '15'
   Guide: true
-  Number of Gamers: 7230
+  Number of Gamers: 7404
   Percentage of Gamers: 28%
-  Ratio: 1.89
+  Ratio: 1.88
   TA: '28'
   Tags:
   - Offline Mode
@@ -229,9 +339,9 @@ Base Game Achievements:
   Description: Equip a legendary item.
   GS: '15'
   Guide: true
-  Number of Gamers: 2973
-  Percentage of Gamers: 11%
-  Ratio: 2.95
+  Number of Gamers: 3064
+  Percentage of Gamers: 12%
+  Ratio: 2.93
   TA: '44'
   Tags:
   - Offline Game Mode
@@ -240,9 +350,9 @@ Base Game Achievements:
   Description: Complete a master challenge.
   GS: '15'
   Guide: false
-  Number of Gamers: 5206
+  Number of Gamers: 5334
   Percentage of Gamers: 20%
-  Ratio: 2.23
+  Ratio: 2.22
   TA: '33'
   Tags:
   - Offline Game Mode
@@ -251,7 +361,7 @@ Base Game Achievements:
   Description: Destroy 1000 Outlaw units.
   GS: '15'
   Guide: false
-  Number of Gamers: 4499
+  Number of Gamers: 4609
   Percentage of Gamers: 17%
   Ratio: 2.39
   TA: '35'
@@ -263,10 +373,10 @@ Base Game Achievements:
   Description: Destroy 100 Elite units.
   GS: '15'
   Guide: false
-  Number of Gamers: 3125
+  Number of Gamers: 3218
   Percentage of Gamers: 12%
-  Ratio: 2.87
-  TA: '43'
+  Ratio: 2.86
+  TA: '42'
   Tags:
   - Offline Mode
   - Single Player
@@ -275,7 +385,7 @@ Base Game Achievements:
   Description: Master a device.
   GS: '15'
   Guide: true
-  Number of Gamers: 8573
+  Number of Gamers: 8750
   Percentage of Gamers: 33%
   Ratio: 1.73
   TA: '26'
@@ -287,7 +397,7 @@ Base Game Achievements:
     at least 5 enemies.
   GS: '15'
   Guide: true
-  Number of Gamers: 6123
+  Number of Gamers: 6256
   Percentage of Gamers: 24%
   Ratio: 2.05
   TA: '30'
@@ -298,7 +408,7 @@ Base Game Achievements:
   Description: Use a Thermo Gun to destroy an enemy that is behind an obstacle.
   GS: '15'
   Guide: true
-  Number of Gamers: 2628
+  Number of Gamers: 2685
   Percentage of Gamers: 10%
   Ratio: 3.13
   TA: '47'
@@ -310,9 +420,9 @@ Base Game Achievements:
     one go.
   GS: '15'
   Guide: true
-  Number of Gamers: 1146
+  Number of Gamers: 1172
   Percentage of Gamers: 4%
-  Ratio: 4.75
+  Ratio: 4.74
   TA: '71'
   Tags:
   - Offline Game Mode
@@ -321,10 +431,10 @@ Base Game Achievements:
   Description: Have two attributes maxed out at the same time using Mainframe Expansions
   GS: '15'
   Guide: true
-  Number of Gamers: 670
+  Number of Gamers: 698
   Percentage of Gamers: 3%
-  Ratio: 6.21
-  TA: '93'
+  Ratio: 6.15
+  TA: '92'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -332,10 +442,10 @@ Base Game Achievements:
   Description: Complete a Rift
   GS: '50'
   Guide: true
-  Number of Gamers: 1365
+  Number of Gamers: 1410
   Percentage of Gamers: 5%
-  Ratio: 4.35
-  TA: '217'
+  Ratio: 4.33
+  TA: '216'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -343,10 +453,10 @@ Base Game Achievements:
   Description: Buy a Tier 4 ship
   GS: '50'
   Guide: true
-  Number of Gamers: 1104
+  Number of Gamers: 1150
   Percentage of Gamers: 4%
-  Ratio: 4.84
-  TA: '242'
+  Ratio: 4.79
+  TA: '239'
   Tags:
   - Offline Mode
   - Single Player
@@ -355,9 +465,9 @@ Base Game Achievements:
   Description: Change the front, rear and wings of a ship.
   GS: '15'
   Guide: false
-  Number of Gamers: 3497
+  Number of Gamers: 3577
   Percentage of Gamers: 14%
-  Ratio: 2.72
+  Ratio: 2.71
   TA: '40'
   Tags:
   - Offline Game Mode
@@ -366,10 +476,10 @@ Base Game Achievements:
   Description: Complete 25 Location Challenges
   GS: '15'
   Guide: false
-  Number of Gamers: 1668
-  Percentage of Gamers: 6%
-  Ratio: 3.94
-  TA: '59'
+  Number of Gamers: 1724
+  Percentage of Gamers: 7%
+  Ratio: 3.91
+  TA: '58'
   Tags:
   - Offline Mode
   - Single Player
@@ -378,9 +488,9 @@ Base Game Achievements:
   Description: Complete 10 Jobs
   GS: '15'
   Guide: true
-  Number of Gamers: 5754
+  Number of Gamers: 5880
   Percentage of Gamers: 22%
-  Ratio: 2.12
+  Ratio: 2.11
   TA: '31'
   Tags:
   - Offline Mode
@@ -390,9 +500,9 @@ Base Game Achievements:
   Description: Find all Catalyst Blueprints
   GS: '15'
   Guide: true
-  Number of Gamers: 1313
+  Number of Gamers: 1357
   Percentage of Gamers: 5%
-  Ratio: 4.44
+  Ratio: 4.41
   TA: '66'
   Tags:
   - Offline Mode
@@ -403,10 +513,10 @@ Base Game Achievements:
   Description: Find all devices
   GS: '50'
   Guide: true
-  Number of Gamers: 1387
+  Number of Gamers: 1425
   Percentage of Gamers: 5%
-  Ratio: 4.32
-  TA: '216'
+  Ratio: 4.3
+  TA: '215'
   Tags:
   - Offline Mode
   - Single Player
@@ -415,10 +525,10 @@ Base Game Achievements:
   Description: Fully upgrade all Companion Perks
   GS: '50'
   Guide: false
-  Number of Gamers: 1073
+  Number of Gamers: 1119
   Percentage of Gamers: 4%
-  Ratio: 4.91
-  TA: '245'
+  Ratio: 4.86
+  TA: '243'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -426,10 +536,10 @@ Base Game Achievements:
   Description: Complete all locations 100%
   GS: '80'
   Guide: true
-  Number of Gamers: 337
+  Number of Gamers: 354
   Percentage of Gamers: 1%
-  Ratio: 8.76
-  TA: '701'
+  Ratio: 8.63
+  TA: '690'
   Tags:
   - Offline Mode
   - Single Player
@@ -438,10 +548,10 @@ Base Game Achievements:
   Description: Finish all side missions
   GS: '40'
   Guide: true
-  Number of Gamers: 513
+  Number of Gamers: 531
   Percentage of Gamers: 2%
-  Ratio: 7.1
-  TA: '284'
+  Ratio: 7.04
+  TA: '281'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -449,10 +559,10 @@ Base Game Achievements:
   Description: Complete all challenge collections
   GS: '50'
   Guide: true
-  Number of Gamers: 409
+  Number of Gamers: 425
   Percentage of Gamers: 2%
-  Ratio: 7.95
-  TA: '397'
+  Ratio: 7.88
+  TA: '394'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -460,10 +570,10 @@ Base Game Achievements:
   Description: Complete a Rift at Lunacy 500 or higher
   GS: '80'
   Guide: true
-  Number of Gamers: 324
+  Number of Gamers: 342
   Percentage of Gamers: 1%
-  Ratio: 8.94
-  TA: '715'
+  Ratio: 8.79
+  TA: '703'
   Tags:
   - Offline Mode
   - Single Player
@@ -472,10 +582,10 @@ Base Game Achievements:
   Description: Use the Magnetic Repulsor to smash an EMP'ed enemy to death.
   GS: '15'
   Guide: true
-  Number of Gamers: 699
+  Number of Gamers: 720
   Percentage of Gamers: 3%
-  Ratio: 6.08
-  TA: '91'
+  Ratio: 6.05
+  TA: '90'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -483,10 +593,10 @@ Base Game Achievements:
   Description: Finish all racing tracks with platinum rank.
   GS: '50'
   Guide: true
-  Number of Gamers: 263
+  Number of Gamers: 275
   Percentage of Gamers: 1%
-  Ratio: 9.92
-  TA: '496'
+  Ratio: 9.81
+  TA: '490'
   Tags:
   - Offline Mode
   - Single Player
@@ -495,9 +605,9 @@ Base Game Achievements:
   Description: Earn at least 5000 credits by selling one stack of commodities.
   GS: '15'
   Guide: true
-  Number of Gamers: 1455
+  Number of Gamers: 1493
   Percentage of Gamers: 6%
-  Ratio: 4.21
+  Ratio: 4.2
   TA: '63'
   Tags:
   - Offline Mode
@@ -507,10 +617,10 @@ Base Game Achievements:
   Description: Keep the Fusion Hook tethered for 10 seconds during a single activation.
   GS: '15'
   Guide: true
-  Number of Gamers: 518
+  Number of Gamers: 533
   Percentage of Gamers: 2%
-  Ratio: 7.07
-  TA: '106'
+  Ratio: 7.03
+  TA: '105'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -519,9 +629,9 @@ Base Game Achievements:
     single activation.
   GS: '15'
   Guide: true
-  Number of Gamers: 624
+  Number of Gamers: 643
   Percentage of Gamers: 2%
-  Ratio: 6.44
+  Ratio: 6.41
   TA: '96'
   Tags:
   - Offline Game Mode
@@ -530,10 +640,10 @@ Base Game Achievements:
   Description: Use a Sticky Turret to destroy an enemy.
   GS: '15'
   Guide: true
-  Number of Gamers: 2139
+  Number of Gamers: 2198
   Percentage of Gamers: 8%
-  Ratio: 3.47
-  TA: '52'
+  Ratio: 3.46
+  TA: '51'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -541,9 +651,9 @@ Base Game Achievements:
   Description: Mine 2000 resources
   GS: '15'
   Guide: true
-  Number of Gamers: 3087
+  Number of Gamers: 3177
   Percentage of Gamers: 12%
-  Ratio: 2.89
+  Ratio: 2.88
   TA: '43'
   Tags:
   - Offline Mode
@@ -553,34 +663,34 @@ Base Game Achievements:
   Description: Visit a final resting place.
   GS: '15'
   Guide: true
-  Number of Gamers: 1829
+  Number of Gamers: 1891
   Percentage of Gamers: 7%
-  Ratio: 3.76
+  Ratio: 3.73
   TA: '56'
   Tags:
   - Offline Mode
   - Single Player
   - Collectable
-Base Ratio: 5.248
-Base TA: 5248
+Base Ratio: 5.197
+Base TA: 5197
 Delisted: false
 Developer: Rockfish Games
 Game Name: EVERSPACE 2
 Genres: Aerial, Vehicular Combat
-Install Size: 35850.0
-Number of Completions: 45
-Number of Gamers: 25899
+Install Size: 36450.0
+Number of Completions: 8
+Number of Gamers: 26403
 Overall Completion Time:
-- 66.0
-- 88.0
-Overall GS: 1500
-Overall Ratio: 5.230666666666667
-Overall TA: 7846
+- 60.0
+- 80.0
+Overall GS: 1940
+Overall Ratio: 5.699484536082474
+Overall TA: 11057
 PDU: 0
-Percentage Completed: 0.17
+Percentage Completed: 0.03
 Publisher: Rockfish Games, Maximum Entertainment
 Release Date: 06 April 2023
 Server Closure: false
-Site Rating: 4.01
+Site Rating: 4.02
 Update Achievements: []
 Walkthrough: false

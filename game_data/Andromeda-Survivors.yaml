@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.5
-- 1.5
-Base GS: 2000
+- 2.0
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: Geological Space l
   Description: Destroy 1 asteroid
   GS: '15'
   Guide: false
-  Number of Gamers: 838
+  Number of Gamers: 1346
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '15'
@@ -19,7 +19,7 @@ Base Game Achievements:
   Description: Destroy 3 asteroids
   GS: '15'
   Guide: false
-  Number of Gamers: 837
+  Number of Gamers: 1344
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '15'
@@ -31,7 +31,7 @@ Base Game Achievements:
   Description: Destroy 5 asteroids
   GS: '20'
   Guide: false
-  Number of Gamers: 837
+  Number of Gamers: 1344
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '20'
@@ -43,7 +43,7 @@ Base Game Achievements:
   Description: Destroy 7 asteroids
   GS: '20'
   Guide: false
-  Number of Gamers: 837
+  Number of Gamers: 1343
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '20'
@@ -55,7 +55,7 @@ Base Game Achievements:
   Description: Destroy 1 spaceship
   GS: '50'
   Guide: false
-  Number of Gamers: 836
+  Number of Gamers: 1342
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '50'
@@ -66,8 +66,8 @@ Base Game Achievements:
   Description: Destroy 3 spaceships
   GS: '20'
   Guide: false
-  Number of Gamers: 835
-  Percentage of Gamers: 99%
+  Number of Gamers: 1341
+  Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '20'
   Tags:
@@ -78,7 +78,7 @@ Base Game Achievements:
   Description: Destroy 5 spaceships
   GS: '30'
   Guide: false
-  Number of Gamers: 834
+  Number of Gamers: 1339
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '30'
@@ -90,7 +90,7 @@ Base Game Achievements:
   Description: Destroy 7 spaceships
   GS: '30'
   Guide: false
-  Number of Gamers: 832
+  Number of Gamers: 1339
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '30'
@@ -102,7 +102,7 @@ Base Game Achievements:
   Description: Heal your spaceship
   GS: '90'
   Guide: false
-  Number of Gamers: 831
+  Number of Gamers: 1337
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '90'
@@ -113,7 +113,7 @@ Base Game Achievements:
   Description: Grow your health
   GS: '50'
   Guide: false
-  Number of Gamers: 821
+  Number of Gamers: 1318
   Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '50'
@@ -124,7 +124,7 @@ Base Game Achievements:
   Description: Grow your damage
   GS: '100'
   Guide: false
-  Number of Gamers: 816
+  Number of Gamers: 1311
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '101'
@@ -135,7 +135,7 @@ Base Game Achievements:
   Description: Double shots!
   GS: '30'
   Guide: false
-  Number of Gamers: 819
+  Number of Gamers: 1316
   Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '30'
@@ -146,8 +146,8 @@ Base Game Achievements:
   Description: Upgrade to level 3
   GS: '50'
   Guide: false
-  Number of Gamers: 822
-  Percentage of Gamers: 98%
+  Number of Gamers: 1327
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '50'
   Tags:
@@ -158,7 +158,7 @@ Base Game Achievements:
   Description: Upgrade to level 5
   GS: '50'
   Guide: false
-  Number of Gamers: 808
+  Number of Gamers: 1297
   Percentage of Gamers: 96%
   Ratio: 1.01
   TA: '50'
@@ -170,7 +170,7 @@ Base Game Achievements:
   Description: Upgrade to level 7
   GS: '90'
   Guide: false
-  Number of Gamers: 788
+  Number of Gamers: 1265
   Percentage of Gamers: 94%
   Ratio: 1.03
   TA: '92'
@@ -182,10 +182,10 @@ Base Game Achievements:
   Description: Upgrade to level 10
   GS: '90'
   Guide: false
-  Number of Gamers: 739
+  Number of Gamers: 1187
   Percentage of Gamers: 88%
   Ratio: 1.06
-  TA: '96'
+  TA: '95'
   Tags:
   - Offline Mode
   - Single Player
@@ -194,10 +194,10 @@ Base Game Achievements:
   Description: Destroy 15 enemy drops
   GS: '50'
   Guide: false
-  Number of Gamers: 804
-  Percentage of Gamers: 96%
-  Ratio: 1.02
-  TA: '51'
+  Number of Gamers: 1299
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '50'
   Tags:
   - Offline Mode
   - Single Player
@@ -206,8 +206,8 @@ Base Game Achievements:
   Description: Survive by 5 minutes
   GS: '90'
   Guide: false
-  Number of Gamers: 767
-  Percentage of Gamers: 91%
+  Number of Gamers: 1232
+  Percentage of Gamers: 92%
   Ratio: 1.04
   TA: '94'
   Tags:
@@ -217,9 +217,9 @@ Base Game Achievements:
   Description: Survive by 10 minutes
   GS: '30'
   Guide: false
-  Number of Gamers: 635
+  Number of Gamers: 1029
   Percentage of Gamers: 76%
-  Ratio: 1.15
+  Ratio: 1.14
   TA: '34'
   Tags:
   - Offline Game Mode
@@ -228,7 +228,7 @@ Base Game Achievements:
   Description: Get one skill to LV MAX
   GS: '40'
   Guide: false
-  Number of Gamers: 725
+  Number of Gamers: 1155
   Percentage of Gamers: 86%
   Ratio: 1.07
   TA: '43'
@@ -240,7 +240,7 @@ Base Game Achievements:
   Description: Unlock the ship "SS-Cosmos"
   GS: '40'
   Guide: true
-  Number of Gamers: 682
+  Number of Gamers: 1085
   Percentage of Gamers: 81%
   Ratio: 1.11
   TA: '44'
@@ -248,36 +248,36 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Shop
-Base Ratio: 1.0355
-Base TA: 2071
+Base Ratio: 1.0616666666666668
+Base TA: 3185
 Delisted: false
 Developer: DevDumb, Aleo Games
 Game Name: Andromeda Survivors
 Genres: Roguelite, Shoot 'em up
 Install Size: 345.0
-Number of Completions: 626
-Number of Gamers: 840
+Number of Completions: 883
+Number of Gamers: 1346
 Overall Completion Time:
 - 0.5
-- 1.5
-Overall GS: 2000
-Overall Ratio: 1.0355
-Overall TA: 2071
+- 2.0
+Overall GS: 3000
+Overall Ratio: 1.0616666666666668
+Overall TA: 3185
 PDU: 0
-Percentage Completed: 74.52
+Percentage Completed: 65.6
 Publisher: AFIL Games
 Release Date: 19 September 2024
 Server Closure: false
-Site Rating: 2.49
+Site Rating: 2.28
 Update Achievements:
 - Achievement Name: Ten Tiers
   Description: Reach level 13
   GS: '200'
   Guide: false
-  Number of Gamers: 687
-  Percentage of Gamers: 82%
+  Number of Gamers: 1111
+  Percentage of Gamers: 83%
   Ratio: 1.1
-  TA: '221'
+  TA: '220'
   Tags:
   - Offline Mode
   - Single Player
@@ -286,10 +286,10 @@ Update Achievements:
   Description: Reach level 15
   GS: '200'
   Guide: false
-  Number of Gamers: 672
-  Percentage of Gamers: 80%
+  Number of Gamers: 1084
+  Percentage of Gamers: 81%
   Ratio: 1.11
-  TA: '223'
+  TA: '222'
   Tags:
   - Offline Mode
   - Single Player
@@ -298,7 +298,7 @@ Update Achievements:
   Description: Destroy 15 spaceships
   GS: '200'
   Guide: false
-  Number of Gamers: 831
+  Number of Gamers: 1337
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '200'
@@ -310,7 +310,7 @@ Update Achievements:
   Description: Destroy 15 meteors
   GS: '200'
   Guide: false
-  Number of Gamers: 836
+  Number of Gamers: 1342
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '200'
@@ -322,10 +322,70 @@ Update Achievements:
   Description: Heal your spaceship 5 times
   GS: '200'
   Guide: false
-  Number of Gamers: 818
-  Percentage of Gamers: 97%
+  Number of Gamers: 1314
+  Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '202'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Meteor Buster
+  Description: Destroy 17 meteors
+  GS: '200'
+  Guide: false
+  Number of Gamers: 1126
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '218'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Space Medic
+  Description: Heal your spaceship 7 times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 1096
+  Percentage of Gamers: 81%
+  Ratio: 1.1
+  TA: '221'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Starship Slayer
+  Description: Destroy 17 sparceships
+  GS: '200'
+  Guide: false
+  Number of Gamers: 1118
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '219'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Mission Initiate
+  Description: Complete 3 missions
+  GS: '200'
+  Guide: true
+  Number of Gamers: 923
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '241'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Capsule Crusher
+  Description: Destroy 5 capsules
+  GS: '200'
+  Guide: false
+  Number of Gamers: 1117
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '219'
   Tags:
   - Offline Mode
   - Single Player

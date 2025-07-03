@@ -1,83 +1,89 @@
 Add On Achievements: []
 Base Completion Time:
+- 6.0
 - 8.0
-- 10.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Challenger
   Description: Complete a battle
   GS: '15'
   Guide: false
-  Number of Gamers: 180
-  Percentage of Gamers: 99%
+  Number of Gamers: 289
+  Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '15'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Main Storyline
 - Achievement Name: Grassland
   Description: Survive successfully in the "Grassland" level
   GS: '15'
   Guide: false
-  Number of Gamers: 142
-  Percentage of Gamers: 78%
-  Ratio: 1.12
+  Number of Gamers: 235
+  Percentage of Gamers: 81%
+  Ratio: 1.11
   TA: '16'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Main Storyline
 - Achievement Name: Graveyard
   Description: Survive successfully in the "Graveyard" level
   GS: '15'
   Guide: false
-  Number of Gamers: 110
-  Percentage of Gamers: 60%
-  Ratio: 1.28
-  TA: '19'
+  Number of Gamers: 183
+  Percentage of Gamers: 63%
+  Ratio: 1.25
+  TA: '18'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Main Storyline
 - Achievement Name: Castle
   Description: Survive successfully in the "Castle" level
   GS: '15'
   Guide: false
-  Number of Gamers: 95
-  Percentage of Gamers: 52%
-  Ratio: 1.38
-  TA: '20'
+  Number of Gamers: 165
+  Percentage of Gamers: 57%
+  Ratio: 1.32
+  TA: '19'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Main Storyline
 - Achievement Name: Hell
   Description: Survive successfully in the "Hell" level
   GS: '15'
   Guide: false
-  Number of Gamers: 63
-  Percentage of Gamers: 35%
-  Ratio: 1.69
-  TA: '25'
+  Number of Gamers: 116
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '23'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Main Storyline
 - Achievement Name: Teamwork
   Description: Unlock at least 5 heroes
   GS: '15'
   Guide: false
-  Number of Gamers: 130
-  Percentage of Gamers: 71%
-  Ratio: 1.17
+  Number of Gamers: 216
+  Percentage of Gamers: 74%
+  Ratio: 1.15
   TA: '17'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Shop
 - Achievement Name: Team Wipe
   Description: Eliminate at least 5 enemies with a single bullet
   GS: '15'
   Guide: false
-  Number of Gamers: 138
-  Percentage of Gamers: 76%
-  Ratio: 1.14
-  TA: '17'
+  Number of Gamers: 231
+  Percentage of Gamers: 80%
+  Ratio: 1.12
+  TA: '16'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -85,9 +91,9 @@ Base Game Achievements:
   Description: Reach a total of 10 or more in health and armor combined
   GS: '30'
   Guide: false
-  Number of Gamers: 118
-  Percentage of Gamers: 65%
-  Ratio: 1.23
+  Number of Gamers: 185
+  Percentage of Gamers: 64%
+  Ratio: 1.25
   TA: '37'
   Tags:
   - Offline Game Mode
@@ -96,10 +102,10 @@ Base Game Achievements:
   Description: Dodge an attack with health at 1
   GS: '30'
   Guide: false
-  Number of Gamers: 84
-  Percentage of Gamers: 46%
-  Ratio: 1.46
-  TA: '43'
+  Number of Gamers: 142
+  Percentage of Gamers: 49%
+  Ratio: 1.42
+  TA: '42'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -107,10 +113,10 @@ Base Game Achievements:
   Description: Complete a Chaos Challenge
   GS: '30'
   Guide: false
-  Number of Gamers: 84
-  Percentage of Gamers: 46%
-  Ratio: 1.46
-  TA: '43'
+  Number of Gamers: 145
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '42'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -118,10 +124,10 @@ Base Game Achievements:
   Description: Achieve 100% bullet critical rate
   GS: '30'
   Guide: true
-  Number of Gamers: 62
-  Percentage of Gamers: 34%
-  Ratio: 1.71
-  TA: '51'
+  Number of Gamers: 117
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '47'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -129,10 +135,10 @@ Base Game Achievements:
   Description: Achieve 100% evasion
   GS: '90'
   Guide: true
-  Number of Gamers: 38
-  Percentage of Gamers: 21%
-  Ratio: 2.2
-  TA: '198'
+  Number of Gamers: 77
+  Percentage of Gamers: 27%
+  Ratio: 1.94
+  TA: '174'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -140,10 +146,10 @@ Base Game Achievements:
   Description: Have 4 drones with at least 30 damage
   GS: '30'
   Guide: true
-  Number of Gamers: 62
-  Percentage of Gamers: 34%
-  Ratio: 1.7
-  TA: '51'
+  Number of Gamers: 110
+  Percentage of Gamers: 38%
+  Ratio: 1.62
+  TA: '48'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -151,21 +157,21 @@ Base Game Achievements:
   Description: Upgrade the shop to 3 stars in one go
   GS: '30'
   Guide: false
-  Number of Gamers: 112
-  Percentage of Gamers: 62%
-  Ratio: 1.26
-  TA: '38'
+  Number of Gamers: 183
+  Percentage of Gamers: 63%
+  Ratio: 1.25
+  TA: '37'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Be ready
   Description: Max out all upgrade items
   GS: '30'
-  Guide: false
-  Number of Gamers: 55
-  Percentage of Gamers: 30%
-  Ratio: 1.82
-  TA: '54'
+  Guide: true
+  Number of Gamers: 104
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '50'
   Tags:
   - Offline Mode
   - Single Player
@@ -174,32 +180,33 @@ Base Game Achievements:
   Description: Expand the Energy Ball to at least twice its size
   GS: '30'
   Guide: true
-  Number of Gamers: 61
-  Percentage of Gamers: 34%
-  Ratio: 1.71
-  TA: '51'
+  Number of Gamers: 118
+  Percentage of Gamers: 41%
+  Ratio: 1.56
+  TA: '47'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Collector
   Description: Own a gilded weapon
   GS: '30'
-  Guide: false
-  Number of Gamers: 59
-  Percentage of Gamers: 32%
-  Ratio: 1.74
-  TA: '52'
+  Guide: true
+  Number of Gamers: 107
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '49'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Shop
 - Achievement Name: No Peace
   Description: Wake up 10 zombies in a single battle
   GS: '90'
   Guide: true
-  Number of Gamers: 65
-  Percentage of Gamers: 36%
-  Ratio: 1.66
-  TA: '149'
+  Number of Gamers: 128
+  Percentage of Gamers: 44%
+  Ratio: 1.51
+  TA: '135'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -207,10 +214,10 @@ Base Game Achievements:
   Description: Synthesize the Demon Sword, not easy!
   GS: '90'
   Guide: true
-  Number of Gamers: 46
-  Percentage of Gamers: 25%
-  Ratio: 1.97
-  TA: '178'
+  Number of Gamers: 90
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '161'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -218,10 +225,10 @@ Base Game Achievements:
   Description: Complete a level with 5 Disaster Cards
   GS: '90'
   Guide: false
-  Number of Gamers: 49
-  Percentage of Gamers: 27%
-  Ratio: 1.91
-  TA: '172'
+  Number of Gamers: 93
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '158'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -229,10 +236,10 @@ Base Game Achievements:
   Description: Eliminate 100 frogs in a single battle
   GS: '90'
   Guide: true
-  Number of Gamers: 45
-  Percentage of Gamers: 25%
-  Ratio: 2.02
-  TA: '182'
+  Number of Gamers: 93
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '158'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -240,10 +247,10 @@ Base Game Achievements:
   Description: Destroy 100 candlesticks in a single battle
   GS: '90'
   Guide: true
-  Number of Gamers: 52
-  Percentage of Gamers: 29%
-  Ratio: 1.87
-  TA: '169'
+  Number of Gamers: 97
+  Percentage of Gamers: 33%
+  Ratio: 1.73
+  TA: '156'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -251,33 +258,33 @@ Base Game Achievements:
   Description: Complete a normal level without taking any damage
   GS: '85'
   Guide: false
-  Number of Gamers: 46
-  Percentage of Gamers: 25%
-  Ratio: 1.97
-  TA: '168'
+  Number of Gamers: 90
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '152'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 1.765
-Base TA: 1765
+Base Ratio: 1.617
+Base TA: 1617
 Delisted: false
 Developer: YaYa Game
 Game Name: Burst Hero
 Genres: Roguelite
 Install Size: 616.0
-Number of Completions: 35
-Number of Gamers: 182
+Number of Completions: 73
+Number of Gamers: 290
 Overall Completion Time:
+- 6.0
 - 8.0
-- 10.0
 Overall GS: 1000
-Overall Ratio: 1.765
-Overall TA: 1765
+Overall Ratio: 1.617
+Overall TA: 1617
 PDU: 0
-Percentage Completed: 19.23
+Percentage Completed: 25.17
 Publisher: Happy Player
 Release Date: 22 November 2024
 Server Closure: false
-Site Rating: 4.36
+Site Rating: 3.71
 Update Achievements: []
 Walkthrough: false

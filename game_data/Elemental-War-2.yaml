@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- 89
-- 90
+- 95
+- 96
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Collector
   Description: Unlock all items.
   GS: '30'
   Guide: false
-  Number of Gamers: 5
+  Number of Gamers: 6
   Percentage of Gamers: 2%
-  Ratio: 7.14
-  TA: '214'
+  Ratio: 6.74
+  TA: '202'
   Tags:
   - Online/Offline
   - Single Player
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Use every active item at least once.
   GS: '30'
   Guide: false
-  Number of Gamers: 5
+  Number of Gamers: 6
   Percentage of Gamers: 2%
-  Ratio: 7.14
-  TA: '214'
+  Ratio: 6.74
+  TA: '202'
   Tags:
   - Online/Offline
   - Single Player
@@ -32,9 +32,9 @@ Base Game Achievements:
   Description: Equip a tower with an item.
   GS: '10'
   Guide: false
-  Number of Gamers: 202
-  Percentage of Gamers: 79%
-  Ratio: 1.12
+  Number of Gamers: 213
+  Percentage of Gamers: 78%
+  Ratio: 1.13
   TA: '11'
   Tags:
   - Online/Offline
@@ -44,9 +44,9 @@ Base Game Achievements:
   Description: Use an active item for the first time.
   GS: '10'
   Guide: false
-  Number of Gamers: 173
-  Percentage of Gamers: 67%
-  Ratio: 1.22
+  Number of Gamers: 185
+  Percentage of Gamers: 68%
+  Ratio: 1.21
   TA: '12'
   Tags:
   - Online/Offline
@@ -56,9 +56,9 @@ Base Game Achievements:
   Description: Defeat 1,000 monsters.
   GS: '10'
   Guide: false
-  Number of Gamers: 123
-  Percentage of Gamers: 48%
-  Ratio: 1.43
+  Number of Gamers: 130
+  Percentage of Gamers: 47%
+  Ratio: 1.44
   TA: '14'
   Tags:
   - Online/Offline
@@ -69,10 +69,10 @@ Base Game Achievements:
   Description: Defeat 10,000 monsters.
   GS: '20'
   Guide: false
-  Number of Gamers: 28
+  Number of Gamers: 31
   Percentage of Gamers: 11%
-  Ratio: 3.01
-  TA: '60'
+  Ratio: 2.96
+  TA: '59'
   Tags:
   - Online/Offline
   - Single Player
@@ -82,10 +82,10 @@ Base Game Achievements:
   Description: Defeat 100,000 monsters.
   GS: '30'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 6
   Percentage of Gamers: 2%
-  Ratio: 7.98
-  TA: '239'
+  Ratio: 6.74
+  TA: '202'
   Tags:
   - Online/Offline
   - Single Player
@@ -95,7 +95,7 @@ Base Game Achievements:
   Description: Finish your first quest.
   GS: '10'
   Guide: false
-  Number of Gamers: 148
+  Number of Gamers: 159
   Percentage of Gamers: 58%
   Ratio: 1.31
   TA: '13'
@@ -108,10 +108,10 @@ Base Game Achievements:
   Description: Finish all quests.
   GS: '50'
   Guide: false
-  Number of Gamers: 5
+  Number of Gamers: 6
   Percentage of Gamers: 2%
-  Ratio: 7.14
-  TA: '357'
+  Ratio: 6.74
+  TA: '337'
   Tags:
   - Online/Offline
   - Single Player
@@ -120,7 +120,7 @@ Base Game Achievements:
   Description: Defeat your first elemental.
   GS: '10'
   Guide: false
-  Number of Gamers: 257
+  Number of Gamers: 273
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '10'
@@ -133,7 +133,7 @@ Base Game Achievements:
   Description: Combine at least two elements to form a new tower.
   GS: '10'
   Guide: false
-  Number of Gamers: 235
+  Number of Gamers: 248
   Percentage of Gamers: 91%
   Ratio: 1.04
   TA: '10'
@@ -145,9 +145,9 @@ Base Game Achievements:
   Description: Combine three elements to form a new tower.
   GS: '20'
   Guide: false
-  Number of Gamers: 209
-  Percentage of Gamers: 81%
-  Ratio: 1.1
+  Number of Gamers: 220
+  Percentage of Gamers: 80%
+  Ratio: 1.11
   TA: '22'
   Tags:
   - Online/Offline
@@ -157,7 +157,7 @@ Base Game Achievements:
   Description: Get a bronze medal on a map.
   GS: '10'
   Guide: false
-  Number of Gamers: 182
+  Number of Gamers: 194
   Percentage of Gamers: 71%
   Ratio: 1.18
   TA: '11'
@@ -169,9 +169,9 @@ Base Game Achievements:
   Description: Get a bronze medal on every map.
   GS: '10'
   Guide: false
-  Number of Gamers: 35
+  Number of Gamers: 39
   Percentage of Gamers: 14%
-  Ratio: 2.69
+  Ratio: 2.64
   TA: '26'
   Tags:
   - Online/Offline
@@ -181,9 +181,9 @@ Base Game Achievements:
   Description: Get a silver medal on a map.
   GS: '15'
   Guide: false
-  Number of Gamers: 139
+  Number of Gamers: 149
   Percentage of Gamers: 54%
-  Ratio: 1.36
+  Ratio: 1.35
   TA: '20'
   Tags:
   - Online/Offline
@@ -193,10 +193,10 @@ Base Game Achievements:
   Description: Get a silver medal on every map.
   GS: '15'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 10%
-  Ratio: 3.13
-  TA: '46'
+  Number of Gamers: 30
+  Percentage of Gamers: 11%
+  Ratio: 3.01
+  TA: '45'
   Tags:
   - Online/Offline
   - Single Player
@@ -205,9 +205,9 @@ Base Game Achievements:
   Description: Get a gold medal on a map.
   GS: '20'
   Guide: false
-  Number of Gamers: 44
+  Number of Gamers: 47
   Percentage of Gamers: 17%
-  Ratio: 2.4
+  Ratio: 2.41
   TA: '48'
   Tags:
   - Online/Offline
@@ -217,10 +217,10 @@ Base Game Achievements:
   Description: Get a gold medal on every map.
   GS: '20'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 4%
-  Ratio: 4.81
-  TA: '96'
+  Number of Gamers: 13
+  Percentage of Gamers: 5%
+  Ratio: 4.58
+  TA: '91'
   Tags:
   - Online/Offline
   - Single Player
@@ -229,10 +229,10 @@ Base Game Achievements:
   Description: Get a platinum medal on a map.
   GS: '25'
   Guide: false
-  Number of Gamers: 19
-  Percentage of Gamers: 7%
-  Ratio: 3.66
-  TA: '91'
+  Number of Gamers: 21
+  Percentage of Gamers: 8%
+  Ratio: 3.6
+  TA: '90'
   Tags:
   - Online/Offline
   - Single Player
@@ -241,10 +241,10 @@ Base Game Achievements:
   Description: Get a platinum medal on every map.
   GS: '25'
   Guide: false
-  Number of Gamers: 9
+  Number of Gamers: 11
   Percentage of Gamers: 4%
-  Ratio: 5.32
-  TA: '133'
+  Ratio: 4.98
+  TA: '124'
   Tags:
   - Online/Offline
   - Single Player
@@ -253,10 +253,10 @@ Base Game Achievements:
   Description: Get a crystal medal on a map.
   GS: '30'
   Guide: false
-  Number of Gamers: 15
+  Number of Gamers: 17
   Percentage of Gamers: 6%
-  Ratio: 4.12
-  TA: '123'
+  Ratio: 4.0
+  TA: '120'
   Tags:
   - Online/Offline
   - Single Player
@@ -265,10 +265,10 @@ Base Game Achievements:
   Description: Get a crystal medal on every map.
   GS: '30'
   Guide: false
-  Number of Gamers: 7
+  Number of Gamers: 9
   Percentage of Gamers: 3%
-  Ratio: 6.03
-  TA: '181'
+  Ratio: 5.5
+  TA: '165'
   Tags:
   - Online/Offline
   - Single Player
@@ -277,9 +277,9 @@ Base Game Achievements:
   Description: Reach the global bronze rank.
   GS: '10'
   Guide: false
-  Number of Gamers: 62
+  Number of Gamers: 66
   Percentage of Gamers: 24%
-  Ratio: 2.02
+  Ratio: 2.03
   TA: '20'
   Tags:
   - Online Mode
@@ -290,7 +290,7 @@ Base Game Achievements:
   Description: Reach the global silver rank.
   GS: '15'
   Guide: false
-  Number of Gamers: 41
+  Number of Gamers: 44
   Percentage of Gamers: 16%
   Ratio: 2.49
   TA: '37'
@@ -303,10 +303,10 @@ Base Game Achievements:
   Description: Reach the global gold rank.
   GS: '20'
   Guide: false
-  Number of Gamers: 17
+  Number of Gamers: 20
   Percentage of Gamers: 7%
-  Ratio: 3.87
-  TA: '77'
+  Ratio: 3.69
+  TA: '73'
   Tags:
   - Online Mode
   - Single Player
@@ -316,10 +316,10 @@ Base Game Achievements:
   Description: Reach the global crystal rank.
   GS: '30'
   Guide: false
-  Number of Gamers: 9
+  Number of Gamers: 12
   Percentage of Gamers: 4%
-  Ratio: 5.32
-  TA: '159'
+  Ratio: 4.76
+  TA: '143'
   Tags:
   - Online Mode
   - Single Player
@@ -329,8 +329,8 @@ Base Game Achievements:
   Description: Defeat a monster right before the portal.
   GS: '20'
   Guide: false
-  Number of Gamers: 214
-  Percentage of Gamers: 83%
+  Number of Gamers: 226
+  Percentage of Gamers: 82%
   Ratio: 1.09
   TA: '21'
   Tags:
@@ -341,7 +341,7 @@ Base Game Achievements:
   Description: Survive a map.
   GS: '20'
   Guide: false
-  Number of Gamers: 73
+  Number of Gamers: 77
   Percentage of Gamers: 28%
   Ratio: 1.88
   TA: '37'
@@ -353,10 +353,10 @@ Base Game Achievements:
   Description: Survive a map without losing a single life.
   GS: '20'
   Guide: false
-  Number of Gamers: 23
+  Number of Gamers: 26
   Percentage of Gamers: 9%
-  Ratio: 3.32
-  TA: '66'
+  Ratio: 3.24
+  TA: '64'
   Tags:
   - Online/Offline
   - Single Player
@@ -365,10 +365,10 @@ Base Game Achievements:
   Description: Survive a map on difficulty level Master.
   GS: '20'
   Guide: false
-  Number of Gamers: 19
-  Percentage of Gamers: 7%
-  Ratio: 3.66
-  TA: '73'
+  Number of Gamers: 21
+  Percentage of Gamers: 8%
+  Ratio: 3.6
+  TA: '72'
   Tags:
   - Online/Offline
   - Single Player
@@ -378,10 +378,10 @@ Base Game Achievements:
   Description: Survive a map without using an active item or tower equipment.
   GS: '25'
   Guide: false
-  Number of Gamers: 25
-  Percentage of Gamers: 10%
-  Ratio: 3.19
-  TA: '79'
+  Number of Gamers: 29
+  Percentage of Gamers: 11%
+  Ratio: 3.06
+  TA: '76'
   Tags:
   - Online/Offline
   - Single Player
@@ -390,10 +390,10 @@ Base Game Achievements:
   Description: Survive a map in 15 minutes or less.
   GS: '25'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 4%
-  Ratio: 5.04
-  TA: '126'
+  Number of Gamers: 13
+  Percentage of Gamers: 5%
+  Ratio: 4.58
+  TA: '114'
   Tags:
   - Online/Offline
   - Single Player
@@ -403,10 +403,10 @@ Base Game Achievements:
   Description: Survive a map without building a tower that slows down or stuns monsters.
   GS: '25'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 5%
-  Ratio: 4.42
-  TA: '110'
+  Number of Gamers: 17
+  Percentage of Gamers: 6%
+  Ratio: 4.0
+  TA: '100'
   Tags:
   - Online/Offline
   - Single Player
@@ -415,9 +415,9 @@ Base Game Achievements:
   Description: Skip a total of 10 minutes by calling waves in advance.
   GS: '25'
   Guide: false
-  Number of Gamers: 28
+  Number of Gamers: 29
   Percentage of Gamers: 11%
-  Ratio: 3.07
+  Ratio: 3.06
   TA: '76'
   Tags:
   - Online/Offline
@@ -428,10 +428,10 @@ Base Game Achievements:
   Description: This achievement is hidden
   GS: '50'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 2%
-  Ratio: 6.51
-  TA: '325'
+  Number of Gamers: 8
+  Percentage of Gamers: 3%
+  Ratio: 5.84
+  TA: '292'
   Tags:
   - Online/Offline
   - Single Player
@@ -441,10 +441,10 @@ Base Game Achievements:
   Description: This achievement is hidden
   GS: '10'
   Guide: false
-  Number of Gamers: 82
-  Percentage of Gamers: 32%
-  Ratio: 1.78
-  TA: '17'
+  Number of Gamers: 84
+  Percentage of Gamers: 31%
+  Ratio: 1.8
+  TA: '18'
   Tags:
   - Online/Offline
   - Single Player
@@ -453,9 +453,9 @@ Base Game Achievements:
   Description: This achievement is hidden
   GS: '20'
   Guide: true
-  Number of Gamers: 39
+  Number of Gamers: 41
   Percentage of Gamers: 15%
-  Ratio: 2.59
+  Ratio: 2.58
   TA: '51'
   Tags:
   - Online/Offline
@@ -466,9 +466,9 @@ Base Game Achievements:
   Description: This achievement is hidden
   GS: '50'
   Guide: false
-  Number of Gamers: 26
+  Number of Gamers: 28
   Percentage of Gamers: 10%
-  Ratio: 3.13
+  Ratio: 3.12
   TA: '156'
   Tags:
   - Online/Offline
@@ -479,10 +479,10 @@ Base Game Achievements:
   Description: This achievement is hidden
   GS: '50'
   Guide: true
-  Number of Gamers: 9
-  Percentage of Gamers: 4%
-  Ratio: 5.32
-  TA: '266'
+  Number of Gamers: 13
+  Percentage of Gamers: 5%
+  Ratio: 4.58
+  TA: '229'
   Tags:
   - Online/Offline
   - Single Player
@@ -491,10 +491,10 @@ Base Game Achievements:
   Description: This achievement is hidden
   GS: '50'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 4%
-  Ratio: 5.04
-  TA: '252'
+  Number of Gamers: 13
+  Percentage of Gamers: 5%
+  Ratio: 4.58
+  TA: '229'
   Tags:
   - Online/Offline
   - Single Player
@@ -504,10 +504,10 @@ Base Game Achievements:
   Description: Reach the global platinum rank.
   GS: '25'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 4%
-  Ratio: 5.04
-  TA: '126'
+  Number of Gamers: 13
+  Percentage of Gamers: 5%
+  Ratio: 4.58
+  TA: '114'
   Tags:
   - Online Mode
   - Single Player
@@ -517,32 +517,32 @@ Base Game Achievements:
   Description: Complete 100% of the game.
   GS: '50'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 5
   Percentage of Gamers: 2%
-  Ratio: 7.98
-  TA: '399'
+  Ratio: 7.38
+  TA: '369'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
   - Collectable
-Base Ratio: 4.424
-Base TA: 4424
+Base Ratio: 4.125
+Base TA: 4125
 Delisted: false
 Developer: Clockwork Origins
 Game Name: Elemental War 2
 Genres: Strategy, Tower Defence
-Install Size: 12860.0
-Number of Completions: 4
-Number of Gamers: 257
+Install Size: 14480.0
+Number of Completions: 5
+Number of Gamers: 274
 Overall Completion Time:
-- 89
-- 90
+- 95
+- 96
 Overall GS: 1000
-Overall Ratio: 4.424
-Overall TA: 4424
+Overall Ratio: 4.125
+Overall TA: 4125
 PDU: 0
-Percentage Completed: 1.56
+Percentage Completed: 1.82
 Publisher: Clockwork Origins
 Release Date: 06 May 2022
 Server Closure: false

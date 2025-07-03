@@ -1,457 +1,220 @@
 Add On Achievements: []
 Base Completion Time:
-- 0.5
-- 3.5
-Base GS: 5000
+- 0.0
+- 1.0
+Base GS: 2000
 Base Game Achievements:
-- Achievement Name: How delightful!
-  Description: Collect more.
-  GS: '30'
-  Guide: true
-  Number of Gamers: 5241
-  Percentage of Gamers: 97%
-  Ratio: 1.01
-  TA: '30'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Cumulative +
-  - Buggy
-- Achievement Name: More delights!
-  Description: Collect some more.
-  GS: '30'
-  Guide: true
-  Number of Gamers: 5385
-  Percentage of Gamers: 99%
-  Ratio: 1.0
-  TA: '30'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Cumulative +
-- Achievement Name: Delicious!
-  Description: Mosttttt!
-  GS: '30'
-  Guide: true
-  Number of Gamers: 5369
-  Percentage of Gamers: 99%
-  Ratio: 1.0
-  TA: '30'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Cumulative +
-- Achievement Name: More lives than a Cat!
-  Description: We die but we live.
+- Achievement Name: Level 1
+  Description: Complete level 1
   GS: '100'
-  Guide: true
-  Number of Gamers: 5048
-  Percentage of Gamers: 93%
-  Ratio: 1.03
-  TA: '103'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Cumulative +
-- Achievement Name: Good boy from the Causo!
-  Description: This one likes some Causo!
-  GS: '100'
-  Guide: true
-  Number of Gamers: 4679
-  Percentage of Gamers: 86%
-  Ratio: 1.07
-  TA: '107'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Missable
-- Achievement Name: My Money!
-  Description: Can't even fill the safe.
-  GS: '100'
-  Guide: true
-  Number of Gamers: 5350
+  Guide: false
+  Number of Gamers: 422
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
   Tags:
   - Offline Mode
   - Single Player
-  - Collectable
-- Achievement Name: Mars Attacks!
-  Description: And you fight back.
-  GS: '80'
-  Guide: true
-  Number of Gamers: 4638
-  Percentage of Gamers: 85%
-  Ratio: 1.08
-  TA: '86'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: Rare more or less!
-  Description: Any rarities out there?
-  GS: '150'
-  Guide: true
-  Number of Gamers: 4878
-  Percentage of Gamers: 90%
-  Ratio: 1.05
-  TA: '158'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Collectable
-- Achievement Name: Platinum Edition!
-  Description: Only for the masters!
-  GS: '180'
-  Guide: true
-  Number of Gamers: 4475
-  Percentage of Gamers: 82%
-  Ratio: 1.1
-  TA: '198'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Collectable
-  - Missable
-- Achievement Name: Everything has an end!
-  Description: Go even further.
-  GS: '200'
-  Guide: true
-  Number of Gamers: 4214
-  Percentage of Gamers: 78%
-  Ratio: 1.13
-  TA: '226'
+  - Main Storyline
+- Achievement Name: Level 2
+  Description: Complete level 2
+  GS: '100'
+  Guide: false
+  Number of Gamers: 420
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '100'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.1176
-Base TA: 5588
-Delisted: false
-Developer: Rafael Valim Fernandes
-Game Name: Gabriels Worlds The Adventure
-Genres: Platformer
-Install Size: 75.0
-Number of Completions: 2901
-Number of Gamers: 5426
-Overall Completion Time:
-- 0.5
-- 3.5
-Overall GS: 5000
-Overall Ratio: 1.1176
-Overall TA: 5588
-PDU: 0
-Percentage Completed: 53.46
-Publisher: My Night Sun Games
-Release Date: 15 November 2022
-Server Closure: false
-Site Rating: 2.1
-Update Achievements:
-- Achievement Name: The delights continue!
-  Description: Keep collecting.
-  GS: '200'
-  Guide: true
-  Number of Gamers: 5326
-  Percentage of Gamers: 98%
+- Achievement Name: Level 3
+  Description: Complete level 3
+  GS: '100'
+  Guide: false
+  Number of Gamers: 419
+  Percentage of Gamers: 99%
   Ratio: 1.0
-  TA: '201'
+  TA: '100'
   Tags:
   - Offline Mode
   - Single Player
-  - Cumulative +
-- Achievement Name: Now it's enough, isn't it?
-  Description: I'm stewed
-  GS: '200'
-  Guide: true
-  Number of Gamers: 5227
-  Percentage of Gamers: 96%
+  - Main Storyline
+- Achievement Name: Level 5
+  Description: Complete level 5
+  GS: '100'
+  Guide: false
+  Number of Gamers: 412
+  Percentage of Gamers: 97%
   Ratio: 1.01
-  TA: '203'
+  TA: '101'
   Tags:
   - Offline Mode
   - Single Player
-  - Cumulative +
-- Achievement Name: Hey Weird pet!
-  Description: Cute but dangerous.
-  GS: '200'
-  Guide: true
-  Number of Gamers: 5384
-  Percentage of Gamers: 99%
-  Ratio: 1.0
-  TA: '200'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Cumulative +
-- Achievement Name: Oh my God, how many of them!
-  Description: Kill more of them!
-  GS: '200'
-  Guide: true
-  Number of Gamers: 5357
-  Percentage of Gamers: 99%
-  Ratio: 1.0
-  TA: '201'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Cumulative +
-- Achievement Name: Lemon?
-  Description: They're jumping on you.
-  GS: '200'
-  Guide: true
-  Number of Gamers: 5179
-  Percentage of Gamers: 95%
-  Ratio: 1.02
-  TA: '204'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Cumulative +
-- Achievement Name: Many tiger bowls!
-  Description: Let's collect 600 bowls
+  - Main Storyline
+- Achievement Name: Level 6
+  Description: Complete level 6
   GS: '100'
-  Guide: true
-  Number of Gamers: 4809
-  Percentage of Gamers: 89%
-  Ratio: 1.06
-  TA: '106'
+  Guide: false
+  Number of Gamers: 411
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '101'
   Tags:
   - Offline Mode
   - Single Player
-  - Cumulative +
-- Achievement Name: Congratulations!
-  Description: 3 Coins!
+  - Main Storyline
+- Achievement Name: Level 7
+  Description: Complete level 7
   GS: '100'
-  Guide: true
-  Number of Gamers: 4946
+  Guide: false
+  Number of Gamers: 392
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '104'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Level 9
+  Description: Complete level 9
+  GS: '100'
+  Guide: false
+  Number of Gamers: 389
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '104'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Level 10
+  Description: Complete level 10
+  GS: '100'
+  Guide: false
+  Number of Gamers: 389
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '104'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Level 11
+  Description: Complete level 11
+  GS: '100'
+  Guide: false
+  Number of Gamers: 388
   Percentage of Gamers: 91%
   Ratio: 1.04
   TA: '104'
   Tags:
   - Offline Mode
   - Single Player
-  - Cumulative +
-- Achievement Name: Jump a lot!
-  Description: Jump 50 times!
+  - Main Storyline
+- Achievement Name: Level 15
+  Description: Complete level 15
   GS: '100'
   Guide: true
-  Number of Gamers: 5252
-  Percentage of Gamers: 97%
-  Ratio: 1.01
-  TA: '101'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: Jump much, much more!
-  Description: Jump 100 times!
-  GS: '100'
-  Guide: true
-  Number of Gamers: 5235
-  Percentage of Gamers: 96%
-  Ratio: 1.01
-  TA: '101'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Cumulative +
-- Achievement Name: A dev, a dream!
-  Description: Knowing a little more!
-  GS: '100'
-  Guide: true
-  Number of Gamers: 4398
-  Percentage of Gamers: 81%
-  Ratio: 1.11
-  TA: '111'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: A Party for Gabriel!
-  Description: Look for the Secret Party.
-  GS: '100'
-  Guide: true
-  Number of Gamers: 4668
-  Percentage of Gamers: 86%
-  Ratio: 1.07
-  TA: '107'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Collectable
-- Achievement Name: Second Rare Box!
-  Description: Get the second Rare box!
-  GS: '100'
-  Guide: true
-  Number of Gamers: 4402
-  Percentage of Gamers: 81%
-  Ratio: 1.11
-  TA: '111'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Collectable
-- Achievement Name: Third Rare Box!
-  Description: Get the third Rare box!
-  GS: '100'
-  Guide: true
-  Number of Gamers: 4285
-  Percentage of Gamers: 79%
-  Ratio: 1.12
-  TA: '112'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Collectable
-- Achievement Name: First Normal Box!
-  Description: Let's collect the first normal box!
-  GS: '100'
-  Guide: true
-  Number of Gamers: 4597
-  Percentage of Gamers: 85%
-  Ratio: 1.08
-  TA: '108'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Collectable
-- Achievement Name: Second Normal Box!
-  Description: Take the second normal box!
-  GS: '100'
-  Guide: true
-  Number of Gamers: 4852
-  Percentage of Gamers: 89%
+  Number of Gamers: 385
+  Percentage of Gamers: 91%
   Ratio: 1.05
   TA: '105'
   Tags:
   - Offline Mode
   - Single Player
-  - Collectable
-- Achievement Name: Third Normal Box
-  Description: Let's collect the third normal box!
-  GS: '200'
-  Guide: true
-  Number of Gamers: 4051
-  Percentage of Gamers: 75%
-  Ratio: 1.15
-  TA: '231'
+  - Main Storyline
+Base Ratio: 1.035
+Base TA: 2070
+Delisted: false
+Developer: Rafael Valim Fernandes
+Game Name: Gabriels Worlds The Adventure
+Genres: Platformer
+Install Size: 563.0
+Number of Completions: 373
+Number of Gamers: 425
+Overall Completion Time:
+- 0.0
+- 1.0
+Overall GS: 2000
+Overall Ratio: 1.035
+Overall TA: 2070
+PDU: 0
+Percentage Completed: 87.76
+Publisher: Rafael Valim Fernandes
+Release Date: 27 March 2025
+Server Closure: false
+Site Rating: 2.48
+Update Achievements:
+- Achievement Name: Level 4
+  Description: Complete level 4
+  GS: '100'
+  Guide: false
+  Number of Gamers: 406
+  Percentage of Gamers: 96%
+  Ratio: 1.02
+  TA: '102'
   Tags:
   - Offline Mode
   - Single Player
-  - Collectable
-- Achievement Name: Fourth Normal Box
-  Description: Let's collect the fourth normal box!
+  - Main Storyline
+- Achievement Name: Level 8
+  Description: Complete level 8
   GS: '200'
   Guide: false
-  Number of Gamers: 3905
-  Percentage of Gamers: 72%
-  Ratio: 1.17
-  TA: '235'
+  Number of Gamers: 383
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '210'
   Tags:
   - Offline Mode
   - Single Player
-  - Collectable
-- Achievement Name: Fifth Normal Box
-  Description: Let's collect the fifth and final normal box!
+  - Main Storyline
+- Achievement Name: Level 12
+  Description: Complete level 12
   GS: '200'
   Guide: false
-  Number of Gamers: 3923
-  Percentage of Gamers: 72%
-  Ratio: 1.17
-  TA: '235'
+  Number of Gamers: 382
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '210'
   Tags:
   - Offline Mode
   - Single Player
-  - Collectable
-- Achievement Name: Little Destroyer
-  Description: Destroy the Rare and Platinum Boxes!
+  - Main Storyline
+- Achievement Name: Level 13
+  Description: Complete level 13
   GS: '200'
-  Guide: true
-  Number of Gamers: 3618
-  Percentage of Gamers: 67%
-  Ratio: 1.22
-  TA: '244'
+  Guide: false
+  Number of Gamers: 380
+  Percentage of Gamers: 89%
+  Ratio: 1.05
+  TA: '211'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
-- Achievement Name: Mr.Maker
-  Description: Grab Mr.Maker's protective helmet!
+  - Main Storyline
+- Achievement Name: Level 14
+  Description: Complete level 14
+  GS: '200'
+  Guide: false
+  Number of Gamers: 379
+  Percentage of Gamers: 89%
+  Ratio: 1.05
+  TA: '211'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: That's Benjoni!
+  Description: Take the figure of Benjoni!
   GS: '100'
   Guide: true
-  Number of Gamers: 4039
-  Percentage of Gamers: 74%
-  Ratio: 1.15
-  TA: '115'
+  Number of Gamers: 399
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '103'
   Tags:
   - Offline Game Mode
   - Single Player
-- Achievement Name: Pagan Min asked him right?
-  Description: Stand still. ok?
-  GS: '100'
-  Guide: true
-  Number of Gamers: 4048
-  Percentage of Gamers: 75%
-  Ratio: 1.15
-  TA: '115'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: '610'
-  Description: '610'
-  GS: '200'
-  Guide: true
-  Number of Gamers: 3353
-  Percentage of Gamers: 62%
-  Ratio: 1.27
-  TA: '254'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Cumulative +
-- Achievement Name: '620'
-  Description: '620'
-  GS: '200'
-  Guide: true
-  Number of Gamers: 3352
-  Percentage of Gamers: 62%
-  Ratio: 1.27
-  TA: '254'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Cumulative +
-- Achievement Name: '630'
-  Description: '630'
-  GS: '200'
-  Guide: true
-  Number of Gamers: 3351
-  Percentage of Gamers: 62%
-  Ratio: 1.27
-  TA: '254'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Cumulative +
-- Achievement Name: '640'
-  Description: '640'
-  GS: '200'
-  Guide: true
-  Number of Gamers: 3351
-  Percentage of Gamers: 62%
-  Ratio: 1.27
-  TA: '254'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Cumulative +
-- Achievement Name: '650'
-  Description: '650'
-  GS: '200'
-  Guide: true
-  Number of Gamers: 3350
-  Percentage of Gamers: 62%
-  Ratio: 1.27
-  TA: '254'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Cumulative +
 Walkthrough: false

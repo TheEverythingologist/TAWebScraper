@@ -1,24 +1,25 @@
 Add On Achievements: []
 Base Completion Time:
-- -1
-- -1
+- 2
+- 3
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Get 'em all
   Description: Get all the achievements
   GS: '150'
-  Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '150'
+  Guide: true
+  Number of Gamers: 15
+  Percentage of Gamers: 5%
+  Ratio: 4.39
+  TA: '659'
   Tags:
-  - Unobtainable
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Start level 1
   Description: Start level 1
   GS: '50'
   Guide: false
-  Number of Gamers: 231
+  Number of Gamers: 290
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '50'
@@ -30,7 +31,7 @@ Base Game Achievements:
   Description: Unlock level 5
   GS: '50'
   Guide: false
-  Number of Gamers: 224
+  Number of Gamers: 282
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '50'
@@ -42,7 +43,7 @@ Base Game Achievements:
   Description: Unlock level 10
   GS: '50'
   Guide: false
-  Number of Gamers: 215
+  Number of Gamers: 272
   Percentage of Gamers: 93%
   Ratio: 1.03
   TA: '51'
@@ -54,8 +55,8 @@ Base Game Achievements:
   Description: Unlock level 15
   GS: '50'
   Guide: false
-  Number of Gamers: 206
-  Percentage of Gamers: 89%
+  Number of Gamers: 261
+  Percentage of Gamers: 90%
   Ratio: 1.05
   TA: '52'
   Tags:
@@ -66,10 +67,10 @@ Base Game Achievements:
   Description: Unlock level 20
   GS: '50'
   Guide: false
-  Number of Gamers: 198
-  Percentage of Gamers: 85%
-  Ratio: 1.08
-  TA: '54'
+  Number of Gamers: 252
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '53'
   Tags:
   - Offline Mode
   - Single Player
@@ -78,7 +79,7 @@ Base Game Achievements:
   Description: Unlock level 25
   GS: '100'
   Guide: false
-  Number of Gamers: 190
+  Number of Gamers: 239
   Percentage of Gamers: 82%
   Ratio: 1.1
   TA: '110'
@@ -90,7 +91,7 @@ Base Game Achievements:
   Description: Unlock level 30
   GS: '100'
   Guide: false
-  Number of Gamers: 180
+  Number of Gamers: 226
   Percentage of Gamers: 78%
   Ratio: 1.13
   TA: '113'
@@ -102,10 +103,10 @@ Base Game Achievements:
   Description: Unlock level 35
   GS: '100'
   Guide: false
-  Number of Gamers: 135
-  Percentage of Gamers: 58%
-  Ratio: 1.31
-  TA: '131'
+  Number of Gamers: 173
+  Percentage of Gamers: 59%
+  Ratio: 1.29
+  TA: '129'
   Tags:
   - Offline Mode
   - Single Player
@@ -114,10 +115,10 @@ Base Game Achievements:
   Description: Unlock level 40
   GS: '100'
   Guide: false
-  Number of Gamers: 54
-  Percentage of Gamers: 23%
-  Ratio: 2.08
-  TA: '208'
+  Number of Gamers: 74
+  Percentage of Gamers: 25%
+  Ratio: 1.97
+  TA: '197'
   Tags:
   - Offline Mode
   - Single Player
@@ -126,10 +127,10 @@ Base Game Achievements:
   Description: Unlock level 45
   GS: '100'
   Guide: false
-  Number of Gamers: 52
-  Percentage of Gamers: 22%
-  Ratio: 2.12
-  TA: '212'
+  Number of Gamers: 72
+  Percentage of Gamers: 25%
+  Ratio: 2.0
+  TA: '200'
   Tags:
   - Offline Mode
   - Single Player
@@ -138,34 +139,34 @@ Base Game Achievements:
   Description: Unlock level 50
   GS: '100'
   Guide: false
-  Number of Gamers: 51
-  Percentage of Gamers: 22%
-  Ratio: 2.12
-  TA: '212'
+  Number of Gamers: 68
+  Percentage of Gamers: 23%
+  Ratio: 2.06
+  TA: '206'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.393
-Base TA: 1393
+Base Ratio: 1.87
+Base TA: 1870
 Delisted: false
 Developer: Gametry
 Game Name: Pure Mini Golf
 Genres: Sports, Golf
 Install Size: 570.0
-Number of Completions: 0
-Number of Gamers: 232
+Number of Completions: 15
+Number of Gamers: 291
 Overall Completion Time:
-- -1
-- -1
+- 2
+- 3
 Overall GS: 1000
-Overall Ratio: 1.393
-Overall TA: 1393
+Overall Ratio: 1.87
+Overall TA: 1870
 PDU: 0
-Percentage Completed: 0.0
+Percentage Completed: 5.15
 Publisher: Gametry
 Release Date: 29 November 2024
 Server Closure: false
-Site Rating: 3.0
+Site Rating: 1.8
 Update Achievements: []
 Walkthrough: false

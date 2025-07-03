@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 103
-- 104
+- 150
+- 151
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Willing to learn
   Description: Complete the tutorial
   GS: '5'
   Guide: false
-  Number of Gamers: 266
+  Number of Gamers: 268
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '5'
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Beat a trials level
   GS: '10'
   Guide: false
-  Number of Gamers: 211
+  Number of Gamers: 212
   Percentage of Gamers: 77%
   Ratio: 1.13
   TA: '11'
@@ -43,9 +43,9 @@ Base Game Achievements:
   Description: Get three stars in any level
   GS: '25'
   Guide: false
-  Number of Gamers: 92
-  Percentage of Gamers: 34%
-  Ratio: 1.72
+  Number of Gamers: 91
+  Percentage of Gamers: 33%
+  Ratio: 1.73
   TA: '43'
   Tags:
   - Offline Game Mode
@@ -66,10 +66,10 @@ Base Game Achievements:
   Description: Collect ten toys from trials levels
   GS: '50'
   Guide: false
-  Number of Gamers: 6
+  Number of Gamers: 5
   Percentage of Gamers: 2%
-  Ratio: 6.74
-  TA: '337'
+  Ratio: 7.4
+  TA: '370'
   Tags:
   - Offline Mode
   - Single Player
@@ -78,10 +78,10 @@ Base Game Achievements:
   Description: Collect all toys from trials levels
   GS: '75'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 3
   Percentage of Gamers: 1%
-  Ratio: 8.26
-  TA: '619'
+  Ratio: 9.55
+  TA: '716'
   Tags:
   - Offline Mode
   - Single Player
@@ -90,10 +90,10 @@ Base Game Achievements:
   Description: Beat all path 1 trials
   GS: '25'
   Guide: false
-  Number of Gamers: 11
+  Number of Gamers: 10
   Percentage of Gamers: 4%
-  Ratio: 4.98
-  TA: '124'
+  Ratio: 5.23
+  TA: '130'
   Tags:
   - Offline Mode
   - Single Player
@@ -102,10 +102,10 @@ Base Game Achievements:
   Description: Beat all path 2 trials
   GS: '50'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 2%
-  Ratio: 7.38
-  TA: '369'
+  Number of Gamers: 4
+  Percentage of Gamers: 1%
+  Ratio: 8.27
+  TA: '413'
   Tags:
   - Offline Mode
   - Single Player
@@ -114,10 +114,10 @@ Base Game Achievements:
   Description: Beat all trials
   GS: '75'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 2%
-  Ratio: 7.38
-  TA: '554'
+  Number of Gamers: 4
+  Percentage of Gamers: 1%
+  Ratio: 8.27
+  TA: '620'
   Tags:
   - Offline Mode
   - Single Player
@@ -126,10 +126,10 @@ Base Game Achievements:
   Description: Get 23 trials stars
   GS: '25'
   Guide: false
-  Number of Gamers: 12
+  Number of Gamers: 11
   Percentage of Gamers: 4%
-  Ratio: 4.76
-  TA: '119'
+  Ratio: 4.99
+  TA: '124'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -137,10 +137,10 @@ Base Game Achievements:
   Description: Get 46 trials stars
   GS: '50'
   Guide: false
-  Number of Gamers: 6
+  Number of Gamers: 5
   Percentage of Gamers: 2%
-  Ratio: 6.74
-  TA: '337'
+  Ratio: 7.4
+  TA: '370'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -148,10 +148,10 @@ Base Game Achievements:
   Description: Get 69 trials stars
   GS: '100'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 3
   Percentage of Gamers: 1%
-  Ratio: 8.26
-  TA: '826'
+  Ratio: 9.55
+  TA: '955'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -160,7 +160,7 @@ Base Game Achievements:
   GS: '25'
   Guide: false
   Number of Gamers: 168
-  Percentage of Gamers: 62%
+  Percentage of Gamers: 61%
   Ratio: 1.27
   TA: '31'
   Tags:
@@ -170,10 +170,10 @@ Base Game Achievements:
   Description: Complete 10 trials without breaking anything
   GS: '50'
   Guide: false
-  Number of Gamers: 8
+  Number of Gamers: 7
   Percentage of Gamers: 3%
-  Ratio: 5.84
-  TA: '292'
+  Ratio: 6.25
+  TA: '312'
   Tags:
   - Offline Mode
   - Single Player
@@ -182,10 +182,10 @@ Base Game Achievements:
   Description: Complete 20 trials without breaking anything
   GS: '75'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 3
   Percentage of Gamers: 1%
-  Ratio: 8.26
-  TA: '619'
+  Ratio: 9.55
+  TA: '716'
   Tags:
   - Offline Mode
   - Single Player
@@ -194,10 +194,10 @@ Base Game Achievements:
   Description: Get 11 stars in co-op
   GS: '25'
   Guide: false
-  Number of Gamers: 3
+  Number of Gamers: 2
   Percentage of Gamers: 1%
-  Ratio: 9.53
-  TA: '238'
+  Ratio: 11.7
+  TA: '292'
   Tags:
   - Online/Offline
   - Cooperative
@@ -205,10 +205,10 @@ Base Game Achievements:
   Description: Get 22 stars in co-op
   GS: '50'
   Guide: false
-  Number of Gamers: 3
+  Number of Gamers: 2
   Percentage of Gamers: 1%
-  Ratio: 9.53
-  TA: '476'
+  Ratio: 11.7
+  TA: '585'
   Tags:
   - Online/Offline
   - Cooperative
@@ -216,10 +216,10 @@ Base Game Achievements:
   Description: Get 33 stars in co-op
   GS: '100'
   Guide: false
-  Number of Gamers: 3
+  Number of Gamers: 2
   Percentage of Gamers: 1%
-  Ratio: 9.53
-  TA: '953'
+  Ratio: 11.7
+  TA: 1,170
   Tags:
   - Online/Offline
   - Cooperative
@@ -227,10 +227,10 @@ Base Game Achievements:
   Description: Beat all co-op levels
   GS: '75'
   Guide: false
-  Number of Gamers: 3
+  Number of Gamers: 2
   Percentage of Gamers: 1%
-  Ratio: 9.53
-  TA: '715'
+  Ratio: 11.7
+  TA: '877'
   Tags:
   - Online/Offline
   - Cooperative
@@ -238,31 +238,31 @@ Base Game Achievements:
   Description: Collect all co-op toys
   GS: '75'
   Guide: false
-  Number of Gamers: 3
+  Number of Gamers: 2
   Percentage of Gamers: 1%
-  Ratio: 9.53
-  TA: '715'
+  Ratio: 11.7
+  TA: '877'
   Tags:
   - Online/Offline
   - Cooperative
   - Collectable
-Base Ratio: 7.428
-Base TA: 7428
+Base Ratio: 8.662
+Base TA: 8662
 Delisted: false
 Developer: Pico Sacro Games
 Game Name: BH Trials
 Genres: Puzzle, Platformer
 Install Size: 943.0
-Number of Completions: 3
-Number of Gamers: 273
+Number of Completions: 2
+Number of Gamers: 275
 Overall Completion Time:
-- 103
-- 104
+- 150
+- 151
 Overall GS: 1000
-Overall Ratio: 7.428
-Overall TA: 7428
+Overall Ratio: 8.662
+Overall TA: 8662
 PDU: 0
-Percentage Completed: 1.1
+Percentage Completed: 0.73
 Publisher: Pico Sacro Games
 Release Date: 23 October 2020
 Server Closure: false

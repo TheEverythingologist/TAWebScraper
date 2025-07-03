@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 0.5
-Base GS: 1000
+- 1.0
+Base GS: 2000
 Base Game Achievements:
 - Achievement Name: Green plains
   Description: Reach 10th wave on "Green plains" map
   GS: '100'
   Guide: false
-  Number of Gamers: 537
+  Number of Gamers: 692
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Reach 10th wave on "Crimson forest" map
   GS: '100'
   Guide: false
-  Number of Gamers: 516
-  Percentage of Gamers: 95%
-  Ratio: 1.02
-  TA: '102'
+  Number of Gamers: 671
+  Percentage of Gamers: 96%
+  Ratio: 1.01
+  TA: '101'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,8 +32,8 @@ Base Game Achievements:
   Description: Reach 10th wave on "Ash lands" map
   GS: '100'
   Guide: false
-  Number of Gamers: 513
-  Percentage of Gamers: 95%
+  Number of Gamers: 667
+  Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '102'
   Tags:
@@ -44,8 +44,8 @@ Base Game Achievements:
   Description: Reach 10th wave on "Elf Grove"
   GS: '100'
   Guide: false
-  Number of Gamers: 512
-  Percentage of Gamers: 94%
+  Number of Gamers: 667
+  Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '102'
   Tags:
@@ -56,8 +56,8 @@ Base Game Achievements:
   Description: Reach 10th wave on "Magic plateau" map
   GS: '100'
   Guide: false
-  Number of Gamers: 511
-  Percentage of Gamers: 94%
+  Number of Gamers: 667
+  Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '102'
   Tags:
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: Research new type of block
   GS: '100'
   Guide: false
-  Number of Gamers: 528
-  Percentage of Gamers: 97%
-  Ratio: 1.01
-  TA: '101'
+  Number of Gamers: 686
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '100'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -79,8 +79,8 @@ Base Game Achievements:
   Description: Research new tower
   GS: '100'
   Guide: false
-  Number of Gamers: 538
-  Percentage of Gamers: 99%
+  Number of Gamers: 694
+  Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '100'
   Tags:
@@ -90,7 +90,7 @@ Base Game Achievements:
   Description: Research new resource building
   GS: '100'
   Guide: false
-  Number of Gamers: 534
+  Number of Gamers: 689
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -101,8 +101,8 @@ Base Game Achievements:
   Description: Build a library
   GS: '100'
   Guide: false
-  Number of Gamers: 522
-  Percentage of Gamers: 96%
+  Number of Gamers: 675
+  Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '101'
   Tags:
@@ -112,34 +112,94 @@ Base Game Achievements:
   Description: Kill 1000 enemies
   GS: '100'
   Guide: false
-  Number of Gamers: 524
-  Percentage of Gamers: 97%
+  Number of Gamers: 681
+  Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '101'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 1.011
-Base TA: 1011
+Base Ratio: 1.105
+Base TA: 2210
 Delisted: false
 Developer: MyDreamForever, Tazdraperm
 Game Name: Block Tower TD (Windows)
 Genres: Strategy, Tower Defence
 Install Size: 187.0
-Number of Completions: 511
-Number of Gamers: 542
+Number of Completions: 470
+Number of Gamers: 696
 Overall Completion Time:
 - 0.0
-- 0.5
-Overall GS: 1000
-Overall Ratio: 1.011
-Overall TA: 1011
+- 1.0
+Overall GS: 2000
+Overall Ratio: 1.105
+Overall TA: 2210
 PDU: 0
-Percentage Completed: 94.28
+Percentage Completed: 67.53
 Publisher: Desert Water Games
 Release Date: 21 June 2024
 Server Closure: false
-Site Rating: 2.36
-Update Achievements: []
+Site Rating: 2.43
+Update Achievements:
+- Achievement Name: Raise shields
+  Description: Kill 1200 enemies
+  GS: '200'
+  Guide: false
+  Number of Gamers: 481
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '240'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Reloading weapons
+  Description: Kill 1400 enemies
+  GS: '200'
+  Guide: false
+  Number of Gamers: 480
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '240'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Growing stronger
+  Description: Kill 1600 enemies
+  GS: '200'
+  Guide: false
+  Number of Gamers: 480
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '240'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: The Art of War
+  Description: Kill 1800 enemies
+  GS: '200'
+  Guide: false
+  Number of Gamers: 478
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '241'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Advanced defense
+  Description: Kill 2000 enemies
+  GS: '200'
+  Guide: true
+  Number of Gamers: 479
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '240'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 Walkthrough: false

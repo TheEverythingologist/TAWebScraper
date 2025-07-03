@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 15.0
-- 20.0
-Base GS: 1000
+- 16.0
+- 22.0
+Base GS: 1300
 Base Game Achievements:
 - Achievement Name: Captain of the Guard
   Description: Defeated Nephro.
   GS: '15'
   Guide: true
-  Number of Gamers: 51181
+  Number of Gamers: 54944
   Percentage of Gamers: 94%
   Ratio: 1.03
   TA: '15'
@@ -20,9 +20,9 @@ Base Game Achievements:
   Description: Defeated the Polluted Platoon Pathfinder.
   GS: '15'
   Guide: true
-  Number of Gamers: 36348
+  Number of Gamers: 39213
   Percentage of Gamers: 67%
-  Ratio: 1.22
+  Ratio: 1.21
   TA: '18'
   Tags:
   - Offline Mode
@@ -32,7 +32,7 @@ Base Game Achievements:
   Description: Defeated The Duchess.
   GS: '15'
   Guide: true
-  Number of Gamers: 30259
+  Number of Gamers: 32697
   Percentage of Gamers: 56%
   Ratio: 1.33
   TA: '20'
@@ -44,9 +44,9 @@ Base Game Achievements:
   Description: Defeated the Royal Shellsplitter.
   GS: '15'
   Guide: true
-  Number of Gamers: 25997
+  Number of Gamers: 28267
   Percentage of Gamers: 48%
-  Ratio: 1.44
+  Ratio: 1.43
   TA: '21'
   Tags:
   - Offline Game Mode
@@ -55,9 +55,9 @@ Base Game Achievements:
   Description: Defeated the Curdled Carbonara Connoisseur.
   GS: '15'
   Guide: true
-  Number of Gamers: 10606
+  Number of Gamers: 11764
   Percentage of Gamers: 20%
-  Ratio: 2.26
+  Ratio: 2.22
   TA: '33'
   Tags:
   - Offline Game Mode
@@ -66,9 +66,9 @@ Base Game Achievements:
   Description: Defeated Heikea.
   GS: '15'
   Guide: true
-  Number of Gamers: 18291
+  Number of Gamers: 19925
   Percentage of Gamers: 34%
-  Ratio: 1.72
+  Ratio: 1.71
   TA: '25'
   Tags:
   - Offline Mode
@@ -78,10 +78,10 @@ Base Game Achievements:
   Description: Defeated Topoda.
   GS: '50'
   Guide: true
-  Number of Gamers: 13990
+  Number of Gamers: 15378
   Percentage of Gamers: 26%
-  Ratio: 1.97
-  TA: '98'
+  Ratio: 1.94
+  TA: '97'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -89,9 +89,9 @@ Base Game Achievements:
   Description: Defeated the Ceviche Sisters.
   GS: '15'
   Guide: true
-  Number of Gamers: 14977
+  Number of Gamers: 16419
   Percentage of Gamers: 28%
-  Ratio: 1.9
+  Ratio: 1.88
   TA: '28'
   Tags:
   - Offline Mode
@@ -101,10 +101,10 @@ Base Game Achievements:
   Description: Defeated the Scuttling Sludge Steamroller.
   GS: '15'
   Guide: true
-  Number of Gamers: 15286
-  Percentage of Gamers: 28%
-  Ratio: 1.88
-  TA: '28'
+  Number of Gamers: 16746
+  Percentage of Gamers: 29%
+  Ratio: 1.86
+  TA: '27'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -112,10 +112,10 @@ Base Game Achievements:
   Description: Defeated The Consortium.
   GS: '50'
   Guide: true
-  Number of Gamers: 10838
-  Percentage of Gamers: 20%
-  Ratio: 2.23
-  TA: '111'
+  Number of Gamers: 11989
+  Percentage of Gamers: 21%
+  Ratio: 2.2
+  TA: '110'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -123,9 +123,9 @@ Base Game Achievements:
   Description: Defeated the Diseased Lichenthrope.
   GS: '15'
   Guide: true
-  Number of Gamers: 20285
-  Percentage of Gamers: 37%
-  Ratio: 1.63
+  Number of Gamers: 22068
+  Percentage of Gamers: 38%
+  Ratio: 1.62
   TA: '24'
   Tags:
   - Offline Mode
@@ -135,9 +135,9 @@ Base Game Achievements:
   Description: Defeated Pagurus.
   GS: '15'
   Guide: true
-  Number of Gamers: 17615
-  Percentage of Gamers: 32%
-  Ratio: 1.75
+  Number of Gamers: 19237
+  Percentage of Gamers: 33%
+  Ratio: 1.74
   TA: '26'
   Tags:
   - Offline Mode
@@ -147,9 +147,9 @@ Base Game Achievements:
   Description: Defeated Voltai.
   GS: '15'
   Guide: false
-  Number of Gamers: 14069
+  Number of Gamers: 15449
   Percentage of Gamers: 26%
-  Ratio: 1.96
+  Ratio: 1.94
   TA: '29'
   Tags:
   - Offline Mode
@@ -159,9 +159,9 @@ Base Game Achievements:
   Description: Defeated Roland.
   GS: '15'
   Guide: false
-  Number of Gamers: 13752
-  Percentage of Gamers: 25%
-  Ratio: 1.98
+  Number of Gamers: 15139
+  Percentage of Gamers: 26%
+  Ratio: 1.96
   TA: '29'
   Tags:
   - Offline Mode
@@ -171,10 +171,10 @@ Base Game Achievements:
   Description: Defeated Petroch.
   GS: '15'
   Guide: false
-  Number of Gamers: 13452
+  Number of Gamers: 14830
   Percentage of Gamers: 25%
-  Ratio: 2.0
-  TA: '30'
+  Ratio: 1.98
+  TA: '29'
   Tags:
   - Offline Mode
   - Single Player
@@ -183,9 +183,9 @@ Base Game Achievements:
   Description: Defeated Inkerton.
   GS: '15'
   Guide: false
-  Number of Gamers: 13088
-  Percentage of Gamers: 24%
-  Ratio: 2.03
+  Number of Gamers: 14437
+  Percentage of Gamers: 25%
+  Ratio: 2.01
   TA: '30'
   Tags:
   - Offline Mode
@@ -195,10 +195,10 @@ Base Game Achievements:
   Description: Defeated Camtscha.
   GS: '15'
   Guide: false
-  Number of Gamers: 12685
-  Percentage of Gamers: 23%
-  Ratio: 2.06
-  TA: '31'
+  Number of Gamers: 14008
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '30'
   Tags:
   - Offline Mode
   - Single Player
@@ -207,10 +207,10 @@ Base Game Achievements:
   Description: Defeated Camtscha (For real.)
   GS: '30'
   Guide: true
-  Number of Gamers: 12622
-  Percentage of Gamers: 23%
-  Ratio: 2.07
-  TA: '62'
+  Number of Gamers: 13947
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '61'
   Tags:
   - Offline Mode
   - Single Player
@@ -219,10 +219,10 @@ Base Game Achievements:
   Description: Defeated Praya Dubia.
   GS: '30'
   Guide: true
-  Number of Gamers: 12598
-  Percentage of Gamers: 23%
-  Ratio: 2.07
-  TA: '62'
+  Number of Gamers: 13914
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '61'
   Tags:
   - Offline Mode
   - Single Player
@@ -231,10 +231,10 @@ Base Game Achievements:
   Description: Defeated Firth.
   GS: '50'
   Guide: true
-  Number of Gamers: 12151
-  Percentage of Gamers: 22%
-  Ratio: 2.11
-  TA: '105'
+  Number of Gamers: 13460
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '104'
   Tags:
   - Offline Mode
   - Single Player
@@ -243,10 +243,10 @@ Base Game Achievements:
   Description: Get your shell back.
   GS: '100'
   Guide: true
-  Number of Gamers: 12438
-  Percentage of Gamers: 23%
-  Ratio: 2.08
-  TA: '208'
+  Number of Gamers: 13739
+  Percentage of Gamers: 24%
+  Ratio: 2.06
+  TA: '206'
   Tags:
   - Offline Mode
   - Single Player
@@ -256,10 +256,10 @@ Base Game Achievements:
   Description: Completed the Path of the Predator.
   GS: '30'
   Guide: true
-  Number of Gamers: 13547
-  Percentage of Gamers: 25%
-  Ratio: 2.0
-  TA: '60'
+  Number of Gamers: 14905
+  Percentage of Gamers: 26%
+  Ratio: 1.97
+  TA: '59'
   Tags:
   - Offline Mode
   - Single Player
@@ -268,10 +268,10 @@ Base Game Achievements:
   Description: Completed the Path of the True Crab.
   GS: '30'
   Guide: true
-  Number of Gamers: 13115
-  Percentage of Gamers: 24%
-  Ratio: 2.03
-  TA: '61'
+  Number of Gamers: 14434
+  Percentage of Gamers: 25%
+  Ratio: 2.01
+  TA: '60'
   Tags:
   - Offline Mode
   - Single Player
@@ -280,10 +280,10 @@ Base Game Achievements:
   Description: Completed the Path of the Hermit.
   GS: '30'
   Guide: true
-  Number of Gamers: 12896
+  Number of Gamers: 14204
   Percentage of Gamers: 24%
-  Ratio: 2.05
-  TA: '61'
+  Ratio: 2.02
+  TA: '60'
   Tags:
   - Offline Mode
   - Single Player
@@ -292,9 +292,9 @@ Base Game Achievements:
   Description: Begin the treasure hunt.
   GS: '15'
   Guide: false
-  Number of Gamers: 24998
+  Number of Gamers: 27102
   Percentage of Gamers: 46%
-  Ratio: 1.47
+  Ratio: 1.46
   TA: '22'
   Tags:
   - Offline Mode
@@ -304,10 +304,10 @@ Base Game Achievements:
   Description: Upgrade your fork to its full potential.
   GS: '100'
   Guide: true
-  Number of Gamers: 7816
-  Percentage of Gamers: 14%
-  Ratio: 2.63
-  TA: '263'
+  Number of Gamers: 8794
+  Percentage of Gamers: 15%
+  Ratio: 2.57
+  TA: '257'
   Tags:
   - Offline Mode
   - Single Player
@@ -316,10 +316,10 @@ Base Game Achievements:
   Description: Buy some shell insurance.
   GS: '15'
   Guide: true
-  Number of Gamers: 17424
-  Percentage of Gamers: 32%
-  Ratio: 1.76
-  TA: '26'
+  Number of Gamers: 19433
+  Percentage of Gamers: 33%
+  Ratio: 1.73
+  TA: '25'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -327,9 +327,9 @@ Base Game Achievements:
   Description: Fall to your death for the first time.
   GS: '15'
   Guide: true
-  Number of Gamers: 24360
+  Number of Gamers: 26499
   Percentage of Gamers: 45%
-  Ratio: 1.49
+  Ratio: 1.48
   TA: '22'
   Tags:
   - Offline Game Mode
@@ -338,10 +338,10 @@ Base Game Achievements:
   Description: Find a certain hero's helmet.
   GS: '15'
   Guide: true
-  Number of Gamers: 8869
-  Percentage of Gamers: 16%
-  Ratio: 2.47
-  TA: '37'
+  Number of Gamers: 9884
+  Percentage of Gamers: 17%
+  Ratio: 2.42
+  TA: '36'
   Tags:
   - Offline Mode
   - Single Player
@@ -350,9 +350,9 @@ Base Game Achievements:
   Description: Shoot a crab with a gun.
   GS: '15'
   Guide: true
-  Number of Gamers: 20816
-  Percentage of Gamers: 38%
-  Ratio: 1.61
+  Number of Gamers: 22622
+  Percentage of Gamers: 39%
+  Ratio: 1.6
   TA: '24'
   Tags:
   - Offline Game Mode
@@ -361,10 +361,10 @@ Base Game Achievements:
   Description: Try on every shell in the game.
   GS: '100'
   Guide: true
-  Number of Gamers: 7141
-  Percentage of Gamers: 13%
-  Ratio: 2.75
-  TA: '275'
+  Number of Gamers: 8033
+  Percentage of Gamers: 14%
+  Ratio: 2.69
+  TA: '269'
   Tags:
   - Offline Mode
   - Single Player
@@ -373,34 +373,107 @@ Base Game Achievements:
   Description: Learn all Adaptations.
   GS: '100'
   Guide: true
-  Number of Gamers: 8719
-  Percentage of Gamers: 16%
-  Ratio: 2.49
-  TA: '249'
+  Number of Gamers: 9728
+  Percentage of Gamers: 17%
+  Ratio: 2.44
+  TA: '244'
   Tags:
   - Offline Mode
   - Single Player
   - Collectable
-Base Ratio: 2.133
-Base TA: 2133
+Base Ratio: 2.919230769230769
+Base TA: 3795
 Delisted: false
 Developer: Aggro Crab Games
 Game Name: Another Crab's Treasure
 Genres: Action-RPG, Role Playing
 Install Size: 4320.0
-Number of Completions: 6704
-Number of Gamers: 54320
+Number of Completions: 1479
+Number of Gamers: 58328
 Overall Completion Time:
-- 15.0
-- 20.0
-Overall GS: 1000
-Overall Ratio: 2.133
-Overall TA: 2133
+- 16.0
+- 22.0
+Overall GS: 1300
+Overall Ratio: 2.919230769230769
+Overall TA: 3795
 PDU: 0
-Percentage Completed: 12.34
+Percentage Completed: 2.54
 Publisher: Aggro Crab Games
 Release Date: 25 April 2024
 Server Closure: false
-Site Rating: 3.83
-Update Achievements: []
+Site Rating: 3.84
+Update Achievements:
+- Achievement Name: Prepare to Die
+  Description: Start a playthrough of New Game Plus.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1926
+  Percentage of Gamers: 3%
+  Ratio: 5.5
+  TA: '275'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Multiple Playthroughs Required
+- Achievement Name: I'm Moving Different
+  Description: Craft one of the legendary Sigils in New Game Plus.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1581
+  Percentage of Gamers: 3%
+  Ratio: 6.07
+  TA: '303'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+  - Multiple Playthroughs Required
+- Achievement Name: Seven Ocean Army
+  Description: Complete a Boss Rush and earn a new outfit.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1839
+  Percentage of Gamers: 3%
+  Ratio: 5.63
+  TA: '281'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Surpassing my Limits
+  Description: Level up your Stowaway limit beyond its original maximum in New Game
+    Plus.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1569
+  Percentage of Gamers: 3%
+  Ratio: 6.09
+  TA: '304'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+  - Multiple Playthroughs Required
+- Achievement Name: Look at this Stuff
+  Description: Take a look at the Museum.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 2210
+  Percentage of Gamers: 4%
+  Ratio: 5.13
+  TA: '256'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: I am Speed
+  Description: Discover one of the hidden snails.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 1924
+  Percentage of Gamers: 3%
+  Ratio: 5.5
+  TA: '275'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 Walkthrough: false

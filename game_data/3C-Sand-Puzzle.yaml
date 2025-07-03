@@ -1,119 +1,142 @@
 Add On Achievements: []
 Base Completion Time:
-- 6
-- 7
+- 5.0
+- 6.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: First Bomb
   Description: Exploded a bomb.
   GS: '50'
   Guide: false
-  Number of Gamers: 27
+  Number of Gamers: 142
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '50'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: All Sand
   Description: Played with all the sand, regardless of mode.
   GS: '50'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 52%
-  Ratio: 1.44
-  TA: '72'
-  Tags: []
+  Number of Gamers: 77
+  Percentage of Gamers: 54%
+  Ratio: 1.35
+  TA: '67'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: All Background
   Description: Played with all the background, regardless of mode.
   GS: '50'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 59%
-  Ratio: 1.33
-  TA: '66'
-  Tags: []
+  Number of Gamers: 83
+  Percentage of Gamers: 58%
+  Ratio: 1.3
+  TA: '65'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: All Cursors
   Description: Played with all the cursors, regardless of mode.
   GS: '50'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 56%
-  Ratio: 1.38
-  TA: '69'
-  Tags: []
+  Number of Gamers: 78
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '67'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: All Game
   Description: Played all the mode of the game.
   GS: '100'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 41%
-  Ratio: 1.58
-  TA: '158'
-  Tags: []
+  Number of Gamers: 73
+  Percentage of Gamers: 51%
+  Ratio: 1.39
+  TA: '139'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Seven Color Rainbow
   Description: The number of erased rainbow reached 7.
   GS: '100'
   Guide: true
-  Number of Gamers: 11
-  Percentage of Gamers: 41%
-  Ratio: 1.58
-  TA: '158'
-  Tags: []
+  Number of Gamers: 88
+  Percentage of Gamers: 62%
+  Ratio: 1.27
+  TA: '127'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Big Connect
   Description: Connected more than 300 grains in 1 game.
   GS: '100'
   Guide: true
-  Number of Gamers: 6
-  Percentage of Gamers: 22%
-  Ratio: 2.23
-  TA: '223'
-  Tags: []
+  Number of Gamers: 59
+  Percentage of Gamers: 42%
+  Ratio: 1.55
+  TA: '155'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Played Hard
   Description: Played 30 times, regardless of mode.
   GS: '100'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 30%
-  Ratio: 1.88
-  TA: '188'
-  Tags: []
+  Number of Gamers: 59
+  Percentage of Gamers: 42%
+  Ratio: 1.55
+  TA: '155'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Worked Hard
   Description: Reached level 60, regardless of mode.
   GS: '200'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 63%
-  Ratio: 1.29
-  TA: '258'
-  Tags: []
+  Number of Gamers: 94
+  Percentage of Gamers: 66%
+  Ratio: 1.22
+  TA: '245'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Countless Sand
   Description: The number of erased grains reached 100,000.
   GS: '200'
-  Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 11%
-  Ratio: 2.88
-  TA: '577'
-  Tags: []
-Base Ratio: 1.819
-Base TA: 1819
+  Guide: true
+  Number of Gamers: 38
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '386'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+Base Ratio: 1.456
+Base TA: 1456
 Delisted: false
-Developer: ''
+Developer: COOL&WARM
 Game Name: "3\xB0C: Sand Puzzle"
-Genres: None
-Install Size: 824.0
-Number of Completions: 3
-Number of Gamers: 27
+Genres: Puzzle
+Install Size: 825.0
+Number of Completions: 37
+Number of Gamers: 142
 Overall Completion Time:
-- 6
-- 7
+- 5.0
+- 6.0
 Overall GS: 1000
-Overall Ratio: 1.819
-Overall TA: 1819
+Overall Ratio: 1.456
+Overall TA: 1456
 PDU: 0
-Percentage Completed: 11.11
-Publisher: []
-Release Date: To be announced
+Percentage Completed: 26.06
+Publisher: KEMCO
+Release Date: 21 February 2025
 Server Closure: false
-Site Rating: 1.0
+Site Rating: 2.85
 Update Achievements: []
 Walkthrough: false

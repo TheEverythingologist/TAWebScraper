@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- 62
-- 63
+- 67
+- 68
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: So Lonely!
   Description: Lose the game with one human left.
   GS: '15'
   Guide: false
-  Number of Gamers: 56
+  Number of Gamers: 58
   Percentage of Gamers: 22%
-  Ratio: 2.12
-  TA: '31'
+  Ratio: 2.14
+  TA: '32'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -19,10 +19,10 @@ Base Game Achievements:
   Description: Try every dialogue option (except those introduced in the second campaign)
   GS: '30'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 5
   Percentage of Gamers: 2%
-  Ratio: 7.93
-  TA: '238'
+  Ratio: 7.29
+  TA: '218'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -30,10 +30,10 @@ Base Game Achievements:
   Description: Control all types of mechanical arms simultaneously.
   GS: '30'
   Guide: false
-  Number of Gamers: 5
+  Number of Gamers: 6
   Percentage of Gamers: 2%
-  Ratio: 7.09
-  TA: '212'
+  Ratio: 6.65
+  TA: '199'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -41,8 +41,8 @@ Base Game Achievements:
   Description: Don't use a facility for two days straight.
   GS: '20'
   Guide: true
-  Number of Gamers: 218
-  Percentage of Gamers: 87%
+  Number of Gamers: 229
+  Percentage of Gamers: 86%
   Ratio: 1.07
   TA: '21'
   Tags:
@@ -52,10 +52,10 @@ Base Game Achievements:
   Description: Have humans splattered over all possible facilities simultaneously.
   GS: '50'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 1%
-  Ratio: 9.16
-  TA: '458'
+  Number of Gamers: 4
+  Percentage of Gamers: 2%
+  Ratio: 8.15
+  TA: '407'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -63,10 +63,10 @@ Base Game Achievements:
   Description: Finish the campaign while always choosing the first answer in dialogues.
   GS: '15'
   Guide: false
-  Number of Gamers: 5
+  Number of Gamers: 6
   Percentage of Gamers: 2%
-  Ratio: 7.09
-  TA: '106'
+  Ratio: 6.65
+  TA: '99'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -74,10 +74,10 @@ Base Game Achievements:
   Description: Dissolve 20 people in the Bioreactor simultaneously.
   GS: '20'
   Guide: false
-  Number of Gamers: 14
+  Number of Gamers: 16
   Percentage of Gamers: 6%
-  Ratio: 4.24
-  TA: '84'
+  Ratio: 4.07
+  TA: '81'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -85,10 +85,10 @@ Base Game Achievements:
   Description: Reach day 6 while never having less than 50% power.
   GS: '45'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 2%
-  Ratio: 6.48
-  TA: '291'
+  Number of Gamers: 7
+  Percentage of Gamers: 3%
+  Ratio: 6.16
+  TA: '277'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -96,10 +96,10 @@ Base Game Achievements:
   Description: Survive for 6 days.
   GS: '15'
   Guide: false
-  Number of Gamers: 74
-  Percentage of Gamers: 29%
-  Ratio: 1.84
-  TA: '27'
+  Number of Gamers: 83
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '26'
   Tags:
   - Offline Mode
   - Single Player
@@ -108,10 +108,10 @@ Base Game Achievements:
   Description: Survive for 14 days.
   GS: '35'
   Guide: false
-  Number of Gamers: 24
+  Number of Gamers: 27
   Percentage of Gamers: 10%
-  Ratio: 3.24
-  TA: '113'
+  Ratio: 3.13
+  TA: '109'
   Tags:
   - Offline Mode
   - Single Player
@@ -120,10 +120,10 @@ Base Game Achievements:
   Description: Survive for 20 days.
   GS: '50'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 6%
-  Ratio: 4.09
-  TA: '204'
+  Number of Gamers: 18
+  Percentage of Gamers: 7%
+  Ratio: 3.84
+  TA: '192'
   Tags:
   - Offline Mode
   - Single Player
@@ -132,10 +132,10 @@ Base Game Achievements:
   Description: Finish the campaign.
   GS: '75'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 5%
-  Ratio: 4.4
-  TA: '330'
+  Number of Gamers: 16
+  Percentage of Gamers: 6%
+  Ratio: 4.07
+  TA: '305'
   Tags:
   - Offline Mode
   - Single Player
@@ -144,10 +144,10 @@ Base Game Achievements:
   Description: Finish the first campaign with the "Hardcore" chip.
   GS: '75'
   Guide: true
-  Number of Gamers: 2
+  Number of Gamers: 3
   Percentage of Gamers: 1%
-  Ratio: 11.22
-  TA: '841'
+  Ratio: 9.41
+  TA: '706'
   Tags:
   - Offline Mode
   - Single Player
@@ -156,10 +156,10 @@ Base Game Achievements:
   Description: Lose on the last day.
   GS: '80'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 2%
-  Ratio: 6.48
-  TA: '518'
+  Number of Gamers: 7
+  Percentage of Gamers: 3%
+  Ratio: 6.16
+  TA: '493'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -167,9 +167,9 @@ Base Game Achievements:
   Description: Kill 1000 puny humans throughout the game.
   GS: '15'
   Guide: false
-  Number of Gamers: 44
-  Percentage of Gamers: 17%
-  Ratio: 2.39
+  Number of Gamers: 48
+  Percentage of Gamers: 18%
+  Ratio: 2.37
   TA: '35'
   Tags:
   - Offline Mode
@@ -179,10 +179,10 @@ Base Game Achievements:
   Description: Kill 10,000 puny humans throughout the game.
   GS: '35'
   Guide: false
-  Number of Gamers: 10
+  Number of Gamers: 11
   Percentage of Gamers: 4%
-  Ratio: 5.02
-  TA: '175'
+  Ratio: 4.91
+  TA: '172'
   Tags:
   - Offline Mode
   - Single Player
@@ -191,10 +191,10 @@ Base Game Achievements:
   Description: Play the game 100 times.
   GS: '50'
   Guide: true
-  Number of Gamers: 6
-  Percentage of Gamers: 2%
-  Ratio: 6.48
-  TA: '324'
+  Number of Gamers: 7
+  Percentage of Gamers: 3%
+  Ratio: 6.16
+  TA: '308'
   Tags:
   - Offline Mode
   - Single Player
@@ -203,10 +203,10 @@ Base Game Achievements:
   Description: Breed fat conjoined zombies.
   GS: '15'
   Guide: false
-  Number of Gamers: 5
+  Number of Gamers: 6
   Percentage of Gamers: 2%
-  Ratio: 7.09
-  TA: '106'
+  Ratio: 6.65
+  TA: '99'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -214,10 +214,10 @@ Base Game Achievements:
   Description: Encounter all modifiers (except those introduced in the second campaign)
   GS: '25'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 5
   Percentage of Gamers: 2%
-  Ratio: 7.93
-  TA: '198'
+  Ratio: 7.29
+  TA: '182'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -225,10 +225,10 @@ Base Game Achievements:
   Description: Lose the game during a revolt.
   GS: '25'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 4%
-  Ratio: 4.78
-  TA: '119'
+  Number of Gamers: 12
+  Percentage of Gamers: 5%
+  Ratio: 4.7
+  TA: '117'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -236,7 +236,7 @@ Base Game Achievements:
   Description: Lose the game without killing a single puny human.
   GS: '25'
   Guide: false
-  Number of Gamers: 126
+  Number of Gamers: 132
   Percentage of Gamers: 50%
   Ratio: 1.41
   TA: '35'
@@ -247,9 +247,9 @@ Base Game Achievements:
   Description: Get to Day 6 without improving the Power Generator.
   GS: '15'
   Guide: false
-  Number of Gamers: 16
+  Number of Gamers: 17
   Percentage of Gamers: 6%
-  Ratio: 3.96
+  Ratio: 3.95
   TA: '59'
   Tags:
   - Offline Game Mode
@@ -258,9 +258,9 @@ Base Game Achievements:
   Description: Produce 3000 power.
   GS: '15'
   Guide: false
-  Number of Gamers: 93
-  Percentage of Gamers: 37%
-  Ratio: 1.64
+  Number of Gamers: 103
+  Percentage of Gamers: 39%
+  Ratio: 1.6
   TA: '24'
   Tags:
   - Offline Mode
@@ -270,9 +270,9 @@ Base Game Achievements:
   Description: Produce 36,000 power.
   GS: '35'
   Guide: false
-  Number of Gamers: 41
-  Percentage of Gamers: 16%
-  Ratio: 2.47
+  Number of Gamers: 44
+  Percentage of Gamers: 17%
+  Ratio: 2.45
   TA: '86'
   Tags:
   - Offline Mode
@@ -282,7 +282,7 @@ Base Game Achievements:
   Description: Have more than half your puny humans starve at once.
   GS: '30'
   Guide: false
-  Number of Gamers: 175
+  Number of Gamers: 184
   Percentage of Gamers: 69%
   Ratio: 1.2
   TA: '36'
@@ -293,10 +293,10 @@ Base Game Achievements:
   Description: Get to Day 14 without losing a single puny human to starvation.
   GS: '35'
   Guide: false
-  Number of Gamers: 29
+  Number of Gamers: 32
   Percentage of Gamers: 12%
-  Ratio: 2.94
-  TA: '103'
+  Ratio: 2.88
+  TA: '100'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -304,10 +304,10 @@ Base Game Achievements:
   Description: Breed 30 humans before Day 2 ends.
   GS: '20'
   Guide: false
-  Number of Gamers: 24
+  Number of Gamers: 26
   Percentage of Gamers: 10%
-  Ratio: 3.24
-  TA: '64'
+  Ratio: 3.19
+  TA: '63'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -315,10 +315,10 @@ Base Game Achievements:
   Description: Get to Day 10 without buying new arms.
   GS: '30'
   Guide: false
-  Number of Gamers: 5
+  Number of Gamers: 6
   Percentage of Gamers: 2%
-  Ratio: 7.09
-  TA: '212'
+  Ratio: 6.65
+  TA: '199'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -326,9 +326,9 @@ Base Game Achievements:
   Description: Save a puny human a second before they perish from exhaustion.
   GS: '20'
   Guide: true
-  Number of Gamers: 126
-  Percentage of Gamers: 50%
-  Ratio: 1.41
+  Number of Gamers: 135
+  Percentage of Gamers: 51%
+  Ratio: 1.4
   TA: '28'
   Tags:
   - Offline Game Mode
@@ -337,32 +337,32 @@ Base Game Achievements:
   Description: Finish the second campaign.
   GS: '55'
   Guide: false
-  Number of Gamers: 9
+  Number of Gamers: 10
   Percentage of Gamers: 4%
-  Ratio: 5.29
-  TA: '291'
+  Ratio: 5.15
+  TA: '283'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
   - Story Completed
-Base Ratio: 5.369
-Base TA: 5369
+Base Ratio: 4.991
+Base TA: 4991
 Delisted: false
 Developer: Konfa Games
 Game Name: Despotism 3k
 Genres: Management
 Install Size: 585.0
-Number of Completions: 2
-Number of Gamers: 252
+Number of Completions: 3
+Number of Gamers: 266
 Overall Completion Time:
-- 62
-- 63
+- 67
+- 68
 Overall GS: 1000
-Overall Ratio: 5.369
-Overall TA: 5369
+Overall Ratio: 4.991
+Overall TA: 4991
 PDU: 0
-Percentage Completed: 0.79
+Percentage Completed: 1.13
 Publisher: OverGamez
 Release Date: 19 November 2021
 Server Closure: false

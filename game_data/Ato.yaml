@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
+- 15
 - 16
-- 17
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Rogue
   Description: Defeat Rogue
   GS: '5'
   Guide: false
-  Number of Gamers: 59
+  Number of Gamers: 65
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '5'
@@ -20,9 +20,9 @@ Base Game Achievements:
   Description: Defeat Jin
   GS: '5'
   Guide: false
-  Number of Gamers: 45
-  Percentage of Gamers: 76%
-  Ratio: 1.14
+  Number of Gamers: 49
+  Percentage of Gamers: 75%
+  Ratio: 1.15
   TA: '5'
   Tags:
   - Offline Mode
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Defeat Guardian
   GS: '5'
   Guide: false
-  Number of Gamers: 42
-  Percentage of Gamers: 71%
-  Ratio: 1.18
-  TA: '5'
+  Number of Gamers: 45
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '6'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,9 +44,9 @@ Base Game Achievements:
   Description: Defeat Ninja
   GS: '5'
   Guide: false
-  Number of Gamers: 40
-  Percentage of Gamers: 68%
-  Ratio: 1.21
+  Number of Gamers: 43
+  Percentage of Gamers: 66%
+  Ratio: 1.22
   TA: '6'
   Tags:
   - Offline Mode
@@ -56,9 +56,9 @@ Base Game Achievements:
   Description: Defeat Acolyte
   GS: '5'
   Guide: false
-  Number of Gamers: 36
-  Percentage of Gamers: 61%
-  Ratio: 1.28
+  Number of Gamers: 39
+  Percentage of Gamers: 60%
+  Ratio: 1.29
   TA: '6'
   Tags:
   - Offline Mode
@@ -68,9 +68,9 @@ Base Game Achievements:
   Description: Defeat Bandit
   GS: '5'
   Guide: false
-  Number of Gamers: 29
+  Number of Gamers: 32
   Percentage of Gamers: 49%
-  Ratio: 1.42
+  Ratio: 1.44
   TA: '7'
   Tags:
   - Offline Game Mode
@@ -79,9 +79,9 @@ Base Game Achievements:
   Description: Defeat Geisha
   GS: '5'
   Guide: false
-  Number of Gamers: 29
+  Number of Gamers: 32
   Percentage of Gamers: 49%
-  Ratio: 1.42
+  Ratio: 1.44
   TA: '7'
   Tags:
   - Offline Game Mode
@@ -90,9 +90,9 @@ Base Game Achievements:
   Description: Defeat Berserker
   GS: '5'
   Guide: false
-  Number of Gamers: 28
-  Percentage of Gamers: 47%
-  Ratio: 1.45
+  Number of Gamers: 30
+  Percentage of Gamers: 46%
+  Ratio: 1.47
   TA: '7'
   Tags:
   - Offline Game Mode
@@ -101,9 +101,9 @@ Base Game Achievements:
   Description: Defeat Sentinel
   GS: '5'
   Guide: false
-  Number of Gamers: 28
-  Percentage of Gamers: 47%
-  Ratio: 1.45
+  Number of Gamers: 31
+  Percentage of Gamers: 48%
+  Ratio: 1.47
   TA: '7'
   Tags:
   - Offline Game Mode
@@ -112,9 +112,9 @@ Base Game Achievements:
   Description: Defeat Samurai
   GS: '5'
   Guide: false
-  Number of Gamers: 27
+  Number of Gamers: 30
   Percentage of Gamers: 46%
-  Ratio: 1.47
+  Ratio: 1.49
   TA: '7'
   Tags:
   - Offline Mode
@@ -124,9 +124,9 @@ Base Game Achievements:
   Description: Defeat Warden
   GS: '5'
   Guide: false
-  Number of Gamers: 27
+  Number of Gamers: 30
   Percentage of Gamers: 46%
-  Ratio: 1.47
+  Ratio: 1.49
   TA: '7'
   Tags:
   - Offline Game Mode
@@ -135,10 +135,10 @@ Base Game Achievements:
   Description: Defeat Twins
   GS: '5'
   Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 53%
-  Ratio: 1.37
-  TA: '6'
+  Number of Gamers: 34
+  Percentage of Gamers: 52%
+  Ratio: 1.4
+  TA: '7'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -146,9 +146,9 @@ Base Game Achievements:
   Description: Defeat Shadow Jin
   GS: '5'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 44%
-  Ratio: 1.5
+  Number of Gamers: 29
+  Percentage of Gamers: 45%
+  Ratio: 1.52
   TA: '7'
   Tags:
   - Offline Game Mode
@@ -157,9 +157,9 @@ Base Game Achievements:
   Description: Defeat Phantom Shin
   GS: '5'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 44%
-  Ratio: 1.5
+  Number of Gamers: 29
+  Percentage of Gamers: 45%
+  Ratio: 1.52
   TA: '7'
   Tags:
   - Offline Game Mode
@@ -168,7 +168,7 @@ Base Game Achievements:
   Description: Defeat Vagrant
   GS: '5'
   Guide: false
-  Number of Gamers: 20
+  Number of Gamers: 22
   Percentage of Gamers: 34%
   Ratio: 1.71
   TA: '8'
@@ -179,9 +179,9 @@ Base Game Achievements:
   Description: Defeat Mother Statue
   GS: '5'
   Guide: false
-  Number of Gamers: 30
+  Number of Gamers: 33
   Percentage of Gamers: 51%
-  Ratio: 1.4
+  Ratio: 1.42
   TA: '7'
   Tags:
   - Offline Game Mode
@@ -190,9 +190,9 @@ Base Game Achievements:
   Description: Defeat Father Statue
   GS: '5'
   Guide: false
-  Number of Gamers: 27
+  Number of Gamers: 30
   Percentage of Gamers: 46%
-  Ratio: 1.47
+  Ratio: 1.49
   TA: '7'
   Tags:
   - Offline Game Mode
@@ -201,9 +201,9 @@ Base Game Achievements:
   Description: Defeat Child Statue
   GS: '5'
   Guide: false
-  Number of Gamers: 29
+  Number of Gamers: 32
   Percentage of Gamers: 49%
-  Ratio: 1.42
+  Ratio: 1.44
   TA: '7'
   Tags:
   - Offline Game Mode
@@ -212,9 +212,9 @@ Base Game Achievements:
   Description: Defeat Ancient Warrior
   GS: '5'
   Guide: false
-  Number of Gamers: 29
+  Number of Gamers: 32
   Percentage of Gamers: 49%
-  Ratio: 1.42
+  Ratio: 1.44
   TA: '7'
   Tags:
   - Offline Mode
@@ -224,9 +224,9 @@ Base Game Achievements:
   Description: Defeat Yari
   GS: '5'
   Guide: false
-  Number of Gamers: 27
+  Number of Gamers: 30
   Percentage of Gamers: 46%
-  Ratio: 1.47
+  Ratio: 1.49
   TA: '7'
   Tags:
   - Offline Mode
@@ -236,9 +236,9 @@ Base Game Achievements:
   Description: Defeat Deceiver
   GS: '5'
   Guide: false
-  Number of Gamers: 27
+  Number of Gamers: 30
   Percentage of Gamers: 46%
-  Ratio: 1.47
+  Ratio: 1.49
   TA: '7'
   Tags:
   - Offline Mode
@@ -248,9 +248,9 @@ Base Game Achievements:
   Description: Defeat Blameless
   GS: '5'
   Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 39%
-  Ratio: 1.6
+  Number of Gamers: 26
+  Percentage of Gamers: 40%
+  Ratio: 1.61
   TA: '8'
   Tags:
   - Offline Game Mode
@@ -259,9 +259,9 @@ Base Game Achievements:
   Description: Defeat Cross Blade
   GS: '5'
   Guide: false
-  Number of Gamers: 27
+  Number of Gamers: 30
   Percentage of Gamers: 46%
-  Ratio: 1.47
+  Ratio: 1.49
   TA: '7'
   Tags:
   - Offline Game Mode
@@ -270,9 +270,9 @@ Base Game Achievements:
   Description: Defeat Daggerman
   GS: '5'
   Guide: false
-  Number of Gamers: 27
+  Number of Gamers: 30
   Percentage of Gamers: 46%
-  Ratio: 1.47
+  Ratio: 1.49
   TA: '7'
   Tags:
   - Offline Game Mode
@@ -281,9 +281,9 @@ Base Game Achievements:
   Description: Defeat Turtle
   GS: '5'
   Guide: false
-  Number of Gamers: 27
+  Number of Gamers: 30
   Percentage of Gamers: 46%
-  Ratio: 1.47
+  Ratio: 1.49
   TA: '7'
   Tags:
   - Offline Game Mode
@@ -292,9 +292,9 @@ Base Game Achievements:
   Description: Defeat Champ
   GS: '5'
   Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 39%
-  Ratio: 1.6
+  Number of Gamers: 26
+  Percentage of Gamers: 40%
+  Ratio: 1.61
   TA: '8'
   Tags:
   - Offline Game Mode
@@ -303,9 +303,9 @@ Base Game Achievements:
   Description: Defeat Tiny Warrior
   GS: '5'
   Guide: false
-  Number of Gamers: 25
-  Percentage of Gamers: 42%
-  Ratio: 1.53
+  Number of Gamers: 28
+  Percentage of Gamers: 43%
+  Ratio: 1.55
   TA: '7'
   Tags:
   - Offline Game Mode
@@ -314,9 +314,9 @@ Base Game Achievements:
   Description: Defeat Archer
   GS: '5'
   Guide: false
-  Number of Gamers: 24
-  Percentage of Gamers: 41%
-  Ratio: 1.56
+  Number of Gamers: 27
+  Percentage of Gamers: 42%
+  Ratio: 1.58
   TA: '7'
   Tags:
   - Offline Game Mode
@@ -325,9 +325,9 @@ Base Game Achievements:
   Description: Defeat Tempest
   GS: '5'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 44%
-  Ratio: 1.5
+  Number of Gamers: 29
+  Percentage of Gamers: 45%
+  Ratio: 1.52
   TA: '7'
   Tags:
   - Offline Game Mode
@@ -336,9 +336,9 @@ Base Game Achievements:
   Description: Defeat Monk
   GS: '5'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 44%
-  Ratio: 1.5
+  Number of Gamers: 29
+  Percentage of Gamers: 45%
+  Ratio: 1.52
   TA: '7'
   Tags:
   - Offline Mode
@@ -348,9 +348,9 @@ Base Game Achievements:
   Description: Defeat Leader
   GS: '5'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 44%
-  Ratio: 1.5
+  Number of Gamers: 29
+  Percentage of Gamers: 45%
+  Ratio: 1.52
   TA: '7'
   Tags:
   - Offline Mode
@@ -360,9 +360,9 @@ Base Game Achievements:
   Description: Defeat Demon
   GS: '10'
   Guide: false
-  Number of Gamers: 24
-  Percentage of Gamers: 41%
-  Ratio: 1.56
+  Number of Gamers: 27
+  Percentage of Gamers: 42%
+  Ratio: 1.58
   TA: '15'
   Tags:
   - Offline Mode
@@ -372,9 +372,9 @@ Base Game Achievements:
   Description: Defeat the demon's final form
   GS: '10'
   Guide: false
-  Number of Gamers: 21
-  Percentage of Gamers: 36%
-  Ratio: 1.67
+  Number of Gamers: 24
+  Percentage of Gamers: 37%
+  Ratio: 1.68
   TA: '16'
   Tags:
   - Offline Mode
@@ -384,9 +384,9 @@ Base Game Achievements:
   Description: Complete Spin Arena
   GS: '5'
   Guide: false
-  Number of Gamers: 27
+  Number of Gamers: 30
   Percentage of Gamers: 46%
-  Ratio: 1.47
+  Ratio: 1.49
   TA: '7'
   Tags:
   - Offline Game Mode
@@ -395,9 +395,9 @@ Base Game Achievements:
   Description: Complete Armor Arena
   GS: '5'
   Guide: false
-  Number of Gamers: 27
+  Number of Gamers: 30
   Percentage of Gamers: 46%
-  Ratio: 1.47
+  Ratio: 1.49
   TA: '7'
   Tags:
   - Offline Game Mode
@@ -406,9 +406,9 @@ Base Game Achievements:
   Description: Complete Throw Arena
   GS: '5'
   Guide: false
-  Number of Gamers: 27
+  Number of Gamers: 30
   Percentage of Gamers: 46%
-  Ratio: 1.47
+  Ratio: 1.49
   TA: '7'
   Tags:
   - Offline Game Mode
@@ -417,9 +417,9 @@ Base Game Achievements:
   Description: Complete Fatal Arena
   GS: '5'
   Guide: false
-  Number of Gamers: 22
-  Percentage of Gamers: 37%
-  Ratio: 1.63
+  Number of Gamers: 25
+  Percentage of Gamers: 38%
+  Ratio: 1.64
   TA: '8'
   Tags:
   - Offline Game Mode
@@ -428,10 +428,10 @@ Base Game Achievements:
   Description: Be deceived repeatedly
   GS: '10'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 10%
-  Ratio: 3.13
-  TA: '31'
+  Number of Gamers: 8
+  Percentage of Gamers: 12%
+  Ratio: 2.85
+  TA: '28'
   Tags:
   - Offline Mode
   - Single Player
@@ -441,10 +441,10 @@ Base Game Achievements:
   Description: Defeat the Leader without killing his servants
   GS: '10'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 12%
-  Ratio: 2.9
-  TA: '29'
+  Number of Gamers: 9
+  Percentage of Gamers: 14%
+  Ratio: 2.68
+  TA: '26'
   Tags:
   - Offline Mode
   - Single Player
@@ -453,9 +453,9 @@ Base Game Achievements:
   Description: Defeat Warden without the vision upgrade
   GS: '10'
   Guide: false
-  Number of Gamers: 12
+  Number of Gamers: 13
   Percentage of Gamers: 20%
-  Ratio: 2.21
+  Ratio: 2.23
   TA: '22'
   Tags:
   - Offline Mode
@@ -465,9 +465,9 @@ Base Game Achievements:
   Description: Die in a fight you should win
   GS: '5'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 15%
-  Ratio: 2.56
+  Number of Gamers: 11
+  Percentage of Gamers: 17%
+  Ratio: 2.43
   TA: '12'
   Tags:
   - Offline Mode
@@ -477,10 +477,10 @@ Base Game Achievements:
   Description: Find the secret high up in a dark area
   GS: '10'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 19%
-  Ratio: 2.31
-  TA: '23'
+  Number of Gamers: 13
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '22'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -488,9 +488,9 @@ Base Game Achievements:
   Description: Complete the prologue
   GS: '10'
   Guide: false
-  Number of Gamers: 36
-  Percentage of Gamers: 61%
-  Ratio: 1.28
+  Number of Gamers: 39
+  Percentage of Gamers: 60%
+  Ratio: 1.29
   TA: '12'
   Tags:
   - Offline Mode
@@ -500,9 +500,9 @@ Base Game Achievements:
   Description: Parry your opponent
   GS: '5'
   Guide: false
-  Number of Gamers: 45
-  Percentage of Gamers: 76%
-  Ratio: 1.14
+  Number of Gamers: 48
+  Percentage of Gamers: 74%
+  Ratio: 1.17
   TA: '5'
   Tags:
   - Offline Game Mode
@@ -511,9 +511,9 @@ Base Game Achievements:
   Description: Hit opponent 5 times while they are launched
   GS: '5'
   Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 51%
-  Ratio: 1.4
+  Number of Gamers: 32
+  Percentage of Gamers: 49%
+  Ratio: 1.42
   TA: '7'
   Tags:
   - Offline Game Mode
@@ -522,9 +522,9 @@ Base Game Achievements:
   Description: Successfully perform the counter ability on an enemy
   GS: '5'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 22%
-  Ratio: 2.13
+  Number of Gamers: 15
+  Percentage of Gamers: 23%
+  Ratio: 2.08
   TA: '10'
   Tags:
   - Offline Game Mode
@@ -533,10 +533,10 @@ Base Game Achievements:
   Description: Perform the just-frame legendary move
   GS: '5'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 10%
-  Ratio: 3.13
-  TA: '15'
+  Number of Gamers: 8
+  Percentage of Gamers: 12%
+  Ratio: 2.85
+  TA: '14'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -544,9 +544,9 @@ Base Game Achievements:
   Description: Perform the legendary move on an enemy
   GS: '5'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 25%
-  Ratio: 1.98
+  Number of Gamers: 17
+  Percentage of Gamers: 26%
+  Ratio: 1.95
   TA: '9'
   Tags:
   - Offline Game Mode
@@ -555,9 +555,9 @@ Base Game Achievements:
   Description: Find the hidden vision
   GS: '5'
   Guide: false
-  Number of Gamers: 13
+  Number of Gamers: 14
   Percentage of Gamers: 22%
-  Ratio: 2.13
+  Ratio: 2.15
   TA: '10'
   Tags:
   - Offline Game Mode
@@ -566,9 +566,9 @@ Base Game Achievements:
   Description: Find the hidden vision
   GS: '5'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 27%
-  Ratio: 1.92
+  Number of Gamers: 18
+  Percentage of Gamers: 28%
+  Ratio: 1.9
   TA: '9'
   Tags:
   - Offline Game Mode
@@ -577,9 +577,9 @@ Base Game Achievements:
   Description: Find the hidden vision
   GS: '5'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 27%
-  Ratio: 1.92
+  Number of Gamers: 17
+  Percentage of Gamers: 26%
+  Ratio: 1.95
   TA: '9'
   Tags:
   - Offline Game Mode
@@ -588,10 +588,10 @@ Base Game Achievements:
   Description: Find the hidden vision
   GS: '5'
   Guide: false
-  Number of Gamers: 15
+  Number of Gamers: 16
   Percentage of Gamers: 25%
-  Ratio: 1.98
-  TA: '9'
+  Ratio: 2.01
+  TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -599,9 +599,9 @@ Base Game Achievements:
   Description: Obtain your first Talisman
   GS: '5'
   Guide: false
-  Number of Gamers: 55
-  Percentage of Gamers: 93%
-  Ratio: 1.03
+  Number of Gamers: 59
+  Percentage of Gamers: 91%
+  Ratio: 1.04
   TA: '5'
   Tags:
   - Offline Game Mode
@@ -610,9 +610,9 @@ Base Game Achievements:
   Description: Obtain your first Coin
   GS: '5'
   Guide: false
-  Number of Gamers: 47
-  Percentage of Gamers: 80%
-  Ratio: 1.12
+  Number of Gamers: 50
+  Percentage of Gamers: 77%
+  Ratio: 1.14
   TA: '5'
   Tags:
   - Offline Game Mode
@@ -621,9 +621,9 @@ Base Game Achievements:
   Description: Obtain your first Rune
   GS: '5'
   Guide: false
-  Number of Gamers: 33
-  Percentage of Gamers: 56%
-  Ratio: 1.33
+  Number of Gamers: 36
+  Percentage of Gamers: 55%
+  Ratio: 1.36
   TA: '6'
   Tags:
   - Offline Game Mode
@@ -632,10 +632,10 @@ Base Game Achievements:
   Description: Equip a Rune
   GS: '5'
   Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 53%
-  Ratio: 1.37
-  TA: '6'
+  Number of Gamers: 34
+  Percentage of Gamers: 52%
+  Ratio: 1.4
+  TA: '7'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -643,9 +643,9 @@ Base Game Achievements:
   Description: Collect a magic bar
   GS: '5'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 44%
-  Ratio: 1.5
+  Number of Gamers: 29
+  Percentage of Gamers: 45%
+  Ratio: 1.52
   TA: '7'
   Tags:
   - Offline Game Mode
@@ -654,9 +654,9 @@ Base Game Achievements:
   Description: Increase your max health
   GS: '5'
   Guide: false
-  Number of Gamers: 50
-  Percentage of Gamers: 85%
-  Ratio: 1.08
+  Number of Gamers: 54
+  Percentage of Gamers: 83%
+  Ratio: 1.09
   TA: '5'
   Tags:
   - Offline Game Mode
@@ -665,10 +665,10 @@ Base Game Achievements:
   Description: Obtain all talismans
   GS: '20'
   Guide: false
-  Number of Gamers: 25
-  Percentage of Gamers: 42%
-  Ratio: 1.53
-  TA: '30'
+  Number of Gamers: 28
+  Percentage of Gamers: 43%
+  Ratio: 1.55
+  TA: '31'
   Tags:
   - Offline Mode
   - Single Player
@@ -678,9 +678,9 @@ Base Game Achievements:
   Description: Max out your magic meter
   GS: '20'
   Guide: false
-  Number of Gamers: 19
+  Number of Gamers: 21
   Percentage of Gamers: 32%
-  Ratio: 1.76
+  Ratio: 1.75
   TA: '35'
   Tags:
   - Offline Mode
@@ -691,10 +691,10 @@ Base Game Achievements:
   Description: Obtain all scrolls
   GS: '20'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 20%
-  Ratio: 2.21
-  TA: '44'
+  Number of Gamers: 14
+  Percentage of Gamers: 22%
+  Ratio: 2.15
+  TA: '43'
   Tags:
   - Offline Mode
   - Single Player
@@ -704,9 +704,9 @@ Base Game Achievements:
   Description: Collect all coins
   GS: '20'
   Guide: false
-  Number of Gamers: 24
-  Percentage of Gamers: 41%
-  Ratio: 1.56
+  Number of Gamers: 27
+  Percentage of Gamers: 42%
+  Ratio: 1.58
   TA: '31'
   Tags:
   - Offline Mode
@@ -717,9 +717,9 @@ Base Game Achievements:
   Description: Collect all runes
   GS: '20'
   Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 39%
-  Ratio: 1.6
+  Number of Gamers: 25
+  Percentage of Gamers: 38%
+  Ratio: 1.61
   TA: '32'
   Tags:
   - Offline Mode
@@ -730,10 +730,10 @@ Base Game Achievements:
   Description: Collect EVERYTHING
   GS: '50'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 19%
-  Ratio: 2.31
-  TA: '115'
+  Number of Gamers: 13
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '111'
   Tags:
   - Offline Mode
   - Single Player
@@ -743,9 +743,9 @@ Base Game Achievements:
   Description: Obtain the legendary blade
   GS: '5'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 44%
-  Ratio: 1.5
+  Number of Gamers: 29
+  Percentage of Gamers: 45%
+  Ratio: 1.52
   TA: '7'
   Tags:
   - Offline Mode
@@ -755,9 +755,9 @@ Base Game Achievements:
   Description: Warp from one gate to another
   GS: '5'
   Guide: false
-  Number of Gamers: 34
-  Percentage of Gamers: 58%
-  Ratio: 1.31
+  Number of Gamers: 37
+  Percentage of Gamers: 57%
+  Ratio: 1.34
   TA: '6'
   Tags:
   - Offline Game Mode
@@ -766,9 +766,9 @@ Base Game Achievements:
   Description: Destroy a blue crystal block
   GS: '5'
   Guide: false
-  Number of Gamers: 34
-  Percentage of Gamers: 58%
-  Ratio: 1.31
+  Number of Gamers: 37
+  Percentage of Gamers: 57%
+  Ratio: 1.34
   TA: '6'
   Tags:
   - Offline Mode
@@ -778,9 +778,9 @@ Base Game Achievements:
   Description: Destroy 50 wall crystals
   GS: '5'
   Guide: false
-  Number of Gamers: 17
+  Number of Gamers: 19
   Percentage of Gamers: 29%
-  Ratio: 1.86
+  Ratio: 1.84
   TA: '9'
   Tags:
   - Offline Mode
@@ -790,9 +790,9 @@ Base Game Achievements:
   Description: Cut 50 stalks of bamboo
   GS: '5'
   Guide: false
-  Number of Gamers: 21
-  Percentage of Gamers: 36%
-  Ratio: 1.67
+  Number of Gamers: 24
+  Percentage of Gamers: 37%
+  Ratio: 1.68
   TA: '8'
   Tags:
   - Offline Mode
@@ -802,9 +802,9 @@ Base Game Achievements:
   Description: Jump 1000 Times
   GS: '5'
   Guide: false
-  Number of Gamers: 36
-  Percentage of Gamers: 61%
-  Ratio: 1.28
+  Number of Gamers: 39
+  Percentage of Gamers: 60%
+  Ratio: 1.3
   TA: '6'
   Tags:
   - Offline Mode
@@ -814,10 +814,10 @@ Base Game Achievements:
   Description: Survive an impossible battle
   GS: '10'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 10%
-  Ratio: 3.13
-  TA: '31'
+  Number of Gamers: 9
+  Percentage of Gamers: 14%
+  Ratio: 2.68
+  TA: '26'
   Tags:
   - Offline Mode
   - Single Player
@@ -826,10 +826,10 @@ Base Game Achievements:
   Description: Try to get a scroll early
   GS: '10'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 10%
-  Ratio: 3.13
-  TA: '31'
+  Number of Gamers: 7
+  Percentage of Gamers: 11%
+  Ratio: 3.04
+  TA: '30'
   Tags:
   - Offline Mode
   - Single Player
@@ -839,9 +839,9 @@ Base Game Achievements:
   Description: Slash slash slash
   GS: '5'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 29%
-  Ratio: 1.86
+  Number of Gamers: 18
+  Percentage of Gamers: 28%
+  Ratio: 1.9
   TA: '9'
   Tags:
   - Offline Game Mode
@@ -850,10 +850,10 @@ Base Game Achievements:
   Description: Complete the game
   GS: '50'
   Guide: false
-  Number of Gamers: 21
-  Percentage of Gamers: 36%
-  Ratio: 1.67
-  TA: '83'
+  Number of Gamers: 24
+  Percentage of Gamers: 37%
+  Ratio: 1.68
+  TA: '84'
   Tags:
   - Offline Mode
   - Single Player
@@ -863,7 +863,7 @@ Base Game Achievements:
   Description: Beat Ato on Accessible difficulty or higher
   GS: '20'
   Guide: false
-  Number of Gamers: 20
+  Number of Gamers: 22
   Percentage of Gamers: 34%
   Ratio: 1.71
   TA: '34'
@@ -876,10 +876,10 @@ Base Game Achievements:
   Description: Beat Ato on Experienced difficulty or higher
   GS: '40'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 19%
-  Ratio: 2.31
-  TA: '92'
+  Number of Gamers: 13
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '89'
   Tags:
   - Offline Mode
   - Single Player
@@ -889,10 +889,10 @@ Base Game Achievements:
   Description: Beat Ato on Bushido or Hell difficulty
   GS: '60'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 8%
-  Ratio: 3.43
-  TA: '206'
+  Number of Gamers: 6
+  Percentage of Gamers: 9%
+  Ratio: 3.29
+  TA: '197'
   Tags:
   - Offline Mode
   - Single Player
@@ -903,10 +903,10 @@ Base Game Achievements:
   Description: Beat the first 3 bosses on Hell difficulty
   GS: '50'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 8%
-  Ratio: 3.43
-  TA: '171'
+  Number of Gamers: 7
+  Percentage of Gamers: 11%
+  Ratio: 3.04
+  TA: '152'
   Tags:
   - Offline Mode
   - Single Player
@@ -916,9 +916,9 @@ Base Game Achievements:
   Description: Surely this room has a purpose...
   GS: '10'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 44%
-  Ratio: 1.5
+  Number of Gamers: 29
+  Percentage of Gamers: 45%
+  Ratio: 1.52
   TA: '15'
   Tags:
   - Offline Game Mode
@@ -927,10 +927,10 @@ Base Game Achievements:
   Description: Beat Ato on One Hit difficulty
   GS: '100'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 8%
-  Ratio: 3.43
-  TA: '343'
+  Number of Gamers: 6
+  Percentage of Gamers: 9%
+  Ratio: 3.29
+  TA: '329'
   Tags:
   - Offline Mode
   - Single Player
@@ -940,10 +940,10 @@ Base Game Achievements:
   Description: Beat Ato without collecting a Rune
   GS: '20'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 8%
-  Ratio: 3.43
-  TA: '68'
+  Number of Gamers: 7
+  Percentage of Gamers: 11%
+  Ratio: 3.04
+  TA: '60'
   Tags:
   - Offline Mode
   - Single Player
@@ -952,10 +952,10 @@ Base Game Achievements:
   Description: Beat Ato without obtaining a dodge ability
   GS: '30'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 8%
-  Ratio: 3.43
-  TA: '103'
+  Number of Gamers: 7
+  Percentage of Gamers: 11%
+  Ratio: 3.04
+  TA: '91'
   Tags:
   - Offline Mode
   - Single Player
@@ -964,10 +964,10 @@ Base Game Achievements:
   Description: Beat Ato without collecting Talismans, Coins, Runes, nor extra Magic
   GS: '40'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 8%
-  Ratio: 3.43
-  TA: '137'
+  Number of Gamers: 7
+  Percentage of Gamers: 11%
+  Ratio: 3.04
+  TA: '121'
   Tags:
   - Offline Mode
   - Single Player
@@ -976,10 +976,10 @@ Base Game Achievements:
   Description: Beat Ato in under two hours
   GS: '40'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 8%
-  Ratio: 3.43
-  TA: '137'
+  Number of Gamers: 7
+  Percentage of Gamers: 11%
+  Ratio: 3.04
+  TA: '121'
   Tags:
   - Offline Mode
   - Single Player
@@ -988,30 +988,30 @@ Base Game Achievements:
   Description: Self-referential secrets are the best
   GS: '10'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 44%
-  Ratio: 1.5
+  Number of Gamers: 29
+  Percentage of Gamers: 45%
+  Ratio: 1.52
   TA: '15'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 2.321
-Base TA: 2321
+Base Ratio: 2.211
+Base TA: 2211
 Delisted: false
 Developer: Tiny Warrior Games
 Game Name: Ato
 Genres: Action-Adventure
 Install Size: 670.0
-Number of Completions: 5
-Number of Gamers: 59
+Number of Completions: 6
+Number of Gamers: 65
 Overall Completion Time:
+- 15
 - 16
-- 17
 Overall GS: 1000
-Overall Ratio: 2.321
-Overall TA: 2321
+Overall Ratio: 2.211
+Overall TA: 2211
 PDU: 0
-Percentage Completed: 8.47
+Percentage Completed: 9.23
 Publisher: Tiny Warrior Games
 Release Date: 10 April 2024
 Server Closure: false

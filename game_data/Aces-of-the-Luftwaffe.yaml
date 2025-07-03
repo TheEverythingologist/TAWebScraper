@@ -1,26 +1,12 @@
 Add On Achievements:
-- Achievement Name: Ace Nightmare
-  Description: Defeat all boss enemies on extreme difficulty!
-  GS: '100'
-  Guide: true
-  Number of Gamers: 46
-  Percentage of Gamers: 10%
-  Ratio: 5.36
-  TA: '536'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Cooperative
-  - Difficulty Specific
-  - Multiple Playthroughs Required
 - Achievement Name: Ghost Shepard
   Description: Defeat a Crow Commander without allowing him to heal!
   GS: '30'
   Guide: true
-  Number of Gamers: 116
+  Number of Gamers: 120
   Percentage of Gamers: 26%
-  Ratio: 3.39
-  TA: '101'
+  Ratio: 3.4
+  TA: '102'
   Tags:
   - Offline Mode
   - Single Player
@@ -29,9 +15,9 @@ Add On Achievements:
   Description: Finish all levels of the Axis campaign!
   GS: '30'
   Guide: false
-  Number of Gamers: 148
+  Number of Gamers: 153
   Percentage of Gamers: 33%
-  Ratio: 3.0
+  Ratio: 3.01
   TA: '90'
   Tags:
   - Offline Mode
@@ -42,10 +28,10 @@ Add On Achievements:
   Description: Defeat as many enemies as possible with Dark Holes!
   GS: '15'
   Guide: true
-  Number of Gamers: 210
+  Number of Gamers: 217
   Percentage of Gamers: 47%
-  Ratio: 2.51
-  TA: '37'
+  Ratio: 2.53
+  TA: '38'
   Tags:
   - Offline Mode
   - Single Player
@@ -54,9 +40,9 @@ Add On Achievements:
   Description: Defeat as many Crow soldiers as possible!
   GS: '15'
   Guide: true
-  Number of Gamers: 406
+  Number of Gamers: 422
   Percentage of Gamers: 91%
-  Ratio: 1.8
+  Ratio: 1.81
   TA: '27'
   Tags:
   - Offline Mode
@@ -66,8 +52,8 @@ Add On Achievements:
   Description: Collect fears while Siegfried is hallucinating!
   GS: '15'
   Guide: true
-  Number of Gamers: 282
-  Percentage of Gamers: 64%
+  Number of Gamers: 293
+  Percentage of Gamers: 63%
   Ratio: 2.17
   TA: '32'
   Tags:
@@ -77,13 +63,13 @@ Add On Achievements:
 Base Completion Time:
 - 12.0
 - 15.0
-Base GS: 1000
+Base GS: 1100
 Base Game Achievements:
 - Achievement Name: Unforgotten
   Description: Lose all of your player lives!
   GS: '15'
   Guide: true
-  Number of Gamers: 2809
+  Number of Gamers: 2910
   Percentage of Gamers: 70%
   Ratio: 1.19
   TA: '17'
@@ -94,8 +80,8 @@ Base Game Achievements:
 - Achievement Name: Battle Born
   Description: Shoot down 10000 aircraft.
   GS: '15'
-  Guide: false
-  Number of Gamers: 856
+  Guide: true
+  Number of Gamers: 887
   Percentage of Gamers: 21%
   Ratio: 2.16
   TA: '32'
@@ -107,9 +93,9 @@ Base Game Achievements:
 - Achievement Name: Pilot Training
   Description: Reach Squadron Level 30
   GS: '15'
-  Guide: false
-  Number of Gamers: 1340
-  Percentage of Gamers: 33%
+  Guide: true
+  Number of Gamers: 1399
+  Percentage of Gamers: 34%
   Ratio: 1.72
   TA: '25'
   Tags:
@@ -121,9 +107,9 @@ Base Game Achievements:
   Description: Shoot down 700 aircraft with an active ability
   GS: '15'
   Guide: false
-  Number of Gamers: 869
+  Number of Gamers: 909
   Percentage of Gamers: 22%
-  Ratio: 2.14
+  Ratio: 2.13
   TA: '32'
   Tags:
   - Offline Mode
@@ -134,8 +120,8 @@ Base Game Achievements:
   Description: Accomplish 20 Extra Missions
   GS: '15'
   Guide: true
-  Number of Gamers: 1460
-  Percentage of Gamers: 36%
+  Number of Gamers: 1518
+  Percentage of Gamers: 37%
   Ratio: 1.65
   TA: '24'
   Tags:
@@ -146,8 +132,8 @@ Base Game Achievements:
 - Achievement Name: Dream Team
   Description: Survive a level without losing any wingman
   GS: '15'
-  Guide: false
-  Number of Gamers: 2630
+  Guide: true
+  Number of Gamers: 2721
   Percentage of Gamers: 66%
   Ratio: 1.23
   TA: '18'
@@ -159,7 +145,7 @@ Base Game Achievements:
   Description: Discover and collect a hidden ugrade coin
   GS: '15'
   Guide: true
-  Number of Gamers: 3856
+  Number of Gamers: 4000
   Percentage of Gamers: 96%
   Ratio: 1.01
   TA: '15'
@@ -172,7 +158,7 @@ Base Game Achievements:
   Description: Destroy 50 ground units
   GS: '15'
   Guide: true
-  Number of Gamers: 1272
+  Number of Gamers: 1324
   Percentage of Gamers: 32%
   Ratio: 1.77
   TA: '26'
@@ -185,7 +171,7 @@ Base Game Achievements:
   Description: Defeat 5 different Aces of the Luftwaffe
   GS: '30'
   Guide: true
-  Number of Gamers: 1008
+  Number of Gamers: 1043
   Percentage of Gamers: 25%
   Ratio: 1.99
   TA: '59'
@@ -198,7 +184,7 @@ Base Game Achievements:
   Description: Defeat 20 different enemy aircraft types
   GS: '30'
   Guide: true
-  Number of Gamers: 2084
+  Number of Gamers: 2164
   Percentage of Gamers: 52%
   Ratio: 1.38
   TA: '41'
@@ -211,9 +197,9 @@ Base Game Achievements:
   Description: Finish Chapter 4 of the Allied Campaign
   GS: '30'
   Guide: false
-  Number of Gamers: 1170
+  Number of Gamers: 1212
   Percentage of Gamers: 29%
-  Ratio: 1.84
+  Ratio: 1.85
   TA: '55'
   Tags:
   - Offline Mode
@@ -224,7 +210,7 @@ Base Game Achievements:
   Description: Finish the Allied Campaign
   GS: '30'
   Guide: false
-  Number of Gamers: 676
+  Number of Gamers: 703
   Percentage of Gamers: 17%
   Ratio: 2.42
   TA: '72'
@@ -238,7 +224,7 @@ Base Game Achievements:
   Description: Unlock 5 new aircraft models for your pool
   GS: '30'
   Guide: true
-  Number of Gamers: 581
+  Number of Gamers: 608
   Percentage of Gamers: 15%
   Ratio: 2.61
   TA: '78'
@@ -251,9 +237,9 @@ Base Game Achievements:
   Description: Burn down 1500 aircraft with the flamethrower power up
   GS: '30'
   Guide: true
-  Number of Gamers: 532
+  Number of Gamers: 557
   Percentage of Gamers: 13%
-  Ratio: 2.74
+  Ratio: 2.73
   TA: '82'
   Tags:
   - Offline Mode
@@ -264,7 +250,7 @@ Base Game Achievements:
   Description: Destroy 200 aircraft with any laser power up
   GS: '30'
   Guide: true
-  Number of Gamers: 876
+  Number of Gamers: 911
   Percentage of Gamers: 22%
   Ratio: 2.13
   TA: '64'
@@ -277,10 +263,10 @@ Base Game Achievements:
   Description: Destroy 35 enemies within 1 second
   GS: '30'
   Guide: true
-  Number of Gamers: 966
+  Number of Gamers: 1002
   Percentage of Gamers: 24%
   Ratio: 2.03
-  TA: '60'
+  TA: '61'
   Tags:
   - Offline Mode
   - Single Player
@@ -290,9 +276,9 @@ Base Game Achievements:
   Description: Destroy 125 aircraft by crashing into them
   GS: '30'
   Guide: true
-  Number of Gamers: 1711
+  Number of Gamers: 1775
   Percentage of Gamers: 43%
-  Ratio: 1.53
+  Ratio: 1.52
   TA: '45'
   Tags:
   - Offline Mode
@@ -302,9 +288,9 @@ Base Game Achievements:
 - Achievement Name: Master of Engineering
   Description: Repair 30000 hitpoints of your wingman aircraft
   GS: '30'
-  Guide: false
-  Number of Gamers: 1662
-  Percentage of Gamers: 42%
+  Guide: true
+  Number of Gamers: 1720
+  Percentage of Gamers: 41%
   Ratio: 1.55
   TA: '46'
   Tags:
@@ -316,10 +302,10 @@ Base Game Achievements:
   Description: Finish all levels of the Allied campaign on hard difficulty
   GS: '100'
   Guide: false
-  Number of Gamers: 299
+  Number of Gamers: 311
   Percentage of Gamers: 7%
-  Ratio: 3.64
-  TA: '364'
+  Ratio: 3.65
+  TA: '365'
   Tags:
   - Offline Mode
   - Single Player
@@ -331,7 +317,7 @@ Base Game Achievements:
   Description: Accomplish all extra missions of the Allied campaign at least once
   GS: '90'
   Guide: false
-  Number of Gamers: 594
+  Number of Gamers: 620
   Percentage of Gamers: 15%
   Ratio: 2.58
   TA: '232'
@@ -343,10 +329,10 @@ Base Game Achievements:
   Description: Upgrade all abilities of the Allied squadron
   GS: '90'
   Guide: true
-  Number of Gamers: 262
+  Number of Gamers: 274
   Percentage of Gamers: 7%
-  Ratio: 3.9
-  TA: '351'
+  Ratio: 3.89
+  TA: '350'
   Tags:
   - Offline Mode
   - Single Player
@@ -357,10 +343,10 @@ Base Game Achievements:
   Description: Finish level 5-4 of the Allied campaign without any enemy surviving
   GS: '100'
   Guide: false
-  Number of Gamers: 318
+  Number of Gamers: 332
   Percentage of Gamers: 8%
-  Ratio: 3.54
-  TA: '354'
+  Ratio: 3.53
+  TA: '353'
   Tags:
   - Offline Mode
   - Single Player
@@ -369,10 +355,10 @@ Base Game Achievements:
   Description: Finish level 3-1 of the Allied campaign without causing any alert
   GS: '100'
   Guide: true
-  Number of Gamers: 562
+  Number of Gamers: 590
   Percentage of Gamers: 14%
-  Ratio: 2.66
-  TA: '266'
+  Ratio: 2.65
+  TA: '265'
   Tags:
   - Offline Mode
   - Single Player
@@ -381,34 +367,48 @@ Base Game Achievements:
   Description: Finish level 1-4 of the Allied campaign without receiving any damage
   GS: '100'
   Guide: false
-  Number of Gamers: 512
+  Number of Gamers: 528
   Percentage of Gamers: 13%
-  Ratio: 2.79
-  TA: '279'
+  Ratio: 2.8
+  TA: '280'
   Tags:
   - Offline Mode
   - Single Player
   - Cooperative
-Base Ratio: 2.637
-Base TA: 2637
+Base Ratio: 3.25
+Base TA: 3575
 Delisted: false
 Developer: HandyGames
 Game Name: Aces of the Luftwaffe - Squadron
 Genres: Shoot 'em up
-Install Size: 1700.0
-Number of Completions: 38
-Number of Gamers: 4004
+Install Size: 1860.0
+Number of Completions: 39
+Number of Gamers: 4148
 Overall Completion Time:
 - 12.0
 - 15.0
 Overall GS: 1205
-Overall Ratio: 2.871369294605809
-Overall TA: 3460
+Overall Ratio: 3.2066390041493777
+Overall TA: 3864
 PDU: 0
-Percentage Completed: 0.95
+Percentage Completed: 0.94
 Publisher: HandyGames
 Release Date: 24 July 2018
 Server Closure: false
 Site Rating: 3.37
-Update Achievements: []
+Update Achievements:
+- Achievement Name: Ace Nightmare
+  Description: Defeat all boss enemies on extreme difficulty!
+  GS: '100'
+  Guide: true
+  Number of Gamers: 47
+  Percentage of Gamers: 1%
+  Ratio: 9.38
+  TA: '938'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+  - Multiple Playthroughs Required
 Walkthrough: false

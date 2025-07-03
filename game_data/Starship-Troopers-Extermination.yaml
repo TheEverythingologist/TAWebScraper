@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 189
-- 190
+- 150.0
+- 200.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Path to Citizenship
   Description: Finish the Tutorial
   GS: '15'
   Guide: true
-  Number of Gamers: 5079
+  Number of Gamers: 5854
   Percentage of Gamers: 84%
   Ratio: 1.09
   TA: '16'
@@ -20,9 +20,9 @@ Base Game Achievements:
   Description: Achieve Victory on Easy difficulty
   GS: '20'
   Guide: true
-  Number of Gamers: 4453
-  Percentage of Gamers: 74%
-  Ratio: 1.16
+  Number of Gamers: 5104
+  Percentage of Gamers: 73%
+  Ratio: 1.17
   TA: '23'
   Tags:
   - Online/Offline
@@ -33,10 +33,10 @@ Base Game Achievements:
   Description: Achieve Victory on Normal difficulty
   GS: '50'
   Guide: false
-  Number of Gamers: 3958
-  Percentage of Gamers: 65%
-  Ratio: 1.23
-  TA: '61'
+  Number of Gamers: 4496
+  Percentage of Gamers: 64%
+  Ratio: 1.24
+  TA: '62'
   Tags:
   - Online/Offline
   - Single Player
@@ -46,7 +46,7 @@ Base Game Achievements:
   Description: Achieve Victory on Hard difficulty
   GS: '100'
   Guide: true
-  Number of Gamers: 3078
+  Number of Gamers: 3556
   Percentage of Gamers: 51%
   Ratio: 1.4
   TA: '140'
@@ -59,9 +59,9 @@ Base Game Achievements:
   Description: Get 20 melee kills
   GS: '20'
   Guide: true
-  Number of Gamers: 2442
+  Number of Gamers: 2769
   Percentage of Gamers: 40%
-  Ratio: 1.57
+  Ratio: 1.59
   TA: '31'
   Tags:
   - Online/Offline
@@ -72,10 +72,10 @@ Base Game Achievements:
   Description: Revive 100 fallen Troopers
   GS: '50'
   Guide: false
-  Number of Gamers: 896
-  Percentage of Gamers: 15%
-  Ratio: 2.59
-  TA: '129'
+  Number of Gamers: 1104
+  Percentage of Gamers: 16%
+  Ratio: 2.52
+  TA: '126'
   Tags:
   - Online/Offline
   - Single Player
@@ -85,10 +85,10 @@ Base Game Achievements:
   Description: Achieve Career Rank 100
   GS: '100'
   Guide: true
-  Number of Gamers: 453
-  Percentage of Gamers: 7%
-  Ratio: 3.65
-  TA: '365'
+  Number of Gamers: 630
+  Percentage of Gamers: 9%
+  Ratio: 3.33
+  TA: '333'
   Tags:
   - Online/Offline
   - Single Player
@@ -98,7 +98,7 @@ Base Game Achievements:
   Description: Detonate a Hive Core
   GS: '20'
   Guide: true
-  Number of Gamers: 3548
+  Number of Gamers: 4100
   Percentage of Gamers: 59%
   Ratio: 1.3
   TA: '26'
@@ -110,10 +110,10 @@ Base Game Achievements:
   Description: Kill 2000 Drone Bugs
   GS: '20'
   Guide: false
-  Number of Gamers: 807
-  Percentage of Gamers: 13%
-  Ratio: 2.73
-  TA: '54'
+  Number of Gamers: 969
+  Percentage of Gamers: 14%
+  Ratio: 2.68
+  TA: '53'
   Tags:
   - Online/Offline
   - Single Player
@@ -123,10 +123,10 @@ Base Game Achievements:
   Description: Destroy 500 Hive Eggs
   GS: '50'
   Guide: false
-  Number of Gamers: 1127
+  Number of Gamers: 1300
   Percentage of Gamers: 19%
-  Ratio: 2.31
-  TA: '115'
+  Ratio: 2.32
+  TA: '116'
   Tags:
   - Online/Offline
   - Single Player
@@ -136,10 +136,10 @@ Base Game Achievements:
   Description: Kill 5000 Bugs
   GS: '50'
   Guide: false
-  Number of Gamers: 1288
-  Percentage of Gamers: 21%
-  Ratio: 2.16
-  TA: '108'
+  Number of Gamers: 1546
+  Percentage of Gamers: 22%
+  Ratio: 2.12
+  TA: '106'
   Tags:
   - Online/Offline
   - Single Player
@@ -149,7 +149,7 @@ Base Game Achievements:
   Description: Revive 25 fallen Troopers
   GS: '20'
   Guide: false
-  Number of Gamers: 1949
+  Number of Gamers: 2242
   Percentage of Gamers: 32%
   Ratio: 1.76
   TA: '35'
@@ -162,9 +162,9 @@ Base Game Achievements:
   Description: Destroy 1000 Hive Eggs
   GS: '15'
   Guide: true
-  Number of Gamers: 787
+  Number of Gamers: 924
   Percentage of Gamers: 13%
-  Ratio: 2.77
+  Ratio: 2.75
   TA: '41'
   Tags:
   - Online/Offline
@@ -175,7 +175,7 @@ Base Game Achievements:
   Description: Detonate a total of 10 Hive Cores
   GS: '50'
   Guide: false
-  Number of Gamers: 2023
+  Number of Gamers: 2328
   Percentage of Gamers: 33%
   Ratio: 1.73
   TA: '86'
@@ -188,10 +188,10 @@ Base Game Achievements:
   Description: Kill 30 Grenadier Bugs
   GS: '20'
   Guide: true
-  Number of Gamers: 1662
-  Percentage of Gamers: 27%
-  Ratio: 1.9
-  TA: '38'
+  Number of Gamers: 1992
+  Percentage of Gamers: 28%
+  Ratio: 1.87
+  TA: '37'
   Tags:
   - Online/Offline
   - Single Player
@@ -201,10 +201,10 @@ Base Game Achievements:
   Description: Kill 888 Fire Warrior Bugs
   GS: '20'
   Guide: true
-  Number of Gamers: 567
-  Percentage of Gamers: 9%
-  Ratio: 3.26
-  TA: '65'
+  Number of Gamers: 709
+  Percentage of Gamers: 10%
+  Ratio: 3.14
+  TA: '62'
   Tags:
   - Online/Offline
   - Single Player
@@ -214,10 +214,10 @@ Base Game Achievements:
   Description: Complete 20 matches of Horde Mode on Valaka
   GS: '20'
   Guide: true
-  Number of Gamers: 314
-  Percentage of Gamers: 5%
-  Ratio: 4.39
-  TA: '87'
+  Number of Gamers: 424
+  Percentage of Gamers: 6%
+  Ratio: 4.06
+  TA: '81'
   Tags:
   - Online/Offline
   - Single Player
@@ -227,10 +227,10 @@ Base Game Achievements:
   Description: Reach Mastery Level 10 on any weapon
   GS: '50'
   Guide: true
-  Number of Gamers: 864
-  Percentage of Gamers: 14%
-  Ratio: 2.64
-  TA: '132'
+  Number of Gamers: 1138
+  Percentage of Gamers: 16%
+  Ratio: 2.48
+  TA: '124'
   Tags:
   - Online/Offline
   - Single Player
@@ -240,10 +240,10 @@ Base Game Achievements:
   Description: Kill 2297 Warrior Bugs
   GS: '50'
   Guide: false
-  Number of Gamers: 1469
-  Percentage of Gamers: 24%
-  Ratio: 2.03
-  TA: '101'
+  Number of Gamers: 1743
+  Percentage of Gamers: 25%
+  Ratio: 2.0
+  TA: '100'
   Tags:
   - Online/Offline
   - Single Player
@@ -253,10 +253,10 @@ Base Game Achievements:
   Description: Re-enlist 3 times
   GS: '100'
   Guide: true
-  Number of Gamers: 61
+  Number of Gamers: 90
   Percentage of Gamers: 1%
-  Ratio: 9.96
-  TA: '996'
+  Ratio: 8.82
+  TA: '882'
   Tags:
   - Online/Offline
   - Single Player
@@ -267,10 +267,10 @@ Base Game Achievements:
   Description: Kill 50 Royal Guard Bugs
   GS: '50'
   Guide: true
-  Number of Gamers: 249
-  Percentage of Gamers: 4%
-  Ratio: 4.93
-  TA: '246'
+  Number of Gamers: 327
+  Percentage of Gamers: 5%
+  Ratio: 4.62
+  TA: '231'
   Tags:
   - Online/Offline
   - Single Player
@@ -280,9 +280,9 @@ Base Game Achievements:
   Description: Get 200 kills with any grenade type
   GS: '20'
   Guide: true
-  Number of Gamers: 1934
+  Number of Gamers: 2235
   Percentage of Gamers: 32%
-  Ratio: 1.76
+  Ratio: 1.77
   TA: '35'
   Tags:
   - Online/Offline
@@ -293,10 +293,10 @@ Base Game Achievements:
   Description: Reach Level 15 in any Trooper Class
   GS: '50'
   Guide: true
-  Number of Gamers: 2206
-  Percentage of Gamers: 36%
-  Ratio: 1.65
-  TA: '82'
+  Number of Gamers: 2634
+  Percentage of Gamers: 38%
+  Ratio: 1.63
+  TA: '81'
   Tags:
   - Online/Offline
   - Single Player
@@ -306,10 +306,10 @@ Base Game Achievements:
   Description: Salute 6 fallen Troopers
   GS: '20'
   Guide: true
-  Number of Gamers: 1279
+  Number of Gamers: 1444
   Percentage of Gamers: 21%
-  Ratio: 2.17
-  TA: '43'
+  Ratio: 2.2
+  TA: '44'
   Tags:
   - Online/Offline
   - Single Player
@@ -319,35 +319,35 @@ Base Game Achievements:
   Description: Kill 100 Bombardier Bugs
   GS: '20'
   Guide: true
-  Number of Gamers: 546
-  Percentage of Gamers: 9%
-  Ratio: 3.33
-  TA: '66'
+  Number of Gamers: 723
+  Percentage of Gamers: 10%
+  Ratio: 3.11
+  TA: '62'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
   - Cumulative +
-Base Ratio: 3.121
-Base TA: 3121
+Base Ratio: 2.933
+Base TA: 2933
 Delisted: false
 Developer: Offworld Industries
 Game Name: 'Starship Troopers: Extermination'
 Genres: First Person Shooter
-Install Size: 9060.0
-Number of Completions: 59
-Number of Gamers: 6058
+Install Size: 11320.0
+Number of Completions: 87
+Number of Gamers: 7008
 Overall Completion Time:
-- 189
-- 190
+- 150.0
+- 200.0
 Overall GS: 1000
-Overall Ratio: 3.121
-Overall TA: 3121
+Overall Ratio: 2.933
+Overall TA: 2933
 PDU: 0
-Percentage Completed: 0.97
-Publisher: Knights Peak Interactive
+Percentage Completed: 1.24
+Publisher: Knights Peak
 Release Date: 11 October 2024
 Server Closure: false
-Site Rating: 3.59
+Site Rating: 3.58
 Update Achievements: []
 Walkthrough: false

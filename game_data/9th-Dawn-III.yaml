@@ -1,16 +1,16 @@
 Add On Achievements: []
 Base Completion Time:
-- 330
-- 331
+- 324
+- 325
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: You're Mine!
   Description: Catch a Creature
   GS: '10'
   Guide: false
-  Number of Gamers: 602
-  Percentage of Gamers: 40%
-  Ratio: 1.57
+  Number of Gamers: 650
+  Percentage of Gamers: 41%
+  Ratio: 1.56
   TA: '15'
   Tags:
   - Offline Mode
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Have 10 Creatures in your party
   GS: '10'
   Guide: false
-  Number of Gamers: 255
+  Number of Gamers: 273
   Percentage of Gamers: 17%
   Ratio: 2.41
   TA: '24'
@@ -33,7 +33,7 @@ Base Game Achievements:
   Description: Level up a Creature to 100
   GS: '10'
   Guide: false
-  Number of Gamers: 113
+  Number of Gamers: 121
   Percentage of Gamers: 8%
   Ratio: 3.62
   TA: '36'
@@ -46,9 +46,9 @@ Base Game Achievements:
   Description: Use a Morph Stone on a Creature
   GS: '10'
   Guide: true
-  Number of Gamers: 119
+  Number of Gamers: 126
   Percentage of Gamers: 8%
-  Ratio: 3.53
+  Ratio: 3.55
   TA: '35'
   Tags:
   - Offline Mode
@@ -58,10 +58,10 @@ Base Game Achievements:
   Description: Morph a single Creature 50 times
   GS: '50'
   Guide: true
-  Number of Gamers: 8
+  Number of Gamers: 10
   Percentage of Gamers: 1%
-  Ratio: 13.61
-  TA: '680'
+  Ratio: 12.61
+  TA: '630'
   Tags:
   - Offline Mode
   - Single Player
@@ -71,7 +71,7 @@ Base Game Achievements:
   Description: Win your first game of Fyued
   GS: '10'
   Guide: true
-  Number of Gamers: 1068
+  Number of Gamers: 1149
   Percentage of Gamers: 72%
   Ratio: 1.17
   TA: '11'
@@ -83,9 +83,9 @@ Base Game Achievements:
   Description: Win 100 games of Fyued
   GS: '10'
   Guide: false
-  Number of Gamers: 37
-  Percentage of Gamers: 2%
-  Ratio: 6.33
+  Number of Gamers: 40
+  Percentage of Gamers: 3%
+  Ratio: 6.3
   TA: '63'
   Tags:
   - Offline Mode
@@ -96,10 +96,10 @@ Base Game Achievements:
   Description: Collect every shiny card
   GS: '100'
   Guide: true
-  Number of Gamers: 9
+  Number of Gamers: 11
   Percentage of Gamers: 1%
-  Ratio: 12.84
-  TA: 1,284
+  Ratio: 12.02
+  TA: 1,202
   Tags:
   - Offline Mode
   - Single Player
@@ -109,10 +109,10 @@ Base Game Achievements:
   Description: Beat the secret Fyued champion
   GS: '10'
   Guide: false
-  Number of Gamers: 11
+  Number of Gamers: 13
   Percentage of Gamers: 1%
-  Ratio: 11.61
-  TA: '116'
+  Ratio: 11.06
+  TA: '110'
   Tags:
   - Offline Mode
   - Single Player
@@ -121,10 +121,10 @@ Base Game Achievements:
   Description: Unlock all Spells and Abilities
   GS: '50'
   Guide: false
-  Number of Gamers: 15
+  Number of Gamers: 16
   Percentage of Gamers: 1%
-  Ratio: 9.94
-  TA: '497'
+  Ratio: 9.97
+  TA: '498'
   Tags:
   - Offline Mode
   - Single Player
@@ -133,10 +133,10 @@ Base Game Achievements:
   Description: Collect 10,000,000 Gold
   GS: '50'
   Guide: false
-  Number of Gamers: 52
-  Percentage of Gamers: 3%
-  Ratio: 5.34
-  TA: '267'
+  Number of Gamers: 58
+  Percentage of Gamers: 4%
+  Ratio: 5.23
+  TA: '261'
   Tags:
   - Offline Mode
   - Single Player
@@ -146,10 +146,10 @@ Base Game Achievements:
   Description: Complete the Hunting Journal
   GS: '50'
   Guide: false
-  Number of Gamers: 15
+  Number of Gamers: 18
   Percentage of Gamers: 1%
-  Ratio: 9.94
-  TA: '497'
+  Ratio: 9.4
+  TA: '470'
   Tags:
   - Offline Mode
   - Single Player
@@ -160,10 +160,10 @@ Base Game Achievements:
   Description: Complete the Item Journal
   GS: '100'
   Guide: false
-  Number of Gamers: 5
+  Number of Gamers: 6
   Percentage of Gamers: 0%
-  Ratio: 17.22
-  TA: 1,722
+  Ratio: 16.28
+  TA: 1,628
   Tags:
   - Offline Mode
   - Single Player
@@ -174,10 +174,10 @@ Base Game Achievements:
   Description: Complete the Fishing Journal
   GS: '10'
   Guide: true
-  Number of Gamers: 16
+  Number of Gamers: 18
   Percentage of Gamers: 1%
-  Ratio: 9.63
-  TA: '96'
+  Ratio: 9.4
+  TA: '94'
   Tags:
   - Offline Mode
   - Single Player
@@ -188,9 +188,9 @@ Base Game Achievements:
   Description: Reach Lorwyck Castle
   GS: '10'
   Guide: false
-  Number of Gamers: 215
+  Number of Gamers: 226
   Percentage of Gamers: 14%
-  Ratio: 2.62
+  Ratio: 2.65
   TA: '26'
   Tags:
   - Offline Mode
@@ -201,9 +201,9 @@ Base Game Achievements:
   Description: Beat Halstorm Castle
   GS: '10'
   Guide: false
-  Number of Gamers: 153
+  Number of Gamers: 161
   Percentage of Gamers: 10%
-  Ratio: 3.11
+  Ratio: 3.14
   TA: '31'
   Tags:
   - Offline Mode
@@ -214,10 +214,10 @@ Base Game Achievements:
   Description: Complete the Main Quest
   GS: '50'
   Guide: false
-  Number of Gamers: 107
+  Number of Gamers: 112
   Percentage of Gamers: 7%
-  Ratio: 3.72
-  TA: '186'
+  Ratio: 3.76
+  TA: '188'
   Tags:
   - Offline Mode
   - Single Player
@@ -227,9 +227,9 @@ Base Game Achievements:
   Description: Slay a Boss
   GS: '10'
   Guide: false
-  Number of Gamers: 1144
+  Number of Gamers: 1224
   Percentage of Gamers: 77%
-  Ratio: 1.13
+  Ratio: 1.14
   TA: '11'
   Tags:
   - Offline Mode
@@ -240,7 +240,7 @@ Base Game Achievements:
   Description: Slay 1,000 Enemies
   GS: '10'
   Guide: false
-  Number of Gamers: 828
+  Number of Gamers: 889
   Percentage of Gamers: 56%
   Ratio: 1.33
   TA: '13'
@@ -253,9 +253,9 @@ Base Game Achievements:
   Description: Slay 10,000 Enemies
   GS: '10'
   Guide: false
-  Number of Gamers: 317
+  Number of Gamers: 336
   Percentage of Gamers: 21%
-  Ratio: 2.16
+  Ratio: 2.17
   TA: '21'
   Tags:
   - Offline Mode
@@ -266,9 +266,9 @@ Base Game Achievements:
   Description: Slay 500 Dragons
   GS: '10'
   Guide: false
-  Number of Gamers: 117
+  Number of Gamers: 125
   Percentage of Gamers: 8%
-  Ratio: 3.56
+  Ratio: 3.58
   TA: '35'
   Tags:
   - Offline Mode
@@ -279,10 +279,10 @@ Base Game Achievements:
   Description: Slay 100 Valchist
   GS: '10'
   Guide: false
-  Number of Gamers: 115
+  Number of Gamers: 122
   Percentage of Gamers: 8%
-  Ratio: 3.59
-  TA: '35'
+  Ratio: 3.62
+  TA: '36'
   Tags:
   - Offline Mode
   - Single Player
@@ -292,8 +292,8 @@ Base Game Achievements:
   Description: Craft something, anything!
   GS: '10'
   Guide: false
-  Number of Gamers: 990
-  Percentage of Gamers: 66%
+  Number of Gamers: 1064
+  Percentage of Gamers: 67%
   Ratio: 1.22
   TA: '12'
   Tags:
@@ -304,7 +304,7 @@ Base Game Achievements:
   Description: Enchant a piece of equipment
   GS: '10'
   Guide: false
-  Number of Gamers: 213
+  Number of Gamers: 227
   Percentage of Gamers: 14%
   Ratio: 2.64
   TA: '26'
@@ -316,9 +316,9 @@ Base Game Achievements:
   Description: Reach skill level 100 in any craft
   GS: '10'
   Guide: false
-  Number of Gamers: 107
+  Number of Gamers: 117
   Percentage of Gamers: 7%
-  Ratio: 3.72
+  Ratio: 3.7
   TA: '37'
   Tags:
   - Offline Mode
@@ -329,10 +329,10 @@ Base Game Achievements:
   Description: Craft all Alchemy recipes
   GS: '10'
   Guide: false
-  Number of Gamers: 17
+  Number of Gamers: 19
   Percentage of Gamers: 1%
-  Ratio: 9.34
-  TA: '93'
+  Ratio: 9.15
+  TA: '91'
   Tags:
   - Offline Mode
   - Single Player
@@ -341,10 +341,10 @@ Base Game Achievements:
   Description: Craft all Cooking recipes
   GS: '10'
   Guide: false
-  Number of Gamers: 6
+  Number of Gamers: 7
   Percentage of Gamers: 0%
-  Ratio: 15.72
-  TA: '157'
+  Ratio: 15.07
+  TA: '150'
   Tags:
   - Offline Mode
   - Single Player
@@ -353,10 +353,10 @@ Base Game Achievements:
   Description: Craft all Weapon Smith recipes
   GS: '10'
   Guide: false
-  Number of Gamers: 3
+  Number of Gamers: 4
   Percentage of Gamers: 0%
-  Ratio: 22.24
-  TA: '222'
+  Ratio: 19.94
+  TA: '199'
   Tags:
   - Offline Mode
   - Single Player
@@ -366,10 +366,10 @@ Base Game Achievements:
   Description: Craft all Armour Smith recipes
   GS: '10'
   Guide: false
-  Number of Gamers: 3
+  Number of Gamers: 4
   Percentage of Gamers: 0%
-  Ratio: 22.24
-  TA: '222'
+  Ratio: 19.94
+  TA: '199'
   Tags:
   - Offline Mode
   - Single Player
@@ -379,10 +379,10 @@ Base Game Achievements:
   Description: Craft all Jewel Smith recipes
   GS: '10'
   Guide: false
-  Number of Gamers: 6
+  Number of Gamers: 7
   Percentage of Gamers: 0%
-  Ratio: 15.72
-  TA: '157'
+  Ratio: 15.07
+  TA: '150'
   Tags:
   - Offline Mode
   - Single Player
@@ -391,10 +391,10 @@ Base Game Achievements:
   Description: Craft all Magic Weaving recipes
   GS: '10'
   Guide: false
-  Number of Gamers: 2
+  Number of Gamers: 3
   Percentage of Gamers: 0%
-  Ratio: 27.23
-  TA: '272'
+  Ratio: 23.02
+  TA: '230'
   Tags:
   - Offline Mode
   - Single Player
@@ -403,7 +403,7 @@ Base Game Achievements:
   Description: Reach skill level 100 in Melee Combat
   GS: '10'
   Guide: false
-  Number of Gamers: 105
+  Number of Gamers: 113
   Percentage of Gamers: 7%
   Ratio: 3.75
   TA: '37'
@@ -416,9 +416,9 @@ Base Game Achievements:
   Description: Cast a Spell
   GS: '10'
   Guide: false
-  Number of Gamers: 721
-  Percentage of Gamers: 48%
-  Ratio: 1.43
+  Number of Gamers: 782
+  Percentage of Gamers: 49%
+  Ratio: 1.42
   TA: '14'
   Tags:
   - Offline Mode
@@ -428,9 +428,9 @@ Base Game Achievements:
   Description: Revive an NPC, Companion or Creature
   GS: '10'
   Guide: false
-  Number of Gamers: 295
+  Number of Gamers: 314
   Percentage of Gamers: 20%
-  Ratio: 2.24
+  Ratio: 2.25
   TA: '22'
   Tags:
   - Offline Mode
@@ -440,10 +440,10 @@ Base Game Achievements:
   Description: Reach skill level 100 in Magic Destruction
   GS: '10'
   Guide: false
-  Number of Gamers: 13
+  Number of Gamers: 15
   Percentage of Gamers: 1%
-  Ratio: 10.68
-  TA: '106'
+  Ratio: 10.29
+  TA: '102'
   Tags:
   - Offline Mode
   - Single Player
@@ -453,7 +453,7 @@ Base Game Achievements:
   Description: Reach skill level 100 in Magic Restoration
   GS: '10'
   Guide: false
-  Number of Gamers: 14
+  Number of Gamers: 16
   Percentage of Gamers: 1%
   Ratio: 10.29
   TA: '102'
@@ -466,9 +466,9 @@ Base Game Achievements:
   Description: Raise a settlement's Prosperity to 100%
   GS: '10'
   Guide: true
-  Number of Gamers: 326
+  Number of Gamers: 351
   Percentage of Gamers: 22%
-  Ratio: 2.13
+  Ratio: 2.12
   TA: '21'
   Tags:
   - Offline Mode
@@ -478,7 +478,7 @@ Base Game Achievements:
   Description: Complete a Dungeon to 100%
   GS: '10'
   Guide: false
-  Number of Gamers: 1037
+  Number of Gamers: 1114
   Percentage of Gamers: 70%
   Ratio: 1.19
   TA: '11'
@@ -490,10 +490,10 @@ Base Game Achievements:
   Description: Complete all Dungeons to 100%"
   GS: '100'
   Guide: false
-  Number of Gamers: 48
+  Number of Gamers: 52
   Percentage of Gamers: 3%
-  Ratio: 5.56
-  TA: '556'
+  Ratio: 5.53
+  TA: '553'
   Tags:
   - Offline Mode
   - Single Player
@@ -502,7 +502,7 @@ Base Game Achievements:
   Description: Unlock a companion
   GS: '10'
   Guide: false
-  Number of Gamers: 600
+  Number of Gamers: 643
   Percentage of Gamers: 40%
   Ratio: 1.57
   TA: '15'
@@ -514,9 +514,9 @@ Base Game Achievements:
   Description: Rename the Nameless companion
   GS: '10'
   Guide: false
-  Number of Gamers: 154
+  Number of Gamers: 164
   Percentage of Gamers: 10%
-  Ratio: 3.1
+  Ratio: 3.11
   TA: '31'
   Tags:
   - Offline Mode
@@ -526,7 +526,7 @@ Base Game Achievements:
   Description: Reach level 50
   GS: '10'
   Guide: false
-  Number of Gamers: 206
+  Number of Gamers: 220
   Percentage of Gamers: 14%
   Ratio: 2.68
   TA: '26'
@@ -539,10 +539,10 @@ Base Game Achievements:
   Description: Reach level 100
   GS: '40'
   Guide: false
-  Number of Gamers: 49
+  Number of Gamers: 54
   Percentage of Gamers: 3%
-  Ratio: 5.5
-  TA: '220'
+  Ratio: 5.47
+  TA: '219'
   Tags:
   - Offline Mode
   - Single Player
@@ -552,10 +552,10 @@ Base Game Achievements:
   Description: Read all equip-able books
   GS: '10'
   Guide: false
-  Number of Gamers: 42
+  Number of Gamers: 46
   Percentage of Gamers: 3%
-  Ratio: 5.94
-  TA: '59'
+  Ratio: 5.88
+  TA: '58'
   Tags:
   - Offline Mode
   - Single Player
@@ -565,10 +565,10 @@ Base Game Achievements:
   Description: Obtain a Camel mount
   GS: '10'
   Guide: true
-  Number of Gamers: 166
+  Number of Gamers: 174
   Percentage of Gamers: 11%
-  Ratio: 2.98
-  TA: '29'
+  Ratio: 3.02
+  TA: '30'
   Tags:
   - Offline Mode
   - Single Player
@@ -577,10 +577,10 @@ Base Game Achievements:
   Description: Catch a large sized fish for it's species
   GS: '10'
   Guide: false
-  Number of Gamers: 63
+  Number of Gamers: 71
   Percentage of Gamers: 4%
-  Ratio: 4.85
-  TA: '48'
+  Ratio: 4.73
+  TA: '47'
   Tags:
   - Offline Mode
   - Single Player
@@ -589,9 +589,9 @@ Base Game Achievements:
   Description: Perform a Critical Hit using the Stealth skill
   GS: '10'
   Guide: true
-  Number of Gamers: 92
+  Number of Gamers: 99
   Percentage of Gamers: 6%
-  Ratio: 4.01
+  Ratio: 4.0
   TA: '40'
   Tags:
   - Offline Mode
@@ -601,9 +601,9 @@ Base Game Achievements:
   Description: Ride a mine cart
   GS: '10'
   Guide: false
-  Number of Gamers: 527
+  Number of Gamers: 560
   Percentage of Gamers: 35%
-  Ratio: 1.67
+  Ratio: 1.68
   TA: '16'
   Tags:
   - Offline Mode
@@ -613,10 +613,10 @@ Base Game Achievements:
   Description: Defeat the Hole of Kol
   GS: '10'
   Guide: true
-  Number of Gamers: 179
+  Number of Gamers: 187
   Percentage of Gamers: 12%
-  Ratio: 2.87
-  TA: '28'
+  Ratio: 2.91
+  TA: '29'
   Tags:
   - Offline Mode
   - Single Player
@@ -625,31 +625,31 @@ Base Game Achievements:
   Description: Complete Tea Master Rena's quest
   GS: '10'
   Guide: false
-  Number of Gamers: 83
+  Number of Gamers: 93
   Percentage of Gamers: 6%
-  Ratio: 4.22
-  TA: '42'
+  Ratio: 4.15
+  TA: '41'
   Tags:
   - Offline Mode
   - Single Player
   - Cooperative
-Base Ratio: 8.322
-Base TA: 8322
+Base Ratio: 7.946
+Base TA: 7946
 Delisted: false
 Developer: Valorware
 Game Name: 9th Dawn III
 Genres: Action-RPG, Role Playing, Hack & Slash
 Install Size: 707.0
-Number of Completions: 2
-Number of Gamers: 1489
+Number of Completions: 3
+Number of Gamers: 1595
 Overall Completion Time:
-- 330
-- 331
+- 324
+- 325
 Overall GS: 1000
-Overall Ratio: 8.322
-Overall TA: 8322
+Overall Ratio: 7.946
+Overall TA: 7946
 PDU: 0
-Percentage Completed: 0.13
+Percentage Completed: 0.19
 Publisher: Valorware
 Release Date: 06 October 2020
 Server Closure: false

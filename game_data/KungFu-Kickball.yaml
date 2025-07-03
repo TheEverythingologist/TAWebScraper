@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- 11
-- 12
+- 8
+- 9
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Extreme Juggling
   Description: Demonstrate your juggling skills
   GS: '15'
   Guide: true
-  Number of Gamers: 20
+  Number of Gamers: 23
   Percentage of Gamers: 10%
-  Ratio: 3.18
-  TA: '47'
+  Ratio: 3.09
+  TA: '46'
   Tags:
   - Online/Offline
   - Single Player
@@ -21,10 +21,10 @@ Base Game Achievements:
   Description: A new level of juggling
   GS: '30'
   Guide: true
-  Number of Gamers: 16
-  Percentage of Gamers: 8%
-  Ratio: 3.56
-  TA: '106'
+  Number of Gamers: 19
+  Percentage of Gamers: 9%
+  Ratio: 3.41
+  TA: '102'
   Tags:
   - Online/Offline
   - Single Player
@@ -34,9 +34,9 @@ Base Game Achievements:
   Description: Beat the Arcade Mode on Apprentice level
   GS: '15'
   Guide: false
-  Number of Gamers: 65
-  Percentage of Gamers: 32%
-  Ratio: 1.76
+  Number of Gamers: 73
+  Percentage of Gamers: 33%
+  Ratio: 1.73
   TA: '26'
   Tags:
   - Online/Offline
@@ -47,10 +47,10 @@ Base Game Achievements:
   Description: Beat the Arcade Mode on Teacher level
   GS: '30'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 8%
-  Ratio: 3.45
-  TA: '103'
+  Number of Gamers: 20
+  Percentage of Gamers: 9%
+  Ratio: 3.32
+  TA: '99'
   Tags:
   - Online/Offline
   - Single Player
@@ -59,10 +59,10 @@ Base Game Achievements:
   Description: Beat the Arcade Mode on Master level
   GS: '90'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 3%
-  Ratio: 5.38
-  TA: '484'
+  Number of Gamers: 8
+  Percentage of Gamers: 4%
+  Ratio: 5.25
+  TA: '473'
   Tags:
   - Online/Offline
   - Single Player
@@ -71,10 +71,10 @@ Base Game Achievements:
   Description: Beat the Arcade Mode on Grand Master level
   GS: '90'
   Guide: false
-  Number of Gamers: 2
+  Number of Gamers: 3
   Percentage of Gamers: 1%
-  Ratio: 10.07
-  TA: '906'
+  Ratio: 8.58
+  TA: '772'
   Tags:
   - Online/Offline
   - Single Player
@@ -83,9 +83,9 @@ Base Game Achievements:
   Description: Score a goal at the buzzer
   GS: '30'
   Guide: true
-  Number of Gamers: 43
+  Number of Gamers: 47
   Percentage of Gamers: 21%
-  Ratio: 2.17
+  Ratio: 2.16
   TA: '65'
   Tags:
   - Online/Offline
@@ -96,10 +96,10 @@ Base Game Achievements:
   Description: Hit all the targets in one of the training levels
   GS: '90'
   Guide: true
-  Number of Gamers: 16
+  Number of Gamers: 18
   Percentage of Gamers: 8%
-  Ratio: 3.56
-  TA: '320'
+  Ratio: 3.5
+  TA: '315'
   Tags:
   - Online/Offline
   - Single Player
@@ -109,10 +109,10 @@ Base Game Achievements:
   Description: Host a game for friends
   GS: '30'
   Guide: true
-  Number of Gamers: 29
+  Number of Gamers: 32
   Percentage of Gamers: 14%
-  Ratio: 2.64
-  TA: '79'
+  Ratio: 2.62
+  TA: '78'
   Tags:
   - Online Mode
   - Cooperative
@@ -121,9 +121,9 @@ Base Game Achievements:
   Description: Complete a training session
   GS: '10'
   Guide: false
-  Number of Gamers: 86
-  Percentage of Gamers: 42%
-  Ratio: 1.53
+  Number of Gamers: 95
+  Percentage of Gamers: 43%
+  Ratio: 1.52
   TA: '15'
   Tags:
   - Online/Offline
@@ -134,10 +134,10 @@ Base Game Achievements:
   Description: Play in every arena
   GS: '30'
   Guide: true
-  Number of Gamers: 38
+  Number of Gamers: 42
   Percentage of Gamers: 19%
-  Ratio: 2.31
-  TA: '69'
+  Ratio: 2.29
+  TA: '68'
   Tags:
   - Online/Offline
   - Single Player
@@ -147,7 +147,7 @@ Base Game Achievements:
   Description: Score a bunch of goals in a row
   GS: '30'
   Guide: false
-  Number of Gamers: 137
+  Number of Gamers: 149
   Percentage of Gamers: 67%
   Ratio: 1.21
   TA: '36'
@@ -160,9 +160,9 @@ Base Game Achievements:
   Description: Play a Quick Match game
   GS: '15'
   Guide: true
-  Number of Gamers: 28
+  Number of Gamers: 30
   Percentage of Gamers: 14%
-  Ratio: 2.69
+  Ratio: 2.71
   TA: '40'
   Tags:
   - Online Mode
@@ -172,10 +172,10 @@ Base Game Achievements:
   Description: Play 10 games online
   GS: '30'
   Guide: true
-  Number of Gamers: 15
-  Percentage of Gamers: 7%
-  Ratio: 3.67
-  TA: '110'
+  Number of Gamers: 19
+  Percentage of Gamers: 9%
+  Ratio: 3.41
+  TA: '102'
   Tags:
   - Online Mode
   - Cooperative
@@ -185,9 +185,9 @@ Base Game Achievements:
   Description: Play a Quick Match game with a buddy
   GS: '15'
   Guide: true
-  Number of Gamers: 13
+  Number of Gamers: 14
   Percentage of Gamers: 6%
-  Ratio: 3.95
+  Ratio: 3.97
   TA: '59'
   Tags:
   - Online Mode
@@ -198,10 +198,10 @@ Base Game Achievements:
   Description: Play 25 games online
   GS: '30'
   Guide: true
-  Number of Gamers: 13
-  Percentage of Gamers: 6%
-  Ratio: 3.95
-  TA: '118'
+  Number of Gamers: 16
+  Percentage of Gamers: 7%
+  Ratio: 3.71
+  TA: '111'
   Tags:
   - Online Mode
   - Cooperative
@@ -211,9 +211,9 @@ Base Game Achievements:
   Description: Score a goal with your head
   GS: '30'
   Guide: false
-  Number of Gamers: 160
-  Percentage of Gamers: 78%
-  Ratio: 1.12
+  Number of Gamers: 177
+  Percentage of Gamers: 80%
+  Ratio: 1.11
   TA: '33'
   Tags:
   - Online/Offline
@@ -223,10 +223,10 @@ Base Game Achievements:
 - Achievement Name: Spongey
   Description: Earned the Headbouncer announcement.
   GS: '15'
-  Guide: false
-  Number of Gamers: 95
-  Percentage of Gamers: 47%
-  Ratio: 1.46
+  Guide: true
+  Number of Gamers: 108
+  Percentage of Gamers: 49%
+  Ratio: 1.43
   TA: '21'
   Tags:
   - Online/Offline
@@ -237,10 +237,10 @@ Base Game Achievements:
   Description: Beat your opponent without letting them score any points.
   GS: '90'
   Guide: false
-  Number of Gamers: 132
-  Percentage of Gamers: 65%
-  Ratio: 1.24
-  TA: '111'
+  Number of Gamers: 146
+  Percentage of Gamers: 66%
+  Ratio: 1.23
+  TA: '110'
   Tags:
   - Online/Offline
   - Single Player
@@ -250,10 +250,10 @@ Base Game Achievements:
   Description: Make a comeback from a three point lead and win the match.
   GS: '30'
   Guide: true
-  Number of Gamers: 28
+  Number of Gamers: 30
   Percentage of Gamers: 14%
-  Ratio: 2.69
-  TA: '80'
+  Ratio: 2.71
+  TA: '81'
   Tags:
   - Online/Offline
   - Single Player
@@ -263,10 +263,10 @@ Base Game Achievements:
   Description: Get a team knockout
   GS: '30'
   Guide: false
-  Number of Gamers: 56
-  Percentage of Gamers: 27%
-  Ratio: 1.9
-  TA: '57'
+  Number of Gamers: 66
+  Percentage of Gamers: 30%
+  Ratio: 1.82
+  TA: '54'
   Tags:
   - Online/Offline
   - Single Player
@@ -276,9 +276,9 @@ Base Game Achievements:
   Description: Score 10 points in a match.
   GS: '90'
   Guide: false
-  Number of Gamers: 48
+  Number of Gamers: 52
   Percentage of Gamers: 24%
-  Ratio: 2.05
+  Ratio: 2.06
   TA: '185'
   Tags:
   - Online/Offline
@@ -289,9 +289,9 @@ Base Game Achievements:
   Description: Bring down the stalactites in the Cavern map.
   GS: '15'
   Guide: false
-  Number of Gamers: 37
+  Number of Gamers: 40
   Percentage of Gamers: 18%
-  Ratio: 2.34
+  Ratio: 2.35
   TA: '35'
   Tags:
   - Online/Offline
@@ -302,10 +302,10 @@ Base Game Achievements:
   Description: Score a point in the first 5 seconds of a match.
   GS: '15'
   Guide: false
-  Number of Gamers: 58
-  Percentage of Gamers: 28%
-  Ratio: 1.87
-  TA: '28'
+  Number of Gamers: 68
+  Percentage of Gamers: 31%
+  Ratio: 1.8
+  TA: '27'
   Tags:
   - Online/Offline
   - Single Player
@@ -316,9 +316,9 @@ Base Game Achievements:
   Description: Accidentally scored an own goal.
   GS: '15'
   Guide: false
-  Number of Gamers: 166
-  Percentage of Gamers: 81%
-  Ratio: 1.1
+  Number of Gamers: 183
+  Percentage of Gamers: 83%
+  Ratio: 1.09
   TA: '16'
   Tags:
   - Online/Offline
@@ -328,36 +328,36 @@ Base Game Achievements:
 - Achievement Name: Unstoppable
   Description: Take down two Grand Masters alone
   GS: '90'
-  Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 1%
-  Ratio: 8.22
-  TA: '740'
+  Guide: true
+  Number of Gamers: 4
+  Percentage of Gamers: 2%
+  Ratio: 7.43
+  TA: '668'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
   - Versus
-Base Ratio: 3.889
-Base TA: 3889
+Base Ratio: 3.637
+Base TA: 3637
 Delisted: false
 Developer: WhaleFood Games
 Game Name: KungFu Kickball
 Genres: Platformer, Sports, Football
 Install Size: 749.0
-Number of Completions: 1
-Number of Gamers: 204
+Number of Completions: 2
+Number of Gamers: 221
 Overall Completion Time:
-- 11
-- 12
+- 8
+- 9
 Overall GS: 1000
-Overall Ratio: 3.889
-Overall TA: 3889
+Overall Ratio: 3.637
+Overall TA: 3637
 PDU: 0
-Percentage Completed: 0.49
+Percentage Completed: 0.9
 Publisher: Blowfish Studios
 Release Date: 10 February 2022
 Server Closure: false
-Site Rating: 3.5
+Site Rating: 3.17
 Update Achievements: []
 Walkthrough: false

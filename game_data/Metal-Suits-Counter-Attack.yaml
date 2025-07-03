@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- -1
-- -1
+- 35
+- 36
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: No Space for Old Men
   Description: Watch the Opening
   GS: '10'
   Guide: false
-  Number of Gamers: 31
+  Number of Gamers: 82
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '10'
@@ -17,125 +17,125 @@ Base Game Achievements:
   Description: Complete the Tutorial
   GS: '10'
   Guide: false
-  Number of Gamers: 28
-  Percentage of Gamers: 90%
-  Ratio: 1.05
+  Number of Gamers: 69
+  Percentage of Gamers: 84%
+  Ratio: 1.09
   TA: '10'
   Tags: []
 - Achievement Name: No Pain, No Gain
   Description: First Death
   GS: '10'
   Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 74%
-  Ratio: 1.16
+  Number of Gamers: 59
+  Percentage of Gamers: 72%
+  Ratio: 1.17
   TA: '11'
   Tags: []
 - Achievement Name: Kevin, The Beginning of Counterattack
   Description: Clear New Earth Stage 1
   GS: '10'
   Guide: false
-  Number of Gamers: 25
-  Percentage of Gamers: 81%
-  Ratio: 1.11
+  Number of Gamers: 62
+  Percentage of Gamers: 76%
+  Ratio: 1.15
   TA: '11'
   Tags: []
 - Achievement Name: Clear on Normal Difficulty
   Description: Clear on Normal Difficulty
   GS: '50'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 3%
-  Ratio: 5.56
-  TA: '278'
+  Number of Gamers: 4
+  Percentage of Gamers: 5%
+  Ratio: 4.52
+  TA: '226'
   Tags: []
 - Achievement Name: Clear on Hard Difficulty
   Description: Clear on Hard Difficulty
   GS: '100'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '100'
+  Number of Gamers: 1
+  Percentage of Gamers: 1%
+  Ratio: 9.05
+  TA: '905'
   Tags: []
 - Achievement Name: Clear on Hell Difficulty
   Description: Clear on Hell Difficulty
   GS: '150'
-  Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '150'
+  Guide: true
+  Number of Gamers: 1
+  Percentage of Gamers: 1%
+  Ratio: 9.05
+  TA: 1,358
   Tags: []
 - Achievement Name: Collect 3 Collectibles
   Description: Collect 3 Collectibles
   GS: '10'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 19%
-  Ratio: 2.27
-  TA: '22'
+  Number of Gamers: 21
+  Percentage of Gamers: 26%
+  Ratio: 1.97
+  TA: '19'
   Tags: []
 - Achievement Name: Collect 7 Collectibles
   Description: Collect 7 Collectibles
   GS: '10'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 6%
-  Ratio: 3.93
-  TA: '39'
+  Number of Gamers: 8
+  Percentage of Gamers: 10%
+  Ratio: 3.2
+  TA: '32'
   Tags: []
 - Achievement Name: Collect 12 Collectibles
   Description: Collect 12 Collectibles
   GS: '10'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 3%
-  Ratio: 5.56
-  TA: '55'
+  Number of Gamers: 5
+  Percentage of Gamers: 6%
+  Ratio: 4.04
+  TA: '40'
   Tags: []
 - Achievement Name: Collect All Collectibles
   Description: Collect All Collectibles
   GS: '10'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '10'
+  Number of Gamers: 1
+  Percentage of Gamers: 1%
+  Ratio: 9.05
+  TA: '90'
   Tags: []
 - Achievement Name: Collect 20 UPC Medals
   Description: Collect 20 UPC Medals
   GS: '10'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 10%
-  Ratio: 3.21
-  TA: '32'
+  Number of Gamers: 11
+  Percentage of Gamers: 13%
+  Ratio: 2.73
+  TA: '27'
   Tags: []
 - Achievement Name: Collect 40 UPC Medals
   Description: Collect 40 UPC Medals
   GS: '10'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 3%
-  Ratio: 5.56
-  TA: '55'
+  Number of Gamers: 4
+  Percentage of Gamers: 5%
+  Ratio: 4.52
+  TA: '45'
   Tags: []
 - Achievement Name: Collect All UPC Medals
   Description: Collect All UPC Medals
   GS: '10'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '10'
+  Number of Gamers: 1
+  Percentage of Gamers: 1%
+  Ratio: 9.05
+  TA: '90'
   Tags: []
 - Achievement Name: Achieve First Kill
   Description: Achieve First Kill
   GS: '10'
   Guide: false
-  Number of Gamers: 25
-  Percentage of Gamers: 81%
+  Number of Gamers: 67
+  Percentage of Gamers: 82%
   Ratio: 1.11
   TA: '11'
   Tags: []
@@ -143,139 +143,139 @@ Base Game Achievements:
   Description: Achieve 100 Kills
   GS: '10'
   Guide: false
-  Number of Gamers: 19
+  Number of Gamers: 50
   Percentage of Gamers: 61%
-  Ratio: 1.27
+  Ratio: 1.28
   TA: '12'
   Tags: []
 - Achievement Name: Achieve 500 Kills
   Description: Achieve 500 Kills
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 13%
-  Ratio: 2.78
-  TA: '27'
+  Number of Gamers: 20
+  Percentage of Gamers: 24%
+  Ratio: 2.02
+  TA: '20'
   Tags: []
 - Achievement Name: Achieve 1,000 Kills
   Description: Achieve 1,000 Kills
   GS: '10'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 10%
-  Ratio: 3.21
-  TA: '32'
+  Number of Gamers: 13
+  Percentage of Gamers: 16%
+  Ratio: 2.51
+  TA: '25'
   Tags: []
 - Achievement Name: Achieve 5,000 Kills
   Description: Achieve 5,000 Kills
   GS: '10'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 3%
-  Ratio: 5.56
-  TA: '55'
+  Number of Gamers: 5
+  Percentage of Gamers: 6%
+  Ratio: 4.04
+  TA: '40'
   Tags: []
 - Achievement Name: Achieve 10,000 Kills
   Description: Achieve 10,000 Kills
   GS: '10'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 3%
-  Ratio: 5.56
-  TA: '55'
+  Number of Gamers: 2
+  Percentage of Gamers: 2%
+  Ratio: 6.4
+  TA: '64'
   Tags: []
 - Achievement Name: Obtain All Suits
   Description: Obtain All Suits
   GS: '30'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 3%
-  Ratio: 5.56
-  TA: '167'
+  Number of Gamers: 2
+  Percentage of Gamers: 2%
+  Ratio: 6.4
+  TA: '192'
   Tags: []
 - Achievement Name: Complete Ellix Notes
   Description: Complete Ellix Notes
   GS: '50'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '50'
+  Number of Gamers: 1
+  Percentage of Gamers: 1%
+  Ratio: 9.05
+  TA: '452'
   Tags: []
 - Achievement Name: Obtain Magical Girl Suit
   Description: Obtain Magical Girl Suit
   GS: '50'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 3%
-  Ratio: 5.56
-  TA: '278'
+  Number of Gamers: 4
+  Percentage of Gamers: 5%
+  Ratio: 4.52
+  TA: '226'
   Tags: []
 - Achievement Name: Obtain Hammer and Thunder Suit
   Description: Obtain Hammer and Thunder Suit
   GS: '50'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 3%
-  Ratio: 5.56
-  TA: '278'
+  Number of Gamers: 2
+  Percentage of Gamers: 2%
+  Ratio: 6.4
+  TA: '320'
   Tags: []
 - Achievement Name: Obtain Axe Man Suit
   Description: Obtain Axe Man Suit
   GS: '50'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 3%
-  Ratio: 5.56
-  TA: '278'
+  Number of Gamers: 3
+  Percentage of Gamers: 4%
+  Ratio: 5.22
+  TA: '261'
   Tags: []
 - Achievement Name: Just Melee Attacker
   Description: Clear 3 or more Normal stages using only melee attacks
   GS: '50'
-  Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 29%
-  Ratio: 1.85
-  TA: '92'
+  Guide: true
+  Number of Gamers: 10
+  Percentage of Gamers: 12%
+  Ratio: 2.86
+  TA: '143'
   Tags: []
 - Achievement Name: The End is a New Beginning
   Description: Watch the Ending
   GS: '50'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 3%
-  Ratio: 5.56
-  TA: '278'
+  Number of Gamers: 4
+  Percentage of Gamers: 5%
+  Ratio: 4.52
+  TA: '226'
   Tags: []
 - Achievement Name: I'm Not a Disposable Item
   Description: Clear All Difficulties
   GS: '200'
-  Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '200'
+  Guide: true
+  Number of Gamers: 1
+  Percentage of Gamers: 1%
+  Ratio: 9.05
+  TA: 1,811
   Tags: []
-Base Ratio: 2.606
-Base TA: 2606
+Base Ratio: 6.677
+Base TA: 6677
 Delisted: false
 Developer: Eggtart
 Game Name: 'METAL SUITS: Counter-attack'
 Genres: Run & Gun
 Install Size: 1820.0
-Number of Completions: 0
-Number of Gamers: 31
+Number of Completions: 1
+Number of Gamers: 82
 Overall Completion Time:
-- -1
-- -1
+- 35
+- 36
 Overall GS: 1000
-Overall Ratio: 2.606
-Overall TA: 2606
+Overall Ratio: 6.677
+Overall TA: 6677
 PDU: 0
-Percentage Completed: 0.0
+Percentage Completed: 1.22
 Publisher: Eggtart
 Release Date: 13 February 2025
 Server Closure: false
-Site Rating: None
+Site Rating: 5.0
 Update Achievements: []
 Walkthrough: false

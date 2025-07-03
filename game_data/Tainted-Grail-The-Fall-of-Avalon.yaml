@@ -1,0 +1,734 @@
+Add On Achievements: []
+Base Completion Time:
+- 101
+- 102
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: The Once and Future King
+  Description: Meet King Arthur and claim the first shard of his shattered soul.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 3170
+  Percentage of Gamers: 100%
+  Ratio: 1.0
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: The Hollow Blade
+  Description: Lay your hands upon Excalibur and feel the burden of a forgotten legacy.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 1417
+  Percentage of Gamers: 45%
+  Ratio: 1.49
+  TA: '74'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: The Shield of Avalon
+  Description: Bear the legacy of Palamedes, a shield raised against the coming storm.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 597
+  Percentage of Gamers: 19%
+  Ratio: 2.3
+  TA: '115'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Crown of Ashes
+  Description: "Claim the crown that once bent Giants to the King\u2019s will."
+  GS: '50'
+  Guide: true
+  Number of Gamers: 260
+  Percentage of Gamers: 8%
+  Ratio: 3.49
+  TA: '174'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: No Chains, No Destiny
+  Description: Kill Caradoc at the Island Asylum.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 232
+  Percentage of Gamers: 7%
+  Ratio: 3.69
+  TA: '55'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: By My Own Hand
+  Description: Find a way to retrieve Excalibur without any outside help.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 225
+  Percentage of Gamers: 7%
+  Ratio: 3.75
+  TA: '93'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Gates Are Unnecessary
+  Description: Talk to the Quartermaster without opening the front gate.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 218
+  Percentage of Gamers: 7%
+  Ratio: 3.81
+  TA: '57'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: The Journey Begins
+  Description: Reach level 5.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2546
+  Percentage of Gamers: 80%
+  Ratio: 1.11
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Marked by Avalon
+  Description: Reach level 20.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1498
+  Percentage of Gamers: 47%
+  Ratio: 1.45
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Forged in the Wyrdness
+  Description: Reach level 35.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 806
+  Percentage of Gamers: 25%
+  Ratio: 1.98
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: A Legend in the Making
+  Description: Reach level 50.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 474
+  Percentage of Gamers: 15%
+  Ratio: 2.58
+  TA: '38'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Home Sweet Home
+  Description: Buy a property.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 306
+  Percentage of Gamers: 10%
+  Ratio: 3.21
+  TA: '48'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Hands of Creation
+  Description: Craft 10 items.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1664
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Master Chef
+  Description: Cook 50 dishes.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1543
+  Percentage of Gamers: 49%
+  Ratio: 1.43
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Brew It Yourself
+  Description: Brew 25 potions.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1378
+  Percentage of Gamers: 43%
+  Ratio: 1.51
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: The One Percent
+  Description: Amass a wealth of 10,000.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1037
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative
+- Achievement Name: "The Fisher-King\u2019s Successor"
+  Description: Catch all fish species in Avalon.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 13
+  Percentage of Gamers: 0%
+  Ratio: 15.61
+  TA: '234'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Strider
+  Description: Visit all the main regions of Avalon.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 567
+  Percentage of Gamers: 18%
+  Ratio: 2.36
+  TA: '35'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Keyless Entry Specialist
+  Description: Lockpick 50 locks.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1242
+  Percentage of Gamers: 39%
+  Ratio: 1.59
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Pages of Experience
+  Description: Unlock 25 journal entries.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1125
+  Percentage of Gamers: 35%
+  Ratio: 1.67
+  TA: '25'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: "It\u2019s Alive!"
+  Description: Cultivate a plant.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 583
+  Percentage of Gamers: 18%
+  Ratio: 2.33
+  TA: '34'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Prey of the Wyrdness
+  Description: Get ambushed during Wyrdnight.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 756
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '30'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Pilgrim of the Wilds
+  Description: "Visit every sacred site where the Stagfather\u2019s presence lingers."
+  GS: '15'
+  Guide: false
+  Number of Gamers: 94
+  Percentage of Gamers: 3%
+  Ratio: 5.8
+  TA: '87'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Master of One
+  Description: Max out a single Skill Proficiency.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 851
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Unleash the Legend
+  Description: Kill 5 enemies with a single use of Arthur's Power.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 141
+  Percentage of Gamers: 4%
+  Ratio: 4.74
+  TA: '71'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The Cost of Curiosity
+  Description: Pet a croakmaw against your better judgement.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 280
+  Percentage of Gamers: 9%
+  Ratio: 3.36
+  TA: '50'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: WAAAOOOAAGGHH!!!
+  Description: "Die from a fall wearing a fake magic ring \u2014 just like the last\
+    \ fool who trusted it."
+  GS: '15'
+  Guide: true
+  Number of Gamers: 135
+  Percentage of Gamers: 4%
+  Ratio: 4.84
+  TA: '72'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Pen Mightier Than Sword
+  Description: Defeat an enemy using the sketchbook.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 285
+  Percentage of Gamers: 9%
+  Ratio: 3.33
+  TA: '50'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Blooming Friendship
+  Description: Feast, smoke, and contemplate the meaning of it all with a new friend.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 410
+  Percentage of Gamers: 13%
+  Ratio: 2.78
+  TA: '41'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: The Deadliest Catch
+  Description: Defeat Scourge Of The Seas using a fishing rod.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 132
+  Percentage of Gamers: 4%
+  Ratio: 4.9
+  TA: '73'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Trinity
+  Description: Kill the Three Knights of the Void.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 105
+  Percentage of Gamers: 3%
+  Ratio: 5.49
+  TA: '82'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: New Friend
+  Description: Hatch Qrko.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1035
+  Percentage of Gamers: 33%
+  Ratio: 1.75
+  TA: '26'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Shouldn't Have Done That
+  Description: Burn Strawfather's hay.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 734
+  Percentage of Gamers: 23%
+  Ratio: 2.07
+  TA: '31'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Last One of the Season
+  Description: Wake up a Gloomfrond.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 602
+  Percentage of Gamers: 19%
+  Ratio: 2.29
+  TA: '34'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: My Wolves Are Better Than Yours
+  Description: Defeat 10 wolves using summoned wolves.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 198
+  Percentage of Gamers: 6%
+  Ratio: 4.0
+  TA: '60'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: For Academic Purposes
+  Description: Find all books about Liliana.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 89
+  Percentage of Gamers: 3%
+  Ratio: 5.96
+  TA: '89'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Double Identity
+  Description: Talk with Caradoc after killing Caradoc while wearing Caradoc's armor.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 129
+  Percentage of Gamers: 4%
+  Ratio: 4.95
+  TA: '74'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Ironic
+  Description: Turn the person who taught you the cheese-turning spell into cheese.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 278
+  Percentage of Gamers: 9%
+  Ratio: 3.37
+  TA: '50'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Bear Handed
+  Description: Kill a bear using fists.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 284
+  Percentage of Gamers: 9%
+  Ratio: 3.34
+  TA: '50'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Soft Underbelly
+  Description: Hit an enemy's weakspot 100 times.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 207
+  Percentage of Gamers: 7%
+  Ratio: 3.91
+  TA: '58'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: The Fate of the Horns
+  Description: Shape the destiny of the last southern stronghold.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 1347
+  Percentage of Gamers: 42%
+  Ratio: 1.53
+  TA: '38'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Chains or Freedom
+  Description: "Decide who holds Cuanacht\u2019s reins \u2014 and who never will again."
+  GS: '25'
+  Guide: false
+  Number of Gamers: 639
+  Percentage of Gamers: 20%
+  Ratio: 2.22
+  TA: '55'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Honor Over Life
+  Description: Bring all Keeper dogtags to the Quartermaster.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 104
+  Percentage of Gamers: 3%
+  Ratio: 5.52
+  TA: '138'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Shackles of Faith
+  Description: "Free the Voice from the shackles of heretical faith \u2014 although\
+    \ some chains are not made of iron."
+  GS: '25'
+  Guide: false
+  Number of Gamers: 776
+  Percentage of Gamers: 24%
+  Ratio: 2.02
+  TA: '50'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The Audience
+  Description: Defeat a ruler who has lost everything yet refuses to die.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 720
+  Percentage of Gamers: 23%
+  Ratio: 2.09
+  TA: '52'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Justice Delivered
+  Description: Crush the reign of bandit lords and leave none alive to tell the tale.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 334
+  Percentage of Gamers: 11%
+  Ratio: 3.08
+  TA: '77'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Bleeding Heart of the Plague
+  Description: "Reach the Bleeding Heart of the Plague and uncover the truth behind\
+    \ the plague\u2019s origins."
+  GS: '25'
+  Guide: false
+  Number of Gamers: 164
+  Percentage of Gamers: 5%
+  Ratio: 4.39
+  TA: '109'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Forged in Loss
+  Description: Deliver sad news to the blacksmith from Cuanacht.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 687
+  Percentage of Gamers: 22%
+  Ratio: 2.14
+  TA: '53'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: The Keeper of the South
+  Description: Take up your mantle as Keeper of the South, called to this glorious
+    service by the grace of the Sea.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 359
+  Percentage of Gamers: 11%
+  Ratio: 2.97
+  TA: '74'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "The Oracle\u2019s Cluck"
+  Description: Uncover the secrets of Muriel, the chicken with ancient wisdom, across
+    three fateful encounters.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 65
+  Percentage of Gamers: 2%
+  Ratio: 6.98
+  TA: '174'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The Sporeborn King
+  Description: Let the mycelium take root in Sagremor and spread its rule beyond the
+    throne.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 553
+  Percentage of Gamers: 17%
+  Ratio: 2.39
+  TA: '59'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: King of Avalon
+  Description: Finish the main storyline.
+  GS: '0'
+  Guide: false
+  Number of Gamers: 307
+  Percentage of Gamers: 10%
+  Ratio: 3.21
+  TA: '0'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Beyond the Veil
+  Description: Help Arthur ascend beyond mortality, leaving behind the throne of men.
+  GS: '0'
+  Guide: true
+  Number of Gamers: 72
+  Percentage of Gamers: 2%
+  Ratio: 6.63
+  TA: '0'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Shadow of the Giants
+  Description: Decide what will become of the Forlorn Swords and those who remain.
+  GS: '0'
+  Guide: false
+  Number of Gamers: 344
+  Percentage of Gamers: 11%
+  Ratio: 3.03
+  TA: '0'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: And My Axe!
+  Description: "Help hold a Moot, with every tribe of the D\xE1l Riata sending an\
+    \ envoy."
+  GS: '0'
+  Guide: false
+  Number of Gamers: 162
+  Percentage of Gamers: 5%
+  Ratio: 4.42
+  TA: '0'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "Ailei\u2019s Healthcare System"
+  Description: "Secure the future of Ailei\u2019s hospital, for the good of the local\
+    \ folk."
+  GS: '0'
+  Guide: true
+  Number of Gamers: 487
+  Percentage of Gamers: 15%
+  Ratio: 2.55
+  TA: '0'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Fate of the Crows
+  Description: Complete the Children of Morrigan storyline.
+  GS: '0'
+  Guide: false
+  Number of Gamers: 159
+  Percentage of Gamers: 5%
+  Ratio: 4.46
+  TA: '0'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Yours Forever
+  Description: Open your heart to another soul in these dark and troubled lands.
+  GS: '0'
+  Guide: true
+  Number of Gamers: 315
+  Percentage of Gamers: 10%
+  Ratio: 3.17
+  TA: '0'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The Spark of Creation
+  Description: Unlock the secret of life itself and shape the future of the Guild.
+  GS: '0'
+  Guide: false
+  Number of Gamers: 130
+  Percentage of Gamers: 4%
+  Ratio: 4.93
+  TA: '0'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The Stonewarden
+  Description: Earn the Stonewardens' respect and be honored as one of their own.
+  GS: '0'
+  Guide: false
+  Number of Gamers: 112
+  Percentage of Gamers: 4%
+  Ratio: 5.32
+  TA: '0'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 3.12
+Base TA: 3120
+Delisted: false
+Developer: Questline
+Game Name: 'Tainted Grail: The Fall of Avalon'
+Genres: Action-RPG, Role Playing, Open World
+Install Size: 33340.0
+Number of Completions: 8
+Number of Gamers: 3171
+Overall Completion Time:
+- 101
+- 102
+Overall GS: 1000
+Overall Ratio: 3.12
+Overall TA: 3120
+PDU: 0
+Percentage Completed: 0.25
+Publisher: Awaken Realms Digital
+Release Date: 23 May 2025
+Server Closure: false
+Site Rating: 4.1
+Update Achievements: []
+Walkthrough: false

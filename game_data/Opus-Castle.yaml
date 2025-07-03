@@ -3,8 +3,8 @@ Add On Achievements:
   Description: Access the memory that tells Alice's story
   GS: '30'
   Guide: true
-  Number of Gamers: 810
-  Percentage of Gamers: 94%
+  Number of Gamers: 857
+  Percentage of Gamers: 92%
   Ratio: 1.94
   TA: '58'
   Tags:
@@ -15,8 +15,8 @@ Add On Achievements:
   Description: Help Alice to find her doll
   GS: '15'
   Guide: true
-  Number of Gamers: 768
-  Percentage of Gamers: 89%
+  Number of Gamers: 819
+  Percentage of Gamers: 88%
   Ratio: 1.99
   TA: '29'
   Tags:
@@ -27,9 +27,9 @@ Add On Achievements:
   Description: Don't help Alice to find her doll
   GS: '15'
   Guide: true
-  Number of Gamers: 734
-  Percentage of Gamers: 85%
-  Ratio: 2.03
+  Number of Gamers: 779
+  Percentage of Gamers: 84%
+  Ratio: 2.04
   TA: '30'
   Tags:
   - Offline Mode
@@ -39,9 +39,9 @@ Add On Achievements:
   Description: Convice the mother look through the door
   GS: '15'
   Guide: true
-  Number of Gamers: 741
-  Percentage of Gamers: 86%
-  Ratio: 2.02
+  Number of Gamers: 782
+  Percentage of Gamers: 84%
+  Ratio: 2.03
   TA: '30'
   Tags:
   - Offline Mode
@@ -51,8 +51,8 @@ Add On Achievements:
   Description: Collect the invocation tape
   GS: '15'
   Guide: true
-  Number of Gamers: 792
-  Percentage of Gamers: 91%
+  Number of Gamers: 836
+  Percentage of Gamers: 90%
   Ratio: 1.96
   TA: '29'
   Tags:
@@ -64,9 +64,9 @@ Add On Achievements:
   Description: Pass through the quick event without dying
   GS: '90'
   Guide: true
-  Number of Gamers: 812
-  Percentage of Gamers: 94%
-  Ratio: 1.93
+  Number of Gamers: 860
+  Percentage of Gamers: 93%
+  Ratio: 1.94
   TA: '174'
   Tags:
   - Offline Mode
@@ -76,14 +76,350 @@ Add On Achievements:
   Description: Win the chess match
   GS: '15'
   Guide: false
-  Number of Gamers: 711
-  Percentage of Gamers: 82%
+  Number of Gamers: 749
+  Percentage of Gamers: 81%
   Ratio: 2.07
   TA: '31'
   Tags:
   - Offline Mode
   - Single Player
   - Missable
+- Achievement Name: Crystal clear vision
+  Description: Find the glasses
+  GS: '15'
+  Guide: true
+  Number of Gamers: 64
+  Percentage of Gamers: 100%
+  Ratio: 3.74
+  TA: '56'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Stop! Stop! Stop!
+  Description: Stop the flood
+  GS: '15'
+  Guide: true
+  Number of Gamers: 44
+  Percentage of Gamers: 69%
+  Ratio: 4.51
+  TA: '67'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: I'm not interested
+  Description: Refuse to date the woman in the room
+  GS: '15'
+  Guide: true
+  Number of Gamers: 42
+  Percentage of Gamers: 66%
+  Ratio: 4.63
+  TA: '69'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Fatal reflex
+  Description: Escape the mirror ghost
+  GS: '15'
+  Guide: true
+  Number of Gamers: 50
+  Percentage of Gamers: 78%
+  Ratio: 4.3
+  TA: '64'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Synchronizing
+  Description: Open the bathroom with the radio
+  GS: '30'
+  Guide: true
+  Number of Gamers: 45
+  Percentage of Gamers: 70%
+  Ratio: 4.51
+  TA: '135'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Hidden key
+  Description: Find the key on the chain
+  GS: '15'
+  Guide: true
+  Number of Gamers: 43
+  Percentage of Gamers: 67%
+  Ratio: 4.57
+  TA: '68'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Chapter 3
+  Description: Finish Chapter 3
+  GS: '90'
+  Guide: false
+  Number of Gamers: 63
+  Percentage of Gamers: 98%
+  Ratio: 3.78
+  TA: '340'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Silence
+  Description: Crouch to avoid being detected by the enemy
+  GS: '15'
+  Guide: true
+  Number of Gamers: 43
+  Percentage of Gamers: 88%
+  Ratio: 4.24
+  TA: '63'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Dark Descent
+  Description: Descend into the dungeon
+  GS: '15'
+  Guide: false
+  Number of Gamers: 46
+  Percentage of Gamers: 94%
+  Ratio: 4.09
+  TA: '61'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Pleasure Room
+  Description: Discover the torture chamber
+  GS: '15'
+  Guide: false
+  Number of Gamers: 46
+  Percentage of Gamers: 94%
+  Ratio: 4.09
+  TA: '61'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Three lost keys
+  Description: Try to open the three locked doors
+  GS: '15'
+  Guide: false
+  Number of Gamers: 43
+  Percentage of Gamers: 88%
+  Ratio: 4.24
+  TA: '63'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Purification
+  Description: Perform the exorcism
+  GS: '15'
+  Guide: false
+  Number of Gamers: 48
+  Percentage of Gamers: 98%
+  Ratio: 4.0
+  TA: '60'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Broken chains
+  Description: Free yourself from the torture chair
+  GS: '30'
+  Guide: false
+  Number of Gamers: 49
+  Percentage of Gamers: 100%
+  Ratio: 3.95
+  TA: '118'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Chapter 4
+  Description: Finish Chapter 4
+  GS: '90'
+  Guide: false
+  Number of Gamers: 49
+  Percentage of Gamers: 100%
+  Ratio: 3.95
+  TA: '356'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: End of the show
+  Description: See the hanging clown fall
+  GS: '15'
+  Guide: false
+  Number of Gamers: 47
+  Percentage of Gamers: 100%
+  Ratio: 3.97
+  TA: '59'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: One dose will...
+  Description: Drink to see the lost soul
+  GS: '15'
+  Guide: false
+  Number of Gamers: 47
+  Percentage of Gamers: 100%
+  Ratio: 3.97
+  TA: '59'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: I had it all
+  Description: Find page 1/4 of the ritual manuscript
+  GS: '15'
+  Guide: false
+  Number of Gamers: 42
+  Percentage of Gamers: 91%
+  Ratio: 4.21
+  TA: '63'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: It doesn't work anymore
+  Description: Find page 2/4 of the ritual manuscript
+  GS: '15'
+  Guide: false
+  Number of Gamers: 47
+  Percentage of Gamers: 100%
+  Ratio: 3.97
+  TA: '59'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: You will burn!
+  Description: Find page 3/4 of the ritual manuscript
+  GS: '15'
+  Guide: false
+  Number of Gamers: 42
+  Percentage of Gamers: 91%
+  Ratio: 4.21
+  TA: '63'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Am I pretty?
+  Description: Find page 4/4 of the ritual manuscript
+  GS: '30'
+  Guide: false
+  Number of Gamers: 44
+  Percentage of Gamers: 96%
+  Ratio: 4.11
+  TA: '123'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Chapter 5
+  Description: Finish Chapter 5
+  GS: '90'
+  Guide: false
+  Number of Gamers: 46
+  Percentage of Gamers: 100%
+  Ratio: 4.02
+  TA: '362'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Choices of destiny
+  Description: Accept the call and go through the door to begin the ritual
+  GS: '15'
+  Guide: false
+  Number of Gamers: 46
+  Percentage of Gamers: 100%
+  Ratio: 4.0
+  TA: '60'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Denied path
+  Description: Deny the call and refuse to take part in the ritual
+  GS: '15'
+  Guide: false
+  Number of Gamers: 46
+  Percentage of Gamers: 100%
+  Ratio: 4.0
+  TA: '60'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Heart loss
+  Description: Stop using the dagger and give your heart to the demon... literally
+  GS: '15'
+  Guide: false
+  Number of Gamers: 44
+  Percentage of Gamers: 96%
+  Ratio: 4.09
+  TA: '61'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Only accepted
+  Description: Don't threaten the demon and accept the bargain without question
+  GS: '15'
+  Guide: false
+  Number of Gamers: 42
+  Percentage of Gamers: 91%
+  Ratio: 4.19
+  TA: '62'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Imminent end
+  Description: Stop attacking the demon and accept your fate
+  GS: '15'
+  Guide: false
+  Number of Gamers: 40
+  Percentage of Gamers: 87%
+  Ratio: 4.3
+  TA: '64'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Necessary sacrifice
+  Description: Give up a soul to seal evil
+  GS: '30'
+  Guide: false
+  Number of Gamers: 40
+  Percentage of Gamers: 87%
+  Ratio: 4.3
+  TA: '129'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Chapter 6
+  Description: Finish Chapter 6
+  GS: '90'
+  Guide: false
+  Number of Gamers: 46
+  Percentage of Gamers: 100%
+  Ratio: 4.0
+  TA: '360'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 Base Completion Time:
 - 1.0
 - 2.0
@@ -93,7 +429,7 @@ Base Game Achievements:
   Description: Get run over
   GS: '30'
   Guide: true
-  Number of Gamers: 4516
+  Number of Gamers: 4744
   Percentage of Gamers: 42%
   Ratio: 1.54
   TA: '46'
@@ -105,7 +441,7 @@ Base Game Achievements:
   Description: Give a look around on the town
   GS: '20'
   Guide: true
-  Number of Gamers: 6693
+  Number of Gamers: 7059
   Percentage of Gamers: 62%
   Ratio: 1.26
   TA: '25'
@@ -117,7 +453,7 @@ Base Game Achievements:
   Description: Play with the goat
   GS: '20'
   Guide: true
-  Number of Gamers: 8694
+  Number of Gamers: 9171
   Percentage of Gamers: 81%
   Ratio: 1.11
   TA: '22'
@@ -129,7 +465,7 @@ Base Game Achievements:
   Description: Find the base key
   GS: '20'
   Guide: true
-  Number of Gamers: 9846
+  Number of Gamers: 10375
   Percentage of Gamers: 92%
   Ratio: 1.04
   TA: '20'
@@ -141,7 +477,7 @@ Base Game Achievements:
   Description: Collect the cassette player
   GS: '20'
   Guide: true
-  Number of Gamers: 8740
+  Number of Gamers: 9218
   Percentage of Gamers: 81%
   Ratio: 1.1
   TA: '22'
@@ -154,8 +490,8 @@ Base Game Achievements:
   Description: Use your cell phone flashlight
   GS: '30'
   Guide: true
-  Number of Gamers: 10044
-  Percentage of Gamers: 94%
+  Number of Gamers: 10571
+  Percentage of Gamers: 93%
   Ratio: 1.03
   TA: '31'
   Tags:
@@ -165,7 +501,7 @@ Base Game Achievements:
   Description: Access the company's app
   GS: '30'
   Guide: true
-  Number of Gamers: 9222
+  Number of Gamers: 9710
   Percentage of Gamers: 86%
   Ratio: 1.07
   TA: '32'
@@ -176,7 +512,7 @@ Base Game Achievements:
   Description: Change the cell phone's wallpaper
   GS: '30'
   Guide: true
-  Number of Gamers: 7553
+  Number of Gamers: 7956
   Percentage of Gamers: 70%
   Ratio: 1.19
   TA: '35'
@@ -187,7 +523,7 @@ Base Game Achievements:
   Description: Try to run
   GS: '20'
   Guide: true
-  Number of Gamers: 8846
+  Number of Gamers: 9311
   Percentage of Gamers: 82%
   Ratio: 1.1
   TA: '22'
@@ -198,9 +534,9 @@ Base Game Achievements:
   Description: Interact with the mirror
   GS: '20'
   Guide: true
-  Number of Gamers: 9204
+  Number of Gamers: 9700
   Percentage of Gamers: 86%
-  Ratio: 1.08
+  Ratio: 1.07
   TA: '21'
   Tags:
   - Offline Mode
@@ -210,7 +546,7 @@ Base Game Achievements:
   Description: Check up the stairs
   GS: '20'
   Guide: true
-  Number of Gamers: 4735
+  Number of Gamers: 4983
   Percentage of Gamers: 44%
   Ratio: 1.5
   TA: '30'
@@ -222,7 +558,7 @@ Base Game Achievements:
   Description: Enter the suite
   GS: '20'
   Guide: true
-  Number of Gamers: 4167
+  Number of Gamers: 4377
   Percentage of Gamers: 39%
   Ratio: 1.6
   TA: '32'
@@ -234,7 +570,7 @@ Base Game Achievements:
   Description: Enter Alvaro's bedroom
   GS: '20'
   Guide: true
-  Number of Gamers: 3732
+  Number of Gamers: 3935
   Percentage of Gamers: 35%
   Ratio: 1.69
   TA: '33'
@@ -246,7 +582,7 @@ Base Game Achievements:
   Description: Enter the dinner room
   GS: '20'
   Guide: true
-  Number of Gamers: 6177
+  Number of Gamers: 6507
   Percentage of Gamers: 58%
   Ratio: 1.31
   TA: '26'
@@ -258,7 +594,7 @@ Base Game Achievements:
   Description: Go to the entrance
   GS: '20'
   Guide: true
-  Number of Gamers: 4487
+  Number of Gamers: 4715
   Percentage of Gamers: 42%
   Ratio: 1.54
   TA: '30'
@@ -270,7 +606,7 @@ Base Game Achievements:
   Description: Find pin 1 of the key
   GS: '30'
   Guide: true
-  Number of Gamers: 6146
+  Number of Gamers: 6475
   Percentage of Gamers: 57%
   Ratio: 1.32
   TA: '39'
@@ -283,7 +619,7 @@ Base Game Achievements:
   Description: Find pin 2 of the key
   GS: '30'
   Guide: false
-  Number of Gamers: 4579
+  Number of Gamers: 4818
   Percentage of Gamers: 43%
   Ratio: 1.53
   TA: '45'
@@ -296,7 +632,7 @@ Base Game Achievements:
   Description: Find pin 3 of the key
   GS: '30'
   Guide: false
-  Number of Gamers: 4276
+  Number of Gamers: 4494
   Percentage of Gamers: 40%
   Ratio: 1.58
   TA: '47'
@@ -309,9 +645,9 @@ Base Game Achievements:
   Description: Steal the jewels
   GS: '20'
   Guide: true
-  Number of Gamers: 3995
+  Number of Gamers: 4201
   Percentage of Gamers: 37%
-  Ratio: 1.63
+  Ratio: 1.64
   TA: '32'
   Tags:
   - Offline Mode
@@ -322,7 +658,7 @@ Base Game Achievements:
   Description: Collect the pot of mugwort
   GS: '30'
   Guide: true
-  Number of Gamers: 3845
+  Number of Gamers: 4044
   Percentage of Gamers: 36%
   Ratio: 1.67
   TA: '50'
@@ -335,7 +671,7 @@ Base Game Achievements:
   Description: Take a deep breath with the cigarette
   GS: '20'
   Guide: false
-  Number of Gamers: 4312
+  Number of Gamers: 4539
   Percentage of Gamers: 40%
   Ratio: 1.57
   TA: '31'
@@ -347,7 +683,7 @@ Base Game Achievements:
   Description: Get a drink
   GS: '20'
   Guide: false
-  Number of Gamers: 5606
+  Number of Gamers: 5914
   Percentage of Gamers: 52%
   Ratio: 1.38
   TA: '27'
@@ -359,7 +695,7 @@ Base Game Achievements:
   Description: Drink until fall
   GS: '30'
   Guide: true
-  Number of Gamers: 4280
+  Number of Gamers: 4504
   Percentage of Gamers: 40%
   Ratio: 1.58
   TA: '47'
@@ -371,7 +707,7 @@ Base Game Achievements:
   Description: Collect the invocation tape
   GS: '20'
   Guide: true
-  Number of Gamers: 3577
+  Number of Gamers: 3769
   Percentage of Gamers: 33%
   Ratio: 1.73
   TA: '34'
@@ -384,8 +720,8 @@ Base Game Achievements:
   Description: Collect the Gun
   GS: '20'
   Guide: false
-  Number of Gamers: 4247
-  Percentage of Gamers: 40%
+  Number of Gamers: 4466
+  Percentage of Gamers: 39%
   Ratio: 1.59
   TA: '31'
   Tags:
@@ -397,7 +733,7 @@ Base Game Achievements:
   Description: Eat a little
   GS: '20'
   Guide: true
-  Number of Gamers: 5427
+  Number of Gamers: 5727
   Percentage of Gamers: 51%
   Ratio: 1.4
   TA: '28'
@@ -409,7 +745,7 @@ Base Game Achievements:
   Description: See the photo of the hall
   GS: '20'
   Guide: false
-  Number of Gamers: 8516
+  Number of Gamers: 8978
   Percentage of Gamers: 79%
   Ratio: 1.12
   TA: '22'
@@ -421,7 +757,7 @@ Base Game Achievements:
   Description: See the photo of the suit
   GS: '20'
   Guide: false
-  Number of Gamers: 4111
+  Number of Gamers: 4319
   Percentage of Gamers: 38%
   Ratio: 1.61
   TA: '32'
@@ -433,7 +769,7 @@ Base Game Achievements:
   Description: See the photo of Alvaro's bedroom
   GS: '20'
   Guide: false
-  Number of Gamers: 3711
+  Number of Gamers: 3912
   Percentage of Gamers: 35%
   Ratio: 1.7
   TA: '34'
@@ -445,8 +781,8 @@ Base Game Achievements:
   Description: See the pictures of the office
   GS: '20'
   Guide: false
-  Number of Gamers: 4244
-  Percentage of Gamers: 40%
+  Number of Gamers: 4459
+  Percentage of Gamers: 39%
   Ratio: 1.59
   TA: '31'
   Tags:
@@ -457,7 +793,7 @@ Base Game Achievements:
   Description: Open the drawers
   GS: '20'
   Guide: false
-  Number of Gamers: 6040
+  Number of Gamers: 6363
   Percentage of Gamers: 56%
   Ratio: 1.33
   TA: '26'
@@ -468,7 +804,7 @@ Base Game Achievements:
   Description: Collect 3 items
   GS: '20'
   Guide: false
-  Number of Gamers: 9233
+  Number of Gamers: 9733
   Percentage of Gamers: 86%
   Ratio: 1.07
   TA: '21'
@@ -480,7 +816,7 @@ Base Game Achievements:
   Description: Interact with 3 verifiable items
   GS: '20'
   Guide: false
-  Number of Gamers: 9049
+  Number of Gamers: 9539
   Percentage of Gamers: 84%
   Ratio: 1.08
   TA: '21'
@@ -492,7 +828,7 @@ Base Game Achievements:
   Description: Interact with 7 verifiable items
   GS: '20'
   Guide: false
-  Number of Gamers: 4640
+  Number of Gamers: 4886
   Percentage of Gamers: 43%
   Ratio: 1.52
   TA: '30'
@@ -504,7 +840,7 @@ Base Game Achievements:
   Description: Final Suit
   GS: '40'
   Guide: true
-  Number of Gamers: 4128
+  Number of Gamers: 4336
   Percentage of Gamers: 38%
   Ratio: 1.61
   TA: '64'
@@ -516,7 +852,7 @@ Base Game Achievements:
   Description: "Ending Room of \xC1lvaro"
   GS: '40'
   Guide: false
-  Number of Gamers: 3839
+  Number of Gamers: 4047
   Percentage of Gamers: 36%
   Ratio: 1.67
   TA: '66'
@@ -528,7 +864,7 @@ Base Game Achievements:
   Description: Ending Dinner room
   GS: '40'
   Guide: false
-  Number of Gamers: 6006
+  Number of Gamers: 6328
   Percentage of Gamers: 56%
   Ratio: 1.33
   TA: '53'
@@ -540,7 +876,7 @@ Base Game Achievements:
   Description: Final Office Room
   GS: '40'
   Guide: false
-  Number of Gamers: 4236
+  Number of Gamers: 4453
   Percentage of Gamers: 39%
   Ratio: 1.59
   TA: '63'
@@ -552,38 +888,35 @@ Base Game Achievements:
   Description: Achieve all achievements
   GS: '70'
   Guide: true
-  Number of Gamers: 588
-  Percentage of Gamers: 5%
-  Ratio: 4.27
-  TA: '299'
+  Number of Gamers: 666
+  Percentage of Gamers: 6%
+  Ratio: 4.17
+  TA: '292'
   Tags:
   - Offline Mode
   - Single Player
   - Multiple Playthroughs Required
   - External Content
-  - Buggy +
-  - Buggy
-  - Partly Discontinued/Unobtainable
-Base Ratio: 1.6
-Base TA: 1600
+Base Ratio: 1.593
+Base TA: 1593
 Delisted: false
 Developer: Messier Data & Creative
 Game Name: Opus Castle
 Genres: Adventure
 Install Size: 3570.0
-Number of Completions: 552
-Number of Gamers: 10739
+Number of Completions: 38
+Number of Gamers: 11316
 Overall Completion Time:
-- 1.5
-- 3.0
-Overall GS: 1195
-Overall Ratio: 1.6577405857740586
-Overall TA: 1981
+- 1.0
+- 2.0
+Overall GS: 1975
+Overall Ratio: 2.602025316455696
+Overall TA: 5139
 PDU: 0
-Percentage Completed: 5.14
+Percentage Completed: 0.34
 Publisher: QUByte Interactive
 Release Date: 27 October 2022
 Server Closure: false
-Site Rating: 2.09
+Site Rating: 2.12
 Update Achievements: []
 Walkthrough: false

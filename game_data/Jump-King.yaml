@@ -1,15 +1,15 @@
 Add On Achievements: []
 Base Completion Time:
-- 102
-- 103
+- 50.0
+- 60.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Just the Beginning
   Description: If only you knew... (100 Falls)
   GS: '10'
   Guide: false
-  Number of Gamers: 1888
-  Percentage of Gamers: 91%
+  Number of Gamers: 2119
+  Percentage of Gamers: 92%
   Ratio: 1.04
   TA: '10'
   Tags:
@@ -20,9 +20,9 @@ Base Game Achievements:
   Description: Be happy you have a helmet. (1000 Falls)
   GS: '10'
   Guide: false
-  Number of Gamers: 457
+  Number of Gamers: 515
   Percentage of Gamers: 22%
-  Ratio: 2.12
+  Ratio: 2.11
   TA: '21'
   Tags:
   - Offline Mode
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: You have much to learn... (1000 Jumps)
   GS: '10'
   Guide: false
-  Number of Gamers: 1701
-  Percentage of Gamers: 82%
-  Ratio: 1.1
-  TA: '11'
+  Number of Gamers: 1914
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '10'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,9 +44,9 @@ Base Game Achievements:
   Description: You are a seasoned jumper. (10,000 Jumps)
   GS: '10'
   Guide: false
-  Number of Gamers: 417
+  Number of Gamers: 470
   Percentage of Gamers: 20%
-  Ratio: 2.22
+  Ratio: 2.21
   TA: '22'
   Tags:
   - Offline Mode
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: My lord is a true veteran in the art of jumping! (20,000 Jumps)
   GS: '10'
   Guide: false
-  Number of Gamers: 216
-  Percentage of Gamers: 10%
-  Ratio: 3.1
-  TA: '31'
+  Number of Gamers: 252
+  Percentage of Gamers: 11%
+  Ratio: 3.03
+  TA: '30'
   Tags:
   - Offline Mode
   - Single Player
@@ -69,8 +69,8 @@ Base Game Achievements:
     10 times)
   GS: '10'
   Guide: false
-  Number of Gamers: 1305
-  Percentage of Gamers: 63%
+  Number of Gamers: 1473
+  Percentage of Gamers: 64%
   Ratio: 1.25
   TA: '12'
   Tags:
@@ -82,10 +82,10 @@ Base Game Achievements:
     40 times)
   GS: '10'
   Guide: true
-  Number of Gamers: 77
+  Number of Gamers: 97
   Percentage of Gamers: 4%
-  Ratio: 5.16
-  TA: '51'
+  Ratio: 4.93
+  TA: '49'
   Tags:
   - Offline Mode
   - Single Player
@@ -95,10 +95,10 @@ Base Game Achievements:
     times)
   GS: '10'
   Guide: false
-  Number of Gamers: 213
-  Percentage of Gamers: 10%
-  Ratio: 3.12
-  TA: '31'
+  Number of Gamers: 247
+  Percentage of Gamers: 11%
+  Ratio: 3.05
+  TA: '30'
   Tags:
   - Offline Mode
   - Single Player
@@ -107,10 +107,10 @@ Base Game Achievements:
   Description: Each man has his price? (Talk to the merchant 4 times)
   GS: '10'
   Guide: false
-  Number of Gamers: 142
+  Number of Gamers: 168
   Percentage of Gamers: 7%
-  Ratio: 3.8
-  TA: '38'
+  Ratio: 3.72
+  TA: '37'
   Tags:
   - Offline Mode
   - Single Player
@@ -119,10 +119,10 @@ Base Game Achievements:
   Description: Reach the top.
   GS: '40'
   Guide: false
-  Number of Gamers: 230
-  Percentage of Gamers: 11%
-  Ratio: 2.99
-  TA: '119'
+  Number of Gamers: 270
+  Percentage of Gamers: 12%
+  Ratio: 2.92
+  TA: '117'
   Tags:
   - Offline Mode
   - Single Player
@@ -131,10 +131,10 @@ Base Game Achievements:
   Description: Complete the game within 1 hour.
   GS: '20'
   Guide: false
-  Number of Gamers: 130
-  Percentage of Gamers: 6%
-  Ratio: 3.97
-  TA: '79'
+  Number of Gamers: 155
+  Percentage of Gamers: 7%
+  Ratio: 3.86
+  TA: '77'
   Tags:
   - Offline Mode
   - Single Player
@@ -144,10 +144,10 @@ Base Game Achievements:
   Description: Complete the game within 15 minutes.
   GS: '30'
   Guide: false
-  Number of Gamers: 97
+  Number of Gamers: 118
   Percentage of Gamers: 5%
-  Ratio: 4.6
-  TA: '138'
+  Ratio: 4.44
+  TA: '133'
   Tags:
   - Offline Mode
   - Single Player
@@ -157,10 +157,10 @@ Base Game Achievements:
   Description: Finish the game wearing the crown.
   GS: '10'
   Guide: false
-  Number of Gamers: 137
+  Number of Gamers: 162
   Percentage of Gamers: 7%
-  Ratio: 3.87
-  TA: '38'
+  Ratio: 3.77
+  TA: '37'
   Tags:
   - Offline Mode
   - Single Player
@@ -169,10 +169,10 @@ Base Game Achievements:
   Description: Finish game wearing the special boots.
   GS: '10'
   Guide: false
-  Number of Gamers: 122
+  Number of Gamers: 141
   Percentage of Gamers: 6%
-  Ratio: 4.1
-  TA: '41'
+  Ratio: 4.06
+  TA: '40'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -180,21 +180,21 @@ Base Game Achievements:
   Description: You seem to dislike birds?
   GS: '15'
   Guide: false
-  Number of Gamers: 63
+  Number of Gamers: 80
   Percentage of Gamers: 3%
-  Ratio: 5.71
-  TA: '85'
+  Ratio: 5.4
+  TA: '81'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Godlike Jumper
   Description: Complete the game without falling.
   GS: '20'
-  Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 1%
-  Ratio: 8.28
-  TA: '165'
+  Guide: true
+  Number of Gamers: 37
+  Percentage of Gamers: 2%
+  Ratio: 8.01
+  TA: '160'
   Tags:
   - Offline Mode
   - Single Player
@@ -203,9 +203,9 @@ Base Game Achievements:
   Description: Own the special boots.
   GS: '10'
   Guide: false
-  Number of Gamers: 152
-  Percentage of Gamers: 7%
-  Ratio: 3.67
+  Number of Gamers: 175
+  Percentage of Gamers: 8%
+  Ratio: 3.63
   TA: '36'
   Tags:
   - Offline Game Mode
@@ -214,10 +214,10 @@ Base Game Achievements:
   Description: Only the finest for a King.
   GS: '20'
   Guide: true
-  Number of Gamers: 48
-  Percentage of Gamers: 2%
-  Ratio: 6.54
-  TA: '130'
+  Number of Gamers: 64
+  Percentage of Gamers: 3%
+  Ratio: 6.05
+  TA: '121'
   Tags:
   - Offline Mode
   - Single Player
@@ -226,10 +226,10 @@ Base Game Achievements:
   Description: "That bird\u2026"
   GS: '10'
   Guide: false
-  Number of Gamers: 246
+  Number of Gamers: 282
   Percentage of Gamers: 12%
-  Ratio: 2.92
-  TA: '29'
+  Ratio: 2.86
+  TA: '28'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -237,10 +237,10 @@ Base Game Achievements:
   Description: Reach Chapel Perilous.
   GS: '10'
   Guide: false
-  Number of Gamers: 239
+  Number of Gamers: 282
   Percentage of Gamers: 12%
-  Ratio: 2.93
-  TA: '29'
+  Ratio: 2.86
+  TA: '28'
   Tags:
   - Offline Mode
   - Single Player
@@ -249,9 +249,9 @@ Base Game Achievements:
   Description: Enter through an illusory wall.
   GS: '10'
   Guide: false
-  Number of Gamers: 1141
-  Percentage of Gamers: 55%
-  Ratio: 1.34
+  Number of Gamers: 1297
+  Percentage of Gamers: 56%
+  Ratio: 1.33
   TA: '13'
   Tags:
   - Offline Game Mode
@@ -260,9 +260,9 @@ Base Game Achievements:
   Description: Find the room of The Imp.
   GS: '10'
   Guide: false
-  Number of Gamers: 431
-  Percentage of Gamers: 21%
-  Ratio: 2.18
+  Number of Gamers: 498
+  Percentage of Gamers: 22%
+  Ratio: 2.15
   TA: '21'
   Tags:
   - Offline Mode
@@ -273,10 +273,10 @@ Base Game Achievements:
   Description: Complete game with giant boots. (Begin at Redcrown Woods)
   GS: '40'
   Guide: false
-  Number of Gamers: 31
+  Number of Gamers: 39
   Percentage of Gamers: 2%
-  Ratio: 8.14
-  TA: '325'
+  Ratio: 7.69
+  TA: '307'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -284,10 +284,10 @@ Base Game Achievements:
   Description: Complete NB+ with giant boots. (Begin at Redcrown Woods)
   GS: '50'
   Guide: false
-  Number of Gamers: 22
+  Number of Gamers: 26
   Percentage of Gamers: 1%
-  Ratio: 9.66
-  TA: '483'
+  Ratio: 9.42
+  TA: '471'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -295,10 +295,10 @@ Base Game Achievements:
   Description: Complete the game with Snake Ring. (Begin at Redcrown Woods)
   GS: '40'
   Guide: false
-  Number of Gamers: 28
+  Number of Gamers: 33
   Percentage of Gamers: 1%
-  Ratio: 8.57
-  TA: '342'
+  Ratio: 8.36
+  TA: '334'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -306,10 +306,10 @@ Base Game Achievements:
   Description: Complete NB+ with Snake Ring. (Begin at Redcrown Woods)
   GS: '50'
   Guide: false
-  Number of Gamers: 17
+  Number of Gamers: 21
   Percentage of Gamers: 1%
-  Ratio: 11.0
-  TA: '550'
+  Ratio: 10.49
+  TA: '524'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -317,10 +317,10 @@ Base Game Achievements:
   Description: Complete New Babe+.
   GS: '40'
   Guide: false
-  Number of Gamers: 69
-  Percentage of Gamers: 3%
-  Ratio: 5.5
-  TA: '220'
+  Number of Gamers: 82
+  Percentage of Gamers: 4%
+  Ratio: 5.3
+  TA: '212'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -328,10 +328,10 @@ Base Game Achievements:
   Description: Complete New Babe+ without falling.
   GS: '50'
   Guide: false
-  Number of Gamers: 14
+  Number of Gamers: 18
   Percentage of Gamers: 1%
-  Ratio: 12.12
-  TA: '606'
+  Ratio: 11.33
+  TA: '566'
   Tags:
   - Offline Mode
   - Single Player
@@ -340,10 +340,10 @@ Base Game Achievements:
   Description: Purchase the Giant Boots.
   GS: '10'
   Guide: false
-  Number of Gamers: 53
+  Number of Gamers: 63
   Percentage of Gamers: 3%
-  Ratio: 6.22
-  TA: '62'
+  Ratio: 6.05
+  TA: '60'
   Tags:
   - Offline Mode
   - Single Player
@@ -353,10 +353,10 @@ Base Game Achievements:
   Description: Receive the Snake Ring
   GS: '20'
   Guide: false
-  Number of Gamers: 60
+  Number of Gamers: 73
   Percentage of Gamers: 3%
-  Ratio: 5.9
-  TA: '118'
+  Ratio: 5.62
+  TA: '112'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -364,10 +364,10 @@ Base Game Achievements:
   Description: Reach Deep Ruin.
   GS: '10'
   Guide: false
-  Number of Gamers: 72
-  Percentage of Gamers: 3%
-  Ratio: 5.34
-  TA: '53'
+  Number of Gamers: 87
+  Percentage of Gamers: 4%
+  Ratio: 5.15
+  TA: '51'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -375,10 +375,10 @@ Base Game Achievements:
   Description: Find the hidden nose.
   GS: '10'
   Guide: false
-  Number of Gamers: 101
+  Number of Gamers: 119
   Percentage of Gamers: 5%
-  Ratio: 4.51
-  TA: '45'
+  Ratio: 4.4
+  TA: '44'
   Tags:
   - Offline Mode
   - Single Player
@@ -387,10 +387,10 @@ Base Game Achievements:
   Description: Wear the Snake Ring and the giant boots at the same time.
   GS: '10'
   Guide: false
-  Number of Gamers: 49
-  Percentage of Gamers: 2%
-  Ratio: 6.47
-  TA: '64'
+  Number of Gamers: 59
+  Percentage of Gamers: 3%
+  Ratio: 6.25
+  TA: '62'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -398,10 +398,10 @@ Base Game Achievements:
   Description: Complete Ghost of the Babe with giant boots. (Begin at Redcrown Woods)
   GS: '50'
   Guide: false
-  Number of Gamers: 13
+  Number of Gamers: 18
   Percentage of Gamers: 1%
-  Ratio: 12.57
-  TA: '628'
+  Ratio: 11.65
+  TA: '582'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -409,10 +409,10 @@ Base Game Achievements:
   Description: Complete Ghost of the Babe with Snake Ring. (Begin at Redcrown Woods)
   GS: '50'
   Guide: false
-  Number of Gamers: 13
+  Number of Gamers: 17
   Percentage of Gamers: 1%
-  Ratio: 12.57
-  TA: '628'
+  Ratio: 12.01
+  TA: '600'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -420,9 +420,9 @@ Base Game Achievements:
   Description: Receive the King's Cape.
   GS: '10'
   Guide: false
-  Number of Gamers: 41
+  Number of Gamers: 47
   Percentage of Gamers: 2%
-  Ratio: 7.08
+  Ratio: 7.01
   TA: '70'
   Tags:
   - Offline Game Mode
@@ -431,10 +431,10 @@ Base Game Achievements:
   Description: Complete Ghost of the Babe.
   GS: '50'
   Guide: false
-  Number of Gamers: 44
+  Number of Gamers: 50
   Percentage of Gamers: 2%
-  Ratio: 6.83
-  TA: '341'
+  Ratio: 6.79
+  TA: '339'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -442,9 +442,9 @@ Base Game Achievements:
   Description: Wear the tunic, yellow shoes and the green hat at the same time.
   GS: '10'
   Guide: false
-  Number of Gamers: 42
+  Number of Gamers: 48
   Percentage of Gamers: 2%
-  Ratio: 6.99
+  Ratio: 6.93
   TA: '69'
   Tags:
   - Offline Game Mode
@@ -453,10 +453,10 @@ Base Game Achievements:
   Description: Complete Ghost of the Babe with only 2 falls.
   GS: '54'
   Guide: false
-  Number of Gamers: 13
+  Number of Gamers: 17
   Percentage of Gamers: 1%
-  Ratio: 12.57
-  TA: '679'
+  Ratio: 11.65
+  TA: '629'
   Tags:
   - Offline Mode
   - Single Player
@@ -465,10 +465,10 @@ Base Game Achievements:
   Description: How could anyone deny your intellect now?
   GS: '10'
   Guide: false
-  Number of Gamers: 246
+  Number of Gamers: 276
   Percentage of Gamers: 12%
-  Ratio: 2.9
-  TA: '29'
+  Ratio: 2.89
+  TA: '28'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -476,9 +476,9 @@ Base Game Achievements:
   Description: Hang with the gang.
   GS: '10'
   Guide: false
-  Number of Gamers: 50
+  Number of Gamers: 56
   Percentage of Gamers: 2%
-  Ratio: 6.41
+  Ratio: 6.42
   TA: '64'
   Tags:
   - Offline Game Mode
@@ -487,10 +487,10 @@ Base Game Achievements:
   Description: Become initiated amongst the forest scholars.
   GS: '10'
   Guide: false
-  Number of Gamers: 86
+  Number of Gamers: 98
   Percentage of Gamers: 4%
-  Ratio: 4.91
-  TA: '49'
+  Ratio: 4.85
+  TA: '48'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -498,10 +498,10 @@ Base Game Achievements:
   Description: Many thanks, brother!
   GS: '10'
   Guide: false
-  Number of Gamers: 48
+  Number of Gamers: 55
   Percentage of Gamers: 2%
-  Ratio: 6.54
-  TA: '65'
+  Ratio: 6.48
+  TA: '64'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -509,10 +509,10 @@ Base Game Achievements:
   Description: Wear all garments of the most dedicated at once.
   GS: '30'
   Guide: false
-  Number of Gamers: 36
+  Number of Gamers: 42
   Percentage of Gamers: 2%
-  Ratio: 7.55
-  TA: '226'
+  Ratio: 7.41
+  TA: '222'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -520,10 +520,10 @@ Base Game Achievements:
   Description: You lose!
   GS: '11'
   Guide: true
-  Number of Gamers: 48
+  Number of Gamers: 55
   Percentage of Gamers: 2%
-  Ratio: 6.54
-  TA: '72'
+  Ratio: 6.48
+  TA: '71'
   Tags:
   - Offline Mode
   - Single Player
@@ -532,9 +532,9 @@ Base Game Achievements:
   Description: Find the 9th cat.
   GS: '10'
   Guide: false
-  Number of Gamers: 46
+  Number of Gamers: 52
   Percentage of Gamers: 2%
-  Ratio: 6.68
+  Ratio: 6.66
   TA: '66'
   Tags:
   - Offline Mode
@@ -544,10 +544,10 @@ Base Game Achievements:
   Description: Complete Ghost of the Babe within 1 hour.
   GS: '20'
   Guide: false
-  Number of Gamers: 27
+  Number of Gamers: 32
   Percentage of Gamers: 1%
-  Ratio: 8.72
-  TA: '174'
+  Ratio: 8.49
+  TA: '169'
   Tags:
   - Offline Mode
   - Single Player
@@ -557,35 +557,35 @@ Base Game Achievements:
   Description: Complete Ghost of the Babe within 30 minutes.
   GS: '30'
   Guide: false
-  Number of Gamers: 25
+  Number of Gamers: 30
   Percentage of Gamers: 1%
-  Ratio: 9.07
-  TA: '272'
+  Ratio: 8.77
+  TA: '263'
   Tags:
   - Offline Mode
   - Single Player
   - Stackable
   - Time/Date
-Base Ratio: 7.45
-Base TA: 7450
+Base Ratio: 7.14
+Base TA: 7140
 Delisted: false
 Developer: Nexile
 Game Name: Jump King
 Genres: Platformer
 Install Size: 1720.0
-Number of Completions: 13
-Number of Gamers: 2065
+Number of Completions: 17
+Number of Gamers: 2314
 Overall Completion Time:
-- 102
-- 103
+- 50.0
+- 60.0
 Overall GS: 1000
-Overall Ratio: 7.45
-Overall TA: 7450
+Overall Ratio: 7.14
+Overall TA: 7140
 PDU: 0
-Percentage Completed: 0.63
+Percentage Completed: 0.73
 Publisher: UKIYO Publishing
 Release Date: 09 June 2020
 Server Closure: false
-Site Rating: 3.92
+Site Rating: 4.03
 Update Achievements: []
 Walkthrough: false

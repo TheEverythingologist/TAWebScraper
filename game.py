@@ -4,11 +4,22 @@ import requests
 import re
 import yaml
 import math
+import cloudscraper
+import time
 
 class Game:
     def __init__(self, _url, _tag_dict) -> None:
         self.url = _url
-        _response = requests.get(_url)
+        _scraper = cloudscraper.create_scraper(delay=10, browser={'custom': 'Edge'})  # Emulate Edge
+        _response = _scraper.get(_url)
+        
+        # Wait briefly if needed (sometimes Cloudflare needs time)
+        time.sleep(5)
+        # Retry if title is still "Just a moment..."
+        if "Just a moment..." in _response.text:
+            print("[!] Still got challenge page, retrying after delay...")
+            time.sleep(5)
+            response = _scraper.get(_url)
         _soup = BeautifulSoup(_response.content, 'html.parser')
         
         self.unreleased = False
@@ -294,7 +305,15 @@ class Game:
     
     def fetch_completion_time(self):
         completionists_url = self.url.replace("/achievements", "/completionists")
-        time_response = requests.get(completionists_url)
+        _scraper = cloudscraper.create_scraper(delay=10, browser={'custom': 'Edge'})  # Emulate Edge
+        time_response = _scraper.get(completionists_url)
+        time.sleep(5)
+        # Retry if title is still "Just a moment..."
+        if "Just a moment..." in time_response.text:
+            print("[!] Still got challenge page, retrying after delay...")
+            time.sleep(5)
+            time_response = _scraper.get(completionists_url)
+
         time_soup = BeautifulSoup(time_response.content, 'html.parser')
         _page_info = time_soup.find('div', {'class': "page ta"})
         trs = _page_info.find_all('tr', {'class': 'even'}) + _page_info.find_all('tr', {'class': 'odd'})

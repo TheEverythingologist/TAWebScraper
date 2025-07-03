@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 20.0
-- 25.0
+- 35.0
+- 40.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Going on an Adventure
   Description: Defeat 10 monsters.
   GS: '10'
   Guide: false
-  Number of Gamers: 846
+  Number of Gamers: 920
   Percentage of Gamers: 96%
   Ratio: 1.01
   TA: '10'
@@ -20,9 +20,9 @@ Base Game Achievements:
   Description: Defeat 100 monsters.
   GS: '20'
   Guide: false
-  Number of Gamers: 404
-  Percentage of Gamers: 46%
-  Ratio: 1.47
+  Number of Gamers: 446
+  Percentage of Gamers: 47%
+  Ratio: 1.46
   TA: '29'
   Tags:
   - Offline Mode
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Defeat 500 monsters.
   GS: '30'
   Guide: false
-  Number of Gamers: 179
-  Percentage of Gamers: 20%
-  Ratio: 2.21
-  TA: '66'
+  Number of Gamers: 197
+  Percentage of Gamers: 21%
+  Ratio: 2.19
+  TA: '65'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Defeat 5000 monsters.
   GS: '60'
   Guide: false
-  Number of Gamers: 20
-  Percentage of Gamers: 2%
-  Ratio: 6.61
-  TA: '397'
+  Number of Gamers: 24
+  Percentage of Gamers: 3%
+  Ratio: 6.29
+  TA: '377'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Defeat 10000 monsters.
   GS: '100'
   Guide: true
-  Number of Gamers: 16
+  Number of Gamers: 20
   Percentage of Gamers: 2%
-  Ratio: 7.39
-  TA: '739'
+  Ratio: 6.89
+  TA: '689'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,7 +68,7 @@ Base Game Achievements:
   Description: Burn 150 monsters.
   GS: '30'
   Guide: false
-  Number of Gamers: 165
+  Number of Gamers: 179
   Percentage of Gamers: 19%
   Ratio: 2.3
   TA: '69'
@@ -80,10 +80,10 @@ Base Game Achievements:
   Description: Get poisoned 150 times.
   GS: '40'
   Guide: true
-  Number of Gamers: 21
-  Percentage of Gamers: 2%
-  Ratio: 6.61
-  TA: '264'
+  Number of Gamers: 24
+  Percentage of Gamers: 3%
+  Ratio: 6.29
+  TA: '251'
   Tags:
   - Offline Mode
   - Single Player
@@ -92,10 +92,10 @@ Base Game Achievements:
   Description: Complete Act 1.
   GS: '30'
   Guide: false
-  Number of Gamers: 104
+  Number of Gamers: 119
   Percentage of Gamers: 12%
-  Ratio: 2.9
-  TA: '87'
+  Ratio: 2.82
+  TA: '84'
   Tags:
   - Offline Mode
   - Single Player
@@ -104,10 +104,10 @@ Base Game Achievements:
   Description: Complete Act 2.
   GS: '50'
   Guide: true
-  Number of Gamers: 54
-  Percentage of Gamers: 6%
-  Ratio: 4.02
-  TA: '201'
+  Number of Gamers: 63
+  Percentage of Gamers: 7%
+  Ratio: 3.88
+  TA: '194'
   Tags:
   - Offline Mode
   - Single Player
@@ -116,10 +116,10 @@ Base Game Achievements:
   Description: Complete Act 3.
   GS: '80'
   Guide: true
-  Number of Gamers: 41
+  Number of Gamers: 48
   Percentage of Gamers: 5%
-  Ratio: 4.62
-  TA: '369'
+  Ratio: 4.45
+  TA: '356'
   Tags:
   - Offline Mode
   - Single Player
@@ -129,10 +129,10 @@ Base Game Achievements:
   Description: Buy 100 items.
   GS: '40'
   Guide: false
-  Number of Gamers: 39
-  Percentage of Gamers: 4%
-  Ratio: 4.73
-  TA: '189'
+  Number of Gamers: 44
+  Percentage of Gamers: 5%
+  Ratio: 4.65
+  TA: '186'
   Tags:
   - Offline Mode
   - Single Player
@@ -142,9 +142,9 @@ Base Game Achievements:
   Description: Dash 2000 times.
   GS: '80'
   Guide: false
-  Number of Gamers: 82
+  Number of Gamers: 89
   Percentage of Gamers: 9%
-  Ratio: 3.26
+  Ratio: 3.27
   TA: '261'
   Tags:
   - Offline Mode
@@ -154,10 +154,10 @@ Base Game Achievements:
   Description: Unlock all classes.
   GS: '60'
   Guide: false
-  Number of Gamers: 47
-  Percentage of Gamers: 5%
-  Ratio: 4.31
-  TA: '259'
+  Number of Gamers: 56
+  Percentage of Gamers: 6%
+  Ratio: 4.12
+  TA: '247'
   Tags:
   - Offline Mode
   - Single Player
@@ -167,9 +167,9 @@ Base Game Achievements:
   Description: Reach the Blood Worm for the first time.
   GS: '15'
   Guide: false
-  Number of Gamers: 216
+  Number of Gamers: 238
   Percentage of Gamers: 25%
-  Ratio: 2.01
+  Ratio: 2.0
   TA: '30'
   Tags:
   - Offline Mode
@@ -179,10 +179,10 @@ Base Game Achievements:
   Description: Reach the Plateau of Leng for the first time.
   GS: '20'
   Guide: false
-  Number of Gamers: 78
+  Number of Gamers: 90
   Percentage of Gamers: 9%
-  Ratio: 3.35
-  TA: '67'
+  Ratio: 3.25
+  TA: '65'
   Tags:
   - Offline Mode
   - Single Player
@@ -191,7 +191,7 @@ Base Game Achievements:
   Description: Enter a Magic Shop for the first time.
   GS: '10'
   Guide: false
-  Number of Gamers: 677
+  Number of Gamers: 736
   Percentage of Gamers: 77%
   Ratio: 1.13
   TA: '11'
@@ -202,7 +202,7 @@ Base Game Achievements:
   Description: Enter a side area for the first time.
   GS: '10'
   Guide: false
-  Number of Gamers: 789
+  Number of Gamers: 861
   Percentage of Gamers: 90%
   Ratio: 1.05
   TA: '10'
@@ -213,10 +213,10 @@ Base Game Achievements:
   Description: Unlock all upgrades.
   GS: '100'
   Guide: true
-  Number of Gamers: 18
+  Number of Gamers: 21
   Percentage of Gamers: 2%
-  Ratio: 7.17
-  TA: '717'
+  Ratio: 6.73
+  TA: '673'
   Tags:
   - Offline Mode
   - Single Player
@@ -225,10 +225,10 @@ Base Game Achievements:
   Description: Open 200 chests.
   GS: '40'
   Guide: false
-  Number of Gamers: 49
+  Number of Gamers: 56
   Percentage of Gamers: 6%
-  Ratio: 4.22
-  TA: '169'
+  Ratio: 4.12
+  TA: '164'
   Tags:
   - Offline Mode
   - Single Player
@@ -237,10 +237,10 @@ Base Game Achievements:
   Description: Use Evenstar to upgrade the Altar.
   GS: '30'
   Guide: false
-  Number of Gamers: 245
-  Percentage of Gamers: 28%
-  Ratio: 1.89
-  TA: '56'
+  Number of Gamers: 278
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '55'
   Tags:
   - Offline Mode
   - Single Player
@@ -249,10 +249,10 @@ Base Game Achievements:
   Description: Die while having at least 5000 gold.
   GS: '50'
   Guide: false
-  Number of Gamers: 165
+  Number of Gamers: 184
   Percentage of Gamers: 19%
-  Ratio: 2.3
-  TA: '115'
+  Ratio: 2.27
+  TA: '113'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -260,7 +260,7 @@ Base Game Achievements:
   Description: Exit the Tower of Knowledge for the first time.
   GS: '10'
   Guide: false
-  Number of Gamers: 877
+  Number of Gamers: 951
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '10'
@@ -272,10 +272,10 @@ Base Game Achievements:
   Description: Arrive at the living planet for the first time.
   GS: '60'
   Guide: false
-  Number of Gamers: 49
+  Number of Gamers: 57
   Percentage of Gamers: 6%
-  Ratio: 4.22
-  TA: '253'
+  Ratio: 4.08
+  TA: '245'
   Tags:
   - Offline Mode
   - Single Player
@@ -284,34 +284,34 @@ Base Game Achievements:
   Description: Reach the Tower of Madness for the first time.
   GS: '25'
   Guide: false
-  Number of Gamers: 125
-  Percentage of Gamers: 14%
-  Ratio: 2.64
-  TA: '66'
+  Number of Gamers: 141
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '64'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 4.444
-Base TA: 4444
+Base Ratio: 4.258
+Base TA: 4258
 Delisted: false
 Developer: Carry Castle
 Game Name: Source of Madness
 Genres: Action-RPG, Role Playing, Roguelite
 Install Size: 2430.0
-Number of Completions: 16
-Number of Gamers: 879
+Number of Completions: 20
+Number of Gamers: 954
 Overall Completion Time:
-- 20.0
-- 25.0
+- 35.0
+- 40.0
 Overall GS: 1000
-Overall Ratio: 4.444
-Overall TA: 4444
+Overall Ratio: 4.258
+Overall TA: 4258
 PDU: 0
-Percentage Completed: 1.82
+Percentage Completed: 2.1
 Publisher: Thunderful Games
 Release Date: 11 May 2022
 Server Closure: false
-Site Rating: 3.5
+Site Rating: 3.53
 Update Achievements: []
 Walkthrough: false

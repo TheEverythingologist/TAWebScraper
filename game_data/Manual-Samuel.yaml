@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 6.0
-- 8.0
-Base GS: 1000
+- 11.0
+- 14.0
+Base GS: 1500
 Base Game Achievements:
 - Achievement Name: Feces Happen
   Description: Completed Level 1
   GS: '30'
   Guide: true
-  Number of Gamers: 46820
+  Number of Gamers: 47458
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '30'
@@ -22,7 +22,7 @@ Base Game Achievements:
   Description: Completed Level 2
   GS: '30'
   Guide: true
-  Number of Gamers: 45211
+  Number of Gamers: 45822
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '30'
@@ -36,7 +36,7 @@ Base Game Achievements:
   Description: Completed Level 3
   GS: '30'
   Guide: true
-  Number of Gamers: 38585
+  Number of Gamers: 39109
   Percentage of Gamers: 81%
   Ratio: 1.1
   TA: '33'
@@ -50,7 +50,7 @@ Base Game Achievements:
   Description: Completed Level 4
   GS: '30'
   Guide: true
-  Number of Gamers: 32723
+  Number of Gamers: 33167
   Percentage of Gamers: 69%
   Ratio: 1.2
   TA: '36'
@@ -64,7 +64,7 @@ Base Game Achievements:
   Description: Completed Level 5
   GS: '30'
   Guide: true
-  Number of Gamers: 27568
+  Number of Gamers: 27965
   Percentage of Gamers: 58%
   Ratio: 1.31
   TA: '39'
@@ -78,7 +78,7 @@ Base Game Achievements:
   Description: Completed Level 6
   GS: '30'
   Guide: false
-  Number of Gamers: 21486
+  Number of Gamers: 21782
   Percentage of Gamers: 45%
   Ratio: 1.48
   TA: '44'
@@ -91,8 +91,8 @@ Base Game Achievements:
 - Achievement Name: No Child Left Behind
   Description: Completed Level 7
   GS: '30'
-  Guide: true
-  Number of Gamers: 18685
+  Guide: false
+  Number of Gamers: 18954
   Percentage of Gamers: 39%
   Ratio: 1.59
   TA: '47'
@@ -106,9 +106,9 @@ Base Game Achievements:
   Description: Completed Level 8
   GS: '30'
   Guide: false
-  Number of Gamers: 14964
+  Number of Gamers: 15172
   Percentage of Gamers: 32%
-  Ratio: 1.78
+  Ratio: 1.77
   TA: '53'
   Tags:
   - Offline Mode
@@ -120,7 +120,7 @@ Base Game Achievements:
   Description: Drank two cups of coffee
   GS: '30'
   Guide: true
-  Number of Gamers: 23886
+  Number of Gamers: 24204
   Percentage of Gamers: 50%
   Ratio: 1.4
   TA: '42'
@@ -133,7 +133,7 @@ Base Game Achievements:
   Description: Completed Sams house only breathing in 15 times
   GS: '30'
   Guide: true
-  Number of Gamers: 4658
+  Number of Gamers: 4708
   Percentage of Gamers: 10%
   Ratio: 3.19
   TA: '95'
@@ -146,10 +146,10 @@ Base Game Achievements:
   Description: Drove 150 km per hour
   GS: '30'
   Guide: true
-  Number of Gamers: 15785
+  Number of Gamers: 15983
   Percentage of Gamers: 33%
   Ratio: 1.73
-  TA: '51'
+  TA: '52'
   Tags:
   - Offline Mode
   - Single Player
@@ -159,7 +159,7 @@ Base Game Achievements:
   Description: Spoke perfectly
   GS: '30'
   Guide: true
-  Number of Gamers: 12405
+  Number of Gamers: 12562
   Percentage of Gamers: 26%
   Ratio: 1.95
   TA: '58'
@@ -172,7 +172,7 @@ Base Game Achievements:
   Description: Killed every robot
   GS: '30'
   Guide: true
-  Number of Gamers: 3489
+  Number of Gamers: 3537
   Percentage of Gamers: 7%
   Ratio: 3.68
   TA: '110'
@@ -185,7 +185,7 @@ Base Game Achievements:
   Description: Completed Story Mode Single Player
   GS: '50'
   Guide: false
-  Number of Gamers: 13945
+  Number of Gamers: 14128
   Percentage of Gamers: 29%
   Ratio: 1.84
   TA: '92'
@@ -199,9 +199,9 @@ Base Game Achievements:
   Description: Completed Story Mode Co-Op
   GS: '50'
   Guide: true
-  Number of Gamers: 2302
+  Number of Gamers: 2347
   Percentage of Gamers: 5%
-  Ratio: 4.53
+  Ratio: 4.52
   TA: '226'
   Tags:
   - Offline Mode
@@ -212,10 +212,10 @@ Base Game Achievements:
   Description: Got bronze or higher on every time trial
   GS: '30'
   Guide: false
-  Number of Gamers: 887
+  Number of Gamers: 893
   Percentage of Gamers: 2%
-  Ratio: 7.31
-  TA: '219'
+  Ratio: 7.33
+  TA: '220'
   Tags:
   - Offline Mode
   - Single Player
@@ -227,10 +227,10 @@ Base Game Achievements:
   Description: Got silver or higher on every time trial
   GS: '50'
   Guide: false
-  Number of Gamers: 819
+  Number of Gamers: 826
   Percentage of Gamers: 2%
-  Ratio: 7.6
-  TA: '380'
+  Ratio: 7.62
+  TA: '381'
   Tags:
   - Offline Mode
   - Single Player
@@ -242,10 +242,10 @@ Base Game Achievements:
   Description: Got gold on every time trial
   GS: '70'
   Guide: true
-  Number of Gamers: 773
+  Number of Gamers: 779
   Percentage of Gamers: 2%
-  Ratio: 7.83
-  TA: '548'
+  Ratio: 7.85
+  TA: '549'
   Tags:
   - Offline Mode
   - Single Player
@@ -257,10 +257,10 @@ Base Game Achievements:
   Description: Unlock all the Achievements in Manual Samuel
   GS: '100'
   Guide: false
-  Number of Gamers: 709
+  Number of Gamers: 710
   Percentage of Gamers: 1%
-  Ratio: 8.17
-  TA: '817'
+  Ratio: 8.22
+  TA: '822'
   Tags:
   - Offline Mode
   - Single Player
@@ -271,7 +271,7 @@ Base Game Achievements:
   Description: Skipped a cinematic
   GS: '20'
   Guide: true
-  Number of Gamers: 30475
+  Number of Gamers: 30976
   Percentage of Gamers: 64%
   Ratio: 1.24
   TA: '24'
@@ -284,7 +284,7 @@ Base Game Achievements:
   Description: Went to work without shoes
   GS: '30'
   Guide: true
-  Number of Gamers: 5433
+  Number of Gamers: 5504
   Percentage of Gamers: 11%
   Ratio: 2.95
   TA: '88'
@@ -297,7 +297,7 @@ Base Game Achievements:
   Description: Tipped Tony
   GS: '30'
   Guide: true
-  Number of Gamers: 31018
+  Number of Gamers: 31436
   Percentage of Gamers: 65%
   Ratio: 1.23
   TA: '37'
@@ -310,9 +310,9 @@ Base Game Achievements:
   Description: Blew up Tony
   GS: '30'
   Guide: true
-  Number of Gamers: 11278
+  Number of Gamers: 11438
   Percentage of Gamers: 24%
-  Ratio: 2.05
+  Ratio: 2.04
   TA: '61'
   Tags:
   - Offline Mode
@@ -323,7 +323,7 @@ Base Game Achievements:
   Description: Didn't fall down the stairs
   GS: '30'
   Guide: true
-  Number of Gamers: 18183
+  Number of Gamers: 18453
   Percentage of Gamers: 38%
   Ratio: 1.61
   TA: '48'
@@ -336,7 +336,7 @@ Base Game Achievements:
   Description: Made no stains on yourself
   GS: '30'
   Guide: true
-  Number of Gamers: 9909
+  Number of Gamers: 10066
   Percentage of Gamers: 21%
   Ratio: 2.18
   TA: '65'
@@ -349,7 +349,7 @@ Base Game Achievements:
   Description: Blinked 2000 times
   GS: '30'
   Guide: true
-  Number of Gamers: 13891
+  Number of Gamers: 14078
   Percentage of Gamers: 29%
   Ratio: 1.84
   TA: '55'
@@ -363,9 +363,9 @@ Base Game Achievements:
   Description: Watched all cinematics without skipping
   GS: '30'
   Guide: false
-  Number of Gamers: 11527
+  Number of Gamers: 11651
   Percentage of Gamers: 24%
-  Ratio: 2.02
+  Ratio: 2.03
   TA: '60'
   Tags:
   - Offline Mode
@@ -376,9 +376,9 @@ Base Game Achievements:
   Description: Found every hashtag
   GS: '30'
   Guide: true
-  Number of Gamers: 1866
+  Number of Gamers: 1884
   Percentage of Gamers: 4%
-  Ratio: 5.04
+  Ratio: 5.05
   TA: '151'
   Tags:
   - Offline Mode
@@ -387,26 +387,133 @@ Base Game Achievements:
   - Host Only
   - Collectable
   - Missable
-Base Ratio: 3.539
-Base TA: 3539
+Base Ratio: 17.22533333333333
+Base TA: 25838
 Delisted: false
 Developer: Perfectly ParaNormal
 Game Name: Manual Samuel
 Genres: Adventure, Simulation
-Install Size: 2400.0
-Number of Completions: 705
-Number of Gamers: 47440
+Install Size: 923.0
+Number of Completions: 13
+Number of Gamers: 48061
 Overall Completion Time:
-- 6.0
-- 8.0
-Overall GS: 1000
-Overall Ratio: 3.539
-Overall TA: 3539
+- 11.0
+- 14.0
+Overall GS: 1500
+Overall Ratio: 17.22533333333333
+Overall TA: 25838
 PDU: 0
-Percentage Completed: 1.49
+Percentage Completed: 0.03
 Publisher: Curve Games
 Release Date: 14 October 2016
 Server Closure: false
 Site Rating: 3.17
-Update Achievements: []
+Update Achievements:
+- Achievement Name: Iron Lung
+  Description: Beat Challenge- or Speedrun Mode by breathing in a maximum of 35 times,
+    and never fainting
+  GS: '100'
+  Guide: true
+  Number of Gamers: 18
+  Percentage of Gamers: 0%
+  Ratio: 51.67
+  TA: 5,167
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Golden Hair
+  Description: Beat Challenge- or Speedrun Mode with perfect hair.
+  GS: '100'
+  Guide: true
+  Number of Gamers: 19
+  Percentage of Gamers: 0%
+  Ratio: 50.29
+  TA: 5,029
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: For The Scene
+  Description: Dye your hair bean brown.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 119
+  Percentage of Gamers: 0%
+  Ratio: 20.09
+  TA: '602'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Timeless Hair
+  Description: Dye your hair Liphidium Green.
+  GS: '40'
+  Guide: false
+  Number of Gamers: 71
+  Percentage of Gamers: 0%
+  Ratio: 26.01
+  TA: 1,040
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Notice Me!
+  Description: Dye your hair cosmic brown.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 34
+  Percentage of Gamers: 0%
+  Ratio: 37.59
+  TA: 1,879
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Party in front, business in the back
+  Description: Simultanously rock perfect hair and a bloody face.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 52
+  Percentage of Gamers: 0%
+  Ratio: 30.4
+  TA: '912'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Run Sam, Run!
+  Description: Beat Speedrun Mode in one hour or less.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 30
+  Percentage of Gamers: 0%
+  Ratio: 40.02
+  TA: 2,001
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Time/Date
+- Achievement Name: Amazing Posture
+  Description: Beat Challenge- or Speedrun mode without going limp or doing the splits
+    (except you know when).
+  GS: '100'
+  Guide: true
+  Number of Gamers: 15
+  Percentage of Gamers: 0%
+  Ratio: 56.6
+  TA: 5,660
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Host Only
 Walkthrough: false

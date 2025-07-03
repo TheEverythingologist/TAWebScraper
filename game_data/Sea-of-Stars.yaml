@@ -1,4 +1,80 @@
-Add On Achievements: []
+Add On Achievements:
+- Achievement Name: Marquee Star
+  Description: Unlock all skills and combos for circus classes
+  GS: '10'
+  Guide: false
+  Number of Gamers: 666
+  Percentage of Gamers: 88%
+  Ratio: 3.26
+  TA: '32'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Collectable
+  - Level
+- Achievement Name: Carnival Culinarian
+  Description: Cook each of the five Horloge recipes at least once
+  GS: '10'
+  Guide: true
+  Number of Gamers: 652
+  Percentage of Gamers: 86%
+  Ratio: 3.27
+  TA: '32'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Warlocked
+  Description: Beat all of Horloge's Wheels champions
+  GS: '10'
+  Guide: true
+  Number of Gamers: 630
+  Percentage of Gamers: 83%
+  Ratio: 3.34
+  TA: '33'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Unrivaled Wonder
+  Description: Earn top rank in all three of Horloge's minigames
+  GS: '30'
+  Guide: true
+  Number of Gamers: 549
+  Percentage of Gamers: 72%
+  Ratio: 3.55
+  TA: '106'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Clockworkn't
+  Description: Defeat Dweller of Scourge
+  GS: '30'
+  Guide: false
+  Number of Gamers: 690
+  Percentage of Gamers: 91%
+  Ratio: 3.22
+  TA: '96'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: What doth it meanst?
+  Description: Bear witness to the secret vision
+  GS: '80'
+  Guide: true
+  Number of Gamers: 561
+  Percentage of Gamers: 74%
+  Ratio: 3.57
+  TA: '286'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Collectable
 Base Completion Time:
 - 40.0
 - 50.5
@@ -8,7 +84,7 @@ Base Game Achievements:
   Description: Defeat Forbidden Cavern's boss
   GS: '10'
   Guide: true
-  Number of Gamers: 54342
+  Number of Gamers: 56486
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '10'
@@ -21,9 +97,9 @@ Base Game Achievements:
   Description: Get sent to Sleeper Island
   GS: '10'
   Guide: true
-  Number of Gamers: 44431
+  Number of Gamers: 46125
   Percentage of Gamers: 81%
-  Ratio: 1.1
+  Ratio: 1.11
   TA: '11'
   Tags:
   - Offline Mode
@@ -34,9 +110,9 @@ Base Game Achievements:
   Description: Defeat Chromatic Apparition
   GS: '15'
   Guide: true
-  Number of Gamers: 29748
+  Number of Gamers: 30906
   Percentage of Gamers: 54%
-  Ratio: 1.35
+  Ratio: 1.36
   TA: '20'
   Tags:
   - Offline Mode
@@ -47,10 +123,10 @@ Base Game Achievements:
   Description: Defeat Romaya
   GS: '15'
   Guide: true
-  Number of Gamers: 25532
-  Percentage of Gamers: 47%
+  Number of Gamers: 26530
+  Percentage of Gamers: 46%
   Ratio: 1.46
-  TA: '21'
+  TA: '22'
   Tags:
   - Offline Mode
   - Single Player
@@ -60,10 +136,10 @@ Base Game Achievements:
   Description: Defeat the Dweller of Woe
   GS: '30'
   Guide: true
-  Number of Gamers: 24470
-  Percentage of Gamers: 45%
-  Ratio: 1.49
-  TA: '44'
+  Number of Gamers: 25427
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '45'
   Tags:
   - Offline Mode
   - Single Player
@@ -73,9 +149,9 @@ Base Game Achievements:
   Description: "Learn Captain Klee'sha\xEB's true identity"
   GS: '15'
   Guide: true
-  Number of Gamers: 23718
+  Number of Gamers: 24654
   Percentage of Gamers: 43%
-  Ratio: 1.51
+  Ratio: 1.52
   TA: '22'
   Tags:
   - Offline Mode
@@ -86,7 +162,7 @@ Base Game Achievements:
   Description: Defeat Stormcaller
   GS: '15'
   Guide: true
-  Number of Gamers: 22949
+  Number of Gamers: 23875
   Percentage of Gamers: 42%
   Ratio: 1.54
   TA: '23'
@@ -99,7 +175,7 @@ Base Game Achievements:
   Description: Build your own town
   GS: '15'
   Guide: true
-  Number of Gamers: 22706
+  Number of Gamers: 23615
   Percentage of Gamers: 41%
   Ratio: 1.55
   TA: '23'
@@ -112,9 +188,9 @@ Base Game Achievements:
   Description: Find the Solstice Amulet
   GS: '15'
   Guide: true
-  Number of Gamers: 20149
+  Number of Gamers: 20971
   Percentage of Gamers: 37%
-  Ratio: 1.64
+  Ratio: 1.65
   TA: '24'
   Tags:
   - Offline Mode
@@ -125,9 +201,9 @@ Base Game Achievements:
   Description: Defeat the Dweller of Torment
   GS: '30'
   Guide: true
-  Number of Gamers: 19669
+  Number of Gamers: 20457
   Percentage of Gamers: 36%
-  Ratio: 1.66
+  Ratio: 1.67
   TA: '50'
   Tags:
   - Offline Mode
@@ -138,7 +214,7 @@ Base Game Achievements:
   Description: Defeat the Leaf Monster
   GS: '15'
   Guide: true
-  Number of Gamers: 19162
+  Number of Gamers: 19939
   Percentage of Gamers: 35%
   Ratio: 1.69
   TA: '25'
@@ -151,7 +227,7 @@ Base Game Achievements:
   Description: Defeat the Acolytes
   GS: '15'
   Guide: true
-  Number of Gamers: 18456
+  Number of Gamers: 19211
   Percentage of Gamers: 34%
   Ratio: 1.72
   TA: '25'
@@ -164,7 +240,7 @@ Base Game Achievements:
   Description: Fight the Dweller of Strife
   GS: '30'
   Guide: true
-  Number of Gamers: 18435
+  Number of Gamers: 19189
   Percentage of Gamers: 34%
   Ratio: 1.72
   TA: '51'
@@ -177,9 +253,9 @@ Base Game Achievements:
   Description: Defeat the Toadcano
   GS: '15'
   Guide: true
-  Number of Gamers: 17907
+  Number of Gamers: 18659
   Percentage of Gamers: 33%
-  Ratio: 1.74
+  Ratio: 1.75
   TA: '26'
   Tags:
   - Offline Mode
@@ -190,9 +266,9 @@ Base Game Achievements:
   Description: Attend the ceremony
   GS: '15'
   Guide: true
-  Number of Gamers: 17903
+  Number of Gamers: 18656
   Percentage of Gamers: 33%
-  Ratio: 1.74
+  Ratio: 1.75
   TA: '26'
   Tags:
   - Offline Mode
@@ -203,9 +279,9 @@ Base Game Achievements:
   Description: "Learn Sera\xEF's true identity"
   GS: '15'
   Guide: true
-  Number of Gamers: 17725
+  Number of Gamers: 18459
   Percentage of Gamers: 32%
-  Ratio: 1.75
+  Ratio: 1.76
   TA: '26'
   Tags:
   - Offline Mode
@@ -216,9 +292,9 @@ Base Game Achievements:
   Description: Defeat Meduso
   GS: '15'
   Guide: true
-  Number of Gamers: 17341
+  Number of Gamers: 18058
   Percentage of Gamers: 32%
-  Ratio: 1.77
+  Ratio: 1.78
   TA: '26'
   Tags:
   - Offline Mode
@@ -229,9 +305,9 @@ Base Game Achievements:
   Description: Defeat the Triumvirate of Eminence
   GS: '15'
   Guide: true
-  Number of Gamers: 17099
+  Number of Gamers: 17803
   Percentage of Gamers: 31%
-  Ratio: 1.78
+  Ratio: 1.79
   TA: '26'
   Tags:
   - Offline Mode
@@ -242,10 +318,10 @@ Base Game Achievements:
   Description: Meet Arty
   GS: '15'
   Guide: true
-  Number of Gamers: 16899
+  Number of Gamers: 17605
   Percentage of Gamers: 31%
-  Ratio: 1.79
-  TA: '26'
+  Ratio: 1.8
+  TA: '27'
   Tags:
   - Offline Mode
   - Single Player
@@ -255,7 +331,7 @@ Base Game Achievements:
   Description: Defeat the Dweller of Dread
   GS: '30'
   Guide: true
-  Number of Gamers: 16829
+  Number of Gamers: 17530
   Percentage of Gamers: 31%
   Ratio: 1.8
   TA: '54'
@@ -268,7 +344,7 @@ Base Game Achievements:
   Description: "Defeat Elysan'dar\xEBlle"
   GS: '80'
   Guide: true
-  Number of Gamers: 16050
+  Number of Gamers: 16734
   Percentage of Gamers: 29%
   Ratio: 1.84
   TA: '147'
@@ -282,7 +358,7 @@ Base Game Achievements:
   Description: Defeat the Watchmaker in a game of Wheels
   GS: '15'
   Guide: true
-  Number of Gamers: 8183
+  Number of Gamers: 8569
   Percentage of Gamers: 15%
   Ratio: 2.58
   TA: '38'
@@ -294,7 +370,7 @@ Base Game Achievements:
   Description: Have dinner at the Golden Pelican
   GS: '15'
   Guide: true
-  Number of Gamers: 8315
+  Number of Gamers: 8717
   Percentage of Gamers: 15%
   Ratio: 2.56
   TA: '38'
@@ -306,7 +382,7 @@ Base Game Achievements:
   Description: Defeat the Gun Goddess
   GS: '30'
   Guide: true
-  Number of Gamers: 10707
+  Number of Gamers: 11196
   Percentage of Gamers: 20%
   Ratio: 2.26
   TA: '67'
@@ -318,10 +394,10 @@ Base Game Achievements:
   Description: Defeat the Sea Slug
   GS: '15'
   Guide: true
-  Number of Gamers: 12824
+  Number of Gamers: 13382
   Percentage of Gamers: 23%
   Ratio: 2.06
-  TA: '30'
+  TA: '31'
   Tags:
   - Offline Mode
   - Single Player
@@ -330,7 +406,7 @@ Base Game Achievements:
   Description: Defeat the Elder Mist for a second time
   GS: '15'
   Guide: true
-  Number of Gamers: 12469
+  Number of Gamers: 13009
   Percentage of Gamers: 23%
   Ratio: 2.09
   TA: '31'
@@ -342,7 +418,7 @@ Base Game Achievements:
   Description: Defeat Croustalion
   GS: '30'
   Guide: true
-  Number of Gamers: 10861
+  Number of Gamers: 11352
   Percentage of Gamers: 20%
   Ratio: 2.24
   TA: '67'
@@ -354,7 +430,7 @@ Base Game Achievements:
   Description: Free Duke Aventry's soul
   GS: '15'
   Guide: true
-  Number of Gamers: 11690
+  Number of Gamers: 12205
   Percentage of Gamers: 21%
   Ratio: 2.16
   TA: '32'
@@ -366,7 +442,7 @@ Base Game Achievements:
   Description: Build a Spa, an Inn, a Shop and a Fishing Hut in Mirth
   GS: '15'
   Guide: true
-  Number of Gamers: 10196
+  Number of Gamers: 10677
   Percentage of Gamers: 19%
   Ratio: 2.31
   TA: '34'
@@ -379,7 +455,7 @@ Base Game Achievements:
   Description: Bring all Conches to Mirna in Docarri Village
   GS: '15'
   Guide: true
-  Number of Gamers: 8771
+  Number of Gamers: 9201
   Percentage of Gamers: 16%
   Ratio: 2.49
   TA: '37'
@@ -392,7 +468,7 @@ Base Game Achievements:
   Description: Catch every fish species at least once
   GS: '15'
   Guide: true
-  Number of Gamers: 11300
+  Number of Gamers: 11797
   Percentage of Gamers: 21%
   Ratio: 2.2
   TA: '33'
@@ -405,7 +481,7 @@ Base Game Achievements:
   Description: Achieve pro rank in every single Quiz Question pack
   GS: '80'
   Guide: true
-  Number of Gamers: 6698
+  Number of Gamers: 7011
   Percentage of Gamers: 12%
   Ratio: 2.85
   TA: '228'
@@ -418,7 +494,7 @@ Base Game Achievements:
   Description: Fulfill the ultimate wish
   GS: '30'
   Guide: true
-  Number of Gamers: 8654
+  Number of Gamers: 9073
   Percentage of Gamers: 16%
   Ratio: 2.51
   TA: '75'
@@ -430,9 +506,9 @@ Base Game Achievements:
   Description: Defeat the Fleshmancer
   GS: '80'
   Guide: true
-  Number of Gamers: 8347
+  Number of Gamers: 8748
   Percentage of Gamers: 15%
-  Ratio: 2.56
+  Ratio: 2.55
   TA: '204'
   Tags:
   - Offline Mode
@@ -442,9 +518,9 @@ Base Game Achievements:
   Description: Bounce a moonerang 25 times in a row
   GS: '15'
   Guide: true
-  Number of Gamers: 23590
+  Number of Gamers: 24375
   Percentage of Gamers: 43%
-  Ratio: 1.52
+  Ratio: 1.53
   TA: '22'
   Tags:
   - Offline Mode
@@ -454,9 +530,9 @@ Base Game Achievements:
   Description: Break a total 50 locks in battle
   GS: '15'
   Guide: true
-  Number of Gamers: 42989
+  Number of Gamers: 44619
   Percentage of Gamers: 78%
-  Ratio: 1.12
+  Ratio: 1.13
   TA: '16'
   Tags:
   - Offline Mode
@@ -467,7 +543,7 @@ Base Game Achievements:
   Description: Defeat 10 bosses with Artful Gambit relic on
   GS: '80'
   Guide: true
-  Number of Gamers: 2963
+  Number of Gamers: 3104
   Percentage of Gamers: 5%
   Ratio: 4.29
   TA: '343'
@@ -479,7 +555,7 @@ Base Game Achievements:
   Description: Cook every recipe at least once
   GS: '15'
   Guide: true
-  Number of Gamers: 5456
+  Number of Gamers: 5708
   Percentage of Gamers: 10%
   Ratio: 3.16
   TA: '47'
@@ -493,7 +569,7 @@ Base Game Achievements:
   Description: Unlock all combos
   GS: '15'
   Guide: true
-  Number of Gamers: 10748
+  Number of Gamers: 11220
   Percentage of Gamers: 20%
   Ratio: 2.25
   TA: '33'
@@ -506,7 +582,7 @@ Base Game Achievements:
   Description: Listen to all of the campfire stories
   GS: '15'
   Guide: true
-  Number of Gamers: 7356
+  Number of Gamers: 7697
   Percentage of Gamers: 13%
   Ratio: 2.72
   TA: '40'
@@ -520,9 +596,9 @@ Base Game Achievements:
   Description: Find every single treasure
   GS: '30'
   Guide: true
-  Number of Gamers: 5902
+  Number of Gamers: 6199
   Percentage of Gamers: 11%
-  Ratio: 3.04
+  Ratio: 3.03
   TA: '91'
   Tags:
   - Offline Mode
@@ -533,7 +609,7 @@ Base Game Achievements:
   Description: Use the spa in Mirth with all 6 playable characters
   GS: '15'
   Guide: true
-  Number of Gamers: 6561
+  Number of Gamers: 6856
   Percentage of Gamers: 12%
   Ratio: 2.88
   TA: '43'
@@ -541,23 +617,23 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Cooperative
-Base Ratio: 2.7392523364485983
-Base TA: 2931
+Base Ratio: 2.602803738317757
+Base TA: 2785
 Delisted: false
 Developer: Sabotage Studio
 Game Name: Sea of Stars
 Genres: Role Playing, Turn Based
-Install Size: 4430.0
-Number of Completions: 406
-Number of Gamers: 54848
+Install Size: 5510.0
+Number of Completions: 293
+Number of Gamers: 57276
 Overall Completion Time:
-- 40.0
-- 50.5
-Overall GS: 1070
-Overall Ratio: 2.7392523364485983
-Overall TA: 2931
+- 48.0
+- 60.5
+Overall GS: 1240
+Overall Ratio: 2.717741935483871
+Overall TA: 3370
 PDU: 0
-Percentage Completed: 0.74
+Percentage Completed: 0.51
 Publisher: Sabotage Studio, iam8bit
 Release Date: 29 August 2023
 Server Closure: false
@@ -567,10 +643,10 @@ Update Achievements:
   Description: Do a team Timed Block with three players
   GS: '15'
   Guide: true
-  Number of Gamers: 485
+  Number of Gamers: 759
   Percentage of Gamers: 1%
-  Ratio: 11.14
-  TA: '167'
+  Ratio: 8.78
+  TA: '131'
   Tags:
   - Offline Mode
   - Cooperative
@@ -580,10 +656,10 @@ Update Achievements:
     scan function
   GS: '10'
   Guide: true
-  Number of Gamers: 3691
-  Percentage of Gamers: 7%
-  Ratio: 4.14
-  TA: '41'
+  Number of Gamers: 7278
+  Percentage of Gamers: 13%
+  Ratio: 2.83
+  TA: '28'
   Tags:
   - Offline Mode
   - Single Player
@@ -592,10 +668,10 @@ Update Achievements:
   Description: Do a team Timed Hit or Block
   GS: '10'
   Guide: true
-  Number of Gamers: 781
-  Percentage of Gamers: 1%
-  Ratio: 8.79
-  TA: '87'
+  Number of Gamers: 1290
+  Percentage of Gamers: 2%
+  Ratio: 6.76
+  TA: '67'
   Tags:
   - Offline Mode
   - Cooperative
@@ -603,10 +679,10 @@ Update Achievements:
   Description: Try every high fives combinations
   GS: '15'
   Guide: true
-  Number of Gamers: 470
+  Number of Gamers: 717
   Percentage of Gamers: 1%
-  Ratio: 11.39
-  TA: '170'
+  Ratio: 9.04
+  TA: '135'
   Tags:
   - Offline Mode
   - Cooperative
@@ -615,10 +691,10 @@ Update Achievements:
   Description: Catch at least one fish with each character
   GS: '10'
   Guide: true
-  Number of Gamers: 517
+  Number of Gamers: 803
   Percentage of Gamers: 1%
-  Ratio: 10.83
-  TA: '108'
+  Ratio: 8.55
+  TA: '85'
   Tags:
   - Offline Mode
   - Cooperative
@@ -626,10 +702,10 @@ Update Achievements:
   Description: Make the giant lift both feet
   GS: '10'
   Guide: true
-  Number of Gamers: 573
-  Percentage of Gamers: 1%
-  Ratio: 10.31
-  TA: '103'
+  Number of Gamers: 903
+  Percentage of Gamers: 2%
+  Ratio: 8.05
+  TA: '80'
   Tags:
   - Offline Mode
   - Cooperative

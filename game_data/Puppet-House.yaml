@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 4
-- 5
+- 2.0
+- 3.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: The Beginning
   Description: Start a new game
   GS: '15'
   Guide: false
-  Number of Gamers: 81
+  Number of Gamers: 137
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '15'
@@ -20,9 +20,9 @@ Base Game Achievements:
   Description: Embark on a journey to Peter Hill's house.
   GS: '15'
   Guide: false
-  Number of Gamers: 78
-  Percentage of Gamers: 96%
-  Ratio: 1.01
+  Number of Gamers: 135
+  Percentage of Gamers: 99%
+  Ratio: 1.0
   TA: '15'
   Tags:
   - Offline Mode
@@ -32,9 +32,9 @@ Base Game Achievements:
   Description: Solve the clock puzzle
   GS: '15'
   Guide: false
-  Number of Gamers: 72
-  Percentage of Gamers: 89%
-  Ratio: 1.06
+  Number of Gamers: 128
+  Percentage of Gamers: 93%
+  Ratio: 1.03
   TA: '15'
   Tags:
   - Offline Mode
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Solve the puzzle
   GS: '15'
   Guide: false
-  Number of Gamers: 71
-  Percentage of Gamers: 88%
-  Ratio: 1.06
-  TA: '16'
+  Number of Gamers: 127
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '15'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Arrange the beads in the correct order
   GS: '15'
   Guide: false
-  Number of Gamers: 69
-  Percentage of Gamers: 85%
-  Ratio: 1.08
-  TA: '16'
+  Number of Gamers: 125
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '15'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: Solve the cube puzzle
   GS: '15'
   Guide: false
-  Number of Gamers: 69
-  Percentage of Gamers: 85%
-  Ratio: 1.08
-  TA: '16'
+  Number of Gamers: 124
+  Percentage of Gamers: 91%
+  Ratio: 1.05
+  TA: '15'
   Tags:
   - Offline Mode
   - Single Player
@@ -80,9 +80,9 @@ Base Game Achievements:
   Description: Collect all the levers.
   GS: '15'
   Guide: false
-  Number of Gamers: 65
-  Percentage of Gamers: 80%
-  Ratio: 1.11
+  Number of Gamers: 119
+  Percentage of Gamers: 87%
+  Ratio: 1.07
   TA: '16'
   Tags:
   - Offline Mode
@@ -92,9 +92,9 @@ Base Game Achievements:
   Description: Play the correct melody
   GS: '15'
   Guide: false
-  Number of Gamers: 65
-  Percentage of Gamers: 80%
-  Ratio: 1.11
+  Number of Gamers: 117
+  Percentage of Gamers: 85%
+  Ratio: 1.08
   TA: '16'
   Tags:
   - Offline Mode
@@ -104,9 +104,9 @@ Base Game Achievements:
   Description: Solve the switch puzzle
   GS: '15'
   Guide: false
-  Number of Gamers: 64
-  Percentage of Gamers: 79%
-  Ratio: 1.12
+  Number of Gamers: 116
+  Percentage of Gamers: 85%
+  Ratio: 1.08
   TA: '16'
   Tags:
   - Offline Mode
@@ -116,10 +116,10 @@ Base Game Achievements:
   Description: "Don\u2019t get caught!"
   GS: '15'
   Guide: false
-  Number of Gamers: 63
-  Percentage of Gamers: 78%
-  Ratio: 1.13
-  TA: '17'
+  Number of Gamers: 116
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '16'
   Tags:
   - Offline Mode
   - Single Player
@@ -128,10 +128,10 @@ Base Game Achievements:
   Description: Survive the encounter with the Puppet
   GS: '25'
   Guide: false
-  Number of Gamers: 63
-  Percentage of Gamers: 78%
-  Ratio: 1.13
-  TA: '28'
+  Number of Gamers: 115
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '27'
   Tags:
   - Offline Mode
   - Single Player
@@ -140,10 +140,10 @@ Base Game Achievements:
   Description: Successfully cross to the island
   GS: '25'
   Guide: false
-  Number of Gamers: 63
-  Percentage of Gamers: 78%
-  Ratio: 1.13
-  TA: '28'
+  Number of Gamers: 115
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '27'
   Tags:
   - Offline Mode
   - Single Player
@@ -152,10 +152,10 @@ Base Game Achievements:
   Description: Found, but sadly too late...
   GS: '25'
   Guide: false
-  Number of Gamers: 62
-  Percentage of Gamers: 77%
-  Ratio: 1.14
-  TA: '28'
+  Number of Gamers: 114
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '27'
   Tags:
   - Offline Mode
   - Single Player
@@ -164,10 +164,10 @@ Base Game Achievements:
   Description: Complete the shooting range puzzle
   GS: '25'
   Guide: false
-  Number of Gamers: 62
-  Percentage of Gamers: 77%
-  Ratio: 1.14
-  TA: '28'
+  Number of Gamers: 113
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '27'
   Tags:
   - Offline Mode
   - Single Player
@@ -176,10 +176,10 @@ Base Game Achievements:
   Description: Pass through safely
   GS: '25'
   Guide: false
-  Number of Gamers: 62
-  Percentage of Gamers: 77%
-  Ratio: 1.14
-  TA: '28'
+  Number of Gamers: 114
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '27'
   Tags:
   - Offline Mode
   - Single Player
@@ -188,10 +188,10 @@ Base Game Achievements:
   Description: Solve the safe puzzle
   GS: '30'
   Guide: false
-  Number of Gamers: 62
-  Percentage of Gamers: 77%
-  Ratio: 1.14
-  TA: '34'
+  Number of Gamers: 113
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '33'
   Tags:
   - Offline Mode
   - Single Player
@@ -200,10 +200,10 @@ Base Game Achievements:
   Description: Enter the correct combination
   GS: '30'
   Guide: false
-  Number of Gamers: 62
-  Percentage of Gamers: 77%
-  Ratio: 1.14
-  TA: '34'
+  Number of Gamers: 113
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '33'
   Tags:
   - Offline Mode
   - Single Player
@@ -212,10 +212,10 @@ Base Game Achievements:
   Description: A full tank will definitely come in handy
   GS: '30'
   Guide: false
-  Number of Gamers: 62
-  Percentage of Gamers: 77%
-  Ratio: 1.14
-  TA: '34'
+  Number of Gamers: 113
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '33'
   Tags:
   - Offline Mode
   - Single Player
@@ -224,10 +224,10 @@ Base Game Achievements:
   Description: It wasn't easy
   GS: '30'
   Guide: false
-  Number of Gamers: 62
-  Percentage of Gamers: 77%
-  Ratio: 1.14
-  TA: '34'
+  Number of Gamers: 113
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '33'
   Tags:
   - Offline Mode
   - Single Player
@@ -236,10 +236,10 @@ Base Game Achievements:
   Description: Collect all the notes
   GS: '30'
   Guide: false
-  Number of Gamers: 60
-  Percentage of Gamers: 74%
-  Ratio: 1.16
-  TA: '34'
+  Number of Gamers: 112
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '33'
   Tags:
   - Offline Mode
   - Single Player
@@ -249,10 +249,10 @@ Base Game Achievements:
   Description: Collect all the notes
   GS: '35'
   Guide: false
-  Number of Gamers: 48
-  Percentage of Gamers: 59%
-  Ratio: 1.29
-  TA: '45'
+  Number of Gamers: 86
+  Percentage of Gamers: 63%
+  Ratio: 1.26
+  TA: '44'
   Tags:
   - Offline Mode
   - Single Player
@@ -262,10 +262,10 @@ Base Game Achievements:
   Description: Find all the clues
   GS: '35'
   Guide: true
-  Number of Gamers: 40
-  Percentage of Gamers: 49%
-  Ratio: 1.42
-  TA: '49'
+  Number of Gamers: 76
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '46'
   Tags:
   - Offline Mode
   - Single Player
@@ -275,10 +275,10 @@ Base Game Achievements:
   Description: Complete the game
   GS: '35'
   Guide: false
-  Number of Gamers: 60
-  Percentage of Gamers: 74%
-  Ratio: 1.16
-  TA: '40'
+  Number of Gamers: 111
+  Percentage of Gamers: 81%
+  Ratio: 1.11
+  TA: '38'
   Tags:
   - Offline Mode
   - Single Player
@@ -288,10 +288,10 @@ Base Game Achievements:
   Description: Catch the doll engaging in strange activities
   GS: '35'
   Guide: false
-  Number of Gamers: 69
-  Percentage of Gamers: 85%
-  Ratio: 1.08
-  TA: '37'
+  Number of Gamers: 125
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '36'
   Tags:
   - Offline Mode
   - Single Player
@@ -300,10 +300,10 @@ Base Game Achievements:
   Description: Catch the doll engaging in strange activities
   GS: '35'
   Guide: true
-  Number of Gamers: 37
-  Percentage of Gamers: 46%
-  Ratio: 1.47
-  TA: '51'
+  Number of Gamers: 77
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '46'
   Tags:
   - Offline Mode
   - Single Player
@@ -312,10 +312,10 @@ Base Game Achievements:
   Description: Peek into the outhouse
   GS: '40'
   Guide: true
-  Number of Gamers: 65
-  Percentage of Gamers: 80%
-  Ratio: 1.11
-  TA: '44'
+  Number of Gamers: 120
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '42'
   Tags:
   - Offline Mode
   - Single Player
@@ -324,10 +324,10 @@ Base Game Achievements:
   Description: I owned a similar mask, then I took a knife to the knee
   GS: '40'
   Guide: true
-  Number of Gamers: 73
-  Percentage of Gamers: 90%
-  Ratio: 1.05
-  TA: '42'
+  Number of Gamers: 129
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '41'
   Tags:
   - Offline Mode
   - Single Player
@@ -336,10 +336,10 @@ Base Game Achievements:
   Description: You must gather your amulets before venturing forth
   GS: '40'
   Guide: false
-  Number of Gamers: 64
-  Percentage of Gamers: 79%
-  Ratio: 1.12
-  TA: '45'
+  Number of Gamers: 116
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '43'
   Tags:
   - Offline Mode
   - Single Player
@@ -348,9 +348,9 @@ Base Game Achievements:
   Description: Escape the cell
   GS: '40'
   Guide: false
-  Number of Gamers: 74
-  Percentage of Gamers: 91%
-  Ratio: 1.04
+  Number of Gamers: 130
+  Percentage of Gamers: 95%
+  Ratio: 1.02
   TA: '41'
   Tags:
   - Offline Mode
@@ -360,10 +360,10 @@ Base Game Achievements:
   Description: Fix the bent key
   GS: '40'
   Guide: false
-  Number of Gamers: 67
-  Percentage of Gamers: 83%
-  Ratio: 1.09
-  TA: '43'
+  Number of Gamers: 121
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '42'
   Tags:
   - Offline Mode
   - Single Player
@@ -372,10 +372,10 @@ Base Game Achievements:
   Description: Take a ride in the minecart
   GS: '40'
   Guide: false
-  Number of Gamers: 62
-  Percentage of Gamers: 77%
-  Ratio: 1.14
-  TA: '45'
+  Number of Gamers: 114
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '43'
   Tags:
   - Offline Mode
   - Single Player
@@ -384,10 +384,10 @@ Base Game Achievements:
   Description: Survive the leech attack
   GS: '40'
   Guide: true
-  Number of Gamers: 59
-  Percentage of Gamers: 73%
-  Ratio: 1.17
-  TA: '46'
+  Number of Gamers: 111
+  Percentage of Gamers: 81%
+  Ratio: 1.11
+  TA: '44'
   Tags:
   - Offline Mode
   - Single Player
@@ -396,10 +396,10 @@ Base Game Achievements:
   Description: Cut through the vines
   GS: '40'
   Guide: false
-  Number of Gamers: 62
-  Percentage of Gamers: 77%
-  Ratio: 1.14
-  TA: '45'
+  Number of Gamers: 114
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '43'
   Tags:
   - Offline Mode
   - Single Player
@@ -408,10 +408,10 @@ Base Game Achievements:
   Description: Take the elevator
   GS: '40'
   Guide: false
-  Number of Gamers: 61
-  Percentage of Gamers: 75%
-  Ratio: 1.15
-  TA: '46'
+  Number of Gamers: 112
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '44'
   Tags:
   - Offline Mode
   - Single Player
@@ -420,34 +420,34 @@ Base Game Achievements:
   Description: Look around the house after the confrontation by the fireplace
   GS: '40'
   Guide: false
-  Number of Gamers: 61
-  Percentage of Gamers: 75%
-  Ratio: 1.15
-  TA: '46'
+  Number of Gamers: 112
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '44'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.133
-Base TA: 1133
+Base Ratio: 1.091
+Base TA: 1091
 Delisted: false
 Developer: Vecube Studio, Spirit Games Studio, Gaming Factory
 Game Name: Puppet House
 Genres: Adventure
 Install Size: 3900.0
-Number of Completions: 29
-Number of Gamers: 81
+Number of Completions: 56
+Number of Gamers: 137
 Overall Completion Time:
-- 4
-- 5
+- 2.0
+- 3.0
 Overall GS: 1000
-Overall Ratio: 1.133
-Overall TA: 1133
+Overall Ratio: 1.091
+Overall TA: 1091
 PDU: 0
-Percentage Completed: 35.8
+Percentage Completed: 40.88
 Publisher: Gaming Factory
 Release Date: 24 October 2024
 Server Closure: false
-Site Rating: 3.58
+Site Rating: 3.5
 Update Achievements: []
 Walkthrough: false

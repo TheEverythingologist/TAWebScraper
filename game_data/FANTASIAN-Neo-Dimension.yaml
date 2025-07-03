@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- 123
-- 124
+- 126
+- 127
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Battle Master
   Description: Defeated 100 monsters.
   GS: '15'
   Guide: false
-  Number of Gamers: 327
-  Percentage of Gamers: 68%
-  Ratio: 1.21
-  TA: '18'
+  Number of Gamers: 471
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '17'
   Tags:
   - Offline Mode
   - Single Player
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Defeated 1,000 monsters.
   GS: '30'
   Guide: false
-  Number of Gamers: 175
-  Percentage of Gamers: 36%
-  Ratio: 1.66
-  TA: '49'
+  Number of Gamers: 267
+  Percentage of Gamers: 40%
+  Ratio: 1.59
+  TA: '47'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Defeated 5,000 monsters.
   GS: '90'
   Guide: false
-  Number of Gamers: 66
-  Percentage of Gamers: 14%
-  Ratio: 2.69
-  TA: '242'
+  Number of Gamers: 101
+  Percentage of Gamers: 15%
+  Ratio: 2.58
+  TA: '232'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Cumulatively acquired over 500,000G.
   GS: '15'
   Guide: false
-  Number of Gamers: 132
-  Percentage of Gamers: 27%
-  Ratio: 1.9
-  TA: '28'
+  Number of Gamers: 216
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '26'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Cumulatively acquired over 5,000,000G.
   GS: '30'
   Guide: false
-  Number of Gamers: 63
-  Percentage of Gamers: 13%
-  Ratio: 2.76
-  TA: '82'
+  Number of Gamers: 92
+  Percentage of Gamers: 14%
+  Ratio: 2.7
+  TA: '81'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: Enhanced equipment 10 times.
   GS: '15'
   Guide: false
-  Number of Gamers: 92
-  Percentage of Gamers: 19%
-  Ratio: 2.28
-  TA: '34'
+  Number of Gamers: 147
+  Percentage of Gamers: 22%
+  Ratio: 2.15
+  TA: '32'
   Tags:
   - Offline Mode
   - Single Player
@@ -80,10 +80,10 @@ Base Game Achievements:
   Description: Enhanced equipment 50 times.
   GS: '30'
   Guide: false
-  Number of Gamers: 43
-  Percentage of Gamers: 9%
-  Ratio: 3.34
-  TA: '100'
+  Number of Gamers: 72
+  Percentage of Gamers: 11%
+  Ratio: 3.06
+  TA: '91'
   Tags:
   - Offline Mode
   - Single Player
@@ -92,10 +92,10 @@ Base Game Achievements:
   Description: Unlocked 100 Growth Map slots.
   GS: '15'
   Guide: true
-  Number of Gamers: 112
-  Percentage of Gamers: 23%
-  Ratio: 2.07
-  TA: '31'
+  Number of Gamers: 181
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '28'
   Tags:
   - Offline Mode
   - Single Player
@@ -104,10 +104,10 @@ Base Game Achievements:
   Description: Unlocked 300 Growth Map slots.
   GS: '30'
   Guide: false
-  Number of Gamers: 73
-  Percentage of Gamers: 15%
-  Ratio: 2.56
-  TA: '77'
+  Number of Gamers: 112
+  Percentage of Gamers: 17%
+  Ratio: 2.45
+  TA: '73'
   Tags:
   - Offline Mode
   - Single Player
@@ -116,10 +116,10 @@ Base Game Achievements:
   Description: Obtained over 20 different weapons.
   GS: '15'
   Guide: false
-  Number of Gamers: 168
-  Percentage of Gamers: 35%
-  Ratio: 1.69
-  TA: '25'
+  Number of Gamers: 259
+  Percentage of Gamers: 38%
+  Ratio: 1.61
+  TA: '24'
   Tags:
   - Offline Mode
   - Single Player
@@ -128,10 +128,10 @@ Base Game Achievements:
   Description: Obtained over 50 different weapons.
   GS: '30'
   Guide: false
-  Number of Gamers: 96
-  Percentage of Gamers: 20%
-  Ratio: 2.23
-  TA: '67'
+  Number of Gamers: 157
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '62'
   Tags:
   - Offline Mode
   - Single Player
@@ -140,10 +140,10 @@ Base Game Achievements:
   Description: Obtained over 10 different kinds of armor.
   GS: '15'
   Guide: false
-  Number of Gamers: 183
-  Percentage of Gamers: 38%
-  Ratio: 1.62
-  TA: '24'
+  Number of Gamers: 282
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '23'
   Tags:
   - Offline Mode
   - Single Player
@@ -151,11 +151,11 @@ Base Game Achievements:
 - Achievement Name: Armor Master
   Description: Obtained over 30 different kinds of armor.
   GS: '30'
-  Guide: false
-  Number of Gamers: 51
-  Percentage of Gamers: 11%
-  Ratio: 3.07
-  TA: '92'
+  Guide: true
+  Number of Gamers: 80
+  Percentage of Gamers: 12%
+  Ratio: 2.9
+  TA: '87'
   Tags:
   - Offline Mode
   - Single Player
@@ -164,10 +164,10 @@ Base Game Achievements:
   Description: Obtained over 20 different jewels.
   GS: '15'
   Guide: false
-  Number of Gamers: 197
-  Percentage of Gamers: 41%
-  Ratio: 1.56
-  TA: '23'
+  Number of Gamers: 297
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '22'
   Tags:
   - Offline Mode
   - Single Player
@@ -176,10 +176,10 @@ Base Game Achievements:
   Description: Obtained over 50 different jewels.
   GS: '30'
   Guide: false
-  Number of Gamers: 115
-  Percentage of Gamers: 24%
-  Ratio: 2.04
-  TA: '61'
+  Number of Gamers: 194
+  Percentage of Gamers: 29%
+  Ratio: 1.86
+  TA: '55'
   Tags:
   - Offline Mode
   - Single Player
@@ -188,9 +188,9 @@ Base Game Achievements:
   Description: Cleared 5 quests.
   GS: '15'
   Guide: false
-  Number of Gamers: 189
-  Percentage of Gamers: 39%
-  Ratio: 1.59
+  Number of Gamers: 283
+  Percentage of Gamers: 42%
+  Ratio: 1.54
   TA: '23'
   Tags:
   - Offline Mode
@@ -200,10 +200,10 @@ Base Game Achievements:
   Description: Cleared 10 quests.
   GS: '30'
   Guide: false
-  Number of Gamers: 141
-  Percentage of Gamers: 29%
-  Ratio: 1.84
-  TA: '55'
+  Number of Gamers: 225
+  Percentage of Gamers: 33%
+  Ratio: 1.73
+  TA: '51'
   Tags:
   - Offline Mode
   - Single Player
@@ -212,10 +212,10 @@ Base Game Achievements:
   Description: Unlocked 20 treasure chests.
   GS: '15'
   Guide: false
-  Number of Gamers: 131
-  Percentage of Gamers: 27%
-  Ratio: 1.92
-  TA: '28'
+  Number of Gamers: 214
+  Percentage of Gamers: 32%
+  Ratio: 1.78
+  TA: '26'
   Tags:
   - Offline Mode
   - Single Player
@@ -224,10 +224,10 @@ Base Game Achievements:
   Description: Unlocked 50 treasure chests.
   GS: '30'
   Guide: false
-  Number of Gamers: 62
-  Percentage of Gamers: 13%
-  Ratio: 2.78
-  TA: '83'
+  Number of Gamers: 99
+  Percentage of Gamers: 15%
+  Ratio: 2.61
+  TA: '78'
   Tags:
   - Offline Mode
   - Single Player
@@ -236,7 +236,7 @@ Base Game Achievements:
   Description: Defeated a monster for the first time.
   GS: '15'
   Guide: false
-  Number of Gamers: 479
+  Number of Gamers: 673
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '15'
@@ -248,10 +248,10 @@ Base Game Achievements:
   Description: Reached level 99.
   GS: '90'
   Guide: false
-  Number of Gamers: 24
-  Percentage of Gamers: 5%
-  Ratio: 4.47
-  TA: '402'
+  Number of Gamers: 38
+  Percentage of Gamers: 6%
+  Ratio: 4.21
+  TA: '379'
   Tags:
   - Offline Mode
   - Single Player
@@ -259,11 +259,11 @@ Base Game Achievements:
 - Achievement Name: Time Reverse
   Description: Turned back time at the altar.
   GS: '30'
-  Guide: false
-  Number of Gamers: 40
-  Percentage of Gamers: 8%
-  Ratio: 3.46
-  TA: '104'
+  Guide: true
+  Number of Gamers: 63
+  Percentage of Gamers: 9%
+  Ratio: 3.27
+  TA: '98'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -271,21 +271,21 @@ Base Game Achievements:
   Description: Unlocked the second Growth Map.
   GS: '90'
   Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 6%
-  Ratio: 3.93
-  TA: '354'
+  Number of Gamers: 50
+  Percentage of Gamers: 7%
+  Ratio: 3.67
+  TA: '330'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Music Box
   Description: Unlocked the Music menu.
   GS: '30'
-  Guide: false
-  Number of Gamers: 32
-  Percentage of Gamers: 7%
-  Ratio: 3.87
-  TA: '116'
+  Guide: true
+  Number of Gamers: 53
+  Percentage of Gamers: 8%
+  Ratio: 3.56
+  TA: '107'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -293,10 +293,10 @@ Base Game Achievements:
   Description: Defeated Vam.
   GS: '30'
   Guide: false
-  Number of Gamers: 157
-  Percentage of Gamers: 33%
-  Ratio: 1.75
-  TA: '52'
+  Number of Gamers: 249
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '49'
   Tags:
   - Offline Mode
   - Single Player
@@ -305,10 +305,10 @@ Base Game Achievements:
   Description: Defeated Jas.
   GS: '90'
   Guide: false
-  Number of Gamers: 40
-  Percentage of Gamers: 8%
-  Ratio: 3.46
-  TA: '312'
+  Number of Gamers: 63
+  Percentage of Gamers: 9%
+  Ratio: 3.27
+  TA: '294'
   Tags:
   - Offline Mode
   - Single Player
@@ -317,10 +317,10 @@ Base Game Achievements:
   Description: Defeated Yim.
   GS: '90'
   Guide: false
-  Number of Gamers: 20
-  Percentage of Gamers: 4%
-  Ratio: 5.03
-  TA: '452'
+  Number of Gamers: 32
+  Percentage of Gamers: 5%
+  Ratio: 4.59
+  TA: '413'
   Tags:
   - Offline Mode
   - Single Player
@@ -329,10 +329,10 @@ Base Game Achievements:
   Description: Read all novel scenes.
   GS: '30'
   Guide: false
-  Number of Gamers: 49
-  Percentage of Gamers: 10%
-  Ratio: 3.13
-  TA: '93'
+  Number of Gamers: 80
+  Percentage of Gamers: 12%
+  Ratio: 2.9
+  TA: '87'
   Tags:
   - Offline Mode
   - Single Player
@@ -341,35 +341,35 @@ Base Game Achievements:
   Description: Unlocked all achievements.
   GS: '10'
   Guide: false
-  Number of Gamers: 19
-  Percentage of Gamers: 4%
-  Ratio: 5.16
-  TA: '51'
+  Number of Gamers: 31
+  Percentage of Gamers: 5%
+  Ratio: 4.66
+  TA: '46'
   Tags:
   - Offline Mode
   - Single Player
   - Collectable
   - Level
-Base Ratio: 3.093
-Base TA: 3093
+Base Ratio: 2.896
+Base TA: 2896
 Delisted: false
 Developer: Mistwalker
 Game Name: FANTASIAN Neo Dimension
 Genres: Role Playing, Turn Based
 Install Size: 13760.0
-Number of Completions: 19
-Number of Gamers: 481
+Number of Completions: 31
+Number of Gamers: 675
 Overall Completion Time:
-- 123
-- 124
+- 126
+- 127
 Overall GS: 1000
-Overall Ratio: 3.093
-Overall TA: 3093
+Overall Ratio: 2.896
+Overall TA: 2896
 PDU: 0
-Percentage Completed: 3.95
+Percentage Completed: 4.59
 Publisher: Square Enix
 Release Date: 05 December 2024
 Server Closure: false
-Site Rating: 4.45
+Site Rating: 4.28
 Update Achievements: []
 Walkthrough: false

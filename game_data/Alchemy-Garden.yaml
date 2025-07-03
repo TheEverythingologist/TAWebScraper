@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 72
-- 73
+- 76
+- 77
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Welcome to Rosewood Ville
   Description: Granted by entering to the Alchemy Garden world.
   GS: '15'
   Guide: false
-  Number of Gamers: 86
+  Number of Gamers: 89
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '15'
@@ -20,8 +20,8 @@ Base Game Achievements:
   Description: Granted by creating your Alchemist
   GS: '15'
   Guide: false
-  Number of Gamers: 85
-  Percentage of Gamers: 98%
+  Number of Gamers: 87
+  Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '15'
   Tags:
@@ -32,9 +32,9 @@ Base Game Achievements:
   Description: Granted by creating your first potion
   GS: '15'
   Guide: false
-  Number of Gamers: 71
-  Percentage of Gamers: 82%
-  Ratio: 1.1
+  Number of Gamers: 73
+  Percentage of Gamers: 81%
+  Ratio: 1.11
   TA: '16'
   Tags:
   - Offline Mode
@@ -44,8 +44,8 @@ Base Game Achievements:
   Description: Granted for brewing 10 potions
   GS: '15'
   Guide: false
-  Number of Gamers: 45
-  Percentage of Gamers: 52%
+  Number of Gamers: 46
+  Percentage of Gamers: 51%
   Ratio: 1.39
   TA: '20'
   Tags:
@@ -57,8 +57,8 @@ Base Game Achievements:
   GS: '15'
   Guide: false
   Number of Gamers: 33
-  Percentage of Gamers: 38%
-  Ratio: 1.62
+  Percentage of Gamers: 37%
+  Ratio: 1.65
   TA: '24'
   Tags:
   - Offline Mode
@@ -69,8 +69,8 @@ Base Game Achievements:
   GS: '15'
   Guide: false
   Number of Gamers: 26
-  Percentage of Gamers: 30%
-  Ratio: 1.82
+  Percentage of Gamers: 29%
+  Ratio: 1.86
   TA: '27'
   Tags:
   - Offline Mode
@@ -81,9 +81,9 @@ Base Game Achievements:
   GS: '15'
   Guide: false
   Number of Gamers: 24
-  Percentage of Gamers: 28%
-  Ratio: 1.9
-  TA: '28'
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '29'
   Tags:
   - Offline Mode
   - Single Player
@@ -94,8 +94,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 16
   Percentage of Gamers: 18%
-  Ratio: 2.33
-  TA: '69'
+  Ratio: 2.37
+  TA: '71'
   Tags:
   - Offline Mode
   - Single Player
@@ -104,7 +104,7 @@ Base Game Achievements:
   Description: Congratulations, you have discovered your first recipe!
   GS: '15'
   Guide: false
-  Number of Gamers: 69
+  Number of Gamers: 71
   Percentage of Gamers: 79%
   Ratio: 1.12
   TA: '16'
@@ -117,8 +117,8 @@ Base Game Achievements:
   Guide: true
   Number of Gamers: 10
   Percentage of Gamers: 11%
-  Ratio: 2.94
-  TA: '235'
+  Ratio: 3.0
+  TA: '240'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -126,10 +126,10 @@ Base Game Achievements:
   Description: Harvest your first plant.
   GS: '15'
   Guide: false
-  Number of Gamers: 77
-  Percentage of Gamers: 89%
+  Number of Gamers: 79
+  Percentage of Gamers: 88%
   Ratio: 1.06
-  TA: '15'
+  TA: '16'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -137,7 +137,7 @@ Base Game Achievements:
   Description: Granted by harvesting 25 plants.
   GS: '15'
   Guide: false
-  Number of Gamers: 54
+  Number of Gamers: 56
   Percentage of Gamers: 62%
   Ratio: 1.26
   TA: '19'
@@ -149,9 +149,9 @@ Base Game Achievements:
   Description: Granted by harvesting 50 plants.
   GS: '15'
   Guide: false
-  Number of Gamers: 44
-  Percentage of Gamers: 51%
-  Ratio: 1.4
+  Number of Gamers: 45
+  Percentage of Gamers: 50%
+  Ratio: 1.41
   TA: '21'
   Tags:
   - Offline Mode
@@ -162,9 +162,9 @@ Base Game Achievements:
   GS: '15'
   Guide: false
   Number of Gamers: 35
-  Percentage of Gamers: 40%
-  Ratio: 1.57
-  TA: '23'
+  Percentage of Gamers: 39%
+  Ratio: 1.6
+  TA: '24'
   Tags:
   - Offline Mode
   - Single Player
@@ -174,9 +174,9 @@ Base Game Achievements:
   GS: '15'
   Guide: false
   Number of Gamers: 18
-  Percentage of Gamers: 21%
-  Ratio: 2.19
-  TA: '32'
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '33'
   Tags:
   - Offline Mode
   - Single Player
@@ -187,8 +187,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 10
   Percentage of Gamers: 11%
-  Ratio: 2.94
-  TA: '88'
+  Ratio: 3.0
+  TA: '90'
   Tags:
   - Offline Mode
   - Single Player
@@ -199,8 +199,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 16
   Percentage of Gamers: 18%
-  Ratio: 2.33
-  TA: '69'
+  Ratio: 2.37
+  TA: '71'
   Tags:
   - Offline Mode
   - Single Player
@@ -209,10 +209,10 @@ Base Game Achievements:
   Description: Discover all the autumn and winter plants.
   GS: '70'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 7%
-  Ratio: 3.8
-  TA: '266'
+  Number of Gamers: 7
+  Percentage of Gamers: 8%
+  Ratio: 3.58
+  TA: '250'
   Tags:
   - Offline Mode
   - Single Player
@@ -221,10 +221,10 @@ Base Game Achievements:
   Description: Granted by discovering all healing plants.
   GS: '20'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 8%
-  Ratio: 3.52
-  TA: '70'
+  Number of Gamers: 8
+  Percentage of Gamers: 9%
+  Ratio: 3.35
+  TA: '67'
   Tags:
   - Offline Mode
   - Single Player
@@ -233,10 +233,10 @@ Base Game Achievements:
   Description: Granted by discovering all the aromatic plants.
   GS: '30'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 10%
-  Ratio: 3.1
-  TA: '93'
+  Number of Gamers: 10
+  Percentage of Gamers: 11%
+  Ratio: 3.0
+  TA: '90'
   Tags:
   - Offline Mode
   - Single Player
@@ -245,10 +245,10 @@ Base Game Achievements:
   Description: Granted by discovering all the stimulant plants.
   GS: '30'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 9%
-  Ratio: 3.29
-  TA: '98'
+  Number of Gamers: 9
+  Percentage of Gamers: 10%
+  Ratio: 3.16
+  TA: '94'
   Tags:
   - Offline Mode
   - Single Player
@@ -257,10 +257,10 @@ Base Game Achievements:
   Description: Granted by discovering all the relaxing plants.
   GS: '30'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 8%
-  Ratio: 3.52
-  TA: '105'
+  Number of Gamers: 8
+  Percentage of Gamers: 9%
+  Ratio: 3.35
+  TA: '100'
   Tags:
   - Offline Mode
   - Single Player
@@ -269,10 +269,10 @@ Base Game Achievements:
   Description: Granted by discovering all the toxic plants.
   GS: '30'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 10%
-  Ratio: 3.1
-  TA: '93'
+  Number of Gamers: 10
+  Percentage of Gamers: 11%
+  Ratio: 3.0
+  TA: '90'
   Tags:
   - Offline Mode
   - Single Player
@@ -281,9 +281,9 @@ Base Game Achievements:
   Description: Granted by planting your first seed.
   GS: '15'
   Guide: false
-  Number of Gamers: 53
+  Number of Gamers: 55
   Percentage of Gamers: 61%
-  Ratio: 1.28
+  Ratio: 1.27
   TA: '19'
   Tags:
   - Offline Game Mode
@@ -292,9 +292,9 @@ Base Game Achievements:
   Description: Granted by planting 10 seeds.
   GS: '15'
   Guide: false
-  Number of Gamers: 41
+  Number of Gamers: 42
   Percentage of Gamers: 47%
-  Ratio: 1.45
+  Ratio: 1.46
   TA: '21'
   Tags:
   - Offline Mode
@@ -305,9 +305,9 @@ Base Game Achievements:
   GS: '15'
   Guide: false
   Number of Gamers: 29
-  Percentage of Gamers: 33%
-  Ratio: 1.73
-  TA: '25'
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '26'
   Tags:
   - Offline Mode
   - Single Player
@@ -317,9 +317,9 @@ Base Game Achievements:
   GS: '15'
   Guide: false
   Number of Gamers: 24
-  Percentage of Gamers: 28%
-  Ratio: 1.9
-  TA: '28'
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '29'
   Tags:
   - Offline Mode
   - Single Player
@@ -329,9 +329,9 @@ Base Game Achievements:
   GS: '15'
   Guide: false
   Number of Gamers: 18
-  Percentage of Gamers: 21%
-  Ratio: 2.19
-  TA: '32'
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '33'
   Tags:
   - Offline Mode
   - Single Player
@@ -340,10 +340,10 @@ Base Game Achievements:
   Description: Granted by planting 500 seeds.
   GS: '30'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 10%
-  Ratio: 3.1
-  TA: '93'
+  Number of Gamers: 10
+  Percentage of Gamers: 11%
+  Ratio: 3.0
+  TA: '90'
   Tags:
   - Offline Mode
   - Single Player
@@ -353,8 +353,8 @@ Base Game Achievements:
   GS: '15'
   Guide: false
   Number of Gamers: 19
-  Percentage of Gamers: 22%
-  Ratio: 2.13
+  Percentage of Gamers: 21%
+  Ratio: 2.17
   TA: '32'
   Tags:
   - Offline Game Mode
@@ -364,9 +364,9 @@ Base Game Achievements:
   GS: '30'
   Guide: false
   Number of Gamers: 22
-  Percentage of Gamers: 25%
-  Ratio: 1.98
-  TA: '59'
+  Percentage of Gamers: 24%
+  Ratio: 2.02
+  TA: '60'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -374,9 +374,9 @@ Base Game Achievements:
   Description: Granted by opening the store for the first time.
   GS: '15'
   Guide: false
-  Number of Gamers: 72
-  Percentage of Gamers: 83%
-  Ratio: 1.09
+  Number of Gamers: 74
+  Percentage of Gamers: 82%
+  Ratio: 1.1
   TA: '16'
   Tags:
   - Offline Mode
@@ -386,9 +386,9 @@ Base Game Achievements:
   Description: Granted by negotiating the price of one of your products.
   GS: '15'
   Guide: false
-  Number of Gamers: 40
+  Number of Gamers: 41
   Percentage of Gamers: 46%
-  Ratio: 1.47
+  Ratio: 1.48
   TA: '22'
   Tags:
   - Offline Game Mode
@@ -397,10 +397,10 @@ Base Game Achievements:
   Description: Granted by buying all garden plots
   GS: '30'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 7%
-  Ratio: 3.8
-  TA: '114'
+  Number of Gamers: 7
+  Percentage of Gamers: 8%
+  Ratio: 3.58
+  TA: '107'
   Tags:
   - Offline Mode
   - Single Player
@@ -409,10 +409,10 @@ Base Game Achievements:
   Description: Granted by getting max reputation.
   GS: '30'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 17%
-  Ratio: 2.4
-  TA: '72'
+  Number of Gamers: 16
+  Percentage of Gamers: 18%
+  Ratio: 2.37
+  TA: '71'
   Tags:
   - Offline Mode
   - Single Player
@@ -421,8 +421,8 @@ Base Game Achievements:
   Description: Awarded for delivering a potion requested by a customer
   GS: '15'
   Guide: false
-  Number of Gamers: 47
-  Percentage of Gamers: 54%
+  Number of Gamers: 48
+  Percentage of Gamers: 53%
   Ratio: 1.36
   TA: '20'
   Tags:
@@ -432,10 +432,10 @@ Base Game Achievements:
   Description: Granted by buying the swamp house
   GS: '20'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 9%
-  Ratio: 3.29
-  TA: '65'
+  Number of Gamers: 9
+  Percentage of Gamers: 10%
+  Ratio: 3.16
+  TA: '63'
   Tags:
   - Offline Mode
   - Single Player
@@ -444,10 +444,10 @@ Base Game Achievements:
   Description: Granted by having 1.000.000 gold in your inventory
   GS: '50'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 2%
-  Ratio: 6.59
-  TA: '329'
+  Number of Gamers: 3
+  Percentage of Gamers: 3%
+  Ratio: 5.47
+  TA: '273'
   Tags:
   - Offline Mode
   - Single Player
@@ -456,10 +456,10 @@ Base Game Achievements:
   Description: Granted by discovering all Aether plants.
   GS: '20'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 9%
-  Ratio: 3.29
-  TA: '65'
+  Number of Gamers: 9
+  Percentage of Gamers: 10%
+  Ratio: 3.16
+  TA: '63'
   Tags:
   - Offline Mode
   - Single Player
@@ -468,10 +468,10 @@ Base Game Achievements:
   Description: Granted by buying all the swamp plots
   GS: '20'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 5%
-  Ratio: 4.66
-  TA: '93'
+  Number of Gamers: 5
+  Percentage of Gamers: 6%
+  Ratio: 4.24
+  TA: '84'
   Tags:
   - Offline Mode
   - Single Player
@@ -481,8 +481,8 @@ Base Game Achievements:
   GS: '15'
   Guide: false
   Number of Gamers: 19
-  Percentage of Gamers: 22%
-  Ratio: 2.13
+  Percentage of Gamers: 21%
+  Ratio: 2.17
   TA: '32'
   Tags:
   - Offline Game Mode
@@ -491,10 +491,10 @@ Base Game Achievements:
   Description: Granted by completing the Summer Festival
   GS: '15'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 9%
-  Ratio: 3.29
-  TA: '49'
+  Number of Gamers: 9
+  Percentage of Gamers: 10%
+  Ratio: 3.16
+  TA: '47'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -502,10 +502,10 @@ Base Game Achievements:
   Description: Granted by completing the Spooky Festival
   GS: '15'
   Guide: true
-  Number of Gamers: 7
-  Percentage of Gamers: 8%
-  Ratio: 3.52
-  TA: '52'
+  Number of Gamers: 8
+  Percentage of Gamers: 9%
+  Ratio: 3.35
+  TA: '50'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -513,30 +513,30 @@ Base Game Achievements:
   Description: Granted by completing the Winter Festival
   GS: '15'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 6%
-  Ratio: 4.17
-  TA: '62'
+  Number of Gamers: 6
+  Percentage of Gamers: 7%
+  Ratio: 3.87
+  TA: '58'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 2.757
-Base TA: 2757
+Base Ratio: 2.654
+Base TA: 2654
 Delisted: false
 Developer: MadSushi Games
 Game Name: Alchemy Garden
 Genres: Simulation, Management
 Install Size: 1080.0
-Number of Completions: 2
-Number of Gamers: 87
+Number of Completions: 3
+Number of Gamers: 90
 Overall Completion Time:
-- 72
-- 73
+- 76
+- 77
 Overall GS: 1000
-Overall Ratio: 2.757
-Overall TA: 2757
+Overall Ratio: 2.654
+Overall TA: 2654
 PDU: 0
-Percentage Completed: 2.3
+Percentage Completed: 3.33
 Publisher: JanduSoft
 Release Date: 07 September 2023
 Server Closure: false

@@ -1,16 +1,16 @@
 Add On Achievements: []
 Base Completion Time:
-- 22
-- 23
+- 15.0
+- 20.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Reach the Sanctuary
   Description: Reach the Sanctuary
   GS: '10'
-  Guide: false
-  Number of Gamers: 330
-  Percentage of Gamers: 68%
-  Ratio: 1.2
+  Guide: true
+  Number of Gamers: 548
+  Percentage of Gamers: 65%
+  Ratio: 1.24
   TA: '12'
   Tags:
   - Offline Mode
@@ -19,8 +19,8 @@ Base Game Achievements:
 - Achievement Name: Discover the Cursed Mountains
   Description: Discover the Cursed Mountains
   GS: '10'
-  Guide: false
-  Number of Gamers: 481
+  Guide: true
+  Number of Gamers: 848
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '10'
@@ -31,10 +31,10 @@ Base Game Achievements:
 - Achievement Name: Discover the Rotten City
   Description: Discover the Rotten City
   GS: '10'
-  Guide: false
-  Number of Gamers: 147
+  Guide: true
+  Number of Gamers: 255
   Percentage of Gamers: 30%
-  Ratio: 1.81
+  Ratio: 1.82
   TA: '18'
   Tags:
   - Offline Mode
@@ -44,9 +44,9 @@ Base Game Achievements:
   Description: Discover the Ancient Crater
   GS: '10'
   Guide: false
-  Number of Gamers: 116
-  Percentage of Gamers: 24%
-  Ratio: 2.03
+  Number of Gamers: 198
+  Percentage of Gamers: 23%
+  Ratio: 2.07
   TA: '20'
   Tags:
   - Offline Mode
@@ -56,9 +56,9 @@ Base Game Achievements:
   Description: Discover the Fallen Capital
   GS: '10'
   Guide: false
-  Number of Gamers: 99
-  Percentage of Gamers: 21%
-  Ratio: 2.2
+  Number of Gamers: 170
+  Percentage of Gamers: 20%
+  Ratio: 2.23
   TA: '22'
   Tags:
   - Offline Mode
@@ -68,7 +68,7 @@ Base Game Achievements:
   Description: Discover the Horrid Hive
   GS: '10'
   Guide: false
-  Number of Gamers: 87
+  Number of Gamers: 153
   Percentage of Gamers: 18%
   Ratio: 2.35
   TA: '23'
@@ -79,23 +79,23 @@ Base Game Achievements:
 - Achievement Name: Cycle Through
   Description: Complete a cycle in the Cycle Unending
   GS: '150'
-  Guide: false
-  Number of Gamers: 37
-  Percentage of Gamers: 8%
-  Ratio: 3.6
-  TA: '541'
+  Guide: true
+  Number of Gamers: 76
+  Percentage of Gamers: 9%
+  Ratio: 3.34
+  TA: '501'
   Tags:
   - Offline Mode
   - Single Player
-  - Main Storyline
+  - Multiple Playthroughs Required
 - Achievement Name: Fully Documented
   Description: Fill out Morbid Menagerie
   GS: '70'
   Guide: false
-  Number of Gamers: 43
-  Percentage of Gamers: 9%
-  Ratio: 3.34
-  TA: '234'
+  Number of Gamers: 87
+  Percentage of Gamers: 10%
+  Ratio: 3.12
+  TA: '218'
   Tags:
   - Offline Mode
   - Single Player
@@ -104,10 +104,10 @@ Base Game Achievements:
   Description: Return all Tomes to Yan
   GS: '60'
   Guide: true
-  Number of Gamers: 64
+  Number of Gamers: 114
   Percentage of Gamers: 13%
-  Ratio: 2.76
-  TA: '165'
+  Ratio: 2.72
+  TA: '163'
   Tags:
   - Offline Mode
   - Single Player
@@ -116,7 +116,7 @@ Base Game Achievements:
   Description: Return all Molder's Toolkits to Atoz
   GS: '60'
   Guide: true
-  Number of Gamers: 67
+  Number of Gamers: 116
   Percentage of Gamers: 14%
   Ratio: 2.7
   TA: '162'
@@ -128,10 +128,10 @@ Base Game Achievements:
   Description: Return all Cosm Stones to Bol
   GS: '60'
   Guide: true
-  Number of Gamers: 95
-  Percentage of Gamers: 20%
-  Ratio: 2.25
-  TA: '135'
+  Number of Gamers: 164
+  Percentage of Gamers: 19%
+  Ratio: 2.27
+  TA: '136'
   Tags:
   - Offline Mode
   - Single Player
@@ -140,10 +140,10 @@ Base Game Achievements:
   Description: Max out a weapon
   GS: '30'
   Guide: false
-  Number of Gamers: 156
-  Percentage of Gamers: 32%
-  Ratio: 1.75
-  TA: '52'
+  Number of Gamers: 261
+  Percentage of Gamers: 31%
+  Ratio: 1.8
+  TA: '54'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -151,21 +151,21 @@ Base Game Achievements:
   Description: Max out a blessing slot
   GS: '40'
   Guide: true
-  Number of Gamers: 91
-  Percentage of Gamers: 19%
-  Ratio: 2.3
-  TA: '92'
+  Number of Gamers: 150
+  Percentage of Gamers: 18%
+  Ratio: 2.37
+  TA: '95'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Untouchable
   Description: Slay an Acolyte without taking damage
   GS: '100'
-  Guide: false
-  Number of Gamers: 47
-  Percentage of Gamers: 10%
-  Ratio: 3.2
-  TA: '320'
+  Guide: true
+  Number of Gamers: 95
+  Percentage of Gamers: 11%
+  Ratio: 2.98
+  TA: '298'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -173,32 +173,34 @@ Base Game Achievements:
   Description: All Achievements acquired
   GS: '200'
   Guide: false
-  Number of Gamers: 29
-  Percentage of Gamers: 6%
-  Ratio: 4.07
-  TA: '815'
+  Number of Gamers: 66
+  Percentage of Gamers: 8%
+  Ratio: 3.58
+  TA: '717'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Buggy
 - Achievement Name: Serve the Relics
   Description: Offer all relics to Hag of the Hall
   GS: '40'
   Guide: true
-  Number of Gamers: 55
-  Percentage of Gamers: 11%
-  Ratio: 2.96
-  TA: '118'
+  Number of Gamers: 101
+  Percentage of Gamers: 12%
+  Ratio: 2.89
+  TA: '115'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Collectable
 - Achievement Name: Ghostbuster
   Description: Banish 13 Spectres
   GS: '30'
   Guide: true
-  Number of Gamers: 110
-  Percentage of Gamers: 23%
-  Ratio: 2.09
-  TA: '62'
+  Number of Gamers: 188
+  Percentage of Gamers: 22%
+  Ratio: 2.12
+  TA: '63'
   Tags:
   - Offline Mode
   - Single Player
@@ -207,34 +209,34 @@ Base Game Achievements:
   Description: Complete all quests
   GS: '100'
   Guide: false
-  Number of Gamers: 67
+  Number of Gamers: 121
   Percentage of Gamers: 14%
-  Ratio: 2.68
-  TA: '268'
+  Ratio: 2.64
+  TA: '264'
   Tags:
   - Offline Mode
   - Single Player
   - Collectable
-Base Ratio: 3.069
-Base TA: 3069
+Base Ratio: 2.891
+Base TA: 2891
 Delisted: false
 Developer: Still Running
 Game Name: 'Morbid: The Lords of Ire'
 Genres: Action-RPG, Role Playing
 Install Size: 11290.0
-Number of Completions: 29
-Number of Gamers: 482
+Number of Completions: 67
+Number of Gamers: 849
 Overall Completion Time:
-- 22
-- 23
+- 15.0
+- 20.0
 Overall GS: 1000
-Overall Ratio: 3.069
-Overall TA: 3069
+Overall Ratio: 2.891
+Overall TA: 2891
 PDU: 0
-Percentage Completed: 6.02
-Publisher: Merge Games
+Percentage Completed: 7.89
+Publisher: Maximum Entertainment
 Release Date: 17 May 2024
 Server Closure: false
-Site Rating: 3.88
+Site Rating: 3.6
 Update Achievements: []
 Walkthrough: false

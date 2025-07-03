@@ -1,110 +1,100 @@
 Add On Achievements: []
 Base Completion Time:
-- 271
-- 272
+- 50.0
+- 60.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Amateur Golfer
   Description: Finish an 18-hole round of golf.
   GS: '15'
   Guide: false
-  Number of Gamers: 10724
+  Number of Gamers: 10807
   Percentage of Gamers: 84%
   Ratio: 1.09
   TA: '16'
   Tags:
-  - Online/Offline
+  - Offline Mode
   - Single Player
   - Versus
 - Achievement Name: "I'll Take That\u2026"
   Description: "Beat a friend\u2019s course record on any course."
   GS: '15'
   Guide: true
-  Number of Gamers: 3361
+  Number of Gamers: 3397
   Percentage of Gamers: 26%
-  Ratio: 1.95
+  Ratio: 1.94
   TA: '29'
   Tags:
-  - Online Mode
-  - Single Player
-  - Versus
-  - Community
+  - Discontinued
 - Achievement Name: Ferret
   Description: Hole the ball from off the green on an official course.
   GS: '15'
   Guide: false
-  Number of Gamers: 4196
+  Number of Gamers: 4246
   Percentage of Gamers: 33%
   Ratio: 1.74
   TA: '26'
   Tags:
-  - Online Mode
-  - Single Player
-  - Versus
+  - Discontinued
 - Achievement Name: Golf Buddy
   Description: Play against an active rival or an active friend.
   GS: '15'
   Guide: true
-  Number of Gamers: 2826
+  Number of Gamers: 2861
   Percentage of Gamers: 22%
-  Ratio: 2.13
+  Ratio: 2.12
   TA: '31'
   Tags:
-  - Online Mode
-  - Versus
+  - Discontinued
 - Achievement Name: Playing Favorites
   Description: Favorite 10 courses.
   GS: '15'
   Guide: true
-  Number of Gamers: 2780
+  Number of Gamers: 2805
   Percentage of Gamers: 22%
   Ratio: 2.14
   TA: '32'
   Tags:
-  - Online/Offline
+  - Offline Mode
   - Single Player
   - Cumulative +
 - Achievement Name: Ace
   Description: Score a hole-in-one on an official course.
   GS: '90'
   Guide: true
-  Number of Gamers: 426
+  Number of Gamers: 441
   Percentage of Gamers: 3%
-  Ratio: 5.48
-  TA: '493'
+  Ratio: 5.41
+  TA: '487'
   Tags:
-  - Online Mode
-  - Single Player
-  - Versus
+  - Discontinued
 - Achievement Name: Golden Ferret
   Description: Hole the ball directly from a bunker on an official course.
   GS: '90'
   Guide: true
-  Number of Gamers: 776
+  Number of Gamers: 798
   Percentage of Gamers: 6%
-  Ratio: 4.06
-  TA: '365'
+  Ratio: 4.02
+  TA: '362'
   Tags:
-  - Online Mode
-  - Single Player
-  - Versus
+  - Discontinued
 - Achievement Name: Super Ace
   Description: Score a hole-in-one from 250+ yards.
   GS: '90'
   Guide: true
-  Number of Gamers: 1423
+  Number of Gamers: 1450
   Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '270'
+  Ratio: 2.98
+  TA: '268'
   Tags:
-  - Online/Offline
+  - Offline Mode
   - Single Player
   - Versus
 - Achievement Name: Bucket o' Balls
   Description: Hit 25 Perfect-tempo shots in one session of driving practice.
   GS: '15'
   Guide: true
-  Number of Gamers: 2154
+  Number of Gamers: 2173
   Percentage of Gamers: 17%
   Ratio: 2.43
   TA: '36'
@@ -115,9 +105,9 @@ Base Game Achievements:
   Description: Complete a Season in Career Mode.
   GS: '20'
   Guide: true
-  Number of Gamers: 2924
+  Number of Gamers: 2962
   Percentage of Gamers: 23%
-  Ratio: 2.09
+  Ratio: 2.08
   TA: '41'
   Tags:
   - Offline Game Mode
@@ -126,10 +116,10 @@ Base Game Achievements:
   Description: Land 25 balls within 5ft of the pin in one session of chipping practice.
   GS: '15'
   Guide: true
-  Number of Gamers: 1150
+  Number of Gamers: 1171
   Percentage of Gamers: 9%
-  Ratio: 3.33
-  TA: '50'
+  Ratio: 3.32
+  TA: '49'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -137,9 +127,9 @@ Base Game Achievements:
   Description: Sink 25 Putts in one session of putting practice.
   GS: '15'
   Guide: true
-  Number of Gamers: 1700
+  Number of Gamers: 1722
   Percentage of Gamers: 13%
-  Ratio: 2.74
+  Ratio: 2.73
   TA: '41'
   Tags:
   - Offline Game Mode
@@ -148,10 +138,10 @@ Base Game Achievements:
   Description: Unlock a total of 99 pieces of clothing, club parts, and emblems.
   GS: '30'
   Guide: true
-  Number of Gamers: 258
+  Number of Gamers: 276
   Percentage of Gamers: 2%
-  Ratio: 7.04
-  TA: '211'
+  Ratio: 6.84
+  TA: '205'
   Tags:
   - Offline Mode
   - Single Player
@@ -161,10 +151,10 @@ Base Game Achievements:
   Description: Earn a Handicap Index of scratch (zero) or better.
   GS: '15'
   Guide: false
-  Number of Gamers: 1415
+  Number of Gamers: 1436
   Percentage of Gamers: 11%
-  Ratio: 3.01
-  TA: '45'
+  Ratio: 2.99
+  TA: '44'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -172,10 +162,10 @@ Base Game Achievements:
   Description: Earn a Handicap Index of +10 or better.
   GS: '90'
   Guide: true
-  Number of Gamers: 545
+  Number of Gamers: 564
   Percentage of Gamers: 4%
-  Ratio: 4.85
-  TA: '436'
+  Ratio: 4.78
+  TA: '430'
   Tags:
   - Offline Mode
   - Single Player
@@ -184,12 +174,12 @@ Base Game Achievements:
   Description: Earn a Net Worth of 1,000,000.
   GS: '30'
   Guide: true
-  Number of Gamers: 64
-  Percentage of Gamers: 0%
-  Ratio: 14.15
-  TA: '424'
+  Number of Gamers: 79
+  Percentage of Gamers: 1%
+  Ratio: 12.78
+  TA: '383'
   Tags:
-  - Online/Offline
+  - Offline Mode
   - Single Player
   - Versus
   - Cumulative +
@@ -198,21 +188,19 @@ Base Game Achievements:
   Description: Score Par or better on an official course using a Tour set of clubs.
   GS: '15'
   Guide: true
-  Number of Gamers: 861
+  Number of Gamers: 876
   Percentage of Gamers: 7%
-  Ratio: 3.85
+  Ratio: 3.83
   TA: '57'
   Tags:
-  - Online Mode
-  - Single Player
-  - Versus
+  - Discontinued
 - Achievement Name: You Have Selected No
   Description: Show Lee how it's done.
   GS: '15'
   Guide: true
-  Number of Gamers: 1110
+  Number of Gamers: 1130
   Percentage of Gamers: 9%
-  Ratio: 3.39
+  Ratio: 3.38
   TA: '50'
   Tags:
   - Offline Game Mode
@@ -221,22 +209,20 @@ Base Game Achievements:
   Description: Represent a Society in an Official Tournament.
   GS: '15'
   Guide: true
-  Number of Gamers: 674
+  Number of Gamers: 706
   Percentage of Gamers: 5%
-  Ratio: 4.36
-  TA: '65'
+  Ratio: 4.27
+  TA: '64'
   Tags:
-  - Online Mode
-  - Single Player
-  - Community
+  - Discontinued
 - Achievement Name: Career Pro
   Description: Reach Level 5 in Career Mode.
   GS: '30'
   Guide: true
-  Number of Gamers: 1476
+  Number of Gamers: 1505
   Percentage of Gamers: 12%
-  Ratio: 2.94
-  TA: '88'
+  Ratio: 2.92
+  TA: '87'
   Tags:
   - Offline Mode
   - Single Player
@@ -245,10 +231,10 @@ Base Game Achievements:
   Description: Reach Level 10 In Career Mode.
   GS: '90'
   Guide: true
-  Number of Gamers: 313
-  Percentage of Gamers: 2%
-  Ratio: 6.4
-  TA: '576'
+  Number of Gamers: 337
+  Percentage of Gamers: 3%
+  Ratio: 6.19
+  TA: '557'
   Tags:
   - Offline Mode
   - Single Player
@@ -258,10 +244,10 @@ Base Game Achievements:
     Hard Difficulty or higher.
   GS: '90'
   Guide: true
-  Number of Gamers: 313
-  Percentage of Gamers: 2%
-  Ratio: 6.4
-  TA: '576'
+  Number of Gamers: 338
+  Percentage of Gamers: 3%
+  Ratio: 6.18
+  TA: '556'
   Tags:
   - Offline Mode
   - Single Player
@@ -270,10 +256,10 @@ Base Game Achievements:
   Description: Place 1st in a Career Event with Hard difficulty or higher.
   GS: '30'
   Guide: true
-  Number of Gamers: 457
+  Number of Gamers: 483
   Percentage of Gamers: 4%
-  Ratio: 5.29
-  TA: '158'
+  Ratio: 5.17
+  TA: '155'
   Tags:
   - Offline Mode
   - Single Player
@@ -282,10 +268,10 @@ Base Game Achievements:
   Description: Complete all 15 Challenges on any course.
   GS: '30'
   Guide: true
-  Number of Gamers: 514
+  Number of Gamers: 539
   Percentage of Gamers: 4%
-  Ratio: 4.99
-  TA: '149'
+  Ratio: 4.89
+  TA: '146'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -293,10 +279,10 @@ Base Game Achievements:
   Description: Complete a total of 250 Course Challenges.
   GS: '90'
   Guide: true
-  Number of Gamers: 461
+  Number of Gamers: 481
   Percentage of Gamers: 4%
-  Ratio: 5.27
-  TA: '474'
+  Ratio: 5.18
+  TA: '466'
   Tags:
   - Offline Mode
   - Single Player
@@ -306,32 +292,29 @@ Base Game Achievements:
     four other members.
   GS: '20'
   Guide: true
-  Number of Gamers: 762
+  Number of Gamers: 794
   Percentage of Gamers: 6%
-  Ratio: 4.1
-  TA: '82'
+  Ratio: 4.03
+  TA: '80'
   Tags:
-  - Online Mode
-  - Versus
-  - Community
-  - 4 Players Required
-Base Ratio: 4.821
-Base TA: 4821
+  - Discontinued
+Base Ratio: 4.698
+Base TA: 4698
 Delisted: false
 Developer: HB Studios
 Game Name: The Golf Club 2
 Genres: Sports, Golf
 Install Size: 4860.0
-Number of Completions: 37
-Number of Gamers: 12827
+Number of Completions: 48
+Number of Gamers: 12930
 Overall Completion Time:
-- 271
-- 272
+- 50.0
+- 60.0
 Overall GS: 1000
-Overall Ratio: 4.821
-Overall TA: 4821
-PDU: 0
-Percentage Completed: 0.29
+Overall Ratio: 4.698
+Overall TA: 4698
+PDU: 8
+Percentage Completed: 0.37
 Publisher: Maximum Entertainment
 Release Date: 27 June 2017
 Server Closure: true

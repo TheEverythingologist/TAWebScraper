@@ -1,4 +1,157 @@
-Add On Achievements: []
+Add On Achievements:
+- Achievement Name: Trick or Treat
+  Description: Construct a Halloween Decoration
+  GS: '10'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '10'
+  Tags: []
+- Achievement Name: I Know the Way
+  Description: Activate your first Leader Perk.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '10'
+  Tags: []
+- Achievement Name: "It\u2019s me, the Chef."
+  Description: Complete a dish in the Royal Kitchen.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '10'
+  Tags: []
+- Achievement Name: Encyclopedia Expert
+  Description: Register over 30 entries in the Encyclopedia.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 100%
+  Ratio: 2.87
+  TA: '28'
+  Tags: []
+- Achievement Name: Do You Believe?
+  Description: Have Ratizens follow a religion in the city.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '10'
+  Tags: []
+- Achievement Name: As You Wish
+  Description: Modify a trait using the Soul Modifier.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '10'
+  Tags: []
+- Achievement Name: Live Well
+  Description: Create a couple with the Marriage Monument
+  GS: '10'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '10'
+  Tags: []
+- Achievement Name: Religious Victory
+  Description: Build Shaman Monument
+  GS: '50'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '50'
+  Tags: []
+- Achievement Name: One True Utopia
+  Description: Complete "One True Utopia" event on Normal or higher
+  GS: '50'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '50'
+  Tags: []
+- Achievement Name: Shadowed City
+  Description: Reach the maximum level of the Umbran Circle
+  GS: '10'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '10'
+  Tags: []
+- Achievement Name: Purified City
+  Description: Reach the maximum level of the Purgon Order
+  GS: '10'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '10'
+  Tags: []
+- Achievement Name: Taste for Luxury
+  Description: Eat a meal composed of 3 Luxurious Dishes.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '10'
+  Tags: []
+- Achievement Name: Too Many Paths!
+  Description: Activate 8 Leader Perks.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '10'
+  Tags: []
+- Achievement Name: Blazing Spring Festival
+  Description: Build a Firework Launcher
+  GS: '10'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '10'
+  Tags: []
+- Achievement Name: Midsommar
+  Description: Maypole Construction
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 100%
+  Ratio: 2.87
+  TA: '28'
+  Tags: []
+- Achievement Name: Exciting Autumn Festival
+  Description: Complete "Autumn Beer Festival!" event
+  GS: '10'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '10'
+  Tags: []
+- Achievement Name: Warm Winter Festival
+  Description: Build the Festival Tree
+  GS: '10'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '10'
+  Tags: []
 Base Completion Time:
 - -1
 - -1
@@ -8,7 +161,7 @@ Base Game Achievements:
   Description: Accept a migrant
   GS: '10'
   Guide: false
-  Number of Gamers: 55
+  Number of Gamers: 68
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '10'
@@ -19,9 +172,9 @@ Base Game Achievements:
   Description: Assign a ratizen to a job
   GS: '10'
   Guide: false
-  Number of Gamers: 50
-  Percentage of Gamers: 91%
-  Ratio: 1.04
+  Number of Gamers: 63
+  Percentage of Gamers: 93%
+  Ratio: 1.03
   TA: '10'
   Tags:
   - Offline Game Mode
@@ -30,10 +183,10 @@ Base Game Achievements:
   Description: Activate a new policy
   GS: '10'
   Guide: false
-  Number of Gamers: 32
-  Percentage of Gamers: 58%
-  Ratio: 1.31
-  TA: '13'
+  Number of Gamers: 42
+  Percentage of Gamers: 62%
+  Ratio: 1.27
+  TA: '12'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -41,9 +194,9 @@ Base Game Achievements:
   Description: Research a blueprint
   GS: '10'
   Guide: false
-  Number of Gamers: 47
-  Percentage of Gamers: 85%
-  Ratio: 1.08
+  Number of Gamers: 59
+  Percentage of Gamers: 87%
+  Ratio: 1.07
   TA: '10'
   Tags:
   - Offline Game Mode
@@ -52,9 +205,9 @@ Base Game Achievements:
   Description: Bury the dead at a grave
   GS: '10'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 25%
-  Ratio: 1.98
+  Number of Gamers: 18
+  Percentage of Gamers: 26%
+  Ratio: 1.94
   TA: '19'
   Tags:
   - Offline Game Mode
@@ -63,10 +216,10 @@ Base Game Achievements:
   Description: Rest on a Royal Bed
   GS: '10'
   Guide: false
-  Number of Gamers: 21
-  Percentage of Gamers: 38%
-  Ratio: 1.61
-  TA: '16'
+  Number of Gamers: 28
+  Percentage of Gamers: 41%
+  Ratio: 1.55
+  TA: '15'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -74,10 +227,10 @@ Base Game Achievements:
   Description: Order soldiers to escort
   GS: '10'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 11%
-  Ratio: 3.02
-  TA: '30'
+  Number of Gamers: 9
+  Percentage of Gamers: 13%
+  Ratio: 2.74
+  TA: '27'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -85,10 +238,10 @@ Base Game Achievements:
   Description: Activate a shrine
   GS: '10'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 16%
-  Ratio: 2.47
-  TA: '24'
+  Number of Gamers: 14
+  Percentage of Gamers: 21%
+  Ratio: 2.2
+  TA: '22'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -96,10 +249,10 @@ Base Game Achievements:
   Description: Build a decorative structure.
   GS: '10'
   Guide: false
-  Number of Gamers: 19
-  Percentage of Gamers: 35%
-  Ratio: 1.7
-  TA: '17'
+  Number of Gamers: 25
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '16'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -107,9 +260,9 @@ Base Game Achievements:
   Description: Build a rail in the city
   GS: '10'
   Guide: false
-  Number of Gamers: 5
+  Number of Gamers: 6
   Percentage of Gamers: 9%
-  Ratio: 3.31
+  Ratio: 3.36
   TA: '33'
   Tags:
   - Offline Game Mode
@@ -118,10 +271,10 @@ Base Game Achievements:
   Description: Produce an equipment
   GS: '10'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 15%
-  Ratio: 2.62
-  TA: '26'
+  Number of Gamers: 11
+  Percentage of Gamers: 16%
+  Ratio: 2.48
+  TA: '24'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -129,10 +282,10 @@ Base Game Achievements:
   Description: Change the style of the leader
   GS: '10'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 5
   Percentage of Gamers: 7%
-  Ratio: 3.7
-  TA: '37'
+  Ratio: 3.68
+  TA: '36'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -140,10 +293,10 @@ Base Game Achievements:
   Description: Place a citizen in a group
   GS: '10'
   Guide: false
-  Number of Gamers: 7
+  Number of Gamers: 9
   Percentage of Gamers: 13%
-  Ratio: 2.8
-  TA: '28'
+  Ratio: 2.74
+  TA: '27'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -151,10 +304,10 @@ Base Game Achievements:
   Description: Enter the dungeon
   GS: '10'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 18%
-  Ratio: 2.34
-  TA: '23'
+  Number of Gamers: 13
+  Percentage of Gamers: 19%
+  Ratio: 2.28
+  TA: '22'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -162,10 +315,10 @@ Base Game Achievements:
   Description: Find other cities
   GS: '10'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 11%
-  Ratio: 3.02
-  TA: '30'
+  Number of Gamers: 7
+  Percentage of Gamers: 10%
+  Ratio: 3.11
+  TA: '31'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -174,9 +327,9 @@ Base Game Achievements:
   GS: '10'
   Guide: false
   Number of Gamers: 5
-  Percentage of Gamers: 9%
-  Ratio: 3.31
-  TA: '33'
+  Percentage of Gamers: 7%
+  Ratio: 3.68
+  TA: '36'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -185,9 +338,9 @@ Base Game Achievements:
   GS: '10'
   Guide: false
   Number of Gamers: 4
-  Percentage of Gamers: 7%
-  Ratio: 3.7
-  TA: '37'
+  Percentage of Gamers: 6%
+  Ratio: 4.12
+  TA: '41'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -195,9 +348,9 @@ Base Game Achievements:
   Description: Experienced Spring's end
   GS: '10'
   Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 55%
-  Ratio: 1.35
+  Number of Gamers: 39
+  Percentage of Gamers: 57%
+  Ratio: 1.32
   TA: '13'
   Tags:
   - Offline Game Mode
@@ -206,10 +359,10 @@ Base Game Achievements:
   Description: Experienced Summer's end
   GS: '10'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 29%
-  Ratio: 1.85
-  TA: '18'
+  Number of Gamers: 25
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '16'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -217,10 +370,10 @@ Base Game Achievements:
   Description: Experienced Autumn's end
   GS: '10'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 22%
-  Ratio: 2.14
-  TA: '21'
+  Number of Gamers: 18
+  Percentage of Gamers: 26%
+  Ratio: 1.94
+  TA: '19'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -228,9 +381,9 @@ Base Game Achievements:
   Description: Experienced Winter's end
   GS: '10'
   Guide: false
-  Number of Gamers: 8
+  Number of Gamers: 10
   Percentage of Gamers: 15%
-  Ratio: 2.62
+  Ratio: 2.6
   TA: '26'
   Tags:
   - Offline Game Mode
@@ -239,10 +392,10 @@ Base Game Achievements:
   Description: Middle class appeared in the city.
   GS: '10'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 9%
-  Ratio: 3.31
-  TA: '33'
+  Number of Gamers: 8
+  Percentage of Gamers: 12%
+  Ratio: 2.91
+  TA: '29'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -251,9 +404,9 @@ Base Game Achievements:
   GS: '10'
   Guide: false
   Number of Gamers: 3
-  Percentage of Gamers: 5%
-  Ratio: 4.28
-  TA: '42'
+  Percentage of Gamers: 4%
+  Ratio: 4.76
+  TA: '47'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -261,9 +414,9 @@ Base Game Achievements:
   Description: Reach prosperity level 4
   GS: '10'
   Guide: false
-  Number of Gamers: 9
+  Number of Gamers: 11
   Percentage of Gamers: 16%
-  Ratio: 2.47
+  Ratio: 2.48
   TA: '24'
   Tags:
   - Offline Mode
@@ -274,9 +427,9 @@ Base Game Achievements:
   GS: '10'
   Guide: false
   Number of Gamers: 4
-  Percentage of Gamers: 7%
-  Ratio: 3.7
-  TA: '37'
+  Percentage of Gamers: 6%
+  Ratio: 4.12
+  TA: '41'
   Tags:
   - Offline Mode
   - Single Player
@@ -285,10 +438,10 @@ Base Game Achievements:
   Description: Destroy infected's grave
   GS: '10'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 25%
-  Ratio: 1.98
-  TA: '19'
+  Number of Gamers: 20
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '18'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -296,10 +449,10 @@ Base Game Achievements:
   Description: Destroy Weasel Barracks
   GS: '10'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '10'
+  Number of Gamers: 1
+  Percentage of Gamers: 1%
+  Ratio: 8.24
+  TA: '82'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -318,10 +471,10 @@ Base Game Achievements:
   Description: Reforge equipment
   GS: '10'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 5
   Percentage of Gamers: 7%
-  Ratio: 3.7
-  TA: '37'
+  Ratio: 3.68
+  TA: '36'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -330,9 +483,9 @@ Base Game Achievements:
   GS: '10'
   Guide: false
   Number of Gamers: 4
-  Percentage of Gamers: 7%
-  Ratio: 3.7
-  TA: '37'
+  Percentage of Gamers: 6%
+  Ratio: 4.12
+  TA: '41'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -352,9 +505,9 @@ Base Game Achievements:
   GS: '10'
   Guide: false
   Number of Gamers: 3
-  Percentage of Gamers: 5%
-  Ratio: 4.28
-  TA: '42'
+  Percentage of Gamers: 4%
+  Ratio: 4.76
+  TA: '47'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -363,9 +516,9 @@ Base Game Achievements:
   GS: '10'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 2%
-  Ratio: 7.41
-  TA: '74'
+  Percentage of Gamers: 1%
+  Ratio: 8.24
+  TA: '82'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -374,9 +527,9 @@ Base Game Achievements:
   GS: '10'
   Guide: false
   Number of Gamers: 3
-  Percentage of Gamers: 5%
-  Ratio: 4.28
-  TA: '42'
+  Percentage of Gamers: 4%
+  Ratio: 4.76
+  TA: '47'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -384,9 +537,9 @@ Base Game Achievements:
   Description: Conquer the Forgotten Mine
   GS: '10'
   Guide: false
-  Number of Gamers: 5
+  Number of Gamers: 6
   Percentage of Gamers: 9%
-  Ratio: 3.31
+  Ratio: 3.36
   TA: '33'
   Tags:
   - Offline Game Mode
@@ -396,9 +549,9 @@ Base Game Achievements:
   GS: '10'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 2%
-  Ratio: 7.41
-  TA: '74'
+  Percentage of Gamers: 1%
+  Ratio: 8.24
+  TA: '82'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -407,9 +560,9 @@ Base Game Achievements:
   GS: '10'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 2%
-  Ratio: 7.41
-  TA: '74'
+  Percentage of Gamers: 1%
+  Ratio: 8.24
+  TA: '82'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -418,9 +571,9 @@ Base Game Achievements:
   GS: '50'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 2%
-  Ratio: 7.41
-  TA: '370'
+  Percentage of Gamers: 1%
+  Ratio: 8.24
+  TA: '412'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -440,9 +593,9 @@ Base Game Achievements:
   GS: '50'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 2%
-  Ratio: 7.41
-  TA: '370'
+  Percentage of Gamers: 1%
+  Ratio: 8.24
+  TA: '412'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -473,9 +626,9 @@ Base Game Achievements:
   GS: '50'
   Guide: false
   Number of Gamers: 4
-  Percentage of Gamers: 7%
-  Ratio: 3.7
-  TA: '185'
+  Percentage of Gamers: 6%
+  Ratio: 4.12
+  TA: '206'
   Tags:
   - Offline Mode
   - Single Player
@@ -484,10 +637,10 @@ Base Game Achievements:
   Description: Keep at least 50 middle class for 12 days
   GS: '50'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 5%
-  Ratio: 4.28
-  TA: '214'
+  Number of Gamers: 4
+  Percentage of Gamers: 6%
+  Ratio: 4.12
+  TA: '206'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -518,9 +671,9 @@ Base Game Achievements:
   GS: '50'
   Guide: false
   Number of Gamers: 2
-  Percentage of Gamers: 4%
-  Ratio: 5.24
-  TA: '262'
+  Percentage of Gamers: 3%
+  Ratio: 5.83
+  TA: '291'
   Tags:
   - Offline Mode
   - Single Player
@@ -549,21 +702,21 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 2.853
-Base TA: 2853
+Base Ratio: 3.083
+Base TA: 3083
 Delisted: false
 Developer: Cassel Games
 Game Name: Ratopia
 Genres: Management
-Install Size: 2040.0
+Install Size: 2370.0
 Number of Completions: 0
-Number of Gamers: 55
+Number of Gamers: 68
 Overall Completion Time:
 - -1
 - -1
-Overall GS: 1000
-Overall Ratio: 2.853
-Overall TA: 2853
+Overall GS: 1250
+Overall Ratio: 2.6952
+Overall TA: 3369
 PDU: 0
 Percentage Completed: 0.0
 Publisher: Cassel Games

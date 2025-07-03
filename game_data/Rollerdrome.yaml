@@ -1,15 +1,15 @@
 Add On Achievements: []
 Base Completion Time:
-- 8.0
-- 10.0
+- 5
+- 6
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Warming Up
   Description: Play through and finish the Entry Tests
   GS: '15'
-  Guide: true
-  Number of Gamers: 36031
-  Percentage of Gamers: 99%
+  Guide: false
+  Number of Gamers: 26
+  Percentage of Gamers: 96%
   Ratio: 1.0
   TA: '15'
   Tags:
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Finish your first Match
   GS: '20'
   Guide: false
-  Number of Gamers: 30043
-  Percentage of Gamers: 83%
-  Ratio: 1.09
-  TA: '21'
+  Number of Gamers: 20
+  Percentage of Gamers: 74%
+  Ratio: 1.14
+  TA: '22'
   Tags:
   - Offline Mode
   - Single Player
@@ -31,11 +31,11 @@ Base Game Achievements:
 - Achievement Name: Quarter Finalist
   Description: Reach the Quarters
   GS: '30'
-  Guide: true
-  Number of Gamers: 6448
-  Percentage of Gamers: 18%
-  Ratio: 2.37
-  TA: '71'
+  Guide: false
+  Number of Gamers: 10
+  Percentage of Gamers: 37%
+  Ratio: 1.61
+  TA: '48'
   Tags:
   - Offline Mode
   - Single Player
@@ -43,11 +43,11 @@ Base Game Achievements:
 - Achievement Name: Semi Finalist
   Description: Reach the Semis
   GS: '35'
-  Guide: true
-  Number of Gamers: 4003
-  Percentage of Gamers: 11%
-  Ratio: 3.01
-  TA: '105'
+  Guide: false
+  Number of Gamers: 6
+  Percentage of Gamers: 22%
+  Ratio: 2.08
+  TA: '72'
   Tags:
   - Offline Mode
   - Single Player
@@ -55,11 +55,11 @@ Base Game Achievements:
 - Achievement Name: Finalist
   Description: Reach the Final
   GS: '40'
-  Guide: true
-  Number of Gamers: 3190
-  Percentage of Gamers: 9%
-  Ratio: 3.37
-  TA: '134'
+  Guide: false
+  Number of Gamers: 5
+  Percentage of Gamers: 19%
+  Ratio: 2.28
+  TA: '91'
   Tags:
   - Offline Mode
   - Single Player
@@ -67,11 +67,11 @@ Base Game Achievements:
 - Achievement Name: Champion
   Description: Complete the main Campaign
   GS: '50'
-  Guide: true
-  Number of Gamers: 3133
-  Percentage of Gamers: 9%
-  Ratio: 3.4
-  TA: '170'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 15%
+  Ratio: 2.54
+  TA: '127'
   Tags:
   - Offline Mode
   - Single Player
@@ -80,33 +80,33 @@ Base Game Achievements:
 - Achievement Name: Untouchable
   Description: Finish a Match without taking any damage
   GS: '30'
-  Guide: true
-  Number of Gamers: 7289
-  Percentage of Gamers: 20%
-  Ratio: 2.23
-  TA: '66'
+  Guide: false
+  Number of Gamers: 15
+  Percentage of Gamers: 56%
+  Ratio: 1.31
+  TA: '39'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Half Way
   Description: Complete 50% of the Challenges in the main Campaign
   GS: '50'
-  Guide: true
-  Number of Gamers: 2990
-  Percentage of Gamers: 8%
-  Ratio: 3.48
-  TA: '174'
+  Guide: false
+  Number of Gamers: 6
+  Percentage of Gamers: 22%
+  Ratio: 2.08
+  TA: '104'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Completionist
   Description: Complete 100% of the Challenges in the main Campaign
   GS: '100'
-  Guide: true
-  Number of Gamers: 1215
-  Percentage of Gamers: 3%
-  Ratio: 5.46
-  TA: '546'
+  Guide: false
+  Number of Gamers: 3
+  Percentage of Gamers: 11%
+  Ratio: 2.94
+  TA: '294'
   Tags:
   - Offline Mode
   - Single Player
@@ -114,33 +114,33 @@ Base Game Achievements:
 - Achievement Name: Killstreak
   Description: Finish a Match in a single Combo
   GS: '30'
-  Guide: true
-  Number of Gamers: 7662
-  Percentage of Gamers: 21%
-  Ratio: 2.17
-  TA: '65'
+  Guide: false
+  Number of Gamers: 15
+  Percentage of Gamers: 56%
+  Ratio: 1.31
+  TA: '39'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: One for the Record Books
   Description: Perform a single Combo worth more than 3,000,000
   GS: '40'
-  Guide: true
-  Number of Gamers: 1343
-  Percentage of Gamers: 4%
-  Ratio: 5.19
-  TA: '207'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 15%
+  Ratio: 2.54
+  TA: '101'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Welcome to Rollerdrome
   Description: Finish a Match in the Out For Blood Campaign
   GS: '30'
-  Guide: true
-  Number of Gamers: 2418
-  Percentage of Gamers: 7%
-  Ratio: 3.87
-  TA: '116'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 15%
+  Ratio: 2.54
+  TA: '76'
   Tags:
   - Offline Mode
   - Single Player
@@ -148,11 +148,11 @@ Base Game Achievements:
 - Achievement Name: All in a Day's Work
   Description: Finish every Match in the Out For Blood Campaign
   GS: '50'
-  Guide: true
-  Number of Gamers: 1556
-  Percentage of Gamers: 4%
-  Ratio: 4.82
-  TA: '241'
+  Guide: false
+  Number of Gamers: 3
+  Percentage of Gamers: 11%
+  Ratio: 2.94
+  TA: '147'
   Tags:
   - Offline Mode
   - Single Player
@@ -160,11 +160,11 @@ Base Game Achievements:
 - Achievement Name: Glutton for Punishment
   Description: Complete 100% of the Challenges in the Out For Blood Campaign
   GS: '200'
-  Guide: true
-  Number of Gamers: 1147
-  Percentage of Gamers: 3%
-  Ratio: 5.62
-  TA: 1,124
+  Guide: false
+  Number of Gamers: 2
+  Percentage of Gamers: 7%
+  Ratio: 3.6
+  TA: '721'
   Tags:
   - Offline Mode
   - Single Player
@@ -173,55 +173,55 @@ Base Game Achievements:
 - Achievement Name: Never Outgunned
   Description: Beat the Spider Tank Mk. I without taking any damage
   GS: '50'
-  Guide: true
-  Number of Gamers: 2352
-  Percentage of Gamers: 6%
-  Ratio: 3.92
-  TA: '196'
+  Guide: false
+  Number of Gamers: 5
+  Percentage of Gamers: 19%
+  Ratio: 2.28
+  TA: '114'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Two Birds
   Description: Eliminate 2 House Players with a single Z-11 shot
   GS: '30'
-  Guide: true
-  Number of Gamers: 2323
-  Percentage of Gamers: 6%
-  Ratio: 3.95
-  TA: '118'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 15%
+  Ratio: 2.54
+  TA: '76'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Three's a Crowd
   Description: Eliminate 3 House Players with a single Grenade
   GS: '20'
-  Guide: true
-  Number of Gamers: 1991
-  Percentage of Gamers: 5%
-  Ratio: 4.26
-  TA: '85'
+  Guide: false
+  Number of Gamers: 7
+  Percentage of Gamers: 26%
+  Ratio: 1.92
+  TA: '38'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Slugger
   Description: Finish a level using only Slug Shots
   GS: '30'
-  Guide: true
-  Number of Gamers: 2709
-  Percentage of Gamers: 7%
-  Ratio: 3.65
-  TA: '109'
+  Guide: false
+  Number of Gamers: 7
+  Percentage of Gamers: 26%
+  Ratio: 1.92
+  TA: '57'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Ready for Anything
   Description: Complete every Tutorial exercise
   GS: '25'
-  Guide: true
-  Number of Gamers: 10642
-  Percentage of Gamers: 29%
-  Ratio: 1.84
-  TA: '46'
+  Guide: false
+  Number of Gamers: 15
+  Percentage of Gamers: 56%
+  Ratio: 1.31
+  TA: '32'
   Tags:
   - Offline Mode
   - Single Player
@@ -229,45 +229,45 @@ Base Game Achievements:
 - Achievement Name: Every Trick in the Book
   Description: Perform every Grab Trick in a single Match
   GS: '75'
-  Guide: true
-  Number of Gamers: 2534
-  Percentage of Gamers: 7%
-  Ratio: 3.78
-  TA: '283'
+  Guide: false
+  Number of Gamers: 6
+  Percentage of Gamers: 22%
+  Ratio: 2.08
+  TA: '156'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Strike A Pose
   Description: Perform every Grind in a single Match
   GS: '50'
-  Guide: true
-  Number of Gamers: 2425
-  Percentage of Gamers: 7%
-  Ratio: 3.86
-  TA: '193'
+  Guide: false
+  Number of Gamers: 6
+  Percentage of Gamers: 22%
+  Ratio: 2.08
+  TA: '104'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 4.085
-Base TA: 4085
-Delisted: true
+Base Ratio: 2.473
+Base TA: 2473
+Delisted: false
 Developer: Roll7
 Game Name: Rollerdrome
 Genres: Third Person Shooter, Sports, Skating
 Install Size: 4490.0
-Number of Completions: 1124
-Number of Gamers: 36312
+Number of Completions: 2
+Number of Gamers: 27
 Overall Completion Time:
-- 8.0
-- 10.0
+- 5
+- 6
 Overall GS: 1000
-Overall Ratio: 4.085
-Overall TA: 4085
+Overall Ratio: 2.473
+Overall TA: 2473
 PDU: 0
-Percentage Completed: 3.1
-Publisher: Private Division
-Release Date: 28 November 2023
+Percentage Completed: 7.41
+Publisher: 2K Games
+Release Date: 03 June 2025
 Server Closure: false
-Site Rating: 3.54
+Site Rating: 4.38
 Update Achievements: []
 Walkthrough: false

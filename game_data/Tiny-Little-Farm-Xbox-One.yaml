@@ -1,15 +1,15 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 1.0
-Base GS: 2000
+- 1.5
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: Something's Fishy!
   Description: "Reel in your first catch and prove you\u2019ve got the hook."
   GS: '100'
   Guide: false
-  Number of Gamers: 469
-  Percentage of Gamers: 98%
+  Number of Gamers: 780
+  Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '101'
   Tags:
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Add a feathered friend to your farm and start your poultry empire.
   GS: '100'
   Guide: false
-  Number of Gamers: 461
+  Number of Gamers: 766
   Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '102'
@@ -32,7 +32,7 @@ Base Game Achievements:
   Description: Rake in $1000 and watch your cash flow as smoothly as your crops grow.
   GS: '100'
   Guide: false
-  Number of Gamers: 468
+  Number of Gamers: 781
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '101'
@@ -45,7 +45,7 @@ Base Game Achievements:
     farm grow.
   GS: '100'
   Guide: false
-  Number of Gamers: 467
+  Number of Gamers: 779
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '101'
@@ -58,7 +58,7 @@ Base Game Achievements:
     big.
   GS: '100'
   Guide: false
-  Number of Gamers: 463
+  Number of Gamers: 772
   Percentage of Gamers: 96%
   Ratio: 1.01
   TA: '101'
@@ -70,7 +70,7 @@ Base Game Achievements:
   Description: Discover the radish and make your farm the root of all veggie joy.
   GS: '100'
   Guide: false
-  Number of Gamers: 478
+  Number of Gamers: 797
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -82,7 +82,7 @@ Base Game Achievements:
   Description: Unlock wheat and start sowing the seeds of success.
   GS: '100'
   Guide: false
-  Number of Gamers: 471
+  Number of Gamers: 787
   Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '100'
@@ -95,8 +95,8 @@ Base Game Achievements:
     adventure.
   GS: '100'
   Guide: false
-  Number of Gamers: 467
-  Percentage of Gamers: 97%
+  Number of Gamers: 783
+  Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '101'
   Tags:
@@ -107,7 +107,7 @@ Base Game Achievements:
   Description: Complete three quests and earn your place as a farm legend.
   GS: '100'
   Guide: false
-  Number of Gamers: 466
+  Number of Gamers: 777
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '101'
@@ -119,7 +119,7 @@ Base Game Achievements:
   Description: "Finish five quests and prove that you\u2019re the ultimate farm champion."
   GS: '100'
   Guide: false
-  Number of Gamers: 465
+  Number of Gamers: 776
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '101'
@@ -127,36 +127,36 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.0345
-Base TA: 2069
+Base Ratio: 1.0716666666666668
+Base TA: 3215
 Delisted: false
 Developer: Maria
 Game Name: Tiny Little Farm (Xbox One)
 Genres: Management
 Install Size: 385.0
-Number of Completions: 419
-Number of Gamers: 481
+Number of Completions: 574
+Number of Gamers: 802
 Overall Completion Time:
 - 0.0
-- 1.0
-Overall GS: 2000
-Overall Ratio: 1.0345
-Overall TA: 2069
+- 1.5
+Overall GS: 3000
+Overall Ratio: 1.0716666666666668
+Overall TA: 3215
 PDU: 0
-Percentage Completed: 87.11
+Percentage Completed: 71.57
 Publisher: Phoenix Reborn Games
 Release Date: 23 October 2024
 Server Closure: false
-Site Rating: 2.23
+Site Rating: 2.33
 Update Achievements:
 - Achievement Name: Farm Staycation
   Description: Spend 10 days at your farm
   GS: '200'
   Guide: false
-  Number of Gamers: 429
-  Percentage of Gamers: 89%
-  Ratio: 1.05
-  TA: '211'
+  Number of Gamers: 752
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '206'
   Tags:
   - Offline Mode
   - Single Player
@@ -165,10 +165,10 @@ Update Achievements:
   Description: Reach level 5
   GS: '200'
   Guide: false
-  Number of Gamers: 427
-  Percentage of Gamers: 89%
-  Ratio: 1.06
-  TA: '212'
+  Number of Gamers: 750
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '206'
   Tags:
   - Offline Mode
   - Single Player
@@ -177,10 +177,10 @@ Update Achievements:
   Description: Catch Tilapia
   GS: '200'
   Guide: true
-  Number of Gamers: 422
-  Percentage of Gamers: 88%
-  Ratio: 1.06
-  TA: '213'
+  Number of Gamers: 732
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '209'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -188,10 +188,10 @@ Update Achievements:
   Description: Have $1000 money
   GS: '200'
   Guide: false
-  Number of Gamers: 427
-  Percentage of Gamers: 89%
-  Ratio: 1.06
-  TA: '212'
+  Number of Gamers: 748
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '207'
   Tags:
   - Offline Mode
   - Single Player
@@ -200,11 +200,76 @@ Update Achievements:
   Description: Repair your furnace and get ready to whip up some hot recipes.
   GS: '200'
   Guide: false
-  Number of Gamers: 427
-  Percentage of Gamers: 89%
-  Ratio: 1.06
-  TA: '212'
+  Number of Gamers: 749
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '206'
   Tags:
   - Offline Game Mode
   - Single Player
+- Achievement Name: Sale Starter
+  Description: "Sell 5 items and prove your farm\u2019s got the goods to go commercial."
+  GS: '200'
+  Guide: false
+  Number of Gamers: 586
+  Percentage of Gamers: 73%
+  Ratio: 1.17
+  TA: '234'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Shop
+- Achievement Name: Deca-Deals
+  Description: Move 10 items off the shelf and watch your entrepreneurial spirit bloom.
+  GS: '200'
+  Guide: false
+  Number of Gamers: 583
+  Percentage of Gamers: 73%
+  Ratio: 1.17
+  TA: '234'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Shop
+- Achievement Name: Quin-Tastic Sales
+  Description: "Hit 15 sales\u2014now that\u2019s quint-essential farming hustle!"
+  GS: '200'
+  Guide: false
+  Number of Gamers: 583
+  Percentage of Gamers: 73%
+  Ratio: 1.17
+  TA: '234'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Shop
+- Achievement Name: Twenty-Twenty Trade
+  Description: "Clear 20 sales and see your farm\u2019s future in high definition."
+  GS: '200'
+  Guide: false
+  Number of Gamers: 582
+  Percentage of Gamers: 73%
+  Ratio: 1.17
+  TA: '235'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Shop
+- Achievement Name: Silver Seller
+  Description: Sell 25 items and polish your rep as a top-tier trading titan.
+  GS: '200'
+  Guide: true
+  Number of Gamers: 582
+  Percentage of Gamers: 73%
+  Ratio: 1.17
+  TA: '235'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Shop
 Walkthrough: false

@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- 103
-- 104
+- 59
+- 60
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: It's a good start
   Description: Produce a wine with quality 75+
   GS: '20'
   Guide: false
-  Number of Gamers: 37
-  Percentage of Gamers: 44%
-  Ratio: 1.49
-  TA: '29'
+  Number of Gamers: 46
+  Percentage of Gamers: 49%
+  Ratio: 1.42
+  TA: '28'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -19,10 +19,10 @@ Base Game Achievements:
   Description: Produce a barbera with quality 85+
   GS: '25'
   Guide: false
-  Number of Gamers: 21
-  Percentage of Gamers: 25%
-  Ratio: 1.98
-  TA: '49'
+  Number of Gamers: 28
+  Percentage of Gamers: 30%
+  Ratio: 1.83
+  TA: '45'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -30,10 +30,10 @@ Base Game Achievements:
   Description: Produce a chardonnay with quality 85+
   GS: '25'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 13%
-  Ratio: 2.74
-  TA: '68'
+  Number of Gamers: 16
+  Percentage of Gamers: 17%
+  Ratio: 2.42
+  TA: '60'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -41,10 +41,10 @@ Base Game Achievements:
   Description: Produce a nebbiolo with quality 85+
   GS: '25'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 6%
-  Ratio: 4.07
-  TA: '101'
+  Number of Gamers: 7
+  Percentage of Gamers: 7%
+  Ratio: 3.66
+  TA: '91'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -52,10 +52,10 @@ Base Game Achievements:
   Description: Produce a arneis with quality 85+
   GS: '25'
   Guide: false
-  Number of Gamers: 3
+  Number of Gamers: 4
   Percentage of Gamers: 4%
-  Ratio: 5.25
-  TA: '131'
+  Ratio: 4.84
+  TA: '121'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -63,10 +63,10 @@ Base Game Achievements:
   Description: Produce a cortese with quality 85+
   GS: '25'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 5%
-  Ratio: 4.55
-  TA: '113'
+  Number of Gamers: 6
+  Percentage of Gamers: 6%
+  Ratio: 3.95
+  TA: '98'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -74,10 +74,10 @@ Base Game Achievements:
   Description: Produce a dolcetto with quality 85+
   GS: '25'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 5%
-  Ratio: 4.55
-  TA: '113'
+  Number of Gamers: 6
+  Percentage of Gamers: 6%
+  Ratio: 3.95
+  TA: '98'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -85,10 +85,10 @@ Base Game Achievements:
   Description: Increase your fame to level 50
   GS: '25'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 17%
-  Ratio: 2.43
-  TA: '60'
+  Number of Gamers: 20
+  Percentage of Gamers: 21%
+  Ratio: 2.16
+  TA: '54'
   Tags:
   - Offline Mode
   - Single Player
@@ -97,10 +97,10 @@ Base Game Achievements:
   Description: Increase your fame to level 100
   GS: '75'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 6%
-  Ratio: 4.07
-  TA: '305'
+  Number of Gamers: 7
+  Percentage of Gamers: 7%
+  Ratio: 3.66
+  TA: '274'
   Tags:
   - Offline Mode
   - Single Player
@@ -109,10 +109,10 @@ Base Game Achievements:
   Description: Upgrade your winery to level 5
   GS: '25'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 6%
-  Ratio: 4.07
-  TA: '101'
+  Number of Gamers: 7
+  Percentage of Gamers: 7%
+  Ratio: 3.66
+  TA: '91'
   Tags:
   - Offline Mode
   - Single Player
@@ -121,10 +121,10 @@ Base Game Achievements:
   Description: Upgrade your warehouse to level 5
   GS: '25'
   Guide: false
-  Number of Gamers: 5
+  Number of Gamers: 6
   Percentage of Gamers: 6%
-  Ratio: 4.07
-  TA: '101'
+  Ratio: 3.95
+  TA: '98'
   Tags:
   - Offline Mode
   - Single Player
@@ -133,10 +133,10 @@ Base Game Achievements:
   Description: Upgrade your tool shed  to level 5
   GS: '25'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 5
   Percentage of Gamers: 5%
-  Ratio: 4.55
-  TA: '113'
+  Ratio: 4.33
+  TA: '108'
   Tags:
   - Offline Mode
   - Single Player
@@ -145,10 +145,10 @@ Base Game Achievements:
   Description: "Reach 250000\u20AC on your bank account"
   GS: '20'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 8%
-  Ratio: 3.44
-  TA: '68'
+  Number of Gamers: 11
+  Percentage of Gamers: 12%
+  Ratio: 2.92
+  TA: '58'
   Tags:
   - Offline Mode
   - Single Player
@@ -157,10 +157,10 @@ Base Game Achievements:
   Description: Become a Millionaire
   GS: '25'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 2%
-  Ratio: 6.44
-  TA: '161'
+  Number of Gamers: 3
+  Percentage of Gamers: 3%
+  Ratio: 5.59
+  TA: '139'
   Tags:
   - Offline Mode
   - Single Player
@@ -169,7 +169,7 @@ Base Game Achievements:
   Description: Complete "The Office"
   GS: '20'
   Guide: false
-  Number of Gamers: 83
+  Number of Gamers: 93
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '20'
@@ -181,10 +181,10 @@ Base Game Achievements:
   Description: Meet Sophie
   GS: '20'
   Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 37%
-  Ratio: 1.63
-  TA: '32'
+  Number of Gamers: 40
+  Percentage of Gamers: 43%
+  Ratio: 1.53
+  TA: '30'
   Tags:
   - Offline Mode
   - Single Player
@@ -193,10 +193,10 @@ Base Game Achievements:
   Description: Meet Agata
   GS: '20'
   Guide: false
-  Number of Gamers: 29
-  Percentage of Gamers: 35%
-  Ratio: 1.69
-  TA: '33'
+  Number of Gamers: 38
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '31'
   Tags:
   - Offline Mode
   - Single Player
@@ -205,10 +205,10 @@ Base Game Achievements:
   Description: Meet Andrea
   GS: '25'
   Guide: false
-  Number of Gamers: 28
-  Percentage of Gamers: 33%
-  Ratio: 1.72
-  TA: '43'
+  Number of Gamers: 37
+  Percentage of Gamers: 39%
+  Ratio: 1.59
+  TA: '39'
   Tags:
   - Offline Mode
   - Single Player
@@ -217,10 +217,10 @@ Base Game Achievements:
   Description: Complete the Story
   GS: '100'
   Guide: false
-  Number of Gamers: 25
-  Percentage of Gamers: 30%
-  Ratio: 1.82
-  TA: '182'
+  Number of Gamers: 34
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '166'
   Tags:
   - Offline Mode
   - Single Player
@@ -229,10 +229,10 @@ Base Game Achievements:
   Description: Quality is not important, right?
   GS: '20'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 17%
-  Ratio: 2.43
-  TA: '48'
+  Number of Gamers: 18
+  Percentage of Gamers: 19%
+  Ratio: 2.28
+  TA: '45'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -240,10 +240,10 @@ Base Game Achievements:
   Description: Experiment with the flavor of your wines
   GS: '20'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 11%
-  Ratio: 3.03
-  TA: '60'
+  Number of Gamers: 14
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '51'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -251,10 +251,10 @@ Base Game Achievements:
   Description: Experiment with the flavor of your wines
   GS: '20'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 10%
-  Ratio: 3.22
-  TA: '64'
+  Number of Gamers: 10
+  Percentage of Gamers: 11%
+  Ratio: 3.06
+  TA: '61'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -262,10 +262,10 @@ Base Game Achievements:
   Description: Experiment with the flavor of your wines
   GS: '20'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 5
   Percentage of Gamers: 5%
-  Ratio: 4.55
-  TA: '91'
+  Ratio: 4.33
+  TA: '86'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -273,10 +273,10 @@ Base Game Achievements:
   Description: Complete "King of red wines"
   GS: '20'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 5%
-  Ratio: 4.55
-  TA: '91'
+  Number of Gamers: 6
+  Percentage of Gamers: 6%
+  Ratio: 3.95
+  TA: '79'
   Tags:
   - Offline Mode
   - Single Player
@@ -285,10 +285,10 @@ Base Game Achievements:
   Description: Complete "King of white wines"
   GS: '20'
   Guide: false
-  Number of Gamers: 3
+  Number of Gamers: 4
   Percentage of Gamers: 4%
-  Ratio: 5.25
-  TA: '105'
+  Ratio: 4.84
+  TA: '96'
   Tags:
   - Offline Mode
   - Single Player
@@ -297,10 +297,10 @@ Base Game Achievements:
   Description: Complete "Sales Expert"
   GS: '30'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 2%
-  Ratio: 6.44
-  TA: '193'
+  Number of Gamers: 3
+  Percentage of Gamers: 3%
+  Ratio: 5.59
+  TA: '167'
   Tags:
   - Offline Mode
   - Single Player
@@ -309,10 +309,10 @@ Base Game Achievements:
   Description: Complete "Big deals"
   GS: '30'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 2%
-  Ratio: 6.44
-  TA: '193'
+  Number of Gamers: 3
+  Percentage of Gamers: 3%
+  Ratio: 5.59
+  TA: '167'
   Tags:
   - Offline Mode
   - Single Player
@@ -321,10 +321,10 @@ Base Game Achievements:
   Description: Complete "Master Winemaker"
   GS: '75'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 1%
-  Ratio: 9.11
-  TA: '683'
+  Number of Gamers: 2
+  Percentage of Gamers: 2%
+  Ratio: 6.85
+  TA: '514'
   Tags:
   - Offline Mode
   - Single Player
@@ -333,10 +333,10 @@ Base Game Achievements:
   Description: Produce a wine with quality 100
   GS: '75'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 10%
-  Ratio: 3.22
-  TA: '241'
+  Number of Gamers: 11
+  Percentage of Gamers: 12%
+  Ratio: 2.92
+  TA: '219'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -344,10 +344,10 @@ Base Game Achievements:
   Description: Complete "Unsuitable Terroir"
   GS: '75'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 1%
-  Ratio: 9.11
-  TA: '683'
+  Number of Gamers: 2
+  Percentage of Gamers: 2%
+  Ratio: 6.85
+  TA: '514'
   Tags:
   - Offline Mode
   - Single Player
@@ -356,33 +356,33 @@ Base Game Achievements:
   Description: Make a new friend
   GS: '20'
   Guide: false
-  Number of Gamers: 45
-  Percentage of Gamers: 54%
-  Ratio: 1.35
-  TA: '27'
+  Number of Gamers: 56
+  Percentage of Gamers: 60%
+  Ratio: 1.29
+  TA: '25'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 4.302
-Base TA: 4302
+Base Ratio: 3.673
+Base TA: 3673
 Delisted: false
 Developer: Broken Arms Games
 Game Name: Hundred Days - Winemaking Simulator
 Genres: Simulation
 Install Size: 2330.0
-Number of Completions: 1
-Number of Gamers: 84
+Number of Completions: 2
+Number of Gamers: 94
 Overall Completion Time:
-- 103
-- 104
+- 59
+- 60
 Overall GS: 1000
-Overall Ratio: 4.302
-Overall TA: 4302
+Overall Ratio: 3.673
+Overall TA: 3673
 PDU: 0
-Percentage Completed: 1.19
+Percentage Completed: 2.13
 Publisher: Broken Arms Games
 Release Date: 30 August 2023
 Server Closure: false
-Site Rating: 4.25
+Site Rating: 4.5
 Update Achievements: []
 Walkthrough: false

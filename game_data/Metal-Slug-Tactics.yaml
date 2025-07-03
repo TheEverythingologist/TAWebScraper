@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- 102
-- 103
+- 60.0
+- 80.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Optimization
   Description: Launch 3 Special Actions in 1 turn with Marco.
   GS: '10'
   Guide: false
-  Number of Gamers: 1896
-  Percentage of Gamers: 14%
-  Ratio: 2.71
-  TA: '27'
+  Number of Gamers: 2147
+  Percentage of Gamers: 13%
+  Ratio: 2.8
+  TA: '28'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -19,10 +19,10 @@ Base Game Achievements:
   Description: Deal 15 Health Points of damage in 1 attack with Marco (excluding syncs).
   GS: '10'
   Guide: true
-  Number of Gamers: 7574
-  Percentage of Gamers: 54%
-  Ratio: 1.35
-  TA: '13'
+  Number of Gamers: 10464
+  Percentage of Gamers: 62%
+  Ratio: 1.27
+  TA: '12'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -30,9 +30,9 @@ Base Game Achievements:
   Description: Win a run with Marco.
   GS: '10'
   Guide: false
-  Number of Gamers: 1545
+  Number of Gamers: 1786
   Percentage of Gamers: 11%
-  Ratio: 3.0
+  Ratio: 3.07
   TA: '30'
   Tags:
   - Offline Game Mode
@@ -41,10 +41,10 @@ Base Game Achievements:
   Description: Unlock Marco's epilogue.
   GS: '50'
   Guide: true
-  Number of Gamers: 76
+  Number of Gamers: 111
   Percentage of Gamers: 1%
-  Ratio: 13.54
-  TA: '677'
+  Ratio: 12.36
+  TA: '618'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -52,10 +52,10 @@ Base Game Achievements:
   Description: Kill 4 enemies in 1 Special Action with Eri.
   GS: '10'
   Guide: true
-  Number of Gamers: 464
+  Number of Gamers: 557
   Percentage of Gamers: 3%
-  Ratio: 5.48
-  TA: '54'
+  Ratio: 5.51
+  TA: '55'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -63,10 +63,10 @@ Base Game Achievements:
   Description: Deal damage to 5 different enemies in 1 turn with Eri.
   GS: '10'
   Guide: false
-  Number of Gamers: 4053
-  Percentage of Gamers: 29%
-  Ratio: 1.85
-  TA: '18'
+  Number of Gamers: 4524
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '19'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -74,9 +74,9 @@ Base Game Achievements:
   Description: Win a run with Eri.
   GS: '10'
   Guide: false
-  Number of Gamers: 1535
-  Percentage of Gamers: 11%
-  Ratio: 3.01
+  Number of Gamers: 1773
+  Percentage of Gamers: 10%
+  Ratio: 3.08
   TA: '30'
   Tags:
   - Offline Game Mode
@@ -85,10 +85,10 @@ Base Game Achievements:
   Description: Unlock Eri's epilogue.
   GS: '50'
   Guide: true
-  Number of Gamers: 72
+  Number of Gamers: 109
   Percentage of Gamers: 1%
-  Ratio: 13.91
-  TA: '695'
+  Ratio: 12.48
+  TA: '624'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -96,10 +96,10 @@ Base Game Achievements:
   Description: Unlock all the regions in the game.
   GS: '10'
   Guide: false
-  Number of Gamers: 2266
-  Percentage of Gamers: 16%
-  Ratio: 2.48
-  TA: '24'
+  Number of Gamers: 2567
+  Percentage of Gamers: 15%
+  Ratio: 2.56
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
@@ -108,9 +108,9 @@ Base Game Achievements:
   Description: Kill 3 enemies in 1 Special Action with Tarma.
   GS: '10'
   Guide: true
-  Number of Gamers: 307
+  Number of Gamers: 370
   Percentage of Gamers: 2%
-  Ratio: 6.73
+  Ratio: 6.77
   TA: '67'
   Tags:
   - Offline Game Mode
@@ -119,10 +119,10 @@ Base Game Achievements:
   Description: Reach 8 Dodge points with Tarma.
   GS: '10'
   Guide: false
-  Number of Gamers: 609
+  Number of Gamers: 718
   Percentage of Gamers: 4%
-  Ratio: 4.78
-  TA: '47'
+  Ratio: 4.85
+  TA: '48'
   Tags:
   - Offline Mode
   - Single Player
@@ -131,9 +131,9 @@ Base Game Achievements:
   Description: Win a run with Tarma.
   GS: '10'
   Guide: false
-  Number of Gamers: 790
-  Percentage of Gamers: 6%
-  Ratio: 4.2
+  Number of Gamers: 929
+  Percentage of Gamers: 5%
+  Ratio: 4.26
   TA: '42'
   Tags:
   - Offline Game Mode
@@ -142,10 +142,10 @@ Base Game Achievements:
   Description: Unlock Tarma's epilogue.
   GS: '50'
   Guide: true
-  Number of Gamers: 60
-  Percentage of Gamers: 0%
-  Ratio: 15.24
-  TA: '762'
+  Number of Gamers: 95
+  Percentage of Gamers: 1%
+  Ratio: 13.45
+  TA: '672'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -153,10 +153,10 @@ Base Game Achievements:
   Description: Launch Nudge twice in 1 turn with Fio.
   GS: '10'
   Guide: false
-  Number of Gamers: 1755
-  Percentage of Gamers: 13%
-  Ratio: 2.81
-  TA: '28'
+  Number of Gamers: 1973
+  Percentage of Gamers: 12%
+  Ratio: 2.92
+  TA: '29'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -164,9 +164,9 @@ Base Game Achievements:
   Description: Fire Fio's weapons 3 times in a turn.
   GS: '10'
   Guide: true
-  Number of Gamers: 9385
-  Percentage of Gamers: 67%
-  Ratio: 1.21
+  Number of Gamers: 10408
+  Percentage of Gamers: 61%
+  Ratio: 1.27
   TA: '12'
   Tags:
   - Offline Game Mode
@@ -175,10 +175,10 @@ Base Game Achievements:
   Description: Win a run with Fio.
   GS: '10'
   Guide: false
-  Number of Gamers: 1518
-  Percentage of Gamers: 11%
-  Ratio: 3.03
-  TA: '30'
+  Number of Gamers: 1753
+  Percentage of Gamers: 10%
+  Ratio: 3.1
+  TA: '31'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -186,10 +186,10 @@ Base Game Achievements:
   Description: Unlock Fio's epilogue.
   GS: '50'
   Guide: true
-  Number of Gamers: 62
-  Percentage of Gamers: 0%
-  Ratio: 14.99
-  TA: '749'
+  Number of Gamers: 100
+  Percentage of Gamers: 1%
+  Ratio: 13.03
+  TA: '651'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -197,9 +197,9 @@ Base Game Achievements:
   Description: Win a run having completed 2 regions in total.
   GS: '10'
   Guide: false
-  Number of Gamers: 770
-  Percentage of Gamers: 6%
-  Ratio: 4.25
+  Number of Gamers: 923
+  Percentage of Gamers: 5%
+  Ratio: 4.29
   TA: '42'
   Tags:
   - Offline Game Mode
@@ -207,11 +207,11 @@ Base Game Achievements:
 - Achievement Name: My Own Little Army
   Description: Apply Mind Control to 4 enemies in 1 turn with Trevor.
   GS: '10'
-  Guide: true
-  Number of Gamers: 105
+  Guide: false
+  Number of Gamers: 141
   Percentage of Gamers: 1%
-  Ratio: 11.52
-  TA: '115'
+  Ratio: 10.96
+  TA: '109'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -219,10 +219,10 @@ Base Game Achievements:
   Description: Hit 4 separate targets in 1 turn with Trevor.
   GS: '10'
   Guide: true
-  Number of Gamers: 419
+  Number of Gamers: 503
   Percentage of Gamers: 3%
-  Ratio: 5.76
-  TA: '57'
+  Ratio: 5.81
+  TA: '58'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -230,10 +230,10 @@ Base Game Achievements:
   Description: Win a run with Trevor.
   GS: '10'
   Guide: false
-  Number of Gamers: 519
+  Number of Gamers: 620
   Percentage of Gamers: 4%
-  Ratio: 5.18
-  TA: '51'
+  Ratio: 5.22
+  TA: '52'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -241,10 +241,10 @@ Base Game Achievements:
   Description: Unlock Trevor's epilogue.
   GS: '50'
   Guide: true
-  Number of Gamers: 57
-  Percentage of Gamers: 0%
-  Ratio: 15.64
-  TA: '782'
+  Number of Gamers: 94
+  Percentage of Gamers: 1%
+  Ratio: 13.45
+  TA: '672'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -252,10 +252,10 @@ Base Game Achievements:
   Description: Win a run with 6 different characters.
   GS: '10'
   Guide: true
-  Number of Gamers: 503
+  Number of Gamers: 598
   Percentage of Gamers: 4%
-  Ratio: 5.26
-  TA: '52'
+  Ratio: 5.31
+  TA: '53'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -263,10 +263,10 @@ Base Game Achievements:
   Description: Deal damage to 5 different enemies in 1 turn with Nadia and her bots.
   GS: '10'
   Guide: true
-  Number of Gamers: 266
+  Number of Gamers: 337
   Percentage of Gamers: 2%
-  Ratio: 7.24
-  TA: '72'
+  Ratio: 7.11
+  TA: '71'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -275,10 +275,10 @@ Base Game Achievements:
     Mines alone.
   GS: '10'
   Guide: true
-  Number of Gamers: 146
+  Number of Gamers: 192
   Percentage of Gamers: 1%
-  Ratio: 9.77
-  TA: '97'
+  Ratio: 9.46
+  TA: '94'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -286,9 +286,9 @@ Base Game Achievements:
   Description: Win a run with Nadia.
   GS: '10'
   Guide: false
-  Number of Gamers: 407
+  Number of Gamers: 494
   Percentage of Gamers: 3%
-  Ratio: 5.85
+  Ratio: 5.86
   TA: '58'
   Tags:
   - Offline Game Mode
@@ -297,10 +297,10 @@ Base Game Achievements:
   Description: Unlock Nadia's epilogue.
   GS: '50'
   Guide: true
-  Number of Gamers: 58
-  Percentage of Gamers: 0%
-  Ratio: 15.5
-  TA: '775'
+  Number of Gamers: 94
+  Percentage of Gamers: 1%
+  Ratio: 13.45
+  TA: '672'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -308,10 +308,10 @@ Base Game Achievements:
   Description: Win a run having completed 4 regions in total.
   GS: '10'
   Guide: false
-  Number of Gamers: 1209
-  Percentage of Gamers: 9%
-  Ratio: 3.39
-  TA: '33'
+  Number of Gamers: 1403
+  Percentage of Gamers: 8%
+  Ratio: 3.47
+  TA: '34'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -319,9 +319,9 @@ Base Game Achievements:
   Description: Deal 15 Health Points of damage in 1 special action with Ralf.
   GS: '10'
   Guide: false
-  Number of Gamers: 509
+  Number of Gamers: 606
   Percentage of Gamers: 4%
-  Ratio: 5.23
+  Ratio: 5.28
   TA: '52'
   Tags:
   - Offline Game Mode
@@ -330,9 +330,9 @@ Base Game Achievements:
   Description: Regain 2 Action Points in 1 turn with Ralf.
   GS: '10'
   Guide: true
-  Number of Gamers: 604
+  Number of Gamers: 713
   Percentage of Gamers: 4%
-  Ratio: 4.8
+  Ratio: 4.87
   TA: '48'
   Tags:
   - Offline Game Mode
@@ -341,9 +341,9 @@ Base Game Achievements:
   Description: Win a run with Ralf.
   GS: '10'
   Guide: false
-  Number of Gamers: 605
+  Number of Gamers: 721
   Percentage of Gamers: 4%
-  Ratio: 4.8
+  Ratio: 4.84
   TA: '48'
   Tags:
   - Offline Game Mode
@@ -352,10 +352,10 @@ Base Game Achievements:
   Description: Unlock Ralf's epilogue.
   GS: '50'
   Guide: true
-  Number of Gamers: 54
-  Percentage of Gamers: 0%
-  Ratio: 16.06
-  TA: '803'
+  Number of Gamers: 89
+  Percentage of Gamers: 1%
+  Ratio: 13.82
+  TA: '691'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -363,7 +363,7 @@ Base Game Achievements:
   Description: Win a run with 8 different characters.
   GS: '10'
   Guide: false
-  Number of Gamers: 377
+  Number of Gamers: 459
   Percentage of Gamers: 3%
   Ratio: 6.08
   TA: '60'
@@ -374,21 +374,21 @@ Base Game Achievements:
   Description: Have 3 Afterimages in play simultaneously.
   GS: '10'
   Guide: false
-  Number of Gamers: 328
+  Number of Gamers: 407
   Percentage of Gamers: 2%
-  Ratio: 6.52
-  TA: '65'
+  Ratio: 6.46
+  TA: '64'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Fractal
   Description: Trigger a synchronization with 3 Afterimages participating.
   GS: '10'
-  Guide: false
-  Number of Gamers: 220
+  Guide: true
+  Number of Gamers: 275
   Percentage of Gamers: 2%
-  Ratio: 7.96
-  TA: '79'
+  Ratio: 7.85
+  TA: '78'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -396,10 +396,10 @@ Base Game Achievements:
   Description: Win a run with Leona.
   GS: '10'
   Guide: false
-  Number of Gamers: 289
+  Number of Gamers: 357
   Percentage of Gamers: 2%
-  Ratio: 6.94
-  TA: '69'
+  Ratio: 6.89
+  TA: '68'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -407,10 +407,10 @@ Base Game Achievements:
   Description: Unlock Leona's epilogue.
   GS: '50'
   Guide: true
-  Number of Gamers: 52
-  Percentage of Gamers: 0%
-  Ratio: 16.37
-  TA: '818'
+  Number of Gamers: 92
+  Percentage of Gamers: 1%
+  Ratio: 13.67
+  TA: '683'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -418,10 +418,10 @@ Base Game Achievements:
   Description: Win a run having completed 3 regions in total.
   GS: '10'
   Guide: false
-  Number of Gamers: 812
+  Number of Gamers: 938
   Percentage of Gamers: 6%
-  Ratio: 4.14
-  TA: '41'
+  Ratio: 4.24
+  TA: '42'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -430,10 +430,10 @@ Base Game Achievements:
     5 turns or more.
   GS: '10'
   Guide: true
-  Number of Gamers: 87
+  Number of Gamers: 124
   Percentage of Gamers: 1%
-  Ratio: 12.66
-  TA: '126'
+  Ratio: 11.74
+  TA: '117'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -442,9 +442,9 @@ Base Game Achievements:
     Clark.
   GS: '10'
   Guide: true
-  Number of Gamers: 219
+  Number of Gamers: 273
   Percentage of Gamers: 2%
-  Ratio: 7.97
+  Ratio: 7.9
   TA: '79'
   Tags:
   - Offline Game Mode
@@ -453,10 +453,10 @@ Base Game Achievements:
   Description: Win a run with Clark.
   GS: '10'
   Guide: false
-  Number of Gamers: 499
-  Percentage of Gamers: 4%
-  Ratio: 5.28
-  TA: '52'
+  Number of Gamers: 592
+  Percentage of Gamers: 3%
+  Ratio: 5.35
+  TA: '53'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -464,21 +464,21 @@ Base Game Achievements:
   Description: Unlock Clark's epilogue.
   GS: '50'
   Guide: true
-  Number of Gamers: 42
+  Number of Gamers: 82
   Percentage of Gamers: 0%
-  Ratio: 18.22
-  TA: '911'
+  Ratio: 14.41
+  TA: '720'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Finally Caught You
   Description: Get the true ending.
   GS: '60'
-  Guide: false
-  Number of Gamers: 172
+  Guide: true
+  Number of Gamers: 222
   Percentage of Gamers: 1%
-  Ratio: 9.0
-  TA: '540'
+  Ratio: 8.72
+  TA: '523'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -486,10 +486,10 @@ Base Game Achievements:
   Description: Get all the inter-team dialogs.
   GS: '60'
   Guide: true
-  Number of Gamers: 43
+  Number of Gamers: 84
   Percentage of Gamers: 0%
-  Ratio: 18.0
-  TA: 1,080
+  Ratio: 14.23
+  TA: '854'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -497,10 +497,10 @@ Base Game Achievements:
   Description: Meet all of Morden's generals.
   GS: '30'
   Guide: false
-  Number of Gamers: 206
-  Percentage of Gamers: 1%
-  Ratio: 8.22
-  TA: '246'
+  Number of Gamers: 256
+  Percentage of Gamers: 2%
+  Ratio: 8.15
+  TA: '244'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -508,10 +508,10 @@ Base Game Achievements:
   Description: Defeat Morden with Reinforcement maxed out.
   GS: '30'
   Guide: true
-  Number of Gamers: 130
+  Number of Gamers: 175
   Percentage of Gamers: 1%
-  Ratio: 10.35
-  TA: '310'
+  Ratio: 9.83
+  TA: '295'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -519,10 +519,10 @@ Base Game Achievements:
   Description: Defeat all region bosses once.
   GS: '10'
   Guide: false
-  Number of Gamers: 103
-  Percentage of Gamers: 1%
-  Ratio: 11.63
-  TA: '116'
+  Number of Gamers: 378
+  Percentage of Gamers: 2%
+  Ratio: 6.79
+  TA: '67'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -530,33 +530,33 @@ Base Game Achievements:
   Description: Defeat Morden after first completing all regions.
   GS: '30'
   Guide: false
-  Number of Gamers: 172
+  Number of Gamers: 222
   Percentage of Gamers: 1%
-  Ratio: 9.0
-  TA: '270'
+  Ratio: 8.72
+  TA: '261'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 11.252
-Base TA: 11252
+Base Ratio: 9.955
+Base TA: 9955
 Delisted: false
 Developer: Leikir Studio
 Game Name: Metal Slug Tactics
 Genres: Role Playing, Strategy, Turn Based
 Install Size: 1220.0
-Number of Completions: 30
-Number of Gamers: 13944
+Number of Completions: 73
+Number of Gamers: 16939
 Overall Completion Time:
-- 102
-- 103
+- 60.0
+- 80.0
 Overall GS: 1000
-Overall Ratio: 11.252
-Overall TA: 11252
+Overall Ratio: 9.955
+Overall TA: 9955
 PDU: 0
-Percentage Completed: 0.22
+Percentage Completed: 0.43
 Publisher: Dotemu
 Release Date: 05 November 2024
 Server Closure: false
-Site Rating: 3.5
+Site Rating: 3.42
 Update Achievements: []
 Walkthrough: false

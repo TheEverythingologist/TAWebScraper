@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 50
-- 50
+- 52
+- 53
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Fetch This
   Description: Complete an Event
   GS: '5'
   Guide: true
-  Number of Gamers: 5531
+  Number of Gamers: 5944
   Percentage of Gamers: 93%
   Ratio: 1.03
   TA: '5'
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Claim a region for your capital
   GS: '5'
   Guide: true
-  Number of Gamers: 5916
+  Number of Gamers: 6343
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '5'
@@ -32,9 +32,9 @@ Base Game Achievements:
   Description: Reach Act 2
   GS: '10'
   Guide: false
-  Number of Gamers: 1857
+  Number of Gamers: 1973
   Percentage of Gamers: 31%
-  Ratio: 1.78
+  Ratio: 1.79
   TA: '17'
   Tags:
   - Online/Offline
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: See if he is a good boy
   GS: '10'
   Guide: true
-  Number of Gamers: 191
+  Number of Gamers: 215
   Percentage of Gamers: 3%
-  Ratio: 5.57
-  TA: '55'
+  Ratio: 5.44
+  TA: '54'
   Tags:
   - Online/Offline
   - Single Player
@@ -56,7 +56,7 @@ Base Game Achievements:
   Description: Clear 10 caches with a Scout
   GS: '10'
   Guide: true
-  Number of Gamers: 4475
+  Number of Gamers: 4804
   Percentage of Gamers: 75%
   Ratio: 1.15
   TA: '11'
@@ -69,9 +69,9 @@ Base Game Achievements:
   Description: Construct a Triumph
   GS: '10'
   Guide: false
-  Number of Gamers: 2407
+  Number of Gamers: 2533
   Percentage of Gamers: 40%
-  Ratio: 1.56
+  Ratio: 1.58
   TA: '15'
   Tags:
   - Online/Offline
@@ -81,9 +81,9 @@ Base Game Achievements:
   Description: Reach Act 3
   GS: '10'
   Guide: false
-  Number of Gamers: 775
+  Number of Gamers: 819
   Percentage of Gamers: 13%
-  Ratio: 2.76
+  Ratio: 2.78
   TA: '27'
   Tags:
   - Online/Offline
@@ -93,7 +93,7 @@ Base Game Achievements:
   Description: Create any Masterpiece
   GS: '10'
   Guide: false
-  Number of Gamers: 2940
+  Number of Gamers: 3141
   Percentage of Gamers: 49%
   Ratio: 1.42
   TA: '14'
@@ -105,9 +105,9 @@ Base Game Achievements:
   Description: Found a custom Religion
   GS: '10'
   Guide: false
-  Number of Gamers: 739
+  Number of Gamers: 789
   Percentage of Gamers: 12%
-  Ratio: 2.83
+  Ratio: 2.84
   TA: '28'
   Tags:
   - Online/Offline
@@ -117,9 +117,9 @@ Base Game Achievements:
   Description: Win any war in a single player game
   GS: '10'
   Guide: false
-  Number of Gamers: 1762
-  Percentage of Gamers: 30%
-  Ratio: 1.83
+  Number of Gamers: 1865
+  Percentage of Gamers: 29%
+  Ratio: 1.84
   TA: '18'
   Tags:
   - Offline Mode
@@ -129,7 +129,7 @@ Base Game Achievements:
   Description: Raze a City
   GS: '10'
   Guide: true
-  Number of Gamers: 1059
+  Number of Gamers: 1134
   Percentage of Gamers: 18%
   Ratio: 2.36
   TA: '23'
@@ -141,10 +141,10 @@ Base Game Achievements:
   Description: Completely fill your Adviser roles
   GS: '10'
   Guide: false
-  Number of Gamers: 818
+  Number of Gamers: 895
   Percentage of Gamers: 14%
-  Ratio: 2.7
-  TA: '27'
+  Ratio: 2.66
+  TA: '26'
   Tags:
   - Online/Offline
   - Single Player
@@ -153,10 +153,10 @@ Base Game Achievements:
   Description: While at war, join an alliance with another nation (single player only)
   GS: '10'
   Guide: false
-  Number of Gamers: 932
+  Number of Gamers: 1049
   Percentage of Gamers: 16%
-  Ratio: 2.53
-  TA: '25'
+  Ratio: 2.46
+  TA: '24'
   Tags:
   - Online/Offline
   - Single Player
@@ -165,10 +165,10 @@ Base Game Achievements:
   Description: Win a multiplayer game
   GS: '20'
   Guide: true
-  Number of Gamers: 33
+  Number of Gamers: 39
   Percentage of Gamers: 1%
-  Ratio: 13.37
-  TA: '267'
+  Ratio: 12.77
+  TA: '255'
   Tags:
   - Online/Offline
   - Single Player
@@ -176,10 +176,10 @@ Base Game Achievements:
 - Achievement Name: Wizards on the Coasts
   Description: Have a city on the coastline where Wicca is the dominant Religion
   GS: '10'
-  Guide: false
-  Number of Gamers: 490
+  Guide: true
+  Number of Gamers: 540
   Percentage of Gamers: 8%
-  Ratio: 3.48
+  Ratio: 3.43
   TA: '34'
   Tags:
   - Online/Offline
@@ -189,23 +189,23 @@ Base Game Achievements:
   Description: Hold over 100 Ceramic Pots
   GS: '20'
   Guide: false
-  Number of Gamers: 866
+  Number of Gamers: 937
   Percentage of Gamers: 15%
-  Ratio: 2.61
+  Ratio: 2.6
   TA: '52'
   Tags:
   - Online/Offline
   - Single Player
   - Versus
-  - Cumulative +
+  - Cumulative
 - Achievement Name: Hannibal, Take Notes
   Description: Use an Elephant Unit in a Force that captures a city in a snowy Region
   GS: '20'
   Guide: false
-  Number of Gamers: 227
+  Number of Gamers: 245
   Percentage of Gamers: 4%
-  Ratio: 5.11
-  TA: '102'
+  Ratio: 5.09
+  TA: '101'
   Tags:
   - Online/Offline
   - Single Player
@@ -214,10 +214,10 @@ Base Game Achievements:
   Description: Place a Great Musician in a fleet with a Frigate
   GS: '20'
   Guide: false
-  Number of Gamers: 50
+  Number of Gamers: 60
   Percentage of Gamers: 1%
-  Ratio: 10.97
-  TA: '219'
+  Ratio: 10.29
+  TA: '205'
   Tags:
   - Online/Offline
   - Single Player
@@ -227,10 +227,10 @@ Base Game Achievements:
     within its borders
   GS: '20'
   Guide: false
-  Number of Gamers: 42
+  Number of Gamers: 50
   Percentage of Gamers: 1%
-  Ratio: 11.85
-  TA: '237'
+  Ratio: 11.28
+  TA: '225'
   Tags:
   - Online/Offline
   - Single Player
@@ -239,10 +239,10 @@ Base Game Achievements:
   Description: As Sappho, build the Library of Celsus in any snowy Biome
   GS: '20'
   Guide: true
-  Number of Gamers: 35
+  Number of Gamers: 41
   Percentage of Gamers: 1%
-  Ratio: 12.98
-  TA: '259'
+  Ratio: 12.45
+  TA: '249'
   Tags:
   - Online/Offline
   - Single Player
@@ -251,10 +251,10 @@ Base Game Achievements:
   Description: As China, win a war with Zhuge Liang, Sun Tzu, or Pingyang in an army
   GS: '20'
   Guide: false
-  Number of Gamers: 24
-  Percentage of Gamers: 0%
-  Ratio: 16.02
-  TA: '320'
+  Number of Gamers: 32
+  Percentage of Gamers: 1%
+  Ratio: 14.1
+  TA: '282'
   Tags:
   - Online/Offline
   - Single Player
@@ -263,7 +263,7 @@ Base Game Achievements:
   Description: As Copernicus, research Optics before any other nation
   GS: '20'
   Guide: false
-  Number of Gamers: 128
+  Number of Gamers: 138
   Percentage of Gamers: 2%
   Ratio: 6.79
   TA: '135'
@@ -275,10 +275,10 @@ Base Game Achievements:
   Description: On a single map, have full visibility on all ocean regions
   GS: '20'
   Guide: true
-  Number of Gamers: 14
+  Number of Gamers: 24
   Percentage of Gamers: 0%
-  Ratio: 20.53
-  TA: '410'
+  Ratio: 16.28
+  TA: '325'
   Tags:
   - Online/Offline
   - Single Player
@@ -287,10 +287,10 @@ Base Game Achievements:
   Description: Have a city with Prosperity in the top tier and Security at the lowest
   GS: '20'
   Guide: false
-  Number of Gamers: 150
+  Number of Gamers: 168
   Percentage of Gamers: 3%
-  Ratio: 6.29
-  TA: '125'
+  Ratio: 6.15
+  TA: '123'
   Tags:
   - Online/Offline
   - Single Player
@@ -299,10 +299,10 @@ Base Game Achievements:
   Description: Pillage at least 10 Improvements in one turn
   GS: '20'
   Guide: true
-  Number of Gamers: 91
+  Number of Gamers: 99
   Percentage of Gamers: 2%
-  Ratio: 8.05
-  TA: '161'
+  Ratio: 8.01
+  TA: '160'
   Tags:
   - Online/Offline
   - Single Player
@@ -311,10 +311,10 @@ Base Game Achievements:
   Description: As France, have a Battalion of three Musketmen win a battle
   GS: '20'
   Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 0%
-  Ratio: 14.78
-  TA: '295'
+  Number of Gamers: 34
+  Percentage of Gamers: 1%
+  Ratio: 13.68
+  TA: '273'
   Tags:
   - Online/Offline
   - Single Player
@@ -323,10 +323,10 @@ Base Game Achievements:
   Description: As Otto von Bismarck, have the largest navy during Act 3
   GS: '20'
   Guide: true
-  Number of Gamers: 50
+  Number of Gamers: 60
   Percentage of Gamers: 1%
-  Ratio: 10.86
-  TA: '217'
+  Ratio: 10.29
+  TA: '205'
   Tags:
   - Online/Offline
   - Single Player
@@ -335,10 +335,10 @@ Base Game Achievements:
   Description: Defeat 100 Air Forces over any number of games
   GS: '30'
   Guide: false
-  Number of Gamers: 5
+  Number of Gamers: 9
   Percentage of Gamers: 0%
-  Ratio: 34.35
-  TA: 1,030
+  Ratio: 26.59
+  TA: '797'
   Tags:
   - Online/Offline
   - Single Player
@@ -348,10 +348,10 @@ Base Game Achievements:
   Description: Have 10 each of Feasts, Wines, and Gourmet Meals in your inventory
   GS: '20'
   Guide: false
-  Number of Gamers: 279
+  Number of Gamers: 330
   Percentage of Gamers: 5%
-  Ratio: 4.64
-  TA: '92'
+  Ratio: 4.39
+  TA: '87'
   Tags:
   - Online/Offline
   - Single Player
@@ -361,11 +361,11 @@ Base Game Achievements:
   Description: In a single player game, as the Greeks, defeat Xerxes I in Act 1 in
     any war
   GS: '20'
-  Guide: false
-  Number of Gamers: 50
+  Guide: true
+  Number of Gamers: 56
   Percentage of Gamers: 1%
-  Ratio: 10.97
-  TA: '219'
+  Ratio: 10.66
+  TA: '213'
   Tags:
   - Online/Offline
   - Single Player
@@ -374,7 +374,7 @@ Base Game Achievements:
   Description: Peacefully assimilate a Tribe
   GS: '20'
   Guide: true
-  Number of Gamers: 3964
+  Number of Gamers: 4255
   Percentage of Gamers: 67%
   Ratio: 1.22
   TA: '24'
@@ -386,10 +386,10 @@ Base Game Achievements:
   Description: Reach the Singularity Era first in a game
   GS: '30'
   Guide: false
-  Number of Gamers: 496
+  Number of Gamers: 519
   Percentage of Gamers: 8%
-  Ratio: 3.45
-  TA: '103'
+  Ratio: 3.5
+  TA: '105'
   Tags:
   - Online/Offline
   - Single Player
@@ -398,10 +398,10 @@ Base Game Achievements:
   Description: Obtain Michelangelo, Donatello, Leonardo, and Raphael
   GS: '30'
   Guide: true
-  Number of Gamers: 6
+  Number of Gamers: 9
   Percentage of Gamers: 0%
-  Ratio: 31.36
-  TA: '940'
+  Ratio: 26.59
+  TA: '797'
   Tags:
   - Online/Offline
   - Single Player
@@ -410,7 +410,7 @@ Base Game Achievements:
   Description: Have 25 different Crafting Improvements producing at the same time
   GS: '30'
   Guide: false
-  Number of Gamers: 1466
+  Number of Gamers: 1564
   Percentage of Gamers: 25%
   Ratio: 2.01
   TA: '60'
@@ -422,11 +422,11 @@ Base Game Achievements:
   Description: Win by being the only nation left in a single player game with at least
     8 Nations
   GS: '30'
-  Guide: false
-  Number of Gamers: 46
+  Guide: true
+  Number of Gamers: 53
   Percentage of Gamers: 1%
-  Ratio: 11.32
-  TA: '339'
+  Ratio: 10.95
+  TA: '328'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -434,10 +434,10 @@ Base Game Achievements:
   Description: Win a single player game while having only a single City
   GS: '50'
   Guide: false
-  Number of Gamers: 59
+  Number of Gamers: 68
   Percentage of Gamers: 1%
-  Ratio: 10.0
-  TA: '500'
+  Ratio: 9.67
+  TA: '483'
   Tags:
   - Offline Mode
   - Single Player
@@ -446,10 +446,10 @@ Base Game Achievements:
   Description: Win a game at any difficulty level
   GS: '30'
   Guide: false
-  Number of Gamers: 513
+  Number of Gamers: 544
   Percentage of Gamers: 9%
-  Ratio: 3.39
-  TA: '101'
+  Ratio: 3.42
+  TA: '102'
   Tags:
   - Online/Offline
   - Single Player
@@ -458,10 +458,10 @@ Base Game Achievements:
   Description: Win a single player game at "Emperor" difficulty
   GS: '50'
   Guide: true
-  Number of Gamers: 26
-  Percentage of Gamers: 0%
-  Ratio: 15.06
-  TA: '753'
+  Number of Gamers: 32
+  Percentage of Gamers: 1%
+  Ratio: 14.1
+  TA: '705'
   Tags:
   - Offline Mode
   - Single Player
@@ -470,10 +470,10 @@ Base Game Achievements:
   Description: Have your capital reach the highest population tier
   GS: '30'
   Guide: true
-  Number of Gamers: 175
+  Number of Gamers: 193
   Percentage of Gamers: 3%
-  Ratio: 5.84
-  TA: '175'
+  Ratio: 5.74
+  TA: '172'
   Tags:
   - Online/Offline
   - Single Player
@@ -483,21 +483,21 @@ Base Game Achievements:
     game
   GS: '50'
   Guide: true
-  Number of Gamers: 13
+  Number of Gamers: 19
   Percentage of Gamers: 0%
-  Ratio: 21.3
-  TA: 1,065
+  Ratio: 18.3
+  TA: '915'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Master of the Universe
   Description: Defeat 100 Nations over any number of games
   GS: '50'
-  Guide: false
-  Number of Gamers: 7
+  Guide: true
+  Number of Gamers: 12
   Percentage of Gamers: 0%
-  Ratio: 29.03
-  TA: 1,451
+  Ratio: 23.02
+  TA: 1,151
   Tags:
   - Online/Offline
   - Single Player
@@ -507,7 +507,7 @@ Base Game Achievements:
   Description: Unlock every crafting recipe in a single game
   GS: '50'
   Guide: true
-  Number of Gamers: 192
+  Number of Gamers: 207
   Percentage of Gamers: 3%
   Ratio: 5.54
   TA: '277'
@@ -520,10 +520,10 @@ Base Game Achievements:
     in a single turn
   GS: '50'
   Guide: false
-  Number of Gamers: 260
-  Percentage of Gamers: 4%
-  Ratio: 4.8
-  TA: '240'
+  Number of Gamers: 354
+  Percentage of Gamers: 6%
+  Ratio: 4.24
+  TA: '212'
   Tags:
   - Online/Offline
   - Single Player
@@ -533,10 +533,10 @@ Base Game Achievements:
     number of games
   GS: '20'
   Guide: false
-  Number of Gamers: 11
+  Number of Gamers: 17
   Percentage of Gamers: 0%
-  Ratio: 23.16
-  TA: '463'
+  Ratio: 19.34
+  TA: '386'
   Tags:
   - Online/Offline
   - Single Player
@@ -546,35 +546,35 @@ Base Game Achievements:
   Description: Come first in 20 Act Goals over any number of games
   GS: '20'
   Guide: true
-  Number of Gamers: 14
+  Number of Gamers: 20
   Percentage of Gamers: 0%
-  Ratio: 20.53
-  TA: '410'
+  Ratio: 17.83
+  TA: '356'
   Tags:
   - Online/Offline
   - Single Player
   - Versus
   - Cumulative +
-Base Ratio: 11.345
-Base TA: 11345
+Base Ratio: 10.061
+Base TA: 10061
 Delisted: false
 Developer: Oxide Games
 Game Name: 'Ara: History Untold'
 Genres: Strategy, Turn Based
 Install Size: 32350.0
-Number of Completions: 4
-Number of Gamers: 5945
+Number of Completions: 8
+Number of Gamers: 6364
 Overall Completion Time:
-- 50
-- 50
+- 52
+- 53
 Overall GS: 1000
-Overall Ratio: 11.345
-Overall TA: 11345
+Overall Ratio: 10.061
+Overall TA: 10061
 PDU: 0
-Percentage Completed: 0.07
+Percentage Completed: 0.13
 Publisher: Xbox Game Studios
 Release Date: 24 September 2024
 Server Closure: false
-Site Rating: 3.76
+Site Rating: 3.73
 Update Achievements: []
 Walkthrough: false

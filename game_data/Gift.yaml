@@ -8,8 +8,8 @@ Base Game Achievements:
   Description: Ship starts to sink
   GS: '10'
   Guide: false
-  Number of Gamers: 103
-  Percentage of Gamers: 100%
+  Number of Gamers: 124
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '10'
   Tags:
@@ -20,9 +20,9 @@ Base Game Achievements:
   Description: Encountered the girl
   GS: '10'
   Guide: false
-  Number of Gamers: 68
-  Percentage of Gamers: 66%
-  Ratio: 1.23
+  Number of Gamers: 85
+  Percentage of Gamers: 68%
+  Ratio: 1.2
   TA: '12'
   Tags:
   - Offline Mode
@@ -32,9 +32,9 @@ Base Game Achievements:
   Description: Encountered the piggy bank
   GS: '10'
   Guide: false
-  Number of Gamers: 58
-  Percentage of Gamers: 56%
-  Ratio: 1.33
+  Number of Gamers: 69
+  Percentage of Gamers: 55%
+  Ratio: 1.34
   TA: '13'
   Tags:
   - Offline Mode
@@ -44,9 +44,9 @@ Base Game Achievements:
   Description: Reached the middle level of the ship
   GS: '10'
   Guide: false
-  Number of Gamers: 31
+  Number of Gamers: 38
   Percentage of Gamers: 30%
-  Ratio: 1.82
+  Ratio: 1.8
   TA: '18'
   Tags:
   - Offline Mode
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Encountered the cigarette man
   GS: '10'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 17%
-  Ratio: 2.46
-  TA: '24'
+  Number of Gamers: 19
+  Percentage of Gamers: 15%
+  Ratio: 2.55
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: Reached the upper level of the ship
   GS: '10'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 17%
-  Ratio: 2.46
-  TA: '24'
+  Number of Gamers: 19
+  Percentage of Gamers: 15%
+  Ratio: 2.55
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
@@ -80,8 +80,8 @@ Base Game Achievements:
   Description: Encountered the old lady
   GS: '10'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 15%
+  Number of Gamers: 18
+  Percentage of Gamers: 14%
   Ratio: 2.62
   TA: '26'
   Tags:
@@ -92,8 +92,8 @@ Base Game Achievements:
   Description: Saw the ending
   GS: '50'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 15%
+  Number of Gamers: 18
+  Percentage of Gamers: 14%
   Ratio: 2.62
   TA: '131'
   Tags:
@@ -103,11 +103,11 @@ Base Game Achievements:
 - Achievement Name: Life
   Description: Saw the continuation of the ending
   GS: '160'
-  Guide: false
-  Number of Gamers: 3
+  Guide: true
+  Number of Gamers: 4
   Percentage of Gamers: 3%
-  Ratio: 5.85
-  TA: '937'
+  Ratio: 5.56
+  TA: '890'
   Tags:
   - Offline Mode
   - Single Player
@@ -115,8 +115,8 @@ Base Game Achievements:
 - Achievement Name: Helper
   Description: Encountered all passengers in the lower level of the ship
   GS: '50'
-  Guide: false
-  Number of Gamers: 30
+  Guide: true
+  Number of Gamers: 36
   Percentage of Gamers: 29%
   Ratio: 1.85
   TA: '92'
@@ -127,11 +127,11 @@ Base Game Achievements:
 - Achievement Name: Rescuer
   Description: Encountered all passengers in the middle level of the ship
   GS: '50'
-  Guide: false
-  Number of Gamers: 3
+  Guide: true
+  Number of Gamers: 4
   Percentage of Gamers: 3%
-  Ratio: 5.85
-  TA: '292'
+  Ratio: 5.56
+  TA: '278'
   Tags:
   - Offline Mode
   - Single Player
@@ -139,11 +139,11 @@ Base Game Achievements:
 - Achievement Name: Lifesaver
   Description: Encountered all passengers in the upper level of the ship
   GS: '160'
-  Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 7%
-  Ratio: 3.83
-  TA: '613'
+  Guide: true
+  Number of Gamers: 8
+  Percentage of Gamers: 6%
+  Ratio: 3.93
+  TA: '629'
   Tags:
   - Offline Mode
   - Single Player
@@ -152,10 +152,10 @@ Base Game Achievements:
   Description: Recovered some memories
   GS: '50'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 17%
-  Ratio: 2.39
-  TA: '119'
+  Number of Gamers: 20
+  Percentage of Gamers: 16%
+  Ratio: 2.49
+  TA: '124'
   Tags:
   - Offline Mode
   - Single Player
@@ -163,11 +163,11 @@ Base Game Achievements:
 - Achievement Name: Explorer
   Description: Recovered many memories
   GS: '50'
-  Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 11%
-  Ratio: 3.06
-  TA: '153'
+  Guide: true
+  Number of Gamers: 13
+  Percentage of Gamers: 10%
+  Ratio: 3.08
+  TA: '154'
   Tags:
   - Offline Mode
   - Single Player
@@ -177,9 +177,9 @@ Base Game Achievements:
   GS: '160'
   Guide: true
   Number of Gamers: 3
-  Percentage of Gamers: 3%
-  Ratio: 5.85
-  TA: '937'
+  Percentage of Gamers: 2%
+  Ratio: 6.42
+  TA: 1,028
   Tags:
   - Offline Mode
   - Single Player
@@ -189,33 +189,33 @@ Base Game Achievements:
   GS: '200'
   Guide: false
   Number of Gamers: 3
-  Percentage of Gamers: 3%
-  Ratio: 5.85
-  TA: 1,171
+  Percentage of Gamers: 2%
+  Ratio: 6.42
+  TA: 1,285
   Tags:
   - Offline Mode
   - Single Player
   - Collectable
-Base Ratio: 4.572
-Base TA: 4572
+Base Ratio: 4.74
+Base TA: 4740
 Delisted: false
 Developer: Toydium, Million Edge
 Game Name: Gift
 Genres: Platformer
 Install Size: 1620.0
 Number of Completions: 3
-Number of Gamers: 103
+Number of Gamers: 125
 Overall Completion Time:
 - 16
 - 17
 Overall GS: 1000
-Overall Ratio: 4.572
-Overall TA: 4572
+Overall Ratio: 4.74
+Overall TA: 4740
 PDU: 0
-Percentage Completed: 2.91
+Percentage Completed: 2.4
 Publisher: Bushiroad Games, Toydium, Million Edge
 Release Date: 08 May 2024
 Server Closure: false
-Site Rating: 3.5
+Site Rating: 2.83
 Update Achievements: []
 Walkthrough: false

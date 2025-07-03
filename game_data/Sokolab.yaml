@@ -1,4 +1,49 @@
-Add On Achievements: []
+Add On Achievements:
+- Achievement Name: 'RELOADING: 180%'
+  Description: Reset a level 110 times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 409
+  Percentage of Gamers: 95%
+  Ratio: 1.35
+  TA: '271'
+  Tags: []
+- Achievement Name: OVERLOADED
+  Description: Reset a level 120 times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 408
+  Percentage of Gamers: 95%
+  Ratio: 1.35
+  TA: '271'
+  Tags: []
+- Achievement Name: TRIPLE BETA RETURNER
+  Description: Perform undo 150 times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 414
+  Percentage of Gamers: 96%
+  Ratio: 1.34
+  TA: '269'
+  Tags: []
+- Achievement Name: TRIPLE ZETA RETURNER
+  Description: Perform undo 175 times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 413
+  Percentage of Gamers: 96%
+  Ratio: 1.34
+  TA: '269'
+  Tags: []
+- Achievement Name: UNSTOPPABLE
+  Description: Complete 6 levels without undo
+  GS: '200'
+  Guide: false
+  Number of Gamers: 414
+  Percentage of Gamers: 96%
+  Ratio: 1.34
+  TA: '269'
+  Tags: []
 Base Completion Time:
 - 0.5
 - 1.5
@@ -8,7 +53,7 @@ Base Game Achievements:
   Description: Complete the 5 initial levels
   GS: '30'
   Guide: false
-  Number of Gamers: 921
+  Number of Gamers: 1249
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '30'
@@ -17,7 +62,7 @@ Base Game Achievements:
   Description: Complete the level 10
   GS: '30'
   Guide: true
-  Number of Gamers: 818
+  Number of Gamers: 1105
   Percentage of Gamers: 86%
   Ratio: 1.07
   TA: '32'
@@ -26,16 +71,16 @@ Base Game Achievements:
   Description: Complete the level 25
   GS: '60'
   Guide: true
-  Number of Gamers: 731
-  Percentage of Gamers: 77%
-  Ratio: 1.13
+  Number of Gamers: 978
+  Percentage of Gamers: 76%
+  Ratio: 1.14
   TA: '68'
   Tags: []
 - Achievement Name: WAVING LIGHT
   Description: Complete 3 levels without undo
   GS: '75'
   Guide: false
-  Number of Gamers: 942
+  Number of Gamers: 1275
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '75'
@@ -44,7 +89,7 @@ Base Game Achievements:
   Description: Lift a block using the elevator
   GS: '60'
   Guide: false
-  Number of Gamers: 836
+  Number of Gamers: 1132
   Percentage of Gamers: 88%
   Ratio: 1.06
   TA: '63'
@@ -53,7 +98,7 @@ Base Game Achievements:
   Description: Find out the electrical system
   GS: '60'
   Guide: false
-  Number of Gamers: 921
+  Number of Gamers: 1249
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '60'
@@ -61,17 +106,17 @@ Base Game Achievements:
 - Achievement Name: BOOLEAN TOUCH
   Description: Find out the light switch
   GS: '60'
-  Guide: false
-  Number of Gamers: 810
+  Guide: true
+  Number of Gamers: 1093
   Percentage of Gamers: 85%
   Ratio: 1.08
-  TA: '64'
+  TA: '65'
   Tags: []
 - Achievement Name: DATA TRANSFER
   Description: Complete the level 13 without using any light switch
   GS: '75'
   Guide: false
-  Number of Gamers: 785
+  Number of Gamers: 1061
   Percentage of Gamers: 83%
   Ratio: 1.09
   TA: '82'
@@ -79,27 +124,27 @@ Base Game Achievements:
 - Achievement Name: VARIABLE SYSTEM
   Description: Discover/Find out the floor system on level 16
   GS: '60'
-  Guide: false
-  Number of Gamers: 753
-  Percentage of Gamers: 79%
+  Guide: true
+  Number of Gamers: 1006
+  Percentage of Gamers: 78%
   Ratio: 1.12
   TA: '67'
   Tags: []
 - Achievement Name: EXPLORATION ROBOT
   Description: Find out the automatic elevator
   GS: '75'
-  Guide: false
-  Number of Gamers: 736
+  Guide: true
+  Number of Gamers: 985
   Percentage of Gamers: 77%
-  Ratio: 1.13
+  Ratio: 1.14
   TA: '85'
   Tags: []
 - Achievement Name: CYBER ENGINEER
   Description: Disable an elevator with undo
   GS: '60'
   Guide: true
-  Number of Gamers: 837
-  Percentage of Gamers: 88%
+  Number of Gamers: 1138
+  Percentage of Gamers: 89%
   Ratio: 1.06
   TA: '63'
   Tags: []
@@ -107,7 +152,7 @@ Base Game Achievements:
   Description: Reset a level for the first time
   GS: '25'
   Guide: false
-  Number of Gamers: 934
+  Number of Gamers: 1263
   Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '25'
@@ -116,7 +161,7 @@ Base Game Achievements:
   Description: Reset a level 20 times
   GS: '60'
   Guide: false
-  Number of Gamers: 871
+  Number of Gamers: 1185
   Percentage of Gamers: 92%
   Ratio: 1.04
   TA: '62'
@@ -125,103 +170,103 @@ Base Game Achievements:
   Description: Reset a level 40 times
   GS: '60'
   Guide: true
-  Number of Gamers: 860
-  Percentage of Gamers: 90%
-  Ratio: 1.05
-  TA: '63'
+  Number of Gamers: 1172
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '62'
   Tags: []
 - Achievement Name: 'RELOADING: 100%'
   Description: Reset a level 60 times
   GS: '75'
   Guide: true
-  Number of Gamers: 853
-  Percentage of Gamers: 90%
-  Ratio: 1.05
-  TA: '79'
+  Number of Gamers: 1164
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '78'
   Tags: []
 - Achievement Name: BETA RETURNER
   Description: Perform undo 40 times
   GS: '60'
   Guide: false
-  Number of Gamers: 886
-  Percentage of Gamers: 93%
+  Number of Gamers: 1208
+  Percentage of Gamers: 94%
   Ratio: 1.03
-  TA: '62'
+  TA: '61'
   Tags: []
 - Achievement Name: ZETA RETURNER
   Description: Perform undo 80 times
   GS: '75'
   Guide: false
-  Number of Gamers: 880
+  Number of Gamers: 1198
   Percentage of Gamers: 93%
   Ratio: 1.03
   TA: '77'
   Tags: []
-Base Ratio: 1.0555
-Base TA: 2111
+Base Ratio: 1.05
+Base TA: 2100
 Delisted: false
 Developer: Antonio Filipe, AFIL Games
 Game Name: Sokolab
 Genres: Puzzle
 Install Size: 1250.0
-Number of Completions: 723
-Number of Gamers: 951
+Number of Completions: 364
+Number of Gamers: 1284
 Overall Completion Time:
 - 0.5
-- 1.5
-Overall GS: 2000
-Overall Ratio: 1.0555
-Overall TA: 2111
+- 2.0
+Overall GS: 3000
+Overall Ratio: 1.1496666666666666
+Overall TA: 3449
 PDU: 0
-Percentage Completed: 76.03
+Percentage Completed: 28.35
 Publisher: AFIL Games
 Release Date: 15 August 2024
 Server Closure: false
-Site Rating: 2.36
+Site Rating: 2.26
 Update Achievements:
 - Achievement Name: 'RELOADING: 120%'
   Description: reset a level 80 times
   GS: '200'
   Guide: false
-  Number of Gamers: 836
-  Percentage of Gamers: 88%
-  Ratio: 1.06
-  TA: '213'
+  Number of Gamers: 1147
+  Percentage of Gamers: 89%
+  Ratio: 1.05
+  TA: '211'
   Tags: []
 - Achievement Name: 'RELOADING: 150%'
   Description: reset a level 100 times
   GS: '200'
   Guide: true
-  Number of Gamers: 831
-  Percentage of Gamers: 87%
-  Ratio: 1.06
-  TA: '213'
+  Number of Gamers: 1142
+  Percentage of Gamers: 89%
+  Ratio: 1.05
+  TA: '211'
   Tags: []
 - Achievement Name: DOUBLE BETA RETURNER
   Description: perform undo 100 times
   GS: '200'
   Guide: false
-  Number of Gamers: 855
-  Percentage of Gamers: 90%
-  Ratio: 1.05
-  TA: '210'
+  Number of Gamers: 1174
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '209'
   Tags: []
 - Achievement Name: DOUBLE ZETA RETURNER
   Description: perform undo 120 times
   GS: '200'
   Guide: false
-  Number of Gamers: 852
-  Percentage of Gamers: 90%
-  Ratio: 1.05
-  TA: '211'
+  Number of Gamers: 1171
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '209'
   Tags: []
 - Achievement Name: ROCKETS DON'T REVERSE
   Description: complete 5 levels without undo
   GS: '200'
-  Guide: true
-  Number of Gamers: 886
-  Percentage of Gamers: 93%
-  Ratio: 1.03
-  TA: '207'
+  Guide: false
+  Number of Gamers: 1219
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '205'
   Tags: []
 Walkthrough: false

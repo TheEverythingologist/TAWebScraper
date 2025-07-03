@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 2.0
-Base GS: 4000
+- 2.5
+Base GS: 5000
 Base Game Achievements:
 - Achievement Name: First blood
   Description: Kill the first enemy.
   GS: '100'
   Guide: true
-  Number of Gamers: 7514
+  Number of Gamers: 8098
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '100'
@@ -19,7 +19,7 @@ Base Game Achievements:
   Description: You need to kill 10 enemies.
   GS: '100'
   Guide: true
-  Number of Gamers: 7492
+  Number of Gamers: 8076
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '100'
@@ -31,7 +31,7 @@ Base Game Achievements:
   Description: You need to kill 20 enemies.
   GS: '100'
   Guide: true
-  Number of Gamers: 7486
+  Number of Gamers: 8068
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '100'
@@ -43,7 +43,7 @@ Base Game Achievements:
   Description: You need to kill 30 enemies.
   GS: '100'
   Guide: true
-  Number of Gamers: 7471
+  Number of Gamers: 8050
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -55,7 +55,7 @@ Base Game Achievements:
   Description: You need to kill 40 enemies.
   GS: '100'
   Guide: true
-  Number of Gamers: 7461
+  Number of Gamers: 8036
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -67,7 +67,7 @@ Base Game Achievements:
   Description: Survive the deadly strike!
   GS: '100'
   Guide: true
-  Number of Gamers: 7450
+  Number of Gamers: 8033
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -78,7 +78,7 @@ Base Game Achievements:
   Description: You need to drink the potion.
   GS: '100'
   Guide: true
-  Number of Gamers: 7437
+  Number of Gamers: 8017
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -89,7 +89,7 @@ Base Game Achievements:
   Description: Destroy the stone blocks
   GS: '100'
   Guide: true
-  Number of Gamers: 7406
+  Number of Gamers: 7984
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -100,7 +100,7 @@ Base Game Achievements:
   Description: You need to kill the Giant Snake
   GS: '100'
   Guide: true
-  Number of Gamers: 7345
+  Number of Gamers: 7900
   Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '101'
@@ -112,7 +112,7 @@ Base Game Achievements:
   Description: You need to kill Forest Dragon
   GS: '100'
   Guide: true
-  Number of Gamers: 7296
+  Number of Gamers: 7851
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '101'
@@ -120,34 +120,34 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.07125
-Base TA: 4285
+Base Ratio: 1.1676
+Base TA: 5838
 Delisted: false
 Developer: Alexandr Bondarenko
 Game Name: Castle Walker
 Genres: Platformer
-Install Size: 401.0
-Number of Completions: 4557
-Number of Gamers: 7516
+Install Size: 414.0
+Number of Completions: 3032
+Number of Gamers: 8102
 Overall Completion Time:
 - 0.0
-- 2.0
-Overall GS: 4000
-Overall Ratio: 1.07125
-Overall TA: 4285
+- 2.5
+Overall GS: 5000
+Overall Ratio: 1.1676
+Overall TA: 5838
 PDU: 0
-Percentage Completed: 60.63
+Percentage Completed: 37.42
 Publisher: Desert Water Games
 Release Date: 09 September 2022
 Server Closure: false
-Site Rating: 2.29
+Site Rating: 2.28
 Update Achievements:
 - Achievement Name: Kill the first Golem
   Description: You must kill the first Golem
   GS: '200'
   Guide: true
-  Number of Gamers: 7022
-  Percentage of Gamers: 93%
+  Number of Gamers: 7583
+  Percentage of Gamers: 94%
   Ratio: 1.03
   TA: '206'
   Tags:
@@ -157,10 +157,10 @@ Update Achievements:
   Description: You must kill the first Ghost
   GS: '200'
   Guide: true
-  Number of Gamers: 7015
-  Percentage of Gamers: 93%
+  Number of Gamers: 7577
+  Percentage of Gamers: 94%
   Ratio: 1.03
-  TA: '207'
+  TA: '206'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -168,7 +168,7 @@ Update Achievements:
   Description: You must knock down the stalactite
   GS: '200'
   Guide: true
-  Number of Gamers: 7036
+  Number of Gamers: 7593
   Percentage of Gamers: 94%
   Ratio: 1.03
   TA: '206'
@@ -179,8 +179,8 @@ Update Achievements:
   Description: You must kill 5 Rats!
   GS: '200'
   Guide: true
-  Number of Gamers: 7025
-  Percentage of Gamers: 93%
+  Number of Gamers: 7579
+  Percentage of Gamers: 94%
   Ratio: 1.03
   TA: '206'
   Tags:
@@ -190,7 +190,7 @@ Update Achievements:
   Description: Kill five ghosts
   GS: '200'
   Guide: true
-  Number of Gamers: 6996
+  Number of Gamers: 7554
   Percentage of Gamers: 93%
   Ratio: 1.03
   TA: '207'
@@ -201,10 +201,10 @@ Update Achievements:
   Description: Kill one fire shooting Lizard
   GS: '200'
   Guide: true
-  Number of Gamers: 6870
-  Percentage of Gamers: 91%
+  Number of Gamers: 7433
+  Percentage of Gamers: 92%
   Ratio: 1.04
-  TA: '209'
+  TA: '208'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -212,8 +212,8 @@ Update Achievements:
   Description: Take down five stalactites
   GS: '200'
   Guide: true
-  Number of Gamers: 6852
-  Percentage of Gamers: 91%
+  Number of Gamers: 7415
+  Percentage of Gamers: 92%
   Ratio: 1.04
   TA: '209'
   Tags:
@@ -224,10 +224,10 @@ Update Achievements:
   Description: Use new ability
   GS: '200'
   Guide: true
-  Number of Gamers: 6870
-  Percentage of Gamers: 91%
+  Number of Gamers: 7434
+  Percentage of Gamers: 92%
   Ratio: 1.04
-  TA: '209'
+  TA: '208'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -235,10 +235,10 @@ Update Achievements:
   Description: Kill ten wasps
   GS: '200'
   Guide: true
-  Number of Gamers: 7000
-  Percentage of Gamers: 93%
+  Number of Gamers: 7593
+  Percentage of Gamers: 94%
   Ratio: 1.03
-  TA: '207'
+  TA: '206'
   Tags:
   - Offline Mode
   - Single Player
@@ -247,8 +247,8 @@ Update Achievements:
   Description: Get five bonus potions
   GS: '200'
   Guide: true
-  Number of Gamers: 7022
-  Percentage of Gamers: 93%
+  Number of Gamers: 7618
+  Percentage of Gamers: 94%
   Ratio: 1.03
   TA: '206'
   Tags:
@@ -259,10 +259,10 @@ Update Achievements:
   Description: You must kill 4 skeleton-archers.
   GS: '200'
   Guide: true
-  Number of Gamers: 5276
-  Percentage of Gamers: 70%
-  Ratio: 1.19
-  TA: '238'
+  Number of Gamers: 5928
+  Percentage of Gamers: 73%
+  Ratio: 1.16
+  TA: '233'
   Tags:
   - Offline Mode
   - Single Player
@@ -271,10 +271,10 @@ Update Achievements:
   Description: You must kill 8 skeleton-archers.
   GS: '200'
   Guide: true
-  Number of Gamers: 5254
-  Percentage of Gamers: 70%
-  Ratio: 1.19
-  TA: '239'
+  Number of Gamers: 5902
+  Percentage of Gamers: 73%
+  Ratio: 1.17
+  TA: '234'
   Tags:
   - Offline Mode
   - Single Player
@@ -283,10 +283,10 @@ Update Achievements:
   Description: You must kill 4 skeleton-warriors.
   GS: '200'
   Guide: true
-  Number of Gamers: 5250
-  Percentage of Gamers: 70%
-  Ratio: 1.19
-  TA: '239'
+  Number of Gamers: 5896
+  Percentage of Gamers: 73%
+  Ratio: 1.17
+  TA: '234'
   Tags:
   - Offline Mode
   - Single Player
@@ -295,10 +295,10 @@ Update Achievements:
   Description: You must kill 4 ghost-mages.
   GS: '200'
   Guide: true
-  Number of Gamers: 5253
-  Percentage of Gamers: 70%
-  Ratio: 1.19
-  TA: '239'
+  Number of Gamers: 5896
+  Percentage of Gamers: 73%
+  Ratio: 1.17
+  TA: '234'
   Tags:
   - Offline Mode
   - Single Player
@@ -307,13 +307,73 @@ Update Achievements:
   Description: You must kill 3 giant-beetles.
   GS: '200'
   Guide: true
-  Number of Gamers: 4560
-  Percentage of Gamers: 61%
-  Ratio: 1.28
-  TA: '256'
+  Number of Gamers: 5362
+  Percentage of Gamers: 66%
+  Ratio: 1.22
+  TA: '245'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
   - Buggy
+- Achievement Name: Caves
+  Description: Reach the Caves level
+  GS: '200'
+  Guide: true
+  Number of Gamers: 3229
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '316'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Castle
+  Description: Reach the Castle again
+  GS: '200'
+  Guide: true
+  Number of Gamers: 3254
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '315'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Crystal I
+  Description: Find Cyan Crystal in Caves
+  GS: '200'
+  Guide: true
+  Number of Gamers: 3182
+  Percentage of Gamers: 39%
+  Ratio: 1.59
+  TA: '319'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Crystal II
+  Description: Find the first Cyan Crystal in Castle
+  GS: '200'
+  Guide: true
+  Number of Gamers: 3213
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '317'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Crystal III
+  Description: Find the second Cyan Crystal in Castle
+  GS: '200'
+  Guide: true
+  Number of Gamers: 3140
+  Percentage of Gamers: 39%
+  Ratio: 1.6
+  TA: '321'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 Walkthrough: false

@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 8
-- 9
+- 7
+- 7
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: '2600'
   Description: Get the 2600 joystick
   GS: '30'
   Guide: true
-  Number of Gamers: 37
+  Number of Gamers: 42
   Percentage of Gamers: 44%
   Ratio: 1.5
   TA: '45'
@@ -19,8 +19,8 @@ Base Game Achievements:
   Description: Defeat Cerberus
   GS: '30'
   Guide: false
-  Number of Gamers: 81
-  Percentage of Gamers: 96%
+  Number of Gamers: 92
+  Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '30'
   Tags:
@@ -31,10 +31,10 @@ Base Game Achievements:
   Description: Reach the Cerberus without getting hit
   GS: '90'
   Guide: false
-  Number of Gamers: 3
+  Number of Gamers: 4
   Percentage of Gamers: 4%
-  Ratio: 5.29
-  TA: '476'
+  Ratio: 4.87
+  TA: '438'
   Tags:
   - Offline Mode
   - Single Player
@@ -43,8 +43,8 @@ Base Game Achievements:
   Description: Defeat Cerberus without sprinting
   GS: '90'
   Guide: false
-  Number of Gamers: 24
-  Percentage of Gamers: 29%
+  Number of Gamers: 27
+  Percentage of Gamers: 28%
   Ratio: 1.87
   TA: '168'
   Tags:
@@ -55,9 +55,9 @@ Base Game Achievements:
   Description: Defeat Ciacco
   GS: '20'
   Guide: false
-  Number of Gamers: 42
-  Percentage of Gamers: 50%
-  Ratio: 1.41
+  Number of Gamers: 48
+  Percentage of Gamers: 51%
+  Ratio: 1.4
   TA: '28'
   Tags:
   - Offline Mode
@@ -67,10 +67,10 @@ Base Game Achievements:
   Description: Get the 8 Bit controller
   GS: '90'
   Guide: true
-  Number of Gamers: 19
-  Percentage of Gamers: 23%
-  Ratio: 2.1
-  TA: '189'
+  Number of Gamers: 21
+  Percentage of Gamers: 22%
+  Ratio: 2.12
+  TA: '191'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -78,10 +78,10 @@ Base Game Achievements:
   Description: Beat the first three areas of Fall of The Guilty with only the pistol
   GS: '30'
   Guide: true
-  Number of Gamers: 8
-  Percentage of Gamers: 10%
-  Ratio: 3.24
-  TA: '97'
+  Number of Gamers: 10
+  Percentage of Gamers: 11%
+  Ratio: 3.08
+  TA: '92'
   Tags:
   - Offline Mode
   - Single Player
@@ -90,9 +90,9 @@ Base Game Achievements:
   Description: Defeat the giant spiders
   GS: '20'
   Guide: false
-  Number of Gamers: 18
+  Number of Gamers: 20
   Percentage of Gamers: 21%
-  Ratio: 2.16
+  Ratio: 2.17
   TA: '43'
   Tags:
   - Offline Mode
@@ -102,10 +102,10 @@ Base Game Achievements:
   Description: End the first five areas of the Tombs without using secondary weapons
   GS: '90'
   Guide: false
-  Number of Gamers: 5
+  Number of Gamers: 6
   Percentage of Gamers: 6%
-  Ratio: 4.09
-  TA: '368'
+  Ratio: 3.97
+  TA: '358'
   Tags:
   - Offline Mode
   - Single Player
@@ -114,10 +114,10 @@ Base Game Achievements:
   Description: Get the Mega Genesis controller
   GS: '90'
   Guide: false
-  Number of Gamers: 12
+  Number of Gamers: 13
   Percentage of Gamers: 14%
-  Ratio: 2.64
-  TA: '238'
+  Ratio: 2.7
+  TA: '243'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -125,10 +125,10 @@ Base Game Achievements:
   Description: Defeat Kraken
   GS: '15'
   Guide: false
-  Number of Gamers: 10
+  Number of Gamers: 11
   Percentage of Gamers: 12%
-  Ratio: 2.89
-  TA: '43'
+  Ratio: 2.93
+  TA: '44'
   Tags:
   - Offline Mode
   - Single Player
@@ -137,10 +137,10 @@ Base Game Achievements:
   Description: Complete the Styx Waters without being hit by a saw
   GS: '90'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 2%
-  Ratio: 6.48
-  TA: '583'
+  Number of Gamers: 3
+  Percentage of Gamers: 3%
+  Ratio: 5.62
+  TA: '506'
   Tags:
   - Offline Mode
   - Single Player
@@ -149,10 +149,10 @@ Base Game Achievements:
   Description: Don't die facing the Kraken
   GS: '30'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 1%
-  Ratio: 9.16
-  TA: '274'
+  Number of Gamers: 2
+  Percentage of Gamers: 2%
+  Ratio: 6.89
+  TA: '206'
   Tags:
   - Offline Mode
   - Single Player
@@ -161,9 +161,9 @@ Base Game Achievements:
   Description: Get the 16 bit controller
   GS: '30'
   Guide: true
-  Number of Gamers: 7
+  Number of Gamers: 8
   Percentage of Gamers: 8%
-  Ratio: 3.46
+  Ratio: 3.44
   TA: '103'
   Tags:
   - Offline Game Mode
@@ -172,10 +172,10 @@ Base Game Achievements:
   Description: Defeat Charon
   GS: '15'
   Guide: false
-  Number of Gamers: 10
+  Number of Gamers: 11
   Percentage of Gamers: 12%
-  Ratio: 2.89
-  TA: '43'
+  Ratio: 2.93
+  TA: '44'
   Tags:
   - Offline Mode
   - Single Player
@@ -184,10 +184,10 @@ Base Game Achievements:
   Description: Don't die facing the Charon
   GS: '30'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 1%
-  Ratio: 9.16
-  TA: '274'
+  Number of Gamers: 2
+  Percentage of Gamers: 2%
+  Ratio: 6.89
+  TA: '206'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -195,9 +195,9 @@ Base Game Achievements:
   Description: Get the Handheld Console
   GS: '30'
   Guide: true
-  Number of Gamers: 7
+  Number of Gamers: 8
   Percentage of Gamers: 8%
-  Ratio: 3.46
+  Ratio: 3.44
   TA: '103'
   Tags:
   - Offline Game Mode
@@ -206,10 +206,10 @@ Base Game Achievements:
   Description: Read all books
   GS: '40'
   Guide: false
-  Number of Gamers: 9
+  Number of Gamers: 10
   Percentage of Gamers: 11%
-  Ratio: 3.05
-  TA: '122'
+  Ratio: 3.08
+  TA: '123'
   Tags:
   - Offline Mode
   - Single Player
@@ -218,10 +218,10 @@ Base Game Achievements:
   Description: Get all controllers
   GS: '40'
   Guide: true
-  Number of Gamers: 6
+  Number of Gamers: 7
   Percentage of Gamers: 7%
-  Ratio: 3.74
-  TA: '149'
+  Ratio: 3.68
+  TA: '147'
   Tags:
   - Offline Mode
   - Single Player
@@ -230,31 +230,31 @@ Base Game Achievements:
   Description: Unlock all the achievements
   GS: '100'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 1%
-  Ratio: 9.16
-  TA: '916'
+  Number of Gamers: 2
+  Percentage of Gamers: 2%
+  Ratio: 6.89
+  TA: '689'
   Tags:
   - Offline Mode
   - Single Player
   - Collectable
-Base Ratio: 4.292
-Base TA: 4292
+Base Ratio: 3.807
+Base TA: 3807
 Delisted: false
 Developer: IdunaSoft
 Game Name: Mustache In Hell
 Genres: Shoot 'em up
 Install Size: 409.0
-Number of Completions: 1
-Number of Gamers: 84
+Number of Completions: 2
+Number of Gamers: 95
 Overall Completion Time:
-- 8
-- 9
+- 7
+- 7
 Overall GS: 1000
-Overall Ratio: 4.292
-Overall TA: 4292
+Overall Ratio: 3.807
+Overall TA: 3807
 PDU: 0
-Percentage Completed: 1.19
+Percentage Completed: 2.11
 Publisher: QUByte Interactive
 Release Date: 08 February 2024
 Server Closure: false

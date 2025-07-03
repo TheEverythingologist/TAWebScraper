@@ -1,15 +1,15 @@
 Add On Achievements: []
 Base Completion Time:
-- 21
-- 22
+- 19
+- 20
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Sleeping not-so-Beauty
   Description: Defeat the rusty Overseer.
   GS: '15'
-  Guide: false
-  Number of Gamers: 152
-  Percentage of Gamers: 99%
+  Guide: true
+  Number of Gamers: 184
+  Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '15'
   Tags:
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Get your hands on the bio synth silk dispenser.
   GS: '50'
   Guide: false
-  Number of Gamers: 51
-  Percentage of Gamers: 33%
-  Ratio: 1.73
-  TA: '86'
+  Number of Gamers: 69
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '82'
   Tags:
   - Offline Mode
   - Single Player
@@ -31,11 +31,11 @@ Base Game Achievements:
 - Achievement Name: Don't Bog me
   Description: Enter the Bog.
   GS: '25'
-  Guide: false
-  Number of Gamers: 43
-  Percentage of Gamers: 28%
-  Ratio: 1.88
-  TA: '47'
+  Guide: true
+  Number of Gamers: 61
+  Percentage of Gamers: 33%
+  Ratio: 1.75
+  TA: '43'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Enter the Glacial Glades.
   GS: '25'
   Guide: false
-  Number of Gamers: 29
-  Percentage of Gamers: 19%
-  Ratio: 2.29
-  TA: '57'
+  Number of Gamers: 47
+  Percentage of Gamers: 25%
+  Ratio: 1.99
+  TA: '49'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Solve the mystery of the Science Station.
   GS: '50'
   Guide: false
-  Number of Gamers: 21
-  Percentage of Gamers: 14%
-  Ratio: 2.69
-  TA: '134'
+  Number of Gamers: 36
+  Percentage of Gamers: 19%
+  Ratio: 2.27
+  TA: '113'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: Enter the Scorched Wasteland (without burning to crisp).
   GS: '25'
   Guide: false
-  Number of Gamers: 20
-  Percentage of Gamers: 13%
-  Ratio: 2.76
-  TA: '69'
+  Number of Gamers: 33
+  Percentage of Gamers: 18%
+  Ratio: 2.38
+  TA: '59'
   Tags:
   - Offline Mode
   - Single Player
@@ -80,10 +80,10 @@ Base Game Achievements:
   Description: Smash the revolution.
   GS: '25'
   Guide: false
-  Number of Gamers: 20
-  Percentage of Gamers: 13%
-  Ratio: 2.76
-  TA: '69'
+  Number of Gamers: 33
+  Percentage of Gamers: 18%
+  Ratio: 2.38
+  TA: '59'
   Tags:
   - Offline Mode
   - Single Player
@@ -92,22 +92,23 @@ Base Game Achievements:
   Description: Put an end to the madness.
   GS: '25'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '75'
+  Number of Gamers: 28
+  Percentage of Gamers: 15%
+  Ratio: 2.58
+  TA: '64'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
+  - Story Completed
 - Achievement Name: Strong Heart
   Description: Collect all Health Seeds.
   GS: '100'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 3%
-  Ratio: 5.53
-  TA: '553'
+  Number of Gamers: 12
+  Percentage of Gamers: 6%
+  Ratio: 3.94
+  TA: '394'
   Tags:
   - Offline Mode
   - Single Player
@@ -116,10 +117,10 @@ Base Game Achievements:
   Description: Collect all Stamina Seeds.
   GS: '25'
   Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 15%
-  Ratio: 2.57
-  TA: '64'
+  Number of Gamers: 39
+  Percentage of Gamers: 21%
+  Ratio: 2.18
+  TA: '54'
   Tags:
   - Offline Mode
   - Single Player
@@ -128,10 +129,10 @@ Base Game Achievements:
   Description: Upgrade your Sword to the max.
   GS: '20'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 12%
-  Ratio: 2.91
-  TA: '58'
+  Number of Gamers: 31
+  Percentage of Gamers: 17%
+  Ratio: 2.45
+  TA: '49'
   Tags:
   - Offline Mode
   - Single Player
@@ -140,10 +141,10 @@ Base Game Achievements:
   Description: Upgrade your ZapTrap to the max.
   GS: '20'
   Guide: false
-  Number of Gamers: 19
-  Percentage of Gamers: 12%
-  Ratio: 2.83
-  TA: '56'
+  Number of Gamers: 33
+  Percentage of Gamers: 18%
+  Ratio: 2.38
+  TA: '47'
   Tags:
   - Offline Mode
   - Single Player
@@ -152,10 +153,10 @@ Base Game Achievements:
   Description: Upgrade your Webshooter to the max.
   GS: '20'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '60'
+  Number of Gamers: 29
+  Percentage of Gamers: 16%
+  Ratio: 2.53
+  TA: '50'
   Tags:
   - Offline Mode
   - Single Player
@@ -164,22 +165,22 @@ Base Game Achievements:
   Description: Upgrade Chap to the max.
   GS: '20'
   Guide: false
-  Number of Gamers: 25
-  Percentage of Gamers: 16%
-  Ratio: 2.47
-  TA: '49'
+  Number of Gamers: 42
+  Percentage of Gamers: 22%
+  Ratio: 2.11
+  TA: '42'
   Tags:
   - Offline Mode
   - Single Player
-  - Shop
+  - Main Storyline
 - Achievement Name: Forged in flames
   Description: Upgrade Burnhilde to the max.
   GS: '20'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 7%
-  Ratio: 3.72
-  TA: '74'
+  Number of Gamers: 23
+  Percentage of Gamers: 12%
+  Ratio: 2.85
+  TA: '57'
   Tags:
   - Offline Mode
   - Single Player
@@ -188,10 +189,10 @@ Base Game Achievements:
   Description: Upgrade your Clubber to the max.
   GS: '20'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '60'
+  Number of Gamers: 29
+  Percentage of Gamers: 16%
+  Ratio: 2.53
+  TA: '50'
   Tags:
   - Offline Mode
   - Single Player
@@ -200,10 +201,10 @@ Base Game Achievements:
   Description: Upgrade all Gadgets to the max.
   GS: '100'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 7%
-  Ratio: 3.91
-  TA: '391'
+  Number of Gamers: 19
+  Percentage of Gamers: 10%
+  Ratio: 3.13
+  TA: '313'
   Tags:
   - Offline Mode
   - Single Player
@@ -212,21 +213,23 @@ Base Game Achievements:
   Description: Master all cooking recipies.
   GS: '25'
   Guide: true
-  Number of Gamers: 11
-  Percentage of Gamers: 7%
-  Ratio: 3.72
-  TA: '93'
+  Number of Gamers: 20
+  Percentage of Gamers: 11%
+  Ratio: 3.05
+  TA: '76'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Collectable
+  - Shop
 - Achievement Name: Backhand
   Description: Parry for the first time.
   GS: '15'
   Guide: true
-  Number of Gamers: 16
-  Percentage of Gamers: 10%
-  Ratio: 3.09
-  TA: '46'
+  Number of Gamers: 30
+  Percentage of Gamers: 16%
+  Ratio: 2.49
+  TA: '37'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -234,10 +237,10 @@ Base Game Achievements:
   Description: Parry 100 times.
   GS: '50'
   Guide: true
-  Number of Gamers: 10
-  Percentage of Gamers: 7%
-  Ratio: 3.91
-  TA: '195'
+  Number of Gamers: 21
+  Percentage of Gamers: 11%
+  Ratio: 2.98
+  TA: '149'
   Tags:
   - Offline Mode
   - Single Player
@@ -245,22 +248,23 @@ Base Game Achievements:
 - Achievement Name: Blast from the past
   Description: Travel to "that strange place" for the first time.
   GS: '25'
-  Guide: false
-  Number of Gamers: 79
-  Percentage of Gamers: 52%
-  Ratio: 1.39
-  TA: '34'
+  Guide: true
+  Number of Gamers: 102
+  Percentage of Gamers: 55%
+  Ratio: 1.35
+  TA: '33'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Main Storyline
 - Achievement Name: Everybody has a Podcast
   Description: Collect all audiologs.
   GS: '100'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 5%
-  Ratio: 4.37
-  TA: '437'
+  Number of Gamers: 16
+  Percentage of Gamers: 9%
+  Ratio: 3.41
+  TA: '341'
   Tags:
   - Offline Mode
   - Single Player
@@ -268,11 +272,11 @@ Base Game Achievements:
 - Achievement Name: Souls like
   Description: End your adventure without any upgrades (except THAT ONE for Chap).
   GS: '100'
-  Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 3%
-  Ratio: 6.18
-  TA: '618'
+  Guide: true
+  Number of Gamers: 11
+  Percentage of Gamers: 6%
+  Ratio: 4.12
+  TA: '412'
   Tags:
   - Offline Mode
   - Single Player
@@ -281,34 +285,35 @@ Base Game Achievements:
   Description: Collect all Achievements.
   GS: '100'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 3%
-  Ratio: 6.18
-  TA: '618'
+  Number of Gamers: 11
+  Percentage of Gamers: 6%
+  Ratio: 4.12
+  TA: '412'
   Tags:
   - Offline Mode
   - Single Player
   - Collectable
-Base Ratio: 3.958
-Base TA: 3958
+  - Shop
+Base Ratio: 3.0
+Base TA: 3000
 Delisted: false
 Developer: Tiny Roar
 Game Name: XEL
 Genres: Action-Adventure
 Install Size: 11300.0
-Number of Completions: 4
-Number of Gamers: 153
+Number of Completions: 11
+Number of Gamers: 187
 Overall Completion Time:
-- 21
-- 22
+- 19
+- 20
 Overall GS: 1000
-Overall Ratio: 3.958
-Overall TA: 3958
+Overall Ratio: 3.0
+Overall TA: 3000
 PDU: 0
-Percentage Completed: 2.61
+Percentage Completed: 5.88
 Publisher: Assemble Entertainment
 Release Date: 19 May 2023
 Server Closure: false
-Site Rating: 3.5
+Site Rating: 3.45
 Update Achievements: []
 Walkthrough: false

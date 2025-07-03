@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- 65
-- 66
+- 60
+- 61
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Collector
   Description: Collect all 12 Greater Anomalous Crystals in a single playthrough.
   GS: '30'
-  Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 12%
-  Ratio: 2.9
-  TA: '87'
+  Guide: true
+  Number of Gamers: 48
+  Percentage of Gamers: 13%
+  Ratio: 2.73
+  TA: '82'
   Tags:
   - Offline Mode
   - Single Player
@@ -19,11 +19,11 @@ Base Game Achievements:
 - Achievement Name: Resourceful
   Description: Unlock all crafting recipes in a single playthrough.
   GS: '30'
-  Guide: false
-  Number of Gamers: 70
-  Percentage of Gamers: 27%
-  Ratio: 1.93
-  TA: '58'
+  Guide: true
+  Number of Gamers: 101
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '56'
   Tags:
   - Offline Mode
   - Single Player
@@ -31,11 +31,11 @@ Base Game Achievements:
 - Achievement Name: Commuter
   Description: Unlock the subway.
   GS: '30'
-  Guide: false
-  Number of Gamers: 85
-  Percentage of Gamers: 32%
-  Ratio: 1.75
-  TA: '52'
+  Guide: true
+  Number of Gamers: 122
+  Percentage of Gamers: 34%
+  Ratio: 1.73
+  TA: '51'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -43,8 +43,8 @@ Base Game Achievements:
   Description: Defeat Konrad the Traitor.
   GS: '15'
   Guide: false
-  Number of Gamers: 261
-  Percentage of Gamers: 100%
+  Number of Gamers: 360
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '15'
   Tags:
@@ -55,10 +55,10 @@ Base Game Achievements:
   Description: Defeat Konrad the Traitor without jumping over any of his AOE attacks.
   GS: '90'
   Guide: true
-  Number of Gamers: 60
-  Percentage of Gamers: 23%
-  Ratio: 2.08
-  TA: '188'
+  Number of Gamers: 86
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '184'
   Tags:
   - Offline Mode
   - Single Player
@@ -66,10 +66,10 @@ Base Game Achievements:
 - Achievement Name: Archnemesis
   Description: Defeat Plagued Nemesis.
   GS: '15'
-  Guide: false
-  Number of Gamers: 114
-  Percentage of Gamers: 44%
-  Ratio: 1.51
+  Guide: true
+  Number of Gamers: 155
+  Percentage of Gamers: 43%
+  Ratio: 1.52
   TA: '22'
   Tags:
   - Offline Mode
@@ -79,10 +79,10 @@ Base Game Achievements:
   Description: Defeat Plagued Nemesis while avoiding all slow effects.
   GS: '90'
   Guide: true
-  Number of Gamers: 37
-  Percentage of Gamers: 14%
-  Ratio: 2.66
-  TA: '239'
+  Number of Gamers: 54
+  Percentage of Gamers: 15%
+  Ratio: 2.58
+  TA: '232'
   Tags:
   - Offline Mode
   - Single Player
@@ -91,7 +91,7 @@ Base Game Achievements:
   Description: Defeat Aberant Knight.
   GS: '15'
   Guide: false
-  Number of Gamers: 120
+  Number of Gamers: 166
   Percentage of Gamers: 46%
   Ratio: 1.47
   TA: '22'
@@ -103,10 +103,10 @@ Base Game Achievements:
   Description: Defeat Aberant Knight without ever climbing him.
   GS: '90'
   Guide: false
-  Number of Gamers: 39
+  Number of Gamers: 56
   Percentage of Gamers: 15%
-  Ratio: 2.59
-  TA: '233'
+  Ratio: 2.55
+  TA: '230'
   Tags:
   - Offline Mode
   - Single Player
@@ -114,10 +114,10 @@ Base Game Achievements:
 - Achievement Name: Frozen Visage
   Description: Defeat Silicon Visage.
   GS: '15'
-  Guide: false
-  Number of Gamers: 90
+  Guide: true
+  Number of Gamers: 123
   Percentage of Gamers: 34%
-  Ratio: 1.7
+  Ratio: 1.72
   TA: '25'
   Tags:
   - Offline Mode
@@ -126,11 +126,11 @@ Base Game Achievements:
 - Achievement Name: Crowd Control
   Description: Defeat Silicon Visage without killing any of it's minions.
   GS: '90'
-  Guide: false
-  Number of Gamers: 34
-  Percentage of Gamers: 13%
-  Ratio: 2.77
-  TA: '249'
+  Guide: true
+  Number of Gamers: 54
+  Percentage of Gamers: 15%
+  Ratio: 2.6
+  TA: '234'
   Tags:
   - Offline Mode
   - Single Player
@@ -138,10 +138,10 @@ Base Game Achievements:
 - Achievement Name: Blademaster's Respect
   Description: Defeat Nurgei the Blademaster.
   GS: '15'
-  Guide: false
-  Number of Gamers: 83
-  Percentage of Gamers: 32%
-  Ratio: 1.77
+  Guide: true
+  Number of Gamers: 121
+  Percentage of Gamers: 33%
+  Ratio: 1.73
   TA: '26'
   Tags:
   - Offline Mode
@@ -151,11 +151,11 @@ Base Game Achievements:
   Description: Defeat Nurgei the Blademaster while taking a hit from all 3 AOE attacks
     in a single encounter.
   GS: '90'
-  Guide: false
-  Number of Gamers: 33
-  Percentage of Gamers: 13%
-  Ratio: 2.81
-  TA: '253'
+  Guide: true
+  Number of Gamers: 51
+  Percentage of Gamers: 14%
+  Ratio: 2.65
+  TA: '239'
   Tags:
   - Offline Mode
   - Single Player
@@ -164,9 +164,9 @@ Base Game Achievements:
   Description: Defeat the Wormlord.
   GS: '15'
   Guide: false
-  Number of Gamers: 85
-  Percentage of Gamers: 32%
-  Ratio: 1.75
+  Number of Gamers: 120
+  Percentage of Gamers: 33%
+  Ratio: 1.73
   TA: '26'
   Tags:
   - Offline Mode
@@ -175,11 +175,11 @@ Base Game Achievements:
 - Achievement Name: Grounded
   Description: Defeat the Wormlord without ever climbing him.
   GS: '90'
-  Guide: false
-  Number of Gamers: 28
+  Guide: true
+  Number of Gamers: 41
   Percentage of Gamers: 11%
-  Ratio: 3.05
-  TA: '275'
+  Ratio: 3.0
+  TA: '270'
   Tags:
   - Offline Mode
   - Single Player
@@ -188,9 +188,9 @@ Base Game Achievements:
   Description: Defeat Archinquisitor Belisarius.
   GS: '15'
   Guide: false
-  Number of Gamers: 71
-  Percentage of Gamers: 27%
-  Ratio: 1.92
+  Number of Gamers: 102
+  Percentage of Gamers: 28%
+  Ratio: 1.88
   TA: '28'
   Tags:
   - Offline Mode
@@ -199,11 +199,11 @@ Base Game Achievements:
 - Achievement Name: True Faith
   Description: Defeat Archinquisitor Belisarius without destroying any of its sentries.
   GS: '90'
-  Guide: false
-  Number of Gamers: 46
-  Percentage of Gamers: 18%
-  Ratio: 2.38
-  TA: '214'
+  Guide: true
+  Number of Gamers: 69
+  Percentage of Gamers: 19%
+  Ratio: 2.3
+  TA: '207'
   Tags:
   - Offline Mode
   - Single Player
@@ -211,10 +211,10 @@ Base Game Achievements:
 - Achievement Name: Doppleganger
   Description: Defeat the Unknown.
   GS: '15'
-  Guide: false
-  Number of Gamers: 33
-  Percentage of Gamers: 13%
-  Ratio: 2.81
+  Guide: true
+  Number of Gamers: 44
+  Percentage of Gamers: 12%
+  Ratio: 2.86
   TA: '42'
   Tags:
   - Offline Mode
@@ -224,10 +224,10 @@ Base Game Achievements:
   Description: Beat the game.
   GS: '30'
   Guide: false
-  Number of Gamers: 71
-  Percentage of Gamers: 27%
-  Ratio: 1.92
-  TA: '57'
+  Number of Gamers: 102
+  Percentage of Gamers: 28%
+  Ratio: 1.88
+  TA: '56'
   Tags:
   - Offline Mode
   - Single Player
@@ -237,10 +237,10 @@ Base Game Achievements:
   Description: Beat the game while under 1% entropy.
   GS: '90'
   Guide: true
-  Number of Gamers: 44
-  Percentage of Gamers: 17%
-  Ratio: 2.44
-  TA: '219'
+  Number of Gamers: 66
+  Percentage of Gamers: 18%
+  Ratio: 2.35
+  TA: '211'
   Tags:
   - Offline Mode
   - Single Player
@@ -249,34 +249,34 @@ Base Game Achievements:
   Description: Find all lore pages across all your playthroughs.
   GS: '40'
   Guide: true
-  Number of Gamers: 67
-  Percentage of Gamers: 26%
-  Ratio: 1.97
-  TA: '79'
+  Number of Gamers: 100
+  Percentage of Gamers: 28%
+  Ratio: 1.9
+  TA: '76'
   Tags:
   - Offline Mode
   - Single Player
   - Collectable
-Base Ratio: 2.409
-Base TA: 2409
+Base Ratio: 2.334
+Base TA: 2334
 Delisted: false
 Developer: Archangel Studios
 Game Name: 'Bleak Faith: Forsaken'
 Genres: Action-RPG, Role Playing
 Install Size: 3860.0
-Number of Completions: 19
-Number of Gamers: 262
+Number of Completions: 26
+Number of Gamers: 362
 Overall Completion Time:
-- 65
-- 66
+- 60
+- 61
 Overall GS: 1000
-Overall Ratio: 2.409
-Overall TA: 2409
+Overall Ratio: 2.334
+Overall TA: 2334
 PDU: 0
-Percentage Completed: 7.25
+Percentage Completed: 7.18
 Publisher: Perp Games
 Release Date: 06 August 2024
 Server Closure: false
-Site Rating: 4.21
+Site Rating: 4.25
 Update Achievements: []
 Walkthrough: false

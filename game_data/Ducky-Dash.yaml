@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.5
-- 1.5
-Base GS: 2000
+- 2.0
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: Level 1
   Description: Complete Level 1
   GS: '25'
   Guide: true
-  Number of Gamers: 734
+  Number of Gamers: 934
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '25'
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Complete Level 2
   GS: '25'
   Guide: false
-  Number of Gamers: 728
+  Number of Gamers: 925
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '25'
@@ -32,7 +32,7 @@ Base Game Achievements:
   Description: Complete Level 3
   GS: '25'
   Guide: false
-  Number of Gamers: 704
+  Number of Gamers: 893
   Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '25'
@@ -44,7 +44,7 @@ Base Game Achievements:
   Description: Complete Level 4
   GS: '25'
   Guide: false
-  Number of Gamers: 680
+  Number of Gamers: 866
   Percentage of Gamers: 93%
   Ratio: 1.03
   TA: '25'
@@ -56,7 +56,7 @@ Base Game Achievements:
   Description: Complete Level 5
   GS: '25'
   Guide: false
-  Number of Gamers: 673
+  Number of Gamers: 856
   Percentage of Gamers: 92%
   Ratio: 1.04
   TA: '26'
@@ -68,8 +68,8 @@ Base Game Achievements:
   Description: Complete Level 6
   GS: '25'
   Guide: false
-  Number of Gamers: 621
-  Percentage of Gamers: 84%
+  Number of Gamers: 796
+  Percentage of Gamers: 85%
   Ratio: 1.08
   TA: '27'
   Tags:
@@ -80,10 +80,10 @@ Base Game Achievements:
   Description: Complete Level 7
   GS: '25'
   Guide: false
-  Number of Gamers: 627
-  Percentage of Gamers: 85%
-  Ratio: 1.08
-  TA: '27'
+  Number of Gamers: 807
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '26'
   Tags:
   - Offline Mode
   - Single Player
@@ -92,10 +92,10 @@ Base Game Achievements:
   Description: Complete Level 8
   GS: '25'
   Guide: false
-  Number of Gamers: 627
-  Percentage of Gamers: 85%
-  Ratio: 1.08
-  TA: '27'
+  Number of Gamers: 813
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '26'
   Tags:
   - Offline Mode
   - Single Player
@@ -104,8 +104,8 @@ Base Game Achievements:
   Description: Complete Level 9
   GS: '25'
   Guide: false
-  Number of Gamers: 589
-  Percentage of Gamers: 80%
+  Number of Gamers: 758
+  Percentage of Gamers: 81%
   Ratio: 1.11
   TA: '27'
   Tags:
@@ -116,9 +116,9 @@ Base Game Achievements:
   Description: Complete Level 10
   GS: '25'
   Guide: false
-  Number of Gamers: 597
-  Percentage of Gamers: 81%
-  Ratio: 1.1
+  Number of Gamers: 783
+  Percentage of Gamers: 84%
+  Ratio: 1.09
   TA: '27'
   Tags:
   - Offline Mode
@@ -128,9 +128,9 @@ Base Game Achievements:
   Description: Complete Level 11
   GS: '25'
   Guide: false
-  Number of Gamers: 573
-  Percentage of Gamers: 78%
-  Ratio: 1.13
+  Number of Gamers: 741
+  Percentage of Gamers: 79%
+  Ratio: 1.12
   TA: '28'
   Tags:
   - Offline Mode
@@ -140,10 +140,10 @@ Base Game Achievements:
   Description: Complete Level 12
   GS: '25'
   Guide: false
-  Number of Gamers: 585
-  Percentage of Gamers: 80%
-  Ratio: 1.12
-  TA: '28'
+  Number of Gamers: 754
+  Percentage of Gamers: 81%
+  Ratio: 1.11
+  TA: '27'
   Tags:
   - Offline Mode
   - Single Player
@@ -152,8 +152,8 @@ Base Game Achievements:
   Description: Complete Level 13
   GS: '25'
   Guide: false
-  Number of Gamers: 580
-  Percentage of Gamers: 79%
+  Number of Gamers: 744
+  Percentage of Gamers: 80%
   Ratio: 1.12
   TA: '28'
   Tags:
@@ -164,9 +164,9 @@ Base Game Achievements:
   Description: Complete Level 14
   GS: '25'
   Guide: false
-  Number of Gamers: 563
+  Number of Gamers: 720
   Percentage of Gamers: 77%
-  Ratio: 1.14
+  Ratio: 1.13
   TA: '28'
   Tags:
   - Offline Mode
@@ -176,7 +176,7 @@ Base Game Achievements:
   Description: Complete Level 15
   GS: '25'
   Guide: false
-  Number of Gamers: 564
+  Number of Gamers: 718
   Percentage of Gamers: 77%
   Ratio: 1.14
   TA: '28'
@@ -188,7 +188,7 @@ Base Game Achievements:
   Description: Complete Level 16
   GS: '25'
   Guide: false
-  Number of Gamers: 560
+  Number of Gamers: 709
   Percentage of Gamers: 76%
   Ratio: 1.14
   TA: '28'
@@ -200,8 +200,8 @@ Base Game Achievements:
   Description: Complete Level 17
   GS: '25'
   Guide: false
-  Number of Gamers: 564
-  Percentage of Gamers: 77%
+  Number of Gamers: 713
+  Percentage of Gamers: 76%
   Ratio: 1.14
   TA: '28'
   Tags:
@@ -212,7 +212,7 @@ Base Game Achievements:
   Description: Complete Level 18
   GS: '25'
   Guide: false
-  Number of Gamers: 561
+  Number of Gamers: 709
   Percentage of Gamers: 76%
   Ratio: 1.14
   TA: '28'
@@ -224,7 +224,7 @@ Base Game Achievements:
   Description: Complete Level 19
   GS: '25'
   Guide: false
-  Number of Gamers: 536
+  Number of Gamers: 680
   Percentage of Gamers: 73%
   Ratio: 1.17
   TA: '29'
@@ -236,7 +236,7 @@ Base Game Achievements:
   Description: Complete Level 20
   GS: '25'
   Guide: false
-  Number of Gamers: 540
+  Number of Gamers: 685
   Percentage of Gamers: 73%
   Ratio: 1.16
   TA: '29'
@@ -248,7 +248,7 @@ Base Game Achievements:
   Description: Complete Level 21
   GS: '25'
   Guide: false
-  Number of Gamers: 540
+  Number of Gamers: 686
   Percentage of Gamers: 73%
   Ratio: 1.16
   TA: '29'
@@ -260,7 +260,7 @@ Base Game Achievements:
   Description: Complete Level 22
   GS: '25'
   Guide: false
-  Number of Gamers: 540
+  Number of Gamers: 686
   Percentage of Gamers: 73%
   Ratio: 1.16
   TA: '29'
@@ -272,7 +272,7 @@ Base Game Achievements:
   Description: Complete Level 23
   GS: '25'
   Guide: false
-  Number of Gamers: 540
+  Number of Gamers: 686
   Percentage of Gamers: 73%
   Ratio: 1.16
   TA: '29'
@@ -284,7 +284,7 @@ Base Game Achievements:
   Description: Complete Level 24
   GS: '25'
   Guide: false
-  Number of Gamers: 538
+  Number of Gamers: 684
   Percentage of Gamers: 73%
   Ratio: 1.16
   TA: '29'
@@ -296,7 +296,7 @@ Base Game Achievements:
   Description: Complete Level 25
   GS: '25'
   Guide: false
-  Number of Gamers: 537
+  Number of Gamers: 683
   Percentage of Gamers: 73%
   Ratio: 1.16
   TA: '29'
@@ -308,7 +308,7 @@ Base Game Achievements:
   Description: Complete Level 26
   GS: '25'
   Guide: false
-  Number of Gamers: 538
+  Number of Gamers: 684
   Percentage of Gamers: 73%
   Ratio: 1.16
   TA: '29'
@@ -320,9 +320,9 @@ Base Game Achievements:
   Description: Complete Level 27
   GS: '25'
   Guide: false
-  Number of Gamers: 527
+  Number of Gamers: 673
   Percentage of Gamers: 72%
-  Ratio: 1.18
+  Ratio: 1.17
   TA: '29'
   Tags:
   - Offline Mode
@@ -332,8 +332,8 @@ Base Game Achievements:
   Description: Complete Level 28
   GS: '25'
   Guide: false
-  Number of Gamers: 531
-  Percentage of Gamers: 72%
+  Number of Gamers: 678
+  Percentage of Gamers: 73%
   Ratio: 1.17
   TA: '29'
   Tags:
@@ -344,9 +344,9 @@ Base Game Achievements:
   Description: Complete Level 29
   GS: '25'
   Guide: true
-  Number of Gamers: 526
+  Number of Gamers: 674
   Percentage of Gamers: 72%
-  Ratio: 1.18
+  Ratio: 1.17
   TA: '29'
   Tags:
   - Offline Mode
@@ -356,9 +356,9 @@ Base Game Achievements:
   Description: Complete Level 30
   GS: '25'
   Guide: false
-  Number of Gamers: 525
-  Percentage of Gamers: 71%
-  Ratio: 1.18
+  Number of Gamers: 672
+  Percentage of Gamers: 72%
+  Ratio: 1.17
   TA: '29'
   Tags:
   - Offline Mode
@@ -368,7 +368,7 @@ Base Game Achievements:
   Description: Complete Level 31
   GS: '50'
   Guide: true
-  Number of Gamers: 523
+  Number of Gamers: 666
   Percentage of Gamers: 71%
   Ratio: 1.18
   TA: '59'
@@ -380,10 +380,10 @@ Base Game Achievements:
   Description: Complete Level 32
   GS: '50'
   Guide: false
-  Number of Gamers: 526
+  Number of Gamers: 672
   Percentage of Gamers: 72%
-  Ratio: 1.18
-  TA: '59'
+  Ratio: 1.17
+  TA: '58'
   Tags:
   - Offline Mode
   - Single Player
@@ -392,7 +392,7 @@ Base Game Achievements:
   Description: Complete Level 33
   GS: '50'
   Guide: false
-  Number of Gamers: 529
+  Number of Gamers: 676
   Percentage of Gamers: 72%
   Ratio: 1.17
   TA: '58'
@@ -404,10 +404,10 @@ Base Game Achievements:
   Description: Complete Level 34
   GS: '50'
   Guide: false
-  Number of Gamers: 527
+  Number of Gamers: 672
   Percentage of Gamers: 72%
-  Ratio: 1.18
-  TA: '59'
+  Ratio: 1.17
+  TA: '58'
   Tags:
   - Offline Mode
   - Single Player
@@ -416,44 +416,44 @@ Base Game Achievements:
   Description: Complete Level 35
   GS: '50'
   Guide: true
-  Number of Gamers: 516
-  Percentage of Gamers: 70%
-  Ratio: 1.19
+  Number of Gamers: 660
+  Percentage of Gamers: 71%
+  Ratio: 1.18
   TA: '59'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.08
-Base TA: 2160
+Base Ratio: 1.113
+Base TA: 3339
 Delisted: false
 Developer: Old School Vibes
 Game Name: Ducky Dash
 Genres: Platformer
 Install Size: 474.0
-Number of Completions: 504
-Number of Gamers: 735
+Number of Completions: 541
+Number of Gamers: 935
 Overall Completion Time:
 - 0.5
-- 1.5
-Overall GS: 2000
-Overall Ratio: 1.08
-Overall TA: 2160
+- 2.0
+Overall GS: 3000
+Overall Ratio: 1.113
+Overall TA: 3339
 PDU: 0
-Percentage Completed: 68.57
+Percentage Completed: 57.86
 Publisher: Old School Vibes
 Release Date: 25 September 2024
 Server Closure: false
-Site Rating: 1.7
+Site Rating: 1.76
 Update Achievements:
 - Achievement Name: Green Sphere Level 1
   Description: Get the Green Sphere at Level 1
   GS: '200'
-  Guide: true
-  Number of Gamers: 695
-  Percentage of Gamers: 95%
+  Guide: false
+  Number of Gamers: 897
+  Percentage of Gamers: 96%
   Ratio: 1.02
-  TA: '205'
+  TA: '204'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -461,43 +461,98 @@ Update Achievements:
   Description: Get the Green Sphere at Level 2
   GS: '200'
   Guide: true
-  Number of Gamers: 701
-  Percentage of Gamers: 95%
-  Ratio: 1.02
-  TA: '204'
+  Number of Gamers: 899
+  Percentage of Gamers: 96%
+  Ratio: 1.01
+  TA: '203'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Green Sphere Level 3
   Description: Get the Green Sphere at Level 3
   GS: '200'
-  Guide: true
-  Number of Gamers: 697
-  Percentage of Gamers: 95%
+  Guide: false
+  Number of Gamers: 896
+  Percentage of Gamers: 96%
   Ratio: 1.02
-  TA: '205'
+  TA: '204'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Green Sphere Level 4
   Description: Get the Green Sphere at Level 4
   GS: '200'
-  Guide: true
-  Number of Gamers: 666
-  Percentage of Gamers: 91%
+  Guide: false
+  Number of Gamers: 862
+  Percentage of Gamers: 92%
   Ratio: 1.04
-  TA: '209'
+  TA: '208'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Green Sphere Level 5
   Description: Get the Green Sphere at Level 5
   GS: '200'
+  Guide: false
+  Number of Gamers: 858
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '208'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Green Sphere at Level 6
+  Description: Get the Green Sphere at Level 6
+  GS: '200'
+  Guide: false
+  Number of Gamers: 664
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '237'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Green Sphere at Level 7
+  Description: Get the Green Sphere at Level 7
+  GS: '200'
+  Guide: false
+  Number of Gamers: 657
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '238'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Green Sphere at Level 8
+  Description: Get the Green Sphere at Level 8
+  GS: '200'
+  Guide: false
+  Number of Gamers: 655
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '238'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Green Sphere at Level 9
+  Description: Get the Green Sphere at Level 9
+  GS: '200'
+  Guide: false
+  Number of Gamers: 657
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '238'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Green Sphere at Level 10
+  Description: Get the Green Sphere at Level 10
+  GS: '200'
   Guide: true
-  Number of Gamers: 665
-  Percentage of Gamers: 90%
-  Ratio: 1.05
-  TA: '210'
+  Number of Gamers: 651
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '239'
   Tags:
   - Offline Game Mode
   - Single Player

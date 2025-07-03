@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 20
-- 21
+- 16
+- 17
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Barrel rain
   Description: Beat Fatso.
   GS: '5'
   Guide: false
-  Number of Gamers: 269
+  Number of Gamers: 277
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '5'
@@ -21,7 +21,7 @@ Base Game Achievements:
   Description: Beat Krabawaki and The King Clapper.
   GS: '5'
   Guide: false
-  Number of Gamers: 187
+  Number of Gamers: 192
   Percentage of Gamers: 69%
   Ratio: 1.2
   TA: '6'
@@ -34,7 +34,7 @@ Base Game Achievements:
   Description: Beat LaChusa.
   GS: '5'
   Guide: false
-  Number of Gamers: 79
+  Number of Gamers: 82
   Percentage of Gamers: 29%
   Ratio: 1.84
   TA: '9'
@@ -46,9 +46,9 @@ Base Game Achievements:
   Description: Beat Murat Reis.
   GS: '5'
   Guide: false
-  Number of Gamers: 131
+  Number of Gamers: 134
   Percentage of Gamers: 48%
-  Ratio: 1.43
+  Ratio: 1.44
   TA: '7'
   Tags:
   - Offline Mode
@@ -59,8 +59,8 @@ Base Game Achievements:
   Description: Beat The Lighthouse Keeper.
   GS: '5'
   Guide: false
-  Number of Gamers: 74
-  Percentage of Gamers: 27%
+  Number of Gamers: 77
+  Percentage of Gamers: 28%
   Ratio: 1.9
   TA: '9'
   Tags:
@@ -72,7 +72,7 @@ Base Game Achievements:
   Description: Beat Fatsie and Fatso.
   GS: '5'
   Guide: false
-  Number of Gamers: 87
+  Number of Gamers: 90
   Percentage of Gamers: 32%
   Ratio: 1.75
   TA: '8'
@@ -85,7 +85,7 @@ Base Game Achievements:
   Description: Beat Rama Cinnamon and Banana.
   GS: '5'
   Guide: false
-  Number of Gamers: 91
+  Number of Gamers: 94
   Percentage of Gamers: 34%
   Ratio: 1.71
   TA: '8'
@@ -98,7 +98,7 @@ Base Game Achievements:
   Description: Beat Freddy Eightfingers.
   GS: '5'
   Guide: false
-  Number of Gamers: 89
+  Number of Gamers: 92
   Percentage of Gamers: 33%
   Ratio: 1.73
   TA: '8'
@@ -111,8 +111,8 @@ Base Game Achievements:
   Description: Beat Short Fuse Jones.
   GS: '5'
   Guide: false
-  Number of Gamers: 88
-  Percentage of Gamers: 32%
+  Number of Gamers: 91
+  Percentage of Gamers: 33%
   Ratio: 1.74
   TA: '8'
   Tags:
@@ -124,7 +124,7 @@ Base Game Achievements:
   Description: Beat Sharpie The Sharp.
   GS: '5'
   Guide: false
-  Number of Gamers: 98
+  Number of Gamers: 101
   Percentage of Gamers: 36%
   Ratio: 1.65
   TA: '8'
@@ -137,10 +137,10 @@ Base Game Achievements:
   Description: Beat The Necromancer.
   GS: '50'
   Guide: false
-  Number of Gamers: 80
-  Percentage of Gamers: 30%
-  Ratio: 1.83
-  TA: '91'
+  Number of Gamers: 82
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '92'
   Tags:
   - Offline Mode
   - Single Player
@@ -149,10 +149,10 @@ Base Game Achievements:
   Description: Gain Morrigan's favor.
   GS: '50'
   Guide: false
-  Number of Gamers: 76
+  Number of Gamers: 79
   Percentage of Gamers: 28%
-  Ratio: 1.88
-  TA: '94'
+  Ratio: 1.87
+  TA: '93'
   Tags:
   - Offline Mode
   - Single Player
@@ -161,7 +161,7 @@ Base Game Achievements:
   Description: Beat Flora Burn.
   GS: '105'
   Guide: false
-  Number of Gamers: 79
+  Number of Gamers: 82
   Percentage of Gamers: 29%
   Ratio: 1.84
   TA: '193'
@@ -174,10 +174,10 @@ Base Game Achievements:
   Description: Beat all bosses.
   GS: '105'
   Guide: false
-  Number of Gamers: 57
+  Number of Gamers: 59
   Percentage of Gamers: 21%
   Ratio: 2.17
-  TA: '228'
+  TA: '227'
   Tags:
   - Offline Mode
   - Single Player
@@ -186,9 +186,9 @@ Base Game Achievements:
   Description: You haven't even tried...
   GS: '5'
   Guide: true
-  Number of Gamers: 52
-  Percentage of Gamers: 19%
-  Ratio: 2.27
+  Number of Gamers: 56
+  Percentage of Gamers: 20%
+  Ratio: 2.22
   TA: '11'
   Tags:
   - Offline Mode
@@ -199,10 +199,10 @@ Base Game Achievements:
   Description: You are halfway there.
   GS: '5'
   Guide: true
-  Number of Gamers: 13
+  Number of Gamers: 15
   Percentage of Gamers: 5%
-  Ratio: 4.54
-  TA: '22'
+  Ratio: 4.3
+  TA: '21'
   Tags:
   - Offline Mode
   - Single Player
@@ -213,10 +213,10 @@ Base Game Achievements:
   Description: You almost made it!
   GS: '50'
   Guide: true
-  Number of Gamers: 24
-  Percentage of Gamers: 9%
-  Ratio: 3.34
-  TA: '167'
+  Number of Gamers: 27
+  Percentage of Gamers: 10%
+  Ratio: 3.2
+  TA: '160'
   Tags:
   - Offline Mode
   - Single Player
@@ -227,10 +227,10 @@ Base Game Achievements:
   Description: You've made it!
   GS: '105'
   Guide: true
-  Number of Gamers: 38
+  Number of Gamers: 40
   Percentage of Gamers: 14%
-  Ratio: 2.66
-  TA: '279'
+  Ratio: 2.63
+  TA: '276'
   Tags:
   - Offline Mode
   - Single Player
@@ -240,7 +240,7 @@ Base Game Achievements:
   Description: Discover 100% of the map.
   GS: '50'
   Guide: false
-  Number of Gamers: 59
+  Number of Gamers: 61
   Percentage of Gamers: 22%
   Ratio: 2.13
   TA: '106'
@@ -253,9 +253,9 @@ Base Game Achievements:
   Description: Opens all doors.
   GS: '5'
   Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 10%
-  Ratio: 3.15
+  Number of Gamers: 30
+  Percentage of Gamers: 11%
+  Ratio: 3.04
   TA: '15'
   Tags:
   - Offline Mode
@@ -266,10 +266,10 @@ Base Game Achievements:
   Description: Get all the collectibles.
   GS: '105'
   Guide: false
-  Number of Gamers: 24
+  Number of Gamers: 26
   Percentage of Gamers: 9%
-  Ratio: 3.34
-  TA: '351'
+  Ratio: 3.26
+  TA: '343'
   Tags:
   - Offline Mode
   - Single Player
@@ -279,10 +279,10 @@ Base Game Achievements:
   Description: Unlock full skilltree of all characters.
   GS: '105'
   Guide: false
-  Number of Gamers: 44
+  Number of Gamers: 46
   Percentage of Gamers: 16%
-  Ratio: 2.47
-  TA: '259'
+  Ratio: 2.45
+  TA: '258'
   Tags:
   - Offline Mode
   - Single Player
@@ -292,7 +292,7 @@ Base Game Achievements:
   Description: Achieve level 15.
   GS: '5'
   Guide: false
-  Number of Gamers: 110
+  Number of Gamers: 113
   Percentage of Gamers: 41%
   Ratio: 1.56
   TA: '7'
@@ -305,17 +305,20 @@ Base Game Achievements:
   Description: Defeat one of each enemy.
   GS: '105'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 3%
-  Ratio: 6.19
-  TA: '650'
+  Number of Gamers: 11
+  Percentage of Gamers: 4%
+  Ratio: 5.02
+  TA: '527'
   Tags:
-  - Discontinued
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Collectable
 - Achievement Name: Golden smile
   Description: Resurrect Smiley Sam
   GS: '50'
   Guide: false
-  Number of Gamers: 65
+  Number of Gamers: 67
   Percentage of Gamers: 24%
   Ratio: 2.03
   TA: '101'
@@ -327,9 +330,9 @@ Base Game Achievements:
   Description: Use both spyglasses.
   GS: '5'
   Guide: false
-  Number of Gamers: 62
+  Number of Gamers: 65
   Percentage of Gamers: 23%
-  Ratio: 2.08
+  Ratio: 2.06
   TA: '10'
   Tags:
   - Offline Mode
@@ -340,9 +343,9 @@ Base Game Achievements:
   Description: Recover all Amelio's hidden treasures.
   GS: '5'
   Guide: false
-  Number of Gamers: 48
+  Number of Gamers: 50
   Percentage of Gamers: 18%
-  Ratio: 2.36
+  Ratio: 2.35
   TA: '11'
   Tags:
   - Offline Mode
@@ -353,9 +356,9 @@ Base Game Achievements:
   Description: Find the Leprechaun's gold.
   GS: '5'
   Guide: false
-  Number of Gamers: 57
-  Percentage of Gamers: 21%
-  Ratio: 2.17
+  Number of Gamers: 60
+  Percentage of Gamers: 22%
+  Ratio: 2.15
   TA: '10'
   Tags:
   - Offline Mode
@@ -366,9 +369,9 @@ Base Game Achievements:
   Description: Help Mariah to get a sea sponge.
   GS: '5'
   Guide: false
-  Number of Gamers: 63
-  Percentage of Gamers: 23%
-  Ratio: 2.06
+  Number of Gamers: 66
+  Percentage of Gamers: 24%
+  Ratio: 2.05
   TA: '10'
   Tags:
   - Offline Mode
@@ -378,7 +381,7 @@ Base Game Achievements:
   Description: Help Mallor Majory get his wife's portrait.
   GS: '5'
   Guide: false
-  Number of Gamers: 79
+  Number of Gamers: 82
   Percentage of Gamers: 29%
   Ratio: 1.84
   TA: '9'
@@ -390,9 +393,9 @@ Base Game Achievements:
   Description: Help Landsman Rogers improve his soup.
   GS: '5'
   Guide: false
-  Number of Gamers: 68
+  Number of Gamers: 71
   Percentage of Gamers: 25%
-  Ratio: 1.98
+  Ratio: 1.97
   TA: '9'
   Tags:
   - Offline Mode
@@ -402,7 +405,7 @@ Base Game Achievements:
   Description: Help Poker Sailor to defeat the crab.
   GS: '5'
   Guide: false
-  Number of Gamers: 84
+  Number of Gamers: 87
   Percentage of Gamers: 31%
   Ratio: 1.78
   TA: '8'
@@ -414,9 +417,9 @@ Base Game Achievements:
   Description: Help Rick fulfill his dream.
   GS: '5'
   Guide: false
-  Number of Gamers: 52
-  Percentage of Gamers: 19%
-  Ratio: 2.27
+  Number of Gamers: 55
+  Percentage of Gamers: 20%
+  Ratio: 2.24
   TA: '11'
   Tags:
   - Offline Mode
@@ -426,9 +429,9 @@ Base Game Achievements:
   Description: Help Granny Malone knit a scarf.
   GS: '5'
   Guide: false
-  Number of Gamers: 120
+  Number of Gamers: 123
   Percentage of Gamers: 44%
-  Ratio: 1.49
+  Ratio: 1.5
   TA: '7'
   Tags:
   - Offline Mode
@@ -438,7 +441,7 @@ Base Game Achievements:
   Description: Make the bagpipe ghost friends again.
   GS: '5'
   Guide: false
-  Number of Gamers: 80
+  Number of Gamers: 83
   Percentage of Gamers: 30%
   Ratio: 1.83
   TA: '9'
@@ -446,25 +449,25 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Cooperative
-Base Ratio: 2.744
-Base TA: 2744
+Base Ratio: 2.6
+Base TA: 2600
 Delisted: false
 Developer: Petoons Studio
 Game Name: Curse of the Sea Rats
 Genres: Platformer, Metroidvania
 Install Size: 13940.0
-Number of Completions: 2
-Number of Gamers: 271
+Number of Completions: 6
+Number of Gamers: 279
 Overall Completion Time:
-- 20
-- 21
+- 16
+- 17
 Overall GS: 1000
-Overall Ratio: 2.744
-Overall TA: 2744
+Overall Ratio: 2.6
+Overall TA: 2600
 PDU: 0
-Percentage Completed: 0.74
+Percentage Completed: 2.15
 Publisher: PQube
-Release Date: 05 April 2023
+Release Date: 06 April 2023
 Server Closure: false
 Site Rating: 3.38
 Update Achievements: []

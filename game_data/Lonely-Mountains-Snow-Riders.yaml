@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- 8.0
-- 10.0
-Base GS: 1000
+- 9.0
+- 12.0
+Base GS: 1425
 Base Game Achievements:
 - Achievement Name: Ramming Through
   Description: Unlock a second pair of skis
   GS: '10'
   Guide: true
-  Number of Gamers: 5981
-  Percentage of Gamers: 16%
-  Ratio: 2.47
-  TA: '24'
+  Number of Gamers: 8728
+  Percentage of Gamers: 18%
+  Ratio: 2.32
+  TA: '23'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -19,32 +19,32 @@ Base Game Achievements:
   Description: Unlock a third pair of skis
   GS: '20'
   Guide: true
-  Number of Gamers: 3026
-  Percentage of Gamers: 8%
-  Ratio: 3.48
-  TA: '69'
+  Number of Gamers: 4648
+  Percentage of Gamers: 10%
+  Ratio: 3.18
+  TA: '63'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: RUN, Cheetah Run!
   Description: Unlock a fourth pair of skis
   GS: '40'
-  Guide: false
-  Number of Gamers: 1810
-  Percentage of Gamers: 5%
-  Ratio: 4.49
-  TA: '179'
+  Guide: true
+  Number of Gamers: 2957
+  Percentage of Gamers: 6%
+  Ratio: 3.99
+  TA: '159'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Free like a bird
   Description: Unlock a fifth pair of skis
   GS: '80'
-  Guide: false
-  Number of Gamers: 1217
-  Percentage of Gamers: 3%
-  Ratio: 5.48
-  TA: '439'
+  Guide: true
+  Number of Gamers: 2072
+  Percentage of Gamers: 4%
+  Ratio: 4.77
+  TA: '381'
   Tags:
   - Offline Mode
   - Online/Offline
@@ -54,55 +54,59 @@ Base Game Achievements:
   Description: Find one resting spot
   GS: '20'
   Guide: true
-  Number of Gamers: 4440
-  Percentage of Gamers: 12%
-  Ratio: 2.87
-  TA: '57'
+  Number of Gamers: 6290
+  Percentage of Gamers: 13%
+  Ratio: 2.74
+  TA: '54'
   Tags:
   - Online/Offline
   - Single Player
   - Versus
+  - Collectable
 - Achievement Name: Under the Pines
   Description: Find all resting places on Tannenstein
   GS: '25'
   Guide: true
-  Number of Gamers: 879
-  Percentage of Gamers: 2%
-  Ratio: 6.45
-  TA: '161'
+  Number of Gamers: 1351
+  Percentage of Gamers: 3%
+  Ratio: 5.91
+  TA: '147'
   Tags:
   - Online/Offline
   - Single Player
   - Versus
+  - Collectable
 - Achievement Name: Path to Paradise
   Description: Find all resting places on Monte Guanaco
   GS: '25'
   Guide: true
-  Number of Gamers: 654
+  Number of Gamers: 1057
   Percentage of Gamers: 2%
-  Ratio: 7.48
-  TA: '187'
+  Ratio: 6.68
+  TA: '167'
   Tags:
   - Online/Offline
   - Single Player
   - Versus
+  - Collectable
 - Achievement Name: Lonely Places
   Description: Find all resting places on Sierra Gelida
   GS: '25'
   Guide: true
-  Number of Gamers: 584
+  Number of Gamers: 973
   Percentage of Gamers: 2%
-  Ratio: 7.92
-  TA: '198'
+  Ratio: 6.97
+  TA: '174'
   Tags:
   - Online/Offline
   - Single Player
   - Versus
+  - Collectable
 - Achievement Name: It's all Downhill from here
   Description: Cross your first finish line
   GS: '10'
   Guide: true
-  Number of Gamers: 23098
+  Number of Gamers: 29759
   Percentage of Gamers: 63%
   Ratio: 1.25
   TA: '12'
@@ -113,11 +117,11 @@ Base Game Achievements:
 - Achievement Name: The Monte is Calling
   Description: Unlock Monte Guanaco
   GS: '20'
-  Guide: false
-  Number of Gamers: 4348
-  Percentage of Gamers: 12%
-  Ratio: 2.9
-  TA: '58'
+  Guide: true
+  Number of Gamers: 6134
+  Percentage of Gamers: 13%
+  Ratio: 2.77
+  TA: '55'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -125,76 +129,76 @@ Base Game Achievements:
   Description: Unlock Sierra Gelida
   GS: '30'
   Guide: false
-  Number of Gamers: 2523
-  Percentage of Gamers: 7%
-  Ratio: 3.81
-  TA: '114'
+  Number of Gamers: 3704
+  Percentage of Gamers: 8%
+  Ratio: 3.57
+  TA: '107'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Just Trailing
   Description: Finish all Blue Slope Challenges on Tannenstein
   GS: '25'
-  Guide: false
-  Number of Gamers: 2064
+  Guide: true
+  Number of Gamers: 3006
   Percentage of Gamers: 6%
-  Ratio: 4.21
-  TA: '105'
+  Ratio: 3.96
+  TA: '99'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Born to ride!
   Description: Finish all Black Slope Challenges on Tannenstein
   GS: '30'
-  Guide: false
-  Number of Gamers: 1345
+  Guide: true
+  Number of Gamers: 2022
   Percentage of Gamers: 4%
-  Ratio: 5.21
-  TA: '156'
+  Ratio: 4.83
+  TA: '144'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Off the beaten trails
   Description: Finish all Blue Slope Challenges on Monte Guanaco
   GS: '25'
-  Guide: false
-  Number of Gamers: 1269
-  Percentage of Gamers: 3%
-  Ratio: 5.37
-  TA: '134'
+  Guide: true
+  Number of Gamers: 1918
+  Percentage of Gamers: 4%
+  Ratio: 4.96
+  TA: '124'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Offroad King
   Description: Finish all Black Slope Challenges on Monte Guanaco
   GS: '30'
-  Guide: false
-  Number of Gamers: 975
+  Guide: true
+  Number of Gamers: 1515
   Percentage of Gamers: 3%
-  Ratio: 6.12
-  TA: '183'
+  Ratio: 5.58
+  TA: '167'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Fast and Freezing
   Description: Finish all Blue Slope Challenges on Sierra Gelida
   GS: '25'
-  Guide: false
-  Number of Gamers: 988
+  Guide: true
+  Number of Gamers: 1565
   Percentage of Gamers: 3%
-  Ratio: 6.08
-  TA: '152'
+  Ratio: 5.48
+  TA: '137'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Master of the Snowy Mountains
   Description: Finish all Black Slope Challenges on Sierra Gelida
   GS: '30'
-  Guide: false
-  Number of Gamers: 856
-  Percentage of Gamers: 2%
-  Ratio: 6.54
-  TA: '196'
+  Guide: true
+  Number of Gamers: 1363
+  Percentage of Gamers: 3%
+  Ratio: 5.87
+  TA: '176'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -202,10 +206,10 @@ Base Game Achievements:
   Description: Unlock ghost mode for the first time
   GS: '15'
   Guide: true
-  Number of Gamers: 3273
-  Percentage of Gamers: 9%
-  Ratio: 3.34
-  TA: '50'
+  Number of Gamers: 4576
+  Percentage of Gamers: 10%
+  Ratio: 3.21
+  TA: '48'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -213,10 +217,10 @@ Base Game Achievements:
   Description: Beat your best time im ghost mode
   GS: '50'
   Guide: true
-  Number of Gamers: 1114
-  Percentage of Gamers: 3%
-  Ratio: 5.73
-  TA: '286'
+  Number of Gamers: 1660
+  Percentage of Gamers: 4%
+  Ratio: 5.33
+  TA: '266'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -224,9 +228,9 @@ Base Game Achievements:
   Description: Ride one Trail in Zen Mode
   GS: '10'
   Guide: true
-  Number of Gamers: 9568
-  Percentage of Gamers: 26%
-  Ratio: 1.95
+  Number of Gamers: 12832
+  Percentage of Gamers: 27%
+  Ratio: 1.91
   TA: '19'
   Tags:
   - Offline Game Mode
@@ -235,10 +239,10 @@ Base Game Achievements:
   Description: Jump for 4 seconds
   GS: '15'
   Guide: true
-  Number of Gamers: 3637
-  Percentage of Gamers: 10%
-  Ratio: 3.17
-  TA: '47'
+  Number of Gamers: 5351
+  Percentage of Gamers: 11%
+  Ratio: 2.97
+  TA: '44'
   Tags:
   - Online/Offline
   - Single Player
@@ -247,10 +251,10 @@ Base Game Achievements:
   Description: Ride Backwards for 200 meters
   GS: '15'
   Guide: true
-  Number of Gamers: 4431
-  Percentage of Gamers: 12%
-  Ratio: 2.87
-  TA: '43'
+  Number of Gamers: 6417
+  Percentage of Gamers: 14%
+  Ratio: 2.71
+  TA: '40'
   Tags:
   - Online/Offline
   - Single Player
@@ -259,10 +263,10 @@ Base Game Achievements:
   Description: Ride 90 seconds without braking
   GS: '15'
   Guide: true
-  Number of Gamers: 2872
-  Percentage of Gamers: 8%
-  Ratio: 3.57
-  TA: '53'
+  Number of Gamers: 4262
+  Percentage of Gamers: 9%
+  Ratio: 3.32
+  TA: '49'
   Tags:
   - Online/Offline
   - Single Player
@@ -271,10 +275,10 @@ Base Game Achievements:
   Description: Reach a speed of 35 m/s
   GS: '15'
   Guide: true
-  Number of Gamers: 1579
-  Percentage of Gamers: 4%
-  Ratio: 4.81
-  TA: '72'
+  Number of Gamers: 2877
+  Percentage of Gamers: 6%
+  Ratio: 4.05
+  TA: '60'
   Tags:
   - Online/Offline
   - Single Player
@@ -283,10 +287,10 @@ Base Game Achievements:
   Description: Ride on Water for 3 seconds
   GS: '15'
   Guide: true
-  Number of Gamers: 2039
-  Percentage of Gamers: 6%
-  Ratio: 4.23
-  TA: '63'
+  Number of Gamers: 3106
+  Percentage of Gamers: 7%
+  Ratio: 3.9
+  TA: '58'
   Tags:
   - Online/Offline
   - Single Player
@@ -295,9 +299,9 @@ Base Game Achievements:
   Description: Land a 360 Spin successfully
   GS: '10'
   Guide: true
-  Number of Gamers: 10357
-  Percentage of Gamers: 28%
-  Ratio: 1.88
+  Number of Gamers: 14049
+  Percentage of Gamers: 30%
+  Ratio: 1.83
   TA: '18'
   Tags:
   - Online/Offline
@@ -307,10 +311,10 @@ Base Game Achievements:
   Description: Land a 720 Spin successfully
   GS: '15'
   Guide: true
-  Number of Gamers: 3605
-  Percentage of Gamers: 10%
-  Ratio: 3.18
-  TA: '47'
+  Number of Gamers: 5122
+  Percentage of Gamers: 11%
+  Ratio: 3.03
+  TA: '45'
   Tags:
   - Online/Offline
   - Single Player
@@ -319,10 +323,10 @@ Base Game Achievements:
   Description: Land a front- / backflip successfully
   GS: '10'
   Guide: true
-  Number of Gamers: 9776
-  Percentage of Gamers: 27%
-  Ratio: 1.93
-  TA: '19'
+  Number of Gamers: 13612
+  Percentage of Gamers: 29%
+  Ratio: 1.86
+  TA: '18'
   Tags:
   - Online/Offline
   - Single Player
@@ -331,10 +335,10 @@ Base Game Achievements:
   Description: Land a double front- / backflip successfully
   GS: '15'
   Guide: true
-  Number of Gamers: 3135
-  Percentage of Gamers: 9%
-  Ratio: 3.41
-  TA: '51'
+  Number of Gamers: 4610
+  Percentage of Gamers: 10%
+  Ratio: 3.19
+  TA: '47'
   Tags:
   - Online/Offline
   - Single Player
@@ -343,10 +347,10 @@ Base Game Achievements:
   Description: Hold a Grab for 3 seconds and land successfully
   GS: '10'
   Guide: true
-  Number of Gamers: 14103
-  Percentage of Gamers: 38%
-  Ratio: 1.61
-  TA: '16'
+  Number of Gamers: 18681
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '15'
   Tags:
   - Online/Offline
   - Single Player
@@ -355,10 +359,10 @@ Base Game Achievements:
   Description: Land a combination of a flip or spin and grab successfully
   GS: '15'
   Guide: true
-  Number of Gamers: 7354
-  Percentage of Gamers: 20%
-  Ratio: 2.23
-  TA: '33'
+  Number of Gamers: 10054
+  Percentage of Gamers: 21%
+  Ratio: 2.16
+  TA: '32'
   Tags:
   - Online/Offline
   - Single Player
@@ -367,10 +371,10 @@ Base Game Achievements:
   Description: Land a combination of a flip, spin and grab successfully
   GS: '50'
   Guide: true
-  Number of Gamers: 2570
-  Percentage of Gamers: 7%
-  Ratio: 3.77
-  TA: '188'
+  Number of Gamers: 3789
+  Percentage of Gamers: 8%
+  Ratio: 3.53
+  TA: '176'
   Tags:
   - Online/Offline
   - Single Player
@@ -379,10 +383,10 @@ Base Game Achievements:
   Description: Do at least 25 Jumps in a Run
   GS: '20'
   Guide: true
-  Number of Gamers: 13861
-  Percentage of Gamers: 38%
-  Ratio: 1.62
-  TA: '32'
+  Number of Gamers: 19059
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '31'
   Tags:
   - Online/Offline
   - Single Player
@@ -391,10 +395,10 @@ Base Game Achievements:
   Description: Do at least 19 Grabs in a Run
   GS: '20'
   Guide: true
-  Number of Gamers: 1664
+  Number of Gamers: 2550
   Percentage of Gamers: 5%
-  Ratio: 4.69
-  TA: '93'
+  Ratio: 4.31
+  TA: '86'
   Tags:
   - Online/Offline
   - Single Player
@@ -403,10 +407,10 @@ Base Game Achievements:
   Description: Do 13 backflips,frontflips or spins in a Run
   GS: '20'
   Guide: true
-  Number of Gamers: 2772
-  Percentage of Gamers: 8%
-  Ratio: 3.63
-  TA: '72'
+  Number of Gamers: 4202
+  Percentage of Gamers: 9%
+  Ratio: 3.35
+  TA: '67'
   Tags:
   - Online/Offline
   - Single Player
@@ -415,10 +419,10 @@ Base Game Achievements:
   Description: Ride a trail without crashing
   GS: '20'
   Guide: true
-  Number of Gamers: 5926
-  Percentage of Gamers: 16%
-  Ratio: 2.48
-  TA: '49'
+  Number of Gamers: 8126
+  Percentage of Gamers: 17%
+  Ratio: 2.41
+  TA: '48'
   Tags:
   - Online/Offline
   - Single Player
@@ -427,22 +431,22 @@ Base Game Achievements:
   Description: Receive 20 Badges
   GS: '10'
   Guide: true
-  Number of Gamers: 1876
-  Percentage of Gamers: 5%
-  Ratio: 4.42
-  TA: '44'
+  Number of Gamers: 3102
+  Percentage of Gamers: 7%
+  Ratio: 3.89
+  TA: '38'
   Tags:
-  - Online/Offline
-  - Single Player
+  - Online Mode
   - Versus
+  - Cumulative +
 - Achievement Name: Teamwork makes the dream work
   Description: Finish at least the first goal during a Team mode run
   GS: '10'
-  Guide: false
-  Number of Gamers: 1831
-  Percentage of Gamers: 5%
-  Ratio: 4.47
-  TA: '44'
+  Guide: true
+  Number of Gamers: 2816
+  Percentage of Gamers: 6%
+  Ratio: 4.09
+  TA: '40'
   Tags:
   - Online/Offline
   - Single Player
@@ -451,10 +455,10 @@ Base Game Achievements:
   Description: Finish all goals during a Team mode run
   GS: '50'
   Guide: true
-  Number of Gamers: 380
+  Number of Gamers: 656
   Percentage of Gamers: 1%
-  Ratio: 9.83
-  TA: '491'
+  Ratio: 8.51
+  TA: '425'
   Tags:
   - Online/Offline
   - Single Player
@@ -463,57 +467,53 @@ Base Game Achievements:
   Description: Take part in a Racing mode run.
   GS: '10'
   Guide: true
-  Number of Gamers: 5138
-  Percentage of Gamers: 14%
-  Ratio: 2.67
-  TA: '26'
+  Number of Gamers: 7504
+  Percentage of Gamers: 16%
+  Ratio: 2.5
+  TA: '25'
   Tags:
-  - Online/Offline
-  - Single Player
+  - Online Mode
   - Versus
 - Achievement Name: Race like you mean it
   Description: Reach 1st-3rd place on a Racing mode Run with at least 4 players
   GS: '50'
-  Guide: false
-  Number of Gamers: 2526
-  Percentage of Gamers: 7%
-  Ratio: 3.8
-  TA: '190'
+  Guide: true
+  Number of Gamers: 3547
+  Percentage of Gamers: 8%
+  Ratio: 3.64
+  TA: '182'
   Tags:
-  - Online/Offline
-  - Single Player
+  - Online Mode
   - Versus
-  - 11 Players Required
+  - 12 Players Required
 - Achievement Name: Watch Me Ride
   Description: Spectate another player
   GS: '10'
   Guide: true
-  Number of Gamers: 4993
-  Percentage of Gamers: 14%
-  Ratio: 2.7
-  TA: '27'
+  Number of Gamers: 7273
+  Percentage of Gamers: 15%
+  Ratio: 2.54
+  TA: '25'
   Tags:
-  - Online/Offline
-  - Single Player
+  - Online Mode
   - Versus
 - Achievement Name: With a little help from my friends
   Description: Recover 20 other players
   GS: '15'
   Guide: true
-  Number of Gamers: 444
-  Percentage of Gamers: 1%
-  Ratio: 9.08
-  TA: '136'
+  Number of Gamers: 751
+  Percentage of Gamers: 2%
+  Ratio: 7.93
+  TA: '118'
   Tags:
-  - Online/Offline
-  - Single Player
+  - Online Mode
   - Versus
   - Cumulative +
 - Achievement Name: Training Day
   Description: Reach the Finish Line of the Training Ground
   GS: '10'
   Guide: true
-  Number of Gamers: 36023
+  Number of Gamers: 46383
   Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '10'
@@ -524,33 +524,214 @@ Base Game Achievements:
   Description: Finish all the Trainig Ground Challenges
   GS: '10'
   Guide: true
-  Number of Gamers: 31294
+  Number of Gamers: 40127
   Percentage of Gamers: 85%
   Ratio: 1.08
   TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 4.653
-Base TA: 4653
+Base Ratio: 5.110877192982456
+Base TA: 7283
 Delisted: false
 Developer: Megagon Industries
 Game Name: 'Lonely Mountains: Snow Riders'
 Genres: Sports, Skiing
-Install Size: 1910.0
-Number of Completions: 230
-Number of Gamers: 36635
+Install Size: 1660.0
+Number of Completions: 0
+Number of Gamers: 47252
 Overall Completion Time:
 - 8.0
 - 10.0
-Overall GS: 1000
-Overall Ratio: 4.653
-Overall TA: 4653
+Overall GS: 1425
+Overall Ratio: 5.110877192982456
+Overall TA: 7283
 PDU: 0
-Percentage Completed: 0.63
+Percentage Completed: 0.0
 Publisher: Megagon Industries
 Release Date: 21 January 2025
 Server Closure: false
-Site Rating: 3.72
-Update Achievements: []
+Site Rating: 3.7
+Update Achievements:
+- Achievement Name: Frozen Shelter
+  Description: Find all resting places on Baifushan
+  GS: '25'
+  Guide: true
+  Number of Gamers: 355
+  Percentage of Gamers: 1%
+  Ratio: 11.82
+  TA: '295'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Shred the Shan
+  Description: Unlock Baifushan
+  GS: '15'
+  Guide: true
+  Number of Gamers: 899
+  Percentage of Gamers: 2%
+  Ratio: 7.35
+  TA: '110'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Frostbite Fighter
+  Description: Finish all Blue Slope Challenges on Baifushan
+  GS: '20'
+  Guide: true
+  Number of Gamers: 410
+  Percentage of Gamers: 1%
+  Ratio: 10.91
+  TA: '218'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Peak Performance
+  Description: Finish all Black Slope Challenges on Baifushan
+  GS: '25'
+  Guide: true
+  Number of Gamers: 369
+  Percentage of Gamers: 1%
+  Ratio: 11.51
+  TA: '287'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Getting Tricky with it"
+  Description: Finish all Tricks Challenges on the Blue Slope of Tannenstein
+  GS: '25'
+  Guide: false
+  Number of Gamers: 2
+  Percentage of Gamers: 0%
+  Ratio: 14.74
+  TA: '368'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Style it out
+  Description: Finish all Tricks Challenges on the Black Slope of Tannenstein
+  GS: '30'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 0%
+  Ratio: 17.53
+  TA: '525'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Stick the Landing
+  Description: Finish all Tricks Challenges on the Blue Slope of Monte Guanaco
+  GS: '25'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '25'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Flipping Out
+  Description: Finish all Tricks Challenges on the Black Slope of Monte Guanaco
+  GS: '30'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '30'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Stylish Nosedive
+  Description: Finish all Tricks Challenges on the Blue Slope of Sierra Gelida
+  GS: '25'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '25'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Freestyle Frenzy
+  Description: Finish all Tricks Challenges on the Black Slope of Sierra Gelida
+  GS: '30'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '30'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Tricknado
+  Description: Finish all Tricks Challenges on the Blue Slope of Baifushan
+  GS: '25'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '25'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Trick Royalty
+  Description: Finish all Tricks Challenges on the Black Slope of Baifushan
+  GS: '30'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '30'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Off-Grid
+  Description: Finish all Free Ride Challenges on Tannenstein"
+  GS: '30'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 0%
+  Ratio: 14.74
+  TA: '442'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: Untracked and Untamed
+  Description: Finish all Free Ride Challenges on Monte Guanaco"
+  GS: '30'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: Wilderness Whisperer
+  Description: Finish all Free Ride Challenges on Sierra Gelida"
+  GS: '30'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
+- Achievement Name: "Snowman\u2019s Land"
+  Description: Finish all Free Ride Challenges on Baifushan"
+  GS: '30'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
 Walkthrough: false

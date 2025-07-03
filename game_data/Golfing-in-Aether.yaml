@@ -1,15 +1,15 @@
 Add On Achievements: []
 Base Completion Time:
-- 23
-- 24
+- 21
+- 22
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Tee Time
   Description: Hit your ball for the first time
   GS: '25'
   Guide: false
-  Number of Gamers: 324
-  Percentage of Gamers: 99%
+  Number of Gamers: 517
+  Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '25'
   Tags:
@@ -21,10 +21,10 @@ Base Game Achievements:
   Description: Complete a hole with a birdie or better
   GS: '25'
   Guide: false
-  Number of Gamers: 299
+  Number of Gamers: 472
   Percentage of Gamers: 91%
-  Ratio: 1.03
-  TA: '25'
+  Ratio: 1.04
+  TA: '26'
   Tags:
   - Online/Offline
   - Single Player
@@ -33,10 +33,10 @@ Base Game Achievements:
   Description: Get three consecutive birdies or better in one session
   GS: '25'
   Guide: false
-  Number of Gamers: 194
-  Percentage of Gamers: 59%
-  Ratio: 1.29
-  TA: '32'
+  Number of Gamers: 317
+  Percentage of Gamers: 61%
+  Ratio: 1.27
+  TA: '31'
   Tags:
   - Online/Offline
   - Single Player
@@ -45,9 +45,9 @@ Base Game Achievements:
   Description: Get a birdie or better immediately following a bogey
   GS: '25'
   Guide: false
-  Number of Gamers: 264
-  Percentage of Gamers: 81%
-  Ratio: 1.1
+  Number of Gamers: 427
+  Percentage of Gamers: 82%
+  Ratio: 1.09
   TA: '27'
   Tags:
   - Online/Offline
@@ -57,10 +57,10 @@ Base Game Achievements:
   Description: Get creative with how you reach a hole
   GS: '25'
   Guide: false
-  Number of Gamers: 167
-  Percentage of Gamers: 51%
-  Ratio: 1.39
-  TA: '34'
+  Number of Gamers: 289
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '33'
   Tags:
   - Online/Offline
   - Single Player
@@ -69,10 +69,10 @@ Base Game Achievements:
   Description: Earn your first S rank
   GS: '50'
   Guide: false
-  Number of Gamers: 128
-  Percentage of Gamers: 39%
-  Ratio: 1.58
-  TA: '79'
+  Number of Gamers: 216
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '77'
   Tags:
   - Online/Offline
   - Single Player
@@ -80,11 +80,11 @@ Base Game Achievements:
 - Achievement Name: Perfect
   Description: Complete a session with only hole-in-ones
   GS: '100'
-  Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 2%
-  Ratio: 6.79
-  TA: '679'
+  Guide: true
+  Number of Gamers: 23
+  Percentage of Gamers: 4%
+  Ratio: 4.73
+  TA: '473'
   Tags:
   - Online/Offline
   - Single Player
@@ -92,11 +92,11 @@ Base Game Achievements:
 - Achievement Name: Around the World
   Description: Earn at least D rank on at least one variation of every level
   GS: '75'
-  Guide: false
-  Number of Gamers: 60
-  Percentage of Gamers: 18%
-  Ratio: 2.32
-  TA: '174'
+  Guide: true
+  Number of Gamers: 124
+  Percentage of Gamers: 24%
+  Ratio: 2.03
+  TA: '152'
   Tags:
   - Online/Offline
   - Single Player
@@ -105,21 +105,21 @@ Base Game Achievements:
   Description: Challenge previously set leaderboard ghost in practice and beat it
   GS: '25'
   Guide: false
-  Number of Gamers: 79
-  Percentage of Gamers: 24%
-  Ratio: 2.02
-  TA: '50'
+  Number of Gamers: 143
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '47'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Completionist
   Description: Earn S rank on every variation of every level
   GS: '150'
-  Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 1%
-  Ratio: 8.98
-  TA: 1,347
+  Guide: true
+  Number of Gamers: 11
+  Percentage of Gamers: 2%
+  Ratio: 6.84
+  TA: 1,027
   Tags:
   - Online/Offline
   - Single Player
@@ -129,10 +129,10 @@ Base Game Achievements:
     and Race)
   GS: '50'
   Guide: false
-  Number of Gamers: 86
-  Percentage of Gamers: 26%
-  Ratio: 1.93
-  TA: '96'
+  Number of Gamers: 158
+  Percentage of Gamers: 31%
+  Ratio: 1.8
+  TA: '90'
   Tags:
   - Online/Offline
   - Single Player
@@ -140,11 +140,11 @@ Base Game Achievements:
 - Achievement Name: Replay
   Description: Watch either a session replay or leaderboard replay
   GS: '25'
-  Guide: false
-  Number of Gamers: 57
-  Percentage of Gamers: 17%
-  Ratio: 2.38
-  TA: '59'
+  Guide: true
+  Number of Gamers: 117
+  Percentage of Gamers: 23%
+  Ratio: 2.1
+  TA: '52'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -152,10 +152,10 @@ Base Game Achievements:
   Description: Reach Level 3 or 18,000 XP
   GS: '75'
   Guide: false
-  Number of Gamers: 154
-  Percentage of Gamers: 47%
-  Ratio: 1.44
-  TA: '108'
+  Number of Gamers: 267
+  Percentage of Gamers: 52%
+  Ratio: 1.39
+  TA: '104'
   Tags:
   - Online/Offline
   - Single Player
@@ -165,10 +165,10 @@ Base Game Achievements:
   Description: Complete a session in each of the three seasonal themes
   GS: '50'
   Guide: false
-  Number of Gamers: 131
-  Percentage of Gamers: 40%
-  Ratio: 1.57
-  TA: '78'
+  Number of Gamers: 229
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '75'
   Tags:
   - Online/Offline
   - Single Player
@@ -176,11 +176,11 @@ Base Game Achievements:
 - Achievement Name: Speedrun
   Description: Complete a session with less than 90 seconds game time.
   GS: '100'
-  Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 2%
-  Ratio: 8.03
-  TA: '803'
+  Guide: true
+  Number of Gamers: 18
+  Percentage of Gamers: 3%
+  Ratio: 5.35
+  TA: '535'
   Tags:
   - Online/Offline
   - Single Player
@@ -190,10 +190,10 @@ Base Game Achievements:
   Description: Land the ball within the marked area near the hole on your first stroke.
   GS: '25'
   Guide: false
-  Number of Gamers: 160
-  Percentage of Gamers: 49%
-  Ratio: 1.42
-  TA: '35'
+  Number of Gamers: 273
+  Percentage of Gamers: 53%
+  Ratio: 1.37
+  TA: '34'
   Tags:
   - Online/Offline
   - Single Player
@@ -202,10 +202,10 @@ Base Game Achievements:
   Description: Change the appearance of your ball and equip an accessory.
   GS: '25'
   Guide: false
-  Number of Gamers: 189
-  Percentage of Gamers: 58%
-  Ratio: 1.3
-  TA: '32'
+  Number of Gamers: 322
+  Percentage of Gamers: 62%
+  Ratio: 1.26
+  TA: '31'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -213,10 +213,10 @@ Base Game Achievements:
   Description: Hit a tree and still finish the hole with par or better.
   GS: '25'
   Guide: true
-  Number of Gamers: 57
-  Percentage of Gamers: 17%
-  Ratio: 2.38
-  TA: '59'
+  Number of Gamers: 119
+  Percentage of Gamers: 23%
+  Ratio: 2.09
+  TA: '52'
   Tags:
   - Online/Offline
   - Single Player
@@ -226,20 +226,20 @@ Base Game Achievements:
     par or better.
   GS: '25'
   Guide: false
-  Number of Gamers: 63
-  Percentage of Gamers: 19%
-  Ratio: 2.26
-  TA: '56'
+  Number of Gamers: 138
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '48'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Recovery
   Description: Achieve par or better after going out of bounds.
   GS: '25'
-  Guide: false
-  Number of Gamers: 219
-  Percentage of Gamers: 67%
-  Ratio: 1.21
+  Guide: true
+  Number of Gamers: 358
+  Percentage of Gamers: 69%
+  Ratio: 1.2
   TA: '30'
   Tags:
   - Online/Offline
@@ -249,10 +249,10 @@ Base Game Achievements:
   Description: Complete a session without going out of bounds.
   GS: '25'
   Guide: false
-  Number of Gamers: 152
-  Percentage of Gamers: 46%
-  Ratio: 1.45
-  TA: '36'
+  Number of Gamers: 258
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '35'
   Tags:
   - Online/Offline
   - Single Player
@@ -261,34 +261,34 @@ Base Game Achievements:
   Description: Get the same score on three consecutive levels in a session.
   GS: '25'
   Guide: false
-  Number of Gamers: 198
-  Percentage of Gamers: 61%
-  Ratio: 1.27
+  Number of Gamers: 332
+  Percentage of Gamers: 64%
+  Ratio: 1.24
   TA: '31'
   Tags:
   - Online/Offline
   - Single Player
   - Versus
-Base Ratio: 3.895
-Base TA: 3895
+Base Ratio: 3.035
+Base TA: 3035
 Delisted: false
 Developer: Vetron
 Game Name: Golfing in Aether
 Genres: Sports, Golf
 Install Size: 2110.0
-Number of Completions: 4
-Number of Gamers: 327
+Number of Completions: 10
+Number of Gamers: 518
 Overall Completion Time:
-- 23
-- 24
+- 21
+- 22
 Overall GS: 1000
-Overall Ratio: 3.895
-Overall TA: 3895
+Overall Ratio: 3.035
+Overall TA: 3035
 PDU: 0
-Percentage Completed: 1.22
+Percentage Completed: 1.93
 Publisher: Vetron
 Release Date: 25 October 2024
 Server Closure: false
-Site Rating: 3.83
+Site Rating: 3.5
 Update Achievements: []
 Walkthrough: false

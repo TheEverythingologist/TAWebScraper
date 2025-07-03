@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.5
-- 1.5
-Base GS: 2000
+- 2.0
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: Crystal Heart
   Description: Get a crystal heart
   GS: '100'
   Guide: false
-  Number of Gamers: 322
-  Percentage of Gamers: 90%
-  Ratio: 1.05
-  TA: '105'
+  Number of Gamers: 550
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '104'
   Tags:
   - Offline Mode
   - Single Player
@@ -20,8 +20,8 @@ Base Game Achievements:
   Description: Defeat the Little Dragon
   GS: '100'
   Guide: false
-  Number of Gamers: 340
-  Percentage of Gamers: 95%
+  Number of Gamers: 577
+  Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '102'
   Tags:
@@ -32,8 +32,8 @@ Base Game Achievements:
   Description: Defeat the Dark Knight
   GS: '100'
   Guide: false
-  Number of Gamers: 323
-  Percentage of Gamers: 90%
+  Number of Gamers: 551
+  Percentage of Gamers: 92%
   Ratio: 1.04
   TA: '104'
   Tags:
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Defeat the Phantom Guardian
   GS: '100'
   Guide: false
-  Number of Gamers: 292
-  Percentage of Gamers: 82%
-  Ratio: 1.1
-  TA: '110'
+  Number of Gamers: 502
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '109'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Defeat the White Knight
   GS: '100'
   Guide: false
-  Number of Gamers: 265
+  Number of Gamers: 446
   Percentage of Gamers: 74%
-  Ratio: 1.15
-  TA: '115'
+  Ratio: 1.16
+  TA: '116'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,7 +68,7 @@ Base Game Achievements:
   Description: Defeat the Big Crab
   GS: '100'
   Guide: false
-  Number of Gamers: 281
+  Number of Gamers: 475
   Percentage of Gamers: 79%
   Ratio: 1.12
   TA: '112'
@@ -80,10 +80,10 @@ Base Game Achievements:
   Description: Defeat the Stone Golem
   GS: '100'
   Guide: false
-  Number of Gamers: 256
-  Percentage of Gamers: 72%
-  Ratio: 1.17
-  TA: '117'
+  Number of Gamers: 427
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '118'
   Tags:
   - Offline Mode
   - Single Player
@@ -92,10 +92,10 @@ Base Game Achievements:
   Description: Defeat the Blaid
   GS: '100'
   Guide: false
-  Number of Gamers: 252
-  Percentage of Gamers: 71%
-  Ratio: 1.18
-  TA: '118'
+  Number of Gamers: 423
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '119'
   Tags:
   - Offline Mode
   - Single Player
@@ -104,7 +104,7 @@ Base Game Achievements:
   Description: Defeat the Pyrus
   GS: '100'
   Guide: false
-  Number of Gamers: 251
+  Number of Gamers: 422
   Percentage of Gamers: 70%
   Ratio: 1.19
   TA: '119'
@@ -116,45 +116,45 @@ Base Game Achievements:
   Description: Beat the game
   GS: '100'
   Guide: true
-  Number of Gamers: 252
-  Percentage of Gamers: 71%
-  Ratio: 1.18
-  TA: '118'
+  Number of Gamers: 421
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '119'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
   - Story Completed
-Base Ratio: 1.089
-Base TA: 2178
+Base Ratio: 1.1193333333333333
+Base TA: 3358
 Delisted: false
 Developer: Maria
 Game Name: Draconic Resurgence
 Genres: Platformer, Metroidvania
 Install Size: 372.0
-Number of Completions: 243
-Number of Gamers: 357
+Number of Completions: 336
+Number of Gamers: 602
 Overall Completion Time:
 - 0.5
-- 1.5
-Overall GS: 2000
-Overall Ratio: 1.089
-Overall TA: 2178
+- 2.0
+Overall GS: 3000
+Overall Ratio: 1.1193333333333333
+Overall TA: 3358
 PDU: 0
-Percentage Completed: 68.07
+Percentage Completed: 55.81
 Publisher: Phoenix Reborn Games
 Release Date: 12 June 2024
 Server Closure: false
-Site Rating: 2.13
+Site Rating: 2.37
 Update Achievements:
 - Achievement Name: The knight who defeats the monsters I
   Description: Defeat 5 enemies
   GS: '200'
-  Guide: true
-  Number of Gamers: 323
-  Percentage of Gamers: 90%
-  Ratio: 1.04
-  TA: '209'
+  Guide: false
+  Number of Gamers: 570
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '205'
   Tags:
   - Offline Mode
   - Single Player
@@ -163,10 +163,10 @@ Update Achievements:
   Description: Defeat 10 enemies
   GS: '200'
   Guide: false
-  Number of Gamers: 317
-  Percentage of Gamers: 89%
-  Ratio: 1.05
-  TA: '211'
+  Number of Gamers: 559
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '207'
   Tags:
   - Offline Mode
   - Single Player
@@ -175,10 +175,10 @@ Update Achievements:
   Description: Defeat 15 enemies
   GS: '200'
   Guide: false
-  Number of Gamers: 315
-  Percentage of Gamers: 88%
-  Ratio: 1.06
-  TA: '212'
+  Number of Gamers: 554
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '208'
   Tags:
   - Offline Mode
   - Single Player
@@ -187,10 +187,10 @@ Update Achievements:
   Description: Defeat 20 enemies
   GS: '200'
   Guide: false
-  Number of Gamers: 313
-  Percentage of Gamers: 88%
-  Ratio: 1.06
-  TA: '213'
+  Number of Gamers: 550
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '209'
   Tags:
   - Offline Mode
   - Single Player
@@ -198,11 +198,71 @@ Update Achievements:
 - Achievement Name: The knight who defeats the monsters V
   Description: Defeat 25 enemies
   GS: '200'
-  Guide: true
-  Number of Gamers: 311
-  Percentage of Gamers: 87%
-  Ratio: 1.06
-  TA: '213'
+  Guide: false
+  Number of Gamers: 545
+  Percentage of Gamers: 91%
+  Ratio: 1.05
+  TA: '210'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Champion Knight
+  Description: Defeat 30 enemies
+  GS: '200'
+  Guide: false
+  Number of Gamers: 420
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '239'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Warden Knight
+  Description: Defeat 35 enemies
+  GS: '200'
+  Guide: false
+  Number of Gamers: 419
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '239'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Slayer Knight
+  Description: Defeat 40 enemies
+  GS: '200'
+  Guide: false
+  Number of Gamers: 419
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '239'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Paragon Knight
+  Description: Defeat 45 enemies
+  GS: '200'
+  Guide: false
+  Number of Gamers: 418
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '240'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Sentinel Knight
+  Description: Defeat 50 enemies
+  GS: '200'
+  Guide: false
+  Number of Gamers: 417
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '240'
   Tags:
   - Offline Mode
   - Single Player

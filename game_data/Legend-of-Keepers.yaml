@@ -1,16 +1,16 @@
 Add On Achievements: []
 Base Completion Time:
-- 57
-- 58
+- 50.0
+- 60.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Who's the Champion now!
   Description: Kill a Champion.
   GS: '30'
-  Guide: false
-  Number of Gamers: 461
-  Percentage of Gamers: 70%
-  Ratio: 1.19
+  Guide: true
+  Number of Gamers: 508
+  Percentage of Gamers: 71%
+  Ratio: 1.18
   TA: '35'
   Tags:
   - Offline Game Mode
@@ -18,8 +18,8 @@ Base Game Achievements:
 - Achievement Name: I've got the power!
   Description: Gather 5 Artefacts during a game.
   GS: '30'
-  Guide: false
-  Number of Gamers: 293
+  Guide: true
+  Number of Gamers: 322
   Percentage of Gamers: 45%
   Ratio: 1.49
   TA: '44'
@@ -30,7 +30,7 @@ Base Game Achievements:
   Description: Make 3 heroes flee.
   GS: '30'
   Guide: true
-  Number of Gamers: 443
+  Number of Gamers: 490
   Percentage of Gamers: 68%
   Ratio: 1.21
   TA: '36'
@@ -41,30 +41,30 @@ Base Game Achievements:
 - Achievement Name: Raining Blood!
   Description: Apply 20 stacks of "Bleeding" to a single hero.
   GS: '40'
-  Guide: false
-  Number of Gamers: 63
+  Guide: true
+  Number of Gamers: 74
   Percentage of Gamers: 10%
-  Ratio: 3.22
-  TA: '129'
+  Ratio: 3.11
+  TA: '124'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: It's a trap!
   Description: Kill 3 heroes simultaneously with a trap.
   GS: '40'
-  Guide: false
-  Number of Gamers: 23
+  Guide: true
+  Number of Gamers: 27
   Percentage of Gamers: 4%
-  Ratio: 5.34
-  TA: '213'
+  Ratio: 5.15
+  TA: '206'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: A real monster!
   Description: Upgrade a monster to max level.
   GS: '40'
-  Guide: false
-  Number of Gamers: 326
+  Guide: true
+  Number of Gamers: 358
   Percentage of Gamers: 50%
   Ratio: 1.41
   TA: '56'
@@ -76,9 +76,9 @@ Base Game Achievements:
   Description: Kill 3 heroes with a single attack.
   GS: '40'
   Guide: true
-  Number of Gamers: 62
+  Number of Gamers: 67
   Percentage of Gamers: 9%
-  Ratio: 3.25
+  Ratio: 3.27
   TA: '130'
   Tags:
   - Offline Game Mode
@@ -86,10 +86,10 @@ Base Game Achievements:
 - Achievement Name: True denial
   Description: Finish a game without seeing the Therapist.
   GS: '40'
-  Guide: false
-  Number of Gamers: 257
-  Percentage of Gamers: 39%
-  Ratio: 1.59
+  Guide: true
+  Number of Gamers: 285
+  Percentage of Gamers: 40%
+  Ratio: 1.58
   TA: '63'
   Tags:
   - Offline Game Mode
@@ -97,8 +97,8 @@ Base Game Achievements:
 - Achievement Name: Family's strength
   Description: Use only the same type of monsters during a dungeon.
   GS: '40'
-  Guide: false
-  Number of Gamers: 222
+  Guide: true
+  Number of Gamers: 245
   Percentage of Gamers: 34%
   Ratio: 1.71
   TA: '68'
@@ -109,21 +109,22 @@ Base Game Achievements:
   Description: Recruit 5 rare monsters with the Headhunter.
   GS: '40'
   Guide: false
-  Number of Gamers: 32
-  Percentage of Gamers: 5%
-  Ratio: 4.52
-  TA: '181'
+  Number of Gamers: 41
+  Percentage of Gamers: 6%
+  Ratio: 4.18
+  TA: '167'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Cumulative +
 - Achievement Name: Mischief managed
   Description: Steal 10 Artefacts from the Collector.
   GS: '40'
   Guide: false
-  Number of Gamers: 11
+  Number of Gamers: 14
   Percentage of Gamers: 2%
-  Ratio: 7.72
-  TA: '308'
+  Ratio: 7.16
+  TA: '286'
   Tags:
   - Offline Mode
   - Single Player
@@ -132,18 +133,19 @@ Base Game Achievements:
   Description: Summon 10 monsters in front of the Ninth Door.
   GS: '40'
   Guide: false
-  Number of Gamers: 36
-  Percentage of Gamers: 5%
-  Ratio: 4.26
-  TA: '170'
+  Number of Gamers: 41
+  Percentage of Gamers: 6%
+  Ratio: 4.18
+  TA: '167'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Cumulative +
 - Achievement Name: Root of all evil
   Description: Complete all missions with the Enchantress.
   GS: '50'
   Guide: false
-  Number of Gamers: 61
+  Number of Gamers: 67
   Percentage of Gamers: 9%
   Ratio: 3.27
   TA: '163'
@@ -154,7 +156,7 @@ Base Game Achievements:
   Description: Complete all missions with the Slaveholder.
   GS: '50'
   Guide: false
-  Number of Gamers: 131
+  Number of Gamers: 144
   Percentage of Gamers: 20%
   Ratio: 2.23
   TA: '111'
@@ -165,10 +167,10 @@ Base Game Achievements:
   Description: Complete all missions with the Engineer.
   GS: '50'
   Guide: false
-  Number of Gamers: 47
+  Number of Gamers: 52
   Percentage of Gamers: 7%
-  Ratio: 3.73
-  TA: '186'
+  Ratio: 3.71
+  TA: '185'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -176,10 +178,10 @@ Base Game Achievements:
   Description: Complete level 5 of Ascension Mode with any Master.
   GS: '40'
   Guide: false
-  Number of Gamers: 24
+  Number of Gamers: 28
   Percentage of Gamers: 4%
-  Ratio: 5.22
-  TA: '209'
+  Ratio: 5.06
+  TA: '202'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -187,10 +189,10 @@ Base Game Achievements:
   Description: Complete level 10 of Ascension Mode with any Master.
   GS: '40'
   Guide: false
-  Number of Gamers: 17
+  Number of Gamers: 21
   Percentage of Gamers: 3%
-  Ratio: 6.21
-  TA: '248'
+  Ratio: 5.84
+  TA: '233'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -198,10 +200,10 @@ Base Game Achievements:
   Description: Complete level 15 of Ascension Mode with any Master.
   GS: '40'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 2%
-  Ratio: 6.4
-  TA: '256'
+  Number of Gamers: 19
+  Percentage of Gamers: 3%
+  Ratio: 6.14
+  TA: '245'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -209,10 +211,10 @@ Base Game Achievements:
   Description: Complete level 20 of Ascension Mode with any Master.
   GS: '50'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 2%
-  Ratio: 6.61
-  TA: '330'
+  Number of Gamers: 18
+  Percentage of Gamers: 3%
+  Ratio: 6.31
+  TA: '315'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -220,10 +222,10 @@ Base Game Achievements:
   Description: Reach 156 weeks in Endless Mode.
   GS: '50'
   Guide: false
-  Number of Gamers: 24
+  Number of Gamers: 28
   Percentage of Gamers: 4%
-  Ratio: 5.22
-  TA: '261'
+  Ratio: 5.06
+  TA: '253'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -231,10 +233,10 @@ Base Game Achievements:
   Description: Reach 260 weeks in Endless Mode.
   GS: '50'
   Guide: false
-  Number of Gamers: 20
+  Number of Gamers: 24
   Percentage of Gamers: 3%
-  Ratio: 5.72
-  TA: '286'
+  Ratio: 5.46
+  TA: '273'
   Tags:
   - Offline Mode
   - Single Player
@@ -243,8 +245,8 @@ Base Game Achievements:
   Description: Unlock 25 Artefacts at the Archivist.
   GS: '40'
   Guide: false
-  Number of Gamers: 652
-  Percentage of Gamers: 99%
+  Number of Gamers: 715
+  Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '40'
   Tags:
@@ -255,9 +257,9 @@ Base Game Achievements:
   Description: Unlock 35 Artefacts at the Archivist.
   GS: '40'
   Guide: false
-  Number of Gamers: 184
+  Number of Gamers: 199
   Percentage of Gamers: 28%
-  Ratio: 1.88
+  Ratio: 1.89
   TA: '75'
   Tags:
   - Offline Mode
@@ -267,7 +269,7 @@ Base Game Achievements:
   Description: Unlock 45 Artefacts at the Archivist.
   GS: '50'
   Guide: false
-  Number of Gamers: 55
+  Number of Gamers: 60
   Percentage of Gamers: 8%
   Ratio: 3.45
   TA: '172'
@@ -275,26 +277,26 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Collectable
-Base Ratio: 3.77
-Base TA: 3770
+Base Ratio: 3.649
+Base TA: 3649
 Delisted: false
 Developer: Goblinz Studio
 Game Name: 'Legend of Keepers: Career of a Dungeon Manager'
 Genres: Roguelite, Strategy, Turn Based
 Install Size: 1640.0
-Number of Completions: 10
-Number of Gamers: 656
+Number of Completions: 13
+Number of Gamers: 718
 Overall Completion Time:
-- 57
-- 58
+- 50.0
+- 60.0
 Overall GS: 1000
-Overall Ratio: 3.77
-Overall TA: 3770
+Overall Ratio: 3.649
+Overall TA: 3649
 PDU: 0
-Percentage Completed: 1.52
+Percentage Completed: 1.81
 Publisher: Klabater
 Release Date: 10 November 2022
 Server Closure: false
-Site Rating: 3.85
+Site Rating: 3.87
 Update Achievements: []
 Walkthrough: false

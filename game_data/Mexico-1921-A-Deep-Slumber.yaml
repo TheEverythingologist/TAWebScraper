@@ -9,371 +9,468 @@ Base Game Achievements:
   GS: '50'
   Guide: false
   Number of Gamers: 2
-  Percentage of Gamers: 22%
-  Ratio: 2.12
-  TA: '106'
-  Tags: []
+  Percentage of Gamers: 12%
+  Ratio: 2.73
+  TA: '136'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Collector
   Description: Gather all collectible objects in the game
   GS: '50'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 100%
+  Number of Gamers: 15
+  Percentage of Gamers: 94%
   Ratio: 1.0
   TA: '50'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Hound
   Description: Complete all the clues to a 100% in your notebook
   GS: '50'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '150'
-  Tags: []
+  Percentage of Gamers: 6%
+  Ratio: 3.87
+  TA: '193'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Miss Congeniality
   Description: Talk with all the outstanding characters in the game
   GS: '50'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '150'
-  Tags: []
+  Percentage of Gamers: 6%
+  Ratio: 3.87
+  TA: '193'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Amateur Photographer
   Description: Take 20 photos for your gallery
   GS: '20'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 22%
-  Ratio: 2.12
-  TA: '42'
-  Tags: []
+  Number of Gamers: 4
+  Percentage of Gamers: 25%
+  Ratio: 1.93
+  TA: '38'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Advanced Photographer
   Description: Take 70 photos for your gallery
   GS: '30'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 22%
-  Ratio: 2.12
-  TA: '63'
-  Tags: []
+  Number of Gamers: 3
+  Percentage of Gamers: 19%
+  Ratio: 2.23
+  TA: '67'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Tattletale
   Description: Discover your first secret conversations using nosey mode
   GS: '20'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 100%
+  Number of Gamers: 15
+  Percentage of Gamers: 94%
   Ratio: 1.0
   TA: '20'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Masonic Lodge
   Description: Find a freemason's secret
   GS: '25'
   Guide: false
   Number of Gamers: 2
-  Percentage of Gamers: 22%
-  Ratio: 2.12
-  TA: '53'
-  Tags: []
+  Percentage of Gamers: 12%
+  Ratio: 2.73
+  TA: '68'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: The Archivist
   Description: "Interact with all the newspaper from the Hemeroteca Nacional\u2019\
     s Archive"
   GS: '25'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 7
   Percentage of Gamers: 44%
-  Ratio: 1.5
-  TA: '37'
-  Tags: []
+  Ratio: 1.46
+  TA: '36'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Museographer
   Description: "Interact with all the objects from the Museo de Arte Popular\u2019\
     s collection"
   GS: '50'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 44%
-  Ratio: 1.5
-  TA: '75'
-  Tags: []
+  Number of Gamers: 6
+  Percentage of Gamers: 38%
+  Ratio: 1.58
+  TA: '79'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Munchies Man
   Description: Interact with all the food available in the game
   GS: '30'
   Guide: false
   Number of Gamers: 2
-  Percentage of Gamers: 22%
-  Ratio: 2.12
-  TA: '63'
-  Tags: []
+  Percentage of Gamers: 12%
+  Ratio: 2.73
+  TA: '82'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: The Archeologist
   Description: Interact with all prehispanic objects in the game
   GS: '20'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '60'
-  Tags: []
+  Percentage of Gamers: 6%
+  Ratio: 3.87
+  TA: '77'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Volcanologist
   Description: Go to Popocatepetl
   GS: '20'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '60'
-  Tags: []
+  Percentage of Gamers: 6%
+  Ratio: 3.87
+  TA: '77'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Date at Puebla
   Description: "Go on a date with Luc\xEDa"
   GS: '20'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '60'
-  Tags: []
+  Percentage of Gamers: 6%
+  Ratio: 3.87
+  TA: '77'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: The Chemist
   Description: "Find a scientist\u2019s tools"
   GS: '40'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '120'
-  Tags: []
+  Percentage of Gamers: 6%
+  Ratio: 3.87
+  TA: '154'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: The Pacifist
   Description: Refuse to hit the detainee
   GS: '20'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '60'
-  Tags: []
+  Percentage of Gamers: 6%
+  Ratio: 3.87
+  TA: '77'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: The Fascist
   Description: Hit the detainee
   GS: '20'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '60'
-  Tags: []
+  Percentage of Gamers: 6%
+  Ratio: 3.87
+  TA: '77'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Salsita
   Description: "Learn One of the devs mom \u2018s salsa recipe"
   GS: '20'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '60'
-  Tags: []
+  Percentage of Gamers: 6%
+  Ratio: 3.87
+  TA: '77'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Infraganti
   Description: Take a photo of the president at the parade
   GS: '30'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 22%
-  Ratio: 2.12
-  TA: '63'
-  Tags: []
+  Number of Gamers: 3
+  Percentage of Gamers: 19%
+  Ratio: 2.23
+  TA: '67'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Art Photographer
   Description: Take artistic pictures of Nahui Ollin
   GS: '10'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '30'
-  Tags: []
+  Percentage of Gamers: 6%
+  Ratio: 3.87
+  TA: '38'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: The Poet
   Description: Find the exquisite corpse clue
   GS: '15'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '45'
-  Tags: []
+  Percentage of Gamers: 6%
+  Ratio: 3.87
+  TA: '58'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Artist Friend
   Description: Help Diego Rivera with his quest
   GS: '10'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '30'
-  Tags: []
+  Percentage of Gamers: 6%
+  Ratio: 3.87
+  TA: '38'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Stridentism
   Description: "Get an invitation to Caf\xE9 de Nadie"
   GS: '10'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '30'
-  Tags: []
+  Percentage of Gamers: 6%
+  Ratio: 3.87
+  TA: '38'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Melomaniac
   Description: "Interact with the Zocalo\u2019s gramophone"
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 44%
-  Ratio: 1.5
-  TA: '15'
-  Tags: []
+  Number of Gamers: 5
+  Percentage of Gamers: 31%
+  Ratio: 1.73
+  TA: '17'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Nahui forever
   Description: "Take a photograph of Nahui Ollin\u2019s poem on a wall"
   GS: '15'
   Guide: false
   Number of Gamers: 2
-  Percentage of Gamers: 22%
-  Ratio: 2.12
-  TA: '31'
-  Tags: []
+  Percentage of Gamers: 12%
+  Ratio: 2.73
+  TA: '41'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: The Voyeur
   Description: Take a photograph of a couple kissing
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 44%
-  Ratio: 1.5
-  TA: '15'
-  Tags: []
+  Number of Gamers: 5
+  Percentage of Gamers: 31%
+  Ratio: 1.73
+  TA: '17'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Rookie
   Description: Unlock all clues from chapter one
   GS: '10'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '30'
-  Tags: []
+  Percentage of Gamers: 6%
+  Ratio: 3.87
+  TA: '38'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Missable
 - Achievement Name: New Job
   Description: "Interact with Juan\u2019s identity card"
   GS: '30'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 78%
-  Ratio: 1.13
-  TA: '34'
-  Tags: []
+  Number of Gamers: 12
+  Percentage of Gamers: 75%
+  Ratio: 1.11
+  TA: '33'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: New Century
   Description: Listen to the poem from the radio
   GS: '20'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '60'
-  Tags: []
+  Percentage of Gamers: 6%
+  Ratio: 3.87
+  TA: '77'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Sidekick
   Description: Meet Archivero
   GS: '30'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '90'
-  Tags: []
+  Percentage of Gamers: 6%
+  Ratio: 3.87
+  TA: '116'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Evidence
   Description: Take your first photograph of a collectible object
   GS: '20'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 33%
+  Number of Gamers: 5
+  Percentage of Gamers: 31%
   Ratio: 1.73
   TA: '34'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: First task
   Description: Finish chapter two and get your first mission for El Contracorriente
   GS: '20'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '60'
-  Tags: []
+  Percentage of Gamers: 6%
+  Ratio: 3.87
+  TA: '77'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Colleagues
   Description: Meet Gregorio
   GS: '20'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 44%
-  Ratio: 1.5
-  TA: '30'
-  Tags: []
+  Number of Gamers: 6
+  Percentage of Gamers: 38%
+  Ratio: 1.58
+  TA: '31'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Communist Mexico
   Description: Talk with the communist promotor and take the flyer from his comrade
   GS: '20'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 44%
-  Ratio: 1.5
-  TA: '30'
-  Tags: []
+  Number of Gamers: 5
+  Percentage of Gamers: 31%
+  Ratio: 1.73
+  TA: '34'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Cinema Fan
   Description: "Take the Automovil Gris\u2019 poster"
   GS: '20'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 44%
-  Ratio: 1.5
-  TA: '30'
-  Tags: []
+  Number of Gamers: 5
+  Percentage of Gamers: 31%
+  Ratio: 1.73
+  TA: '34'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Mr. President
   Description: Talk with Alvaro Obregon
   GS: '50'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '150'
-  Tags: []
+  Percentage of Gamers: 6%
+  Ratio: 3.87
+  TA: '193'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Day of the Dead
   Description: Interact with the Cempasuchil flower
   GS: '20'
   Guide: false
   Number of Gamers: 2
-  Percentage of Gamers: 22%
-  Ratio: 2.12
-  TA: '42'
-  Tags: []
+  Percentage of Gamers: 12%
+  Ratio: 2.73
+  TA: '54'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Obsessive Photographer
   Description: Take 100 photos
   GS: '50'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 22%
-  Ratio: 2.12
-  TA: '106'
-  Tags: []
+  Number of Gamers: 3
+  Percentage of Gamers: 19%
+  Ratio: 2.23
+  TA: '111'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: New Camera
   Description: Take your first photograph
   GS: '20'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 67%
+  Number of Gamers: 10
+  Percentage of Gamers: 62%
   Ratio: 1.22
   TA: '24'
-  Tags: []
-Base Ratio: 2.268
-Base TA: 2268
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+Base Ratio: 2.748
+Base TA: 2748
 Delisted: false
 Developer: "M\xE1cula Interactive"
 Game Name: 'Mexico, 1921: A Deep Slumber'
 Genres: Adventure
 Install Size: 8160.0
 Number of Completions: 1
-Number of Gamers: 9
+Number of Gamers: 16
 Overall Completion Time:
 - 21
 - 21
 Overall GS: 1000
-Overall Ratio: 2.268
-Overall TA: 2268
+Overall Ratio: 2.748
+Overall TA: 2748
 PDU: 0
-Percentage Completed: 11.11
+Percentage Completed: 6.25
 Publisher: "M\xE1cula Interactive"
 Release Date: 09 January 2025
 Server Closure: false

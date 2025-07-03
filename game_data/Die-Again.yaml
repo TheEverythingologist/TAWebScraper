@@ -8,9 +8,9 @@ Base Game Achievements:
   Description: Collect all the achievements
   GS: '0'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 4%
-  Ratio: 4.84
+  Number of Gamers: 7
+  Percentage of Gamers: 11%
+  Ratio: 2.95
   TA: '0'
   Tags:
   - Offline Game Mode
@@ -19,9 +19,9 @@ Base Game Achievements:
   Description: Rescue the Red-Blooded One
   GS: '15'
   Guide: false
-  Number of Gamers: 40
-  Percentage of Gamers: 85%
-  Ratio: 1.08
+  Number of Gamers: 51
+  Percentage of Gamers: 82%
+  Ratio: 1.09
   TA: '16'
   Tags:
   - Offline Mode
@@ -31,10 +31,10 @@ Base Game Achievements:
   Description: Kill Delta
   GS: '15'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 38%
-  Ratio: 1.61
-  TA: '24'
+  Number of Gamers: 26
+  Percentage of Gamers: 42%
+  Ratio: 1.53
+  TA: '22'
   Tags:
   - Offline Mode
   - Single Player
@@ -43,10 +43,10 @@ Base Game Achievements:
   Description: Witness a nuclear launch
   GS: '30'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 28%
-  Ratio: 1.9
-  TA: '57'
+  Number of Gamers: 20
+  Percentage of Gamers: 32%
+  Ratio: 1.74
+  TA: '52'
   Tags:
   - Offline Mode
   - Single Player
@@ -55,10 +55,10 @@ Base Game Achievements:
   Description: Arrive to the Great City of Horts
   GS: '30'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 26%
-  Ratio: 1.97
-  TA: '59'
+  Number of Gamers: 19
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '53'
   Tags:
   - Offline Mode
   - Single Player
@@ -67,10 +67,10 @@ Base Game Achievements:
   Description: Know Steiner's secret
   GS: '90'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 13%
-  Ratio: 2.79
-  TA: '251'
+  Number of Gamers: 13
+  Percentage of Gamers: 21%
+  Ratio: 2.16
+  TA: '194'
   Tags:
   - Offline Mode
   - Single Player
@@ -79,10 +79,10 @@ Base Game Achievements:
   Description: Sabotage a K12 factory
   GS: '90'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 13%
-  Ratio: 2.79
-  TA: '251'
+  Number of Gamers: 12
+  Percentage of Gamers: 19%
+  Ratio: 2.25
+  TA: '202'
   Tags:
   - Offline Mode
   - Single Player
@@ -91,10 +91,10 @@ Base Game Achievements:
   Description: Defeat the Luin Death Squad
   GS: '90'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 13%
-  Ratio: 2.79
-  TA: '251'
+  Number of Gamers: 12
+  Percentage of Gamers: 19%
+  Ratio: 2.25
+  TA: '202'
   Tags:
   - Offline Mode
   - Single Player
@@ -103,10 +103,10 @@ Base Game Achievements:
   Description: Get the Answers Ending
   GS: '90'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 11%
-  Ratio: 3.06
-  TA: '275'
+  Number of Gamers: 11
+  Percentage of Gamers: 18%
+  Ratio: 2.35
+  TA: '211'
   Tags:
   - Offline Mode
   - Single Player
@@ -115,10 +115,10 @@ Base Game Achievements:
   Description: Get the Red Blood Ending
   GS: '90'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 9%
-  Ratio: 3.42
-  TA: '308'
+  Number of Gamers: 10
+  Percentage of Gamers: 16%
+  Ratio: 2.46
+  TA: '222'
   Tags:
   - Offline Mode
   - Single Player
@@ -127,10 +127,10 @@ Base Game Achievements:
   Description: Get the Blue Blood Ending
   GS: '90'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 9%
-  Ratio: 3.42
-  TA: '308'
+  Number of Gamers: 10
+  Percentage of Gamers: 16%
+  Ratio: 2.46
+  TA: '222'
   Tags:
   - Offline Mode
   - Single Player
@@ -138,11 +138,11 @@ Base Game Achievements:
 - Achievement Name: 'Ending: Coward'
   Description: Get the Coward Ending
   GS: '90'
-  Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 6%
-  Ratio: 3.95
-  TA: '356'
+  Guide: true
+  Number of Gamers: 8
+  Percentage of Gamers: 13%
+  Ratio: 2.76
+  TA: '248'
   Tags:
   - Offline Mode
   - Single Player
@@ -151,8 +151,8 @@ Base Game Achievements:
   Description: Die and live for the first time
   GS: '15'
   Guide: false
-  Number of Gamers: 47
-  Percentage of Gamers: 100%
+  Number of Gamers: 61
+  Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '15'
   Tags:
@@ -162,11 +162,11 @@ Base Game Achievements:
 - Achievement Name: Pet the Dog
   Description: You can pet the dog
   GS: '15'
-  Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 19%
-  Ratio: 2.28
-  TA: '34'
+  Guide: true
+  Number of Gamers: 17
+  Percentage of Gamers: 27%
+  Ratio: 1.89
+  TA: '28'
   Tags:
   - Offline Mode
   - Single Player
@@ -174,11 +174,11 @@ Base Game Achievements:
 - Achievement Name: Pet the Cat
   Description: You can also pet the cat
   GS: '15'
-  Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 9%
-  Ratio: 3.42
-  TA: '51'
+  Guide: true
+  Number of Gamers: 11
+  Percentage of Gamers: 18%
+  Ratio: 2.35
+  TA: '35'
   Tags:
   - Offline Mode
   - Single Player
@@ -187,10 +187,10 @@ Base Game Achievements:
   Description: Make Shald's dream come true
   GS: '30'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 21%
-  Ratio: 2.16
-  TA: '65'
+  Number of Gamers: 17
+  Percentage of Gamers: 27%
+  Ratio: 1.89
+  TA: '56'
   Tags:
   - Offline Mode
   - Single Player
@@ -198,56 +198,59 @@ Base Game Achievements:
 - Achievement Name: Unlimited Power
   Description: Obtain otherworldly power
   GS: '30'
-  Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 19%
-  Ratio: 2.28
-  TA: '68'
+  Guide: true
+  Number of Gamers: 15
+  Percentage of Gamers: 24%
+  Ratio: 2.01
+  TA: '60'
   Tags:
   - Offline Mode
   - Single Player
+  - Collectable
   - Missable
 - Achievement Name: Release
   Description: Obtain more ammo for your shotguns
   GS: '87'
-  Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 26%
-  Ratio: 1.97
-  TA: '172'
+  Guide: true
+  Number of Gamers: 19
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '155'
   Tags:
   - Offline Mode
   - Single Player
+  - Collectable
   - Missable
 - Achievement Name: Apocalypse
   Description: Obtein more ammo for your rifles
   GS: '88'
-  Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 15%
-  Ratio: 2.59
-  TA: '228'
+  Guide: true
+  Number of Gamers: 14
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '183'
   Tags:
   - Offline Mode
   - Single Player
+  - Collectable
   - Missable
-Base Ratio: 2.789
-Base TA: 2789
+Base Ratio: 2.176
+Base TA: 2176
 Delisted: false
 Developer: VarnGameDev, Catness Game Studios
 Game Name: Die Again
 Genres: Shoot 'em up
 Install Size: 12460.0
-Number of Completions: 2
-Number of Gamers: 47
+Number of Completions: 8
+Number of Gamers: 62
 Overall Completion Time:
 - 2
 - 3
 Overall GS: 1000
-Overall Ratio: 2.789
-Overall TA: 2789
+Overall Ratio: 2.176
+Overall TA: 2176
 PDU: 0
-Percentage Completed: 4.26
+Percentage Completed: 12.9
 Publisher: Catness Game Studios
 Release Date: 11 April 2024
 Server Closure: false

@@ -1,16 +1,16 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 0.5
-Base GS: 1000
+- 1.0
+Base GS: 2000
 Base Game Achievements:
 - Achievement Name: Megacloud Clear!
   Description: Face Megacloud at the end of W1 and beat him.
   GS: '80'
   Guide: false
-  Number of Gamers: 905
+  Number of Gamers: 957
   Percentage of Gamers: 96%
-  Ratio: 1.02
+  Ratio: 1.01
   TA: '81'
   Tags:
   - Offline Mode
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Defeat two enemies in row without landing. Try softening them up first!
   GS: '50'
   Guide: false
-  Number of Gamers: 917
+  Number of Gamers: 967
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '50'
@@ -31,9 +31,9 @@ Base Game Achievements:
   Description: Face The Dungeon Monster at the end of W2 and beat him.
   GS: '80'
   Guide: false
-  Number of Gamers: 882
+  Number of Gamers: 938
   Percentage of Gamers: 94%
-  Ratio: 1.03
+  Ratio: 1.02
   TA: '82'
   Tags:
   - Offline Mode
@@ -43,8 +43,8 @@ Base Game Achievements:
   Description: Beat Megacloud in less than a minute.
   GS: '100'
   Guide: true
-  Number of Gamers: 898
-  Percentage of Gamers: 95%
+  Number of Gamers: 951
+  Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '102'
   Tags:
@@ -55,7 +55,7 @@ Base Game Achievements:
   Description: Beat the first level of any world.
   GS: '80'
   Guide: true
-  Number of Gamers: 942
+  Number of Gamers: 992
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '80'
@@ -67,7 +67,7 @@ Base Game Achievements:
   Description: Beat the second level of any world.
   GS: '80'
   Guide: false
-  Number of Gamers: 936
+  Number of Gamers: 986
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '80'
@@ -79,9 +79,9 @@ Base Game Achievements:
   Description: Beat the third level of any world.
   GS: '80'
   Guide: false
-  Number of Gamers: 924
+  Number of Gamers: 974
   Percentage of Gamers: 98%
-  Ratio: 1.01
+  Ratio: 1.0
   TA: '80'
   Tags:
   - Offline Mode
@@ -91,9 +91,9 @@ Base Game Achievements:
   Description: Beat the fourth level of any world .
   GS: '80'
   Guide: false
-  Number of Gamers: 924
+  Number of Gamers: 974
   Percentage of Gamers: 98%
-  Ratio: 1.01
+  Ratio: 1.0
   TA: '80'
   Tags:
   - Offline Mode
@@ -103,7 +103,7 @@ Base Game Achievements:
   Description: Beat the fith level of any world.
   GS: '80'
   Guide: false
-  Number of Gamers: 923
+  Number of Gamers: 973
   Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '80'
@@ -115,7 +115,7 @@ Base Game Achievements:
   Description: Beat the sixth level of any world.
   GS: '80'
   Guide: false
-  Number of Gamers: 923
+  Number of Gamers: 973
   Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '80'
@@ -127,7 +127,7 @@ Base Game Achievements:
   Description: Beat the seventh level of any world.
   GS: '80'
   Guide: false
-  Number of Gamers: 914
+  Number of Gamers: 964
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '81'
@@ -139,7 +139,7 @@ Base Game Achievements:
   Description: Beat the eighth level of any world.
   GS: '80'
   Guide: false
-  Number of Gamers: 914
+  Number of Gamers: 964
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '81'
@@ -151,34 +151,226 @@ Base Game Achievements:
   Description: Beat 50 total enemies.
   GS: '50'
   Guide: false
-  Number of Gamers: 902
+  Number of Gamers: 955
   Percentage of Gamers: 96%
-  Ratio: 1.02
-  TA: '51'
+  Ratio: 1.01
+  TA: '50'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 1.008
-Base TA: 1008
+Base Ratio: 1.2025
+Base TA: 2405
 Delisted: false
 Developer: Spacespy
 Game Name: Egglien
 Genres: Platformer
-Install Size: 367.0
-Number of Completions: 877
-Number of Gamers: 943
+Install Size: 388.0
+Number of Completions: 495
+Number of Gamers: 993
 Overall Completion Time:
 - 0.0
-- 0.5
-Overall GS: 1000
-Overall Ratio: 1.008
-Overall TA: 1008
+- 1.0
+Overall GS: 2000
+Overall Ratio: 1.2025
+Overall TA: 2405
 PDU: 0
-Percentage Completed: 93.0
+Percentage Completed: 49.85
 Publisher: Penguin Pop Games
 Release Date: 05 April 2023
 Server Closure: false
-Site Rating: 2.28
-Update Achievements: []
+Site Rating: 2.32
+Update Achievements:
+- Achievement Name: The Basics
+  Description: Complete Level 1-1.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 514
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '69'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Evil Spirits
+  Description: Complete Level 1-2.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 510
+  Percentage of Gamers: 51%
+  Ratio: 1.39
+  TA: '69'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Bricks
+  Description: Complete Level 1-3.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 505
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '70'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: TNT
+  Description: Complete Level 1-4.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 504
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '70'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Kaboom
+  Description: Complete Level 1-5.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 504
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '70'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Guard Clouds
+  Description: Complete Level 1-6.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 502
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '70'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Arch
+  Description: Complete Level 1-7.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 500
+  Percentage of Gamers: 50%
+  Ratio: 1.4
+  TA: '70'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: TNT Wall
+  Description: Complete Level 1-8.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 502
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '70'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Keep Your Eye Out
+  Description: Complete Level 2-1.
+  GS: '75'
+  Guide: false
+  Number of Gamers: 501
+  Percentage of Gamers: 50%
+  Ratio: 1.4
+  TA: '105'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Threes
+  Description: Complete Level 2-2.
+  GS: '75'
+  Guide: false
+  Number of Gamers: 500
+  Percentage of Gamers: 50%
+  Ratio: 1.4
+  TA: '105'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Enemy Gates
+  Description: Complete Level 2-3.
+  GS: '75'
+  Guide: false
+  Number of Gamers: 498
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '105'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Releasing Evil
+  Description: Complete Level 2-4.
+  GS: '75'
+  Guide: false
+  Number of Gamers: 498
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '105'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Return of the TNT
+  Description: Complete Level 2-5.
+  GS: '75'
+  Guide: false
+  Number of Gamers: 498
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '105'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Triple Bullet Trouble
+  Description: Complete Level 2-6.
+  GS: '75'
+  Guide: false
+  Number of Gamers: 498
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '105'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: More Gates
+  Description: Complete Level 2-7.
+  GS: '75'
+  Guide: false
+  Number of Gamers: 498
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '105'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Two Rooms
+  Description: Complete Level 2-8.
+  GS: '75'
+  Guide: true
+  Number of Gamers: 498
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '105'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 Walkthrough: false

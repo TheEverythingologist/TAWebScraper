@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 13
-- 14
+- 8.0
+- 10.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Fruit Picker
   Description: Pick 10 Ambrosia Fruit
   GS: '15'
-  Guide: false
-  Number of Gamers: 49
+  Guide: true
+  Number of Gamers: 6871
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '15'
@@ -19,11 +19,11 @@ Base Game Achievements:
 - Achievement Name: Radar Rookie
   Description: Find 10 Lost Mementos
   GS: '15'
-  Guide: false
-  Number of Gamers: 34
-  Percentage of Gamers: 69%
-  Ratio: 1.2
-  TA: '18'
+  Guide: true
+  Number of Gamers: 3595
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '20'
   Tags:
   - Offline Mode
   - Single Player
@@ -31,11 +31,11 @@ Base Game Achievements:
 - Achievement Name: Horizontal
   Description: Use a Chillout Spot 5 Times
   GS: '15'
-  Guide: false
-  Number of Gamers: 37
-  Percentage of Gamers: 76%
-  Ratio: 1.15
-  TA: '17'
+  Guide: true
+  Number of Gamers: 3502
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '21'
   Tags:
   - Offline Mode
   - Single Player
@@ -43,11 +43,11 @@ Base Game Achievements:
 - Achievement Name: House Guest
   Description: Visit an Islander's Home for the First Time
   GS: '15'
-  Guide: false
-  Number of Gamers: 43
-  Percentage of Gamers: 88%
-  Ratio: 1.06
-  TA: '16'
+  Guide: true
+  Number of Gamers: 4738
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '18'
   Tags:
   - Offline Mode
   - Single Player
@@ -55,11 +55,11 @@ Base Game Achievements:
 - Achievement Name: Tree Talker
   Description: Check on the Gaia Tree 3 Times
   GS: '15'
-  Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 61%
-  Ratio: 1.27
-  TA: '19'
+  Guide: true
+  Number of Gamers: 2971
+  Percentage of Gamers: 43%
+  Ratio: 1.52
+  TA: '22'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,22 +68,22 @@ Base Game Achievements:
 - Achievement Name: Green Fingers
   Description: Harvest Your First Fruit Crop
   GS: '15'
-  Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 63%
-  Ratio: 1.25
-  TA: '18'
+  Guide: true
+  Number of Gamers: 3338
+  Percentage of Gamers: 48%
+  Ratio: 1.43
+  TA: '21'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Crabby
   Description: Startle the Crabs 20 Times
   GS: '15'
-  Guide: false
-  Number of Gamers: 39
-  Percentage of Gamers: 80%
-  Ratio: 1.12
-  TA: '16'
+  Guide: true
+  Number of Gamers: 3888
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '19'
   Tags:
   - Offline Mode
   - Single Player
@@ -91,11 +91,11 @@ Base Game Achievements:
 - Achievement Name: Water Walker
   Description: Reach an Offshore Island
   GS: '15'
-  Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 61%
-  Ratio: 1.27
-  TA: '19'
+  Guide: true
+  Number of Gamers: 3274
+  Percentage of Gamers: 47%
+  Ratio: 1.45
+  TA: '21'
   Tags:
   - Offline Mode
   - Single Player
@@ -103,11 +103,11 @@ Base Game Achievements:
 - Achievement Name: Music Lover
   Description: Collect all Music Cassettes
   GS: '15'
-  Guide: false
-  Number of Gamers: 29
-  Percentage of Gamers: 59%
-  Ratio: 1.29
-  TA: '19'
+  Guide: true
+  Number of Gamers: 2986
+  Percentage of Gamers: 43%
+  Ratio: 1.51
+  TA: '22'
   Tags:
   - Offline Mode
   - Single Player
@@ -116,11 +116,11 @@ Base Game Achievements:
 - Achievement Name: Home Improvements
   Description: Acquire all of Hephaestus' Furniture
   GS: '30'
-  Guide: false
-  Number of Gamers: 32
-  Percentage of Gamers: 65%
-  Ratio: 1.23
-  TA: '37'
+  Guide: true
+  Number of Gamers: 3243
+  Percentage of Gamers: 47%
+  Ratio: 1.45
+  TA: '43'
   Tags:
   - Offline Mode
   - Single Player
@@ -128,11 +128,11 @@ Base Game Achievements:
 - Achievement Name: Statuesque
   Description: Restore all the Atrium Statues
   GS: '30'
-  Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 61%
-  Ratio: 1.27
-  TA: '38'
+  Guide: true
+  Number of Gamers: 3093
+  Percentage of Gamers: 45%
+  Ratio: 1.49
+  TA: '44'
   Tags:
   - Offline Mode
   - Single Player
@@ -141,10 +141,10 @@ Base Game Achievements:
   Description: Find all the Hidden Treasure
   GS: '30'
   Guide: true
-  Number of Gamers: 29
-  Percentage of Gamers: 59%
-  Ratio: 1.29
-  TA: '38'
+  Number of Gamers: 2966
+  Percentage of Gamers: 43%
+  Ratio: 1.52
+  TA: '45'
   Tags:
   - Offline Mode
   - Single Player
@@ -152,11 +152,11 @@ Base Game Achievements:
 - Achievement Name: Open Sesame
   Description: Open all the Fast Travel Doors
   GS: '30'
-  Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 61%
-  Ratio: 1.27
-  TA: '38'
+  Guide: true
+  Number of Gamers: 3225
+  Percentage of Gamers: 47%
+  Ratio: 1.46
+  TA: '43'
   Tags:
   - Offline Mode
   - Single Player
@@ -165,11 +165,11 @@ Base Game Achievements:
 - Achievement Name: Ghost Whisperer
   Description: Guide all the Wayward Ghosts to the Underworld
   GS: '30'
-  Guide: false
-  Number of Gamers: 29
-  Percentage of Gamers: 59%
-  Ratio: 1.29
-  TA: '38'
+  Guide: true
+  Number of Gamers: 3133
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '44'
   Tags:
   - Offline Mode
   - Single Player
@@ -177,11 +177,11 @@ Base Game Achievements:
 - Achievement Name: History Buff
   Description: Translate all the Ancient Lore Columns
   GS: '30'
-  Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 61%
-  Ratio: 1.27
-  TA: '38'
+  Guide: true
+  Number of Gamers: 3177
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '44'
   Tags:
   - Offline Mode
   - Single Player
@@ -189,11 +189,11 @@ Base Game Achievements:
 - Achievement Name: Light Bringer
   Description: Charge all of the Island's Power Slabs
   GS: '30'
-  Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 61%
-  Ratio: 1.27
-  TA: '38'
+  Guide: true
+  Number of Gamers: 3214
+  Percentage of Gamers: 47%
+  Ratio: 1.46
+  TA: '43'
   Tags:
   - Offline Mode
   - Single Player
@@ -201,11 +201,11 @@ Base Game Achievements:
 - Achievement Name: Wind Power
   Description: Restore the Island's Wind Turbines
   GS: '30'
-  Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 61%
-  Ratio: 1.27
-  TA: '38'
+  Guide: true
+  Number of Gamers: 3213
+  Percentage of Gamers: 47%
+  Ratio: 1.46
+  TA: '43'
   Tags:
   - Offline Mode
   - Single Player
@@ -213,11 +213,11 @@ Base Game Achievements:
 - Achievement Name: The Birds
   Description: Feed all of the Island Gulls
   GS: '30'
-  Guide: false
-  Number of Gamers: 32
-  Percentage of Gamers: 65%
-  Ratio: 1.23
-  TA: '37'
+  Guide: true
+  Number of Gamers: 3408
+  Percentage of Gamers: 49%
+  Ratio: 1.42
+  TA: '42'
   Tags:
   - Offline Mode
   - Single Player
@@ -225,11 +225,11 @@ Base Game Achievements:
 - Achievement Name: Let it Flow
   Description: Restore the Island's Dry Fountains
   GS: '30'
-  Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 61%
-  Ratio: 1.27
-  TA: '38'
+  Guide: true
+  Number of Gamers: 3193
+  Percentage of Gamers: 46%
+  Ratio: 1.46
+  TA: '44'
   Tags:
   - Offline Mode
   - Single Player
@@ -237,11 +237,11 @@ Base Game Achievements:
 - Achievement Name: Weapon Detective
   Description: Arm the Amazon Warriors
   GS: '30'
-  Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 61%
-  Ratio: 1.27
-  TA: '38'
+  Guide: true
+  Number of Gamers: 3288
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '43'
   Tags:
   - Offline Mode
   - Single Player
@@ -249,11 +249,11 @@ Base Game Achievements:
 - Achievement Name: Art Appreciator
   Description: Restore the Island Mosiacs
   GS: '30'
-  Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 61%
-  Ratio: 1.27
-  TA: '38'
+  Guide: true
+  Number of Gamers: 3222
+  Percentage of Gamers: 47%
+  Ratio: 1.46
+  TA: '43'
   Tags:
   - Offline Mode
   - Single Player
@@ -261,11 +261,11 @@ Base Game Achievements:
 - Achievement Name: Fruit Fever
   Description: Pick 250 Ambrosia Fruit
   GS: '30'
-  Guide: false
-  Number of Gamers: 38
-  Percentage of Gamers: 78%
-  Ratio: 1.13
-  TA: '34'
+  Guide: true
+  Number of Gamers: 3740
+  Percentage of Gamers: 54%
+  Ratio: 1.35
+  TA: '40'
   Tags:
   - Offline Mode
   - Single Player
@@ -273,11 +273,11 @@ Base Game Achievements:
 - Achievement Name: Warm Welcome
   Description: Visit 4 Different Islander's Homes
   GS: '30'
-  Guide: false
-  Number of Gamers: 33
-  Percentage of Gamers: 67%
-  Ratio: 1.21
-  TA: '36'
+  Guide: true
+  Number of Gamers: 3526
+  Percentage of Gamers: 51%
+  Ratio: 1.39
+  TA: '41'
   Tags:
   - Offline Mode
   - Single Player
@@ -285,11 +285,11 @@ Base Game Achievements:
 - Achievement Name: Detectorist
   Description: Find 20 Lost Mementos
   GS: '30'
-  Guide: false
-  Number of Gamers: 32
-  Percentage of Gamers: 65%
-  Ratio: 1.23
-  TA: '37'
+  Guide: true
+  Number of Gamers: 3474
+  Percentage of Gamers: 50%
+  Ratio: 1.4
+  TA: '42'
   Tags:
   - Offline Mode
   - Single Player
@@ -297,11 +297,11 @@ Base Game Achievements:
 - Achievement Name: Fast Tracked
   Description: Use the Fast Travel Portals 10 Times
   GS: '50'
-  Guide: false
-  Number of Gamers: 35
-  Percentage of Gamers: 71%
-  Ratio: 1.18
-  TA: '59'
+  Guide: true
+  Number of Gamers: 3630
+  Percentage of Gamers: 53%
+  Ratio: 1.37
+  TA: '68'
   Tags:
   - Offline Mode
   - Single Player
@@ -310,11 +310,11 @@ Base Game Achievements:
 - Achievement Name: God of Fruit
   Description: Pick 500 Ambrosia Fruit
   GS: '50'
-  Guide: false
-  Number of Gamers: 32
-  Percentage of Gamers: 65%
-  Ratio: 1.23
-  TA: '61'
+  Guide: true
+  Number of Gamers: 3408
+  Percentage of Gamers: 49%
+  Ratio: 1.42
+  TA: '71'
   Tags:
   - Offline Mode
   - Single Player
@@ -322,11 +322,11 @@ Base Game Achievements:
 - Achievement Name: All Abode
   Description: Visit all of the Islander's Homes
   GS: '50'
-  Guide: false
-  Number of Gamers: 29
-  Percentage of Gamers: 59%
-  Ratio: 1.29
-  TA: '64'
+  Guide: true
+  Number of Gamers: 3169
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '73'
   Tags:
   - Offline Mode
   - Single Player
@@ -334,11 +334,11 @@ Base Game Achievements:
 - Achievement Name: Memento Maestro
   Description: Find 30 Lost Mementos
   GS: '50'
-  Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 61%
-  Ratio: 1.27
-  TA: '63'
+  Guide: true
+  Number of Gamers: 3270
+  Percentage of Gamers: 47%
+  Ratio: 1.45
+  TA: '72'
   Tags:
   - Offline Mode
   - Single Player
@@ -346,11 +346,11 @@ Base Game Achievements:
 - Achievement Name: Plot Thickens
   Description: Place all Soulstones in the Gaia Cavern
   GS: '50'
-  Guide: false
-  Number of Gamers: 29
-  Percentage of Gamers: 59%
-  Ratio: 1.29
-  TA: '64'
+  Guide: true
+  Number of Gamers: 3114
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '74'
   Tags:
   - Offline Mode
   - Single Player
@@ -358,11 +358,11 @@ Base Game Achievements:
 - Achievement Name: Seal the Deal
   Description: Collect all the Island Seals
   GS: '50'
-  Guide: false
-  Number of Gamers: 29
-  Percentage of Gamers: 59%
-  Ratio: 1.29
-  TA: '64'
+  Guide: true
+  Number of Gamers: 3098
+  Percentage of Gamers: 45%
+  Ratio: 1.49
+  TA: '74'
   Tags:
   - Offline Mode
   - Single Player
@@ -370,11 +370,11 @@ Base Game Achievements:
 - Achievement Name: Bon Voyage
   Description: Find a Way off the Island
   GS: '50'
-  Guide: false
-  Number of Gamers: 29
-  Percentage of Gamers: 59%
-  Ratio: 1.29
-  TA: '64'
+  Guide: true
+  Number of Gamers: 3097
+  Percentage of Gamers: 45%
+  Ratio: 1.49
+  TA: '74'
   Tags:
   - Offline Mode
   - Single Player
@@ -383,36 +383,36 @@ Base Game Achievements:
 - Achievement Name: Ultimate Islander
   Description: Complete all other Island Acheivements
   GS: '65'
-  Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 55%
-  Ratio: 1.34
-  TA: '87'
+  Guide: true
+  Number of Gamers: 2595
+  Percentage of Gamers: 38%
+  Ratio: 1.62
+  TA: '105'
   Tags:
   - Offline Mode
   - Single Player
   - Collectable
   - Shop
-Base Ratio: 1.244
-Base TA: 1244
+Base Ratio: 1.434
+Base TA: 1434
 Delisted: false
 Developer: Polygon Treehouse
 Game Name: 'Mythwrecked: Ambrosia Island'
 Genres: Adventure
-Install Size: 1540.0
-Number of Completions: 27
-Number of Gamers: 49
+Install Size: 1550.0
+Number of Completions: 2586
+Number of Gamers: 6893
 Overall Completion Time:
-- 13
-- 14
+- 8.0
+- 10.0
 Overall GS: 1000
-Overall Ratio: 1.244
-Overall TA: 1244
+Overall Ratio: 1.434
+Overall TA: 1434
 PDU: 0
-Percentage Completed: 55.1
+Percentage Completed: 37.52
 Publisher: Whitethorn Games
 Release Date: 05 December 2024
 Server Closure: false
-Site Rating: 4.75
+Site Rating: 3.25
 Update Achievements: []
 Walkthrough: false

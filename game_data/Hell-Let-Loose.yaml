@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- 106.0
-- 133.5
-Base GS: 1705
+- 120.0
+- 151.5
+Base GS: 1825
 Base Game Achievements:
 - Achievement Name: Warfare Master
   Description: Win 25 Warfare battles
   GS: '100'
   Guide: true
-  Number of Gamers: 4059
+  Number of Gamers: 4649
   Percentage of Gamers: 3%
-  Ratio: 5.92
-  TA: '592'
+  Ratio: 5.67
+  TA: '567'
   Tags:
   - Online Mode
   - Versus
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Win 25 Offensive battles
   GS: '100'
   Guide: false
-  Number of Gamers: 4548
+  Number of Gamers: 5007
   Percentage of Gamers: 3%
-  Ratio: 5.58
-  TA: '558'
+  Ratio: 5.47
+  TA: '547'
   Tags:
   - Online Mode
   - Versus
@@ -32,7 +32,7 @@ Base Game Achievements:
   Description: Kill your first enemy
   GS: '10'
   Guide: true
-  Number of Gamers: 107637
+  Number of Gamers: 113871
   Percentage of Gamers: 76%
   Ratio: 1.14
   TA: '11'
@@ -43,7 +43,7 @@ Base Game Achievements:
   Description: Revive a friendly player
   GS: '10'
   Guide: true
-  Number of Gamers: 43285
+  Number of Gamers: 45934
   Percentage of Gamers: 31%
   Ratio: 1.8
   TA: '18'
@@ -54,9 +54,9 @@ Base Game Achievements:
   Description: Revive 10 friendly players in one match
   GS: '30'
   Guide: true
-  Number of Gamers: 15946
+  Number of Gamers: 16852
   Percentage of Gamers: 11%
-  Ratio: 2.97
+  Ratio: 2.98
   TA: '89'
   Tags:
   - Online Mode
@@ -65,9 +65,9 @@ Base Game Achievements:
   Description: Place your first OP/Garrison
   GS: '10'
   Guide: true
-  Number of Gamers: 44672
+  Number of Gamers: 47506
   Percentage of Gamers: 32%
-  Ratio: 1.78
+  Ratio: 1.77
   TA: '17'
   Tags:
   - Online Mode
@@ -76,10 +76,10 @@ Base Game Achievements:
   Description: Get 100 kills with Artillery in total
   GS: '30'
   Guide: true
-  Number of Gamers: 2408
+  Number of Gamers: 2632
   Percentage of Gamers: 2%
-  Ratio: 7.68
-  TA: '230'
+  Ratio: 7.54
+  TA: '226'
   Tags:
   - Online Mode
   - Versus
@@ -88,9 +88,9 @@ Base Game Achievements:
   Description: Teamkill yourself with your own grenade
   GS: '5'
   Guide: true
-  Number of Gamers: 37009
+  Number of Gamers: 39405
   Percentage of Gamers: 26%
-  Ratio: 1.95
+  Ratio: 1.94
   TA: '9'
   Tags:
   - Online Mode
@@ -99,9 +99,9 @@ Base Game Achievements:
   Description: Win a match as Axis
   GS: '20'
   Guide: true
-  Number of Gamers: 60443
+  Number of Gamers: 64183
   Percentage of Gamers: 43%
-  Ratio: 1.53
+  Ratio: 1.52
   TA: '30'
   Tags:
   - Online Mode
@@ -110,9 +110,9 @@ Base Game Achievements:
   Description: Win a match as Allies
   GS: '20'
   Guide: true
-  Number of Gamers: 59523
+  Number of Gamers: 63211
   Percentage of Gamers: 42%
-  Ratio: 1.54
+  Ratio: 1.53
   TA: '30'
   Tags:
   - Online Mode
@@ -121,10 +121,10 @@ Base Game Achievements:
   Description: Play 5 matches on Sainte-Marie-du-Mont
   GS: '10'
   Guide: false
-  Number of Gamers: 8558
+  Number of Gamers: 9392
   Percentage of Gamers: 6%
-  Ratio: 4.07
-  TA: '40'
+  Ratio: 3.99
+  TA: '39'
   Tags:
   - Online Mode
   - Versus
@@ -133,9 +133,9 @@ Base Game Achievements:
   Description: Play 5 matches on Foy
   GS: '10'
   Guide: false
-  Number of Gamers: 7074
+  Number of Gamers: 7732
   Percentage of Gamers: 5%
-  Ratio: 4.47
+  Ratio: 4.4
   TA: '44'
   Tags:
   - Online Mode
@@ -145,9 +145,9 @@ Base Game Achievements:
   Description: "Play 5 matches on H\xFCrtgen"
   GS: '10'
   Guide: false
-  Number of Gamers: 7133
+  Number of Gamers: 7698
   Percentage of Gamers: 5%
-  Ratio: 4.46
+  Ratio: 4.41
   TA: '44'
   Tags:
   - Online Mode
@@ -157,10 +157,10 @@ Base Game Achievements:
   Description: "Play 5 matches on Sainte-M\xE8re-\xC9glise"
   GS: '10'
   Guide: false
-  Number of Gamers: 7905
+  Number of Gamers: 8749
   Percentage of Gamers: 6%
-  Ratio: 4.24
-  TA: '42'
+  Ratio: 4.13
+  TA: '41'
   Tags:
   - Online Mode
   - Versus
@@ -169,10 +169,10 @@ Base Game Achievements:
   Description: Play 5 matches on Utah Beach
   GS: '10'
   Guide: false
-  Number of Gamers: 7479
-  Percentage of Gamers: 5%
-  Ratio: 4.35
-  TA: '43'
+  Number of Gamers: 8245
+  Percentage of Gamers: 6%
+  Ratio: 4.26
+  TA: '42'
   Tags:
   - Online Mode
   - Versus
@@ -181,10 +181,10 @@ Base Game Achievements:
   Description: Play 5 matches on Omaha Beach
   GS: '10'
   Guide: true
-  Number of Gamers: 5998
-  Percentage of Gamers: 4%
-  Ratio: 4.87
-  TA: '48'
+  Number of Gamers: 6761
+  Percentage of Gamers: 5%
+  Ratio: 4.7
+  TA: '47'
   Tags:
   - Online Mode
   - Versus
@@ -193,10 +193,10 @@ Base Game Achievements:
   Description: Play 5 matches on Purple Heart Lane
   GS: '10'
   Guide: false
-  Number of Gamers: 6865
+  Number of Gamers: 7540
   Percentage of Gamers: 5%
-  Ratio: 4.54
-  TA: '45'
+  Ratio: 4.45
+  TA: '44'
   Tags:
   - Online Mode
   - Versus
@@ -205,10 +205,10 @@ Base Game Achievements:
   Description: Play 5 matches on Hill 400
   GS: '10'
   Guide: false
-  Number of Gamers: 5664
+  Number of Gamers: 6203
   Percentage of Gamers: 4%
-  Ratio: 5.0
-  TA: '50'
+  Ratio: 4.91
+  TA: '49'
   Tags:
   - Online Mode
   - Versus
@@ -217,7 +217,7 @@ Base Game Achievements:
   Description: Kill 5 players without dying
   GS: '10'
   Guide: true
-  Number of Gamers: 47046
+  Number of Gamers: 49759
   Percentage of Gamers: 33%
   Ratio: 1.73
   TA: '17'
@@ -228,7 +228,7 @@ Base Game Achievements:
   Description: Lose a match
   GS: '5'
   Guide: true
-  Number of Gamers: 80824
+  Number of Gamers: 85741
   Percentage of Gamers: 57%
   Ratio: 1.32
   TA: '6'
@@ -239,7 +239,7 @@ Base Game Achievements:
   Description: Be the last player alive in your squad
   GS: '25'
   Guide: true
-  Number of Gamers: 95213
+  Number of Gamers: 101079
   Percentage of Gamers: 67%
   Ratio: 1.21
   TA: '30'
@@ -250,10 +250,10 @@ Base Game Achievements:
   Description: Drop 100 Ammo boxes
   GS: '20'
   Guide: true
-  Number of Gamers: 1699
+  Number of Gamers: 1941
   Percentage of Gamers: 1%
-  Ratio: 9.14
-  TA: '182'
+  Ratio: 8.78
+  TA: '175'
   Tags:
   - Online Mode
   - Versus
@@ -262,10 +262,10 @@ Base Game Achievements:
   Description: Drop 5000 Supplies in total
   GS: '30'
   Guide: true
-  Number of Gamers: 3426
-  Percentage of Gamers: 2%
-  Ratio: 6.44
-  TA: '193'
+  Number of Gamers: 3803
+  Percentage of Gamers: 3%
+  Ratio: 6.27
+  TA: '188'
   Tags:
   - Online Mode
   - Versus
@@ -273,11 +273,11 @@ Base Game Achievements:
 - Achievement Name: Like Stealing Candy from a Baby
   Description: Capture 100 Sectors
   GS: '30'
-  Guide: false
-  Number of Gamers: 3497
-  Percentage of Gamers: 2%
-  Ratio: 6.38
-  TA: '191'
+  Guide: true
+  Number of Gamers: 3964
+  Percentage of Gamers: 3%
+  Ratio: 6.14
+  TA: '184'
   Tags:
   - Online Mode
   - Versus
@@ -286,10 +286,10 @@ Base Game Achievements:
   Description: Build 100 Fuel Nodes in total
   GS: '15'
   Guide: false
-  Number of Gamers: 536
+  Number of Gamers: 608
   Percentage of Gamers: 0%
-  Ratio: 16.32
-  TA: '244'
+  Ratio: 15.69
+  TA: '235'
   Tags:
   - Online Mode
   - Versus
@@ -298,10 +298,10 @@ Base Game Achievements:
   Description: Build 100 Manpower Nodes in total
   GS: '15'
   Guide: false
-  Number of Gamers: 554
+  Number of Gamers: 629
   Percentage of Gamers: 0%
-  Ratio: 16.08
-  TA: '241'
+  Ratio: 15.43
+  TA: '231'
   Tags:
   - Online Mode
   - Versus
@@ -310,10 +310,10 @@ Base Game Achievements:
   Description: Build 100 Munition Nodes in total
   GS: '15'
   Guide: false
-  Number of Gamers: 558
+  Number of Gamers: 632
   Percentage of Gamers: 0%
-  Ratio: 16.0
-  TA: '240'
+  Ratio: 15.39
+  TA: '230'
   Tags:
   - Online Mode
   - Versus
@@ -322,10 +322,10 @@ Base Game Achievements:
   Description: Build 20 buildable objects in one match
   GS: '30'
   Guide: true
-  Number of Gamers: 4965
+  Number of Gamers: 5332
   Percentage of Gamers: 4%
-  Ratio: 5.34
-  TA: '160'
+  Ratio: 5.3
+  TA: '159'
   Tags:
   - Online Mode
   - Versus
@@ -333,7 +333,7 @@ Base Game Achievements:
   Description: Kill 10 players without dying
   GS: '30'
   Guide: true
-  Number of Gamers: 25749
+  Number of Gamers: 27207
   Percentage of Gamers: 18%
   Ratio: 2.34
   TA: '70'
@@ -344,10 +344,10 @@ Base Game Achievements:
   Description: Kill 100 players with headshots
   GS: '30'
   Guide: true
-  Number of Gamers: 6965
+  Number of Gamers: 7786
   Percentage of Gamers: 5%
-  Ratio: 4.52
-  TA: '135'
+  Ratio: 4.38
+  TA: '131'
   Tags:
   - Online Mode
   - Versus
@@ -356,7 +356,7 @@ Base Game Achievements:
   Description: Destroy a vehicle
   GS: '10'
   Guide: false
-  Number of Gamers: 25480
+  Number of Gamers: 27071
   Percentage of Gamers: 18%
   Ratio: 2.35
   TA: '23'
@@ -367,10 +367,10 @@ Base Game Achievements:
   Description: Destroy 100 vehicles
   GS: '50'
   Guide: true
-  Number of Gamers: 1432
+  Number of Gamers: 1622
   Percentage of Gamers: 1%
-  Ratio: 9.97
-  TA: '498'
+  Ratio: 9.61
+  TA: '480'
   Tags:
   - Online Mode
   - Versus
@@ -379,10 +379,10 @@ Base Game Achievements:
   Description: Destroy a vehicle with an AT mine
   GS: '15'
   Guide: true
-  Number of Gamers: 3599
+  Number of Gamers: 3866
   Percentage of Gamers: 3%
-  Ratio: 6.28
-  TA: '94'
+  Ratio: 6.22
+  TA: '93'
   Tags:
   - Online Mode
   - Versus
@@ -390,9 +390,9 @@ Base Game Achievements:
   Description: Destroy a vehicle with the Artillery
   GS: '15'
   Guide: true
-  Number of Gamers: 4056
+  Number of Gamers: 4338
   Percentage of Gamers: 3%
-  Ratio: 5.91
+  Ratio: 5.87
   TA: '88'
   Tags:
   - Online Mode
@@ -401,10 +401,10 @@ Base Game Achievements:
   Description: Drop 250 Supply Boxes from a Supply Truck
   GS: '30'
   Guide: true
-  Number of Gamers: 584
+  Number of Gamers: 692
   Percentage of Gamers: 0%
-  Ratio: 15.61
-  TA: '468'
+  Ratio: 14.71
+  TA: '441'
   Tags:
   - Online Mode
   - Versus
@@ -413,7 +413,7 @@ Base Game Achievements:
   Description: Reach Career Level 10
   GS: '10'
   Guide: false
-  Number of Gamers: 38229
+  Number of Gamers: 40591
   Percentage of Gamers: 27%
   Ratio: 1.92
   TA: '19'
@@ -425,9 +425,9 @@ Base Game Achievements:
   Description: Reach Career Level 20
   GS: '20'
   Guide: false
-  Number of Gamers: 19755
+  Number of Gamers: 21129
   Percentage of Gamers: 14%
-  Ratio: 2.67
+  Ratio: 2.66
   TA: '53'
   Tags:
   - Online Mode
@@ -437,10 +437,10 @@ Base Game Achievements:
   Description: Reach Career Level 30
   GS: '30'
   Guide: false
-  Number of Gamers: 12063
+  Number of Gamers: 13003
   Percentage of Gamers: 9%
-  Ratio: 3.42
-  TA: '102'
+  Ratio: 3.39
+  TA: '101'
   Tags:
   - Online Mode
   - Versus
@@ -449,10 +449,10 @@ Base Game Achievements:
   Description: Reach Career Level 40
   GS: '50'
   Guide: true
-  Number of Gamers: 7880
+  Number of Gamers: 8585
   Percentage of Gamers: 6%
-  Ratio: 4.24
-  TA: '212'
+  Ratio: 4.17
+  TA: '208'
   Tags:
   - Online Mode
   - Versus
@@ -461,44 +461,44 @@ Base Game Achievements:
   Description: Reach Career Level 50
   GS: '100'
   Guide: false
-  Number of Gamers: 5502
+  Number of Gamers: 6060
   Percentage of Gamers: 4%
-  Ratio: 5.07
-  TA: '507'
+  Ratio: 4.97
+  TA: '497'
   Tags:
   - Online Mode
   - Versus
   - Level
-Base Ratio: 10.754838709677419
-Base TA: 18337
+Base Ratio: 11.393424657534247
+Base TA: 20793
 Delisted: false
 Developer: Black Matter, Team17 Software
 Game Name: Hell Let Loose
 Genres: First Person Shooter
-Install Size: 47230.0
-Number of Completions: 82
-Number of Gamers: 141754
+Install Size: 52160.0
+Number of Completions: 73
+Number of Gamers: 149817
 Overall Completion Time:
 - 80.0
 - 100.0
-Overall GS: 1705
-Overall Ratio: 10.754838709677419
-Overall TA: 18337
+Overall GS: 1825
+Overall Ratio: 11.393424657534247
+Overall TA: 20793
 PDU: 0
-Percentage Completed: 0.06
+Percentage Completed: 0.05
 Publisher: Team17 Software
 Release Date: 05 October 2021
 Server Closure: false
-Site Rating: 3.69
+Site Rating: 3.67
 Update Achievements:
 - Achievement Name: To The Village Of My Babushka
   Description: Play 5 matches on Kursk
   GS: '10'
   Guide: false
-  Number of Gamers: 4885
-  Percentage of Gamers: 3%
-  Ratio: 5.39
-  TA: '53'
+  Number of Gamers: 5477
+  Percentage of Gamers: 4%
+  Ratio: 5.23
+  TA: '52'
   Tags:
   - Online Mode
   - Versus
@@ -507,10 +507,10 @@ Update Achievements:
   Description: Play 5 matches on Stalingrad
   GS: '10'
   Guide: false
-  Number of Gamers: 4655
+  Number of Gamers: 5162
   Percentage of Gamers: 3%
-  Ratio: 5.52
-  TA: '55'
+  Ratio: 5.38
+  TA: '53'
   Tags:
   - Online Mode
   - Versus
@@ -519,10 +519,10 @@ Update Achievements:
   Description: Play 5 matches on Kharkov
   GS: '10'
   Guide: false
-  Number of Gamers: 4448
+  Number of Gamers: 5012
   Percentage of Gamers: 3%
-  Ratio: 5.65
-  TA: '56'
+  Ratio: 5.46
+  TA: '54'
   Tags:
   - Online Mode
   - Versus
@@ -532,10 +532,10 @@ Update Achievements:
     Track
   GS: '20'
   Guide: true
-  Number of Gamers: 290
+  Number of Gamers: 359
   Percentage of Gamers: 0%
-  Ratio: 22.39
-  TA: '447'
+  Ratio: 20.42
+  TA: '408'
   Tags:
   - Online Mode
   - Versus
@@ -544,21 +544,21 @@ Update Achievements:
   Description: Get burned by a flamethrower, molotov or flare gun
   GS: '5'
   Guide: true
-  Number of Gamers: 13042
-  Percentage of Gamers: 9%
-  Ratio: 3.3
-  TA: '16'
+  Number of Gamers: 14667
+  Percentage of Gamers: 10%
+  Ratio: 3.19
+  TA: '15'
   Tags:
   - Online Mode
   - Versus
 - Achievement Name: Fight Fire with Fire
   Description: With the Flamethrower, killed an enemy that is also wielding the Flamethrower
   GS: '20'
-  Guide: false
-  Number of Gamers: 415
+  Guide: true
+  Number of Gamers: 506
   Percentage of Gamers: 0%
-  Ratio: 18.49
-  TA: '369'
+  Ratio: 17.2
+  TA: '344'
   Tags:
   - Online Mode
   - Versus
@@ -566,10 +566,10 @@ Update Achievements:
   Description: Killed a total of 100 enemies with the Flamethrower
   GS: '30'
   Guide: true
-  Number of Gamers: 329
+  Number of Gamers: 400
   Percentage of Gamers: 0%
-  Ratio: 20.82
-  TA: '624'
+  Ratio: 19.35
+  TA: '580'
   Tags:
   - Online Mode
   - Versus
@@ -578,10 +578,10 @@ Update Achievements:
   Description: Destroyed a total of 50 Jeeps
   GS: '30'
   Guide: true
-  Number of Gamers: 144
+  Number of Gamers: 177
   Percentage of Gamers: 0%
-  Ratio: 31.72
-  TA: '951'
+  Ratio: 29.09
+  TA: '872'
   Tags:
   - Online Mode
   - Versus
@@ -590,10 +590,10 @@ Update Achievements:
   Description: Kill 10 enemies with a flamethrower without dying
   GS: '50'
   Guide: true
-  Number of Gamers: 246
+  Number of Gamers: 303
   Percentage of Gamers: 0%
-  Ratio: 24.08
-  TA: 1,204
+  Ratio: 22.23
+  TA: 1,111
   Tags:
   - Online Mode
   - Versus
@@ -601,10 +601,10 @@ Update Achievements:
   Description: Throw a Molotov for the first time
   GS: '5'
   Guide: true
-  Number of Gamers: 2857
+  Number of Gamers: 3180
   Percentage of Gamers: 2%
-  Ratio: 7.04
-  TA: '35'
+  Ratio: 6.86
+  TA: '34'
   Tags:
   - Online Mode
   - Versus
@@ -612,10 +612,10 @@ Update Achievements:
   Description: Drop 50 ammo boxes with a Jeep
   GS: '20'
   Guide: false
-  Number of Gamers: 411
+  Number of Gamers: 488
   Percentage of Gamers: 0%
-  Ratio: 18.74
-  TA: '374'
+  Ratio: 17.52
+  TA: '350'
   Tags:
   - Online Mode
   - Versus
@@ -623,11 +623,11 @@ Update Achievements:
 - Achievement Name: Molotov Party!
   Description: Have thrown a total of 100 Molotovs
   GS: '20'
-  Guide: false
-  Number of Gamers: 409
+  Guide: true
+  Number of Gamers: 479
   Percentage of Gamers: 0%
-  Ratio: 18.77
-  TA: '375'
+  Ratio: 17.68
+  TA: '353'
   Tags:
   - Online Mode
   - Versus
@@ -636,10 +636,10 @@ Update Achievements:
   Description: Play 5 Matches on El Alamein
   GS: '10'
   Guide: false
-  Number of Gamers: 3988
+  Number of Gamers: 4568
   Percentage of Gamers: 3%
-  Ratio: 5.97
-  TA: '59'
+  Ratio: 5.72
+  TA: '57'
   Tags:
   - Online Mode
   - Versus
@@ -647,11 +647,11 @@ Update Achievements:
 - Achievement Name: Cross the Nederrijn
   Description: Play 5 Matches on Driel
   GS: '10'
-  Guide: false
-  Number of Gamers: 4693
-  Percentage of Gamers: 3%
-  Ratio: 5.51
-  TA: '55'
+  Guide: true
+  Number of Gamers: 5328
+  Percentage of Gamers: 4%
+  Ratio: 5.3
+  TA: '53'
   Tags:
   - Online Mode
   - Versus
@@ -660,9 +660,9 @@ Update Achievements:
   Description: Enter the Practice Range
   GS: '10'
   Guide: true
-  Number of Gamers: 61199
-  Percentage of Gamers: 43%
-  Ratio: 1.52
+  Number of Gamers: 65991
+  Percentage of Gamers: 44%
+  Ratio: 1.5
   TA: '15'
   Tags:
   - Online Mode
@@ -671,9 +671,9 @@ Update Achievements:
   Description: Play every role in the Practice Range
   GS: '10'
   Guide: true
-  Number of Gamers: 2854
+  Number of Gamers: 3050
   Percentage of Gamers: 2%
-  Ratio: 7.04
+  Ratio: 7.0
   TA: '70'
   Tags:
   - Online Mode
@@ -682,10 +682,10 @@ Update Achievements:
   Description: Play 5 Skirmish matches
   GS: '15'
   Guide: false
-  Number of Gamers: 3661
+  Number of Gamers: 4461
   Percentage of Gamers: 3%
-  Ratio: 6.27
-  TA: '94'
+  Ratio: 5.79
+  TA: '86'
   Tags:
   - Online Mode
   - Versus
@@ -694,10 +694,10 @@ Update Achievements:
   Description: Win a Skirmish match
   GS: '15'
   Guide: false
-  Number of Gamers: 12364
-  Percentage of Gamers: 9%
-  Ratio: 3.4
-  TA: '51'
+  Number of Gamers: 14292
+  Percentage of Gamers: 10%
+  Ratio: 3.23
+  TA: '48'
   Tags:
   - Online Mode
   - Versus
@@ -705,10 +705,10 @@ Update Achievements:
   Description: Win 50 Skirmish matches
   GS: '30'
   Guide: true
-  Number of Gamers: 275
+  Number of Gamers: 352
   Percentage of Gamers: 0%
-  Ratio: 23.06
-  TA: '691'
+  Ratio: 20.63
+  TA: '618'
   Tags:
   - Online Mode
   - Versus
@@ -717,10 +717,10 @@ Update Achievements:
   Description: Complete 25 matches on Driel Skirmish
   GS: '30'
   Guide: true
-  Number of Gamers: 249
+  Number of Gamers: 298
   Percentage of Gamers: 0%
-  Ratio: 24.23
-  TA: '727'
+  Ratio: 22.42
+  TA: '672'
   Tags:
   - Online Mode
   - Versus
@@ -729,10 +729,10 @@ Update Achievements:
   Description: Complete 25 matches on El Alamein Skirmish
   GS: '30'
   Guide: false
-  Number of Gamers: 218
+  Number of Gamers: 260
   Percentage of Gamers: 0%
-  Ratio: 25.72
-  TA: '771'
+  Ratio: 24.0
+  TA: '720'
   Tags:
   - Online Mode
   - Versus
@@ -741,10 +741,10 @@ Update Achievements:
   Description: Build a Forward Position
   GS: '15'
   Guide: true
-  Number of Gamers: 2128
+  Number of Gamers: 2473
   Percentage of Gamers: 2%
-  Ratio: 8.22
-  TA: '123'
+  Ratio: 7.78
+  TA: '116'
   Tags:
   - Online Mode
   - Versus
@@ -752,10 +752,10 @@ Update Achievements:
   Description: Destroy a tank on a Skirmish map match
   GS: '15'
   Guide: true
-  Number of Gamers: 1882
+  Number of Gamers: 2191
   Percentage of Gamers: 1%
-  Ratio: 8.75
-  TA: '131'
+  Ratio: 8.26
+  TA: '124'
   Tags:
   - Online Mode
   - Versus
@@ -763,10 +763,10 @@ Update Achievements:
   Description: Fill an armor squad in a Skirmish match
   GS: '15'
   Guide: false
-  Number of Gamers: 7219
+  Number of Gamers: 7757
   Percentage of Gamers: 5%
-  Ratio: 4.43
-  TA: '66'
+  Ratio: 4.39
+  TA: '65'
   Tags:
   - Online Mode
   - Versus
@@ -775,21 +775,21 @@ Update Achievements:
     match
   GS: '15'
   Guide: true
-  Number of Gamers: 184
+  Number of Gamers: 220
   Percentage of Gamers: 0%
-  Ratio: 27.9
-  TA: '418'
+  Ratio: 26.09
+  TA: '391'
   Tags:
   - Online Mode
   - Versus
 - Achievement Name: Special operations
   Description: Spawn on an Airhead in a Skirmish match
   GS: '15'
-  Guide: false
-  Number of Gamers: 5035
+  Guide: true
+  Number of Gamers: 6013
   Percentage of Gamers: 4%
-  Ratio: 5.35
-  TA: '80'
+  Ratio: 4.99
+  TA: '74'
   Tags:
   - Online Mode
   - Versus
@@ -797,10 +797,10 @@ Update Achievements:
   Description: Complete 15 matches of Skirmish on Mortain
   GS: '30'
   Guide: false
-  Number of Gamers: 283
+  Number of Gamers: 345
   Percentage of Gamers: 0%
-  Ratio: 22.63
-  TA: '679'
+  Ratio: 20.83
+  TA: '625'
   Tags:
   - Online Mode
   - Versus
@@ -809,10 +809,10 @@ Update Achievements:
   Description: Complete 10 matches of Warfare or Offensive on Mortain
   GS: '30'
   Guide: false
-  Number of Gamers: 1430
+  Number of Gamers: 1825
   Percentage of Gamers: 1%
-  Ratio: 10.04
-  TA: '301'
+  Ratio: 9.06
+  TA: '271'
   Tags:
   - Online Mode
   - Versus
@@ -821,10 +821,10 @@ Update Achievements:
   Description: Complete a match on Mortain in any mode
   GS: '15'
   Guide: false
-  Number of Gamers: 16335
-  Percentage of Gamers: 12%
-  Ratio: 2.96
-  TA: '44'
+  Number of Gamers: 19218
+  Percentage of Gamers: 13%
+  Ratio: 2.79
+  TA: '41'
   Tags:
   - Online Mode
   - Versus
@@ -832,10 +832,10 @@ Update Achievements:
   Description: Win a match on Mortain in any mode
   GS: '15'
   Guide: false
-  Number of Gamers: 11293
-  Percentage of Gamers: 8%
-  Ratio: 3.57
-  TA: '53'
+  Number of Gamers: 13384
+  Percentage of Gamers: 9%
+  Ratio: 3.34
+  TA: '50'
   Tags:
   - Online Mode
   - Versus
@@ -843,10 +843,10 @@ Update Achievements:
   Description: Win 10 matches of Skirmish on Mortain
   GS: '30'
   Guide: false
-  Number of Gamers: 281
+  Number of Gamers: 347
   Percentage of Gamers: 0%
-  Ratio: 22.72
-  TA: '681'
+  Ratio: 20.77
+  TA: '623'
   Tags:
   - Online Mode
   - Versus
@@ -855,10 +855,10 @@ Update Achievements:
   Description: Whilst injured, kill an enemy with a Flamethrower on Elsenborn Ridge
   GS: '30'
   Guide: true
-  Number of Gamers: 213
+  Number of Gamers: 315
   Percentage of Gamers: 0%
-  Ratio: 26.35
-  TA: '790'
+  Ratio: 21.8
+  TA: '654'
   Tags:
   - Online Mode
   - Versus
@@ -866,10 +866,10 @@ Update Achievements:
   Description: Drive or ride in vehicles for 1 hour on Elsenborn Ridge
   GS: '30'
   Guide: true
-  Number of Gamers: 266
+  Number of Gamers: 440
   Percentage of Gamers: 0%
-  Ratio: 23.93
-  TA: '718'
+  Ratio: 18.45
+  TA: '553'
   Tags:
   - Online Mode
   - Versus
@@ -878,10 +878,10 @@ Update Achievements:
   Description: Destroy an enemy garrison with a satchel on Elsenborn Ridge
   GS: '10'
   Guide: true
-  Number of Gamers: 233
+  Number of Gamers: 357
   Percentage of Gamers: 0%
-  Ratio: 25.42
-  TA: '254'
+  Ratio: 20.48
+  TA: '204'
   Tags:
   - Online Mode
   - Versus
@@ -889,10 +889,10 @@ Update Achievements:
   Description: As the Support role, drop 25 Supply Boxes on Elsenborn Ridge
   GS: '10'
   Guide: true
-  Number of Gamers: 240
+  Number of Gamers: 385
   Percentage of Gamers: 0%
-  Ratio: 25.19
-  TA: '251'
+  Ratio: 19.72
+  TA: '197'
   Tags:
   - Online Mode
   - Versus
@@ -901,10 +901,10 @@ Update Achievements:
   Description: Revive 50 players on Elsenborn Ridge
   GS: '30'
   Guide: true
-  Number of Gamers: 214
+  Number of Gamers: 324
   Percentage of Gamers: 0%
-  Ratio: 26.35
-  TA: '790'
+  Ratio: 21.5
+  TA: '645'
   Tags:
   - Online Mode
   - Versus
@@ -913,10 +913,82 @@ Update Achievements:
   Description: Get killed whilst using Freelook on Elsenborn Ridge.
   GS: '10'
   Guide: true
-  Number of Gamers: 640
+  Number of Gamers: 945
+  Percentage of Gamers: 1%
+  Ratio: 12.59
+  TA: '125'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: The Fortress Falls
+  Description: Win a game of Warfare as the DAK on Tobruk
+  GS: '10'
+  Guide: false
+  Number of Gamers: 282
   Percentage of Gamers: 0%
-  Ratio: 15.35
-  TA: '153'
+  Ratio: 23.09
+  TA: '230'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Stoke the Fire
+  Description: Place 15 AP or AT Mines across any mode on Tobruk
+  GS: '30'
+  Guide: true
+  Number of Gamers: 172
+  Percentage of Gamers: 0%
+  Ratio: 29.51
+  TA: '885'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Desert Rat
+  Description: As part of an Armor Unit, destroy a total of 25 enemy tanks across
+    any mode on Tobruk.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 96
+  Percentage of Gamers: 0%
+  Ratio: 39.5
+  TA: 1,185
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Eight for the Eighth
+  Description: As the British, use the blowtorch to repair 8 vehicles across any mode
+    on Tobruk.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 112
+  Percentage of Gamers: 0%
+  Ratio: 36.57
+  TA: 1,097
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Line in the Sand
+  Description: Build a bunker and fully upgrade it as either faction, on any mode
+    on Tobruk.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 157
+  Percentage of Gamers: 0%
+  Ratio: 30.89
+  TA: '308'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Dust and Glory
+  Description: Win a game of Offensive as the British Eighth Army on Tobruk
+  GS: '10'
+  Guide: false
+  Number of Gamers: 332
+  Percentage of Gamers: 0%
+  Ratio: 21.24
+  TA: '212'
   Tags:
   - Online Mode
   - Versus

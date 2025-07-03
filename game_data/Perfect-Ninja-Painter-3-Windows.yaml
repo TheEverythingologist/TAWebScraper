@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 0.5
-Base GS: 1000
+- 1.0
+Base GS: 2000
 Base Game Achievements:
 - Achievement Name: Quest 1
   Description: Complete the first level
   GS: '50'
   Guide: false
-  Number of Gamers: 308
+  Number of Gamers: 459
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '50'
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Visit the Amethyst Cave
   GS: '100'
   Guide: false
-  Number of Gamers: 308
+  Number of Gamers: 458
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '100'
@@ -32,7 +32,7 @@ Base Game Achievements:
   Description: Visit the Factory
   GS: '100'
   Guide: false
-  Number of Gamers: 306
+  Number of Gamers: 456
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -44,7 +44,7 @@ Base Game Achievements:
   Description: Visit the Silver Cottage
   GS: '100'
   Guide: false
-  Number of Gamers: 306
+  Number of Gamers: 455
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Visit the Jelly House
   GS: '100'
   Guide: false
-  Number of Gamers: 302
-  Percentage of Gamers: 98%
-  Ratio: 1.0
-  TA: '100'
+  Number of Gamers: 442
+  Percentage of Gamers: 96%
+  Ratio: 1.02
+  TA: '102'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,9 +68,9 @@ Base Game Achievements:
   Description: Complete the Slime House final level
   GS: '50'
   Guide: false
-  Number of Gamers: 302
+  Number of Gamers: 450
   Percentage of Gamers: 98%
-  Ratio: 1.0
+  Ratio: 1.01
   TA: '50'
   Tags:
   - Offline Mode
@@ -80,7 +80,7 @@ Base Game Achievements:
   Description: Complete the Amethyst Cave final level
   GS: '100'
   Guide: false
-  Number of Gamers: 300
+  Number of Gamers: 446
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '101'
@@ -92,10 +92,10 @@ Base Game Achievements:
   Description: Complete the Factory final level
   GS: '100'
   Guide: false
-  Number of Gamers: 299
-  Percentage of Gamers: 97%
-  Ratio: 1.01
-  TA: '101'
+  Number of Gamers: 441
+  Percentage of Gamers: 96%
+  Ratio: 1.02
+  TA: '102'
   Tags:
   - Offline Mode
   - Single Player
@@ -104,10 +104,10 @@ Base Game Achievements:
   Description: Complete the Silver Cottage final level
   GS: '100'
   Guide: false
-  Number of Gamers: 298
-  Percentage of Gamers: 97%
-  Ratio: 1.01
-  TA: '101'
+  Number of Gamers: 437
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '102'
   Tags:
   - Offline Mode
   - Single Player
@@ -115,35 +115,95 @@ Base Game Achievements:
 - Achievement Name: Quest 10
   Description: Complete the Jelly House final level
   GS: '200'
-  Guide: false
-  Number of Gamers: 297
-  Percentage of Gamers: 96%
-  Ratio: 1.01
-  TA: '203'
+  Guide: true
+  Number of Gamers: 436
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '205'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.006
-Base TA: 1006
+Base Ratio: 1.024
+Base TA: 2048
 Delisted: false
 Developer: SilenGames
 Game Name: Perfect Ninja Painter 3 (Windows)
 Genres: Puzzle
 Install Size: 79.0
-Number of Completions: 296
-Number of Gamers: 308
+Number of Completions: 414
+Number of Gamers: 459
 Overall Completion Time:
 - 0.0
-- 0.5
-Overall GS: 1000
-Overall Ratio: 1.006
-Overall TA: 1006
+- 1.0
+Overall GS: 2000
+Overall Ratio: 1.024
+Overall TA: 2048
 PDU: 0
-Percentage Completed: 96.1
+Percentage Completed: 90.2
 Publisher: SilenGames
 Release Date: 15 January 2025
 Server Closure: false
-Site Rating: 2.25
-Update Achievements: []
+Site Rating: 2.53
+Update Achievements:
+- Achievement Name: Quest 11
+  Description: Complete 5 levels
+  GS: '200'
+  Guide: false
+  Number of Gamers: 432
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '206'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Quest 12
+  Description: Complete 10 levels
+  GS: '200'
+  Guide: false
+  Number of Gamers: 431
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '206'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Quest 13
+  Description: Complete 14 levels
+  GS: '200'
+  Guide: false
+  Number of Gamers: 427
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '207'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Quest 14
+  Description: Complete 17 levels
+  GS: '200'
+  Guide: false
+  Number of Gamers: 424
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '208'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Quest 15
+  Description: Complete 20 levels
+  GS: '200'
+  Guide: false
+  Number of Gamers: 420
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '209'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 Walkthrough: false

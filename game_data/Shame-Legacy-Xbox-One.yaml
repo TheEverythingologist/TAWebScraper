@@ -8,7 +8,7 @@ Base Game Achievements:
   Description: Meet the priest
   GS: '40'
   Guide: false
-  Number of Gamers: 77
+  Number of Gamers: 98
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '40'
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Find the cane
   GS: '40'
   Guide: false
-  Number of Gamers: 53
-  Percentage of Gamers: 69%
-  Ratio: 1.2
-  TA: '48'
+  Number of Gamers: 69
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '47'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Resolve the mansion puzzle
   GS: '40'
   Guide: false
-  Number of Gamers: 34
-  Percentage of Gamers: 44%
-  Ratio: 1.5
-  TA: '60'
+  Number of Gamers: 46
+  Percentage of Gamers: 47%
+  Ratio: 1.45
+  TA: '58'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Get back to William's home
   GS: '40'
   Guide: false
-  Number of Gamers: 32
-  Percentage of Gamers: 42%
-  Ratio: 1.55
-  TA: '62'
+  Number of Gamers: 44
+  Percentage of Gamers: 45%
+  Ratio: 1.49
+  TA: '59'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Enter the war camp
   GS: '40'
   Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 40%
-  Ratio: 1.57
-  TA: '63'
+  Number of Gamers: 43
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '60'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: Reach the graveyard
   GS: '40'
   Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 40%
-  Ratio: 1.57
-  TA: '63'
+  Number of Gamers: 43
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '60'
   Tags:
   - Offline Mode
   - Single Player
@@ -80,32 +80,35 @@ Base Game Achievements:
   Description: Solve all puzzles in the game
   GS: '40'
   Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 40%
-  Ratio: 1.57
-  TA: '63'
+  Number of Gamers: 43
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '60'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Main Storyline
 - Achievement Name: End of a nightmare
   Description: Kill the monster
   GS: '40'
   Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 40%
-  Ratio: 1.57
-  TA: '63'
+  Number of Gamers: 43
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '60'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Main Storyline
+  - Story Completed
 - Achievement Name: Well informed
   Description: Collect all notes
   GS: '50'
   Guide: true
-  Number of Gamers: 27
-  Percentage of Gamers: 35%
-  Ratio: 1.68
-  TA: '84'
+  Number of Gamers: 37
+  Percentage of Gamers: 38%
+  Ratio: 1.62
+  TA: '81'
   Tags:
   - Offline Mode
   - Single Player
@@ -114,22 +117,22 @@ Base Game Achievements:
   Description: Survive every encounter with the monster
   GS: '50'
   Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 40%
-  Ratio: 1.57
-  TA: '78'
+  Number of Gamers: 43
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '75'
   Tags:
   - Offline Mode
   - Single Player
-  - Missable
+  - Main Storyline
 - Achievement Name: The intrepid
   Description: Complete the game without dying
   GS: '130'
   Guide: false
-  Number of Gamers: 25
-  Percentage of Gamers: 32%
-  Ratio: 1.75
-  TA: '228'
+  Number of Gamers: 35
+  Percentage of Gamers: 36%
+  Ratio: 1.67
+  TA: '217'
   Tags:
   - Offline Mode
   - Single Player
@@ -138,21 +141,22 @@ Base Game Achievements:
   Description: Complete the game without using the tranquilizer potion
   GS: '130'
   Guide: false
-  Number of Gamers: 25
-  Percentage of Gamers: 32%
-  Ratio: 1.75
-  TA: '228'
+  Number of Gamers: 35
+  Percentage of Gamers: 36%
+  Ratio: 1.67
+  TA: '217'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Missable
 - Achievement Name: Master of afterlife
   Description: Complete the game in under 2 hours
   GS: '150'
   Guide: true
-  Number of Gamers: 25
-  Percentage of Gamers: 32%
-  Ratio: 1.75
-  TA: '263'
+  Number of Gamers: 36
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '247'
   Tags:
   - Offline Mode
   - Single Player
@@ -161,10 +165,10 @@ Base Game Achievements:
   Description: Complete the game twice
   GS: '120'
   Guide: false
-  Number of Gamers: 21
-  Percentage of Gamers: 27%
-  Ratio: 1.91
-  TA: '229'
+  Number of Gamers: 31
+  Percentage of Gamers: 32%
+  Ratio: 1.77
+  TA: '213'
   Tags:
   - Offline Mode
   - Single Player
@@ -173,34 +177,34 @@ Base Game Achievements:
   Description: Fend off 5 villagers' attacks with the cane
   GS: '50'
   Guide: false
-  Number of Gamers: 28
-  Percentage of Gamers: 36%
-  Ratio: 1.65
-  TA: '82'
+  Number of Gamers: 40
+  Percentage of Gamers: 41%
+  Ratio: 1.56
+  TA: '78'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 1.654
-Base TA: 1654
+Base Ratio: 1.572
+Base TA: 1572
 Delisted: false
 Developer: Fairyship Games, Revenant Games
 Game Name: Shame Legacy (Xbox One)
 Genres: Survival Horror
 Install Size: 7200.0
-Number of Completions: 20
-Number of Gamers: 77
+Number of Completions: 30
+Number of Gamers: 98
 Overall Completion Time:
 - 2.0
 - 3.0
 Overall GS: 1000
-Overall Ratio: 1.654
-Overall TA: 1654
+Overall Ratio: 1.572
+Overall TA: 1572
 PDU: 0
-Percentage Completed: 25.97
+Percentage Completed: 30.61
 Publisher: Destructive Creations
 Release Date: 30 May 2023
 Server Closure: false
-Site Rating: 2.38
+Site Rating: 2.07
 Update Achievements: []
 Walkthrough: false

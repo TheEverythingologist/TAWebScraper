@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 1.0
-Base GS: 2000
+- 1.5
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: 1st Kill !
   Description: Kill an enemy for first time
   GS: '10'
   Guide: false
-  Number of Gamers: 1397
+  Number of Gamers: 1814
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '10'
@@ -19,7 +19,7 @@ Base Game Achievements:
   Description: Kill 10 enemies type "Star"
   GS: '30'
   Guide: false
-  Number of Gamers: 1387
+  Number of Gamers: 1796
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '30'
@@ -31,7 +31,7 @@ Base Game Achievements:
   Description: Kill 10 enemies type "Triangle"
   GS: '30'
   Guide: false
-  Number of Gamers: 1382
+  Number of Gamers: 1793
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '30'
@@ -43,7 +43,7 @@ Base Game Achievements:
   Description: Kill 10 enemies type "Square"
   GS: '30'
   Guide: false
-  Number of Gamers: 1382
+  Number of Gamers: 1793
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '30'
@@ -55,7 +55,7 @@ Base Game Achievements:
   Description: Kill 10 enemies type "Circle"
   GS: '30'
   Guide: false
-  Number of Gamers: 1383
+  Number of Gamers: 1791
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '30'
@@ -67,7 +67,7 @@ Base Game Achievements:
   Description: Kill 10 enemies type "Hexagon"
   GS: '30'
   Guide: false
-  Number of Gamers: 1383
+  Number of Gamers: 1794
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '30'
@@ -78,8 +78,8 @@ Base Game Achievements:
 - Achievement Name: Star Hunter level 2
   Description: Kill 20 enemies type "Star"
   GS: '90'
-  Guide: false
-  Number of Gamers: 1384
+  Guide: true
+  Number of Gamers: 1788
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '90'
@@ -91,8 +91,8 @@ Base Game Achievements:
   Description: Kill 20 enemies type "Triangle"
   GS: '90'
   Guide: false
-  Number of Gamers: 1378
-  Percentage of Gamers: 99%
+  Number of Gamers: 1786
+  Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '90'
   Tags:
@@ -103,8 +103,8 @@ Base Game Achievements:
   Description: Kill 20 enemies type "Square"
   GS: '90'
   Guide: false
-  Number of Gamers: 1377
-  Percentage of Gamers: 99%
+  Number of Gamers: 1785
+  Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '90'
   Tags:
@@ -115,8 +115,8 @@ Base Game Achievements:
   Description: Kill 20 enemies type "Circle"
   GS: '90'
   Guide: false
-  Number of Gamers: 1379
-  Percentage of Gamers: 99%
+  Number of Gamers: 1785
+  Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '90'
   Tags:
@@ -127,7 +127,7 @@ Base Game Achievements:
   Description: Kill 20 enemies type "Hexagon"
   GS: '90'
   Guide: false
-  Number of Gamers: 1381
+  Number of Gamers: 1787
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '90'
@@ -139,7 +139,7 @@ Base Game Achievements:
   Description: Kill 50 enemies in a single game
   GS: '30'
   Guide: false
-  Number of Gamers: 1386
+  Number of Gamers: 1795
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '30'
@@ -149,8 +149,8 @@ Base Game Achievements:
 - Achievement Name: 1st Bomb Launch !
   Description: Launch a bomb for first time
   GS: '20'
-  Guide: false
-  Number of Gamers: 1377
+  Guide: true
+  Number of Gamers: 1787
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '20'
@@ -161,7 +161,7 @@ Base Game Achievements:
   Description: Gain 1 bomb
   GS: '30'
   Guide: false
-  Number of Gamers: 1376
+  Number of Gamers: 1781
   Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '30'
@@ -172,7 +172,7 @@ Base Game Achievements:
   Description: Gain 1 life.
   GS: '30'
   Guide: false
-  Number of Gamers: 1360
+  Number of Gamers: 1766
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '30'
@@ -182,9 +182,9 @@ Base Game Achievements:
 - Achievement Name: 1st Slow !
   Description: Launch slow motion for first time
   GS: '30'
-  Guide: false
-  Number of Gamers: 1354
-  Percentage of Gamers: 97%
+  Guide: true
+  Number of Gamers: 1749
+  Percentage of Gamers: 96%
   Ratio: 1.01
   TA: '30'
   Tags:
@@ -193,8 +193,8 @@ Base Game Achievements:
 - Achievement Name: 1 more slow !
   Description: Gain 1 slow in Slow Motion mode
   GS: '30'
-  Guide: false
-  Number of Gamers: 1340
+  Guide: true
+  Number of Gamers: 1737
   Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '30'
@@ -205,10 +205,10 @@ Base Game Achievements:
   Description: Stay alive for 2 minutes in Time Attack Mode
   GS: '90'
   Guide: true
-  Number of Gamers: 1294
-  Percentage of Gamers: 93%
-  Ratio: 1.03
-  TA: '93'
+  Number of Gamers: 1660
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '94'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -216,7 +216,7 @@ Base Game Achievements:
   Description: Kill 100 enemies in a single game
   GS: '100'
   Guide: false
-  Number of Gamers: 1382
+  Number of Gamers: 1789
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -227,43 +227,43 @@ Base Game Achievements:
   Description: Get the second weapon upgrade
   GS: '30'
   Guide: false
-  Number of Gamers: 1388
+  Number of Gamers: 1797
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '30'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 1.031
-Base TA: 2062
+Base Ratio: 1.0833333333333333
+Base TA: 3250
 Delisted: false
 Developer: Beni Games
 Game Name: ShapeNeon Chaos
 Genres: Shoot 'em up
 Install Size: 712.0
-Number of Completions: 1171
-Number of Gamers: 1397
+Number of Completions: 1198
+Number of Gamers: 1814
 Overall Completion Time:
 - 0.0
-- 1.0
-Overall GS: 2000
-Overall Ratio: 1.031
-Overall TA: 2062
+- 1.5
+Overall GS: 3000
+Overall Ratio: 1.0833333333333333
+Overall TA: 3250
 PDU: 0
-Percentage Completed: 83.82
+Percentage Completed: 66.04
 Publisher: AFIL Games
 Release Date: 21 February 2024
 Server Closure: false
-Site Rating: 2.52
+Site Rating: 2.46
 Update Achievements:
 - Achievement Name: Star Hunter level 3
   Description: Kill 30 enemies type "Star"
   GS: '200'
   Guide: false
-  Number of Gamers: 1244
-  Percentage of Gamers: 89%
-  Ratio: 1.05
-  TA: '211'
+  Number of Gamers: 1660
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '209'
   Tags:
   - Offline Mode
   - Single Player
@@ -272,10 +272,10 @@ Update Achievements:
   Description: Kill 30 enemies type "Triangle"
   GS: '200'
   Guide: false
-  Number of Gamers: 1242
-  Percentage of Gamers: 89%
-  Ratio: 1.06
-  TA: '212'
+  Number of Gamers: 1662
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '208'
   Tags:
   - Offline Mode
   - Single Player
@@ -284,10 +284,10 @@ Update Achievements:
   Description: Kill 30 enemies type "Square"
   GS: '200'
   Guide: false
-  Number of Gamers: 1241
-  Percentage of Gamers: 89%
-  Ratio: 1.06
-  TA: '212'
+  Number of Gamers: 1658
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '209'
   Tags:
   - Offline Mode
   - Single Player
@@ -296,10 +296,10 @@ Update Achievements:
   Description: Kill 30 enemies type "Circle"
   GS: '200'
   Guide: false
-  Number of Gamers: 1241
-  Percentage of Gamers: 89%
-  Ratio: 1.06
-  TA: '212'
+  Number of Gamers: 1657
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '209'
   Tags:
   - Offline Mode
   - Single Player
@@ -308,10 +308,69 @@ Update Achievements:
   Description: Kill 30 enemies type "Hexagon"
   GS: '200'
   Guide: false
-  Number of Gamers: 1241
-  Percentage of Gamers: 89%
-  Ratio: 1.06
-  TA: '212'
+  Number of Gamers: 1660
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '209'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Enemies Annihilator
+  Description: Kill 150 enemies in a single game
+  GS: '200'
+  Guide: true
+  Number of Gamers: 1285
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '237'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Master Bomb Launcher
+  Description: Launch 10 bombs
+  GS: '200'
+  Guide: true
+  Number of Gamers: 1266
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '239'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Bomb Expert
+  Description: Gain 10 bombs
+  GS: '200'
+  Guide: true
+  Number of Gamers: 1238
+  Percentage of Gamers: 68%
+  Ratio: 1.21
+  TA: '242'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Extra Life Collector
+  Description: Gain 10 lives
+  GS: '200'
+  Guide: true
+  Number of Gamers: 1217
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '244'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Slow Motion Master
+  Description: Launch slow motion 10 times
+  GS: '200'
+  Guide: true
+  Number of Gamers: 1257
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '240'
   Tags:
   - Offline Mode
   - Single Player

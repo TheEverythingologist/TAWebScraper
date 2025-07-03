@@ -1,0 +1,680 @@
+Add On Achievements: []
+Base Completion Time:
+- -1
+- -1
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Smarty pants
+  Description: Research Tier II for the first time
+  GS: '5'
+  Guide: false
+  Number of Gamers: 10
+  Percentage of Gamers: 33%
+  Ratio: 1.73
+  TA: '8'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Little know-it-all
+  Description: Research Tier III for the first time
+  GS: '10'
+  Guide: false
+  Number of Gamers: 6
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '22'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Wise guy
+  Description: Research Tier IV for the first time
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2
+  Percentage of Gamers: 7%
+  Ratio: 3.87
+  TA: '58'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Restore Humanity I
+  Description: Send away a total of 20 cured humans
+  GS: '40'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 3%
+  Ratio: 5.47
+  TA: '219'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Restore Humanity II
+  Description: Send away a total of 100 cured humans
+  GS: '75'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '75'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Restore Humanity III
+  Description: Send away a total of 500 cured humans
+  GS: '200'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '200'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Eureka!
+  Description: Cure your first Humbie level 1
+  GS: '5'
+  Guide: false
+  Number of Gamers: 15
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '7'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: One step closer
+  Description: Cure your first Humbie level 2!
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2
+  Percentage of Gamers: 7%
+  Ratio: 3.87
+  TA: '38'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Is this a human?
+  Description: Cure your first Humbie level 3!
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2
+  Percentage of Gamers: 7%
+  Ratio: 3.87
+  TA: '58'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: You made it!
+  Description: Cure your first human!
+  GS: '25'
+  Guide: false
+  Number of Gamers: 2
+  Percentage of Gamers: 7%
+  Ratio: 3.87
+  TA: '96'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: We are many! I
+  Description: Get a total of 30 workers.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 13
+  Percentage of Gamers: 43%
+  Ratio: 1.51
+  TA: '7'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: We are many! II
+  Description: Get a total of 100 workers.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 6
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: We are many! III
+  Description: Get a total of 500 workers.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 3%
+  Ratio: 5.47
+  TA: '109'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: We are many! IV
+  Description: Get a total of 1000 workers.
+  GS: '40'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '40'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Survivor I
+  Description: You have survived for 1 night.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 30
+  Percentage of Gamers: 100%
+  Ratio: 1.0
+  TA: '5'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Survivor II
+  Description: You have survived for 10 nights.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 10
+  Percentage of Gamers: 33%
+  Ratio: 1.73
+  TA: '17'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Survivor III
+  Description: You have survived for 25 nights.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 5
+  Percentage of Gamers: 17%
+  Ratio: 2.44
+  TA: '36'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Survivor IV
+  Description: You have survived for 100 nights.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '30'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Spotted! I
+  Description: Reach a zombie threat level of 1.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 27
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '5'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Spotted! II
+  Description: Reach a zombie threat level of 5.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 8
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '19'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Spotted! III
+  Description: Reach a zombie threat level of 10.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 5
+  Percentage of Gamers: 17%
+  Ratio: 2.44
+  TA: '36'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Spotted! IV
+  Description: Reach a zombie threat level of 30.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 2
+  Percentage of Gamers: 7%
+  Ratio: 3.87
+  TA: '77'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Spotted! V
+  Description: Reach a zombie threat level of 50.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 3%
+  Ratio: 5.47
+  TA: '136'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Spotted! VI
+  Description: Reach a zombie threat level of 75.
+  GS: '40'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '40'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Know your surroundings
+  Description: Get everything out of old objects that is laying around on a single
+    map.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Material Girl
+  Description: Spend 10.000 metal on build structures
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 3%
+  Ratio: 5.47
+  TA: '54'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Building Master I
+  Description: Build 10 objects.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 30
+  Percentage of Gamers: 100%
+  Ratio: 1.0
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Building Master II
+  Description: Build 40 objects.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 20
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '6'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Building Master III
+  Description: Build 60 objects.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 15
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '7'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Building Master IV
+  Description: Build 100 objects.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 12
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Building Master V
+  Description: Build 200 objects.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 10
+  Percentage of Gamers: 33%
+  Ratio: 1.73
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Building Master VI
+  Description: Build 500 objects.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 3
+  Percentage of Gamers: 10%
+  Ratio: 3.16
+  TA: '94'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Buffed I
+  Description: One Humbie has trained with a training device.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '5'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Buffed II
+  Description: 30 Humbies have trained with a training device.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Buffed III
+  Description: 100 Humbies have trained with a training device.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Buffed IV
+  Description: 250 Humbies have trained with a training device.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Buffed V
+  Description: 500 Humbies have trained with a training device.
+  GS: '40'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '40'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Earn your white coat
+  Description: Finish the tutorial
+  GS: '5'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Speedy Science
+  Description: Cure a Zombie in the third night
+  GS: '5'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '5'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Butterfingers I
+  Description: Let workers drop 100 resources
+  GS: '5'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Butterfingers II
+  Description: Let workers drop 1000 resources
+  GS: '10'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Butterfingers III
+  Description: Let workers drop 10.000 resources
+  GS: '20'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Reverse Darwinism
+  Description: 100 workers turned into zombies
+  GS: '10'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Tis but a scratch
+  Description: All your workers died
+  GS: '10'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '10'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Chicken Shit
+  Description: Press the Lockdown Button in a night without zombies
+  GS: '5'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '5'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Oh no no no!
+  Description: Let all your scientists be sad at once.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '5'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Kerfuffle
+  Description: Have 10 angry Humbies at once
+  GS: '5'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative
+- Achievement Name: Shoot! You missed them! I
+  Description: Let 10 zombies in total melt again before you are able to treat them
+    into humbies.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Shoot! You missed them! II
+  Description: Let 100 zombies in total melt again before you are able to treat them
+    into humbies.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Shoot! You missed them! III
+  Description: Let 1000 zombies in total melt again before you are able to treat them
+    into humbies.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Chef
+  Description: Let workers eat 1000 Super Food
+  GS: '30'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Electrification
+  Description: Maintain a power network that consists of 100 amount of power poles.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative
+- Achievement Name: Police State FTW
+  Description: Run 20 Guard Stations in your lab
+  GS: '5'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Illumination
+  Description: Harvest all existing glowberry bushes on a single map.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '10'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Ice Ice Baby
+  Description: Have 30 frozen zombies at the same time.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative
+- Achievement Name: Nibble down to the roots
+  Description: Clear all vegetables on a single map
+  GS: '10'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '10'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 1.833
+Base TA: 1833
+Delisted: false
+Developer: Thera Bytes
+Game Name: Zombie Cure Lab
+Genres: Management
+Install Size: 1560.0
+Number of Completions: 0
+Number of Gamers: 30
+Overall Completion Time:
+- -1
+- -1
+Overall GS: 1000
+Overall Ratio: 1.833
+Overall TA: 1833
+PDU: 0
+Percentage Completed: 0.0
+Publisher: AeroSoft
+Release Date: 27 May 2025
+Server Closure: false
+Site Rating: None
+Update Achievements: []
+Walkthrough: false

@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- 60.0
-- 80.0
+- 40.0
+- 50.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Lights, Camera, Action!
   Description: Save a captured highlight in Theatre Mode
   GS: '5'
   Guide: true
-  Number of Gamers: 1678
-  Percentage of Gamers: 12%
-  Ratio: 2.83
-  TA: '14'
+  Number of Gamers: 3123
+  Percentage of Gamers: 8%
+  Ratio: 3.43
+  TA: '17'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -20,10 +20,10 @@ Base Game Achievements:
     Marina Bay and Las Vegas
   GS: '10'
   Guide: true
-  Number of Gamers: 631
-  Percentage of Gamers: 5%
-  Ratio: 4.61
-  TA: '46'
+  Number of Gamers: 1316
+  Percentage of Gamers: 4%
+  Ratio: 5.28
+  TA: '52'
   Tags:
   - Online/Offline
   - Single Player
@@ -33,10 +33,10 @@ Base Game Achievements:
     set the fastest lap
   GS: '15'
   Guide: true
-  Number of Gamers: 2818
-  Percentage of Gamers: 21%
-  Ratio: 2.18
-  TA: '32'
+  Number of Gamers: 5341
+  Percentage of Gamers: 15%
+  Ratio: 2.62
+  TA: '39'
   Tags:
   - Online/Offline
   - Single Player
@@ -45,9 +45,9 @@ Base Game Achievements:
   Description: Achieve your first pole position
   GS: '5'
   Guide: true
-  Number of Gamers: 10559
+  Number of Gamers: 28700
   Percentage of Gamers: 78%
-  Ratio: 1.12
+  Ratio: 1.13
   TA: '5'
   Tags:
   - Online/Offline
@@ -57,9 +57,9 @@ Base Game Achievements:
   Description: Win your first race
   GS: '10'
   Guide: true
-  Number of Gamers: 12205
-  Percentage of Gamers: 91%
-  Ratio: 1.05
+  Number of Gamers: 32666
+  Percentage of Gamers: 89%
+  Ratio: 1.06
   TA: '10'
   Tags:
   - Online/Offline
@@ -68,11 +68,11 @@ Base Game Achievements:
 - Achievement Name: Showing Them How It's Done
   Description: Win an online race
   GS: '10'
-  Guide: true
-  Number of Gamers: 3095
-  Percentage of Gamers: 23%
-  Ratio: 2.08
-  TA: '20'
+  Guide: false
+  Number of Gamers: 7969
+  Percentage of Gamers: 22%
+  Ratio: 2.14
+  TA: '21'
   Tags:
   - Online Mode
   - Versus
@@ -81,10 +81,10 @@ Base Game Achievements:
     the race
   GS: '20'
   Guide: true
-  Number of Gamers: 3354
-  Percentage of Gamers: 25%
-  Ratio: 2.0
-  TA: '40'
+  Number of Gamers: 7431
+  Percentage of Gamers: 20%
+  Ratio: 2.22
+  TA: '44'
   Tags:
   - Online/Offline
   - Single Player
@@ -93,10 +93,10 @@ Base Game Achievements:
   Description: Complete 24 Races
   GS: '10'
   Guide: false
-  Number of Gamers: 4559
-  Percentage of Gamers: 34%
-  Ratio: 1.71
-  TA: '17'
+  Number of Gamers: 10354
+  Percentage of Gamers: 28%
+  Ratio: 1.88
+  TA: '18'
   Tags:
   - Online/Offline
   - Single Player
@@ -105,22 +105,22 @@ Base Game Achievements:
 - Achievement Name: A Lump In My Throat
   Description: Win the Drivers' Championship
   GS: '100'
-  Guide: false
-  Number of Gamers: 2517
-  Percentage of Gamers: 19%
-  Ratio: 2.31
-  TA: '231'
+  Guide: true
+  Number of Gamers: 5761
+  Percentage of Gamers: 16%
+  Ratio: 2.52
+  TA: '252'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Mechanical Marvel
   Description: Win the Constructors' Championship
   GS: '75'
-  Guide: false
-  Number of Gamers: 2102
-  Percentage of Gamers: 16%
-  Ratio: 2.53
-  TA: '189'
+  Guide: true
+  Number of Gamers: 4863
+  Percentage of Gamers: 13%
+  Ratio: 2.75
+  TA: '206'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -128,9 +128,9 @@ Base Game Achievements:
   Description: In My Team, develop a component in every R&D Department
   GS: '10'
   Guide: false
-  Number of Gamers: 1020
-  Percentage of Gamers: 8%
-  Ratio: 3.63
+  Number of Gamers: 2727
+  Percentage of Gamers: 7%
+  Ratio: 3.67
   TA: '36'
   Tags:
   - Offline Game Mode
@@ -138,11 +138,11 @@ Base Game Achievements:
 - Achievement Name: Front Row Friends!
   Description: Lock out the front row with your friend in Two-Player Career
   GS: '10'
-  Guide: false
-  Number of Gamers: 1403
+  Guide: true
+  Number of Gamers: 3822
   Percentage of Gamers: 10%
-  Ratio: 3.09
-  TA: '30'
+  Ratio: 3.1
+  TA: '31'
   Tags:
   - Online Mode
   - Cooperative
@@ -150,10 +150,10 @@ Base Game Achievements:
   Description: "Upgrade an item in F1\xAE World"
   GS: '5'
   Guide: true
-  Number of Gamers: 1713
-  Percentage of Gamers: 13%
-  Ratio: 2.8
-  TA: '14'
+  Number of Gamers: 3224
+  Percentage of Gamers: 9%
+  Ratio: 3.37
+  TA: '16'
   Tags:
   - Online Mode
   - Single Player
@@ -161,10 +161,10 @@ Base Game Achievements:
   Description: "Craft an item from a blueprint in F1\xAE World"
   GS: '5'
   Guide: true
-  Number of Gamers: 1620
-  Percentage of Gamers: 12%
-  Ratio: 2.88
-  TA: '14'
+  Number of Gamers: 2921
+  Percentage of Gamers: 8%
+  Ratio: 3.55
+  TA: '17'
   Tags:
   - Online Mode
   - Single Player
@@ -172,10 +172,10 @@ Base Game Achievements:
   Description: "Equip a Unique Item in F1\xAE World"
   GS: '15'
   Guide: true
-  Number of Gamers: 1749
-  Percentage of Gamers: 13%
-  Ratio: 2.77
-  TA: '41'
+  Number of Gamers: 2186
+  Percentage of Gamers: 6%
+  Ratio: 4.1
+  TA: '61'
   Tags:
   - Online Mode
   - Single Player
@@ -183,21 +183,21 @@ Base Game Achievements:
   Description: "Equip an item in F1\xAE World"
   GS: '5'
   Guide: false
-  Number of Gamers: 5595
-  Percentage of Gamers: 42%
-  Ratio: 1.55
-  TA: '7'
+  Number of Gamers: 12650
+  Percentage of Gamers: 34%
+  Ratio: 1.7
+  TA: '8'
   Tags:
   - Online Mode
   - Single Player
 - Achievement Name: Up And Running
   Description: "Redeem a completed Goal in F1\xAE World"
   GS: '5'
-  Guide: false
-  Number of Gamers: 2625
-  Percentage of Gamers: 19%
-  Ratio: 2.26
-  TA: '11'
+  Guide: true
+  Number of Gamers: 4754
+  Percentage of Gamers: 13%
+  Ratio: 2.78
+  TA: '13'
   Tags:
   - Online Mode
   - Single Player
@@ -205,10 +205,10 @@ Base Game Achievements:
   Description: "Complete your first Safety Rating A race in F1\xAE World"
   GS: '20'
   Guide: false
-  Number of Gamers: 2438
-  Percentage of Gamers: 18%
-  Ratio: 2.34
-  TA: '46'
+  Number of Gamers: 3900
+  Percentage of Gamers: 11%
+  Ratio: 3.07
+  TA: '61'
   Tags:
   - Online Mode
   - Single Player
@@ -216,22 +216,22 @@ Base Game Achievements:
   Description: Unlock 100 stickers in the Compendium
   GS: '40'
   Guide: false
-  Number of Gamers: 549
-  Percentage of Gamers: 4%
-  Ratio: 4.95
-  TA: '198'
+  Number of Gamers: 1099
+  Percentage of Gamers: 3%
+  Ratio: 5.78
+  TA: '231'
   Tags:
-  - Online/Offline
+  - Online Mode
   - Single Player
   - Versus
 - Achievement Name: 99 Club
   Description: Reach an overall driver rating of 99 with any driver
   GS: '75'
   Guide: true
-  Number of Gamers: 519
-  Percentage of Gamers: 4%
-  Ratio: 5.09
-  TA: '381'
+  Number of Gamers: 1217
+  Percentage of Gamers: 3%
+  Ratio: 5.5
+  TA: '412'
   Tags:
   - Online/Offline
   - Single Player
@@ -240,11 +240,11 @@ Base Game Achievements:
 - Achievement Name: Custom Hotshot
   Description: Reach an overall driver rating of 80 with a custom driver
   GS: '20'
-  Guide: false
-  Number of Gamers: 1895
-  Percentage of Gamers: 14%
-  Ratio: 2.66
-  TA: '53'
+  Guide: true
+  Number of Gamers: 4303
+  Percentage of Gamers: 12%
+  Ratio: 2.92
+  TA: '58'
   Tags:
   - Online/Offline
   - Single Player
@@ -254,10 +254,10 @@ Base Game Achievements:
   Description: Reach a Focus Rating of 90
   GS: '15'
   Guide: true
-  Number of Gamers: 1701
-  Percentage of Gamers: 13%
-  Ratio: 2.81
-  TA: '42'
+  Number of Gamers: 3616
+  Percentage of Gamers: 10%
+  Ratio: 3.19
+  TA: '47'
   Tags:
   - Online/Offline
   - Single Player
@@ -266,22 +266,22 @@ Base Game Achievements:
 - Achievement Name: Just Better
   Description: Successfully defeat a rival in the Championship Narrative Rivalry type
   GS: '10'
-  Guide: false
-  Number of Gamers: 2252
-  Percentage of Gamers: 17%
-  Ratio: 2.44
-  TA: '24'
+  Guide: true
+  Number of Gamers: 4859
+  Percentage of Gamers: 13%
+  Ratio: 2.75
+  TA: '27'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: It's Getting Hot In Here
   Description: Increase a rivalry to Heated status
   GS: '10'
-  Guide: false
-  Number of Gamers: 2260
-  Percentage of Gamers: 17%
-  Ratio: 2.44
-  TA: '24'
+  Guide: true
+  Number of Gamers: 5060
+  Percentage of Gamers: 14%
+  Ratio: 2.69
+  TA: '26'
   Tags:
   - Offline Mode
   - Single Player
@@ -289,11 +289,11 @@ Base Game Achievements:
 - Achievement Name: It's Not Me, It's You
   Description: Increase a rivalry to Career Defining status
   GS: '40'
-  Guide: false
-  Number of Gamers: 1136
-  Percentage of Gamers: 8%
-  Ratio: 3.44
-  TA: '137'
+  Guide: true
+  Number of Gamers: 2599
+  Percentage of Gamers: 7%
+  Ratio: 3.76
+  TA: '150'
   Tags:
   - Offline Mode
   - Single Player
@@ -301,11 +301,11 @@ Base Game Achievements:
 - Achievement Name: Not Making Friends
   Description: Have 3 active rivalries with 3 different drivers
   GS: '20'
-  Guide: false
-  Number of Gamers: 2422
-  Percentage of Gamers: 18%
-  Ratio: 2.35
-  TA: '47'
+  Guide: true
+  Number of Gamers: 5066
+  Percentage of Gamers: 14%
+  Ratio: 2.69
+  TA: '53'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -313,10 +313,10 @@ Base Game Achievements:
   Description: Activate an R&D Scenario
   GS: '5'
   Guide: true
-  Number of Gamers: 1418
-  Percentage of Gamers: 11%
-  Ratio: 3.08
-  TA: '15'
+  Number of Gamers: 2986
+  Percentage of Gamers: 8%
+  Ratio: 3.51
+  TA: '17'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -324,10 +324,10 @@ Base Game Achievements:
   Description: Complete all accolades for any Driver
   GS: '75'
   Guide: true
-  Number of Gamers: 674
-  Percentage of Gamers: 5%
-  Ratio: 4.46
-  TA: '335'
+  Number of Gamers: 1416
+  Percentage of Gamers: 4%
+  Ratio: 5.1
+  TA: '382'
   Tags:
   - Online/Offline
   - Single Player
@@ -336,10 +336,10 @@ Base Game Achievements:
   Description: Complete 25 Dynamic Objectives
   GS: '10'
   Guide: true
-  Number of Gamers: 3129
-  Percentage of Gamers: 23%
-  Ratio: 2.07
-  TA: '20'
+  Number of Gamers: 6714
+  Percentage of Gamers: 18%
+  Ratio: 2.34
+  TA: '23'
   Tags:
   - Online/Offline
   - Single Player
@@ -349,10 +349,10 @@ Base Game Achievements:
   Description: Reach relationship level 3 with any Specialist in Driver Career
   GS: '10'
   Guide: false
-  Number of Gamers: 2824
-  Percentage of Gamers: 21%
-  Ratio: 2.18
-  TA: '21'
+  Number of Gamers: 6296
+  Percentage of Gamers: 17%
+  Ratio: 2.41
+  TA: '24'
   Tags:
   - Offline Mode
   - Single Player
@@ -361,11 +361,11 @@ Base Game Achievements:
   Description: Complete all 3 secret meetings and join that team at the end of the
     season
   GS: '10'
-  Guide: false
-  Number of Gamers: 1538
-  Percentage of Gamers: 11%
-  Ratio: 2.95
-  TA: '29'
+  Guide: true
+  Number of Gamers: 3454
+  Percentage of Gamers: 9%
+  Ratio: 3.26
+  TA: '32'
   Tags:
   - Online/Offline
   - Single Player
@@ -374,10 +374,10 @@ Base Game Achievements:
   Description: Complete all 4 Specialist goals in a single race weekend
   GS: '10'
   Guide: false
-  Number of Gamers: 5818
-  Percentage of Gamers: 43%
-  Ratio: 1.52
-  TA: '15'
+  Number of Gamers: 13408
+  Percentage of Gamers: 36%
+  Ratio: 1.65
+  TA: '16'
   Tags:
   - Online/Offline
   - Single Player
@@ -385,11 +385,11 @@ Base Game Achievements:
 - Achievement Name: Target Acquired
   Description: Set a target 3 above your current rating and achieve it during a season
   GS: '20'
-  Guide: false
-  Number of Gamers: 3409
-  Percentage of Gamers: 25%
-  Ratio: 1.98
-  TA: '39'
+  Guide: true
+  Number of Gamers: 7826
+  Percentage of Gamers: 21%
+  Ratio: 2.16
+  TA: '43'
   Tags:
   - Online/Offline
   - Single Player
@@ -398,10 +398,10 @@ Base Game Achievements:
   Description: Achieve 55% Recognition or higher with any team in Driver Career
   GS: '10'
   Guide: true
-  Number of Gamers: 3926
-  Percentage of Gamers: 29%
-  Ratio: 1.85
-  TA: '18'
+  Number of Gamers: 8604
+  Percentage of Gamers: 23%
+  Ratio: 2.06
+  TA: '20'
   Tags:
   - Offline Mode
   - Single Player
@@ -410,9 +410,9 @@ Base Game Achievements:
   Description: Earn your first Accolade in Driver Career
   GS: '5'
   Guide: false
-  Number of Gamers: 4894
-  Percentage of Gamers: 36%
-  Ratio: 1.65
+  Number of Gamers: 11516
+  Percentage of Gamers: 31%
+  Ratio: 1.78
   TA: '8'
   Tags:
   - Offline Game Mode
@@ -420,11 +420,11 @@ Base Game Achievements:
 - Achievement Name: Sign On The Dotted Line
   Description: Agree to a multi-year contract with a team in Driver Career
   GS: '40'
-  Guide: false
-  Number of Gamers: 1817
-  Percentage of Gamers: 13%
-  Ratio: 2.72
-  TA: '108'
+  Guide: true
+  Number of Gamers: 3888
+  Percentage of Gamers: 11%
+  Ratio: 3.07
+  TA: '123'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -432,10 +432,10 @@ Base Game Achievements:
   Description: Earn 4 Perks from your Specialists as any driver in Driver Career
   GS: '10'
   Guide: false
-  Number of Gamers: 3421
-  Percentage of Gamers: 25%
-  Ratio: 1.98
-  TA: '19'
+  Number of Gamers: 7728
+  Percentage of Gamers: 21%
+  Ratio: 2.18
+  TA: '21'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -443,10 +443,10 @@ Base Game Achievements:
   Description: "Dismantle 50 items in F1\xAE World"
   GS: '10'
   Guide: false
-  Number of Gamers: 1053
-  Percentage of Gamers: 8%
-  Ratio: 3.57
-  TA: '35'
+  Number of Gamers: 2054
+  Percentage of Gamers: 6%
+  Ratio: 4.23
+  TA: '42'
   Tags:
   - Online Mode
   - Single Player
@@ -455,10 +455,10 @@ Base Game Achievements:
   Description: "Complete a goal from each of the 7 Vendors in F1\xAE World"
   GS: '10'
   Guide: true
-  Number of Gamers: 626
-  Percentage of Gamers: 5%
-  Ratio: 4.63
-  TA: '46'
+  Number of Gamers: 1233
+  Percentage of Gamers: 3%
+  Ratio: 5.46
+  TA: '54'
   Tags:
   - Online Mode
   - Single Player
@@ -466,10 +466,10 @@ Base Game Achievements:
   Description: Get promoted to a higher division in Ranked
   GS: '10'
   Guide: false
-  Number of Gamers: 1558
-  Percentage of Gamers: 12%
-  Ratio: 2.93
-  TA: '29'
+  Number of Gamers: 3284
+  Percentage of Gamers: 9%
+  Ratio: 3.34
+  TA: '33'
   Tags:
   - Online Mode
   - Versus
@@ -478,10 +478,10 @@ Base Game Achievements:
   Description: As Max Verstappen, win a race at Circuit Zandvoort
   GS: '10'
   Guide: true
-  Number of Gamers: 1377
-  Percentage of Gamers: 10%
-  Ratio: 3.12
-  TA: '31'
+  Number of Gamers: 2448
+  Percentage of Gamers: 7%
+  Ratio: 3.87
+  TA: '38'
   Tags:
   - Online/Offline
   - Single Player
@@ -490,10 +490,10 @@ Base Game Achievements:
   Description: As Lando Norris, win a race at Silverstone in a McLaren
   GS: '10'
   Guide: true
-  Number of Gamers: 1168
-  Percentage of Gamers: 9%
-  Ratio: 3.39
-  TA: '33'
+  Number of Gamers: 2278
+  Percentage of Gamers: 6%
+  Ratio: 4.02
+  TA: '40'
   Tags:
   - Online/Offline
   - Single Player
@@ -502,22 +502,19 @@ Base Game Achievements:
   Description: "Earn 10,000 Fan Points in a single F1\xAE World season"
   GS: '15'
   Guide: false
-  Number of Gamers: 2792
-  Percentage of Gamers: 21%
-  Ratio: 2.19
-  TA: '32'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Versus
+  Number of Gamers: 3731
+  Percentage of Gamers: 10%
+  Ratio: 3.14
+  TA: '47'
+  Tags: []
 - Achievement Name: Reach Out to the Fans
   Description: "Complete 10 Fan Liaison goals in F1\xAE World"
   GS: '10'
   Guide: true
-  Number of Gamers: 1088
-  Percentage of Gamers: 8%
-  Ratio: 3.51
-  TA: '35'
+  Number of Gamers: 1974
+  Percentage of Gamers: 5%
+  Ratio: 4.31
+  TA: '43'
   Tags:
   - Online Mode
   - Single Player
@@ -526,10 +523,10 @@ Base Game Achievements:
   Description: "Spend a total of 1000 Fan Tokens in F1\xAE World"
   GS: '40'
   Guide: true
-  Number of Gamers: 387
-  Percentage of Gamers: 3%
-  Ratio: 5.89
-  TA: '235'
+  Number of Gamers: 807
+  Percentage of Gamers: 2%
+  Ratio: 6.75
+  TA: '270'
   Tags:
   - Online Mode
   - Single Player
@@ -539,34 +536,35 @@ Base Game Achievements:
   Description: Be in the winning zone of either a Constructor or Driver Fanzone Room
   GS: '40'
   Guide: true
-  Number of Gamers: 526
+  Number of Gamers: 1295
   Percentage of Gamers: 4%
-  Ratio: 5.05
-  TA: '202'
+  Ratio: 5.33
+  TA: '213'
   Tags:
-  - Online/Offline
+  - Online Mode
   - Single Player
   - Versus
 - Achievement Name: Tough Choices
   Description: "Lock-In your Fanzone choices for a new F1\xAE World season 3 times"
   GS: '40'
   Guide: true
-  Number of Gamers: 2298
-  Percentage of Gamers: 17%
-  Ratio: 2.42
-  TA: '96'
+  Number of Gamers: 5861
+  Percentage of Gamers: 16%
+  Ratio: 2.5
+  TA: '100'
   Tags:
   - Online Mode
   - Single Player
   - Community
+  - Buggy
 - Achievement Name: Express Your Fandom
   Description: Equip a different Expression Label on your Super Licence profile
   GS: '15'
   Guide: false
-  Number of Gamers: 4699
-  Percentage of Gamers: 35%
-  Ratio: 1.69
-  TA: '25'
+  Number of Gamers: 10876
+  Percentage of Gamers: 30%
+  Ratio: 1.83
+  TA: '27'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -574,11 +572,11 @@ Base Game Achievements:
   Description: Win a sprint race, Grand Prix and set the fastest lap in a single race
     weekend
   GS: '10'
-  Guide: false
-  Number of Gamers: 3564
-  Percentage of Gamers: 26%
-  Ratio: 1.94
-  TA: '19'
+  Guide: true
+  Number of Gamers: 8709
+  Percentage of Gamers: 24%
+  Ratio: 2.05
+  TA: '20'
   Tags:
   - Online/Offline
   - Single Player
@@ -587,34 +585,34 @@ Base Game Achievements:
   Description: Unlock 30 stickers from the Champions category in the Compendium
   GS: '10'
   Guide: false
-  Number of Gamers: 486
-  Percentage of Gamers: 4%
-  Ratio: 5.26
-  TA: '52'
+  Number of Gamers: 1017
+  Percentage of Gamers: 3%
+  Ratio: 6.01
+  TA: '60'
   Tags:
-  - Online/Offline
+  - Online Mode
   - Single Player
   - Versus
-Base Ratio: 3.206
-Base TA: 3206
+Base Ratio: 3.607
+Base TA: 3607
 Delisted: false
 Developer: Codemasters
 Game Name: F1 24
 Genres: Simulation Racing, Automobile, Sports
-Install Size: 56120.0
-Number of Completions: 62
-Number of Gamers: 13465
+Install Size: 57580.0
+Number of Completions: 208
+Number of Gamers: 36816
 Overall Completion Time:
-- 60.0
-- 80.0
+- 40.0
+- 50.0
 Overall GS: 1000
-Overall Ratio: 3.206
-Overall TA: 3206
+Overall Ratio: 3.607
+Overall TA: 3607
 PDU: 0
-Percentage Completed: 0.46
+Percentage Completed: 0.56
 Publisher: Electronic Arts
 Release Date: 31 May 2024
 Server Closure: false
-Site Rating: 3.55
+Site Rating: 3.77
 Update Achievements: []
 Walkthrough: false

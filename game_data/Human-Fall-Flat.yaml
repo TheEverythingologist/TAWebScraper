@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 16.0
-- 27.0
-Base GS: 3560
+- 16.5
+- 28.0
+Base GS: 3720
 Base Game Achievements:
 - Achievement Name: Leap of Fail
   Description: Complete "Mansion"
   GS: '20'
   Guide: true
-  Number of Gamers: 377083
+  Number of Gamers: 384272
   Percentage of Gamers: 90%
   Ratio: 1.05
   TA: '21'
@@ -21,7 +21,7 @@ Base Game Achievements:
   Description: Complete "Train"
   GS: '20'
   Guide: true
-  Number of Gamers: 329020
+  Number of Gamers: 335227
   Percentage of Gamers: 79%
   Ratio: 1.12
   TA: '22'
@@ -34,7 +34,7 @@ Base Game Achievements:
   Description: Complete "Carry"
   GS: '20'
   Guide: true
-  Number of Gamers: 313589
+  Number of Gamers: 319591
   Percentage of Gamers: 75%
   Ratio: 1.15
   TA: '23'
@@ -47,7 +47,7 @@ Base Game Achievements:
   Description: Complete "Mountain"
   GS: '20'
   Guide: true
-  Number of Gamers: 275843
+  Number of Gamers: 281203
   Percentage of Gamers: 66%
   Ratio: 1.23
   TA: '24'
@@ -60,7 +60,7 @@ Base Game Achievements:
   Description: Complete "Demolition"
   GS: '20'
   Guide: true
-  Number of Gamers: 232242
+  Number of Gamers: 236815
   Percentage of Gamers: 56%
   Ratio: 1.34
   TA: '26'
@@ -73,7 +73,7 @@ Base Game Achievements:
   Description: Complete "Castle"
   GS: '20'
   Guide: true
-  Number of Gamers: 180978
+  Number of Gamers: 184570
   Percentage of Gamers: 43%
   Ratio: 1.51
   TA: '30'
@@ -86,8 +86,8 @@ Base Game Achievements:
   Description: Complete "Water" diving feet-first
   GS: '20'
   Guide: true
-  Number of Gamers: 123175
-  Percentage of Gamers: 29%
+  Number of Gamers: 125639
+  Percentage of Gamers: 30%
   Ratio: 1.84
   TA: '36'
   Tags:
@@ -98,9 +98,9 @@ Base Game Achievements:
   Description: Complete "Water" diving head-first
   GS: '20'
   Guide: true
-  Number of Gamers: 32688
+  Number of Gamers: 33397
   Percentage of Gamers: 8%
-  Ratio: 3.57
+  Ratio: 3.56
   TA: '71'
   Tags:
   - Online/Offline
@@ -110,7 +110,7 @@ Base Game Achievements:
   Description: Complete "Power Plant"
   GS: '20'
   Guide: true
-  Number of Gamers: 122075
+  Number of Gamers: 124522
   Percentage of Gamers: 29%
   Ratio: 1.84
   TA: '36'
@@ -123,7 +123,7 @@ Base Game Achievements:
   Description: Complete the game start-to-end in one run
   GS: '20'
   Guide: true
-  Number of Gamers: 19767
+  Number of Gamers: 20147
   Percentage of Gamers: 5%
   Ratio: 4.59
   TA: '91'
@@ -136,7 +136,7 @@ Base Game Achievements:
   Description: Fall and respawn once
   GS: '10'
   Guide: true
-  Number of Gamers: 386151
+  Number of Gamers: 393697
   Percentage of Gamers: 92%
   Ratio: 1.03
   TA: '10'
@@ -148,7 +148,7 @@ Base Game Achievements:
   Description: Stand on the head of the statue in the intro
   GS: '10'
   Guide: true
-  Number of Gamers: 75224
+  Number of Gamers: 76515
   Percentage of Gamers: 18%
   Ratio: 2.35
   TA: '23'
@@ -160,7 +160,7 @@ Base Game Achievements:
   Description: Take a big shortcut in the level "Mansion"
   GS: '10'
   Guide: true
-  Number of Gamers: 75359
+  Number of Gamers: 76813
   Percentage of Gamers: 18%
   Ratio: 2.35
   TA: '23'
@@ -172,7 +172,7 @@ Base Game Achievements:
   Description: Place 5 pieces of debris in a dumpster
   GS: '10'
   Guide: true
-  Number of Gamers: 48876
+  Number of Gamers: 49670
   Percentage of Gamers: 12%
   Ratio: 2.92
   TA: '29'
@@ -184,9 +184,9 @@ Base Game Achievements:
   Description: Align a flipped bench with a wall
   GS: '10'
   Guide: true
-  Number of Gamers: 46160
+  Number of Gamers: 46878
   Percentage of Gamers: 11%
-  Ratio: 3.0
+  Ratio: 3.01
   TA: '30'
   Tags:
   - Online/Offline
@@ -196,7 +196,7 @@ Base Game Achievements:
   Description: Jam a door and go through it in "Carry"
   GS: '10'
   Guide: true
-  Number of Gamers: 96409
+  Number of Gamers: 98130
   Percentage of Gamers: 23%
   Ratio: 2.08
   TA: '20'
@@ -208,7 +208,7 @@ Base Game Achievements:
   Description: Stack all 4 boxes in the level "Carry"
   GS: '20'
   Guide: true
-  Number of Gamers: 36200
+  Number of Gamers: 36832
   Percentage of Gamers: 9%
   Ratio: 3.39
   TA: '67'
@@ -220,7 +220,7 @@ Base Game Achievements:
   Description: Use the rope to go above the abyss in the level "Mountain"
   GS: '20'
   Guide: true
-  Number of Gamers: 150444
+  Number of Gamers: 153393
   Percentage of Gamers: 36%
   Ratio: 1.66
   TA: '33'
@@ -232,7 +232,7 @@ Base Game Achievements:
   Description: Get rid of the speaker set in "Mountain"
   GS: '20'
   Guide: true
-  Number of Gamers: 103834
+  Number of Gamers: 105785
   Percentage of Gamers: 25%
   Ratio: 2.0
   TA: '40'
@@ -244,7 +244,7 @@ Base Game Achievements:
   Description: Collect all gems into a pile in "Mountain"
   GS: '20'
   Guide: true
-  Number of Gamers: 44719
+  Number of Gamers: 45459
   Percentage of Gamers: 11%
   Ratio: 3.05
   TA: '61'
@@ -256,7 +256,7 @@ Base Game Achievements:
   Description: Use the window on your left instead of smashing the wall in "Demolition"
   GS: '20'
   Guide: true
-  Number of Gamers: 114001
+  Number of Gamers: 116200
   Percentage of Gamers: 27%
   Ratio: 1.91
   TA: '38'
@@ -268,7 +268,7 @@ Base Game Achievements:
   Description: Unleash the boulder gate in "Demolition"
   GS: '20'
   Guide: true
-  Number of Gamers: 227873
+  Number of Gamers: 232377
   Percentage of Gamers: 55%
   Ratio: 1.35
   TA: '27'
@@ -280,9 +280,9 @@ Base Game Achievements:
   Description: Break 4 walls without using any gadgets in "Demolition"
   GS: '20'
   Guide: true
-  Number of Gamers: 56079
+  Number of Gamers: 56990
   Percentage of Gamers: 13%
-  Ratio: 2.72
+  Ratio: 2.73
   TA: '54'
   Tags:
   - Online/Offline
@@ -292,7 +292,7 @@ Base Game Achievements:
   Description: Launch yourself with the catapult in "Castle"
   GS: '30'
   Guide: true
-  Number of Gamers: 232849
+  Number of Gamers: 237435
   Percentage of Gamers: 56%
   Ratio: 1.33
   TA: '40'
@@ -304,7 +304,7 @@ Base Game Achievements:
   Description: Ring the castle bell in "Castle"
   GS: '20'
   Guide: true
-  Number of Gamers: 37407
+  Number of Gamers: 38105
   Percentage of Gamers: 9%
   Ratio: 3.34
   TA: '66'
@@ -316,7 +316,7 @@ Base Game Achievements:
   Description: Zipline from the church tower in "Castle"
   GS: '20'
   Guide: true
-  Number of Gamers: 29690
+  Number of Gamers: 30258
   Percentage of Gamers: 7%
   Ratio: 3.74
   TA: '74'
@@ -329,7 +329,7 @@ Base Game Achievements:
     touching the ground.
   GS: '40'
   Guide: true
-  Number of Gamers: 22348
+  Number of Gamers: 22793
   Percentage of Gamers: 5%
   Ratio: 4.32
   TA: '172'
@@ -342,9 +342,9 @@ Base Game Achievements:
   Description: Use the row boat to get to the cargo ship in "Water"
   GS: '20'
   Guide: true
-  Number of Gamers: 67857
+  Number of Gamers: 69217
   Percentage of Gamers: 16%
-  Ratio: 2.48
+  Ratio: 2.47
   TA: '49'
   Tags:
   - Online/Offline
@@ -354,7 +354,7 @@ Base Game Achievements:
   Description: Enter the dock with the ship backwards in "Water"
   GS: '20'
   Guide: true
-  Number of Gamers: 33959
+  Number of Gamers: 34566
   Percentage of Gamers: 8%
   Ratio: 3.5
   TA: '70'
@@ -366,7 +366,7 @@ Base Game Achievements:
   Description: Light up the lighthouse in "Water"
   GS: '20'
   Guide: true
-  Number of Gamers: 35744
+  Number of Gamers: 36440
   Percentage of Gamers: 9%
   Ratio: 3.41
   TA: '68'
@@ -378,7 +378,7 @@ Base Game Achievements:
   Description: In "Water", get out of the water in 100ms to avoid drowning
   GS: '20'
   Guide: true
-  Number of Gamers: 124060
+  Number of Gamers: 126595
   Percentage of Gamers: 30%
   Ratio: 1.83
   TA: '36'
@@ -390,7 +390,7 @@ Base Game Achievements:
   Description: Don't get wet while surfing down the mountain in "Water"
   GS: '30'
   Guide: true
-  Number of Gamers: 49685
+  Number of Gamers: 50723
   Percentage of Gamers: 12%
   Ratio: 2.89
   TA: '86'
@@ -402,7 +402,7 @@ Base Game Achievements:
   Description: Short-circuit the wires in "Power Plant"
   GS: '30'
   Guide: true
-  Number of Gamers: 51536
+  Number of Gamers: 52532
   Percentage of Gamers: 12%
   Ratio: 2.84
   TA: '85'
@@ -414,7 +414,7 @@ Base Game Achievements:
   Description: Feed an appliance with power from 3 batteries in "Power Plant"
   GS: '30'
   Guide: true
-  Number of Gamers: 18947
+  Number of Gamers: 19315
   Percentage of Gamers: 5%
   Ratio: 4.69
   TA: '140'
@@ -426,7 +426,7 @@ Base Game Achievements:
   Description: Deliver 10 pieces of coal to the main island in "Power Plant"
   GS: '30'
   Guide: true
-  Number of Gamers: 100366
+  Number of Gamers: 102437
   Percentage of Gamers: 24%
   Ratio: 2.03
   TA: '61'
@@ -438,9 +438,9 @@ Base Game Achievements:
   Description: Steal the battery from the statue in "Power Plant"
   GS: '20'
   Guide: true
-  Number of Gamers: 32750
+  Number of Gamers: 33402
   Percentage of Gamers: 8%
-  Ratio: 3.57
+  Ratio: 3.56
   TA: '71'
   Tags:
   - Online/Offline
@@ -450,7 +450,7 @@ Base Game Achievements:
   Description: Travel 1km
   GS: '20'
   Guide: true
-  Number of Gamers: 339079
+  Number of Gamers: 345659
   Percentage of Gamers: 81%
   Ratio: 1.1
   TA: '22'
@@ -463,9 +463,9 @@ Base Game Achievements:
   Description: Travel 10km
   GS: '20'
   Guide: true
-  Number of Gamers: 167052
+  Number of Gamers: 170576
   Percentage of Gamers: 40%
-  Ratio: 1.58
+  Ratio: 1.57
   TA: '31'
   Tags:
   - Online/Offline
@@ -476,7 +476,7 @@ Base Game Achievements:
   Description: Travel 25km
   GS: '30'
   Guide: true
-  Number of Gamers: 84971
+  Number of Gamers: 87033
   Percentage of Gamers: 20%
   Ratio: 2.21
   TA: '66'
@@ -489,7 +489,7 @@ Base Game Achievements:
   Description: Respawn 100 times
   GS: '20'
   Guide: true
-  Number of Gamers: 160135
+  Number of Gamers: 163680
   Percentage of Gamers: 38%
   Ratio: 1.61
   TA: '32'
@@ -502,7 +502,7 @@ Base Game Achievements:
   Description: Jump 1000 times
   GS: '20'
   Guide: true
-  Number of Gamers: 211776
+  Number of Gamers: 216186
   Percentage of Gamers: 51%
   Ratio: 1.4
   TA: '28'
@@ -515,7 +515,7 @@ Base Game Achievements:
   Description: Climb 100m
   GS: '20'
   Guide: true
-  Number of Gamers: 288759
+  Number of Gamers: 294471
   Percentage of Gamers: 69%
   Ratio: 1.2
   TA: '24'
@@ -528,7 +528,7 @@ Base Game Achievements:
   Description: Carry objects for a total of 1000m
   GS: '30'
   Guide: true
-  Number of Gamers: 213042
+  Number of Gamers: 217452
   Percentage of Gamers: 51%
   Ratio: 1.39
   TA: '41'
@@ -541,7 +541,7 @@ Base Game Achievements:
   Description: Drown 10 times
   GS: '20'
   Guide: true
-  Number of Gamers: 217854
+  Number of Gamers: 222164
   Percentage of Gamers: 52%
   Ratio: 1.38
   TA: '27'
@@ -554,7 +554,7 @@ Base Game Achievements:
   Description: Use any of the boats to travel 1km
   GS: '30'
   Guide: true
-  Number of Gamers: 162383
+  Number of Gamers: 165650
   Percentage of Gamers: 39%
   Ratio: 1.6
   TA: '48'
@@ -567,7 +567,7 @@ Base Game Achievements:
   Description: Use any of the ground vehicles to travel 1km
   GS: '30'
   Guide: true
-  Number of Gamers: 90795
+  Number of Gamers: 92686
   Percentage of Gamers: 22%
   Ratio: 2.14
   TA: '64'
@@ -580,7 +580,7 @@ Base Game Achievements:
   Description: Ride 50m in a dumpster
   GS: '30'
   Guide: true
-  Number of Gamers: 57053
+  Number of Gamers: 57962
   Percentage of Gamers: 14%
   Ratio: 2.7
   TA: '81'
@@ -589,23 +589,23 @@ Base Game Achievements:
   - Single Player
   - Cooperative
   - Cumulative +
-Base Ratio: 4.75561797752809
-Base TA: 16930
+Base Ratio: 4.985215053763441
+Base TA: 18545
 Delisted: false
 Developer: No Brakes Games
 Game Name: Human Fall Flat
 Genres: Puzzle, Platformer
-Install Size: 4030.0000000000005
-Number of Completions: 3021
-Number of Gamers: 417551
+Install Size: 4140.0
+Number of Completions: 2097
+Number of Gamers: 425839
 Overall Completion Time:
-- 16.0
-- 27.0
-Overall GS: 3560
-Overall Ratio: 4.75561797752809
-Overall TA: 16930
+- 16.5
+- 28.0
+Overall GS: 3720
+Overall Ratio: 4.985215053763441
+Overall TA: 18545
 PDU: 0
-Percentage Completed: 0.72
+Percentage Completed: 0.49
 Publisher: Curve Games
 Release Date: 12 May 2017
 Server Closure: false
@@ -615,7 +615,7 @@ Update Achievements:
   Description: Complete "Aztec"
   GS: '20'
   Guide: true
-  Number of Gamers: 90468
+  Number of Gamers: 92292
   Percentage of Gamers: 22%
   Ratio: 2.14
   TA: '42'
@@ -628,9 +628,9 @@ Update Achievements:
   Description: "Climb to the top of the tree with the birds nest in \u201CAztec\u201D"
   GS: '20'
   Guide: true
-  Number of Gamers: 31499
+  Number of Gamers: 32156
   Percentage of Gamers: 8%
-  Ratio: 3.64
+  Ratio: 3.63
   TA: '72'
   Tags:
   - Online/Offline
@@ -640,10 +640,10 @@ Update Achievements:
   Description: Walk on the rolling ball to bypass a puzzle in "Aztec"
   GS: '40'
   Guide: true
-  Number of Gamers: 16020
+  Number of Gamers: 16381
   Percentage of Gamers: 4%
-  Ratio: 5.1
-  TA: '204'
+  Ratio: 5.09
+  TA: '203'
   Tags:
   - Online/Offline
   - Single Player
@@ -652,10 +652,10 @@ Update Achievements:
   Description: "Pass the pendulum obstacle course in 60 seconds in \u201CAztec\u201D"
   GS: '40'
   Guide: true
-  Number of Gamers: 15237
+  Number of Gamers: 15593
   Percentage of Gamers: 4%
-  Ratio: 5.23
-  TA: '209'
+  Ratio: 5.22
+  TA: '208'
   Tags:
   - Online/Offline
   - Single Player
@@ -665,7 +665,7 @@ Update Achievements:
   Description: Complete "Dark"
   GS: '20'
   Guide: true
-  Number of Gamers: 79861
+  Number of Gamers: 81613
   Percentage of Gamers: 19%
   Ratio: 2.28
   TA: '45'
@@ -678,9 +678,9 @@ Update Achievements:
   Description: Hold on to the EXIT lid after you flick the switch in "Dark"
   GS: '20'
   Guide: true
-  Number of Gamers: 39190
+  Number of Gamers: 40067
   Percentage of Gamers: 9%
-  Ratio: 3.26
+  Ratio: 3.25
   TA: '65'
   Tags:
   - Online/Offline
@@ -690,9 +690,9 @@ Update Achievements:
   Description: Climb the Clock Tower in 40 seconds in "Dark"
   GS: '40'
   Guide: true
-  Number of Gamers: 12437
+  Number of Gamers: 12743
   Percentage of Gamers: 3%
-  Ratio: 5.79
+  Ratio: 5.77
   TA: '231'
   Tags:
   - Online/Offline
@@ -703,9 +703,9 @@ Update Achievements:
   Description: Complete "Dark" without moving any planks that are barring doors
   GS: '40'
   Guide: true
-  Number of Gamers: 14070
+  Number of Gamers: 14410
   Percentage of Gamers: 3%
-  Ratio: 5.44
+  Ratio: 5.43
   TA: '217'
   Tags:
   - Online/Offline
@@ -715,7 +715,7 @@ Update Achievements:
   Description: Complete "Steam"
   GS: '20'
   Guide: true
-  Number of Gamers: 63225
+  Number of Gamers: 64668
   Percentage of Gamers: 15%
   Ratio: 2.56
   TA: '51'
@@ -728,9 +728,9 @@ Update Achievements:
   Description: Reach the big wheel in "Steam" without using the crane controls
   GS: '20'
   Guide: true
-  Number of Gamers: 28557
+  Number of Gamers: 29165
   Percentage of Gamers: 7%
-  Ratio: 3.82
+  Ratio: 3.81
   TA: '76'
   Tags:
   - Online/Offline
@@ -740,7 +740,7 @@ Update Achievements:
   Description: Ride 3 complete revolutions of the big wheel in "Steam"
   GS: '40'
   Guide: true
-  Number of Gamers: 22901
+  Number of Gamers: 23394
   Percentage of Gamers: 5%
   Ratio: 4.26
   TA: '170'
@@ -752,10 +752,10 @@ Update Achievements:
   Description: Break the ladder in "Steam"
   GS: '40'
   Guide: true
-  Number of Gamers: 62778
+  Number of Gamers: 64183
   Percentage of Gamers: 15%
   Ratio: 2.57
-  TA: '103'
+  TA: '102'
   Tags:
   - Online/Offline
   - Single Player
@@ -764,7 +764,7 @@ Update Achievements:
   Description: Complete "Ice"
   GS: '20'
   Guide: true
-  Number of Gamers: 53304
+  Number of Gamers: 54528
   Percentage of Gamers: 13%
   Ratio: 2.79
   TA: '55'
@@ -778,9 +778,9 @@ Update Achievements:
     feet
   GS: '40'
   Guide: true
-  Number of Gamers: 20194
+  Number of Gamers: 20663
   Percentage of Gamers: 5%
-  Ratio: 4.54
+  Ratio: 4.53
   TA: '181'
   Tags:
   - Online/Offline
@@ -790,9 +790,9 @@ Update Achievements:
   Description: Complete the seesaw puzzle in "Ice" without using an ice cube
   GS: '40'
   Guide: true
-  Number of Gamers: 27867
+  Number of Gamers: 28530
   Percentage of Gamers: 7%
-  Ratio: 3.87
+  Ratio: 3.86
   TA: '154'
   Tags:
   - Online/Offline
@@ -802,10 +802,10 @@ Update Achievements:
   Description: Complete 1 complete revolution on the ski chairs in "Ice"
   GS: '20'
   Guide: true
-  Number of Gamers: 15721
+  Number of Gamers: 16098
   Percentage of Gamers: 4%
-  Ratio: 5.15
-  TA: '103'
+  Ratio: 5.14
+  TA: '102'
   Tags:
   - Online/Offline
   - Single Player
@@ -814,10 +814,10 @@ Update Achievements:
   Description: Complete "Thermal"
   GS: '20'
   Guide: true
-  Number of Gamers: 39462
+  Number of Gamers: 40329
   Percentage of Gamers: 9%
-  Ratio: 3.25
-  TA: '65'
+  Ratio: 3.24
+  TA: '64'
   Tags:
   - Online/Offline
   - Single Player
@@ -827,10 +827,10 @@ Update Achievements:
   Description: Complete "Thermal" while holding a gold bar
   GS: '20'
   Guide: true
-  Number of Gamers: 14286
+  Number of Gamers: 14624
   Percentage of Gamers: 3%
-  Ratio: 5.4
-  TA: '108'
+  Ratio: 5.39
+  TA: '107'
   Tags:
   - Online/Offline
   - Single Player
@@ -839,7 +839,7 @@ Update Achievements:
   Description: Enter the compound in "Thermal" without passing through the main gate
   GS: '40'
   Guide: true
-  Number of Gamers: 22490
+  Number of Gamers: 22996
   Percentage of Gamers: 5%
   Ratio: 4.3
   TA: '172'
@@ -851,10 +851,10 @@ Update Achievements:
   Description: Attach all electrical cables in 35 seconds or less in "Thermal"
   GS: '40'
   Guide: true
-  Number of Gamers: 11071
+  Number of Gamers: 11354
   Percentage of Gamers: 3%
-  Ratio: 6.14
-  TA: '245'
+  Ratio: 6.12
+  TA: '244'
   Tags:
   - Online/Offline
   - Single Player
@@ -864,10 +864,10 @@ Update Achievements:
   Description: Destroy the statue with the bulldozer
   GS: '40'
   Guide: true
-  Number of Gamers: 32479
+  Number of Gamers: 33334
   Percentage of Gamers: 8%
-  Ratio: 3.58
-  TA: '143'
+  Ratio: 3.57
+  TA: '142'
   Tags:
   - Online/Offline
   - Single Player
@@ -876,10 +876,10 @@ Update Achievements:
   Description: Burn a marshmallow over the bonfire
   GS: '40'
   Guide: true
-  Number of Gamers: 37708
+  Number of Gamers: 38718
   Percentage of Gamers: 9%
-  Ratio: 3.32
-  TA: '133'
+  Ratio: 3.31
+  TA: '132'
   Tags:
   - Online/Offline
   - Single Player
@@ -888,10 +888,10 @@ Update Achievements:
   Description: Don't let the ice block melt
   GS: '40'
   Guide: true
-  Number of Gamers: 25349
+  Number of Gamers: 26038
   Percentage of Gamers: 6%
-  Ratio: 4.05
-  TA: '162'
+  Ratio: 4.04
+  TA: '161'
   Tags:
   - Online/Offline
   - Single Player
@@ -900,9 +900,9 @@ Update Achievements:
   Description: Complete Forest
   GS: '40'
   Guide: true
-  Number of Gamers: 27521
+  Number of Gamers: 28265
   Percentage of Gamers: 7%
-  Ratio: 3.89
+  Ratio: 3.88
   TA: '155'
   Tags:
   - Online/Offline
@@ -913,9 +913,9 @@ Update Achievements:
   Description: Complete "Factory"
   GS: '20'
   Guide: true
-  Number of Gamers: 42570
+  Number of Gamers: 43565
   Percentage of Gamers: 10%
-  Ratio: 3.13
+  Ratio: 3.12
   TA: '62'
   Tags:
   - Online/Offline
@@ -927,9 +927,9 @@ Update Achievements:
   Description: "Throw one of each item in the final room into the fire in \u201CFactory\u201D"
   GS: '20'
   Guide: true
-  Number of Gamers: 21836
+  Number of Gamers: 22331
   Percentage of Gamers: 5%
-  Ratio: 4.37
+  Ratio: 4.36
   TA: '87'
   Tags:
   - Online/Offline
@@ -940,10 +940,10 @@ Update Achievements:
     \ lights on"
   GS: '40'
   Guide: true
-  Number of Gamers: 13185
+  Number of Gamers: 13515
   Percentage of Gamers: 3%
-  Ratio: 5.62
-  TA: '225'
+  Ratio: 5.61
+  TA: '224'
   Tags:
   - Online/Offline
   - Single Player
@@ -952,9 +952,9 @@ Update Achievements:
   Description: "Throw all four radios off the level in \u201CFactory\u201D"
   GS: '40'
   Guide: true
-  Number of Gamers: 11157
+  Number of Gamers: 11418
   Percentage of Gamers: 3%
-  Ratio: 6.11
+  Ratio: 6.1
   TA: '244'
   Tags:
   - Online/Offline
@@ -964,10 +964,10 @@ Update Achievements:
   Description: Reach the exit door whilst holding an orb in the launch pad room
   GS: '40'
   Guide: true
-  Number of Gamers: 15565
+  Number of Gamers: 16066
   Percentage of Gamers: 4%
-  Ratio: 5.17
-  TA: '207'
+  Ratio: 5.14
+  TA: '205'
   Tags:
   - Online/Offline
   - Single Player
@@ -976,10 +976,10 @@ Update Achievements:
   Description: Hit all targets without missing a single shot
   GS: '40'
   Guide: true
-  Number of Gamers: 11887
+  Number of Gamers: 12310
   Percentage of Gamers: 3%
-  Ratio: 5.92
-  TA: '237'
+  Ratio: 5.88
+  TA: '235'
   Tags:
   - Online/Offline
   - Single Player
@@ -988,10 +988,10 @@ Update Achievements:
   Description: Throw an orb into the lava
   GS: '40'
   Guide: true
-  Number of Gamers: 12307
+  Number of Gamers: 12655
   Percentage of Gamers: 3%
-  Ratio: 5.82
-  TA: '232'
+  Ratio: 5.79
+  TA: '231'
   Tags:
   - Online/Offline
   - Single Player
@@ -1000,10 +1000,10 @@ Update Achievements:
   Description: "Complete \u201CLaboratory\u201D"
   GS: '40'
   Guide: true
-  Number of Gamers: 28732
+  Number of Gamers: 29703
   Percentage of Gamers: 7%
-  Ratio: 3.81
-  TA: '152'
+  Ratio: 3.78
+  TA: '151'
   Tags:
   - Online/Offline
   - Single Player
@@ -1013,9 +1013,9 @@ Update Achievements:
   Description: Complete "Golf"
   GS: '20'
   Guide: true
-  Number of Gamers: 57979
+  Number of Gamers: 59549
   Percentage of Gamers: 14%
-  Ratio: 2.68
+  Ratio: 2.67
   TA: '53'
   Tags:
   - Online/Offline
@@ -1026,9 +1026,9 @@ Update Achievements:
   Description: Drive the golf cart off the edge of the level
   GS: '20'
   Guide: true
-  Number of Gamers: 53609
+  Number of Gamers: 55084
   Percentage of Gamers: 13%
-  Ratio: 2.79
+  Ratio: 2.77
   TA: '55'
   Tags:
   - Online/Offline
@@ -1038,10 +1038,10 @@ Update Achievements:
   Description: Using ONLY the golf club, putt the ball in 3 strokes or less
   GS: '40'
   Guide: true
-  Number of Gamers: 23621
+  Number of Gamers: 24273
   Percentage of Gamers: 6%
-  Ratio: 4.2
-  TA: '168'
+  Ratio: 4.18
+  TA: '167'
   Tags:
   - Online/Offline
   - Single Player
@@ -1050,9 +1050,9 @@ Update Achievements:
   Description: Take the alternate route above the cave
   GS: '40'
   Guide: true
-  Number of Gamers: 23761
+  Number of Gamers: 24398
   Percentage of Gamers: 6%
-  Ratio: 4.19
+  Ratio: 4.17
   TA: '167'
   Tags:
   - Online/Offline
@@ -1062,9 +1062,9 @@ Update Achievements:
   Description: Complete "City" level
   GS: '20'
   Guide: true
-  Number of Gamers: 47110
+  Number of Gamers: 48375
   Percentage of Gamers: 11%
-  Ratio: 2.97
+  Ratio: 2.96
   TA: '59'
   Tags:
   - Online/Offline
@@ -1075,9 +1075,9 @@ Update Achievements:
   Description: Ride one of the vehicles for 10 seconds
   GS: '20'
   Guide: true
-  Number of Gamers: 17111
+  Number of Gamers: 17550
   Percentage of Gamers: 4%
-  Ratio: 4.93
+  Ratio: 4.92
   TA: '98'
   Tags:
   - Online/Offline
@@ -1087,10 +1087,10 @@ Update Achievements:
   Description: Knock all 3 rag dolls off the level
   GS: '40'
   Guide: true
-  Number of Gamers: 9070
+  Number of Gamers: 9331
   Percentage of Gamers: 2%
-  Ratio: 6.78
-  TA: '271'
+  Ratio: 6.75
+  TA: '270'
   Tags:
   - Online/Offline
   - Single Player
@@ -1099,10 +1099,10 @@ Update Achievements:
   Description: Complete all 4 bowling lanes
   GS: '40'
   Guide: true
-  Number of Gamers: 13698
+  Number of Gamers: 14134
   Percentage of Gamers: 3%
-  Ratio: 5.52
-  TA: '220'
+  Ratio: 5.48
+  TA: '219'
   Tags:
   - Online/Offline
   - Single Player
@@ -1111,10 +1111,10 @@ Update Achievements:
   Description: Throw the lanterns off the map
   GS: '40'
   Guide: true
-  Number of Gamers: 7370
+  Number of Gamers: 7625
   Percentage of Gamers: 2%
-  Ratio: 7.52
-  TA: '301'
+  Ratio: 7.47
+  TA: '298'
   Tags:
   - Online/Offline
   - Single Player
@@ -1123,10 +1123,10 @@ Update Achievements:
   Description: Use two hooks when crossing the chasm in Lumber
   GS: '40'
   Guide: true
-  Number of Gamers: 8606
+  Number of Gamers: 8883
   Percentage of Gamers: 2%
-  Ratio: 6.96
-  TA: '278'
+  Ratio: 6.92
+  TA: '276'
   Tags:
   - Online/Offline
   - Single Player
@@ -1135,10 +1135,10 @@ Update Achievements:
   Description: Wet the bed in Lumber
   GS: '40'
   Guide: true
-  Number of Gamers: 10344
-  Percentage of Gamers: 2%
-  Ratio: 6.35
-  TA: '254'
+  Number of Gamers: 10676
+  Percentage of Gamers: 3%
+  Ratio: 6.31
+  TA: '252'
   Tags:
   - Online/Offline
   - Single Player
@@ -1147,10 +1147,10 @@ Update Achievements:
   Description: Complete Lumber
   GS: '40'
   Guide: true
-  Number of Gamers: 20390
+  Number of Gamers: 21087
   Percentage of Gamers: 5%
-  Ratio: 4.52
-  TA: '180'
+  Ratio: 4.49
+  TA: '179'
   Tags:
   - Online/Offline
   - Single Player
@@ -1160,10 +1160,10 @@ Update Achievements:
   Description: Turn on the jukebox in "Red Rock"
   GS: '40'
   Guide: true
-  Number of Gamers: 8930
+  Number of Gamers: 9239
   Percentage of Gamers: 2%
-  Ratio: 6.83
-  TA: '273'
+  Ratio: 6.79
+  TA: '271'
   Tags:
   - Online/Offline
   - Single Player
@@ -1172,10 +1172,10 @@ Update Achievements:
   Description: Use the sewer to escape the junkyard on "Redrock"
   GS: '40'
   Guide: true
-  Number of Gamers: 12599
+  Number of Gamers: 13058
   Percentage of Gamers: 3%
-  Ratio: 5.75
-  TA: '230'
+  Ratio: 5.71
+  TA: '228'
   Tags:
   - Online/Offline
   - Single Player
@@ -1184,10 +1184,10 @@ Update Achievements:
   Description: Place the hat on the cactus in "Red Rock"
   GS: '40'
   Guide: true
-  Number of Gamers: 9529
+  Number of Gamers: 9857
   Percentage of Gamers: 2%
-  Ratio: 6.61
-  TA: '264'
+  Ratio: 6.57
+  TA: '262'
   Tags:
   - Online/Offline
   - Single Player
@@ -1196,10 +1196,10 @@ Update Achievements:
   Description: Complete "Redrock"
   GS: '40'
   Guide: true
-  Number of Gamers: 19038
+  Number of Gamers: 19756
   Percentage of Gamers: 5%
-  Ratio: 4.68
-  TA: '187'
+  Ratio: 4.64
+  TA: '185'
   Tags:
   - Online/Offline
   - Single Player
@@ -1209,10 +1209,10 @@ Update Achievements:
   Description: Use the pipe to cross the lava in "Tower"
   GS: '40'
   Guide: true
-  Number of Gamers: 13053
+  Number of Gamers: 13601
   Percentage of Gamers: 3%
-  Ratio: 5.65
-  TA: '226'
+  Ratio: 5.59
+  TA: '223'
   Tags:
   - Online/Offline
   - Single Player
@@ -1221,10 +1221,10 @@ Update Achievements:
   Description: Go fishing in "Tower"
   GS: '40'
   Guide: true
-  Number of Gamers: 13393
+  Number of Gamers: 13967
   Percentage of Gamers: 3%
-  Ratio: 5.58
-  TA: '223'
+  Ratio: 5.52
+  TA: '220'
   Tags:
   - Online/Offline
   - Single Player
@@ -1233,10 +1233,10 @@ Update Achievements:
   Description: Find a shorter route for moving the batteries in "Tower"
   GS: '40'
   Guide: true
-  Number of Gamers: 15415
+  Number of Gamers: 16086
   Percentage of Gamers: 4%
-  Ratio: 5.2
-  TA: '208'
+  Ratio: 5.14
+  TA: '205'
   Tags:
   - Online/Offline
   - Single Player
@@ -1245,10 +1245,10 @@ Update Achievements:
   Description: "Complete \u201CTower\u201D"
   GS: '40'
   Guide: true
-  Number of Gamers: 15008
+  Number of Gamers: 15664
   Percentage of Gamers: 4%
-  Ratio: 5.27
-  TA: '210'
+  Ratio: 5.21
+  TA: '208'
   Tags:
   - Online/Offline
   - Single Player
@@ -1258,10 +1258,10 @@ Update Achievements:
   Description: Reach the highest platform above the power drill in "Miniature"
   GS: '40'
   Guide: true
-  Number of Gamers: 10822
+  Number of Gamers: 11317
   Percentage of Gamers: 3%
-  Ratio: 6.21
-  TA: '248'
+  Ratio: 6.13
+  TA: '245'
   Tags:
   - Online/Offline
   - Single Player
@@ -1270,10 +1270,10 @@ Update Achievements:
   Description: "Get rid of the ash in \u201CMiniature\u201D"
   GS: '40'
   Guide: true
-  Number of Gamers: 9842
+  Number of Gamers: 10281
   Percentage of Gamers: 2%
-  Ratio: 6.51
-  TA: '260'
+  Ratio: 6.43
+  TA: '257'
   Tags:
   - Online/Offline
   - Single Player
@@ -1283,10 +1283,10 @@ Update Achievements:
     the red tiles
   GS: '40'
   Guide: true
-  Number of Gamers: 7500
+  Number of Gamers: 7837
   Percentage of Gamers: 2%
-  Ratio: 7.46
-  TA: '298'
+  Ratio: 7.37
+  TA: '294'
   Tags:
   - Online/Offline
   - Single Player
@@ -1295,10 +1295,10 @@ Update Achievements:
   Description: "Complete \u201CMiniature\u201D"
   GS: '40'
   Guide: true
-  Number of Gamers: 17154
+  Number of Gamers: 18012
   Percentage of Gamers: 4%
-  Ratio: 4.93
-  TA: '197'
+  Ratio: 4.86
+  TA: '194'
   Tags:
   - Online/Offline
   - Single Player
@@ -1308,10 +1308,10 @@ Update Achievements:
   Description: Attempt to use an improvised battery in "Copper World"
   GS: '40'
   Guide: true
-  Number of Gamers: 7406
+  Number of Gamers: 7772
   Percentage of Gamers: 2%
-  Ratio: 7.5
-  TA: '300'
+  Ratio: 7.4
+  TA: '296'
   Tags:
   - Online/Offline
   - Single Player
@@ -1320,10 +1320,10 @@ Update Achievements:
   Description: Form an independent laser loop in "Copper World"
   GS: '40'
   Guide: true
-  Number of Gamers: 6644
+  Number of Gamers: 6966
   Percentage of Gamers: 2%
-  Ratio: 7.92
-  TA: '317'
+  Ratio: 7.82
+  TA: '312'
   Tags:
   - Online/Offline
   - Single Player
@@ -1332,10 +1332,10 @@ Update Achievements:
   Description: Throw all four hidden coins off the level in "Copper World"
   GS: '40'
   Guide: true
-  Number of Gamers: 6563
+  Number of Gamers: 6882
   Percentage of Gamers: 2%
-  Ratio: 7.97
-  TA: '319'
+  Ratio: 7.86
+  TA: '314'
   Tags:
   - Online/Offline
   - Single Player
@@ -1344,10 +1344,10 @@ Update Achievements:
   Description: Complete "Copper World"
   GS: '40'
   Guide: true
-  Number of Gamers: 12473
+  Number of Gamers: 13109
   Percentage of Gamers: 3%
-  Ratio: 5.78
-  TA: '231'
+  Ratio: 5.7
+  TA: '228'
   Tags:
   - Online/Offline
   - Single Player
@@ -1357,10 +1357,10 @@ Update Achievements:
   Description: Complete "Port"
   GS: '40'
   Guide: true
-  Number of Gamers: 9031
+  Number of Gamers: 10028
   Percentage of Gamers: 2%
-  Ratio: 6.79
-  TA: '271'
+  Ratio: 6.52
+  TA: '260'
   Tags:
   - Online/Offline
   - Single Player
@@ -1370,10 +1370,10 @@ Update Achievements:
   Description: Light the beacons in "Port"
   GS: '40'
   Guide: true
-  Number of Gamers: 8741
+  Number of Gamers: 9674
   Percentage of Gamers: 2%
-  Ratio: 6.91
-  TA: '276'
+  Ratio: 6.64
+  TA: '265'
   Tags:
   - Online/Offline
   - Single Player
@@ -1382,10 +1382,10 @@ Update Achievements:
   Description: Clear out the room directly after the zipline in "Port"
   GS: '40'
   Guide: true
-  Number of Gamers: 5380
+  Number of Gamers: 5862
   Percentage of Gamers: 1%
-  Ratio: 8.8
-  TA: '352'
+  Ratio: 8.52
+  TA: '341'
   Tags:
   - Online/Offline
   - Single Player
@@ -1394,10 +1394,10 @@ Update Achievements:
   Description: Reach the hidden island in "Port"
   GS: '40'
   Guide: true
-  Number of Gamers: 5347
+  Number of Gamers: 5829
   Percentage of Gamers: 1%
-  Ratio: 8.83
-  TA: '353'
+  Ratio: 8.54
+  TA: '341'
   Tags:
   - Online/Offline
   - Single Player
@@ -1406,10 +1406,10 @@ Update Achievements:
   Description: Complete "Underwater"
   GS: '40'
   Guide: true
-  Number of Gamers: 9044
+  Number of Gamers: 10097
   Percentage of Gamers: 2%
-  Ratio: 6.79
-  TA: '271'
+  Ratio: 6.5
+  TA: '260'
   Tags:
   - Online/Offline
   - Single Player
@@ -1419,10 +1419,10 @@ Update Achievements:
   Description: Go above the cave in "Underwater"
   GS: '40'
   Guide: true
-  Number of Gamers: 6978
+  Number of Gamers: 7732
   Percentage of Gamers: 2%
-  Ratio: 7.73
-  TA: '309'
+  Ratio: 7.43
+  TA: '297'
   Tags:
   - Online/Offline
   - Single Player
@@ -1431,10 +1431,10 @@ Update Achievements:
   Description: Use the spring boards to get across the chasm in "Underwater"
   GS: '40'
   Guide: true
-  Number of Gamers: 7232
+  Number of Gamers: 8032
   Percentage of Gamers: 2%
-  Ratio: 7.59
-  TA: '303'
+  Ratio: 7.29
+  TA: '291'
   Tags:
   - Online/Offline
   - Single Player
@@ -1443,10 +1443,10 @@ Update Achievements:
   Description: Find the speed boat in "Underwater"
   GS: '40'
   Guide: true
-  Number of Gamers: 7508
+  Number of Gamers: 8324
   Percentage of Gamers: 2%
-  Ratio: 7.45
-  TA: '298'
+  Ratio: 7.16
+  TA: '286'
   Tags:
   - Online/Offline
   - Single Player
@@ -1455,10 +1455,10 @@ Update Achievements:
   Description: Complete "Dockyard"
   GS: '40'
   Guide: true
-  Number of Gamers: 6693
+  Number of Gamers: 7878
   Percentage of Gamers: 2%
-  Ratio: 7.89
-  TA: '315'
+  Ratio: 7.37
+  TA: '294'
   Tags:
   - Online/Offline
   - Single Player
@@ -1468,10 +1468,10 @@ Update Achievements:
   Description: In "Dockyard", use the chains to swing directly to the window
   GS: '40'
   Guide: true
-  Number of Gamers: 4409
+  Number of Gamers: 5058
   Percentage of Gamers: 1%
-  Ratio: 9.73
-  TA: '389'
+  Ratio: 9.19
+  TA: '367'
   Tags:
   - Online/Offline
   - Single Player
@@ -1480,10 +1480,10 @@ Update Achievements:
   Description: Smash all the glass in "Dockyard"
   GS: '40'
   Guide: true
-  Number of Gamers: 4429
+  Number of Gamers: 5077
   Percentage of Gamers: 1%
-  Ratio: 9.7
-  TA: '388'
+  Ratio: 9.17
+  TA: '366'
   Tags:
   - Online/Offline
   - Single Player
@@ -1492,12 +1492,62 @@ Update Achievements:
   Description: Reach the hidden boat in "Dockyard"
   GS: '40'
   Guide: true
-  Number of Gamers: 4479
+  Number of Gamers: 5161
   Percentage of Gamers: 1%
-  Ratio: 9.65
-  TA: '386'
+  Ratio: 9.09
+  TA: '363'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
+- Achievement Name: Exclusive Tour
+  Description: Complete "Museum"
+  GS: '40'
+  Guide: true
+  Number of Gamers: 5187
+  Percentage of Gamers: 1%
+  Ratio: 9.23
+  TA: '369'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Buckshot
+  Description: Destroy the wall by firing all 5 cannon balls at once in "Museum"
+  GS: '40'
+  Guide: true
+  Number of Gamers: 3251
+  Percentage of Gamers: 1%
+  Ratio: 11.61
+  TA: '464'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Laser Accurate
+  Description: Avoid all security lasers in "Museum"
+  GS: '40'
+  Guide: true
+  Number of Gamers: 2547
+  Percentage of Gamers: 1%
+  Ratio: 13.14
+  TA: '525'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Eye Spy
+  Description: Find the three hidden eye symbols in "Museum"
+  GS: '40'
+  Guide: true
+  Number of Gamers: 2651
+  Percentage of Gamers: 1%
+  Ratio: 12.86
+  TA: '514'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
 Walkthrough: false

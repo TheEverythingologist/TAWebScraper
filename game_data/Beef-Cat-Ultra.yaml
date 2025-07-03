@@ -1,15 +1,15 @@
 Add On Achievements: []
 Base Completion Time:
-- 15
-- 16
+- 12.0
+- 15.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Journey Begins
   Description: Complete the first step into Beeflandia
   GS: '10'
   Guide: false
-  Number of Gamers: 70
-  Percentage of Gamers: 100%
+  Number of Gamers: 120
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '10'
   Tags:
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: What's going on with the Badish Brats
   GS: '100'
   Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 44%
-  Ratio: 1.5
-  TA: '150'
+  Number of Gamers: 56
+  Percentage of Gamers: 46%
+  Ratio: 1.46
+  TA: '146'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Discover what it means to be an Adventurer
   GS: '100'
   Guide: false
-  Number of Gamers: 20
-  Percentage of Gamers: 29%
-  Ratio: 1.87
-  TA: '187'
+  Number of Gamers: 39
+  Percentage of Gamers: 32%
+  Ratio: 1.75
+  TA: '175'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: From beaches to swamps, journey on
   GS: '100'
   Guide: false
-  Number of Gamers: 19
-  Percentage of Gamers: 27%
-  Ratio: 1.91
-  TA: '191'
+  Number of Gamers: 32
+  Percentage of Gamers: 26%
+  Ratio: 1.93
+  TA: '193'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Battle through the toughest of challenges
   GS: '200'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 14%
-  Ratio: 2.64
-  TA: '529'
+  Number of Gamers: 21
+  Percentage of Gamers: 17%
+  Ratio: 2.39
+  TA: '478'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,118 +68,117 @@ Base Game Achievements:
   Description: Find the one with the Eggs
   GS: '50'
   Guide: false
-  Number of Gamers: 35
-  Percentage of Gamers: 50%
-  Ratio: 1.41
-  TA: '70'
+  Number of Gamers: 65
+  Percentage of Gamers: 54%
+  Ratio: 1.35
+  TA: '67'
   Tags:
   - Offline Mode
   - Single Player
-  - Main Storyline
+  - Collectable
 - Achievement Name: Dave
   Description: Find the one with the Hardware
   GS: '50'
   Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 43%
-  Ratio: 1.52
-  TA: '76'
+  Number of Gamers: 55
+  Percentage of Gamers: 45%
+  Ratio: 1.47
+  TA: '73'
   Tags:
   - Offline Mode
   - Single Player
-  - Main Storyline
+  - Collectable
 - Achievement Name: Tweezer
   Description: Find the one with the Fisticuff
   GS: '50'
   Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 39%
-  Ratio: 1.61
-  TA: '80'
+  Number of Gamers: 48
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '79'
   Tags:
   - Offline Mode
   - Single Player
-  - Main Storyline
+  - Collectable
 - Achievement Name: Disco Debbie
   Description: Find the one with the Pills
   GS: '50'
   Guide: false
-  Number of Gamers: 19
-  Percentage of Gamers: 27%
-  Ratio: 1.91
-  TA: '95'
+  Number of Gamers: 32
+  Percentage of Gamers: 26%
+  Ratio: 1.93
+  TA: '96'
   Tags:
   - Offline Mode
   - Single Player
-  - Main Storyline
+  - Collectable
 - Achievement Name: Clyde
   Description: Find the one with the Fishing Rod
   GS: '50'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 14%
-  Ratio: 2.64
-  TA: '132'
+  Number of Gamers: 21
+  Percentage of Gamers: 17%
+  Ratio: 2.39
+  TA: '119'
   Tags:
   - Offline Mode
   - Single Player
-  - Main Storyline
+  - Collectable
 - Achievement Name: Dunes to Forest
   Description: Establish a key shortcut
   GS: '45'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 21%
-  Ratio: 2.16
-  TA: '97'
+  Number of Gamers: 29
+  Percentage of Gamers: 24%
+  Ratio: 2.03
+  TA: '91'
   Tags:
   - Offline Mode
   - Single Player
-  - Main Storyline
+  - Shop
 - Achievement Name: Mountain to Forest
   Description: Establish a very key shortcut
   GS: '45'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 13%
-  Ratio: 2.78
-  TA: '125'
+  Number of Gamers: 19
+  Percentage of Gamers: 16%
+  Ratio: 2.51
+  TA: '113'
   Tags:
   - Offline Mode
   - Single Player
-  - Main Storyline
+  - Shop
 - Achievement Name: For Beeflandia
   Description: Complete the bonus stage
   GS: '150'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 13%
-  Ratio: 2.78
-  TA: '418'
+  Number of Gamers: 19
+  Percentage of Gamers: 16%
+  Ratio: 2.51
+  TA: '376'
   Tags:
-  - Offline Mode
+  - Offline Game Mode
   - Single Player
-  - Main Storyline
-Base Ratio: 2.16
-Base TA: 2160
+Base Ratio: 2.016
+Base TA: 2016
 Delisted: false
 Developer: Brainium Games
 Game Name: Beef Cat Ultra
 Genres: Roguelite
 Install Size: 398.0
-Number of Completions: 9
-Number of Gamers: 70
+Number of Completions: 19
+Number of Gamers: 121
 Overall Completion Time:
-- 15
-- 16
+- 12.0
+- 15.0
 Overall GS: 1000
-Overall Ratio: 2.16
-Overall TA: 2160
+Overall Ratio: 2.016
+Overall TA: 2016
 PDU: 0
-Percentage Completed: 12.86
+Percentage Completed: 15.7
 Publisher: Brainium Games
 Release Date: 07 February 2025
 Server Closure: false
-Site Rating: 4.0
+Site Rating: 2.8
 Update Achievements: []
 Walkthrough: false

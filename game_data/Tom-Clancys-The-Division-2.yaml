@@ -3,10 +3,10 @@ Add On Achievements:
   Description: Survive all of Theo Parnell's traps and defeat him.
   GS: '20'
   Guide: true
-  Number of Gamers: 63620
+  Number of Gamers: 66332
   Percentage of Gamers: 94%
-  Ratio: 1.44
-  TA: '28'
+  Ratio: 1.45
+  TA: '29'
   Tags:
   - Online Mode
   - Single Player
@@ -16,9 +16,9 @@ Add On Achievements:
   Description: Shut down the Cleaners' drill and eliminate Javier Kajika.
   GS: '20'
   Guide: false
-  Number of Gamers: 60546
-  Percentage of Gamers: 90%
-  Ratio: 1.48
+  Number of Gamers: 63006
+  Percentage of Gamers: 89%
+  Ratio: 1.49
   TA: '29'
   Tags:
   - Online Mode
@@ -29,8 +29,8 @@ Add On Achievements:
   Description: Defeat James Dragov at the NYC Stock Exchange.
   GS: '20'
   Guide: false
-  Number of Gamers: 59851
-  Percentage of Gamers: 89%
+  Number of Gamers: 62316
+  Percentage of Gamers: 88%
   Ratio: 1.49
   TA: '29'
   Tags:
@@ -42,9 +42,9 @@ Add On Achievements:
   Description: Shutdown the Cleaners' oil refinery and defeat Vivian Conley.
   GS: '20'
   Guide: false
-  Number of Gamers: 61221
-  Percentage of Gamers: 91%
-  Ratio: 1.47
+  Number of Gamers: 63776
+  Percentage of Gamers: 90%
+  Ratio: 1.48
   TA: '29'
   Tags:
   - Online Mode
@@ -55,9 +55,9 @@ Add On Achievements:
   Description: Prevent the missile launch and defeat Aaron Keener.
   GS: '20'
   Guide: true
-  Number of Gamers: 55375
-  Percentage of Gamers: 82%
-  Ratio: 1.55
+  Number of Gamers: 57494
+  Percentage of Gamers: 81%
+  Ratio: 1.56
   TA: '31'
   Tags:
   - Online Mode
@@ -68,7 +68,7 @@ Add On Achievements:
   Description: Complete a Main Mission in New York with at least one directive active.
   GS: '10'
   Guide: true
-  Number of Gamers: 19327
+  Number of Gamers: 20365
   Percentage of Gamers: 29%
   Ratio: 2.62
   TA: '26'
@@ -80,9 +80,9 @@ Add On Achievements:
   Description: Complete the manhunt and eliminate Aaron Keener.
   GS: '30'
   Guide: true
-  Number of Gamers: 55375
-  Percentage of Gamers: 82%
-  Ratio: 1.55
+  Number of Gamers: 57494
+  Percentage of Gamers: 81%
+  Ratio: 1.56
   TA: '46'
   Tags:
   - Online Mode
@@ -93,38 +93,110 @@ Add On Achievements:
   Description: Complete a Seasonal Manhunt mission on Challenge difficulty or above.
   GS: '50'
   Guide: true
-  Number of Gamers: 15245
-  Percentage of Gamers: 23%
-  Ratio: 2.96
-  TA: '148'
+  Number of Gamers: 16803
+  Percentage of Gamers: 24%
+  Ratio: 2.89
+  TA: '144'
   Tags:
   - Online Mode
   - Single Player
   - Cooperative
   - Difficulty Specific
-- Achievement Name: Over The Hill
-  Description: Reach Level 40 with an agent.
-  GS: '40'
+- Achievement Name: Brooklyn Brains
+  Description: Unlock and use the Smart Cover skill.
+  GS: '30'
   Guide: true
-  Number of Gamers: 58376
-  Percentage of Gamers: 86%
-  Ratio: 1.51
-  TA: '60'
+  Number of Gamers: 3632
+  Percentage of Gamers: 48%
+  Ratio: 3.64
+  TA: '109'
   Tags:
   - Online Mode
   - Single Player
   - Cooperative
-  - Level
+- Achievement Name: Brooklyn Controller
+  Description: Discover 4 Control Points in Brooklyn.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 6230
+  Percentage of Gamers: 83%
+  Ratio: 2.77
+  TA: '83'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Brooklyn Bounty Hunter
+  Description: Complete a bounty from each safe house in Brooklyn.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 2146
+  Percentage of Gamers: 29%
+  Ratio: 4.81
+  TA: '144'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Brooklyn Local
+  Description: Access a Safe House in Brooklyn.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 5699
+  Percentage of Gamers: 76%
+  Ratio: 2.89
+  TA: '86'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Brooklyn Buddies
+  Description: Put out a call for backup in Brooklyn.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4189
+  Percentage of Gamers: 56%
+  Ratio: 3.4
+  TA: '102'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Brooklyn Backup
+  Description: Respond to a call for help and revive a fellow agent in Brooklyn.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 2710
+  Percentage of Gamers: 36%
+  Ratio: 4.16
+  TA: '125'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Hometown Hero
+  Description: Liberate all of Brooklyn's Main and Secondary locations.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 4321
+  Percentage of Gamers: 57%
+  Ratio: 3.37
+  TA: '168'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
 Base Completion Time:
 - 65.0
 - 90.5
-Base GS: 1190
+Base GS: 1230
 Base Game Achievements:
 - Achievement Name: Checking In
   Description: Rescue Eleanor Sawyer from the Hyenas in the Grand Washington Hotel.
   GS: '10'
   Guide: true
-  Number of Gamers: 247022
+  Number of Gamers: 259277
   Percentage of Gamers: 94%
   Ratio: 1.03
   TA: '10'
@@ -137,9 +209,9 @@ Base Game Achievements:
   Description: Discover what the Hyenas stole from Air Force One.
   GS: '10'
   Guide: true
-  Number of Gamers: 138913
-  Percentage of Gamers: 53%
-  Ratio: 1.37
+  Number of Gamers: 144107
+  Percentage of Gamers: 52%
+  Ratio: 1.38
   TA: '13'
   Tags:
   - Online Mode
@@ -151,9 +223,9 @@ Base Game Achievements:
     Bunker.
   GS: '10'
   Guide: false
-  Number of Gamers: 123898
-  Percentage of Gamers: 47%
-  Ratio: 1.45
+  Number of Gamers: 128183
+  Percentage of Gamers: 46%
+  Ratio: 1.46
   TA: '14'
   Tags:
   - Online Mode
@@ -164,10 +236,10 @@ Base Game Achievements:
   Description: Shut down Outcast activity at the DCD Headquarters.
   GS: '20'
   Guide: false
-  Number of Gamers: 134410
-  Percentage of Gamers: 51%
-  Ratio: 1.39
-  TA: '27'
+  Number of Gamers: 139346
+  Percentage of Gamers: 50%
+  Ratio: 1.4
+  TA: '28'
   Tags:
   - Online Mode
   - Single Player
@@ -177,8 +249,8 @@ Base Game Achievements:
   Description: Recover interrogation data from the American History Museum.
   GS: '20'
   Guide: false
-  Number of Gamers: 179020
-  Percentage of Gamers: 68%
+  Number of Gamers: 186283
+  Percentage of Gamers: 67%
   Ratio: 1.21
   TA: '24'
   Tags:
@@ -190,10 +262,10 @@ Base Game Achievements:
   Description: Reestablish the SHD Satellite Network at the Space Administration HQ.
   GS: '20'
   Guide: true
-  Number of Gamers: 146360
-  Percentage of Gamers: 56%
-  Ratio: 1.33
-  TA: '26'
+  Number of Gamers: 151887
+  Percentage of Gamers: 55%
+  Ratio: 1.35
+  TA: '27'
   Tags:
   - Online Mode
   - Single Player
@@ -203,9 +275,9 @@ Base Game Achievements:
   Description: Seize control of the ViewPoint Museum from the True Sons.
   GS: '20'
   Guide: true
-  Number of Gamers: 192831
+  Number of Gamers: 200898
   Percentage of Gamers: 73%
-  Ratio: 1.16
+  Ratio: 1.17
   TA: '23'
   Tags:
   - Online Mode
@@ -216,9 +288,9 @@ Base Game Achievements:
   Description: Eliminate the Hyena council in the District Union Arena.
   GS: '20'
   Guide: true
-  Number of Gamers: 114753
-  Percentage of Gamers: 44%
-  Ratio: 1.51
+  Number of Gamers: 118504
+  Percentage of Gamers: 43%
+  Ratio: 1.52
   TA: '30'
   Tags:
   - Online Mode
@@ -229,9 +301,9 @@ Base Game Achievements:
   Description: Capture the Outcasts' Chief Strategist at the Potomac Event Center.
   GS: '20'
   Guide: false
-  Number of Gamers: 123707
-  Percentage of Gamers: 47%
-  Ratio: 1.45
+  Number of Gamers: 128004
+  Percentage of Gamers: 46%
+  Ratio: 1.47
   TA: '29'
   Tags:
   - Online Mode
@@ -242,9 +314,9 @@ Base Game Achievements:
   Description: Take down the Outcast stronghold on Roosevelt Island.
   GS: '40'
   Guide: true
-  Number of Gamers: 111964
-  Percentage of Gamers: 43%
-  Ratio: 1.53
+  Number of Gamers: 115432
+  Percentage of Gamers: 42%
+  Ratio: 1.54
   TA: '61'
   Tags:
   - Online Mode
@@ -255,10 +327,10 @@ Base Game Achievements:
   Description: Drive the True Sons out of the Capitol building.
   GS: '50'
   Guide: true
-  Number of Gamers: 107954
-  Percentage of Gamers: 41%
-  Ratio: 1.55
-  TA: '77'
+  Number of Gamers: 111099
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '78'
   Tags:
   - Online Mode
   - Single Player
@@ -269,10 +341,10 @@ Base Game Achievements:
   Description: Finish all missions on hard difficulty or above.
   GS: '100'
   Guide: true
-  Number of Gamers: 24198
+  Number of Gamers: 25179
   Percentage of Gamers: 9%
-  Ratio: 3.29
-  TA: '329'
+  Ratio: 3.31
+  TA: '331'
   Tags:
   - Online Mode
   - Single Player
@@ -282,9 +354,9 @@ Base Game Achievements:
   Description: Fully upgrade all settlements.
   GS: '30'
   Guide: true
-  Number of Gamers: 120462
-  Percentage of Gamers: 46%
-  Ratio: 1.47
+  Number of Gamers: 124615
+  Percentage of Gamers: 45%
+  Ratio: 1.49
   TA: '44'
   Tags:
   - Online Mode
@@ -294,10 +366,10 @@ Base Game Achievements:
   Description: Destroy every piece of a tank's armor, then eliminate the tank.
   GS: '35'
   Guide: true
-  Number of Gamers: 42132
+  Number of Gamers: 43699
   Percentage of Gamers: 16%
-  Ratio: 2.49
-  TA: '87'
+  Ratio: 2.51
+  TA: '88'
   Tags:
   - Online Mode
   - Single Player
@@ -306,10 +378,10 @@ Base Game Achievements:
   Description: Discover 20 control points in DC.
   GS: '30'
   Guide: true
-  Number of Gamers: 134427
-  Percentage of Gamers: 51%
-  Ratio: 1.39
-  TA: '41'
+  Number of Gamers: 139401
+  Percentage of Gamers: 50%
+  Ratio: 1.4
+  TA: '42'
   Tags:
   - Online Mode
   - Single Player
@@ -320,10 +392,10 @@ Base Game Achievements:
   Description: Take over a control point in a group without anyone being downed.
   GS: '20'
   Guide: true
-  Number of Gamers: 155331
-  Percentage of Gamers: 59%
-  Ratio: 1.29
-  TA: '25'
+  Number of Gamers: 161613
+  Percentage of Gamers: 58%
+  Ratio: 1.3
+  TA: '26'
   Tags:
   - Online Mode
   - Cooperative
@@ -331,7 +403,7 @@ Base Game Achievements:
   Description: Respond to a call for help and revive the agent.
   GS: '20'
   Guide: true
-  Number of Gamers: 53356
+  Number of Gamers: 56587
   Percentage of Gamers: 20%
   Ratio: 2.21
   TA: '44'
@@ -342,9 +414,9 @@ Base Game Achievements:
   Description: Put out a call for backup.
   GS: '10'
   Guide: true
-  Number of Gamers: 174464
+  Number of Gamers: 181480
   Percentage of Gamers: 66%
-  Ratio: 1.22
+  Ratio: 1.23
   TA: '12'
   Tags:
   - Online Mode
@@ -355,7 +427,7 @@ Base Game Achievements:
   Description: Collect any suit of cards in the open world.
   GS: '20'
   Guide: true
-  Number of Gamers: 15045
+  Number of Gamers: 15899
   Percentage of Gamers: 6%
   Ratio: 4.17
   TA: '83'
@@ -367,9 +439,9 @@ Base Game Achievements:
   Description: Perform a slide across the hood of a car.
   GS: '5'
   Guide: true
-  Number of Gamers: 179853
-  Percentage of Gamers: 69%
-  Ratio: 1.2
+  Number of Gamers: 186876
+  Percentage of Gamers: 67%
+  Ratio: 1.21
   TA: '6'
   Tags:
   - Online Mode
@@ -378,9 +450,9 @@ Base Game Achievements:
   Description: Shock enemy medics by shooting their defibrillator.
   GS: '10'
   Guide: true
-  Number of Gamers: 167309
-  Percentage of Gamers: 64%
-  Ratio: 1.25
+  Number of Gamers: 174166
+  Percentage of Gamers: 63%
+  Ratio: 1.26
   TA: '12'
   Tags:
   - Online Mode
@@ -389,9 +461,9 @@ Base Game Achievements:
   Description: Get 10 patches from commendations.
   GS: '10'
   Guide: true
-  Number of Gamers: 76571
+  Number of Gamers: 79897
   Percentage of Gamers: 29%
-  Ratio: 1.85
+  Ratio: 1.86
   TA: '18'
   Tags:
   - Online Mode
@@ -402,9 +474,9 @@ Base Game Achievements:
   Description: Help friendlies in resource gathering.
   GS: '20'
   Guide: true
-  Number of Gamers: 58875
+  Number of Gamers: 61011
   Percentage of Gamers: 22%
-  Ratio: 2.11
+  Ratio: 2.12
   TA: '42'
   Tags:
   - Online Mode
@@ -413,10 +485,10 @@ Base Game Achievements:
   Description: Access a Safe House in a Dark Zone.
   GS: '30'
   Guide: true
-  Number of Gamers: 51108
+  Number of Gamers: 53899
   Percentage of Gamers: 19%
   Ratio: 2.26
-  TA: '67'
+  TA: '68'
   Tags:
   - Online Mode
   - Single Player
@@ -426,10 +498,10 @@ Base Game Achievements:
   Description: Extract an item from each dark zone.
   GS: '20'
   Guide: true
-  Number of Gamers: 31517
+  Number of Gamers: 32738
   Percentage of Gamers: 12%
-  Ratio: 2.88
-  TA: '57'
+  Ratio: 2.91
+  TA: '58'
   Tags:
   - Online Mode
   - Single Player
@@ -438,10 +510,10 @@ Base Game Achievements:
   Description: Win a match of skirmish or domination.
   GS: '10'
   Guide: true
-  Number of Gamers: 24318
+  Number of Gamers: 25317
   Percentage of Gamers: 9%
-  Ratio: 3.28
-  TA: '32'
+  Ratio: 3.3
+  TA: '33'
   Tags:
   - Online Mode
   - Versus
@@ -449,10 +521,10 @@ Base Game Achievements:
   Description: With your clan, face off against another clan in conflict.
   GS: '15'
   Guide: true
-  Number of Gamers: 28136
+  Number of Gamers: 29181
   Percentage of Gamers: 11%
-  Ratio: 3.05
-  TA: '45'
+  Ratio: 3.07
+  TA: '46'
   Tags:
   - Online Mode
   - Versus
@@ -460,9 +532,9 @@ Base Game Achievements:
   Description: Complete a bounty from each safe house.
   GS: '20'
   Guide: true
-  Number of Gamers: 22429
-  Percentage of Gamers: 9%
-  Ratio: 3.42
+  Number of Gamers: 23351
+  Percentage of Gamers: 8%
+  Ratio: 3.44
   TA: '68'
   Tags:
   - Online Mode
@@ -472,10 +544,10 @@ Base Game Achievements:
     rifle & grenade launcher).
   GS: '30'
   Guide: true
-  Number of Gamers: 58093
+  Number of Gamers: 59608
   Percentage of Gamers: 22%
-  Ratio: 2.12
-  TA: '63'
+  Ratio: 2.15
+  TA: '64'
   Tags:
   - Online Mode
   - Single Player
@@ -483,9 +555,9 @@ Base Game Achievements:
   Description: Shoot 10 enemies in the leg with a crossbow.
   GS: '20'
   Guide: true
-  Number of Gamers: 21394
+  Number of Gamers: 22242
   Percentage of Gamers: 8%
-  Ratio: 3.5
+  Ratio: 3.52
   TA: '70'
   Tags:
   - Online Mode
@@ -495,9 +567,9 @@ Base Game Achievements:
   Description: Reach Level 30.
   GS: '30'
   Guide: true
-  Number of Gamers: 114789
-  Percentage of Gamers: 44%
-  Ratio: 1.51
+  Number of Gamers: 118706
+  Percentage of Gamers: 43%
+  Ratio: 1.52
   TA: '45'
   Tags:
   - Online Mode
@@ -507,9 +579,9 @@ Base Game Achievements:
   Description: Create or join a clan.
   GS: '20'
   Guide: true
-  Number of Gamers: 132102
-  Percentage of Gamers: 50%
-  Ratio: 1.4
+  Number of Gamers: 136658
+  Percentage of Gamers: 49%
+  Ratio: 1.42
   TA: '28'
   Tags:
   - Online Mode
@@ -519,9 +591,9 @@ Base Game Achievements:
   Description: Collect 20 blueprints.
   GS: '20'
   Guide: true
-  Number of Gamers: 140446
-  Percentage of Gamers: 54%
-  Ratio: 1.36
+  Number of Gamers: 145609
+  Percentage of Gamers: 53%
+  Ratio: 1.37
   TA: '27'
   Tags:
   - Online Mode
@@ -531,10 +603,10 @@ Base Game Achievements:
   Description: Craft an exotic weapon or item.
   GS: '50'
   Guide: true
-  Number of Gamers: 41471
+  Number of Gamers: 43314
   Percentage of Gamers: 16%
-  Ratio: 2.51
-  TA: '125'
+  Ratio: 2.53
+  TA: '126'
   Tags:
   - Online Mode
   - Single Player
@@ -543,10 +615,10 @@ Base Game Achievements:
   Description: Equip your first specialization.
   GS: '30'
   Guide: true
-  Number of Gamers: 111897
-  Percentage of Gamers: 43%
-  Ratio: 1.53
-  TA: '45'
+  Number of Gamers: 116496
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '46'
   Tags:
   - Online Mode
   - Single Player
@@ -555,7 +627,7 @@ Base Game Achievements:
   Description: Invest in each type of upgrade available for a specialization.
   GS: '40'
   Guide: true
-  Number of Gamers: 54060
+  Number of Gamers: 56902
   Percentage of Gamers: 21%
   Ratio: 2.2
   TA: '88'
@@ -567,10 +639,10 @@ Base Game Achievements:
   Description: Eliminate a rogue agent in each Dark Zone.
   GS: '20'
   Guide: true
-  Number of Gamers: 8082
+  Number of Gamers: 8477
   Percentage of Gamers: 3%
-  Ratio: 5.69
-  TA: '113'
+  Ratio: 5.72
+  TA: '114'
   Tags:
   - Online Mode
   - Versus
@@ -578,10 +650,10 @@ Base Game Achievements:
   Description: 'Photo mode: take a photo of a group of 4 agents.'
   GS: '10'
   Guide: true
-  Number of Gamers: 19678
+  Number of Gamers: 20162
   Percentage of Gamers: 7%
-  Ratio: 3.65
-  TA: '36'
+  Ratio: 3.7
+  TA: '37'
   Tags:
   - Online Mode
   - Cooperative
@@ -590,9 +662,9 @@ Base Game Achievements:
   Description: Complete a project for both the Theater and Campus settlements.
   GS: '20'
   Guide: true
-  Number of Gamers: 113136
-  Percentage of Gamers: 43%
-  Ratio: 1.52
+  Number of Gamers: 116909
+  Percentage of Gamers: 42%
+  Ratio: 1.53
   TA: '30'
   Tags:
   - Online Mode
@@ -602,10 +674,10 @@ Base Game Achievements:
   Description: Equip and use each skill.
   GS: '25'
   Guide: true
-  Number of Gamers: 44303
+  Number of Gamers: 46274
   Percentage of Gamers: 17%
-  Ratio: 2.43
-  TA: '60'
+  Ratio: 2.44
+  TA: '61'
   Tags:
   - Online Mode
   - Single Player
@@ -615,9 +687,9 @@ Base Game Achievements:
   Description: Equip high-end gear (or above) in each slot.
   GS: '20'
   Guide: true
-  Number of Gamers: 105894
+  Number of Gamers: 109474
   Percentage of Gamers: 40%
-  Ratio: 1.57
+  Ratio: 1.59
   TA: '31'
   Tags:
   - Online Mode
@@ -627,30 +699,30 @@ Base Game Achievements:
   Description: Hijack an extraction in any occupied dark zone.
   GS: '20'
   Guide: true
-  Number of Gamers: 5809
+  Number of Gamers: 6094
   Percentage of Gamers: 2%
-  Ratio: 6.72
+  Ratio: 6.74
   TA: '134'
   Tags:
   - Online Mode
   - Versus
-Base Ratio: 2.4285714285714284
-Base TA: 2890
+Base Ratio: 2.4317073170731707
+Base TA: 2991
 Delisted: false
 Developer: Massive Entertainment
 Game Name: Tom Clancy's The Division 2
 Genres: Role Playing, Third Person Shooter, Open World
-Install Size: 97840.0
-Number of Completions: 1884
-Number of Gamers: 262433
+Install Size: 101760.0
+Number of Completions: 538
+Number of Gamers: 276916
 Overall Completion Time:
-- 73.0
-- 100.5
-Overall GS: 1420
-Overall Ratio: 2.335211267605634
-Overall TA: 3316
+- 78.0
+- 106.5
+Overall GS: 1650
+Overall Ratio: 2.527878787878788
+Overall TA: 4171
 PDU: 0
-Percentage Completed: 0.72
+Percentage Completed: 0.19
 Publisher: Ubisoft
 Release Date: 15 March 2019
 Server Closure: false
@@ -660,9 +732,9 @@ Update Achievements:
   Description: Complete the full Operation Dark Hours raid in a group of eight players.
   GS: '30'
   Guide: true
-  Number of Gamers: 12758
+  Number of Gamers: 13375
   Percentage of Gamers: 5%
-  Ratio: 4.53
+  Ratio: 4.55
   TA: '136'
   Tags:
   - Online Mode
@@ -672,7 +744,7 @@ Update Achievements:
   Description: Put an end to Emeline Shaw at the Manning National Zoo.
   GS: '20'
   Guide: true
-  Number of Gamers: 52305
+  Number of Gamers: 54927
   Percentage of Gamers: 20%
   Ratio: 2.24
   TA: '44'
@@ -685,7 +757,7 @@ Update Achievements:
   Description: Take part in the operation at Camp White Oak.
   GS: '20'
   Guide: true
-  Number of Gamers: 55628
+  Number of Gamers: 58595
   Percentage of Gamers: 21%
   Ratio: 2.17
   TA: '43'
@@ -698,7 +770,7 @@ Update Achievements:
   Description: Discover the Black Tusk's purpose at the Pentagon and thwart it.
   GS: '20'
   Guide: true
-  Number of Gamers: 45523
+  Number of Gamers: 48169
   Percentage of Gamers: 17%
   Ratio: 2.4
   TA: '48'
@@ -711,9 +783,9 @@ Update Achievements:
   Description: Secure the perfusion bioreactor from the DARPA labs below the Pentagon.
   GS: '20'
   Guide: true
-  Number of Gamers: 41080
+  Number of Gamers: 43412
   Percentage of Gamers: 16%
-  Ratio: 2.52
+  Ratio: 2.53
   TA: '50'
   Tags:
   - Online Mode
@@ -725,7 +797,7 @@ Update Achievements:
     Sumner.
   GS: '20'
   Guide: true
-  Number of Gamers: 43869
+  Number of Gamers: 46441
   Percentage of Gamers: 17%
   Ratio: 2.44
   TA: '48'
@@ -739,7 +811,7 @@ Update Achievements:
     agent Aaron Keener.
   GS: '20'
   Guide: true
-  Number of Gamers: 41514
+  Number of Gamers: 43921
   Percentage of Gamers: 16%
   Ratio: 2.51
   TA: '50'
@@ -752,22 +824,35 @@ Update Achievements:
   Description: Shut two car doors while in cover.
   GS: '10'
   Guide: true
-  Number of Gamers: 166958
-  Percentage of Gamers: 64%
-  Ratio: 1.25
+  Number of Gamers: 181874
+  Percentage of Gamers: 66%
+  Ratio: 1.23
   TA: '12'
   Tags:
   - Online Mode
   - Single Player
   - Cooperative
+- Achievement Name: Over The Hill
+  Description: Reach Level 40 with an agent.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 62742
+  Percentage of Gamers: 23%
+  Ratio: 2.1
+  TA: '84'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Level
 - Achievement Name: Iron Breakers
   Description: Complete the full Operation Iron Horse raid in a group of eight players.
   GS: '30'
   Guide: true
-  Number of Gamers: 4971
+  Number of Gamers: 5303
   Percentage of Gamers: 2%
-  Ratio: 7.27
-  TA: '218'
+  Ratio: 7.24
+  TA: '217'
   Tags:
   - Online Mode
   - Cooperative

@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- 40
-- 41
+- 20.0
+- 25.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: ACHIEVEMENT ADDICT
   Description: Unlock all achievements
   GS: '45'
   Guide: true
-  Number of Gamers: 63
-  Percentage of Gamers: 2%
-  Ratio: 6.83
-  TA: '307'
+  Number of Gamers: 99
+  Percentage of Gamers: 3%
+  Ratio: 6.09
+  TA: '274'
   Tags:
   - Offline Mode
   - Single Player
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Finish the game
   GS: '31'
   Guide: false
-  Number of Gamers: 775
-  Percentage of Gamers: 27%
-  Ratio: 1.92
-  TA: '59'
+  Number of Gamers: 1029
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '58'
   Tags:
   - Offline Mode
   - Single Player
@@ -33,10 +33,10 @@ Base Game Achievements:
   Description: Finish the game on hard mode
   GS: '42'
   Guide: false
-  Number of Gamers: 143
+  Number of Gamers: 201
   Percentage of Gamers: 5%
-  Ratio: 4.51
-  TA: '189'
+  Ratio: 4.27
+  TA: '179'
   Tags:
   - Offline Mode
   - Single Player
@@ -47,10 +47,10 @@ Base Game Achievements:
   Description: Get A+ on all levels on normal
   GS: '43'
   Guide: false
-  Number of Gamers: 111
+  Number of Gamers: 162
   Percentage of Gamers: 4%
-  Ratio: 5.13
-  TA: '220'
+  Ratio: 4.76
+  TA: '204'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -58,7 +58,7 @@ Base Game Achievements:
   Description: They won't reach the Nuclear Throne
   GS: '41'
   Guide: false
-  Number of Gamers: 704
+  Number of Gamers: 902
   Percentage of Gamers: 25%
   Ratio: 2.01
   TA: '82'
@@ -70,10 +70,10 @@ Base Game Achievements:
   Description: Unlock all the Fans
   GS: '17'
   Guide: false
-  Number of Gamers: 1543
-  Percentage of Gamers: 54%
-  Ratio: 1.36
-  TA: '23'
+  Number of Gamers: 2022
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '22'
   Tags:
   - Offline Mode
   - Single Player
@@ -82,10 +82,10 @@ Base Game Achievements:
   Description: Unlock all weapons for the Soldier
   GS: '26'
   Guide: false
-  Number of Gamers: 986
-  Percentage of Gamers: 34%
-  Ratio: 1.7
-  TA: '44'
+  Number of Gamers: 1294
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '43'
   Tags:
   - Offline Mode
   - Single Player
@@ -94,9 +94,9 @@ Base Game Achievements:
   Description: Unlock all snake masks
   GS: '25'
   Guide: false
-  Number of Gamers: 1030
-  Percentage of Gamers: 36%
-  Ratio: 1.67
+  Number of Gamers: 1352
+  Percentage of Gamers: 37%
+  Ratio: 1.64
   TA: '41'
   Tags:
   - Offline Mode
@@ -106,10 +106,10 @@ Base Game Achievements:
   Description: Unlock all of the Son's techniques
   GS: '29'
   Guide: false
-  Number of Gamers: 843
-  Percentage of Gamers: 29%
-  Ratio: 1.84
-  TA: '53'
+  Number of Gamers: 1116
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '52'
   Tags:
   - Offline Mode
   - Single Player
@@ -118,10 +118,10 @@ Base Game Achievements:
   Description: Clear a level with each Fan
   GS: '32'
   Guide: false
-  Number of Gamers: 699
-  Percentage of Gamers: 24%
-  Ratio: 2.03
-  TA: '65'
+  Number of Gamers: 949
+  Percentage of Gamers: 26%
+  Ratio: 1.96
+  TA: '62'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -129,10 +129,10 @@ Base Game Achievements:
   Description: Clear a level with each of the Son's techniques
   GS: '41'
   Guide: true
-  Number of Gamers: 261
+  Number of Gamers: 349
   Percentage of Gamers: 9%
-  Ratio: 3.31
-  TA: '136'
+  Ratio: 3.24
+  TA: '133'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -140,10 +140,10 @@ Base Game Achievements:
   Description: Clear a level with each snake mask
   GS: '39'
   Guide: false
-  Number of Gamers: 313
+  Number of Gamers: 411
   Percentage of Gamers: 11%
-  Ratio: 3.03
-  TA: '118'
+  Ratio: 2.99
+  TA: '116'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -151,10 +151,10 @@ Base Game Achievements:
   Description: Clear all of the Writer's levels without killing
   GS: '41'
   Guide: false
-  Number of Gamers: 238
-  Percentage of Gamers: 8%
-  Ratio: 3.46
-  TA: '142'
+  Number of Gamers: 326
+  Percentage of Gamers: 9%
+  Ratio: 3.35
+  TA: '137'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -162,10 +162,10 @@ Base Game Achievements:
   Description: Get the big picture
   GS: '42'
   Guide: false
-  Number of Gamers: 196
+  Number of Gamers: 270
   Percentage of Gamers: 7%
-  Ratio: 3.82
-  TA: '160'
+  Ratio: 3.69
+  TA: '154'
   Tags:
   - Offline Mode
   - Single Player
@@ -174,10 +174,10 @@ Base Game Achievements:
   Description: Use every weapon in the game at least once
   GS: '42'
   Guide: false
-  Number of Gamers: 127
-  Percentage of Gamers: 4%
-  Ratio: 4.75
-  TA: '199'
+  Number of Gamers: 182
+  Percentage of Gamers: 5%
+  Ratio: 4.49
+  TA: '188'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -185,10 +185,10 @@ Base Game Achievements:
   Description: Destroy 100 electronic devices
   GS: '32'
   Guide: false
-  Number of Gamers: 872
-  Percentage of Gamers: 30%
-  Ratio: 1.81
-  TA: '58'
+  Number of Gamers: 1161
+  Percentage of Gamers: 32%
+  Ratio: 1.77
+  TA: '56'
   Tags:
   - Offline Mode
   - Single Player
@@ -197,10 +197,10 @@ Base Game Achievements:
   Description: Die 1000 times
   GS: '24'
   Guide: false
-  Number of Gamers: 839
-  Percentage of Gamers: 29%
-  Ratio: 1.85
-  TA: '44'
+  Number of Gamers: 1118
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '43'
   Tags:
   - Offline Mode
   - Single Player
@@ -209,10 +209,10 @@ Base Game Achievements:
   Description: Kill 50,000 enemies
   GS: '43'
   Guide: false
-  Number of Gamers: 87
+  Number of Gamers: 125
   Percentage of Gamers: 3%
-  Ratio: 5.79
-  TA: '249'
+  Ratio: 5.42
+  TA: '233'
   Tags:
   - Offline Mode
   - Single Player
@@ -221,10 +221,10 @@ Base Game Achievements:
   Description: Shoot two enemies during a chainsaw finish
   GS: '40'
   Guide: false
-  Number of Gamers: 290
-  Percentage of Gamers: 10%
-  Ratio: 3.14
-  TA: '125'
+  Number of Gamers: 393
+  Percentage of Gamers: 11%
+  Ratio: 3.05
+  TA: '122'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -232,9 +232,9 @@ Base Game Achievements:
   Description: Do as the Director says!
   GS: '31'
   Guide: false
-  Number of Gamers: 945
+  Number of Gamers: 1201
   Percentage of Gamers: 33%
-  Ratio: 1.74
+  Ratio: 1.75
   TA: '54'
   Tags:
   - Offline Game Mode
@@ -243,9 +243,9 @@ Base Game Achievements:
   Description: Clear the 1st floor of NO MERCY with the silencer
   GS: '40'
   Guide: false
-  Number of Gamers: 1592
-  Percentage of Gamers: 55%
-  Ratio: 1.34
+  Number of Gamers: 2093
+  Percentage of Gamers: 57%
+  Ratio: 1.32
   TA: '53'
   Tags:
   - Offline Game Mode
@@ -254,10 +254,10 @@ Base Game Achievements:
   Description: Finish SUBWAY without the Gang Leader seeing you
   GS: '38'
   Guide: false
-  Number of Gamers: 427
+  Number of Gamers: 556
   Percentage of Gamers: 15%
-  Ratio: 2.59
-  TA: '98'
+  Ratio: 2.57
+  TA: '97'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -265,10 +265,10 @@ Base Game Achievements:
   Description: Finish HOMICIDE without using guns
   GS: '39'
   Guide: false
-  Number of Gamers: 409
+  Number of Gamers: 530
   Percentage of Gamers: 14%
-  Ratio: 2.65
-  TA: '103'
+  Ratio: 2.63
+  TA: '102'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -276,10 +276,10 @@ Base Game Achievements:
   Description: Unlock THE ABYSS
   GS: '40'
   Guide: false
-  Number of Gamers: 330
-  Percentage of Gamers: 11%
-  Ratio: 2.94
-  TA: '117'
+  Number of Gamers: 438
+  Percentage of Gamers: 12%
+  Ratio: 2.89
+  TA: '115'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -287,10 +287,10 @@ Base Game Achievements:
   Description: Meet up with the Biker
   GS: '40'
   Guide: false
-  Number of Gamers: 350
+  Number of Gamers: 459
   Percentage of Gamers: 12%
-  Ratio: 2.86
-  TA: '114'
+  Ratio: 2.83
+  TA: '113'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -298,7 +298,7 @@ Base Game Achievements:
   Description: Perform a 5x combo
   GS: '5'
   Guide: false
-  Number of Gamers: 2716
+  Number of Gamers: 3489
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '5'
@@ -310,10 +310,10 @@ Base Game Achievements:
   Description: Perform a 10x combo
   GS: '18'
   Guide: false
-  Number of Gamers: 1593
-  Percentage of Gamers: 55%
-  Ratio: 1.34
-  TA: '24'
+  Number of Gamers: 2085
+  Percentage of Gamers: 57%
+  Ratio: 1.32
+  TA: '23'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -322,10 +322,10 @@ Base Game Achievements:
   Description: Perform a 15x combo
   GS: '34'
   Guide: false
-  Number of Gamers: 717
-  Percentage of Gamers: 25%
-  Ratio: 2.0
-  TA: '68'
+  Number of Gamers: 940
+  Percentage of Gamers: 26%
+  Ratio: 1.97
+  TA: '67'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -334,34 +334,34 @@ Base Game Achievements:
   Description: Perform a 20x combo
   GS: '40'
   Guide: false
-  Number of Gamers: 328
-  Percentage of Gamers: 11%
-  Ratio: 2.96
-  TA: '118'
+  Number of Gamers: 441
+  Percentage of Gamers: 12%
+  Ratio: 2.88
+  TA: '115'
   Tags:
   - Offline Game Mode
   - Single Player
   - Stackable
-Base Ratio: 3.068
-Base TA: 3068
+Base Ratio: 2.943
+Base TA: 2943
 Delisted: false
 Developer: Dennaton Games, General Arcade
 Game Name: 'Hotline Miami 2: Wrong Number'
 Genres: Action
 Install Size: 4050.0
-Number of Completions: 63
-Number of Gamers: 2871
+Number of Completions: 99
+Number of Gamers: 3679
 Overall Completion Time:
-- 40
-- 41
+- 20.0
+- 25.0
 Overall GS: 1000
-Overall Ratio: 3.068
-Overall TA: 3068
+Overall Ratio: 2.943
+Overall TA: 2943
 PDU: 0
-Percentage Completed: 2.19
+Percentage Completed: 2.69
 Publisher: Devolver Digital
 Release Date: 23 October 2023
 Server Closure: false
-Site Rating: 4.34
+Site Rating: 4.26
 Update Achievements: []
 Walkthrough: false

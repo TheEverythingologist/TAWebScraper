@@ -1,16 +1,16 @@
 Add On Achievements: []
 Base Completion Time:
-- 178
-- 179
+- 192
+- 193
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Hello
   Description: Receive a wave from a carrybot!
   GS: '10'
   Guide: true
-  Number of Gamers: 266
+  Number of Gamers: 278
   Percentage of Gamers: 87%
-  Ratio: 1.07
+  Ratio: 1.06
   TA: '10'
   Tags:
   - Offline Game Mode
@@ -19,8 +19,8 @@ Base Game Achievements:
   Description: Earn a gold medal on mission 3
   GS: '25'
   Guide: false
-  Number of Gamers: 105
-  Percentage of Gamers: 34%
+  Number of Gamers: 110
+  Percentage of Gamers: 35%
   Ratio: 1.7
   TA: '42'
   Tags:
@@ -30,7 +30,7 @@ Base Game Achievements:
   Description: Earn a gold medal on mission 5
   GS: '50'
   Guide: false
-  Number of Gamers: 49
+  Number of Gamers: 51
   Percentage of Gamers: 16%
   Ratio: 2.49
   TA: '124'
@@ -41,10 +41,10 @@ Base Game Achievements:
   Description: Earn a gold medal on mission 8
   GS: '50'
   Guide: false
-  Number of Gamers: 23
+  Number of Gamers: 25
   Percentage of Gamers: 8%
-  Ratio: 3.64
-  TA: '182'
+  Ratio: 3.56
+  TA: '178'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -52,10 +52,10 @@ Base Game Achievements:
   Description: Earn a gold medal on mission 10
   GS: '75'
   Guide: false
-  Number of Gamers: 19
+  Number of Gamers: 20
   Percentage of Gamers: 6%
-  Ratio: 4.0
-  TA: '300'
+  Ratio: 3.98
+  TA: '299'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -63,10 +63,10 @@ Base Game Achievements:
   Description: Earn a gold medal on mission 11
   GS: '75'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 2%
-  Ratio: 6.6
-  TA: '495'
+  Number of Gamers: 8
+  Percentage of Gamers: 3%
+  Ratio: 6.3
+  TA: '472'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -74,10 +74,10 @@ Base Game Achievements:
   Description: Complete the economic campaign
   GS: '75'
   Guide: false
-  Number of Gamers: 28
+  Number of Gamers: 29
   Percentage of Gamers: 9%
-  Ratio: 3.3
-  TA: '247'
+  Ratio: 3.31
+  TA: '248'
   Tags:
   - Offline Mode
   - Single Player
@@ -86,10 +86,10 @@ Base Game Achievements:
   Description: Complete the military campaign
   GS: '75'
   Guide: false
-  Number of Gamers: 31
+  Number of Gamers: 32
   Percentage of Gamers: 10%
-  Ratio: 3.13
-  TA: '235'
+  Ratio: 3.15
+  TA: '236'
   Tags:
   - Offline Mode
   - Single Player
@@ -98,10 +98,10 @@ Base Game Achievements:
   Description: Research all the technologies in mission 5 within 1 year 6 months
   GS: '75'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 2%
-  Ratio: 6.6
-  TA: '495'
+  Number of Gamers: 8
+  Percentage of Gamers: 3%
+  Ratio: 6.3
+  TA: '472'
   Tags:
   - Offline Mode
   - Single Player
@@ -110,10 +110,10 @@ Base Game Achievements:
   Description: Research all the technologies in mission 5 within 1 year 9 months
   GS: '50'
   Guide: false
-  Number of Gamers: 9
+  Number of Gamers: 10
   Percentage of Gamers: 3%
-  Ratio: 5.82
-  TA: '291'
+  Ratio: 5.63
+  TA: '281'
   Tags:
   - Offline Mode
   - Single Player
@@ -122,10 +122,10 @@ Base Game Achievements:
   Description: Research all the technologies in mission 5 within 2 years
   GS: '25'
   Guide: false
-  Number of Gamers: 11
+  Number of Gamers: 12
   Percentage of Gamers: 4%
-  Ratio: 5.26
-  TA: '131'
+  Ratio: 5.14
+  TA: '128'
   Tags:
   - Offline Mode
   - Single Player
@@ -135,10 +135,10 @@ Base Game Achievements:
     9 months
   GS: '75'
   Guide: false
-  Number of Gamers: 12
+  Number of Gamers: 13
   Percentage of Gamers: 4%
-  Ratio: 5.04
-  TA: '378'
+  Ratio: 4.94
+  TA: '370'
   Tags:
   - Offline Mode
   - Single Player
@@ -148,10 +148,10 @@ Base Game Achievements:
     10 months
   GS: '50'
   Guide: false
-  Number of Gamers: 12
+  Number of Gamers: 13
   Percentage of Gamers: 4%
-  Ratio: 5.04
-  TA: '252'
+  Ratio: 4.94
+  TA: '247'
   Tags:
   - Offline Mode
   - Single Player
@@ -161,10 +161,10 @@ Base Game Achievements:
     11 months
   GS: '25'
   Guide: false
-  Number of Gamers: 12
+  Number of Gamers: 13
   Percentage of Gamers: 4%
-  Ratio: 5.04
-  TA: '126'
+  Ratio: 4.94
+  TA: '123'
   Tags:
   - Offline Mode
   - Single Player
@@ -174,10 +174,10 @@ Base Game Achievements:
     within 9 months
   GS: '75'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 2%
-  Ratio: 6.6
-  TA: '495'
+  Number of Gamers: 8
+  Percentage of Gamers: 3%
+  Ratio: 6.3
+  TA: '472'
   Tags:
   - Offline Mode
   - Single Player
@@ -187,10 +187,10 @@ Base Game Achievements:
     within 10 months
   GS: '50'
   Guide: false
-  Number of Gamers: 9
+  Number of Gamers: 10
   Percentage of Gamers: 3%
-  Ratio: 5.82
-  TA: '291'
+  Ratio: 5.63
+  TA: '281'
   Tags:
   - Offline Mode
   - Single Player
@@ -200,10 +200,10 @@ Base Game Achievements:
     within 11 months
   GS: '25'
   Guide: false
-  Number of Gamers: 9
+  Number of Gamers: 10
   Percentage of Gamers: 3%
-  Ratio: 5.82
-  TA: '145'
+  Ratio: 5.63
+  TA: '140'
   Tags:
   - Offline Mode
   - Single Player
@@ -212,10 +212,10 @@ Base Game Achievements:
   Description: Build a boat in mission 3 within 2 months
   GS: '75'
   Guide: false
-  Number of Gamers: 20
+  Number of Gamers: 21
   Percentage of Gamers: 7%
-  Ratio: 3.9
-  TA: '292'
+  Ratio: 3.89
+  TA: '291'
   Tags:
   - Offline Mode
   - Single Player
@@ -224,10 +224,10 @@ Base Game Achievements:
   Description: Build a boat in mission 3 within 2.5 months
   GS: '30'
   Guide: false
-  Number of Gamers: 30
+  Number of Gamers: 33
   Percentage of Gamers: 10%
-  Ratio: 3.18
-  TA: '95'
+  Ratio: 3.1
+  TA: '93'
   Tags:
   - Offline Mode
   - Single Player
@@ -236,31 +236,31 @@ Base Game Achievements:
   Description: Build a boat in mission 3 within 3 months
   GS: '10'
   Guide: false
-  Number of Gamers: 46
+  Number of Gamers: 49
   Percentage of Gamers: 15%
-  Ratio: 2.57
+  Ratio: 2.54
   TA: '25'
   Tags:
   - Offline Mode
   - Single Player
   - Time/Date
-Base Ratio: 4.651
-Base TA: 4651
+Base Ratio: 4.532
+Base TA: 4532
 Delisted: false
 Developer: Mode7, CodeByFire
 Game Name: The Colonists
 Genres: Management
 Install Size: 721.0
-Number of Completions: 7
-Number of Gamers: 305
+Number of Completions: 8
+Number of Gamers: 318
 Overall Completion Time:
-- 178
-- 179
+- 192
+- 193
 Overall GS: 1000
-Overall Ratio: 4.651
-Overall TA: 4651
+Overall Ratio: 4.532
+Overall TA: 4532
 PDU: 0
-Percentage Completed: 2.3
+Percentage Completed: 2.52
 Publisher: Auroch Digital
 Release Date: 04 May 2021
 Server Closure: false

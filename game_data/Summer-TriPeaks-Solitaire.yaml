@@ -1,15 +1,15 @@
 Add On Achievements: []
 Base Completion Time:
-- 17
 - 18
+- 19
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Lucky guess
   Description: Play 5 cards in a row.
   GS: '50'
   Guide: false
-  Number of Gamers: 70
-  Percentage of Gamers: 100%
+  Number of Gamers: 95
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '50'
   Tags:
@@ -19,7 +19,7 @@ Base Game Achievements:
   Description: Play 10 cards in a row.
   GS: '50'
   Guide: false
-  Number of Gamers: 66
+  Number of Gamers: 90
   Percentage of Gamers: 94%
   Ratio: 1.02
   TA: '51'
@@ -30,10 +30,10 @@ Base Game Achievements:
   Description: Play 15 cards in a row.
   GS: '100'
   Guide: false
-  Number of Gamers: 62
-  Percentage of Gamers: 89%
-  Ratio: 1.06
-  TA: '106'
+  Number of Gamers: 86
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '105'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -41,10 +41,10 @@ Base Game Achievements:
   Description: Play 20 cards in a row.
   GS: '150'
   Guide: true
-  Number of Gamers: 60
+  Number of Gamers: 83
   Percentage of Gamers: 86%
-  Ratio: 1.08
-  TA: '162'
+  Ratio: 1.06
+  TA: '160'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -52,10 +52,10 @@ Base Game Achievements:
   Description: Finish Level 20.
   GS: '50'
   Guide: false
-  Number of Gamers: 36
-  Percentage of Gamers: 51%
-  Ratio: 1.39
-  TA: '69'
+  Number of Gamers: 48
+  Percentage of Gamers: 50%
+  Ratio: 1.4
+  TA: '70'
   Tags:
   - Offline Mode
   - Single Player
@@ -64,10 +64,10 @@ Base Game Achievements:
   Description: Finish Level 50.
   GS: '100'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 37%
-  Ratio: 1.64
-  TA: '164'
+  Number of Gamers: 36
+  Percentage of Gamers: 38%
+  Ratio: 1.62
+  TA: '162'
   Tags:
   - Offline Mode
   - Single Player
@@ -76,10 +76,10 @@ Base Game Achievements:
   Description: Finish Level 100
   GS: '150'
   Guide: false
-  Number of Gamers: 23
+  Number of Gamers: 32
   Percentage of Gamers: 33%
-  Ratio: 1.78
-  TA: '267'
+  Ratio: 1.72
+  TA: '258'
   Tags:
   - Offline Mode
   - Single Player
@@ -88,10 +88,10 @@ Base Game Achievements:
   Description: Collect half  the Flowers.
   GS: '50'
   Guide: false
-  Number of Gamers: 25
-  Percentage of Gamers: 36%
-  Ratio: 1.67
-  TA: '83'
+  Number of Gamers: 39
+  Percentage of Gamers: 41%
+  Ratio: 1.56
+  TA: '78'
   Tags:
   - Offline Mode
   - Single Player
@@ -100,10 +100,10 @@ Base Game Achievements:
   Description: Collect all the Flowers.
   GS: '100'
   Guide: false
-  Number of Gamers: 22
-  Percentage of Gamers: 31%
-  Ratio: 1.82
-  TA: '182'
+  Number of Gamers: 31
+  Percentage of Gamers: 32%
+  Ratio: 1.75
+  TA: '175'
   Tags:
   - Offline Mode
   - Single Player
@@ -112,31 +112,31 @@ Base Game Achievements:
   Description: Collect all achievements
   GS: '200'
   Guide: true
-  Number of Gamers: 15
-  Percentage of Gamers: 21%
-  Ratio: 2.23
-  TA: '447'
+  Number of Gamers: 24
+  Percentage of Gamers: 25%
+  Ratio: 1.98
+  TA: '397'
   Tags:
   - Offline Mode
   - Single Player
   - Collectable
-Base Ratio: 1.581
-Base TA: 1581
+Base Ratio: 1.506
+Base TA: 1506
 Delisted: false
 Developer: The Binary Family
 Game Name: Summer Tri-Peaks Solitaire
 Genres: Card & Board
 Install Size: 519.0
-Number of Completions: 15
-Number of Gamers: 70
+Number of Completions: 24
+Number of Gamers: 96
 Overall Completion Time:
-- 17
 - 18
+- 19
 Overall GS: 1000
-Overall Ratio: 1.581
-Overall TA: 1581
+Overall Ratio: 1.506
+Overall TA: 1506
 PDU: 0
-Percentage Completed: 21.43
+Percentage Completed: 25.0
 Publisher: Ocean Media
 Release Date: 10 December 2024
 Server Closure: false

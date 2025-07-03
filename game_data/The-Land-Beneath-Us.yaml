@@ -1,15 +1,15 @@
 Add On Achievements: []
 Base Completion Time:
-- 65
-- 66
+- 63
+- 64
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Getting Started
   Description: Complete Quest "Getting Started".
   GS: '15'
   Guide: true
-  Number of Gamers: 409
-  Percentage of Gamers: 100%
+  Number of Gamers: 417
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '15'
   Tags:
@@ -20,8 +20,8 @@ Base Game Achievements:
   Description: Complete Quest "Mother's Soul".
   GS: '15'
   Guide: false
-  Number of Gamers: 150
-  Percentage of Gamers: 37%
+  Number of Gamers: 152
+  Percentage of Gamers: 36%
   Ratio: 1.65
   TA: '24'
   Tags:
@@ -32,7 +32,7 @@ Base Game Achievements:
   Description: Complete Quest "The Chained Witch".
   GS: '15'
   Guide: false
-  Number of Gamers: 101
+  Number of Gamers: 103
   Percentage of Gamers: 25%
   Ratio: 2.01
   TA: '30'
@@ -44,9 +44,9 @@ Base Game Achievements:
   Description: Complete Quest "Venom Horseman".
   GS: '15'
   Guide: false
-  Number of Gamers: 73
+  Number of Gamers: 76
   Percentage of Gamers: 18%
-  Ratio: 2.36
+  Ratio: 2.34
   TA: '35'
   Tags:
   - Offline Mode
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Complete Quest "Under The Swamp".
   GS: '15'
   Guide: false
-  Number of Gamers: 41
+  Number of Gamers: 43
   Percentage of Gamers: 10%
-  Ratio: 3.15
-  TA: '47'
+  Ratio: 3.11
+  TA: '46'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: Complete Quest "Trouble Trio".
   GS: '25'
   Guide: false
-  Number of Gamers: 37
+  Number of Gamers: 38
   Percentage of Gamers: 9%
-  Ratio: 3.32
-  TA: '83'
+  Ratio: 3.31
+  TA: '82'
   Tags:
   - Offline Mode
   - Single Player
@@ -80,9 +80,9 @@ Base Game Achievements:
   Description: "Complete Quest \"10\u201A000\u201A000 Volt Thunderbolt\"."
   GS: '25'
   Guide: false
-  Number of Gamers: 34
+  Number of Gamers: 35
   Percentage of Gamers: 8%
-  Ratio: 3.46
+  Ratio: 3.45
   TA: '86'
   Tags:
   - Offline Mode
@@ -92,10 +92,10 @@ Base Game Achievements:
   Description: Complete Quest "Pride and Prejudgment".
   GS: '25'
   Guide: false
-  Number of Gamers: 30
+  Number of Gamers: 31
   Percentage of Gamers: 7%
-  Ratio: 3.69
-  TA: '92'
+  Ratio: 3.66
+  TA: '91'
   Tags:
   - Offline Mode
   - Single Player
@@ -104,10 +104,10 @@ Base Game Achievements:
   Description: Complete Quest "Get Serious".
   GS: '100'
   Guide: true
-  Number of Gamers: 5
+  Number of Gamers: 6
   Percentage of Gamers: 1%
-  Ratio: 9.04
-  TA: '904'
+  Ratio: 8.33
+  TA: '833'
   Tags:
   - Offline Mode
   - Single Player
@@ -116,10 +116,10 @@ Base Game Achievements:
   Description: Complete Quest "Family Reunion".
   GS: '100'
   Guide: true
-  Number of Gamers: 21
+  Number of Gamers: 22
   Percentage of Gamers: 5%
-  Ratio: 4.41
-  TA: '441'
+  Ratio: 4.35
+  TA: '435'
   Tags:
   - Offline Mode
   - Single Player
@@ -128,9 +128,9 @@ Base Game Achievements:
   Description: Complete Quest "New Moon".
   GS: '15'
   Guide: false
-  Number of Gamers: 56
+  Number of Gamers: 58
   Percentage of Gamers: 14%
-  Ratio: 2.7
+  Ratio: 2.68
   TA: '40'
   Tags:
   - Offline Mode
@@ -140,7 +140,7 @@ Base Game Achievements:
   Description: Complete Quest "Waxing Crescent".
   GS: '15'
   Guide: false
-  Number of Gamers: 48
+  Number of Gamers: 50
   Percentage of Gamers: 12%
   Ratio: 2.91
   TA: '43'
@@ -152,9 +152,9 @@ Base Game Achievements:
   Description: Complete Quest "First Quarter".
   GS: '25'
   Guide: false
-  Number of Gamers: 40
+  Number of Gamers: 41
   Percentage of Gamers: 10%
-  Ratio: 3.19
+  Ratio: 3.18
   TA: '79'
   Tags:
   - Offline Mode
@@ -164,10 +164,10 @@ Base Game Achievements:
   Description: Complete Quest "Waxing Gibbous".
   GS: '25'
   Guide: false
-  Number of Gamers: 25
+  Number of Gamers: 26
   Percentage of Gamers: 6%
-  Ratio: 4.04
-  TA: '101'
+  Ratio: 4.0
+  TA: '100'
   Tags:
   - Offline Mode
   - Single Player
@@ -176,10 +176,10 @@ Base Game Achievements:
   Description: Complete Quest "Full Moon".
   GS: '25'
   Guide: false
-  Number of Gamers: 19
+  Number of Gamers: 20
   Percentage of Gamers: 5%
-  Ratio: 4.63
-  TA: '115'
+  Ratio: 4.56
+  TA: '114'
   Tags:
   - Offline Mode
   - Single Player
@@ -188,10 +188,10 @@ Base Game Achievements:
   Description: Complete Quest "Blood Moon".
   GS: '100'
   Guide: false
-  Number of Gamers: 17
+  Number of Gamers: 18
   Percentage of Gamers: 4%
-  Ratio: 4.9
-  TA: '490'
+  Ratio: 4.81
+  TA: '481'
   Tags:
   - Offline Mode
   - Single Player
@@ -200,9 +200,9 @@ Base Game Achievements:
   Description: Complete Quest "Roguelike".
   GS: '15'
   Guide: false
-  Number of Gamers: 90
+  Number of Gamers: 94
   Percentage of Gamers: 22%
-  Ratio: 2.13
+  Ratio: 2.11
   TA: '31'
   Tags:
   - Offline Mode
@@ -212,7 +212,7 @@ Base Game Achievements:
   Description: Complete Quest "Unyielding I".
   GS: '15'
   Guide: false
-  Number of Gamers: 59
+  Number of Gamers: 60
   Percentage of Gamers: 14%
   Ratio: 2.63
   TA: '39'
@@ -224,10 +224,10 @@ Base Game Achievements:
   Description: Complete Quest "Unyielding II".
   GS: '15'
   Guide: false
-  Number of Gamers: 15
+  Number of Gamers: 16
   Percentage of Gamers: 4%
-  Ratio: 5.22
-  TA: '78'
+  Ratio: 5.1
+  TA: '76'
   Tags:
   - Offline Mode
   - Single Player
@@ -236,10 +236,10 @@ Base Game Achievements:
   Description: Complete Quest "Unyielding III".
   GS: '15'
   Guide: false
-  Number of Gamers: 11
+  Number of Gamers: 12
   Percentage of Gamers: 3%
-  Ratio: 6.09
-  TA: '91'
+  Ratio: 5.89
+  TA: '88'
   Tags:
   - Offline Mode
   - Single Player
@@ -248,9 +248,9 @@ Base Game Achievements:
   Description: Complete Quest "Learning | Offensive".
   GS: '15'
   Guide: false
-  Number of Gamers: 98
+  Number of Gamers: 102
   Percentage of Gamers: 24%
-  Ratio: 2.04
+  Ratio: 2.02
   TA: '30'
   Tags:
   - Offline Mode
@@ -260,7 +260,7 @@ Base Game Achievements:
   Description: Complete Quest "Learning | Defensive".
   GS: '15'
   Guide: false
-  Number of Gamers: 124
+  Number of Gamers: 126
   Percentage of Gamers: 30%
   Ratio: 1.81
   TA: '27'
@@ -272,7 +272,7 @@ Base Game Achievements:
   Description: Complete Quest "Learning | Techinical".
   GS: '15'
   Guide: false
-  Number of Gamers: 119
+  Number of Gamers: 121
   Percentage of Gamers: 29%
   Ratio: 1.85
   TA: '27'
@@ -284,10 +284,10 @@ Base Game Achievements:
   Description: Complete Quest "Processing | Plasma".
   GS: '15'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 6%
-  Ratio: 3.96
-  TA: '59'
+  Number of Gamers: 28
+  Percentage of Gamers: 7%
+  Ratio: 3.92
+  TA: '58'
   Tags:
   - Offline Mode
   - Single Player
@@ -296,10 +296,10 @@ Base Game Achievements:
   Description: Complete Quest "Processing | Infliction".
   GS: '15'
   Guide: false
-  Number of Gamers: 32
+  Number of Gamers: 34
   Percentage of Gamers: 8%
-  Ratio: 3.57
-  TA: '53'
+  Ratio: 3.5
+  TA: '52'
   Tags:
   - Offline Mode
   - Single Player
@@ -308,10 +308,10 @@ Base Game Achievements:
   Description: Complete Quest "Processing | Recovery".
   GS: '15'
   Guide: false
-  Number of Gamers: 62
+  Number of Gamers: 65
   Percentage of Gamers: 15%
-  Ratio: 2.56
-  TA: '38'
+  Ratio: 2.53
+  TA: '37'
   Tags:
   - Offline Mode
   - Single Player
@@ -320,10 +320,10 @@ Base Game Achievements:
   Description: Complete Quest "Processing | Traps".
   GS: '15'
   Guide: false
-  Number of Gamers: 62
+  Number of Gamers: 65
   Percentage of Gamers: 15%
-  Ratio: 2.56
-  TA: '38'
+  Ratio: 2.53
+  TA: '37'
   Tags:
   - Offline Mode
   - Single Player
@@ -332,10 +332,10 @@ Base Game Achievements:
   Description: Complete Quest "Processing | Enhance".
   GS: '15'
   Guide: false
-  Number of Gamers: 34
-  Percentage of Gamers: 8%
-  Ratio: 3.46
-  TA: '52'
+  Number of Gamers: 36
+  Percentage of Gamers: 9%
+  Ratio: 3.4
+  TA: '51'
   Tags:
   - Offline Mode
   - Single Player
@@ -344,10 +344,10 @@ Base Game Achievements:
   Description: Complete Quest "Processing | Overload".
   GS: '15'
   Guide: false
-  Number of Gamers: 62
+  Number of Gamers: 65
   Percentage of Gamers: 15%
-  Ratio: 2.56
-  TA: '38'
+  Ratio: 2.53
+  TA: '37'
   Tags:
   - Offline Mode
   - Single Player
@@ -356,10 +356,10 @@ Base Game Achievements:
   Description: Complete Quest "Finalize | Plasma".
   GS: '25'
   Guide: false
-  Number of Gamers: 8
+  Number of Gamers: 9
   Percentage of Gamers: 2%
-  Ratio: 7.15
-  TA: '178'
+  Ratio: 6.8
+  TA: '170'
   Tags:
   - Offline Mode
   - Single Player
@@ -368,10 +368,10 @@ Base Game Achievements:
   Description: Complete Quest "Finalize | Infliction".
   GS: '25'
   Guide: false
-  Number of Gamers: 13
+  Number of Gamers: 14
   Percentage of Gamers: 3%
-  Ratio: 5.6
-  TA: '140'
+  Ratio: 5.45
+  TA: '136'
   Tags:
   - Offline Mode
   - Single Player
@@ -380,10 +380,10 @@ Base Game Achievements:
   Description: Complete Quest "Finalize | Recovery".
   GS: '25'
   Guide: false
-  Number of Gamers: 28
+  Number of Gamers: 29
   Percentage of Gamers: 7%
-  Ratio: 3.82
-  TA: '95'
+  Ratio: 3.79
+  TA: '94'
   Tags:
   - Offline Mode
   - Single Player
@@ -392,10 +392,10 @@ Base Game Achievements:
   Description: Complete Quest "Finalize | Traps".
   GS: '25'
   Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 7%
-  Ratio: 3.69
-  TA: '92'
+  Number of Gamers: 32
+  Percentage of Gamers: 8%
+  Ratio: 3.66
+  TA: '91'
   Tags:
   - Offline Mode
   - Single Player
@@ -404,10 +404,10 @@ Base Game Achievements:
   Description: Complete Quest "Finalize | Enhance".
   GS: '25'
   Guide: false
-  Number of Gamers: 12
+  Number of Gamers: 13
   Percentage of Gamers: 3%
-  Ratio: 5.83
-  TA: '145'
+  Ratio: 5.66
+  TA: '141'
   Tags:
   - Offline Mode
   - Single Player
@@ -416,10 +416,10 @@ Base Game Achievements:
   Description: Complete Quest "Finalize | Overload".
   GS: '25'
   Guide: false
-  Number of Gamers: 32
+  Number of Gamers: 34
   Percentage of Gamers: 8%
-  Ratio: 3.57
-  TA: '89'
+  Ratio: 3.5
+  TA: '87'
   Tags:
   - Offline Mode
   - Single Player
@@ -428,31 +428,31 @@ Base Game Achievements:
   Description: Complete Quest "Hidden Sacred Sword".
   GS: '100'
   Guide: false
-  Number of Gamers: 3
+  Number of Gamers: 4
   Percentage of Gamers: 1%
-  Ratio: 11.67
-  TA: 1,167
+  Ratio: 10.21
+  TA: 1,021
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 5.132
-Base TA: 5132
+Base Ratio: 4.864
+Base TA: 4864
 Delisted: false
 Developer: FairPlay Studios
 Game Name: The Land Beneath Us
 Genres: Roguelite, Strategy, Turn Based
 Install Size: 1080.0
-Number of Completions: 3
-Number of Gamers: 409
+Number of Completions: 4
+Number of Gamers: 420
 Overall Completion Time:
-- 65
-- 66
+- 63
+- 64
 Overall GS: 1000
-Overall Ratio: 5.132
-Overall TA: 5132
+Overall Ratio: 4.864
+Overall TA: 4864
 PDU: 0
-Percentage Completed: 0.73
+Percentage Completed: 0.95
 Publisher: Dear Villagers
 Release Date: 13 May 2024
 Server Closure: false

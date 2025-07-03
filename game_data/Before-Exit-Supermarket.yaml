@@ -1,15 +1,15 @@
 Add On Achievements: []
 Base Completion Time:
-- 7
-- 8
+- 6.0
+- 8.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Exit
   Description: Walk out for the first time
   GS: '5'
-  Guide: false
-  Number of Gamers: 299
-  Percentage of Gamers: 100%
+  Guide: true
+  Number of Gamers: 456
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '5'
   Tags:
@@ -19,8 +19,8 @@ Base Game Achievements:
 - Achievement Name: Next day
   Description: Complete your first day
   GS: '20'
-  Guide: false
-  Number of Gamers: 247
+  Guide: true
+  Number of Gamers: 377
   Percentage of Gamers: 82%
   Ratio: 1.1
   TA: '22'
@@ -31,11 +31,11 @@ Base Game Achievements:
 - Achievement Name: Promotion
   Description: Complete the entire week
   GS: '100'
-  Guide: false
-  Number of Gamers: 139
-  Percentage of Gamers: 46%
-  Ratio: 1.46
-  TA: '146'
+  Guide: true
+  Number of Gamers: 217
+  Percentage of Gamers: 47%
+  Ratio: 1.45
+  TA: '145'
   Tags:
   - Offline Mode
   - Single Player
@@ -43,9 +43,9 @@ Base Game Achievements:
 - Achievement Name: Watch out
   Description: Be warned
   GS: '5'
-  Guide: false
-  Number of Gamers: 296
-  Percentage of Gamers: 99%
+  Guide: true
+  Number of Gamers: 452
+  Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '5'
   Tags:
@@ -55,7 +55,7 @@ Base Game Achievements:
   Description: Get fired
   GS: '10'
   Guide: true
-  Number of Gamers: 261
+  Number of Gamers: 398
   Percentage of Gamers: 87%
   Ratio: 1.07
   TA: '10'
@@ -65,10 +65,10 @@ Base Game Achievements:
 - Achievement Name: Ignorant
   Description: Exit the store without completing any task
   GS: '5'
-  Guide: false
-  Number of Gamers: 182
+  Guide: true
+  Number of Gamers: 282
   Percentage of Gamers: 61%
-  Ratio: 1.28
+  Ratio: 1.27
   TA: '6'
   Tags:
   - Offline Game Mode
@@ -77,21 +77,21 @@ Base Game Achievements:
   Description: Throw trash in the basket
   GS: '40'
   Guide: true
-  Number of Gamers: 103
-  Percentage of Gamers: 34%
-  Ratio: 1.7
-  TA: '68'
+  Number of Gamers: 166
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '66'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Rider
   Description: Drive the carts a total distance of 10km (6 miles)
   GS: '20'
-  Guide: false
-  Number of Gamers: 124
-  Percentage of Gamers: 41%
-  Ratio: 1.56
-  TA: '31'
+  Guide: true
+  Number of Gamers: 202
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '30'
   Tags:
   - Offline Mode
   - Single Player
@@ -100,10 +100,10 @@ Base Game Achievements:
   Description: Wipe the floor 20 times
   GS: '20'
   Guide: true
-  Number of Gamers: 129
-  Percentage of Gamers: 43%
-  Ratio: 1.52
-  TA: '30'
+  Number of Gamers: 205
+  Percentage of Gamers: 45%
+  Ratio: 1.49
+  TA: '29'
   Tags:
   - Offline Mode
   - Single Player
@@ -112,9 +112,9 @@ Base Game Achievements:
   Description: Close refrigerator doors 50 times
   GS: '10'
   Guide: true
-  Number of Gamers: 145
-  Percentage of Gamers: 48%
-  Ratio: 1.43
+  Number of Gamers: 229
+  Percentage of Gamers: 50%
+  Ratio: 1.41
   TA: '14'
   Tags:
   - Offline Mode
@@ -124,10 +124,10 @@ Base Game Achievements:
   Description: Get rid of 20 rotten fruits
   GS: '20'
   Guide: true
-  Number of Gamers: 105
-  Percentage of Gamers: 35%
-  Ratio: 1.69
-  TA: '33'
+  Number of Gamers: 171
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '32'
   Tags:
   - Offline Mode
   - Single Player
@@ -135,11 +135,11 @@ Base Game Achievements:
 - Achievement Name: No help
   Description: Complete an entire week without using a cleaning cart
   GS: '120'
-  Guide: false
-  Number of Gamers: 79
-  Percentage of Gamers: 26%
-  Ratio: 1.94
-  TA: '233'
+  Guide: true
+  Number of Gamers: 135
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '221'
   Tags:
   - Offline Mode
   - Single Player
@@ -148,10 +148,10 @@ Base Game Achievements:
   Description: Chase the customer away 20 times
   GS: '20'
   Guide: true
-  Number of Gamers: 84
-  Percentage of Gamers: 28%
-  Ratio: 1.88
-  TA: '37'
+  Number of Gamers: 142
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '35'
   Tags:
   - Offline Mode
   - Single Player
@@ -160,9 +160,9 @@ Base Game Achievements:
   Description: Find a picture of your beloved in a warehouse
   GS: '5'
   Guide: true
-  Number of Gamers: 253
-  Percentage of Gamers: 84%
-  Ratio: 1.08
+  Number of Gamers: 382
+  Percentage of Gamers: 83%
+  Ratio: 1.09
   TA: '5'
   Tags:
   - Offline Game Mode
@@ -170,11 +170,11 @@ Base Game Achievements:
 - Achievement Name: Here we go again
   Description: Get fired on day 7
   GS: '120'
-  Guide: false
-  Number of Gamers: 90
-  Percentage of Gamers: 30%
-  Ratio: 1.82
-  TA: '219'
+  Guide: true
+  Number of Gamers: 156
+  Percentage of Gamers: 34%
+  Ratio: 1.71
+  TA: '206'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -182,10 +182,10 @@ Base Game Achievements:
   Description: Complete every possible scenario
   GS: '150'
   Guide: true
-  Number of Gamers: 52
-  Percentage of Gamers: 17%
-  Ratio: 2.4
-  TA: '360'
+  Number of Gamers: 93
+  Percentage of Gamers: 20%
+  Ratio: 2.22
+  TA: '333'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -193,10 +193,10 @@ Base Game Achievements:
   Description: Drop a total of 100 items
   GS: '100'
   Guide: true
-  Number of Gamers: 97
-  Percentage of Gamers: 32%
-  Ratio: 1.75
-  TA: '175'
+  Number of Gamers: 159
+  Percentage of Gamers: 35%
+  Ratio: 1.7
+  TA: '170'
   Tags:
   - Offline Mode
   - Single Player
@@ -204,11 +204,11 @@ Base Game Achievements:
 - Achievement Name: Perfectionist
   Description: Complete the game without warning
   GS: '120'
-  Guide: false
-  Number of Gamers: 103
-  Percentage of Gamers: 34%
-  Ratio: 1.7
-  TA: '204'
+  Guide: true
+  Number of Gamers: 165
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '200'
   Tags:
   - Offline Mode
   - Single Player
@@ -217,10 +217,10 @@ Base Game Achievements:
   Description: Open all possible doors and turn on all possible lights
   GS: '30'
   Guide: true
-  Number of Gamers: 175
-  Percentage of Gamers: 58%
-  Ratio: 1.3
-  TA: '39'
+  Number of Gamers: 275
+  Percentage of Gamers: 60%
+  Ratio: 1.29
+  TA: '38'
   Tags:
   - Offline Mode
   - Single Player
@@ -229,34 +229,34 @@ Base Game Achievements:
   Description: Fill all trash cans
   GS: '80'
   Guide: true
-  Number of Gamers: 74
-  Percentage of Gamers: 25%
-  Ratio: 2.01
-  TA: '161'
+  Number of Gamers: 129
+  Percentage of Gamers: 28%
+  Ratio: 1.88
+  TA: '151'
   Tags:
   - Offline Mode
   - Single Player
   - Collectable
-Base Ratio: 1.803
-Base TA: 1803
+Base Ratio: 1.723
+Base TA: 1723
 Delisted: false
 Developer: Take IT Studio!
 Game Name: 'Before Exit: Supermarket'
 Genres: Simulation
 Install Size: 2570.0
-Number of Completions: 49
-Number of Gamers: 300
+Number of Completions: 88
+Number of Gamers: 460
 Overall Completion Time:
-- 7
-- 8
+- 6.0
+- 8.0
 Overall GS: 1000
-Overall Ratio: 1.803
-Overall TA: 1803
+Overall Ratio: 1.723
+Overall TA: 1723
 PDU: 0
-Percentage Completed: 16.33
+Percentage Completed: 19.13
 Publisher: Take IT Studio!
 Release Date: 01 October 2024
 Server Closure: false
-Site Rating: 3.06
+Site Rating: 3.19
 Update Achievements: []
 Walkthrough: false

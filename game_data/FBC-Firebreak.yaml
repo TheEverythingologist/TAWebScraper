@@ -1,0 +1,565 @@
+Add On Achievements: []
+Base Completion Time:
+- 15.0
+- 20.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Welcome to Firebreak
+  Description: Complete any job.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 35079
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '10'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Risk Allowance
+  Description: Complete any job on High.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 31846
+  Percentage of Gamers: 77%
+  Ratio: 1.14
+  TA: '11'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: Danger Pay
+  Description: Complete any job on Extreme.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 8934
+  Percentage of Gamers: 22%
+  Ratio: 2.15
+  TA: '86'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: Hazard Pay
+  Description: Complete any job on Terminal.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 4540
+  Percentage of Gamers: 11%
+  Ratio: 3.02
+  TA: '120'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: OSHA Compliant
+  Description: "Complete any Clearance 6\_ job on Extreme or higher with no one downed."
+  GS: '100'
+  Guide: true
+  Number of Gamers: 756
+  Percentage of Gamers: 2%
+  Ratio: 7.42
+  TA: '742'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: Just Here to Work
+  Description: Complete any job without firing a gun.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 2820
+  Percentage of Gamers: 7%
+  Ratio: 3.83
+  TA: '153'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: What a Day
+  Description: Complete any Clearance 6 job on Terminal.
+  GS: '100'
+  Guide: true
+  Number of Gamers: 1908
+  Percentage of Gamers: 5%
+  Ratio: 4.66
+  TA: '466'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: 10 Days Without Incident
+  Description: Complete 10 jobs with full evacuation.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 3143
+  Percentage of Gamers: 8%
+  Ratio: 3.63
+  TA: '36'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: First Response
+  Description: Revive a teammate.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 27987
+  Percentage of Gamers: 67%
+  Ratio: 1.21
+  TA: '12'
+  Tags:
+  - Online Mode
+  - Cooperative
+- Achievement Name: Break Time's Over
+  Description: Revive 50 crewmates.
+  GS: '40'
+  Guide: false
+  Number of Gamers: 1667
+  Percentage of Gamers: 4%
+  Ratio: 4.99
+  TA: '199'
+  Tags:
+  - Online Mode
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Overtime
+  Description: Revive a crewmate as last player standing with no crew lives remaining.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 2132
+  Percentage of Gamers: 5%
+  Ratio: 4.41
+  TA: '176'
+  Tags:
+  - Online Mode
+  - Cooperative
+- Achievement Name: Hands-On Approach
+  Description: Kill 500 enemies at close range (within 5 meters).
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4291
+  Percentage of Gamers: 10%
+  Ratio: 3.11
+  TA: '31'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Hands-Off Approach
+  Description: Kill 500 enemies at long range (over 50 meters away).
+  GS: '10'
+  Guide: true
+  Number of Gamers: 691
+  Percentage of Gamers: 2%
+  Ratio: 7.76
+  TA: '77'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Smarter Not Harder
+  Description: Hit 10 enemies with a single attack.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 24462
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '13'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Manual Mastery
+  Description: Complete a manual fix without mistakes.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 36724
+  Percentage of Gamers: 89%
+  Ratio: 1.06
+  TA: '10'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: All-Rounder
+  Description: Extinguish a fire, repair a machine, and charge an electrical device
+    in a single job.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 23344
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '13'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Vandal
+  Description: Place 100 sprays.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1387
+  Percentage of Gamers: 3%
+  Ratio: 5.47
+  TA: '54'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Expressionist
+  Description: Unlock a new spray.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5083
+  Percentage of Gamers: 12%
+  Ratio: 2.85
+  TA: '28'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Research Assistant
+  Description: Successfully recover a Research Sample.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 8087
+  Percentage of Gamers: 19%
+  Ratio: 2.26
+  TA: '22'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Lab Rat
+  Description: Equip a Research Perk into every slot of any Crisis Kit.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 1802
+  Percentage of Gamers: 4%
+  Ratio: 4.8
+  TA: '192'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Rookie
+  Description: Reach maximum grade with any Crisis Kit.
+  GS: '40'
+  Guide: false
+  Number of Gamers: 2015
+  Percentage of Gamers: 5%
+  Ratio: 4.54
+  TA: '181'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Veteran
+  Description: Reach maximum grade with two Crisis Kits.
+  GS: '40'
+  Guide: false
+  Number of Gamers: 914
+  Percentage of Gamers: 2%
+  Ratio: 6.74
+  TA: '269'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Firebreaker
+  Description: Reach maximum grade with all Crisis Kits.
+  GS: '100'
+  Guide: true
+  Number of Gamers: 703
+  Percentage of Gamers: 2%
+  Ratio: 7.7
+  TA: '770'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: 'Field Testing: Jump'
+  Description: Complete any job with the Jump Kit equipped.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 16212
+  Percentage of Gamers: 39%
+  Ratio: 1.59
+  TA: '15'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: 'Field Testing: Fix'
+  Description: Complete any job with the Fix Kit equipped.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 19484
+  Percentage of Gamers: 47%
+  Ratio: 1.45
+  TA: '14'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: 'Field Testing: Splash'
+  Description: Complete any job with the Splash Kit equipped.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 17360
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '15'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Climber
+  Description: Increase your Rank.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 34446
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '10'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Desperate Measures
+  Description: Deploy an Altered Augment.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 5925
+  Percentage of Gamers: 14%
+  Ratio: 2.64
+  TA: '26'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Every Tool in the Box
+  Description: Deploy three different Augments with your crew in a single job on Hard
+    or higher.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1918
+  Percentage of Gamers: 5%
+  Ratio: 4.65
+  TA: '46'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: Neutralizer
+  Description: Neutralize a Corrupted Item.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 4687
+  Percentage of Gamers: 11%
+  Ratio: 2.97
+  TA: '29'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Containment Specialist
+  Description: Complete a job with three Corrupted Items neutralized.
+  GS: '40'
+  Guide: false
+  Number of Gamers: 5102
+  Percentage of Gamers: 12%
+  Ratio: 2.85
+  TA: '114'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: The Big Chair
+  Description: Get more kills with the Swivel Cannon than your gun in a single job.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1624
+  Percentage of Gamers: 4%
+  Ratio: 5.05
+  TA: '50'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Percussive Maintenance
+  Description: Use the Wrench to repair 100 machines.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2045
+  Percentage of Gamers: 5%
+  Ratio: 4.5
+  TA: '45'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Can't Keep Me Down
+  Description: Kill ten enemies with your feet off the ground in a single job.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1538
+  Percentage of Gamers: 4%
+  Ratio: 5.2
+  TA: '52'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Clear!
+  Description: Use the Impactor to charge 100 electrical devices.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1615
+  Percentage of Gamers: 4%
+  Ratio: 5.07
+  TA: '50'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Decibel Domination
+  Description: Use the BOOMbox to taunt ten enemies at once.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2113
+  Percentage of Gamers: 5%
+  Ratio: 4.43
+  TA: '44'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: First Aid Certified
+  Description: Use the Humidifier to heal a teammate.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 6620
+  Percentage of Gamers: 16%
+  Ratio: 2.5
+  TA: '25'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Firebroken
+  Description: Use the Ejector to extinguish 100 flames.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 7800
+  Percentage of Gamers: 19%
+  Ratio: 2.3
+  TA: '23'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Cool Hands Prevail
+  Description: Complete any job on Hard or higher without overheating the Ejector
+    (functional or higher).
+  GS: '40'
+  Guide: true
+  Number of Gamers: 4397
+  Percentage of Gamers: 11%
+  Ratio: 3.07
+  TA: '122'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+- Achievement Name: Clipper
+  Description: Neutralize ten flying enemies in a single job.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 18832
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '14'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Hitchcock Moment
+  Description: Become downed while showering.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 12890
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '17'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: It's Like I Always Say...
+  Description: Shower with a full crew.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 11958
+  Percentage of Gamers: 29%
+  Ratio: 1.86
+  TA: '18'
+  Tags:
+  - Online Mode
+  - Cooperative
+  - 12 Players Required
+- Achievement Name: Gnomed
+  Description: Become downed from your own gnome.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2588
+  Percentage of Gamers: 6%
+  Ratio: 4.0
+  TA: '40'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+Base Ratio: 4.44
+Base TA: 4440
+Delisted: false
+Developer: Remedy Entertainment
+Game Name: 'FBC: Firebreak'
+Genres: First Person Shooter
+Install Size: 17060.0
+Number of Completions: 481
+Number of Gamers: 41488
+Overall Completion Time:
+- 15.0
+- 20.0
+Overall GS: 1000
+Overall Ratio: 4.44
+Overall TA: 4440
+PDU: 0
+Percentage Completed: 1.16
+Publisher: Remedy Entertainment
+Release Date: 17 June 2025
+Server Closure: false
+Site Rating: 3.2
+Update Achievements: []
+Walkthrough: false

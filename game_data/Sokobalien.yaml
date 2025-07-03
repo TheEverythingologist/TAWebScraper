@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.5
-- 2.0
-Base GS: 3000
+- 2.5
+Base GS: 4000
 Base Game Achievements:
 - Achievement Name: First Cow!
   Description: Abduct your first cow
   GS: '25'
   Guide: false
-  Number of Gamers: 1579
+  Number of Gamers: 2042
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '25'
@@ -19,7 +19,7 @@ Base Game Achievements:
   Description: Abduct 5 cows
   GS: '40'
   Guide: false
-  Number of Gamers: 1569
+  Number of Gamers: 2029
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '40'
@@ -31,7 +31,7 @@ Base Game Achievements:
   Description: Abduct 10  cows
   GS: '70'
   Guide: false
-  Number of Gamers: 1563
+  Number of Gamers: 2024
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '70'
@@ -43,8 +43,8 @@ Base Game Achievements:
   Description: Abduct your first sheep
   GS: '30'
   Guide: false
-  Number of Gamers: 1410
-  Percentage of Gamers: 89%
+  Number of Gamers: 1841
+  Percentage of Gamers: 90%
   Ratio: 1.05
   TA: '31'
   Tags:
@@ -54,8 +54,8 @@ Base Game Achievements:
   Description: Abduct 5 Sheeps
   GS: '40'
   Guide: false
-  Number of Gamers: 1408
-  Percentage of Gamers: 89%
+  Number of Gamers: 1838
+  Percentage of Gamers: 90%
   Ratio: 1.05
   TA: '42'
   Tags:
@@ -66,9 +66,9 @@ Base Game Achievements:
   Description: Abduct 10 sheeps
   GS: '70'
   Guide: false
-  Number of Gamers: 1394
-  Percentage of Gamers: 88%
-  Ratio: 1.06
+  Number of Gamers: 1818
+  Percentage of Gamers: 89%
+  Ratio: 1.05
   TA: '74'
   Tags:
   - Offline Mode
@@ -78,7 +78,7 @@ Base Game Achievements:
   Description: Complete Level 1
   GS: '25'
   Guide: true
-  Number of Gamers: 1579
+  Number of Gamers: 2042
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '25'
@@ -90,9 +90,9 @@ Base Game Achievements:
   Description: Complete level 10
   GS: '30'
   Guide: false
-  Number of Gamers: 1545
+  Number of Gamers: 2011
   Percentage of Gamers: 98%
-  Ratio: 1.01
+  Ratio: 1.0
   TA: '30'
   Tags:
   - Offline Mode
@@ -102,8 +102,8 @@ Base Game Achievements:
   Description: Complete level 15
   GS: '40'
   Guide: false
-  Number of Gamers: 1521
-  Percentage of Gamers: 96%
+  Number of Gamers: 1984
+  Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '40'
   Tags:
@@ -114,10 +114,10 @@ Base Game Achievements:
   Description: First level with a button
   GS: '60'
   Guide: false
-  Number of Gamers: 1520
-  Percentage of Gamers: 96%
+  Number of Gamers: 1983
+  Percentage of Gamers: 97%
   Ratio: 1.01
-  TA: '61'
+  TA: '60'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -125,9 +125,9 @@ Base Game Achievements:
   Description: Buy your first hat
   GS: '30'
   Guide: false
-  Number of Gamers: 1512
+  Number of Gamers: 1966
   Percentage of Gamers: 96%
-  Ratio: 1.02
+  Ratio: 1.01
   TA: '30'
   Tags:
   - Offline Mode
@@ -137,8 +137,8 @@ Base Game Achievements:
   Description: Buy 5 hats
   GS: '40'
   Guide: false
-  Number of Gamers: 1473
-  Percentage of Gamers: 93%
+  Number of Gamers: 1922
+  Percentage of Gamers: 94%
   Ratio: 1.03
   TA: '41'
   Tags:
@@ -150,10 +150,10 @@ Base Game Achievements:
   Description: Buy 10 hats
   GS: '80'
   Guide: false
-  Number of Gamers: 1427
-  Percentage of Gamers: 90%
-  Ratio: 1.05
-  TA: '84'
+  Number of Gamers: 1859
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '83'
   Tags:
   - Offline Mode
   - Single Player
@@ -163,8 +163,8 @@ Base Game Achievements:
   Description: Complete level 20
   GS: '100'
   Guide: false
-  Number of Gamers: 1505
-  Percentage of Gamers: 95%
+  Number of Gamers: 1959
+  Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '102'
   Tags:
@@ -175,10 +175,10 @@ Base Game Achievements:
   Description: First level with a crate
   GS: '50'
   Guide: true
-  Number of Gamers: 1310
+  Number of Gamers: 1686
   Percentage of Gamers: 83%
-  Ratio: 1.09
-  TA: '54'
+  Ratio: 1.1
+  TA: '55'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -186,8 +186,8 @@ Base Game Achievements:
   Description: Abduct a cow and a sheep at the same level
   GS: '50'
   Guide: false
-  Number of Gamers: 1408
-  Percentage of Gamers: 89%
+  Number of Gamers: 1837
+  Percentage of Gamers: 90%
   Ratio: 1.05
   TA: '52'
   Tags:
@@ -197,7 +197,7 @@ Base Game Achievements:
   Description: Wear the first hat on any level
   GS: '30'
   Guide: false
-  Number of Gamers: 1501
+  Number of Gamers: 1949
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '30'
@@ -208,7 +208,7 @@ Base Game Achievements:
   Description: Complete a level wearing a bunny hat
   GS: '60'
   Guide: false
-  Number of Gamers: 1473
+  Number of Gamers: 1907
   Percentage of Gamers: 93%
   Ratio: 1.03
   TA: '62'
@@ -219,7 +219,7 @@ Base Game Achievements:
   Description: Change background color the first time
   GS: '20'
   Guide: false
-  Number of Gamers: 1564
+  Number of Gamers: 2023
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '20'
@@ -230,7 +230,7 @@ Base Game Achievements:
   Description: Use the UNDO button the first time
   GS: '30'
   Guide: false
-  Number of Gamers: 1561
+  Number of Gamers: 2021
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '30'
@@ -241,7 +241,7 @@ Base Game Achievements:
   Description: Use the RESTART button the first time
   GS: '30'
   Guide: false
-  Number of Gamers: 1568
+  Number of Gamers: 2027
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '30'
@@ -252,43 +252,43 @@ Base Game Achievements:
   Description: Play any level again
   GS: '50'
   Guide: false
-  Number of Gamers: 1484
+  Number of Gamers: 1923
   Percentage of Gamers: 94%
   Ratio: 1.03
   TA: '51'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 1.0603333333333333
-Base TA: 3181
+Base Ratio: 1.07425
+Base TA: 4297
 Delisted: false
 Developer: Cavylabs, MadCat Corp
 Game Name: Sokobalien
 Genres: Puzzle
 Install Size: 755.0
-Number of Completions: 1160
-Number of Gamers: 1580
+Number of Completions: 1356
+Number of Gamers: 2042
 Overall Completion Time:
 - 0.5
-- 2.0
-Overall GS: 3000
-Overall Ratio: 1.0603333333333333
-Overall TA: 3181
+- 2.5
+Overall GS: 4000
+Overall Ratio: 1.07425
+Overall TA: 4297
 PDU: 0
-Percentage Completed: 73.42
+Percentage Completed: 66.41
 Publisher: AFIL Games
 Release Date: 07 March 2024
 Server Closure: false
-Site Rating: 2.44
+Site Rating: 2.47
 Update Achievements:
 - Achievement Name: Cow Collector
   Description: Abduct 11 cows
   GS: '200'
   Guide: false
-  Number of Gamers: 1482
-  Percentage of Gamers: 94%
-  Ratio: 1.03
-  TA: '206'
+  Number of Gamers: 1951
+  Percentage of Gamers: 96%
+  Ratio: 1.02
+  TA: '204'
   Tags:
   - Offline Mode
   - Single Player
@@ -297,10 +297,10 @@ Update Achievements:
   Description: Abduct 12  cows
   GS: '200'
   Guide: false
-  Number of Gamers: 1482
-  Percentage of Gamers: 94%
-  Ratio: 1.03
-  TA: '206'
+  Number of Gamers: 1951
+  Percentage of Gamers: 96%
+  Ratio: 1.02
+  TA: '204'
   Tags:
   - Offline Mode
   - Single Player
@@ -309,10 +309,10 @@ Update Achievements:
   Description: Abduct 11 sheeps
   GS: '200'
   Guide: false
-  Number of Gamers: 1342
-  Percentage of Gamers: 85%
-  Ratio: 1.08
-  TA: '217'
+  Number of Gamers: 1772
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '214'
   Tags:
   - Offline Mode
   - Single Player
@@ -321,10 +321,10 @@ Update Achievements:
   Description: Abduct 12 sheeps
   GS: '200'
   Guide: false
-  Number of Gamers: 1338
-  Percentage of Gamers: 85%
-  Ratio: 1.08
-  TA: '217'
+  Number of Gamers: 1767
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '215'
   Tags:
   - Offline Mode
   - Single Player
@@ -333,10 +333,10 @@ Update Achievements:
   Description: Complete level 21
   GS: '200'
   Guide: true
-  Number of Gamers: 1421
-  Percentage of Gamers: 90%
-  Ratio: 1.05
-  TA: '210'
+  Number of Gamers: 1878
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '208'
   Tags:
   - Offline Mode
   - Single Player
@@ -345,10 +345,10 @@ Update Achievements:
   Description: Abduct 14 cows
   GS: '200'
   Guide: true
-  Number of Gamers: 1401
-  Percentage of Gamers: 89%
-  Ratio: 1.06
-  TA: '212'
+  Number of Gamers: 1900
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '207'
   Tags:
   - Offline Mode
   - Single Player
@@ -357,10 +357,10 @@ Update Achievements:
   Description: Abduct 15 cows
   GS: '200'
   Guide: false
-  Number of Gamers: 1399
-  Percentage of Gamers: 89%
-  Ratio: 1.06
-  TA: '212'
+  Number of Gamers: 1899
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '207'
   Tags:
   - Offline Mode
   - Single Player
@@ -369,10 +369,10 @@ Update Achievements:
   Description: Abduct 14 sheeps
   GS: '200'
   Guide: false
-  Number of Gamers: 1282
-  Percentage of Gamers: 81%
-  Ratio: 1.11
-  TA: '222'
+  Number of Gamers: 1731
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '217'
   Tags:
   - Offline Mode
   - Single Player
@@ -381,10 +381,10 @@ Update Achievements:
   Description: Abduct 15 sheeps
   GS: '200'
   Guide: false
-  Number of Gamers: 1278
-  Percentage of Gamers: 81%
-  Ratio: 1.11
-  TA: '222'
+  Number of Gamers: 1729
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '217'
   Tags:
   - Offline Mode
   - Single Player
@@ -393,10 +393,70 @@ Update Achievements:
   Description: Complete level 50
   GS: '200'
   Guide: true
-  Number of Gamers: 1163
+  Number of Gamers: 1561
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '228'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Cow Master
+  Description: Abduct 16 cows
+  GS: '200'
+  Guide: false
+  Number of Gamers: 1586
+  Percentage of Gamers: 78%
+  Ratio: 1.13
+  TA: '226'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Bovine Master
+  Description: Abduct 17 cows
+  GS: '200'
+  Guide: false
+  Number of Gamers: 1586
+  Percentage of Gamers: 78%
+  Ratio: 1.13
+  TA: '226'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Sheep Master
+  Description: Abduct 16 sheeps
+  GS: '200'
+  Guide: false
+  Number of Gamers: 1477
+  Percentage of Gamers: 72%
+  Ratio: 1.17
+  TA: '235'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Ovine Master
+  Description: Abduct 17 sheeps
+  GS: '200'
+  Guide: false
+  Number of Gamers: 1470
+  Percentage of Gamers: 72%
+  Ratio: 1.17
+  TA: '235'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Galactic Hero
+  Description: Complete level 23
+  GS: '200'
+  Guide: true
+  Number of Gamers: 1518
   Percentage of Gamers: 74%
-  Ratio: 1.16
-  TA: '233'
+  Ratio: 1.15
+  TA: '231'
   Tags:
   - Offline Mode
   - Single Player

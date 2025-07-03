@@ -17,66 +17,66 @@ Base Game Achievements:
 - Achievement Name: Survivor
   Description: Complete the rank I Invasion
   GS: '10'
-  Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 8%
-  Ratio: 3.46
-  TA: '34'
+  Guide: true
+  Number of Gamers: 9
+  Percentage of Gamers: 11%
+  Ratio: 3.0
+  TA: '30'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Warrior
   Description: Complete the rank II Invasion
   GS: '10'
-  Guide: false
+  Guide: true
   Number of Gamers: 5
-  Percentage of Gamers: 7%
-  Ratio: 3.79
-  TA: '37'
+  Percentage of Gamers: 6%
+  Ratio: 4.02
+  TA: '40'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Gladiator
   Description: Complete the rank III Invasion
   GS: '10'
-  Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 4%
-  Ratio: 4.89
-  TA: '48'
+  Guide: true
+  Number of Gamers: 4
+  Percentage of Gamers: 5%
+  Ratio: 4.5
+  TA: '45'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Challenger
   Description: Complete the rank IV Invasion
   GS: '20'
-  Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 1%
-  Ratio: 8.48
-  TA: '169'
+  Guide: true
+  Number of Gamers: 2
+  Percentage of Gamers: 2%
+  Ratio: 6.36
+  TA: '127'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Hero
   Description: Complete the rank V Invasion
   GS: '20'
-  Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 3%
-  Ratio: 6.0
-  TA: '120'
+  Guide: true
+  Number of Gamers: 3
+  Percentage of Gamers: 4%
+  Ratio: 5.19
+  TA: '103'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Who Wants Money?
   Description: Acquired 10,000 gold
   GS: '20'
-  Guide: false
-  Number of Gamers: 40
-  Percentage of Gamers: 56%
-  Ratio: 1.34
-  TA: '26'
+  Guide: true
+  Number of Gamers: 41
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '28'
   Tags:
   - Offline Mode
   - Single Player
@@ -84,10 +84,10 @@ Base Game Achievements:
 - Achievement Name: Miner
   Description: Collect 500 ores in your inventory or storage
   GS: '10'
-  Guide: false
-  Number of Gamers: 48
-  Percentage of Gamers: 67%
-  Ratio: 1.22
+  Guide: true
+  Number of Gamers: 50
+  Percentage of Gamers: 62%
+  Ratio: 1.27
   TA: '12'
   Tags:
   - Offline Mode
@@ -96,8 +96,8 @@ Base Game Achievements:
 - Achievement Name: Lumberjack
   Description: Collect 500 wood in your inventory or storage
   GS: '10'
-  Guide: false
-  Number of Gamers: 72
+  Guide: true
+  Number of Gamers: 81
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '10'
@@ -111,8 +111,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 1
   Percentage of Gamers: 1%
-  Ratio: 8.48
-  TA: '424'
+  Ratio: 9.0
+  TA: '450'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -120,10 +120,10 @@ Base Game Achievements:
   Description: Catch a fish from each type
   GS: '20'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 3%
-  Ratio: 6.0
-  TA: '120'
+  Number of Gamers: 3
+  Percentage of Gamers: 4%
+  Ratio: 5.19
+  TA: '103'
   Tags:
   - Offline Mode
   - Single Player
@@ -131,11 +131,11 @@ Base Game Achievements:
 - Achievement Name: Craftmaster
   Description: Craft 6 items of Tier 10
   GS: '40'
-  Guide: false
+  Guide: true
   Number of Gamers: 1
   Percentage of Gamers: 1%
-  Ratio: 8.48
-  TA: '339'
+  Ratio: 9.0
+  TA: '360'
   Tags:
   - Offline Mode
   - Single Player
@@ -144,10 +144,10 @@ Base Game Achievements:
   Description: Complete the Bestiary
   GS: '20'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 4%
-  Ratio: 4.89
-  TA: '97'
+  Number of Gamers: 4
+  Percentage of Gamers: 5%
+  Ratio: 4.5
+  TA: '90'
   Tags:
   - Offline Mode
   - Single Player
@@ -156,10 +156,10 @@ Base Game Achievements:
   Description: Slay the rare enemies from the 5 main factions
   GS: '20'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 1%
-  Ratio: 8.48
-  TA: '169'
+  Number of Gamers: 2
+  Percentage of Gamers: 2%
+  Ratio: 6.36
+  TA: '127'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -167,10 +167,10 @@ Base Game Achievements:
   Description: Reach level 25 on all Familiars
   GS: '50'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '50'
+  Number of Gamers: 1
+  Percentage of Gamers: 1%
+  Ratio: 9.0
+  TA: '450'
   Tags:
   - Offline Mode
   - Single Player
@@ -178,11 +178,11 @@ Base Game Achievements:
 - Achievement Name: Rescue
   Description: Save 100 Villagers
   GS: '10'
-  Guide: false
-  Number of Gamers: 4
+  Guide: true
+  Number of Gamers: 5
   Percentage of Gamers: 6%
-  Ratio: 4.24
-  TA: '42'
+  Ratio: 4.02
+  TA: '40'
   Tags:
   - Offline Mode
   - Single Player
@@ -190,33 +190,33 @@ Base Game Achievements:
 - Achievement Name: Heartbreaker
   Description: Destroy the Corrupted Heart
   GS: '20'
-  Guide: false
+  Guide: true
   Number of Gamers: 1
   Percentage of Gamers: 1%
-  Ratio: 8.48
-  TA: '169'
+  Ratio: 9.0
+  TA: '180'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Cleaning Up The Mess
   Description: Defeat Khubarul, The Puker
   GS: '10'
-  Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 3%
-  Ratio: 6.0
-  TA: '60'
+  Guide: true
+  Number of Gamers: 3
+  Percentage of Gamers: 4%
+  Ratio: 5.19
+  TA: '51'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Can You Die?
   Description: Defeat Death
   GS: '10'
-  Guide: false
+  Guide: true
   Number of Gamers: 2
-  Percentage of Gamers: 3%
-  Ratio: 6.0
-  TA: '60'
+  Percentage of Gamers: 2%
+  Ratio: 6.36
+  TA: '63'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -284,10 +284,10 @@ Base Game Achievements:
   Description: Reach level 60 with Allure
   GS: '40'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '40'
+  Number of Gamers: 1
+  Percentage of Gamers: 1%
+  Ratio: 9.0
+  TA: '360'
   Tags:
   - Offline Mode
   - Single Player
@@ -295,11 +295,11 @@ Base Game Achievements:
 - Achievement Name: Vylat Master
   Description: Reach level 60 with Vylat
   GS: '40'
-  Guide: false
+  Guide: true
   Number of Gamers: 1
   Percentage of Gamers: 1%
-  Ratio: 8.48
-  TA: '339'
+  Ratio: 9.0
+  TA: '360'
   Tags:
   - Offline Mode
   - Single Player
@@ -308,10 +308,10 @@ Base Game Achievements:
   Description: Reach level 60 with Rhys
   GS: '40'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '40'
+  Number of Gamers: 1
+  Percentage of Gamers: 1%
+  Ratio: 9.0
+  TA: '360'
   Tags:
   - Offline Mode
   - Single Player
@@ -320,10 +320,10 @@ Base Game Achievements:
   Description: Reach level 60 with Lance
   GS: '40'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '40'
+  Number of Gamers: 1
+  Percentage of Gamers: 1%
+  Ratio: 9.0
+  TA: '360'
   Tags:
   - Offline Mode
   - Single Player
@@ -331,11 +331,11 @@ Base Game Achievements:
 - Achievement Name: Ninn Master
   Description: Reach level 60 with Ninn
   GS: '40'
-  Guide: false
+  Guide: true
   Number of Gamers: 1
   Percentage of Gamers: 1%
-  Ratio: 8.48
-  TA: '339'
+  Ratio: 9.0
+  TA: '360'
   Tags:
   - Offline Mode
   - Single Player
@@ -343,11 +343,11 @@ Base Game Achievements:
 - Achievement Name: Demon Slayer
   Description: Defeat the 6 mains bosses in Normal Difficulty
   GS: '20'
-  Guide: false
+  Guide: true
   Number of Gamers: 1
   Percentage of Gamers: 1%
-  Ratio: 8.48
-  TA: '169'
+  Ratio: 9.0
+  TA: '180'
   Tags:
   - Offline Mode
   - Single Player
@@ -355,30 +355,30 @@ Base Game Achievements:
 - Achievement Name: Heroic Deeds
   Description: Defeat the 6 mains bosses in Heroic Difficulty
   GS: '20'
-  Guide: false
+  Guide: true
   Number of Gamers: 1
   Percentage of Gamers: 1%
-  Ratio: 8.48
-  TA: '169'
+  Ratio: 9.0
+  TA: '180'
   Tags:
   - Offline Mode
   - Single Player
   - Difficulty Specific
-Base Ratio: 3.522
-Base TA: 3522
+Base Ratio: 4.869
+Base TA: 4869
 Delisted: false
 Developer: Pyxeralia
 Game Name: Mists of Noyah
 Genres: Action-RPG, Role Playing, Dungeon Crawler
 Install Size: 2270.0
 Number of Completions: 0
-Number of Gamers: 72
+Number of Gamers: 81
 Overall Completion Time:
 - -1
 - -1
 Overall GS: 1000
-Overall Ratio: 3.522
-Overall TA: 3522
+Overall Ratio: 4.869
+Overall TA: 4869
 PDU: 0
 Percentage Completed: 0.0
 Publisher: QUByte Interactive

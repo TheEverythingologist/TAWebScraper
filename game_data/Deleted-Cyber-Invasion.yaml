@@ -1,15 +1,15 @@
 Add On Achievements: []
 Base Completion Time:
-- 28
-- 29
+- -1
+- -1
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: That was easy
   Description: Finish the first run
   GS: '60'
   Guide: false
-  Number of Gamers: 85
-  Percentage of Gamers: 86%
+  Number of Gamers: 87
+  Percentage of Gamers: 87%
   Ratio: 1.07
   TA: '64'
   Tags:
@@ -22,8 +22,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 24
   Percentage of Gamers: 24%
-  Ratio: 2.03
-  TA: '121'
+  Ratio: 2.04
+  TA: '122'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -31,10 +31,10 @@ Base Game Achievements:
   Description: Finish a run with 25 arenas
   GS: '60'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 5%
-  Ratio: 4.44
-  TA: '266'
+  Number of Gamers: 4
+  Percentage of Gamers: 4%
+  Ratio: 5.0
+  TA: '300'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -42,10 +42,10 @@ Base Game Achievements:
   Description: Finish a run with 50 arenas
   GS: '60'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 3%
-  Ratio: 5.74
-  TA: '344'
+  Number of Gamers: 2
+  Percentage of Gamers: 2%
+  Ratio: 7.07
+  TA: '424'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -53,9 +53,9 @@ Base Game Achievements:
   Description: Finish a run with 100 arenas
   GS: '70'
   Guide: true
-  Number of Gamers: 1
-  Percentage of Gamers: 1%
-  Ratio: 1.0
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
   TA: '70'
   Tags:
   - Unobtainable
@@ -63,10 +63,10 @@ Base Game Achievements:
   Description: Finish a run with at least 10 areans without getting hit
   GS: '70'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 2%
-  Ratio: 7.03
-  TA: '492'
+  Number of Gamers: 1
+  Percentage of Gamers: 1%
+  Ratio: 10.0
+  TA: '700'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -74,10 +74,10 @@ Base Game Achievements:
   Description: Defeat the Big Drone
   GS: '60'
   Guide: false
-  Number of Gamers: 34
-  Percentage of Gamers: 34%
-  Ratio: 1.7
-  TA: '102'
+  Number of Gamers: 37
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '98'
   Tags:
   - Offline Mode
   - Single Player
@@ -88,8 +88,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 32
   Percentage of Gamers: 32%
-  Ratio: 1.75
-  TA: '105'
+  Ratio: 1.76
+  TA: '106'
   Tags:
   - Offline Mode
   - Single Player
@@ -100,7 +100,7 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 40
   Percentage of Gamers: 40%
-  Ratio: 1.57
+  Ratio: 1.58
   TA: '94'
   Tags:
   - Offline Mode
@@ -110,10 +110,10 @@ Base Game Achievements:
   Description: Fall down 5 times
   GS: '60'
   Guide: false
-  Number of Gamers: 65
+  Number of Gamers: 66
   Percentage of Gamers: 66%
   Ratio: 1.23
-  TA: '74'
+  TA: '73'
   Tags:
   - Offline Mode
   - Single Player
@@ -122,10 +122,10 @@ Base Game Achievements:
   Description: Hit 5 enemies at once with the nova
   GS: '60'
   Guide: false
-  Number of Gamers: 22
-  Percentage of Gamers: 22%
-  Ratio: 2.12
-  TA: '127'
+  Number of Gamers: 21
+  Percentage of Gamers: 21%
+  Ratio: 2.18
+  TA: '130'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -133,10 +133,10 @@ Base Game Achievements:
   Description: Push 10 enemies into the abyss
   GS: '60'
   Guide: false
-  Number of Gamers: 19
-  Percentage of Gamers: 19%
-  Ratio: 2.28
-  TA: '136'
+  Number of Gamers: 18
+  Percentage of Gamers: 18%
+  Ratio: 2.35
+  TA: '141'
   Tags:
   - Offline Mode
   - Single Player
@@ -145,10 +145,10 @@ Base Game Achievements:
   Description: Destroy all environments in one Arena
   GS: '60'
   Guide: false
-  Number of Gamers: 46
-  Percentage of Gamers: 46%
-  Ratio: 1.46
-  TA: '88'
+  Number of Gamers: 45
+  Percentage of Gamers: 45%
+  Ratio: 1.49
+  TA: '89'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -156,9 +156,9 @@ Base Game Achievements:
   Description: Upgrade a skill to level 12
   GS: '70'
   Guide: true
-  Number of Gamers: 1
-  Percentage of Gamers: 1%
-  Ratio: 1.0
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
   TA: '70'
   Tags:
   - Unobtainable
@@ -166,31 +166,31 @@ Base Game Achievements:
   Description: Upgrade an attribute to level 50
   GS: '130'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 2%
-  Ratio: 7.03
-  TA: '914'
+  Number of Gamers: 1
+  Percentage of Gamers: 1%
+  Ratio: 10.0
+  TA: 1,300
   Tags:
   - Offline Mode
   - Single Player
   - Level
-Base Ratio: 3.067
-Base TA: 3067
+Base Ratio: 3.781
+Base TA: 3781
 Delisted: false
 Developer: EpiXR Games
 Game Name: Deleted - Cyber Invasion
 Genres: Roguelite, Shoot 'em up
 Install Size: 1200.0
-Number of Completions: 1
-Number of Gamers: 99
+Number of Completions: 0
+Number of Gamers: 100
 Overall Completion Time:
-- 28
-- 29
+- -1
+- -1
 Overall GS: 1000
-Overall Ratio: 3.067
-Overall TA: 3067
+Overall Ratio: 3.781
+Overall TA: 3781
 PDU: 0
-Percentage Completed: 1.01
+Percentage Completed: 0.0
 Publisher: EpiXR Games
 Release Date: 19 December 2023
 Server Closure: false

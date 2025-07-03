@@ -1,26 +1,25 @@
 Add On Achievements: []
 Base Completion Time:
-- 0.0
-- 2.0
+- 0.5
+- 3.0
 Base GS: 5000
 Base Game Achievements:
 - Achievement Name: First steps
   Description: Complete tutorial
   GS: '100'
   Guide: false
-  Number of Gamers: 1685
+  Number of Gamers: 1854
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '100'
   Tags:
-  - Offline Mode
+  - Offline Game Mode
   - Single Player
-  - Main Storyline
 - Achievement Name: Birder
   Description: Kill 2 birds
   GS: '100'
   Guide: false
-  Number of Gamers: 1659
+  Number of Gamers: 1826
   Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '100'
@@ -32,7 +31,7 @@ Base Game Achievements:
   Description: Over 5000 meters
   GS: '100'
   Guide: false
-  Number of Gamers: 1671
+  Number of Gamers: 1838
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -44,7 +43,7 @@ Base Game Achievements:
   Description: Accelerate to 100 km/h
   GS: '100'
   Guide: false
-  Number of Gamers: 1667
+  Number of Gamers: 1833
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -55,7 +54,7 @@ Base Game Achievements:
   Description: Buy a gun
   GS: '100'
   Guide: false
-  Number of Gamers: 1682
+  Number of Gamers: 1849
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '100'
@@ -67,7 +66,7 @@ Base Game Achievements:
   Description: Buy a push bar
   GS: '100'
   Guide: false
-  Number of Gamers: 1667
+  Number of Gamers: 1834
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -79,7 +78,7 @@ Base Game Achievements:
   Description: Paint a car
   GS: '100'
   Guide: false
-  Number of Gamers: 1665
+  Number of Gamers: 1833
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -91,7 +90,7 @@ Base Game Achievements:
   Description: Upgrade to max
   GS: '100'
   Guide: false
-  Number of Gamers: 1664
+  Number of Gamers: 1830
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -103,7 +102,7 @@ Base Game Achievements:
   Description: Destroy 70 barrels
   GS: '100'
   Guide: false
-  Number of Gamers: 1664
+  Number of Gamers: 1830
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -115,7 +114,7 @@ Base Game Achievements:
   Description: Buy a new car
   GS: '100'
   Guide: false
-  Number of Gamers: 1656
+  Number of Gamers: 1823
   Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '100'
@@ -123,33 +122,33 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Shop
-Base Ratio: 1.2284
-Base TA: 6142
+Base Ratio: 1.0986
+Base TA: 5493
 Delisted: false
 Developer: Brinemedia
 Game Name: Zombie Derby (Windows)
 Genres: Action
 Install Size: 124.0
-Number of Completions: 370
-Number of Gamers: 1688
+Number of Completions: 921
+Number of Gamers: 1857
 Overall Completion Time:
-- 0.0
 - 0.5
+- 3.0
 Overall GS: 5000
-Overall Ratio: 1.2284
-Overall TA: 6142
+Overall Ratio: 1.0986
+Overall TA: 5493
 PDU: 0
-Percentage Completed: 21.92
+Percentage Completed: 49.6
 Publisher: Brinemedia
 Release Date: 24 August 2023
 Server Closure: false
-Site Rating: 2.58
+Site Rating: 2.52
 Update Achievements:
 - Achievement Name: Butcher I
   Description: Kill 200 zombies
   GS: '200'
   Guide: false
-  Number of Gamers: 1666
+  Number of Gamers: 1833
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '201'
@@ -161,7 +160,7 @@ Update Achievements:
   Description: Kill 400 zombies
   GS: '200'
   Guide: false
-  Number of Gamers: 1660
+  Number of Gamers: 1825
   Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '201'
@@ -173,7 +172,7 @@ Update Achievements:
   Description: Kill 600 zombies
   GS: '200'
   Guide: false
-  Number of Gamers: 1649
+  Number of Gamers: 1817
   Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '202'
@@ -185,8 +184,8 @@ Update Achievements:
   Description: Kill 800 zombies
   GS: '200'
   Guide: false
-  Number of Gamers: 1643
-  Percentage of Gamers: 97%
+  Number of Gamers: 1811
+  Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '202'
   Tags:
@@ -197,7 +196,7 @@ Update Achievements:
   Description: Kill 1000 zombies
   GS: '200'
   Guide: false
-  Number of Gamers: 1633
+  Number of Gamers: 1800
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '203'
@@ -209,10 +208,10 @@ Update Achievements:
   Description: Earn 1000 coins
   GS: '200'
   Guide: false
-  Number of Gamers: 1582
-  Percentage of Gamers: 94%
-  Ratio: 1.03
-  TA: '206'
+  Number of Gamers: 1756
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '205'
   Tags:
   - Offline Mode
   - Single Player
@@ -221,10 +220,10 @@ Update Achievements:
   Description: Earn 2000 coins
   GS: '200'
   Guide: false
-  Number of Gamers: 1576
-  Percentage of Gamers: 93%
-  Ratio: 1.03
-  TA: '206'
+  Number of Gamers: 1751
+  Percentage of Gamers: 94%
+  Ratio: 1.02
+  TA: '205'
   Tags:
   - Offline Mode
   - Single Player
@@ -233,10 +232,10 @@ Update Achievements:
   Description: Earn 3000 coins
   GS: '200'
   Guide: false
-  Number of Gamers: 1562
-  Percentage of Gamers: 93%
+  Number of Gamers: 1738
+  Percentage of Gamers: 94%
   Ratio: 1.03
-  TA: '207'
+  TA: '206'
   Tags:
   - Offline Mode
   - Single Player
@@ -245,10 +244,10 @@ Update Achievements:
   Description: Earn 4000 coins
   GS: '200'
   Guide: false
-  Number of Gamers: 1555
-  Percentage of Gamers: 92%
-  Ratio: 1.04
-  TA: '208'
+  Number of Gamers: 1731
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '207'
   Tags:
   - Offline Mode
   - Single Player
@@ -257,10 +256,10 @@ Update Achievements:
   Description: Earn 5000 coins
   GS: '200'
   Guide: true
-  Number of Gamers: 1550
-  Percentage of Gamers: 92%
-  Ratio: 1.04
-  TA: '208'
+  Number of Gamers: 1725
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '207'
   Tags:
   - Offline Mode
   - Single Player
@@ -269,10 +268,10 @@ Update Achievements:
   Description: Do 5 flips
   GS: '200'
   Guide: false
-  Number of Gamers: 1388
-  Percentage of Gamers: 82%
-  Ratio: 1.1
-  TA: '220'
+  Number of Gamers: 1589
+  Percentage of Gamers: 86%
+  Ratio: 1.08
+  TA: '216'
   Tags:
   - Offline Mode
   - Single Player
@@ -281,10 +280,10 @@ Update Achievements:
   Description: Do 10 flips
   GS: '200'
   Guide: false
-  Number of Gamers: 1380
-  Percentage of Gamers: 82%
-  Ratio: 1.1
-  TA: '221'
+  Number of Gamers: 1578
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '217'
   Tags:
   - Offline Mode
   - Single Player
@@ -293,10 +292,10 @@ Update Achievements:
   Description: Do 15 flips
   GS: '200'
   Guide: false
-  Number of Gamers: 1377
-  Percentage of Gamers: 82%
-  Ratio: 1.1
-  TA: '221'
+  Number of Gamers: 1573
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '217'
   Tags:
   - Offline Mode
   - Single Player
@@ -305,10 +304,10 @@ Update Achievements:
   Description: Do 20 flips
   GS: '200'
   Guide: false
-  Number of Gamers: 1375
-  Percentage of Gamers: 81%
-  Ratio: 1.1
-  TA: '221'
+  Number of Gamers: 1572
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '217'
   Tags:
   - Offline Mode
   - Single Player
@@ -317,10 +316,10 @@ Update Achievements:
   Description: Do 25 flips
   GS: '200'
   Guide: false
-  Number of Gamers: 1372
-  Percentage of Gamers: 81%
-  Ratio: 1.1
-  TA: '221'
+  Number of Gamers: 1568
+  Percentage of Gamers: 84%
+  Ratio: 1.08
+  TA: '217'
   Tags:
   - Offline Mode
   - Single Player
@@ -328,11 +327,11 @@ Update Achievements:
 - Achievement Name: Level 1
   Description: Complete the level
   GS: '200'
-  Guide: false
-  Number of Gamers: 505
-  Percentage of Gamers: 30%
-  Ratio: 1.83
-  TA: '366'
+  Guide: true
+  Number of Gamers: 1086
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '262'
   Tags:
   - Offline Mode
   - Single Player
@@ -341,10 +340,10 @@ Update Achievements:
   Description: Complete the level
   GS: '200'
   Guide: false
-  Number of Gamers: 453
-  Percentage of Gamers: 27%
-  Ratio: 1.93
-  TA: '386'
+  Number of Gamers: 1020
+  Percentage of Gamers: 55%
+  Ratio: 1.35
+  TA: '270'
   Tags:
   - Offline Mode
   - Single Player
@@ -353,10 +352,10 @@ Update Achievements:
   Description: Complete the level
   GS: '200'
   Guide: false
-  Number of Gamers: 422
-  Percentage of Gamers: 25%
-  Ratio: 2.0
-  TA: '401'
+  Number of Gamers: 981
+  Percentage of Gamers: 53%
+  Ratio: 1.37
+  TA: '275'
   Tags:
   - Offline Mode
   - Single Player
@@ -365,10 +364,10 @@ Update Achievements:
   Description: Complete the level
   GS: '200'
   Guide: false
-  Number of Gamers: 396
-  Percentage of Gamers: 23%
-  Ratio: 2.06
-  TA: '413'
+  Number of Gamers: 952
+  Percentage of Gamers: 51%
+  Ratio: 1.39
+  TA: '279'
   Tags:
   - Offline Mode
   - Single Player
@@ -377,10 +376,10 @@ Update Achievements:
   Description: Complete the level
   GS: '200'
   Guide: true
-  Number of Gamers: 369
-  Percentage of Gamers: 22%
-  Ratio: 2.14
-  TA: '428'
+  Number of Gamers: 923
+  Percentage of Gamers: 50%
+  Ratio: 1.42
+  TA: '284'
   Tags:
   - Offline Mode
   - Single Player

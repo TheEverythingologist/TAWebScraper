@@ -1,333 +1,155 @@
 Add On Achievements: []
 Base Completion Time:
-- 200.0
-- 300.0
+- 78
+- 79
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: The Rookie
-  Description: Achieve Combat level 10
-  GS: '5'
-  Guide: true
-  Number of Gamers: 98375
-  Percentage of Gamers: 97%
-  Ratio: 1.01
-  TA: '5'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Level
-- Achievement Name: The Dark Horse
-  Description: Achieve Combat level 20.
-  GS: '10'
-  Guide: true
-  Number of Gamers: 40588
-  Percentage of Gamers: 40%
-  Ratio: 1.58
-  TA: '15'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Level
-- Achievement Name: The Veteran
-  Description: Achieve Combat level 30.
-  GS: '15'
-  Guide: true
-  Number of Gamers: 25865
-  Percentage of Gamers: 25%
-  Ratio: 1.98
-  TA: '29'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Level
-- Achievement Name: The Undaunted One
-  Description: Achieve Combat level 40.
+  Description: Achieve Season Character Combat level 20
   GS: '20'
-  Guide: true
-  Number of Gamers: 21329
-  Percentage of Gamers: 21%
-  Ratio: 2.18
-  TA: '43'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Level
-- Achievement Name: The Great One
-  Description: Achieve Combat Level 50.
-  GS: '30'
-  Guide: true
-  Number of Gamers: 16998
+  Guide: false
+  Number of Gamers: 21
   Percentage of Gamers: 17%
-  Ratio: 2.44
-  TA: '73'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Level
-- Achievement Name: The Ascended
-  Description: Achieve Combat Level 55.
+  Ratio: 2.61
+  TA: '52'
+  Tags: []
+- Achievement Name: The Dark Horse
+  Description: Achieve Season Character Combat level 40.
   GS: '40'
-  Guide: true
-  Number of Gamers: 10255
-  Percentage of Gamers: 10%
-  Ratio: 3.14
-  TA: '125'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Level
-- Achievement Name: Soldier of Fortune
-  Description: Achieve Combat Level 56.
-  GS: '100'
-  Guide: true
-  Number of Gamers: 9127
-  Percentage of Gamers: 9%
-  Ratio: 3.33
-  TA: '333'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Level
-- Achievement Name: Can you dig it?
-  Description: Achieve Gathering Level 10.
-  GS: '10'
-  Guide: true
-  Number of Gamers: 16127
-  Percentage of Gamers: 16%
-  Ratio: 2.5
-  TA: '25'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Level
-- Achievement Name: Early Spring Gatherer
-  Description: Achieve Gathering Level 31.
-  GS: '50'
-  Guide: true
-  Number of Gamers: 11115
+  Guide: false
+  Number of Gamers: 14
   Percentage of Gamers: 11%
-  Ratio: 3.02
-  TA: '151'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Level
-- Achievement Name: Artisan Craftsman
-  Description: Achieve Processing Level 11.
-  GS: '10'
-  Guide: true
-  Number of Gamers: 7041
+  Ratio: 4.0
+  TA: '160'
+  Tags: []
+- Achievement Name: The Veteran
+  Description: Achieve Combat level 56.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 9
   Percentage of Gamers: 7%
-  Ratio: 3.79
-  TA: '37'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Level
-- Achievement Name: Firm Machinist
-  Description: Achieve Processing Level 41.
-  GS: '50'
-  Guide: true
-  Number of Gamers: 2141
-  Percentage of Gamers: 2%
-  Ratio: 6.88
-  TA: '344'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Level
-- Achievement Name: Reel Big Fish
-  Description: Achieve Fishing Level 21.
-  GS: '10'
+  Ratio: 4.89
+  TA: '244'
+  Tags: []
+- Achievement Name: The Undaunted One
+  Description: Achieve Season Character Combat level 60.
+  GS: '60'
   Guide: false
-  Number of Gamers: 3800
-  Percentage of Gamers: 4%
-  Ratio: 5.16
-  TA: '51'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Level
-- Achievement Name: Fishing Guru
-  Description: Achieve Fishing Level 51.
-  GS: '50'
-  Guide: true
-  Number of Gamers: 1379
-  Percentage of Gamers: 1%
-  Ratio: 8.58
-  TA: '429'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Level
-  - Time Consuming
-- Achievement Name: A Man and His Horse
-  Description: Achieve Training Level 11.
-  GS: '20'
-  Guide: true
-  Number of Gamers: 9884
-  Percentage of Gamers: 10%
-  Ratio: 3.2
-  TA: '64'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Level
-- Achievement Name: Derby Horse Trainer
-  Description: Achieve Training Level 31.
-  GS: '70'
-  Guide: true
-  Number of Gamers: 1946
-  Percentage of Gamers: 2%
-  Ratio: 7.22
-  TA: '505'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Level
-- Achievement Name: Volunteer
-  Description: Achieve 10 contribution points.
-  GS: '10'
-  Guide: true
-  Number of Gamers: 46011
-  Percentage of Gamers: 45%
-  Ratio: 1.48
-  TA: '14'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Level
-- Achievement Name: Joyful Contributor
-  Description: Achieve 50 contribution points.
-  GS: '30'
-  Guide: true
-  Number of Gamers: 25737
-  Percentage of Gamers: 25%
-  Ratio: 1.98
-  TA: '59'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Level
-- Achievement Name: Recognized By All
-  Description: Achieve 150 contribution points.
+  Number of Gamers: 4
+  Percentage of Gamers: 3%
+  Ratio: 7.81
+  TA: '468'
+  Tags: []
+- Achievement Name: Con-Graduation!
+  Description: Graduate your Season Character
   GS: '100'
-  Guide: true
-  Number of Gamers: 8064
-  Percentage of Gamers: 8%
-  Ratio: 3.54
-  TA: '354'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Level
+  Guide: false
+  Number of Gamers: 3
+  Percentage of Gamers: 2%
+  Ratio: 9.74
+  TA: '974'
+  Tags: []
 - Achievement Name: Didn't Even Break a Sweat
-  Description: Succeed 5 enchant attempts.
-  GS: '10'
-  Guide: true
-  Number of Gamers: 27077
-  Percentage of Gamers: 27%
-  Ratio: 1.93
-  TA: '19'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Cumulative +
-- Achievement Name: Heeheehee
-  Description: Succeed 20 enchant attempts.
-  GS: '20'
+  Description: Successfully enhance your equipment
+  GS: '30'
   Guide: false
-  Number of Gamers: 15732
-  Percentage of Gamers: 15%
-  Ratio: 2.54
-  TA: '50'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Cumulative +
-- Achievement Name: Alright!
-  Description: Succeed 50 enchant attempts.
+  Number of Gamers: 92
+  Percentage of Gamers: 75%
+  Ratio: 1.1
+  TA: '33'
+  Tags: []
+- Achievement Name: Soldier of Fortune
+  Description: Defeat a monster from Dark Rift
   GS: '50'
   Guide: false
-  Number of Gamers: 10885
-  Percentage of Gamers: 11%
-  Ratio: 3.05
-  TA: '152'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Cumulative +
-- Achievement Name: Black Stone Illusionist
-  Description: Succeed 200 enchant attempts.
-  GS: '120'
-  Guide: true
-  Number of Gamers: 5744
-  Percentage of Gamers: 6%
-  Ratio: 4.2
-  TA: '504'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Cumulative +
-- Achievement Name: Rookie Explorer
-  Description: Discover 10 nodes.
-  GS: '20'
-  Guide: true
-  Number of Gamers: 71882
-  Percentage of Gamers: 71%
-  Ratio: 1.18
-  TA: '23'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Collectable
-  - Cumulative +
-- Achievement Name: Skilled Explorer
-  Description: Discover 30 nodes.
+  Number of Gamers: 56
+  Percentage of Gamers: 46%
+  Ratio: 1.63
+  TA: '81'
+  Tags: []
+- Achievement Name: Savior of Calpheon
+  Description: Defeat Kzarka, the Lord of Corruption
   GS: '50'
-  Guide: true
-  Number of Gamers: 42609
-  Percentage of Gamers: 42%
-  Ratio: 1.54
-  TA: '77'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Collectable
-  - Cumulative +
-- Achievement Name: Pioneer
-  Description: Discover 50 nodes.
+  Guide: false
+  Number of Gamers: 9
+  Percentage of Gamers: 7%
+  Ratio: 4.0
+  TA: '200'
+  Tags: []
+- Achievement Name: A Dragon Slayer
+  Description: Defeat Garmoth, the overlord of Drieghan.
   GS: '100'
-  Guide: true
-  Number of Gamers: 28590
-  Percentage of Gamers: 28%
-  Ratio: 1.88
-  TA: '188'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Collectable
-  - Cumulative +
-Base Ratio: 3.669
-Base TA: 3669
+  Guide: false
+  Number of Gamers: 3
+  Percentage of Gamers: 2%
+  Ratio: 7.74
+  TA: '774'
+  Tags: []
+- Achievement Name: Reel Big Fish
+  Description: Reel fish with yellow grade
+  GS: '100'
+  Guide: false
+  Number of Gamers: 47
+  Percentage of Gamers: 38%
+  Ratio: 1.73
+  TA: '173'
+  Tags: []
+- Achievement Name: Derby Horse Trainer
+  Description: Train a wild horse to your companion.
+  GS: '100'
+  Guide: false
+  Number of Gamers: 14
+  Percentage of Gamers: 11%
+  Ratio: 2.44
+  TA: '244'
+  Tags: []
+- Achievement Name: Witch, Please
+  Description: Obtain Witch's Delicacy
+  GS: '100'
+  Guide: false
+  Number of Gamers: 23
+  Percentage of Gamers: 19%
+  Ratio: 2.61
+  TA: '261'
+  Tags: []
+- Achievement Name: What's in the Flask?
+  Description: Obtain Mysterious Catalyst
+  GS: '100'
+  Guide: false
+  Number of Gamers: 15
+  Percentage of Gamers: 12%
+  Ratio: 3.09
+  TA: '309'
+  Tags: []
+- Achievement Name: Whispers of the Forest
+  Description: Obtain Fairy's Breath
+  GS: '100'
+  Guide: false
+  Number of Gamers: 36
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '185'
+  Tags: []
+Base Ratio: 4.159
+Base TA: 4159
 Delisted: false
 Developer: PearlAbyss
 Game Name: Black Desert
 Genres: Action-RPG, Role Playing, Open World, MMO
-Install Size: 82160.0
-Number of Completions: 1055
-Number of Gamers: 101638
+Install Size: 87200.0
+Number of Completions: 1
+Number of Gamers: 123
 Overall Completion Time:
-- 200.0
-- 300.0
+- 78
+- 79
 Overall GS: 1000
-Overall Ratio: 3.669
-Overall TA: 3669
+Overall Ratio: 4.159
+Overall TA: 4159
 PDU: 0
-Percentage Completed: 1.04
+Percentage Completed: 0.81
 Publisher: PearlAbyss
-Release Date: 04 March 2019
+Release Date: 26 June 2025
 Server Closure: false
-Site Rating: 3.29
+Site Rating: None
 Update Achievements: []
 Walkthrough: false

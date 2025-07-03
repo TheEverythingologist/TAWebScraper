@@ -1,308 +1,400 @@
 Add On Achievements: []
 Base Completion Time:
-- 9
-- 10
+- 7
+- 8
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: That Escalated Quickly
   Description: Escape Deja and Arthur.
   GS: '30'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 21%
-  Ratio: 2.2
-  TA: '66'
-  Tags: []
+  Number of Gamers: 11
+  Percentage of Gamers: 24%
+  Ratio: 2.02
+  TA: '60'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Totally Incompetent
   Description: The investigation was halted before it even began.
   GS: '30'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 50%
-  Ratio: 1.41
-  TA: '42'
-  Tags: []
+  Number of Gamers: 24
+  Percentage of Gamers: 53%
+  Ratio: 1.36
+  TA: '41'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Dead End
   Description: Finish Forensics.
   GS: '30'
   Guide: false
-  Number of Gamers: 22
-  Percentage of Gamers: 65%
+  Number of Gamers: 29
+  Percentage of Gamers: 64%
   Ratio: 1.24
   TA: '37'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Bullpen
   Description: Finish interviewing D'Marco.
   GS: '30'
   Guide: false
-  Number of Gamers: 22
-  Percentage of Gamers: 65%
+  Number of Gamers: 29
+  Percentage of Gamers: 64%
   Ratio: 1.24
   TA: '37'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Not a Thing
   Description: Talk to Meg on her break.
   GS: '30'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 47%
-  Ratio: 1.45
-  TA: '43'
-  Tags: []
+  Number of Gamers: 22
+  Percentage of Gamers: 49%
+  Ratio: 1.43
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: File Folder
   Description: Talk to Harry in Records.
   GS: '30'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 47%
-  Ratio: 1.45
-  TA: '43'
-  Tags: []
+  Number of Gamers: 22
+  Percentage of Gamers: 49%
+  Ratio: 1.43
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Unavoidable Apocalypse
   Description: Rescue a survivor in Outbreak RPG.
   GS: '30'
-  Guide: false
-  Number of Gamers: 20
-  Percentage of Gamers: 59%
-  Ratio: 1.3
+  Guide: true
+  Number of Gamers: 26
+  Percentage of Gamers: 58%
+  Ratio: 1.31
   TA: '39'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Coward
   Description: "Lydia decides it wasn\u2019t worth the risk to find Sanchez."
   GS: '30'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 24%
-  Ratio: 2.06
-  TA: '61'
-  Tags: []
+  Number of Gamers: 13
+  Percentage of Gamers: 29%
+  Ratio: 1.86
+  TA: '55'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Flatfoot
   Description: Complete the station investigation.
   GS: '30'
   Guide: false
-  Number of Gamers: 20
-  Percentage of Gamers: 59%
-  Ratio: 1.3
-  TA: '39'
-  Tags: []
+  Number of Gamers: 27
+  Percentage of Gamers: 60%
+  Ratio: 1.29
+  TA: '38'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: The Future Cast
   Description: Rescue all survivors in Outbreak RPG.
   GS: '100'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 21%
-  Ratio: 2.2
-  TA: '220'
-  Tags: []
+  Number of Gamers: 12
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '193'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: RIP Lydia
   Description: Lydia does not survive the sewer encounter.
   GS: '30'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 26%
-  Ratio: 1.94
-  TA: '58'
-  Tags: []
+  Number of Gamers: 13
+  Percentage of Gamers: 29%
+  Ratio: 1.86
+  TA: '55'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: I Need a Break
   Description: Meg does not like you.
   GS: '30'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 24%
-  Ratio: 2.06
-  TA: '61'
-  Tags: []
+  Number of Gamers: 12
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '58'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Apologies, Kid
   Description: Awww! Meg likes you!
   GS: '30'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 35%
-  Ratio: 1.68
-  TA: '50'
-  Tags: []
+  Number of Gamers: 17
+  Percentage of Gamers: 38%
+  Ratio: 1.62
+  TA: '48'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Tomorrow is Another Game
   Description: Complete the story.
   GS: '30'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 29%
-  Ratio: 1.84
-  TA: '55'
-  Tags: []
+  Number of Gamers: 15
+  Percentage of Gamers: 33%
+  Ratio: 1.73
+  TA: '51'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
 - Achievement Name: Sacrifice
   Description: Sacrifice Meg to the Monster to save yourself.
   GS: '30'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 15%
-  Ratio: 2.6
-  TA: '78'
-  Tags: []
+  Number of Gamers: 8
+  Percentage of Gamers: 18%
+  Ratio: 2.37
+  TA: '71'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Tight Squeeze
   Description: Save Meg after she has been shot.
   GS: '30'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 18%
-  Ratio: 2.38
-  TA: '71'
-  Tags: []
+  Number of Gamers: 10
+  Percentage of Gamers: 22%
+  Ratio: 2.12
+  TA: '63'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Smoke and Mirrors
   Description: Team up with Meg!
   GS: '30'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 21%
-  Ratio: 2.2
-  TA: '66'
-  Tags: []
+  Number of Gamers: 11
+  Percentage of Gamers: 24%
+  Ratio: 2.02
+  TA: '60'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Keep Your Nose Clean
   Description: Harry does not defend you.
   GS: '30'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 15%
-  Ratio: 2.6
-  TA: '78'
-  Tags: []
+  Number of Gamers: 8
+  Percentage of Gamers: 18%
+  Ratio: 2.37
+  TA: '71'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Multiplayer
   Description: Both Meg and Harry have joined your team!
   GS: '30'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 15%
-  Ratio: 2.6
-  TA: '78'
-  Tags: []
+  Number of Gamers: 8
+  Percentage of Gamers: 18%
+  Ratio: 2.37
+  TA: '71'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: CHOMP!
   Description: Fail to escape Arthur.
   GS: '30'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 18%
-  Ratio: 2.38
-  TA: '71'
-  Tags: []
+  Number of Gamers: 12
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '58'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Cause a Scene
   Description: Cause a scene, get attention.
   GS: '30'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 18%
-  Ratio: 2.38
-  TA: '71'
-  Tags: []
+  Number of Gamers: 9
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '67'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: "WTF D\u2019Marco!"
   Description: "D\u2019Marco abandons Lydia."
   GS: '30'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 18%
-  Ratio: 2.38
-  TA: '71'
-  Tags: []
+  Number of Gamers: 10
+  Percentage of Gamers: 22%
+  Ratio: 2.12
+  TA: '63'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Oopsie!
   Description: Release a Monster on Cypress Ridge.
   GS: '30'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 41%
-  Ratio: 1.55
-  TA: '46'
-  Tags: []
+  Number of Gamers: 18
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '47'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Sweetie Pie!
   Description: The monster does not like funky beats.
   GS: '30'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 12%
-  Ratio: 2.91
-  TA: '87'
-  Tags: []
+  Number of Gamers: 6
+  Percentage of Gamers: 13%
+  Ratio: 2.73
+  TA: '82'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Not Canon!
   Description: This ending is not canon, but yeah you chose to side with the bad guys.
   GS: '30'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 18%
-  Ratio: 2.38
-  TA: '71'
-  Tags: []
+  Number of Gamers: 10
+  Percentage of Gamers: 22%
+  Ratio: 2.12
+  TA: '63'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Injecting Commentary
   Description: Deja got to the point.
   GS: '30'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 21%
-  Ratio: 2.2
-  TA: '66'
-  Tags: []
+  Number of Gamers: 11
+  Percentage of Gamers: 24%
+  Ratio: 2.02
+  TA: '60'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Fateful Encounter
   Description: Defeat all enemies during a battle in Outbreak RPG.
   GS: '30'
-  Guide: false
-  Number of Gamers: 26
+  Guide: true
+  Number of Gamers: 34
   Percentage of Gamers: 76%
-  Ratio: 1.14
+  Ratio: 1.15
   TA: '34'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: I've Seen You Somewhere
   Description: Defeat a Brute in Outbreak RPG.
   GS: '30'
-  Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 24%
-  Ratio: 2.06
-  TA: '61'
-  Tags: []
+  Guide: true
+  Number of Gamers: 13
+  Percentage of Gamers: 29%
+  Ratio: 1.86
+  TA: '55'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Hit Them With Anything!
   Description: Defeat an enemy using a melee attack in Outbreak RPG.
   GS: '30'
-  Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 29%
-  Ratio: 1.84
-  TA: '55'
-  Tags: []
+  Guide: true
+  Number of Gamers: 15
+  Percentage of Gamers: 33%
+  Ratio: 1.73
+  TA: '51'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Superior Firepower
   Description: Upgrade any character's weapon to LV 10 in Outbreak RPG.
   GS: '30'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 29%
-  Ratio: 1.84
-  TA: '55'
-  Tags: []
+  Number of Gamers: 15
+  Percentage of Gamers: 33%
+  Ratio: 1.73
+  TA: '51'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: An Absolute Nightmare
   Description: Complete Outbreak RPG on Nightmare Difficulty.
   GS: '30'
-  Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 6%
-  Ratio: 4.12
-  TA: '123'
-  Tags: []
-Base Ratio: 2.033
-Base TA: 2033
+  Guide: true
+  Number of Gamers: 4
+  Percentage of Gamers: 9%
+  Ratio: 3.35
+  TA: '100'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+Base Ratio: 1.863
+Base TA: 1863
 Delisted: false
 Developer: Dead Drop Studios
 Game Name: 'Outbreak The Fedora Files: What Lydia Knows'
 Genres: Role Playing, Turn Based
 Install Size: 1510.0
-Number of Completions: 2
-Number of Gamers: 34
+Number of Completions: 4
+Number of Gamers: 45
 Overall Completion Time:
-- 9
-- 10
+- 7
+- 8
 Overall GS: 1000
-Overall Ratio: 2.033
-Overall TA: 2033
+Overall Ratio: 1.863
+Overall TA: 1863
 PDU: 0
-Percentage Completed: 5.88
+Percentage Completed: 8.89
 Publisher: Dead Drop Studios
 Release Date: 17 May 2024
 Server Closure: false
-Site Rating: None
+Site Rating: 2.0
 Update Achievements: []
 Walkthrough: false

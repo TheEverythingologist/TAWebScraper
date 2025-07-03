@@ -1,15 +1,15 @@
 Add On Achievements: []
 Base Completion Time:
-- 6.0
-- 8.0
-Base GS: 2000
+- 7.0
+- 10.0
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: New owner
   Description: Buy your first car.
   GS: '20'
   Guide: false
-  Number of Gamers: 743
-  Percentage of Gamers: 98%
+  Number of Gamers: 904
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '20'
   Tags:
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Win your first race.
   GS: '40'
   Guide: false
-  Number of Gamers: 652
-  Percentage of Gamers: 86%
+  Number of Gamers: 798
+  Percentage of Gamers: 87%
   Ratio: 1.07
-  TA: '43'
+  TA: '42'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Win your first rally.
   GS: '40'
   Guide: false
-  Number of Gamers: 393
-  Percentage of Gamers: 52%
-  Ratio: 1.38
-  TA: '55'
+  Number of Gamers: 494
+  Percentage of Gamers: 54%
+  Ratio: 1.36
+  TA: '54'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Install an upgrade for the first time.
   GS: '40'
   Guide: true
-  Number of Gamers: 590
-  Percentage of Gamers: 78%
-  Ratio: 1.13
-  TA: '45'
+  Number of Gamers: 729
+  Percentage of Gamers: 80%
+  Ratio: 1.12
+  TA: '44'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Wash your car.
   GS: '40'
   Guide: true
-  Number of Gamers: 453
-  Percentage of Gamers: 60%
-  Ratio: 1.29
-  TA: '51'
+  Number of Gamers: 571
+  Percentage of Gamers: 62%
+  Ratio: 1.26
+  TA: '50'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,9 +68,9 @@ Base Game Achievements:
   Description: Change the oil.
   GS: '40'
   Guide: true
-  Number of Gamers: 432
-  Percentage of Gamers: 57%
-  Ratio: 1.32
+  Number of Gamers: 538
+  Percentage of Gamers: 59%
+  Ratio: 1.3
   TA: '52'
   Tags:
   - Offline Mode
@@ -80,9 +80,9 @@ Base Game Achievements:
   Description: Visit the music room
   GS: '40'
   Guide: true
-  Number of Gamers: 421
-  Percentage of Gamers: 56%
-  Ratio: 1.34
+  Number of Gamers: 519
+  Percentage of Gamers: 57%
+  Ratio: 1.32
   TA: '53'
   Tags:
   - Offline Mode
@@ -92,10 +92,10 @@ Base Game Achievements:
   Description: You don't like to wash the car.
   GS: '40'
   Guide: true
-  Number of Gamers: 188
-  Percentage of Gamers: 25%
-  Ratio: 2.0
-  TA: '80'
+  Number of Gamers: 240
+  Percentage of Gamers: 26%
+  Ratio: 1.96
+  TA: '78'
   Tags:
   - Offline Mode
   - Single Player
@@ -104,8 +104,8 @@ Base Game Achievements:
   Description: Reach speed of 200 km/h.
   GS: '40'
   Guide: false
-  Number of Gamers: 416
-  Percentage of Gamers: 55%
+  Number of Gamers: 510
+  Percentage of Gamers: 56%
   Ratio: 1.34
   TA: '53'
   Tags:
@@ -116,10 +116,10 @@ Base Game Achievements:
   Description: Reach speed of 300 km/h.
   GS: '80'
   Guide: true
-  Number of Gamers: 170
+  Number of Gamers: 214
   Percentage of Gamers: 23%
-  Ratio: 2.11
-  TA: '169'
+  Ratio: 2.07
+  TA: '165'
   Tags:
   - Offline Mode
   - Single Player
@@ -128,9 +128,9 @@ Base Game Achievements:
   Description: Collect 5 cars.
   GS: '20'
   Guide: false
-  Number of Gamers: 396
-  Percentage of Gamers: 52%
-  Ratio: 1.38
+  Number of Gamers: 495
+  Percentage of Gamers: 54%
+  Ratio: 1.35
   TA: '27'
   Tags:
   - Offline Mode
@@ -141,10 +141,10 @@ Base Game Achievements:
   Description: Collect 10 cars.
   GS: '60'
   Guide: false
-  Number of Gamers: 297
-  Percentage of Gamers: 39%
-  Ratio: 1.59
-  TA: '95'
+  Number of Gamers: 370
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '94'
   Tags:
   - Offline Mode
   - Single Player
@@ -154,10 +154,10 @@ Base Game Achievements:
   Description: Collect 15 cars.
   GS: '80'
   Guide: false
-  Number of Gamers: 244
-  Percentage of Gamers: 32%
-  Ratio: 1.76
-  TA: '140'
+  Number of Gamers: 302
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '139'
   Tags:
   - Offline Mode
   - Single Player
@@ -167,10 +167,10 @@ Base Game Achievements:
   Description: Earn 6 stars.
   GS: '20'
   Guide: false
-  Number of Gamers: 477
-  Percentage of Gamers: 63%
-  Ratio: 1.26
-  TA: '25'
+  Number of Gamers: 595
+  Percentage of Gamers: 65%
+  Ratio: 1.24
+  TA: '24'
   Tags:
   - Offline Mode
   - Single Player
@@ -179,10 +179,10 @@ Base Game Achievements:
   Description: Earn 12 stars.
   GS: '60'
   Guide: false
-  Number of Gamers: 402
-  Percentage of Gamers: 53%
-  Ratio: 1.37
-  TA: '82'
+  Number of Gamers: 507
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '80'
   Tags:
   - Offline Mode
   - Single Player
@@ -191,10 +191,10 @@ Base Game Achievements:
   Description: Earn 18 stars.
   GS: '60'
   Guide: false
-  Number of Gamers: 323
-  Percentage of Gamers: 43%
-  Ratio: 1.52
-  TA: '91'
+  Number of Gamers: 405
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '90'
   Tags:
   - Offline Mode
   - Single Player
@@ -203,10 +203,10 @@ Base Game Achievements:
   Description: Earn 24 stars.
   GS: '80'
   Guide: false
-  Number of Gamers: 276
-  Percentage of Gamers: 37%
-  Ratio: 1.65
-  TA: '132'
+  Number of Gamers: 349
+  Percentage of Gamers: 38%
+  Ratio: 1.62
+  TA: '129'
   Tags:
   - Offline Mode
   - Single Player
@@ -215,10 +215,10 @@ Base Game Achievements:
   Description: Drive more than 25 kilometers.
   GS: '20'
   Guide: false
-  Number of Gamers: 559
-  Percentage of Gamers: 74%
-  Ratio: 1.16
-  TA: '23'
+  Number of Gamers: 692
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '22'
   Tags:
   - Offline Mode
   - Single Player
@@ -228,10 +228,10 @@ Base Game Achievements:
   Description: Drive more than 50 kilometers.
   GS: '40'
   Guide: false
-  Number of Gamers: 470
-  Percentage of Gamers: 62%
-  Ratio: 1.26
-  TA: '50'
+  Number of Gamers: 588
+  Percentage of Gamers: 64%
+  Ratio: 1.24
+  TA: '49'
   Tags:
   - Offline Mode
   - Single Player
@@ -241,10 +241,10 @@ Base Game Achievements:
   Description: Drive more than 100 kilometers.
   GS: '60'
   Guide: false
-  Number of Gamers: 376
-  Percentage of Gamers: 50%
-  Ratio: 1.41
-  TA: '85'
+  Number of Gamers: 467
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '84'
   Tags:
   - Offline Mode
   - Single Player
@@ -254,45 +254,45 @@ Base Game Achievements:
   Description: Drive more than 300 kilometers.
   GS: '80'
   Guide: false
-  Number of Gamers: 261
-  Percentage of Gamers: 35%
-  Ratio: 1.69
-  TA: '135'
+  Number of Gamers: 328
+  Percentage of Gamers: 36%
+  Ratio: 1.67
+  TA: '133'
   Tags:
   - Offline Mode
   - Single Player
   - Versus
   - Cumulative +
-Base Ratio: 1.6505
-Base TA: 3301
+Base Ratio: 1.9063333333333334
+Base TA: 5719
 Delisted: false
 Developer: ViJuDa, eastasiasoft
 Game Name: Super Woden GP II
 Genres: Arcade Racing, Automobile
 Install Size: 1100.0
-Number of Completions: 155
-Number of Gamers: 755
+Number of Completions: 126
+Number of Gamers: 915
 Overall Completion Time:
-- 6.0
-- 8.0
-Overall GS: 2000
-Overall Ratio: 1.6505
-Overall TA: 3301
+- 7.0
+- 10.0
+Overall GS: 3000
+Overall Ratio: 1.9063333333333334
+Overall TA: 5719
 PDU: 0
-Percentage Completed: 20.53
+Percentage Completed: 13.77
 Publisher: eastasiasoft
 Release Date: 24 July 2024
 Server Closure: false
-Site Rating: 3.99
+Site Rating: 3.72
 Update Achievements:
 - Achievement Name: Mega collector
   Description: Collect 18 cars.
   GS: '200'
   Guide: false
-  Number of Gamers: 220
-  Percentage of Gamers: 29%
-  Ratio: 1.85
-  TA: '370'
+  Number of Gamers: 278
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '363'
   Tags:
   - Offline Mode
   - Single Player
@@ -302,10 +302,10 @@ Update Achievements:
   Description: Collect 21 cars.
   GS: '200'
   Guide: false
-  Number of Gamers: 209
-  Percentage of Gamers: 28%
-  Ratio: 1.9
-  TA: '380'
+  Number of Gamers: 263
+  Percentage of Gamers: 29%
+  Ratio: 1.87
+  TA: '375'
   Tags:
   - Offline Mode
   - Single Player
@@ -315,10 +315,10 @@ Update Achievements:
   Description: Earn 28 stars.
   GS: '200'
   Guide: false
-  Number of Gamers: 263
-  Percentage of Gamers: 35%
-  Ratio: 1.69
-  TA: '339'
+  Number of Gamers: 329
+  Percentage of Gamers: 36%
+  Ratio: 1.67
+  TA: '334'
   Tags:
   - Offline Mode
   - Single Player
@@ -327,10 +327,10 @@ Update Achievements:
   Description: Earn 32 stars.
   GS: '200'
   Guide: false
-  Number of Gamers: 250
-  Percentage of Gamers: 33%
-  Ratio: 1.73
-  TA: '347'
+  Number of Gamers: 311
+  Percentage of Gamers: 34%
+  Ratio: 1.71
+  TA: '343'
   Tags:
   - Offline Mode
   - Single Player
@@ -339,10 +339,73 @@ Update Achievements:
   Description: Drive more than 400 kilometers.
   GS: '200'
   Guide: true
-  Number of Gamers: 232
-  Percentage of Gamers: 31%
-  Ratio: 1.79
-  TA: '359'
+  Number of Gamers: 291
+  Percentage of Gamers: 32%
+  Ratio: 1.77
+  TA: '355'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Hyper collector
+  Description: Collect 24 cars.
+  GS: '200'
+  Guide: false
+  Number of Gamers: 145
+  Percentage of Gamers: 16%
+  Ratio: 2.52
+  TA: '505'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Super collector
+  Description: Collect 27 cars.
+  GS: '200'
+  Guide: false
+  Number of Gamers: 141
+  Percentage of Gamers: 15%
+  Ratio: 2.55
+  TA: '511'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+  - Cumulative +
+- Achievement Name: Stars 7
+  Description: Earn 36 stars.
+  GS: '200'
+  Guide: false
+  Number of Gamers: 161
+  Percentage of Gamers: 18%
+  Ratio: 2.39
+  TA: '479'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: Stars 8
+  Description: Earn 40 stars.
+  GS: '200'
+  Guide: false
+  Number of Gamers: 156
+  Percentage of Gamers: 17%
+  Ratio: 2.43
+  TA: '487'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Versus
+- Achievement Name: 500 Km
+  Description: Drive more than 500 kilometers.
+  GS: '200'
+  Guide: false
+  Number of Gamers: 157
+  Percentage of Gamers: 17%
+  Ratio: 2.42
+  TA: '485'
   Tags:
   - Offline Mode
   - Single Player
