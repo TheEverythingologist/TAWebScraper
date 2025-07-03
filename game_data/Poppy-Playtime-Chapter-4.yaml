@@ -1,306 +1,399 @@
 Add On Achievements: []
 Base Completion Time:
-- 17
-- 18
+- 23
+- 24
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: "Don\u2019t Lose It This Time"
   Description: Obtain the Red Hand
   GS: '25'
   Guide: false
-  Number of Gamers: 318
-  Percentage of Gamers: 98%
+  Number of Gamers: 347
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '25'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Sanctuary
   Description: Arrive at the Safe Haven
   GS: '25'
   Guide: false
-  Number of Gamers: 262
-  Percentage of Gamers: 81%
-  Ratio: 1.1
+  Number of Gamers: 289
+  Percentage of Gamers: 82%
+  Ratio: 1.09
   TA: '27'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Hook, Lion, and Sinker
   Description: Defeat Yarnaby
   GS: '25'
   Guide: false
-  Number of Gamers: 190
-  Percentage of Gamers: 59%
-  Ratio: 1.3
+  Number of Gamers: 209
+  Percentage of Gamers: 60%
+  Ratio: 1.29
   TA: '32'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: An Apple a Day
   Description: Obtain the Omni Hand from the Doctor
   GS: '25'
   Guide: false
-  Number of Gamers: 167
-  Percentage of Gamers: 52%
-  Ratio: 1.38
+  Number of Gamers: 186
+  Percentage of Gamers: 53%
+  Ratio: 1.36
   TA: '34'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Savior of Safe Haven
   Description: Repair the Generator
   GS: '25'
   Guide: false
-  Number of Gamers: 162
-  Percentage of Gamers: 50%
-  Ratio: 1.4
-  TA: '35'
-  Tags: []
+  Number of Gamers: 182
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Cold Blooded
   Description: Defeat Doey
   GS: '50'
   Guide: false
-  Number of Gamers: 146
-  Percentage of Gamers: 45%
-  Ratio: 1.48
-  TA: '74'
-  Tags: []
+  Number of Gamers: 160
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '73'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Start Running
   Description: Complete the game
   GS: '50'
   Guide: false
-  Number of Gamers: 146
-  Percentage of Gamers: 45%
-  Ratio: 1.48
-  TA: '74'
-  Tags: []
+  Number of Gamers: 160
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '73'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
 - Achievement Name: Untouchable
   Description: Survive the Horde without taking damage
   GS: '50'
   Guide: true
-  Number of Gamers: 43
+  Number of Gamers: 46
   Percentage of Gamers: 13%
-  Ratio: 2.72
-  TA: '136'
-  Tags: []
+  Ratio: 2.75
+  TA: '137'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: You Can Run...
   Description: Defeat Yarnaby without using any hiding spots
   GS: '50'
   Guide: false
-  Number of Gamers: 32
+  Number of Gamers: 35
   Percentage of Gamers: 10%
-  Ratio: 3.16
-  TA: '158'
-  Tags: []
+  Ratio: 3.15
+  TA: '157'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Hold Your Breath
   Description: Complete the gas maze puzzle without any oxygen tank refills
   GS: '50'
   Guide: true
-  Number of Gamers: 29
+  Number of Gamers: 33
   Percentage of Gamers: 9%
-  Ratio: 3.32
-  TA: '166'
-  Tags: []
+  Ratio: 3.25
+  TA: '162'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Piping Hotshot
   Description: Reroute the gas in the Foundation in the least possible moves
   GS: '50'
   Guide: false
-  Number of Gamers: 46
-  Percentage of Gamers: 14%
-  Ratio: 2.63
-  TA: '131'
-  Tags: []
+  Number of Gamers: 52
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '129'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Effic'N'cy
   Description: Defeat Doey without wasting any nitrogen canisters
   GS: '50'
   Guide: true
-  Number of Gamers: 57
+  Number of Gamers: 62
   Percentage of Gamers: 18%
-  Ratio: 2.36
+  Ratio: 2.37
   TA: '118'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Mane Attraction
   Description: "Listen to Yarnaby\u2019s cardboard cutout"
   GS: '15'
   Guide: false
-  Number of Gamers: 260
-  Percentage of Gamers: 80%
+  Number of Gamers: 285
+  Percentage of Gamers: 81%
   Ratio: 1.1
   TA: '16'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Join the Chorus
   Description: "Listen to Pianosaurus\u2019s cardboard cutout"
   GS: '15'
   Guide: false
-  Number of Gamers: 223
-  Percentage of Gamers: 69%
-  Ratio: 1.19
+  Number of Gamers: 247
+  Percentage of Gamers: 70%
+  Ratio: 1.18
   TA: '17'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Triple Times the Fun
   Description: "Listen to Doey\u2019s cardboard cutout"
   GS: '15'
   Guide: false
-  Number of Gamers: 206
-  Percentage of Gamers: 64%
-  Ratio: 1.24
+  Number of Gamers: 228
+  Percentage of Gamers: 65%
+  Ratio: 1.23
   TA: '18'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Dear Diary
   Description: Find all hidden journals
   GS: '50'
   Guide: false
-  Number of Gamers: 36
-  Percentage of Gamers: 11%
-  Ratio: 2.98
-  TA: '149'
-  Tags: []
+  Number of Gamers: 43
+  Percentage of Gamers: 12%
+  Ratio: 2.84
+  TA: '142'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Missable
 - Achievement Name: Avid Reader
   Description: Find all hidden documents
   GS: '50'
   Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 8%
-  Ratio: 3.44
-  TA: '172'
-  Tags: []
+  Number of Gamers: 32
+  Percentage of Gamers: 9%
+  Ratio: 3.3
+  TA: '165'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Missable
 - Achievement Name: Avid Listener
   Description: Find and play every hidden VHS Tape
   GS: '50'
   Guide: false
-  Number of Gamers: 31
+  Number of Gamers: 34
   Percentage of Gamers: 10%
-  Ratio: 3.21
+  Ratio: 3.2
   TA: '160'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Missable
 - Achievement Name: Fearless
   Description: Complete the game without dying
   GS: '75'
   Guide: true
-  Number of Gamers: 18
+  Number of Gamers: 22
   Percentage of Gamers: 6%
-  Ratio: 4.21
-  TA: '316'
-  Tags: []
+  Ratio: 3.98
+  TA: '298'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Self Restraint
   Description: Complete the game without launching your GrabPack hands more than 200
     times
   GS: '75'
   Guide: true
-  Number of Gamers: 7
-  Percentage of Gamers: 2%
-  Ratio: 6.76
-  TA: '507'
-  Tags: []
+  Number of Gamers: 9
+  Percentage of Gamers: 3%
+  Ratio: 6.22
+  TA: '467'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Access Denied
   Description: :(
   GS: '15'
   Guide: true
-  Number of Gamers: 90
+  Number of Gamers: 100
   Percentage of Gamers: 28%
-  Ratio: 1.88
+  Ratio: 1.86
   TA: '28'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: D-O-E-Y
   Description: Fun until the day that you die!
   GS: '20'
   Guide: true
-  Number of Gamers: 45
+  Number of Gamers: 48
   Percentage of Gamers: 14%
-  Ratio: 2.66
+  Ratio: 2.69
   TA: '53'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Persistent Pets
   Description: Please do not pet the Yarnaby
   GS: '15'
   Guide: true
-  Number of Gamers: 57
-  Percentage of Gamers: 18%
-  Ratio: 2.36
+  Number of Gamers: 61
+  Percentage of Gamers: 17%
+  Ratio: 2.39
   TA: '35'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Rescue Mission
   Description: Bring a friend to safety
   GS: '20'
   Guide: true
-  Number of Gamers: 34
+  Number of Gamers: 40
   Percentage of Gamers: 11%
-  Ratio: 3.06
-  TA: '61'
-  Tags: []
+  Ratio: 2.95
+  TA: '59'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Hat Trick
   Description: Score three goals on an active CraftyCorn
   GS: '15'
   Guide: true
-  Number of Gamers: 133
-  Percentage of Gamers: 41%
-  Ratio: 1.55
+  Number of Gamers: 140
+  Percentage of Gamers: 40%
+  Ratio: 1.57
   TA: '23'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Moment of Silence
   Description: Pay tribute to the fallen toys
   GS: '15'
   Guide: true
-  Number of Gamers: 66
+  Number of Gamers: 70
   Percentage of Gamers: 20%
-  Ratio: 2.21
+  Ratio: 2.23
   TA: '33'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Boo!
   Description: You found me!
   GS: '15'
   Guide: true
-  Number of Gamers: 123
-  Percentage of Gamers: 38%
-  Ratio: 1.61
+  Number of Gamers: 130
+  Percentage of Gamers: 37%
+  Ratio: 1.63
   TA: '24'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Eavesdropping
   Description: Listen in on a private conversation
   GS: '15'
   Guide: false
-  Number of Gamers: 159
-  Percentage of Gamers: 49%
-  Ratio: 1.41
+  Number of Gamers: 176
+  Percentage of Gamers: 50%
+  Ratio: 1.4
   TA: '21'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Muscle Memory
   Description: "Yep, it\u2019s definitely broken"
   GS: '15'
   Guide: true
-  Number of Gamers: 170
+  Number of Gamers: 187
   Percentage of Gamers: 53%
-  Ratio: 1.37
+  Ratio: 1.36
   TA: '20'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Heart of Gold
   Description: Choose to spare a life
   GS: '15'
   Guide: true
-  Number of Gamers: 95
+  Number of Gamers: 102
   Percentage of Gamers: 29%
-  Ratio: 1.83
+  Ratio: 1.84
   TA: '27'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Uncovering the Past
   Description: "Access the Doctor\u2019s secret room"
   GS: '20'
   Guide: true
-  Number of Gamers: 53
-  Percentage of Gamers: 16%
-  Ratio: 2.45
-  TA: '49'
-  Tags: []
-Base Ratio: 2.739
-Base TA: 2739
+  Number of Gamers: 59
+  Percentage of Gamers: 17%
+  Ratio: 2.43
+  TA: '48'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+Base Ratio: 2.655
+Base TA: 2655
 Delisted: false
 Developer: Mob Entertainment
 Game Name: 'Poppy Playtime: Chapter 4'
 Genres: Action
 Install Size: 6170.0
-Number of Completions: 7
-Number of Gamers: 323
+Number of Completions: 10
+Number of Gamers: 351
 Overall Completion Time:
-- 17
-- 18
+- 23
+- 24
 Overall GS: 1000
-Overall Ratio: 2.739
-Overall TA: 2739
+Overall Ratio: 2.655
+Overall TA: 2655
 PDU: 0
-Percentage Completed: 2.17
+Percentage Completed: 2.85
 Publisher: Mob Entertainment
 Release Date: 25 June 2025
 Server Closure: false

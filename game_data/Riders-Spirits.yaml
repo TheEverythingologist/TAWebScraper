@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
+- 1.0
 - 2.0
-- 3.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Doinaka Track
   Description: Complete Doinaka Track in the Prospect Circuit On Rider's GP
   GS: '50'
   Guide: false
-  Number of Gamers: 246
+  Number of Gamers: 259
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '50'
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Complete Tokyo City in the Prospect Circuit On Rider's GP
   GS: '50'
   Guide: false
-  Number of Gamers: 233
+  Number of Gamers: 245
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '51'
@@ -32,8 +32,8 @@ Base Game Achievements:
   Description: Complete Susuki Plant in the Prospect Circuit On Rider's GP
   GS: '50'
   Guide: false
-  Number of Gamers: 220
-  Percentage of Gamers: 89%
+  Number of Gamers: 232
+  Percentage of Gamers: 90%
   Ratio: 1.05
   TA: '52'
   Tags:
@@ -44,7 +44,7 @@ Base Game Achievements:
   Description: Complete Cocoa Dirt in the Prospect Circuit On Rider's GP
   GS: '50'
   Guide: false
-  Number of Gamers: 208
+  Number of Gamers: 220
   Percentage of Gamers: 85%
   Ratio: 1.08
   TA: '54'
@@ -56,7 +56,7 @@ Base Game Achievements:
   Description: Complete Tamago Dome in the Prospect Circuit On Rider's GP
   GS: '50'
   Guide: false
-  Number of Gamers: 201
+  Number of Gamers: 213
   Percentage of Gamers: 82%
   Ratio: 1.1
   TA: '55'
@@ -68,9 +68,9 @@ Base Game Achievements:
   Description: Complete Shizuka Track in the Rookie Circuit On Rider's GP
   GS: '50'
   Guide: false
-  Number of Gamers: 94
-  Percentage of Gamers: 38%
-  Ratio: 1.61
+  Number of Gamers: 101
+  Percentage of Gamers: 39%
+  Ratio: 1.6
   TA: '80'
   Tags:
   - Offline Mode
@@ -80,10 +80,10 @@ Base Game Achievements:
   Description: Complete Letroit City in the Rookie Circuit On Rider's GP
   GS: '50'
   Guide: false
-  Number of Gamers: 90
+  Number of Gamers: 97
   Percentage of Gamers: 37%
-  Ratio: 1.65
-  TA: '82'
+  Ratio: 1.63
+  TA: '81'
   Tags:
   - Offline Mode
   - Single Player
@@ -92,10 +92,10 @@ Base Game Achievements:
   Description: Complete Kawazaki Plant in the Rookie Circuit On Rider's GP
   GS: '50'
   Guide: false
-  Number of Gamers: 84
-  Percentage of Gamers: 34%
-  Ratio: 1.71
-  TA: '85'
+  Number of Gamers: 92
+  Percentage of Gamers: 36%
+  Ratio: 1.67
+  TA: '83'
   Tags:
   - Offline Mode
   - Single Player
@@ -104,10 +104,10 @@ Base Game Achievements:
   Description: Complete Okonomi Dirt in the Rookie Circuit On Rider's GP
   GS: '50'
   Guide: false
-  Number of Gamers: 83
-  Percentage of Gamers: 34%
-  Ratio: 1.72
-  TA: '86'
+  Number of Gamers: 90
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '84'
   Tags:
   - Offline Mode
   - Single Player
@@ -116,10 +116,10 @@ Base Game Achievements:
   Description: Complete Fufugu Dome in the Rookie Circuit On Rider's GP
   GS: '50'
   Guide: false
-  Number of Gamers: 82
-  Percentage of Gamers: 33%
-  Ratio: 1.73
-  TA: '86'
+  Number of Gamers: 89
+  Percentage of Gamers: 34%
+  Ratio: 1.7
+  TA: '85'
   Tags:
   - Offline Mode
   - Single Player
@@ -128,10 +128,10 @@ Base Game Achievements:
   Description: Complete Monaca Track in the Rider Circuit On Rider's GP
   GS: '50'
   Guide: false
-  Number of Gamers: 50
-  Percentage of Gamers: 20%
-  Ratio: 2.21
-  TA: '110'
+  Number of Gamers: 56
+  Percentage of Gamers: 22%
+  Ratio: 2.15
+  TA: '107'
   Tags:
   - Offline Mode
   - Single Player
@@ -140,10 +140,10 @@ Base Game Achievements:
   Description: Complete Tiny City in the Rider Circuit On Rider's GP
   GS: '50'
   Guide: false
-  Number of Gamers: 50
-  Percentage of Gamers: 20%
-  Ratio: 2.21
-  TA: '110'
+  Number of Gamers: 56
+  Percentage of Gamers: 22%
+  Ratio: 2.15
+  TA: '107'
   Tags:
   - Offline Mode
   - Single Player
@@ -152,10 +152,10 @@ Base Game Achievements:
   Description: Complete Yamaba Plant in the Rider Circuit On Rider's GP
   GS: '50'
   Guide: false
-  Number of Gamers: 50
-  Percentage of Gamers: 20%
-  Ratio: 2.21
-  TA: '110'
+  Number of Gamers: 56
+  Percentage of Gamers: 22%
+  Ratio: 2.15
+  TA: '107'
   Tags:
   - Offline Mode
   - Single Player
@@ -164,10 +164,10 @@ Base Game Achievements:
   Description: Complete Senberg Dirt in the Rider Circuit On Rider's GP
   GS: '50'
   Guide: false
-  Number of Gamers: 50
-  Percentage of Gamers: 20%
-  Ratio: 2.21
-  TA: '110'
+  Number of Gamers: 56
+  Percentage of Gamers: 22%
+  Ratio: 2.15
+  TA: '107'
   Tags:
   - Offline Mode
   - Single Player
@@ -176,10 +176,10 @@ Base Game Achievements:
   Description: Complete Nargo Dome in the Rider Circuit On Rider's GP
   GS: '50'
   Guide: false
-  Number of Gamers: 50
-  Percentage of Gamers: 20%
-  Ratio: 2.21
-  TA: '110'
+  Number of Gamers: 56
+  Percentage of Gamers: 22%
+  Ratio: 2.15
+  TA: '107'
   Tags:
   - Offline Mode
   - Single Player
@@ -188,10 +188,10 @@ Base Game Achievements:
   Description: Complete Damia Track in the Captain Circuit On Rider's GP
   GS: '50'
   Guide: false
-  Number of Gamers: 43
-  Percentage of Gamers: 17%
-  Ratio: 2.39
-  TA: '119'
+  Number of Gamers: 49
+  Percentage of Gamers: 19%
+  Ratio: 2.29
+  TA: '114'
   Tags:
   - Offline Mode
   - Single Player
@@ -200,10 +200,10 @@ Base Game Achievements:
   Description: Complete Paras City in the Captain Circuit On Rider's GP
   GS: '50'
   Guide: false
-  Number of Gamers: 43
-  Percentage of Gamers: 17%
-  Ratio: 2.39
-  TA: '119'
+  Number of Gamers: 49
+  Percentage of Gamers: 19%
+  Ratio: 2.29
+  TA: '114'
   Tags:
   - Offline Mode
   - Single Player
@@ -212,10 +212,10 @@ Base Game Achievements:
   Description: Complete Honta Plant in the Captain Circuit On Rider's GP
   GS: '50'
   Guide: false
-  Number of Gamers: 43
-  Percentage of Gamers: 17%
-  Ratio: 2.39
-  TA: '119'
+  Number of Gamers: 49
+  Percentage of Gamers: 19%
+  Ratio: 2.29
+  TA: '114'
   Tags:
   - Offline Mode
   - Single Player
@@ -224,10 +224,10 @@ Base Game Achievements:
   Description: Complete Caramel Dirt in the Captain Circuit On Rider's GP
   GS: '50'
   Guide: false
-  Number of Gamers: 43
-  Percentage of Gamers: 17%
-  Ratio: 2.39
-  TA: '119'
+  Number of Gamers: 49
+  Percentage of Gamers: 19%
+  Ratio: 2.29
+  TA: '114'
   Tags:
   - Offline Mode
   - Single Player
@@ -236,31 +236,31 @@ Base Game Achievements:
   Description: Complete Supau Dome in the Captain Circuit On Rider's GP
   GS: '50'
   Guide: false
-  Number of Gamers: 43
-  Percentage of Gamers: 17%
-  Ratio: 2.39
-  TA: '119'
+  Number of Gamers: 49
+  Percentage of Gamers: 19%
+  Ratio: 2.29
+  TA: '114'
   Tags:
   - Offline Mode
   - Single Player
   - Versus
-Base Ratio: 1.826
-Base TA: 1826
+Base Ratio: 1.78
+Base TA: 1780
 Delisted: false
 Developer: Genki, Masaya, Shinyuden
 Game Name: Rider's Spirits
 Genres: Arcade Racing, Automobile
 Install Size: 377.0
-Number of Completions: 43
-Number of Gamers: 246
+Number of Completions: 49
+Number of Gamers: 259
 Overall Completion Time:
+- 1.0
 - 2.0
-- 3.0
 Overall GS: 1000
-Overall Ratio: 1.826
-Overall TA: 1826
+Overall Ratio: 1.78
+Overall TA: 1780
 PDU: 0
-Percentage Completed: 17.48
+Percentage Completed: 18.92
 Publisher: Ratalaika Games
 Release Date: 07 June 2024
 Server Closure: false

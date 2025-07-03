@@ -1,86 +1,14 @@
-Add On Achievements:
-- Achievement Name: Specialist in Starfish
-  Description: Defeat 5 starfish.
-  GS: '160'
-  Guide: true
-  Number of Gamers: 85
-  Percentage of Gamers: 99%
-  Ratio: 1.51
-  TA: '243'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Cumulative +
-- Achievement Name: The terror of the Starfish
-  Description: Defeat 25 starfish.
-  GS: '160'
-  Guide: true
-  Number of Gamers: 80
-  Percentage of Gamers: 93%
-  Ratio: 1.55
-  TA: '249'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Cumulative +
-- Achievement Name: The exterminator of Starfish
-  Description: Defeat 50 starfish.
-  GS: '180'
-  Guide: true
-  Number of Gamers: 79
-  Percentage of Gamers: 92%
-  Ratio: 1.56
-  TA: '281'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Cumulative +
-- Achievement Name: Specialist in Sea Urchins
-  Description: Defeat 2 sea urchins.
-  GS: '160'
-  Guide: true
-  Number of Gamers: 65
-  Percentage of Gamers: 76%
-  Ratio: 1.74
-  TA: '278'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Cumulative +
-- Achievement Name: The terror of the Sea Urchins
-  Description: Defeat 12 sea urchins.
-  GS: '160'
-  Guide: true
-  Number of Gamers: 65
-  Percentage of Gamers: 76%
-  Ratio: 1.74
-  TA: '278'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Cumulative +
-- Achievement Name: The exterminator of Sea Urchins
-  Description: Defeat 24 sea urchins.
-  GS: '180'
-  Guide: true
-  Number of Gamers: 65
-  Percentage of Gamers: 76%
-  Ratio: 1.74
-  TA: '313'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Cumulative +
+Add On Achievements: []
 Base Completion Time:
 - 8.0
 - 10.0
-Base GS: 1000
+Base GS: 2000
 Base Game Achievements:
 - Achievement Name: Expedition
   Description: Unlock the expeditions.
   GS: '25'
   Guide: false
-  Number of Gamers: 447
+  Number of Gamers: 448
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '25'
@@ -91,7 +19,7 @@ Base Game Achievements:
   Description: Complete 1 blueprint barrel event.
   GS: '25'
   Guide: false
-  Number of Gamers: 355
+  Number of Gamers: 356
   Percentage of Gamers: 79%
   Ratio: 1.12
   TA: '28'
@@ -102,7 +30,7 @@ Base Game Achievements:
   Description: Upgrade a weapon slot to maximum level.
   GS: '25'
   Guide: false
-  Number of Gamers: 314
+  Number of Gamers: 316
   Percentage of Gamers: 70%
   Ratio: 1.19
   TA: '29'
@@ -114,9 +42,9 @@ Base Game Achievements:
   Description: Unlock the trader.
   GS: '25'
   Guide: false
-  Number of Gamers: 320
-  Percentage of Gamers: 71%
-  Ratio: 1.18
+  Number of Gamers: 322
+  Percentage of Gamers: 72%
+  Ratio: 1.17
   TA: '29'
   Tags:
   - Offline Game Mode
@@ -125,7 +53,7 @@ Base Game Achievements:
   Description: Upgrade a chipset slot to maximum level.
   GS: '25'
   Guide: false
-  Number of Gamers: 234
+  Number of Gamers: 235
   Percentage of Gamers: 52%
   Ratio: 1.38
   TA: '34'
@@ -137,7 +65,7 @@ Base Game Achievements:
   Description: Upgrade all weapon slots to maximum level.
   GS: '25'
   Guide: false
-  Number of Gamers: 192
+  Number of Gamers: 193
   Percentage of Gamers: 43%
   Ratio: 1.52
   TA: '38'
@@ -149,9 +77,9 @@ Base Game Achievements:
   Description: Complete a mission with all level 1 merchant deals.
   GS: '25'
   Guide: false
-  Number of Gamers: 244
-  Percentage of Gamers: 54%
-  Ratio: 1.35
+  Number of Gamers: 246
+  Percentage of Gamers: 55%
+  Ratio: 1.34
   TA: '33'
   Tags:
   - Offline Mode
@@ -173,9 +101,9 @@ Base Game Achievements:
   Description: Defeat a boss on normal difficulty.
   GS: '25'
   Guide: false
-  Number of Gamers: 180
+  Number of Gamers: 179
   Percentage of Gamers: 40%
-  Ratio: 1.57
+  Ratio: 1.58
   TA: '39'
   Tags:
   - Offline Game Mode
@@ -184,8 +112,8 @@ Base Game Achievements:
   Description: Complete the mission Fissures.
   GS: '25'
   Guide: false
-  Number of Gamers: 306
-  Percentage of Gamers: 68%
+  Number of Gamers: 308
+  Percentage of Gamers: 69%
   Ratio: 1.2
   TA: '30'
   Tags:
@@ -195,8 +123,8 @@ Base Game Achievements:
   Description: Complete the mission Barrels.
   GS: '25'
   Guide: false
-  Number of Gamers: 312
-  Percentage of Gamers: 69%
+  Number of Gamers: 314
+  Percentage of Gamers: 70%
   Ratio: 1.19
   TA: '29'
   Tags:
@@ -206,7 +134,7 @@ Base Game Achievements:
   Description: Complete the mission Protection.
   GS: '25'
   Guide: false
-  Number of Gamers: 287
+  Number of Gamers: 289
   Percentage of Gamers: 64%
   Ratio: 1.24
   TA: '31'
@@ -228,7 +156,7 @@ Base Game Achievements:
   Description: Complete the mission Laser Artifact.
   GS: '25'
   Guide: false
-  Number of Gamers: 281
+  Number of Gamers: 282
   Percentage of Gamers: 63%
   Ratio: 1.26
   TA: '31'
@@ -239,9 +167,9 @@ Base Game Achievements:
   Description: Complete the mission Pollution.
   GS: '25'
   Guide: false
-  Number of Gamers: 281
+  Number of Gamers: 283
   Percentage of Gamers: 63%
-  Ratio: 1.26
+  Ratio: 1.25
   TA: '31'
   Tags:
   - Offline Game Mode
@@ -261,7 +189,7 @@ Base Game Achievements:
   Description: Complete the bonus mission Treasures.
   GS: '25'
   Guide: false
-  Number of Gamers: 255
+  Number of Gamers: 256
   Percentage of Gamers: 57%
   Ratio: 1.32
   TA: '33'
@@ -272,7 +200,7 @@ Base Game Achievements:
   Description: Level up to level 30 with the submarine Balanced.
   GS: '25'
   Guide: false
-  Number of Gamers: 358
+  Number of Gamers: 360
   Percentage of Gamers: 80%
   Ratio: 1.11
   TA: '27'
@@ -284,8 +212,8 @@ Base Game Achievements:
   Description: Unlock the submarine Armored.
   GS: '25'
   Guide: false
-  Number of Gamers: 316
-  Percentage of Gamers: 70%
+  Number of Gamers: 318
+  Percentage of Gamers: 71%
   Ratio: 1.18
   TA: '29'
   Tags:
@@ -307,9 +235,9 @@ Base Game Achievements:
   Description: Unlock the submarine Havester.
   GS: '25'
   Guide: false
-  Number of Gamers: 277
+  Number of Gamers: 279
   Percentage of Gamers: 62%
-  Ratio: 1.27
+  Ratio: 1.26
   TA: '31'
   Tags:
   - Offline Game Mode
@@ -318,7 +246,7 @@ Base Game Achievements:
   Description: Level up to level 30 with the submarine Harvester.
   GS: '25'
   Guide: false
-  Number of Gamers: 188
+  Number of Gamers: 187
   Percentage of Gamers: 42%
   Ratio: 1.54
   TA: '38'
@@ -341,9 +269,9 @@ Base Game Achievements:
   Description: Level up to level 30 with the submarine Resistant.
   GS: '25'
   Guide: false
-  Number of Gamers: 180
+  Number of Gamers: 181
   Percentage of Gamers: 40%
-  Ratio: 1.58
+  Ratio: 1.57
   TA: '39'
   Tags:
   - Offline Mode
@@ -364,7 +292,7 @@ Base Game Achievements:
   Description: Level up to level 30 with the submarine Ninja.
   GS: '25'
   Guide: false
-  Number of Gamers: 170
+  Number of Gamers: 169
   Percentage of Gamers: 38%
   Ratio: 1.62
   TA: '40'
@@ -399,7 +327,7 @@ Base Game Achievements:
   Description: Defeat 2,000 jellyfish.
   GS: '25'
   Guide: false
-  Number of Gamers: 327
+  Number of Gamers: 329
   Percentage of Gamers: 73%
   Ratio: 1.16
   TA: '29'
@@ -413,7 +341,7 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 235
   Percentage of Gamers: 52%
-  Ratio: 1.37
+  Ratio: 1.38
   TA: '34'
   Tags:
   - Offline Mode
@@ -435,9 +363,9 @@ Base Game Achievements:
   Description: Defeat 2,000 piranhas.
   GS: '25'
   Guide: false
-  Number of Gamers: 305
+  Number of Gamers: 307
   Percentage of Gamers: 68%
-  Ratio: 1.21
+  Ratio: 1.2
   TA: '30'
   Tags:
   - Offline Mode
@@ -459,7 +387,7 @@ Base Game Achievements:
   Description: Defeat 16,000 piranhas.
   GS: '25'
   Guide: false
-  Number of Gamers: 178
+  Number of Gamers: 179
   Percentage of Gamers: 40%
   Ratio: 1.58
   TA: '39'
@@ -471,8 +399,8 @@ Base Game Achievements:
   Description: Defeat 500 puffer fish.
   GS: '25'
   Guide: false
-  Number of Gamers: 279
-  Percentage of Gamers: 62%
+  Number of Gamers: 281
+  Percentage of Gamers: 63%
   Ratio: 1.26
   TA: '31'
   Tags:
@@ -483,7 +411,7 @@ Base Game Achievements:
   Description: Defeat 1,500 puffer fish.
   GS: '25'
   Guide: false
-  Number of Gamers: 227
+  Number of Gamers: 228
   Percentage of Gamers: 51%
   Ratio: 1.4
   TA: '35'
@@ -507,8 +435,8 @@ Base Game Achievements:
   Description: Defeat 250 electric eels.
   GS: '25'
   Guide: false
-  Number of Gamers: 226
-  Percentage of Gamers: 50%
+  Number of Gamers: 227
+  Percentage of Gamers: 51%
   Ratio: 1.4
   TA: '35'
   Tags:
@@ -539,26 +467,98 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 1.359
-Base TA: 1359
+Base Ratio: 1.929
+Base TA: 3858
 Delisted: false
 Developer: The Bat Flight, eastasiasoft
 Game Name: Submarine Survivor
 Genres: Roguelite
 Install Size: 1840.0
-Number of Completions: 65
+Number of Completions: 64
 Number of Gamers: 449
 Overall Completion Time:
 - 8.0
 - 10.0
 Overall GS: 2000
-Overall Ratio: 1.5005
-Overall TA: 3001
+Overall Ratio: 1.929
+Overall TA: 3858
 PDU: 0
-Percentage Completed: 14.48
+Percentage Completed: 14.25
 Publisher: eastasiasoft
 Release Date: 07 May 2025
 Server Closure: false
 Site Rating: 3.83
-Update Achievements: []
+Update Achievements:
+- Achievement Name: Specialist in Starfish
+  Description: Defeat 5 starfish.
+  GS: '160'
+  Guide: true
+  Number of Gamers: 86
+  Percentage of Gamers: 19%
+  Ratio: 2.28
+  TA: '365'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: The terror of the Starfish
+  Description: Defeat 25 starfish.
+  GS: '160'
+  Guide: true
+  Number of Gamers: 79
+  Percentage of Gamers: 18%
+  Ratio: 2.38
+  TA: '381'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: The exterminator of Starfish
+  Description: Defeat 50 starfish.
+  GS: '180'
+  Guide: true
+  Number of Gamers: 78
+  Percentage of Gamers: 17%
+  Ratio: 2.39
+  TA: '431'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Specialist in Sea Urchins
+  Description: Defeat 2 sea urchins.
+  GS: '160'
+  Guide: true
+  Number of Gamers: 64
+  Percentage of Gamers: 14%
+  Ratio: 2.64
+  TA: '423'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: The terror of the Sea Urchins
+  Description: Defeat 12 sea urchins.
+  GS: '160'
+  Guide: true
+  Number of Gamers: 64
+  Percentage of Gamers: 14%
+  Ratio: 2.64
+  TA: '423'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: The exterminator of Sea Urchins
+  Description: Defeat 24 sea urchins.
+  GS: '180'
+  Guide: true
+  Number of Gamers: 64
+  Percentage of Gamers: 14%
+  Ratio: 2.64
+  TA: '476'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 Walkthrough: false

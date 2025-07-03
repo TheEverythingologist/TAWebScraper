@@ -1,16 +1,196 @@
-Add On Achievements: []
+Add On Achievements:
+- Achievement Name: "Domino\u2019s Run"
+  Description: "Complete all Domino\u2019s Run Levels and Challenges."
+  GS: '100'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '100'
+  Tags: []
+- Achievement Name: Power Egg Hunter
+  Description: Find your first Power Egg.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '10'
+  Tags: []
+- Achievement Name: Power Egg Master
+  Description: Find all 8 Power Eggs.
+  GS: '40'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '40'
+  Tags: []
+- Achievement Name: Challenger
+  Description: Complete 1 Challenge.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '5'
+  Tags: []
+- Achievement Name: Challenge Seeker
+  Description: Complete 5 Challenges.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '10'
+  Tags: []
+- Achievement Name: Challenge Pro
+  Description: Complete 10 Challenges.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '25'
+  Tags: []
+- Achievement Name: Saved
+  Description: Used any Safe Zone to successfully survive an Energy Wall.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '10'
+  Tags: []
+- Achievement Name: Not so Safe
+  Description: Fully deplete a Timed Safe Zone.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '10'
+  Tags: []
+- Achievement Name: Dreamer
+  Description: Collect all 6 Dream Tokens.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '30'
+  Tags: []
+- Achievement Name: Spirit of Domino
+  Description: Collect all 10 Spirit Cores.
+  GS: '60'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '60'
+  Tags: []
+- Achievement Name: "Domino\u2019s Tokens"
+  Description: Collect all 20 Domino Tokens.
+  GS: '60'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '60'
+  Tags: []
+- Achievement Name: A new Gem
+  Description: Pick up a White Portal Gem.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '5'
+  Tags: []
+- Achievement Name: Run Run Run!
+  Description: Complete a Run Mode level.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '25'
+  Tags: []
+- Achievement Name: A new Core
+  Description: Equip a new Ball Shell.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '10'
+  Tags: []
+- Achievement Name: Leaving a Mark
+  Description: Equip a new Ball Trail.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '10'
+  Tags: []
+- Achievement Name: Just the Effect
+  Description: Equip a new Player Effect.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '10'
+  Tags: []
+- Achievement Name: Oopsy
+  Description: Die by the Energy Barrier 10 times.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '20'
+  Tags: []
+- Achievement Name: Rerun
+  Description: Replay any Run Mode level.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '20'
+  Tags: []
+- Achievement Name: Credited
+  Description: "View the Game\u2019s Credits."
+  GS: '20'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '20'
+  Tags: []
+- Achievement Name: Legend of the IX-XV
+  Description: Play a Run Level, using Dawn, Dusk and Midnight Abilities.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '20'
+  Tags: []
 Base Completion Time:
-- 12
-- 13
+- 16
+- 17
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Oh Nash!
   Description: Fall of the map and die within 5 seconds of a level.
   GS: '20'
-  Guide: false
-  Number of Gamers: 37
-  Percentage of Gamers: 59%
-  Ratio: 1.3
+  Guide: true
+  Number of Gamers: 49
+  Percentage of Gamers: 58%
+  Ratio: 1.31
   TA: '26'
   Tags:
   - Offline Game Mode
@@ -19,9 +199,9 @@ Base Game Achievements:
   Description: Complete a level within 20 seconds.
   GS: '10'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 41%
-  Ratio: 1.55
+  Number of Gamers: 37
+  Percentage of Gamers: 44%
+  Ratio: 1.51
   TA: '15'
   Tags:
   - Offline Mode
@@ -31,21 +211,21 @@ Base Game Achievements:
   Description: Complete any level with Midnight Energy remaining.
   GS: '12'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 13%
-  Ratio: 2.8
-  TA: '33'
+  Number of Gamers: 13
+  Percentage of Gamers: 15%
+  Ratio: 2.55
+  TA: '30'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: The Jesters Cactus
   Description: Smash all 4 Jester Cacti.
   GS: '25'
-  Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 8%
-  Ratio: 3.54
-  TA: '88'
+  Guide: true
+  Number of Gamers: 8
+  Percentage of Gamers: 9%
+  Ratio: 3.25
+  TA: '81'
   Tags:
   - Offline Mode
   - Single Player
@@ -54,10 +234,10 @@ Base Game Achievements:
   Description: Survive the Orb!
   GS: '10'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 13%
-  Ratio: 2.8
-  TA: '28'
+  Number of Gamers: 13
+  Percentage of Gamers: 15%
+  Ratio: 2.55
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
@@ -66,9 +246,9 @@ Base Game Achievements:
   Description: Find your first Gem.
   GS: '2'
   Guide: false
-  Number of Gamers: 33
-  Percentage of Gamers: 52%
-  Ratio: 1.38
+  Number of Gamers: 48
+  Percentage of Gamers: 56%
+  Ratio: 1.33
   TA: '2'
   Tags:
   - Offline Mode
@@ -78,10 +258,10 @@ Base Game Achievements:
   Description: Find 10 Gems.
   GS: '5'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 13%
-  Ratio: 2.8
-  TA: '14'
+  Number of Gamers: 14
+  Percentage of Gamers: 16%
+  Ratio: 2.46
+  TA: '12'
   Tags:
   - Offline Mode
   - Single Player
@@ -90,10 +270,10 @@ Base Game Achievements:
   Description: Find 20 Gems.
   GS: '10'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '30'
+  Number of Gamers: 12
+  Percentage of Gamers: 14%
+  Ratio: 2.66
+  TA: '26'
   Tags:
   - Offline Mode
   - Single Player
@@ -102,10 +282,10 @@ Base Game Achievements:
   Description: Find 40 Gems.
   GS: '25'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 10%
-  Ratio: 3.24
-  TA: '81'
+  Number of Gamers: 9
+  Percentage of Gamers: 11%
+  Ratio: 3.07
+  TA: '76'
   Tags:
   - Offline Mode
   - Single Player
@@ -114,10 +294,10 @@ Base Game Achievements:
   Description: Find 60 Gems.
   GS: '50'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 10%
-  Ratio: 3.24
-  TA: '162'
+  Number of Gamers: 9
+  Percentage of Gamers: 11%
+  Ratio: 3.07
+  TA: '153'
   Tags:
   - Offline Mode
   - Single Player
@@ -126,10 +306,10 @@ Base Game Achievements:
   Description: Find 80 Gems.
   GS: '75'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 10%
-  Ratio: 3.24
-  TA: '243'
+  Number of Gamers: 9
+  Percentage of Gamers: 11%
+  Ratio: 3.07
+  TA: '230'
   Tags:
   - Offline Mode
   - Single Player
@@ -138,10 +318,10 @@ Base Game Achievements:
   Description: Find all 100 Gems.
   GS: '100'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 6%
-  Ratio: 3.96
-  TA: '396'
+  Number of Gamers: 9
+  Percentage of Gamers: 11%
+  Ratio: 3.07
+  TA: '307'
   Tags:
   - Offline Mode
   - Single Player
@@ -150,8 +330,8 @@ Base Game Achievements:
   Description: Complete your first level.
   GS: '2'
   Guide: false
-  Number of Gamers: 63
-  Percentage of Gamers: 100%
+  Number of Gamers: 84
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '2'
   Tags:
@@ -162,9 +342,9 @@ Base Game Achievements:
   Description: Complete 5 levels.
   GS: '5'
   Guide: false
-  Number of Gamers: 44
-  Percentage of Gamers: 70%
-  Ratio: 1.19
+  Number of Gamers: 61
+  Percentage of Gamers: 72%
+  Ratio: 1.18
   TA: '5'
   Tags:
   - Offline Mode
@@ -174,10 +354,10 @@ Base Game Achievements:
   Description: Complete the Cloudlands.
   GS: '25'
   Guide: false
-  Number of Gamers: 24
-  Percentage of Gamers: 38%
-  Ratio: 1.62
-  TA: '40'
+  Number of Gamers: 35
+  Percentage of Gamers: 41%
+  Ratio: 1.55
+  TA: '38'
   Tags:
   - Offline Mode
   - Single Player
@@ -186,10 +366,10 @@ Base Game Achievements:
   Description: Complete 16 levels.
   GS: '16'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 22%
-  Ratio: 2.12
-  TA: '33'
+  Number of Gamers: 23
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '30'
   Tags:
   - Offline Mode
   - Single Player
@@ -198,10 +378,10 @@ Base Game Achievements:
   Description: Complete the Rockslide.
   GS: '25'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 17%
-  Ratio: 2.39
-  TA: '59'
+  Number of Gamers: 19
+  Percentage of Gamers: 22%
+  Ratio: 2.11
+  TA: '52'
   Tags:
   - Offline Mode
   - Single Player
@@ -210,10 +390,10 @@ Base Game Achievements:
   Description: Complete the Etheric Dawn.
   GS: '5'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 13%
-  Ratio: 2.8
-  TA: '14'
+  Number of Gamers: 14
+  Percentage of Gamers: 16%
+  Ratio: 2.46
+  TA: '12'
   Tags:
   - Offline Mode
   - Single Player
@@ -222,10 +402,10 @@ Base Game Achievements:
   Description: Complete the Etheric Dusk.
   GS: '5'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 13%
-  Ratio: 2.8
-  TA: '14'
+  Number of Gamers: 14
+  Percentage of Gamers: 16%
+  Ratio: 2.46
+  TA: '12'
   Tags:
   - Offline Mode
   - Single Player
@@ -234,10 +414,10 @@ Base Game Achievements:
   Description: Complete the Lost Isles.
   GS: '25'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 13%
-  Ratio: 2.8
-  TA: '70'
+  Number of Gamers: 13
+  Percentage of Gamers: 15%
+  Ratio: 2.55
+  TA: '63'
   Tags:
   - Offline Mode
   - Single Player
@@ -246,10 +426,10 @@ Base Game Achievements:
   Description: Complete the Etheric Midnight.
   GS: '10'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 13%
-  Ratio: 2.8
-  TA: '28'
+  Number of Gamers: 13
+  Percentage of Gamers: 15%
+  Ratio: 2.55
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
@@ -258,10 +438,10 @@ Base Game Achievements:
   Description: Complete the Dark Gates.
   GS: '25'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 10%
-  Ratio: 3.24
-  TA: '81'
+  Number of Gamers: 9
+  Percentage of Gamers: 11%
+  Ratio: 3.07
+  TA: '76'
   Tags:
   - Offline Mode
   - Single Player
@@ -270,10 +450,10 @@ Base Game Achievements:
   Description: Find your first Phoenix Egg.
   GS: '10'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '30'
+  Number of Gamers: 12
+  Percentage of Gamers: 14%
+  Ratio: 2.66
+  TA: '26'
   Tags:
   - Offline Mode
   - Single Player
@@ -282,10 +462,10 @@ Base Game Achievements:
   Description: Find all 8 Phoenix Eggs.
   GS: '80'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 8%
-  Ratio: 3.54
-  TA: '283'
+  Number of Gamers: 8
+  Percentage of Gamers: 9%
+  Ratio: 3.25
+  TA: '260'
   Tags:
   - Offline Mode
   - Single Player
@@ -294,10 +474,10 @@ Base Game Achievements:
   Description: Find the Lost Worlds Totem.
   GS: '10'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 10%
-  Ratio: 3.24
-  TA: '32'
+  Number of Gamers: 9
+  Percentage of Gamers: 11%
+  Ratio: 3.07
+  TA: '30'
   Tags:
   - Offline Mode
   - Single Player
@@ -306,10 +486,10 @@ Base Game Achievements:
   Description: Find the Three of Swords Totem.
   GS: '10'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 10%
-  Ratio: 3.24
-  TA: '32'
+  Number of Gamers: 9
+  Percentage of Gamers: 11%
+  Ratio: 3.07
+  TA: '30'
   Tags:
   - Offline Mode
   - Single Player
@@ -318,10 +498,10 @@ Base Game Achievements:
   Description: Find the Fate of the Dice Totem.
   GS: '10'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '30'
+  Number of Gamers: 10
+  Percentage of Gamers: 12%
+  Ratio: 2.91
+  TA: '29'
   Tags:
   - Offline Mode
   - Single Player
@@ -330,10 +510,10 @@ Base Game Achievements:
   Description: Find The Spire Totem.
   GS: '10'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 10%
-  Ratio: 3.24
-  TA: '32'
+  Number of Gamers: 9
+  Percentage of Gamers: 11%
+  Ratio: 3.07
+  TA: '30'
   Tags:
   - Offline Mode
   - Single Player
@@ -342,10 +522,10 @@ Base Game Achievements:
   Description: Fin the Greater Shard.
   GS: '10'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 10%
-  Ratio: 3.24
-  TA: '32'
+  Number of Gamers: 9
+  Percentage of Gamers: 11%
+  Ratio: 3.07
+  TA: '30'
   Tags:
   - Offline Mode
   - Single Player
@@ -354,10 +534,10 @@ Base Game Achievements:
   Description: Find the Unity Shard.
   GS: '10'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '30'
+  Number of Gamers: 12
+  Percentage of Gamers: 14%
+  Ratio: 2.66
+  TA: '26'
   Tags:
   - Offline Mode
   - Single Player
@@ -366,10 +546,10 @@ Base Game Achievements:
   Description: Find the Duty Shard.
   GS: '10'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 8%
-  Ratio: 3.54
-  TA: '35'
+  Number of Gamers: 8
+  Percentage of Gamers: 9%
+  Ratio: 3.25
+  TA: '32'
   Tags:
   - Offline Mode
   - Single Player
@@ -378,10 +558,10 @@ Base Game Achievements:
   Description: Collect everything in the Core game.
   GS: '125'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 5%
-  Ratio: 4.58
-  TA: '572'
+  Number of Gamers: 8
+  Percentage of Gamers: 9%
+  Ratio: 3.25
+  TA: '407'
   Tags:
   - Offline Mode
   - Single Player
@@ -390,10 +570,10 @@ Base Game Achievements:
   Description: Complete any level on the 8th of the month.
   GS: '8'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 10%
-  Ratio: 3.24
-  TA: '25'
+  Number of Gamers: 10
+  Percentage of Gamers: 12%
+  Ratio: 2.91
+  TA: '23'
   Tags:
   - Offline Mode
   - Single Player
@@ -402,10 +582,10 @@ Base Game Achievements:
   Description: Complete Dawn, Dusk and Midnight.
   GS: '20'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 5%
-  Ratio: 4.58
-  TA: '91'
+  Number of Gamers: 10
+  Percentage of Gamers: 12%
+  Ratio: 2.91
+  TA: '58'
   Tags:
   - Offline Mode
   - Single Player
@@ -414,34 +594,34 @@ Base Game Achievements:
   Description: Complete the Core Worlds.
   GS: '200'
   Guide: false
-  Number of Gamers: 8
+  Number of Gamers: 11
   Percentage of Gamers: 13%
-  Ratio: 2.8
-  TA: '561'
+  Ratio: 2.77
+  TA: '555'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 3.249
-Base TA: 3249
+Base Ratio: 2.834
+Base TA: 2834
 Delisted: false
 Developer: Xitol
 Game Name: Mineral
 Genres: Puzzle
-Install Size: 907.0
-Number of Completions: 3
-Number of Gamers: 63
+Install Size: 958.0
+Number of Completions: 0
+Number of Gamers: 85
 Overall Completion Time:
-- 12
-- 13
-Overall GS: 1000
-Overall Ratio: 3.249
-Overall TA: 3249
+- 16
+- 17
+Overall GS: 1500
+Overall Ratio: 2.2226666666666666
+Overall TA: 3334
 PDU: 0
-Percentage Completed: 4.76
+Percentage Completed: 0.0
 Publisher: Xitol
 Release Date: 10 January 2025
 Server Closure: false
-Site Rating: 0.75
+Site Rating: 1.5
 Update Achievements: []
 Walkthrough: false
