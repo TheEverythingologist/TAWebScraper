@@ -7,12 +7,17 @@ class GameBox:
         self.game_box_tr = game_box_tr
         self.ta_score = self.get_ta_score()
         self.game_url = self.get_game_url()
+        self.ratio = self.get_ratio()
         self.game_name_url = self.get_game_name_url()
 
     def get_ta_score(self):
         game_score = self.game_box_tr.find('td', {'class': 'score'}).text
         current_ta = (game_score.split(' '))[0].replace(',', '')
         return current_ta
+    
+    def get_ratio(self):
+        ratio_str = self.game_box_tr.find_all('td', {'class': 'score'})[1].text
+        return ratio_str
     
     def get_game_url(self):
         try:

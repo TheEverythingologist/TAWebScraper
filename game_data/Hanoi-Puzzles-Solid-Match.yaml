@@ -1,4 +1,49 @@
-Add On Achievements: []
+Add On Achievements:
+- Achievement Name: Shortcut Star!
+  Description: Solve at least 8 levels with less moves than the sugested.
+  GS: '200'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 50%
+  Ratio: 4.86
+  TA: '972'
+  Tags: []
+- Achievement Name: Double Match! Level 10
+  Description: Complete 2 towers in a row at Level 10.
+  GS: '200'
+  Guide: false
+  Number of Gamers: 7
+  Percentage of Gamers: 88%
+  Ratio: 3.43
+  TA: '687'
+  Tags: []
+- Achievement Name: Triple Match! Level 13
+  Description: Complete 3 towers in a row at Level 13.
+  GS: '200'
+  Guide: false
+  Number of Gamers: 7
+  Percentage of Gamers: 88%
+  Ratio: 3.43
+  TA: '687'
+  Tags: []
+- Achievement Name: Undo Level 10
+  Description: Undo a movement at Level 10.
+  GS: '200'
+  Guide: false
+  Number of Gamers: 7
+  Percentage of Gamers: 88%
+  Ratio: 3.43
+  TA: '687'
+  Tags: []
+- Achievement Name: Fresh Start Level 18
+  Description: Restart Level 18 after making a mistake.
+  GS: '200'
+  Guide: false
+  Number of Gamers: 8
+  Percentage of Gamers: 100%
+  Ratio: 2.8
+  TA: '561'
+  Tags: []
 Base Completion Time:
 - 0.5
 - 1.0
@@ -8,8 +53,8 @@ Base Game Achievements:
   Description: Complete Level 1
   GS: '5'
   Guide: false
-  Number of Gamers: 185
-  Percentage of Gamers: 99%
+  Number of Gamers: 186
+  Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '5'
   Tags:
@@ -20,7 +65,7 @@ Base Game Achievements:
   Description: Complete Level 10
   GS: '10'
   Guide: false
-  Number of Gamers: 165
+  Number of Gamers: 166
   Percentage of Gamers: 89%
   Ratio: 1.05
   TA: '10'
@@ -32,8 +77,8 @@ Base Game Achievements:
   Description: Complete Level 20
   GS: '20'
   Guide: false
-  Number of Gamers: 142
-  Percentage of Gamers: 76%
+  Number of Gamers: 143
+  Percentage of Gamers: 77%
   Ratio: 1.14
   TA: '22'
   Tags:
@@ -44,8 +89,8 @@ Base Game Achievements:
   Description: Complete Level 30
   GS: '30'
   Guide: false
-  Number of Gamers: 132
-  Percentage of Gamers: 71%
+  Number of Gamers: 133
+  Percentage of Gamers: 72%
   Ratio: 1.18
   TA: '35'
   Tags:
@@ -56,7 +101,7 @@ Base Game Achievements:
   Description: Complete Level 40
   GS: '40'
   Guide: false
-  Number of Gamers: 128
+  Number of Gamers: 129
   Percentage of Gamers: 69%
   Ratio: 1.2
   TA: '48'
@@ -68,7 +113,7 @@ Base Game Achievements:
   Description: Complete Half of the game with any number of moves
   GS: '75'
   Guide: false
-  Number of Gamers: 137
+  Number of Gamers: 138
   Percentage of Gamers: 74%
   Ratio: 1.16
   TA: '87'
@@ -79,8 +124,8 @@ Base Game Achievements:
   Description: Complete Half of the game within the number of moves suggested
   GS: '125'
   Guide: false
-  Number of Gamers: 127
-  Percentage of Gamers: 68%
+  Number of Gamers: 128
+  Percentage of Gamers: 69%
   Ratio: 1.2
   TA: '150'
   Tags:
@@ -90,7 +135,7 @@ Base Game Achievements:
   Description: Finish the game with any number of moves
   GS: '150'
   Guide: false
-  Number of Gamers: 126
+  Number of Gamers: 127
   Percentage of Gamers: 68%
   Ratio: 1.21
   TA: '181'
@@ -102,10 +147,10 @@ Base Game Achievements:
   Description: Complete the game within the number of moves suggested
   GS: '200'
   Guide: true
-  Number of Gamers: 123
-  Percentage of Gamers: 66%
+  Number of Gamers: 124
+  Percentage of Gamers: 67%
   Ratio: 1.22
-  TA: '245'
+  TA: '244'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -113,7 +158,7 @@ Base Game Achievements:
   Description: Solve a level with less moves than the sugested
   GS: '145'
   Guide: false
-  Number of Gamers: 128
+  Number of Gamers: 129
   Percentage of Gamers: 69%
   Ratio: 1.2
   TA: '174'
@@ -124,31 +169,31 @@ Base Game Achievements:
   Description: Solve at least 5 levels with less moves than the sugested
   GS: '200'
   Guide: false
-  Number of Gamers: 124
+  Number of Gamers: 125
   Percentage of Gamers: 67%
-  Ratio: 1.22
-  TA: '244'
+  Ratio: 1.21
+  TA: '243'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 1.201
-Base TA: 1201
+Base Ratio: 1.199
+Base TA: 1199
 Delisted: false
 Developer: Hanoi Studios
 Game Name: 'Hanoi Puzzles: Solid Match'
 Genres: Puzzle
 Install Size: 558.0
-Number of Completions: 123
+Number of Completions: 4
 Number of Gamers: 186
 Overall Completion Time:
 - 0.5
 - 1.0
-Overall GS: 1000
-Overall Ratio: 1.201
-Overall TA: 1201
+Overall GS: 2000
+Overall Ratio: 2.3965
+Overall TA: 4793
 PDU: 0
-Percentage Completed: 66.13
+Percentage Completed: 2.15
 Publisher: Hanoi Studios
 Release Date: 28 February 2025
 Server Closure: false

@@ -23,6 +23,8 @@ def check_game_for_scan_need(game_box_object: GameBox):
     # We use objects now
     game_file = f"game_data/{game_box_object.game_name_url}.yaml"
     # If the game is unreleased, don't bother scanning it.
+    if game_box_object.ratio == '-':
+        game_box_object.ta_score = 'Unreleased'
     if game_box_object.ta_score == "Unreleased":
         return False
     if not os.path.isfile(game_file):
@@ -133,6 +135,7 @@ def main():
     columns_list = utils.columns_list  
     tag_dict = TagDict()
     scraper = cloudscraper.create_scraper(delay=10, browser={'custom': 'Edge'})
+    games_scanned = 0
 
     for url, output_file in zip(urls, output_files[:-1]):
         # Iterate through all of the urls to grab all of the game
@@ -165,6 +168,7 @@ def main():
             game_box_obj = GameBox(game_box_tr)
             need_to_scan = check_game_for_scan_need(game_box_object=game_box_obj)
             if need_to_scan:
+                games_scanned += 1
                 game = Game(_url = game_box_obj.game_url, _tag_dict = tag_dict)
                 if game.unreleased == False:
                     game_data_path = f"game_data/{game_box_obj.game_name_url}.yaml"
@@ -188,6 +192,7 @@ def main():
     # We get here once we have iterated all other games. This is for the all games output
     df_overall = pd.DataFrame(columns=columns_list)
     output_file = output_files[-1]
+    print(f"All scans completed. Games scanned = {games_scanned}")
     print("Dumping ALL game data to csv")
     for yaml_file in tqdm(os.listdir("game_data/")):
         game_data_path = f"game_data/{yaml_file}"

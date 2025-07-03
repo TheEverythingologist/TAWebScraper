@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
+- 15
 - 16
-- 17
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: I might be able to make a hole-in-one too
   Description: Proof that Kairobot became a customer
   GS: '200'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 19%
-  Ratio: 2.32
-  TA: '464'
+  Number of Gamers: 6
+  Percentage of Gamers: 22%
+  Ratio: 2.12
+  TA: '424'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -19,15 +19,27 @@ Base Game Achievements:
   Description: Proof of managing a golf course for many years
   GS: '200'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 41%
-  Ratio: 1.56
-  TA: '313'
+  Number of Gamers: 12
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '300'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Let's aim for No.1 in the world!
   Description: Proof that the customer's skill has reached S rank
+  GS: '100'
+  Guide: false
+  Number of Gamers: 10
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '164'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: The full course you've been longing for
+  Description: Proof of creating all golf holes
   GS: '100'
   Guide: false
   Number of Gamers: 9
@@ -38,26 +50,14 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Main Storyline
-- Achievement Name: The full course you've been longing for
-  Description: Proof of creating all golf holes
-  GS: '100'
-  Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 30%
-  Ratio: 1.83
-  TA: '183'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Main Storyline
 - Achievement Name: Let's see what kind of course awaits you!
   Description: Proof of discovering many combos
   GS: '100'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 44%
-  Ratio: 1.5
-  TA: '150'
+  Number of Gamers: 13
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '144'
   Tags:
   - Offline Mode
   - Single Player
@@ -122,23 +122,23 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 1.646
-Base TA: 1646
+Base Ratio: 1.568
+Base TA: 1568
 Delisted: false
 Developer: Kairosoft
 Game Name: Forest Golf Planner
 Genres: Management
 Install Size: 455.0
-Number of Completions: 5
+Number of Completions: 6
 Number of Gamers: 27
 Overall Completion Time:
+- 15
 - 16
-- 17
 Overall GS: 1000
-Overall Ratio: 1.646
-Overall TA: 1646
+Overall Ratio: 1.568
+Overall TA: 1568
 PDU: 0
-Percentage Completed: 18.52
+Percentage Completed: 22.22
 Publisher: Kairosoft
 Release Date: 05 June 2025
 Server Closure: false
