@@ -4,12 +4,7 @@ class Utils:
             "https://www.trueachievements.com/xbox-360/games", 
             "https://www.trueachievements.com/windows/games", 
             "https://www.trueachievements.com/xbox-series-x/games"]
-    output_files = ['game_pass_games_times.csv',
-                    'xbox_one_games_times.csv', 
-                    'xbox_360_games_times.csv', 
-                    'windows_games_times.csv',
-                    'series_x_games_times.csv',
-                    'data_for_vorteka.csv']
+    output_files = ['overall_data.csv']
     columns_list = ["Game Name",
                     "TA",
                     "GS",

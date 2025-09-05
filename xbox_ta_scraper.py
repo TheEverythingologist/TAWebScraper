@@ -24,7 +24,8 @@ def check_game_for_scan_need(game_box_object: GameBox):
     # We use objects now
     game_file = f"game_data/{game_box_object.game_name_url}.yaml"
     # If the game is unreleased, don't bother scanning it.
-    if game_box_object.ratio == '-':
+    if game_box_object.ratio == '-' or game_box_object.ta_score == "0":
+        # Don't scan a game that hasn't been released has no TA score or no ratio.
         game_box_object.ta_score = 'Unreleased'
     if game_box_object.ta_score == "Unreleased":
         return False
@@ -41,9 +42,6 @@ def check_game_for_scan_need(game_box_object: GameBox):
             os.remove(game_file)
             return True
         new_ta = float(game_box_object.ta_score)
-        if previous_ta == 0:
-            # Don't scan a game with no TA
-            return False
         if abs((new_ta - previous_ta) / previous_ta) >= .025:
             # If ta score changed by +/- 2.5 percent, rescan
             return True
