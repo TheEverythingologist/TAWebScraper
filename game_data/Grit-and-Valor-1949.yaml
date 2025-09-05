@@ -1,0 +1,412 @@
+Add On Achievements: []
+Base Completion Time:
+- -1
+- -1
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Earning Your License
+  Description: Complete the Tutorial
+  GS: '5'
+  Guide: false
+  Number of Gamers: 61
+  Percentage of Gamers: 100%
+  Ratio: 1.0
+  TA: '5'
+  Tags: []
+- Achievement Name: We Shall Defend Our Island
+  Description: Complete the British Isles region
+  GS: '15'
+  Guide: false
+  Number of Gamers: 22
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '24'
+  Tags: []
+- Achievement Name: Arctic Warfare
+  Description: Complete the Scandinavia region
+  GS: '15'
+  Guide: false
+  Number of Gamers: 8
+  Percentage of Gamers: 13%
+  Ratio: 2.76
+  TA: '41'
+  Tags: []
+- Achievement Name: "Vive La R\xE9sistance"
+  Description: Complete the Western Europe region
+  GS: '30'
+  Guide: false
+  Number of Gamers: 2
+  Percentage of Gamers: 3%
+  Ratio: 5.52
+  TA: '165'
+  Tags: []
+- Achievement Name: Great Circuits Fall Quiet
+  Description: Complete the New Germany region
+  GS: '50'
+  Guide: false
+  Number of Gamers: 2
+  Percentage of Gamers: 3%
+  Ratio: 5.52
+  TA: '276'
+  Tags: []
+- Achievement Name: No One Left Behind
+  Description: Complete a region without losing a Mech
+  GS: '30'
+  Guide: false
+  Number of Gamers: 21
+  Percentage of Gamers: 34%
+  Ratio: 1.7
+  TA: '51'
+  Tags: []
+- Achievement Name: Jack of All Trades
+  Description: Complete a region with every Pilot and Mech at least once
+  GS: '15'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '15'
+  Tags: []
+- Achievement Name: Going All In
+  Description: Complete a region with all Mechs using the same damage type
+  GS: '15'
+  Guide: false
+  Number of Gamers: 3
+  Percentage of Gamers: 5%
+  Ratio: 4.5
+  TA: '67'
+  Tags: []
+- Achievement Name: Failure's Not An Option
+  Description: Complete a region without failing an Objective
+  GS: '30'
+  Guide: false
+  Number of Gamers: 19
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '53'
+  Tags: []
+- Achievement Name: Subsistence
+  Description: Complete a region without any of the Mechano-Arm, Field Repairs or
+    Forge Armor abilities equipped
+  GS: '30'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 7%
+  Ratio: 3.9
+  TA: '117'
+  Tags: []
+- Achievement Name: Dance Like You Want to Win
+  Description: Defeat the British Isles boss without any units being damaged by a
+    mortar attack.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 10
+  Percentage of Gamers: 16%
+  Ratio: 2.46
+  TA: '74'
+  Tags: []
+- Achievement Name: Sore Loser
+  Description: Defeat the Scandinavia boss without using offensive abilites
+  GS: '30'
+  Guide: false
+  Number of Gamers: 2
+  Percentage of Gamers: 3%
+  Ratio: 5.52
+  TA: '165'
+  Tags: []
+- Achievement Name: One Hand Behind My Back
+  Description: Defeat the Western Europe boss with only two Mechs alive at the start
+    of the fight
+  GS: '30'
+  Guide: false
+  Number of Gamers: 2
+  Percentage of Gamers: 3%
+  Ratio: 5.52
+  TA: '165'
+  Tags: []
+- Achievement Name: Catch Me If You Can
+  Description: Defeat the New Germany boss with no more than one unit on high ground
+    at once
+  GS: '30'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '30'
+  Tags: []
+- Achievement Name: Geared Up
+  Description: Equip a Module into every slot on a Mech
+  GS: '15'
+  Guide: false
+  Number of Gamers: 11
+  Percentage of Gamers: 18%
+  Ratio: 2.46
+  TA: '37'
+  Tags: []
+- Achievement Name: Over the Limit
+  Description: Equip an Overclock
+  GS: '15'
+  Guide: false
+  Number of Gamers: 28
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '22'
+  Tags: []
+- Achievement Name: She Can't Take Much More
+  Description: Equip a Mech with three Overclocks simultaneously
+  GS: '30'
+  Guide: false
+  Number of Gamers: 2
+  Percentage of Gamers: 3%
+  Ratio: 5.52
+  TA: '165'
+  Tags: []
+- Achievement Name: Proficient Pilot
+  Description: Max out a Pilot skill
+  GS: '15'
+  Guide: false
+  Number of Gamers: 14
+  Percentage of Gamers: 23%
+  Ratio: 2.16
+  TA: '32'
+  Tags: []
+- Achievement Name: Expert in my Field
+  Description: Max out all skills for a Pilot
+  GS: '30'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 2%
+  Ratio: 7.81
+  TA: '234'
+  Tags: []
+- Achievement Name: Rock Beats Scissors
+  Description: Defeat 250 enemy units with the damage type they are weak to
+  GS: '15'
+  Guide: false
+  Number of Gamers: 20
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '26'
+  Tags: []
+- Achievement Name: Collecting Bounties
+  Description: Defeat 100 elite units
+  GS: '15'
+  Guide: false
+  Number of Gamers: 24
+  Percentage of Gamers: 39%
+  Ratio: 1.59
+  TA: '23'
+  Tags: []
+- Achievement Name: It's Over... I Have the High Ground
+  Description: Defeat 250 enemy units while on high ground
+  GS: '15'
+  Guide: false
+  Number of Gamers: 12
+  Percentage of Gamers: 20%
+  Ratio: 2.35
+  TA: '35'
+  Tags: []
+- Achievement Name: Side Hustle
+  Description: Complete 100 Objectives
+  GS: '15'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '15'
+  Tags: []
+- Achievement Name: Never Tell Me the Odds
+  Description: Complete 25 Elite Combat Encounters
+  GS: '15'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '15'
+  Tags: []
+- Achievement Name: The Price is Reich
+  Description: Spend 5000 Black Coins in the Salvage Outpost
+  GS: '15'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '15'
+  Tags: []
+- Achievement Name: Crash Landing
+  Description: Defeat 50 enemy units with the Jump Jet ability
+  GS: '30'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 2%
+  Ratio: 7.81
+  TA: '234'
+  Tags: []
+- Achievement Name: Watch Your Step
+  Description: Defeat 50 enemy units with the Mine Drop ability
+  GS: '30'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 2%
+  Ratio: 7.81
+  TA: '234'
+  Tags: []
+- Achievement Name: Raining Fire
+  Description: Defeat 50 enemy units with the Airstrike ability
+  GS: '30'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '30'
+  Tags: []
+- Achievement Name: I Like to Keep It Handy
+  Description: Repair 50 times with the Mechano-Arm ability
+  GS: '30'
+  Guide: false
+  Number of Gamers: 3
+  Percentage of Gamers: 5%
+  Ratio: 4.5
+  TA: '135'
+  Tags: []
+- Achievement Name: Remote Possibilities
+  Description: Defeat 50 enemy units with the Remote Mine ability
+  GS: '30'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '30'
+  Tags: []
+- Achievement Name: Armored Defender
+  Description: Repair 50 times with the Forge Armor ability
+  GS: '30'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '30'
+  Tags: []
+- Achievement Name: Roadside Mechanic
+  Description: Repair 50 times with the Field Repairs ability
+  GS: '30'
+  Guide: false
+  Number of Gamers: 3
+  Percentage of Gamers: 5%
+  Ratio: 4.5
+  TA: '135'
+  Tags: []
+- Achievement Name: My Little Friend
+  Description: Defeat 50 enemy units with the Field Sentry ability
+  GS: '30'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '30'
+  Tags: []
+- Achievement Name: A Job Well Done
+  Description: Complete a Command Center Assignment
+  GS: '15'
+  Guide: false
+  Number of Gamers: 40
+  Percentage of Gamers: 66%
+  Ratio: 1.23
+  TA: '18'
+  Tags: []
+- Achievement Name: Checking Off the List
+  Description: Complete 30 Command Center Assignments
+  GS: '30'
+  Guide: false
+  Number of Gamers: 15
+  Percentage of Gamers: 25%
+  Ratio: 2.01
+  TA: '60'
+  Tags: []
+- Achievement Name: Scaling Up
+  Description: Unlock an Advancement in the Command Center
+  GS: '15'
+  Guide: false
+  Number of Gamers: 40
+  Percentage of Gamers: 66%
+  Ratio: 1.23
+  TA: '18'
+  Tags: []
+- Achievement Name: Today is a Good Day for Science
+  Description: Unlock 30 Advancements in the Command Center
+  GS: '30'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 2%
+  Ratio: 7.81
+  TA: '234'
+  Tags: []
+- Achievement Name: Fixer Upper
+  Description: Unlock all Hub Plots in the Command Center
+  GS: '30'
+  Guide: false
+  Number of Gamers: 32
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '41'
+  Tags: []
+- Achievement Name: Kitted Out
+  Description: Unlock all Mech Slots, Mech Module Slots, Overclocks, Shop Slots and
+    Pilot Ability Upgrades.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '30'
+  Tags: []
+- Achievement Name: Now I Have a Machine Gun
+  Description: Unlock the Command Vehicle Field Sentry ability
+  GS: '15'
+  Guide: false
+  Number of Gamers: 30
+  Percentage of Gamers: 49%
+  Ratio: 1.42
+  TA: '21'
+  Tags: []
+- Achievement Name: Diamond in the Rough
+  Description: Find and equip a Legendary Enhancement
+  GS: '30'
+  Guide: false
+  Number of Gamers: 38
+  Percentage of Gamers: 62%
+  Ratio: 1.26
+  TA: '38'
+  Tags: []
+- Achievement Name: Not Today
+  Description: Survive a killing blow with the Phoenix Protocol Overclock
+  GS: '15'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 2%
+  Ratio: 7.81
+  TA: '117'
+  Tags: []
+Base Ratio: 3.302
+Base TA: 3302
+Delisted: false
+Developer: Milky Tea Studios
+Game Name: Grit and Valor - 1949
+Genres: Strategy, Real Time
+Install Size: 8750.0
+Number of Completions: 0
+Number of Gamers: 61
+Overall Completion Time:
+- -1
+- -1
+Overall GS: 1000
+Overall Ratio: 3.302
+Overall TA: 3302
+PDU: 0
+Percentage Completed: 0.0
+Publisher: Megabit
+Release Date: 21 August 2025
+Server Closure: false
+Site Rating: 3.75
+Update Achievements: []
+Walkthrough: false

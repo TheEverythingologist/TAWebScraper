@@ -1,0 +1,514 @@
+Add On Achievements: []
+Base Completion Time:
+- -1
+- -1
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Game Over...?
+  Description: Crash land on a lifeless planet.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 22
+  Percentage of Gamers: 100%
+  Ratio: 1.0
+  TA: '5'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Origin of Life
+  Description: Discover a Slime.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 19
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: This Grass is Greener
+  Description: Grow Tall Grass.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 19
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '10'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Maple Story
+  Description: Have a Slime, Shroom, and Snail in your garden.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 7
+  Percentage of Gamers: 32%
+  Ratio: 1.77
+  TA: '35'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Canadian Legend
+  Description: Have a poppy, grape bush, and cherry tree planted in your garden.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 5%
+  Ratio: 4.69
+  TA: '93'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Adaptability
+  Description: Mutate an individual Critter across 6 different species.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 3
+  Percentage of Gamers: 14%
+  Ratio: 2.7
+  TA: '54'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Apprentice Gardener
+  Description: Reach level 5.
+  GS: '5'
+  Guide: false
+  Number of Gamers: 9
+  Percentage of Gamers: 41%
+  Ratio: 1.56
+  TA: '7'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Journeyman Gardener
+  Description: Reach level 10.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 5
+  Percentage of Gamers: 23%
+  Ratio: 2.09
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Master Gardener
+  Description: Reach level 25.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 5%
+  Ratio: 4.69
+  TA: '117'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Grandmaster Gardener
+  Description: Reach level 50.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+- Achievement Name: Explorer
+  Description: Discover a new biome.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 9
+  Percentage of Gamers: 41%
+  Ratio: 1.56
+  TA: '15'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Geographer
+  Description: Discover all the biomes.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 5%
+  Ratio: 4.69
+  TA: '93'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Breeder
+  Description: Discover 25 Critters.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2
+  Percentage of Gamers: 9%
+  Ratio: 3.31
+  TA: '33'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Zoologist
+  Description: Discover 50 Critters.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 5%
+  Ratio: 4.69
+  TA: '93'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Master Zoologist
+  Description: Discover all Critters.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Green Thumb
+  Description: Discover 20 plants.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 5
+  Percentage of Gamers: 23%
+  Ratio: 2.09
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Botanist
+  Description: Discover 40 plants.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 5%
+  Ratio: 4.69
+  TA: '93'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Master Botanist
+  Description: Discover all plants.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Drip Drop
+  Description: Purchase your first new tool.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 15
+  Percentage of Gamers: 68%
+  Ratio: 1.21
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Forged
+  Description: Upgrade a tool to steel.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 5
+  Percentage of Gamers: 23%
+  Ratio: 2.09
+  TA: '41'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Is this Trademarked?
+  Description: Upgrade a tool to mithril.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 5%
+  Ratio: 4.69
+  TA: '117'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Superstonk
+  Description: Unite a Cat with a Gorilla.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '25'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Bear and Bird
+  Description: Unite a Bear with a Seagull.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '25'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Wasn't as Good
+  Description: Unite a Chameleon with a Bat.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 5%
+  Ratio: 4.69
+  TA: '117'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Undergraduate in Astrobiology
+  Description: Gain 25 research points.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 18%
+  Ratio: 2.34
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Masters in Astrobiology
+  Description: Gain 75 research points.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 5%
+  Ratio: 4.69
+  TA: '93'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: PhD in Astrobiology
+  Description: Gain 150 research points.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Professor of Astrobiology
+  Description: Gain all the research points.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '50'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Philosopher's Guardian
+  Description: Discover a Cerberus.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '25'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Male Eater
+  Description: Discover a Mantis.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '25'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Critter Rancher
+  Description: Discover a Phoenix.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '25'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Fire and Pixels
+  Description: Discover a Dragon.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 5%
+  Ratio: 4.69
+  TA: '117'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Dam, Nice Work
+  Description: Complete the Beaver minigame without getting hit.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 18%
+  Ratio: 2.34
+  TA: '58'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: I Made a Game with Penguins in it
+  Description: Complete the Penguin minigame without getting hit.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 5%
+  Ratio: 4.69
+  TA: '117'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Beetle Chase
+  Description: Complete the Beetle minigame without getting hit.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 5%
+  Ratio: 4.69
+  TA: '117'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Sleep in the Heat
+  Description: Complete the Chameleon minigame without getting hit.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 5%
+  Ratio: 4.69
+  TA: '117'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Lab Leak
+  Description: Recover your caesium power coils and learn about the destruction of
+    life on this planet.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 18%
+  Ratio: 2.34
+  TA: '58'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Dry Ice
+  Description: Recover your quantum capacitor and learn about a mysterious alien species.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 5%
+  Ratio: 4.69
+  TA: '117'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Ill, Looming, Naughty
+  Description: Recover your chroniton thrust engine and learn about a historical conspiracy.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 5%
+  Ratio: 4.69
+  TA: '117'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Forerunners
+  Description: Recover your particle shield core and learn about the origin of Critters.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 5%
+  Ratio: 4.69
+  TA: '117'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Pure Simple Completion.
+  Description: Achieve 100% game completion.
+  GS: '100'
+  Guide: false
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '100'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Once in a Lifetime Experience
+  Description: Repair your ship and return home.
+  GS: '50'
+  Guide: false
+  Number of Gamers: 1
+  Percentage of Gamers: 5%
+  Ratio: 4.69
+  TA: '234'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
+Base Ratio: 2.67
+Base TA: 2670
+Delisted: false
+Developer: Minjonia Studios
+Game Name: CritterGarden
+Genres: Simulation, Management
+Install Size: 613.0
+Number of Completions: 0
+Number of Gamers: 22
+Overall Completion Time:
+- -1
+- -1
+Overall GS: 1000
+Overall Ratio: 2.67
+Overall TA: 2670
+PDU: 0
+Percentage Completed: 0.0
+Publisher: Minjonia Studios
+Release Date: 20 August 2025
+Server Closure: false
+Site Rating: None
+Update Achievements: []
+Walkthrough: false

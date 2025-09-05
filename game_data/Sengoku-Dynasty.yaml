@@ -1,0 +1,520 @@
+Add On Achievements: []
+Base Completion Time:
+- -1
+- -1
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Personal Enlightenment
+  Description: Unlock max level in all Warrior, Monk, and Craftsman (non-background)
+    perks.
+  GS: '100'
+  Guide: false
+  Number of Gamers: 2
+  Percentage of Gamers: 0%
+  Ratio: 19.57
+  TA: 1,957
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: We live in a society
+  Description: Reach the max population at max Dynasty Level.
+  GS: '100'
+  Guide: false
+  Number of Gamers: 5
+  Percentage of Gamers: 1%
+  Ratio: 12.37
+  TA: 1,237
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: The Honorable Restoration
+  Description: Complete all Special Projects on the map.
+  GS: '100'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 1%
+  Ratio: 13.83
+  TA: 1,383
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: "Bushid\u014D Mastery"
+  Description: Unlock max level in all Way of the Warrior (non-background) perks.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 2
+  Percentage of Gamers: 0%
+  Ratio: 19.57
+  TA: '587'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Spiritual Mastery
+  Description: Unlock max level in all Way of the Monk (non-background) perks.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 35
+  Percentage of Gamers: 5%
+  Ratio: 4.67
+  TA: '140'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Craftsmanship Mastery
+  Description: Unlock max level in all Way of the Craftsman (non-background) perks.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 16
+  Percentage of Gamers: 2%
+  Ratio: 6.91
+  TA: '207'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: "Daimy\u014D"
+  Description: Reach the max Dynasty Legend level.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 13
+  Percentage of Gamers: 2%
+  Ratio: 7.67
+  TA: '230'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Best Superpower
+  Description: Have 50,000 coins in your inventory.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 12
+  Percentage of Gamers: 2%
+  Ratio: 7.98
+  TA: '239'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative
+- Achievement Name: 'Questing: Not Just for Heroes'
+  Description: Finish all neutral village side quests.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 11
+  Percentage of Gamers: 1%
+  Ratio: 8.34
+  TA: '250'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: The Great Unifier
+  Description: Liberate all regions.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 16
+  Percentage of Gamers: 2%
+  Ratio: 6.91
+  TA: '207'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Gotta Slay 'Em All
+  Description: Kill all types of animals and any human opponent.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 226
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '55'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Guardian of Needs
+  Description: Have a positive production for all 8 types of needs simultaneously.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 31
+  Percentage of Gamers: 4%
+  Ratio: 5.05
+  TA: '151'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: From Drab to Fab
+  Description: Build any decoration.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 243
+  Percentage of Gamers: 32%
+  Ratio: 1.78
+  TA: '17'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: "It ain't much but it\u2019s honest work"
+  Description: Personally harvest crops from your farm field.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 149
+  Percentage of Gamers: 19%
+  Ratio: 2.26
+  TA: '34'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Gourmet
+  Description: Consume any top-tier, excellent meal.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 95
+  Percentage of Gamers: 12%
+  Ratio: 2.83
+  TA: '42'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Timberrrr!
+  Description: Cut down any full-size tree.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 764
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: I believed I could fly
+  Description: Die because of the fall damage.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 202
+  Percentage of Gamers: 26%
+  Ratio: 1.94
+  TA: '29'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: No More Couch Surfing!
+  Description: Build any house-type structure.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 651
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '27'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Branching Out
+  Description: Have a child.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 33
+  Percentage of Gamers: 4%
+  Ratio: 4.89
+  TA: '122'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Don't You Dare Chop It!
+  Description: Plant a tree and let it grow to full size.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 80
+  Percentage of Gamers: 10%
+  Ratio: 3.11
+  TA: '46'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: For the sake of sake
+  Description: Drink sake.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 174
+  Percentage of Gamers: 23%
+  Ratio: 2.09
+  TA: '31'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: There's nowhere to run!
+  Description: Kill a deer.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 361
+  Percentage of Gamers: 47%
+  Ratio: 1.45
+  TA: '21'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Stop oinking!
+  Description: Kill a boar.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 381
+  Percentage of Gamers: 49%
+  Ratio: 1.41
+  TA: '21'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Bad dog!
+  Description: Kill a wolf
+  GS: '15'
+  Guide: false
+  Number of Gamers: 353
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '22'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Bearly Survived!
+  Description: Kill a bear.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 270
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '25'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: What's Up, Doc?
+  Description: Kill a hare.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 360
+  Percentage of Gamers: 47%
+  Ratio: 1.46
+  TA: '14'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: What Does the Fox Say?
+  Description: Kill a fox.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 361
+  Percentage of Gamers: 47%
+  Ratio: 1.45
+  TA: '21'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Hands Off My Gold!
+  Description: Kill any enemy.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 516
+  Percentage of Gamers: 67%
+  Ratio: 1.21
+  TA: '18'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Who smelt it dealt it
+  Description: Sticks and stones may break bones but copper will pierce hearts. Craft
+    a copper-tier weapon or tool.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 384
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '14'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Bronze Age
+  Description: Craft a bronze-tier weapon or tool.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 237
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '26'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Finally, the proper toys
+  Description: Craft an iron-tier weapon or tool.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 129
+  Percentage of Gamers: 17%
+  Ratio: 2.43
+  TA: '36'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Unleashing the Power of Steel!
+  Description: Craft a steel-tier weapon or tool.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 68
+  Percentage of Gamers: 9%
+  Ratio: 3.4
+  TA: '51'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Look at this gem!
+  Description: Craft a masterwork-tier weapon or tool.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 76
+  Percentage of Gamers: 10%
+  Ratio: 3.19
+  TA: '79'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: One Less Mouth to Feed!
+  Description: Have a villager leave your Dynasty for any reason.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 29
+  Percentage of Gamers: 4%
+  Ratio: 5.23
+  TA: '78'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Hot Springs and Chill
+  Description: Bathe in an Onsen.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 143
+  Percentage of Gamers: 19%
+  Ratio: 2.32
+  TA: '34'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Get my bearings
+  Description: Complete the "Get Your Bearings" quest.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2
+  Percentage of Gamers: 0%
+  Ratio: 19.57
+  TA: '293'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: 2 is a company, 3 is a crowd
+  Description: Have 3 non-player villagers in your Dynasty.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 529
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '18'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Thousand Gold Club
+  Description: Have 1,000 coins in your inventory.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 239
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '26'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative
+- Achievement Name: Foothold situation
+  Description: Liberate any region.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 298
+  Percentage of Gamers: 39%
+  Ratio: 1.6
+  TA: '24'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Breaking the Mold
+  Description: Establish a village outside the starting region.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 185
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '30'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+Base Ratio: 7.852
+Base TA: 7852
+Delisted: false
+Developer: Superkami
+Game Name: Sengoku Dynasty
+Genres: Survival
+Install Size: 19360.0
+Number of Completions: 0
+Number of Gamers: 770
+Overall Completion Time:
+- -1
+- -1
+Overall GS: 1000
+Overall Ratio: 7.852
+Overall TA: 7852
+PDU: 0
+Percentage Completed: 0.0
+Publisher: Toplitz Productions
+Release Date: 21 August 2025
+Server Closure: false
+Site Rating: 4.0
+Update Achievements: []
+Walkthrough: false

@@ -1,0 +1,473 @@
+Add On Achievements: []
+Base Completion Time:
+- 38
+- 39
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Fresh Start
+  Description: Build your first machine
+  GS: '20'
+  Guide: false
+  Number of Gamers: 340
+  Percentage of Gamers: 100%
+  Ratio: 1.0
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Tier 1 Production
+  Description: Buy all first tier machines
+  GS: '20'
+  Guide: false
+  Number of Gamers: 187
+  Percentage of Gamers: 55%
+  Ratio: 1.35
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Tier 2 Production
+  Description: Buy all second tier machines
+  GS: '30'
+  Guide: false
+  Number of Gamers: 93
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '57'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Tier 3 Production
+  Description: Buy all third tier machines
+  GS: '50'
+  Guide: false
+  Number of Gamers: 94
+  Percentage of Gamers: 28%
+  Ratio: 1.92
+  TA: '96'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Growing Jobs
+  Description: Buy all first factory upgrades
+  GS: '20'
+  Guide: false
+  Number of Gamers: 168
+  Percentage of Gamers: 49%
+  Ratio: 1.43
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Great Factory
+  Description: Buy all factory upgrades
+  GS: '30'
+  Guide: false
+  Number of Gamers: 66
+  Percentage of Gamers: 19%
+  Ratio: 2.3
+  TA: '69'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Sort It Out
+  Description: Sort wastes successfully 1 time
+  GS: '20'
+  Guide: false
+  Number of Gamers: 331
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Sortmania
+  Description: Sort wastes succesfully 10 times
+  GS: '30'
+  Guide: false
+  Number of Gamers: 166
+  Percentage of Gamers: 49%
+  Ratio: 1.43
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Bargainer
+  Description: Take 5 scrap deals
+  GS: '20'
+  Guide: false
+  Number of Gamers: 289
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Hard Bargainer
+  Description: Take 100 scrap deals
+  GS: '30'
+  Guide: false
+  Number of Gamers: 132
+  Percentage of Gamers: 39%
+  Ratio: 1.61
+  TA: '48'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Every Nook and Cranny
+  Description: Clean 10 gathering areas completely
+  GS: '20'
+  Guide: false
+  Number of Gamers: 249
+  Percentage of Gamers: 73%
+  Ratio: 1.17
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: To the Sky
+  Description: Fill a pallet completely
+  GS: '20'
+  Guide: false
+  Number of Gamers: 289
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Night Owl
+  Description: Work till 09:00 pm
+  GS: '20'
+  Guide: false
+  Number of Gamers: 306
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Contract Hunter
+  Description: Deliver 3 contracts
+  GS: '20'
+  Guide: false
+  Number of Gamers: 258
+  Percentage of Gamers: 76%
+  Ratio: 1.15
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Strict Monitoring
+  Description: Sell 100 products at marketplace
+  GS: '20'
+  Guide: false
+  Number of Gamers: 221
+  Percentage of Gamers: 65%
+  Ratio: 1.24
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Shop
+- Achievement Name: Ready, Set, Sort!
+  Description: Hire 2 sorting workers
+  GS: '20'
+  Guide: false
+  Number of Gamers: 210
+  Percentage of Gamers: 62%
+  Ratio: 1.27
+  TA: '25'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Let Them Gather
+  Description: Hire a trash collector
+  GS: '20'
+  Guide: false
+  Number of Gamers: 220
+  Percentage of Gamers: 65%
+  Ratio: 1.24
+  TA: '24'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Call Me Maybe
+  Description: Hire an assistant
+  GS: '20'
+  Guide: false
+  Number of Gamers: 180
+  Percentage of Gamers: 53%
+  Ratio: 1.38
+  TA: '27'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Rise of the Robots
+  Description: Get a robot
+  GS: '20'
+  Guide: false
+  Number of Gamers: 179
+  Percentage of Gamers: 53%
+  Ratio: 1.38
+  TA: '27'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Full Employment
+  Description: Reach max employee limit
+  GS: '30'
+  Guide: false
+  Number of Gamers: 75
+  Percentage of Gamers: 22%
+  Ratio: 2.18
+  TA: '65'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Proficient Recycler
+  Description: Reach reputation level 10
+  GS: '20'
+  Guide: false
+  Number of Gamers: 189
+  Percentage of Gamers: 56%
+  Ratio: 1.34
+  TA: '26'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Expert Recycler
+  Description: Reach reputation level 20
+  GS: '30'
+  Guide: false
+  Number of Gamers: 73
+  Percentage of Gamers: 21%
+  Ratio: 2.2
+  TA: '66'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Trash to Cash
+  Description: Earn $5000
+  GS: '20'
+  Guide: false
+  Number of Gamers: 237
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Reduce, Reuse, Richness!
+  Description: Earn $250.000
+  GS: '30'
+  Guide: false
+  Number of Gamers: 78
+  Percentage of Gamers: 23%
+  Ratio: 2.12
+  TA: '63'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Millionaire!
+  Description: Earn $1.000.000
+  GS: '50'
+  Guide: true
+  Number of Gamers: 26
+  Percentage of Gamers: 8%
+  Ratio: 3.84
+  TA: '192'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Newbie
+  Description: Produce 200 products
+  GS: '20'
+  Guide: false
+  Number of Gamers: 255
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Worldwide Producer
+  Description: Produce 5.000 products
+  GS: '30'
+  Guide: false
+  Number of Gamers: 147
+  Percentage of Gamers: 43%
+  Ratio: 1.53
+  TA: '46'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Make Money
+  Description: End a day with more than $1000 profit
+  GS: '30'
+  Guide: false
+  Number of Gamers: 218
+  Percentage of Gamers: 64%
+  Ratio: 1.24
+  TA: '37'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: What's in the Box?
+  Description: Use crowbar 10 times
+  GS: '20'
+  Guide: false
+  Number of Gamers: 155
+  Percentage of Gamers: 46%
+  Ratio: 1.48
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Makes You Feel Guilty
+  Description: Use lockpick 10 times
+  GS: '20'
+  Guide: false
+  Number of Gamers: 174
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: I Love Tools
+  Description: Buy crowbar and lockpick
+  GS: '20'
+  Guide: false
+  Number of Gamers: 217
+  Percentage of Gamers: 64%
+  Ratio: 1.25
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Don't Be Trashy
+  Description: Collect waste from recycle container
+  GS: '20'
+  Guide: false
+  Number of Gamers: 185
+  Percentage of Gamers: 54%
+  Ratio: 1.35
+  TA: '27'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Mass Production
+  Description: Build 20 conveyor belts
+  GS: '20'
+  Guide: false
+  Number of Gamers: 85
+  Percentage of Gamers: 25%
+  Ratio: 2.06
+  TA: '41'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Money Line
+  Description: Build 50 conveyor belts
+  GS: '30'
+  Guide: false
+  Number of Gamers: 64
+  Percentage of Gamers: 19%
+  Ratio: 2.4
+  TA: '72'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Hybrid Production
+  Description: Buy all hybrid machines
+  GS: '50'
+  Guide: false
+  Number of Gamers: 39
+  Percentage of Gamers: 11%
+  Ratio: 3.03
+  TA: '151'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Watching Charts
+  Description: Sell 250 hybrid products at marketplace
+  GS: '30'
+  Guide: false
+  Number of Gamers: 32
+  Percentage of Gamers: 9%
+  Ratio: 3.31
+  TA: '99'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Ways of Deal
+  Description: Deliver 10 contracts that include hybrid products
+  GS: '30'
+  Guide: false
+  Number of Gamers: 29
+  Percentage of Gamers: 9%
+  Ratio: 3.54
+  TA: '106'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Production Addict
+  Description: Produce 20.000 products
+  GS: '50'
+  Guide: false
+  Number of Gamers: 79
+  Percentage of Gamers: 23%
+  Ratio: 2.12
+  TA: '106'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+Base Ratio: 1.868
+Base TA: 1868
+Delisted: false
+Developer: Console Labs, Balas Games
+Game Name: Recycling Center Simulator
+Genres: Management
+Install Size: 2470.0
+Number of Completions: 25
+Number of Gamers: 340
+Overall Completion Time:
+- 38
+- 39
+Overall GS: 1000
+Overall Ratio: 1.868
+Overall TA: 1868
+PDU: 0
+Percentage Completed: 7.35
+Publisher: PlayWay
+Release Date: 22 August 2025
+Server Closure: false
+Site Rating: 3.33
+Update Achievements: []
+Walkthrough: false

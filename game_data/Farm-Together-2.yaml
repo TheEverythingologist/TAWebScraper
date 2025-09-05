@@ -1,0 +1,775 @@
+Add On Achievements: []
+Base Completion Time:
+- 150.0
+- 200.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: It is the first step that costs
+  Description: Reach level 10 in your Farm
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2155
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Level
+- Achievement Name: Hard work pays off
+  Description: Reach level 50 in your Farm
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1565
+  Percentage of Gamers: 61%
+  Ratio: 1.28
+  TA: '25'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Level
+- Achievement Name: Time flies when you're having fun
+  Description: Reach level 100 in your Farm
+  GS: '40'
+  Guide: false
+  Number of Gamers: 1025
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '63'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Level
+- Achievement Name: Give credit where credit is due
+  Description: Reach level 200 in your Farm
+  GS: '80'
+  Guide: true
+  Number of Gamers: 333
+  Percentage of Gamers: 13%
+  Ratio: 2.78
+  TA: '223'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Level
+- Achievement Name: Fake it till you make it
+  Description: Reach Player level 10
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2298
+  Percentage of Gamers: 89%
+  Ratio: 1.05
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: Fall seven times, stand up eight
+  Description: Reach Player level 20
+  GS: '20'
+  Guide: false
+  Number of Gamers: 2132
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '21'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+- Achievement Name: No place like home
+  Description: Enter a house
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2159
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: A watched pot never boils
+  Description: Finish a food recipe
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2008
+  Percentage of Gamers: 78%
+  Ratio: 1.13
+  TA: '11'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Every picture tells a story
+  Description: Finish a painting
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1965
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '11'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: The sincerest form of flattery
+  Description: Finish a song
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1838
+  Percentage of Gamers: 72%
+  Ratio: 1.18
+  TA: '11'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: It is better to give than to receive
+  Description: Earn 25 favor points
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2048
+  Percentage of Gamers: 80%
+  Ratio: 1.12
+  TA: '11'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: One good turn deserves another
+  Description: Earn 2,500 favor points
+  GS: '20'
+  Guide: true
+  Number of Gamers: 502
+  Percentage of Gamers: 20%
+  Ratio: 2.26
+  TA: '45'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: As green as a gourd
+  Description: Plant your first crop
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2549
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: The apple never falls far from the tree
+  Description: Plant your first tree
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2389
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Don't put all your eggs in one basket
+  Description: Buy your first animal
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2335
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Shop
+- Achievement Name: Bigger fish to fry
+  Description: Buy your first pond
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2308
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Shop
+- Achievement Name: No garden without its weeds
+  Description: Plant your first flower
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2315
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: All good things come to him who waits
+  Description: Harvest any crop or flower that takes a day or more to grow
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2086
+  Percentage of Gamers: 81%
+  Ratio: 1.1
+  TA: '11'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Easier said than done
+  Description: Reach level 50 or more of 50 different items
+  GS: '80'
+  Guide: true
+  Number of Gamers: 696
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '153'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Level
+- Achievement Name: You want a thing well done, do it yourself
+  Description: Reach level 100 of any item
+  GS: '20'
+  Guide: true
+  Number of Gamers: 904
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '33'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Level
+- Achievement Name: If you pay peanuts, you get monkeys
+  Description: Upgrade any shop to level 10 or more
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1743
+  Percentage of Gamers: 68%
+  Ratio: 1.21
+  TA: '12'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Shop
+- Achievement Name: In for a penny, in for a pound
+  Description: Upgrade any shop to level 50 or more
+  GS: '20'
+  Guide: true
+  Number of Gamers: 645
+  Percentage of Gamers: 25%
+  Ratio: 1.99
+  TA: '39'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Shop
+- Achievement Name: Failing to plan is planning to fail
+  Description: Unlock your first land expansion
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2225
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Many a little makes a mickle
+  Description: Unlock 25 land expansions
+  GS: '20'
+  Guide: false
+  Number of Gamers: 896
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '33'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Well done is better than well said
+  Description: Unlock 49 land expansions
+  GS: '40'
+  Guide: true
+  Number of Gamers: 371
+  Percentage of Gamers: 14%
+  Ratio: 2.63
+  TA: '105'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: It takes two to tango
+  Description: Join the farm of another player
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1995
+  Percentage of Gamers: 78%
+  Ratio: 1.13
+  TA: '11'
+  Tags:
+  - Online/Offline
+  - Cooperative
+- Achievement Name: Hit the nail on the head
+  Description: Build your first production building
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1822
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '11'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Picture-Perfect
+  Description: Open photo mode
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1683
+  Percentage of Gamers: 65%
+  Ratio: 1.23
+  TA: '12'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Never do things by halves
+  Description: Harvest 10,000 items
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2013
+  Percentage of Gamers: 78%
+  Ratio: 1.12
+  TA: '11'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Everything is good in its season
+  Description: Harvest 50,000 items
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1677
+  Percentage of Gamers: 65%
+  Ratio: 1.23
+  TA: '24'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: To travel is a better thing than to arrive
+  Description: Build a quick travel point
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1710
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '12'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: No song, no supper
+  Description: Build a feeder
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1554
+  Percentage of Gamers: 60%
+  Ratio: 1.28
+  TA: '12'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: When it rains it pours
+  Description: Build a sprinkler
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1701
+  Percentage of Gamers: 66%
+  Ratio: 1.22
+  TA: '12'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Money does not grow on trees
+  Description: Have 1 million coins in your farm at any given time
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1778
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '12'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Cumulative
+- Achievement Name: Another day, another dollar
+  Description: Have 100 million coins in your farm at any given time
+  GS: '20'
+  Guide: true
+  Number of Gamers: 625
+  Percentage of Gamers: 24%
+  Ratio: 2.02
+  TA: '40'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Cumulative
+- Achievement Name: Business before pleasure
+  Description: Earn a total of 1,000 medals
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1308
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '28'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: No pain, no gain
+  Description: Build a farmhand stall
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1327
+  Percentage of Gamers: 52%
+  Ratio: 1.39
+  TA: '13'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Appearances can be deceptive
+  Description: Purchase 25 house decorations
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1309
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '14'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+  - Shop
+- Achievement Name: It's the squeaky wheel that gets the grease
+  Description: Use the tractor on 500,000 tiles
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1105
+  Percentage of Gamers: 43%
+  Ratio: 1.52
+  TA: '30'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Don't judge a book by its cover
+  Description: Build a total of 1,000 decorations, roads or fences
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1192
+  Percentage of Gamers: 46%
+  Ratio: 1.46
+  TA: '29'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Everyone has their price
+  Description: Build the farmhands union
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1500
+  Percentage of Gamers: 58%
+  Ratio: 1.3
+  TA: '26'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: There is no such thing as bad publicity
+  Description: Build the quest bazaar
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1289
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '14'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Beauty is only skin deep
+  Description: Customize your farmer
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2259
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: To eat the fruit you must climb the tree
+  Description: Harvest 25,000 trees
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1374
+  Percentage of Gamers: 53%
+  Ratio: 1.36
+  TA: '27'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: He who plants a garden plants happiness
+  Description: Harvest 25,000 crops
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1629
+  Percentage of Gamers: 63%
+  Ratio: 1.25
+  TA: '25'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Who goes barefoot must not plant thorns
+  Description: Harvest 25,000 flowers
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1183
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '29'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Never fry a fish till it's caught
+  Description: Harvest 25,000 ponds
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1165
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '29'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: It is a good horse that never stumbles
+  Description: Harvest 25,000 animals
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1045
+  Percentage of Gamers: 41%
+  Ratio: 1.56
+  TA: '31'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: If it ain't broke, don't fix it
+  Description: Build the Garage
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2355
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Talk is cheap
+  Description: Complete any townsfolk errand
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2379
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Host Only
+- Achievement Name: Nothing ventured, nothing gained
+  Description: Complete 50 townsfolk errands
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1688
+  Percentage of Gamers: 66%
+  Ratio: 1.23
+  TA: '24'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Host Only
+  - Cumulative +
+- Achievement Name: Faith will move mountains
+  Description: Perform a terraform action for the first time
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1474
+  Percentage of Gamers: 57%
+  Ratio: 1.32
+  TA: '13'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: No stone unturned
+  Description: Perform 100 Terraform actions
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1243
+  Percentage of Gamers: 48%
+  Ratio: 1.43
+  TA: '28'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Honesty is the best policy
+  Description: Finish your first quest
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2489
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Do as you would be done by
+  Description: Finish 10 quests
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2193
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Deeds, not words
+  Description: Finish 50 quests
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1761
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '24'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: The only way to find a friend is to be one
+  Description: Sign a guestbook
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1765
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '24'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: No gardening mistakes, only experiments
+  Description: Plow 100,000 tiles
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1052
+  Percentage of Gamers: 41%
+  Ratio: 1.56
+  TA: '31'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+Base Ratio: 1.543
+Base TA: 1543
+Delisted: false
+Developer: Milkstone Studios
+Game Name: Farm Together 2
+Genres: Simulation, Management
+Install Size: 1380.0
+Number of Completions: 245
+Number of Gamers: 2570
+Overall Completion Time:
+- 150.0
+- 200.0
+Overall GS: 1000
+Overall Ratio: 1.543
+Overall TA: 1543
+PDU: 0
+Percentage Completed: 9.53
+Publisher: Milkstone Studios
+Release Date: 04 July 2025
+Server Closure: false
+Site Rating: 4.81
+Update Achievements: []
+Walkthrough: false

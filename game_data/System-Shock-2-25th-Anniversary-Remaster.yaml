@@ -1,0 +1,649 @@
+Add On Achievements: []
+Base Completion Time:
+- 46
+- 47
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: I want you!
+  Description: Choose the Marines career path
+  GS: '10'
+  Guide: true
+  Number of Gamers: 265
+  Percentage of Gamers: 54%
+  Ratio: 1.36
+  TA: '13'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Finding your sea legs
+  Description: Choose the Navy career path
+  GS: '10'
+  Guide: true
+  Number of Gamers: 272
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '13'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Expanding your mind
+  Description: Choose the OSA career path
+  GS: '10'
+  Guide: true
+  Number of Gamers: 189
+  Percentage of Gamers: 38%
+  Ratio: 1.61
+  TA: '16'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Lock and Load!
+  Description: Reach Level 6 Standard Weapons skill
+  GS: '10'
+  Guide: false
+  Number of Gamers: 124
+  Percentage of Gamers: 25%
+  Ratio: 1.99
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Shop
+- Achievement Name: Powered up!
+  Description: Reach Level 6 Energy Weapons skill
+  GS: '10'
+  Guide: false
+  Number of Gamers: 83
+  Percentage of Gamers: 17%
+  Ratio: 2.44
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Shop
+- Achievement Name: Bigger is better!
+  Description: Reach Level 6 Heavy Weapons skill
+  GS: '10'
+  Guide: false
+  Number of Gamers: 77
+  Percentage of Gamers: 16%
+  Ratio: 2.53
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Shop
+- Achievement Name: How extraordinary
+  Description: Reach Level 6 Exotic Weapons skill
+  GS: '10'
+  Guide: false
+  Number of Gamers: 65
+  Percentage of Gamers: 13%
+  Ratio: 2.75
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Shop
+- Achievement Name: The right tool for the job
+  Description: Kill a robot with the Armor-Piercing rounds
+  GS: '10'
+  Guide: false
+  Number of Gamers: 187
+  Percentage of Gamers: 38%
+  Ratio: 1.62
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Chop suey
+  Description: Kill an enemy with the Laser Rapier
+  GS: '10'
+  Guide: false
+  Number of Gamers: 102
+  Percentage of Gamers: 21%
+  Ratio: 2.2
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Stunning
+  Description: Kill an enemy that is stunned with the Stasis Field Generator
+  GS: '10'
+  Guide: false
+  Number of Gamers: 59
+  Percentage of Gamers: 12%
+  Ratio: 2.89
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: To the max!
+  Description: Upgrade any weapon to Level 2 Modification
+  GS: '10'
+  Guide: false
+  Number of Gamers: 143
+  Percentage of Gamers: 29%
+  Ratio: 1.86
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Overkill
+  Description: Kill an enemy using a Level 2 modified Fusion Cannon's Death Mode
+  GS: '10'
+  Guide: false
+  Number of Gamers: 42
+  Percentage of Gamers: 8%
+  Ratio: 3.43
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Fire and forget
+  Description: Kill an enemy using the Annelid Launcher
+  GS: '10'
+  Guide: false
+  Number of Gamers: 40
+  Percentage of Gamers: 8%
+  Ratio: 3.51
+  TA: '35'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Look at you
+  Description: Reach Level 6 Hack skill
+  GS: '10'
+  Guide: false
+  Number of Gamers: 113
+  Percentage of Gamers: 23%
+  Ratio: 2.09
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Shop
+- Achievement Name: Mr. Fix it
+  Description: Reach Level 6 Repair skill
+  GS: '10'
+  Guide: false
+  Number of Gamers: 70
+  Percentage of Gamers: 14%
+  Ratio: 2.65
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Shop
+- Achievement Name: Custom Firmware
+  Description: Reach Level 6 Modify skill
+  GS: '10'
+  Guide: false
+  Number of Gamers: 67
+  Percentage of Gamers: 14%
+  Ratio: 2.71
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Shop
+- Achievement Name: I look after my things
+  Description: Reach Level 6 Maintain skill
+  GS: '10'
+  Guide: false
+  Number of Gamers: 87
+  Percentage of Gamers: 18%
+  Ratio: 2.38
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Shop
+- Achievement Name: Where's my microscope?
+  Description: Reach Level 6 Research skill
+  GS: '10'
+  Guide: false
+  Number of Gamers: 89
+  Percentage of Gamers: 18%
+  Ratio: 2.35
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Shop
+- Achievement Name: Unsigned code
+  Description: Turn the security system off after alerting The Many to your presence
+  GS: '10'
+  Guide: false
+  Number of Gamers: 208
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: It takes two to tango
+  Description: Hack a turret while the security is not offline
+  GS: '10'
+  Guide: false
+  Number of Gamers: 93
+  Percentage of Gamers: 19%
+  Ratio: 2.3
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Power up with a paper clip
+  Description: Hack a GAMEPIG Handheld game console
+  GS: '10'
+  Guide: false
+  Number of Gamers: 86
+  Percentage of Gamers: 17%
+  Ratio: 2.39
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Redirected
+  Description: Use Kinetic Redirection to pull an out-of-reach item
+  GS: '10'
+  Guide: false
+  Number of Gamers: 91
+  Percentage of Gamers: 18%
+  Ratio: 2.33
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: I have the power!
+  Description: Recharge an energy-based item or weapon with Electron Cascade
+  GS: '10'
+  Guide: false
+  Number of Gamers: 36
+  Percentage of Gamers: 7%
+  Ratio: 3.7
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: You can't see me
+  Description: Kill an enemy while using 4th tier Photonic Redirection power
+  GS: '10'
+  Guide: true
+  Number of Gamers: 35
+  Percentage of Gamers: 7%
+  Ratio: 3.76
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Remote control
+  Description: Hack psionically using the 4th tier Remote Circuitry Manipulation power
+  GS: '10'
+  Guide: false
+  Number of Gamers: 35
+  Percentage of Gamers: 7%
+  Ratio: 3.76
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Vampiric tendencies
+  Description: Drain a non-robotic target of health using the 5th tier Soma Transference
+    power
+  GS: '10'
+  Guide: false
+  Number of Gamers: 33
+  Percentage of Gamers: 7%
+  Ratio: 3.87
+  TA: '38'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Strange bedfellows
+  Description: Using Imposed Neural Restructuring, make an enemy kill another enemy
+  GS: '10'
+  Guide: false
+  Number of Gamers: 32
+  Percentage of Gamers: 6%
+  Ratio: 3.93
+  TA: '39'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Strongman
+  Description: Reach Level 6 Strength
+  GS: '20'
+  Guide: false
+  Number of Gamers: 119
+  Percentage of Gamers: 24%
+  Ratio: 2.03
+  TA: '40'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Shop
+- Achievement Name: I can take it
+  Description: Reach Level 6 Endurance
+  GS: '20'
+  Guide: false
+  Number of Gamers: 96
+  Percentage of Gamers: 19%
+  Ratio: 2.27
+  TA: '45'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Shop
+- Achievement Name: Free your mind
+  Description: Reach Level 6 Psionics
+  GS: '20'
+  Guide: false
+  Number of Gamers: 65
+  Percentage of Gamers: 13%
+  Ratio: 2.75
+  TA: '55'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Shop
+- Achievement Name: Quicksilver
+  Description: Reach Level 6 Agility
+  GS: '20'
+  Guide: false
+  Number of Gamers: 77
+  Percentage of Gamers: 16%
+  Ratio: 2.53
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Shop
+- Achievement Name: Cyberpunk
+  Description: Reach Level 6 Cyber Affinity
+  GS: '20'
+  Guide: false
+  Number of Gamers: 81
+  Percentage of Gamers: 16%
+  Ratio: 2.47
+  TA: '49'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Shop
+- Achievement Name: Little Rebellion
+  Description: Disobey orders
+  GS: '20'
+  Guide: false
+  Number of Gamers: 95
+  Percentage of Gamers: 19%
+  Ratio: 2.28
+  TA: '45'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: I'm a lover...
+  Description: Visit every one of the Love Simulation rooms
+  GS: '10'
+  Guide: false
+  Number of Gamers: 102
+  Percentage of Gamers: 21%
+  Ratio: 2.2
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Archivist
+  Description: Find every Audio Log
+  GS: '20'
+  Guide: false
+  Number of Gamers: 25
+  Percentage of Gamers: 5%
+  Ratio: 4.44
+  TA: '88'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Missable
+- Achievement Name: Service Pack
+  Description: Apply 4 OS upgrades
+  GS: '20'
+  Guide: false
+  Number of Gamers: 106
+  Percentage of Gamers: 21%
+  Ratio: 2.16
+  TA: '43'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Missable
+- Achievement Name: Join us?
+  Description: Receive the secret e-mail
+  GS: '20'
+  Guide: false
+  Number of Gamers: 28
+  Percentage of Gamers: 6%
+  Ratio: 4.2
+  TA: '84'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Welcome aboard, soldier
+  Description: Make it out of Cryo Recovery B and into Medical
+  GS: '10'
+  Guide: false
+  Number of Gamers: 423
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Into the guts
+  Description: Reach the Engineering Deck through the Medical maintenance access
+  GS: '10'
+  Guide: false
+  Number of Gamers: 233
+  Percentage of Gamers: 47%
+  Ratio: 1.45
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Hard Reboot
+  Description: Restart the Engine Core on the Engineering Deck
+  GS: '10'
+  Guide: false
+  Number of Gamers: 167
+  Percentage of Gamers: 34%
+  Ratio: 1.72
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Antitoxin
+  Description: Clear the elevator shaft of the bio-material
+  GS: '10'
+  Guide: false
+  Number of Gamers: 156
+  Percentage of Gamers: 32%
+  Ratio: 1.78
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Backdoor attack
+  Description: Reprogram the three Simulation Units on the Command Deck
+  GS: '10'
+  Guide: false
+  Number of Gamers: 143
+  Percentage of Gamers: 29%
+  Ratio: 1.86
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Primary Data Loop Compromised
+  Description: Weaken Xerxes
+  GS: '10'
+  Guide: false
+  Number of Gamers: 131
+  Percentage of Gamers: 26%
+  Ratio: 1.94
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Mind Blowing
+  Description: Destroy the Brain of the Many
+  GS: '10'
+  Guide: false
+  Number of Gamers: 110
+  Percentage of Gamers: 22%
+  Ratio: 2.12
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Egg Hunt
+  Description: Destroy all 16 Black Eggs
+  GS: '10'
+  Guide: false
+  Number of Gamers: 117
+  Percentage of Gamers: 24%
+  Ratio: 2.05
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Captain
+  Description: Complete the game as a Marine
+  GS: '20'
+  Guide: false
+  Number of Gamers: 43
+  Percentage of Gamers: 9%
+  Ratio: 3.39
+  TA: '67'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
+- Achievement Name: Striker
+  Description: Complete the game as a Navyman
+  GS: '20'
+  Guide: false
+  Number of Gamers: 72
+  Percentage of Gamers: 15%
+  Ratio: 2.62
+  TA: '52'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
+- Achievement Name: Mastermind
+  Description: Complete the game as an OSA Agent
+  GS: '20'
+  Guide: false
+  Number of Gamers: 31
+  Percentage of Gamers: 6%
+  Ratio: 3.99
+  TA: '79'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
+- Achievement Name: Deus Ex Machina
+  Description: Complete the game from start to finish on Impossible difficulty
+  GS: '200'
+  Guide: false
+  Number of Gamers: 20
+  Percentage of Gamers: 4%
+  Ratio: 4.97
+  TA: '994'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Cybernetic Grace
+  Description: Unlock all Achievements
+  GS: '200'
+  Guide: false
+  Number of Gamers: 11
+  Percentage of Gamers: 2%
+  Ratio: 6.7
+  TA: 1,341
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Collectable
+  - Shop
+  - Multiple Playthroughs Required
+Base Ratio: 3.871
+Base TA: 3871
+Delisted: false
+Developer: Nightdive Studios
+Game Name: 'System Shock 2: 25th Anniversary Remaster'
+Genres: First Person Shooter, Action Horror
+Install Size: 3700.0
+Number of Completions: 11
+Number of Gamers: 495
+Overall Completion Time:
+- 46
+- 47
+Overall GS: 1000
+Overall Ratio: 3.871
+Overall TA: 3871
+PDU: 0
+Percentage Completed: 2.22
+Publisher: Nightdive Studios
+Release Date: 10 July 2025
+Server Closure: false
+Site Rating: 4.75
+Update Achievements: []
+Walkthrough: false
