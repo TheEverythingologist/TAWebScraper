@@ -1,9 +1,4 @@
 class Utils:
-    urls = ['https://www.trueachievements.com/game-pass-ultimate/games', 
-            "https://www.trueachievements.com/xbox-one/games", 
-            "https://www.trueachievements.com/xbox-360/games", 
-            "https://www.trueachievements.com/windows/games", 
-            "https://www.trueachievements.com/xbox-series-x/games"]
     output_files = ['overall_data.csv']
     columns_list = ["Game Name",
                     "TA",

@@ -128,41 +128,13 @@ def stay_awake():
 
 
 def main():
-    urls = utils.urls
     output_files = utils.output_files
     columns_list = utils.columns_list  
     tag_dict = TagDict()
     games_scanned = 0
-
-    # for url, output_file in zip(urls, output_files[:-1]):
-    #     # Iterate through all of the urls to grab all of the game
-    #     print(f"Scanning {url}")
-    #     df_overall = pd.DataFrame(columns=columns_list)
-
-    #     page_links = get_page_links(url)
-    #     game_box_trs = []
-
-    #     for page in tqdm(page_links):
-    #         # Update the soup
-    #         # response = requests.get(page) DEPRECATED
-    #         response = scraper.get(page)
-    #         time.sleep(5)
-    #         if "Just a moment..." in response.text:
-    #             print("[!] Still got challenge page, retrying after delay...")
-    #             time.sleep(5)
-    #             response = scraper.get(url)
-
-    #         soup = BeautifulSoup(response.content, 'html.parser')
-    #         # Find the parent element containing the game information
-    #         parent_element = soup.find('table', {'id': 'oGameList', 'class': 'maintable'})
-
-    #         game_box_trs += parent_element.find_all('tr', {'class': 'even'}) + parent_element.find_all('tr', {'class': 'odd'})
-
-    #     # Iterate through each game box
-    #     print("Now checking games for rescan need")
     bs = BaseScraper()
     gamebox_trs = bs.scrape_all_gamebox_trs()
-    df_overall = pd.DataFrame(columns=columns_list)
+
     for game_box_tr in tqdm(gamebox_trs):
         # Find the element of the url
         game_box_obj = GameBox(game_box_tr)
@@ -182,16 +154,10 @@ def main():
             with open(game_data_path, 'r') as game_file:
                 game_data = yaml.safe_load(game_file)
                 game_row = format_game_row(game_data)
-            df_overall = pd.concat([df_overall, game_row], ignore_index=True)
-    # Sort the dataframes
-    df_overall = df_overall.sort_values(by=['Game Name'], ascending=False)
-    df_overall = df_overall.reset_index(drop=True)
-
-    # Convert the dataframes to csv files        
-    df_overall.to_csv(output_file, index=False)
+      
     # We get here once we have iterated all other games. This is for the all games output
     df_overall = pd.DataFrame(columns=columns_list)
-    output_file = output_files[-1]
+    output_file = output_files[0]
     print(f"All scans completed. Games scanned = {games_scanned}")
     print("Dumping ALL game data to csv")
     for yaml_file in tqdm(os.listdir("game_data/")):
