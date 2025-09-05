@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 65
-- 66
+- 60.0
+- 80.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Home is Behind
   Description: The old monkey has told his tale. Onward you must go.
   GS: '5'
   Guide: false
-  Number of Gamers: 6561
+  Number of Gamers: 7003
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '5'
@@ -20,9 +20,9 @@ Base Game Achievements:
   Description: Armed head to toe, dread not the foe.
   GS: '5'
   Guide: false
-  Number of Gamers: 5178
-  Percentage of Gamers: 79%
-  Ratio: 1.12
+  Number of Gamers: 5625
+  Percentage of Gamers: 80%
+  Ratio: 1.11
   TA: '5'
   Tags:
   - Offline Game Mode
@@ -31,9 +31,9 @@ Base Game Achievements:
   Description: False is his name. Slay him all the same!
   GS: '5'
   Guide: false
-  Number of Gamers: 5273
-  Percentage of Gamers: 80%
-  Ratio: 1.11
+  Number of Gamers: 5710
+  Percentage of Gamers: 82%
+  Ratio: 1.1
   TA: '5'
   Tags:
   - Offline Game Mode
@@ -42,9 +42,9 @@ Base Game Achievements:
   Description: Consume those who had consumed.
   GS: '5'
   Guide: false
-  Number of Gamers: 5109
-  Percentage of Gamers: 78%
-  Ratio: 1.13
+  Number of Gamers: 5560
+  Percentage of Gamers: 79%
+  Ratio: 1.12
   TA: '5'
   Tags:
   - Offline Game Mode
@@ -53,9 +53,9 @@ Base Game Achievements:
   Description: Fresh brew in an old cask. May it stir a great task!
   GS: '5'
   Guide: false
-  Number of Gamers: 4735
-  Percentage of Gamers: 72%
-  Ratio: 1.17
+  Number of Gamers: 5182
+  Percentage of Gamers: 74%
+  Ratio: 1.16
   TA: '5'
   Tags:
   - Offline Game Mode
@@ -64,10 +64,10 @@ Base Game Achievements:
   Description: The white-clad one pled his case. Spare him some days of grace.
   GS: '5'
   Guide: false
-  Number of Gamers: 4467
-  Percentage of Gamers: 68%
-  Ratio: 1.21
-  TA: '6'
+  Number of Gamers: 4913
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '5'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -75,9 +75,9 @@ Base Game Achievements:
   Description: A good match calls for a good weapon.
   GS: '5'
   Guide: true
-  Number of Gamers: 4292
-  Percentage of Gamers: 65%
-  Ratio: 1.23
+  Number of Gamers: 4744
+  Percentage of Gamers: 68%
+  Ratio: 1.21
   TA: '6'
   Tags:
   - Offline Game Mode
@@ -86,9 +86,9 @@ Base Game Achievements:
   Description: Three bells sound, lost souls bound.
   GS: '5'
   Guide: false
-  Number of Gamers: 4088
-  Percentage of Gamers: 62%
-  Ratio: 1.26
+  Number of Gamers: 4526
+  Percentage of Gamers: 65%
+  Ratio: 1.24
   TA: '6'
   Tags:
   - Offline Game Mode
@@ -97,10 +97,10 @@ Base Game Achievements:
   Description: Now at an end is the elder's long wait for the journeyer.
   GS: '15'
   Guide: false
-  Number of Gamers: 3947
-  Percentage of Gamers: 60%
-  Ratio: 1.28
-  TA: '19'
+  Number of Gamers: 4382
+  Percentage of Gamers: 63%
+  Ratio: 1.26
+  TA: '18'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -108,10 +108,10 @@ Base Game Achievements:
   Description: Of all things to learn, you chose to play with fire?
   GS: '15'
   Guide: false
-  Number of Gamers: 4054
-  Percentage of Gamers: 62%
-  Ratio: 1.27
-  TA: '19'
+  Number of Gamers: 4527
+  Percentage of Gamers: 65%
+  Ratio: 1.24
+  TA: '18'
   Tags:
   - Offline Mode
   - Single Player
@@ -120,10 +120,10 @@ Base Game Achievements:
   Description: Tonics are well and good, but not to be wolfed like food!
   GS: '5'
   Guide: false
-  Number of Gamers: 3334
-  Percentage of Gamers: 51%
-  Ratio: 1.4
-  TA: '7'
+  Number of Gamers: 3821
+  Percentage of Gamers: 55%
+  Ratio: 1.35
+  TA: '6'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -131,9 +131,9 @@ Base Game Achievements:
   Description: A whole nest of rats scatters and falls.
   GS: '5'
   Guide: false
-  Number of Gamers: 3505
-  Percentage of Gamers: 53%
-  Ratio: 1.36
+  Number of Gamers: 3999
+  Percentage of Gamers: 57%
+  Ratio: 1.32
   TA: '6'
   Tags:
   - Offline Game Mode
@@ -142,10 +142,10 @@ Base Game Achievements:
   Description: Smoke rises high, his doom shall arrive.
   GS: '5'
   Guide: true
-  Number of Gamers: 1993
-  Percentage of Gamers: 30%
-  Ratio: 1.81
-  TA: '9'
+  Number of Gamers: 2403
+  Percentage of Gamers: 34%
+  Ratio: 1.7
+  TA: '8'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -153,10 +153,10 @@ Base Game Achievements:
   Description: No words of kind. Pay them no mind.
   GS: '5'
   Guide: true
-  Number of Gamers: 2508
-  Percentage of Gamers: 38%
-  Ratio: 1.61
-  TA: '8'
+  Number of Gamers: 2920
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '7'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -164,9 +164,9 @@ Base Game Achievements:
   Description: Resonant waves profound, he is now buried in the ground.
   GS: '5'
   Guide: true
-  Number of Gamers: 2089
-  Percentage of Gamers: 32%
-  Ratio: 1.77
+  Number of Gamers: 2534
+  Percentage of Gamers: 36%
+  Ratio: 1.66
   TA: '8'
   Tags:
   - Offline Game Mode
@@ -175,10 +175,10 @@ Base Game Achievements:
   Description: This odd boulder has something curious inside.
   GS: '5'
   Guide: false
-  Number of Gamers: 3165
-  Percentage of Gamers: 48%
-  Ratio: 1.44
-  TA: '7'
+  Number of Gamers: 3652
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '6'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -186,9 +186,9 @@ Base Game Achievements:
   Description: Search each Buddha's head; in this perilous land, stones reside.
   GS: '5'
   Guide: true
-  Number of Gamers: 2133
-  Percentage of Gamers: 32%
-  Ratio: 1.75
+  Number of Gamers: 2569
+  Percentage of Gamers: 37%
+  Ratio: 1.65
   TA: '8'
   Tags:
   - Offline Game Mode
@@ -197,9 +197,9 @@ Base Game Achievements:
   Description: The tiger, the child, both lost in the wild.
   GS: '5'
   Guide: true
-  Number of Gamers: 1683
-  Percentage of Gamers: 26%
-  Ratio: 1.97
+  Number of Gamers: 2056
+  Percentage of Gamers: 29%
+  Ratio: 1.84
   TA: '9'
   Tags:
   - Offline Game Mode
@@ -208,10 +208,10 @@ Base Game Achievements:
   Description: The drunk said there's gold here. Do you believe him?
   GS: '5'
   Guide: false
-  Number of Gamers: 2394
-  Percentage of Gamers: 36%
-  Ratio: 1.65
-  TA: '8'
+  Number of Gamers: 2864
+  Percentage of Gamers: 41%
+  Ratio: 1.56
+  TA: '7'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -219,9 +219,9 @@ Base Game Achievements:
   Description: The brothers and their father. You've met them all.
   GS: '5'
   Guide: false
-  Number of Gamers: 1646
-  Percentage of Gamers: 25%
-  Ratio: 1.99
+  Number of Gamers: 2021
+  Percentage of Gamers: 29%
+  Ratio: 1.86
   TA: '9'
   Tags:
   - Offline Game Mode
@@ -230,10 +230,10 @@ Base Game Achievements:
   Description: The beetle came with drumbeats' call, and left with waves' gentle fall.
   GS: '15'
   Guide: false
-  Number of Gamers: 2353
-  Percentage of Gamers: 36%
-  Ratio: 1.67
-  TA: '25'
+  Number of Gamers: 2824
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '23'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -241,10 +241,10 @@ Base Game Achievements:
   Description: In furnace there is fire, and in fire there are pills.
   GS: '5'
   Guide: false
-  Number of Gamers: 2458
-  Percentage of Gamers: 37%
-  Ratio: 1.63
-  TA: '8'
+  Number of Gamers: 2902
+  Percentage of Gamers: 41%
+  Ratio: 1.55
+  TA: '7'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -252,10 +252,10 @@ Base Game Achievements:
   Description: There will be more sages if their maker still engages.
   GS: '15'
   Guide: false
-  Number of Gamers: 2588
-  Percentage of Gamers: 39%
-  Ratio: 1.59
-  TA: '23'
+  Number of Gamers: 3102
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '22'
   Tags:
   - Offline Mode
   - Single Player
@@ -264,10 +264,10 @@ Base Game Achievements:
   Description: Oh woe, oh woe, long trails they did go.
   GS: '5'
   Guide: false
-  Number of Gamers: 1421
-  Percentage of Gamers: 22%
-  Ratio: 2.14
-  TA: '10'
+  Number of Gamers: 1839
+  Percentage of Gamers: 26%
+  Ratio: 1.95
+  TA: '9'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -275,9 +275,9 @@ Base Game Achievements:
   Description: Red eyes mark wrong chants. The scripture needs amends.
   GS: '5'
   Guide: false
-  Number of Gamers: 2088
-  Percentage of Gamers: 32%
-  Ratio: 1.77
+  Number of Gamers: 2613
+  Percentage of Gamers: 37%
+  Ratio: 1.63
   TA: '8'
   Tags:
   - Offline Game Mode
@@ -286,10 +286,10 @@ Base Game Achievements:
   Description: Now one less dwells in the dome of stars.
   GS: '5'
   Guide: false
-  Number of Gamers: 1934
-  Percentage of Gamers: 29%
-  Ratio: 1.84
-  TA: '9'
+  Number of Gamers: 2447
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '8'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -297,10 +297,10 @@ Base Game Achievements:
   Description: Evening light on snow, rigidity ends in woe.
   GS: '5'
   Guide: false
-  Number of Gamers: 1440
-  Percentage of Gamers: 22%
-  Ratio: 2.13
-  TA: '10'
+  Number of Gamers: 1898
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '9'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -308,10 +308,10 @@ Base Game Achievements:
   Description: To die is as woeful as to live alone.
   GS: '5'
   Guide: false
-  Number of Gamers: 1521
-  Percentage of Gamers: 23%
-  Ratio: 2.07
-  TA: '10'
+  Number of Gamers: 1963
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '9'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -319,10 +319,10 @@ Base Game Achievements:
   Description: Near the hut the crops thrive; in the Painted Realm, their hearts lie.
   GS: '5'
   Guide: true
-  Number of Gamers: 1478
-  Percentage of Gamers: 23%
-  Ratio: 2.1
-  TA: '10'
+  Number of Gamers: 1941
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '9'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -330,10 +330,10 @@ Base Game Achievements:
   Description: '"Through fire, armor is refined; through trials, strength is defined."'
   GS: '5'
   Guide: false
-  Number of Gamers: 1143
-  Percentage of Gamers: 17%
-  Ratio: 2.39
-  TA: '11'
+  Number of Gamers: 1559
+  Percentage of Gamers: 22%
+  Ratio: 2.12
+  TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -341,10 +341,10 @@ Base Game Achievements:
   Description: A mere test of skill turned into a fight for the kill.
   GS: '5'
   Guide: false
-  Number of Gamers: 1127
-  Percentage of Gamers: 17%
-  Ratio: 2.41
-  TA: '12'
+  Number of Gamers: 1565
+  Percentage of Gamers: 22%
+  Ratio: 2.11
+  TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -352,10 +352,10 @@ Base Game Achievements:
   Description: Fields kept trim leave time to skim.
   GS: '5'
   Guide: false
-  Number of Gamers: 1240
-  Percentage of Gamers: 19%
-  Ratio: 2.3
-  TA: '11'
+  Number of Gamers: 1700
+  Percentage of Gamers: 24%
+  Ratio: 2.03
+  TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -364,10 +364,10 @@ Base Game Achievements:
     meeting.
   GS: '5'
   Guide: false
-  Number of Gamers: 1230
-  Percentage of Gamers: 19%
-  Ratio: 2.31
-  TA: '11'
+  Number of Gamers: 1693
+  Percentage of Gamers: 24%
+  Ratio: 2.03
+  TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -375,10 +375,10 @@ Base Game Achievements:
   Description: Each and every one holds their own truth.
   GS: '5'
   Guide: false
-  Number of Gamers: 964
-  Percentage of Gamers: 15%
-  Ratio: 2.61
-  TA: '13'
+  Number of Gamers: 1325
+  Percentage of Gamers: 19%
+  Ratio: 2.3
+  TA: '11'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -386,10 +386,10 @@ Base Game Achievements:
   Description: How mighty would those four spirits be if I could harness their power?
   GS: '5'
   Guide: false
-  Number of Gamers: 1156
-  Percentage of Gamers: 18%
-  Ratio: 2.38
-  TA: '11'
+  Number of Gamers: 1583
+  Percentage of Gamers: 23%
+  Ratio: 2.1
+  TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -397,10 +397,10 @@ Base Game Achievements:
   Description: Such a waste of those four grand titles.
   GS: '5'
   Guide: false
-  Number of Gamers: 991
-  Percentage of Gamers: 15%
-  Ratio: 2.57
-  TA: '12'
+  Number of Gamers: 1379
+  Percentage of Gamers: 20%
+  Ratio: 2.25
+  TA: '11'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -408,10 +408,10 @@ Base Game Achievements:
   Description: You don't need to wait for the perfect moment to soar to greater heights.
   GS: '5'
   Guide: false
-  Number of Gamers: 1429
-  Percentage of Gamers: 22%
-  Ratio: 2.14
-  TA: '10'
+  Number of Gamers: 1943
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '9'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -419,10 +419,10 @@ Base Game Achievements:
   Description: The fat monk failed, for he spoke too much.
   GS: '15'
   Guide: false
-  Number of Gamers: 1396
-  Percentage of Gamers: 21%
-  Ratio: 2.17
-  TA: '32'
+  Number of Gamers: 1890
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '28'
   Tags:
   - Offline Mode
   - Single Player
@@ -431,10 +431,10 @@ Base Game Achievements:
   Description: An odd yaoguai killed, an odd mirror earned.
   GS: '5'
   Guide: true
-  Number of Gamers: 1142
-  Percentage of Gamers: 17%
-  Ratio: 2.4
-  TA: '12'
+  Number of Gamers: 1640
+  Percentage of Gamers: 23%
+  Ratio: 2.06
+  TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -442,10 +442,10 @@ Base Game Achievements:
   Description: Harsh, rash, ever unquelled. Rank, dank, muck-impelled.
   GS: '5'
   Guide: true
-  Number of Gamers: 1028
-  Percentage of Gamers: 16%
-  Ratio: 2.53
-  TA: '12'
+  Number of Gamers: 1503
+  Percentage of Gamers: 21%
+  Ratio: 2.15
+  TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -453,10 +453,10 @@ Base Game Achievements:
   Description: Not even one of them looked back.
   GS: '5'
   Guide: true
-  Number of Gamers: 995
-  Percentage of Gamers: 15%
-  Ratio: 2.57
-  TA: '12'
+  Number of Gamers: 1475
+  Percentage of Gamers: 21%
+  Ratio: 2.17
+  TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -464,10 +464,10 @@ Base Game Achievements:
   Description: In the air they swing, yet it's already ending.
   GS: '5'
   Guide: false
-  Number of Gamers: 719
-  Percentage of Gamers: 11%
-  Ratio: 3.02
-  TA: '15'
+  Number of Gamers: 1127
+  Percentage of Gamers: 16%
+  Ratio: 2.49
+  TA: '12'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -475,10 +475,10 @@ Base Game Achievements:
   Description: '"What use are eight arms against twenty strikes with my staff?"'
   GS: '5'
   Guide: false
-  Number of Gamers: 882
-  Percentage of Gamers: 13%
-  Ratio: 2.73
-  TA: '13'
+  Number of Gamers: 1347
+  Percentage of Gamers: 19%
+  Ratio: 2.28
+  TA: '11'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -486,10 +486,10 @@ Base Game Achievements:
   Description: '"Is that ugliness a promise of immortality? Better leave it."'
   GS: '5'
   Guide: false
-  Number of Gamers: 595
-  Percentage of Gamers: 9%
-  Ratio: 3.32
-  TA: '16'
+  Number of Gamers: 948
+  Percentage of Gamers: 14%
+  Ratio: 2.72
+  TA: '13'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -497,10 +497,10 @@ Base Game Achievements:
   Description: Together at last, the scorpions united.
   GS: '5'
   Guide: false
-  Number of Gamers: 591
-  Percentage of Gamers: 9%
-  Ratio: 3.33
-  TA: '16'
+  Number of Gamers: 933
+  Percentage of Gamers: 13%
+  Ratio: 2.74
+  TA: '13'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -508,10 +508,10 @@ Base Game Achievements:
   Description: Long and short, far and near, each span has its year.
   GS: '15'
   Guide: false
-  Number of Gamers: 791
-  Percentage of Gamers: 12%
-  Ratio: 2.88
-  TA: '43'
+  Number of Gamers: 1256
+  Percentage of Gamers: 18%
+  Ratio: 2.36
+  TA: '35'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -519,10 +519,10 @@ Base Game Achievements:
   Description: Never will she see with him the world beyond.
   GS: '5'
   Guide: false
-  Number of Gamers: 718
-  Percentage of Gamers: 11%
-  Ratio: 3.03
-  TA: '15'
+  Number of Gamers: 1132
+  Percentage of Gamers: 16%
+  Ratio: 2.48
+  TA: '12'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -530,10 +530,10 @@ Base Game Achievements:
   Description: More eyes do not see more than the mortal trifles.
   GS: '15'
   Guide: false
-  Number of Gamers: 796
-  Percentage of Gamers: 12%
-  Ratio: 2.87
-  TA: '43'
+  Number of Gamers: 1276
+  Percentage of Gamers: 18%
+  Ratio: 2.34
+  TA: '35'
   Tags:
   - Offline Mode
   - Single Player
@@ -542,10 +542,10 @@ Base Game Achievements:
   Description: How odd to encounter this old man at every corner!
   GS: '5'
   Guide: false
-  Number of Gamers: 526
-  Percentage of Gamers: 8%
-  Ratio: 3.53
-  TA: '17'
+  Number of Gamers: 863
+  Percentage of Gamers: 12%
+  Ratio: 2.85
+  TA: '14'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -553,10 +553,10 @@ Base Game Achievements:
   Description: Ha! A devoted Daoist should not be so polished!
   GS: '5'
   Guide: false
-  Number of Gamers: 665
-  Percentage of Gamers: 10%
-  Ratio: 3.14
-  TA: '15'
+  Number of Gamers: 1097
+  Percentage of Gamers: 16%
+  Ratio: 2.52
+  TA: '12'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -564,10 +564,10 @@ Base Game Achievements:
   Description: '"With my life I''ll repay the title he gave me!"'
   GS: '5'
   Guide: false
-  Number of Gamers: 483
-  Percentage of Gamers: 7%
-  Ratio: 3.69
-  TA: '18'
+  Number of Gamers: 806
+  Percentage of Gamers: 12%
+  Ratio: 2.94
+  TA: '14'
   Tags:
   - Offline Mode
   - Single Player
@@ -576,10 +576,10 @@ Base Game Achievements:
   Description: Take more as fruit as your plants take root.
   GS: '5'
   Guide: false
-  Number of Gamers: 195
-  Percentage of Gamers: 3%
-  Ratio: 5.82
-  TA: '29'
+  Number of Gamers: 319
+  Percentage of Gamers: 5%
+  Ratio: 4.7
+  TA: '23'
   Tags:
   - Offline Mode
   - Single Player
@@ -588,10 +588,10 @@ Base Game Achievements:
   Description: You've picked them all, the easy ones and the hard ones.
   GS: '5'
   Guide: false
-  Number of Gamers: 432
-  Percentage of Gamers: 7%
-  Ratio: 3.9
-  TA: '19'
+  Number of Gamers: 739
+  Percentage of Gamers: 11%
+  Ratio: 3.08
+  TA: '15'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -599,10 +599,10 @@ Base Game Achievements:
   Description: '"For his recognition, I''d give my life for him."'
   GS: '5'
   Guide: false
-  Number of Gamers: 551
-  Percentage of Gamers: 8%
-  Ratio: 3.45
-  TA: '17'
+  Number of Gamers: 933
+  Percentage of Gamers: 13%
+  Ratio: 2.74
+  TA: '13'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -610,10 +610,10 @@ Base Game Achievements:
   Description: The most marvelous places for meditation have all met your gaze.
   GS: '5'
   Guide: false
-  Number of Gamers: 335
-  Percentage of Gamers: 5%
-  Ratio: 4.43
-  TA: '22'
+  Number of Gamers: 549
+  Percentage of Gamers: 8%
+  Ratio: 3.58
+  TA: '17'
   Tags:
   - Offline Mode
   - Single Player
@@ -622,10 +622,10 @@ Base Game Achievements:
   Description: The six valiant captains who only fight in number.
   GS: '5'
   Guide: false
-  Number of Gamers: 544
-  Percentage of Gamers: 8%
-  Ratio: 3.47
-  TA: '17'
+  Number of Gamers: 924
+  Percentage of Gamers: 13%
+  Ratio: 2.75
+  TA: '13'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -633,10 +633,10 @@ Base Game Achievements:
   Description: Their mighty Spirits are now gathered within you.
   GS: '15'
   Guide: false
-  Number of Gamers: 184
-  Percentage of Gamers: 3%
-  Ratio: 6.01
-  TA: '90'
+  Number of Gamers: 313
+  Percentage of Gamers: 4%
+  Ratio: 4.75
+  TA: '71'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -644,10 +644,10 @@ Base Game Achievements:
   Description: The merging of ice and fire, swift and severe.
   GS: '15'
   Guide: false
-  Number of Gamers: 526
-  Percentage of Gamers: 8%
-  Ratio: 3.53
-  TA: '53'
+  Number of Gamers: 905
+  Percentage of Gamers: 13%
+  Ratio: 2.78
+  TA: '41'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -656,10 +656,10 @@ Base Game Achievements:
     broke.
   GS: '15'
   Guide: false
-  Number of Gamers: 580
-  Percentage of Gamers: 9%
-  Ratio: 3.36
-  TA: '50'
+  Number of Gamers: 1009
+  Percentage of Gamers: 14%
+  Ratio: 2.63
+  TA: '39'
   Tags:
   - Offline Mode
   - Single Player
@@ -668,10 +668,10 @@ Base Game Achievements:
   Description: '"All the four vessels now belong to me!"'
   GS: '15'
   Guide: false
-  Number of Gamers: 555
-  Percentage of Gamers: 8%
-  Ratio: 3.44
-  TA: '51'
+  Number of Gamers: 954
+  Percentage of Gamers: 14%
+  Ratio: 2.71
+  TA: '40'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -679,10 +679,10 @@ Base Game Achievements:
   Description: Bonds from bygone days still pull at the heart.
   GS: '5'
   Guide: false
-  Number of Gamers: 415
-  Percentage of Gamers: 6%
-  Ratio: 3.98
-  TA: '19'
+  Number of Gamers: 748
+  Percentage of Gamers: 11%
+  Ratio: 3.06
+  TA: '15'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -690,10 +690,10 @@ Base Game Achievements:
   Description: '"Let go of him, and you let go of all."'
   GS: '65'
   Guide: false
-  Number of Gamers: 327
-  Percentage of Gamers: 5%
-  Ratio: 4.48
-  TA: '291'
+  Number of Gamers: 598
+  Percentage of Gamers: 9%
+  Ratio: 3.42
+  TA: '222'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -701,10 +701,10 @@ Base Game Achievements:
   Description: Each guise grants a new horizon.
   GS: '15'
   Guide: false
-  Number of Gamers: 240
-  Percentage of Gamers: 4%
-  Ratio: 5.23
-  TA: '78'
+  Number of Gamers: 430
+  Percentage of Gamers: 6%
+  Ratio: 4.04
+  TA: '60'
   Tags:
   - Offline Mode
   - Single Player
@@ -714,10 +714,10 @@ Base Game Achievements:
   Description: Now you can sate yourself with all the drinks.
   GS: '15'
   Guide: false
-  Number of Gamers: 358
-  Percentage of Gamers: 5%
-  Ratio: 4.29
-  TA: '64'
+  Number of Gamers: 608
+  Percentage of Gamers: 9%
+  Ratio: 3.4
+  TA: '51'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -725,10 +725,10 @@ Base Game Achievements:
   Description: Wings alone pale beside this greater gift!
   GS: '5'
   Guide: false
-  Number of Gamers: 539
-  Percentage of Gamers: 8%
-  Ratio: 3.49
-  TA: '17'
+  Number of Gamers: 958
+  Percentage of Gamers: 14%
+  Ratio: 2.71
+  TA: '13'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -736,10 +736,10 @@ Base Game Achievements:
   Description: "Six frogs, six skills\u2014how intriguing!"
   GS: '5'
   Guide: false
-  Number of Gamers: 391
-  Percentage of Gamers: 6%
-  Ratio: 4.1
-  TA: '20'
+  Number of Gamers: 690
+  Percentage of Gamers: 10%
+  Ratio: 3.19
+  TA: '15'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -747,10 +747,10 @@ Base Game Achievements:
   Description: Every rare wonder the world can offer, collected and kept.
   GS: '15'
   Guide: false
-  Number of Gamers: 145
-  Percentage of Gamers: 2%
-  Ratio: 6.77
-  TA: '101'
+  Number of Gamers: 265
+  Percentage of Gamers: 4%
+  Ratio: 5.17
+  TA: '77'
   Tags:
   - Offline Mode
   - Single Player
@@ -760,10 +760,10 @@ Base Game Achievements:
   Description: This powerful pill still carries her caring wish.
   GS: '5'
   Guide: false
-  Number of Gamers: 383
-  Percentage of Gamers: 6%
-  Ratio: 4.14
-  TA: '20'
+  Number of Gamers: 679
+  Percentage of Gamers: 10%
+  Ratio: 3.22
+  TA: '16'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -771,10 +771,10 @@ Base Game Achievements:
   Description: '"Here, have it, have it all."'
   GS: '15'
   Guide: false
-  Number of Gamers: 276
-  Percentage of Gamers: 4%
-  Ratio: 4.88
-  TA: '73'
+  Number of Gamers: 476
+  Percentage of Gamers: 7%
+  Ratio: 3.84
+  TA: '57'
   Tags:
   - Offline Mode
   - Single Player
@@ -783,10 +783,10 @@ Base Game Achievements:
   Description: '"Call off the chase! You''ve crushed every yaoguai here..."'
   GS: '5'
   Guide: false
-  Number of Gamers: 323
-  Percentage of Gamers: 5%
-  Ratio: 4.52
-  TA: '22'
+  Number of Gamers: 569
+  Percentage of Gamers: 8%
+  Ratio: 3.52
+  TA: '17'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -794,10 +794,10 @@ Base Game Achievements:
   Description: You are fully fitted. Now, swing that staff and fight!
   GS: '15'
   Guide: false
-  Number of Gamers: 477
-  Percentage of Gamers: 7%
-  Ratio: 3.71
-  TA: '55'
+  Number of Gamers: 848
+  Percentage of Gamers: 12%
+  Ratio: 2.87
+  TA: '43'
   Tags:
   - Offline Mode
   - Single Player
@@ -806,10 +806,10 @@ Base Game Achievements:
   Description: Two minds' long fray leaves but one to stay.
   GS: '65'
   Guide: false
-  Number of Gamers: 374
-  Percentage of Gamers: 6%
-  Ratio: 4.19
-  TA: '272'
+  Number of Gamers: 685
+  Percentage of Gamers: 10%
+  Ratio: 3.2
+  TA: '208'
   Tags:
   - Offline Mode
   - Single Player
@@ -819,10 +819,10 @@ Base Game Achievements:
   Description: Humans, beasts, yaoguais, and the Bodhisattvas. All recorded and noted.
   GS: '65'
   Guide: false
-  Number of Gamers: 174
-  Percentage of Gamers: 3%
-  Ratio: 6.17
-  TA: '401'
+  Number of Gamers: 332
+  Percentage of Gamers: 5%
+  Ratio: 4.62
+  TA: '300'
   Tags:
   - Offline Mode
   - Single Player
@@ -831,11 +831,11 @@ Base Game Achievements:
 - Achievement Name: Six Senses Secured
   Description: After all that strife and struggle, what's truly been gained?
   GS: '65'
-  Guide: false
-  Number of Gamers: 273
-  Percentage of Gamers: 4%
-  Ratio: 4.91
-  TA: '319'
+  Guide: true
+  Number of Gamers: 523
+  Percentage of Gamers: 7%
+  Ratio: 3.67
+  TA: '238'
   Tags:
   - Offline Mode
   - Single Player
@@ -845,10 +845,10 @@ Base Game Achievements:
   Description: All spells we know are derived from the same source.
   GS: '15'
   Guide: false
-  Number of Gamers: 267
-  Percentage of Gamers: 4%
-  Ratio: 4.97
-  TA: '74'
+  Number of Gamers: 510
+  Percentage of Gamers: 7%
+  Ratio: 3.72
+  TA: '55'
   Tags:
   - Offline Mode
   - Single Player
@@ -857,10 +857,10 @@ Base Game Achievements:
   Description: Rare is not the gourd but a friend to drink with.
   GS: '15'
   Guide: false
-  Number of Gamers: 152
-  Percentage of Gamers: 2%
-  Ratio: 6.61
-  TA: '99'
+  Number of Gamers: 283
+  Percentage of Gamers: 4%
+  Ratio: 5.02
+  TA: '75'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -868,10 +868,10 @@ Base Game Achievements:
   Description: '"All the tattered pages can now be compiled in full."'
   GS: '5'
   Guide: false
-  Number of Gamers: 164
-  Percentage of Gamers: 2%
-  Ratio: 6.36
-  TA: '31'
+  Number of Gamers: 315
+  Percentage of Gamers: 4%
+  Ratio: 4.75
+  TA: '23'
   Tags:
   - Offline Mode
   - Single Player
@@ -880,10 +880,10 @@ Base Game Achievements:
   Description: A blend for every brew to bring out its best.
   GS: '15'
   Guide: false
-  Number of Gamers: 124
-  Percentage of Gamers: 2%
-  Ratio: 7.33
-  TA: '109'
+  Number of Gamers: 236
+  Percentage of Gamers: 3%
+  Ratio: 5.49
+  TA: '82'
   Tags:
   - Offline Mode
   - Single Player
@@ -893,10 +893,10 @@ Base Game Achievements:
     \ as can be, doing as you please!"
   GS: '15'
   Guide: false
-  Number of Gamers: 87
-  Percentage of Gamers: 1%
-  Ratio: 8.73
-  TA: '130'
+  Number of Gamers: 189
+  Percentage of Gamers: 3%
+  Ratio: 6.11
+  TA: '91'
   Tags:
   - Offline Mode
   - Single Player
@@ -905,11 +905,11 @@ Base Game Achievements:
 - Achievement Name: Staffs and Spears
   Description: A walking vault of arms you have become!
   GS: '15'
-  Guide: false
-  Number of Gamers: 100
-  Percentage of Gamers: 2%
-  Ratio: 8.13
-  TA: '122'
+  Guide: true
+  Number of Gamers: 213
+  Percentage of Gamers: 3%
+  Ratio: 5.77
+  TA: '86'
   Tags:
   - Offline Mode
   - Single Player
@@ -919,33 +919,33 @@ Base Game Achievements:
   Description: Each ordeal paves your path to what you are meant to be.
   GS: '150'
   Guide: false
-  Number of Gamers: 83
-  Percentage of Gamers: 1%
-  Ratio: 8.94
-  TA: 1,341
+  Number of Gamers: 187
+  Percentage of Gamers: 3%
+  Ratio: 6.15
+  TA: '922'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 4.649
-Base TA: 4649
+Base Ratio: 3.504
+Base TA: 3504
 Delisted: false
 Developer: Game Science Studio
 Game Name: 'Black Myth: Wukong'
 Genres: Action-Adventure
 Install Size: 109110.0
-Number of Completions: 85
-Number of Gamers: 6568
+Number of Completions: 187
+Number of Gamers: 7003
 Overall Completion Time:
-- 65
-- 66
+- 60.0
+- 80.0
 Overall GS: 1000
-Overall Ratio: 4.649
-Overall TA: 4649
+Overall Ratio: 3.504
+Overall TA: 3504
 PDU: 0
-Percentage Completed: 1.29
+Percentage Completed: 2.67
 Publisher: Game Science Studio
 Release Date: 20 August 2025
 Server Closure: false
-Site Rating: 4.65
+Site Rating: 4.61
 Update Achievements: []
 Walkthrough: false

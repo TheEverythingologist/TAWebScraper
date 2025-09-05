@@ -1,24 +1,24 @@
 Add On Achievements: []
 Base Completion Time:
+- 34
 - 35
-- 36
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Unparalleled Strength
   Description: Unlock all achievements.
   GS: '0'
   Guide: false
-  Number of Gamers: 28
+  Number of Gamers: 32
   Percentage of Gamers: 2%
-  Ratio: 6.71
+  Ratio: 6.37
   TA: '0'
   Tags: []
 - Achievement Name: The Path We Tread
   Description: 'Complete Prologue: The Path We Tread.'
   GS: '15'
   Guide: false
-  Number of Gamers: 1215
-  Percentage of Gamers: 96%
+  Number of Gamers: 1255
+  Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '15'
   Tags:
@@ -29,7 +29,7 @@ Base Game Achievements:
   Description: 'Complete Chapter 1: Infiltrating the Entertainment District.'
   GS: '15'
   Guide: false
-  Number of Gamers: 1071
+  Number of Gamers: 1108
   Percentage of Gamers: 85%
   Ratio: 1.08
   TA: '16'
@@ -41,7 +41,7 @@ Base Game Achievements:
   Description: 'Complete Chapter 2: The Demon of the Entertainment District.'
   GS: '15'
   Guide: false
-  Number of Gamers: 1020
+  Number of Gamers: 1052
   Percentage of Gamers: 81%
   Ratio: 1.11
   TA: '16'
@@ -53,7 +53,7 @@ Base Game Achievements:
   Description: 'Complete Chapter 3: Never Give Up.'
   GS: '15'
   Guide: false
-  Number of Gamers: 950
+  Number of Gamers: 980
   Percentage of Gamers: 75%
   Ratio: 1.15
   TA: '17'
@@ -65,9 +65,9 @@ Base Game Achievements:
   Description: 'Complete Interlude 1: Tanjiro''s Recovery.'
   GS: '15'
   Guide: false
-  Number of Gamers: 861
-  Percentage of Gamers: 68%
-  Ratio: 1.21
+  Number of Gamers: 895
+  Percentage of Gamers: 69%
+  Ratio: 1.2
   TA: '18'
   Tags:
   - Offline Mode
@@ -77,7 +77,7 @@ Base Game Achievements:
   Description: 'Complete Chapter 4: The Swordsmith Village.'
   GS: '15'
   Guide: false
-  Number of Gamers: 814
+  Number of Gamers: 845
   Percentage of Gamers: 65%
   Ratio: 1.24
   TA: '18'
@@ -89,7 +89,7 @@ Base Game Achievements:
   Description: 'Complete Chapter 5: Infinity.'
   GS: '15'
   Guide: false
-  Number of Gamers: 783
+  Number of Gamers: 809
   Percentage of Gamers: 62%
   Ratio: 1.26
   TA: '19'
@@ -101,7 +101,7 @@ Base Game Achievements:
   Description: 'Complete Chapter 6: The Four Emotions.'
   GS: '15'
   Guide: false
-  Number of Gamers: 735
+  Number of Gamers: 760
   Percentage of Gamers: 58%
   Ratio: 1.3
   TA: '19'
@@ -113,9 +113,9 @@ Base Game Achievements:
   Description: 'Complete Chapter 7: Beneath the Sunlight.'
   GS: '15'
   Guide: false
-  Number of Gamers: 722
+  Number of Gamers: 747
   Percentage of Gamers: 57%
-  Ratio: 1.32
+  Ratio: 1.31
   TA: '19'
   Tags:
   - Offline Mode
@@ -125,7 +125,7 @@ Base Game Achievements:
   Description: 'Complete Interlude 2: A Visit from Zenitsu.'
   GS: '15'
   Guide: false
-  Number of Gamers: 671
+  Number of Gamers: 690
   Percentage of Gamers: 53%
   Ratio: 1.37
   TA: '20'
@@ -137,9 +137,9 @@ Base Game Achievements:
   Description: 'Complete Lost Passage: Battle at the Abandoned Castle.'
   GS: '15'
   Guide: false
-  Number of Gamers: 652
+  Number of Gamers: 673
   Percentage of Gamers: 52%
-  Ratio: 1.39
+  Ratio: 1.38
   TA: '20'
   Tags:
   - Offline Mode
@@ -149,7 +149,7 @@ Base Game Achievements:
   Description: 'Complete Chapter 8: Hashira Training.'
   GS: '15'
   Guide: false
-  Number of Gamers: 613
+  Number of Gamers: 634
   Percentage of Gamers: 49%
   Ratio: 1.43
   TA: '21'
@@ -162,10 +162,10 @@ Base Game Achievements:
   Description: Achieve Chapter Rank S in every chapter.
   GS: '70'
   Guide: false
-  Number of Gamers: 250
+  Number of Gamers: 261
   Percentage of Gamers: 20%
-  Ratio: 2.24
-  TA: '157'
+  Ratio: 2.23
+  TA: '156'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -173,8 +173,8 @@ Base Game Achievements:
   Description: Obtain every memory fragment.
   GS: '15'
   Guide: false
-  Number of Gamers: 493
-  Percentage of Gamers: 39%
+  Number of Gamers: 514
+  Percentage of Gamers: 40%
   Ratio: 1.59
   TA: '23'
   Tags:
@@ -185,9 +185,9 @@ Base Game Achievements:
   Description: Clear every subquest.
   GS: '15'
   Guide: false
-  Number of Gamers: 440
+  Number of Gamers: 460
   Percentage of Gamers: 35%
-  Ratio: 1.69
+  Ratio: 1.68
   TA: '25'
   Tags:
   - Offline Mode
@@ -197,9 +197,9 @@ Base Game Achievements:
   Description: Complete the Hinokami Records.
   GS: '15'
   Guide: false
-  Number of Gamers: 353
-  Percentage of Gamers: 28%
-  Ratio: 1.89
+  Number of Gamers: 371
+  Percentage of Gamers: 29%
+  Ratio: 1.87
   TA: '28'
   Tags:
   - Offline Mode
@@ -209,8 +209,8 @@ Base Game Achievements:
   Description: Earn an S rank in Zenko's Shamisen Jams on advanced difficulty.
   GS: '30'
   Guide: false
-  Number of Gamers: 447
-  Percentage of Gamers: 35%
+  Number of Gamers: 466
+  Percentage of Gamers: 36%
   Ratio: 1.67
   TA: '50'
   Tags:
@@ -222,10 +222,10 @@ Base Game Achievements:
     difficulty.
   GS: '30'
   Guide: false
-  Number of Gamers: 302
+  Number of Gamers: 315
   Percentage of Gamers: 24%
-  Ratio: 2.04
-  TA: '61'
+  Ratio: 2.03
+  TA: '60'
   Tags:
   - Offline Mode
   - Single Player
@@ -234,10 +234,10 @@ Base Game Achievements:
   Description: Earn an S rank in Himejima's Strength Training on advanced difficulty.
   GS: '30'
   Guide: false
-  Number of Gamers: 303
+  Number of Gamers: 316
   Percentage of Gamers: 24%
-  Ratio: 2.04
-  TA: '61'
+  Ratio: 2.02
+  TA: '60'
   Tags:
   - Offline Mode
   - Single Player
@@ -246,7 +246,7 @@ Base Game Achievements:
   Description: Play VS Mode for the first time.
   GS: '15'
   Guide: false
-  Number of Gamers: 1007
+  Number of Gamers: 1046
   Percentage of Gamers: 80%
   Ratio: 1.11
   TA: '16'
@@ -257,10 +257,10 @@ Base Game Achievements:
   Description: Play Endurance Match for the first time.
   GS: '15'
   Guide: false
-  Number of Gamers: 444
-  Percentage of Gamers: 35%
-  Ratio: 1.68
-  TA: '25'
+  Number of Gamers: 470
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '24'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -268,10 +268,10 @@ Base Game Achievements:
   Description: Defeat 100 opponents in Survival.
   GS: '80'
   Guide: true
-  Number of Gamers: 32
+  Number of Gamers: 38
   Percentage of Gamers: 3%
-  Ratio: 6.27
-  TA: '502'
+  Ratio: 5.84
+  TA: '467'
   Tags:
   - Offline Mode
   - Single Player
@@ -280,7 +280,7 @@ Base Game Achievements:
   Description: Clear The Path of a Demon Slayer on intermediate difficulty.
   GS: '15'
   Guide: false
-  Number of Gamers: 521
+  Number of Gamers: 538
   Percentage of Gamers: 41%
   Ratio: 1.55
   TA: '23'
@@ -293,10 +293,10 @@ Base Game Achievements:
     advanced difficulty.
   GS: '30'
   Guide: false
-  Number of Gamers: 110
+  Number of Gamers: 119
   Percentage of Gamers: 9%
-  Ratio: 3.38
-  TA: '101'
+  Ratio: 3.3
+  TA: '99'
   Tags:
   - Offline Mode
   - Single Player
@@ -305,7 +305,7 @@ Base Game Achievements:
   Description: Clear Training Paths for the first time.
   GS: '15'
   Guide: false
-  Number of Gamers: 571
+  Number of Gamers: 590
   Percentage of Gamers: 45%
   Ratio: 1.48
   TA: '22'
@@ -316,10 +316,10 @@ Base Game Achievements:
   Description: Clear all routes of Training Paths on every difficulty.
   GS: '80'
   Guide: false
-  Number of Gamers: 80
-  Percentage of Gamers: 6%
-  Ratio: 3.97
-  TA: '317'
+  Number of Gamers: 86
+  Percentage of Gamers: 7%
+  Ratio: 3.88
+  TA: '311'
   Tags:
   - Offline Mode
   - Single Player
@@ -328,9 +328,9 @@ Base Game Achievements:
   Description: Improve mastery of 5 characters to at least 5.
   GS: '30'
   Guide: false
-  Number of Gamers: 679
+  Number of Gamers: 703
   Percentage of Gamers: 54%
-  Ratio: 1.36
+  Ratio: 1.35
   TA: '40'
   Tags:
   - Offline Mode
@@ -340,10 +340,10 @@ Base Game Achievements:
   Description: Improve mastery of 35 characters to at least 5.
   GS: '80'
   Guide: false
-  Number of Gamers: 81
-  Percentage of Gamers: 6%
-  Ratio: 3.94
-  TA: '315'
+  Number of Gamers: 89
+  Percentage of Gamers: 7%
+  Ratio: 3.82
+  TA: '305'
   Tags:
   - Offline Mode
   - Single Player
@@ -352,9 +352,9 @@ Base Game Achievements:
   Description: Make a purchase at the Kimetsu Points Shop for the first time.
   GS: '15'
   Guide: false
-  Number of Gamers: 861
+  Number of Gamers: 888
   Percentage of Gamers: 68%
-  Ratio: 1.21
+  Ratio: 1.2
   TA: '18'
   Tags:
   - Offline Mode
@@ -364,10 +364,10 @@ Base Game Achievements:
   Description: Collect 40 pieces of gear.
   GS: '30'
   Guide: false
-  Number of Gamers: 189
+  Number of Gamers: 200
   Percentage of Gamers: 15%
-  Ratio: 2.58
-  TA: '77'
+  Ratio: 2.54
+  TA: '76'
   Tags:
   - Offline Mode
   - Single Player
@@ -376,10 +376,10 @@ Base Game Achievements:
   Description: Collect 21 system voice banks (excluding downloadable content).
   GS: '30'
   Guide: false
-  Number of Gamers: 130
-  Percentage of Gamers: 10%
-  Ratio: 3.11
-  TA: '93'
+  Number of Gamers: 140
+  Percentage of Gamers: 11%
+  Ratio: 3.04
+  TA: '91'
   Tags:
   - Offline Mode
   - Single Player
@@ -388,10 +388,10 @@ Base Game Achievements:
   Description: Collect 300 quotes (excluding downloadable content).
   GS: '30'
   Guide: false
-  Number of Gamers: 57
+  Number of Gamers: 62
   Percentage of Gamers: 5%
-  Ratio: 4.7
-  TA: '141'
+  Ratio: 4.57
+  TA: '137'
   Tags:
   - Offline Mode
   - Single Player
@@ -400,10 +400,10 @@ Base Game Achievements:
   Description: Collect 55 music tracks (excluding downloadable content).
   GS: '30'
   Guide: false
-  Number of Gamers: 132
-  Percentage of Gamers: 10%
-  Ratio: 3.09
-  TA: '92'
+  Number of Gamers: 141
+  Percentage of Gamers: 11%
+  Ratio: 3.03
+  TA: '91'
   Tags:
   - Offline Mode
   - Single Player
@@ -412,10 +412,10 @@ Base Game Achievements:
   Description: Collect 94 stamps.
   GS: '30'
   Guide: false
-  Number of Gamers: 61
+  Number of Gamers: 66
   Percentage of Gamers: 5%
-  Ratio: 4.54
-  TA: '136'
+  Ratio: 4.43
+  TA: '133'
   Tags:
   - Offline Mode
   - Single Player
@@ -424,10 +424,10 @@ Base Game Achievements:
   Description: Collect 30 Slayer ID Frames.
   GS: '30'
   Guide: false
-  Number of Gamers: 77
-  Percentage of Gamers: 6%
-  Ratio: 4.04
-  TA: '121'
+  Number of Gamers: 88
+  Percentage of Gamers: 7%
+  Ratio: 3.84
+  TA: '115'
   Tags:
   - Offline Mode
   - Single Player
@@ -436,10 +436,10 @@ Base Game Achievements:
   Description: Collect 300 profile photos.
   GS: '30'
   Guide: false
-  Number of Gamers: 61
+  Number of Gamers: 66
   Percentage of Gamers: 5%
-  Ratio: 4.54
-  TA: '136'
+  Ratio: 4.43
+  TA: '133'
   Tags:
   - Offline Mode
   - Single Player
@@ -448,34 +448,34 @@ Base Game Achievements:
   Description: Collect 133 decorations.
   GS: '30'
   Guide: false
-  Number of Gamers: 59
+  Number of Gamers: 65
   Percentage of Gamers: 5%
-  Ratio: 4.62
-  TA: '138'
+  Ratio: 4.47
+  TA: '134'
   Tags:
   - Offline Mode
   - Single Player
   - Shop
-Base Ratio: 2.936
-Base TA: 2936
+Base Ratio: 2.855
+Base TA: 2855
 Delisted: false
 Developer: CyberConnect2
 Game Name: Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2
 Genres: Fighting
 Install Size: 21730.0
-Number of Completions: 28
-Number of Gamers: 1262
+Number of Completions: 32
+Number of Gamers: 1300
 Overall Completion Time:
+- 34
 - 35
-- 36
 Overall GS: 1000
-Overall Ratio: 2.936
-Overall TA: 2936
+Overall Ratio: 2.855
+Overall TA: 2855
 PDU: 0
-Percentage Completed: 2.22
+Percentage Completed: 2.46
 Publisher: SEGA
 Release Date: 05 August 2025
 Server Closure: false
-Site Rating: 4.44
+Site Rating: 4.45
 Update Achievements: []
 Walkthrough: false

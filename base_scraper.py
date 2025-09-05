@@ -52,8 +52,8 @@ class BaseScraper:
         Return all <tr> elements (gamebox rows) for a given page.
         Uses query parameter to fetch specific page.
         """
-        url = f"{self.base_url}?page={page_num}"
-        html = self.safe_get(scraper=scraper, url=self.base_url)
+        modified_url = f"{self.base_url}?page={page_num}"
+        html = self.safe_get(scraper=scraper, url=modified_url)
         soup = BeautifulSoup(html, "html.parser")
 
         table = soup.find("table", {"id": "oGameList"})

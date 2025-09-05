@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 0.5
-Base GS: 1000
+- 1.0
+Base GS: 2000
 Base Game Achievements:
 - Achievement Name: Level 03
   Description: Complete Level 03
   GS: '100'
   Guide: true
-  Number of Gamers: 236
+  Number of Gamers: 247
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '100'
@@ -20,8 +20,8 @@ Base Game Achievements:
   Description: Complete Level 06
   GS: '100'
   Guide: false
-  Number of Gamers: 229
-  Percentage of Gamers: 97%
+  Number of Gamers: 241
+  Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '101'
   Tags:
@@ -32,8 +32,8 @@ Base Game Achievements:
   Description: Complete Level 09
   GS: '100'
   Guide: false
-  Number of Gamers: 223
-  Percentage of Gamers: 94%
+  Number of Gamers: 236
+  Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '102'
   Tags:
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Complete Level 12
   GS: '100'
   Guide: false
-  Number of Gamers: 220
-  Percentage of Gamers: 93%
-  Ratio: 1.03
-  TA: '103'
+  Number of Gamers: 233
+  Percentage of Gamers: 94%
+  Ratio: 1.02
+  TA: '102'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,8 +56,8 @@ Base Game Achievements:
   Description: Complete Level 15
   GS: '100'
   Guide: false
-  Number of Gamers: 216
-  Percentage of Gamers: 92%
+  Number of Gamers: 226
+  Percentage of Gamers: 91%
   Ratio: 1.04
   TA: '104'
   Tags:
@@ -68,8 +68,8 @@ Base Game Achievements:
   Description: Complete Level 18
   GS: '100'
   Guide: false
-  Number of Gamers: 216
-  Percentage of Gamers: 92%
+  Number of Gamers: 226
+  Percentage of Gamers: 91%
   Ratio: 1.04
   TA: '104'
   Tags:
@@ -80,7 +80,7 @@ Base Game Achievements:
   Description: Complete Level 21
   GS: '100'
   Guide: false
-  Number of Gamers: 214
+  Number of Gamers: 224
   Percentage of Gamers: 91%
   Ratio: 1.05
   TA: '105'
@@ -92,8 +92,8 @@ Base Game Achievements:
   Description: Complete Level 24
   GS: '100'
   Guide: false
-  Number of Gamers: 212
-  Percentage of Gamers: 90%
+  Number of Gamers: 221
+  Percentage of Gamers: 89%
   Ratio: 1.05
   TA: '105'
   Tags:
@@ -104,10 +104,10 @@ Base Game Achievements:
   Description: Complete Level 27
   GS: '100'
   Guide: false
-  Number of Gamers: 211
+  Number of Gamers: 220
   Percentage of Gamers: 89%
-  Ratio: 1.05
-  TA: '105'
+  Ratio: 1.06
+  TA: '106'
   Tags:
   - Offline Mode
   - Single Player
@@ -116,34 +116,94 @@ Base Game Achievements:
   Description: Complete Level 30
   GS: '100'
   Guide: true
-  Number of Gamers: 210
-  Percentage of Gamers: 89%
+  Number of Gamers: 218
+  Percentage of Gamers: 88%
   Ratio: 1.06
   TA: '106'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.035
-Base TA: 1035
+Base Ratio: 1.316
+Base TA: 2632
 Delisted: false
 Developer: Joffre Macedo Neto
 Game Name: Daniel in Danger (Xbox One)
 Genres: Platformer
 Install Size: 538.0
-Number of Completions: 210
-Number of Gamers: 236
+Number of Completions: 94
+Number of Gamers: 247
 Overall Completion Time:
 - 0.0
-- 0.5
-Overall GS: 1000
-Overall Ratio: 1.035
-Overall TA: 1035
+- 1.0
+Overall GS: 2000
+Overall Ratio: 1.316
+Overall TA: 2632
 PDU: 0
-Percentage Completed: 88.98
+Percentage Completed: 38.06
 Publisher: JM Neto Game Dev
 Release Date: 16 July 2025
 Server Closure: false
-Site Rating: 2.0
-Update Achievements: []
+Site Rating: 2.3
+Update Achievements:
+- Achievement Name: Level 01
+  Description: Complete Level 01
+  GS: '200'
+  Guide: false
+  Number of Gamers: 100
+  Percentage of Gamers: 40%
+  Ratio: 1.59
+  TA: '318'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Level 02
+  Description: Complete Level 02
+  GS: '200'
+  Guide: false
+  Number of Gamers: 100
+  Percentage of Gamers: 40%
+  Ratio: 1.59
+  TA: '318'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Level 04
+  Description: Complete Level 04
+  GS: '200'
+  Guide: false
+  Number of Gamers: 99
+  Percentage of Gamers: 40%
+  Ratio: 1.6
+  TA: '320'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Level 05
+  Description: Complete Level 05
+  GS: '200'
+  Guide: false
+  Number of Gamers: 99
+  Percentage of Gamers: 40%
+  Ratio: 1.6
+  TA: '320'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Level 07
+  Description: Complete Level 07
+  GS: '200'
+  Guide: false
+  Number of Gamers: 98
+  Percentage of Gamers: 40%
+  Ratio: 1.6
+  TA: '321'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 Walkthrough: false

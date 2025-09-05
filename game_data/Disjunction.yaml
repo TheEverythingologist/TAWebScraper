@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 102
-- 103
+- 98
+- 99
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Merciful
   Description: Complete a level without killing anybody
   GS: '25'
   Guide: false
-  Number of Gamers: 377
+  Number of Gamers: 445
   Percentage of Gamers: 84%
   Ratio: 1.09
   TA: '27'
@@ -19,10 +19,10 @@ Base Game Achievements:
   Description: Complete a level having killed everyone
   GS: '25'
   Guide: false
-  Number of Gamers: 54
-  Percentage of Gamers: 12%
-  Ratio: 2.88
-  TA: '72'
+  Number of Gamers: 61
+  Percentage of Gamers: 11%
+  Ratio: 2.95
+  TA: '73'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -30,10 +30,10 @@ Base Game Achievements:
   Description: Complete a level without alerting any enemies
   GS: '25'
   Guide: false
-  Number of Gamers: 159
+  Number of Gamers: 188
   Percentage of Gamers: 35%
-  Ratio: 1.67
-  TA: '41'
+  Ratio: 1.68
+  TA: '42'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -41,10 +41,10 @@ Base Game Achievements:
   Description: Complete a level without taking damage
   GS: '25'
   Guide: false
-  Number of Gamers: 176
+  Number of Gamers: 207
   Percentage of Gamers: 39%
-  Ratio: 1.59
-  TA: '39'
+  Ratio: 1.6
+  TA: '40'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -52,10 +52,10 @@ Base Game Achievements:
   Description: Complete a level without using any abilities
   GS: '25'
   Guide: false
-  Number of Gamers: 108
-  Percentage of Gamers: 24%
-  Ratio: 2.03
-  TA: '50'
+  Number of Gamers: 135
+  Percentage of Gamers: 25%
+  Ratio: 1.98
+  TA: '49'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -63,10 +63,10 @@ Base Game Achievements:
   Description: Hit the same enemy with a smoke grenade, a shock bolt, and your baton
   GS: '25'
   Guide: false
-  Number of Gamers: 190
-  Percentage of Gamers: 42%
-  Ratio: 1.53
-  TA: '38'
+  Number of Gamers: 231
+  Percentage of Gamers: 43%
+  Ratio: 1.51
+  TA: '37'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -74,10 +74,10 @@ Base Game Achievements:
   Description: Kill two enemies with one shotgun blast
   GS: '25'
   Guide: true
-  Number of Gamers: 29
+  Number of Gamers: 33
   Percentage of Gamers: 6%
-  Ratio: 3.93
-  TA: '98'
+  Ratio: 4.01
+  TA: '100'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -85,10 +85,10 @@ Base Game Achievements:
   Description: Knock out an investigating enemy while invisible
   GS: '25'
   Guide: true
-  Number of Gamers: 43
-  Percentage of Gamers: 10%
-  Ratio: 3.22
-  TA: '80'
+  Number of Gamers: 50
+  Percentage of Gamers: 9%
+  Ratio: 3.26
+  TA: '81'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -96,10 +96,10 @@ Base Game Achievements:
   Description: Collect all the Upgrade Kits in the game
   GS: '50'
   Guide: true
-  Number of Gamers: 26
-  Percentage of Gamers: 6%
-  Ratio: 4.15
-  TA: '207'
+  Number of Gamers: 28
+  Percentage of Gamers: 5%
+  Ratio: 4.35
+  TA: '217'
   Tags:
   - Offline Mode
   - Single Player
@@ -109,10 +109,10 @@ Base Game Achievements:
   Description: Collect all the Lore Items in the game
   GS: '50'
   Guide: true
-  Number of Gamers: 24
+  Number of Gamers: 27
   Percentage of Gamers: 5%
-  Ratio: 4.32
-  TA: '216'
+  Ratio: 4.43
+  TA: '221'
   Tags:
   - Offline Mode
   - Single Player
@@ -122,10 +122,10 @@ Base Game Achievements:
   Description: Spare Mara Bishop
   GS: '50'
   Guide: true
-  Number of Gamers: 30
-  Percentage of Gamers: 7%
-  Ratio: 3.86
-  TA: '193'
+  Number of Gamers: 33
+  Percentage of Gamers: 6%
+  Ratio: 4.01
+  TA: '200'
   Tags:
   - Offline Mode
   - Single Player
@@ -134,10 +134,10 @@ Base Game Achievements:
   Description: Kill Mara Bishop
   GS: '50'
   Guide: true
-  Number of Gamers: 18
+  Number of Gamers: 20
   Percentage of Gamers: 4%
-  Ratio: 4.98
-  TA: '249'
+  Ratio: 5.15
+  TA: '257'
   Tags:
   - Offline Mode
   - Single Player
@@ -146,10 +146,10 @@ Base Game Achievements:
   Description: Side with Mara Bishop
   GS: '50'
   Guide: true
-  Number of Gamers: 19
+  Number of Gamers: 21
   Percentage of Gamers: 4%
-  Ratio: 4.85
-  TA: '242'
+  Ratio: 5.03
+  TA: '251'
   Tags:
   - Offline Mode
   - Single Player
@@ -158,10 +158,10 @@ Base Game Achievements:
   Description: Accept Bribe from Mara Bishop
   GS: '50'
   Guide: true
-  Number of Gamers: 19
+  Number of Gamers: 21
   Percentage of Gamers: 4%
-  Ratio: 4.85
-  TA: '242'
+  Ratio: 5.03
+  TA: '251'
   Tags:
   - Offline Mode
   - Single Player
@@ -170,10 +170,10 @@ Base Game Achievements:
   Description: Complete the game without killing anybody
   GS: '80'
   Guide: true
-  Number of Gamers: 26
-  Percentage of Gamers: 6%
-  Ratio: 4.15
-  TA: '332'
+  Number of Gamers: 28
+  Percentage of Gamers: 5%
+  Ratio: 4.35
+  TA: '348'
   Tags:
   - Offline Mode
   - Single Player
@@ -182,10 +182,10 @@ Base Game Achievements:
   Description: Complete the game having killed everyone
   GS: '80'
   Guide: true
-  Number of Gamers: 10
+  Number of Gamers: 12
   Percentage of Gamers: 2%
-  Ratio: 6.69
-  TA: '535'
+  Ratio: 6.65
+  TA: '532'
   Tags:
   - Offline Mode
   - Single Player
@@ -194,10 +194,10 @@ Base Game Achievements:
   Description: Beat the final level as Frank
   GS: '80'
   Guide: false
-  Number of Gamers: 25
-  Percentage of Gamers: 6%
-  Ratio: 4.23
-  TA: '338'
+  Number of Gamers: 27
+  Percentage of Gamers: 5%
+  Ratio: 4.43
+  TA: '355'
   Tags:
   - Offline Mode
   - Single Player
@@ -206,10 +206,10 @@ Base Game Achievements:
   Description: Beat the final level as Joe
   GS: '80'
   Guide: false
-  Number of Gamers: 17
+  Number of Gamers: 20
   Percentage of Gamers: 4%
-  Ratio: 5.13
-  TA: '410'
+  Ratio: 5.15
+  TA: '412'
   Tags:
   - Offline Mode
   - Single Player
@@ -218,10 +218,10 @@ Base Game Achievements:
   Description: Beat the final level as Spider
   GS: '80'
   Guide: false
-  Number of Gamers: 19
+  Number of Gamers: 21
   Percentage of Gamers: 4%
-  Ratio: 4.85
-  TA: '388'
+  Ratio: 5.03
+  TA: '402'
   Tags:
   - Offline Mode
   - Single Player
@@ -230,34 +230,34 @@ Base Game Achievements:
   Description: Beat the game
   GS: '100'
   Guide: false
-  Number of Gamers: 33
+  Number of Gamers: 36
   Percentage of Gamers: 7%
-  Ratio: 3.68
-  TA: '368'
+  Ratio: 3.84
+  TA: '384'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 4.165
-Base TA: 4165
+Base Ratio: 4.279
+Base TA: 4279
 Delisted: false
 Developer: Ape Tribe Games
 Game Name: Disjunction
 Genres: Role Playing, Stealth
 Install Size: 490.0
-Number of Completions: 10
-Number of Gamers: 448
+Number of Completions: 12
+Number of Gamers: 532
 Overall Completion Time:
-- 102
-- 103
+- 98
+- 99
 Overall GS: 1000
-Overall Ratio: 4.165
-Overall TA: 4165
+Overall Ratio: 4.279
+Overall TA: 4279
 PDU: 0
-Percentage Completed: 2.23
+Percentage Completed: 2.26
 Publisher: Fireshine Games
 Release Date: 28 January 2021
 Server Closure: false
-Site Rating: 2.86
+Site Rating: 2.85
 Update Achievements: []
 Walkthrough: false

@@ -1,15 +1,15 @@
 Add On Achievements: []
 Base Completion Time:
-- 0.0
-- 1.0
-Base GS: 2000
+- 0.5
+- 2.0
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: The Blue Wasteland
   Description: Reach 2nd level
   GS: '100'
   Guide: false
-  Number of Gamers: 926
-  Percentage of Gamers: 100%
+  Number of Gamers: 1093
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
   Tags:
@@ -20,8 +20,8 @@ Base Game Achievements:
   Description: Reach 3rd level
   GS: '100'
   Guide: false
-  Number of Gamers: 899
-  Percentage of Gamers: 97%
+  Number of Gamers: 1064
+  Percentage of Gamers: 96%
   Ratio: 1.01
   TA: '101'
   Tags:
@@ -32,7 +32,7 @@ Base Game Achievements:
   Description: Reach 4th level
   GS: '100'
   Guide: false
-  Number of Gamers: 885
+  Number of Gamers: 1049
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Reach 5th level
   GS: '100'
   Guide: false
-  Number of Gamers: 875
+  Number of Gamers: 1036
   Percentage of Gamers: 94%
-  Ratio: 1.02
-  TA: '102'
+  Ratio: 1.03
+  TA: '103'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,7 +56,7 @@ Base Game Achievements:
   Description: Reach 6th level
   GS: '100'
   Guide: false
-  Number of Gamers: 865
+  Number of Gamers: 1024
   Percentage of Gamers: 93%
   Ratio: 1.03
   TA: '103'
@@ -68,8 +68,8 @@ Base Game Achievements:
   Description: Reach 7th level
   GS: '100'
   Guide: false
-  Number of Gamers: 854
-  Percentage of Gamers: 92%
+  Number of Gamers: 1011
+  Percentage of Gamers: 91%
   Ratio: 1.04
   TA: '104'
   Tags:
@@ -80,7 +80,7 @@ Base Game Achievements:
   Description: Kill 500 enemies
   GS: '100'
   Guide: false
-  Number of Gamers: 903
+  Number of Gamers: 1068
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '101'
@@ -92,10 +92,10 @@ Base Game Achievements:
   Description: Kill 1000 enemies
   GS: '100'
   Guide: false
-  Number of Gamers: 895
+  Number of Gamers: 1059
   Percentage of Gamers: 96%
-  Ratio: 1.01
-  TA: '101'
+  Ratio: 1.02
+  TA: '102'
   Tags:
   - Offline Mode
   - Single Player
@@ -104,8 +104,8 @@ Base Game Achievements:
   Description: Kill 2000 enemies
   GS: '100'
   Guide: false
-  Number of Gamers: 881
-  Percentage of Gamers: 95%
+  Number of Gamers: 1043
+  Percentage of Gamers: 94%
   Ratio: 1.02
   TA: '102'
   Tags:
@@ -116,44 +116,44 @@ Base Game Achievements:
   Description: Kill 3000 enemies
   GS: '100'
   Guide: false
-  Number of Gamers: 876
+  Number of Gamers: 1036
   Percentage of Gamers: 94%
-  Ratio: 1.02
-  TA: '102'
+  Ratio: 1.03
+  TA: '103'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 1.0695
-Base TA: 2139
+Base Ratio: 1.3433333333333333
+Base TA: 4030
 Delisted: false
 Developer: HugePixel
 Game Name: Lord of the Click 4
 Genres: Management
 Install Size: 469.0
-Number of Completions: 719
-Number of Gamers: 930
+Number of Completions: 302
+Number of Gamers: 1105
 Overall Completion Time:
-- 0.0
-- 1.0
-Overall GS: 2000
-Overall Ratio: 1.0695
-Overall TA: 2139
+- 0.5
+- 2.0
+Overall GS: 3000
+Overall Ratio: 1.3433333333333333
+Overall TA: 4030
 PDU: 0
-Percentage Completed: 77.31
+Percentage Completed: 27.33
 Publisher: Desert Water Games
 Release Date: 06 December 2024
 Server Closure: false
-Site Rating: 2.43
+Site Rating: 2.42
 Update Achievements:
 - Achievement Name: High King II
   Description: Kill 3500 enemies
   GS: '200'
   Guide: false
-  Number of Gamers: 732
-  Percentage of Gamers: 79%
-  Ratio: 1.12
-  TA: '225'
+  Number of Gamers: 912
+  Percentage of Gamers: 83%
+  Ratio: 1.1
+  TA: '220'
   Tags:
   - Offline Mode
   - Single Player
@@ -162,10 +162,10 @@ Update Achievements:
   Description: Kill 4000 enemies
   GS: '200'
   Guide: false
-  Number of Gamers: 726
-  Percentage of Gamers: 78%
-  Ratio: 1.13
-  TA: '226'
+  Number of Gamers: 905
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '221'
   Tags:
   - Offline Mode
   - Single Player
@@ -174,10 +174,10 @@ Update Achievements:
   Description: Reach 8th level
   GS: '200'
   Guide: true
-  Number of Gamers: 719
-  Percentage of Gamers: 77%
-  Ratio: 1.13
-  TA: '227'
+  Number of Gamers: 896
+  Percentage of Gamers: 81%
+  Ratio: 1.11
+  TA: '222'
   Tags:
   - Offline Mode
   - Single Player
@@ -186,10 +186,10 @@ Update Achievements:
   Description: Summon 25 units
   GS: '200'
   Guide: false
-  Number of Gamers: 756
-  Percentage of Gamers: 81%
-  Ratio: 1.1
-  TA: '221'
+  Number of Gamers: 952
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '215'
   Tags:
   - Offline Mode
   - Single Player
@@ -198,12 +198,72 @@ Update Achievements:
   Description: Summon 50 units
   GS: '200'
   Guide: false
-  Number of Gamers: 753
-  Percentage of Gamers: 81%
-  Ratio: 1.11
-  TA: '222'
+  Number of Gamers: 942
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '216'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
+- Achievement Name: Save the kingdom
+  Description: Kill 4250 enemies
+  GS: '200'
+  Guide: false
+  Number of Gamers: 305
+  Percentage of Gamers: 28%
+  Ratio: 1.91
+  TA: '383'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Defender of the lands
+  Description: Kill 4500 enemies
+  GS: '200'
+  Guide: false
+  Number of Gamers: 305
+  Percentage of Gamers: 28%
+  Ratio: 1.91
+  TA: '383'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Getting a backup
+  Description: Summon 75 units
+  GS: '200'
+  Guide: false
+  Number of Gamers: 309
+  Percentage of Gamers: 28%
+  Ratio: 1.9
+  TA: '381'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Numerical advantage
+  Description: Summon 100 units
+  GS: '200'
+  Guide: false
+  Number of Gamers: 309
+  Percentage of Gamers: 28%
+  Ratio: 1.9
+  TA: '381'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: The Singing Forest
+  Description: Reach 9th level
+  GS: '200'
+  Guide: false
+  Number of Gamers: 299
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '387'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 Walkthrough: false

@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 16.0
-- 22.0
+- 15.5
+- 21.0
 Base GS: 1027
 Base Game Achievements:
 - Achievement Name: His Winningness
   Description: Win one game.
   GS: '99'
   Guide: false
-  Number of Gamers: 5303
+  Number of Gamers: 5619
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '100'
@@ -19,10 +19,10 @@ Base Game Achievements:
   Description: Beat the game on King difficulty.
   GS: '99'
   Guide: true
-  Number of Gamers: 807
-  Percentage of Gamers: 15%
-  Ratio: 2.61
-  TA: '258'
+  Number of Gamers: 937
+  Percentage of Gamers: 16%
+  Ratio: 2.49
+  TA: '246'
   Tags:
   - Offline Mode
   - Single Player
@@ -31,10 +31,10 @@ Base Game Achievements:
   Description: Save 999+ gold in a single run.
   GS: '9'
   Guide: true
-  Number of Gamers: 1490
-  Percentage of Gamers: 27%
-  Ratio: 1.92
-  TA: '17'
+  Number of Gamers: 1652
+  Percentage of Gamers: 28%
+  Ratio: 1.87
+  TA: '16'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -42,10 +42,10 @@ Base Game Achievements:
   Description: Get your base to level 9.
   GS: '99'
   Guide: true
-  Number of Gamers: 1201
-  Percentage of Gamers: 22%
-  Ratio: 2.13
-  TA: '211'
+  Number of Gamers: 1314
+  Percentage of Gamers: 23%
+  Ratio: 2.1
+  TA: '208'
   Tags:
   - Offline Mode
   - Single Player
@@ -54,10 +54,10 @@ Base Game Achievements:
   Description: Win a run without using troops.
   GS: '9'
   Guide: true
-  Number of Gamers: 910
+  Number of Gamers: 1013
   Percentage of Gamers: 17%
-  Ratio: 2.45
-  TA: '22'
+  Ratio: 2.39
+  TA: '21'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -65,9 +65,9 @@ Base Game Achievements:
   Description: Get 99 units in a plot.
   GS: '9'
   Guide: true
-  Number of Gamers: 2352
-  Percentage of Gamers: 43%
-  Ratio: 1.52
+  Number of Gamers: 2554
+  Percentage of Gamers: 44%
+  Ratio: 1.5
   TA: '13'
   Tags:
   - Offline Game Mode
@@ -76,9 +76,9 @@ Base Game Achievements:
   Description: Buy 9 cards in a single run.
   GS: '9'
   Guide: false
-  Number of Gamers: 2045
-  Percentage of Gamers: 37%
-  Ratio: 1.63
+  Number of Gamers: 2212
+  Percentage of Gamers: 38%
+  Ratio: 1.62
   TA: '14'
   Tags:
   - Offline Mode
@@ -88,10 +88,10 @@ Base Game Achievements:
   Description: Beat the game in under 9 minutes.
   GS: '99'
   Guide: true
-  Number of Gamers: 393
-  Percentage of Gamers: 7%
-  Ratio: 3.73
-  TA: '369'
+  Number of Gamers: 463
+  Percentage of Gamers: 8%
+  Ratio: 3.54
+  TA: '350'
   Tags:
   - Offline Mode
   - Single Player
@@ -100,9 +100,9 @@ Base Game Achievements:
   Description: Have one plot deal 999999+ damage.
   GS: '9'
   Guide: false
-  Number of Gamers: 2097
-  Percentage of Gamers: 38%
-  Ratio: 1.61
+  Number of Gamers: 2272
+  Percentage of Gamers: 39%
+  Ratio: 1.59
   TA: '14'
   Tags:
   - Offline Game Mode
@@ -111,10 +111,10 @@ Base Game Achievements:
   Description: Have a Ballista mount a Boar.
   GS: '17'
   Guide: true
-  Number of Gamers: 1008
-  Percentage of Gamers: 18%
-  Ratio: 2.33
-  TA: '39'
+  Number of Gamers: 1126
+  Percentage of Gamers: 19%
+  Ratio: 2.27
+  TA: '38'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -122,9 +122,9 @@ Base Game Achievements:
   Description: Get 40 Thieves in a single plot.
   GS: '9'
   Guide: true
-  Number of Gamers: 1922
-  Percentage of Gamers: 35%
-  Ratio: 1.68
+  Number of Gamers: 2068
+  Percentage of Gamers: 36%
+  Ratio: 1.67
   TA: '15'
   Tags:
   - Offline Game Mode
@@ -133,10 +133,10 @@ Base Game Achievements:
   Description: Get a Lab Rat to level 99.
   GS: '9'
   Guide: true
-  Number of Gamers: 556
-  Percentage of Gamers: 10%
-  Ratio: 3.14
-  TA: '28'
+  Number of Gamers: 634
+  Percentage of Gamers: 11%
+  Ratio: 3.02
+  TA: '27'
   Tags:
   - Offline Mode
   - Single Player
@@ -145,10 +145,10 @@ Base Game Achievements:
   Description: Survive until year 99.
   GS: '99'
   Guide: true
-  Number of Gamers: 524
+  Number of Gamers: 606
   Percentage of Gamers: 10%
-  Ratio: 3.24
-  TA: '321'
+  Ratio: 3.09
+  TA: '306'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -156,7 +156,7 @@ Base Game Achievements:
   Description: Throw 9 cards into the pit in a single run.
   GS: '9'
   Guide: true
-  Number of Gamers: 3710
+  Number of Gamers: 3958
   Percentage of Gamers: 68%
   Ratio: 1.21
   TA: '10'
@@ -167,9 +167,9 @@ Base Game Achievements:
   Description: Have one troop with 9 enchantments.
   GS: '9'
   Guide: true
-  Number of Gamers: 3292
-  Percentage of Gamers: 60%
-  Ratio: 1.29
+  Number of Gamers: 3525
+  Percentage of Gamers: 61%
+  Ratio: 1.28
   TA: '11'
   Tags:
   - Offline Game Mode
@@ -178,10 +178,10 @@ Base Game Achievements:
   Description: Have 9 Wallmakers in your kingdom.
   GS: '9'
   Guide: true
-  Number of Gamers: 509
-  Percentage of Gamers: 9%
-  Ratio: 3.28
-  TA: '29'
+  Number of Gamers: 582
+  Percentage of Gamers: 10%
+  Ratio: 3.15
+  TA: '28'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -189,9 +189,9 @@ Base Game Achievements:
   Description: Re-roll 9 times in a single screen.
   GS: '9'
   Guide: true
-  Number of Gamers: 1038
-  Percentage of Gamers: 19%
-  Ratio: 2.3
+  Number of Gamers: 1141
+  Percentage of Gamers: 20%
+  Ratio: 2.25
   TA: '20'
   Tags:
   - Offline Mode
@@ -201,10 +201,10 @@ Base Game Achievements:
   Description: Unlock every plot in a run.
   GS: '99'
   Guide: true
-  Number of Gamers: 1948
-  Percentage of Gamers: 35%
-  Ratio: 1.67
-  TA: '166'
+  Number of Gamers: 2096
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '164'
   Tags:
   - Offline Mode
   - Single Player
@@ -213,10 +213,10 @@ Base Game Achievements:
   Description: Put your base in the front FRONT line.
   GS: '9'
   Guide: true
-  Number of Gamers: 877
-  Percentage of Gamers: 16%
-  Ratio: 2.5
-  TA: '22'
+  Number of Gamers: 991
+  Percentage of Gamers: 17%
+  Ratio: 2.42
+  TA: '21'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -224,10 +224,10 @@ Base Game Achievements:
   Description: Get to a Merchant encounter with 29 gold.
   GS: '29'
   Guide: true
-  Number of Gamers: 522
+  Number of Gamers: 596
   Percentage of Gamers: 10%
-  Ratio: 3.25
-  TA: '94'
+  Ratio: 3.12
+  TA: '90'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -235,9 +235,9 @@ Base Game Achievements:
   Description: Have a Mangler destroy a troop plot entirely.
   GS: '9'
   Guide: true
-  Number of Gamers: 1776
-  Percentage of Gamers: 32%
-  Ratio: 1.75
+  Number of Gamers: 1953
+  Percentage of Gamers: 34%
+  Ratio: 1.72
   TA: '15'
   Tags:
   - Offline Game Mode
@@ -246,9 +246,9 @@ Base Game Achievements:
   Description: Win the final battle in less than 9 seconds.
   GS: '9'
   Guide: true
-  Number of Gamers: 1979
-  Percentage of Gamers: 36%
-  Ratio: 1.66
+  Number of Gamers: 2140
+  Percentage of Gamers: 37%
+  Ratio: 1.64
   TA: '14'
   Tags:
   - Offline Game Mode
@@ -257,10 +257,10 @@ Base Game Achievements:
   Description: Have 99 Bombers in a single plot.
   GS: '9'
   Guide: true
-  Number of Gamers: 647
-  Percentage of Gamers: 12%
-  Ratio: 2.91
-  TA: '26'
+  Number of Gamers: 727
+  Percentage of Gamers: 13%
+  Ratio: 2.83
+  TA: '25'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -268,10 +268,10 @@ Base Game Achievements:
   Description: Max level all plots in a run.
   GS: '99'
   Guide: true
-  Number of Gamers: 924
-  Percentage of Gamers: 17%
-  Ratio: 2.43
-  TA: '241'
+  Number of Gamers: 1020
+  Percentage of Gamers: 18%
+  Ratio: 2.38
+  TA: '236'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -279,8 +279,8 @@ Base Game Achievements:
   Description: Declare war and peace with the same king in a run.
   GS: '9'
   Guide: false
-  Number of Gamers: 4308
-  Percentage of Gamers: 78%
+  Number of Gamers: 4580
+  Percentage of Gamers: 79%
   Ratio: 1.12
   TA: '10'
   Tags:
@@ -290,10 +290,10 @@ Base Game Achievements:
   Description: Get a king to level 9.
   GS: '99'
   Guide: false
-  Number of Gamers: 913
-  Percentage of Gamers: 17%
-  Ratio: 2.45
-  TA: '242'
+  Number of Gamers: 1044
+  Percentage of Gamers: 18%
+  Ratio: 2.35
+  TA: '233'
   Tags:
   - Offline Mode
   - Single Player
@@ -302,9 +302,9 @@ Base Game Achievements:
   Description: Have exactly 5 cards of the same king in your hand.
   GS: '9'
   Guide: true
-  Number of Gamers: 2358
-  Percentage of Gamers: 43%
-  Ratio: 1.52
+  Number of Gamers: 2582
+  Percentage of Gamers: 44%
+  Ratio: 1.5
   TA: '13'
   Tags:
   - Offline Game Mode
@@ -313,43 +313,43 @@ Base Game Achievements:
   Description: Have 9 cards in your hand.
   GS: '9'
   Guide: true
-  Number of Gamers: 2667
-  Percentage of Gamers: 49%
-  Ratio: 1.43
+  Number of Gamers: 2946
+  Percentage of Gamers: 51%
+  Ratio: 1.4
   TA: '12'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 2.4177215189873418
-Base TA: 2483
+Base Ratio: 2.320350535540409
+Base TA: 2383
 Delisted: false
 Developer: Sad Socket
 Game Name: 9 Kings (Windows)
 Genres: Roguelite, Strategy, Collectable Card Game
 Install Size: 549.0
-Number of Completions: 109
-Number of Gamers: 5493
+Number of Completions: 161
+Number of Gamers: 5809
 Overall Completion Time:
-- 16.0
-- 22.0
+- 15.5
+- 21.0
 Overall GS: 1027
-Overall Ratio: 2.4177215189873418
-Overall TA: 2483
+Overall Ratio: 2.320350535540409
+Overall TA: 2383
 PDU: 0
-Percentage Completed: 1.98
+Percentage Completed: 2.77
 Publisher: Hooded Horse
 Release Date: To be announced
 Server Closure: false
-Site Rating: 4.27
+Site Rating: 4.26
 Update Achievements:
 - Achievement Name: Double Double Double Dragon
   Description: Have 9 Dragon's Dens in your kingdom.
   GS: '9'
   Guide: true
-  Number of Gamers: 200
-  Percentage of Gamers: 4%
-  Ratio: 5.28
-  TA: '47'
+  Number of Gamers: 292
+  Percentage of Gamers: 5%
+  Ratio: 4.46
+  TA: '40'
   Tags:
   - Offline Mode
   - Single Player
@@ -358,10 +358,10 @@ Update Achievements:
   Description: Use Migration 9 times in a run.
   GS: '9'
   Guide: false
-  Number of Gamers: 165
-  Percentage of Gamers: 3%
-  Ratio: 5.81
-  TA: '52'
+  Number of Gamers: 265
+  Percentage of Gamers: 5%
+  Ratio: 4.69
+  TA: '42'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -369,10 +369,10 @@ Update Achievements:
   Description: Have a Boar ride a Raptor.
   GS: '9'
   Guide: false
-  Number of Gamers: 301
-  Percentage of Gamers: 5%
-  Ratio: 4.29
-  TA: '38'
+  Number of Gamers: 464
+  Percentage of Gamers: 8%
+  Ratio: 3.53
+  TA: '31'
   Tags:
   - Offline Game Mode
   - Single Player

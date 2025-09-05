@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- -1
-- -1
+- 19
+- 20
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Welcome to Chipset
   Description: "Complete Boti\u2019s integration"
   GS: '15'
   Guide: false
-  Number of Gamers: 268
+  Number of Gamers: 279
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '15'
@@ -21,8 +21,8 @@ Base Game Achievements:
   Description: Complete level 1
   GS: '15'
   Guide: false
-  Number of Gamers: 197
-  Percentage of Gamers: 73%
+  Number of Gamers: 202
+  Percentage of Gamers: 72%
   Ratio: 1.17
   TA: '17'
   Tags:
@@ -34,9 +34,9 @@ Base Game Achievements:
   Description: Complete level 2
   GS: '15'
   Guide: false
-  Number of Gamers: 131
-  Percentage of Gamers: 49%
-  Ratio: 1.43
+  Number of Gamers: 134
+  Percentage of Gamers: 48%
+  Ratio: 1.44
   TA: '21'
   Tags:
   - Offline Mode
@@ -47,9 +47,9 @@ Base Game Achievements:
   Description: Complete level 3
   GS: '15'
   Guide: false
-  Number of Gamers: 100
-  Percentage of Gamers: 37%
-  Ratio: 1.64
+  Number of Gamers: 102
+  Percentage of Gamers: 36%
+  Ratio: 1.65
   TA: '24'
   Tags:
   - Offline Mode
@@ -60,9 +60,9 @@ Base Game Achievements:
   Description: Complete level 4
   GS: '15'
   Guide: false
-  Number of Gamers: 80
-  Percentage of Gamers: 30%
-  Ratio: 1.83
+  Number of Gamers: 82
+  Percentage of Gamers: 29%
+  Ratio: 1.85
   TA: '27'
   Tags:
   - Offline Mode
@@ -73,9 +73,9 @@ Base Game Achievements:
   Description: Complete level 5
   GS: '15'
   Guide: false
-  Number of Gamers: 39
-  Percentage of Gamers: 14%
-  Ratio: 2.63
+  Number of Gamers: 41
+  Percentage of Gamers: 15%
+  Ratio: 2.61
   TA: '39'
   Tags:
   - Offline Mode
@@ -86,9 +86,9 @@ Base Game Achievements:
   Description: Complete level 6
   GS: '15'
   Guide: false
-  Number of Gamers: 59
+  Number of Gamers: 61
   Percentage of Gamers: 22%
-  Ratio: 2.13
+  Ratio: 2.14
   TA: '32'
   Tags:
   - Offline Mode
@@ -99,9 +99,9 @@ Base Game Achievements:
   Description: Complete level 7
   GS: '15'
   Guide: false
-  Number of Gamers: 53
+  Number of Gamers: 55
   Percentage of Gamers: 20%
-  Ratio: 2.25
+  Ratio: 2.26
   TA: '33'
   Tags:
   - Offline Mode
@@ -112,9 +112,9 @@ Base Game Achievements:
   Description: "Complete \u2018Boti: Byteland Overclocked\u2019"
   GS: '50'
   Guide: false
-  Number of Gamers: 42
+  Number of Gamers: 44
   Percentage of Gamers: 16%
-  Ratio: 2.53
+  Ratio: 2.52
   TA: '126'
   Tags:
   - Offline Mode
@@ -125,9 +125,9 @@ Base Game Achievements:
   Description: Release the workbots from their infinite loop in level 1
   GS: '15'
   Guide: false
-  Number of Gamers: 144
-  Percentage of Gamers: 53%
-  Ratio: 1.36
+  Number of Gamers: 148
+  Percentage of Gamers: 52%
+  Ratio: 1.37
   TA: '20'
   Tags:
   - Offline Mode
@@ -137,9 +137,9 @@ Base Game Achievements:
   Description: Wake up three sleeping workbots in level 1
   GS: '15'
   Guide: false
-  Number of Gamers: 58
+  Number of Gamers: 59
   Percentage of Gamers: 21%
-  Ratio: 2.15
+  Ratio: 2.18
   TA: '32'
   Tags:
   - Offline Mode
@@ -149,9 +149,9 @@ Base Game Achievements:
   Description: Rescue all three missing cat-bots in level 2
   GS: '15'
   Guide: false
-  Number of Gamers: 85
-  Percentage of Gamers: 31%
-  Ratio: 1.78
+  Number of Gamers: 89
+  Percentage of Gamers: 32%
+  Ratio: 1.77
   TA: '26'
   Tags:
   - Offline Mode
@@ -161,10 +161,10 @@ Base Game Achievements:
   Description: Experience the complete saga of the Wormcatcher
   GS: '15'
   Guide: false
-  Number of Gamers: 56
-  Percentage of Gamers: 21%
-  Ratio: 2.19
-  TA: '32'
+  Number of Gamers: 57
+  Percentage of Gamers: 20%
+  Ratio: 2.22
+  TA: '33'
   Tags:
   - Offline Mode
   - Single Player
@@ -173,19 +173,22 @@ Base Game Achievements:
   Description: "Listen to all of Coulombot\u2019s analyses"
   GS: '15'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '15'
+  Number of Gamers: 4
+  Percentage of Gamers: 1%
+  Ratio: 8.38
+  TA: '125'
   Tags:
-  - Unobtainable
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Collectable
 - Achievement Name: The Maestro
   Description: Gather all the sliding trophies
   GS: '15'
   Guide: false
-  Number of Gamers: 21
+  Number of Gamers: 22
   Percentage of Gamers: 8%
-  Ratio: 3.58
+  Ratio: 3.57
   TA: '53'
   Tags:
   - Offline Mode
@@ -196,9 +199,9 @@ Base Game Achievements:
   Description: Finish a level with a cat on your head
   GS: '15'
   Guide: false
-  Number of Gamers: 19
+  Number of Gamers: 20
   Percentage of Gamers: 7%
-  Ratio: 3.76
+  Ratio: 3.74
   TA: '56'
   Tags:
   - Offline Mode
@@ -208,10 +211,10 @@ Base Game Achievements:
   Description: Pull your friend with hooking
   GS: '15'
   Guide: false
-  Number of Gamers: 84
-  Percentage of Gamers: 31%
-  Ratio: 1.79
-  TA: '26'
+  Number of Gamers: 86
+  Percentage of Gamers: 30%
+  Ratio: 1.8
+  TA: '27'
   Tags:
   - Offline Mode
   - Cooperative
@@ -219,10 +222,10 @@ Base Game Achievements:
   Description: Collect more than 9000 MB in one level
   GS: '15'
   Guide: false
-  Number of Gamers: 129
-  Percentage of Gamers: 48%
-  Ratio: 1.44
-  TA: '21'
+  Number of Gamers: 130
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '22'
   Tags:
   - Offline Mode
   - Single Player
@@ -231,7 +234,7 @@ Base Game Achievements:
   Description: Throw your coop buddy to his deletion
   GS: '15'
   Guide: false
-  Number of Gamers: 60
+  Number of Gamers: 62
   Percentage of Gamers: 22%
   Ratio: 2.12
   TA: '31'
@@ -242,9 +245,9 @@ Base Game Achievements:
   Description: Slide without hitting even a single note
   GS: '15'
   Guide: false
-  Number of Gamers: 53
+  Number of Gamers: 55
   Percentage of Gamers: 20%
-  Ratio: 2.25
+  Ratio: 2.26
   TA: '33'
   Tags:
   - Offline Mode
@@ -254,9 +257,9 @@ Base Game Achievements:
   Description: Speak with all rumour CityBots in the world
   GS: '15'
   Guide: false
-  Number of Gamers: 41
+  Number of Gamers: 43
   Percentage of Gamers: 15%
-  Ratio: 2.56
+  Ratio: 2.55
   TA: '38'
   Tags:
   - Offline Mode
@@ -267,10 +270,10 @@ Base Game Achievements:
   Description: Buy all HUB extensions
   GS: '40'
   Guide: false
-  Number of Gamers: 33
+  Number of Gamers: 35
   Percentage of Gamers: 12%
-  Ratio: 2.86
-  TA: '114'
+  Ratio: 2.83
+  TA: '113'
   Tags:
   - Offline Mode
   - Single Player
@@ -280,10 +283,10 @@ Base Game Achievements:
   Description: Beat the game in multi
   GS: '15'
   Guide: false
-  Number of Gamers: 14
+  Number of Gamers: 15
   Percentage of Gamers: 5%
-  Ratio: 4.39
-  TA: '65'
+  Ratio: 4.32
+  TA: '64'
   Tags:
   - Offline Mode
   - Cooperative
@@ -291,7 +294,7 @@ Base Game Achievements:
   Description: Finish a lap in your private hovertrack
   GS: '15'
   Guide: false
-  Number of Gamers: 26
+  Number of Gamers: 27
   Percentage of Gamers: 10%
   Ratio: 3.22
   TA: '48'
@@ -303,9 +306,9 @@ Base Game Achievements:
   Description: Unlock 5 skins
   GS: '15'
   Guide: false
-  Number of Gamers: 113
-  Percentage of Gamers: 42%
-  Ratio: 1.54
+  Number of Gamers: 116
+  Percentage of Gamers: 41%
+  Ratio: 1.55
   TA: '23'
   Tags:
   - Offline Mode
@@ -316,7 +319,7 @@ Base Game Achievements:
   Description: Unlock 15 skins
   GS: '15'
   Guide: false
-  Number of Gamers: 60
+  Number of Gamers: 62
   Percentage of Gamers: 22%
   Ratio: 2.12
   TA: '31'
@@ -329,7 +332,7 @@ Base Game Achievements:
   Description: Unlock 25 skins
   GS: '15'
   Guide: false
-  Number of Gamers: 25
+  Number of Gamers: 26
   Percentage of Gamers: 9%
   Ratio: 3.28
   TA: '49'
@@ -342,9 +345,9 @@ Base Game Achievements:
   Description: Destroy 250 ZIP files
   GS: '15'
   Guide: false
-  Number of Gamers: 133
-  Percentage of Gamers: 49%
-  Ratio: 1.42
+  Number of Gamers: 141
+  Percentage of Gamers: 50%
+  Ratio: 1.41
   TA: '21'
   Tags:
   - Offline Mode
@@ -355,9 +358,9 @@ Base Game Achievements:
   Description: Destroy 500 ZIP files
   GS: '30'
   Guide: false
-  Number of Gamers: 113
-  Percentage of Gamers: 42%
-  Ratio: 1.54
+  Number of Gamers: 116
+  Percentage of Gamers: 41%
+  Ratio: 1.55
   TA: '46'
   Tags:
   - Offline Mode
@@ -368,10 +371,10 @@ Base Game Achievements:
   Description: Destroy 1000 ZIP files
   GS: '50'
   Guide: false
-  Number of Gamers: 72
-  Percentage of Gamers: 27%
-  Ratio: 1.93
-  TA: '96'
+  Number of Gamers: 74
+  Percentage of Gamers: 26%
+  Ratio: 1.94
+  TA: '97'
   Tags:
   - Offline Mode
   - Single Player
@@ -381,8 +384,8 @@ Base Game Achievements:
   Description: Find 5 Botcoins
   GS: '15'
   Guide: false
-  Number of Gamers: 178
-  Percentage of Gamers: 66%
+  Number of Gamers: 183
+  Percentage of Gamers: 65%
   Ratio: 1.23
   TA: '18'
   Tags:
@@ -394,10 +397,10 @@ Base Game Achievements:
   Description: Find 30 Botcoins
   GS: '15'
   Guide: false
-  Number of Gamers: 63
+  Number of Gamers: 66
   Percentage of Gamers: 23%
-  Ratio: 2.07
-  TA: '31'
+  Ratio: 2.06
+  TA: '30'
   Tags:
   - Offline Mode
   - Single Player
@@ -407,9 +410,9 @@ Base Game Achievements:
   Description: Find 45 Botcoins
   GS: '15'
   Guide: false
-  Number of Gamers: 32
+  Number of Gamers: 33
   Percentage of Gamers: 12%
-  Ratio: 2.9
+  Ratio: 2.91
   TA: '43'
   Tags:
   - Offline Mode
@@ -420,9 +423,9 @@ Base Game Achievements:
   Description: Collect 5 treasure chests
   GS: '15'
   Guide: false
-  Number of Gamers: 174
-  Percentage of Gamers: 64%
-  Ratio: 1.24
+  Number of Gamers: 179
+  Percentage of Gamers: 63%
+  Ratio: 1.25
   TA: '18'
   Tags:
   - Offline Mode
@@ -433,9 +436,9 @@ Base Game Achievements:
   Description: Collect 25 treasure chests
   GS: '15'
   Guide: false
-  Number of Gamers: 75
-  Percentage of Gamers: 28%
-  Ratio: 1.89
+  Number of Gamers: 77
+  Percentage of Gamers: 27%
+  Ratio: 1.91
   TA: '28'
   Tags:
   - Offline Mode
@@ -446,9 +449,9 @@ Base Game Achievements:
   Description: Collect 45 treasure chests
   GS: '15'
   Guide: false
-  Number of Gamers: 31
+  Number of Gamers: 32
   Percentage of Gamers: 11%
-  Ratio: 2.95
+  Ratio: 2.96
   TA: '44'
   Tags:
   - Offline Mode
@@ -459,9 +462,9 @@ Base Game Achievements:
   Description: Achieve 3 stars in one level
   GS: '15'
   Guide: false
-  Number of Gamers: 104
-  Percentage of Gamers: 39%
-  Ratio: 1.61
+  Number of Gamers: 107
+  Percentage of Gamers: 38%
+  Ratio: 1.62
   TA: '24'
   Tags:
   - Offline Mode
@@ -471,10 +474,10 @@ Base Game Achievements:
   Description: Achieve 3 stars in three levels
   GS: '25'
   Guide: false
-  Number of Gamers: 66
+  Number of Gamers: 67
   Percentage of Gamers: 24%
-  Ratio: 2.02
-  TA: '50'
+  Ratio: 2.04
+  TA: '51'
   Tags:
   - Offline Mode
   - Single Player
@@ -483,9 +486,9 @@ Base Game Achievements:
   Description: Achieve 3 stars in all levels
   GS: '30'
   Guide: false
-  Number of Gamers: 28
+  Number of Gamers: 29
   Percentage of Gamers: 10%
-  Ratio: 3.1
+  Ratio: 3.11
   TA: '93'
   Tags:
   - Offline Mode
@@ -495,9 +498,9 @@ Base Game Achievements:
   Description: Delete 10 worms
   GS: '15'
   Guide: false
-  Number of Gamers: 193
-  Percentage of Gamers: 71%
-  Ratio: 1.18
+  Number of Gamers: 197
+  Percentage of Gamers: 70%
+  Ratio: 1.19
   TA: '17'
   Tags:
   - Offline Mode
@@ -508,9 +511,9 @@ Base Game Achievements:
   Description: Delete 100 worms
   GS: '15'
   Guide: false
-  Number of Gamers: 122
-  Percentage of Gamers: 45%
-  Ratio: 1.48
+  Number of Gamers: 124
+  Percentage of Gamers: 44%
+  Ratio: 1.5
   TA: '22'
   Tags:
   - Offline Mode
@@ -521,9 +524,9 @@ Base Game Achievements:
   Description: Delete 250 worms
   GS: '15'
   Guide: false
-  Number of Gamers: 87
+  Number of Gamers: 89
   Percentage of Gamers: 32%
-  Ratio: 1.76
+  Ratio: 1.77
   TA: '26'
   Tags:
   - Offline Mode
@@ -534,9 +537,9 @@ Base Game Achievements:
   Description: Delete 10 guardbots
   GS: '15'
   Guide: false
-  Number of Gamers: 208
-  Percentage of Gamers: 77%
-  Ratio: 1.13
+  Number of Gamers: 213
+  Percentage of Gamers: 76%
+  Ratio: 1.14
   TA: '17'
   Tags:
   - Offline Mode
@@ -547,9 +550,9 @@ Base Game Achievements:
   Description: Delete 100 guardbots
   GS: '15'
   Guide: false
-  Number of Gamers: 64
-  Percentage of Gamers: 24%
-  Ratio: 2.05
+  Number of Gamers: 66
+  Percentage of Gamers: 23%
+  Ratio: 2.06
   TA: '30'
   Tags:
   - Offline Mode
@@ -560,10 +563,10 @@ Base Game Achievements:
   Description: Delete 250 guardbots
   GS: '15'
   Guide: false
-  Number of Gamers: 20
+  Number of Gamers: 21
   Percentage of Gamers: 7%
-  Ratio: 3.67
-  TA: '55'
+  Ratio: 3.65
+  TA: '54'
   Tags:
   - Offline Mode
   - Single Player
@@ -573,10 +576,10 @@ Base Game Achievements:
   Description: Defeat Trojan Horse
   GS: '15'
   Guide: false
-  Number of Gamers: 99
-  Percentage of Gamers: 37%
-  Ratio: 1.65
-  TA: '24'
+  Number of Gamers: 101
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
@@ -586,9 +589,9 @@ Base Game Achievements:
   Description: Defeat The Glitcher
   GS: '15'
   Guide: false
-  Number of Gamers: 65
+  Number of Gamers: 67
   Percentage of Gamers: 24%
-  Ratio: 2.03
+  Ratio: 2.04
   TA: '30'
   Tags:
   - Offline Mode
@@ -599,9 +602,9 @@ Base Game Achievements:
   Description: Finish a level without respawning
   GS: '30'
   Guide: false
-  Number of Gamers: 48
-  Percentage of Gamers: 18%
-  Ratio: 2.37
+  Number of Gamers: 49
+  Percentage of Gamers: 17%
+  Ratio: 2.39
   TA: '71'
   Tags:
   - Offline Mode
@@ -611,10 +614,10 @@ Base Game Achievements:
   Description: Finish all levels without respawning
   GS: '50'
   Guide: true
-  Number of Gamers: 9
-  Percentage of Gamers: 3%
-  Ratio: 5.47
-  TA: '273'
+  Number of Gamers: 10
+  Percentage of Gamers: 4%
+  Ratio: 5.3
+  TA: '265'
   Tags:
   - Offline Mode
   - Single Player
@@ -623,10 +626,10 @@ Base Game Achievements:
   Description: Jump into a rubbish bin
   GS: '30'
   Guide: false
-  Number of Gamers: 112
-  Percentage of Gamers: 41%
-  Ratio: 1.55
-  TA: '46'
+  Number of Gamers: 113
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '47'
   Tags:
   - Offline Mode
   - Single Player
@@ -635,9 +638,9 @@ Base Game Achievements:
   Description: Punch a sand castle
   GS: '20'
   Guide: false
-  Number of Gamers: 96
-  Percentage of Gamers: 36%
-  Ratio: 1.67
+  Number of Gamers: 98
+  Percentage of Gamers: 35%
+  Ratio: 1.69
   TA: '33'
   Tags:
   - Offline Mode
@@ -647,34 +650,34 @@ Base Game Achievements:
   Description: Complete all levels without skipping a single cutscene
   GS: '30'
   Guide: false
-  Number of Gamers: 41
+  Number of Gamers: 42
   Percentage of Gamers: 15%
-  Ratio: 2.56
-  TA: '76'
+  Ratio: 2.58
+  TA: '77'
   Tags:
   - Offline Mode
   - Single Player
   - Cooperative
-Base Ratio: 2.279
-Base TA: 2279
+Base Ratio: 2.385
+Base TA: 2385
 Delisted: false
 Developer: Purple Ray Studio
 Game Name: 'Boti: Byteland Overclocked'
 Genres: Platformer
 Install Size: 3720.0
-Number of Completions: 0
-Number of Gamers: 270
+Number of Completions: 4
+Number of Gamers: 282
 Overall Completion Time:
-- -1
-- -1
+- 19
+- 20
 Overall GS: 1000
-Overall Ratio: 2.279
-Overall TA: 2279
+Overall Ratio: 2.385
+Overall TA: 2385
 PDU: 0
-Percentage Completed: 0.0
+Percentage Completed: 1.42
 Publisher: Untold Tales
 Release Date: 10 January 2025
 Server Closure: false
-Site Rating: 4.14
+Site Rating: 4.19
 Update Achievements: []
 Walkthrough: false

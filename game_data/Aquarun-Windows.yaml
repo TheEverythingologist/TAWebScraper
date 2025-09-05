@@ -1,16 +1,16 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 1.0
+- 1.5
 Base GS: 3000
 Base Game Achievements:
 - Achievement Name: New Adventure
   Description: Completed the First Five Levels
   GS: '30'
   Guide: false
-  Number of Gamers: 462
+  Number of Gamers: 466
   Percentage of Gamers: 98%
-  Ratio: 1.0
+  Ratio: 1.01
   TA: '30'
   Tags:
   - Offline Mode
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Reached Level 16
   GS: '30'
   Guide: false
-  Number of Gamers: 457
+  Number of Gamers: 461
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '30'
@@ -32,7 +32,7 @@ Base Game Achievements:
   Description: Reached Level 26
   GS: '90'
   Guide: false
-  Number of Gamers: 448
+  Number of Gamers: 452
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '92'
@@ -44,7 +44,7 @@ Base Game Achievements:
   Description: Completed a Level Without Dying
   GS: '30'
   Guide: false
-  Number of Gamers: 471
+  Number of Gamers: 476
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '30'
@@ -55,7 +55,7 @@ Base Game Achievements:
   Description: Completed 5 Levels Without Dying
   GS: '80'
   Guide: false
-  Number of Gamers: 463
+  Number of Gamers: 467
   Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '80'
@@ -66,9 +66,9 @@ Base Game Achievements:
   Description: Completed 10 Levels Without Dying
   GS: '90'
   Guide: false
-  Number of Gamers: 453
+  Number of Gamers: 457
   Percentage of Gamers: 96%
-  Ratio: 1.01
+  Ratio: 1.02
   TA: '91'
   Tags:
   - Offline Game Mode
@@ -77,7 +77,7 @@ Base Game Achievements:
   Description: Completed 15 Levels Without Dying
   GS: '90'
   Guide: false
-  Number of Gamers: 449
+  Number of Gamers: 452
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '92'
@@ -88,7 +88,7 @@ Base Game Achievements:
   Description: Died for the First Time
   GS: '15'
   Guide: false
-  Number of Gamers: 469
+  Number of Gamers: 474
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '15'
@@ -99,7 +99,7 @@ Base Game Achievements:
   Description: Died 5 Times
   GS: '15'
   Guide: false
-  Number of Gamers: 469
+  Number of Gamers: 474
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '15'
@@ -111,7 +111,7 @@ Base Game Achievements:
   Description: Completed a Level with a Checkpoint Without Using It
   GS: '15'
   Guide: false
-  Number of Gamers: 452
+  Number of Gamers: 456
   Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '15'
@@ -122,9 +122,9 @@ Base Game Achievements:
   Description: Completed 5 Levels with Checkpoints Without Using Them
   GS: '30'
   Guide: true
-  Number of Gamers: 446
-  Percentage of Gamers: 95%
-  Ratio: 1.02
+  Number of Gamers: 448
+  Percentage of Gamers: 94%
+  Ratio: 1.03
   TA: '30'
   Tags:
   - Offline Game Mode
@@ -133,7 +133,7 @@ Base Game Achievements:
   Description: Used Each of the 3 Portals
   GS: '40'
   Guide: false
-  Number of Gamers: 452
+  Number of Gamers: 455
   Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '40'
@@ -144,7 +144,7 @@ Base Game Achievements:
   Description: Used Dash 10 Times
   GS: '15'
   Guide: false
-  Number of Gamers: 469
+  Number of Gamers: 474
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '15'
@@ -156,7 +156,7 @@ Base Game Achievements:
   Description: Used Dash 20 Times
   GS: '90'
   Guide: false
-  Number of Gamers: 468
+  Number of Gamers: 473
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '90'
@@ -168,7 +168,7 @@ Base Game Achievements:
   Description: Used Dash 30 Times
   GS: '90'
   Guide: false
-  Number of Gamers: 468
+  Number of Gamers: 473
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '90'
@@ -180,9 +180,9 @@ Base Game Achievements:
   Description: Collected the Blue Bubble for the First Time
   GS: '15'
   Guide: false
-  Number of Gamers: 462
+  Number of Gamers: 466
   Percentage of Gamers: 98%
-  Ratio: 1.0
+  Ratio: 1.01
   TA: '15'
   Tags:
   - Offline Game Mode
@@ -191,7 +191,7 @@ Base Game Achievements:
   Description: Collected the Orange Bubble for the First Time
   GS: '30'
   Guide: false
-  Number of Gamers: 461
+  Number of Gamers: 465
   Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '30'
@@ -202,9 +202,9 @@ Base Game Achievements:
   Description: Used Teleport for the First Time
   GS: '30'
   Guide: false
-  Number of Gamers: 453
+  Number of Gamers: 457
   Percentage of Gamers: 96%
-  Ratio: 1.01
+  Ratio: 1.02
   TA: '30'
   Tags:
   - Offline Game Mode
@@ -213,7 +213,7 @@ Base Game Achievements:
   Description: Died at Least Once to Every Obstacle in the Game
   GS: '90'
   Guide: false
-  Number of Gamers: 449
+  Number of Gamers: 452
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '92'
@@ -224,40 +224,40 @@ Base Game Achievements:
   Description: Stayed in the Air for at Least 2 Seconds
   GS: '85'
   Guide: false
-  Number of Gamers: 461
+  Number of Gamers: 465
   Percentage of Gamers: 98%
   Ratio: 1.01
-  TA: '85'
+  TA: '86'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 1.7373333333333334
-Base TA: 5212
+Base Ratio: 1.2373333333333334
+Base TA: 3712
 Delisted: false
 Developer: Afil Games
 Game Name: Aquarun (Windows)
 Genres: Platformer
 Install Size: 74.0
-Number of Completions: 0
-Number of Gamers: 471
+Number of Completions: 167
+Number of Gamers: 476
 Overall Completion Time:
 - 0.0
-- 0.5
+- 1.5
 Overall GS: 3000
-Overall Ratio: 1.7373333333333334
-Overall TA: 5212
+Overall Ratio: 1.2373333333333334
+Overall TA: 3712
 PDU: 0
-Percentage Completed: 0.0
+Percentage Completed: 35.08
 Publisher: Afil Games
 Release Date: 22 January 2025
 Server Closure: false
-Site Rating: 2.47
+Site Rating: 2.45
 Update Achievements:
 - Achievement Name: Fifty drops Lost
   Description: Die 50 times
   GS: '200'
   Guide: false
-  Number of Gamers: 464
+  Number of Gamers: 469
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '201'
@@ -269,7 +269,7 @@ Update Achievements:
   Description: Jump 100 times
   GS: '200'
   Guide: false
-  Number of Gamers: 467
+  Number of Gamers: 472
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '200'
@@ -281,8 +281,8 @@ Update Achievements:
   Description: Refill your dash 15 times
   GS: '200'
   Guide: false
-  Number of Gamers: 460
-  Percentage of Gamers: 98%
+  Number of Gamers: 464
+  Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '202'
   Tags:
@@ -293,7 +293,7 @@ Update Achievements:
   Description: Bounce the bubble 15 times
   GS: '200'
   Guide: false
-  Number of Gamers: 461
+  Number of Gamers: 465
   Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '202'
@@ -305,7 +305,7 @@ Update Achievements:
   Description: Pass level 32
   GS: '200'
   Guide: false
-  Number of Gamers: 446
+  Number of Gamers: 450
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '205'
@@ -317,10 +317,10 @@ Update Achievements:
   Description: Die 75 times
   GS: '200'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '200'
+  Number of Gamers: 172
+  Percentage of Gamers: 36%
+  Ratio: 1.68
+  TA: '337'
   Tags:
   - Offline Mode
   - Single Player
@@ -329,10 +329,10 @@ Update Achievements:
   Description: Jump 110 times
   GS: '200'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '200'
+  Number of Gamers: 171
+  Percentage of Gamers: 36%
+  Ratio: 1.69
+  TA: '338'
   Tags:
   - Offline Mode
   - Single Player
@@ -341,10 +341,10 @@ Update Achievements:
   Description: Refil your dash 20 times
   GS: '200'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '200'
+  Number of Gamers: 169
+  Percentage of Gamers: 36%
+  Ratio: 1.69
+  TA: '339'
   Tags:
   - Offline Mode
   - Single Player
@@ -353,10 +353,10 @@ Update Achievements:
   Description: Bounce the buble 20 times
   GS: '200'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '200'
+  Number of Gamers: 170
+  Percentage of Gamers: 36%
+  Ratio: 1.69
+  TA: '339'
   Tags:
   - Offline Mode
   - Single Player
@@ -365,10 +365,10 @@ Update Achievements:
   Description: Pass level 33
   GS: '200'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '200'
+  Number of Gamers: 167
+  Percentage of Gamers: 35%
+  Ratio: 1.7
+  TA: '341'
   Tags:
   - Offline Mode
   - Single Player

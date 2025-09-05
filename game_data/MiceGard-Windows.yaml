@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 1.5
-Base GS: 3000
+- 2.0
+Base GS: 4000
 Base Game Achievements:
 - Achievement Name: Triumphant Return
   Description: Complete "Triumphant Return" level
   GS: '100'
   Guide: false
-  Number of Gamers: 524
+  Number of Gamers: 544
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -20,8 +20,8 @@ Base Game Achievements:
   Description: Complete "Hawk's eye" level
   GS: '100'
   Guide: false
-  Number of Gamers: 513
-  Percentage of Gamers: 97%
+  Number of Gamers: 531
+  Percentage of Gamers: 96%
   Ratio: 1.01
   TA: '101'
   Tags:
@@ -32,7 +32,7 @@ Base Game Achievements:
   Description: Complete "Reckoning" level
   GS: '100'
   Guide: false
-  Number of Gamers: 505
+  Number of Gamers: 524
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
@@ -44,7 +44,7 @@ Base Game Achievements:
   Description: Complete "If the sail fails, we'll row" level
   GS: '100'
   Guide: false
-  Number of Gamers: 504
+  Number of Gamers: 524
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
@@ -56,7 +56,7 @@ Base Game Achievements:
   Description: Repair blacksmith's shop
   GS: '100'
   Guide: false
-  Number of Gamers: 522
+  Number of Gamers: 541
   Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '100'
@@ -67,7 +67,7 @@ Base Game Achievements:
   Description: Kill 100 toads
   GS: '100'
   Guide: false
-  Number of Gamers: 521
+  Number of Gamers: 542
   Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '100'
@@ -79,7 +79,7 @@ Base Game Achievements:
   Description: Kill 200 toads
   GS: '100'
   Guide: false
-  Number of Gamers: 514
+  Number of Gamers: 532
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '101'
@@ -91,7 +91,7 @@ Base Game Achievements:
   Description: Kill 300 toads
   GS: '100'
   Guide: false
-  Number of Gamers: 511
+  Number of Gamers: 530
   Percentage of Gamers: 96%
   Ratio: 1.01
   TA: '101'
@@ -103,8 +103,8 @@ Base Game Achievements:
   Description: Repair any building except blacksmith's shop
   GS: '100'
   Guide: false
-  Number of Gamers: 517
-  Percentage of Gamers: 98%
+  Number of Gamers: 536
+  Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '101'
   Tags:
@@ -114,41 +114,41 @@ Base Game Achievements:
   Description: Save up 100 rocks
   GS: '100'
   Guide: false
-  Number of Gamers: 528
-  Percentage of Gamers: 100%
+  Number of Gamers: 548
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative
-Base Ratio: 1.078
-Base TA: 3234
+Base Ratio: 1.27425
+Base TA: 5097
 Delisted: false
 Developer: Game Dynasty, Aivictory
 Game Name: MiceGard (Windows)
 Genres: Action-Adventure
 Install Size: 190.0
-Number of Completions: 381
-Number of Gamers: 530
+Number of Completions: 157
+Number of Gamers: 551
 Overall Completion Time:
 - 0.0
-- 1.5
-Overall GS: 3000
-Overall Ratio: 1.078
-Overall TA: 3234
+- 2.0
+Overall GS: 4000
+Overall Ratio: 1.27425
+Overall TA: 5097
 PDU: 0
-Percentage Completed: 71.89
+Percentage Completed: 28.49
 Publisher: Desert Water Games
 Release Date: 03 May 2024
 Server Closure: false
-Site Rating: 2.44
+Site Rating: 2.42
 Update Achievements:
 - Achievement Name: Blood-stained sword
   Description: Kill 400 toads
   GS: '200'
   Guide: false
-  Number of Gamers: 477
+  Number of Gamers: 496
   Percentage of Gamers: 90%
   Ratio: 1.05
   TA: '210'
@@ -160,10 +160,10 @@ Update Achievements:
   Description: Kill 500 toads
   GS: '200'
   Guide: false
-  Number of Gamers: 477
+  Number of Gamers: 496
   Percentage of Gamers: 90%
   Ratio: 1.05
-  TA: '211'
+  TA: '210'
   Tags:
   - Offline Mode
   - Single Player
@@ -172,10 +172,10 @@ Update Achievements:
   Description: Rebuild half of the Micegard
   GS: '200'
   Guide: false
-  Number of Gamers: 477
+  Number of Gamers: 496
   Percentage of Gamers: 90%
   Ratio: 1.05
-  TA: '211'
+  TA: '210'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -183,7 +183,7 @@ Update Achievements:
   Description: Complete "Soul Guide" level
   GS: '200'
   Guide: false
-  Number of Gamers: 470
+  Number of Gamers: 490
   Percentage of Gamers: 89%
   Ratio: 1.06
   TA: '212'
@@ -195,7 +195,7 @@ Update Achievements:
   Description: Complete "Warm welcome" level
   GS: '200'
   Guide: false
-  Number of Gamers: 473
+  Number of Gamers: 492
   Percentage of Gamers: 89%
   Ratio: 1.05
   TA: '211'
@@ -207,10 +207,10 @@ Update Achievements:
   Description: Complete "Micel's Big Walk" level
   GS: '200'
   Guide: false
-  Number of Gamers: 384
-  Percentage of Gamers: 72%
-  Ratio: 1.17
-  TA: '235'
+  Number of Gamers: 420
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '229'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -218,10 +218,10 @@ Update Achievements:
   Description: Complete "A friend in need is the friend indeed" level
   GS: '200'
   Guide: false
-  Number of Gamers: 382
-  Percentage of Gamers: 72%
-  Ratio: 1.18
-  TA: '236'
+  Number of Gamers: 420
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '229'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -229,10 +229,10 @@ Update Achievements:
   Description: Kill 600 toads
   GS: '200'
   Guide: false
-  Number of Gamers: 390
-  Percentage of Gamers: 74%
-  Ratio: 1.17
-  TA: '234'
+  Number of Gamers: 427
+  Percentage of Gamers: 77%
+  Ratio: 1.13
+  TA: '227'
   Tags:
   - Offline Mode
   - Single Player
@@ -241,10 +241,10 @@ Update Achievements:
   Description: Kill 700 toads
   GS: '200'
   Guide: false
-  Number of Gamers: 389
-  Percentage of Gamers: 73%
-  Ratio: 1.17
-  TA: '234'
+  Number of Gamers: 426
+  Percentage of Gamers: 77%
+  Ratio: 1.14
+  TA: '228'
   Tags:
   - Offline Mode
   - Single Player
@@ -253,11 +253,69 @@ Update Achievements:
   Description: Save one prisoner
   GS: '200'
   Guide: false
-  Number of Gamers: 394
-  Percentage of Gamers: 74%
-  Ratio: 1.16
-  TA: '232'
+  Number of Gamers: 430
+  Percentage of Gamers: 78%
+  Ratio: 1.13
+  TA: '226'
   Tags:
   - Offline Game Mode
   - Single Player
+- Achievement Name: Pilgrimage
+  Description: Complete "Pilgrimage" level
+  GS: '200'
+  Guide: false
+  Number of Gamers: 157
+  Percentage of Gamers: 28%
+  Ratio: 1.91
+  TA: '382'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Witching Hour
+  Description: Complete "Witching Hour" level
+  GS: '200'
+  Guide: false
+  Number of Gamers: 157
+  Percentage of Gamers: 28%
+  Ratio: 1.91
+  TA: '382'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Justice
+  Description: Kill 750 toads
+  GS: '200'
+  Guide: false
+  Number of Gamers: 160
+  Percentage of Gamers: 29%
+  Ratio: 1.89
+  TA: '379'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Divine punishment
+  Description: Kill 800 toads
+  GS: '200'
+  Guide: false
+  Number of Gamers: 160
+  Percentage of Gamers: 29%
+  Ratio: 1.89
+  TA: '379'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Building an army
+  Description: Save two prisoners
+  GS: '200'
+  Guide: false
+  Number of Gamers: 162
+  Percentage of Gamers: 29%
+  Ratio: 1.87
+  TA: '375'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 Walkthrough: false
