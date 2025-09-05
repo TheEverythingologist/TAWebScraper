@@ -1,16 +1,16 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 1.0
-Base GS: 2000
+- 1.5
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: The Journey Begins
   Description: Delve into the perilous cave with courage and might to save your little
     sister!
   GS: '100'
   Guide: false
-  Number of Gamers: 285
-  Percentage of Gamers: 99%
+  Number of Gamers: 436
+  Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '100'
   Tags:
@@ -21,8 +21,8 @@ Base Game Achievements:
   Description: Reach the end of level 5
   GS: '100'
   Guide: false
-  Number of Gamers: 282
-  Percentage of Gamers: 98%
+  Number of Gamers: 433
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
   Tags:
@@ -33,8 +33,8 @@ Base Game Achievements:
   Description: Reach the end of level 10
   GS: '100'
   Guide: false
-  Number of Gamers: 276
-  Percentage of Gamers: 96%
+  Number of Gamers: 426
+  Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '101'
   Tags:
@@ -45,8 +45,8 @@ Base Game Achievements:
   Description: Reach the end of level 15
   GS: '100'
   Guide: false
-  Number of Gamers: 274
-  Percentage of Gamers: 95%
+  Number of Gamers: 418
+  Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '102'
   Tags:
@@ -57,7 +57,7 @@ Base Game Achievements:
   Description: Reach the end of level 20
   GS: '100'
   Guide: false
-  Number of Gamers: 273
+  Number of Gamers: 416
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
@@ -69,7 +69,7 @@ Base Game Achievements:
   Description: Reach the end of level 25
   GS: '100'
   Guide: false
-  Number of Gamers: 272
+  Number of Gamers: 413
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
@@ -81,7 +81,7 @@ Base Game Achievements:
   Description: Reach the end of level 30
   GS: '100'
   Guide: false
-  Number of Gamers: 272
+  Number of Gamers: 413
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
@@ -93,7 +93,7 @@ Base Game Achievements:
   Description: Reach the end of level 35
   GS: '100'
   Guide: false
-  Number of Gamers: 272
+  Number of Gamers: 413
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
@@ -104,9 +104,9 @@ Base Game Achievements:
 - Achievement Name: Complete Level 40
   Description: Reach the end of level 40
   GS: '100'
-  Guide: false
-  Number of Gamers: 272
-  Percentage of Gamers: 95%
+  Guide: true
+  Number of Gamers: 412
+  Percentage of Gamers: 94%
   Ratio: 1.02
   TA: '102'
   Tags:
@@ -117,44 +117,44 @@ Base Game Achievements:
   Description: Reunite with your little sister
   GS: '100'
   Guide: false
-  Number of Gamers: 272
-  Percentage of Gamers: 95%
+  Number of Gamers: 412
+  Percentage of Gamers: 94%
   Ratio: 1.02
   TA: '102'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.045
-Base TA: 2090
+Base Ratio: 1.0543333333333333
+Base TA: 3163
 Delisted: false
 Developer: Sweet Bread Games
 Game Name: Sticky Twig DASH! (Xbox One)
 Genres: Platformer
 Install Size: 517.0
-Number of Completions: 242
-Number of Gamers: 287
+Number of Completions: 334
+Number of Gamers: 436
 Overall Completion Time:
 - 0.0
-- 1.0
-Overall GS: 2000
-Overall Ratio: 1.045
-Overall TA: 2090
+- 1.5
+Overall GS: 3000
+Overall Ratio: 1.0543333333333333
+Overall TA: 3163
 PDU: 0
-Percentage Completed: 84.32
+Percentage Completed: 76.61
 Publisher: Sweet Bread Games
 Release Date: 06 June 2025
 Server Closure: false
-Site Rating: 2.1
+Site Rating: 2.17
 Update Achievements:
 - Achievement Name: Level 1 Pro
   Description: Get the Diamond Heart in Level 1 and then complete the level
   GS: '200'
   Guide: false
-  Number of Gamers: 247
-  Percentage of Gamers: 86%
-  Ratio: 1.07
-  TA: '215'
+  Number of Gamers: 421
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '203'
   Tags:
   - Offline Mode
   - Single Player
@@ -163,10 +163,10 @@ Update Achievements:
   Description: Get the Diamond Heart in Level 2 and then complete the level
   GS: '200'
   Guide: false
-  Number of Gamers: 247
-  Percentage of Gamers: 86%
-  Ratio: 1.07
-  TA: '215'
+  Number of Gamers: 421
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '203'
   Tags:
   - Offline Mode
   - Single Player
@@ -175,10 +175,10 @@ Update Achievements:
   Description: Get the Diamond Heart in Level 3 and then complete the level
   GS: '200'
   Guide: false
-  Number of Gamers: 247
-  Percentage of Gamers: 86%
-  Ratio: 1.07
-  TA: '215'
+  Number of Gamers: 421
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '203'
   Tags:
   - Offline Mode
   - Single Player
@@ -187,10 +187,10 @@ Update Achievements:
   Description: Get the Diamond Heart in Level 4 and then complete the level
   GS: '200'
   Guide: false
-  Number of Gamers: 246
-  Percentage of Gamers: 86%
-  Ratio: 1.07
-  TA: '215'
+  Number of Gamers: 420
+  Percentage of Gamers: 96%
+  Ratio: 1.01
+  TA: '203'
   Tags:
   - Offline Mode
   - Single Player
@@ -199,10 +199,70 @@ Update Achievements:
   Description: Get the Diamond Heart in Level 5 and then complete the level
   GS: '200'
   Guide: false
-  Number of Gamers: 246
-  Percentage of Gamers: 86%
-  Ratio: 1.07
-  TA: '215'
+  Number of Gamers: 419
+  Percentage of Gamers: 96%
+  Ratio: 1.02
+  TA: '204'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Level 6 Pro
+  Description: Get the Diamond Heart in Level 6 and then complete the level
+  GS: '200'
+  Guide: false
+  Number of Gamers: 343
+  Percentage of Gamers: 79%
+  Ratio: 1.13
+  TA: '227'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Level 7 Pro
+  Description: Get the Diamond Heart in Level 7 and then complete the level
+  GS: '200'
+  Guide: false
+  Number of Gamers: 345
+  Percentage of Gamers: 79%
+  Ratio: 1.13
+  TA: '226'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Level 8 Pro
+  Description: Get the Diamond Heart in Level 8 and then complete the level
+  GS: '200'
+  Guide: false
+  Number of Gamers: 345
+  Percentage of Gamers: 79%
+  Ratio: 1.13
+  TA: '226'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Level 9 Pro
+  Description: Get the Diamond Heart in Level 9 and then complete the level
+  GS: '200'
+  Guide: false
+  Number of Gamers: 343
+  Percentage of Gamers: 79%
+  Ratio: 1.13
+  TA: '227'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Level 10 Pro
+  Description: Get the Diamond Heart in Level 10 and then complete the level
+  GS: '200'
+  Guide: false
+  Number of Gamers: 344
+  Percentage of Gamers: 79%
+  Ratio: 1.13
+  TA: '226'
   Tags:
   - Offline Mode
   - Single Player

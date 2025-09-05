@@ -1,16 +1,16 @@
 Add On Achievements: []
 Base Completion Time:
-- 31
-- 32
+- 58
+- 59
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: It's just a game
   Description: Complete the prologue.
   GS: '10'
   Guide: true
-  Number of Gamers: 64448
-  Percentage of Gamers: 76%
-  Ratio: 1.14
+  Number of Gamers: 81981
+  Percentage of Gamers: 75%
+  Ratio: 1.15
   TA: '11'
   Tags:
   - Offline Game Mode
@@ -19,34 +19,32 @@ Base Game Achievements:
   Description: Score your first goal.
   GS: '5'
   Guide: true
-  Number of Gamers: 65114
+  Number of Gamers: 83336
   Percentage of Gamers: 77%
   Ratio: 1.14
   TA: '5'
   Tags:
-  - Online/Offline
-  - Single Player
+  - Online Mode
   - Cooperative
   - Versus
 - Achievement Name: Serial scorer
   Description: Score 30 goals.
   GS: '50'
   Guide: false
-  Number of Gamers: 21578
-  Percentage of Gamers: 25%
-  Ratio: 1.98
-  TA: '99'
+  Number of Gamers: 33622
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '89'
   Tags:
-  - Online/Offline
-  - Single Player
+  - Online Mode
   - Cooperative
   - Versus
   - Cumulative +
 - Achievement Name: Golden boots
   Description: Score 100 goals.
   GS: '100'
-  Guide: true
-  Number of Gamers: 7
+  Guide: false
+  Number of Gamers: 12
   Percentage of Gamers: 0%
   Ratio: 1.0
   TA: '100'
@@ -56,52 +54,48 @@ Base Game Achievements:
   Description: Score a goal with an acrobatic volley shoot.
   GS: '10'
   Guide: true
-  Number of Gamers: 22521
-  Percentage of Gamers: 27%
-  Ratio: 1.93
-  TA: '19'
+  Number of Gamers: 34280
+  Percentage of Gamers: 32%
+  Ratio: 1.78
+  TA: '17'
   Tags:
-  - Online/Offline
-  - Single Player
+  - Online Mode
   - Cooperative
   - Versus
 - Achievement Name: Pinball
   Description: Score a goal off the woodwork.
   GS: '10'
   Guide: true
-  Number of Gamers: 24412
-  Percentage of Gamers: 29%
-  Ratio: 1.86
-  TA: '18'
+  Number of Gamers: 36496
+  Percentage of Gamers: 34%
+  Ratio: 1.72
+  TA: '17'
   Tags:
-  - Online/Offline
-  - Single Player
+  - Online Mode
   - Cooperative
   - Versus
 - Achievement Name: Hats off
   Description: Score a hat trick.
   GS: '10'
   Guide: true
-  Number of Gamers: 33441
-  Percentage of Gamers: 39%
-  Ratio: 1.59
+  Number of Gamers: 45538
+  Percentage of Gamers: 42%
+  Ratio: 1.54
   TA: '15'
   Tags:
-  - Online/Offline
-  - Single Player
+  - Online Mode
   - Cooperative
   - Versus
 - Achievement Name: Marathon runner
   Description: Run 42,195 km.
   GS: '50'
   Guide: true
-  Number of Gamers: 24590
-  Percentage of Gamers: 29%
-  Ratio: 1.85
-  TA: '92'
+  Number of Gamers: 36398
+  Percentage of Gamers: 33%
+  Ratio: 1.72
+  TA: '86'
   Tags:
-  - Online/Offline
-  - Single Player
+  - Online Mode
   - Cooperative
   - Versus
   - Cumulative +
@@ -109,26 +103,24 @@ Base Game Achievements:
   Description: As goalkeeper, perform a save.
   GS: '5'
   Guide: true
-  Number of Gamers: 67225
+  Number of Gamers: 86093
   Percentage of Gamers: 79%
   Ratio: 1.12
   TA: '5'
   Tags:
-  - Online/Offline
-  - Single Player
+  - Online Mode
   - Cooperative
   - Versus
 - Achievement Name: Rampart
   Description: As goalkeeper, perform 30 saves.
   GS: '50'
   Guide: false
-  Number of Gamers: 25464
-  Percentage of Gamers: 30%
-  Ratio: 1.82
-  TA: '91'
+  Number of Gamers: 38074
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '84'
   Tags:
-  - Online/Offline
-  - Single Player
+  - Online Mode
   - Cooperative
   - Versus
   - Cumulative +
@@ -136,7 +128,7 @@ Base Game Achievements:
   Description: As goalkeeper, perform 100 saves.
   GS: '100'
   Guide: true
-  Number of Gamers: 7
+  Number of Gamers: 11
   Percentage of Gamers: 0%
   Ratio: 1.0
   TA: '100'
@@ -146,47 +138,44 @@ Base Game Achievements:
   Description: As goalkeeper, save a shot on target in overtime.
   GS: '10'
   Guide: true
-  Number of Gamers: 29601
-  Percentage of Gamers: 35%
-  Ratio: 1.69
+  Number of Gamers: 42003
+  Percentage of Gamers: 39%
+  Ratio: 1.6
   TA: '16'
   Tags:
-  - Online/Offline
-  - Single Player
+  - Online Mode
   - Cooperative
   - Versus
 - Achievement Name: Team first!
   Description: Deliver your first assist.
   GS: '5'
   Guide: true
-  Number of Gamers: 63025
+  Number of Gamers: 80926
   Percentage of Gamers: 74%
   Ratio: 1.15
   TA: '5'
   Tags:
-  - Online/Offline
-  - Single Player
+  - Online Mode
   - Cooperative
   - Versus
 - Achievement Name: Vista
   Description: Deliver 30 assists.
   GS: '50'
-  Guide: false
-  Number of Gamers: 14936
-  Percentage of Gamers: 18%
-  Ratio: 2.38
-  TA: '119'
+  Guide: true
+  Number of Gamers: 27254
+  Percentage of Gamers: 25%
+  Ratio: 1.99
+  TA: '99'
   Tags:
-  - Online/Offline
-  - Single Player
+  - Online Mode
   - Cooperative
   - Versus
   - Cumulative +
 - Achievement Name: Maestro
   Description: Deliver 100 assists.
   GS: '100'
-  Guide: true
-  Number of Gamers: 6
+  Guide: false
+  Number of Gamers: 10
   Percentage of Gamers: 0%
   Ratio: 1.0
   TA: '100'
@@ -196,104 +185,96 @@ Base Game Achievements:
   Description: Deliver an assist leading to an equalizer.
   GS: '5'
   Guide: true
-  Number of Gamers: 46192
-  Percentage of Gamers: 54%
-  Ratio: 1.35
+  Number of Gamers: 61013
+  Percentage of Gamers: 56%
+  Ratio: 1.33
   TA: '6'
   Tags:
-  - Online/Offline
-  - Single Player
+  - Online Mode
   - Cooperative
   - Versus
 - Achievement Name: Post to post
   Description: Deliver an assist as goalkeeper.
   GS: '10'
   Guide: true
-  Number of Gamers: 4294
-  Percentage of Gamers: 5%
-  Ratio: 4.44
-  TA: '44'
+  Number of Gamers: 8257
+  Percentage of Gamers: 8%
+  Ratio: 3.63
+  TA: '36'
   Tags:
-  - Online/Offline
-  - Single Player
+  - Online Mode
   - Cooperative
   - Versus
 - Achievement Name: Eyes closed
   Description: Deliver an assist with a no look pass.
   GS: '10'
   Guide: true
-  Number of Gamers: 16591
-  Percentage of Gamers: 20%
-  Ratio: 2.25
-  TA: '22'
+  Number of Gamers: 26523
+  Percentage of Gamers: 24%
+  Ratio: 2.02
+  TA: '20'
   Tags:
-  - Online/Offline
-  - Single Player
+  - Online Mode
   - Cooperative
   - Versus
 - Achievement Name: Alley-oop
   Description: Deliver an assist with a rebound on a wall.
   GS: '10'
   Guide: true
-  Number of Gamers: 17642
-  Percentage of Gamers: 21%
-  Ratio: 2.19
-  TA: '21'
+  Number of Gamers: 29854
+  Percentage of Gamers: 27%
+  Ratio: 1.9
+  TA: '19'
   Tags:
-  - Online/Offline
-  - Single Player
+  - Online Mode
   - Cooperative
   - Versus
 - Achievement Name: Versatile
   Description: Deliver an assist, score a goal and perform a save in the same match.
   GS: '10'
   Guide: true
-  Number of Gamers: 44309
-  Percentage of Gamers: 52%
-  Ratio: 1.38
+  Number of Gamers: 58349
+  Percentage of Gamers: 54%
+  Ratio: 1.36
   TA: '13'
   Tags:
-  - Online/Offline
-  - Single Player
+  - Online Mode
   - Cooperative
   - Versus
 - Achievement Name: New look
   Description: Customize an outfit slot on a character.
   GS: '5'
   Guide: true
-  Number of Gamers: 68507
-  Percentage of Gamers: 81%
+  Number of Gamers: 87251
+  Percentage of Gamers: 80%
   Ratio: 1.11
   TA: '5'
   Tags:
-  - Online/Offline
-  - Single Player
+  - Online Mode
   - Cooperative
   - Versus
 - Achievement Name: Shopping
   Description: Acquire your first item.
   GS: '5'
   Guide: true
-  Number of Gamers: 35862
-  Percentage of Gamers: 42%
-  Ratio: 1.53
+  Number of Gamers: 48354
+  Percentage of Gamers: 44%
+  Ratio: 1.5
   TA: '7'
   Tags:
-  - Online/Offline
-  - Single Player
+  - Online Mode
   - Cooperative
   - Versus
 - Achievement Name: Fashion victim
   Description: Collect 15 items.
   GS: '50'
   Guide: true
-  Number of Gamers: 6918
-  Percentage of Gamers: 8%
-  Ratio: 3.49
-  TA: '174'
+  Number of Gamers: 16191
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '129'
   Tags:
-  - Online/Offline
-  - Single Player
+  - Online Mode
   - Cooperative
   - Versus
   - Buggy +
@@ -301,36 +282,34 @@ Base Game Achievements:
   Description: Win your first match.
   GS: '5'
   Guide: true
-  Number of Gamers: 61538
-  Percentage of Gamers: 73%
+  Number of Gamers: 78801
+  Percentage of Gamers: 72%
   Ratio: 1.17
   TA: '5'
   Tags:
-  - Online/Offline
-  - Single Player
+  - Online Mode
   - Cooperative
   - Versus
 - Achievement Name: Clean sheet
   Description: Win a match without conceding any goals.
   GS: '10'
   Guide: true
-  Number of Gamers: 48847
+  Number of Gamers: 63297
   Percentage of Gamers: 58%
   Ratio: 1.31
   TA: '13'
   Tags:
-  - Online/Offline
-  - Single Player
+  - Online Mode
   - Cooperative
   - Versus
 - Achievement Name: Competitor
   Description: Win your first ranked match.
   GS: '5'
   Guide: true
-  Number of Gamers: 23486
-  Percentage of Gamers: 28%
-  Ratio: 1.89
-  TA: '9'
+  Number of Gamers: 35022
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '8'
   Tags:
   - Online Mode
   - Versus
@@ -338,13 +317,12 @@ Base Game Achievements:
   Description: Win 30 matches in any game mode.
   GS: '50'
   Guide: true
-  Number of Gamers: 11706
-  Percentage of Gamers: 14%
-  Ratio: 2.69
-  TA: '134'
+  Number of Gamers: 22771
+  Percentage of Gamers: 21%
+  Ratio: 2.18
+  TA: '109'
   Tags:
-  - Online/Offline
-  - Single Player
+  - Online Mode
   - Cooperative
   - Versus
   - Cumulative +
@@ -352,39 +330,36 @@ Base Game Achievements:
   Description: Win the MVP award for the first time.
   GS: '10'
   Guide: true
-  Number of Gamers: 47043
-  Percentage of Gamers: 55%
+  Number of Gamers: 60433
+  Percentage of Gamers: 56%
   Ratio: 1.34
   TA: '13'
   Tags:
-  - Online/Offline
-  - Single Player
+  - Online Mode
   - Cooperative
   - Versus
 - Achievement Name: Can't lose
   Description: Win 3 matches in a row.
   GS: '15'
   Guide: true
-  Number of Gamers: 15873
-  Percentage of Gamers: 19%
-  Ratio: 2.3
-  TA: '34'
+  Number of Gamers: 25768
+  Percentage of Gamers: 24%
+  Ratio: 2.05
+  TA: '30'
   Tags:
-  - Online/Offline
-  - Single Player
+  - Online Mode
   - Cooperative
   - Versus
 - Achievement Name: Pro
   Description: Reach level 10.
   GS: '10'
   Guide: true
-  Number of Gamers: 21970
-  Percentage of Gamers: 26%
-  Ratio: 1.96
-  TA: '19'
+  Number of Gamers: 34985
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '17'
   Tags:
-  - Online/Offline
-  - Single Player
+  - Online Mode
   - Cooperative
   - Versus
   - Level
@@ -392,13 +367,12 @@ Base Game Achievements:
   Description: Reach level 30.
   GS: '50'
   Guide: true
-  Number of Gamers: 2722
-  Percentage of Gamers: 3%
-  Ratio: 5.58
-  TA: '279'
+  Number of Gamers: 12396
+  Percentage of Gamers: 11%
+  Ratio: 2.96
+  TA: '148'
   Tags:
-  - Online/Offline
-  - Single Player
+  - Online Mode
   - Cooperative
   - Versus
   - Level
@@ -406,10 +380,10 @@ Base Game Achievements:
   Description: Complete a match with at least 1 player in your squad.
   GS: '5'
   Guide: true
-  Number of Gamers: 42969
-  Percentage of Gamers: 51%
-  Ratio: 1.4
-  TA: '7'
+  Number of Gamers: 57417
+  Percentage of Gamers: 53%
+  Ratio: 1.37
+  TA: '6'
   Tags:
   - Online Mode
   - Cooperative
@@ -418,9 +392,9 @@ Base Game Achievements:
   Description: Complete your first workshop.
   GS: '5'
   Guide: true
-  Number of Gamers: 35086
-  Percentage of Gamers: 41%
-  Ratio: 1.55
+  Number of Gamers: 46414
+  Percentage of Gamers: 43%
+  Ratio: 1.53
   TA: '7'
   Tags:
   - Offline Game Mode
@@ -429,10 +403,10 @@ Base Game Achievements:
   Description: Complete 5 workshops with bronze medals minimum.
   GS: '15'
   Guide: true
-  Number of Gamers: 8410
-  Percentage of Gamers: 10%
-  Ratio: 3.17
-  TA: '47'
+  Number of Gamers: 12351
+  Percentage of Gamers: 11%
+  Ratio: 2.96
+  TA: '44'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -441,10 +415,10 @@ Base Game Achievements:
   Description: Completed 5 workshops with gold medals.
   GS: '50'
   Guide: true
-  Number of Gamers: 4975
-  Percentage of Gamers: 6%
-  Ratio: 4.12
-  TA: '206'
+  Number of Gamers: 7750
+  Percentage of Gamers: 7%
+  Ratio: 3.74
+  TA: '187'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -453,7 +427,7 @@ Base Game Achievements:
   Description: The beginning of an amazing career.
   GS: '0'
   Guide: true
-  Number of Gamers: 6
+  Number of Gamers: 10
   Percentage of Gamers: 0%
   Ratio: 1.0
   TA: '0'
@@ -463,36 +437,35 @@ Base Game Achievements:
   Description: Run 170 km.
   GS: '100'
   Guide: true
-  Number of Gamers: 1154
-  Percentage of Gamers: 1%
-  Ratio: 8.57
-  TA: '857'
+  Number of Gamers: 6458
+  Percentage of Gamers: 6%
+  Ratio: 4.1
+  TA: '410'
   Tags:
-  - Online/Offline
-  - Single Player
+  - Online Mode
   - Cooperative
   - Versus
   - Cumulative +
-Base Ratio: 2.717
-Base TA: 2717
+Base Ratio: 1.981
+Base TA: 1981
 Delisted: false
 Developer: Sloclap
 Game Name: REMATCH
 Genres: Sports, Football
 Install Size: 5880.0
-Number of Completions: 6
-Number of Gamers: 84766
+Number of Completions: 10
+Number of Gamers: 108804
 Overall Completion Time:
-- 31
-- 32
+- 58
+- 59
 Overall GS: 1000
-Overall Ratio: 2.717
-Overall TA: 2717
+Overall Ratio: 1.981
+Overall TA: 1981
 PDU: 0
 Percentage Completed: 0.01
 Publisher: Sloclap, Kepler Interactive
 Release Date: 19 June 2025
 Server Closure: false
-Site Rating: 3.68
+Site Rating: 3.56
 Update Achievements: []
 Walkthrough: false

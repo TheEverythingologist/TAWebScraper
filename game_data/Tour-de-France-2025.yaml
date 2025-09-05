@@ -1,442 +1,579 @@
 Add On Achievements: []
 Base Completion Time:
-- 40
-- 41
+- 59
+- 60
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Beginning of the season
   Description: Finish the 3 Jours de Provence.
   GS: '15'
   Guide: false
-  Number of Gamers: 54
-  Percentage of Gamers: 76%
-  Ratio: 1.14
+  Number of Gamers: 92
+  Percentage of Gamers: 75%
+  Ratio: 1.15
   TA: '17'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: CGE
   Description: Finish the Circuit Grand Est.
   GS: '15'
   Guide: false
-  Number of Gamers: 46
-  Percentage of Gamers: 65%
-  Ratio: 1.24
+  Number of Gamers: 83
+  Percentage of Gamers: 67%
+  Ratio: 1.21
   TA: '18'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Mini tour
   Description: Finish the Open Tour.
   GS: '15'
   Guide: false
-  Number of Gamers: 42
+  Number of Gamers: 73
   Percentage of Gamers: 59%
-  Ratio: 1.3
+  Ratio: 1.29
   TA: '19'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
 - Achievement Name: All terrain
   Description: Finish the Euro Tour.
   GS: '15'
   Guide: false
-  Number of Gamers: 32
-  Percentage of Gamers: 45%
-  Ratio: 1.48
-  TA: '22'
-  Tags: []
+  Number of Gamers: 64
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
 - Achievement Name: Petite Boucle
   Description: "Finish the Crit\xE9rium du Dauphin\xE9."
   GS: '15'
   Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 44%
-  Ratio: 1.51
-  TA: '22'
-  Tags: []
+  Number of Gamers: 61
+  Percentage of Gamers: 50%
+  Ratio: 1.42
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Stackable
 - Achievement Name: The Race to the Sun
   Description: Finish Paris-Nice.
   GS: '15'
   Guide: false
-  Number of Gamers: 37
-  Percentage of Gamers: 52%
-  Ratio: 1.38
+  Number of Gamers: 69
+  Percentage of Gamers: 56%
+  Ratio: 1.33
   TA: '20'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Stackable
 - Achievement Name: The Hell of the North
   Description: Finish Paris-Roubaix.
   GS: '15'
   Guide: false
-  Number of Gamers: 28
-  Percentage of Gamers: 39%
-  Ratio: 1.59
-  TA: '23'
-  Tags: []
+  Number of Gamers: 68
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Stackable
 - Achievement Name: De Ronde
   Description: Finish the Vlaanderen Classic.
   GS: '15'
   Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 42%
-  Ratio: 1.53
-  TA: '23'
-  Tags: []
+  Number of Gamers: 67
+  Percentage of Gamers: 54%
+  Ratio: 1.35
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
 - Achievement Name: The best of the best
   Description: Finish a World Championship.
   GS: '15'
   Guide: false
-  Number of Gamers: 22
-  Percentage of Gamers: 31%
-  Ratio: 1.79
-  TA: '26'
-  Tags: []
+  Number of Gamers: 66
+  Percentage of Gamers: 54%
+  Ratio: 1.36
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
 - Achievement Name: Grande Boucle
   Description: Finish the Tour de France.
   GS: '15'
   Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 32%
-  Ratio: 1.75
-  TA: '26'
-  Tags: []
+  Number of Gamers: 59
+  Percentage of Gamers: 48%
+  Ratio: 1.45
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Stackable
 - Achievement Name: Baptism of fire
   Description: Finish a stage.
   GS: '10'
   Guide: false
-  Number of Gamers: 71
+  Number of Gamers: 123
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Stackable
 - Achievement Name: Conquest
   Description: Win the 3 Jours de Provence.
   GS: '30'
   Guide: false
-  Number of Gamers: 41
-  Percentage of Gamers: 58%
-  Ratio: 1.31
-  TA: '39'
-  Tags: []
+  Number of Gamers: 74
+  Percentage of Gamers: 60%
+  Ratio: 1.29
+  TA: '38'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
 - Achievement Name: Victory
   Description: Win the Circuit Grand Est.
   GS: '30'
   Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 42%
-  Ratio: 1.53
-  TA: '46'
-  Tags: []
+  Number of Gamers: 61
+  Percentage of Gamers: 50%
+  Ratio: 1.42
+  TA: '42'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
 - Achievement Name: Success
   Description: Win the Open Tour.
   GS: '30'
   Guide: false
-  Number of Gamers: 24
-  Percentage of Gamers: 34%
-  Ratio: 1.72
-  TA: '51'
-  Tags: []
+  Number of Gamers: 47
+  Percentage of Gamers: 38%
+  Ratio: 1.61
+  TA: '48'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
 - Achievement Name: Performance
   Description: Win the Euro Tour.
   GS: '30'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 24%
-  Ratio: 2.04
-  TA: '61'
-  Tags: []
+  Number of Gamers: 34
+  Percentage of Gamers: 28%
+  Ratio: 1.9
+  TA: '57'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
 - Achievement Name: Feat
   Description: "Win the Crit\xE9rium du Dauphin\xE9."
   GS: '30'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 25%
-  Ratio: 1.98
-  TA: '59'
-  Tags: []
+  Number of Gamers: 32
+  Percentage of Gamers: 26%
+  Ratio: 1.96
+  TA: '58'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
 - Achievement Name: Triumph
   Description: Win Paris-Nice.
   GS: '30'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 37%
-  Ratio: 1.65
-  TA: '49'
-  Tags: []
+  Number of Gamers: 49
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '47'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
 - Achievement Name: Exploit
   Description: Win Paris-Roubaix.
   GS: '15'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 23%
-  Ratio: 2.1
-  TA: '31'
-  Tags: []
+  Number of Gamers: 41
+  Percentage of Gamers: 33%
+  Ratio: 1.73
+  TA: '25'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
 - Achievement Name: Consecration
   Description: Win a World Championship.
   GS: '15'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 20%
-  Ratio: 2.25
-  TA: '33'
-  Tags: []
+  Number of Gamers: 36
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '27'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
 - Achievement Name: King of the Hills
   Description: Win the Vlaanderen Classic.
   GS: '15'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 21%
-  Ratio: 2.17
-  TA: '32'
-  Tags: []
+  Number of Gamers: 37
+  Percentage of Gamers: 30%
+  Ratio: 1.82
+  TA: '27'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
 - Achievement Name: Pinnacle
   Description: Win the Tour de France.
   GS: '15'
   Guide: false
-  Number of Gamers: 19
-  Percentage of Gamers: 27%
-  Ratio: 1.98
-  TA: '29'
-  Tags: []
+  Number of Gamers: 39
+  Percentage of Gamers: 32%
+  Ratio: 1.77
+  TA: '26'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
 - Achievement Name: Unmitigated
   Description: Win the yellow, green and polka-dot jerseys during the same Tour de
     France.
   GS: '15'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 23%
-  Ratio: 2.17
-  TA: '32'
-  Tags: []
+  Number of Gamers: 32
+  Percentage of Gamers: 26%
+  Ratio: 1.96
+  TA: '29'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Scared of the peloton
   Description: Win the combativity classification of the Tour de France.
   GS: '15'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 23%
-  Ratio: 2.1
-  TA: '31'
-  Tags: []
+  Number of Gamers: 36
+  Percentage of Gamers: 29%
+  Ratio: 1.87
+  TA: '28'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Together
   Description: Win the team classification of the Tour de France.
   GS: '15'
   Guide: false
-  Number of Gamers: 19
-  Percentage of Gamers: 27%
-  Ratio: 1.93
-  TA: '28'
-  Tags: []
+  Number of Gamers: 43
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '25'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Promises
   Description: Win the young rider classification of the Tour de France.
   GS: '15'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 17%
-  Ratio: 2.43
-  TA: '36'
-  Tags: []
+  Number of Gamers: 38
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '26'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Measles
   Description: Win the mountains classification of the Tour de France.
   GS: '15'
   Guide: false
-  Number of Gamers: 20
-  Percentage of Gamers: 28%
-  Ratio: 1.93
-  TA: '28'
-  Tags: []
+  Number of Gamers: 46
+  Percentage of Gamers: 37%
+  Ratio: 1.63
+  TA: '24'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Big thighs
   Description: Win the points classification of the Tour de France.
   GS: '15'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 25%
-  Ratio: 2.04
-  TA: '30'
-  Tags: []
+  Number of Gamers: 49
+  Percentage of Gamers: 40%
+  Ratio: 1.6
+  TA: '24'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Among the legendary
   Description: Win the Tour de France in Legend difficulty.
   GS: '90'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 13%
-  Ratio: 2.8
-  TA: '252'
-  Tags: []
+  Number of Gamers: 21
+  Percentage of Gamers: 17%
+  Ratio: 2.42
+  TA: '217'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
 - Achievement Name: Mister Paris-Roubaix
   Description: Win Paris-Roubaix in Legend difficulty.
   GS: '30'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 13%
-  Ratio: 2.8
-  TA: '84'
-  Tags: []
+  Number of Gamers: 21
+  Percentage of Gamers: 17%
+  Ratio: 2.42
+  TA: '72'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
 - Achievement Name: King of the world
   Description: Win a World Championship in Legend difficulty.
   GS: '30'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 11%
-  Ratio: 2.97
-  TA: '89'
-  Tags: []
+  Number of Gamers: 16
+  Percentage of Gamers: 13%
+  Ratio: 2.77
+  TA: '83'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
 - Achievement Name: King of Flanders
   Description: Win the Vlaanderen Classic in Legend difficulty.
   GS: '30'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 14%
-  Ratio: 2.66
-  TA: '79'
-  Tags: []
+  Number of Gamers: 20
+  Percentage of Gamers: 16%
+  Ratio: 2.47
+  TA: '74'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
 - Achievement Name: Team of the year
   Description: Come top of the team Pro Cycling ranking (Pro Team/Pro Leader mode).
   GS: '30'
   Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 32%
-  Ratio: 1.75
-  TA: '52'
-  Tags: []
+  Number of Gamers: 53
+  Percentage of Gamers: 43%
+  Ratio: 1.52
+  TA: '45'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Pantheon
   Description: Come top of the individual Pro Cycling ranking (Pro Team/Pro Leader
     mode).
   GS: '30'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 25%
-  Ratio: 2.04
-  TA: '61'
-  Tags: []
+  Number of Gamers: 52
+  Percentage of Gamers: 42%
+  Ratio: 1.53
+  TA: '46'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Rainbow
   Description: Win a World Championship with your Pro Leader (Pro Leader mode).
   GS: '30'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 17%
-  Ratio: 2.43
-  TA: '72'
-  Tags: []
+  Number of Gamers: 30
+  Percentage of Gamers: 24%
+  Ratio: 2.02
+  TA: '60'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: The Old Lady
   Description: "Finish Li\xE8ge-Bastogne-Li\xE8ge."
   GS: '15'
   Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 38%
-  Ratio: 1.62
-  TA: '24'
-  Tags: []
+  Number of Gamers: 60
+  Percentage of Gamers: 49%
+  Ratio: 1.43
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Monument
   Description: "Win Li\xE8ge-Bastogne-Li\xE8ge."
   GS: '15'
   Guide: false
-  Number of Gamers: 21
-  Percentage of Gamers: 30%
-  Ratio: 1.83
-  TA: '27'
-  Tags: []
+  Number of Gamers: 45
+  Percentage of Gamers: 37%
+  Ratio: 1.65
+  TA: '24'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
 - Achievement Name: King of the Ardennes
   Description: "Win Li\xE8ge-Bastogne-Li\xE8ge in Legend difficulty."
   GS: '30'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 14%
-  Ratio: 2.66
-  TA: '79'
-  Tags: []
+  Number of Gamers: 24
+  Percentage of Gamers: 20%
+  Ratio: 2.26
+  TA: '67'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
 - Achievement Name: Dead leaves
   Description: Finish the Giro di Como.
   GS: '15'
   Guide: false
-  Number of Gamers: 20
-  Percentage of Gamers: 28%
-  Ratio: 1.88
-  TA: '28'
-  Tags: []
+  Number of Gamers: 52
+  Percentage of Gamers: 42%
+  Ratio: 1.53
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Campione
   Description: Win the Giro di Como.
   GS: '15'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 20%
-  Ratio: 2.25
-  TA: '33'
-  Tags: []
+  Number of Gamers: 37
+  Percentage of Gamers: 30%
+  Ratio: 1.82
+  TA: '27'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+  - Stackable
 - Achievement Name: King of Lombardy
   Description: Win the Giro di Como in Legend difficulty.
   GS: '30'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 11%
-  Ratio: 2.97
-  TA: '89'
-  Tags: []
+  Number of Gamers: 18
+  Percentage of Gamers: 15%
+  Ratio: 2.61
+  TA: '78'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+  - Stackable
 - Achievement Name: Primavera
   Description: Finish the Primavera Classica.
   GS: '15'
   Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 44%
-  Ratio: 1.51
-  TA: '22'
-  Tags: []
+  Number of Gamers: 64
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Cipressa
   Description: Win the Primavera Classica.
   GS: '15'
   Guide: false
-  Number of Gamers: 22
-  Percentage of Gamers: 31%
-  Ratio: 1.79
-  TA: '26'
-  Tags: []
+  Number of Gamers: 49
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Poggio
   Description: Win the Primavera Classica in Legend difficulty.
   GS: '30'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 13%
-  Ratio: 2.8
-  TA: '84'
-  Tags: []
+  Number of Gamers: 23
+  Percentage of Gamers: 19%
+  Ratio: 2.31
+  TA: '69'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
 - Achievement Name: "The Fl\xE8che"
   Description: "Finish the Fl\xE8che Wallonne."
   GS: '15'
   Guide: false
-  Number of Gamers: 38
-  Percentage of Gamers: 54%
-  Ratio: 1.36
-  TA: '20'
-  Tags: []
+  Number of Gamers: 76
+  Percentage of Gamers: 62%
+  Ratio: 1.27
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Huy
   Description: "Win the Fl\xE8che Wallonne."
   GS: '15'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 25%
-  Ratio: 1.98
-  TA: '29'
-  Tags: []
+  Number of Gamers: 46
+  Percentage of Gamers: 37%
+  Ratio: 1.63
+  TA: '24'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: King of the Wall
   Description: "Win the Fl\xE8che Wallonne in Legend difficulty."
   GS: '30'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 13%
-  Ratio: 2.8
-  TA: '84'
-  Tags: []
-Base Ratio: 2.075
-Base TA: 2075
+  Number of Gamers: 22
+  Percentage of Gamers: 18%
+  Ratio: 2.36
+  TA: '70'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+Base Ratio: 1.819
+Base TA: 1819
 Delisted: false
 Developer: Cyanide Studio
 Game Name: Tour de France 2025
 Genres: Sports, Cycling
 Install Size: 20290.0
-Number of Completions: 5
-Number of Gamers: 71
+Number of Completions: 12
+Number of Gamers: 123
 Overall Completion Time:
-- 40
-- 41
+- 59
+- 60
 Overall GS: 1000
-Overall Ratio: 2.075
-Overall TA: 2075
+Overall Ratio: 1.819
+Overall TA: 1819
 PDU: 0
-Percentage Completed: 7.04
+Percentage Completed: 9.76
 Publisher: Nacon
 Release Date: 05 June 2025
 Server Closure: false

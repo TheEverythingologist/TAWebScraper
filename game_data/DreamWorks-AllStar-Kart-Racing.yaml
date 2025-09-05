@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 40
 - 41
+- 42
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Test Drive
   Description: Win your first cup
   GS: '5'
   Guide: false
-  Number of Gamers: 1071
+  Number of Gamers: 1387
   Percentage of Gamers: 85%
   Ratio: 1.08
   TA: '5'
@@ -20,9 +20,9 @@ Base Game Achievements:
   Description: Complete 15 Magic Paths
   GS: '10'
   Guide: false
-  Number of Gamers: 782
-  Percentage of Gamers: 62%
-  Ratio: 1.26
+  Number of Gamers: 1002
+  Percentage of Gamers: 61%
+  Ratio: 1.27
   TA: '12'
   Tags:
   - Online/Offline
@@ -33,9 +33,9 @@ Base Game Achievements:
   Description: Perform 15 Sweet Jumps
   GS: '10'
   Guide: false
-  Number of Gamers: 460
-  Percentage of Gamers: 37%
-  Ratio: 1.65
+  Number of Gamers: 584
+  Percentage of Gamers: 36%
+  Ratio: 1.67
   TA: '16'
   Tags:
   - Online/Offline
@@ -46,7 +46,7 @@ Base Game Achievements:
   Description: Perform 10 Drift Trails in a cup
   GS: '15'
   Guide: false
-  Number of Gamers: 884
+  Number of Gamers: 1143
   Percentage of Gamers: 70%
   Ratio: 1.19
   TA: '17'
@@ -58,10 +58,10 @@ Base Game Achievements:
   Description: Buy 5 different things in the shop
   GS: '15'
   Guide: false
-  Number of Gamers: 461
-  Percentage of Gamers: 37%
-  Ratio: 1.65
-  TA: '24'
+  Number of Gamers: 577
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '25'
   Tags:
   - Online/Offline
   - Single Player
@@ -71,7 +71,7 @@ Base Game Achievements:
   Description: Perform 30 Drifts
   GS: '15'
   Guide: false
-  Number of Gamers: 1032
+  Number of Gamers: 1335
   Percentage of Gamers: 82%
   Ratio: 1.1
   TA: '16'
@@ -84,8 +84,8 @@ Base Game Achievements:
   Description: Go through 50 boostpads
   GS: '15'
   Guide: false
-  Number of Gamers: 1216
-  Percentage of Gamers: 97%
+  Number of Gamers: 1577
+  Percentage of Gamers: 96%
   Ratio: 1.01
   TA: '15'
   Tags:
@@ -97,9 +97,9 @@ Base Game Achievements:
   Description: Pick up an apple power-up and explode around others
   GS: '15'
   Guide: false
-  Number of Gamers: 510
-  Percentage of Gamers: 41%
-  Ratio: 1.56
+  Number of Gamers: 647
+  Percentage of Gamers: 39%
+  Ratio: 1.58
   TA: '23'
   Tags:
   - Online/Offline
@@ -109,9 +109,9 @@ Base Game Achievements:
   Description: Perform 75 Jump tricks
   GS: '15'
   Guide: true
-  Number of Gamers: 920
-  Percentage of Gamers: 73%
-  Ratio: 1.16
+  Number of Gamers: 1181
+  Percentage of Gamers: 72%
+  Ratio: 1.17
   TA: '17'
   Tags:
   - Online/Offline
@@ -122,7 +122,7 @@ Base Game Achievements:
   Description: Use Troll Surprise 7 times in a cup
   GS: '15'
   Guide: false
-  Number of Gamers: 1150
+  Number of Gamers: 1491
   Percentage of Gamers: 91%
   Ratio: 1.04
   TA: '15'
@@ -134,10 +134,10 @@ Base Game Achievements:
   Description: Complete a race without getting hit once
   GS: '30'
   Guide: false
-  Number of Gamers: 1041
-  Percentage of Gamers: 83%
-  Ratio: 1.09
-  TA: '32'
+  Number of Gamers: 1340
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '33'
   Tags:
   - Online/Offline
   - Single Player
@@ -146,10 +146,10 @@ Base Game Achievements:
   Description: Hit 33 players with a Lucky Token
   GS: '30'
   Guide: true
-  Number of Gamers: 321
-  Percentage of Gamers: 26%
-  Ratio: 1.97
-  TA: '59'
+  Number of Gamers: 399
+  Percentage of Gamers: 24%
+  Ratio: 2.02
+  TA: '60'
   Tags:
   - Online/Offline
   - Single Player
@@ -159,10 +159,10 @@ Base Game Achievements:
   Description: Enter 5 different shortcuts
   GS: '30'
   Guide: false
-  Number of Gamers: 200
-  Percentage of Gamers: 16%
-  Ratio: 2.5
-  TA: '75'
+  Number of Gamers: 239
+  Percentage of Gamers: 15%
+  Ratio: 2.61
+  TA: '78'
   Tags:
   - Online/Offline
   - Single Player
@@ -172,10 +172,10 @@ Base Game Achievements:
   Description: Play the same cup with 6 different hosts
   GS: '30'
   Guide: false
-  Number of Gamers: 124
-  Percentage of Gamers: 10%
-  Ratio: 3.18
-  TA: '95'
+  Number of Gamers: 147
+  Percentage of Gamers: 9%
+  Ratio: 3.32
+  TA: '99'
   Tags:
   - Online/Offline
   - Single Player
@@ -184,10 +184,10 @@ Base Game Achievements:
   Description: Steal the Golden Dolphin in Museum of Fine Arts in under 40 seconds
   GS: '30'
   Guide: true
-  Number of Gamers: 231
-  Percentage of Gamers: 18%
-  Ratio: 2.33
-  TA: '69'
+  Number of Gamers: 285
+  Percentage of Gamers: 17%
+  Ratio: 2.39
+  TA: '71'
   Tags:
   - Offline Mode
   - Single Player
@@ -196,10 +196,10 @@ Base Game Achievements:
   Description: Win Viking Cup in Lightning Speed
   GS: '30'
   Guide: false
-  Number of Gamers: 168
+  Number of Gamers: 212
   Percentage of Gamers: 13%
-  Ratio: 2.73
-  TA: '82'
+  Ratio: 2.77
+  TA: '83'
   Tags:
   - Online/Offline
   - Single Player
@@ -208,10 +208,10 @@ Base Game Achievements:
   Description: Hit 2 players at the same time with a bomb power-up
   GS: '30'
   Guide: false
-  Number of Gamers: 292
-  Percentage of Gamers: 23%
-  Ratio: 2.07
-  TA: '62'
+  Number of Gamers: 362
+  Percentage of Gamers: 22%
+  Ratio: 2.12
+  TA: '63'
   Tags:
   - Online/Offline
   - Single Player
@@ -220,10 +220,10 @@ Base Game Achievements:
   Description: Hit 20 enemies with the shield
   GS: '30'
   Guide: false
-  Number of Gamers: 108
-  Percentage of Gamers: 9%
-  Ratio: 3.41
-  TA: '102'
+  Number of Gamers: 127
+  Percentage of Gamers: 8%
+  Ratio: 3.58
+  TA: '107'
   Tags:
   - Online/Offline
   - Single Player
@@ -233,10 +233,10 @@ Base Game Achievements:
   Description: Beat 10 ghosts in time trials
   GS: '30'
   Guide: true
-  Number of Gamers: 107
-  Percentage of Gamers: 9%
-  Ratio: 3.42
-  TA: '102'
+  Number of Gamers: 131
+  Percentage of Gamers: 8%
+  Ratio: 3.52
+  TA: '105'
   Tags:
   - Offline Mode
   - Single Player
@@ -246,10 +246,10 @@ Base Game Achievements:
   Description: Hit 3 players by throwing drop items forward
   GS: '30'
   Guide: false
-  Number of Gamers: 234
-  Percentage of Gamers: 19%
-  Ratio: 2.31
-  TA: '69'
+  Number of Gamers: 291
+  Percentage of Gamers: 18%
+  Ratio: 2.36
+  TA: '71'
   Tags:
   - Online/Offline
   - Single Player
@@ -259,10 +259,10 @@ Base Game Achievements:
   Description: Hit 200 opponents with power-ups
   GS: '30'
   Guide: false
-  Number of Gamers: 261
-  Percentage of Gamers: 21%
-  Ratio: 2.19
-  TA: '65'
+  Number of Gamers: 322
+  Percentage of Gamers: 20%
+  Ratio: 2.24
+  TA: '67'
   Tags:
   - Offline Mode
   - Single Player
@@ -271,10 +271,10 @@ Base Game Achievements:
   Description: Unlock all characters
   GS: '90'
   Guide: false
-  Number of Gamers: 188
-  Percentage of Gamers: 15%
-  Ratio: 2.58
-  TA: '232'
+  Number of Gamers: 230
+  Percentage of Gamers: 14%
+  Ratio: 2.66
+  TA: '239'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -282,10 +282,10 @@ Base Game Achievements:
   Description: Beat all Lightning difficulty Cups
   GS: '90'
   Guide: false
-  Number of Gamers: 108
-  Percentage of Gamers: 9%
-  Ratio: 3.41
-  TA: '307'
+  Number of Gamers: 133
+  Percentage of Gamers: 8%
+  Ratio: 3.5
+  TA: '315'
   Tags:
   - Offline Mode
   - Single Player
@@ -294,10 +294,10 @@ Base Game Achievements:
   Description: Get 20 collectible Lucky Tokens
   GS: '90'
   Guide: false
-  Number of Gamers: 377
-  Percentage of Gamers: 30%
-  Ratio: 1.82
-  TA: '164'
+  Number of Gamers: 465
+  Percentage of Gamers: 28%
+  Ratio: 1.87
+  TA: '168'
   Tags:
   - Offline Mode
   - Single Player
@@ -306,10 +306,10 @@ Base Game Achievements:
   Description: Beat all ghosts in time trials
   GS: '90'
   Guide: true
-  Number of Gamers: 92
+  Number of Gamers: 112
   Percentage of Gamers: 7%
-  Ratio: 3.69
-  TA: '332'
+  Ratio: 3.81
+  TA: '343'
   Tags:
   - Offline Mode
   - Single Player
@@ -318,10 +318,10 @@ Base Game Achievements:
   Description: Complete all challenges
   GS: '90'
   Guide: false
-  Number of Gamers: 194
-  Percentage of Gamers: 15%
-  Ratio: 2.54
-  TA: '229'
+  Number of Gamers: 237
+  Percentage of Gamers: 14%
+  Ratio: 2.62
+  TA: '236'
   Tags:
   - Offline Mode
   - Single Player
@@ -330,36 +330,36 @@ Base Game Achievements:
   Description: Unlock the whole shop!
   GS: '90'
   Guide: true
-  Number of Gamers: 52
+  Number of Gamers: 59
   Percentage of Gamers: 4%
-  Ratio: 4.91
-  TA: '442'
+  Ratio: 5.25
+  TA: '473'
   Tags:
   - Offline Mode
   - Single Player
   - Versus
   - External Content
   - Buggy
-Base Ratio: 2.678
-Base TA: 2678
+Base Ratio: 2.772
+Base TA: 2772
 Delisted: false
 Developer: Bamtang
 Game Name: DreamWorks All-Star Kart Racing
 Genres: Arcade Racing, Automobile
 Install Size: 8780.0
-Number of Completions: 51
-Number of Gamers: 1258
+Number of Completions: 58
+Number of Gamers: 1638
 Overall Completion Time:
-- 40
 - 41
+- 42
 Overall GS: 1000
-Overall Ratio: 2.678
-Overall TA: 2678
+Overall Ratio: 2.772
+Overall TA: 2772
 PDU: 0
-Percentage Completed: 4.05
+Percentage Completed: 3.54
 Publisher: GameMill Entertainment
 Release Date: 03 November 2023
 Server Closure: false
-Site Rating: 2.98
+Site Rating: 2.88
 Update Achievements: []
 Walkthrough: false

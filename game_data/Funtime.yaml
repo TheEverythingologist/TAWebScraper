@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 37
-- 38
+- 34
+- 35
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Feels Good
   Description: Achieve 3 stars on any challenge level
   GS: '20'
   Guide: true
-  Number of Gamers: 567
+  Number of Gamers: 585
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '20'
@@ -19,7 +19,7 @@ Base Game Achievements:
   Description: Complete the level 3 color swap introduction
   GS: '20'
   Guide: true
-  Number of Gamers: 514
+  Number of Gamers: 531
   Percentage of Gamers: 90%
   Ratio: 1.05
   TA: '21'
@@ -31,9 +31,9 @@ Base Game Achievements:
   Description: Destroy an enemy by having it cross the same colored path
   GS: '20'
   Guide: true
-  Number of Gamers: 482
+  Number of Gamers: 500
   Percentage of Gamers: 84%
-  Ratio: 1.09
+  Ratio: 1.08
   TA: '21'
   Tags:
   - Offline Game Mode
@@ -42,10 +42,10 @@ Base Game Achievements:
   Description: 'Defeat the first #Funtime boss'
   GS: '20'
   Guide: true
-  Number of Gamers: 198
+  Number of Gamers: 209
   Percentage of Gamers: 35%
-  Ratio: 1.7
-  TA: '34'
+  Ratio: 1.68
+  TA: '33'
   Tags:
   - Offline Mode
   - Single Player
@@ -54,9 +54,9 @@ Base Game Achievements:
   Description: Connect with an enemy of the same color
   GS: '20'
   Guide: true
-  Number of Gamers: 173
+  Number of Gamers: 179
   Percentage of Gamers: 30%
-  Ratio: 1.81
+  Ratio: 1.82
   TA: '36'
   Tags:
   - Offline Game Mode
@@ -65,9 +65,9 @@ Base Game Achievements:
   Description: Take cover in your first zone
   GS: '20'
   Guide: true
-  Number of Gamers: 152
+  Number of Gamers: 158
   Percentage of Gamers: 27%
-  Ratio: 1.94
+  Ratio: 1.93
   TA: '38'
   Tags:
   - Offline Game Mode
@@ -76,8 +76,8 @@ Base Game Achievements:
   Description: Complete any Funtime mode without being hurt by your wrecking ball
   GS: '50'
   Guide: true
-  Number of Gamers: 169
-  Percentage of Gamers: 29%
+  Number of Gamers: 175
+  Percentage of Gamers: 30%
   Ratio: 1.84
   TA: '92'
   Tags:
@@ -88,10 +88,10 @@ Base Game Achievements:
   Description: Earn at least 50,000 points with a single bomb
   GS: '50'
   Guide: true
-  Number of Gamers: 114
+  Number of Gamers: 119
   Percentage of Gamers: 20%
-  Ratio: 2.24
-  TA: '112'
+  Ratio: 2.23
+  TA: '111'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -99,10 +99,10 @@ Base Game Achievements:
   Description: Travel a great distance
   GS: '50'
   Guide: true
-  Number of Gamers: 59
-  Percentage of Gamers: 10%
-  Ratio: 3.11
-  TA: '155'
+  Number of Gamers: 63
+  Percentage of Gamers: 11%
+  Ratio: 3.06
+  TA: '153'
   Tags:
   - Offline Mode
   - Single Player
@@ -111,10 +111,10 @@ Base Game Achievements:
   Description: Unlock every level
   GS: '40'
   Guide: true
-  Number of Gamers: 83
-  Percentage of Gamers: 14%
-  Ratio: 2.62
-  TA: '105'
+  Number of Gamers: 86
+  Percentage of Gamers: 15%
+  Ratio: 2.61
+  TA: '104'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -122,10 +122,10 @@ Base Game Achievements:
   Description: Earn 100 stars
   GS: '75'
   Guide: true
-  Number of Gamers: 41
-  Percentage of Gamers: 7%
-  Ratio: 3.73
-  TA: '280'
+  Number of Gamers: 45
+  Percentage of Gamers: 8%
+  Ratio: 3.62
+  TA: '271'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -133,9 +133,9 @@ Base Game Achievements:
   Description: Score at least 100,000 points in any Arcade Mode
   GS: '40'
   Guide: false
-  Number of Gamers: 177
+  Number of Gamers: 185
   Percentage of Gamers: 31%
-  Ratio: 1.79
+  Ratio: 1.78
   TA: '71'
   Tags:
   - Offline Game Mode
@@ -144,10 +144,10 @@ Base Game Achievements:
   Description: Score at least 1 million points in any Arcade Mode
   GS: '75'
   Guide: false
-  Number of Gamers: 78
+  Number of Gamers: 81
   Percentage of Gamers: 14%
-  Ratio: 2.71
-  TA: '203'
+  Ratio: 2.69
+  TA: '202'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -155,10 +155,10 @@ Base Game Achievements:
   Description: 'Destroy each of the bosses in #Funtime'
   GS: '75'
   Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 5%
-  Ratio: 4.29
-  TA: '322'
+  Number of Gamers: 34
+  Percentage of Gamers: 6%
+  Ratio: 4.16
+  TA: '312'
   Tags:
   - Offline Mode
   - Single Player
@@ -167,9 +167,9 @@ Base Game Achievements:
   Description: Achieve a multiplier of 15 or more
   GS: '75'
   Guide: true
-  Number of Gamers: 79
+  Number of Gamers: 82
   Percentage of Gamers: 14%
-  Ratio: 2.69
+  Ratio: 2.68
   TA: '201'
   Tags:
   - Offline Game Mode
@@ -178,7 +178,7 @@ Base Game Achievements:
   Description: Fully upgrade your ship
   GS: '75'
   Guide: true
-  Number of Gamers: 107
+  Number of Gamers: 110
   Percentage of Gamers: 19%
   Ratio: 2.31
   TA: '173'
@@ -190,10 +190,10 @@ Base Game Achievements:
   Description: Destroy the rarest of enemies
   GS: '75'
   Guide: true
-  Number of Gamers: 41
-  Percentage of Gamers: 7%
-  Ratio: 3.73
-  TA: '280'
+  Number of Gamers: 45
+  Percentage of Gamers: 8%
+  Ratio: 3.62
+  TA: '271'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -201,10 +201,10 @@ Base Game Achievements:
   Description: Earn at least 1 star on each challenge level
   GS: '50'
   Guide: true
-  Number of Gamers: 22
+  Number of Gamers: 25
   Percentage of Gamers: 4%
-  Ratio: 5.1
-  TA: '255'
+  Ratio: 4.85
+  TA: '242'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -212,10 +212,10 @@ Base Game Achievements:
   Description: Complete all 50 waves in Arcade mode
   GS: '75'
   Guide: false
-  Number of Gamers: 23
+  Number of Gamers: 26
   Percentage of Gamers: 4%
-  Ratio: 4.99
-  TA: '374'
+  Ratio: 4.76
+  TA: '357'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -223,33 +223,33 @@ Base Game Achievements:
   Description: Earn 3 stars on every challenge level
   GS: '75'
   Guide: false
-  Number of Gamers: 19
-  Percentage of Gamers: 3%
-  Ratio: 5.49
-  TA: '411'
+  Number of Gamers: 22
+  Percentage of Gamers: 4%
+  Ratio: 5.17
+  TA: '388'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 3.204
-Base TA: 3204
+Base Ratio: 3.117
+Base TA: 3117
 Delisted: false
 Developer: OneGuyGames
 Game Name: '#Funtime'
 Genres: Shoot 'em up
 Install Size: 756.0
-Number of Completions: 19
-Number of Gamers: 573
+Number of Completions: 22
+Number of Gamers: 592
 Overall Completion Time:
-- 37
-- 38
+- 34
+- 35
 Overall GS: 1000
-Overall Ratio: 3.204
-Overall TA: 3204
+Overall Ratio: 3.117
+Overall TA: 3117
 PDU: 0
-Percentage Completed: 3.32
+Percentage Completed: 3.72
 Publisher: The Quantum Astrophysicists Guild
 Release Date: 16 July 2020
 Server Closure: false
-Site Rating: 3.47
+Site Rating: 3.48
 Update Achievements: []
 Walkthrough: false

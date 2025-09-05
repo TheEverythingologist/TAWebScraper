@@ -5,10 +5,10 @@ Base Completion Time:
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Hide and Seek
-  Description: Collect a hidden item
+  Description: Collect a star
   GS: '10'
   Guide: false
-  Number of Gamers: 27
+  Number of Gamers: 32
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '10'
@@ -20,21 +20,21 @@ Base Game Achievements:
   Description: Send a sparkball flying away
   GS: '10'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 26%
-  Ratio: 1.96
-  TA: '19'
+  Number of Gamers: 8
+  Percentage of Gamers: 25%
+  Ratio: 2.0
+  TA: '20'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
 - Achievement Name: Explorer
-  Description: Collect 25 hidden items
+  Description: Collect 25 stars
   GS: '25'
   Guide: false
-  Number of Gamers: 6
+  Number of Gamers: 7
   Percentage of Gamers: 22%
-  Ratio: 2.12
+  Ratio: 2.13
   TA: '53'
   Tags:
   - Offline Mode
@@ -44,156 +44,151 @@ Base Game Achievements:
   Description: Rescue 10 fairies
   GS: '50'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 15%
-  Ratio: 2.59
-  TA: '129'
+  Number of Gamers: 5
+  Percentage of Gamers: 16%
+  Ratio: 2.52
+  TA: '126'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
 - Achievement Name: Adventurer
-  Description: Collect 100 hidden items
+  Description: Collect 100 stars
   GS: '50'
   Guide: false
   Number of Gamers: 4
-  Percentage of Gamers: 15%
-  Ratio: 2.59
-  TA: '129'
+  Percentage of Gamers: 12%
+  Ratio: 2.82
+  TA: '141'
   Tags:
   - Offline Mode
   - Single Player
   - Collectable
 - Achievement Name: Seeker
-  Description: Collect 200 hidden items
+  Description: Collect 200 stars
   GS: '75'
   Guide: false
   Number of Gamers: 3
-  Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '225'
+  Percentage of Gamers: 9%
+  Ratio: 3.26
+  TA: '244'
   Tags:
   - Offline Mode
   - Single Player
   - Collectable
 - Achievement Name: Magical
-  Description: Collect 400 hidden items
+  Description: Collect 400 stars
   GS: '100'
   Guide: false
   Number of Gamers: 3
-  Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '300'
+  Percentage of Gamers: 9%
+  Ratio: 3.26
+  TA: '326'
   Tags:
   - Offline Mode
   - Single Player
   - Collectable
-- Achievement Name: Unlock chapter 2
-  Description: Unlock chapter 2
+- Achievement Name: Scout
+  Description: Collect 10 stars
   GS: '30'
   Guide: false
-  Number of Gamers: 6
+  Number of Gamers: 7
   Percentage of Gamers: 22%
-  Ratio: 2.12
-  TA: '63'
+  Ratio: 2.13
+  TA: '64'
   Tags:
   - Offline Mode
   - Single Player
-  - Main Storyline
   - Collectable
-- Achievement Name: Unlock chapter 3
-  Description: Unlock chapter 3
+- Achievement Name: Squire
+  Description: Collect 50 stars
   GS: '50'
   Guide: false
-  Number of Gamers: 5
+  Number of Gamers: 6
   Percentage of Gamers: 19%
-  Ratio: 2.32
-  TA: '116'
+  Ratio: 2.3
+  TA: '115'
   Tags:
   - Offline Mode
   - Single Player
-  - Main Storyline
   - Collectable
-- Achievement Name: Unlock chapter 4
-  Description: Unlock chapter 4
+- Achievement Name: Aspirant
+  Description: Collect 75 stars
   GS: '70'
   Guide: false
   Number of Gamers: 4
-  Percentage of Gamers: 15%
-  Ratio: 2.59
-  TA: '181'
+  Percentage of Gamers: 12%
+  Ratio: 2.82
+  TA: '197'
   Tags:
   - Offline Mode
   - Single Player
-  - Main Storyline
   - Collectable
-- Achievement Name: Unlock chapter 5
-  Description: Unlock chapter 5
+- Achievement Name: Knight
+  Description: Collect 300 stars
   GS: '100'
   Guide: false
   Number of Gamers: 3
-  Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '300'
+  Percentage of Gamers: 9%
+  Ratio: 3.26
+  TA: '326'
   Tags:
   - Offline Mode
   - Single Player
-  - Main Storyline
   - Collectable
-- Achievement Name: Unlock chapter 6
-  Description: Unlock chapter 6
+- Achievement Name: Champion
+  Description: Collect 500 stars
   GS: '150'
   Guide: false
   Number of Gamers: 3
-  Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '450'
+  Percentage of Gamers: 9%
+  Ratio: 3.26
+  TA: '489'
   Tags:
   - Offline Mode
   - Single Player
-  - Main Storyline
   - Collectable
 - Achievement Name: Ranger
   Description: Kill 25 enemies
   GS: '80'
   Guide: false
   Number of Gamers: 3
-  Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '240'
+  Percentage of Gamers: 9%
+  Ratio: 3.26
+  TA: '261'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
 - Achievement Name: Paladin
-  Description: Collect all hidden items
+  Description: Collect all stars
   GS: '200'
   Guide: false
   Number of Gamers: 3
-  Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '600'
+  Percentage of Gamers: 9%
+  Ratio: 3.26
+  TA: '653'
   Tags:
   - Offline Mode
   - Single Player
   - Collectable
-Base Ratio: 2.815
-Base TA: 2815
+Base Ratio: 3.025
+Base TA: 3025
 Delisted: false
 Developer: Bent Vector Studios
 Game Name: Paladin's Passage
 Genres: Platformer
 Install Size: 2910.0
 Number of Completions: 3
-Number of Gamers: 27
+Number of Gamers: 32
 Overall Completion Time:
 - 14
 - 15
 Overall GS: 1000
-Overall Ratio: 2.815
-Overall TA: 2815
+Overall Ratio: 3.025
+Overall TA: 3025
 PDU: 0
-Percentage Completed: 11.11
+Percentage Completed: 9.38
 Publisher: Bent Vector Studios
 Release Date: 17 September 2024
 Server Closure: false

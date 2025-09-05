@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 372
-- 373
+- 345
+- 346
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Message Delivered
   Description: Finished Tutorial - Part 1
   GS: '20'
   Guide: true
-  Number of Gamers: 14819
+  Number of Gamers: 14986
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '20'
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Finished Tutorial - Part 2
   GS: '20'
   Guide: true
-  Number of Gamers: 9951
+  Number of Gamers: 10091
   Percentage of Gamers: 64%
   Ratio: 1.24
   TA: '24'
@@ -32,7 +32,7 @@ Base Game Achievements:
   Description: Defeat first Lieutenant
   GS: '25'
   Guide: false
-  Number of Gamers: 7597
+  Number of Gamers: 7719
   Percentage of Gamers: 49%
   Ratio: 1.42
   TA: '35'
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Defeat first Commander
   GS: '25'
   Guide: false
-  Number of Gamers: 3200
+  Number of Gamers: 3253
   Percentage of Gamers: 21%
-  Ratio: 2.2
-  TA: '55'
+  Ratio: 2.19
+  TA: '54'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Defeat Menku Behemoth
   GS: '30'
   Guide: true
-  Number of Gamers: 3190
+  Number of Gamers: 3249
   Percentage of Gamers: 21%
-  Ratio: 2.2
-  TA: '66'
+  Ratio: 2.19
+  TA: '65'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: Defeat Norosh Behemoth
   GS: '30'
   Guide: true
-  Number of Gamers: 1685
+  Number of Gamers: 1709
   Percentage of Gamers: 11%
   Ratio: 3.03
-  TA: '91'
+  TA: '90'
   Tags:
   - Offline Mode
   - Single Player
@@ -80,9 +80,9 @@ Base Game Achievements:
   Description: Defeat Dagan Behemoth
   GS: '30'
   Guide: false
-  Number of Gamers: 1080
+  Number of Gamers: 1099
   Percentage of Gamers: 7%
-  Ratio: 3.79
+  Ratio: 3.78
   TA: '113'
   Tags:
   - Offline Mode
@@ -92,10 +92,10 @@ Base Game Achievements:
   Description: Defeat Herald
   GS: '35'
   Guide: false
-  Number of Gamers: 1025
+  Number of Gamers: 1042
   Percentage of Gamers: 7%
-  Ratio: 3.89
-  TA: '136'
+  Ratio: 3.88
+  TA: '135'
   Tags:
   - Offline Mode
   - Single Player
@@ -104,7 +104,7 @@ Base Game Achievements:
   Description: Defeat Overseer
   GS: '35'
   Guide: false
-  Number of Gamers: 829
+  Number of Gamers: 842
   Percentage of Gamers: 5%
   Ratio: 4.32
   TA: '151'
@@ -116,10 +116,10 @@ Base Game Achievements:
   Description: Unlocked first level of Camaraderie
   GS: '25'
   Guide: true
-  Number of Gamers: 4789
+  Number of Gamers: 4880
   Percentage of Gamers: 31%
-  Ratio: 1.8
-  TA: '45'
+  Ratio: 1.79
+  TA: '44'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -127,9 +127,9 @@ Base Game Achievements:
   Description: Unlocked first Combo
   GS: '25'
   Guide: true
-  Number of Gamers: 3166
-  Percentage of Gamers: 20%
-  Ratio: 2.21
+  Number of Gamers: 3223
+  Percentage of Gamers: 21%
+  Ratio: 2.2
   TA: '55'
   Tags:
   - Offline Game Mode
@@ -138,7 +138,7 @@ Base Game Achievements:
   Description: Unlocked first Progeny
   GS: '25'
   Guide: true
-  Number of Gamers: 967
+  Number of Gamers: 981
   Percentage of Gamers: 6%
   Ratio: 4.0
   TA: '100'
@@ -149,8 +149,8 @@ Base Game Achievements:
   Description: Unlocked first Research Upgrade
   GS: '25'
   Guide: false
-  Number of Gamers: 4093
-  Percentage of Gamers: 26%
+  Number of Gamers: 4171
+  Percentage of Gamers: 27%
   Ratio: 1.94
   TA: '48'
   Tags:
@@ -160,9 +160,9 @@ Base Game Achievements:
   Description: Purchased first Droid Upgrade
   GS: '25'
   Guide: false
-  Number of Gamers: 3134
+  Number of Gamers: 3191
   Percentage of Gamers: 20%
-  Ratio: 2.22
+  Ratio: 2.21
   TA: '55'
   Tags:
   - Offline Mode
@@ -172,9 +172,9 @@ Base Game Achievements:
   Description: Purchased first new Hero
   GS: '25'
   Guide: false
-  Number of Gamers: 4282
+  Number of Gamers: 4358
   Percentage of Gamers: 28%
-  Ratio: 1.9
+  Ratio: 1.89
   TA: '47'
   Tags:
   - Offline Mode
@@ -184,8 +184,8 @@ Base Game Achievements:
   Description: Purchased first Hero Perk
   GS: '25'
   Guide: false
-  Number of Gamers: 4093
-  Percentage of Gamers: 26%
+  Number of Gamers: 4171
+  Percentage of Gamers: 27%
   Ratio: 1.94
   TA: '48'
   Tags:
@@ -196,8 +196,8 @@ Base Game Achievements:
   Description: Executed first Combo
   GS: '25'
   Guide: false
-  Number of Gamers: 13755
-  Percentage of Gamers: 88%
+  Number of Gamers: 13920
+  Percentage of Gamers: 89%
   Ratio: 1.06
   TA: '26'
   Tags:
@@ -207,8 +207,8 @@ Base Game Achievements:
   Description: Failed 1 time
   GS: '20'
   Guide: true
-  Number of Gamers: 4863
-  Percentage of Gamers: 31%
+  Number of Gamers: 4952
+  Percentage of Gamers: 32%
   Ratio: 1.78
   TA: '35'
   Tags:
@@ -219,7 +219,7 @@ Base Game Achievements:
   Description: Failed 5 times
   GS: '20'
   Guide: false
-  Number of Gamers: 1076
+  Number of Gamers: 1091
   Percentage of Gamers: 7%
   Ratio: 3.79
   TA: '75'
@@ -232,10 +232,10 @@ Base Game Achievements:
   Description: Failed 10 times
   GS: '20'
   Guide: false
-  Number of Gamers: 368
+  Number of Gamers: 371
   Percentage of Gamers: 2%
-  Ratio: 6.49
-  TA: '129'
+  Ratio: 6.5
+  TA: '130'
   Tags:
   - Offline Mode
   - Single Player
@@ -247,7 +247,7 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 107
   Percentage of Gamers: 1%
-  Ratio: 12.1
+  Ratio: 12.11
   TA: '242'
   Tags:
   - Offline Mode
@@ -258,7 +258,7 @@ Base Game Achievements:
   Description: Victorious 1 time
   GS: '30'
   Guide: false
-  Number of Gamers: 829
+  Number of Gamers: 842
   Percentage of Gamers: 5%
   Ratio: 4.32
   TA: '129'
@@ -270,10 +270,10 @@ Base Game Achievements:
   Description: Victorious 13 times
   GS: '20'
   Guide: false
-  Number of Gamers: 35
+  Number of Gamers: 36
   Percentage of Gamers: 0%
-  Ratio: 21.06
-  TA: '421'
+  Ratio: 20.88
+  TA: '417'
   Tags:
   - Offline Mode
   - Single Player
@@ -283,10 +283,10 @@ Base Game Achievements:
   Description: Victorious 25 times
   GS: '20'
   Guide: false
-  Number of Gamers: 13
+  Number of Gamers: 14
   Percentage of Gamers: 0%
-  Ratio: 34.55
-  TA: '691'
+  Ratio: 33.48
+  TA: '669'
   Tags:
   - Offline Mode
   - Single Player
@@ -296,10 +296,10 @@ Base Game Achievements:
   Description: Victorious 50 times
   GS: '20'
   Guide: false
-  Number of Gamers: 9
+  Number of Gamers: 10
   Percentage of Gamers: 0%
-  Ratio: 41.53
-  TA: '830'
+  Ratio: 39.61
+  TA: '792'
   Tags:
   - Offline Mode
   - Single Player
@@ -309,10 +309,10 @@ Base Game Achievements:
   Description: Victorious 100 times
   GS: '20'
   Guide: false
-  Number of Gamers: 6
+  Number of Gamers: 7
   Percentage of Gamers: 0%
-  Ratio: 50.86
-  TA: 1,017
+  Ratio: 47.35
+  TA: '947'
   Tags:
   - Offline Mode
   - Single Player
@@ -322,8 +322,8 @@ Base Game Achievements:
   Description: Destroyed 10 Imperium Soldiers
   GS: '20'
   Guide: true
-  Number of Gamers: 2863
-  Percentage of Gamers: 18%
+  Number of Gamers: 2913
+  Percentage of Gamers: 19%
   Ratio: 2.32
   TA: '46'
   Tags:
@@ -334,9 +334,9 @@ Base Game Achievements:
   Description: Destroyed 50 Imperium Soldiers
   GS: '20'
   Guide: false
-  Number of Gamers: 812
+  Number of Gamers: 823
   Percentage of Gamers: 5%
-  Ratio: 4.37
+  Ratio: 4.36
   TA: '87'
   Tags:
   - Offline Mode
@@ -346,9 +346,9 @@ Base Game Achievements:
   Description: Destroyed 100 Imperium Soldiers
   GS: '20'
   Guide: false
-  Number of Gamers: 374
+  Number of Gamers: 379
   Percentage of Gamers: 2%
-  Ratio: 6.44
+  Ratio: 6.43
   TA: '128'
   Tags:
   - Offline Mode
@@ -358,10 +358,10 @@ Base Game Achievements:
   Description: Destroyed 250 Imperium Soldiers
   GS: '20'
   Guide: false
-  Number of Gamers: 101
+  Number of Gamers: 103
   Percentage of Gamers: 1%
-  Ratio: 12.45
-  TA: '249'
+  Ratio: 12.34
+  TA: '246'
   Tags:
   - Offline Mode
   - Single Player
@@ -370,10 +370,10 @@ Base Game Achievements:
   Description: Destroyed 500 Imperium Soldiers
   GS: '20'
   Guide: false
-  Number of Gamers: 32
+  Number of Gamers: 33
   Percentage of Gamers: 0%
-  Ratio: 22.02
-  TA: '440'
+  Ratio: 21.8
+  TA: '436'
   Tags:
   - Offline Mode
   - Single Player
@@ -382,10 +382,10 @@ Base Game Achievements:
   Description: Destroyed 1000 Imperium Soldiers
   GS: '20'
   Guide: false
-  Number of Gamers: 10
+  Number of Gamers: 11
   Percentage of Gamers: 0%
-  Ratio: 41.53
-  TA: '830'
+  Ratio: 37.77
+  TA: '755'
   Tags:
   - Offline Mode
   - Single Player
@@ -394,9 +394,9 @@ Base Game Achievements:
   Description: Destroyed 10 Eternalists Worshippers
   GS: '20'
   Guide: false
-  Number of Gamers: 270
+  Number of Gamers: 275
   Percentage of Gamers: 2%
-  Ratio: 7.58
+  Ratio: 7.55
   TA: '151'
   Tags:
   - Offline Mode
@@ -406,10 +406,10 @@ Base Game Achievements:
   Description: Destroyed 25 Eternalists Worshippers
   GS: '20'
   Guide: false
-  Number of Gamers: 82
+  Number of Gamers: 84
   Percentage of Gamers: 1%
-  Ratio: 13.75
-  TA: '275'
+  Ratio: 13.66
+  TA: '273'
   Tags:
   - Offline Mode
   - Single Player
@@ -418,10 +418,10 @@ Base Game Achievements:
   Description: Destroyed 50 Eternalists Worshippers
   GS: '20'
   Guide: true
-  Number of Gamers: 29
+  Number of Gamers: 30
   Percentage of Gamers: 0%
-  Ratio: 23.13
-  TA: '462'
+  Ratio: 22.87
+  TA: '457'
   Tags:
   - Offline Mode
   - Single Player
@@ -432,8 +432,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 12
   Percentage of Gamers: 0%
-  Ratio: 35.96
-  TA: '719'
+  Ratio: 36.16
+  TA: '723'
   Tags:
   - Offline Mode
   - Single Player
@@ -442,10 +442,10 @@ Base Game Achievements:
   Description: Destroyed 10 Syndicate Gangsters
   GS: '20'
   Guide: false
-  Number of Gamers: 112
+  Number of Gamers: 116
   Percentage of Gamers: 1%
-  Ratio: 11.77
-  TA: '235'
+  Ratio: 11.63
+  TA: '232'
   Tags:
   - Offline Mode
   - Single Player
@@ -454,10 +454,10 @@ Base Game Achievements:
   Description: Destroyed 25 Syndicate Gangsters
   GS: '20'
   Guide: false
-  Number of Gamers: 32
+  Number of Gamers: 33
   Percentage of Gamers: 0%
-  Ratio: 22.02
-  TA: '440'
+  Ratio: 21.8
+  TA: '436'
   Tags:
   - Offline Mode
   - Single Player
@@ -468,8 +468,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 12
   Percentage of Gamers: 0%
-  Ratio: 35.96
-  TA: '719'
+  Ratio: 36.16
+  TA: '723'
   Tags:
   - Offline Mode
   - Single Player
@@ -478,10 +478,10 @@ Base Game Achievements:
   Description: Destroyed 100 Syndicate Gangsters
   GS: '20'
   Guide: false
-  Number of Gamers: 7
+  Number of Gamers: 8
   Percentage of Gamers: 0%
-  Ratio: 47.09
-  TA: '941'
+  Ratio: 44.29
+  TA: '885'
   Tags:
   - Offline Mode
   - Single Player
@@ -490,10 +490,10 @@ Base Game Achievements:
   Description: Destroyed 10 Warmonger Employees
   GS: '20'
   Guide: false
-  Number of Gamers: 157
+  Number of Gamers: 162
   Percentage of Gamers: 1%
-  Ratio: 9.94
-  TA: '198'
+  Ratio: 9.84
+  TA: '196'
   Tags:
   - Offline Mode
   - Single Player
@@ -502,10 +502,10 @@ Base Game Achievements:
   Description: Destroyed 25 Warmonger Employees
   GS: '20'
   Guide: false
-  Number of Gamers: 45
+  Number of Gamers: 49
   Percentage of Gamers: 0%
-  Ratio: 18.57
-  TA: '371'
+  Ratio: 17.89
+  TA: '357'
   Tags:
   - Offline Mode
   - Single Player
@@ -516,8 +516,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 18
   Percentage of Gamers: 0%
-  Ratio: 29.36
-  TA: '587'
+  Ratio: 29.52
+  TA: '590'
   Tags:
   - Offline Mode
   - Single Player
@@ -526,34 +526,34 @@ Base Game Achievements:
   Description: Destroyed 100 Warmonger Employees
   GS: '20'
   Guide: false
-  Number of Gamers: 10
+  Number of Gamers: 11
   Percentage of Gamers: 0%
-  Ratio: 41.53
-  TA: '830'
+  Ratio: 37.77
+  TA: '755'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 12.392
-Base TA: 12392
+Base Ratio: 12.022
+Base TA: 12022
 Delisted: false
 Developer: Massive Damage
 Game Name: Star Renegades
 Genres: Roguelite, Strategy, Turn Based
 Install Size: 2920.0
-Number of Completions: 5
-Number of Gamers: 15546
+Number of Completions: 6
+Number of Gamers: 15714
 Overall Completion Time:
-- 372
-- 373
+- 345
+- 346
 Overall GS: 1000
-Overall Ratio: 12.392
-Overall TA: 12392
+Overall Ratio: 12.022
+Overall TA: 12022
 PDU: 0
-Percentage Completed: 0.03
+Percentage Completed: 0.04
 Publisher: Raw Fury
 Release Date: 19 November 2020
 Server Closure: false
-Site Rating: 3.3
+Site Rating: 3.29
 Update Achievements: []
 Walkthrough: false

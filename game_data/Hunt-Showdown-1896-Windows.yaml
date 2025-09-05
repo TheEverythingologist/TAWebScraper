@@ -1,16 +1,16 @@
 Add On Achievements: []
 Base Completion Time:
-- 77
-- 78
+- 73
+- 74
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Initiation Complete
   Description: Complete Trainee Mode.
   GS: '5'
   Guide: true
-  Number of Gamers: 380
-  Percentage of Gamers: 33%
-  Ratio: 1.75
+  Number of Gamers: 505
+  Percentage of Gamers: 35%
+  Ratio: 1.69
   TA: '8'
   Tags:
   - Online Mode
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Unlock Bloodline Tier 2.
   GS: '15'
   Guide: false
-  Number of Gamers: 130
-  Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '45'
+  Number of Gamers: 185
+  Percentage of Gamers: 13%
+  Ratio: 2.79
+  TA: '41'
   Tags:
   - Online Mode
   - Versus
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Unlock Bloodline Tier 3.
   GS: '25'
   Guide: false
-  Number of Gamers: 54
+  Number of Gamers: 76
   Percentage of Gamers: 5%
-  Ratio: 4.63
-  TA: '115'
+  Ratio: 4.35
+  TA: '108'
   Tags:
   - Online Mode
   - Versus
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Unlock Bloodline rank 100.
   GS: '50'
   Guide: false
-  Number of Gamers: 37
+  Number of Gamers: 48
   Percentage of Gamers: 3%
-  Ratio: 5.68
-  TA: '284'
+  Ratio: 5.48
+  TA: '274'
   Tags:
   - Online Mode
   - Versus
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Retire 25 Hunters.
   GS: '25'
   Guide: false
-  Number of Gamers: 1
+  Number of Gamers: 5
   Percentage of Gamers: 0%
-  Ratio: 34.08
-  TA: '852'
+  Ratio: 16.99
+  TA: '424'
   Tags:
   - Online Mode
   - Versus
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: Get a Hunter to level 50.
   GS: '10'
   Guide: false
-  Number of Gamers: 139
-  Percentage of Gamers: 12%
-  Ratio: 2.93
-  TA: '29'
+  Number of Gamers: 237
+  Percentage of Gamers: 16%
+  Ratio: 2.46
+  TA: '24'
   Tags:
   - Online Mode
   - Versus
@@ -80,10 +80,10 @@ Base Game Achievements:
   Description: Have 5 level 50 Hunters at the same time.
   GS: '50'
   Guide: false
-  Number of Gamers: 14
+  Number of Gamers: 17
   Percentage of Gamers: 1%
-  Ratio: 9.45
-  TA: '472'
+  Ratio: 9.21
+  TA: '460'
   Tags:
   - Online Mode
   - Versus
@@ -93,10 +93,10 @@ Base Game Achievements:
   Description: Have 15 traits on a Hunter at the same time.
   GS: '15'
   Guide: false
-  Number of Gamers: 277
-  Percentage of Gamers: 24%
-  Ratio: 2.05
-  TA: '30'
+  Number of Gamers: 364
+  Percentage of Gamers: 25%
+  Ratio: 1.99
+  TA: '29'
   Tags:
   - Online Mode
   - Single Player
@@ -105,10 +105,10 @@ Base Game Achievements:
   Description: Recruit 100 Hunters.
   GS: '25'
   Guide: false
-  Number of Gamers: 26
+  Number of Gamers: 36
   Percentage of Gamers: 2%
-  Ratio: 6.81
-  TA: '170'
+  Ratio: 6.33
+  TA: '158'
   Tags:
   - Online Mode
   - Single Player
@@ -118,9 +118,9 @@ Base Game Achievements:
   Description: Complete your first Bounty Hunt contract.
   GS: '10'
   Guide: false
-  Number of Gamers: 741
-  Percentage of Gamers: 63%
-  Ratio: 1.25
+  Number of Gamers: 971
+  Percentage of Gamers: 67%
+  Ratio: 1.21
   TA: '12'
   Tags:
   - Online Mode
@@ -129,10 +129,10 @@ Base Game Achievements:
   Description: Investigate 250 clues.
   GS: '50'
   Guide: false
-  Number of Gamers: 21
+  Number of Gamers: 28
   Percentage of Gamers: 2%
-  Ratio: 7.43
-  TA: '371'
+  Ratio: 7.18
+  TA: '359'
   Tags:
   - Online Mode
   - Versus
@@ -141,10 +141,10 @@ Base Game Achievements:
   Description: Kill 50 Boss Targets solo.
   GS: '50'
   Guide: false
-  Number of Gamers: 2
+  Number of Gamers: 6
   Percentage of Gamers: 0%
-  Ratio: 24.1
-  TA: 1,205
+  Ratio: 15.51
+  TA: '775'
   Tags:
   - Online Mode
   - Versus
@@ -153,10 +153,10 @@ Base Game Achievements:
   Description: Complete 100 Bounty Hunt contracts.
   GS: '100'
   Guide: false
-  Number of Gamers: 19
+  Number of Gamers: 23
   Percentage of Gamers: 2%
-  Ratio: 8.03
-  TA: '803'
+  Ratio: 7.92
+  TA: '792'
   Tags:
   - Online Mode
   - Versus
@@ -165,9 +165,9 @@ Base Game Achievements:
   Description: Locate a Boss Target without investigating any clue.
   GS: '5'
   Guide: false
-  Number of Gamers: 450
-  Percentage of Gamers: 39%
-  Ratio: 1.6
+  Number of Gamers: 535
+  Percentage of Gamers: 37%
+  Ratio: 1.64
   TA: '8'
   Tags:
   - Online Mode
@@ -176,10 +176,10 @@ Base Game Achievements:
   Description: Close 250 rifts in Soul Survivor.
   GS: '50'
   Guide: false
-  Number of Gamers: 3
+  Number of Gamers: 4
   Percentage of Gamers: 0%
-  Ratio: 19.68
-  TA: '984'
+  Ratio: 19.0
+  TA: '950'
   Tags:
   - Online Mode
   - Versus
@@ -188,10 +188,10 @@ Base Game Achievements:
   Description: Absorb at least 250 energy from the Wellspring in Soul Survivor.
   GS: '50'
   Guide: false
-  Number of Gamers: 14
+  Number of Gamers: 18
   Percentage of Gamers: 1%
-  Ratio: 9.11
-  TA: '455'
+  Ratio: 8.95
+  TA: '447'
   Tags:
   - Online Mode
   - Versus
@@ -199,10 +199,10 @@ Base Game Achievements:
   Description: Be the first to activate the Wellspring in Soul Survivor.
   GS: '15'
   Guide: false
-  Number of Gamers: 50
+  Number of Gamers: 57
   Percentage of Gamers: 4%
-  Ratio: 4.82
-  TA: '72'
+  Ratio: 5.03
+  TA: '75'
   Tags:
   - Online Mode
   - Versus
@@ -210,10 +210,10 @@ Base Game Achievements:
   Description: Survive Soul Survivor.
   GS: '25'
   Guide: false
-  Number of Gamers: 55
-  Percentage of Gamers: 5%
-  Ratio: 4.59
-  TA: '114'
+  Number of Gamers: 62
+  Percentage of Gamers: 4%
+  Ratio: 4.82
+  TA: '120'
   Tags:
   - Online Mode
   - Versus
@@ -221,10 +221,10 @@ Base Game Achievements:
   Description: Be the last Hunter standing in Soul Survivor.
   GS: '50'
   Guide: false
-  Number of Gamers: 46
+  Number of Gamers: 53
   Percentage of Gamers: 4%
-  Ratio: 5.02
-  TA: '251'
+  Ratio: 5.21
+  TA: '260'
   Tags:
   - Online Mode
   - Versus
@@ -232,9 +232,9 @@ Base Game Achievements:
   Description: Kill an Immolator without making them explode.
   GS: '5'
   Guide: false
-  Number of Gamers: 300
+  Number of Gamers: 380
   Percentage of Gamers: 26%
-  Ratio: 1.97
+  Ratio: 1.94
   TA: '9'
   Tags:
   - Online Mode
@@ -243,10 +243,10 @@ Base Game Achievements:
   Description: Kill 150 monsters with headshots.
   GS: '25'
   Guide: false
-  Number of Gamers: 38
+  Number of Gamers: 49
   Percentage of Gamers: 3%
-  Ratio: 5.6
-  TA: '140'
+  Ratio: 5.42
+  TA: '135'
   Tags:
   - Online Mode
   - Single Player
@@ -256,9 +256,9 @@ Base Game Achievements:
   Description: Kill your first enemy Hunter.
   GS: '10'
   Guide: false
-  Number of Gamers: 1034
-  Percentage of Gamers: 89%
-  Ratio: 1.06
+  Number of Gamers: 1297
+  Percentage of Gamers: 90%
+  Ratio: 1.05
   TA: '10'
   Tags:
   - Online Mode
@@ -267,10 +267,10 @@ Base Game Achievements:
   Description: Kill 100 enemy Hunters with headshots.
   GS: '100'
   Guide: false
-  Number of Gamers: 9
+  Number of Gamers: 13
   Percentage of Gamers: 1%
-  Ratio: 11.36
-  TA: 1,136
+  Ratio: 10.53
+  TA: 1,053
   Tags:
   - Online Mode
   - Versus
@@ -279,10 +279,10 @@ Base Game Achievements:
   Description: Kill a Boss Target with a melee attack.
   GS: '10'
   Guide: true
-  Number of Gamers: 175
-  Percentage of Gamers: 15%
-  Ratio: 2.57
-  TA: '25'
+  Number of Gamers: 241
+  Percentage of Gamers: 17%
+  Ratio: 2.44
+  TA: '24'
   Tags:
   - Online Mode
   - Versus
@@ -290,10 +290,10 @@ Base Game Achievements:
   Description: Kill an enemy Hunter with a sledgehammer throw.
   GS: '25'
   Guide: false
-  Number of Gamers: 3
+  Number of Gamers: 5
   Percentage of Gamers: 0%
-  Ratio: 19.68
-  TA: '492'
+  Ratio: 16.99
+  TA: '424'
   Tags:
   - Online Mode
   - Versus
@@ -301,10 +301,10 @@ Base Game Achievements:
   Description: Kill 150 Grunts with the dusters.
   GS: '25'
   Guide: false
-  Number of Gamers: 22
+  Number of Gamers: 29
   Percentage of Gamers: 2%
-  Ratio: 7.26
-  TA: '181'
+  Ratio: 7.05
+  TA: '176'
   Tags:
   - Online Mode
   - Versus
@@ -313,10 +313,10 @@ Base Game Achievements:
   Description: Break 50 doors.
   GS: '25'
   Guide: false
-  Number of Gamers: 8
+  Number of Gamers: 12
   Percentage of Gamers: 1%
-  Ratio: 12.05
-  TA: '301'
+  Ratio: 10.96
+  TA: '274'
   Tags:
   - Online Mode
   - Single Player
@@ -326,10 +326,10 @@ Base Game Achievements:
   Description: Burn 50 chicken coops.
   GS: '25'
   Guide: false
-  Number of Gamers: 2
+  Number of Gamers: 4
   Percentage of Gamers: 0%
-  Ratio: 24.1
-  TA: '602'
+  Ratio: 19.0
+  TA: '475'
   Tags:
   - Online Mode
   - Versus
@@ -338,10 +338,10 @@ Base Game Achievements:
   Description: Visit every location on any map in one mission.
   GS: '20'
   Guide: false
-  Number of Gamers: 20
+  Number of Gamers: 26
   Percentage of Gamers: 2%
-  Ratio: 7.62
-  TA: '152'
+  Ratio: 7.45
+  TA: '149'
   Tags:
   - Online Mode
   - Single Player
@@ -350,10 +350,10 @@ Base Game Achievements:
   Description: Visit every supply point on any map in one mission.
   GS: '20'
   Guide: false
-  Number of Gamers: 36
+  Number of Gamers: 50
   Percentage of Gamers: 3%
-  Ratio: 5.68
-  TA: '113'
+  Ratio: 5.37
+  TA: '107'
   Tags:
   - Online Mode
   - Single Player
@@ -362,10 +362,10 @@ Base Game Achievements:
   Description: Play the gramophone and the piano in one mission.
   GS: '10'
   Guide: false
-  Number of Gamers: 61
-  Percentage of Gamers: 5%
-  Ratio: 4.4
-  TA: '44'
+  Number of Gamers: 102
+  Percentage of Gamers: 7%
+  Ratio: 3.76
+  TA: '37'
   Tags:
   - Online Mode
   - Single Player
@@ -374,10 +374,10 @@ Base Game Achievements:
   Description: Be on fire, get poisoned and bleed at the same time.
   GS: '5'
   Guide: false
-  Number of Gamers: 20
+  Number of Gamers: 27
   Percentage of Gamers: 2%
-  Ratio: 7.82
-  TA: '39'
+  Ratio: 7.31
+  TA: '36'
   Tags:
   - Online Mode
   - Single Player
@@ -386,10 +386,10 @@ Base Game Achievements:
   Description: Complete a Challenge.
   GS: '5'
   Guide: false
-  Number of Gamers: 574
-  Percentage of Gamers: 49%
-  Ratio: 1.42
-  TA: '7'
+  Number of Gamers: 743
+  Percentage of Gamers: 51%
+  Ratio: 1.39
+  TA: '6'
   Tags:
   - Online Mode
   - Versus
@@ -398,10 +398,10 @@ Base Game Achievements:
   Description: Complete seven Challenges.
   GS: '10'
   Guide: false
-  Number of Gamers: 216
-  Percentage of Gamers: 18%
-  Ratio: 2.32
-  TA: '23'
+  Number of Gamers: 318
+  Percentage of Gamers: 22%
+  Ratio: 2.13
+  TA: '21'
   Tags:
   - Online Mode
   - Versus
@@ -410,10 +410,10 @@ Base Game Achievements:
   Description: Hide in a toilet.
   GS: '5'
   Guide: false
-  Number of Gamers: 97
-  Percentage of Gamers: 8%
-  Ratio: 3.46
-  TA: '17'
+  Number of Gamers: 125
+  Percentage of Gamers: 9%
+  Ratio: 3.39
+  TA: '16'
   Tags:
   - Online Mode
   - Single Player
@@ -422,35 +422,35 @@ Base Game Achievements:
   Description: Unlock any 50 pieces of gear.
   GS: '50'
   Guide: false
-  Number of Gamers: 58
+  Number of Gamers: 75
   Percentage of Gamers: 5%
-  Ratio: 4.51
-  TA: '225'
+  Ratio: 4.38
+  TA: '219'
   Tags:
   - Online Mode
   - Single Player
   - Versus
   - Collectable
-Base Ratio: 9.796
-Base TA: 9796
+Base Ratio: 8.495
+Base TA: 8495
 Delisted: false
 Developer: Crytek
 Game Name: 'Hunt: Showdown 1896 (Windows)'
 Genres: First Person Shooter, Action Horror
 Install Size: 77430.0
-Number of Completions: 1
-Number of Gamers: 1168
+Number of Completions: 2
+Number of Gamers: 1444
 Overall Completion Time:
-- 77
-- 78
+- 73
+- 74
 Overall GS: 1000
-Overall Ratio: 9.796
-Overall TA: 9796
+Overall Ratio: 8.495
+Overall TA: 8495
 PDU: 0
-Percentage Completed: 0.09
+Percentage Completed: 0.14
 Publisher: Crytek
 Release Date: 15 April 2025
 Server Closure: false
-Site Rating: 4.38
+Site Rating: 4.5
 Update Achievements: []
 Walkthrough: false

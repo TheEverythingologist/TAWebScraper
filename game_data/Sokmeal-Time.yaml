@@ -1,60 +1,15 @@
-Add On Achievements:
-- Achievement Name: Push bowls 5
-  Description: Push bowls 5 times
-  GS: '200'
-  Guide: false
-  Number of Gamers: 67
-  Percentage of Gamers: 91%
-  Ratio: 1.48
-  TA: '296'
-  Tags: []
-- Achievement Name: Push bowls 10
-  Description: Push bowls 10 times
-  GS: '200'
-  Guide: false
-  Number of Gamers: 67
-  Percentage of Gamers: 91%
-  Ratio: 1.48
-  TA: '296'
-  Tags: []
-- Achievement Name: Push bowls 15
-  Description: Push bowls 15 times
-  GS: '200'
-  Guide: false
-  Number of Gamers: 67
-  Percentage of Gamers: 91%
-  Ratio: 1.48
-  TA: '296'
-  Tags: []
-- Achievement Name: Push bowls 20
-  Description: Push bowls 20 times
-  GS: '200'
-  Guide: false
-  Number of Gamers: 67
-  Percentage of Gamers: 91%
-  Ratio: 1.48
-  TA: '296'
-  Tags: []
-- Achievement Name: Push bowls 25
-  Description: Push bowls 25 times
-  GS: '200'
-  Guide: false
-  Number of Gamers: 67
-  Percentage of Gamers: 91%
-  Ratio: 1.48
-  TA: '296'
-  Tags: []
+Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 1.0
-Base GS: 2000
+- 1.5
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: Level 5
   Description: Beat level 5
   GS: '100'
   Guide: false
-  Number of Gamers: 207
-  Percentage of Gamers: 98%
+  Number of Gamers: 503
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
   Tags:
@@ -65,8 +20,8 @@ Base Game Achievements:
   Description: Beat level 10
   GS: '100'
   Guide: false
-  Number of Gamers: 203
-  Percentage of Gamers: 96%
+  Number of Gamers: 497
+  Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '101'
   Tags:
@@ -77,10 +32,10 @@ Base Game Achievements:
   Description: Beat level 15
   GS: '100'
   Guide: false
-  Number of Gamers: 200
-  Percentage of Gamers: 95%
-  Ratio: 1.02
-  TA: '102'
+  Number of Gamers: 493
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '101'
   Tags:
   - Offline Mode
   - Single Player
@@ -89,10 +44,10 @@ Base Game Achievements:
   Description: Beat level 20
   GS: '100'
   Guide: false
-  Number of Gamers: 199
-  Percentage of Gamers: 94%
-  Ratio: 1.02
-  TA: '102'
+  Number of Gamers: 493
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '101'
   Tags:
   - Offline Mode
   - Single Player
@@ -101,10 +56,10 @@ Base Game Achievements:
   Description: Beat level 25
   GS: '100'
   Guide: false
-  Number of Gamers: 197
-  Percentage of Gamers: 93%
-  Ratio: 1.03
-  TA: '103'
+  Number of Gamers: 489
+  Percentage of Gamers: 96%
+  Ratio: 1.01
+  TA: '101'
   Tags:
   - Offline Mode
   - Single Player
@@ -113,10 +68,10 @@ Base Game Achievements:
   Description: Beat level 30
   GS: '100'
   Guide: false
-  Number of Gamers: 196
-  Percentage of Gamers: 93%
-  Ratio: 1.03
-  TA: '103'
+  Number of Gamers: 486
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '102'
   Tags:
   - Offline Mode
   - Single Player
@@ -125,10 +80,10 @@ Base Game Achievements:
   Description: Beat level 35
   GS: '100'
   Guide: false
-  Number of Gamers: 196
-  Percentage of Gamers: 93%
-  Ratio: 1.03
-  TA: '103'
+  Number of Gamers: 484
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '102'
   Tags:
   - Offline Mode
   - Single Player
@@ -137,10 +92,10 @@ Base Game Achievements:
   Description: Beat level 40
   GS: '100'
   Guide: false
-  Number of Gamers: 196
-  Percentage of Gamers: 93%
-  Ratio: 1.03
-  TA: '103'
+  Number of Gamers: 484
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '102'
   Tags:
   - Offline Mode
   - Single Player
@@ -149,10 +104,10 @@ Base Game Achievements:
   Description: Beat level 12
   GS: '100'
   Guide: false
-  Number of Gamers: 200
-  Percentage of Gamers: 95%
-  Ratio: 1.02
-  TA: '102'
+  Number of Gamers: 494
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '101'
   Tags:
   - Offline Mode
   - Single Player
@@ -161,44 +116,44 @@ Base Game Achievements:
   Description: Beat level 27
   GS: '100'
   Guide: false
-  Number of Gamers: 196
-  Percentage of Gamers: 93%
-  Ratio: 1.03
-  TA: '103'
+  Number of Gamers: 487
+  Percentage of Gamers: 96%
+  Ratio: 1.02
+  TA: '102'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.025
-Base TA: 2050
+Base Ratio: 1.0156666666666667
+Base TA: 3047
 Delisted: false
 Developer: 2dragontails
 Game Name: Sokmeal Time
 Genres: Puzzle
 Install Size: 408.0
-Number of Completions: 70
-Number of Gamers: 211
+Number of Completions: 472
+Number of Gamers: 509
 Overall Completion Time:
 - 0.0
 - 1.5
 Overall GS: 3000
-Overall Ratio: 1.1766666666666667
-Overall TA: 3530
+Overall Ratio: 1.0156666666666667
+Overall TA: 3047
 PDU: 0
-Percentage Completed: 33.18
+Percentage Completed: 92.73
 Publisher: 2dragontails
 Release Date: 25 June 2025
 Server Closure: false
-Site Rating: 1.67
+Site Rating: 2.15
 Update Achievements:
 - Achievement Name: Level 2
   Description: Beat level 2
   GS: '200'
   Guide: false
-  Number of Gamers: 202
-  Percentage of Gamers: 96%
-  Ratio: 1.01
-  TA: '203'
+  Number of Gamers: 502
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '201'
   Tags:
   - Offline Mode
   - Single Player
@@ -207,10 +162,10 @@ Update Achievements:
   Description: Beat level 7
   GS: '200'
   Guide: false
-  Number of Gamers: 199
-  Percentage of Gamers: 94%
-  Ratio: 1.02
-  TA: '204'
+  Number of Gamers: 497
+  Percentage of Gamers: 98%
+  Ratio: 1.01
+  TA: '202'
   Tags:
   - Offline Mode
   - Single Player
@@ -219,10 +174,10 @@ Update Achievements:
   Description: Beat level 16
   GS: '200'
   Guide: false
-  Number of Gamers: 196
-  Percentage of Gamers: 93%
-  Ratio: 1.03
-  TA: '206'
+  Number of Gamers: 491
+  Percentage of Gamers: 96%
+  Ratio: 1.01
+  TA: '203'
   Tags:
   - Offline Mode
   - Single Player
@@ -231,10 +186,10 @@ Update Achievements:
   Description: Beat level 21
   GS: '200'
   Guide: false
-  Number of Gamers: 195
-  Percentage of Gamers: 92%
-  Ratio: 1.03
-  TA: '207'
+  Number of Gamers: 489
+  Percentage of Gamers: 96%
+  Ratio: 1.01
+  TA: '203'
   Tags:
   - Offline Mode
   - Single Player
@@ -243,12 +198,72 @@ Update Achievements:
   Description: Beat level 39
   GS: '200'
   Guide: false
-  Number of Gamers: 192
-  Percentage of Gamers: 91%
-  Ratio: 1.04
-  TA: '208'
+  Number of Gamers: 482
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '205'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
+- Achievement Name: Push bowls 5
+  Description: Push bowls 5 times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 488
+  Percentage of Gamers: 96%
+  Ratio: 1.02
+  TA: '204'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Push bowls 10
+  Description: Push bowls 10 times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 486
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '204'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Push bowls 15
+  Description: Push bowls 15 times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 485
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '204'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Push bowls 20
+  Description: Push bowls 20 times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 485
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '204'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Push bowls 25
+  Description: Push bowls 25 times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 484
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '204'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 Walkthrough: false

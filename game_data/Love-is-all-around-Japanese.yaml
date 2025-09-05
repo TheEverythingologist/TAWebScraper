@@ -1,7 +1,7 @@
 Add On Achievements: []
 Base Completion Time:
-- 22
-- 23
+- 20
+- 21
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: "\u6628\u65E5\u306E\u591C\u2026\u2026\u79C1\u305F\u3061\u306F\u2026\
@@ -22,9 +22,9 @@ Base Game Achievements:
   Description: "\u7B2C\u4E8C\u7AE0\u3092\u30AF\u30EA\u30A2"
   GS: '20'
   Guide: true
-  Number of Gamers: 25
-  Percentage of Gamers: 76%
-  Ratio: 1.14
+  Number of Gamers: 26
+  Percentage of Gamers: 79%
+  Ratio: 1.12
   TA: '22'
   Tags:
   - Offline Mode
@@ -34,10 +34,10 @@ Base Game Achievements:
   Description: "\u7B2C\u4E09\u7AE0\u3092\u30AF\u30EA\u30A2"
   GS: '20'
   Guide: true
-  Number of Gamers: 21
-  Percentage of Gamers: 64%
-  Ratio: 1.25
-  TA: '25'
+  Number of Gamers: 22
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '24'
   Tags:
   - Offline Mode
   - Single Player
@@ -47,10 +47,10 @@ Base Game Achievements:
   Description: "\u7B2C\u56DB\u7AE0\u3092\u30AF\u30EA\u30A2"
   GS: '20'
   Guide: true
-  Number of Gamers: 19
-  Percentage of Gamers: 58%
-  Ratio: 1.31
-  TA: '26'
+  Number of Gamers: 20
+  Percentage of Gamers: 61%
+  Ratio: 1.28
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
@@ -60,10 +60,10 @@ Base Game Achievements:
   Description: "\u7B2C\u4E94\u7AE0\u3092\u30AF\u30EA\u30A2"
   GS: '20'
   Guide: true
-  Number of Gamers: 19
-  Percentage of Gamers: 58%
-  Ratio: 1.31
-  TA: '26'
+  Number of Gamers: 20
+  Percentage of Gamers: 61%
+  Ratio: 1.28
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
@@ -72,10 +72,10 @@ Base Game Achievements:
   Description: "\u7B2C\u516D\u7AE0\u3092\u30AF\u30EA\u30A2"
   GS: '20'
   Guide: true
-  Number of Gamers: 18
-  Percentage of Gamers: 55%
-  Ratio: 1.35
-  TA: '27'
+  Number of Gamers: 19
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '26'
   Tags:
   - Offline Mode
   - Single Player
@@ -85,10 +85,10 @@ Base Game Achievements:
   Description: "\u5408\u8A08\u63A2\u7D22\u5EA6\u304C100%\u306B\u9054\u3059\u308B"
   GS: '30'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 36%
-  Ratio: 1.65
-  TA: '49'
+  Number of Gamers: 13
+  Percentage of Gamers: 39%
+  Ratio: 1.59
+  TA: '47'
   Tags:
   - Offline Mode
   - Single Player
@@ -98,10 +98,10 @@ Base Game Achievements:
   Description: "\u5168\u30A8\u30F3\u30C7\u30A3\u30F3\u30B0\u9054\u6210"
   GS: '30'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 36%
-  Ratio: 1.65
-  TA: '49'
+  Number of Gamers: 13
+  Percentage of Gamers: 39%
+  Ratio: 1.59
+  TA: '47'
   Tags:
   - Offline Mode
   - Single Player
@@ -109,19 +109,6 @@ Base Game Achievements:
 - Achievement Name: ONE PUNCH
   Description: "\u30DC\u30AF\u30B7\u30F3\u30B0\u3067\u30E6\u30A8\u30BB\u30A4\u306E\
     \u5143\u592B\u3092\u5012\u3059"
-  GS: '25'
-  Guide: true
-  Number of Gamers: 15
-  Percentage of Gamers: 45%
-  Ratio: 1.48
-  TA: '37'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Missable
-- Achievement Name: FIRST LOVE
-  Description: "\u30A6\u30F3\u30B7\u304C\u30CD\u30C3\u53CB\u3060\u3063\u3068\u3053\
-    \u3068\u3092\u77E5\u308B"
   GS: '25'
   Guide: true
   Number of Gamers: 16
@@ -132,231 +119,22 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Missable
+- Achievement Name: FIRST LOVE
+  Description: "\u30A6\u30F3\u30B7\u304C\u30CD\u30C3\u53CB\u3060\u3063\u3068\u3053\
+    \u3068\u3092\u77E5\u308B"
+  GS: '25'
+  Guide: true
+  Number of Gamers: 17
+  Percentage of Gamers: 52%
+  Ratio: 1.39
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: "\u884C\u304B\u306A\u3044\u3067\uFF01"
   Description: "\u7B2C\u56DB\u7AE0\u3067\u30B7\u30E3\u30AA\u30EB\u30EB\u30FC\u30C8\
     \u3092\u9032\u3080"
-  GS: '25'
-  Guide: true
-  Number of Gamers: 12
-  Percentage of Gamers: 36%
-  Ratio: 1.65
-  TA: '41'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Missable
-- Achievement Name: "\u69CB\u308F\u3093\u3001\u79C1\u304C\u3084\u308B"
-  Description: "\u7B2C\u4E09\u7AE0\u3067\u30B3\u30E1\u30C3\u30C8\u30EB\u30FC\u30C8\
-    \u3092\u9032\u3080"
-  GS: '25'
-  Guide: true
-  Number of Gamers: 14
-  Percentage of Gamers: 42%
-  Ratio: 1.53
-  TA: '38'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Missable
-- Achievement Name: "\u4ECA\u591C\u51FA\u822A\u3059\u308B\u3093\u3060"
-  Description: "\u30A8\u30F3\u30C7\u30A3\u30F3\u30B0\u300C\u6BD4\u7FFC\u9023\u7406\
-    \u300D\u3092\u9054\u6210\u3059\u308B"
-  GS: '25'
-  Guide: true
-  Number of Gamers: 12
-  Percentage of Gamers: 36%
-  Ratio: 1.65
-  TA: '41'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Missable
-- Achievement Name: "\u304A\u91D1\u3057\u304B\u306A\u3044\u4EBA\u751F"
-  Description: "\u30A8\u30F3\u30C7\u30A3\u30F3\u30B0\u300C\u8FB2\u592B\u3068\u86C7\
-    \u300D\u3092\u9054\u6210\u3059\u308B"
-  GS: '20'
-  Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 48%
-  Ratio: 1.43
-  TA: '28'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Missable
-- Achievement Name: "\u4EBA\u751F\u306F\u7121\u5E38\u306A\u308A"
-  Description: "\u30A8\u30F3\u30C7\u30A3\u30F3\u30B0\u300C\u4E0D\u5409\u306A\u4E88\
-    \u8A00\u300D\u3092\u9054\u6210\u3059\u308B"
-  GS: '20'
-  Guide: true
-  Number of Gamers: 14
-  Percentage of Gamers: 42%
-  Ratio: 1.53
-  TA: '30'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Missable
-- Achievement Name: "\u9032\u3081\u3001\u305F\u3068\u3048\u9053\u304C\u6697\u304F\u3066\
-    \u3082"
-  Description: "\u30A8\u30F3\u30C7\u30A3\u30F3\u30B0\u300C\u30D4\u30F3\u30C1\u300D\
-    \u3092\u9054\u6210\u3059\u308B"
-  GS: '20'
-  Guide: true
-  Number of Gamers: 14
-  Percentage of Gamers: 42%
-  Ratio: 1.53
-  TA: '30'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Missable
-- Achievement Name: "\u7537\u306E\u5B50\u306F\u81EA\u5206\u3092\u5B88\u3089\u306A\u304D\
-    \u3083"
-  Description: "\u30A8\u30F3\u30C7\u30A3\u30F3\u30B0\u300C\u5143\u30AB\u30EC\u306E\
-    \u7D50\u672B\u300D\u3092\u9054\u6210\u3059\u308B"
-  GS: '20'
-  Guide: true
-  Number of Gamers: 13
-  Percentage of Gamers: 39%
-  Ratio: 1.59
-  TA: '31'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Missable
-- Achievement Name: "\u4EBA\u751F\u3068\u3044\u3046\u9577\u65C5"
-  Description: "\u30A8\u30F3\u30C7\u30A3\u30F3\u30B0\u300C\u65C5\u4EBA\u300D\u3092\
-    \u9054\u6210\u3059\u308B"
-  GS: '30'
-  Guide: true
-  Number of Gamers: 14
-  Percentage of Gamers: 42%
-  Ratio: 1.53
-  TA: '46'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Missable
-- Achievement Name: "\u7121\u5B9F\u306E\u5E74\u6708"
-  Description: "\u30A8\u30F3\u30C7\u30A3\u30F3\u30B0\u300C\u30D4\u30E5\u30A2\u306A\
-    \u611B\u300D\u3092\u9054\u6210\u3059\u308B"
-  GS: '30'
-  Guide: true
-  Number of Gamers: 17
-  Percentage of Gamers: 52%
-  Ratio: 1.39
-  TA: '41'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Missable
-- Achievement Name: "\u3084\u3063\u3071\u3046\u307E\u3044\uFF01"
-  Description: "\u30A8\u30F3\u30C7\u30A3\u30F3\u30B0\u300C\u5E7C\u99B4\u67D3\u3057\
-    \u304B\u52DD\u305F\u3093\u300D\u3092\u9054\u6210\u3059\u308B"
-  GS: '30'
-  Guide: true
-  Number of Gamers: 15
-  Percentage of Gamers: 45%
-  Ratio: 1.48
-  TA: '44'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Missable
-- Achievement Name: "\u5E78\u305B\u306A\u5BB6\u65CF"
-  Description: "\u30A8\u30F3\u30C7\u30A3\u30F3\u30B0\u300C\u30D5\u30EB\u30CF\u30A6\
-    \u30B9\u300D\u3092\u9054\u6210\u3059\u308B"
-  GS: '30'
-  Guide: true
-  Number of Gamers: 17
-  Percentage of Gamers: 52%
-  Ratio: 1.39
-  TA: '41'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Missable
-- Achievement Name: "\u304A\u59C9\u3055\u3093\u3001\u3082\u3046\u9811\u5F35\u308A\u305F\
-    \u304F\u306A\u3044\u3088"
-  Description: "\u30A8\u30F3\u30C7\u30A3\u30F3\u30B0\u300C\u907F\u96E3\u6E2F\u300D\
-    \u3092\u9054\u6210\u3059\u308B"
-  GS: '30'
-  Guide: true
-  Number of Gamers: 16
-  Percentage of Gamers: 48%
-  Ratio: 1.43
-  TA: '43'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Missable
-- Achievement Name: "\u597D\u304D\u3088\u3001\u4F55\u5EA6\u3082"
-  Description: "\u96A0\u3057\u30A8\u30F3\u30C7\u30A3\u30F3\u30B0\u300CDESTINY\u300D\
-    \u3092\u9054\u6210\u3059\u308B"
-  GS: '30'
-  Guide: true
-  Number of Gamers: 12
-  Percentage of Gamers: 36%
-  Ratio: 1.65
-  TA: '49'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Missable
-- Achievement Name: "\u30A6\u30E9\u30FC\uFF01"
-  Description: "\u30AF\u30DE\u3092100\u500B\u8D08\u308B"
-  GS: '30'
-  Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 21%
-  Ratio: 2.17
-  TA: '65'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Missable
-- Achievement Name: "\u30E9\u30D6 \u30A2\u30AF\u30C1\u30E5\u30A2\u30EA\u30FC"
-  Description: "\u30ED\u30AF\u306E\u597D\u611F\u5EA6\u3092\u6700\u5927\u306B\u3059\
-    \u308B"
-  GS: '30'
-  Guide: true
-  Number of Gamers: 17
-  Percentage of Gamers: 52%
-  Ratio: 1.39
-  TA: '41'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Missable
-- Achievement Name: "\u96C5\u3001\u5B9F\u306B\u96C5\u3060"
-  Description: "\u30A8\u30F3\u30C7\u30A3\u30F3\u30B0\u300C\u7537\u53CB\u9054\u300D\
-    \u3092\u9054\u6210\u3059\u308B"
-  GS: '20'
-  Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 48%
-  Ratio: 1.43
-  TA: '28'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Missable
-- Achievement Name: "\u7D50\u5C40\u72EC\u8EAB\u306E\u307E\u307E"
-  Description: "\u30A8\u30F3\u30C7\u30A3\u30F3\u30B0\u300C\u4E00\u4EBA\u307C\u3063\
-    \u3061\u300D\u3092\u9054\u6210\u3059\u308B"
-  GS: '20'
-  Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 48%
-  Ratio: 1.43
-  TA: '28'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Missable
-- Achievement Name: "\u307E\u3060\u6570\u3048\u308B\u306E\uFF1F"
-  Description: "\u30B7\u30A8\u30F3\u3068\u7F8A\u6570\u3048\u309210\u56DE\u884C\u3046"
   GS: '25'
   Guide: true
   Number of Gamers: 13
@@ -367,15 +145,237 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Missable
-- Achievement Name: "\u30B6 \u30D5\u30E9\u30C3\u30B7\u30E5"
-  Description: "\u624B\u53E9\u304D\u3067\u30B7\u30E3\u30AA\u30EB\u306E\u653B\u3081\
-    \u309210\u56DE\u8EB1\u3059"
+- Achievement Name: "\u69CB\u308F\u3093\u3001\u79C1\u304C\u3084\u308B"
+  Description: "\u7B2C\u4E09\u7AE0\u3067\u30B3\u30E1\u30C3\u30C8\u30EB\u30FC\u30C8\
+    \u3092\u9032\u3080"
   GS: '25'
   Guide: true
   Number of Gamers: 15
   Percentage of Gamers: 45%
   Ratio: 1.48
   TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "\u4ECA\u591C\u51FA\u822A\u3059\u308B\u3093\u3060"
+  Description: "\u30A8\u30F3\u30C7\u30A3\u30F3\u30B0\u300C\u6BD4\u7FFC\u9023\u7406\
+    \u300D\u3092\u9054\u6210\u3059\u308B"
+  GS: '25'
+  Guide: true
+  Number of Gamers: 13
+  Percentage of Gamers: 39%
+  Ratio: 1.59
+  TA: '39'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "\u304A\u91D1\u3057\u304B\u306A\u3044\u4EBA\u751F"
+  Description: "\u30A8\u30F3\u30C7\u30A3\u30F3\u30B0\u300C\u8FB2\u592B\u3068\u86C7\
+    \u300D\u3092\u9054\u6210\u3059\u308B"
+  GS: '20'
+  Guide: false
+  Number of Gamers: 17
+  Percentage of Gamers: 52%
+  Ratio: 1.39
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "\u4EBA\u751F\u306F\u7121\u5E38\u306A\u308A"
+  Description: "\u30A8\u30F3\u30C7\u30A3\u30F3\u30B0\u300C\u4E0D\u5409\u306A\u4E88\
+    \u8A00\u300D\u3092\u9054\u6210\u3059\u308B"
+  GS: '20'
+  Guide: true
+  Number of Gamers: 15
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "\u9032\u3081\u3001\u305F\u3068\u3048\u9053\u304C\u6697\u304F\u3066\
+    \u3082"
+  Description: "\u30A8\u30F3\u30C7\u30A3\u30F3\u30B0\u300C\u30D4\u30F3\u30C1\u300D\
+    \u3092\u9054\u6210\u3059\u308B"
+  GS: '20'
+  Guide: true
+  Number of Gamers: 15
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "\u7537\u306E\u5B50\u306F\u81EA\u5206\u3092\u5B88\u3089\u306A\u304D\
+    \u3083"
+  Description: "\u30A8\u30F3\u30C7\u30A3\u30F3\u30B0\u300C\u5143\u30AB\u30EC\u306E\
+    \u7D50\u672B\u300D\u3092\u9054\u6210\u3059\u308B"
+  GS: '20'
+  Guide: true
+  Number of Gamers: 14
+  Percentage of Gamers: 42%
+  Ratio: 1.53
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "\u4EBA\u751F\u3068\u3044\u3046\u9577\u65C5"
+  Description: "\u30A8\u30F3\u30C7\u30A3\u30F3\u30B0\u300C\u65C5\u4EBA\u300D\u3092\
+    \u9054\u6210\u3059\u308B"
+  GS: '30'
+  Guide: true
+  Number of Gamers: 15
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '44'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "\u7121\u5B9F\u306E\u5E74\u6708"
+  Description: "\u30A8\u30F3\u30C7\u30A3\u30F3\u30B0\u300C\u30D4\u30E5\u30A2\u306A\
+    \u611B\u300D\u3092\u9054\u6210\u3059\u308B"
+  GS: '30'
+  Guide: true
+  Number of Gamers: 18
+  Percentage of Gamers: 55%
+  Ratio: 1.35
+  TA: '40'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "\u3084\u3063\u3071\u3046\u307E\u3044\uFF01"
+  Description: "\u30A8\u30F3\u30C7\u30A3\u30F3\u30B0\u300C\u5E7C\u99B4\u67D3\u3057\
+    \u304B\u52DD\u305F\u3093\u300D\u3092\u9054\u6210\u3059\u308B"
+  GS: '30'
+  Guide: true
+  Number of Gamers: 16
+  Percentage of Gamers: 48%
+  Ratio: 1.43
+  TA: '43'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "\u5E78\u305B\u306A\u5BB6\u65CF"
+  Description: "\u30A8\u30F3\u30C7\u30A3\u30F3\u30B0\u300C\u30D5\u30EB\u30CF\u30A6\
+    \u30B9\u300D\u3092\u9054\u6210\u3059\u308B"
+  GS: '30'
+  Guide: true
+  Number of Gamers: 18
+  Percentage of Gamers: 55%
+  Ratio: 1.35
+  TA: '40'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "\u304A\u59C9\u3055\u3093\u3001\u3082\u3046\u9811\u5F35\u308A\u305F\
+    \u304F\u306A\u3044\u3088"
+  Description: "\u30A8\u30F3\u30C7\u30A3\u30F3\u30B0\u300C\u907F\u96E3\u6E2F\u300D\
+    \u3092\u9054\u6210\u3059\u308B"
+  GS: '30'
+  Guide: true
+  Number of Gamers: 17
+  Percentage of Gamers: 52%
+  Ratio: 1.39
+  TA: '41'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "\u597D\u304D\u3088\u3001\u4F55\u5EA6\u3082"
+  Description: "\u96A0\u3057\u30A8\u30F3\u30C7\u30A3\u30F3\u30B0\u300CDESTINY\u300D\
+    \u3092\u9054\u6210\u3059\u308B"
+  GS: '30'
+  Guide: true
+  Number of Gamers: 13
+  Percentage of Gamers: 39%
+  Ratio: 1.59
+  TA: '47'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "\u30A6\u30E9\u30FC\uFF01"
+  Description: "\u30AF\u30DE\u3092100\u500B\u8D08\u308B"
+  GS: '30'
+  Guide: false
+  Number of Gamers: 8
+  Percentage of Gamers: 24%
+  Ratio: 2.03
+  TA: '60'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "\u30E9\u30D6 \u30A2\u30AF\u30C1\u30E5\u30A2\u30EA\u30FC"
+  Description: "\u30ED\u30AF\u306E\u597D\u611F\u5EA6\u3092\u6700\u5927\u306B\u3059\
+    \u308B"
+  GS: '30'
+  Guide: true
+  Number of Gamers: 18
+  Percentage of Gamers: 55%
+  Ratio: 1.35
+  TA: '40'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "\u96C5\u3001\u5B9F\u306B\u96C5\u3060"
+  Description: "\u30A8\u30F3\u30C7\u30A3\u30F3\u30B0\u300C\u7537\u53CB\u9054\u300D\
+    \u3092\u9054\u6210\u3059\u308B"
+  GS: '20'
+  Guide: false
+  Number of Gamers: 17
+  Percentage of Gamers: 52%
+  Ratio: 1.39
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "\u7D50\u5C40\u72EC\u8EAB\u306E\u307E\u307E"
+  Description: "\u30A8\u30F3\u30C7\u30A3\u30F3\u30B0\u300C\u4E00\u4EBA\u307C\u3063\
+    \u3061\u300D\u3092\u9054\u6210\u3059\u308B"
+  GS: '20'
+  Guide: false
+  Number of Gamers: 17
+  Percentage of Gamers: 52%
+  Ratio: 1.39
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "\u307E\u3060\u6570\u3048\u308B\u306E\uFF1F"
+  Description: "\u30B7\u30A8\u30F3\u3068\u7F8A\u6570\u3048\u309210\u56DE\u884C\u3046"
+  GS: '25'
+  Guide: true
+  Number of Gamers: 14
+  Percentage of Gamers: 42%
+  Ratio: 1.53
+  TA: '38'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: "\u30B6 \u30D5\u30E9\u30C3\u30B7\u30E5"
+  Description: "\u624B\u53E9\u304D\u3067\u30B7\u30E3\u30AA\u30EB\u306E\u653B\u3081\
+    \u309210\u56DE\u8EB1\u3059"
+  GS: '25'
+  Guide: true
+  Number of Gamers: 16
+  Percentage of Gamers: 48%
+  Ratio: 1.43
+  TA: '35'
   Tags:
   - Offline Mode
   - Single Player
@@ -385,10 +385,10 @@ Base Game Achievements:
     10\u56DE\u8CA0\u3051\u308B"
   GS: '25'
   Guide: true
-  Number of Gamers: 14
-  Percentage of Gamers: 42%
-  Ratio: 1.53
-  TA: '38'
+  Number of Gamers: 15
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '37'
   Tags:
   - Offline Mode
   - Single Player
@@ -398,10 +398,10 @@ Base Game Achievements:
     10\u56DE\u5909\u3048\u3066\u3082\u3089\u3046"
   GS: '25'
   Guide: true
-  Number of Gamers: 15
-  Percentage of Gamers: 45%
-  Ratio: 1.48
-  TA: '37'
+  Number of Gamers: 16
+  Percentage of Gamers: 48%
+  Ratio: 1.43
+  TA: '35'
   Tags:
   - Offline Mode
   - Single Player
@@ -410,10 +410,10 @@ Base Game Achievements:
   Description: "\u30B7\u30E7\u30A6\u306E\u7709\u6BDB\u309210\u56DE\u63CF\u304F"
   GS: '25'
   Guide: true
-  Number of Gamers: 14
-  Percentage of Gamers: 42%
-  Ratio: 1.53
-  TA: '38'
+  Number of Gamers: 15
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '37'
   Tags:
   - Offline Mode
   - Single Player
@@ -450,10 +450,10 @@ Base Game Achievements:
     \u306B\u5927\u5BB6\u3055\u3093\u306B\u983C\u3080"
   GS: '20'
   Guide: true
-  Number of Gamers: 19
-  Percentage of Gamers: 58%
-  Ratio: 1.31
-  TA: '26'
+  Number of Gamers: 20
+  Percentage of Gamers: 61%
+  Ratio: 1.28
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
@@ -462,10 +462,10 @@ Base Game Achievements:
   Description: "\u30A6\u30F3\u30B7\u306B\u8179\u7B4B\u3092\u898B\u305B\u308B"
   GS: '20'
   Guide: true
-  Number of Gamers: 16
-  Percentage of Gamers: 48%
-  Ratio: 1.43
-  TA: '28'
+  Number of Gamers: 17
+  Percentage of Gamers: 52%
+  Ratio: 1.39
+  TA: '27'
   Tags:
   - Offline Mode
   - Single Player
@@ -474,9 +474,9 @@ Base Game Achievements:
   Description: "\u30B7\u30E3\u30AA\u30EB\u304C\u6C34\u306B\u6FE1\u308C\u308B"
   GS: '20'
   Guide: true
-  Number of Gamers: 17
-  Percentage of Gamers: 52%
-  Ratio: 1.39
+  Number of Gamers: 18
+  Percentage of Gamers: 55%
+  Ratio: 1.35
   TA: '27'
   Tags:
   - Offline Mode
@@ -487,10 +487,10 @@ Base Game Achievements:
     \u7ACB\u3061\u53BB\u308B"
   GS: '20'
   Guide: true
-  Number of Gamers: 16
-  Percentage of Gamers: 48%
-  Ratio: 1.43
-  TA: '28'
+  Number of Gamers: 17
+  Percentage of Gamers: 52%
+  Ratio: 1.39
+  TA: '27'
   Tags:
   - Offline Mode
   - Single Player
@@ -499,10 +499,10 @@ Base Game Achievements:
   Description: "\u75C5\u9662\u3067\u75C5\u53CB\u3068\u8A71\u3059"
   GS: '20'
   Guide: true
-  Number of Gamers: 16
-  Percentage of Gamers: 48%
-  Ratio: 1.43
-  TA: '28'
+  Number of Gamers: 17
+  Percentage of Gamers: 52%
+  Ratio: 1.39
+  TA: '27'
   Tags:
   - Offline Mode
   - Single Player
@@ -512,9 +512,9 @@ Base Game Achievements:
     \u3059\u308B"
   GS: '20'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 52%
-  Ratio: 1.39
+  Number of Gamers: 18
+  Percentage of Gamers: 55%
+  Ratio: 1.35
   TA: '27'
   Tags:
   - Offline Mode
@@ -525,10 +525,10 @@ Base Game Achievements:
     \u8987\u3059\u308B"
   GS: '25'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 42%
-  Ratio: 1.53
-  TA: '38'
+  Number of Gamers: 15
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '37'
   Tags:
   - Offline Mode
   - Single Player
@@ -538,32 +538,32 @@ Base Game Achievements:
     \u30AF\u30B7\u30E7\u30F3\u3092\u5B8C\u6210\u3059\u308B"
   GS: '25'
   Guide: true
-  Number of Gamers: 15
-  Percentage of Gamers: 45%
-  Ratio: 1.48
-  TA: '37'
+  Number of Gamers: 16
+  Percentage of Gamers: 48%
+  Ratio: 1.43
+  TA: '35'
   Tags:
   - Offline Mode
   - Single Player
   - Collectable
   - Missable
-Base Ratio: 1.456
-Base TA: 1456
+Base Ratio: 1.405
+Base TA: 1405
 Delisted: false
 Developer: intiny
 Game Name: Love Is All Around (JP)
 Genres: Visual Novel
 Install Size: 7800.0
-Number of Completions: 7
+Number of Completions: 8
 Number of Gamers: 33
 Overall Completion Time:
-- 22
-- 23
+- 20
+- 21
 Overall GS: 1000
-Overall Ratio: 1.456
-Overall TA: 1456
+Overall Ratio: 1.405
+Overall TA: 1405
 PDU: 0
-Percentage Completed: 21.21
+Percentage Completed: 24.24
 Publisher: NiuGamer
 Release Date: 21 August 2024
 Server Closure: false

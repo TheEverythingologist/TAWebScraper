@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- 30.0
-- 35.0
+- 40.0
+- 50.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Birth of a Legend
   Description: Equip a Character with a Legendary title.
   GS: '200'
   Guide: true
-  Number of Gamers: 1274
-  Percentage of Gamers: 6%
-  Ratio: 4.02
-  TA: '804'
+  Number of Gamers: 1636
+  Percentage of Gamers: 8%
+  Ratio: 3.63
+  TA: '727'
   Tags:
   - Online Mode
   - Versus
@@ -20,9 +20,9 @@ Base Game Achievements:
   Description: Earn 5000 Valor points in one match.
   GS: '125'
   Guide: true
-  Number of Gamers: 11247
+  Number of Gamers: 11956
   Percentage of Gamers: 55%
-  Ratio: 1.35
+  Ratio: 1.34
   TA: '168'
   Tags:
   - Online Mode
@@ -31,10 +31,10 @@ Base Game Achievements:
   Description: Equip a character with a Rank 4 title.
   GS: '125'
   Guide: true
-  Number of Gamers: 2121
-  Percentage of Gamers: 10%
-  Ratio: 3.11
-  TA: '389'
+  Number of Gamers: 2444
+  Percentage of Gamers: 11%
+  Ratio: 2.97
+  TA: '371'
   Tags:
   - Online Mode
   - Versus
@@ -43,10 +43,10 @@ Base Game Achievements:
   Description: Equip a Rank 3 title to a character.
   GS: '50'
   Guide: true
-  Number of Gamers: 3526
-  Percentage of Gamers: 17%
-  Ratio: 2.41
-  TA: '120'
+  Number of Gamers: 3898
+  Percentage of Gamers: 18%
+  Ratio: 2.35
+  TA: '117'
   Tags:
   - Online Mode
   - Versus
@@ -55,10 +55,10 @@ Base Game Achievements:
   Description: Equip a character with a rank 2 title.
   GS: '50'
   Guide: true
-  Number of Gamers: 5736
+  Number of Gamers: 6137
   Percentage of Gamers: 28%
-  Ratio: 1.89
-  TA: '94'
+  Ratio: 1.87
+  TA: '93'
   Tags:
   - Online Mode
   - Versus
@@ -67,10 +67,10 @@ Base Game Achievements:
   Description: Equip the character with a rank 1 title.
   GS: '50'
   Guide: true
-  Number of Gamers: 13831
+  Number of Gamers: 14453
   Percentage of Gamers: 67%
-  Ratio: 1.21
-  TA: '60'
+  Ratio: 1.22
+  TA: '61'
   Tags:
   - Online Mode
   - Versus
@@ -78,9 +78,9 @@ Base Game Achievements:
   Description: Create a character.
   GS: '50'
   Guide: true
-  Number of Gamers: 18684
-  Percentage of Gamers: 91%
-  Ratio: 1.04
+  Number of Gamers: 19541
+  Percentage of Gamers: 90%
+  Ratio: 1.05
   TA: '52'
   Tags:
   - Online Mode
@@ -90,8 +90,8 @@ Base Game Achievements:
   Description: Edit your equipment.
   GS: '50'
   Guide: true
-  Number of Gamers: 17581
-  Percentage of Gamers: 85%
+  Number of Gamers: 18522
+  Percentage of Gamers: 86%
   Ratio: 1.08
   TA: '54'
   Tags:
@@ -101,10 +101,10 @@ Base Game Achievements:
   Description: Win a battle by destroying the core.
   GS: '50'
   Guide: false
-  Number of Gamers: 10082
-  Percentage of Gamers: 49%
-  Ratio: 1.42
-  TA: '71'
+  Number of Gamers: 10768
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '70'
   Tags:
   - Online Mode
   - Versus
@@ -112,8 +112,8 @@ Base Game Achievements:
   Description: Earn a total of 10,000 Valor points.
   GS: '50'
   Guide: true
-  Number of Gamers: 9536
-  Percentage of Gamers: 46%
+  Number of Gamers: 10134
+  Percentage of Gamers: 47%
   Ratio: 1.46
   TA: '73'
   Tags:
@@ -124,8 +124,8 @@ Base Game Achievements:
   Description: Deal a total of 10,000 damage.
   GS: '50'
   Guide: true
-  Number of Gamers: 14509
-  Percentage of Gamers: 71%
+  Number of Gamers: 15474
+  Percentage of Gamers: 72%
   Ratio: 1.18
   TA: '59'
   Tags:
@@ -136,10 +136,10 @@ Base Game Achievements:
   Description: Heal a total of 100,000 HP.
   GS: '50'
   Guide: true
-  Number of Gamers: 346
+  Number of Gamers: 434
   Percentage of Gamers: 2%
-  Ratio: 7.69
-  TA: '384'
+  Ratio: 7.05
+  TA: '352'
   Tags:
   - Online Mode
   - Versus
@@ -148,10 +148,10 @@ Base Game Achievements:
   Description: Guard against a total of 10,000 damage.
   GS: '50'
   Guide: true
-  Number of Gamers: 1551
+  Number of Gamers: 1730
   Percentage of Gamers: 8%
-  Ratio: 3.63
-  TA: '181'
+  Ratio: 3.53
+  TA: '176'
   Tags:
   - Online Mode
   - Versus
@@ -160,36 +160,36 @@ Base Game Achievements:
   Description: Play 100 games.
   GS: '50'
   Guide: true
-  Number of Gamers: 414
+  Number of Gamers: 459
   Percentage of Gamers: 2%
-  Ratio: 7.03
-  TA: '351'
+  Ratio: 6.86
+  TA: '343'
   Tags:
   - Online Mode
   - Versus
   - Cumulative +
   - Time Consuming
   - Buggy
-Base Ratio: 2.86
-Base TA: 2860
+Base Ratio: 2.716
+Base TA: 2716
 Delisted: false
 Developer: ToyLogic
 Game Name: Warlander
 Genres: Action
-Install Size: 4900.0
-Number of Completions: 228
-Number of Gamers: 20571
+Install Size: 8980.0
+Number of Completions: 269
+Number of Gamers: 21628
 Overall Completion Time:
-- 30.0
-- 35.0
+- 40.0
+- 50.0
 Overall GS: 1000
-Overall Ratio: 2.86
-Overall TA: 2860
+Overall Ratio: 2.716
+Overall TA: 2716
 PDU: 0
-Percentage Completed: 1.11
+Percentage Completed: 1.24
 Publisher: PLAION, ToyLogic
 Release Date: 15 May 2023
-Server Closure: false
+Server Closure: true
 Site Rating: 2.99
 Update Achievements: []
 Walkthrough: false

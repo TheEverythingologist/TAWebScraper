@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 1.0
-Base GS: 2000
+- 1.5
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: Core Ignition
   Description: Collect a power-up.
   GS: '100'
   Guide: false
-  Number of Gamers: 237
+  Number of Gamers: 273
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -19,7 +19,7 @@ Base Game Achievements:
   Description: Collect a shield.
   GS: '100'
   Guide: false
-  Number of Gamers: 237
+  Number of Gamers: 273
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -30,7 +30,7 @@ Base Game Achievements:
   Description: Defeat 50 enemies in one playthrough.
   GS: '100'
   Guide: false
-  Number of Gamers: 236
+  Number of Gamers: 273
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -41,7 +41,7 @@ Base Game Achievements:
   Description: Achieve a 3+ combo.
   GS: '100'
   Guide: false
-  Number of Gamers: 236
+  Number of Gamers: 273
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -52,7 +52,7 @@ Base Game Achievements:
   Description: Collide with a level obstacle.
   GS: '100'
   Guide: false
-  Number of Gamers: 235
+  Number of Gamers: 271
   Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '100'
@@ -63,8 +63,8 @@ Base Game Achievements:
   Description: Beat Stage 1.
   GS: '100'
   Guide: false
-  Number of Gamers: 236
-  Percentage of Gamers: 99%
+  Number of Gamers: 272
+  Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '100'
   Tags:
@@ -75,7 +75,7 @@ Base Game Achievements:
   Description: Beat Stage 2.
   GS: '100'
   Guide: false
-  Number of Gamers: 231
+  Number of Gamers: 269
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '101'
@@ -87,7 +87,7 @@ Base Game Achievements:
   Description: Beat Stage 3.
   GS: '100'
   Guide: false
-  Number of Gamers: 230
+  Number of Gamers: 266
   Percentage of Gamers: 96%
   Ratio: 1.01
   TA: '101'
@@ -99,10 +99,10 @@ Base Game Achievements:
   Description: Beat Stage 4.
   GS: '100'
   Guide: false
-  Number of Gamers: 229
-  Percentage of Gamers: 96%
-  Ratio: 1.01
-  TA: '101'
+  Number of Gamers: 264
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '102'
   Tags:
   - Offline Mode
   - Single Player
@@ -111,44 +111,44 @@ Base Game Achievements:
   Description: Beat Stage 5.
   GS: '100'
   Guide: false
-  Number of Gamers: 229
-  Percentage of Gamers: 96%
-  Ratio: 1.01
-  TA: '101'
+  Number of Gamers: 263
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '102'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.015
-Base TA: 2030
+Base Ratio: 1.0653333333333332
+Base TA: 3196
 Delisted: false
 Developer: UselessDinosaur, AlexMakovsky, Darkman007
 Game Name: Akinakes (Windows)
 Genres: Shoot 'em up
 Install Size: 120.0
-Number of Completions: 219
-Number of Gamers: 239
+Number of Completions: 193
+Number of Gamers: 277
 Overall Completion Time:
 - 0.0
-- 1.0
-Overall GS: 2000
-Overall Ratio: 1.015
-Overall TA: 2030
+- 1.5
+Overall GS: 3000
+Overall Ratio: 1.0653333333333332
+Overall TA: 3196
 PDU: 0
-Percentage Completed: 91.63
+Percentage Completed: 69.68
 Publisher: Phoenix Reborn Games
 Release Date: 25 April 2025
 Server Closure: false
-Site Rating: 2.42
+Site Rating: 2.62
 Update Achievements:
 - Achievement Name: Space Cadet
   Description: Defeat 60 enemies in a single playthrough
   GS: '200'
   Guide: false
-  Number of Gamers: 225
-  Percentage of Gamers: 94%
-  Ratio: 1.02
-  TA: '205'
+  Number of Gamers: 265
+  Percentage of Gamers: 96%
+  Ratio: 1.01
+  TA: '203'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -156,10 +156,10 @@ Update Achievements:
   Description: Defeat 70 enemies in a single playthrough
   GS: '200'
   Guide: false
-  Number of Gamers: 225
-  Percentage of Gamers: 94%
-  Ratio: 1.02
-  TA: '205'
+  Number of Gamers: 265
+  Percentage of Gamers: 96%
+  Ratio: 1.01
+  TA: '203'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -167,10 +167,10 @@ Update Achievements:
   Description: Defeat 80 enemies in a single playthrough
   GS: '200'
   Guide: false
-  Number of Gamers: 225
-  Percentage of Gamers: 94%
-  Ratio: 1.02
-  TA: '205'
+  Number of Gamers: 265
+  Percentage of Gamers: 96%
+  Ratio: 1.01
+  TA: '203'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -178,10 +178,10 @@ Update Achievements:
   Description: Defeat 90 enemies in a single playthrough
   GS: '200'
   Guide: false
-  Number of Gamers: 225
-  Percentage of Gamers: 94%
-  Ratio: 1.02
-  TA: '205'
+  Number of Gamers: 265
+  Percentage of Gamers: 96%
+  Ratio: 1.01
+  TA: '203'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -189,10 +189,65 @@ Update Achievements:
   Description: Defeat 100 enemies in a single playthrough
   GS: '200'
   Guide: false
-  Number of Gamers: 223
-  Percentage of Gamers: 93%
-  Ratio: 1.03
-  TA: '206'
+  Number of Gamers: 265
+  Percentage of Gamers: 96%
+  Ratio: 1.01
+  TA: '203'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Fleet Admiral
+  Description: Defeat 110 enemies in a single playthrough
+  GS: '200'
+  Guide: false
+  Number of Gamers: 199
+  Percentage of Gamers: 72%
+  Ratio: 1.17
+  TA: '235'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Star Marshal
+  Description: Defeat 120 enemies in a single playthrough
+  GS: '200'
+  Guide: false
+  Number of Gamers: 199
+  Percentage of Gamers: 72%
+  Ratio: 1.17
+  TA: '235'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Supreme Commander
+  Description: Defeat 130 enemies in a single playthrough
+  GS: '200'
+  Guide: false
+  Number of Gamers: 199
+  Percentage of Gamers: 72%
+  Ratio: 1.17
+  TA: '235'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Void Lord
+  Description: Defeat 140 enemies in a single playthrough
+  GS: '200'
+  Guide: false
+  Number of Gamers: 199
+  Percentage of Gamers: 72%
+  Ratio: 1.17
+  TA: '235'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Galactic Emperor
+  Description: Defeat 150 enemies in a single playthrough
+  GS: '200'
+  Guide: false
+  Number of Gamers: 199
+  Percentage of Gamers: 72%
+  Ratio: 1.17
+  TA: '235'
   Tags:
   - Offline Game Mode
   - Single Player

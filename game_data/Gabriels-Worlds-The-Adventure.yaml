@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 1.0
-Base GS: 2000
+- 1.5
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: Level 1
   Description: Complete level 1
   GS: '100'
   Guide: false
-  Number of Gamers: 422
+  Number of Gamers: 500
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Complete level 2
   GS: '100'
   Guide: false
-  Number of Gamers: 420
+  Number of Gamers: 498
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -32,7 +32,7 @@ Base Game Achievements:
   Description: Complete level 3
   GS: '100'
   Guide: false
-  Number of Gamers: 419
+  Number of Gamers: 497
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -44,8 +44,8 @@ Base Game Achievements:
   Description: Complete level 5
   GS: '100'
   Guide: false
-  Number of Gamers: 412
-  Percentage of Gamers: 97%
+  Number of Gamers: 491
+  Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '101'
   Tags:
@@ -56,7 +56,7 @@ Base Game Achievements:
   Description: Complete level 6
   GS: '100'
   Guide: false
-  Number of Gamers: 411
+  Number of Gamers: 490
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '101'
@@ -68,7 +68,7 @@ Base Game Achievements:
   Description: Complete level 7
   GS: '100'
   Guide: false
-  Number of Gamers: 392
+  Number of Gamers: 465
   Percentage of Gamers: 92%
   Ratio: 1.04
   TA: '104'
@@ -80,7 +80,7 @@ Base Game Achievements:
   Description: Complete level 9
   GS: '100'
   Guide: false
-  Number of Gamers: 389
+  Number of Gamers: 461
   Percentage of Gamers: 92%
   Ratio: 1.04
   TA: '104'
@@ -92,7 +92,7 @@ Base Game Achievements:
   Description: Complete level 10
   GS: '100'
   Guide: false
-  Number of Gamers: 389
+  Number of Gamers: 461
   Percentage of Gamers: 92%
   Ratio: 1.04
   TA: '104'
@@ -104,7 +104,7 @@ Base Game Achievements:
   Description: Complete level 11
   GS: '100'
   Guide: false
-  Number of Gamers: 388
+  Number of Gamers: 460
   Percentage of Gamers: 91%
   Ratio: 1.04
   TA: '104'
@@ -116,7 +116,7 @@ Base Game Achievements:
   Description: Complete level 15
   GS: '100'
   Guide: true
-  Number of Gamers: 385
+  Number of Gamers: 457
   Percentage of Gamers: 91%
   Ratio: 1.05
   TA: '105'
@@ -124,23 +124,23 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.035
-Base TA: 2070
+Base Ratio: 1.0853333333333333
+Base TA: 3256
 Delisted: false
 Developer: Rafael Valim Fernandes
 Game Name: Gabriels Worlds The Adventure
 Genres: Platformer
 Install Size: 563.0
-Number of Completions: 373
-Number of Gamers: 425
+Number of Completions: 341
+Number of Gamers: 503
 Overall Completion Time:
 - 0.0
-- 1.0
-Overall GS: 2000
-Overall Ratio: 1.035
-Overall TA: 2070
+- 1.5
+Overall GS: 3000
+Overall Ratio: 1.0853333333333333
+Overall TA: 3256
 PDU: 0
-Percentage Completed: 87.76
+Percentage Completed: 67.79
 Publisher: Rafael Valim Fernandes
 Release Date: 27 March 2025
 Server Closure: false
@@ -150,10 +150,10 @@ Update Achievements:
   Description: Complete level 4
   GS: '100'
   Guide: false
-  Number of Gamers: 406
-  Percentage of Gamers: 96%
-  Ratio: 1.02
-  TA: '102'
+  Number of Gamers: 489
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '101'
   Tags:
   - Offline Mode
   - Single Player
@@ -162,10 +162,10 @@ Update Achievements:
   Description: Complete level 8
   GS: '200'
   Guide: false
-  Number of Gamers: 383
-  Percentage of Gamers: 90%
-  Ratio: 1.05
-  TA: '210'
+  Number of Gamers: 460
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '209'
   Tags:
   - Offline Mode
   - Single Player
@@ -174,10 +174,10 @@ Update Achievements:
   Description: Complete level 12
   GS: '200'
   Guide: false
-  Number of Gamers: 382
-  Percentage of Gamers: 90%
-  Ratio: 1.05
-  TA: '210'
+  Number of Gamers: 458
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '209'
   Tags:
   - Offline Mode
   - Single Player
@@ -186,10 +186,10 @@ Update Achievements:
   Description: Complete level 13
   GS: '200'
   Guide: false
-  Number of Gamers: 380
-  Percentage of Gamers: 89%
+  Number of Gamers: 456
+  Percentage of Gamers: 91%
   Ratio: 1.05
-  TA: '211'
+  TA: '210'
   Tags:
   - Offline Mode
   - Single Player
@@ -198,10 +198,10 @@ Update Achievements:
   Description: Complete level 14
   GS: '200'
   Guide: false
-  Number of Gamers: 379
-  Percentage of Gamers: 89%
+  Number of Gamers: 455
+  Percentage of Gamers: 90%
   Ratio: 1.05
-  TA: '211'
+  TA: '210'
   Tags:
   - Offline Mode
   - Single Player
@@ -210,11 +210,71 @@ Update Achievements:
   Description: Take the figure of Benjoni!
   GS: '100'
   Guide: true
-  Number of Gamers: 399
-  Percentage of Gamers: 94%
-  Ratio: 1.03
-  TA: '103'
+  Number of Gamers: 482
+  Percentage of Gamers: 96%
+  Ratio: 1.02
+  TA: '102'
   Tags:
   - Offline Game Mode
   - Single Player
+- Achievement Name: Normal box 1
+  Description: Collect the normal box 1
+  GS: '200'
+  Guide: true
+  Number of Gamers: 361
+  Percentage of Gamers: 72%
+  Ratio: 1.18
+  TA: '236'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Normal box 2
+  Description: Collect the normal box 2
+  GS: '200'
+  Guide: true
+  Number of Gamers: 362
+  Percentage of Gamers: 72%
+  Ratio: 1.17
+  TA: '235'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Normal box 3
+  Description: Collect the normal box 3
+  GS: '200'
+  Guide: true
+  Number of Gamers: 353
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '238'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Normal box 4
+  Description: Collect the normal box 4
+  GS: '200'
+  Guide: true
+  Number of Gamers: 342
+  Percentage of Gamers: 68%
+  Ratio: 1.21
+  TA: '242'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Normal box 5
+  Description: Collect the normal box 5
+  GS: '200'
+  Guide: true
+  Number of Gamers: 345
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '241'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 Walkthrough: false

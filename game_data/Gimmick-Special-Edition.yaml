@@ -1,16 +1,16 @@
 Add On Achievements: []
 Base Completion Time:
-- 5
-- 6
+- 9
+- 10
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: SCORE 10000 Over
   Description: (Serious Mode) Broke the 10000 SCORE
   GS: '40'
   Guide: false
-  Number of Gamers: 41
+  Number of Gamers: 53
   Percentage of Gamers: 98%
-  Ratio: 1.01
+  Ratio: 1.0
   TA: '40'
   Tags:
   - Offline Game Mode
@@ -19,10 +19,10 @@ Base Game Achievements:
   Description: (Serious Mode) Broke the 30000 SCORE
   GS: '40'
   Guide: false
-  Number of Gamers: 40
-  Percentage of Gamers: 95%
-  Ratio: 1.02
-  TA: '40'
+  Number of Gamers: 49
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '41'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -30,9 +30,9 @@ Base Game Achievements:
   Description: (Serious Mode) Broke the 60000 SCORE
   GS: '40'
   Guide: false
-  Number of Gamers: 29
-  Percentage of Gamers: 69%
-  Ratio: 1.2
+  Number of Gamers: 36
+  Percentage of Gamers: 67%
+  Ratio: 1.22
   TA: '48'
   Tags:
   - Offline Game Mode
@@ -41,10 +41,10 @@ Base Game Achievements:
   Description: SCORE 100000 Over
   GS: '40'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 40%
-  Ratio: 1.57
-  TA: '62'
+  Number of Gamers: 23
+  Percentage of Gamers: 43%
+  Ratio: 1.53
+  TA: '61'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -52,10 +52,10 @@ Base Game Achievements:
   Description: (Serious Mode) I beat Ponta.
   GS: '40'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 36%
-  Ratio: 1.67
-  TA: '66'
+  Number of Gamers: 21
+  Percentage of Gamers: 39%
+  Ratio: 1.6
+  TA: '64'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -63,10 +63,10 @@ Base Game Achievements:
   Description: (Serious Mode) Defeated the warrior Ohagi.
   GS: '40'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 26%
-  Ratio: 1.95
-  TA: '78'
+  Number of Gamers: 15
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '75'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -74,10 +74,10 @@ Base Game Achievements:
   Description: (Serious Mode) I defeated the soldiers guarding the castle.
   GS: '40'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 12%
-  Ratio: 2.89
-  TA: '115'
+  Number of Gamers: 8
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '103'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -85,10 +85,10 @@ Base Game Achievements:
   Description: (Serious Mode) I beat the wizard  'Ohagi'
   GS: '40'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 12%
-  Ratio: 2.89
-  TA: '115'
+  Number of Gamers: 8
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '103'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -96,10 +96,10 @@ Base Game Achievements:
   Description: (Serious Mode) I beat the wizard  'Ohagi2'
   GS: '40'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 12%
-  Ratio: 2.89
-  TA: '115'
+  Number of Gamers: 8
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '103'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -107,10 +107,10 @@ Base Game Achievements:
   Description: (Serious Mode) Stage 1 cleared.
   GS: '40'
   Guide: false
-  Number of Gamers: 33
-  Percentage of Gamers: 79%
+  Number of Gamers: 43
+  Percentage of Gamers: 80%
   Ratio: 1.12
-  TA: '45'
+  TA: '44'
   Tags:
   - Offline Mode
   - Single Player
@@ -119,10 +119,10 @@ Base Game Achievements:
   Description: (Serious Mode) Stage 2 cleared.
   GS: '40'
   Guide: false
-  Number of Gamers: 24
-  Percentage of Gamers: 57%
-  Ratio: 1.32
-  TA: '52'
+  Number of Gamers: 32
+  Percentage of Gamers: 59%
+  Ratio: 1.29
+  TA: '51'
   Tags:
   - Offline Mode
   - Single Player
@@ -131,10 +131,10 @@ Base Game Achievements:
   Description: (Serious Mode) Stage 3 cleared.
   GS: '40'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 29%
-  Ratio: 1.87
-  TA: '74'
+  Number of Gamers: 18
+  Percentage of Gamers: 33%
+  Ratio: 1.73
+  TA: '69'
   Tags:
   - Offline Mode
   - Single Player
@@ -143,10 +143,10 @@ Base Game Achievements:
   Description: (Serious Mode) Stage 4 cleared.
   GS: '40'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 26%
-  Ratio: 1.95
-  TA: '78'
+  Number of Gamers: 15
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '75'
   Tags:
   - Offline Mode
   - Single Player
@@ -155,10 +155,10 @@ Base Game Achievements:
   Description: (Serious Mode) Stage 5 cleared.
   GS: '40'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 12%
-  Ratio: 2.89
-  TA: '115'
+  Number of Gamers: 8
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '103'
   Tags:
   - Offline Mode
   - Single Player
@@ -167,10 +167,10 @@ Base Game Achievements:
   Description: (Serious Mode) Stage 6 cleared.
   GS: '40'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 12%
-  Ratio: 2.89
-  TA: '115'
+  Number of Gamers: 8
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '103'
   Tags:
   - Offline Mode
   - Single Player
@@ -179,10 +179,10 @@ Base Game Achievements:
   Description: (Serious Mode) Stage 7 cleared.
   GS: '40'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 10%
-  Ratio: 3.24
-  TA: '129'
+  Number of Gamers: 7
+  Percentage of Gamers: 13%
+  Ratio: 3.0
+  TA: '120'
   Tags:
   - Offline Mode
   - Single Player
@@ -191,9 +191,9 @@ Base Game Achievements:
   Description: (Serious Mode) Got the hidden item in stage 1.
   GS: '40'
   Guide: false
-  Number of Gamers: 38
-  Percentage of Gamers: 90%
-  Ratio: 1.05
+  Number of Gamers: 47
+  Percentage of Gamers: 87%
+  Ratio: 1.07
   TA: '42'
   Tags:
   - Offline Mode
@@ -203,10 +203,10 @@ Base Game Achievements:
   Description: (Serious Mode) Got the hidden item in stage 2.
   GS: '40'
   Guide: false
-  Number of Gamers: 22
-  Percentage of Gamers: 52%
-  Ratio: 1.38
-  TA: '55'
+  Number of Gamers: 29
+  Percentage of Gamers: 54%
+  Ratio: 1.36
+  TA: '54'
   Tags:
   - Offline Mode
   - Single Player
@@ -215,10 +215,10 @@ Base Game Achievements:
   Description: (Serious Mode) Got the hidden item in stage 3.
   GS: '40'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 29%
-  Ratio: 1.87
-  TA: '74'
+  Number of Gamers: 20
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '65'
   Tags:
   - Offline Mode
   - Single Player
@@ -227,10 +227,10 @@ Base Game Achievements:
   Description: (Serious Mode) Got the hidden item in stage 4.
   GS: '40'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 24%
-  Ratio: 2.04
-  TA: '81'
+  Number of Gamers: 14
+  Percentage of Gamers: 26%
+  Ratio: 1.96
+  TA: '78'
   Tags:
   - Offline Mode
   - Single Player
@@ -239,10 +239,10 @@ Base Game Achievements:
   Description: (Serious Mode) Got the hidden item in stage 5.
   GS: '40'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 17%
-  Ratio: 2.44
-  TA: '97'
+  Number of Gamers: 11
+  Percentage of Gamers: 20%
+  Ratio: 2.21
+  TA: '88'
   Tags:
   - Offline Mode
   - Single Player
@@ -251,10 +251,10 @@ Base Game Achievements:
   Description: (Serious Mode) Got the hidden item in stage 6.
   GS: '40'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 12%
-  Ratio: 2.89
-  TA: '115'
+  Number of Gamers: 8
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '103'
   Tags:
   - Offline Mode
   - Single Player
@@ -263,10 +263,10 @@ Base Game Achievements:
   Description: (Serious Mode) Normal End achieved.
   GS: '40'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 12%
-  Ratio: 2.89
-  TA: '115'
+  Number of Gamers: 8
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '103'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -274,10 +274,10 @@ Base Game Achievements:
   Description: (Serious Mode) True End achieved.
   GS: '40'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 10%
-  Ratio: 3.24
-  TA: '129'
+  Number of Gamers: 7
+  Percentage of Gamers: 13%
+  Ratio: 3.0
+  TA: '120'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -285,30 +285,30 @@ Base Game Achievements:
   Description: Unlocked all the achievements.
   GS: '40'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 10%
-  Ratio: 3.24
-  TA: '129'
+  Number of Gamers: 7
+  Percentage of Gamers: 13%
+  Ratio: 3.0
+  TA: '120'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 2.124
-Base TA: 2124
+Base Ratio: 1.976
+Base TA: 1976
 Delisted: false
 Developer: City Connection, Sunsoft
 Game Name: Gimmick! Special Edition
 Genres: Platformer
 Install Size: 3120.0
-Number of Completions: 4
-Number of Gamers: 42
+Number of Completions: 7
+Number of Gamers: 54
 Overall Completion Time:
-- 5
-- 6
+- 9
+- 10
 Overall GS: 1000
-Overall Ratio: 2.124
-Overall TA: 2124
+Overall Ratio: 1.976
+Overall TA: 1976
 PDU: 0
-Percentage Completed: 9.52
+Percentage Completed: 12.96
 Publisher: Bitwave Games
 Release Date: 06 July 2023
 Server Closure: false

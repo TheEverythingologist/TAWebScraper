@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 1.0
-Base GS: 2000
+- 1.5
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: The Tree of Hate
   Description: Beat the 1st level
   GS: '100'
   Guide: true
-  Number of Gamers: 726
+  Number of Gamers: 904
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '100'
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Beat the 2nd level
   GS: '100'
   Guide: false
-  Number of Gamers: 712
+  Number of Gamers: 889
   Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '100'
@@ -32,8 +32,8 @@ Base Game Achievements:
   Description: Beat the 3rd level
   GS: '100'
   Guide: false
-  Number of Gamers: 698
-  Percentage of Gamers: 96%
+  Number of Gamers: 876
+  Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '101'
   Tags:
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Beat the 4th level
   GS: '100'
   Guide: false
-  Number of Gamers: 697
+  Number of Gamers: 872
   Percentage of Gamers: 96%
-  Ratio: 1.02
-  TA: '102'
+  Ratio: 1.01
+  TA: '101'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,7 +56,7 @@ Base Game Achievements:
   Description: Unlock a new character
   GS: '100'
   Guide: false
-  Number of Gamers: 714
+  Number of Gamers: 891
   Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '100'
@@ -67,10 +67,10 @@ Base Game Achievements:
   Description: Unlock a new item
   GS: '100'
   Guide: false
-  Number of Gamers: 712
+  Number of Gamers: 884
   Percentage of Gamers: 98%
-  Ratio: 1.0
-  TA: '100'
+  Ratio: 1.01
+  TA: '101'
   Tags:
   - Offline Mode
   - Single Player
@@ -79,7 +79,7 @@ Base Game Achievements:
   Description: Fully upgrade one of the characters
   GS: '100'
   Guide: false
-  Number of Gamers: 712
+  Number of Gamers: 888
   Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '100'
@@ -91,7 +91,7 @@ Base Game Achievements:
   Description: Unlock a third character
   GS: '100'
   Guide: false
-  Number of Gamers: 709
+  Number of Gamers: 887
   Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '101'
@@ -102,7 +102,7 @@ Base Game Achievements:
   Description: Kill 750 enemies
   GS: '100'
   Guide: false
-  Number of Gamers: 718
+  Number of Gamers: 897
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -114,7 +114,7 @@ Base Game Achievements:
   Description: Kill 1500 enemies
   GS: '100'
   Guide: false
-  Number of Gamers: 716
+  Number of Gamers: 893
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -122,36 +122,36 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 1.032
-Base TA: 2064
+Base Ratio: 1.1576666666666666
+Base TA: 3473
 Delisted: false
 Developer: HugePixel
 Game Name: 'Exodus: Creepy Time (Windows)'
 Genres: Roguelite
-Install Size: 124.0
-Number of Completions: 630
-Number of Gamers: 726
+Install Size: 125.0
+Number of Completions: 436
+Number of Gamers: 906
 Overall Completion Time:
 - 0.0
-- 1.0
-Overall GS: 2000
-Overall Ratio: 1.032
-Overall TA: 2064
+- 1.5
+Overall GS: 3000
+Overall Ratio: 1.1576666666666666
+Overall TA: 3473
 PDU: 0
-Percentage Completed: 86.78
+Percentage Completed: 48.12
 Publisher: Desert Water Games
 Release Date: 26 July 2024
 Server Closure: false
-Site Rating: 2.25
+Site Rating: 2.27
 Update Achievements:
 - Achievement Name: Overpowered
   Description: Fully upgrade two of the characters
   GS: '200'
   Guide: false
-  Number of Gamers: 643
-  Percentage of Gamers: 89%
-  Ratio: 1.06
-  TA: '212'
+  Number of Gamers: 842
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '207'
   Tags:
   - Offline Mode
   - Single Player
@@ -160,10 +160,10 @@ Update Achievements:
   Description: Unlock all items
   GS: '200'
   Guide: false
-  Number of Gamers: 640
-  Percentage of Gamers: 88%
-  Ratio: 1.06
-  TA: '213'
+  Number of Gamers: 840
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '207'
   Tags:
   - Offline Mode
   - Single Player
@@ -172,10 +172,10 @@ Update Achievements:
   Description: Unlock the third character
   GS: '200'
   Guide: true
-  Number of Gamers: 640
-  Percentage of Gamers: 88%
-  Ratio: 1.06
-  TA: '213'
+  Number of Gamers: 844
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '207'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -183,10 +183,10 @@ Update Achievements:
   Description: Kill 2500 enemies
   GS: '200'
   Guide: false
-  Number of Gamers: 648
-  Percentage of Gamers: 89%
-  Ratio: 1.05
-  TA: '211'
+  Number of Gamers: 848
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '206'
   Tags:
   - Offline Mode
   - Single Player
@@ -195,12 +195,69 @@ Update Achievements:
   Description: Kill 3000 enemies
   GS: '200'
   Guide: true
-  Number of Gamers: 648
-  Percentage of Gamers: 89%
-  Ratio: 1.05
-  TA: '211'
+  Number of Gamers: 848
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '206'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
+- Achievement Name: Rampage
+  Description: Kill 3500 enemies
+  GS: '200'
+  Guide: false
+  Number of Gamers: 446
+  Percentage of Gamers: 49%
+  Ratio: 1.43
+  TA: '286'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Unstoppable
+  Description: Kill 4000 enemies
+  GS: '200'
+  Guide: false
+  Number of Gamers: 445
+  Percentage of Gamers: 49%
+  Ratio: 1.43
+  TA: '287'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Heroes from the myth
+  Description: Unlock 4th character
+  GS: '200'
+  Guide: false
+  Number of Gamers: 444
+  Percentage of Gamers: 49%
+  Ratio: 1.43
+  TA: '287'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Training pays off
+  Description: Fully upgrade three characters
+  GS: '200'
+  Guide: false
+  Number of Gamers: 445
+  Percentage of Gamers: 49%
+  Ratio: 1.43
+  TA: '287'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Enough to slay the evil root
+  Description: Unlock 5th character
+  GS: '200'
+  Guide: false
+  Number of Gamers: 438
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '289'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 Walkthrough: false

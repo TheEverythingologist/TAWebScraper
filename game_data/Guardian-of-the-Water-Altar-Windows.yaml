@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 1.0
-Base GS: 2000
+- 1.5
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: Level 1
   Description: Complete Level 1
   GS: '30'
   Guide: false
-  Number of Gamers: 104
+  Number of Gamers: 187
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '30'
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Complete Level 2
   GS: '30'
   Guide: false
-  Number of Gamers: 102
+  Number of Gamers: 184
   Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '30'
@@ -32,8 +32,8 @@ Base Game Achievements:
   Description: Complete Level 3
   GS: '30'
   Guide: false
-  Number of Gamers: 100
-  Percentage of Gamers: 96%
+  Number of Gamers: 182
+  Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '30'
   Tags:
@@ -44,7 +44,7 @@ Base Game Achievements:
   Description: Complete Level 4
   GS: '30'
   Guide: false
-  Number of Gamers: 100
+  Number of Gamers: 180
   Percentage of Gamers: 96%
   Ratio: 1.01
   TA: '30'
@@ -56,7 +56,7 @@ Base Game Achievements:
   Description: Complete Level 5
   GS: '30'
   Guide: false
-  Number of Gamers: 100
+  Number of Gamers: 180
   Percentage of Gamers: 96%
   Ratio: 1.01
   TA: '30'
@@ -68,8 +68,8 @@ Base Game Achievements:
   Description: Complete Level 6
   GS: '30'
   Guide: false
-  Number of Gamers: 99
-  Percentage of Gamers: 95%
+  Number of Gamers: 179
+  Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '30'
   Tags:
@@ -80,7 +80,7 @@ Base Game Achievements:
   Description: Complete Level 7
   GS: '30'
   Guide: false
-  Number of Gamers: 98
+  Number of Gamers: 176
   Percentage of Gamers: 94%
   Ratio: 1.03
   TA: '30'
@@ -92,7 +92,7 @@ Base Game Achievements:
   Description: Complete Level 8
   GS: '30'
   Guide: false
-  Number of Gamers: 97
+  Number of Gamers: 174
   Percentage of Gamers: 93%
   Ratio: 1.03
   TA: '31'
@@ -104,7 +104,7 @@ Base Game Achievements:
   Description: Complete Level 9
   GS: '30'
   Guide: false
-  Number of Gamers: 97
+  Number of Gamers: 174
   Percentage of Gamers: 93%
   Ratio: 1.03
   TA: '31'
@@ -116,10 +116,10 @@ Base Game Achievements:
   Description: Complete Level 10
   GS: '30'
   Guide: false
-  Number of Gamers: 97
-  Percentage of Gamers: 93%
+  Number of Gamers: 176
+  Percentage of Gamers: 94%
   Ratio: 1.03
-  TA: '31'
+  TA: '30'
   Tags:
   - Offline Mode
   - Single Player
@@ -128,7 +128,7 @@ Base Game Achievements:
   Description: Complete Level 11
   GS: '30'
   Guide: false
-  Number of Gamers: 97
+  Number of Gamers: 173
   Percentage of Gamers: 93%
   Ratio: 1.03
   TA: '31'
@@ -140,9 +140,9 @@ Base Game Achievements:
   Description: Complete Level 12
   GS: '30'
   Guide: false
-  Number of Gamers: 97
-  Percentage of Gamers: 93%
-  Ratio: 1.03
+  Number of Gamers: 171
+  Percentage of Gamers: 91%
+  Ratio: 1.04
   TA: '31'
   Tags:
   - Offline Mode
@@ -152,9 +152,9 @@ Base Game Achievements:
   Description: Complete Level 13
   GS: '30'
   Guide: false
-  Number of Gamers: 97
-  Percentage of Gamers: 93%
-  Ratio: 1.03
+  Number of Gamers: 171
+  Percentage of Gamers: 91%
+  Ratio: 1.04
   TA: '31'
   Tags:
   - Offline Mode
@@ -164,9 +164,9 @@ Base Game Achievements:
   Description: Complete Level 14
   GS: '30'
   Guide: false
-  Number of Gamers: 97
-  Percentage of Gamers: 93%
-  Ratio: 1.03
+  Number of Gamers: 171
+  Percentage of Gamers: 91%
+  Ratio: 1.04
   TA: '31'
   Tags:
   - Offline Mode
@@ -176,8 +176,8 @@ Base Game Achievements:
   Description: Complete Level 15
   GS: '30'
   Guide: false
-  Number of Gamers: 97
-  Percentage of Gamers: 93%
+  Number of Gamers: 170
+  Percentage of Gamers: 91%
   Ratio: 1.04
   TA: '31'
   Tags:
@@ -188,8 +188,8 @@ Base Game Achievements:
   Description: Complete Level 16
   GS: '30'
   Guide: false
-  Number of Gamers: 97
-  Percentage of Gamers: 93%
+  Number of Gamers: 171
+  Percentage of Gamers: 91%
   Ratio: 1.04
   TA: '31'
   Tags:
@@ -200,9 +200,9 @@ Base Game Achievements:
   Description: Complete Level 17
   GS: '30'
   Guide: false
-  Number of Gamers: 95
+  Number of Gamers: 170
   Percentage of Gamers: 91%
-  Ratio: 1.05
+  Ratio: 1.04
   TA: '31'
   Tags:
   - Offline Mode
@@ -212,9 +212,9 @@ Base Game Achievements:
   Description: Complete Level 18
   GS: '30'
   Guide: false
-  Number of Gamers: 95
+  Number of Gamers: 170
   Percentage of Gamers: 91%
-  Ratio: 1.05
+  Ratio: 1.04
   TA: '31'
   Tags:
   - Offline Mode
@@ -224,8 +224,8 @@ Base Game Achievements:
   Description: Complete Level 19
   GS: '30'
   Guide: false
-  Number of Gamers: 95
-  Percentage of Gamers: 91%
+  Number of Gamers: 169
+  Percentage of Gamers: 90%
   Ratio: 1.05
   TA: '31'
   Tags:
@@ -236,9 +236,9 @@ Base Game Achievements:
   Description: Complete Level 20
   GS: '30'
   Guide: false
-  Number of Gamers: 95
+  Number of Gamers: 171
   Percentage of Gamers: 91%
-  Ratio: 1.05
+  Ratio: 1.04
   TA: '31'
   Tags:
   - Offline Mode
@@ -248,7 +248,7 @@ Base Game Achievements:
   Description: Complete Level 21
   GS: '40'
   Guide: false
-  Number of Gamers: 94
+  Number of Gamers: 169
   Percentage of Gamers: 90%
   Ratio: 1.05
   TA: '42'
@@ -260,8 +260,8 @@ Base Game Achievements:
   Description: Complete Level 22
   GS: '40'
   Guide: false
-  Number of Gamers: 95
-  Percentage of Gamers: 91%
+  Number of Gamers: 169
+  Percentage of Gamers: 90%
   Ratio: 1.05
   TA: '42'
   Tags:
@@ -272,9 +272,9 @@ Base Game Achievements:
   Description: Complete Level 23
   GS: '40'
   Guide: false
-  Number of Gamers: 93
+  Number of Gamers: 167
   Percentage of Gamers: 89%
-  Ratio: 1.06
+  Ratio: 1.05
   TA: '42'
   Tags:
   - Offline Mode
@@ -284,9 +284,9 @@ Base Game Achievements:
   Description: Complete Level 24
   GS: '40'
   Guide: false
-  Number of Gamers: 93
+  Number of Gamers: 167
   Percentage of Gamers: 89%
-  Ratio: 1.06
+  Ratio: 1.05
   TA: '42'
   Tags:
   - Offline Mode
@@ -296,9 +296,9 @@ Base Game Achievements:
   Description: Complete Level 25
   GS: '40'
   Guide: false
-  Number of Gamers: 93
+  Number of Gamers: 167
   Percentage of Gamers: 89%
-  Ratio: 1.06
+  Ratio: 1.05
   TA: '42'
   Tags:
   - Offline Mode
@@ -308,7 +308,7 @@ Base Game Achievements:
   Description: Complete Level 26
   GS: '40'
   Guide: false
-  Number of Gamers: 93
+  Number of Gamers: 166
   Percentage of Gamers: 89%
   Ratio: 1.06
   TA: '42'
@@ -320,7 +320,7 @@ Base Game Achievements:
   Description: Complete Level 27
   GS: '40'
   Guide: false
-  Number of Gamers: 93
+  Number of Gamers: 166
   Percentage of Gamers: 89%
   Ratio: 1.06
   TA: '42'
@@ -332,8 +332,8 @@ Base Game Achievements:
   Description: Complete Level 28
   GS: '40'
   Guide: false
-  Number of Gamers: 94
-  Percentage of Gamers: 90%
+  Number of Gamers: 167
+  Percentage of Gamers: 89%
   Ratio: 1.05
   TA: '42'
   Tags:
@@ -344,7 +344,7 @@ Base Game Achievements:
   Description: Complete Level 29
   GS: '40'
   Guide: false
-  Number of Gamers: 93
+  Number of Gamers: 166
   Percentage of Gamers: 89%
   Ratio: 1.06
   TA: '42'
@@ -356,7 +356,7 @@ Base Game Achievements:
   Description: Complete Level 30
   GS: '40'
   Guide: false
-  Number of Gamers: 93
+  Number of Gamers: 166
   Percentage of Gamers: 89%
   Ratio: 1.06
   TA: '42'
@@ -364,34 +364,34 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.0265
-Base TA: 2053
+Base Ratio: 1.0243333333333333
+Base TA: 3073
 Delisted: false
 Developer: Old School Vibes
 Game Name: Guardian of the Water Altar (Windows)
 Genres: Platformer
 Install Size: 321.0
-Number of Completions: 93
-Number of Gamers: 104
+Number of Completions: 165
+Number of Gamers: 187
 Overall Completion Time:
 - 0.0
-- 1.0
-Overall GS: 2000
-Overall Ratio: 1.0265
-Overall TA: 2053
+- 1.5
+Overall GS: 3000
+Overall Ratio: 1.0243333333333333
+Overall TA: 3073
 PDU: 0
-Percentage Completed: 89.42
+Percentage Completed: 88.24
 Publisher: Gray Boss
 Release Date: 11 June 2025
 Server Closure: false
-Site Rating: 1.33
+Site Rating: 2.07
 Update Achievements:
 - Achievement Name: Dark Wing Hunter 1
   Description: Defeat one dark wing
   GS: '200'
   Guide: false
-  Number of Gamers: 99
-  Percentage of Gamers: 95%
+  Number of Gamers: 179
+  Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '204'
   Tags:
@@ -401,8 +401,8 @@ Update Achievements:
   Description: Defeat two dark wing
   GS: '200'
   Guide: false
-  Number of Gamers: 99
-  Percentage of Gamers: 95%
+  Number of Gamers: 179
+  Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '204'
   Tags:
@@ -413,8 +413,8 @@ Update Achievements:
   Description: Defeat three dark wing
   GS: '200'
   Guide: false
-  Number of Gamers: 99
-  Percentage of Gamers: 95%
+  Number of Gamers: 179
+  Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '204'
   Tags:
@@ -425,8 +425,8 @@ Update Achievements:
   Description: Defeat four dark wing
   GS: '200'
   Guide: false
-  Number of Gamers: 99
-  Percentage of Gamers: 95%
+  Number of Gamers: 179
+  Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '204'
   Tags:
@@ -437,8 +437,67 @@ Update Achievements:
   Description: Defeat five dark wing
   GS: '200'
   Guide: false
-  Number of Gamers: 99
+  Number of Gamers: 178
   Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '205'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Exploder Hunter 1
+  Description: Defeat one exploder
+  GS: '200'
+  Guide: false
+  Number of Gamers: 179
+  Percentage of Gamers: 96%
+  Ratio: 1.02
+  TA: '204'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Exploder Hunter 2
+  Description: Defeat two exploder
+  GS: '200'
+  Guide: false
+  Number of Gamers: 179
+  Percentage of Gamers: 96%
+  Ratio: 1.02
+  TA: '204'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Exploder Hunter 3
+  Description: Defeat three exploder
+  GS: '200'
+  Guide: false
+  Number of Gamers: 179
+  Percentage of Gamers: 96%
+  Ratio: 1.02
+  TA: '204'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Exploder Hunter 4
+  Description: Defeat four exploder
+  GS: '200'
+  Guide: false
+  Number of Gamers: 179
+  Percentage of Gamers: 96%
+  Ratio: 1.02
+  TA: '204'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Exploder Hunter 5
+  Description: Defeat five exploder
+  GS: '200'
+  Guide: false
+  Number of Gamers: 179
+  Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '204'
   Tags:

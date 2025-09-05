@@ -1,15 +1,15 @@
 Add On Achievements: []
 Base Completion Time:
-- 20
-- 21
+- 12.0
+- 15.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Sisyphus' Apprentice
   Description: Replay a Level
   GS: '10'
   Guide: false
-  Number of Gamers: 25
-  Percentage of Gamers: 93%
+  Number of Gamers: 50
+  Percentage of Gamers: 96%
   Ratio: 1.01
   TA: '10'
   Tags: []
@@ -17,202 +17,262 @@ Base Game Achievements:
   Description: Play 5 Cards in 5 Seconds
   GS: '30'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 56%
-  Ratio: 1.31
-  TA: '39'
+  Number of Gamers: 34
+  Percentage of Gamers: 65%
+  Ratio: 1.23
+  TA: '37'
   Tags: []
 - Achievement Name: Expert Strategist
   Description: Make 20 Combos of 6 or More
   GS: '30'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 67%
-  Ratio: 1.2
-  TA: '36'
-  Tags: []
+  Number of Gamers: 40
+  Percentage of Gamers: 77%
+  Ratio: 1.14
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Online/Offline
+  - Single Player
+  - Cumulative +
 - Achievement Name: Master Strategist
   Description: Make 100 Combos of 6 or More
   GS: '100'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 56%
-  Ratio: 1.31
-  TA: '131'
-  Tags: []
+  Number of Gamers: 34
+  Percentage of Gamers: 65%
+  Ratio: 1.23
+  TA: '123'
+  Tags:
+  - Offline Mode
+  - Online/Offline
+  - Single Player
+  - Cumulative +
 - Achievement Name: Master Planner
   Description: Make a Combo of 20 or More
   GS: '100'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 44%
-  Ratio: 1.47
-  TA: '147'
-  Tags: []
+  Number of Gamers: 27
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '138'
+  Tags:
+  - Offline Mode
+  - Online/Offline
+  - Single Player
+  - Cumulative +
 - Achievement Name: Treasurer
   Description: Have 1000 Gold in the Bank
   GS: '10'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 67%
-  Ratio: 1.2
-  TA: '12'
+  Number of Gamers: 38
+  Percentage of Gamers: 73%
+  Ratio: 1.16
+  TA: '11'
   Tags: []
 - Achievement Name: Thrifty
   Description: Earn 5000 Gold Cumulatively
   GS: '30'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 56%
-  Ratio: 1.31
-  TA: '39'
-  Tags: []
+  Number of Gamers: 35
+  Percentage of Gamers: 67%
+  Ratio: 1.21
+  TA: '36'
+  Tags:
+  - Offline Mode
+  - Online/Offline
+  - Single Player
+  - Cumulative +
 - Achievement Name: Tycoon
   Description: Buy 5 Items from the Shop
   GS: '30'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 56%
-  Ratio: 1.31
-  TA: '39'
+  Number of Gamers: 34
+  Percentage of Gamers: 65%
+  Ratio: 1.23
+  TA: '37'
   Tags: []
 - Achievement Name: Jailbreaker
   Description: Clear 100 Chains
   GS: '30'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 52%
-  Ratio: 1.36
-  TA: '40'
-  Tags: []
+  Number of Gamers: 33
+  Percentage of Gamers: 63%
+  Ratio: 1.25
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Online/Offline
+  - Single Player
+  - Cumulative +
 - Achievement Name: Sealed In Fate
   Description: Clear 100 Seals
   GS: '30'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 56%
-  Ratio: 1.31
-  TA: '39'
-  Tags: []
+  Number of Gamers: 35
+  Percentage of Gamers: 67%
+  Ratio: 1.21
+  TA: '36'
+  Tags:
+  - Offline Mode
+  - Online/Offline
+  - Single Player
+  - Cumulative +
 - Achievement Name: Queensland
   Description: Play 100 Queens
   GS: '30'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 59%
-  Ratio: 1.27
-  TA: '38'
-  Tags: []
+  Number of Gamers: 36
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '36'
+  Tags:
+  - Offline Mode
+  - Online/Offline
+  - Single Player
+  - Cumulative +
 - Achievement Name: Kingdom
   Description: Play 300 Kings
   GS: '100'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 44%
-  Ratio: 1.47
-  TA: '147'
-  Tags: []
+  Number of Gamers: 30
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '131'
+  Tags:
+  - Offline Mode
+  - Online/Offline
+  - Single Player
+  - Cumulative +
 - Achievement Name: Star Striker
   Description: Gather 100 Stars
   GS: '30'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 59%
-  Ratio: 1.27
-  TA: '38'
-  Tags: []
+  Number of Gamers: 37
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '35'
+  Tags:
+  - Offline Mode
+  - Online/Offline
+  - Single Player
+  - Cumulative +
 - Achievement Name: Constellation Striker
   Description: Gather 500 Stars
   GS: '110'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 37%
-  Ratio: 1.61
-  TA: '177'
-  Tags: []
+  Number of Gamers: 25
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '158'
+  Tags:
+  - Offline Mode
+  - Online/Offline
+  - Single Player
+  - Cumulative +
 - Achievement Name: Perfectionist
   Description: Complete 50 Levels with 3 Stars
   GS: '30'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 56%
-  Ratio: 1.31
-  TA: '39'
-  Tags: []
+  Number of Gamers: 34
+  Percentage of Gamers: 65%
+  Ratio: 1.23
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Online/Offline
+  - Single Player
+  - Cumulative +
 - Achievement Name: Absolute Perfectionist
   Description: Complete 150 Levels with 3 Stars
   GS: '100'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 41%
-  Ratio: 1.53
-  TA: '153'
-  Tags: []
+  Number of Gamers: 25
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '144'
+  Tags:
+  - Offline Mode
+  - Online/Offline
+  - Single Player
+  - Cumulative +
 - Achievement Name: Royal Architect
   Description: Rebuild 35 Upgrades to the Castles
   GS: '30'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 59%
-  Ratio: 1.27
-  TA: '38'
+  Number of Gamers: 35
+  Percentage of Gamers: 67%
+  Ratio: 1.21
+  TA: '36'
   Tags: []
 - Achievement Name: Master Royal Architect
   Description: Rebuild 75 Upgrades to the Castles
   GS: '100'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 41%
-  Ratio: 1.53
-  TA: '153'
+  Number of Gamers: 29
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '133'
   Tags: []
 - Achievement Name: Fanatic
   Description: Play More Than 5 Hours Total
   GS: '30'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 56%
-  Ratio: 1.31
-  TA: '39'
-  Tags: []
+  Number of Gamers: 36
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '36'
+  Tags:
+  - Offline Mode
+  - Online/Offline
+  - Single Player
+  - Cumulative +
 - Achievement Name: Liberator
   Description: Win 3 Bonus Games
   GS: '10'
   Guide: false
-  Number of Gamers: 13
+  Number of Gamers: 25
   Percentage of Gamers: 48%
-  Ratio: 1.41
+  Ratio: 1.44
   TA: '14'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Online/Offline
+  - Single Player
+  - Cumulative +
 - Achievement Name: Ace
   Description: Win 10 Bonus Games
   GS: '30'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 37%
+  Number of Gamers: 20
+  Percentage of Gamers: 38%
   Ratio: 1.61
   TA: '48'
-  Tags: []
-Base Ratio: 1.416
-Base TA: 1416
+  Tags:
+  - Offline Mode
+  - Online/Offline
+  - Single Player
+  - Cumulative +
+Base Ratio: 1.307
+Base TA: 1307
 Delisted: false
 Developer: Suricate Software
 Game Name: Jewel Match Twilight Solitaire
-Genres: Puzzle
+Genres: Card & Board
 Install Size: 684.0
-Number of Completions: 9
-Number of Gamers: 27
+Number of Completions: 19
+Number of Gamers: 52
 Overall Completion Time:
-- 20
-- 21
+- 12.0
+- 15.0
 Overall GS: 1000
-Overall Ratio: 1.416
-Overall TA: 1416
+Overall Ratio: 1.307
+Overall TA: 1307
 PDU: 0
-Percentage Completed: 33.33
+Percentage Completed: 36.54
 Publisher: Ocean Media
 Release Date: 18 June 2025
 Server Closure: false
-Site Rating: 3.33
+Site Rating: 3.4
 Update Achievements: []
 Walkthrough: false

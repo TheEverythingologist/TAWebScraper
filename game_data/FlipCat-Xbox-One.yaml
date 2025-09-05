@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.5
-- 1.5
-Base GS: 2000
+- 2.0
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: Complete level 1
   Description: Complete level 1
   GS: '100'
   Guide: true
-  Number of Gamers: 396
+  Number of Gamers: 505
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '100'
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Complete level 2
   GS: '100'
   Guide: false
-  Number of Gamers: 391
+  Number of Gamers: 500
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -32,8 +32,8 @@ Base Game Achievements:
   Description: Complete level 3
   GS: '100'
   Guide: false
-  Number of Gamers: 390
-  Percentage of Gamers: 98%
+  Number of Gamers: 499
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
   Tags:
@@ -44,8 +44,8 @@ Base Game Achievements:
   Description: Complete level 4
   GS: '100'
   Guide: false
-  Number of Gamers: 390
-  Percentage of Gamers: 98%
+  Number of Gamers: 499
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
   Tags:
@@ -56,8 +56,8 @@ Base Game Achievements:
   Description: Complete level 5
   GS: '100'
   Guide: false
-  Number of Gamers: 390
-  Percentage of Gamers: 98%
+  Number of Gamers: 499
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
   Tags:
@@ -68,7 +68,7 @@ Base Game Achievements:
   Description: Complete level 6
   GS: '100'
   Guide: false
-  Number of Gamers: 387
+  Number of Gamers: 495
   Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '101'
@@ -80,8 +80,8 @@ Base Game Achievements:
   Description: Complete level 12
   GS: '100'
   Guide: true
-  Number of Gamers: 377
-  Percentage of Gamers: 95%
+  Number of Gamers: 484
+  Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '102'
   Tags:
@@ -92,10 +92,10 @@ Base Game Achievements:
   Description: Complete level 18
   GS: '100'
   Guide: true
-  Number of Gamers: 356
-  Percentage of Gamers: 90%
-  Ratio: 1.05
-  TA: '105'
+  Number of Gamers: 463
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '104'
   Tags:
   - Offline Mode
   - Single Player
@@ -104,10 +104,10 @@ Base Game Achievements:
   Description: Complete level 24
   GS: '100'
   Guide: true
-  Number of Gamers: 300
+  Number of Gamers: 383
   Percentage of Gamers: 76%
-  Ratio: 1.14
-  TA: '114'
+  Ratio: 1.15
+  TA: '115'
   Tags:
   - Offline Mode
   - Single Player
@@ -116,7 +116,7 @@ Base Game Achievements:
   Description: Complete level 30
   GS: '100'
   Guide: true
-  Number of Gamers: 297
+  Number of Gamers: 379
   Percentage of Gamers: 75%
   Ratio: 1.15
   TA: '115'
@@ -124,36 +124,36 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.0735
-Base TA: 2147
+Base Ratio: 1.1356666666666666
+Base TA: 3407
 Delisted: false
 Developer: Fabrizio Abreu
 Game Name: FlipCat (Xbox One)
 Genres: Platformer
 Install Size: 505.0
-Number of Completions: 269
-Number of Gamers: 396
+Number of Completions: 264
+Number of Gamers: 505
 Overall Completion Time:
 - 0.5
-- 1.5
-Overall GS: 2000
-Overall Ratio: 1.0735
-Overall TA: 2147
+- 2.0
+Overall GS: 3000
+Overall Ratio: 1.1356666666666666
+Overall TA: 3407
 PDU: 0
-Percentage Completed: 67.93
+Percentage Completed: 52.28
 Publisher: Fa Games
 Release Date: 10 January 2025
 Server Closure: false
-Site Rating: 2.27
+Site Rating: 2.45
 Update Achievements:
 - Achievement Name: Complete level 7
   Description: Complete level 7
   GS: '200'
-  Guide: true
-  Number of Gamers: 320
-  Percentage of Gamers: 81%
-  Ratio: 1.11
-  TA: '222'
+  Guide: false
+  Number of Gamers: 435
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '215'
   Tags:
   - Offline Mode
   - Single Player
@@ -162,10 +162,10 @@ Update Achievements:
   Description: Complete level 8
   GS: '200'
   Guide: false
-  Number of Gamers: 320
-  Percentage of Gamers: 81%
-  Ratio: 1.11
-  TA: '222'
+  Number of Gamers: 435
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '215'
   Tags:
   - Offline Mode
   - Single Player
@@ -174,10 +174,10 @@ Update Achievements:
   Description: Complete level 9
   GS: '200'
   Guide: false
-  Number of Gamers: 320
-  Percentage of Gamers: 81%
-  Ratio: 1.11
-  TA: '222'
+  Number of Gamers: 435
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '215'
   Tags:
   - Offline Mode
   - Single Player
@@ -186,10 +186,10 @@ Update Achievements:
   Description: Complete level 10
   GS: '200'
   Guide: false
-  Number of Gamers: 320
-  Percentage of Gamers: 81%
-  Ratio: 1.11
-  TA: '222'
+  Number of Gamers: 434
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '215'
   Tags:
   - Offline Mode
   - Single Player
@@ -198,10 +198,70 @@ Update Achievements:
   Description: Complete level 11
   GS: '200'
   Guide: true
-  Number of Gamers: 320
-  Percentage of Gamers: 81%
-  Ratio: 1.11
-  TA: '222'
+  Number of Gamers: 434
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '215'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Complete level 13
+  Description: Complete level 13
+  GS: '200'
+  Guide: false
+  Number of Gamers: 306
+  Percentage of Gamers: 61%
+  Ratio: 1.29
+  TA: '259'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Complete level 14
+  Description: Complete level 14
+  GS: '200'
+  Guide: false
+  Number of Gamers: 306
+  Percentage of Gamers: 61%
+  Ratio: 1.29
+  TA: '259'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Complete level 15
+  Description: Complete level 15
+  GS: '200'
+  Guide: false
+  Number of Gamers: 306
+  Percentage of Gamers: 61%
+  Ratio: 1.29
+  TA: '259'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Complete level 16
+  Description: Complete level 16
+  GS: '200'
+  Guide: false
+  Number of Gamers: 306
+  Percentage of Gamers: 61%
+  Ratio: 1.29
+  TA: '259'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Complete level 17
+  Description: Complete level 17
+  GS: '200'
+  Guide: false
+  Number of Gamers: 307
+  Percentage of Gamers: 61%
+  Ratio: 1.29
+  TA: '259'
   Tags:
   - Offline Mode
   - Single Player

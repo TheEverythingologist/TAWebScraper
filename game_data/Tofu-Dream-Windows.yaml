@@ -1,60 +1,15 @@
-Add On Achievements:
-- Achievement Name: Jump 5
-  Description: Jump 5 times
-  GS: '200'
-  Guide: false
-  Number of Gamers: 105
-  Percentage of Gamers: 94%
-  Ratio: 1.23
-  TA: '247'
-  Tags: []
-- Achievement Name: Jump 10
-  Description: Jump 10 times
-  GS: '200'
-  Guide: false
-  Number of Gamers: 105
-  Percentage of Gamers: 94%
-  Ratio: 1.23
-  TA: '247'
-  Tags: []
-- Achievement Name: Jump 15
-  Description: Jump 15 times
-  GS: '200'
-  Guide: false
-  Number of Gamers: 105
-  Percentage of Gamers: 94%
-  Ratio: 1.23
-  TA: '247'
-  Tags: []
-- Achievement Name: Jump 20
-  Description: Jump 20 times
-  GS: '200'
-  Guide: false
-  Number of Gamers: 105
-  Percentage of Gamers: 94%
-  Ratio: 1.23
-  TA: '247'
-  Tags: []
-- Achievement Name: Jump 30
-  Description: Jump 30 times
-  GS: '200'
-  Guide: false
-  Number of Gamers: 105
-  Percentage of Gamers: 94%
-  Ratio: 1.23
-  TA: '247'
-  Tags: []
+Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 1.0
-Base GS: 2000
+- 1.5
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: Level 5
   Description: Beat level 5
   GS: '100'
   Guide: false
-  Number of Gamers: 217
-  Percentage of Gamers: 97%
+  Number of Gamers: 327
+  Percentage of Gamers: 96%
   Ratio: 1.01
   TA: '101'
   Tags:
@@ -65,10 +20,10 @@ Base Game Achievements:
   Description: Beat level 10
   GS: '100'
   Guide: false
-  Number of Gamers: 217
-  Percentage of Gamers: 97%
-  Ratio: 1.01
-  TA: '101'
+  Number of Gamers: 326
+  Percentage of Gamers: 96%
+  Ratio: 1.02
+  TA: '102'
   Tags:
   - Offline Mode
   - Single Player
@@ -77,10 +32,10 @@ Base Game Achievements:
   Description: Beat level 15
   GS: '100'
   Guide: false
-  Number of Gamers: 211
-  Percentage of Gamers: 94%
-  Ratio: 1.03
-  TA: '103'
+  Number of Gamers: 324
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '102'
   Tags:
   - Offline Mode
   - Single Player
@@ -89,10 +44,10 @@ Base Game Achievements:
   Description: Beat level 20
   GS: '100'
   Guide: false
-  Number of Gamers: 211
-  Percentage of Gamers: 94%
-  Ratio: 1.03
-  TA: '103'
+  Number of Gamers: 324
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '102'
   Tags:
   - Offline Mode
   - Single Player
@@ -101,10 +56,10 @@ Base Game Achievements:
   Description: Beat level 25
   GS: '100'
   Guide: false
-  Number of Gamers: 211
-  Percentage of Gamers: 94%
-  Ratio: 1.03
-  TA: '103'
+  Number of Gamers: 324
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '102'
   Tags:
   - Offline Mode
   - Single Player
@@ -113,10 +68,10 @@ Base Game Achievements:
   Description: Beat level 30
   GS: '100'
   Guide: false
-  Number of Gamers: 211
-  Percentage of Gamers: 94%
-  Ratio: 1.03
-  TA: '103'
+  Number of Gamers: 324
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '102'
   Tags:
   - Offline Mode
   - Single Player
@@ -125,10 +80,10 @@ Base Game Achievements:
   Description: Beat level 35
   GS: '100'
   Guide: false
-  Number of Gamers: 211
-  Percentage of Gamers: 94%
-  Ratio: 1.03
-  TA: '103'
+  Number of Gamers: 324
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '102'
   Tags:
   - Offline Mode
   - Single Player
@@ -137,10 +92,10 @@ Base Game Achievements:
   Description: Beat level 40
   GS: '100'
   Guide: true
-  Number of Gamers: 211
-  Percentage of Gamers: 94%
-  Ratio: 1.03
-  TA: '103'
+  Number of Gamers: 324
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '102'
   Tags:
   - Offline Mode
   - Single Player
@@ -149,7 +104,7 @@ Base Game Achievements:
   Description: Beat level 12
   GS: '100'
   Guide: false
-  Number of Gamers: 215
+  Number of Gamers: 325
   Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '102'
@@ -161,44 +116,44 @@ Base Game Achievements:
   Description: Beat level 27
   GS: '100'
   Guide: false
-  Number of Gamers: 211
-  Percentage of Gamers: 94%
-  Ratio: 1.03
-  TA: '103'
+  Number of Gamers: 324
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '102'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.023
-Base TA: 2046
+Base Ratio: 1.027
+Base TA: 3081
 Delisted: false
 Developer: 2dragontails
 Game Name: Tofu Dream (Windows)
 Genres: Platformer
 Install Size: 89.0
-Number of Completions: 107
-Number of Gamers: 224
+Number of Completions: 302
+Number of Gamers: 340
 Overall Completion Time:
 - 0.0
 - 1.5
 Overall GS: 3000
-Overall Ratio: 1.0936666666666666
-Overall TA: 3281
+Overall Ratio: 1.027
+Overall TA: 3081
 PDU: 0
-Percentage Completed: 47.77
+Percentage Completed: 88.82
 Publisher: 2dragontails
 Release Date: 21 May 2025
 Server Closure: false
-Site Rating: 2.07
+Site Rating: 2.17
 Update Achievements:
 - Achievement Name: Level 2
   Description: Beat level 2
   GS: '200'
   Guide: false
-  Number of Gamers: 222
+  Number of Gamers: 336
   Percentage of Gamers: 99%
   Ratio: 1.0
-  TA: '200'
+  TA: '201'
   Tags:
   - Offline Mode
   - Single Player
@@ -207,10 +162,10 @@ Update Achievements:
   Description: Beat level 7
   GS: '200'
   Guide: false
-  Number of Gamers: 216
+  Number of Gamers: 326
   Percentage of Gamers: 96%
-  Ratio: 1.01
-  TA: '203'
+  Ratio: 1.02
+  TA: '204'
   Tags:
   - Offline Mode
   - Single Player
@@ -219,10 +174,10 @@ Update Achievements:
   Description: Beat level 16
   GS: '200'
   Guide: false
-  Number of Gamers: 210
-  Percentage of Gamers: 94%
-  Ratio: 1.03
-  TA: '206'
+  Number of Gamers: 323
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '205'
   Tags:
   - Offline Mode
   - Single Player
@@ -231,10 +186,10 @@ Update Achievements:
   Description: Beat level 21
   GS: '200'
   Guide: false
-  Number of Gamers: 210
-  Percentage of Gamers: 94%
-  Ratio: 1.03
-  TA: '206'
+  Number of Gamers: 323
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '205'
   Tags:
   - Offline Mode
   - Single Player
@@ -243,12 +198,72 @@ Update Achievements:
   Description: Beat level 39
   GS: '200'
   Guide: false
-  Number of Gamers: 210
-  Percentage of Gamers: 94%
-  Ratio: 1.03
-  TA: '206'
+  Number of Gamers: 323
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '205'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
+- Achievement Name: Jump 5
+  Description: Jump 5 times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 313
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '208'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Jump 10
+  Description: Jump 10 times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 312
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '208'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Jump 15
+  Description: Jump 15 times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 312
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '208'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Jump 20
+  Description: Jump 20 times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 311
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '209'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Jump 30
+  Description: Jump 30 times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 310
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '209'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 Walkthrough: false

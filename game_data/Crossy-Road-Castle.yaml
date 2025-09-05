@@ -2,13 +2,13 @@ Add On Achievements: []
 Base Completion Time:
 - 12.0
 - 15.0
-Base GS: 1000
+Base GS: 1030
 Base Game Achievements:
 - Achievement Name: First Run
   Description: Complete the tutorial
   GS: '10'
   Guide: false
-  Number of Gamers: 370
+  Number of Gamers: 392
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '10'
@@ -21,7 +21,7 @@ Base Game Achievements:
   Description: Play a multiplayer game
   GS: '10'
   Guide: false
-  Number of Gamers: 295
+  Number of Gamers: 314
   Percentage of Gamers: 76%
   Ratio: 1.14
   TA: '11'
@@ -33,8 +33,8 @@ Base Game Achievements:
   Description: Wear a silly hat
   GS: '10'
   Guide: false
-  Number of Gamers: 320
-  Percentage of Gamers: 82%
+  Number of Gamers: 334
+  Percentage of Gamers: 81%
   Ratio: 1.1
   TA: '11'
   Tags:
@@ -46,9 +46,9 @@ Base Game Achievements:
   Description: Find a secret room
   GS: '10'
   Guide: true
-  Number of Gamers: 261
-  Percentage of Gamers: 67%
-  Ratio: 1.22
+  Number of Gamers: 279
+  Percentage of Gamers: 68%
+  Ratio: 1.21
   TA: '12'
   Tags:
   - Online/Offline
@@ -59,10 +59,10 @@ Base Game Achievements:
   Description: Die 100 times
   GS: '20'
   Guide: false
-  Number of Gamers: 165
-  Percentage of Gamers: 42%
-  Ratio: 1.54
-  TA: '30'
+  Number of Gamers: 183
+  Percentage of Gamers: 45%
+  Ratio: 1.49
+  TA: '29'
   Tags:
   - Online/Offline
   - Single Player
@@ -72,9 +72,9 @@ Base Game Achievements:
   Description: Bop 50 clouds
   GS: '20'
   Guide: false
-  Number of Gamers: 207
-  Percentage of Gamers: 53%
-  Ratio: 1.37
+  Number of Gamers: 220
+  Percentage of Gamers: 54%
+  Ratio: 1.36
   TA: '27'
   Tags:
   - Online/Offline
@@ -85,9 +85,9 @@ Base Game Achievements:
   Description: Unlock Construction Tower
   GS: '10'
   Guide: false
-  Number of Gamers: 328
+  Number of Gamers: 347
   Percentage of Gamers: 84%
-  Ratio: 1.09
+  Ratio: 1.08
   TA: '10'
   Tags:
   - Online/Offline
@@ -97,9 +97,9 @@ Base Game Achievements:
   Description: Blow up 50 fuse bombs
   GS: '20'
   Guide: false
-  Number of Gamers: 222
+  Number of Gamers: 236
   Percentage of Gamers: 57%
-  Ratio: 1.32
+  Ratio: 1.31
   TA: '26'
   Tags:
   - Online/Offline
@@ -110,9 +110,9 @@ Base Game Achievements:
   Description: Unlock Creepy Carnival
   GS: '10'
   Guide: false
-  Number of Gamers: 163
-  Percentage of Gamers: 42%
-  Ratio: 1.54
+  Number of Gamers: 176
+  Percentage of Gamers: 43%
+  Ratio: 1.52
   TA: '15'
   Tags:
   - Online/Offline
@@ -122,9 +122,9 @@ Base Game Achievements:
   Description: Rescue the Owl boss on floor 30 in the Creepy Carnival
   GS: '20'
   Guide: false
-  Number of Gamers: 128
+  Number of Gamers: 137
   Percentage of Gamers: 33%
-  Ratio: 1.74
+  Ratio: 1.73
   TA: '34'
   Tags:
   - Online/Offline
@@ -134,7 +134,7 @@ Base Game Achievements:
   Description: Unlock The Great Treehouse
   GS: '10'
   Guide: false
-  Number of Gamers: 130
+  Number of Gamers: 137
   Percentage of Gamers: 33%
   Ratio: 1.73
   TA: '17'
@@ -146,10 +146,10 @@ Base Game Achievements:
   Description: Play as Blue and knock over a plant pot in The Great Treehouse
   GS: '20'
   Guide: false
-  Number of Gamers: 57
+  Number of Gamers: 61
   Percentage of Gamers: 15%
-  Ratio: 2.61
-  TA: '52'
+  Ratio: 2.59
+  TA: '51'
   Tags:
   - Online/Offline
   - Single Player
@@ -158,7 +158,7 @@ Base Game Achievements:
   Description: Unlock Space Station 115
   GS: '10'
   Guide: false
-  Number of Gamers: 118
+  Number of Gamers: 124
   Percentage of Gamers: 30%
   Ratio: 1.82
   TA: '18'
@@ -170,9 +170,9 @@ Base Game Achievements:
   Description: Bounce on a UFO 10 times without touching the ground
   GS: '20'
   Guide: true
-  Number of Gamers: 71
-  Percentage of Gamers: 18%
-  Ratio: 2.34
+  Number of Gamers: 77
+  Percentage of Gamers: 19%
+  Ratio: 2.31
   TA: '46'
   Tags:
   - Online/Offline
@@ -183,9 +183,9 @@ Base Game Achievements:
   Description: Unlock Candy Cafe
   GS: '10'
   Guide: false
-  Number of Gamers: 117
-  Percentage of Gamers: 30%
-  Ratio: 1.82
+  Number of Gamers: 121
+  Percentage of Gamers: 29%
+  Ratio: 1.84
   TA: '18'
   Tags:
   - Online/Offline
@@ -195,9 +195,9 @@ Base Game Achievements:
   Description: Bop gameshow rivals 50 times in the Candy Cafe boss battle
   GS: '20'
   Guide: false
-  Number of Gamers: 83
+  Number of Gamers: 86
   Percentage of Gamers: 21%
-  Ratio: 2.17
+  Ratio: 2.18
   TA: '43'
   Tags:
   - Online/Offline
@@ -208,9 +208,9 @@ Base Game Achievements:
   Description: Unlock The Lost Temple
   GS: '10'
   Guide: false
-  Number of Gamers: 102
+  Number of Gamers: 105
   Percentage of Gamers: 26%
-  Ratio: 1.96
+  Ratio: 1.97
   TA: '19'
   Tags:
   - Online/Offline
@@ -220,10 +220,10 @@ Base Game Achievements:
   Description: Beat The Lost Temple boss without missing any spike balls
   GS: '20'
   Guide: false
-  Number of Gamers: 63
+  Number of Gamers: 65
   Percentage of Gamers: 16%
-  Ratio: 2.48
-  TA: '49'
+  Ratio: 2.51
+  TA: '50'
   Tags:
   - Online/Offline
   - Single Player
@@ -232,9 +232,9 @@ Base Game Achievements:
   Description: Unlock Snowpeak Palace
   GS: '10'
   Guide: false
-  Number of Gamers: 94
+  Number of Gamers: 97
   Percentage of Gamers: 24%
-  Ratio: 2.04
+  Ratio: 2.05
   TA: '20'
   Tags:
   - Online/Offline
@@ -244,10 +244,10 @@ Base Game Achievements:
   Description: Do 50 tricks on a snowboard during the Snowpeak Palace boss battle
   GS: '20'
   Guide: false
-  Number of Gamers: 44
+  Number of Gamers: 45
   Percentage of Gamers: 11%
-  Ratio: 2.97
-  TA: '59'
+  Ratio: 3.02
+  TA: '60'
   Tags:
   - Online/Offline
   - Single Player
@@ -257,9 +257,9 @@ Base Game Achievements:
   Description: Stand still in Snowpeak Palace for 10 seconds
   GS: '10'
   Guide: true
-  Number of Gamers: 86
+  Number of Gamers: 91
   Percentage of Gamers: 22%
-  Ratio: 2.13
+  Ratio: 2.12
   TA: '21'
   Tags:
   - Online/Offline
@@ -270,9 +270,9 @@ Base Game Achievements:
   Description: Unlock Sandcastle Shores
   GS: '10'
   Guide: false
-  Number of Gamers: 100
+  Number of Gamers: 106
   Percentage of Gamers: 26%
-  Ratio: 1.98
+  Ratio: 1.96
   TA: '19'
   Tags:
   - Online/Offline
@@ -282,9 +282,9 @@ Base Game Achievements:
   Description: Get thrown by 50 Flip Flop enemies
   GS: '20'
   Guide: true
-  Number of Gamers: 64
+  Number of Gamers: 65
   Percentage of Gamers: 16%
-  Ratio: 2.52
+  Ratio: 2.51
   TA: '50'
   Tags:
   - Online/Offline
@@ -295,9 +295,9 @@ Base Game Achievements:
   Description: Unlock Windup Workshop
   GS: '10'
   Guide: false
-  Number of Gamers: 112
-  Percentage of Gamers: 29%
-  Ratio: 1.86
+  Number of Gamers: 116
+  Percentage of Gamers: 28%
+  Ratio: 1.88
   TA: '18'
   Tags:
   - Online/Offline
@@ -308,9 +308,9 @@ Base Game Achievements:
     the ground
   GS: '20'
   Guide: true
-  Number of Gamers: 94
-  Percentage of Gamers: 24%
-  Ratio: 2.03
+  Number of Gamers: 101
+  Percentage of Gamers: 25%
+  Ratio: 2.01
   TA: '40'
   Tags:
   - Online/Offline
@@ -320,9 +320,9 @@ Base Game Achievements:
   Description: Collect 10 hats
   GS: '20'
   Guide: false
-  Number of Gamers: 150
-  Percentage of Gamers: 38%
-  Ratio: 1.61
+  Number of Gamers: 159
+  Percentage of Gamers: 39%
+  Ratio: 1.6
   TA: '32'
   Tags:
   - Online/Offline
@@ -333,9 +333,9 @@ Base Game Achievements:
   Description: Pickup 1000 coins
   GS: '20'
   Guide: false
-  Number of Gamers: 286
-  Percentage of Gamers: 73%
-  Ratio: 1.16
+  Number of Gamers: 307
+  Percentage of Gamers: 75%
+  Ratio: 1.15
   TA: '23'
   Tags:
   - Online/Offline
@@ -346,10 +346,10 @@ Base Game Achievements:
   Description: Stomp on 500 enemies
   GS: '20'
   Guide: false
-  Number of Gamers: 92
-  Percentage of Gamers: 24%
-  Ratio: 2.05
-  TA: '41'
+  Number of Gamers: 93
+  Percentage of Gamers: 23%
+  Ratio: 2.1
+  TA: '42'
   Tags:
   - Online/Offline
   - Single Player
@@ -359,8 +359,8 @@ Base Game Achievements:
   Description: Reach floor 10 of any tower
   GS: '10'
   Guide: false
-  Number of Gamers: 387
-  Percentage of Gamers: 99%
+  Number of Gamers: 409
+  Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '10'
   Tags:
@@ -371,9 +371,9 @@ Base Game Achievements:
   Description: Collect 10 stickers
   GS: '20'
   Guide: false
-  Number of Gamers: 210
-  Percentage of Gamers: 54%
-  Ratio: 1.36
+  Number of Gamers: 225
+  Percentage of Gamers: 55%
+  Ratio: 1.35
   TA: '27'
   Tags:
   - Online/Offline
@@ -384,9 +384,9 @@ Base Game Achievements:
   Description: Try a Challenge Event
   GS: '10'
   Guide: false
-  Number of Gamers: 210
-  Percentage of Gamers: 54%
-  Ratio: 1.37
+  Number of Gamers: 219
+  Percentage of Gamers: 53%
+  Ratio: 1.36
   TA: '13'
   Tags:
   - Online Mode
@@ -397,9 +397,9 @@ Base Game Achievements:
   Description: Bop 3 enemies without touching the ground
   GS: '10'
   Guide: false
-  Number of Gamers: 234
-  Percentage of Gamers: 60%
-  Ratio: 1.29
+  Number of Gamers: 249
+  Percentage of Gamers: 61%
+  Ratio: 1.28
   TA: '12'
   Tags:
   - Online/Offline
@@ -409,8 +409,8 @@ Base Game Achievements:
   Description: Leave 50 enemies alive
   GS: '20'
   Guide: false
-  Number of Gamers: 278
-  Percentage of Gamers: 71%
+  Number of Gamers: 294
+  Percentage of Gamers: 72%
   Ratio: 1.18
   TA: '23'
   Tags:
@@ -422,10 +422,10 @@ Base Game Achievements:
   Description: Dress the Prince in a Cap
   GS: '30'
   Guide: true
-  Number of Gamers: 20
+  Number of Gamers: 19
   Percentage of Gamers: 5%
-  Ratio: 4.41
-  TA: '132'
+  Ratio: 4.65
+  TA: '139'
   Tags:
   - Online/Offline
   - Single Player
@@ -436,10 +436,10 @@ Base Game Achievements:
   Description: Collect all secret gems from any tower
   GS: '40'
   Guide: true
-  Number of Gamers: 45
-  Percentage of Gamers: 12%
-  Ratio: 2.94
-  TA: '117'
+  Number of Gamers: 47
+  Percentage of Gamers: 11%
+  Ratio: 2.95
+  TA: '118'
   Tags:
   - Online/Offline
   - Single Player
@@ -449,10 +449,10 @@ Base Game Achievements:
   Description: Stomp on 1000 enemies
   GS: '30'
   Guide: false
-  Number of Gamers: 55
+  Number of Gamers: 57
   Percentage of Gamers: 14%
-  Ratio: 2.7
-  TA: '81'
+  Ratio: 2.68
+  TA: '80'
   Tags:
   - Online/Offline
   - Single Player
@@ -462,7 +462,7 @@ Base Game Achievements:
   Description: Reach floor 50 of any tower
   GS: '30'
   Guide: false
-  Number of Gamers: 307
+  Number of Gamers: 325
   Percentage of Gamers: 79%
   Ratio: 1.12
   TA: '33'
@@ -476,8 +476,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 32
   Percentage of Gamers: 8%
-  Ratio: 3.48
-  TA: '139'
+  Ratio: 3.58
+  TA: '143'
   Tags:
   - Online/Offline
   - Single Player
@@ -487,10 +487,10 @@ Base Game Achievements:
   Description: Unlock all hats from any tower
   GS: '40'
   Guide: true
-  Number of Gamers: 58
+  Number of Gamers: 60
   Percentage of Gamers: 15%
-  Ratio: 2.58
-  TA: '103'
+  Ratio: 2.61
+  TA: '104'
   Tags:
   - Online/Offline
   - Single Player
@@ -500,10 +500,10 @@ Base Game Achievements:
   Description: Obtain 5 mystery Rainbow Thingies and unlock Rainbow Rift
   GS: '80'
   Guide: true
-  Number of Gamers: 42
+  Number of Gamers: 44
   Percentage of Gamers: 11%
-  Ratio: 3.08
-  TA: '246'
+  Ratio: 3.05
+  TA: '244'
   Tags:
   - Online/Offline
   - Single Player
@@ -512,7 +512,7 @@ Base Game Achievements:
   Description: Pickup 10000 coins
   GS: '60'
   Guide: false
-  Number of Gamers: 109
+  Number of Gamers: 115
   Percentage of Gamers: 28%
   Ratio: 1.89
   TA: '113'
@@ -525,10 +525,10 @@ Base Game Achievements:
   Description: Stomp on 5000 enemies
   GS: '60'
   Guide: true
-  Number of Gamers: 24
+  Number of Gamers: 25
   Percentage of Gamers: 6%
-  Ratio: 4.02
-  TA: '241'
+  Ratio: 4.05
+  TA: '243'
   Tags:
   - Online/Offline
   - Single Player
@@ -538,34 +538,59 @@ Base Game Achievements:
   Description: Reach floor 100 of any tower
   GS: '100'
   Guide: false
-  Number of Gamers: 129
-  Percentage of Gamers: 33%
-  Ratio: 1.75
-  TA: '175'
+  Number of Gamers: 138
+  Percentage of Gamers: 34%
+  Ratio: 1.72
+  TA: '172'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
-Base Ratio: 2.236
-Base TA: 2236
+Base Ratio: 2.3640776699029127
+Base TA: 2435
 Delisted: false
 Developer: Hipster Whale
 Game Name: Crossy Road Castle
 Genres: Platformer
-Install Size: 787.0
-Number of Completions: 16
-Number of Gamers: 390
+Install Size: 798.0
+Number of Completions: 8
+Number of Gamers: 411
 Overall Completion Time:
 - 12.0
 - 15.0
-Overall GS: 1000
-Overall Ratio: 2.236
-Overall TA: 2236
+Overall GS: 1030
+Overall Ratio: 2.3640776699029127
+Overall TA: 2435
 PDU: 0
-Percentage Completed: 4.1
+Percentage Completed: 1.95
 Publisher: Hipster Whale
 Release Date: 11 September 2024
 Server Closure: false
 Site Rating: 3.2
-Update Achievements: []
+Update Achievements:
+- Achievement Name: Dungeon Discoverer
+  Description: Unlock Eagle's Fiendish Fortress
+  GS: '10'
+  Guide: false
+  Number of Gamers: 11
+  Percentage of Gamers: 3%
+  Ratio: 6.11
+  TA: '61'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: On The Shoulders of Giants
+  Description: Ride on the heads of Big Buddies for 200 seconds
+  GS: '20'
+  Guide: false
+  Number of Gamers: 10
+  Percentage of Gamers: 2%
+  Ratio: 6.41
+  TA: '128'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
 Walkthrough: false

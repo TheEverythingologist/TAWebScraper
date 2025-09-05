@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 37
-- 38
+- 34
+- 35
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: First come, first served
   Description: First enemy killed
   GS: '25'
   Guide: true
-  Number of Gamers: 1256
+  Number of Gamers: 1467
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '25'
@@ -20,8 +20,8 @@ Base Game Achievements:
   Description: First level completed
   GS: '25'
   Guide: false
-  Number of Gamers: 1123
-  Percentage of Gamers: 89%
+  Number of Gamers: 1316
+  Percentage of Gamers: 90%
   Ratio: 1.05
   TA: '26'
   Tags:
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: First boss completed
   GS: '50'
   Guide: false
-  Number of Gamers: 375
+  Number of Gamers: 444
   Percentage of Gamers: 30%
-  Ratio: 1.83
-  TA: '91'
+  Ratio: 1.81
+  TA: '90'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,8 +44,8 @@ Base Game Achievements:
   Description: First weapon unlocked
   GS: '25'
   Guide: false
-  Number of Gamers: 823
-  Percentage of Gamers: 65%
+  Number of Gamers: 970
+  Percentage of Gamers: 66%
   Ratio: 1.23
   TA: '30'
   Tags:
@@ -56,7 +56,7 @@ Base Game Achievements:
   Description: 25 Doors destroyed
   GS: '25'
   Guide: false
-  Number of Gamers: 526
+  Number of Gamers: 619
   Percentage of Gamers: 42%
   Ratio: 1.54
   TA: '38'
@@ -68,8 +68,8 @@ Base Game Achievements:
   Description: 100 enemies killed
   GS: '50'
   Guide: false
-  Number of Gamers: 807
-  Percentage of Gamers: 64%
+  Number of Gamers: 954
+  Percentage of Gamers: 65%
   Ratio: 1.24
   TA: '62'
   Tags:
@@ -80,10 +80,10 @@ Base Game Achievements:
   Description: Died 250 times
   GS: '50'
   Guide: false
-  Number of Gamers: 232
-  Percentage of Gamers: 18%
-  Ratio: 2.32
-  TA: '116'
+  Number of Gamers: 279
+  Percentage of Gamers: 19%
+  Ratio: 2.29
+  TA: '114'
   Tags:
   - Offline Mode
   - Single Player
@@ -92,10 +92,10 @@ Base Game Achievements:
   Description: Second day completed
   GS: '50'
   Guide: false
-  Number of Gamers: 218
+  Number of Gamers: 246
   Percentage of Gamers: 17%
-  Ratio: 2.4
-  TA: '120'
+  Ratio: 2.44
+  TA: '122'
   Tags:
   - Offline Mode
   - Single Player
@@ -104,7 +104,7 @@ Base Game Achievements:
   Description: 1000 enemies killed
   GS: '50'
   Guide: false
-  Number of Gamers: 240
+  Number of Gamers: 282
   Percentage of Gamers: 19%
   Ratio: 2.28
   TA: '114'
@@ -116,10 +116,10 @@ Base Game Achievements:
   Description: One hour in slowmotion
   GS: '50'
   Guide: false
-  Number of Gamers: 135
+  Number of Gamers: 156
   Percentage of Gamers: 11%
-  Ratio: 3.05
-  TA: '152'
+  Ratio: 3.06
+  TA: '153'
   Tags:
   - Offline Mode
   - Single Player
@@ -128,8 +128,8 @@ Base Game Achievements:
   Description: Picked up 50 weapons
   GS: '50'
   Guide: true
-  Number of Gamers: 561
-  Percentage of Gamers: 45%
+  Number of Gamers: 653
+  Percentage of Gamers: 44%
   Ratio: 1.49
   TA: '74'
   Tags:
@@ -140,7 +140,7 @@ Base Game Achievements:
   Description: Completed a level on first try
   GS: '50'
   Guide: false
-  Number of Gamers: 503
+  Number of Gamers: 583
   Percentage of Gamers: 40%
   Ratio: 1.58
   TA: '79'
@@ -152,7 +152,7 @@ Base Game Achievements:
   Description: Completed a level without slowmotion
   GS: '50'
   Guide: false
-  Number of Gamers: 860
+  Number of Gamers: 1003
   Percentage of Gamers: 68%
   Ratio: 1.2
   TA: '60'
@@ -163,10 +163,10 @@ Base Game Achievements:
   Description: Complete first day without dying on medium difficulty
   GS: '50'
   Guide: false
-  Number of Gamers: 27
+  Number of Gamers: 33
   Percentage of Gamers: 2%
-  Ratio: 6.82
-  TA: '341'
+  Ratio: 6.66
+  TA: '333'
   Tags:
   - Offline Mode
   - Single Player
@@ -176,10 +176,10 @@ Base Game Achievements:
   Description: 10 000 enemies killed
   GS: '50'
   Guide: false
-  Number of Gamers: 23
+  Number of Gamers: 29
   Percentage of Gamers: 2%
-  Ratio: 7.39
-  TA: '369'
+  Ratio: 7.11
+  TA: '355'
   Tags:
   - Offline Mode
   - Single Player
@@ -188,10 +188,10 @@ Base Game Achievements:
   Description: Complete the first and second day without dying on medium difficulty
   GS: '100'
   Guide: true
-  Number of Gamers: 21
+  Number of Gamers: 27
   Percentage of Gamers: 2%
-  Ratio: 7.73
-  TA: '773'
+  Ratio: 7.37
+  TA: '737'
   Tags:
   - Offline Mode
   - Single Player
@@ -201,10 +201,10 @@ Base Game Achievements:
   Description: All challenges completed on medium difficulty
   GS: '50'
   Guide: false
-  Number of Gamers: 12
+  Number of Gamers: 15
   Percentage of Gamers: 1%
-  Ratio: 10.23
-  TA: '511'
+  Ratio: 9.89
+  TA: '494'
   Tags:
   - Offline Mode
   - Single Player
@@ -213,10 +213,10 @@ Base Game Achievements:
   Description: All weapons and upgrades unlocked on medium difficulty
   GS: '50'
   Guide: false
-  Number of Gamers: 13
+  Number of Gamers: 16
   Percentage of Gamers: 1%
-  Ratio: 9.83
-  TA: '491'
+  Ratio: 9.57
+  TA: '478'
   Tags:
   - Offline Mode
   - Single Player
@@ -225,34 +225,34 @@ Base Game Achievements:
   Description: Game completed on medium difficulty
   GS: '150'
   Guide: true
-  Number of Gamers: 48
+  Number of Gamers: 61
   Percentage of Gamers: 4%
-  Ratio: 5.11
-  TA: '767'
+  Ratio: 4.9
+  TA: '735'
   Tags:
   - Offline Mode
   - Single Player
   - Difficulty Specific
-Base Ratio: 4.239
-Base TA: 4239
+Base Ratio: 4.119
+Base TA: 4119
 Delisted: false
 Developer: Vreski
 Game Name: The Hong Kong Massacre
 Genres: Action
 Install Size: 5770.0
-Number of Completions: 10
-Number of Gamers: 1257
+Number of Completions: 13
+Number of Gamers: 1468
 Overall Completion Time:
-- 37
-- 38
+- 34
+- 35
 Overall GS: 1000
-Overall Ratio: 4.239
-Overall TA: 4239
+Overall Ratio: 4.119
+Overall TA: 4119
 PDU: 0
-Percentage Completed: 0.8
+Percentage Completed: 0.89
 Publisher: Untold Tales
 Release Date: 07 June 2024
 Server Closure: false
-Site Rating: 3.41
+Site Rating: 3.44
 Update Achievements: []
 Walkthrough: false

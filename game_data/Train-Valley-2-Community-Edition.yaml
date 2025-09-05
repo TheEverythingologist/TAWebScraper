@@ -1,16 +1,16 @@
 Add On Achievements: []
 Base Completion Time:
-- 0
-- 1
+- -1
+- -1
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Beginner
   Description: Earn 50 stars
   GS: '5'
   Guide: false
-  Number of Gamers: 23
+  Number of Gamers: 24
   Percentage of Gamers: 20%
-  Ratio: 2.23
+  Ratio: 2.21
   TA: '11'
   Tags:
   - Offline Game Mode
@@ -20,8 +20,8 @@ Base Game Achievements:
   GS: '5'
   Guide: false
   Number of Gamers: 18
-  Percentage of Gamers: 16%
-  Ratio: 2.52
+  Percentage of Gamers: 15%
+  Ratio: 2.56
   TA: '12'
   Tags:
   - Offline Game Mode
@@ -30,10 +30,10 @@ Base Game Achievements:
   Description: Earn 150 stars
   GS: '5'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 8%
-  Ratio: 3.57
-  TA: '17'
+  Number of Gamers: 8
+  Percentage of Gamers: 7%
+  Ratio: 3.84
+  TA: '19'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -41,10 +41,10 @@ Base Game Achievements:
   Description: Earn 200 stars
   GS: '5'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 8%
-  Ratio: 3.57
-  TA: '17'
+  Number of Gamers: 8
+  Percentage of Gamers: 7%
+  Ratio: 3.84
+  TA: '19'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -54,7 +54,7 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 7
   Percentage of Gamers: 6%
-  Ratio: 4.05
+  Ratio: 4.1
   TA: '20'
   Tags:
   - Offline Game Mode
@@ -63,9 +63,9 @@ Base Game Achievements:
   Description: Complete 10 levels
   GS: '5'
   Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 23%
-  Ratio: 2.06
+  Number of Gamers: 28
+  Percentage of Gamers: 24%
+  Ratio: 2.05
   TA: '10'
   Tags:
   - Offline Mode
@@ -76,8 +76,8 @@ Base Game Achievements:
   GS: '5'
   Guide: false
   Number of Gamers: 19
-  Percentage of Gamers: 17%
-  Ratio: 2.46
+  Percentage of Gamers: 16%
+  Ratio: 2.49
   TA: '12'
   Tags:
   - Offline Mode
@@ -88,8 +88,8 @@ Base Game Achievements:
   GS: '5'
   Guide: false
   Number of Gamers: 11
-  Percentage of Gamers: 10%
-  Ratio: 3.23
+  Percentage of Gamers: 9%
+  Ratio: 3.27
   TA: '16'
   Tags:
   - Offline Mode
@@ -99,10 +99,10 @@ Base Game Achievements:
   Description: Complete 40 levels
   GS: '10'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 9%
-  Ratio: 3.39
-  TA: '33'
+  Number of Gamers: 9
+  Percentage of Gamers: 8%
+  Ratio: 3.62
+  TA: '36'
   Tags:
   - Offline Mode
   - Single Player
@@ -113,8 +113,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 8
   Percentage of Gamers: 7%
-  Ratio: 3.79
-  TA: '37'
+  Ratio: 3.84
+  TA: '38'
   Tags:
   - Offline Mode
   - Single Player
@@ -123,10 +123,10 @@ Base Game Achievements:
   Description: Make a train visit 8 different stations
   GS: '10'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 6%
-  Ratio: 4.05
-  TA: '40'
+  Number of Gamers: 6
+  Percentage of Gamers: 5%
+  Ratio: 4.43
+  TA: '44'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -134,9 +134,9 @@ Base Game Achievements:
   Description: Complete any level without pausing the game
   GS: '10'
   Guide: false
-  Number of Gamers: 52
+  Number of Gamers: 53
   Percentage of Gamers: 45%
-  Ratio: 1.48
+  Ratio: 1.49
   TA: '14'
   Tags:
   - Offline Game Mode
@@ -146,8 +146,8 @@ Base Game Achievements:
   GS: '10'
   Guide: false
   Number of Gamers: 11
-  Percentage of Gamers: 10%
-  Ratio: 3.23
+  Percentage of Gamers: 9%
+  Ratio: 3.27
   TA: '32'
   Tags:
   - Offline Game Mode
@@ -157,8 +157,8 @@ Base Game Achievements:
   GS: '5'
   Guide: false
   Number of Gamers: 50
-  Percentage of Gamers: 43%
-  Ratio: 1.51
+  Percentage of Gamers: 42%
+  Ratio: 1.53
   TA: '7'
   Tags:
   - Offline Game Mode
@@ -168,9 +168,9 @@ Base Game Achievements:
   GS: '25'
   Guide: false
   Number of Gamers: 10
-  Percentage of Gamers: 9%
-  Ratio: 3.39
-  TA: '84'
+  Percentage of Gamers: 8%
+  Ratio: 3.43
+  TA: '85'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -178,10 +178,10 @@ Base Game Achievements:
   Description: Destroy a building worth 100k
   GS: '5'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 11%
-  Ratio: 2.97
-  TA: '14'
+  Number of Gamers: 12
+  Percentage of Gamers: 10%
+  Ratio: 3.13
+  TA: '15'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -189,10 +189,10 @@ Base Game Achievements:
   Description: Destroy a building worth 100k and complete a level
   GS: '10'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 11%
-  Ratio: 2.97
-  TA: '29'
+  Number of Gamers: 12
+  Percentage of Gamers: 10%
+  Ratio: 3.13
+  TA: '31'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -200,10 +200,10 @@ Base Game Achievements:
   Description: Make a train crash into itself
   GS: '5'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 7%
-  Ratio: 3.79
-  TA: '18'
+  Number of Gamers: 7
+  Percentage of Gamers: 6%
+  Ratio: 4.1
+  TA: '20'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -212,8 +212,8 @@ Base Game Achievements:
   GS: '20'
   Guide: false
   Number of Gamers: 17
-  Percentage of Gamers: 15%
-  Ratio: 2.6
+  Percentage of Gamers: 14%
+  Ratio: 2.63
   TA: '52'
   Tags:
   - Offline Game Mode
@@ -224,8 +224,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 13
   Percentage of Gamers: 11%
-  Ratio: 2.97
-  TA: '29'
+  Ratio: 3.01
+  TA: '30'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -234,9 +234,9 @@ Base Game Achievements:
   GS: '15'
   Guide: false
   Number of Gamers: 11
-  Percentage of Gamers: 10%
-  Ratio: 3.23
-  TA: '48'
+  Percentage of Gamers: 9%
+  Ratio: 3.27
+  TA: '49'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -246,8 +246,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 36
   Percentage of Gamers: 31%
-  Ratio: 1.78
-  TA: '17'
+  Ratio: 1.81
+  TA: '18'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -256,9 +256,9 @@ Base Game Achievements:
   GS: '15'
   Guide: true
   Number of Gamers: 18
-  Percentage of Gamers: 16%
-  Ratio: 2.52
-  TA: '37'
+  Percentage of Gamers: 15%
+  Ratio: 2.56
+  TA: '38'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -266,10 +266,10 @@ Base Game Achievements:
   Description: Complete any level with 5 stars on 4x speed only
   GS: '25'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 13%
-  Ratio: 2.76
-  TA: '69'
+  Number of Gamers: 14
+  Percentage of Gamers: 12%
+  Ratio: 2.9
+  TA: '72'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -277,7 +277,7 @@ Base Game Achievements:
   Description: Have one train crash into another from behind
   GS: '5'
   Guide: false
-  Number of Gamers: 39
+  Number of Gamers: 40
   Percentage of Gamers: 34%
   Ratio: 1.71
   TA: '8'
@@ -288,10 +288,10 @@ Base Game Achievements:
   Description: Crash and repair one locomotive 5 times
   GS: '5'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 9%
-  Ratio: 3.39
-  TA: '16'
+  Number of Gamers: 9
+  Percentage of Gamers: 8%
+  Ratio: 3.62
+  TA: '18'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -301,8 +301,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 13
   Percentage of Gamers: 11%
-  Ratio: 2.97
-  TA: '14'
+  Ratio: 3.01
+  TA: '15'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -310,9 +310,9 @@ Base Game Achievements:
   Description: Complete a level using a tunnel only in one direction
   GS: '10'
   Guide: false
-  Number of Gamers: 19
+  Number of Gamers: 20
   Percentage of Gamers: 17%
-  Ratio: 2.46
+  Ratio: 2.42
   TA: '24'
   Tags:
   - Offline Game Mode
@@ -323,7 +323,7 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 16
   Percentage of Gamers: 14%
-  Ratio: 2.68
+  Ratio: 2.71
   TA: '13'
   Tags:
   - Offline Game Mode
@@ -332,7 +332,7 @@ Base Game Achievements:
   Description: Complete the level sending only fully loaded trains
   GS: '10'
   Guide: false
-  Number of Gamers: 91
+  Number of Gamers: 93
   Percentage of Gamers: 79%
   Ratio: 1.12
   TA: '11'
@@ -344,8 +344,8 @@ Base Game Achievements:
   GS: '5'
   Guide: false
   Number of Gamers: 31
-  Percentage of Gamers: 27%
-  Ratio: 1.92
+  Percentage of Gamers: 26%
+  Ratio: 1.95
   TA: '9'
   Tags:
   - Offline Game Mode
@@ -357,8 +357,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 20
   Percentage of Gamers: 17%
-  Ratio: 2.39
-  TA: '35'
+  Ratio: 2.42
+  TA: '36'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -369,8 +369,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 21
   Percentage of Gamers: 18%
-  Ratio: 2.34
-  TA: '58'
+  Ratio: 2.37
+  TA: '59'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -378,7 +378,7 @@ Base Game Achievements:
   Description: Place tracks under a bridge
   GS: '5'
   Guide: false
-  Number of Gamers: 30
+  Number of Gamers: 31
   Percentage of Gamers: 26%
   Ratio: 1.95
   TA: '9'
@@ -391,7 +391,7 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 28
   Percentage of Gamers: 24%
-  Ratio: 2.02
+  Ratio: 2.05
   TA: '10'
   Tags:
   - Offline Game Mode
@@ -401,9 +401,9 @@ Base Game Achievements:
   GS: '5'
   Guide: false
   Number of Gamers: 46
-  Percentage of Gamers: 40%
-  Ratio: 1.58
-  TA: '7'
+  Percentage of Gamers: 39%
+  Ratio: 1.6
+  TA: '8'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -412,9 +412,9 @@ Base Game Achievements:
   GS: '5'
   Guide: false
   Number of Gamers: 45
-  Percentage of Gamers: 39%
-  Ratio: 1.59
-  TA: '7'
+  Percentage of Gamers: 38%
+  Ratio: 1.61
+  TA: '8'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -424,9 +424,9 @@ Base Game Achievements:
   GS: '10'
   Guide: false
   Number of Gamers: 24
-  Percentage of Gamers: 21%
-  Ratio: 2.18
-  TA: '21'
+  Percentage of Gamers: 20%
+  Ratio: 2.21
+  TA: '22'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -434,10 +434,10 @@ Base Game Achievements:
   Description: Fail 10 star tasks
   GS: '5'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 12%
-  Ratio: 2.86
-  TA: '14'
+  Number of Gamers: 13
+  Percentage of Gamers: 11%
+  Ratio: 3.01
+  TA: '15'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -446,8 +446,8 @@ Base Game Achievements:
   GS: '5'
   Guide: false
   Number of Gamers: 31
-  Percentage of Gamers: 27%
-  Ratio: 1.92
+  Percentage of Gamers: 26%
+  Ratio: 1.95
   TA: '9'
   Tags:
   - Offline Mode
@@ -459,8 +459,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 13
   Percentage of Gamers: 11%
-  Ratio: 2.97
-  TA: '44'
+  Ratio: 3.01
+  TA: '45'
   Tags:
   - Offline Mode
   - Single Player
@@ -469,10 +469,10 @@ Base Game Achievements:
   Description: Build 10000 track tiles
   GS: '20'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 9%
-  Ratio: 3.39
-  TA: '67'
+  Number of Gamers: 9
+  Percentage of Gamers: 8%
+  Ratio: 3.62
+  TA: '72'
   Tags:
   - Offline Mode
   - Single Player
@@ -483,8 +483,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 8
   Percentage of Gamers: 7%
-  Ratio: 3.79
-  TA: '18'
+  Ratio: 3.84
+  TA: '19'
   Tags:
   - Offline Mode
   - Single Player
@@ -493,10 +493,10 @@ Base Game Achievements:
   Description: Remove 300 trees
   GS: '5'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 9%
-  Ratio: 3.57
-  TA: '17'
+  Number of Gamers: 9
+  Percentage of Gamers: 8%
+  Ratio: 3.62
+  TA: '18'
   Tags:
   - Offline Mode
   - Single Player
@@ -506,8 +506,8 @@ Base Game Achievements:
   GS: '15'
   Guide: false
   Number of Gamers: 32
-  Percentage of Gamers: 28%
-  Ratio: 1.89
+  Percentage of Gamers: 27%
+  Ratio: 1.92
   TA: '28'
   Tags:
   - Offline Mode
@@ -519,8 +519,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 9
   Percentage of Gamers: 8%
-  Ratio: 3.57
-  TA: '53'
+  Ratio: 3.62
+  TA: '54'
   Tags:
   - Offline Mode
   - Single Player
@@ -529,10 +529,10 @@ Base Game Achievements:
   Description: Transport 50 trains to a wrong destination
   GS: '5'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 11%
-  Ratio: 2.97
-  TA: '14'
+  Number of Gamers: 12
+  Percentage of Gamers: 10%
+  Ratio: 3.13
+  TA: '15'
   Tags:
   - Offline Mode
   - Single Player
@@ -541,10 +541,10 @@ Base Game Achievements:
   Description: Go bankrupt 10 times
   GS: '10'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 7%
-  Ratio: 3.79
-  TA: '37'
+  Number of Gamers: 7
+  Percentage of Gamers: 6%
+  Ratio: 4.1
+  TA: '41'
   Tags:
   - Offline Mode
   - Single Player
@@ -553,8 +553,8 @@ Base Game Achievements:
   Description: Press pause button 100 times
   GS: '5'
   Guide: false
-  Number of Gamers: 65
-  Percentage of Gamers: 57%
+  Number of Gamers: 66
+  Percentage of Gamers: 56%
   Ratio: 1.33
   TA: '6'
   Tags:
@@ -565,10 +565,10 @@ Base Game Achievements:
   Description: Become a millionaire
   GS: '30'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 10%
-  Ratio: 3.23
-  TA: '96'
+  Number of Gamers: 10
+  Percentage of Gamers: 8%
+  Ratio: 3.43
+  TA: '103'
   Tags:
   - Offline Mode
   - Single Player
@@ -577,10 +577,10 @@ Base Game Achievements:
   Description: Remove construction equipment for 100K
   GS: '10'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 6%
-  Ratio: 4.05
-  TA: '40'
+  Number of Gamers: 6
+  Percentage of Gamers: 5%
+  Ratio: 4.43
+  TA: '44'
   Tags:
   - Offline Mode
   - Single Player
@@ -589,10 +589,10 @@ Base Game Achievements:
   Description: Build 100 bridges
   GS: '10'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 9%
-  Ratio: 3.39
-  TA: '33'
+  Number of Gamers: 9
+  Percentage of Gamers: 8%
+  Ratio: 3.62
+  TA: '36'
   Tags:
   - Offline Mode
   - Single Player
@@ -603,8 +603,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 6
   Percentage of Gamers: 5%
-  Ratio: 4.37
-  TA: '43'
+  Ratio: 4.43
+  TA: '44'
   Tags:
   - Offline Mode
   - Single Player
@@ -615,8 +615,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 9
   Percentage of Gamers: 8%
-  Ratio: 3.57
-  TA: '35'
+  Ratio: 3.62
+  TA: '36'
   Tags:
   - Offline Mode
   - Single Player
@@ -627,8 +627,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 7
   Percentage of Gamers: 6%
-  Ratio: 4.05
-  TA: '60'
+  Ratio: 4.1
+  TA: '61'
   Tags:
   - Offline Mode
   - Single Player
@@ -637,10 +637,10 @@ Base Game Achievements:
   Description: Upgrade 200 locomotives
   GS: '15'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 9%
-  Ratio: 3.39
-  TA: '50'
+  Number of Gamers: 9
+  Percentage of Gamers: 8%
+  Ratio: 3.62
+  TA: '54'
   Tags:
   - Offline Mode
   - Single Player
@@ -651,8 +651,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 7
   Percentage of Gamers: 6%
-  Ratio: 4.05
-  TA: '40'
+  Ratio: 4.1
+  TA: '41'
   Tags:
   - Offline Mode
   - Single Player
@@ -661,10 +661,10 @@ Base Game Achievements:
   Description: Build productions totaling 500K
   GS: '15'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 10%
-  Ratio: 3.23
-  TA: '48'
+  Number of Gamers: 10
+  Percentage of Gamers: 8%
+  Ratio: 3.43
+  TA: '51'
   Tags:
   - Offline Mode
   - Single Player
@@ -673,10 +673,10 @@ Base Game Achievements:
   Description: Deliver the first train in the end of the level without stopping it
   GS: '20'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 5%
-  Ratio: 4.37
-  TA: '87'
+  Number of Gamers: 5
+  Percentage of Gamers: 4%
+  Ratio: 4.85
+  TA: '97'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -686,7 +686,7 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 7
   Percentage of Gamers: 6%
-  Ratio: 4.05
+  Ratio: 4.1
   TA: '20'
   Tags:
   - Offline Game Mode
@@ -697,8 +697,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 6
   Percentage of Gamers: 5%
-  Ratio: 4.37
-  TA: '21'
+  Ratio: 4.43
+  TA: '22'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -706,10 +706,10 @@ Base Game Achievements:
   Description: Earn 400 stars
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 3%
-  Ratio: 5.36
-  TA: '53'
+  Number of Gamers: 5
+  Percentage of Gamers: 4%
+  Ratio: 4.85
+  TA: '48'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -717,10 +717,10 @@ Base Game Achievements:
   Description: Earn 450 stars
   GS: '10'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 1%
-  Ratio: 10.72
-  TA: '107'
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
+  TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -730,8 +730,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 7
   Percentage of Gamers: 6%
-  Ratio: 4.05
-  TA: '40'
+  Ratio: 4.1
+  TA: '41'
   Tags:
   - Offline Mode
   - Single Player
@@ -742,8 +742,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 7
   Percentage of Gamers: 6%
-  Ratio: 4.05
-  TA: '60'
+  Ratio: 4.1
+  TA: '61'
   Tags:
   - Offline Mode
   - Single Player
@@ -754,8 +754,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 4
   Percentage of Gamers: 3%
-  Ratio: 5.36
-  TA: '53'
+  Ratio: 5.43
+  TA: '54'
   Tags:
   - Offline Mode
   - Single Player
@@ -766,8 +766,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 3
   Percentage of Gamers: 3%
-  Ratio: 6.19
-  TA: '61'
+  Ratio: 6.27
+  TA: '62'
   Tags:
   - Offline Mode
   - Single Player
@@ -776,10 +776,10 @@ Base Game Achievements:
   Description: Unlock all the other achievements
   GS: '50'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 3%
-  Ratio: 6.19
-  TA: '309'
+  Number of Gamers: 2
+  Percentage of Gamers: 2%
+  Ratio: 7.68
+  TA: '384'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -787,10 +787,10 @@ Base Game Achievements:
   Description: Complete 100 levels
   GS: '15'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 2%
-  Ratio: 7.58
-  TA: '113'
+  Number of Gamers: 1
+  Percentage of Gamers: 1%
+  Ratio: 10.86
+  TA: '162'
   Tags:
   - Offline Mode
   - Single Player
@@ -799,10 +799,10 @@ Base Game Achievements:
   Description: Complete 110 levels
   GS: '15'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 2%
-  Ratio: 7.58
-  TA: '113'
+  Number of Gamers: 1
+  Percentage of Gamers: 1%
+  Ratio: 10.86
+  TA: '162'
   Tags:
   - Offline Mode
   - Single Player
@@ -811,10 +811,10 @@ Base Game Achievements:
   Description: Complete 120 levels
   GS: '40'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 3%
-  Ratio: 6.19
-  TA: '247'
+  Number of Gamers: 2
+  Percentage of Gamers: 2%
+  Ratio: 7.68
+  TA: '307'
   Tags:
   - Offline Mode
   - Single Player
@@ -825,8 +825,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 4
   Percentage of Gamers: 3%
-  Ratio: 5.36
-  TA: '53'
+  Ratio: 5.43
+  TA: '54'
   Tags:
   - Offline Mode
   - Single Player
@@ -835,10 +835,10 @@ Base Game Achievements:
   Description: Complete 100 levels
   GS: '20'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 3%
-  Ratio: 6.19
-  TA: '123'
+  Number of Gamers: 2
+  Percentage of Gamers: 2%
+  Ratio: 7.68
+  TA: '153'
   Tags:
   - Offline Mode
   - Single Player
@@ -847,10 +847,10 @@ Base Game Achievements:
   Description: Complete 158 levels
   GS: '40'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 3%
-  Ratio: 6.19
-  TA: '247'
+  Number of Gamers: 2
+  Percentage of Gamers: 2%
+  Ratio: 7.68
+  TA: '307'
   Tags:
   - Offline Mode
   - Single Player
@@ -859,10 +859,10 @@ Base Game Achievements:
   Description: Earn 500 stars
   GS: '10'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 2%
-  Ratio: 7.58
-  TA: '75'
+  Number of Gamers: 1
+  Percentage of Gamers: 1%
+  Ratio: 10.86
+  TA: '108'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -870,10 +870,10 @@ Base Game Achievements:
   Description: Earn 550 stars
   GS: '15'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 2%
-  Ratio: 7.58
-  TA: '113'
+  Number of Gamers: 1
+  Percentage of Gamers: 1%
+  Ratio: 10.86
+  TA: '162'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -881,10 +881,10 @@ Base Game Achievements:
   Description: Earn 600 stars
   GS: '40'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 3%
-  Ratio: 6.19
-  TA: '247'
+  Number of Gamers: 2
+  Percentage of Gamers: 2%
+  Ratio: 7.68
+  TA: '307'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -894,8 +894,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 4
   Percentage of Gamers: 3%
-  Ratio: 5.36
-  TA: '53'
+  Ratio: 5.43
+  TA: '54'
   Tags:
   - Offline Mode
   - Single Player
@@ -904,10 +904,10 @@ Base Game Achievements:
   Description: Earn 500 gems
   GS: '20'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 2%
-  Ratio: 7.58
-  TA: '151'
+  Number of Gamers: 1
+  Percentage of Gamers: 1%
+  Ratio: 10.86
+  TA: '217'
   Tags:
   - Offline Mode
   - Single Player
@@ -916,34 +916,34 @@ Base Game Achievements:
   Description: Earn 790 gems
   GS: '40'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 4%
-  Ratio: 4.79
-  TA: '191'
+  Number of Gamers: 4
+  Percentage of Gamers: 3%
+  Ratio: 5.43
+  TA: '217'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 4.206
-Base TA: 4206
+Base Ratio: 4.751
+Base TA: 4751
 Delisted: false
 Developer: Flazm
 Game Name: Train Valley 2 - Community Edition
 Genres: Management
 Install Size: 1460.0
-Number of Completions: 1
-Number of Gamers: 115
+Number of Completions: 0
+Number of Gamers: 118
 Overall Completion Time:
-- 0
-- 1
+- -1
+- -1
 Overall GS: 1000
-Overall Ratio: 4.206
-Overall TA: 4206
+Overall Ratio: 4.751
+Overall TA: 4751
 PDU: 0
-Percentage Completed: 0.87
+Percentage Completed: 0.0
 Publisher: BlitWorks
 Release Date: 22 November 2023
 Server Closure: false
-Site Rating: 3.25
+Site Rating: 3.22
 Update Achievements: []
 Walkthrough: false

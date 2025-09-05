@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- -1
-- -1
+- 51
+- 52
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Birth of my daughter
   Description: Press Start!
   GS: '5'
   Guide: false
-  Number of Gamers: 7552
+  Number of Gamers: 11867
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '5'
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: The first spring
   GS: '5'
   Guide: false
-  Number of Gamers: 7504
+  Number of Gamers: 11777
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '5'
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: The first summer
   GS: '5'
   Guide: false
-  Number of Gamers: 1760
-  Percentage of Gamers: 23%
-  Ratio: 2.07
-  TA: '10'
+  Number of Gamers: 3001
+  Percentage of Gamers: 25%
+  Ratio: 1.98
+  TA: '9'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Time to solve some maths.
   GS: '5'
   Guide: false
-  Number of Gamers: 1766
-  Percentage of Gamers: 23%
-  Ratio: 2.06
-  TA: '10'
+  Number of Gamers: 3019
+  Percentage of Gamers: 25%
+  Ratio: 1.98
+  TA: '9'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,22 +56,23 @@ Base Game Achievements:
   Description: Father's favorable impression reach 50.
   GS: '5'
   Guide: false
-  Number of Gamers: 1126
-  Percentage of Gamers: 15%
-  Ratio: 2.59
+  Number of Gamers: 1997
+  Percentage of Gamers: 17%
+  Ratio: 2.43
   TA: '12'
   Tags:
   - Offline Mode
   - Single Player
+  - Missable
   - Level
 - Achievement Name: Volcano Ceremony!
   Description: Daughter's Turn.
   GS: '5'
   Guide: false
-  Number of Gamers: 690
-  Percentage of Gamers: 9%
-  Ratio: 3.3
-  TA: '16'
+  Number of Gamers: 1321
+  Percentage of Gamers: 11%
+  Ratio: 2.99
+  TA: '14'
   Tags:
   - Offline Mode
   - Single Player
@@ -80,22 +81,23 @@ Base Game Achievements:
   Description: Father's favorable impression reach 100.
   GS: '10'
   Guide: false
-  Number of Gamers: 700
-  Percentage of Gamers: 9%
-  Ratio: 3.28
-  TA: '32'
+  Number of Gamers: 1324
+  Percentage of Gamers: 11%
+  Ratio: 2.99
+  TA: '29'
   Tags:
   - Offline Mode
   - Single Player
+  - Missable
   - Level
 - Achievement Name: Happy Autumn!
   Description: The first autumn
   GS: '5'
   Guide: false
-  Number of Gamers: 647
-  Percentage of Gamers: 9%
-  Ratio: 3.41
-  TA: '17'
+  Number of Gamers: 1244
+  Percentage of Gamers: 10%
+  Ratio: 3.08
+  TA: '15'
   Tags:
   - Offline Mode
   - Single Player
@@ -104,22 +106,21 @@ Base Game Achievements:
   Description: Arrival at the end of Oasis Forest
   GS: '5'
   Guide: false
-  Number of Gamers: 545
-  Percentage of Gamers: 7%
-  Ratio: 3.72
-  TA: '18'
+  Number of Gamers: 1087
+  Percentage of Gamers: 9%
+  Ratio: 3.3
+  TA: '16'
   Tags:
-  - Offline Mode
+  - Offline Game Mode
   - Single Player
-  - Main Storyline
 - Achievement Name: Happy Winter!
   Description: The first winter
   GS: '5'
   Guide: false
-  Number of Gamers: 441
-  Percentage of Gamers: 6%
-  Ratio: 4.13
-  TA: '20'
+  Number of Gamers: 960
+  Percentage of Gamers: 8%
+  Ratio: 3.51
+  TA: '17'
   Tags:
   - Offline Mode
   - Single Player
@@ -127,23 +128,24 @@ Base Game Achievements:
 - Achievement Name: Mysterious Treasures
   Description: Purchased items from a mysterious merchant.
   GS: '5'
-  Guide: false
-  Number of Gamers: 431
-  Percentage of Gamers: 6%
-  Ratio: 4.18
-  TA: '20'
+  Guide: true
+  Number of Gamers: 930
+  Percentage of Gamers: 8%
+  Ratio: 3.57
+  TA: '17'
   Tags:
   - Offline Mode
   - Single Player
+  - Missable
   - Shop
 - Achievement Name: Accomplished Theater Actress
   Description: First time completing a B grade performance.
   GS: '5'
   Guide: false
-  Number of Gamers: 522
-  Percentage of Gamers: 7%
-  Ratio: 3.8
-  TA: '19'
+  Number of Gamers: 1047
+  Percentage of Gamers: 9%
+  Ratio: 3.36
+  TA: '16'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -151,44 +153,47 @@ Base Game Achievements:
   Description: First time completing an A grade performance.
   GS: '10'
   Guide: false
-  Number of Gamers: 498
-  Percentage of Gamers: 7%
-  Ratio: 3.89
-  TA: '38'
+  Number of Gamers: 1010
+  Percentage of Gamers: 9%
+  Ratio: 3.42
+  TA: '34'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Missable
 - Achievement Name: Theater's Rising Star
   Description: First time completing a S grade performance.
   GS: '15'
   Guide: false
-  Number of Gamers: 465
-  Percentage of Gamers: 6%
-  Ratio: 4.03
-  TA: '60'
+  Number of Gamers: 947
+  Percentage of Gamers: 8%
+  Ratio: 3.53
+  TA: '53'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Missable
 - Achievement Name: Letter from My daughter
   Description: Received a letter from the daughter.
   GS: '10'
-  Guide: false
-  Number of Gamers: 337
-  Percentage of Gamers: 4%
-  Ratio: 4.74
-  TA: '47'
+  Guide: true
+  Number of Gamers: 836
+  Percentage of Gamers: 7%
+  Ratio: 3.76
+  TA: '37'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
+  - Story Completed
 - Achievement Name: Journey's End
   Description: The last month with the daughter.
   GS: '5'
   Guide: false
-  Number of Gamers: 339
-  Percentage of Gamers: 4%
-  Ratio: 4.72
-  TA: '23'
+  Number of Gamers: 840
+  Percentage of Gamers: 7%
+  Ratio: 3.75
+  TA: '18'
   Tags:
   - Offline Mode
   - Single Player
@@ -196,33 +201,35 @@ Base Game Achievements:
 - Achievement Name: The Beautiful Elf
   Description: Blessed by a mysterious woman.
   GS: '5'
-  Guide: false
-  Number of Gamers: 357
-  Percentage of Gamers: 5%
-  Ratio: 4.6
-  TA: '23'
+  Guide: true
+  Number of Gamers: 816
+  Percentage of Gamers: 7%
+  Ratio: 3.81
+  TA: '19'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Missable
 - Achievement Name: Chef Brave
   Description: Received the blessing from the Mouse Chef Brave.
   GS: '5'
   Guide: true
-  Number of Gamers: 427
-  Percentage of Gamers: 6%
-  Ratio: 4.21
-  TA: '21'
+  Number of Gamers: 923
+  Percentage of Gamers: 8%
+  Ratio: 3.58
+  TA: '17'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Missable
 - Achievement Name: Bird of Wisdom
   Description: Blessed by a mysterious bird.
   GS: '5'
   Guide: true
-  Number of Gamers: 328
-  Percentage of Gamers: 4%
-  Ratio: 4.8
-  TA: '24'
+  Number of Gamers: 782
+  Percentage of Gamers: 7%
+  Ratio: 3.89
+  TA: '19'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -230,21 +237,22 @@ Base Game Achievements:
   Description: Arrival at the end of Frost Canyon
   GS: '10'
   Guide: false
-  Number of Gamers: 405
-  Percentage of Gamers: 5%
-  Ratio: 4.31
-  TA: '43'
+  Number of Gamers: 874
+  Percentage of Gamers: 7%
+  Ratio: 3.68
+  TA: '36'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Missable
 - Achievement Name: Reputable Replier
   Description: Reply 20 admirers' letters.
   GS: '5'
   Guide: false
-  Number of Gamers: 407
-  Percentage of Gamers: 5%
-  Ratio: 4.3
-  TA: '21'
+  Number of Gamers: 894
+  Percentage of Gamers: 8%
+  Ratio: 3.64
+  TA: '18'
   Tags:
   - Offline Mode
   - Single Player
@@ -253,735 +261,794 @@ Base Game Achievements:
   Description: Blessed by a mysterious man.
   GS: '5'
   Guide: true
-  Number of Gamers: 356
-  Percentage of Gamers: 5%
-  Ratio: 4.61
-  TA: '23'
+  Number of Gamers: 817
+  Percentage of Gamers: 7%
+  Ratio: 3.81
+  TA: '19'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Missable
 - Achievement Name: Messenger of the Magic World
   Description: Received the blessing of a suspicious ghost.
   GS: '5'
   Guide: false
-  Number of Gamers: 378
-  Percentage of Gamers: 5%
-  Ratio: 4.47
-  TA: '22'
+  Number of Gamers: 806
+  Percentage of Gamers: 7%
+  Ratio: 3.83
+  TA: '19'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Missable
 - Achievement Name: The best you in the world
   Description: Father's favorable impression reach 200.
   GS: '15'
   Guide: false
-  Number of Gamers: 345
-  Percentage of Gamers: 5%
-  Ratio: 4.67
-  TA: '70'
+  Number of Gamers: 774
+  Percentage of Gamers: 7%
+  Ratio: 3.91
+  TA: '58'
   Tags:
   - Offline Mode
   - Single Player
+  - Missable
   - Level
 - Achievement Name: Flaming Warrior
   Description: Arrive at the end of Flaming River
   GS: '15'
   Guide: false
-  Number of Gamers: 285
-  Percentage of Gamers: 4%
-  Ratio: 5.14
-  TA: '77'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: Greetings, Your Highness
-  Description: Meet Princess Gwyneth at the prom.
-  GS: '10'
-  Guide: false
-  Number of Gamers: 206
-  Percentage of Gamers: 3%
-  Ratio: 6.07
-  TA: '60'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: Master of Chatting
-  Description: Chat with others 200 times.
-  GS: '5'
-  Guide: false
-  Number of Gamers: 311
-  Percentage of Gamers: 4%
-  Ratio: 4.92
-  TA: '24'
+  Number of Gamers: 702
+  Percentage of Gamers: 6%
+  Ratio: 4.11
+  TA: '61'
   Tags:
   - Offline Mode
   - Single Player
+  - Missable
+- Achievement Name: Greetings, Your Highness
+  Description: Meet Princess Gwyneth at the prom.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 532
+  Percentage of Gamers: 4%
+  Ratio: 4.72
+  TA: '47'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Master of Chatting
+  Description: Chat with others 200 times.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 694
+  Percentage of Gamers: 6%
+  Ratio: 4.13
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
   - Cumulative +
 - Achievement Name: Gold Award!
   Description: Become first in the Volcano Kingdom Festival.
   GS: '15'
   Guide: false
-  Number of Gamers: 207
-  Percentage of Gamers: 3%
-  Ratio: 6.05
-  TA: '90'
+  Number of Gamers: 522
+  Percentage of Gamers: 4%
+  Ratio: 4.76
+  TA: '71'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Missable
 - Achievement Name: My Confession
   Description: Confession in church.
   GS: '5'
   Guide: true
-  Number of Gamers: 295
-  Percentage of Gamers: 4%
-  Ratio: 5.06
-  TA: '25'
+  Number of Gamers: 653
+  Percentage of Gamers: 5%
+  Ratio: 4.26
+  TA: '21'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Missable
 - Achievement Name: Legendary Ultimate Knight!
   Description: Reaching the rank of Ultimate Knight.
   GS: '10'
   Guide: false
-  Number of Gamers: 195
-  Percentage of Gamers: 3%
-  Ratio: 6.24
-  TA: '62'
+  Number of Gamers: 542
+  Percentage of Gamers: 5%
+  Ratio: 4.67
+  TA: '46'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Missable
+  - Level
 - Achievement Name: Public Figure
   Description: Total reputation obtained reach 10000.
   GS: '5'
   Guide: false
-  Number of Gamers: 133
-  Percentage of Gamers: 2%
-  Ratio: 7.53
-  TA: '37'
+  Number of Gamers: 427
+  Percentage of Gamers: 4%
+  Ratio: 5.27
+  TA: '26'
   Tags:
   - Offline Mode
   - Single Player
-  - Level
+  - Missable
+  - Cumulative +
 - Achievement Name: Master of Swordplay
   Description: Complete 14 sword courses.
   GS: '10'
   Guide: false
-  Number of Gamers: 215
-  Percentage of Gamers: 3%
-  Ratio: 5.92
-  TA: '59'
+  Number of Gamers: 540
+  Percentage of Gamers: 5%
+  Ratio: 4.68
+  TA: '46'
   Tags:
   - Offline Mode
   - Single Player
+  - Missable
   - Cumulative +
 - Achievement Name: Dark Brave
   Description: 'Hidden achievement:'
   GS: '20'
   Guide: false
-  Number of Gamers: 173
-  Percentage of Gamers: 2%
-  Ratio: 6.6
-  TA: '132'
+  Number of Gamers: 495
+  Percentage of Gamers: 4%
+  Ratio: 4.89
+  TA: '97'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Missable
 - Achievement Name: Goddess of Martial Arts
   Description: Attack power reaches 200.
   GS: '15'
   Guide: false
-  Number of Gamers: 168
-  Percentage of Gamers: 2%
-  Ratio: 6.7
-  TA: '100'
+  Number of Gamers: 472
+  Percentage of Gamers: 4%
+  Ratio: 5.01
+  TA: '75'
   Tags:
   - Offline Mode
   - Single Player
+  - Missable
   - Level
 - Achievement Name: Everyone is my friend!
   Description: Have 15 friends.
   GS: '10'
   Guide: false
-  Number of Gamers: 254
-  Percentage of Gamers: 3%
-  Ratio: 5.45
-  TA: '54'
+  Number of Gamers: 607
+  Percentage of Gamers: 5%
+  Ratio: 4.42
+  TA: '44'
   Tags:
   - Offline Mode
   - Single Player
-  - Cumulative +
+  - Level
 - Achievement Name: Powerful warrior
   Description: STR reached S rank.
   GS: '10'
   Guide: false
-  Number of Gamers: 182
-  Percentage of Gamers: 2%
-  Ratio: 6.44
-  TA: '64'
+  Number of Gamers: 478
+  Percentage of Gamers: 4%
+  Ratio: 4.98
+  TA: '49'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Missable
+  - Level
 - Achievement Name: Ares
   Description: Win 100 battles.
   GS: '15'
   Guide: false
-  Number of Gamers: 210
-  Percentage of Gamers: 3%
-  Ratio: 5.99
-  TA: '89'
+  Number of Gamers: 556
+  Percentage of Gamers: 5%
+  Ratio: 4.61
+  TA: '69'
   Tags:
   - Offline Mode
   - Single Player
+  - Missable
   - Cumulative +
 - Achievement Name: Master of Bowmanship
   Description: Complete 14 bow courses.
   GS: '10'
   Guide: false
-  Number of Gamers: 171
+  Number of Gamers: 468
+  Percentage of Gamers: 4%
+  Ratio: 5.03
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Cumulative +
+- Achievement Name: So much money
+  Description: Earn 5000G during exploration.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 336
+  Percentage of Gamers: 3%
+  Ratio: 5.94
+  TA: '59'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Cumulative +
+- Achievement Name: The Owl Princess
+  Description: Beat the Owl Princess.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 362
+  Percentage of Gamers: 3%
+  Ratio: 5.73
+  TA: '114'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: The Wise One
+  Description: INT reached S rank.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 357
+  Percentage of Gamers: 3%
+  Ratio: 5.76
+  TA: '57'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Level
+- Achievement Name: Tomb of Lebsa
+  Description: 'Hidden achievement:'
+  GS: '30'
+  Guide: false
+  Number of Gamers: 341
+  Percentage of Gamers: 3%
+  Ratio: 5.9
+  TA: '177'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+- Achievement Name: Together with My Wife
+  Description: Achieve TRUE ENDING
+  GS: '30'
+  Guide: false
+  Number of Gamers: 317
+  Percentage of Gamers: 3%
+  Ratio: 6.11
+  TA: '183'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Story Completed
+  - Missable
+- Achievement Name: Professor of Theology
+  Description: Complete 14 courses in theology.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 329
+  Percentage of Gamers: 3%
+  Ratio: 6.0
+  TA: '60'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Cumulative +
+- Achievement Name: The Romantic Singer
+  Description: EMO reached S rank.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 317
+  Percentage of Gamers: 3%
+  Ratio: 6.11
+  TA: '61'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Level
+- Achievement Name: Goddess of Perfection
+  Description: Charisma reaches 150.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 243
+  Percentage of Gamers: 2%
+  Ratio: 6.98
+  TA: '104'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Level
+- Achievement Name: Master of Literature
+  Description: Completed 14 poetry and calligraphy courses.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 308
+  Percentage of Gamers: 3%
+  Ratio: 6.2
+  TA: '62'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Cumulative +
+- Achievement Name: Banquet Star
+  Description: Participate in 20 banquets.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 253
+  Percentage of Gamers: 2%
+  Ratio: 6.84
+  TA: '68'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+  - Cumulative +
+- Achievement Name: Elegant Nobleman
+  Description: Complete 14 courses in Liturgy.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 269
   Percentage of Gamers: 2%
   Ratio: 6.64
   TA: '66'
   Tags:
   - Offline Mode
   - Single Player
-  - Cumulative +
-- Achievement Name: So much money
-  Description: Earn 5000G during exploration.
-  GS: '10'
-  Guide: false
-  Number of Gamers: 106
-  Percentage of Gamers: 1%
-  Ratio: 8.44
-  TA: '84'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Cumulative +
-- Achievement Name: The Owl Princess
-  Description: Beat the Owl Princess.
-  GS: '20'
-  Guide: false
-  Number of Gamers: 103
-  Percentage of Gamers: 1%
-  Ratio: 8.56
-  TA: '171'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: The Wise One
-  Description: INT reached S rank.
-  GS: '10'
-  Guide: false
-  Number of Gamers: 119
-  Percentage of Gamers: 2%
-  Ratio: 7.96
-  TA: '79'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: Tomb of Lebsa
-  Description: 'Hidden achievement:'
-  GS: '30'
-  Guide: false
-  Number of Gamers: 96
-  Percentage of Gamers: 1%
-  Ratio: 8.87
-  TA: '266'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: Together with My Wife
-  Description: Achieve TRUE ENDING
-  GS: '30'
-  Guide: false
-  Number of Gamers: 91
-  Percentage of Gamers: 1%
-  Ratio: 9.11
-  TA: '273'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Story Completed
-- Achievement Name: Professor of Theology
-  Description: Complete 14 courses in theology.
-  GS: '10'
-  Guide: false
-  Number of Gamers: 95
-  Percentage of Gamers: 1%
-  Ratio: 8.91
-  TA: '89'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Cumulative +
-- Achievement Name: The Romantic Singer
-  Description: EMO reached S rank.
-  GS: '10'
-  Guide: false
-  Number of Gamers: 93
-  Percentage of Gamers: 1%
-  Ratio: 9.06
-  TA: '90'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: Goddess of Perfection
-  Description: Charisma reaches 150.
-  GS: '15'
-  Guide: false
-  Number of Gamers: 64
-  Percentage of Gamers: 1%
-  Ratio: 10.95
-  TA: '164'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Level
-- Achievement Name: Master of Literature
-  Description: Completed 14 poetry and calligraphy courses.
-  GS: '10'
-  Guide: false
-  Number of Gamers: 84
-  Percentage of Gamers: 1%
-  Ratio: 9.48
-  TA: '94'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Cumulative +
-- Achievement Name: Banquet Star
-  Description: Participate in 20 banquets.
-  GS: '10'
-  Guide: false
-  Number of Gamers: 70
-  Percentage of Gamers: 1%
-  Ratio: 10.38
-  TA: '103'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Cumulative +
-- Achievement Name: Elegant Nobleman
-  Description: Complete 14 courses in Liturgy.
-  GS: '10'
-  Guide: false
-  Number of Gamers: 84
-  Percentage of Gamers: 1%
-  Ratio: 9.54
-  TA: '95'
-  Tags:
-  - Offline Mode
-  - Single Player
+  - Missable
   - Cumulative +
 - Achievement Name: Imaginative Poet
   Description: IMG reached S rank.
   GS: '10'
-  Guide: false
-  Number of Gamers: 87
-  Percentage of Gamers: 1%
-  Ratio: 9.37
-  TA: '93'
+  Guide: true
+  Number of Gamers: 295
+  Percentage of Gamers: 2%
+  Ratio: 6.34
+  TA: '63'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Missable
+  - Level
 - Achievement Name: Professor of Science
   Description: Complete 14 science courses.
   GS: '10'
   Guide: false
-  Number of Gamers: 74
-  Percentage of Gamers: 1%
-  Ratio: 10.1
-  TA: '101'
+  Number of Gamers: 254
+  Percentage of Gamers: 2%
+  Ratio: 6.83
+  TA: '68'
   Tags:
   - Offline Mode
   - Single Player
+  - Missable
   - Cumulative +
 - Achievement Name: Goddess of Wisdom
   Description: Mind reaches 150.
   GS: '15'
-  Guide: false
-  Number of Gamers: 53
-  Percentage of Gamers: 1%
-  Ratio: 11.93
-  TA: '179'
+  Guide: true
+  Number of Gamers: 222
+  Percentage of Gamers: 2%
+  Ratio: 7.31
+  TA: '109'
   Tags:
   - Offline Mode
   - Single Player
+  - Missable
   - Level
 - Achievement Name: The Walking Encyclopaedia
   Description: Complete 100 courses' study.
   GS: '10'
   Guide: false
-  Number of Gamers: 60
-  Percentage of Gamers: 1%
-  Ratio: 11.22
-  TA: '112'
+  Number of Gamers: 248
+  Percentage of Gamers: 2%
+  Ratio: 6.91
+  TA: '69'
   Tags:
   - Offline Mode
   - Single Player
+  - Missable
   - Cumulative +
 - Achievement Name: Third's not that bad
   Description: Become third in the Volcano Kingdom Festival.
   GS: '5'
-  Guide: false
-  Number of Gamers: 133
-  Percentage of Gamers: 2%
-  Ratio: 7.53
-  TA: '37'
+  Guide: true
+  Number of Gamers: 366
+  Percentage of Gamers: 3%
+  Ratio: 5.69
+  TA: '28'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Missable
 - Achievement Name: Silver Award!
   Description: Become second in the Volcano Kingdom Festival.
   GS: '10'
-  Guide: false
-  Number of Gamers: 114
-  Percentage of Gamers: 2%
-  Ratio: 8.14
-  TA: '81'
+  Guide: true
+  Number of Gamers: 326
+  Percentage of Gamers: 3%
+  Ratio: 6.04
+  TA: '60'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Missable
 - Achievement Name: Master Chef
   Description: Cook 150 times.
   GS: '5'
   Guide: false
-  Number of Gamers: 82
-  Percentage of Gamers: 1%
-  Ratio: 9.59
-  TA: '47'
+  Number of Gamers: 269
+  Percentage of Gamers: 2%
+  Ratio: 6.64
+  TA: '33'
   Tags:
   - Offline Mode
   - Single Player
+  - Missable
   - Cumulative +
 - Achievement Name: Learning Artist
   Description: Ask others for advice 70 times.
   GS: '10'
   Guide: false
-  Number of Gamers: 106
-  Percentage of Gamers: 1%
-  Ratio: 8.48
-  TA: '84'
+  Number of Gamers: 307
+  Percentage of Gamers: 3%
+  Ratio: 6.21
+  TA: '62'
   Tags:
   - Offline Mode
   - Single Player
+  - Missable
   - Cumulative +
 - Achievement Name: Feeding the Wolf Cub
   Description: Feed a wolf cub during adventure.
   GS: '15'
   Guide: false
-  Number of Gamers: 138
-  Percentage of Gamers: 2%
-  Ratio: 7.39
-  TA: '110'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: Master of Painting
-  Description: Completed 14 Painting courses.
-  GS: '10'
-  Guide: false
-  Number of Gamers: 60
-  Percentage of Gamers: 1%
-  Ratio: 11.31
-  TA: '113'
+  Number of Gamers: 309
+  Percentage of Gamers: 3%
+  Ratio: 6.19
+  TA: '92'
   Tags:
   - Offline Mode
   - Single Player
+  - Missable
+- Achievement Name: Master of Painting
+  Description: Completed 14 Painting courses.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 215
+  Percentage of Gamers: 2%
+  Ratio: 7.42
+  TA: '74'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
   - Cumulative +
 - Achievement Name: Master of Alchemy
   Description: Repair 20 items successfully.
   GS: '10'
   Guide: false
-  Number of Gamers: 50
-  Percentage of Gamers: 1%
-  Ratio: 12.29
-  TA: '122'
+  Number of Gamers: 206
+  Percentage of Gamers: 2%
+  Ratio: 7.58
+  TA: '75'
   Tags:
   - Offline Mode
   - Single Player
+  - Missable
   - Cumulative +
 - Achievement Name: Goddess of Strength
   Description: Stamina reaches 150.
   GS: '15'
-  Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 0%
-  Ratio: 15.86
-  TA: '238'
+  Guide: true
+  Number of Gamers: 161
+  Percentage of Gamers: 1%
+  Ratio: 8.58
+  TA: '128'
   Tags:
   - Offline Mode
   - Single Player
+  - Missable
   - Level
 - Achievement Name: Excellent Learner
   Description: Complete 200 course guidances.
   GS: '10'
   Guide: false
-  Number of Gamers: 36
-  Percentage of Gamers: 0%
-  Ratio: 14.48
-  TA: '144'
+  Number of Gamers: 162
+  Percentage of Gamers: 1%
+  Ratio: 8.55
+  TA: '85'
   Tags:
   - Offline Mode
   - Single Player
+  - Missable
   - Cumulative +
 - Achievement Name: Gold Treasure Hunter
   Description: Total items obtained during exploration reach 400.
   GS: '10'
   Guide: false
-  Number of Gamers: 68
-  Percentage of Gamers: 1%
-  Ratio: 10.53
-  TA: '105'
+  Number of Gamers: 233
+  Percentage of Gamers: 2%
+  Ratio: 7.13
+  TA: '71'
   Tags:
   - Offline Mode
   - Single Player
+  - Missable
   - Cumulative +
 - Achievement Name: Everyone likes me
   Description: Have 1000 admirers.
   GS: '15'
-  Guide: false
-  Number of Gamers: 36
-  Percentage of Gamers: 0%
-  Ratio: 14.48
-  TA: '217'
+  Guide: true
+  Number of Gamers: 160
+  Percentage of Gamers: 1%
+  Ratio: 8.61
+  TA: '129'
   Tags:
   - Offline Mode
   - Single Player
+  - Missable
   - Cumulative +
 - Achievement Name: There's more I want to read about
   Description: Finish reading 40 books.
   GS: '10'
   Guide: false
-  Number of Gamers: 66
-  Percentage of Gamers: 1%
-  Ratio: 10.78
-  TA: '107'
+  Number of Gamers: 228
+  Percentage of Gamers: 2%
+  Ratio: 7.21
+  TA: '72'
   Tags:
   - Offline Mode
   - Single Player
+  - Missable
   - Cumulative +
 - Achievement Name: Justice Eagle
   Description: Solve 30 crimes.
   GS: '10'
   Guide: false
-  Number of Gamers: 58
-  Percentage of Gamers: 1%
-  Ratio: 11.51
-  TA: '115'
+  Number of Gamers: 191
+  Percentage of Gamers: 2%
+  Ratio: 7.88
+  TA: '78'
   Tags:
   - Offline Mode
   - Single Player
+  - Missable
   - Cumulative +
 - Achievement Name: Lovable Gifter
   Description: Successfully send out 80 gifts.
   GS: '10'
-  Guide: false
-  Number of Gamers: 66
-  Percentage of Gamers: 1%
-  Ratio: 10.69
-  TA: '106'
+  Guide: true
+  Number of Gamers: 209
+  Percentage of Gamers: 2%
+  Ratio: 7.53
+  TA: '75'
   Tags:
   - Offline Mode
   - Single Player
+  - Missable
   - Cumulative +
 - Achievement Name: Excellent Demon Hunter
   Description: Become a Gold Demon Hunter
   GS: '15'
   Guide: false
-  Number of Gamers: 55
-  Percentage of Gamers: 1%
-  Ratio: 11.71
-  TA: '175'
+  Number of Gamers: 196
+  Percentage of Gamers: 2%
+  Ratio: 7.78
+  TA: '116'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Missable
 - Achievement Name: It is an expensive performance
   Description: Earn 800 gold on performance.
   GS: '10'
   Guide: false
-  Number of Gamers: 38
+  Number of Gamers: 159
   Percentage of Gamers: 1%
-  Ratio: 14.09
-  TA: '140'
+  Ratio: 8.63
+  TA: '86'
   Tags:
   - Offline Mode
   - Single Player
+  - Missable
   - Cumulative +
 - Achievement Name: The Queen's Exclusive Knight
   Description: Marry Gwyneth
   GS: '10'
   Guide: true
-  Number of Gamers: 23
-  Percentage of Gamers: 0%
-  Ratio: 18.12
-  TA: '181'
+  Number of Gamers: 91
+  Percentage of Gamers: 1%
+  Ratio: 11.41
+  TA: '114'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Missable
 - Achievement Name: The Red Wolf King's Bird
   Description: Marry Hackett
   GS: '10'
-  Guide: false
-  Number of Gamers: 50
+  Guide: true
+  Number of Gamers: 138
   Percentage of Gamers: 1%
-  Ratio: 12.29
-  TA: '122'
+  Ratio: 9.27
+  TA: '92'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Missable
 - Achievement Name: Money storm
   Description: Total gold earned reach 100,000.
   GS: '5'
   Guide: false
-  Number of Gamers: 54
+  Number of Gamers: 158
   Percentage of Gamers: 1%
-  Ratio: 11.82
-  TA: '59'
+  Ratio: 8.69
+  TA: '43'
   Tags:
   - Offline Mode
   - Single Player
+  - Missable
   - Cumulative +
 - Achievement Name: Bountiful Pony
   Description: Become the top three in horseracing 10 times.
   GS: '10'
   Guide: false
-  Number of Gamers: 33
-  Percentage of Gamers: 0%
-  Ratio: 15.12
-  TA: '151'
+  Number of Gamers: 143
+  Percentage of Gamers: 1%
+  Ratio: 9.1
+  TA: '91'
   Tags:
   - Offline Mode
   - Single Player
+  - Missable
   - Cumulative +
 - Achievement Name: The Judge's St. Elmo's Fire
   Description: Marry Zee
   GS: '10'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 0%
-  Ratio: 21.72
-  TA: '217'
+  Number of Gamers: 64
+  Percentage of Gamers: 1%
+  Ratio: 13.61
+  TA: '136'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Missable
 - Achievement Name: Braveheart Lakeside
   Description: Marry Rebessa
   GS: '10'
   Guide: false
-  Number of Gamers: 36
-  Percentage of Gamers: 0%
-  Ratio: 14.48
-  TA: '144'
+  Number of Gamers: 133
+  Percentage of Gamers: 1%
+  Ratio: 9.44
+  TA: '94'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Missable
 - Achievement Name: Chef's Honey
   Description: Marry Mona
   GS: '10'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 7
   Percentage of Gamers: 0%
-  Ratio: 43.45
-  TA: '434'
+  Ratio: 41.17
+  TA: '411'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Missable
+  - Buggy
 - Achievement Name: The Prince's Ever After
   Description: Marry Kenneth
   GS: '10'
   Guide: false
-  Number of Gamers: 3
+  Number of Gamers: 6
   Percentage of Gamers: 0%
-  Ratio: 50.17
-  TA: '501'
+  Ratio: 44.47
+  TA: '444'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Missable
+  - Buggy
 - Achievement Name: The Novelist's Heroine
   Description: Marry Lon
   GS: '10'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
+  Number of Gamers: 3
+  Percentage of Gamers: 0%
+  Ratio: 1.0
   TA: '10'
   Tags:
-  - Offline Game Mode
-  - Single Player
+  - Unobtainable
 - Achievement Name: Painter's Mockingbird
   Description: Marry Benson
   GS: '10'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
+  Number of Gamers: 3
+  Percentage of Gamers: 0%
+  Ratio: 1.0
   TA: '10'
   Tags:
-  - Offline Game Mode
-  - Single Player
+  - Unobtainable
 - Achievement Name: Nina's Bride
   Description: Marry Nina
   GS: '10'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
+  Number of Gamers: 3
+  Percentage of Gamers: 0%
+  Ratio: 1.0
   TA: '10'
   Tags:
-  - Offline Game Mode
-  - Single Player
+  - Unobtainable
 - Achievement Name: Musician's Sun
   Description: Marry Craig
   GS: '10'
   Guide: true
-  Number of Gamers: 3
+  Number of Gamers: 6
   Percentage of Gamers: 0%
-  Ratio: 50.17
-  TA: '501'
+  Ratio: 44.47
+  TA: '444'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Missable
 - Achievement Name: The Nun's Keeper
   Description: Marry Connie
   GS: '10'
   Guide: false
-  Number of Gamers: 2
+  Number of Gamers: 5
   Percentage of Gamers: 0%
-  Ratio: 61.45
-  TA: '614'
+  Ratio: 48.71
+  TA: '487'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Missable
 - Achievement Name: The Scholar's Spring Breeze
   Description: Marry Claude
   GS: '10'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
+  Number of Gamers: 3
+  Percentage of Gamers: 0%
+  Ratio: 1.0
   TA: '10'
   Tags:
-  - Offline Game Mode
-  - Single Player
+  - Unobtainable
 - Achievement Name: The Bard's Companion
   Description: Marry Derek
   GS: '10'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
+  Number of Gamers: 3
+  Percentage of Gamers: 0%
+  Ratio: 1.0
   TA: '10'
   Tags:
-  - Offline Game Mode
-  - Single Player
+  - Unobtainable
 - Achievement Name: Kite of the Royal Family
   Description: Achieve the Romance ending with Gwyneth and Kenneth.
   GS: '20'
   Guide: false
-  Number of Gamers: 14
+  Number of Gamers: 18
   Percentage of Gamers: 0%
-  Ratio: 23.22
-  TA: '464'
+  Ratio: 25.67
+  TA: '513'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -989,10 +1056,10 @@ Base Game Achievements:
   Description: Achieve Romance endings with Benson, Hackett, Craig, Ron, and Zee.
   GS: '20'
   Guide: false
-  Number of Gamers: 7
+  Number of Gamers: 10
   Percentage of Gamers: 0%
-  Ratio: 32.85
-  TA: '657'
+  Ratio: 34.44
+  TA: '688'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -1000,91 +1067,86 @@ Base Game Achievements:
   Description: Achieve Romance ending with Nina and Mona.
   GS: '20'
   Guide: true
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
+  Number of Gamers: 3
+  Percentage of Gamers: 0%
+  Ratio: 1.0
   TA: '20'
   Tags:
-  - Offline Game Mode
-  - Single Player
+  - Unobtainable
 - Achievement Name: Turn and Retreat
   Description: Chose to leave directly in Black Street.
   GS: '5'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
+  Number of Gamers: 3
+  Percentage of Gamers: 0%
+  Ratio: 1.0
   TA: '5'
   Tags:
-  - Offline Game Mode
-  - Single Player
+  - Unobtainable
 - Achievement Name: The Path of Darkness
   Description: "Darkness\u2265150"
   GS: '5'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
+  Number of Gamers: 3
+  Percentage of Gamers: 0%
+  Ratio: 1.0
   TA: '5'
   Tags:
-  - Offline Game Mode
-  - Single Player
+  - Unobtainable
 - Achievement Name: Best friend ever!
   Description: Have 15 best friends.
   GS: '15'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
+  Number of Gamers: 3
+  Percentage of Gamers: 0%
+  Ratio: 1.0
   TA: '15'
   Tags:
-  - Offline Mode
-  - Single Player
-  - Cumulative +
+  - Unobtainable
 - Achievement Name: Master of Music
   Description: Completed 14 music courses.
   GS: '10'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
+  Number of Gamers: 3
+  Percentage of Gamers: 0%
+  Ratio: 1.0
   TA: '10'
   Tags:
-  - Offline Mode
-  - Single Player
-  - Cumulative +
+  - Unobtainable
 - Achievement Name: Dating Expert
   Description: Complete 30 perfect dates.
   GS: '10'
   Guide: false
-  Number of Gamers: 3
+  Number of Gamers: 6
   Percentage of Gamers: 0%
-  Ratio: 50.17
-  TA: '501'
+  Ratio: 44.47
+  TA: '444'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
+  - Buggy
 - Achievement Name: Dating is the most enjoyable thing
   Description: Dated 50 times.
   GS: '5'
   Guide: false
-  Number of Gamers: 3
+  Number of Gamers: 6
   Percentage of Gamers: 0%
-  Ratio: 50.17
-  TA: '250'
+  Ratio: 44.47
+  TA: '222'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
+  - Buggy
 - Achievement Name: A member of the Forgotten Forest
   Description: Complete 20 explorations.
   GS: '5'
   Guide: false
-  Number of Gamers: 3
+  Number of Gamers: 6
   Percentage of Gamers: 0%
-  Ratio: 50.17
-  TA: '250'
+  Ratio: 44.47
+  TA: '222'
   Tags:
   - Offline Mode
   - Single Player
@@ -1093,22 +1155,20 @@ Base Game Achievements:
   Description: Complete 70 part times.
   GS: '10'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
+  Number of Gamers: 3
+  Percentage of Gamers: 0%
+  Ratio: 1.0
   TA: '10'
   Tags:
-  - Offline Mode
-  - Single Player
-  - Cumulative +
+  - Unobtainable
 - Achievement Name: Racecourse Regular
   Description: Participate in 15 horseraces.
   GS: '5'
   Guide: false
-  Number of Gamers: 2
+  Number of Gamers: 5
   Percentage of Gamers: 0%
-  Ratio: 61.45
-  TA: '307'
+  Ratio: 48.71
+  TA: '243'
   Tags:
   - Offline Mode
   - Single Player
@@ -1117,70 +1177,63 @@ Base Game Achievements:
   Description: Complete 20 paintings.
   GS: '5'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
+  Number of Gamers: 3
+  Percentage of Gamers: 0%
+  Ratio: 1.0
   TA: '5'
   Tags:
-  - Offline Mode
-  - Single Player
-  - Cumulative +
+  - Unobtainable
 - Achievement Name: Dedicated Actress
   Description: Complete 20 plays.
   GS: '5'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
+  Number of Gamers: 3
+  Percentage of Gamers: 0%
+  Ratio: 1.0
   TA: '5'
   Tags:
-  - Offline Mode
-  - Single Player
-  - Cumulative +
+  - Unobtainable
 - Achievement Name: Used to winning
   Description: Win 20 solo fights.
   GS: '5'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
+  Number of Gamers: 3
+  Percentage of Gamers: 0%
+  Ratio: 1.0
   TA: '5'
   Tags:
-  - Offline Mode
-  - Single Player
-  - Cumulative +
+  - Unobtainable
 - Achievement Name: The Blessing of the Sacrificial Tower
   Description: Knock 3 times the door of the Sacrificial Tower, and get the staff
     of the sacrificial tower.
   GS: '15'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
+  Number of Gamers: 3
+  Percentage of Gamers: 0%
+  Ratio: 1.0
   TA: '15'
   Tags:
-  - Offline Game Mode
-  - Single Player
-Base Ratio: 10.97
-Base TA: 10970
+  - Unobtainable
+Base Ratio: 8.65
+Base TA: 8650
 Delisted: false
 Developer: Egg Hatcher
 Game Name: Volcano Princess
-Genres: Management
+Genres: Management, Visual Novel
 Install Size: 5280.0
-Number of Completions: 0
-Number of Gamers: 7558
+Number of Completions: 3
+Number of Gamers: 11873
 Overall Completion Time:
-- -1
-- -1
+- 51
+- 52
 Overall GS: 1000
-Overall Ratio: 10.97
-Overall TA: 10970
+Overall Ratio: 8.65
+Overall TA: 8650
 PDU: 0
-Percentage Completed: 0.0
+Percentage Completed: 0.03
 Publisher: Gamirror Games
 Release Date: 24 June 2025
 Server Closure: false
-Site Rating: 3.03
+Site Rating: 2.86
 Update Achievements: []
 Walkthrough: false

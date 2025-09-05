@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- 1
-- 2
+- 1.0
+- 2.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Upgrade Master
   Description: You think 9 upgrades are enough?
   GS: '30'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '34'
+  Number of Gamers: 72
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '31'
   Tags:
   - Offline Mode
   - Single Player
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Buy 5 upgrades. Trust me, you need it.
   GS: '15'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '17'
+  Number of Gamers: 73
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '15'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Buy your first upgrade. Or stay weak forever.
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 74
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '10'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Rescue your first helper. If you care.
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 74
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '10'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,21 +56,21 @@ Base Game Achievements:
   Description: Buy a Big Jam upgrade. Why though?
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 73
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Executive Chef
   Description: Cook 25 fish. Are you a fish murderer?
   GS: '30'
-  Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '34'
+  Guide: true
+  Number of Gamers: 65
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '33'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -78,10 +78,10 @@ Base Game Achievements:
   Description: Cook 20 fish. Just stop, they have families.
   GS: '15'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '17'
+  Number of Gamers: 67
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '16'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -89,10 +89,10 @@ Base Game Achievements:
   Description: Cook 15 fish. You're getting a reputation.
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 67
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -100,10 +100,10 @@ Base Game Achievements:
   Description: "Cook 10 fish. That\u2019s a lot of fish, buddy."
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 67
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -111,10 +111,10 @@ Base Game Achievements:
   Description: Cook 5 fish. Just 5, not 50, relax.
   GS: '15'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '17'
+  Number of Gamers: 67
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '16'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -122,10 +122,10 @@ Base Game Achievements:
   Description: Collect 20 fish. Who do you think you are?
   GS: '30'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '34'
+  Number of Gamers: 67
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '32'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -133,10 +133,10 @@ Base Game Achievements:
   Description: Collect 15 fish. Your inventory smells now.
   GS: '15'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '17'
+  Number of Gamers: 67
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '16'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -144,10 +144,10 @@ Base Game Achievements:
   Description: Collect 10 fish. When will it stop?
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 67
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -155,10 +155,10 @@ Base Game Achievements:
   Description: "Collect 5 fish. Or maybe they don\u2019t."
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 67
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -166,21 +166,21 @@ Base Game Achievements:
   Description: Collect your first fish. That was easy.
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 67
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: CEO of Bricks
   Description: Craft 50 bricks. Why do you need so many?
   GS: '30'
-  Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '34'
+  Guide: true
+  Number of Gamers: 66
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '32'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -188,10 +188,10 @@ Base Game Achievements:
   Description: "Craft 40 bricks. That\u2019s excessive."
   GS: '15'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '17'
+  Number of Gamers: 66
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '16'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -199,10 +199,10 @@ Base Game Achievements:
   Description: Craft 30 bricks. Hope you have storage.
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 66
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -210,10 +210,10 @@ Base Game Achievements:
   Description: "Craft 20 bricks. You\u2019re addicted to bricks now."
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 66
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -221,10 +221,10 @@ Base Game Achievements:
   Description: Craft 10 bricks. This is only the beginning.
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 67
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -232,10 +232,10 @@ Base Game Achievements:
   Description: Collect 100 leaves. What are you planning?
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 71
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -243,10 +243,10 @@ Base Game Achievements:
   Description: "Collect 75 leaves. Seriously, what\u2019s the plan?"
   GS: '15'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '17'
+  Number of Gamers: 71
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '15'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -254,10 +254,10 @@ Base Game Achievements:
   Description: Collect 50 leaves. This is getting weird.
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 72
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -265,10 +265,10 @@ Base Game Achievements:
   Description: Collect 25 leaves. Are you okay?
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 74
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -276,10 +276,10 @@ Base Game Achievements:
   Description: Collect 10 leaves. Just... why?
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 74
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -287,10 +287,10 @@ Base Game Achievements:
   Description: Build 12 structures. Bob would be proud.
   GS: '30'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '34'
+  Number of Gamers: 66
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '32'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -298,10 +298,10 @@ Base Game Achievements:
   Description: Build 9 structures. Are they even good?
   GS: '15'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '17'
+  Number of Gamers: 67
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '16'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -309,10 +309,10 @@ Base Game Achievements:
   Description: Build 6 structures. But are you really?
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 70
+  Percentage of Gamers: 89%
+  Ratio: 1.06
+  TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -320,10 +320,10 @@ Base Game Achievements:
   Description: Build 3 structures. You tried your best.
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 73
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -331,10 +331,10 @@ Base Game Achievements:
   Description: Build your first structure. Probably luck.
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 73
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -342,10 +342,10 @@ Base Game Achievements:
   Description: Earn 200 coins. Money, money, money!
   GS: '30'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '34'
+  Number of Gamers: 74
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '30'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -353,10 +353,10 @@ Base Game Achievements:
   Description: Earn 180 coins. Capitalism, baby!
   GS: '15'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '17'
+  Number of Gamers: 74
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '15'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -364,10 +364,10 @@ Base Game Achievements:
   Description: "Earn 160 coins. You probably won\u2019t."
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 74
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -375,10 +375,10 @@ Base Game Achievements:
   Description: Earn 140 coins. Does this number mean anything?
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 74
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -386,10 +386,10 @@ Base Game Achievements:
   Description: Earn 120 coins. Greed is kicking in.
   GS: '15'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '17'
+  Number of Gamers: 74
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '15'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -397,10 +397,10 @@ Base Game Achievements:
   Description: Earn 100 coins. Keep grinding.
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 73
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '10'
   Tags:
   - Offline Mode
   - Single Player
@@ -409,10 +409,10 @@ Base Game Achievements:
   Description: "Earn 80 coins. It\u2019s never enough."
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 73
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '10'
   Tags:
   - Offline Mode
   - Single Player
@@ -421,10 +421,10 @@ Base Game Achievements:
   Description: Earn 60 coins. Not sure why this matters.
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 73
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -432,10 +432,10 @@ Base Game Achievements:
   Description: Earn 40 coins. Almost nothing.
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 74
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -443,10 +443,10 @@ Base Game Achievements:
   Description: "Earn 20 coins. That\u2019s it?"
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 74
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -454,10 +454,10 @@ Base Game Achievements:
   Description: Collect 100 coconuts. Are you a squirrel?
   GS: '30'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '34'
+  Number of Gamers: 67
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '32'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -465,10 +465,10 @@ Base Game Achievements:
   Description: Collect 75 coconuts. Preparing for a coconut war?
   GS: '15'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '17'
+  Number of Gamers: 69
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '16'
   Tags:
   - Offline Mode
   - Single Player
@@ -477,10 +477,10 @@ Base Game Achievements:
   Description: "Collect 50 coconuts. Just \u2018a\u2019 coconut enjoyer?"
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 70
+  Percentage of Gamers: 89%
+  Ratio: 1.06
+  TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -488,10 +488,10 @@ Base Game Achievements:
   Description: "Collect 25 coconuts. \u2018Is\u2019 this even necessary?"
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 72
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -499,10 +499,10 @@ Base Game Achievements:
   Description: Collect 10 coconuts. Wow, such skill.
   GS: '15'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '17'
+  Number of Gamers: 73
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '15'
   Tags:
   - Offline Mode
   - Single Player
@@ -511,10 +511,10 @@ Base Game Achievements:
   Description: Craft 50 jam jars. Is this a jam factory?
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 68
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '10'
   Tags:
   - Offline Mode
   - Single Player
@@ -523,10 +523,10 @@ Base Game Achievements:
   Description: Craft 40 jam jars. A professional jam maker now?
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 69
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '10'
   Tags:
   - Offline Mode
   - Single Player
@@ -535,10 +535,10 @@ Base Game Achievements:
   Description: Craft 30 jam jars. Why do you need so much jam?
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 71
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '10'
   Tags:
   - Offline Mode
   - Single Player
@@ -547,10 +547,10 @@ Base Game Achievements:
   Description: "Craft 20 jam jars. You\u2019re running out of ideas."
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 72
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '10'
   Tags:
   - Offline Mode
   - Single Player
@@ -559,10 +559,10 @@ Base Game Achievements:
   Description: Craft 10 jam jars. Barely acceptable.
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 73
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '10'
   Tags:
   - Offline Mode
   - Single Player
@@ -571,10 +571,10 @@ Base Game Achievements:
   Description: Craft 100 scissors. Opening a barbershop?
   GS: '30'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '34'
+  Number of Gamers: 74
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '30'
   Tags:
   - Offline Mode
   - Single Player
@@ -583,10 +583,10 @@ Base Game Achievements:
   Description: Craft 75 scissors. Are you okay?
   GS: '15'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '17'
+  Number of Gamers: 73
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '15'
   Tags:
   - Offline Mode
   - Single Player
@@ -595,10 +595,10 @@ Base Game Achievements:
   Description: "Craft 50 scissors. You\u2019re just hoarding now."
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 74
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '10'
   Tags:
   - Offline Mode
   - Single Player
@@ -607,10 +607,10 @@ Base Game Achievements:
   Description: Craft 25 scissors. Are you making a scissor army?
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 74
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '10'
   Tags:
   - Offline Mode
   - Single Player
@@ -619,10 +619,10 @@ Base Game Achievements:
   Description: "Craft 10 scissors. Don\u2019t run with them!"
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 75
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '10'
   Tags:
   - Offline Mode
   - Single Player
@@ -631,10 +631,10 @@ Base Game Achievements:
   Description: "Collect 50 berries. Just berries. That\u2019s it."
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 74
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '10'
   Tags:
   - Offline Mode
   - Single Player
@@ -643,10 +643,10 @@ Base Game Achievements:
   Description: Collect 40 berries. No other food, huh?
   GS: '15'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '17'
+  Number of Gamers: 74
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '15'
   Tags:
   - Offline Mode
   - Single Player
@@ -655,10 +655,10 @@ Base Game Achievements:
   Description: Collect 30 berries. Are they all red?
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 74
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '10'
   Tags:
   - Offline Mode
   - Single Player
@@ -667,10 +667,10 @@ Base Game Achievements:
   Description: Collect 20 berries. Barney would be proud.
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 74
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '10'
   Tags:
   - Offline Mode
   - Single Player
@@ -679,10 +679,10 @@ Base Game Achievements:
   Description: Collect 10 berries. A small snack.
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 73
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '10'
   Tags:
   - Offline Mode
   - Single Player
@@ -691,10 +691,10 @@ Base Game Achievements:
   Description: Collect 100 stones. Minecraft player detected.
   GS: '30'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '34'
+  Number of Gamers: 73
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '31'
   Tags:
   - Offline Mode
   - Single Player
@@ -703,10 +703,10 @@ Base Game Achievements:
   Description: Collect 75 stones. Maybe build a house?
   GS: '15'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '17'
+  Number of Gamers: 73
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '15'
   Tags:
   - Offline Mode
   - Single Player
@@ -715,10 +715,10 @@ Base Game Achievements:
   Description: 'Collect 50 stones. Hoarding level: Medium.'
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 74
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '10'
   Tags:
   - Offline Mode
   - Single Player
@@ -727,10 +727,10 @@ Base Game Achievements:
   Description: Collect 25 stones. A simple rock collector.
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 75
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '10'
   Tags:
   - Offline Mode
   - Single Player
@@ -739,10 +739,10 @@ Base Game Achievements:
   Description: "Collect 10 stones. That\u2019s... not very impressive."
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 75
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '10'
   Tags:
   - Offline Mode
   - Single Player
@@ -751,10 +751,10 @@ Base Game Achievements:
   Description: Collect 100 wood logs. Did you cut down an entire forest?
   GS: '30'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '34'
+  Number of Gamers: 73
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '31'
   Tags:
   - Offline Mode
   - Single Player
@@ -763,10 +763,10 @@ Base Game Achievements:
   Description: Collect 75 wood logs. Your axe must be broken by now.
   GS: '15'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '17'
+  Number of Gamers: 74
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '15'
   Tags:
   - Offline Mode
   - Single Player
@@ -775,10 +775,10 @@ Base Game Achievements:
   Description: Collect 50 wood logs. Do you even have an axe?
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 80%
-  Ratio: 1.15
-  TA: '11'
+  Number of Gamers: 74
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '10'
   Tags:
   - Offline Mode
   - Single Player
@@ -787,9 +787,9 @@ Base Game Achievements:
   Description: Collect 25 wood logs. Just a small wood enthusiast.
   GS: '10'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 100%
-  Ratio: 1.0
+  Number of Gamers: 76
+  Percentage of Gamers: 96%
+  Ratio: 1.01
   TA: '10'
   Tags:
   - Offline Mode
@@ -799,7 +799,7 @@ Base Game Achievements:
   Description: Collect 10 wood logs. Don't take that out of context.
   GS: '35'
   Guide: false
-  Number of Gamers: 5
+  Number of Gamers: 79
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '35'
@@ -807,26 +807,26 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 1.113
-Base TA: 1113
+Base Ratio: 1.02
+Base TA: 1020
 Delisted: false
 Developer: Webnetic
 Game Name: Island Trouble (Windows)
 Genres: Management
 Install Size: 238.0
-Number of Completions: 4
-Number of Gamers: 5
+Number of Completions: 65
+Number of Gamers: 79
 Overall Completion Time:
-- 1
-- 2
+- 1.0
+- 2.0
 Overall GS: 1000
-Overall Ratio: 1.113
-Overall TA: 1113
+Overall Ratio: 1.02
+Overall TA: 1020
 PDU: 0
-Percentage Completed: 80.0
+Percentage Completed: 82.28
 Publisher: Webnetic
 Release Date: 11 July 2025
 Server Closure: false
-Site Rating: None
+Site Rating: 1.6
 Update Achievements: []
 Walkthrough: false

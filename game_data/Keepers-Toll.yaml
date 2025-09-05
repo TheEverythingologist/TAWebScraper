@@ -1,70 +1,26 @@
-Add On Achievements:
-- Achievement Name: Soul Expert
-  Description: Collect 250,000 Souls
-  GS: '200'
-  Guide: false
-  Number of Gamers: 35
-  Percentage of Gamers: 100%
-  Ratio: 1.9
-  TA: '380'
-  Tags: []
-- Achievement Name: Soul Manciple
-  Description: Collect 500,000 Souls
-  GS: '200'
-  Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 51%
-  Ratio: 2.65
-  TA: '530'
-  Tags: []
-- Achievement Name: Soul Slave
-  Description: Collect 750,000 Souls
-  GS: '200'
-  Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 34%
-  Ratio: 3.25
-  TA: '650'
-  Tags: []
-- Achievement Name: Soul God
-  Description: Collect 1,000,000 Souls
-  GS: '200'
-  Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 31%
-  Ratio: 3.39
-  TA: '678'
-  Tags: []
-- Achievement Name: Soul Goddess
-  Description: Collect 1,250,000 Souls
-  GS: '200'
-  Guide: true
-  Number of Gamers: 8
-  Percentage of Gamers: 23%
-  Ratio: 4.25
-  TA: '851'
-  Tags: []
+Add On Achievements: []
 Base Completion Time:
-- 31
-- 32
-Base GS: 2000
+- 28.0
+- 35.0
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: Stinky Cheese
   Description: Collect Nibbler's Cheese in the Catacombs
   GS: '15'
   Guide: false
-  Number of Gamers: 367
-  Percentage of Gamers: 80%
-  Ratio: 1.11
+  Number of Gamers: 452
+  Percentage of Gamers: 84%
+  Ratio: 1.09
   TA: '16'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Collectable
 - Achievement Name: Soul Seeker
   Description: Collect 1,000 Souls
   GS: '10'
   Guide: false
-  Number of Gamers: 452
+  Number of Gamers: 531
   Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '10'
@@ -76,9 +32,9 @@ Base Game Achievements:
   Description: Collect 10,000 Souls
   GS: '15'
   Guide: false
-  Number of Gamers: 383
-  Percentage of Gamers: 83%
-  Ratio: 1.09
+  Number of Gamers: 467
+  Percentage of Gamers: 86%
+  Ratio: 1.07
   TA: '16'
   Tags:
   - Offline Mode
@@ -88,10 +44,10 @@ Base Game Achievements:
   Description: Collect 100,000 Souls
   GS: '30'
   Guide: false
-  Number of Gamers: 192
-  Percentage of Gamers: 42%
-  Ratio: 1.54
-  TA: '46'
+  Number of Gamers: 272
+  Percentage of Gamers: 50%
+  Ratio: 1.4
+  TA: '42'
   Tags:
   - Offline Mode
   - Single Player
@@ -100,8 +56,8 @@ Base Game Achievements:
   Description: Defeat the Flesh Golem
   GS: '15'
   Guide: false
-  Number of Gamers: 428
-  Percentage of Gamers: 93%
+  Number of Gamers: 507
+  Percentage of Gamers: 94%
   Ratio: 1.03
   TA: '15'
   Tags:
@@ -112,10 +68,10 @@ Base Game Achievements:
   Description: Defeat Bloodsap
   GS: '15'
   Guide: false
-  Number of Gamers: 219
-  Percentage of Gamers: 48%
-  Ratio: 1.44
-  TA: '21'
+  Number of Gamers: 304
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '19'
   Tags:
   - Offline Mode
   - Single Player
@@ -124,9 +80,9 @@ Base Game Achievements:
   Description: Defeat Chancellor Autlaic
   GS: '15'
   Guide: false
-  Number of Gamers: 358
-  Percentage of Gamers: 78%
-  Ratio: 1.13
+  Number of Gamers: 443
+  Percentage of Gamers: 82%
+  Ratio: 1.1
   TA: '16'
   Tags:
   - Offline Mode
@@ -136,10 +92,10 @@ Base Game Achievements:
   Description: Defeat Velya
   GS: '15'
   Guide: false
-  Number of Gamers: 291
-  Percentage of Gamers: 63%
-  Ratio: 1.25
-  TA: '18'
+  Number of Gamers: 379
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '17'
   Tags:
   - Offline Mode
   - Single Player
@@ -148,9 +104,9 @@ Base Game Achievements:
   Description: Collect 500 Gold in a Single Run
   GS: '15'
   Guide: false
-  Number of Gamers: 418
-  Percentage of Gamers: 91%
-  Ratio: 1.04
+  Number of Gamers: 500
+  Percentage of Gamers: 92%
+  Ratio: 1.03
   TA: '15'
   Tags:
   - Offline Game Mode
@@ -159,8 +115,8 @@ Base Game Achievements:
   Description: Kill 500 Zombies
   GS: '15'
   Guide: false
-  Number of Gamers: 433
-  Percentage of Gamers: 94%
+  Number of Gamers: 513
+  Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '15'
   Tags:
@@ -171,9 +127,9 @@ Base Game Achievements:
   Description: Kill 1,000 Skeletons
   GS: '15'
   Guide: false
-  Number of Gamers: 367
-  Percentage of Gamers: 80%
-  Ratio: 1.11
+  Number of Gamers: 453
+  Percentage of Gamers: 84%
+  Ratio: 1.08
   TA: '16'
   Tags:
   - Offline Mode
@@ -183,9 +139,9 @@ Base Game Achievements:
   Description: Kill 5 Mimics
   GS: '15'
   Guide: false
-  Number of Gamers: 429
-  Percentage of Gamers: 93%
-  Ratio: 1.03
+  Number of Gamers: 509
+  Percentage of Gamers: 94%
+  Ratio: 1.02
   TA: '15'
   Tags:
   - Offline Mode
@@ -195,10 +151,10 @@ Base Game Achievements:
   Description: Kill 50 Mimics
   GS: '15'
   Guide: false
-  Number of Gamers: 242
-  Percentage of Gamers: 53%
-  Ratio: 1.37
-  TA: '20'
+  Number of Gamers: 328
+  Percentage of Gamers: 61%
+  Ratio: 1.28
+  TA: '19'
   Tags:
   - Offline Mode
   - Single Player
@@ -207,9 +163,9 @@ Base Game Achievements:
   Description: Use 3 Sacrifice Altars
   GS: '15'
   Guide: false
-  Number of Gamers: 292
-  Percentage of Gamers: 64%
-  Ratio: 1.25
+  Number of Gamers: 371
+  Percentage of Gamers: 69%
+  Ratio: 1.2
   TA: '18'
   Tags:
   - Offline Mode
@@ -219,10 +175,10 @@ Base Game Achievements:
   Description: Kill 1,000 Flies
   GS: '15'
   Guide: false
-  Number of Gamers: 396
-  Percentage of Gamers: 86%
-  Ratio: 1.07
-  TA: '16'
+  Number of Gamers: 474
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '15'
   Tags:
   - Offline Mode
   - Single Player
@@ -231,10 +187,10 @@ Base Game Achievements:
   Description: Max all Talents for the Bogatyr
   GS: '30'
   Guide: false
-  Number of Gamers: 68
-  Percentage of Gamers: 15%
-  Ratio: 2.59
-  TA: '77'
+  Number of Gamers: 128
+  Percentage of Gamers: 24%
+  Ratio: 2.05
+  TA: '61'
   Tags:
   - Offline Mode
   - Single Player
@@ -243,10 +199,10 @@ Base Game Achievements:
   Description: Max all Talents for the Necromancer
   GS: '30'
   Guide: false
-  Number of Gamers: 95
-  Percentage of Gamers: 21%
-  Ratio: 2.19
-  TA: '65'
+  Number of Gamers: 173
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '52'
   Tags:
   - Offline Mode
   - Single Player
@@ -255,10 +211,10 @@ Base Game Achievements:
   Description: Take No Damage for 5 Minutes
   GS: '30'
   Guide: false
-  Number of Gamers: 201
-  Percentage of Gamers: 44%
-  Ratio: 1.51
-  TA: '45'
+  Number of Gamers: 268
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '42'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -266,21 +222,20 @@ Base Game Achievements:
   Description: Survive 5 Curses
   GS: '15'
   Guide: false
-  Number of Gamers: 287
-  Percentage of Gamers: 63%
-  Ratio: 1.26
+  Number of Gamers: 372
+  Percentage of Gamers: 69%
+  Ratio: 1.2
   TA: '18'
   Tags:
-  - Offline Mode
+  - Offline Game Mode
   - Single Player
-  - Cumulative +
 - Achievement Name: Corpse Collector
   Description: Collect 100 Flesh Piles in a Single Run
   GS: '15'
   Guide: false
-  Number of Gamers: 291
-  Percentage of Gamers: 63%
-  Ratio: 1.25
+  Number of Gamers: 361
+  Percentage of Gamers: 67%
+  Ratio: 1.22
   TA: '18'
   Tags:
   - Offline Game Mode
@@ -289,10 +244,10 @@ Base Game Achievements:
   Description: Destroy an Entire Fly Swarm
   GS: '15'
   Guide: false
-  Number of Gamers: 354
-  Percentage of Gamers: 77%
-  Ratio: 1.13
-  TA: '17'
+  Number of Gamers: 434
+  Percentage of Gamers: 80%
+  Ratio: 1.11
+  TA: '16'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -300,10 +255,10 @@ Base Game Achievements:
   Description: Kill 1,000 Enemies with the Flail
   GS: '15'
   Guide: false
-  Number of Gamers: 194
-  Percentage of Gamers: 42%
-  Ratio: 1.54
-  TA: '23'
+  Number of Gamers: 269
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '21'
   Tags:
   - Offline Mode
   - Single Player
@@ -312,8 +267,8 @@ Base Game Achievements:
   Description: Defeat Warden Grainloch
   GS: '15'
   Guide: false
-  Number of Gamers: 405
-  Percentage of Gamers: 88%
+  Number of Gamers: 479
+  Percentage of Gamers: 89%
   Ratio: 1.06
   TA: '15'
   Tags:
@@ -324,10 +279,10 @@ Base Game Achievements:
   Description: Defeat Bilee
   GS: '15'
   Guide: false
-  Number of Gamers: 239
-  Percentage of Gamers: 52%
-  Ratio: 1.38
-  TA: '20'
+  Number of Gamers: 323
+  Percentage of Gamers: 60%
+  Ratio: 1.29
+  TA: '19'
   Tags:
   - Offline Mode
   - Single Player
@@ -336,10 +291,10 @@ Base Game Achievements:
   Description: Max all Talents for the Ranger
   GS: '30'
   Guide: false
-  Number of Gamers: 84
-  Percentage of Gamers: 18%
-  Ratio: 2.35
-  TA: '70'
+  Number of Gamers: 147
+  Percentage of Gamers: 27%
+  Ratio: 1.91
+  TA: '57'
   Tags:
   - Offline Mode
   - Single Player
@@ -348,22 +303,22 @@ Base Game Achievements:
   Description: Activate 3 Cursed Altars
   GS: '15'
   Guide: false
-  Number of Gamers: 347
-  Percentage of Gamers: 76%
-  Ratio: 1.15
-  TA: '17'
+  Number of Gamers: 437
+  Percentage of Gamers: 81%
+  Ratio: 1.11
+  TA: '16'
   Tags:
   - Offline Mode
   - Single Player
-  - Collectable
+  - Cumulative +
 - Achievement Name: Master of Shadows
   Description: Max all Talents for the Shadow Monk
   GS: '30'
   Guide: false
-  Number of Gamers: 90
-  Percentage of Gamers: 20%
-  Ratio: 2.25
-  TA: '67'
+  Number of Gamers: 158
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '55'
   Tags:
   - Offline Mode
   - Single Player
@@ -372,10 +327,10 @@ Base Game Achievements:
   Description: Discover 15 Tomes of Knowledge
   GS: '15'
   Guide: false
-  Number of Gamers: 294
-  Percentage of Gamers: 64%
-  Ratio: 1.24
-  TA: '18'
+  Number of Gamers: 379
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '17'
   Tags:
   - Offline Mode
   - Single Player
@@ -384,10 +339,10 @@ Base Game Achievements:
   Description: Defeat Sporelord Rotwood
   GS: '15'
   Guide: false
-  Number of Gamers: 339
-  Percentage of Gamers: 74%
-  Ratio: 1.16
-  TA: '17'
+  Number of Gamers: 420
+  Percentage of Gamers: 78%
+  Ratio: 1.13
+  TA: '16'
   Tags:
   - Offline Mode
   - Single Player
@@ -396,10 +351,10 @@ Base Game Achievements:
   Description: Defeat the Ebon King
   GS: '15'
   Guide: false
-  Number of Gamers: 195
-  Percentage of Gamers: 42%
-  Ratio: 1.53
-  TA: '23'
+  Number of Gamers: 276
+  Percentage of Gamers: 51%
+  Ratio: 1.39
+  TA: '20'
   Tags:
   - Offline Mode
   - Single Player
@@ -408,10 +363,10 @@ Base Game Achievements:
   Description: Defeat the Midnight Gatekeeper
   GS: '15'
   Guide: false
-  Number of Gamers: 205
-  Percentage of Gamers: 45%
-  Ratio: 1.49
-  TA: '22'
+  Number of Gamers: 287
+  Percentage of Gamers: 53%
+  Ratio: 1.36
+  TA: '20'
   Tags:
   - Offline Mode
   - Single Player
@@ -420,10 +375,10 @@ Base Game Achievements:
   Description: Defeat Soulus
   GS: '15'
   Guide: false
-  Number of Gamers: 258
-  Percentage of Gamers: 56%
-  Ratio: 1.33
-  TA: '20'
+  Number of Gamers: 343
+  Percentage of Gamers: 63%
+  Ratio: 1.25
+  TA: '18'
   Tags:
   - Offline Mode
   - Single Player
@@ -432,10 +387,10 @@ Base Game Achievements:
   Description: Defeat Lady Nox
   GS: '15'
   Guide: false
-  Number of Gamers: 268
-  Percentage of Gamers: 58%
-  Ratio: 1.3
-  TA: '19'
+  Number of Gamers: 354
+  Percentage of Gamers: 65%
+  Ratio: 1.23
+  TA: '18'
   Tags:
   - Offline Mode
   - Single Player
@@ -444,22 +399,21 @@ Base Game Achievements:
   Description: Survive 10 Curses
   GS: '30'
   Guide: false
-  Number of Gamers: 142
-  Percentage of Gamers: 31%
-  Ratio: 1.79
-  TA: '53'
+  Number of Gamers: 217
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '47'
   Tags:
-  - Offline Mode
+  - Offline Game Mode
   - Single Player
-  - Cumulative +
 - Achievement Name: Mouse Trap
   Description: Defeat Nibbler in Usvit Depths
   GS: '30'
   Guide: false
-  Number of Gamers: 137
-  Percentage of Gamers: 30%
-  Ratio: 1.83
-  TA: '55'
+  Number of Gamers: 200
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '49'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -467,10 +421,10 @@ Base Game Achievements:
   Description: Defeat the Ebon King without evading
   GS: '30'
   Guide: false
-  Number of Gamers: 88
-  Percentage of Gamers: 19%
-  Ratio: 2.28
-  TA: '68'
+  Number of Gamers: 144
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '57'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -478,10 +432,10 @@ Base Game Achievements:
   Description: Destroy 10 Gargoyle Statues in a single run
   GS: '15'
   Guide: false
-  Number of Gamers: 213
-  Percentage of Gamers: 46%
-  Ratio: 1.46
-  TA: '22'
+  Number of Gamers: 288
+  Percentage of Gamers: 53%
+  Ratio: 1.36
+  TA: '20'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -489,10 +443,10 @@ Base Game Achievements:
   Description: Burn 1,000 enemies with fire
   GS: '15'
   Guide: false
-  Number of Gamers: 387
-  Percentage of Gamers: 84%
-  Ratio: 1.08
-  TA: '16'
+  Number of Gamers: 475
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '15'
   Tags:
   - Offline Mode
   - Single Player
@@ -501,10 +455,10 @@ Base Game Achievements:
   Description: Max all talents for the Pyromancer
   GS: '30'
   Guide: false
-  Number of Gamers: 134
-  Percentage of Gamers: 29%
-  Ratio: 1.85
-  TA: '55'
+  Number of Gamers: 217
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '47'
   Tags:
   - Offline Mode
   - Single Player
@@ -513,10 +467,10 @@ Base Game Achievements:
   Description: Max all talents for the Blood Maiden
   GS: '30'
   Guide: false
-  Number of Gamers: 113
-  Percentage of Gamers: 25%
-  Ratio: 2.02
-  TA: '60'
+  Number of Gamers: 190
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '50'
   Tags:
   - Offline Mode
   - Single Player
@@ -525,10 +479,10 @@ Base Game Achievements:
   Description: Defeat Wulfgar and Osmer
   GS: '30'
   Guide: false
-  Number of Gamers: 184
-  Percentage of Gamers: 40%
-  Ratio: 1.57
-  TA: '47'
+  Number of Gamers: 263
+  Percentage of Gamers: 49%
+  Ratio: 1.43
+  TA: '42'
   Tags:
   - Offline Mode
   - Single Player
@@ -537,10 +491,10 @@ Base Game Achievements:
   Description: Defeat the Keeper of Souls
   GS: '30'
   Guide: false
-  Number of Gamers: 175
-  Percentage of Gamers: 38%
-  Ratio: 1.61
-  TA: '48'
+  Number of Gamers: 255
+  Percentage of Gamers: 47%
+  Ratio: 1.45
+  TA: '43'
   Tags:
   - Offline Mode
   - Single Player
@@ -549,10 +503,10 @@ Base Game Achievements:
   Description: Defeat the Dancing Dragon
   GS: '30'
   Guide: false
-  Number of Gamers: 178
-  Percentage of Gamers: 39%
-  Ratio: 1.6
-  TA: '48'
+  Number of Gamers: 257
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '43'
   Tags:
   - Offline Mode
   - Single Player
@@ -561,10 +515,10 @@ Base Game Achievements:
   Description: Destroy the Obelisk
   GS: '30'
   Guide: false
-  Number of Gamers: 186
-  Percentage of Gamers: 41%
-  Ratio: 1.57
-  TA: '47'
+  Number of Gamers: 264
+  Percentage of Gamers: 49%
+  Ratio: 1.42
+  TA: '42'
   Tags:
   - Offline Mode
   - Single Player
@@ -573,10 +527,10 @@ Base Game Achievements:
   Description: Kindle the Fire and Defeat the End Boss of Linden Forest
   GS: '30'
   Guide: false
-  Number of Gamers: 164
-  Percentage of Gamers: 36%
-  Ratio: 1.67
-  TA: '50'
+  Number of Gamers: 251
+  Percentage of Gamers: 46%
+  Ratio: 1.46
+  TA: '43'
   Tags:
   - Offline Mode
   - Single Player
@@ -585,10 +539,10 @@ Base Game Achievements:
   Description: Kindle the Fire and Defeat the End Boss of Usvit Depths
   GS: '30'
   Guide: false
-  Number of Gamers: 99
-  Percentage of Gamers: 22%
-  Ratio: 2.15
-  TA: '64'
+  Number of Gamers: 167
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '53'
   Tags:
   - Offline Mode
   - Single Player
@@ -597,10 +551,10 @@ Base Game Achievements:
   Description: Kindle the Fire and Defeat the End Boss of Usvit Castle
   GS: '30'
   Guide: false
-  Number of Gamers: 83
-  Percentage of Gamers: 18%
-  Ratio: 2.35
-  TA: '70'
+  Number of Gamers: 145
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '57'
   Tags:
   - Offline Mode
   - Single Player
@@ -609,45 +563,45 @@ Base Game Achievements:
   Description: Kindle the Fire and Defeat the End Boss of End of Time
   GS: '30'
   Guide: false
-  Number of Gamers: 66
-  Percentage of Gamers: 14%
-  Ratio: 2.63
-  TA: '79'
+  Number of Gamers: 120
+  Percentage of Gamers: 22%
+  Ratio: 2.11
+  TA: '63'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
   - Story Completed
-Base Ratio: 1.515
-Base TA: 3030
+Base Ratio: 1.7413333333333334
+Base TA: 5224
 Delisted: false
 Developer: Stingbot Games, eastasiasoft
 Game Name: Keeper's Toll
 Genres: Roguelite
 Install Size: 573.0
-Number of Completions: 8
-Number of Gamers: 459
+Number of Completions: 55
+Number of Gamers: 541
 Overall Completion Time:
-- 31
-- 32
+- 28.0
+- 35.0
 Overall GS: 3000
-Overall Ratio: 2.0396666666666667
-Overall TA: 6119
+Overall Ratio: 1.7413333333333334
+Overall TA: 5224
 PDU: 0
-Percentage Completed: 1.74
+Percentage Completed: 10.17
 Publisher: eastasiasoft
 Release Date: 11 June 2025
 Server Closure: false
-Site Rating: 3.88
+Site Rating: 3.92
 Update Achievements:
 - Achievement Name: Soul Emperor
   Description: Collect 50,000 Souls
   GS: '200'
   Guide: false
-  Number of Gamers: 213
-  Percentage of Gamers: 46%
-  Ratio: 1.46
-  TA: '293'
+  Number of Gamers: 306
+  Percentage of Gamers: 57%
+  Ratio: 1.32
+  TA: '265'
   Tags:
   - Offline Mode
   - Single Player
@@ -656,10 +610,10 @@ Update Achievements:
   Description: Kill 750 Zombies
   GS: '200'
   Guide: false
-  Number of Gamers: 326
-  Percentage of Gamers: 71%
-  Ratio: 1.18
-  TA: '237'
+  Number of Gamers: 432
+  Percentage of Gamers: 80%
+  Ratio: 1.11
+  TA: '223'
   Tags:
   - Offline Mode
   - Single Player
@@ -668,10 +622,10 @@ Update Achievements:
   Description: Kill 1,500 Flies
   GS: '200'
   Guide: false
-  Number of Gamers: 285
-  Percentage of Gamers: 62%
-  Ratio: 1.26
-  TA: '253'
+  Number of Gamers: 392
+  Percentage of Gamers: 72%
+  Ratio: 1.17
+  TA: '234'
   Tags:
   - Offline Mode
   - Single Player
@@ -680,10 +634,10 @@ Update Achievements:
   Description: Kill 1,500 Enemies with the Flail
   GS: '200'
   Guide: false
-  Number of Gamers: 144
-  Percentage of Gamers: 31%
-  Ratio: 1.79
-  TA: '358'
+  Number of Gamers: 224
+  Percentage of Gamers: 41%
+  Ratio: 1.54
+  TA: '309'
   Tags:
   - Offline Mode
   - Single Player
@@ -692,10 +646,70 @@ Update Achievements:
   Description: Kill 25 Mimics
   GS: '200'
   Guide: false
-  Number of Gamers: 265
-  Percentage of Gamers: 58%
-  Ratio: 1.31
-  TA: '263'
+  Number of Gamers: 363
+  Percentage of Gamers: 67%
+  Ratio: 1.21
+  TA: '243'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Soul Expert
+  Description: Collect 250,000 Souls
+  GS: '200'
+  Guide: false
+  Number of Gamers: 147
+  Percentage of Gamers: 27%
+  Ratio: 1.91
+  TA: '382'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Soul Manciple
+  Description: Collect 500,000 Souls
+  GS: '200'
+  Guide: false
+  Number of Gamers: 105
+  Percentage of Gamers: 19%
+  Ratio: 2.27
+  TA: '454'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Soul Slave
+  Description: Collect 750,000 Souls
+  GS: '200'
+  Guide: false
+  Number of Gamers: 75
+  Percentage of Gamers: 14%
+  Ratio: 2.67
+  TA: '535'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Soul God
+  Description: Collect 1,000,000 Souls
+  GS: '200'
+  Guide: false
+  Number of Gamers: 67
+  Percentage of Gamers: 12%
+  Ratio: 2.83
+  TA: '566'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Soul Goddess
+  Description: Collect 1,250,000 Souls
+  GS: '200'
+  Guide: true
+  Number of Gamers: 64
+  Percentage of Gamers: 12%
+  Ratio: 2.89
+  TA: '579'
   Tags:
   - Offline Mode
   - Single Player

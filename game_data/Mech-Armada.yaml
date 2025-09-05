@@ -1,16 +1,16 @@
 Add On Achievements: []
 Base Completion Time:
-- 44
-- 45
+- 39
+- 40
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Goliath Down
   Description: Win the Goliath boss fight
   GS: '15'
   Guide: true
-  Number of Gamers: 149
-  Percentage of Gamers: 85%
-  Ratio: 1.08
+  Number of Gamers: 156
+  Percentage of Gamers: 83%
+  Ratio: 1.09
   TA: '16'
   Tags:
   - Offline Mode
@@ -20,9 +20,9 @@ Base Game Achievements:
   Description: Win the Quake boss fight
   GS: '15'
   Guide: false
-  Number of Gamers: 126
+  Number of Gamers: 135
   Percentage of Gamers: 72%
-  Ratio: 1.18
+  Ratio: 1.17
   TA: '17'
   Tags:
   - Offline Mode
@@ -32,9 +32,9 @@ Base Game Achievements:
   Description: Win the Scourge Leader boss fight
   GS: '20'
   Guide: false
-  Number of Gamers: 99
+  Number of Gamers: 104
   Percentage of Gamers: 56%
-  Ratio: 1.33
+  Ratio: 1.34
   TA: '26'
   Tags:
   - Offline Mode
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Win the Behemoth boss fight
   GS: '20'
   Guide: false
-  Number of Gamers: 97
+  Number of Gamers: 102
   Percentage of Gamers: 55%
-  Ratio: 1.34
-  TA: '26'
+  Ratio: 1.35
+  TA: '27'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Win the Sandworm boss fight
   GS: '30'
   Guide: false
-  Number of Gamers: 66
-  Percentage of Gamers: 38%
-  Ratio: 1.63
-  TA: '48'
+  Number of Gamers: 69
+  Percentage of Gamers: 37%
+  Ratio: 1.65
+  TA: '49'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,9 +68,9 @@ Base Game Achievements:
   Description: Win the Dragon boss fight
   GS: '30'
   Guide: false
-  Number of Gamers: 67
-  Percentage of Gamers: 38%
-  Ratio: 1.62
+  Number of Gamers: 72
+  Percentage of Gamers: 39%
+  Ratio: 1.6
   TA: '48'
   Tags:
   - Offline Mode
@@ -80,9 +80,9 @@ Base Game Achievements:
   Description: Win the Spider Queen boss fight
   GS: '25'
   Guide: false
-  Number of Gamers: 75
-  Percentage of Gamers: 43%
-  Ratio: 1.53
+  Number of Gamers: 79
+  Percentage of Gamers: 42%
+  Ratio: 1.54
   TA: '38'
   Tags:
   - Offline Mode
@@ -92,10 +92,10 @@ Base Game Achievements:
   Description: Win the Scorpion boss fight
   GS: '25'
   Guide: false
-  Number of Gamers: 85
+  Number of Gamers: 89
   Percentage of Gamers: 48%
-  Ratio: 1.43
-  TA: '35'
+  Ratio: 1.44
+  TA: '36'
   Tags:
   - Offline Mode
   - Single Player
@@ -104,8 +104,8 @@ Base Game Achievements:
   Description: Defeat the Demon
   GS: '50'
   Guide: false
-  Number of Gamers: 63
-  Percentage of Gamers: 36%
+  Number of Gamers: 66
+  Percentage of Gamers: 35%
   Ratio: 1.67
   TA: '83'
   Tags:
@@ -116,9 +116,9 @@ Base Game Achievements:
   Description: Unlock every part
   GS: '15'
   Guide: false
-  Number of Gamers: 43
+  Number of Gamers: 45
   Percentage of Gamers: 24%
-  Ratio: 2.02
+  Ratio: 2.03
   TA: '30'
   Tags:
   - Offline Mode
@@ -128,8 +128,8 @@ Base Game Achievements:
   Description: Collect 1000 Energy Points
   GS: '15'
   Guide: false
-  Number of Gamers: 85
-  Percentage of Gamers: 48%
+  Number of Gamers: 91
+  Percentage of Gamers: 49%
   Ratio: 1.43
   TA: '21'
   Tags:
@@ -140,7 +140,7 @@ Base Game Achievements:
   Description: Defeat every monster type at least once (except bosses and fog)
   GS: '30'
   Guide: false
-  Number of Gamers: 37
+  Number of Gamers: 39
   Percentage of Gamers: 21%
   Ratio: 2.18
   TA: '65'
@@ -152,10 +152,10 @@ Base Game Achievements:
   Description: Spawn every part at least once
   GS: '50'
   Guide: false
-  Number of Gamers: 5
+  Number of Gamers: 6
   Percentage of Gamers: 3%
-  Ratio: 5.93
-  TA: '296'
+  Ratio: 5.56
+  TA: '278'
   Tags:
   - Offline Mode
   - Single Player
@@ -164,10 +164,10 @@ Base Game Achievements:
   Description: Collect every Expansion at least once
   GS: '50'
   Guide: false
-  Number of Gamers: 7
+  Number of Gamers: 8
   Percentage of Gamers: 4%
-  Ratio: 5.01
-  TA: '250'
+  Ratio: 4.82
+  TA: '241'
   Tags:
   - Offline Mode
   - Single Player
@@ -176,10 +176,10 @@ Base Game Achievements:
   Description: Spend 11 movement points or more in a single move
   GS: '15'
   Guide: false
-  Number of Gamers: 29
-  Percentage of Gamers: 16%
-  Ratio: 2.46
-  TA: '36'
+  Number of Gamers: 33
+  Percentage of Gamers: 18%
+  Ratio: 2.37
+  TA: '35'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -187,10 +187,10 @@ Base Game Achievements:
   Description: Hit a monster from range 8 or more with a single-target weapon
   GS: '15'
   Guide: false
-  Number of Gamers: 12
+  Number of Gamers: 13
   Percentage of Gamers: 7%
-  Ratio: 3.82
-  TA: '57'
+  Ratio: 3.78
+  TA: '56'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -198,10 +198,10 @@ Base Game Achievements:
   Description: Win a run using only tutorial parts
   GS: '30'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 3%
-  Ratio: 5.41
-  TA: '162'
+  Number of Gamers: 7
+  Percentage of Gamers: 4%
+  Ratio: 5.15
+  TA: '154'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -209,10 +209,10 @@ Base Game Achievements:
   Description: Win a run with no more than 1 mech in each battle
   GS: '30'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 2%
-  Ratio: 6.63
-  TA: '198'
+  Number of Gamers: 5
+  Percentage of Gamers: 3%
+  Ratio: 6.09
+  TA: '182'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -220,10 +220,10 @@ Base Game Achievements:
   Description: Win a run without spending any credits on new parts
   GS: '30'
   Guide: false
-  Number of Gamers: 8
+  Number of Gamers: 9
   Percentage of Gamers: 5%
-  Ratio: 4.69
-  TA: '140'
+  Ratio: 4.54
+  TA: '136'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -231,10 +231,10 @@ Base Game Achievements:
   Description: Win a run with 6 mechs on the field and no duplicate parts
   GS: '30'
   Guide: false
-  Number of Gamers: 5
+  Number of Gamers: 6
   Percentage of Gamers: 3%
-  Ratio: 5.93
-  TA: '177'
+  Ratio: 5.56
+  TA: '167'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -242,8 +242,8 @@ Base Game Achievements:
   Description: Defeat a Fog Creature by depleting its health
   GS: '30'
   Guide: false
-  Number of Gamers: 38
-  Percentage of Gamers: 22%
+  Number of Gamers: 40
+  Percentage of Gamers: 21%
   Ratio: 2.15
   TA: '64'
   Tags:
@@ -253,10 +253,10 @@ Base Game Achievements:
   Description: Win a run with no Improvements
   GS: '30'
   Guide: false
-  Number of Gamers: 10
+  Number of Gamers: 11
   Percentage of Gamers: 6%
-  Ratio: 4.19
-  TA: '125'
+  Ratio: 4.11
+  TA: '123'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -264,10 +264,10 @@ Base Game Achievements:
   Description: Win a boss fight using only Tiles, Landmines and/or Airstrikes
   GS: '30'
   Guide: false
-  Number of Gamers: 12
+  Number of Gamers: 13
   Percentage of Gamers: 7%
-  Ratio: 3.82
-  TA: '114'
+  Ratio: 3.78
+  TA: '113'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -275,10 +275,10 @@ Base Game Achievements:
   Description: Have a Teleporter swap places with a Landmine
   GS: '15'
   Guide: false
-  Number of Gamers: 9
+  Number of Gamers: 10
   Percentage of Gamers: 5%
-  Ratio: 4.42
-  TA: '66'
+  Ratio: 4.31
+  TA: '64'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -286,10 +286,10 @@ Base Game Achievements:
   Description: Freeze a Sandworm Larva
   GS: '15'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 10%
-  Ratio: 3.12
-  TA: '46'
+  Number of Gamers: 20
+  Percentage of Gamers: 11%
+  Ratio: 3.04
+  TA: '45'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -297,9 +297,9 @@ Base Game Achievements:
   Description: Collect Meta-Energy with a Landmine
   GS: '15'
   Guide: false
-  Number of Gamers: 39
+  Number of Gamers: 42
   Percentage of Gamers: 22%
-  Ratio: 2.12
+  Ratio: 2.1
   TA: '31'
   Tags:
   - Offline Game Mode
@@ -308,9 +308,9 @@ Base Game Achievements:
   Description: Increase the Defender body armor by 12
   GS: '15'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 15%
-  Ratio: 2.6
+  Number of Gamers: 27
+  Percentage of Gamers: 14%
+  Ratio: 2.62
   TA: '39'
   Tags:
   - Offline Game Mode
@@ -319,9 +319,9 @@ Base Game Achievements:
   Description: Hit at least 6 monsters with a single attack
   GS: '15'
   Guide: false
-  Number of Gamers: 40
+  Number of Gamers: 43
   Percentage of Gamers: 23%
-  Ratio: 2.09
+  Ratio: 2.07
   TA: '31'
   Tags:
   - Offline Game Mode
@@ -330,10 +330,10 @@ Base Game Achievements:
   Description: Neutralize a Hopper from at least 2 tiles away
   GS: '15'
   Guide: false
-  Number of Gamers: 10
+  Number of Gamers: 12
   Percentage of Gamers: 6%
-  Ratio: 4.19
-  TA: '62'
+  Ratio: 3.93
+  TA: '59'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -341,10 +341,10 @@ Base Game Achievements:
   Description: Scrap a Kamikaze body in the same turn you spawn it
   GS: '15'
   Guide: false
-  Number of Gamers: 8
+  Number of Gamers: 9
   Percentage of Gamers: 5%
-  Ratio: 4.69
-  TA: '70'
+  Ratio: 4.54
+  TA: '68'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -352,7 +352,7 @@ Base Game Achievements:
   Description: Return to the base with a special weapon
   GS: '50'
   Guide: false
-  Number of Gamers: 34
+  Number of Gamers: 36
   Percentage of Gamers: 19%
   Ratio: 2.27
   TA: '113'
@@ -363,7 +363,7 @@ Base Game Achievements:
   Description: Defeat the cause of the invasion
   GS: '50'
   Guide: false
-  Number of Gamers: 17
+  Number of Gamers: 18
   Percentage of Gamers: 10%
   Ratio: 3.21
   TA: '160'
@@ -376,10 +376,10 @@ Base Game Achievements:
   Description: Win a Challenge 12 run
   GS: '70'
   Guide: false
-  Number of Gamers: 5
+  Number of Gamers: 6
   Percentage of Gamers: 3%
-  Ratio: 5.93
-  TA: '415'
+  Ratio: 5.56
+  TA: '389'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -387,10 +387,10 @@ Base Game Achievements:
   Description: Start a run with Today's Part
   GS: '15'
   Guide: false
-  Number of Gamers: 74
-  Percentage of Gamers: 42%
-  Ratio: 1.54
-  TA: '23'
+  Number of Gamers: 82
+  Percentage of Gamers: 44%
+  Ratio: 1.51
+  TA: '22'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -398,7 +398,7 @@ Base Game Achievements:
   Description: Win the Basilisk boss fight
   GS: '25'
   Guide: false
-  Number of Gamers: 39
+  Number of Gamers: 41
   Percentage of Gamers: 22%
   Ratio: 2.12
   TA: '53'
@@ -410,7 +410,7 @@ Base Game Achievements:
   Description: Win the Hammerhead boss fight
   GS: '25'
   Guide: false
-  Number of Gamers: 37
+  Number of Gamers: 39
   Percentage of Gamers: 21%
   Ratio: 2.18
   TA: '54'
@@ -422,7 +422,7 @@ Base Game Achievements:
   Description: Win the Kraken boss fight
   GS: '30'
   Guide: false
-  Number of Gamers: 37
+  Number of Gamers: 39
   Percentage of Gamers: 21%
   Ratio: 2.18
   TA: '65'
@@ -430,23 +430,23 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 3.3
-Base TA: 3300
+Base Ratio: 3.198
+Base TA: 3198
 Delisted: false
 Developer: Lioncode Games
 Game Name: Mech Armada
 Genres: Strategy, Turn Based
 Install Size: 2840.0
-Number of Completions: 4
-Number of Gamers: 176
+Number of Completions: 5
+Number of Gamers: 187
 Overall Completion Time:
-- 44
-- 45
+- 39
+- 40
 Overall GS: 1000
-Overall Ratio: 3.3
-Overall TA: 3300
+Overall Ratio: 3.198
+Overall TA: 3198
 PDU: 0
-Percentage Completed: 2.27
+Percentage Completed: 2.67
 Publisher: Lioncode Games
 Release Date: 08 December 2022
 Server Closure: false

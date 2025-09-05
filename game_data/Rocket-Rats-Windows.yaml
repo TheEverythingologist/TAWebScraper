@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.5
-- 1.5
-Base GS: 2000
+- 2.0
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: Nerdy
   Description: Unlock Nerdy rat
   GS: '100'
   Guide: false
-  Number of Gamers: 249
+  Number of Gamers: 298
   Percentage of Gamers: 93%
   Ratio: 1.03
   TA: '103'
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Unlock Soldier rat
   GS: '100'
   Guide: false
-  Number of Gamers: 249
+  Number of Gamers: 300
   Percentage of Gamers: 93%
   Ratio: 1.03
   TA: '103'
@@ -32,7 +32,7 @@ Base Game Achievements:
   Description: Unlock Doctor rat
   GS: '100'
   Guide: false
-  Number of Gamers: 249
+  Number of Gamers: 300
   Percentage of Gamers: 93%
   Ratio: 1.03
   TA: '103'
@@ -44,8 +44,8 @@ Base Game Achievements:
   Description: Unlock M1C3 rat
   GS: '100'
   Guide: false
-  Number of Gamers: 248
-  Percentage of Gamers: 93%
+  Number of Gamers: 301
+  Percentage of Gamers: 94%
   Ratio: 1.03
   TA: '103'
   Tags:
@@ -56,8 +56,8 @@ Base Game Achievements:
   Description: Unlock Mr. Shock rat
   GS: '100'
   Guide: false
-  Number of Gamers: 246
-  Percentage of Gamers: 92%
+  Number of Gamers: 298
+  Percentage of Gamers: 93%
   Ratio: 1.03
   TA: '103'
   Tags:
@@ -68,8 +68,8 @@ Base Game Achievements:
   Description: Unlock one global upgrade of each category
   GS: '100'
   Guide: false
-  Number of Gamers: 246
-  Percentage of Gamers: 92%
+  Number of Gamers: 298
+  Percentage of Gamers: 93%
   Ratio: 1.03
   TA: '103'
   Tags:
@@ -80,10 +80,10 @@ Base Game Achievements:
   Description: Get any Gear upgrade
   GS: '100'
   Guide: false
-  Number of Gamers: 261
+  Number of Gamers: 312
   Percentage of Gamers: 97%
-  Ratio: 1.0
-  TA: '100'
+  Ratio: 1.01
+  TA: '101'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -91,9 +91,9 @@ Base Game Achievements:
   Description: Have 6 or more full hearts
   GS: '50'
   Guide: false
-  Number of Gamers: 262
-  Percentage of Gamers: 98%
-  Ratio: 1.0
+  Number of Gamers: 311
+  Percentage of Gamers: 97%
+  Ratio: 1.01
   TA: '50'
   Tags:
   - Offline Game Mode
@@ -102,7 +102,7 @@ Base Game Achievements:
   Description: Spend 5,000 cheese coins
   GS: '50'
   Guide: false
-  Number of Gamers: 254
+  Number of Gamers: 305
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '51'
@@ -115,10 +115,10 @@ Base Game Achievements:
   Description: Have 4 or more rare upgrades in a single run
   GS: '100'
   Guide: false
-  Number of Gamers: 257
+  Number of Gamers: 308
   Percentage of Gamers: 96%
-  Ratio: 1.01
-  TA: '101'
+  Ratio: 1.02
+  TA: '102'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -126,41 +126,41 @@ Base Game Achievements:
   Description: Reach the 30th wave
   GS: '100'
   Guide: true
-  Number of Gamers: 247
-  Percentage of Gamers: 92%
+  Number of Gamers: 298
+  Percentage of Gamers: 93%
   Ratio: 1.03
   TA: '103'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 1.019
-Base TA: 2038
+Base Ratio: 1.0416666666666667
+Base TA: 3125
 Delisted: false
 Developer: Gagonfe
 Game Name: Rocket Rats (Windows)
 Genres: Roguelite
 Install Size: 173.0
-Number of Completions: 243
-Number of Gamers: 268
+Number of Completions: 262
+Number of Gamers: 321
 Overall Completion Time:
 - 0.5
-- 1.5
-Overall GS: 2000
-Overall Ratio: 1.019
-Overall TA: 2038
+- 2.0
+Overall GS: 3000
+Overall Ratio: 1.0416666666666667
+Overall TA: 3125
 PDU: 0
-Percentage Completed: 90.67
+Percentage Completed: 81.62
 Publisher: Gagonfe
 Release Date: 26 March 2025
 Server Closure: false
-Site Rating: 3.02
+Site Rating: 3.0
 Update Achievements:
 - Achievement Name: Star Allies
   Description: Have 3 or more star allies
   GS: '200'
   Guide: true
-  Number of Gamers: 258
-  Percentage of Gamers: 96%
+  Number of Gamers: 310
+  Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '203'
   Tags:
@@ -170,10 +170,10 @@ Update Achievements:
   Description: Have 25 or more ammo
   GS: '200'
   Guide: true
-  Number of Gamers: 259
+  Number of Gamers: 310
   Percentage of Gamers: 97%
   Ratio: 1.01
-  TA: '202'
+  TA: '203'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -181,10 +181,10 @@ Update Achievements:
   Description: Have 4 or more bonus shots
   GS: '200'
   Guide: true
-  Number of Gamers: 251
-  Percentage of Gamers: 94%
-  Ratio: 1.02
-  TA: '205'
+  Number of Gamers: 300
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '207'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -192,10 +192,10 @@ Update Achievements:
   Description: Have 100% or more extra projectile damage
   GS: '200'
   Guide: true
-  Number of Gamers: 264
-  Percentage of Gamers: 99%
-  Ratio: 1.0
-  TA: '200'
+  Number of Gamers: 313
+  Percentage of Gamers: 98%
+  Ratio: 1.01
+  TA: '202'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -203,11 +203,71 @@ Update Achievements:
   Description: Have 50% or more critical chance
   GS: '200'
   Guide: true
-  Number of Gamers: 251
+  Number of Gamers: 303
   Percentage of Gamers: 94%
   Ratio: 1.02
   TA: '205'
   Tags:
   - Offline Game Mode
   - Single Player
+- Achievement Name: 5th Clear
+  Description: Clear the 5th wave
+  GS: '200'
+  Guide: false
+  Number of Gamers: 280
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '214'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: 10th Clear
+  Description: Clear the 10th wave
+  GS: '200'
+  Guide: false
+  Number of Gamers: 276
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '215'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: 15th Clear
+  Description: Clear the 15th wave
+  GS: '200'
+  Guide: false
+  Number of Gamers: 275
+  Percentage of Gamers: 86%
+  Ratio: 1.08
+  TA: '216'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: 20th Clear
+  Description: Clear the 20th wave
+  GS: '200'
+  Guide: false
+  Number of Gamers: 272
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '217'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: 25th Clear
+  Description: Clear the 25th wave
+  GS: '200'
+  Guide: false
+  Number of Gamers: 269
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '218'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 Walkthrough: false

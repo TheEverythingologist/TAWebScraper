@@ -1,16 +1,16 @@
 Add On Achievements: []
 Base Completion Time:
-- 43
-- 44
+- 47
+- 48
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Rookie Slayer
   Description: Defeat 50 Monsters
   GS: '10'
   Guide: false
-  Number of Gamers: 92
-  Percentage of Gamers: 53%
-  Ratio: 1.37
+  Number of Gamers: 108
+  Percentage of Gamers: 54%
+  Ratio: 1.36
   TA: '13'
   Tags:
   - Offline Mode
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Defeat 5000 Monsters
   GS: '45'
   Guide: true
-  Number of Gamers: 7
+  Number of Gamers: 9
   Percentage of Gamers: 4%
-  Ratio: 5.0
-  TA: '225'
+  Ratio: 4.71
+  TA: '212'
   Tags:
   - Offline Mode
   - Single Player
@@ -33,10 +33,10 @@ Base Game Achievements:
   Description: Complete 5 Research Projects
   GS: '10'
   Guide: false
-  Number of Gamers: 67
-  Percentage of Gamers: 38%
-  Ratio: 1.61
-  TA: '16'
+  Number of Gamers: 83
+  Percentage of Gamers: 41%
+  Ratio: 1.55
+  TA: '15'
   Tags:
   - Offline Mode
   - Single Player
@@ -45,21 +45,22 @@ Base Game Achievements:
   Description: Complete 120 Research Projects
   GS: '45'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 6%
-  Ratio: 3.98
-  TA: '179'
+  Number of Gamers: 16
+  Percentage of Gamers: 8%
+  Ratio: 3.53
+  TA: '159'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
+  - Buggy +
 - Achievement Name: New Principal
   Description: Be a Principal for 10 months
   GS: '10'
   Guide: false
-  Number of Gamers: 96
-  Percentage of Gamers: 55%
-  Ratio: 1.35
+  Number of Gamers: 112
+  Percentage of Gamers: 56%
+  Ratio: 1.33
   TA: '13'
   Tags:
   - Offline Mode
@@ -69,10 +70,10 @@ Base Game Achievements:
   Description: Be a Principal for 500 months
   GS: '45'
   Guide: true
-  Number of Gamers: 7
+  Number of Gamers: 9
   Percentage of Gamers: 4%
-  Ratio: 5.0
-  TA: '225'
+  Ratio: 4.71
+  TA: '212'
   Tags:
   - Offline Mode
   - Single Player
@@ -82,10 +83,10 @@ Base Game Achievements:
   Description: Graduate 5 Students
   GS: '10'
   Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 17%
-  Ratio: 2.41
-  TA: '24'
+  Number of Gamers: 40
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '22'
   Tags:
   - Offline Mode
   - Single Player
@@ -94,10 +95,10 @@ Base Game Achievements:
   Description: Graduate 60 Students
   GS: '45'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 4%
-  Ratio: 5.0
-  TA: '225'
+  Number of Gamers: 10
+  Percentage of Gamers: 5%
+  Ratio: 4.47
+  TA: '201'
   Tags:
   - Offline Mode
   - Single Player
@@ -106,9 +107,9 @@ Base Game Achievements:
   Description: Use 10 Skills in combat
   GS: '10'
   Guide: false
-  Number of Gamers: 131
-  Percentage of Gamers: 75%
-  Ratio: 1.15
+  Number of Gamers: 152
+  Percentage of Gamers: 76%
+  Ratio: 1.14
   TA: '11'
   Tags:
   - Offline Mode
@@ -118,10 +119,10 @@ Base Game Achievements:
   Description: Use 5000 Skills in combat
   GS: '45'
   Guide: true
-  Number of Gamers: 7
+  Number of Gamers: 9
   Percentage of Gamers: 4%
-  Ratio: 5.0
-  TA: '225'
+  Ratio: 4.71
+  TA: '212'
   Tags:
   - Offline Mode
   - Single Player
@@ -131,7 +132,7 @@ Base Game Achievements:
   Description: Spend 10000 Gold
   GS: '10'
   Guide: false
-  Number of Gamers: 175
+  Number of Gamers: 201
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '10'
@@ -143,10 +144,10 @@ Base Game Achievements:
   Description: Spend 5000000 Gold
   GS: '45'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 7%
-  Ratio: 3.66
-  TA: '165'
+  Number of Gamers: 20
+  Percentage of Gamers: 10%
+  Ratio: 3.16
+  TA: '142'
   Tags:
   - Offline Mode
   - Single Player
@@ -155,7 +156,7 @@ Base Game Achievements:
   Description: Spend 500 Arcstones
   GS: '10'
   Guide: false
-  Number of Gamers: 106
+  Number of Gamers: 122
   Percentage of Gamers: 61%
   Ratio: 1.28
   TA: '12'
@@ -167,10 +168,10 @@ Base Game Achievements:
   Description: Spend 20000 Arcstones
   GS: '45'
   Guide: false
-  Number of Gamers: 22
-  Percentage of Gamers: 13%
-  Ratio: 2.82
-  TA: '126'
+  Number of Gamers: 30
+  Percentage of Gamers: 15%
+  Ratio: 2.58
+  TA: '116'
   Tags:
   - Offline Mode
   - Single Player
@@ -179,10 +180,10 @@ Base Game Achievements:
   Description: Have 150,000 Gold before 1305
   GS: '45'
   Guide: false
-  Number of Gamers: 35
-  Percentage of Gamers: 20%
-  Ratio: 2.23
-  TA: '100'
+  Number of Gamers: 46
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '93'
   Tags:
   - Offline Mode
   - Single Player
@@ -191,9 +192,9 @@ Base Game Achievements:
   Description: Complete 5 Quests
   GS: '10'
   Guide: false
-  Number of Gamers: 93
-  Percentage of Gamers: 53%
-  Ratio: 1.37
+  Number of Gamers: 109
+  Percentage of Gamers: 54%
+  Ratio: 1.35
   TA: '13'
   Tags:
   - Offline Mode
@@ -203,10 +204,10 @@ Base Game Achievements:
   Description: Complete 100 Quests
   GS: '45'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 6%
-  Ratio: 4.18
-  TA: '188'
+  Number of Gamers: 14
+  Percentage of Gamers: 7%
+  Ratio: 3.77
+  TA: '170'
   Tags:
   - Offline Mode
   - Single Player
@@ -215,10 +216,10 @@ Base Game Achievements:
   Description: Play the Fishing Minigame 4 times
   GS: '10'
   Guide: false
-  Number of Gamers: 36
-  Percentage of Gamers: 21%
-  Ratio: 2.2
-  TA: '22'
+  Number of Gamers: 44
+  Percentage of Gamers: 22%
+  Ratio: 2.13
+  TA: '21'
   Tags:
   - Offline Mode
   - Single Player
@@ -227,10 +228,10 @@ Base Game Achievements:
   Description: Play the Fishing Minigame 12 times
   GS: '15'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 7%
-  Ratio: 3.81
-  TA: '57'
+  Number of Gamers: 17
+  Percentage of Gamers: 8%
+  Ratio: 3.43
+  TA: '51'
   Tags:
   - Offline Mode
   - Single Player
@@ -239,10 +240,10 @@ Base Game Achievements:
   Description: Play the Fishing Minigame 20 times
   GS: '20'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 4%
-  Ratio: 5.0
-  TA: '100'
+  Number of Gamers: 10
+  Percentage of Gamers: 5%
+  Ratio: 4.47
+  TA: '89'
   Tags:
   - Offline Mode
   - Single Player
@@ -251,10 +252,10 @@ Base Game Achievements:
   Description: Play the Swimming Minigame 4 times
   GS: '10'
   Guide: false
-  Number of Gamers: 35
-  Percentage of Gamers: 20%
-  Ratio: 2.23
-  TA: '22'
+  Number of Gamers: 43
+  Percentage of Gamers: 21%
+  Ratio: 2.15
+  TA: '21'
   Tags:
   - Offline Mode
   - Single Player
@@ -263,10 +264,10 @@ Base Game Achievements:
   Description: Play the Swimming Minigame 12 times
   GS: '15'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 7%
-  Ratio: 3.81
-  TA: '57'
+  Number of Gamers: 17
+  Percentage of Gamers: 8%
+  Ratio: 3.43
+  TA: '51'
   Tags:
   - Offline Mode
   - Single Player
@@ -275,10 +276,10 @@ Base Game Achievements:
   Description: Play the Swimming Minigame 20 times
   GS: '20'
   Guide: false
-  Number of Gamers: 8
+  Number of Gamers: 11
   Percentage of Gamers: 5%
-  Ratio: 4.67
-  TA: '93'
+  Ratio: 4.26
+  TA: '85'
   Tags:
   - Offline Mode
   - Single Player
@@ -287,10 +288,10 @@ Base Game Achievements:
   Description: Play the Eating Minigame 4 times
   GS: '10'
   Guide: false
-  Number of Gamers: 35
-  Percentage of Gamers: 20%
-  Ratio: 2.23
-  TA: '22'
+  Number of Gamers: 44
+  Percentage of Gamers: 22%
+  Ratio: 2.13
+  TA: '21'
   Tags:
   - Offline Mode
   - Single Player
@@ -299,10 +300,10 @@ Base Game Achievements:
   Description: Play the Eating Minigame 12 times
   GS: '15'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 6%
-  Ratio: 3.98
-  TA: '59'
+  Number of Gamers: 16
+  Percentage of Gamers: 8%
+  Ratio: 3.53
+  TA: '53'
   Tags:
   - Offline Mode
   - Single Player
@@ -311,10 +312,10 @@ Base Game Achievements:
   Description: Play the Eating Minigame 20 times
   GS: '20'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 4%
-  Ratio: 5.0
-  TA: '100'
+  Number of Gamers: 10
+  Percentage of Gamers: 5%
+  Ratio: 4.47
+  TA: '89'
   Tags:
   - Offline Mode
   - Single Player
@@ -323,10 +324,10 @@ Base Game Achievements:
   Description: Play the Snowman Minigame 4 times
   GS: '10'
   Guide: false
-  Number of Gamers: 24
-  Percentage of Gamers: 14%
-  Ratio: 2.7
-  TA: '27'
+  Number of Gamers: 34
+  Percentage of Gamers: 17%
+  Ratio: 2.42
+  TA: '24'
   Tags:
   - Offline Mode
   - Single Player
@@ -335,10 +336,10 @@ Base Game Achievements:
   Description: Play the Snowman Minigame 12 times
   GS: '15'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 6%
-  Ratio: 3.98
-  TA: '59'
+  Number of Gamers: 16
+  Percentage of Gamers: 8%
+  Ratio: 3.53
+  TA: '53'
   Tags:
   - Offline Mode
   - Single Player
@@ -347,10 +348,10 @@ Base Game Achievements:
   Description: Play the Snowman Minigame 20 times
   GS: '20'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 4%
-  Ratio: 5.0
-  TA: '100'
+  Number of Gamers: 10
+  Percentage of Gamers: 5%
+  Ratio: 4.47
+  TA: '89'
   Tags:
   - Offline Mode
   - Single Player
@@ -359,10 +360,10 @@ Base Game Achievements:
   Description: Win the Fishing Minigame 5 times
   GS: '20'
   Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 15%
-  Ratio: 2.54
-  TA: '50'
+  Number of Gamers: 36
+  Percentage of Gamers: 18%
+  Ratio: 2.35
+  TA: '47'
   Tags:
   - Offline Mode
   - Single Player
@@ -371,10 +372,10 @@ Base Game Achievements:
   Description: Win the Swimming Minigame 5 times
   GS: '20'
   Guide: false
-  Number of Gamers: 25
-  Percentage of Gamers: 14%
-  Ratio: 2.64
-  TA: '52'
+  Number of Gamers: 34
+  Percentage of Gamers: 17%
+  Ratio: 2.42
+  TA: '48'
   Tags:
   - Offline Mode
   - Single Player
@@ -383,10 +384,10 @@ Base Game Achievements:
   Description: Win the Eating Minigame 5 times
   GS: '20'
   Guide: false
-  Number of Gamers: 24
-  Percentage of Gamers: 14%
-  Ratio: 2.7
-  TA: '54'
+  Number of Gamers: 34
+  Percentage of Gamers: 17%
+  Ratio: 2.42
+  TA: '48'
   Tags:
   - Offline Mode
   - Single Player
@@ -395,10 +396,10 @@ Base Game Achievements:
   Description: Win the Snowman Minigame 5 times
   GS: '20'
   Guide: false
-  Number of Gamers: 22
-  Percentage of Gamers: 13%
-  Ratio: 2.82
-  TA: '56'
+  Number of Gamers: 31
+  Percentage of Gamers: 15%
+  Ratio: 2.54
+  TA: '50'
   Tags:
   - Offline Mode
   - Single Player
@@ -407,9 +408,9 @@ Base Game Achievements:
   Description: Send 7 Students on Errands
   GS: '10'
   Guide: false
-  Number of Gamers: 65
-  Percentage of Gamers: 37%
-  Ratio: 1.64
+  Number of Gamers: 77
+  Percentage of Gamers: 38%
+  Ratio: 1.61
   TA: '16'
   Tags:
   - Offline Mode
@@ -419,10 +420,10 @@ Base Game Achievements:
   Description: Send 750 Students on Errands
   GS: '45'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 5%
-  Ratio: 4.4
-  TA: '198'
+  Number of Gamers: 12
+  Percentage of Gamers: 6%
+  Ratio: 4.08
+  TA: '183'
   Tags:
   - Offline Mode
   - Single Player
@@ -431,10 +432,10 @@ Base Game Achievements:
   Description: Achieve Maximum Relations with All Factions
   GS: '30'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 10%
-  Ratio: 3.11
-  TA: '93'
+  Number of Gamers: 26
+  Percentage of Gamers: 13%
+  Ratio: 2.77
+  TA: '83'
   Tags:
   - Offline Mode
   - Single Player
@@ -443,10 +444,10 @@ Base Game Achievements:
   Description: Reach 4000 Academy Prestige Points
   GS: '30'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 7%
-  Ratio: 3.81
-  TA: '114'
+  Number of Gamers: 17
+  Percentage of Gamers: 8%
+  Ratio: 3.43
+  TA: '102'
   Tags:
   - Offline Mode
   - Single Player
@@ -455,9 +456,9 @@ Base Game Achievements:
   Description: Unlock the Forest Biome
   GS: '10'
   Guide: false
-  Number of Gamers: 84
-  Percentage of Gamers: 48%
-  Ratio: 1.44
+  Number of Gamers: 100
+  Percentage of Gamers: 50%
+  Ratio: 1.41
   TA: '14'
   Tags:
   - Offline Mode
@@ -467,10 +468,10 @@ Base Game Achievements:
   Description: Unlock the Mountain Biome
   GS: '10'
   Guide: false
-  Number of Gamers: 57
-  Percentage of Gamers: 33%
-  Ratio: 1.75
-  TA: '17'
+  Number of Gamers: 71
+  Percentage of Gamers: 35%
+  Ratio: 1.67
+  TA: '16'
   Tags:
   - Offline Mode
   - Single Player
@@ -479,10 +480,10 @@ Base Game Achievements:
   Description: Unlock the Desert Biome
   GS: '10'
   Guide: false
-  Number of Gamers: 22
-  Percentage of Gamers: 13%
-  Ratio: 2.82
-  TA: '28'
+  Number of Gamers: 32
+  Percentage of Gamers: 16%
+  Ratio: 2.5
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
@@ -491,10 +492,10 @@ Base Game Achievements:
   Description: Unlock the Tundra Biome
   GS: '10'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 7%
-  Ratio: 3.66
-  TA: '36'
+  Number of Gamers: 20
+  Percentage of Gamers: 10%
+  Ratio: 3.16
+  TA: '31'
   Tags:
   - Offline Mode
   - Single Player
@@ -503,10 +504,10 @@ Base Game Achievements:
   Description: Unlock the Lava Caves
   GS: '10'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 7%
-  Ratio: 3.81
-  TA: '38'
+  Number of Gamers: 17
+  Percentage of Gamers: 8%
+  Ratio: 3.43
+  TA: '34'
   Tags:
   - Offline Mode
   - Single Player
@@ -515,10 +516,10 @@ Base Game Achievements:
   Description: Unlock the Sky Castle
   GS: '10'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 7%
-  Ratio: 3.81
-  TA: '38'
+  Number of Gamers: 17
+  Percentage of Gamers: 8%
+  Ratio: 3.43
+  TA: '34'
   Tags:
   - Offline Mode
   - Single Player
@@ -527,10 +528,10 @@ Base Game Achievements:
   Description: Defeat the First Betrayer
   GS: '10'
   Guide: false
-  Number of Gamers: 22
-  Percentage of Gamers: 13%
-  Ratio: 2.82
-  TA: '28'
+  Number of Gamers: 31
+  Percentage of Gamers: 15%
+  Ratio: 2.54
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
@@ -539,10 +540,10 @@ Base Game Achievements:
   Description: Defeat the Second Betrayer
   GS: '10'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 9%
-  Ratio: 3.3
-  TA: '33'
+  Number of Gamers: 25
+  Percentage of Gamers: 12%
+  Ratio: 2.82
+  TA: '28'
   Tags:
   - Offline Mode
   - Single Player
@@ -551,10 +552,10 @@ Base Game Achievements:
   Description: Defeat the Third Betrayer
   GS: '10'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 7%
-  Ratio: 3.66
-  TA: '36'
+  Number of Gamers: 19
+  Percentage of Gamers: 9%
+  Ratio: 3.24
+  TA: '32'
   Tags:
   - Offline Mode
   - Single Player
@@ -563,10 +564,10 @@ Base Game Achievements:
   Description: Defeat the Fourth Betrayer
   GS: '10'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 7%
-  Ratio: 3.81
-  TA: '38'
+  Number of Gamers: 17
+  Percentage of Gamers: 8%
+  Ratio: 3.43
+  TA: '34'
   Tags:
   - Offline Mode
   - Single Player
@@ -575,32 +576,32 @@ Base Game Achievements:
   Description: Defeat Fellwing and finish the main story
   GS: '40'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 7%
-  Ratio: 3.81
-  TA: '152'
+  Number of Gamers: 16
+  Percentage of Gamers: 8%
+  Ratio: 3.53
+  TA: '141'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
   - Story Completed
-Base Ratio: 3.579
-Base TA: 3579
+Base Ratio: 3.264
+Base TA: 3264
 Delisted: false
 Developer: Agate
 Game Name: 'Valthirian Arc: Hero School Story 2'
 Genres: Role Playing, Management, Turn Based
 Install Size: 2750.0
-Number of Completions: 7
-Number of Gamers: 175
+Number of Completions: 9
+Number of Gamers: 201
 Overall Completion Time:
-- 43
-- 44
+- 47
+- 48
 Overall GS: 1000
-Overall Ratio: 3.579
-Overall TA: 3579
+Overall Ratio: 3.264
+Overall TA: 3264
 PDU: 0
-Percentage Completed: 4.0
+Percentage Completed: 4.48
 Publisher: PQube
 Release Date: 14 September 2023
 Server Closure: false

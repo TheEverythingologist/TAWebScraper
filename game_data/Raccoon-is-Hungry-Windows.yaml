@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 0.5
-Base GS: 1000
+- 1.0
+Base GS: 2000
 Base Game Achievements:
 - Achievement Name: Trash Can Explorer
   Description: Open 15 trash cans
   GS: '100'
   Guide: false
-  Number of Gamers: 289
+  Number of Gamers: 371
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '100'
@@ -20,8 +20,8 @@ Base Game Achievements:
   Description: Open 30 trash cans
   GS: '100'
   Guide: false
-  Number of Gamers: 280
-  Percentage of Gamers: 97%
+  Number of Gamers: 363
+  Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '101'
   Tags:
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Open 45 trash cans
   GS: '100'
   Guide: false
-  Number of Gamers: 275
-  Percentage of Gamers: 95%
-  Ratio: 1.02
-  TA: '102'
+  Number of Gamers: 359
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '101'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Eat 20 apples
   GS: '100'
   Guide: false
-  Number of Gamers: 276
+  Number of Gamers: 358
   Percentage of Gamers: 96%
-  Ratio: 1.02
-  TA: '102'
+  Ratio: 1.01
+  TA: '101'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Eat 20 hamburgers
   GS: '100'
   Guide: false
-  Number of Gamers: 275
-  Percentage of Gamers: 95%
-  Ratio: 1.02
-  TA: '102'
+  Number of Gamers: 357
+  Percentage of Gamers: 96%
+  Ratio: 1.01
+  TA: '101'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,8 +68,8 @@ Base Game Achievements:
   Description: Eat 20 slices of pizza
   GS: '100'
   Guide: false
-  Number of Gamers: 274
-  Percentage of Gamers: 95%
+  Number of Gamers: 356
+  Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '102'
   Tags:
@@ -80,8 +80,8 @@ Base Game Achievements:
   Description: Eat 20 grapes
   GS: '100'
   Guide: false
-  Number of Gamers: 274
-  Percentage of Gamers: 95%
+  Number of Gamers: 356
+  Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '102'
   Tags:
@@ -92,8 +92,8 @@ Base Game Achievements:
   Description: Eat 20 acorns
   GS: '100'
   Guide: true
-  Number of Gamers: 274
-  Percentage of Gamers: 95%
+  Number of Gamers: 356
+  Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '102'
   Tags:
@@ -104,10 +104,10 @@ Base Game Achievements:
   Description: Find 50 edible food in total inside the trash cans
   GS: '100'
   Guide: false
-  Number of Gamers: 275
-  Percentage of Gamers: 95%
-  Ratio: 1.02
-  TA: '102'
+  Number of Gamers: 358
+  Percentage of Gamers: 96%
+  Ratio: 1.01
+  TA: '101'
   Tags:
   - Offline Mode
   - Single Player
@@ -116,34 +116,94 @@ Base Game Achievements:
   Description: Find 50 trashes in total inside the trash cans
   GS: '100'
   Guide: false
-  Number of Gamers: 275
-  Percentage of Gamers: 95%
-  Ratio: 1.02
-  TA: '102'
+  Number of Gamers: 359
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '101'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 1.017
-Base TA: 1017
+Base Ratio: 1.0815
+Base TA: 2163
 Delisted: false
 Developer: Synnergy Circle Games
 Game Name: Raccoon is Hungry (Windows)
 Genres: Platformer
 Install Size: 143.0
-Number of Completions: 272
-Number of Gamers: 289
+Number of Completions: 278
+Number of Gamers: 371
 Overall Completion Time:
 - 0.0
-- 0.5
-Overall GS: 1000
-Overall Ratio: 1.017
-Overall TA: 1017
+- 1.0
+Overall GS: 2000
+Overall Ratio: 1.0815
+Overall TA: 2163
 PDU: 0
-Percentage Completed: 94.12
+Percentage Completed: 74.93
 Publisher: Synnergy Circle Games
 Release Date: 12 March 2025
 Server Closure: false
-Site Rating: 1.98
-Update Achievements: []
+Site Rating: 1.92
+Update Achievements:
+- Achievement Name: Urban Forager
+  Description: Open 45 trash cans
+  GS: '200'
+  Guide: false
+  Number of Gamers: 283
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '229'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Apple Enthusiast
+  Description: Eat 30 apples
+  GS: '200'
+  Guide: false
+  Number of Gamers: 280
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '230'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Burger Lover
+  Description: Eat 30 hamburgers
+  GS: '200'
+  Guide: false
+  Number of Gamers: 279
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '230'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Pizza Addict
+  Description: Eat 30 slices of pizza
+  GS: '200'
+  Guide: false
+  Number of Gamers: 278
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '231'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Grape Fanatic
+  Description: Eat 30 grapes
+  GS: '200'
+  Guide: false
+  Number of Gamers: 278
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '231'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 Walkthrough: false

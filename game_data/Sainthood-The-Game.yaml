@@ -8,193 +8,243 @@ Base Game Achievements:
   Description: Complete the first day.
   GS: '10'
   Guide: false
-  Number of Gamers: 90
+  Number of Gamers: 108
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Canonized
   Description: Complete the game with the best ending.
   GS: '100'
   Guide: false
   Number of Gamers: 8
-  Percentage of Gamers: 9%
-  Ratio: 3.37
-  TA: '337'
-  Tags: []
+  Percentage of Gamers: 7%
+  Ratio: 3.67
+  TA: '367'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Midway upon the Journey
   Description: Complete the 16th day.
   GS: '10'
   Guide: false
-  Number of Gamers: 47
-  Percentage of Gamers: 52%
-  Ratio: 1.39
-  TA: '13'
-  Tags: []
+  Number of Gamers: 49
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Healer of Souls
   Description: Complete all objectives for the Hospital.
   GS: '40'
   Guide: false
   Number of Gamers: 17
-  Percentage of Gamers: 19%
-  Ratio: 2.31
-  TA: '92'
-  Tags: []
+  Percentage of Gamers: 16%
+  Ratio: 2.52
+  TA: '100'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Communion of Saints
   Description: Complete all objectives for all buildings.
   GS: '100'
   Guide: false
   Number of Gamers: 10
-  Percentage of Gamers: 11%
-  Ratio: 3.01
-  TA: '301'
-  Tags: []
+  Percentage of Gamers: 9%
+  Ratio: 3.28
+  TA: '328'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Divine Intervention
   Description: Upgrade a building.
   GS: '20'
   Guide: false
-  Number of Gamers: 61
-  Percentage of Gamers: 67%
-  Ratio: 1.22
-  TA: '24'
-  Tags: []
+  Number of Gamers: 69
+  Percentage of Gamers: 63%
+  Ratio: 1.26
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
 - Achievement Name: Holy Architect
   Description: Fully upgrade a building.
   GS: '20'
   Guide: false
-  Number of Gamers: 21
-  Percentage of Gamers: 23%
-  Ratio: 2.08
-  TA: '41'
-  Tags: []
+  Number of Gamers: 22
+  Percentage of Gamers: 20%
+  Ratio: 2.21
+  TA: '44'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
 - Achievement Name: Guardian Angel
   Description: Complete all objectives for the Orphanage.
   GS: '40'
   Guide: false
   Number of Gamers: 21
-  Percentage of Gamers: 23%
-  Ratio: 2.08
-  TA: '83'
-  Tags: []
+  Percentage of Gamers: 19%
+  Ratio: 2.26
+  TA: '90'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Teacher of Virtue
   Description: Complete all objectives for the School.
   GS: '40'
   Guide: false
   Number of Gamers: 17
-  Percentage of Gamers: 19%
-  Ratio: 2.31
-  TA: '92'
-  Tags: []
+  Percentage of Gamers: 16%
+  Ratio: 2.52
+  TA: '100'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Feast Day
   Description: Complete all objectives for the Kitchen.
   GS: '40'
   Guide: false
-  Number of Gamers: 24
-  Percentage of Gamers: 26%
-  Ratio: 1.94
-  TA: '77'
-  Tags: []
+  Number of Gamers: 25
+  Percentage of Gamers: 23%
+  Ratio: 2.07
+  TA: '83'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Feeder of the Multitudes
   Description: Complete all objectives for the Pantry.
   GS: '40'
   Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 30%
-  Ratio: 1.83
-  TA: '73'
-  Tags: []
+  Number of Gamers: 29
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '77'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: It is Finished
   Description: Complete the game.
   GS: '100'
   Guide: false
-  Number of Gamers: 36
-  Percentage of Gamers: 40%
-  Ratio: 1.58
-  TA: '158'
-  Tags: []
+  Number of Gamers: 38
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '168'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
 - Achievement Name: Scripture Seeker
   Description: Find your first Ancient Manuscript.
   GS: '10'
   Guide: false
-  Number of Gamers: 79
-  Percentage of Gamers: 87%
+  Number of Gamers: 94
+  Percentage of Gamers: 86%
   Ratio: 1.07
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Keeper of the Word
   Description: Find 33 Ancient Manuscripts.
   GS: '30'
   Guide: false
-  Number of Gamers: 28
-  Percentage of Gamers: 31%
-  Ratio: 1.8
-  TA: '54'
-  Tags: []
+  Number of Gamers: 29
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '57'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Library of the Divine
   Description: Find all Ancient Manuscripts.
   GS: '100'
   Guide: false
   Number of Gamers: 11
-  Percentage of Gamers: 12%
-  Ratio: 2.87
-  TA: '287'
-  Tags: []
+  Percentage of Gamers: 10%
+  Ratio: 3.13
+  TA: '313'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Architect of the Kingdom
   Description: Fully upgrade all buildings.
   GS: '100'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 13%
-  Ratio: 2.75
-  TA: '275'
-  Tags: []
+  Number of Gamers: 13
+  Percentage of Gamers: 12%
+  Ratio: 2.88
+  TA: '288'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
 - Achievement Name: Celestial Cache
   Description: Fully upgrade all Provisions in your backpack.
   GS: '60'
   Guide: false
-  Number of Gamers: 22
-  Percentage of Gamers: 24%
-  Ratio: 2.03
-  TA: '122'
-  Tags: []
+  Number of Gamers: 24
+  Percentage of Gamers: 22%
+  Ratio: 2.12
+  TA: '127'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
 - Achievement Name: Litany of Legends
   Description: Unlock all Saints
   GS: '100'
   Guide: false
   Number of Gamers: 6
-  Percentage of Gamers: 7%
-  Ratio: 3.89
-  TA: '389'
-  Tags: []
+  Percentage of Gamers: 6%
+  Ratio: 4.24
+  TA: '424'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Pious Heart
   Description: Complete all objectives at the Convent.
   GS: '40'
   Guide: false
-  Number of Gamers: 40
-  Percentage of Gamers: 44%
-  Ratio: 1.5
-  TA: '60'
-  Tags: []
-Base Ratio: 2.498
-Base TA: 2498
+  Number of Gamers: 42
+  Percentage of Gamers: 39%
+  Ratio: 1.6
+  TA: '64'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 2.689
+Base TA: 2689
 Delisted: false
 Developer: Bisong Taiwo
 Game Name: Sainthood - The Game
 Genres: Strategy
 Install Size: 2700.0
 Number of Completions: 4
-Number of Gamers: 91
+Number of Gamers: 109
 Overall Completion Time:
 - 6
 - 7
 Overall GS: 1000
-Overall Ratio: 2.498
-Overall TA: 2498
+Overall Ratio: 2.689
+Overall TA: 2689
 PDU: 0
-Percentage Completed: 4.4
+Percentage Completed: 3.67
 Publisher: Bisong Taiwo
 Release Date: 01 November 2024
 Server Closure: false
-Site Rating: 4.33
+Site Rating: 4.43
 Update Achievements: []
 Walkthrough: false

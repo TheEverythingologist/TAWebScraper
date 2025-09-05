@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 1.0
-Base GS: 2000
+- 1.5
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: First Step
   Description: Complete Level 1
   GS: '5'
   Guide: false
-  Number of Gamers: 291
+  Number of Gamers: 543
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '5'
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Complete Level 2
   GS: '5'
   Guide: false
-  Number of Gamers: 289
+  Number of Gamers: 539
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '5'
@@ -32,7 +32,7 @@ Base Game Achievements:
   Description: Complete Level 3
   GS: '5'
   Guide: false
-  Number of Gamers: 289
+  Number of Gamers: 539
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '5'
@@ -44,7 +44,7 @@ Base Game Achievements:
   Description: Complete Level 4
   GS: '5'
   Guide: false
-  Number of Gamers: 289
+  Number of Gamers: 539
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '5'
@@ -56,7 +56,7 @@ Base Game Achievements:
   Description: Complete Level 5
   GS: '5'
   Guide: false
-  Number of Gamers: 288
+  Number of Gamers: 537
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '5'
@@ -68,8 +68,8 @@ Base Game Achievements:
   Description: Complete Level 6
   GS: '10'
   Guide: false
-  Number of Gamers: 287
-  Percentage of Gamers: 99%
+  Number of Gamers: 536
+  Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '10'
   Tags:
@@ -80,8 +80,8 @@ Base Game Achievements:
   Description: Complete Level 7
   GS: '10'
   Guide: false
-  Number of Gamers: 287
-  Percentage of Gamers: 99%
+  Number of Gamers: 535
+  Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '10'
   Tags:
@@ -92,7 +92,7 @@ Base Game Achievements:
   Description: Complete Level 8
   GS: '10'
   Guide: false
-  Number of Gamers: 284
+  Number of Gamers: 533
   Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '10'
@@ -104,7 +104,7 @@ Base Game Achievements:
   Description: Complete Level 9
   GS: '10'
   Guide: false
-  Number of Gamers: 285
+  Number of Gamers: 533
   Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '10'
@@ -116,7 +116,7 @@ Base Game Achievements:
   Description: Complete Level 10
   GS: '10'
   Guide: false
-  Number of Gamers: 282
+  Number of Gamers: 529
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '10'
@@ -128,8 +128,8 @@ Base Game Achievements:
   Description: Complete Level 11
   GS: '15'
   Guide: false
-  Number of Gamers: 275
-  Percentage of Gamers: 95%
+  Number of Gamers: 522
+  Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '15'
   Tags:
@@ -140,9 +140,9 @@ Base Game Achievements:
   Description: Complete Level 12
   GS: '15'
   Guide: false
-  Number of Gamers: 273
-  Percentage of Gamers: 94%
-  Ratio: 1.03
+  Number of Gamers: 521
+  Percentage of Gamers: 96%
+  Ratio: 1.02
   TA: '15'
   Tags:
   - Offline Mode
@@ -152,9 +152,9 @@ Base Game Achievements:
   Description: Complete Level 13
   GS: '15'
   Guide: false
-  Number of Gamers: 273
-  Percentage of Gamers: 94%
-  Ratio: 1.03
+  Number of Gamers: 519
+  Percentage of Gamers: 95%
+  Ratio: 1.02
   TA: '15'
   Tags:
   - Offline Mode
@@ -164,9 +164,9 @@ Base Game Achievements:
   Description: Complete Level 14
   GS: '15'
   Guide: false
-  Number of Gamers: 272
-  Percentage of Gamers: 93%
-  Ratio: 1.03
+  Number of Gamers: 518
+  Percentage of Gamers: 95%
+  Ratio: 1.02
   TA: '15'
   Tags:
   - Offline Mode
@@ -176,9 +176,9 @@ Base Game Achievements:
   Description: Complete Level 15
   GS: '15'
   Guide: false
-  Number of Gamers: 271
-  Percentage of Gamers: 93%
-  Ratio: 1.03
+  Number of Gamers: 518
+  Percentage of Gamers: 95%
+  Ratio: 1.02
   TA: '15'
   Tags:
   - Offline Mode
@@ -188,9 +188,9 @@ Base Game Achievements:
   Description: Complete Level 16
   GS: '20'
   Guide: false
-  Number of Gamers: 266
-  Percentage of Gamers: 91%
-  Ratio: 1.04
+  Number of Gamers: 511
+  Percentage of Gamers: 94%
+  Ratio: 1.03
   TA: '20'
   Tags:
   - Offline Mode
@@ -200,10 +200,10 @@ Base Game Achievements:
   Description: Complete Level 17
   GS: '20'
   Guide: false
-  Number of Gamers: 263
-  Percentage of Gamers: 90%
-  Ratio: 1.05
-  TA: '21'
+  Number of Gamers: 506
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '20'
   Tags:
   - Offline Mode
   - Single Player
@@ -212,10 +212,10 @@ Base Game Achievements:
   Description: Complete Level 18
   GS: '20'
   Guide: false
-  Number of Gamers: 263
-  Percentage of Gamers: 90%
-  Ratio: 1.05
-  TA: '21'
+  Number of Gamers: 504
+  Percentage of Gamers: 92%
+  Ratio: 1.03
+  TA: '20'
   Tags:
   - Offline Mode
   - Single Player
@@ -224,10 +224,10 @@ Base Game Achievements:
   Description: Complete Level 19
   GS: '20'
   Guide: false
-  Number of Gamers: 262
-  Percentage of Gamers: 90%
-  Ratio: 1.05
-  TA: '21'
+  Number of Gamers: 504
+  Percentage of Gamers: 92%
+  Ratio: 1.03
+  TA: '20'
   Tags:
   - Offline Mode
   - Single Player
@@ -236,10 +236,10 @@ Base Game Achievements:
   Description: Complete Level 20
   GS: '20'
   Guide: false
-  Number of Gamers: 262
-  Percentage of Gamers: 90%
-  Ratio: 1.05
-  TA: '21'
+  Number of Gamers: 504
+  Percentage of Gamers: 92%
+  Ratio: 1.03
+  TA: '20'
   Tags:
   - Offline Mode
   - Single Player
@@ -248,9 +248,9 @@ Base Game Achievements:
   Description: Complete Level 21
   GS: '25'
   Guide: false
-  Number of Gamers: 261
-  Percentage of Gamers: 90%
-  Ratio: 1.05
+  Number of Gamers: 503
+  Percentage of Gamers: 92%
+  Ratio: 1.04
   TA: '26'
   Tags:
   - Offline Mode
@@ -260,9 +260,9 @@ Base Game Achievements:
   Description: Complete Level 22
   GS: '25'
   Guide: false
-  Number of Gamers: 261
-  Percentage of Gamers: 90%
-  Ratio: 1.05
+  Number of Gamers: 503
+  Percentage of Gamers: 92%
+  Ratio: 1.04
   TA: '26'
   Tags:
   - Offline Mode
@@ -272,9 +272,9 @@ Base Game Achievements:
   Description: Complete Level 23
   GS: '25'
   Guide: false
-  Number of Gamers: 261
-  Percentage of Gamers: 90%
-  Ratio: 1.05
+  Number of Gamers: 503
+  Percentage of Gamers: 92%
+  Ratio: 1.04
   TA: '26'
   Tags:
   - Offline Mode
@@ -284,9 +284,9 @@ Base Game Achievements:
   Description: Complete Level 24
   GS: '30'
   Guide: false
-  Number of Gamers: 261
-  Percentage of Gamers: 90%
-  Ratio: 1.05
+  Number of Gamers: 503
+  Percentage of Gamers: 92%
+  Ratio: 1.04
   TA: '31'
   Tags:
   - Offline Mode
@@ -296,9 +296,9 @@ Base Game Achievements:
   Description: Complete Level 25
   GS: '30'
   Guide: false
-  Number of Gamers: 261
-  Percentage of Gamers: 90%
-  Ratio: 1.05
+  Number of Gamers: 503
+  Percentage of Gamers: 92%
+  Ratio: 1.04
   TA: '31'
   Tags:
   - Offline Mode
@@ -308,9 +308,9 @@ Base Game Achievements:
   Description: Complete Level 26
   GS: '35'
   Guide: false
-  Number of Gamers: 261
-  Percentage of Gamers: 90%
-  Ratio: 1.05
+  Number of Gamers: 503
+  Percentage of Gamers: 92%
+  Ratio: 1.04
   TA: '36'
   Tags:
   - Offline Mode
@@ -320,10 +320,10 @@ Base Game Achievements:
   Description: Complete Level 27
   GS: '40'
   Guide: false
-  Number of Gamers: 261
-  Percentage of Gamers: 90%
-  Ratio: 1.05
-  TA: '42'
+  Number of Gamers: 503
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '41'
   Tags:
   - Offline Mode
   - Single Player
@@ -332,10 +332,10 @@ Base Game Achievements:
   Description: Complete Level 28
   GS: '45'
   Guide: false
-  Number of Gamers: 261
-  Percentage of Gamers: 90%
-  Ratio: 1.05
-  TA: '47'
+  Number of Gamers: 503
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '46'
   Tags:
   - Offline Mode
   - Single Player
@@ -344,10 +344,10 @@ Base Game Achievements:
   Description: Complete Level 29
   GS: '45'
   Guide: false
-  Number of Gamers: 261
-  Percentage of Gamers: 90%
-  Ratio: 1.05
-  TA: '47'
+  Number of Gamers: 503
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '46'
   Tags:
   - Offline Mode
   - Single Player
@@ -356,9 +356,9 @@ Base Game Achievements:
   Description: Complete Level 30
   GS: '50'
   Guide: false
-  Number of Gamers: 261
-  Percentage of Gamers: 90%
-  Ratio: 1.05
+  Number of Gamers: 503
+  Percentage of Gamers: 92%
+  Ratio: 1.04
   TA: '52'
   Tags:
   - Offline Mode
@@ -368,7 +368,7 @@ Base Game Achievements:
   Description: You have jumped 1 time
   GS: '5'
   Guide: false
-  Number of Gamers: 291
+  Number of Gamers: 544
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '5'
@@ -379,7 +379,7 @@ Base Game Achievements:
   Description: You have jumped 25 times
   GS: '10'
   Guide: false
-  Number of Gamers: 288
+  Number of Gamers: 537
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '10'
@@ -391,8 +391,8 @@ Base Game Achievements:
   Description: You have jumped 50 times
   GS: '20'
   Guide: false
-  Number of Gamers: 287
-  Percentage of Gamers: 99%
+  Number of Gamers: 535
+  Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '20'
   Tags:
@@ -403,9 +403,9 @@ Base Game Achievements:
   Description: You have jumped 100 times
   GS: '25'
   Guide: false
-  Number of Gamers: 286
+  Number of Gamers: 532
   Percentage of Gamers: 98%
-  Ratio: 1.0
+  Ratio: 1.01
   TA: '25'
   Tags:
   - Offline Mode
@@ -415,10 +415,10 @@ Base Game Achievements:
   Description: You have jumped 250 times
   GS: '40'
   Guide: false
-  Number of Gamers: 275
+  Number of Gamers: 518
   Percentage of Gamers: 95%
   Ratio: 1.02
-  TA: '41'
+  TA: '40'
   Tags:
   - Offline Mode
   - Single Player
@@ -427,7 +427,7 @@ Base Game Achievements:
   Description: Collect 1 Coin
   GS: '5'
   Guide: false
-  Number of Gamers: 291
+  Number of Gamers: 543
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '5'
@@ -438,7 +438,7 @@ Base Game Achievements:
   Description: Collect 5 Coins
   GS: '10'
   Guide: false
-  Number of Gamers: 289
+  Number of Gamers: 539
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '10'
@@ -450,9 +450,9 @@ Base Game Achievements:
   Description: Collect 25 Coins
   GS: '20'
   Guide: false
-  Number of Gamers: 286
+  Number of Gamers: 533
   Percentage of Gamers: 98%
-  Ratio: 1.0
+  Ratio: 1.01
   TA: '20'
   Tags:
   - Offline Mode
@@ -462,8 +462,8 @@ Base Game Achievements:
   Description: Collect 50 Coins
   GS: '25'
   Guide: false
-  Number of Gamers: 280
-  Percentage of Gamers: 96%
+  Number of Gamers: 527
+  Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '25'
   Tags:
@@ -474,10 +474,10 @@ Base Game Achievements:
   Description: Collect 100 Coins
   GS: '40'
   Guide: false
-  Number of Gamers: 274
-  Percentage of Gamers: 94%
-  Ratio: 1.03
-  TA: '41'
+  Number of Gamers: 519
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '40'
   Tags:
   - Offline Mode
   - Single Player
@@ -486,7 +486,7 @@ Base Game Achievements:
   Description: Collect 1 Heart
   GS: '5'
   Guide: false
-  Number of Gamers: 289
+  Number of Gamers: 538
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '5'
@@ -497,8 +497,8 @@ Base Game Achievements:
   Description: Collect 5 Heart
   GS: '10'
   Guide: false
-  Number of Gamers: 284
-  Percentage of Gamers: 98%
+  Number of Gamers: 530
+  Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '10'
   Tags:
@@ -509,7 +509,7 @@ Base Game Achievements:
   Description: Collect 10 Heart
   GS: '20'
   Guide: true
-  Number of Gamers: 280
+  Number of Gamers: 525
   Percentage of Gamers: 96%
   Ratio: 1.01
   TA: '20'
@@ -521,9 +521,9 @@ Base Game Achievements:
   Description: Collect 25 Heart
   GS: '25'
   Guide: true
-  Number of Gamers: 271
-  Percentage of Gamers: 93%
-  Ratio: 1.03
+  Number of Gamers: 513
+  Percentage of Gamers: 94%
+  Ratio: 1.02
   TA: '25'
   Tags:
   - Offline Mode
@@ -533,9 +533,9 @@ Base Game Achievements:
   Description: Collect 50 Heart
   GS: '40'
   Guide: true
-  Number of Gamers: 268
-  Percentage of Gamers: 92%
-  Ratio: 1.04
+  Number of Gamers: 509
+  Percentage of Gamers: 93%
+  Ratio: 1.03
   TA: '41'
   Tags:
   - Offline Mode
@@ -545,8 +545,8 @@ Base Game Achievements:
   Description: Die 1 Time
   GS: '5'
   Guide: false
-  Number of Gamers: 287
-  Percentage of Gamers: 99%
+  Number of Gamers: 535
+  Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '5'
   Tags:
@@ -556,7 +556,7 @@ Base Game Achievements:
   Description: Die 5 Times
   GS: '10'
   Guide: false
-  Number of Gamers: 284
+  Number of Gamers: 532
   Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '10'
@@ -568,8 +568,8 @@ Base Game Achievements:
   Description: Die 10 Times
   GS: '20'
   Guide: false
-  Number of Gamers: 280
-  Percentage of Gamers: 96%
+  Number of Gamers: 529
+  Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '20'
   Tags:
@@ -580,9 +580,9 @@ Base Game Achievements:
   Description: Die 25 Times
   GS: '25'
   Guide: true
-  Number of Gamers: 274
-  Percentage of Gamers: 94%
-  Ratio: 1.03
+  Number of Gamers: 519
+  Percentage of Gamers: 95%
+  Ratio: 1.02
   TA: '25'
   Tags:
   - Offline Mode
@@ -592,44 +592,44 @@ Base Game Achievements:
   Description: Die 50 Times
   GS: '40'
   Guide: true
-  Number of Gamers: 271
-  Percentage of Gamers: 93%
-  Ratio: 1.03
+  Number of Gamers: 515
+  Percentage of Gamers: 94%
+  Ratio: 1.02
   TA: '41'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 1.0265
-Base TA: 2053
+Base Ratio: 1.0763333333333334
+Base TA: 3229
 Delisted: false
 Developer: Jolly Lobster Interactive
 Game Name: Marshmallow Marvin (Windows)
 Genres: Platformer
 Install Size: 268.0
-Number of Completions: 253
-Number of Gamers: 291
+Number of Completions: 360
+Number of Gamers: 545
 Overall Completion Time:
 - 0.0
-- 1.0
-Overall GS: 2000
-Overall Ratio: 1.0265
-Overall TA: 2053
+- 1.5
+Overall GS: 3000
+Overall Ratio: 1.0763333333333334
+Overall TA: 3229
 PDU: 0
-Percentage Completed: 86.94
+Percentage Completed: 66.06
 Publisher: Jolly Lobster Interactive
 Release Date: 27 December 2024
 Server Closure: false
-Site Rating: 1.9
+Site Rating: 1.95
 Update Achievements:
 - Achievement Name: Gravity Who?
   Description: You have jumped 200 times
   GS: '200'
   Guide: false
-  Number of Gamers: 267
-  Percentage of Gamers: 92%
-  Ratio: 1.04
-  TA: '208'
+  Number of Gamers: 521
+  Percentage of Gamers: 96%
+  Ratio: 1.02
+  TA: '204'
   Tags:
   - Offline Mode
   - Single Player
@@ -638,10 +638,10 @@ Update Achievements:
   Description: Collect 10 Coins
   GS: '200'
   Guide: false
-  Number of Gamers: 274
-  Percentage of Gamers: 94%
-  Ratio: 1.03
-  TA: '206'
+  Number of Gamers: 533
+  Percentage of Gamers: 98%
+  Ratio: 1.01
+  TA: '202'
   Tags:
   - Offline Mode
   - Single Player
@@ -650,10 +650,10 @@ Update Achievements:
   Description: Collect 3 Heart
   GS: '200'
   Guide: false
-  Number of Gamers: 273
-  Percentage of Gamers: 94%
-  Ratio: 1.03
-  TA: '206'
+  Number of Gamers: 529
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '202'
   Tags:
   - Offline Mode
   - Single Player
@@ -662,10 +662,10 @@ Update Achievements:
   Description: Die 3 Times
   GS: '200'
   Guide: false
-  Number of Gamers: 273
-  Percentage of Gamers: 94%
-  Ratio: 1.03
-  TA: '206'
+  Number of Gamers: 530
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '202'
   Tags:
   - Offline Mode
   - Single Player
@@ -674,11 +674,70 @@ Update Achievements:
   Description: Go into spikes 1 time
   GS: '200'
   Guide: false
-  Number of Gamers: 275
-  Percentage of Gamers: 95%
-  Ratio: 1.02
-  TA: '205'
+  Number of Gamers: 534
+  Percentage of Gamers: 98%
+  Ratio: 1.0
+  TA: '201'
   Tags:
   - Offline Game Mode
   - Single Player
+- Achievement Name: Pointy Encounter
+  Description: Go into spikes 5 times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 374
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '241'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Spike Enthusiast
+  Description: Go into spikes 25 times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 374
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '241'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: One Small Leap
+  Description: You have bounced 1 time
+  GS: '200'
+  Guide: false
+  Number of Gamers: 373
+  Percentage of Gamers: 68%
+  Ratio: 1.2
+  TA: '241'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Jumping Jester
+  Description: You have bounced 5 times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 373
+  Percentage of Gamers: 68%
+  Ratio: 1.2
+  TA: '241'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Trampoline Titan
+  Description: You have bounced 25 times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 373
+  Percentage of Gamers: 68%
+  Ratio: 1.2
+  TA: '241'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 Walkthrough: false

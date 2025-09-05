@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 15
-- 16
+- 21
+- 22
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: First fight
   Description: Complete the Act1 of Stage 1
   GS: '20'
   Guide: false
-  Number of Gamers: 163
+  Number of Gamers: 166
   Percentage of Gamers: 65%
   Ratio: 1.23
   TA: '24'
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Complete the Act1 of Stage 2
   GS: '20'
   Guide: false
-  Number of Gamers: 43
-  Percentage of Gamers: 17%
-  Ratio: 2.41
-  TA: '48'
+  Number of Gamers: 45
+  Percentage of Gamers: 18%
+  Ratio: 2.38
+  TA: '47'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,9 +32,9 @@ Base Game Achievements:
   Description: Complete the Act1 of Stage 3
   GS: '20'
   Guide: false
-  Number of Gamers: 39
+  Number of Gamers: 40
   Percentage of Gamers: 16%
-  Ratio: 2.53
+  Ratio: 2.52
   TA: '50'
   Tags:
   - Offline Mode
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Complete the Act1 of Stage 4
   GS: '20'
   Guide: false
-  Number of Gamers: 18
+  Number of Gamers: 19
   Percentage of Gamers: 7%
-  Ratio: 3.72
-  TA: '74'
+  Ratio: 3.66
+  TA: '73'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Complete the Act1 of Stage 5
   GS: '20'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 4%
-  Ratio: 4.76
-  TA: '95'
+  Number of Gamers: 12
+  Percentage of Gamers: 5%
+  Ratio: 4.6
+  TA: '92'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: Complete Stage 1
   GS: '50'
   Guide: false
-  Number of Gamers: 53
-  Percentage of Gamers: 21%
-  Ratio: 2.17
-  TA: '108'
+  Number of Gamers: 55
+  Percentage of Gamers: 22%
+  Ratio: 2.15
+  TA: '107'
   Tags:
   - Offline Mode
   - Single Player
@@ -80,7 +80,7 @@ Base Game Achievements:
   Description: Complete Stage 2
   GS: '50'
   Guide: false
-  Number of Gamers: 42
+  Number of Gamers: 43
   Percentage of Gamers: 17%
   Ratio: 2.43
   TA: '121'
@@ -92,10 +92,10 @@ Base Game Achievements:
   Description: Complete Stage 3
   GS: '50'
   Guide: false
-  Number of Gamers: 30
+  Number of Gamers: 31
   Percentage of Gamers: 12%
-  Ratio: 2.88
-  TA: '144'
+  Ratio: 2.86
+  TA: '143'
   Tags:
   - Offline Mode
   - Single Player
@@ -104,10 +104,10 @@ Base Game Achievements:
   Description: Complete Stage 4
   GS: '50'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 4%
-  Ratio: 4.76
-  TA: '238'
+  Number of Gamers: 12
+  Percentage of Gamers: 5%
+  Ratio: 4.6
+  TA: '230'
   Tags:
   - Offline Mode
   - Single Player
@@ -116,10 +116,10 @@ Base Game Achievements:
   Description: Complete Stage 5
   GS: '50'
   Guide: false
-  Number of Gamers: 10
+  Number of Gamers: 11
   Percentage of Gamers: 4%
-  Ratio: 5.0
-  TA: '250'
+  Ratio: 4.81
+  TA: '240'
   Tags:
   - Offline Mode
   - Single Player
@@ -128,10 +128,10 @@ Base Game Achievements:
   Description: Complete the game
   GS: '100'
   Guide: false
-  Number of Gamers: 10
+  Number of Gamers: 11
   Percentage of Gamers: 4%
-  Ratio: 5.0
-  TA: '500'
+  Ratio: 4.81
+  TA: '481'
   Tags:
   - Offline Mode
   - Single Player
@@ -141,7 +141,7 @@ Base Game Achievements:
   Description: Find a hidden Hanafuda
   GS: '20'
   Guide: false
-  Number of Gamers: 238
+  Number of Gamers: 242
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '20'
@@ -153,10 +153,10 @@ Base Game Achievements:
   Description: Find all Hanafuda
   GS: '30'
   Guide: true
-  Number of Gamers: 8
-  Percentage of Gamers: 3%
-  Ratio: 5.59
-  TA: '167'
+  Number of Gamers: 9
+  Percentage of Gamers: 4%
+  Ratio: 5.32
+  TA: '159'
   Tags:
   - Offline Mode
   - Single Player
@@ -165,10 +165,10 @@ Base Game Achievements:
   Description: Find all Hanafuda in a row
   GS: '50'
   Guide: true
-  Number of Gamers: 7
+  Number of Gamers: 8
   Percentage of Gamers: 3%
-  Ratio: 5.97
-  TA: '298'
+  Ratio: 5.64
+  TA: '282'
   Tags:
   - Offline Mode
   - Single Player
@@ -177,10 +177,10 @@ Base Game Achievements:
   Description: Complete the game with a total score of 250000 or more
   GS: '50'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 2%
-  Ratio: 6.45
-  TA: '322'
+  Number of Gamers: 7
+  Percentage of Gamers: 3%
+  Ratio: 6.03
+  TA: '301'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -188,10 +188,10 @@ Base Game Achievements:
   Description: Complete the game within 1h15
   GS: '50'
   Guide: false
-  Number of Gamers: 7
+  Number of Gamers: 8
   Percentage of Gamers: 3%
-  Ratio: 5.97
-  TA: '298'
+  Ratio: 5.64
+  TA: '282'
   Tags:
   - Offline Mode
   - Single Player
@@ -200,10 +200,10 @@ Base Game Achievements:
   Description: Destroy 500 ennemies with Kunais
   GS: '25'
   Guide: false
-  Number of Gamers: 25
+  Number of Gamers: 26
   Percentage of Gamers: 10%
-  Ratio: 3.16
-  TA: '79'
+  Ratio: 3.13
+  TA: '78'
   Tags:
   - Offline Mode
   - Single Player
@@ -211,10 +211,10 @@ Base Game Achievements:
 - Achievement Name: Sword Master
   Description: Destroy 500 ennemies with your Sword
   GS: '25'
-  Guide: false
-  Number of Gamers: 73
+  Guide: true
+  Number of Gamers: 75
   Percentage of Gamers: 29%
-  Ratio: 1.85
+  Ratio: 1.84
   TA: '46'
   Tags:
   - Offline Mode
@@ -224,10 +224,10 @@ Base Game Achievements:
   Description: Destroy 500 destructibles
   GS: '25'
   Guide: false
-  Number of Gamers: 34
+  Number of Gamers: 36
   Percentage of Gamers: 14%
-  Ratio: 2.71
-  TA: '67'
+  Ratio: 2.66
+  TA: '66'
   Tags:
   - Offline Mode
   - Single Player
@@ -236,9 +236,9 @@ Base Game Achievements:
   Description: Kill 1000 enemies
   GS: '50'
   Guide: false
-  Number of Gamers: 46
+  Number of Gamers: 47
   Percentage of Gamers: 18%
-  Ratio: 2.33
+  Ratio: 2.32
   TA: '116'
   Tags:
   - Offline Mode
@@ -248,9 +248,9 @@ Base Game Achievements:
   Description: Call a Kami to help you
   GS: '20'
   Guide: false
-  Number of Gamers: 123
-  Percentage of Gamers: 49%
-  Ratio: 1.42
+  Number of Gamers: 129
+  Percentage of Gamers: 51%
+  Ratio: 1.4
   TA: '28'
   Tags:
   - Offline Game Mode
@@ -259,10 +259,10 @@ Base Game Achievements:
   Description: Call 15 Kamis to help you
   GS: '30'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 3%
-  Ratio: 5.59
-  TA: '167'
+  Number of Gamers: 9
+  Percentage of Gamers: 4%
+  Ratio: 5.32
+  TA: '159'
   Tags:
   - Offline Mode
   - Single Player
@@ -271,10 +271,10 @@ Base Game Achievements:
   Description: Increase your HP Max and reach it's maximum
   GS: '50'
   Guide: true
-  Number of Gamers: 6
-  Percentage of Gamers: 2%
-  Ratio: 6.45
-  TA: '322'
+  Number of Gamers: 7
+  Percentage of Gamers: 3%
+  Ratio: 6.03
+  TA: '301'
   Tags:
   - Offline Mode
   - Single Player
@@ -283,10 +283,10 @@ Base Game Achievements:
   Description: Complete the game without losing any live
   GS: '100'
   Guide: true
-  Number of Gamers: 6
-  Percentage of Gamers: 2%
-  Ratio: 6.45
-  TA: '645'
+  Number of Gamers: 7
+  Percentage of Gamers: 3%
+  Ratio: 6.03
+  TA: '603'
   Tags:
   - Offline Mode
   - Single Player
@@ -295,32 +295,32 @@ Base Game Achievements:
   Description: Counter 100 Kunai with your sword or a kunai
   GS: '25'
   Guide: false
-  Number of Gamers: 48
-  Percentage of Gamers: 19%
-  Ratio: 2.28
-  TA: '57'
+  Number of Gamers: 50
+  Percentage of Gamers: 20%
+  Ratio: 2.25
+  TA: '56'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 4.284
-Base TA: 4284
+Base Ratio: 4.105
+Base TA: 4105
 Delisted: false
 Developer: Storybird Studio
 Game Name: 'Ganryu 2: Hakuma Kojiro'
 Genres: Platformer
 Install Size: 858.0
-Number of Completions: 6
-Number of Gamers: 250
+Number of Completions: 7
+Number of Gamers: 255
 Overall Completion Time:
-- 15
-- 16
+- 21
+- 22
 Overall GS: 1000
-Overall Ratio: 4.284
-Overall TA: 4284
+Overall Ratio: 4.105
+Overall TA: 4105
 PDU: 0
-Percentage Completed: 2.4
-Publisher: Just For Games
+Percentage Completed: 2.75
+Publisher: Maximum Entertainment
 Release Date: 22 April 2022
 Server Closure: false
 Site Rating: 3.69

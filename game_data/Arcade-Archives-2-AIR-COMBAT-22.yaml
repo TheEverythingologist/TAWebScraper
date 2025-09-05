@@ -1,219 +1,266 @@
 Add On Achievements: []
 Base Completion Time:
-- 0
-- 0
+- 2
+- 3
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Start ORIGINAL MODE
   Description: Begin playing ORIGINAL MODE.
   GS: '10'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 100%
+  Number of Gamers: 153
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: ORIGINAL MODE Score 20,000 points
   Description: Get 20,000 points in ORIGINAL MODE.
   GS: '10'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '10'
-  Tags: []
+  Number of Gamers: 124
+  Percentage of Gamers: 80%
+  Ratio: 1.11
+  TA: '11'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: ORIGINAL MODE Score 40,000 points
   Description: Get 40,000 points in ORIGINAL MODE.
   GS: '20'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 67%
-  Ratio: 1.0
-  TA: '20'
-  Tags: []
+  Number of Gamers: 86
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '26'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: ORIGINAL MODE Score 60,000 points
   Description: Get 60,000 points in ORIGINAL MODE.
   GS: '90'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 67%
-  Ratio: 1.41
-  TA: '127'
-  Tags: []
+  Number of Gamers: 57
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '148'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Start HISCORE MODE
   Description: Begin playing HISCORE MODE.
   GS: '10'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 67%
-  Ratio: 1.41
+  Number of Gamers: 73
+  Percentage of Gamers: 47%
+  Ratio: 1.45
   TA: '14'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: HISCORE MODE Score 20,000 points
   Description: Get 20,000 points in HISCORE MODE.
   GS: '10'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 67%
-  Ratio: 1.41
+  Number of Gamers: 71
+  Percentage of Gamers: 46%
+  Ratio: 1.47
   TA: '14'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: HISCORE MODE Score 40,000 points
   Description: Get 40,000 points in HISCORE MODE.
   GS: '20'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 67%
-  Ratio: 1.41
-  TA: '28'
-  Tags: []
+  Number of Gamers: 61
+  Percentage of Gamers: 39%
+  Ratio: 1.59
+  TA: '31'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: HISCORE MODE Score 60,000 points
   Description: Get 60,000 points in HISCORE MODE.
   GS: '90'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 67%
-  Ratio: 1.41
-  TA: '127'
-  Tags: []
+  Number of Gamers: 47
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '163'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: HISCORE MODE Player
   Description: Register an online ranking in HI SCORE MODE.
   GS: '90'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 67%
-  Ratio: 1.41
-  TA: '127'
-  Tags: []
+  Number of Gamers: 70
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '133'
+  Tags:
+  - Online Mode
+  - Single Player
 - Achievement Name: Start CARAVAN MODE
   Description: Begin playing CARAVAN MODE.
   GS: '10'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 67%
-  Ratio: 1.41
+  Number of Gamers: 70
+  Percentage of Gamers: 45%
+  Ratio: 1.48
   TA: '14'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: CARAVAN MODE Destroy 4 enemies
   Description: Get 4 points in CARAVAN MODE.
   GS: '10'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 67%
-  Ratio: 1.41
-  TA: '14'
-  Tags: []
+  Number of Gamers: 63
+  Percentage of Gamers: 41%
+  Ratio: 1.56
+  TA: '15'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: CARAVAN MODE Destroy 8 enemies
   Description: Get 8 points in CARAVAN MODE.
   GS: '20'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 67%
-  Ratio: 1.41
-  TA: '28'
-  Tags: []
+  Number of Gamers: 38
+  Percentage of Gamers: 25%
+  Ratio: 2.01
+  TA: '40'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: CARAVAN MODE Destroy 12 enemies
   Description: Get 12 points in CARAVAN MODE.
   GS: '90'
-  Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 67%
-  Ratio: 1.41
-  TA: '127'
-  Tags: []
+  Guide: true
+  Number of Gamers: 25
+  Percentage of Gamers: 16%
+  Ratio: 2.49
+  TA: '224'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: CARAVAN MODE Player
   Description: Register an online ranking in CARAVAN MODE.
   GS: '90'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 67%
-  Ratio: 1.41
-  TA: '127'
-  Tags: []
+  Number of Gamers: 66
+  Percentage of Gamers: 43%
+  Ratio: 1.53
+  TA: '137'
+  Tags:
+  - Online Mode
+  - Single Player
 - Achievement Name: Start TIME ATTACK MODE
   Description: Begin playing TIME ATTACK MODE.
   GS: '10'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 67%
-  Ratio: 1.41
-  TA: '14'
-  Tags: []
+  Number of Gamers: 63
+  Percentage of Gamers: 41%
+  Ratio: 1.56
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Checkpoint 2
   Description: Reach checkpoint 2 in TIME ATTACK MODE.
   GS: '10'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 67%
-  Ratio: 1.41
-  TA: '14'
-  Tags: []
+  Number of Gamers: 55
+  Percentage of Gamers: 35%
+  Ratio: 1.67
+  TA: '16'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Checkpoint 3
   Description: Reach checkpoint 3 in TIME ATTACK MODE.
   GS: '20'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 67%
-  Ratio: 1.41
-  TA: '28'
-  Tags: []
+  Number of Gamers: 49
+  Percentage of Gamers: 32%
+  Ratio: 1.79
+  TA: '35'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Checkpoint 4
   Description: Reach checkpoint 4 in TIME ATTACK MODE.
   GS: '90'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 67%
-  Ratio: 1.41
-  TA: '127'
-  Tags: []
+  Number of Gamers: 49
+  Percentage of Gamers: 32%
+  Ratio: 1.79
+  TA: '161'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: TIME ATTACK MODE Player
   Description: Register an online ranking in TIME ATTACK MODE.
   GS: '90'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 67%
-  Ratio: 1.41
-  TA: '127'
-  Tags: []
+  Number of Gamers: 54
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '152'
+  Tags:
+  - Online Mode
+  - Single Player
 - Achievement Name: Set scores for all modes
   Description: Set online ranking scores for HI SCORE MODE, CARAVAN MODE, and TIME
     ATTACK MODE.
   GS: '90'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 67%
-  Ratio: 1.41
-  TA: '127'
-  Tags: []
+  Number of Gamers: 54
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '152'
+  Tags:
+  - Online Mode
+  - Single Player
 - Achievement Name: Unlock all achievements
   Description: Unlock all achievements.
   GS: '120'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 67%
-  Ratio: 1.41
-  TA: '169'
-  Tags: []
-Base Ratio: 1.397
-Base TA: 1397
+  Number of Gamers: 25
+  Percentage of Gamers: 16%
+  Ratio: 2.49
+  TA: '298'
+  Tags:
+  - Offline Mode
+  - Online Mode
+  - Single Player
+Base Ratio: 1.809
+Base TA: 1809
 Delisted: false
-Developer: ''
+Developer: HAMSTER Corporation, Bandai Namco Entertainment
 Game Name: Arcade Archives 2 AIR COMBAT 22
 Genres: Aerial, Vehicular Combat
-Install Size: 524.0
-Number of Completions: 2
-Number of Gamers: 3
+Install Size: 525.0
+Number of Completions: 25
+Number of Gamers: 155
 Overall Completion Time:
-- 0
-- 0
+- 2
+- 3
 Overall GS: 1000
-Overall Ratio: 1.397
-Overall TA: 1397
+Overall Ratio: 1.809
+Overall TA: 1809
 PDU: 0
-Percentage Completed: 66.67
-Publisher: []
-Release Date: To be announced
+Percentage Completed: 16.13
+Publisher: HAMSTER Corporation
+Release Date: 02 July 2025
 Server Closure: false
-Site Rating: None
+Site Rating: 4.83
 Update Achievements: []
 Walkthrough: false

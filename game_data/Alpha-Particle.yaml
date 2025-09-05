@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
+- 9
 - 10
-- 11
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Hunter I
   Description: Destroy 50 Crystal Elements.
   GS: '20'
   Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 56%
-  Ratio: 1.33
-  TA: '26'
+  Number of Gamers: 26
+  Percentage of Gamers: 53%
+  Ratio: 1.37
+  TA: '27'
   Tags:
   - Offline Mode
   - Single Player
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Destroy 100 Crystal Elements.
   GS: '80'
   Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 48%
-  Ratio: 1.44
-  TA: '115'
+  Number of Gamers: 22
+  Percentage of Gamers: 45%
+  Ratio: 1.49
+  TA: '119'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Destroy 200 Crystal Elements.
   GS: '100'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 38%
-  Ratio: 1.63
-  TA: '163'
+  Number of Gamers: 17
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '169'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Accumulate 1,000 Banked Energy.
   GS: '20'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 25%
-  Ratio: 2.0
-  TA: '40'
+  Number of Gamers: 11
+  Percentage of Gamers: 22%
+  Ratio: 2.11
+  TA: '42'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Accumulate 2,500 Banked Energy.
   GS: '80'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 12%
-  Ratio: 2.82
-  TA: '226'
+  Number of Gamers: 5
+  Percentage of Gamers: 10%
+  Ratio: 3.13
+  TA: '250'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: Accumulate 5,000 Banked Energy.
   GS: '100'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 12%
-  Ratio: 2.82
-  TA: '282'
+  Number of Gamers: 5
+  Percentage of Gamers: 10%
+  Ratio: 3.13
+  TA: '313'
   Tags:
   - Offline Mode
   - Single Player
@@ -80,10 +80,10 @@ Base Game Achievements:
   Description: Upgrade your Core to 50 Max Energy.
   GS: '20'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 31%
-  Ratio: 1.78
-  TA: '35'
+  Number of Gamers: 14
+  Percentage of Gamers: 29%
+  Ratio: 1.87
+  TA: '37'
   Tags:
   - Offline Mode
   - Single Player
@@ -92,10 +92,10 @@ Base Game Achievements:
   Description: Upgrade your Core to 60 Max Energy.
   GS: '80'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 15%
-  Ratio: 2.61
-  TA: '209'
+  Number of Gamers: 6
+  Percentage of Gamers: 12%
+  Ratio: 2.85
+  TA: '228'
   Tags:
   - Offline Mode
   - Single Player
@@ -104,10 +104,10 @@ Base Game Achievements:
   Description: Upgrade your Core to 70 Max Energy.
   GS: '100'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 12%
-  Ratio: 2.82
-  TA: '282'
+  Number of Gamers: 5
+  Percentage of Gamers: 10%
+  Ratio: 3.13
+  TA: '313'
   Tags:
   - Offline Mode
   - Single Player
@@ -116,10 +116,10 @@ Base Game Achievements:
   Description: Own 1 Particle.
   GS: '20'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 12%
-  Ratio: 2.82
-  TA: '56'
+  Number of Gamers: 5
+  Percentage of Gamers: 10%
+  Ratio: 3.13
+  TA: '62'
   Tags:
   - Offline Mode
   - Single Player
@@ -128,10 +128,10 @@ Base Game Achievements:
   Description: Own 2 Particles.
   GS: '80'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 12%
-  Ratio: 2.82
-  TA: '226'
+  Number of Gamers: 5
+  Percentage of Gamers: 10%
+  Ratio: 3.13
+  TA: '250'
   Tags:
   - Offline Mode
   - Single Player
@@ -140,10 +140,10 @@ Base Game Achievements:
   Description: Own 3 Particles.
   GS: '100'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 12%
-  Ratio: 2.82
-  TA: '282'
+  Number of Gamers: 5
+  Percentage of Gamers: 10%
+  Ratio: 3.13
+  TA: '313'
   Tags:
   - Offline Mode
   - Single Player
@@ -152,7 +152,7 @@ Base Game Achievements:
   Description: Die 15 times.
   GS: '20'
   Guide: false
-  Number of Gamers: 48
+  Number of Gamers: 49
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '20'
@@ -164,8 +164,8 @@ Base Game Achievements:
   Description: Die 30 times.
   GS: '80'
   Guide: false
-  Number of Gamers: 40
-  Percentage of Gamers: 83%
+  Number of Gamers: 41
+  Percentage of Gamers: 84%
   Ratio: 1.09
   TA: '87'
   Tags:
@@ -176,34 +176,34 @@ Base Game Achievements:
   Description: Die 60 times.
   GS: '100'
   Guide: false
-  Number of Gamers: 32
+  Number of Gamers: 33
   Percentage of Gamers: 67%
-  Ratio: 1.22
-  TA: '122'
+  Ratio: 1.21
+  TA: '121'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 2.171
-Base TA: 2171
+Base Ratio: 2.351
+Base TA: 2351
 Delisted: false
 Developer: Function Unknown, eastasiasoft
 Game Name: Alpha Particle
 Genres: Action-Adventure
 Install Size: 1410.0
-Number of Completions: 6
-Number of Gamers: 48
+Number of Completions: 5
+Number of Gamers: 49
 Overall Completion Time:
+- 9
 - 10
-- 11
 Overall GS: 1000
-Overall Ratio: 2.171
-Overall TA: 2171
+Overall Ratio: 2.351
+Overall TA: 2351
 PDU: 0
-Percentage Completed: 12.5
+Percentage Completed: 10.2
 Publisher: eastasiasoft
 Release Date: 01 November 2023
 Server Closure: false
-Site Rating: 0.67
+Site Rating: 1.75
 Update Achievements: []
 Walkthrough: false

@@ -1,16 +1,16 @@
 Add On Achievements: []
 Base Completion Time:
-- 232
-- 233
+- 219
+- 220
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Not Too Shabby
   Description: Score 10 points in a MyCAREER NBA game
   GS: '15'
   Guide: true
-  Number of Gamers: 5924
+  Number of Gamers: 6220
   Percentage of Gamers: 48%
-  Ratio: 1.45
+  Ratio: 1.44
   TA: '21'
   Tags:
   - Online Mode
@@ -19,9 +19,9 @@ Base Game Achievements:
   Description: Score 30 points in a MyCAREER NBA game
   GS: '15'
   Guide: true
-  Number of Gamers: 3417
-  Percentage of Gamers: 27%
-  Ratio: 1.9
+  Number of Gamers: 3623
+  Percentage of Gamers: 28%
+  Ratio: 1.89
   TA: '28'
   Tags:
   - Online Mode
@@ -30,9 +30,9 @@ Base Game Achievements:
   Description: Make 5 three-pointers in a MyCAREER NBA game
   GS: '15'
   Guide: false
-  Number of Gamers: 3036
-  Percentage of Gamers: 24%
-  Ratio: 2.02
+  Number of Gamers: 3202
+  Percentage of Gamers: 25%
+  Ratio: 2.01
   TA: '30'
   Tags:
   - Online Mode
@@ -41,9 +41,9 @@ Base Game Achievements:
   Description: Create a jump shot in MyCAREER
   GS: '15'
   Guide: true
-  Number of Gamers: 2514
+  Number of Gamers: 2643
   Percentage of Gamers: 20%
-  Ratio: 2.22
+  Ratio: 2.21
   TA: '33'
   Tags:
   - Online Mode
@@ -52,9 +52,9 @@ Base Game Achievements:
   Description: Equip a vehicle in MyCAREER
   GS: '15'
   Guide: true
-  Number of Gamers: 5457
+  Number of Gamers: 5730
   Percentage of Gamers: 44%
-  Ratio: 1.51
+  Ratio: 1.5
   TA: '22'
   Tags:
   - Online Mode
@@ -63,7 +63,7 @@ Base Game Achievements:
   Description: Pick up the Daily Prize
   GS: '15'
   Guide: false
-  Number of Gamers: 3849
+  Number of Gamers: 4033
   Percentage of Gamers: 31%
   Ratio: 1.79
   TA: '26'
@@ -75,21 +75,22 @@ Base Game Achievements:
   Description: Get 1 million fans in MyCAREER
   GS: '15'
   Guide: false
-  Number of Gamers: 635
+  Number of Gamers: 703
   Percentage of Gamers: 5%
-  Ratio: 4.42
-  TA: '66'
+  Ratio: 4.3
+  TA: '64'
   Tags:
   - Online Mode
   - Single Player
+  - Cumulative +
 - Achievement Name: Double Trouble
   Description: Record a double-double in a MyCAREER NBA game
   GS: '15'
   Guide: true
-  Number of Gamers: 2895
+  Number of Gamers: 3067
   Percentage of Gamers: 23%
-  Ratio: 2.07
-  TA: '31'
+  Ratio: 2.06
+  TA: '30'
   Tags:
   - Online Mode
   - Single Player
@@ -97,10 +98,10 @@ Base Game Achievements:
   Description: Record a triple-double in a MyCAREER NBA game
   GS: '30'
   Guide: true
-  Number of Gamers: 1174
-  Percentage of Gamers: 9%
-  Ratio: 3.25
-  TA: '97'
+  Number of Gamers: 1265
+  Percentage of Gamers: 10%
+  Ratio: 3.21
+  TA: '96'
   Tags:
   - Online Mode
   - Single Player
@@ -108,7 +109,7 @@ Base Game Achievements:
   Description: Make 1 green release shot in a MyCAREER NBA game
   GS: '15'
   Guide: true
-  Number of Gamers: 7866
+  Number of Gamers: 8230
   Percentage of Gamers: 63%
   Ratio: 1.25
   TA: '18'
@@ -119,7 +120,7 @@ Base Game Achievements:
   Description: Get 3 assists in a MyCAREER NBA game
   GS: '15'
   Guide: false
-  Number of Gamers: 6099
+  Number of Gamers: 6391
   Percentage of Gamers: 49%
   Ratio: 1.42
   TA: '21'
@@ -130,9 +131,9 @@ Base Game Achievements:
   Description: Get 5 defensive rebounds in a MyCAREER NBA game
   GS: '15'
   Guide: false
-  Number of Gamers: 3171
-  Percentage of Gamers: 25%
-  Ratio: 1.98
+  Number of Gamers: 3345
+  Percentage of Gamers: 26%
+  Ratio: 1.97
   TA: '29'
   Tags:
   - Online Mode
@@ -141,10 +142,10 @@ Base Game Achievements:
   Description: Get 5 blocks in a MyCAREER NBA game
   GS: '15'
   Guide: false
-  Number of Gamers: 852
+  Number of Gamers: 923
   Percentage of Gamers: 7%
-  Ratio: 3.82
-  TA: '57'
+  Ratio: 3.75
+  TA: '56'
   Tags:
   - Online Mode
   - Single Player
@@ -152,7 +153,7 @@ Base Game Achievements:
   Description: Get 3 steals in a MyCAREER NBA game
   GS: '15'
   Guide: false
-  Number of Gamers: 3116
+  Number of Gamers: 3283
   Percentage of Gamers: 25%
   Ratio: 1.99
   TA: '29'
@@ -163,9 +164,9 @@ Base Game Achievements:
   Description: Make 10 green release shots in a MyCAREER NBA game
   GS: '30'
   Guide: false
-  Number of Gamers: 3352
+  Number of Gamers: 3550
   Percentage of Gamers: 27%
-  Ratio: 1.92
+  Ratio: 1.91
   TA: '57'
   Tags:
   - Online Mode
@@ -174,10 +175,10 @@ Base Game Achievements:
   Description: Defeat every Virtual Rivals team
   GS: '30'
   Guide: false
-  Number of Gamers: 165
+  Number of Gamers: 186
   Percentage of Gamers: 1%
-  Ratio: 8.68
-  TA: '260'
+  Ratio: 8.36
+  TA: '250'
   Tags:
   - Online Mode
   - Single Player
@@ -185,9 +186,9 @@ Base Game Achievements:
   Description: Complete the Virtual Rivals tutorial
   GS: '15'
   Guide: false
-  Number of Gamers: 2227
+  Number of Gamers: 2341
   Percentage of Gamers: 18%
-  Ratio: 2.36
+  Ratio: 2.35
   TA: '35'
   Tags:
   - Online Mode
@@ -196,10 +197,10 @@ Base Game Achievements:
   Description: Complete all divisional Virtual Rivals questlines
   GS: '15'
   Guide: false
-  Number of Gamers: 307
-  Percentage of Gamers: 2%
-  Ratio: 6.37
-  TA: '95'
+  Number of Gamers: 335
+  Percentage of Gamers: 3%
+  Ratio: 6.23
+  TA: '93'
   Tags:
   - Online Mode
   - Single Player
@@ -207,10 +208,10 @@ Base Game Achievements:
   Description: "Complete Tom\xE1s\u2019s Virtual Rivals questline"
   GS: '30'
   Guide: false
-  Number of Gamers: 277
+  Number of Gamers: 301
   Percentage of Gamers: 2%
-  Ratio: 6.7
-  TA: '201'
+  Ratio: 6.57
+  TA: '197'
   Tags:
   - Online Mode
   - Single Player
@@ -218,10 +219,10 @@ Base Game Achievements:
   Description: "Complete Janitor\u2019s Virtual Rivals questline"
   GS: '15'
   Guide: false
-  Number of Gamers: 178
-  Percentage of Gamers: 1%
-  Ratio: 8.36
-  TA: '125'
+  Number of Gamers: 200
+  Percentage of Gamers: 2%
+  Ratio: 8.06
+  TA: '120'
   Tags:
   - Online Mode
   - Single Player
@@ -229,10 +230,10 @@ Base Game Achievements:
   Description: "Complete Roger Roger\u2019s Virtual Rivals questline"
   GS: '15'
   Guide: true
-  Number of Gamers: 370
+  Number of Gamers: 402
   Percentage of Gamers: 3%
-  Ratio: 5.8
-  TA: '87'
+  Ratio: 5.68
+  TA: '85'
   Tags:
   - Online Mode
   - Single Player
@@ -240,10 +241,10 @@ Base Game Achievements:
   Description: "Complete Siegbert\u2019s Virtual Rivals questline"
   GS: '15'
   Guide: false
-  Number of Gamers: 342
+  Number of Gamers: 376
   Percentage of Gamers: 3%
-  Ratio: 6.03
-  TA: '90'
+  Ratio: 5.89
+  TA: '88'
   Tags:
   - Online Mode
   - Single Player
@@ -251,10 +252,10 @@ Base Game Achievements:
   Description: "Complete Merry Misfit\u2019s Virtual Rivals questline"
   GS: '15'
   Guide: false
-  Number of Gamers: 243
+  Number of Gamers: 270
   Percentage of Gamers: 2%
-  Ratio: 7.15
-  TA: '107'
+  Ratio: 6.94
+  TA: '104'
   Tags:
   - Online Mode
   - Single Player
@@ -262,10 +263,10 @@ Base Game Achievements:
   Description: Score every point for your team while winning a Virtual Rivals match
   GS: '30'
   Guide: false
-  Number of Gamers: 609
+  Number of Gamers: 657
   Percentage of Gamers: 5%
-  Ratio: 4.52
-  TA: '135'
+  Ratio: 4.45
+  TA: '133'
   Tags:
   - Online Mode
   - Single Player
@@ -274,10 +275,10 @@ Base Game Achievements:
     \ Rivals team"
   GS: '15'
   Guide: false
-  Number of Gamers: 81
+  Number of Gamers: 96
   Percentage of Gamers: 1%
-  Ratio: 12.4
-  TA: '186'
+  Ratio: 11.64
+  TA: '174'
   Tags:
   - Online Mode
   - Single Player
@@ -286,10 +287,10 @@ Base Game Achievements:
     \ Angeles Clippers Virtual Rivals team"
   GS: '15'
   Guide: false
-  Number of Gamers: 71
+  Number of Gamers: 89
   Percentage of Gamers: 1%
-  Ratio: 13.24
-  TA: '198'
+  Ratio: 12.09
+  TA: '181'
   Tags:
   - Online Mode
   - Single Player
@@ -297,10 +298,10 @@ Base Game Achievements:
   Description: Get 3 steals while defeating the Three PG13s Virtual Rivals team
   GS: '15'
   Guide: false
-  Number of Gamers: 55
-  Percentage of Gamers: 0%
-  Ratio: 15.04
-  TA: '225'
+  Number of Gamers: 66
+  Percentage of Gamers: 1%
+  Ratio: 14.04
+  TA: '210'
   Tags:
   - Online Mode
   - Single Player
@@ -308,10 +309,10 @@ Base Game Achievements:
   Description: Earn 12 stars in Mamba Moments
   GS: '15'
   Guide: false
-  Number of Gamers: 400
+  Number of Gamers: 438
   Percentage of Gamers: 3%
-  Ratio: 5.58
-  TA: '83'
+  Ratio: 5.45
+  TA: '81'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -319,10 +320,10 @@ Base Game Achievements:
   Description: Earn 21 stars in Mamba Moments
   GS: '30'
   Guide: false
-  Number of Gamers: 193
+  Number of Gamers: 211
   Percentage of Gamers: 2%
-  Ratio: 8.03
-  TA: '241'
+  Ratio: 7.85
+  TA: '235'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -330,10 +331,10 @@ Base Game Achievements:
   Description: Play a game in MyGM
   GS: '15'
   Guide: true
-  Number of Gamers: 468
+  Number of Gamers: 505
   Percentage of Gamers: 4%
-  Ratio: 5.15
-  TA: '77'
+  Ratio: 5.08
+  TA: '76'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -341,9 +342,9 @@ Base Game Achievements:
   Description: Make a trade in MyGM
   GS: '15'
   Guide: false
-  Number of Gamers: 754
+  Number of Gamers: 798
   Percentage of Gamers: 6%
-  Ratio: 4.06
+  Ratio: 4.04
   TA: '60'
   Tags:
   - Offline Game Mode
@@ -352,10 +353,10 @@ Base Game Achievements:
   Description: Go to the playoffs in MyLEAGUE
   GS: '30'
   Guide: true
-  Number of Gamers: 1821
+  Number of Gamers: 1934
   Percentage of Gamers: 15%
-  Ratio: 2.61
-  TA: '78'
+  Ratio: 2.59
+  TA: '77'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -363,10 +364,10 @@ Base Game Achievements:
   Description: Win a championship in MyLEAGUE
   GS: '40'
   Guide: true
-  Number of Gamers: 320
+  Number of Gamers: 348
   Percentage of Gamers: 3%
-  Ratio: 6.23
-  TA: '249'
+  Ratio: 6.13
+  TA: '245'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -374,10 +375,10 @@ Base Game Achievements:
   Description: Score 90 points as a team in a WNBA Season game
   GS: '30'
   Guide: false
-  Number of Gamers: 192
+  Number of Gamers: 210
   Percentage of Gamers: 2%
-  Ratio: 8.05
-  TA: '241'
+  Ratio: 7.89
+  TA: '236'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -385,9 +386,9 @@ Base Game Achievements:
   Description: Win an NBA TODAY game
   GS: '15'
   Guide: true
-  Number of Gamers: 567
+  Number of Gamers: 596
   Percentage of Gamers: 5%
-  Ratio: 4.68
+  Ratio: 4.67
   TA: '70'
   Tags:
   - Discontinued
@@ -395,9 +396,9 @@ Base Game Achievements:
   Description: Win a PLAY NOW ONLINE game
   GS: '15'
   Guide: true
-  Number of Gamers: 742
+  Number of Gamers: 782
   Percentage of Gamers: 6%
-  Ratio: 4.09
+  Ratio: 4.07
   TA: '61'
   Tags:
   - Online Mode
@@ -406,10 +407,10 @@ Base Game Achievements:
   Description: Win an NBA All-Star game
   GS: '15'
   Guide: false
-  Number of Gamers: 1265
+  Number of Gamers: 1360
   Percentage of Gamers: 10%
-  Ratio: 3.13
-  TA: '47'
+  Ratio: 3.09
+  TA: '46'
   Tags:
   - Online/Offline
   - Single Player
@@ -417,10 +418,10 @@ Base Game Achievements:
   Description: Win a QUICK PLAY game
   GS: '15'
   Guide: false
-  Number of Gamers: 3573
+  Number of Gamers: 3828
   Percentage of Gamers: 29%
-  Ratio: 1.86
-  TA: '28'
+  Ratio: 1.84
+  TA: '27'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -428,10 +429,10 @@ Base Game Achievements:
   Description: Win a PLAY WNBA game
   GS: '15'
   Guide: false
-  Number of Gamers: 584
+  Number of Gamers: 631
   Percentage of Gamers: 5%
-  Ratio: 4.61
-  TA: '69'
+  Ratio: 4.54
+  TA: '68'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -439,9 +440,9 @@ Base Game Achievements:
   Description: In MyTEAM, apply a Diamond Shoe Card to any Player Card
   GS: '15'
   Guide: false
-  Number of Gamers: 1400
+  Number of Gamers: 1494
   Percentage of Gamers: 11%
-  Ratio: 2.98
+  Ratio: 2.95
   TA: '44'
   Tags:
   - Online Mode
@@ -450,9 +451,9 @@ Base Game Achievements:
   Description: In MyTEAM, create a Diamond Shoe in the MT Shoe Lab
   GS: '15'
   Guide: true
-  Number of Gamers: 968
+  Number of Gamers: 1028
   Percentage of Gamers: 8%
-  Ratio: 3.58
+  Ratio: 3.55
   TA: '53'
   Tags:
   - Online Mode
@@ -461,9 +462,9 @@ Base Game Achievements:
   Description: Regrade an already graded MyTEAM card a second time
   GS: '15'
   Guide: true
-  Number of Gamers: 420
+  Number of Gamers: 446
   Percentage of Gamers: 3%
-  Ratio: 5.44
+  Ratio: 5.4
   TA: '81'
   Tags:
   - Online Mode
@@ -472,10 +473,10 @@ Base Game Achievements:
   Description: Win a game in Salary Cap mode in MyTEAM
   GS: '15'
   Guide: true
-  Number of Gamers: 339
+  Number of Gamers: 363
   Percentage of Gamers: 3%
-  Ratio: 6.06
-  TA: '90'
+  Ratio: 5.98
+  TA: '89'
   Tags:
   - Online Mode
   - Versus
@@ -483,9 +484,9 @@ Base Game Achievements:
   Description: Earn a Prize from each mini game in MyTEAM
   GS: '15'
   Guide: false
-  Number of Gamers: 577
+  Number of Gamers: 611
   Percentage of Gamers: 5%
-  Ratio: 4.64
+  Ratio: 4.61
   TA: '69'
   Tags:
   - Online Mode
@@ -494,7 +495,7 @@ Base Game Achievements:
   Description: Buy a Card from the Player Market in MyTEAM
   GS: '15'
   Guide: true
-  Number of Gamers: 1817
+  Number of Gamers: 1905
   Percentage of Gamers: 15%
   Ratio: 2.61
   TA: '39'
@@ -505,8 +506,8 @@ Base Game Achievements:
 - Achievement Name: Jigsaw
   Description: Complete a Shattered Prize in MyTEAM
   GS: '30'
-  Guide: false
-  Number of Gamers: 584
+  Guide: true
+  Number of Gamers: 611
   Percentage of Gamers: 5%
   Ratio: 4.61
   TA: '138'
@@ -517,10 +518,10 @@ Base Game Achievements:
   Description: Play a MyTEAM game where your complete 13-man lineup is all Holo Cards
   GS: '90'
   Guide: true
-  Number of Gamers: 88
+  Number of Gamers: 102
   Percentage of Gamers: 1%
-  Ratio: 11.89
-  TA: 1,070
+  Ratio: 11.35
+  TA: 1,021
   Tags:
   - Online Mode
   - Single Player
@@ -529,10 +530,10 @@ Base Game Achievements:
   Description: Beat a Team in Domination by 73 points in MyTEAM
   GS: '30'
   Guide: false
-  Number of Gamers: 420
+  Number of Gamers: 448
   Percentage of Gamers: 3%
-  Ratio: 5.44
-  TA: '163'
+  Ratio: 5.39
+  TA: '161'
   Tags:
   - Online Mode
   - Single Player
@@ -541,10 +542,10 @@ Base Game Achievements:
     in MyTEAM
   GS: '15'
   Guide: true
-  Number of Gamers: 372
+  Number of Gamers: 406
   Percentage of Gamers: 3%
-  Ratio: 5.78
-  TA: '86'
+  Ratio: 5.66
+  TA: '85'
   Tags:
   - Online Mode
   - Single Player
@@ -552,33 +553,33 @@ Base Game Achievements:
   Description: Complete any Collection in MyTEAM
   GS: '15'
   Guide: false
-  Number of Gamers: 1014
+  Number of Gamers: 1059
   Percentage of Gamers: 8%
   Ratio: 3.5
   TA: '52'
   Tags:
   - Online Mode
   - Single Player
-Base Ratio: 5.498
-Base TA: 5498
+Base Ratio: 5.344
+Base TA: 5344
 Delisted: false
 Developer: Visual Concepts
 Game Name: NBA 2K24 (Xbox One)
 Genres: Sports, Basketball
 Install Size: 113250.0
-Number of Completions: 33
-Number of Gamers: 12462
+Number of Completions: 37
+Number of Gamers: 13062
 Overall Completion Time:
-- 232
-- 233
+- 219
+- 220
 Overall GS: 1000
-Overall Ratio: 5.498
-Overall TA: 5498
-PDU: 0
-Percentage Completed: 0.26
+Overall Ratio: 5.344
+Overall TA: 5344
+PDU: 1
+Percentage Completed: 0.28
 Publisher: 2K Games
 Release Date: 08 September 2023
-Server Closure: false
-Site Rating: 3.01
+Server Closure: true
+Site Rating: 2.97
 Update Achievements: []
 Walkthrough: false

@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- 23
-- 24
+- 21
+- 22
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Walk The Dog
   Description: Kill an enemy by leading it to the laser cannon
   GS: '30'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 13%
-  Ratio: 2.79
-  TA: '83'
+  Number of Gamers: 14
+  Percentage of Gamers: 14%
+  Ratio: 2.67
+  TA: '80'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -19,10 +19,10 @@ Base Game Achievements:
   Description: Exit the reactor level with less than 1s before the reactor explodes
   GS: '30'
   Guide: false
-  Number of Gamers: 22
-  Percentage of Gamers: 25%
-  Ratio: 1.97
-  TA: '59'
+  Number of Gamers: 26
+  Percentage of Gamers: 26%
+  Ratio: 1.96
+  TA: '58'
   Tags:
   - Offline Mode
   - Single Player
@@ -31,10 +31,10 @@ Base Game Achievements:
   Description: Destroy 150 asteroids in the solar system
   GS: '50'
   Guide: false
-  Number of Gamers: 30
+  Number of Gamers: 34
   Percentage of Gamers: 34%
-  Ratio: 1.69
-  TA: '84'
+  Ratio: 1.71
+  TA: '85'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -42,10 +42,10 @@ Base Game Achievements:
   Description: Complete the first solar system without losing a life
   GS: '100'
   Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 26%
-  Ratio: 1.93
-  TA: '193'
+  Number of Gamers: 24
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '204'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -53,10 +53,10 @@ Base Game Achievements:
   Description: Crash into the star without any fuel
   GS: '30'
   Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 26%
-  Ratio: 1.97
-  TA: '59'
+  Number of Gamers: 29
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '55'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -65,9 +65,9 @@ Base Game Achievements:
   GS: '100'
   Guide: false
   Number of Gamers: 8
-  Percentage of Gamers: 9%
-  Ratio: 3.27
-  TA: '327'
+  Percentage of Gamers: 8%
+  Ratio: 3.53
+  TA: '353'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -75,10 +75,10 @@ Base Game Achievements:
   Description: Complete all 6 types of planets
   GS: '30'
   Guide: false
-  Number of Gamers: 45
-  Percentage of Gamers: 52%
-  Ratio: 1.38
-  TA: '41'
+  Number of Gamers: 50
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '42'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -88,8 +88,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 2
   Percentage of Gamers: 2%
-  Ratio: 6.55
-  TA: '327'
+  Ratio: 7.07
+  TA: '353'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -97,10 +97,10 @@ Base Game Achievements:
   Description: Use all power-ups
   GS: '70'
   Guide: false
-  Number of Gamers: 60
+  Number of Gamers: 69
   Percentage of Gamers: 69%
-  Ratio: 1.19
-  TA: '83'
+  Ratio: 1.2
+  TA: '84'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -108,10 +108,10 @@ Base Game Achievements:
   Description: Reach 10000 score in Arcade
   GS: '100'
   Guide: false
-  Number of Gamers: 33
-  Percentage of Gamers: 38%
-  Ratio: 1.61
-  TA: '161'
+  Number of Gamers: 37
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '164'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -119,7 +119,7 @@ Base Game Achievements:
   Description: Kill 25 enemies while under the effect of Overload
   GS: '30'
   Guide: false
-  Number of Gamers: 18
+  Number of Gamers: 21
   Percentage of Gamers: 21%
   Ratio: 2.18
   TA: '65'
@@ -131,10 +131,10 @@ Base Game Achievements:
   Description: Kill 25 enemies with a Railgun shot
   GS: '100'
   Guide: false
-  Number of Gamers: 19
-  Percentage of Gamers: 22%
-  Ratio: 2.12
-  TA: '212'
+  Number of Gamers: 20
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '223'
   Tags:
   - Offline Mode
   - Single Player
@@ -142,11 +142,11 @@ Base Game Achievements:
 - Achievement Name: Finnish Farmers
   Description: Kill 200 enemies with a Spreadshot
   GS: '30'
-  Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 9%
-  Ratio: 3.27
-  TA: '98'
+  Guide: true
+  Number of Gamers: 10
+  Percentage of Gamers: 10%
+  Ratio: 3.16
+  TA: '94'
   Tags:
   - Offline Mode
   - Single Player
@@ -155,10 +155,10 @@ Base Game Achievements:
   Description: Kill 125 enemies with Homing Missiles
   GS: '30'
   Guide: false
-  Number of Gamers: 9
+  Number of Gamers: 10
   Percentage of Gamers: 10%
-  Ratio: 3.09
-  TA: '92'
+  Ratio: 3.16
+  TA: '94'
   Tags:
   - Offline Mode
   - Single Player
@@ -167,10 +167,10 @@ Base Game Achievements:
   Description: Kill 50 enemies disabled by the EMP
   GS: '30'
   Guide: false
-  Number of Gamers: 8
+  Number of Gamers: 9
   Percentage of Gamers: 9%
-  Ratio: 3.27
-  TA: '98'
+  Ratio: 3.33
+  TA: '99'
   Tags:
   - Offline Mode
   - Single Player
@@ -179,9 +179,9 @@ Base Game Achievements:
   Description: Shoot down 300 UFOs
   GS: '30'
   Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 31%
-  Ratio: 1.78
+  Number of Gamers: 32
+  Percentage of Gamers: 32%
+  Ratio: 1.76
   TA: '53'
   Tags:
   - Offline Mode
@@ -191,10 +191,10 @@ Base Game Achievements:
   Description: Destroy 150 basic turrets
   GS: '30'
   Guide: false
-  Number of Gamers: 44
+  Number of Gamers: 51
   Percentage of Gamers: 51%
-  Ratio: 1.39
-  TA: '41'
+  Ratio: 1.4
+  TA: '42'
   Tags:
   - Offline Mode
   - Single Player
@@ -203,10 +203,10 @@ Base Game Achievements:
   Description: Push 40 buttons
   GS: '30'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 17%
-  Ratio: 2.39
-  TA: '71'
+  Number of Gamers: 16
+  Percentage of Gamers: 16%
+  Ratio: 2.5
+  TA: '75'
   Tags:
   - Offline Mode
   - Single Player
@@ -215,31 +215,31 @@ Base Game Achievements:
   Description: Retrieve 100 rescue pods
   GS: '100'
   Guide: false
-  Number of Gamers: 25
-  Percentage of Gamers: 29%
-  Ratio: 1.85
-  TA: '185'
+  Number of Gamers: 28
+  Percentage of Gamers: 28%
+  Ratio: 1.88
+  TA: '188'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 2.332
-Base TA: 2332
+Base Ratio: 2.411
+Base TA: 2411
 Delisted: false
 Developer: Adamvision Studios, SneakyBox Studios
 Game Name: 'Gravitar: Recharged'
 Genres: Shoot 'em up
 Install Size: 675.0
-Number of Completions: 1
-Number of Gamers: 87
+Number of Completions: 2
+Number of Gamers: 100
 Overall Completion Time:
-- 23
-- 24
+- 21
+- 22
 Overall GS: 1000
-Overall Ratio: 2.332
-Overall TA: 2332
+Overall Ratio: 2.411
+Overall TA: 2411
 PDU: 0
-Percentage Completed: 1.15
+Percentage Completed: 2.0
 Publisher: Atari
 Release Date: 01 June 2022
 Server Closure: false

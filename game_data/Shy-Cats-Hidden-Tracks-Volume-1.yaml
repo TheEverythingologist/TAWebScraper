@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 1.0
-- 2.5
-Base GS: 2000
+- 3.0
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: Half Chorus In Paris
   Description: You already found half of the kitty singers choir in Paris
   GS: '100'
   Guide: false
-  Number of Gamers: 847
+  Number of Gamers: 1084
   Percentage of Gamers: 94%
   Ratio: 1.02
   TA: '102'
@@ -20,8 +20,8 @@ Base Game Achievements:
   Description: You already found half of the kitty singers choir in Rio
   GS: '25'
   Guide: false
-  Number of Gamers: 894
-  Percentage of Gamers: 100%
+  Number of Gamers: 1141
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '25'
   Tags:
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: You already found half of the kitty singers choir in Tokyo
   GS: '50'
   Guide: false
-  Number of Gamers: 867
-  Percentage of Gamers: 97%
-  Ratio: 1.01
-  TA: '50'
+  Number of Gamers: 1103
+  Percentage of Gamers: 96%
+  Ratio: 1.02
+  TA: '51'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,7 +44,7 @@ Base Game Achievements:
   Description: You already found half of the lost money bags in Paris
   GS: '100'
   Guide: false
-  Number of Gamers: 847
+  Number of Gamers: 1085
   Percentage of Gamers: 94%
   Ratio: 1.02
   TA: '102'
@@ -56,7 +56,7 @@ Base Game Achievements:
   Description: You already found half of the lost money bags in Rio
   GS: '25'
   Guide: false
-  Number of Gamers: 891
+  Number of Gamers: 1135
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '25'
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: You already found half of the lost money bags in Tokyo
   GS: '50'
   Guide: false
-  Number of Gamers: 866
-  Percentage of Gamers: 97%
-  Ratio: 1.01
-  TA: '50'
+  Number of Gamers: 1102
+  Percentage of Gamers: 96%
+  Ratio: 1.02
+  TA: '51'
   Tags:
   - Offline Mode
   - Single Player
@@ -80,7 +80,7 @@ Base Game Achievements:
   Description: You found the whole kitty singers choir in Paris
   GS: '150'
   Guide: false
-  Number of Gamers: 834
+  Number of Gamers: 1065
   Percentage of Gamers: 93%
   Ratio: 1.03
   TA: '155'
@@ -92,8 +92,8 @@ Base Game Achievements:
   Description: You found the whole kitty singers choir in Rio
   GS: '50'
   Guide: false
-  Number of Gamers: 878
-  Percentage of Gamers: 98%
+  Number of Gamers: 1119
+  Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '50'
   Tags:
@@ -104,7 +104,7 @@ Base Game Achievements:
   Description: You found the whole kitty singers choir in Tokyo
   GS: '100'
   Guide: false
-  Number of Gamers: 850
+  Number of Gamers: 1086
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
@@ -116,10 +116,10 @@ Base Game Achievements:
   Description: You found all the lost money bags in Paris
   GS: '150'
   Guide: true
-  Number of Gamers: 829
+  Number of Gamers: 1059
   Percentage of Gamers: 92%
-  Ratio: 1.03
-  TA: '155'
+  Ratio: 1.04
+  TA: '156'
   Tags:
   - Offline Mode
   - Single Player
@@ -128,7 +128,7 @@ Base Game Achievements:
   Description: You found all the lost money bags in Rio
   GS: '50'
   Guide: false
-  Number of Gamers: 873
+  Number of Gamers: 1113
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '50'
@@ -140,7 +140,7 @@ Base Game Achievements:
   Description: You found all the lost money bags in Tokyo
   GS: '100'
   Guide: false
-  Number of Gamers: 847
+  Number of Gamers: 1083
   Percentage of Gamers: 94%
   Ratio: 1.02
   TA: '102'
@@ -152,144 +152,274 @@ Base Game Achievements:
   Description: You hired your first Musician
   GS: '50'
   Guide: true
-  Number of Gamers: 877
-  Percentage of Gamers: 98%
+  Number of Gamers: 1117
+  Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '50'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.138
-Base TA: 2276
+Base Ratio: 1.1326666666666667
+Base TA: 3398
 Delisted: false
 Developer: Enchant Games
 Game Name: Shy Cats Hidden Tracks - Vol. 1
 Genres: Puzzle
 Install Size: 1190.0
-Number of Completions: 561
-Number of Gamers: 897
+Number of Completions: 736
+Number of Gamers: 1149
 Overall Completion Time:
 - 1.0
-- 2.5
-Overall GS: 2000
-Overall Ratio: 1.138
-Overall TA: 2276
+- 3.0
+Overall GS: 3000
+Overall Ratio: 1.1326666666666667
+Overall TA: 3398
 PDU: 0
-Percentage Completed: 62.54
+Percentage Completed: 64.06
 Publisher: Lucky Raccoon Games
 Release Date: 13 December 2024
 Server Closure: false
-Site Rating: 3.08
+Site Rating: 3.05
 Update Achievements:
 - Achievement Name: Drums in Paris
   Description: You hired a drum player in Paris
   GS: '100'
   Guide: true
-  Number of Gamers: 570
-  Percentage of Gamers: 64%
-  Ratio: 1.25
-  TA: '125'
+  Number of Gamers: 861
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '115'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Shop
 - Achievement Name: Bass in Paris
   Description: You hired a bass player in Paris
   GS: '100'
   Guide: false
-  Number of Gamers: 569
-  Percentage of Gamers: 63%
-  Ratio: 1.25
-  TA: '125'
+  Number of Gamers: 860
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '115'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Shop
 - Achievement Name: Congas in Paris
   Description: You hired a conga player in Paris
   GS: '100'
   Guide: false
-  Number of Gamers: 568
-  Percentage of Gamers: 63%
-  Ratio: 1.26
-  TA: '126'
+  Number of Gamers: 857
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '115'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Shop
 - Achievement Name: Guitar in Paris
   Description: You hired a guitar player in Paris
   GS: '100'
   Guide: false
-  Number of Gamers: 566
-  Percentage of Gamers: 63%
-  Ratio: 1.26
-  TA: '126'
+  Number of Gamers: 856
+  Percentage of Gamers: 74%
+  Ratio: 1.15
+  TA: '115'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Shop
 - Achievement Name: Piano in Paris
   Description: You hired a piano player in Paris
   GS: '100'
   Guide: false
-  Number of Gamers: 567
-  Percentage of Gamers: 63%
-  Ratio: 1.26
-  TA: '126'
+  Number of Gamers: 855
+  Percentage of Gamers: 74%
+  Ratio: 1.15
+  TA: '115'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Shop
 - Achievement Name: Trumpet in Paris
   Description: You hired a trumpet player in Paris
   GS: '100'
   Guide: false
-  Number of Gamers: 567
-  Percentage of Gamers: 63%
-  Ratio: 1.26
-  TA: '126'
+  Number of Gamers: 854
+  Percentage of Gamers: 74%
+  Ratio: 1.15
+  TA: '115'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Shop
 - Achievement Name: Flute in Paris
   Description: You hired a flute player in Paris
   GS: '100'
   Guide: false
-  Number of Gamers: 566
-  Percentage of Gamers: 63%
-  Ratio: 1.26
-  TA: '126'
+  Number of Gamers: 852
+  Percentage of Gamers: 74%
+  Ratio: 1.16
+  TA: '116'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Shop
 - Achievement Name: Vocals in Paris
   Description: You hired a singer in Paris
   GS: '100'
   Guide: false
-  Number of Gamers: 566
-  Percentage of Gamers: 63%
-  Ratio: 1.26
-  TA: '126'
+  Number of Gamers: 852
+  Percentage of Gamers: 74%
+  Ratio: 1.16
+  TA: '116'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Shop
 - Achievement Name: Violin in Paris
   Description: You hired a violin player in Paris
   GS: '100'
   Guide: false
-  Number of Gamers: 566
-  Percentage of Gamers: 63%
-  Ratio: 1.26
-  TA: '126'
+  Number of Gamers: 853
+  Percentage of Gamers: 74%
+  Ratio: 1.16
+  TA: '116'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Shop
 - Achievement Name: Acordeon em Paris
   Description: You hired an accordion player in Paris
   GS: '100'
   Guide: true
-  Number of Gamers: 567
-  Percentage of Gamers: 63%
-  Ratio: 1.26
-  TA: '126'
+  Number of Gamers: 854
+  Percentage of Gamers: 74%
+  Ratio: 1.15
+  TA: '115'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Shop
+- Achievement Name: Drums in Rio
+  Description: You hired a drum player in Rio
+  GS: '100'
+  Guide: false
+  Number of Gamers: 763
+  Percentage of Gamers: 66%
+  Ratio: 1.22
+  TA: '122'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Bass in Rio
+  Description: You hired a bass player in Rio
+  GS: '100'
+  Guide: false
+  Number of Gamers: 762
+  Percentage of Gamers: 66%
+  Ratio: 1.22
+  TA: '122'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Congas in Rio
+  Description: You hired a conga player in Rio
+  GS: '100'
+  Guide: false
+  Number of Gamers: 762
+  Percentage of Gamers: 66%
+  Ratio: 1.22
+  TA: '122'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Guitar in Rio
+  Description: You hired a guitar player in Rio
+  GS: '100'
+  Guide: false
+  Number of Gamers: 762
+  Percentage of Gamers: 66%
+  Ratio: 1.22
+  TA: '122'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Piano in Rio
+  Description: You hired a piano player in Rio
+  GS: '100'
+  Guide: false
+  Number of Gamers: 760
+  Percentage of Gamers: 66%
+  Ratio: 1.22
+  TA: '122'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Trumpet in Rio
+  Description: You hired a trumpet player in Rio
+  GS: '100'
+  Guide: false
+  Number of Gamers: 760
+  Percentage of Gamers: 66%
+  Ratio: 1.22
+  TA: '122'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Flute in Rio
+  Description: You hired a flute player in Rio
+  GS: '100'
+  Guide: false
+  Number of Gamers: 759
+  Percentage of Gamers: 66%
+  Ratio: 1.23
+  TA: '123'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Vocals in Rio
+  Description: You hired a singer in Rio
+  GS: '100'
+  Guide: false
+  Number of Gamers: 759
+  Percentage of Gamers: 66%
+  Ratio: 1.23
+  TA: '123'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Violin in Rio
+  Description: You hired a violin player in Rio
+  GS: '100'
+  Guide: false
+  Number of Gamers: 759
+  Percentage of Gamers: 66%
+  Ratio: 1.23
+  TA: '123'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Acordeon in Rio
+  Description: You hired an accordion player in Rio
+  GS: '100'
+  Guide: false
+  Number of Gamers: 757
+  Percentage of Gamers: 66%
+  Ratio: 1.23
+  TA: '123'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
 Walkthrough: false

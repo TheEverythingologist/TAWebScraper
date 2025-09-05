@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- -1
-- -1
+- 2.0
+- 3.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: A New Journey Begins
   Description: Complete Prelude
   GS: '90'
   Guide: false
-  Number of Gamers: 1
+  Number of Gamers: 93
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '90'
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Complete The Town
   GS: '90'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '90'
+  Number of Gamers: 85
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '94'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Complete The Hidden Fens
   GS: '90'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '90'
+  Number of Gamers: 78
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '98'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Complete Origata Atelier
   GS: '90'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '90'
+  Number of Gamers: 73
+  Percentage of Gamers: 78%
+  Ratio: 1.12
+  TA: '101'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Complete The Temple
   GS: '90'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '90'
+  Number of Gamers: 70
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '103'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: Complete Vaiaku
   GS: '90'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '90'
+  Number of Gamers: 67
+  Percentage of Gamers: 72%
+  Ratio: 1.18
+  TA: '106'
   Tags:
   - Offline Mode
   - Single Player
@@ -80,10 +80,10 @@ Base Game Achievements:
   Description: Complete The Torrential Parting
   GS: '90'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '90'
+  Number of Gamers: 67
+  Percentage of Gamers: 72%
+  Ratio: 1.18
+  TA: '106'
   Tags:
   - Offline Mode
   - Single Player
@@ -92,10 +92,10 @@ Base Game Achievements:
   Description: Complete The Inverted Palace
   GS: '90'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '90'
+  Number of Gamers: 63
+  Percentage of Gamers: 68%
+  Ratio: 1.21
+  TA: '109'
   Tags:
   - Offline Mode
   - Single Player
@@ -104,10 +104,10 @@ Base Game Achievements:
   Description: Complete The Meadow
   GS: '90'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '90'
+  Number of Gamers: 63
+  Percentage of Gamers: 68%
+  Ratio: 1.21
+  TA: '109'
   Tags:
   - Offline Mode
   - Single Player
@@ -115,11 +115,11 @@ Base Game Achievements:
 - Achievement Name: Brighten The Corners
   Description: Complete Sub Rosa
   GS: '100'
-  Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '100'
+  Guide: true
+  Number of Gamers: 60
+  Percentage of Gamers: 65%
+  Ratio: 1.24
+  TA: '124'
   Tags:
   - Offline Mode
   - Single Player
@@ -127,79 +127,79 @@ Base Game Achievements:
 - Achievement Name: Dance Party
   Description: Dance with a villager
   GS: '10'
-  Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '10'
+  Guide: true
+  Number of Gamers: 56
+  Percentage of Gamers: 60%
+  Ratio: 1.28
+  TA: '12'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Break Todd and Lucie's Hearts
   Description: Mute the music
   GS: '10'
-  Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '10'
+  Guide: true
+  Number of Gamers: 58
+  Percentage of Gamers: 62%
+  Ratio: 1.26
+  TA: '12'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: A Relaxing Break
   Description: Sit in the village
   GS: '10'
-  Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '10'
+  Guide: true
+  Number of Gamers: 52
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '13'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Botanist
   Description: Bloom every lily pad flower in The Hidden Fens
   GS: '10'
-  Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '10'
+  Guide: true
+  Number of Gamers: 55
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '13'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Metamorphosis
   Description: Complete The Garden of Life
   GS: '50'
-  Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '50'
+  Guide: true
+  Number of Gamers: 60
+  Percentage of Gamers: 65%
+  Ratio: 1.24
+  TA: '62'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.0
-Base TA: 1000
+Base Ratio: 1.152
+Base TA: 1152
 Delisted: false
 Developer: ustwo games
 Game Name: Monument Valley 3
 Genres: Puzzle
 Install Size: 845.0
-Number of Completions: 0
-Number of Gamers: 1
+Number of Completions: 49
+Number of Gamers: 93
 Overall Completion Time:
-- -1
-- -1
+- 2.0
+- 3.0
 Overall GS: 1000
-Overall Ratio: 1.0
-Overall TA: 1000
+Overall Ratio: 1.152
+Overall TA: 1152
 PDU: 0
-Percentage Completed: 0.0
+Percentage Completed: 52.69
 Publisher: ustwo games
 Release Date: 22 July 2025
 Server Closure: false
-Site Rating: None
+Site Rating: 4.6
 Update Achievements: []
 Walkthrough: false

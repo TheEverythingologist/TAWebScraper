@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 16
-- 17
+- 14
+- 15
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Baseball
   Description: "Let\u2019s play baseball"
   GS: '20'
   Guide: true
-  Number of Gamers: 198
+  Number of Gamers: 205
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '20'
@@ -19,7 +19,7 @@ Base Game Achievements:
   Description: The King of Slugs has fallen
   GS: '30'
   Guide: false
-  Number of Gamers: 104
+  Number of Gamers: 109
   Percentage of Gamers: 53%
   Ratio: 1.37
   TA: '41'
@@ -30,9 +30,9 @@ Base Game Achievements:
   Description: Cthulhu has been slain
   GS: '30'
   Guide: false
-  Number of Gamers: 75
-  Percentage of Gamers: 38%
-  Ratio: 1.62
+  Number of Gamers: 80
+  Percentage of Gamers: 39%
+  Ratio: 1.6
   TA: '48'
   Tags:
   - Offline Game Mode
@@ -41,10 +41,10 @@ Base Game Achievements:
   Description: Hydrophobe is dead
   GS: '30'
   Guide: false
-  Number of Gamers: 55
-  Percentage of Gamers: 28%
-  Ratio: 1.89
-  TA: '56'
+  Number of Gamers: 60
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '55'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -52,10 +52,10 @@ Base Game Achievements:
   Description: The Keeper of the Underworld has been annihilated
   GS: '30'
   Guide: false
-  Number of Gamers: 61
-  Percentage of Gamers: 31%
-  Ratio: 1.8
-  TA: '54'
+  Number of Gamers: 66
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '52'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -63,10 +63,10 @@ Base Game Achievements:
   Description: The Rat King has been destroyed
   GS: '30'
   Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 16%
-  Ratio: 2.52
-  TA: '75'
+  Number of Gamers: 36
+  Percentage of Gamers: 18%
+  Ratio: 2.38
+  TA: '71'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -74,10 +74,10 @@ Base Game Achievements:
   Description: The Needler is neutralized
   GS: '30'
   Guide: false
-  Number of Gamers: 44
-  Percentage of Gamers: 22%
-  Ratio: 2.12
-  TA: '63'
+  Number of Gamers: 49
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '61'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -85,10 +85,10 @@ Base Game Achievements:
   Description: The Keeper has been slaughtered
   GS: '30'
   Guide: false
-  Number of Gamers: 43
-  Percentage of Gamers: 22%
-  Ratio: 2.14
-  TA: '64'
+  Number of Gamers: 48
+  Percentage of Gamers: 23%
+  Ratio: 2.06
+  TA: '61'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -96,10 +96,10 @@ Base Game Achievements:
   Description: Albert has been executed
   GS: '50'
   Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 15%
-  Ratio: 2.56
-  TA: '128'
+  Number of Gamers: 34
+  Percentage of Gamers: 17%
+  Ratio: 2.45
+  TA: '122'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -107,10 +107,10 @@ Base Game Achievements:
   Description: Brotherly Love
   GS: '30'
   Guide: true
-  Number of Gamers: 33
-  Percentage of Gamers: 17%
-  Ratio: 2.44
-  TA: '73'
+  Number of Gamers: 37
+  Percentage of Gamers: 18%
+  Ratio: 2.35
+  TA: '70'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -118,10 +118,10 @@ Base Game Achievements:
   Description: "I\u2019m the boss here"
   GS: '20'
   Guide: true
-  Number of Gamers: 33
-  Percentage of Gamers: 17%
-  Ratio: 2.44
-  TA: '48'
+  Number of Gamers: 37
+  Percentage of Gamers: 18%
+  Ratio: 2.35
+  TA: '47'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -129,9 +129,9 @@ Base Game Achievements:
   Description: "You\u2019re on your own"
   GS: '20'
   Guide: true
-  Number of Gamers: 59
+  Number of Gamers: 62
   Percentage of Gamers: 30%
-  Ratio: 1.83
+  Ratio: 1.81
   TA: '36'
   Tags:
   - Offline Game Mode
@@ -140,10 +140,10 @@ Base Game Achievements:
   Description: Calvin's alive
   GS: '30'
   Guide: true
-  Number of Gamers: 40
-  Percentage of Gamers: 20%
-  Ratio: 2.22
-  TA: '66'
+  Number of Gamers: 43
+  Percentage of Gamers: 21%
+  Ratio: 2.18
+  TA: '65'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -151,10 +151,10 @@ Base Game Achievements:
   Description: Calvin's dead
   GS: '30'
   Guide: true
-  Number of Gamers: 44
-  Percentage of Gamers: 22%
-  Ratio: 2.12
-  TA: '63'
+  Number of Gamers: 49
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '61'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -162,10 +162,10 @@ Base Game Achievements:
   Description: Bonus weapon
   GS: '50'
   Guide: true
-  Number of Gamers: 40
-  Percentage of Gamers: 20%
-  Ratio: 2.22
-  TA: '111'
+  Number of Gamers: 44
+  Percentage of Gamers: 21%
+  Ratio: 2.15
+  TA: '107'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -173,10 +173,10 @@ Base Game Achievements:
   Description: All collectables have been found
   GS: '50'
   Guide: true
-  Number of Gamers: 11
+  Number of Gamers: 12
   Percentage of Gamers: 6%
-  Ratio: 4.24
-  TA: '212'
+  Ratio: 4.13
+  TA: '206'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -184,10 +184,10 @@ Base Game Achievements:
   Description: Got all endings
   GS: '50'
   Guide: true
-  Number of Gamers: 9
+  Number of Gamers: 10
   Percentage of Gamers: 5%
-  Ratio: 4.69
-  TA: '234'
+  Ratio: 4.52
+  TA: '226'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -195,10 +195,10 @@ Base Game Achievements:
   Description: Be right back
   GS: '30'
   Guide: true
-  Number of Gamers: 32
-  Percentage of Gamers: 16%
-  Ratio: 2.48
-  TA: '74'
+  Number of Gamers: 34
+  Percentage of Gamers: 17%
+  Ratio: 2.45
+  TA: '73'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -206,10 +206,10 @@ Base Game Achievements:
   Description: Drown 5 times
   GS: '30'
   Guide: false
-  Number of Gamers: 29
+  Number of Gamers: 31
   Percentage of Gamers: 15%
-  Ratio: 2.65
-  TA: '79'
+  Ratio: 2.57
+  TA: '77'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -217,10 +217,10 @@ Base Game Achievements:
   Description: Fall off a hoverboard 5 times
   GS: '30'
   Guide: false
-  Number of Gamers: 40
-  Percentage of Gamers: 20%
-  Ratio: 2.22
-  TA: '66'
+  Number of Gamers: 45
+  Percentage of Gamers: 22%
+  Ratio: 2.13
+  TA: '64'
   Tags:
   - Offline Mode
   - Single Player
@@ -229,10 +229,10 @@ Base Game Achievements:
   Description: Die 25 times
   GS: '20'
   Guide: false
-  Number of Gamers: 60
-  Percentage of Gamers: 30%
-  Ratio: 1.81
-  TA: '36'
+  Number of Gamers: 65
+  Percentage of Gamers: 32%
+  Ratio: 1.77
+  TA: '35'
   Tags:
   - Offline Mode
   - Single Player
@@ -241,10 +241,10 @@ Base Game Achievements:
   Description: Gobbled up
   GS: '40'
   Guide: false
-  Number of Gamers: 49
+  Number of Gamers: 52
   Percentage of Gamers: 25%
-  Ratio: 2.01
-  TA: '80'
+  Ratio: 1.98
+  TA: '79'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -252,10 +252,10 @@ Base Game Achievements:
   Description: Abyss-mal fall
   GS: '30'
   Guide: true
-  Number of Gamers: 31
+  Number of Gamers: 33
   Percentage of Gamers: 16%
-  Ratio: 2.52
-  TA: '75'
+  Ratio: 2.49
+  TA: '74'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -263,10 +263,10 @@ Base Game Achievements:
   Description: Yay!
   GS: '30'
   Guide: true
-  Number of Gamers: 12
+  Number of Gamers: 13
   Percentage of Gamers: 6%
-  Ratio: 4.06
-  TA: '121'
+  Ratio: 3.97
+  TA: '119'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -274,10 +274,10 @@ Base Game Achievements:
   Description: High jump
   GS: '20'
   Guide: false
-  Number of Gamers: 59
-  Percentage of Gamers: 30%
-  Ratio: 1.83
-  TA: '36'
+  Number of Gamers: 64
+  Percentage of Gamers: 31%
+  Ratio: 1.78
+  TA: '35'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -285,10 +285,10 @@ Base Game Achievements:
   Description: Jet pack found
   GS: '30'
   Guide: false
-  Number of Gamers: 38
-  Percentage of Gamers: 19%
-  Ratio: 2.28
-  TA: '68'
+  Number of Gamers: 43
+  Percentage of Gamers: 21%
+  Ratio: 2.18
+  TA: '65'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -296,10 +296,10 @@ Base Game Achievements:
   Description: Hoverboard found
   GS: '30'
   Guide: false
-  Number of Gamers: 44
-  Percentage of Gamers: 22%
-  Ratio: 2.12
-  TA: '63'
+  Number of Gamers: 49
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '61'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -307,10 +307,10 @@ Base Game Achievements:
   Description: Piece of cake
   GS: '30'
   Guide: false
-  Number of Gamers: 32
-  Percentage of Gamers: 16%
-  Ratio: 2.48
-  TA: '74'
+  Number of Gamers: 36
+  Percentage of Gamers: 18%
+  Ratio: 2.38
+  TA: '71'
   Tags:
   - Offline Mode
   - Single Player
@@ -321,10 +321,10 @@ Base Game Achievements:
   Description: Everything in moderation
   GS: '40'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 9%
-  Ratio: 3.31
-  TA: '132'
+  Number of Gamers: 21
+  Percentage of Gamers: 10%
+  Ratio: 3.12
+  TA: '124'
   Tags:
   - Offline Mode
   - Single Player
@@ -335,10 +335,10 @@ Base Game Achievements:
   Description: Huh, am I still alive?
   GS: '50'
   Guide: false
-  Number of Gamers: 12
+  Number of Gamers: 13
   Percentage of Gamers: 6%
-  Ratio: 4.06
-  TA: '203'
+  Ratio: 3.97
+  TA: '198'
   Tags:
   - Offline Mode
   - Single Player
@@ -349,30 +349,30 @@ Base Game Achievements:
   Description: Robot X01 has been destroyed
   GS: '30'
   Guide: false
-  Number of Gamers: 38
-  Percentage of Gamers: 19%
-  Ratio: 2.28
-  TA: '68'
+  Number of Gamers: 43
+  Percentage of Gamers: 21%
+  Ratio: 2.18
+  TA: '65'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 2.567
-Base TA: 2567
+Base Ratio: 2.489
+Base TA: 2489
 Delisted: false
 Developer: Big Way Games
 Game Name: One Dog Story
 Genres: Platformer, Run & Gun
 Install Size: 1650.0
-Number of Completions: 9
-Number of Gamers: 198
+Number of Completions: 10
+Number of Gamers: 205
 Overall Completion Time:
-- 16
-- 17
+- 14
+- 15
 Overall GS: 1000
-Overall Ratio: 2.567
-Overall TA: 2567
+Overall Ratio: 2.489
+Overall TA: 2489
 PDU: 0
-Percentage Completed: 4.55
+Percentage Completed: 4.88
 Publisher: Big Way Games
 Release Date: 13 July 2020
 Server Closure: false

@@ -1,15 +1,15 @@
 Add On Achievements: []
 Base Completion Time:
-- 160
-- 161
+- 80.0
+- 100.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: First bus stop
   Description: Build a bus stop in free game.
   GS: '10'
   Guide: false
-  Number of Gamers: 933
-  Percentage of Gamers: 62%
+  Number of Gamers: 1070
+  Percentage of Gamers: 61%
   Ratio: 1.27
   TA: '12'
   Tags:
@@ -19,7 +19,7 @@ Base Game Achievements:
   Description: Build a passenger train station in free game.
   GS: '10'
   Guide: false
-  Number of Gamers: 791
+  Number of Gamers: 915
   Percentage of Gamers: 52%
   Ratio: 1.38
   TA: '13'
@@ -30,7 +30,7 @@ Base Game Achievements:
   Description: Create a line with at least two stops in free game.
   GS: '10'
   Guide: false
-  Number of Gamers: 1095
+  Number of Gamers: 1260
   Percentage of Gamers: 72%
   Ratio: 1.17
   TA: '11'
@@ -41,7 +41,7 @@ Base Game Achievements:
   Description: Buy a bus and run a line in free game.
   GS: '10'
   Guide: false
-  Number of Gamers: 864
+  Number of Gamers: 988
   Percentage of Gamers: 57%
   Ratio: 1.32
   TA: '13'
@@ -52,9 +52,9 @@ Base Game Achievements:
   Description: Buy a steam train and run a line in free game.
   GS: '10'
   Guide: false
-  Number of Gamers: 820
+  Number of Gamers: 940
   Percentage of Gamers: 54%
-  Ratio: 1.35
+  Ratio: 1.36
   TA: '13'
   Tags:
   - Offline Game Mode
@@ -63,9 +63,9 @@ Base Game Achievements:
   Description: Buy a ship and run a line in free game.
   GS: '10'
   Guide: false
-  Number of Gamers: 564
+  Number of Gamers: 645
   Percentage of Gamers: 37%
-  Ratio: 1.63
+  Ratio: 1.64
   TA: '16'
   Tags:
   - Offline Game Mode
@@ -74,9 +74,9 @@ Base Game Achievements:
   Description: Buy an electric train and run a line in free game.
   GS: '10'
   Guide: false
-  Number of Gamers: 576
+  Number of Gamers: 657
   Percentage of Gamers: 38%
-  Ratio: 1.62
+  Ratio: 1.63
   TA: '16'
   Tags:
   - Offline Game Mode
@@ -85,9 +85,9 @@ Base Game Achievements:
   Description: Buy an aircraft and run a line in free game.
   GS: '10'
   Guide: false
-  Number of Gamers: 494
+  Number of Gamers: 568
   Percentage of Gamers: 33%
-  Ratio: 1.74
+  Ratio: 1.75
   TA: '17'
   Tags:
   - Offline Game Mode
@@ -96,8 +96,8 @@ Base Game Achievements:
   Description: Setup a line so that town residents use your vehicles in free game.
   GS: '10'
   Guide: false
-  Number of Gamers: 889
-  Percentage of Gamers: 59%
+  Number of Gamers: 1020
+  Percentage of Gamers: 58%
   Ratio: 1.3
   TA: '13'
   Tags:
@@ -107,7 +107,7 @@ Base Game Achievements:
   Description: Have a passenger on a vehicle in free game.
   GS: '10'
   Guide: false
-  Number of Gamers: 879
+  Number of Gamers: 1008
   Percentage of Gamers: 58%
   Ratio: 1.31
   TA: '13'
@@ -118,7 +118,7 @@ Base Game Achievements:
   Description: Let a manufacturing industry upgrade in free game.
   GS: '10'
   Guide: false
-  Number of Gamers: 670
+  Number of Gamers: 768
   Percentage of Gamers: 44%
   Ratio: 1.5
   TA: '15'
@@ -129,9 +129,9 @@ Base Game Achievements:
   Description: Accumulate a fortune of 1 million (without debt) in free game.
   GS: '15'
   Guide: false
-  Number of Gamers: 642
+  Number of Gamers: 735
   Percentage of Gamers: 42%
-  Ratio: 1.53
+  Ratio: 1.54
   TA: '23'
   Tags:
   - Offline Game Mode
@@ -140,7 +140,7 @@ Base Game Achievements:
   Description: Accumulate a fortune of 10 millions (without debt) in free game.
   GS: '15'
   Guide: false
-  Number of Gamers: 603
+  Number of Gamers: 694
   Percentage of Gamers: 40%
   Ratio: 1.58
   TA: '23'
@@ -151,7 +151,7 @@ Base Game Achievements:
   Description: Accumulate a fortune of 100 millions (without debt) in free game.
   GS: '15'
   Guide: false
-  Number of Gamers: 477
+  Number of Gamers: 551
   Percentage of Gamers: 32%
   Ratio: 1.78
   TA: '26'
@@ -162,9 +162,9 @@ Base Game Achievements:
   Description: Accumulate a fortune of 1 billion (without debt) in free game.
   GS: '15'
   Guide: false
-  Number of Gamers: 287
+  Number of Gamers: 330
   Percentage of Gamers: 19%
-  Ratio: 2.29
+  Ratio: 2.3
   TA: '34'
   Tags:
   - Offline Game Mode
@@ -173,11 +173,11 @@ Base Game Achievements:
   Description: Accumulate a fortune of 100 millions (without debt) in free game with
     hard mode.
   GS: '30'
-  Guide: false
-  Number of Gamers: 107
-  Percentage of Gamers: 7%
-  Ratio: 3.75
-  TA: '112'
+  Guide: true
+  Number of Gamers: 136
+  Percentage of Gamers: 8%
+  Ratio: 3.58
+  TA: '107'
   Tags:
   - Offline Mode
   - Single Player
@@ -186,11 +186,11 @@ Base Game Achievements:
   Description: Accumulate a fortune of 1 billion (without debt) in free game with
     hard mode.
   GS: '15'
-  Guide: false
-  Number of Gamers: 89
+  Guide: true
+  Number of Gamers: 110
   Percentage of Gamers: 6%
-  Ratio: 4.12
-  TA: '61'
+  Ratio: 3.98
+  TA: '59'
   Tags:
   - Offline Mode
   - Single Player
@@ -199,9 +199,9 @@ Base Game Achievements:
   Description: Have a cargo item waiting at a terminal in free game.
   GS: '10'
   Guide: false
-  Number of Gamers: 986
+  Number of Gamers: 1133
   Percentage of Gamers: 65%
-  Ratio: 1.23
+  Ratio: 1.24
   TA: '12'
   Tags:
   - Offline Game Mode
@@ -210,8 +210,8 @@ Base Game Achievements:
   Description: Have a cargo item transported with one of your vehicles in free game.
   GS: '10'
   Guide: false
-  Number of Gamers: 977
-  Percentage of Gamers: 65%
+  Number of Gamers: 1121
+  Percentage of Gamers: 64%
   Ratio: 1.24
   TA: '12'
   Tags:
@@ -221,9 +221,9 @@ Base Game Achievements:
   Description: Have a train filled with at least 100 passengers in free game.
   GS: '20'
   Guide: false
-  Number of Gamers: 353
+  Number of Gamers: 401
   Percentage of Gamers: 23%
-  Ratio: 2.06
+  Ratio: 2.08
   TA: '41'
   Tags:
   - Offline Game Mode
@@ -232,10 +232,10 @@ Base Game Achievements:
   Description: Have a train filled with at least 200 passengers in free game.
   GS: '20'
   Guide: false
-  Number of Gamers: 152
+  Number of Gamers: 178
   Percentage of Gamers: 10%
-  Ratio: 3.15
-  TA: '63'
+  Ratio: 3.13
+  TA: '62'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -243,7 +243,7 @@ Base Game Achievements:
   Description: Have a train filled with at least 250 cargo items in free game.
   GS: '20'
   Guide: false
-  Number of Gamers: 291
+  Number of Gamers: 338
   Percentage of Gamers: 19%
   Ratio: 2.27
   TA: '45'
@@ -254,10 +254,10 @@ Base Game Achievements:
   Description: Have a town with a population of at least 750 in free game.
   GS: '20'
   Guide: false
-  Number of Gamers: 302
-  Percentage of Gamers: 20%
-  Ratio: 2.23
-  TA: '44'
+  Number of Gamers: 338
+  Percentage of Gamers: 19%
+  Ratio: 2.27
+  TA: '45'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -265,21 +265,21 @@ Base Game Achievements:
   Description: Have a town with a population of at least 1500 in free game.
   GS: '20'
   Guide: true
-  Number of Gamers: 42
+  Number of Gamers: 55
   Percentage of Gamers: 3%
-  Ratio: 6.0
-  TA: '120'
+  Ratio: 5.63
+  TA: '112'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Glacier express
   Description: Have a train that reaches higher than 450 meters in free game.
   GS: '20'
-  Guide: false
-  Number of Gamers: 68
-  Percentage of Gamers: 4%
-  Ratio: 4.71
-  TA: '94'
+  Guide: true
+  Number of Gamers: 85
+  Percentage of Gamers: 5%
+  Ratio: 4.53
+  TA: '90'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -288,10 +288,10 @@ Base Game Achievements:
     free game.
   GS: '15'
   Guide: false
-  Number of Gamers: 75
+  Number of Gamers: 93
   Percentage of Gamers: 5%
-  Ratio: 4.49
-  TA: '67'
+  Ratio: 4.33
+  TA: '65'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -299,9 +299,9 @@ Base Game Achievements:
   Description: Reach 400 production at a manufacturing industry in free game.
   GS: '20'
   Guide: false
-  Number of Gamers: 406
+  Number of Gamers: 467
   Percentage of Gamers: 27%
-  Ratio: 1.92
+  Ratio: 1.93
   TA: '38'
   Tags:
   - Offline Game Mode
@@ -310,10 +310,10 @@ Base Game Achievements:
   Description: Build a train line with at least 10 trains in motion in free game.
   GS: '20'
   Guide: true
-  Number of Gamers: 106
-  Percentage of Gamers: 7%
-  Ratio: 3.77
-  TA: '75'
+  Number of Gamers: 132
+  Percentage of Gamers: 8%
+  Ratio: 3.63
+  TA: '72'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -321,9 +321,9 @@ Base Game Achievements:
   Description: Earn 50 millions not using any train in free game.
   GS: '15'
   Guide: false
-  Number of Gamers: 176
+  Number of Gamers: 208
   Percentage of Gamers: 12%
-  Ratio: 2.93
+  Ratio: 2.89
   TA: '43'
   Tags:
   - Offline Game Mode
@@ -333,10 +333,10 @@ Base Game Achievements:
     game.
   GS: '15'
   Guide: false
-  Number of Gamers: 124
+  Number of Gamers: 148
   Percentage of Gamers: 8%
-  Ratio: 3.49
-  TA: '52'
+  Ratio: 3.43
+  TA: '51'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -344,10 +344,10 @@ Base Game Achievements:
   Description: Reach the year 2050 using only trains in free game.
   GS: '30'
   Guide: false
-  Number of Gamers: 80
-  Percentage of Gamers: 5%
-  Ratio: 4.34
-  TA: '130'
+  Number of Gamers: 101
+  Percentage of Gamers: 6%
+  Ratio: 4.15
+  TA: '124'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -355,11 +355,11 @@ Base Game Achievements:
   Description: Have a line with every passenger road vehicle type available from 1850
     to 2020 in free game.
   GS: '30'
-  Guide: false
-  Number of Gamers: 44
+  Guide: true
+  Number of Gamers: 61
   Percentage of Gamers: 3%
-  Ratio: 5.86
-  TA: '175'
+  Ratio: 5.35
+  TA: '160'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -367,7 +367,7 @@ Base Game Achievements:
   Description: Have at least 300 passengers waiting in a train station in free game.
   GS: '20'
   Guide: false
-  Number of Gamers: 248
+  Number of Gamers: 288
   Percentage of Gamers: 16%
   Ratio: 2.46
   TA: '49'
@@ -378,9 +378,9 @@ Base Game Achievements:
   Description: Don't take any additional loan until the year 2050 in free game.
   GS: '15'
   Guide: false
-  Number of Gamers: 194
+  Number of Gamers: 226
   Percentage of Gamers: 13%
-  Ratio: 2.79
+  Ratio: 2.78
   TA: '41'
   Tags:
   - Offline Game Mode
@@ -389,10 +389,10 @@ Base Game Achievements:
   Description: Reach a speed of at least 300 km/h with a train in free game.
   GS: '20'
   Guide: false
-  Number of Gamers: 92
+  Number of Gamers: 113
   Percentage of Gamers: 6%
-  Ratio: 4.05
-  TA: '81'
+  Ratio: 3.93
+  TA: '78'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -400,10 +400,10 @@ Base Game Achievements:
   Description: Reach a speed of at least 120 km/h with a train in free game.
   GS: '20'
   Guide: false
-  Number of Gamers: 528
-  Percentage of Gamers: 35%
-  Ratio: 1.69
-  TA: '33'
+  Number of Gamers: 597
+  Percentage of Gamers: 34%
+  Ratio: 1.71
+  TA: '34'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -411,7 +411,7 @@ Base Game Achievements:
   Description: Complete the first mission of the campaign.
   GS: '15'
   Guide: false
-  Number of Gamers: 1182
+  Number of Gamers: 1367
   Percentage of Gamers: 78%
   Ratio: 1.13
   TA: '16'
@@ -423,9 +423,9 @@ Base Game Achievements:
   Description: Complete the first era of the campaign.
   GS: '15'
   Guide: false
-  Number of Gamers: 443
+  Number of Gamers: 510
   Percentage of Gamers: 29%
-  Ratio: 1.84
+  Ratio: 1.85
   TA: '27'
   Tags:
   - Offline Mode
@@ -435,9 +435,9 @@ Base Game Achievements:
   Description: Complete the first and second era of the campaign.
   GS: '15'
   Guide: false
-  Number of Gamers: 211
+  Number of Gamers: 243
   Percentage of Gamers: 14%
-  Ratio: 2.67
+  Ratio: 2.68
   TA: '40'
   Tags:
   - Offline Mode
@@ -447,10 +447,10 @@ Base Game Achievements:
   Description: Complete the entire campaign.
   GS: '15'
   Guide: false
-  Number of Gamers: 119
+  Number of Gamers: 141
   Percentage of Gamers: 8%
-  Ratio: 3.56
-  TA: '53'
+  Ratio: 3.52
+  TA: '52'
   Tags:
   - Offline Mode
   - Single Player
@@ -459,7 +459,7 @@ Base Game Achievements:
   Description: Earn all medals in one of the campaign missions.
   GS: '15'
   Guide: false
-  Number of Gamers: 898
+  Number of Gamers: 1035
   Percentage of Gamers: 59%
   Ratio: 1.29
   TA: '19'
@@ -470,10 +470,10 @@ Base Game Achievements:
   Description: Earn all medals of the entire campaign.
   GS: '15'
   Guide: false
-  Number of Gamers: 74
+  Number of Gamers: 90
   Percentage of Gamers: 5%
-  Ratio: 4.52
-  TA: '67'
+  Ratio: 4.4
+  TA: '66'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -481,10 +481,10 @@ Base Game Achievements:
   Description: Travel back and forward in time using the time control in sandbox mode.
   GS: '15'
   Guide: true
-  Number of Gamers: 193
+  Number of Gamers: 225
   Percentage of Gamers: 13%
-  Ratio: 2.8
-  TA: '42'
+  Ratio: 2.78
+  TA: '41'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -492,9 +492,9 @@ Base Game Achievements:
   Description: Build the company headquarters in free game.
   GS: '20'
   Guide: false
-  Number of Gamers: 624
+  Number of Gamers: 711
   Percentage of Gamers: 41%
-  Ratio: 1.55
+  Ratio: 1.56
   TA: '31'
   Tags:
   - Offline Game Mode
@@ -503,10 +503,10 @@ Base Game Achievements:
   Description: Reach the maximum headquarters level in free game.
   GS: '20'
   Guide: true
-  Number of Gamers: 75
+  Number of Gamers: 91
   Percentage of Gamers: 5%
-  Ratio: 4.49
-  TA: '89'
+  Ratio: 4.38
+  TA: '87'
   Tags:
   - Offline Mode
   - Single Player
@@ -515,10 +515,10 @@ Base Game Achievements:
   Description: Have two trains stuck facing each other in free game.
   GS: '15'
   Guide: false
-  Number of Gamers: 543
+  Number of Gamers: 630
   Percentage of Gamers: 36%
   Ratio: 1.66
-  TA: '25'
+  TA: '24'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -526,10 +526,10 @@ Base Game Achievements:
   Description: Have 100km of railway tunnels in free game.
   GS: '20'
   Guide: false
-  Number of Gamers: 50
-  Percentage of Gamers: 3%
-  Ratio: 5.49
-  TA: '109'
+  Number of Gamers: 66
+  Percentage of Gamers: 4%
+  Ratio: 5.14
+  TA: '102'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -537,10 +537,10 @@ Base Game Achievements:
   Description: Have 50km of railway bridges in free game.
   GS: '20'
   Guide: true
-  Number of Gamers: 70
+  Number of Gamers: 87
   Percentage of Gamers: 5%
-  Ratio: 4.64
-  TA: '92'
+  Ratio: 4.48
+  TA: '89'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -548,10 +548,10 @@ Base Game Achievements:
   Description: Have 400km of tracks in free game.
   GS: '20'
   Guide: false
-  Number of Gamers: 60
+  Number of Gamers: 77
   Percentage of Gamers: 4%
-  Ratio: 5.02
-  TA: '100'
+  Ratio: 4.76
+  TA: '95'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -559,9 +559,9 @@ Base Game Achievements:
   Description: Play a free game in all three climates.
   GS: '15'
   Guide: false
-  Number of Gamers: 365
+  Number of Gamers: 414
   Percentage of Gamers: 24%
-  Ratio: 2.03
+  Ratio: 2.05
   TA: '30'
   Tags:
   - Offline Game Mode
@@ -570,10 +570,10 @@ Base Game Achievements:
   Description: Have a monthly maintenance cost of 200 million in free game.
   GS: '20'
   Guide: true
-  Number of Gamers: 37
-  Percentage of Gamers: 2%
-  Ratio: 6.39
-  TA: '127'
+  Number of Gamers: 49
+  Percentage of Gamers: 3%
+  Ratio: 5.97
+  TA: '119'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -581,7 +581,7 @@ Base Game Achievements:
   Description: Reach an emission value of 80 in a town in free game.
   GS: '20'
   Guide: false
-  Number of Gamers: 329
+  Number of Gamers: 381
   Percentage of Gamers: 22%
   Ratio: 2.14
   TA: '42'
@@ -592,9 +592,9 @@ Base Game Achievements:
   Description: Earn 1 million with ships within a month in free game.
   GS: '15'
   Guide: false
-  Number of Gamers: 350
+  Number of Gamers: 399
   Percentage of Gamers: 23%
-  Ratio: 2.07
+  Ratio: 2.09
   TA: '31'
   Tags:
   - Offline Mode
@@ -604,9 +604,9 @@ Base Game Achievements:
   Description: Earn 1 million with airplanes within a month in free game.
   GS: '15'
   Guide: false
-  Number of Gamers: 384
+  Number of Gamers: 439
   Percentage of Gamers: 25%
-  Ratio: 1.98
+  Ratio: 1.99
   TA: '29'
   Tags:
   - Offline Mode
@@ -616,7 +616,7 @@ Base Game Achievements:
   Description: Have at least 300 cargo items waiting at a train station in free game.
   GS: '20'
   Guide: false
-  Number of Gamers: 640
+  Number of Gamers: 740
   Percentage of Gamers: 42%
   Ratio: 1.53
   TA: '30'
@@ -628,10 +628,10 @@ Base Game Achievements:
     100km of tracks.
   GS: '20'
   Guide: false
-  Number of Gamers: 84
+  Number of Gamers: 102
   Percentage of Gamers: 6%
-  Ratio: 4.24
-  TA: '84'
+  Ratio: 4.13
+  TA: '82'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -639,10 +639,10 @@ Base Game Achievements:
   Description: Have a train longer than the longest possible station in free game.
   GS: '20'
   Guide: false
-  Number of Gamers: 164
+  Number of Gamers: 198
   Percentage of Gamers: 11%
-  Ratio: 3.03
-  TA: '60'
+  Ratio: 2.97
+  TA: '59'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -650,9 +650,9 @@ Base Game Achievements:
   Description: Reach the present in free game.
   GS: '15'
   Guide: false
-  Number of Gamers: 380
+  Number of Gamers: 443
   Percentage of Gamers: 25%
-  Ratio: 1.99
+  Ratio: 1.98
   TA: '29'
   Tags:
   - Offline Game Mode
@@ -661,10 +661,10 @@ Base Game Achievements:
   Description: Deliver every product to every city that requires it in free game.
   GS: '15'
   Guide: false
-  Number of Gamers: 104
+  Number of Gamers: 129
   Percentage of Gamers: 7%
-  Ratio: 3.81
-  TA: '57'
+  Ratio: 3.69
+  TA: '55'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -672,9 +672,9 @@ Base Game Achievements:
   Description: Use the terrain tool to change the terrain in free game.
   GS: '15'
   Guide: true
-  Number of Gamers: 604
-  Percentage of Gamers: 40%
-  Ratio: 1.58
+  Number of Gamers: 685
+  Percentage of Gamers: 39%
+  Ratio: 1.59
   TA: '23'
   Tags:
   - Offline Game Mode
@@ -683,30 +683,30 @@ Base Game Achievements:
   Description: Use the paint tool to change the terrain in free game.
   GS: '15'
   Guide: true
-  Number of Gamers: 330
+  Number of Gamers: 377
   Percentage of Gamers: 22%
-  Ratio: 2.14
+  Ratio: 2.15
   TA: '32'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 2.93
-Base TA: 2930
+Base Ratio: 2.848
+Base TA: 2848
 Delisted: false
 Developer: Urban Games
 Game Name: 'Transport Fever 2: Console Edition'
 Genres: Management
 Install Size: 27060.0
-Number of Completions: 19
-Number of Gamers: 1512
+Number of Completions: 28
+Number of Gamers: 1747
 Overall Completion Time:
-- 160
-- 161
+- 80.0
+- 100.0
 Overall GS: 1000
-Overall Ratio: 2.93
-Overall TA: 2930
+Overall Ratio: 2.848
+Overall TA: 2848
 PDU: 0
-Percentage Completed: 1.26
+Percentage Completed: 1.6
 Publisher: Nacon, Maximum Entertainment
 Release Date: 09 March 2023
 Server Closure: false

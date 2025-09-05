@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 1.0
-Base GS: 2000
+- 1.5
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: Start the job
   Description: Clean the first mud
   GS: '50'
   Guide: false
-  Number of Gamers: 122
+  Number of Gamers: 299
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '50'
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Complete obstacle course and unlock access tier Blue
   GS: '50'
   Guide: false
-  Number of Gamers: 119
-  Percentage of Gamers: 98%
-  Ratio: 1.01
-  TA: '50'
+  Number of Gamers: 287
+  Percentage of Gamers: 97%
+  Ratio: 1.02
+  TA: '51'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -31,10 +31,10 @@ Base Game Achievements:
   Description: Bring all punched cards to the cumputer at any level
   GS: '50'
   Guide: false
-  Number of Gamers: 118
+  Number of Gamers: 287
   Percentage of Gamers: 97%
-  Ratio: 1.01
-  TA: '50'
+  Ratio: 1.02
+  TA: '51'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -42,7 +42,7 @@ Base Game Achievements:
   Description: Complete any level
   GS: '100'
   Guide: false
-  Number of Gamers: 117
+  Number of Gamers: 286
   Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '102'
@@ -53,8 +53,8 @@ Base Game Achievements:
   Description: Insert your first floppy to open the door
   GS: '100'
   Guide: false
-  Number of Gamers: 111
-  Percentage of Gamers: 91%
+  Number of Gamers: 275
+  Percentage of Gamers: 93%
   Ratio: 1.04
   TA: '104'
   Tags:
@@ -64,8 +64,8 @@ Base Game Achievements:
   Description: Kill a bug of any type with your mop
   GS: '100'
   Guide: false
-  Number of Gamers: 118
-  Percentage of Gamers: 97%
+  Number of Gamers: 290
+  Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '101'
   Tags:
@@ -75,10 +75,10 @@ Base Game Achievements:
   Description: Complete at least 1 level at every access tier
   GS: '100'
   Guide: false
-  Number of Gamers: 106
-  Percentage of Gamers: 87%
-  Ratio: 1.07
-  TA: '107'
+  Number of Gamers: 263
+  Percentage of Gamers: 89%
+  Ratio: 1.06
+  TA: '106'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -86,10 +86,10 @@ Base Game Achievements:
   Description: Get 20% energy and unlock access tier Orange
   GS: '100'
   Guide: false
-  Number of Gamers: 109
-  Percentage of Gamers: 89%
-  Ratio: 1.05
-  TA: '105'
+  Number of Gamers: 275
+  Percentage of Gamers: 93%
+  Ratio: 1.04
+  TA: '104'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -97,10 +97,10 @@ Base Game Achievements:
   Description: Get 55% energy and unlock access tier Violet
   GS: '150'
   Guide: false
-  Number of Gamers: 107
-  Percentage of Gamers: 88%
-  Ratio: 1.06
-  TA: '160'
+  Number of Gamers: 266
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '158'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -108,43 +108,43 @@ Base Game Achievements:
   Description: Get 100% energy to turn on the Elevator and escape the mainframe
   GS: '200'
   Guide: false
-  Number of Gamers: 106
-  Percentage of Gamers: 87%
+  Number of Gamers: 260
+  Percentage of Gamers: 88%
   Ratio: 1.07
   TA: '214'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 1.047
-Base TA: 2094
+Base Ratio: 1.076
+Base TA: 3228
 Delisted: false
 Developer: Half-Face Games
 Game Name: Mainframent
 Genres: Platformer
 Install Size: 363.0
-Number of Completions: 105
-Number of Gamers: 122
+Number of Completions: 223
+Number of Gamers: 297
 Overall Completion Time:
 - 0.0
-- 1.0
-Overall GS: 2000
-Overall Ratio: 1.047
-Overall TA: 2094
+- 1.5
+Overall GS: 3000
+Overall Ratio: 1.076
+Overall TA: 3228
 PDU: 0
-Percentage Completed: 86.07
+Percentage Completed: 75.08
 Publisher: SilenGames
 Release Date: 25 June 2025
 Server Closure: false
-Site Rating: 1.5
+Site Rating: 2.38
 Update Achievements:
 - Achievement Name: Amped Up!
   Description: Collect all batteries on any level
   GS: '200'
   Guide: false
-  Number of Gamers: 117
+  Number of Gamers: 284
   Percentage of Gamers: 96%
   Ratio: 1.02
-  TA: '204'
+  TA: '205'
   Tags:
   - Offline Mode
   - Single Player
@@ -153,10 +153,10 @@ Update Achievements:
   Description: Collect 6 batteries
   GS: '200'
   Guide: false
-  Number of Gamers: 111
-  Percentage of Gamers: 91%
-  Ratio: 1.04
-  TA: '209'
+  Number of Gamers: 276
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '207'
   Tags:
   - Offline Mode
   - Single Player
@@ -165,10 +165,10 @@ Update Achievements:
   Description: Collect 12 batteries
   GS: '200'
   Guide: false
-  Number of Gamers: 109
-  Percentage of Gamers: 89%
-  Ratio: 1.05
-  TA: '211'
+  Number of Gamers: 275
+  Percentage of Gamers: 93%
+  Ratio: 1.04
+  TA: '208'
   Tags:
   - Offline Mode
   - Single Player
@@ -177,10 +177,10 @@ Update Achievements:
   Description: Collect 24 batteries
   GS: '200'
   Guide: false
-  Number of Gamers: 107
-  Percentage of Gamers: 88%
-  Ratio: 1.06
-  TA: '213'
+  Number of Gamers: 267
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '211'
   Tags:
   - Offline Mode
   - Single Player
@@ -189,12 +189,67 @@ Update Achievements:
   Description: Collect 48 batteries
   GS: '200'
   Guide: false
-  Number of Gamers: 106
-  Percentage of Gamers: 87%
-  Ratio: 1.07
-  TA: '214'
+  Number of Gamers: 263
+  Percentage of Gamers: 89%
+  Ratio: 1.06
+  TA: '212'
   Tags:
   - Offline Mode
   - Single Player
   - Collectable
+- Achievement Name: '404: Beetle Not Found'
+  Description: Kill the red beetle
+  GS: '200'
+  Guide: true
+  Number of Gamers: 228
+  Percentage of Gamers: 77%
+  Ratio: 1.14
+  TA: '228'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Invalid Fly Exception
+  Description: Eliminate the fly
+  GS: '200'
+  Guide: true
+  Number of Gamers: 226
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '229'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Brightness Fatal Error
+  Description: Smash the moth
+  GS: '200'
+  Guide: true
+  Number of Gamers: 227
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '229'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Web Crawler is missing
+  Description: Destroy the blue spider
+  GS: '200'
+  Guide: true
+  Number of Gamers: 226
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '229'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Sharp Debugging
+  Description: Crush the blue beetle onto spikes
+  GS: '200'
+  Guide: true
+  Number of Gamers: 227
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '229'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 Walkthrough: false

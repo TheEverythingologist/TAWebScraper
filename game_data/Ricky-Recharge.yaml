@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 24
-- 25
+- 22
+- 23
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Look at me go!
   Description: Destroy 50 bots
   GS: '15'
   Guide: false
-  Number of Gamers: 115
+  Number of Gamers: 121
   Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '15'
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Use Turbospeed for at least 18 sec
   GS: '15'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 14%
-  Ratio: 2.65
-  TA: '39'
+  Number of Gamers: 19
+  Percentage of Gamers: 15%
+  Ratio: 2.56
+  TA: '38'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,7 +32,7 @@ Base Game Achievements:
   Description: Stay supercharged for at least 18 sec
   GS: '15'
   Guide: false
-  Number of Gamers: 30
+  Number of Gamers: 31
   Percentage of Gamers: 25%
   Ratio: 2.0
   TA: '30'
@@ -44,9 +44,9 @@ Base Game Achievements:
   Description: Destroy 10 bots with a single shield
   GS: '15'
   Guide: false
-  Number of Gamers: 20
+  Number of Gamers: 21
   Percentage of Gamers: 17%
-  Ratio: 2.44
+  Ratio: 2.43
   TA: '36'
   Tags:
   - Offline Game Mode
@@ -55,10 +55,10 @@ Base Game Achievements:
   Description: Stay in a shield for at least 18 sec
   GS: '15'
   Guide: false
-  Number of Gamers: 22
+  Number of Gamers: 23
   Percentage of Gamers: 18%
   Ratio: 2.33
-  TA: '35'
+  TA: '34'
   Tags:
   - Offline Mode
   - Single Player
@@ -67,7 +67,7 @@ Base Game Achievements:
   Description: Scan more than 100 times
   GS: '15'
   Guide: false
-  Number of Gamers: 24
+  Number of Gamers: 25
   Percentage of Gamers: 20%
   Ratio: 2.23
   TA: '33'
@@ -79,10 +79,10 @@ Base Game Achievements:
   Description: Play the game for over 10 hours
   GS: '15'
   Guide: false
-  Number of Gamers: 8
+  Number of Gamers: 9
   Percentage of Gamers: 7%
-  Ratio: 3.87
-  TA: '58'
+  Ratio: 3.72
+  TA: '55'
   Tags:
   - Offline Mode
   - Single Player
@@ -91,10 +91,10 @@ Base Game Achievements:
   Description: Destroy 10 or more bots using a single blast
   GS: '15'
   Guide: false
-  Number of Gamers: 12
+  Number of Gamers: 13
   Percentage of Gamers: 10%
-  Ratio: 3.16
-  TA: '47'
+  Ratio: 3.1
+  TA: '46'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -102,10 +102,10 @@ Base Game Achievements:
   Description: Destroy 500 bots using shield
   GS: '15'
   Guide: false
-  Number of Gamers: 12
+  Number of Gamers: 13
   Percentage of Gamers: 10%
-  Ratio: 3.16
-  TA: '47'
+  Ratio: 3.1
+  TA: '46'
   Tags:
   - Offline Mode
   - Single Player
@@ -114,7 +114,7 @@ Base Game Achievements:
   Description: Destroy 1337 bots
   GS: '15'
   Guide: false
-  Number of Gamers: 30
+  Number of Gamers: 31
   Percentage of Gamers: 25%
   Ratio: 2.0
   TA: '30'
@@ -126,10 +126,10 @@ Base Game Achievements:
   Description: Destroy 750 bots while Supercharged
   GS: '15'
   Guide: false
-  Number of Gamers: 12
+  Number of Gamers: 13
   Percentage of Gamers: 10%
-  Ratio: 3.16
-  TA: '47'
+  Ratio: 3.1
+  TA: '46'
   Tags:
   - Offline Mode
   - Single Player
@@ -138,10 +138,10 @@ Base Game Achievements:
   Description: Destroy 750 bots during Static Stasis
   GS: '65'
   Guide: true
-  Number of Gamers: 4
-  Percentage of Gamers: 3%
-  Ratio: 5.47
-  TA: '356'
+  Number of Gamers: 5
+  Percentage of Gamers: 4%
+  Ratio: 5.0
+  TA: '325'
   Tags:
   - Offline Mode
   - Single Player
@@ -150,10 +150,10 @@ Base Game Achievements:
   Description: Destroy 500 bots using ChargeBlast
   GS: '15'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 12%
-  Ratio: 2.82
-  TA: '42'
+  Number of Gamers: 16
+  Percentage of Gamers: 13%
+  Ratio: 2.79
+  TA: '41'
   Tags:
   - Offline Mode
   - Single Player
@@ -162,10 +162,10 @@ Base Game Achievements:
   Description: Survive 2 minutes without firing
   GS: '35'
   Guide: false
-  Number of Gamers: 8
+  Number of Gamers: 9
   Percentage of Gamers: 7%
-  Ratio: 3.87
-  TA: '135'
+  Ratio: 3.72
+  TA: '130'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -173,9 +173,9 @@ Base Game Achievements:
   Description: Accumulate 500 coins in a single game
   GS: '15'
   Guide: false
-  Number of Gamers: 17
+  Number of Gamers: 18
   Percentage of Gamers: 14%
-  Ratio: 2.65
+  Ratio: 2.63
   TA: '39'
   Tags:
   - Offline Game Mode
@@ -184,10 +184,10 @@ Base Game Achievements:
   Description: Play more than 50 games
   GS: '15'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 8%
-  Ratio: 3.46
-  TA: '51'
+  Number of Gamers: 11
+  Percentage of Gamers: 9%
+  Ratio: 3.37
+  TA: '50'
   Tags:
   - Offline Mode
   - Single Player
@@ -196,9 +196,9 @@ Base Game Achievements:
   Description: Earn Accuracy above 95%
   GS: '15'
   Guide: false
-  Number of Gamers: 71
-  Percentage of Gamers: 59%
-  Ratio: 1.3
+  Number of Gamers: 77
+  Percentage of Gamers: 61%
+  Ratio: 1.27
   TA: '19'
   Tags:
   - Offline Game Mode
@@ -207,7 +207,7 @@ Base Game Achievements:
   Description: Score 100.000 Points
   GS: '15'
   Guide: false
-  Number of Gamers: 77
+  Number of Gamers: 81
   Percentage of Gamers: 64%
   Ratio: 1.24
   TA: '18'
@@ -218,10 +218,10 @@ Base Game Achievements:
   Description: Score 2.500.000 Points
   GS: '15'
   Guide: false
-  Number of Gamers: 16
+  Number of Gamers: 17
   Percentage of Gamers: 13%
-  Ratio: 2.73
-  TA: '41'
+  Ratio: 2.71
+  TA: '40'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -229,9 +229,9 @@ Base Game Achievements:
   Description: Earn 100x Multiplier
   GS: '15'
   Guide: false
-  Number of Gamers: 14
+  Number of Gamers: 15
   Percentage of Gamers: 12%
-  Ratio: 2.92
+  Ratio: 2.88
   TA: '43'
   Tags:
   - Offline Game Mode
@@ -240,9 +240,9 @@ Base Game Achievements:
   Description: Upgrade Weapon to its maximum level
   GS: '15'
   Guide: false
-  Number of Gamers: 17
+  Number of Gamers: 18
   Percentage of Gamers: 14%
-  Ratio: 2.65
+  Ratio: 2.63
   TA: '39'
   Tags:
   - Offline Mode
@@ -252,10 +252,10 @@ Base Game Achievements:
   Description: Upgrade Scan ability to its maximum level
   GS: '15'
   Guide: false
-  Number of Gamers: 7
+  Number of Gamers: 8
   Percentage of Gamers: 6%
-  Ratio: 4.14
-  TA: '62'
+  Ratio: 3.95
+  TA: '59'
   Tags:
   - Offline Mode
   - Single Player
@@ -264,10 +264,10 @@ Base Game Achievements:
   Description: Upgrade Supercharge to its maximum level
   GS: '15'
   Guide: false
-  Number of Gamers: 12
+  Number of Gamers: 13
   Percentage of Gamers: 10%
-  Ratio: 3.16
-  TA: '47'
+  Ratio: 3.1
+  TA: '46'
   Tags:
   - Offline Mode
   - Single Player
@@ -276,10 +276,10 @@ Base Game Achievements:
   Description: Upgrade Speedboost to its maximum level
   GS: '15'
   Guide: false
-  Number of Gamers: 7
+  Number of Gamers: 8
   Percentage of Gamers: 6%
-  Ratio: 4.14
-  TA: '62'
+  Ratio: 3.95
+  TA: '59'
   Tags:
   - Offline Mode
   - Single Player
@@ -288,10 +288,10 @@ Base Game Achievements:
   Description: Upgrade Stamina to its maximum level
   GS: '15'
   Guide: false
-  Number of Gamers: 8
+  Number of Gamers: 9
   Percentage of Gamers: 7%
-  Ratio: 3.87
-  TA: '58'
+  Ratio: 3.72
+  TA: '55'
   Tags:
   - Offline Mode
   - Single Player
@@ -300,10 +300,10 @@ Base Game Achievements:
   Description: Upgrade Health to its maximum level
   GS: '15'
   Guide: false
-  Number of Gamers: 9
+  Number of Gamers: 10
   Percentage of Gamers: 8%
-  Ratio: 3.65
-  TA: '54'
+  Ratio: 3.53
+  TA: '53'
   Tags:
   - Offline Mode
   - Single Player
@@ -312,9 +312,9 @@ Base Game Achievements:
   Description: Buy an extra life
   GS: '15'
   Guide: false
-  Number of Gamers: 18
+  Number of Gamers: 19
   Percentage of Gamers: 15%
-  Ratio: 2.58
+  Ratio: 2.56
   TA: '38'
   Tags:
   - Offline Game Mode
@@ -323,10 +323,10 @@ Base Game Achievements:
   Description: Buy a total of 100 Upgrades
   GS: '15'
   Guide: false
-  Number of Gamers: 13
+  Number of Gamers: 14
   Percentage of Gamers: 11%
-  Ratio: 3.03
-  TA: '45'
+  Ratio: 2.98
+  TA: '44'
   Tags:
   - Offline Mode
   - Single Player
@@ -336,10 +336,10 @@ Base Game Achievements:
   Description: Upgrade Shield to its maximum level
   GS: '15'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 8%
-  Ratio: 3.46
-  TA: '51'
+  Number of Gamers: 11
+  Percentage of Gamers: 9%
+  Ratio: 3.37
+  TA: '50'
   Tags:
   - Offline Mode
   - Single Player
@@ -348,10 +348,10 @@ Base Game Achievements:
   Description: Destroy 50 bots from behind
   GS: '15'
   Guide: true
-  Number of Gamers: 16
+  Number of Gamers: 17
   Percentage of Gamers: 13%
-  Ratio: 2.73
-  TA: '41'
+  Ratio: 2.71
+  TA: '40'
   Tags:
   - Offline Mode
   - Single Player
@@ -360,10 +360,10 @@ Base Game Achievements:
   Description: Destroy 50 bots using an exploding drone
   GS: '65'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 9%
-  Ratio: 3.3
-  TA: '214'
+  Number of Gamers: 12
+  Percentage of Gamers: 10%
+  Ratio: 3.22
+  TA: '209'
   Tags:
   - Offline Mode
   - Single Player
@@ -372,7 +372,7 @@ Base Game Achievements:
   Description: Destroy 50 Drones
   GS: '15'
   Guide: false
-  Number of Gamers: 30
+  Number of Gamers: 31
   Percentage of Gamers: 25%
   Ratio: 2.0
   TA: '30'
@@ -384,10 +384,10 @@ Base Game Achievements:
   Description: Have 3 or more friends do their part
   GS: '15'
   Guide: true
-  Number of Gamers: 18
-  Percentage of Gamers: 15%
-  Ratio: 2.58
-  TA: '38'
+  Number of Gamers: 21
+  Percentage of Gamers: 17%
+  Ratio: 2.5
+  TA: '37'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -395,10 +395,10 @@ Base Game Achievements:
   Description: Destroy 10 heavybots using a shield
   GS: '15'
   Guide: false
-  Number of Gamers: 8
+  Number of Gamers: 9
   Percentage of Gamers: 7%
-  Ratio: 3.87
-  TA: '58'
+  Ratio: 3.72
+  TA: '55'
   Tags:
   - Offline Mode
   - Single Player
@@ -407,7 +407,7 @@ Base Game Achievements:
   Description: Destroy 50 heavybots
   GS: '15'
   Guide: false
-  Number of Gamers: 30
+  Number of Gamers: 31
   Percentage of Gamers: 25%
   Ratio: 2.0
   TA: '30'
@@ -419,9 +419,9 @@ Base Game Achievements:
   Description: Make 50 bots fly headfirst
   GS: '15'
   Guide: true
-  Number of Gamers: 14
+  Number of Gamers: 15
   Percentage of Gamers: 12%
-  Ratio: 2.92
+  Ratio: 2.88
   TA: '43'
   Tags:
   - Offline Mode
@@ -431,10 +431,10 @@ Base Game Achievements:
   Description: Buy everything available in the shop
   GS: '15'
   Guide: false
-  Number of Gamers: 34
-  Percentage of Gamers: 28%
-  Ratio: 1.87
-  TA: '28'
+  Number of Gamers: 36
+  Percentage of Gamers: 29%
+  Ratio: 1.86
+  TA: '27'
   Tags:
   - Offline Mode
   - Single Player
@@ -443,8 +443,8 @@ Base Game Achievements:
   Description: Buy your first upgrade
   GS: '15'
   Guide: false
-  Number of Gamers: 93
-  Percentage of Gamers: 78%
+  Number of Gamers: 97
+  Percentage of Gamers: 77%
   Ratio: 1.13
   TA: '17'
   Tags:
@@ -455,10 +455,10 @@ Base Game Achievements:
   Description: Leave the shop empty handed (when could have bought everything)
   GS: '15'
   Guide: false
-  Number of Gamers: 16
+  Number of Gamers: 17
   Percentage of Gamers: 13%
-  Ratio: 2.73
-  TA: '41'
+  Ratio: 2.71
+  TA: '40'
   Tags:
   - Offline Mode
   - Single Player
@@ -467,10 +467,10 @@ Base Game Achievements:
   Description: Resist 50 drone blasts
   GS: '35'
   Guide: true
-  Number of Gamers: 6
-  Percentage of Gamers: 5%
-  Ratio: 4.47
-  TA: '156'
+  Number of Gamers: 7
+  Percentage of Gamers: 6%
+  Ratio: 4.22
+  TA: '147'
   Tags:
   - Offline Mode
   - Single Player
@@ -479,10 +479,10 @@ Base Game Achievements:
   Description: Score 2.500.000 Points without using blast
   GS: '35'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 3%
-  Ratio: 5.47
-  TA: '191'
+  Number of Gamers: 5
+  Percentage of Gamers: 4%
+  Ratio: 5.0
+  TA: '175'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -490,10 +490,10 @@ Base Game Achievements:
   Description: Score 2.500.000 Points without scanning once
   GS: '35'
   Guide: false
-  Number of Gamers: 7
+  Number of Gamers: 8
   Percentage of Gamers: 6%
-  Ratio: 4.14
-  TA: '144'
+  Ratio: 3.95
+  TA: '138'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -501,10 +501,10 @@ Base Game Achievements:
   Description: Mount your first Robot
   GS: '15'
   Guide: false
-  Number of Gamers: 74
-  Percentage of Gamers: 62%
-  Ratio: 1.27
-  TA: '19'
+  Number of Gamers: 79
+  Percentage of Gamers: 63%
+  Ratio: 1.25
+  TA: '18'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -512,10 +512,10 @@ Base Game Achievements:
   Description: Destroy 20 bots using a single mount
   GS: '35'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 3%
-  Ratio: 5.47
-  TA: '191'
+  Number of Gamers: 5
+  Percentage of Gamers: 4%
+  Ratio: 5.0
+  TA: '175'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -523,10 +523,10 @@ Base Game Achievements:
   Description: Destroy 500 bots while mounted
   GS: '35'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 3%
-  Ratio: 5.47
-  TA: '191'
+  Number of Gamers: 5
+  Percentage of Gamers: 4%
+  Ratio: 5.0
+  TA: '175'
   Tags:
   - Offline Mode
   - Single Player
@@ -535,10 +535,10 @@ Base Game Achievements:
   Description: Use a Shield when mounted
   GS: '35'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 4%
-  Ratio: 4.89
-  TA: '171'
+  Number of Gamers: 6
+  Percentage of Gamers: 5%
+  Ratio: 4.56
+  TA: '159'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -546,10 +546,10 @@ Base Game Achievements:
   Description: Destroy at least 5 bots using a single self-destruct
   GS: '35'
   Guide: false
-  Number of Gamers: 8
+  Number of Gamers: 9
   Percentage of Gamers: 7%
-  Ratio: 3.87
-  TA: '135'
+  Ratio: 3.72
+  TA: '130'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -557,31 +557,31 @@ Base Game Achievements:
   Description: Make 10 or more robots self-destruct
   GS: '35'
   Guide: true
-  Number of Gamers: 18
+  Number of Gamers: 19
   Percentage of Gamers: 15%
-  Ratio: 2.58
-  TA: '90'
+  Ratio: 2.56
+  TA: '89'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 3.445
-Base TA: 3445
+Base Ratio: 3.291
+Base TA: 3291
 Delisted: false
 Developer: Team Recharge
 Game Name: Ricky Recharge
 Genres: Action-Adventure
 Install Size: 643.0
-Number of Completions: 3
-Number of Gamers: 120
+Number of Completions: 4
+Number of Gamers: 126
 Overall Completion Time:
-- 24
-- 25
+- 22
+- 23
 Overall GS: 1000
-Overall Ratio: 3.445
-Overall TA: 3445
+Overall Ratio: 3.291
+Overall TA: 3291
 PDU: 0
-Percentage Completed: 2.5
+Percentage Completed: 3.17
 Publisher: Silesia Games
 Release Date: 25 September 2024
 Server Closure: false

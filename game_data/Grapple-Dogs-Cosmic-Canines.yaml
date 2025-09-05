@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 13
 - 14
+- 15
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Learning the Ropes
   Description: Complete Pablo's tutorial.
   GS: '10'
   Guide: false
-  Number of Gamers: 88
+  Number of Gamers: 94
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '10'
@@ -20,9 +20,9 @@ Base Game Achievements:
   Description: Complete Luna's Tutorial.
   GS: '10'
   Guide: false
-  Number of Gamers: 80
-  Percentage of Gamers: 91%
-  Ratio: 1.04
+  Number of Gamers: 85
+  Percentage of Gamers: 90%
+  Ratio: 1.05
   TA: '10'
   Tags:
   - Offline Mode
@@ -32,9 +32,9 @@ Base Game Achievements:
   Description: Complete a Stage.
   GS: '5'
   Guide: false
-  Number of Gamers: 80
-  Percentage of Gamers: 91%
-  Ratio: 1.04
+  Number of Gamers: 85
+  Percentage of Gamers: 90%
+  Ratio: 1.05
   TA: '5'
   Tags:
   - Offline Mode
@@ -44,8 +44,8 @@ Base Game Achievements:
   Description: Complete a Time Trial.
   GS: '5'
   Guide: true
-  Number of Gamers: 66
-  Percentage of Gamers: 75%
+  Number of Gamers: 71
+  Percentage of Gamers: 76%
   Ratio: 1.15
   TA: '5'
   Tags:
@@ -56,9 +56,9 @@ Base Game Achievements:
   Description: Pet the dog.
   GS: '10'
   Guide: false
-  Number of Gamers: 41
-  Percentage of Gamers: 47%
-  Ratio: 1.46
+  Number of Gamers: 46
+  Percentage of Gamers: 49%
+  Ratio: 1.42
   TA: '14'
   Tags:
   - Offline Game Mode
@@ -67,9 +67,9 @@ Base Game Achievements:
   Description: Defeat Goolem.
   GS: '15'
   Guide: false
-  Number of Gamers: 80
-  Percentage of Gamers: 91%
-  Ratio: 1.04
+  Number of Gamers: 85
+  Percentage of Gamers: 90%
+  Ratio: 1.05
   TA: '15'
   Tags:
   - Offline Mode
@@ -79,8 +79,8 @@ Base Game Achievements:
   Description: Defeat Horra.
   GS: '15'
   Guide: false
-  Number of Gamers: 46
-  Percentage of Gamers: 52%
+  Number of Gamers: 50
+  Percentage of Gamers: 53%
   Ratio: 1.38
   TA: '20'
   Tags:
@@ -91,9 +91,9 @@ Base Game Achievements:
   Description: Defeat Destion.
   GS: '15'
   Guide: false
-  Number of Gamers: 35
+  Number of Gamers: 38
   Percentage of Gamers: 40%
-  Ratio: 1.58
+  Ratio: 1.57
   TA: '23'
   Tags:
   - Offline Mode
@@ -103,9 +103,9 @@ Base Game Achievements:
   Description: Defeat Pann.
   GS: '15'
   Guide: false
-  Number of Gamers: 32
-  Percentage of Gamers: 36%
-  Ratio: 1.65
+  Number of Gamers: 35
+  Percentage of Gamers: 37%
+  Ratio: 1.63
   TA: '24'
   Tags:
   - Offline Mode
@@ -115,10 +115,10 @@ Base Game Achievements:
   Description: Defeat Servi.
   GS: '15'
   Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 34%
-  Ratio: 1.74
-  TA: '26'
+  Number of Gamers: 33
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
@@ -127,10 +127,10 @@ Base Game Achievements:
   Description: Defeat Vyr once and for all.
   GS: '15'
   Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 34%
-  Ratio: 1.74
-  TA: '26'
+  Number of Gamers: 33
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
@@ -139,10 +139,10 @@ Base Game Achievements:
   Description: See the true ending.
   GS: '100'
   Guide: true
-  Number of Gamers: 20
-  Percentage of Gamers: 23%
-  Ratio: 2.09
-  TA: '209'
+  Number of Gamers: 23
+  Percentage of Gamers: 24%
+  Ratio: 2.02
+  TA: '202'
   Tags:
   - Offline Mode
   - Single Player
@@ -151,9 +151,9 @@ Base Game Achievements:
   Description: Collect all Tower of Balance Gems.
   GS: '20'
   Guide: false
-  Number of Gamers: 58
-  Percentage of Gamers: 66%
-  Ratio: 1.23
+  Number of Gamers: 63
+  Percentage of Gamers: 67%
+  Ratio: 1.22
   TA: '24'
   Tags:
   - Offline Mode
@@ -163,9 +163,9 @@ Base Game Achievements:
   Description: Collect all Generator Gems.
   GS: '20'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 30%
-  Ratio: 1.83
+  Number of Gamers: 29
+  Percentage of Gamers: 31%
+  Ratio: 1.8
   TA: '36'
   Tags:
   - Offline Mode
@@ -175,10 +175,10 @@ Base Game Achievements:
   Description: Collect all Garden Gems.
   GS: '20'
   Guide: false
-  Number of Gamers: 22
-  Percentage of Gamers: 25%
-  Ratio: 2.0
-  TA: '40'
+  Number of Gamers: 25
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '38'
   Tags:
   - Offline Mode
   - Single Player
@@ -187,10 +187,10 @@ Base Game Achievements:
   Description: Collect all Freezer Gems.
   GS: '20'
   Guide: false
-  Number of Gamers: 20
-  Percentage of Gamers: 23%
-  Ratio: 2.09
-  TA: '41'
+  Number of Gamers: 23
+  Percentage of Gamers: 24%
+  Ratio: 2.02
+  TA: '40'
   Tags:
   - Offline Mode
   - Single Player
@@ -199,10 +199,10 @@ Base Game Achievements:
   Description: Collect all Furnace Gems.
   GS: '20'
   Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 26%
-  Ratio: 1.95
-  TA: '39'
+  Number of Gamers: 26
+  Percentage of Gamers: 28%
+  Ratio: 1.9
+  TA: '38'
   Tags:
   - Offline Mode
   - Single Player
@@ -211,10 +211,10 @@ Base Game Achievements:
   Description: Collect all Hekk Gems.
   GS: '20'
   Guide: false
-  Number of Gamers: 22
-  Percentage of Gamers: 25%
-  Ratio: 2.0
-  TA: '40'
+  Number of Gamers: 25
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '38'
   Tags:
   - Offline Mode
   - Single Player
@@ -223,10 +223,10 @@ Base Game Achievements:
   Description: Collect all Gems.
   GS: '100'
   Guide: false
-  Number of Gamers: 20
-  Percentage of Gamers: 23%
-  Ratio: 2.09
-  TA: '209'
+  Number of Gamers: 23
+  Percentage of Gamers: 24%
+  Ratio: 2.02
+  TA: '202'
   Tags:
   - Offline Mode
   - Single Player
@@ -235,10 +235,10 @@ Base Game Achievements:
   Description: Complete all Tower of Balance Time Trials with a gold medal.
   GS: '20'
   Guide: false
-  Number of Gamers: 28
-  Percentage of Gamers: 32%
-  Ratio: 1.77
-  TA: '35'
+  Number of Gamers: 32
+  Percentage of Gamers: 34%
+  Ratio: 1.71
+  TA: '34'
   Tags:
   - Offline Mode
   - Single Player
@@ -247,10 +247,10 @@ Base Game Achievements:
   Description: Complete all Generator Time Trials with a gold medal.
   GS: '20'
   Guide: false
-  Number of Gamers: 19
-  Percentage of Gamers: 22%
-  Ratio: 2.15
-  TA: '43'
+  Number of Gamers: 22
+  Percentage of Gamers: 23%
+  Ratio: 2.11
+  TA: '42'
   Tags:
   - Offline Mode
   - Single Player
@@ -259,10 +259,10 @@ Base Game Achievements:
   Description: Complete all Garden Time Trials with a gold medal.
   GS: '20'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 20%
-  Ratio: 2.21
-  TA: '44'
+  Number of Gamers: 20
+  Percentage of Gamers: 21%
+  Ratio: 2.16
+  TA: '43'
   Tags:
   - Offline Mode
   - Single Player
@@ -271,10 +271,10 @@ Base Game Achievements:
   Description: Complete all Freezer Time Trials with a gold medal.
   GS: '20'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 19%
-  Ratio: 2.27
-  TA: '45'
+  Number of Gamers: 19
+  Percentage of Gamers: 20%
+  Ratio: 2.22
+  TA: '44'
   Tags:
   - Offline Mode
   - Single Player
@@ -283,10 +283,10 @@ Base Game Achievements:
   Description: Complete all Furnace Time Trials with a gold medal.
   GS: '20'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 19%
-  Ratio: 2.27
-  TA: '45'
+  Number of Gamers: 19
+  Percentage of Gamers: 20%
+  Ratio: 2.22
+  TA: '44'
   Tags:
   - Offline Mode
   - Single Player
@@ -295,10 +295,10 @@ Base Game Achievements:
   Description: Complete all Hekk Time Trials with a gold medal.
   GS: '20'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 19%
-  Ratio: 2.27
-  TA: '45'
+  Number of Gamers: 19
+  Percentage of Gamers: 20%
+  Ratio: 2.22
+  TA: '44'
   Tags:
   - Offline Mode
   - Single Player
@@ -307,10 +307,10 @@ Base Game Achievements:
   Description: Complete all Trials of Eggress Time Trials with a gold medal.
   GS: '20'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 19%
-  Ratio: 2.27
-  TA: '45'
+  Number of Gamers: 19
+  Percentage of Gamers: 20%
+  Ratio: 2.22
+  TA: '44'
   Tags:
   - Offline Mode
   - Single Player
@@ -319,10 +319,10 @@ Base Game Achievements:
   Description: Complete all Time Trials with a gold medal.
   GS: '100'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 19%
-  Ratio: 2.27
-  TA: '227'
+  Number of Gamers: 19
+  Percentage of Gamers: 20%
+  Ratio: 2.22
+  TA: '222'
   Tags:
   - Offline Mode
   - Single Player
@@ -331,10 +331,10 @@ Base Game Achievements:
   Description: Purchase everything Toni has to offer.
   GS: '30'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 18%
-  Ratio: 2.34
-  TA: '70'
+  Number of Gamers: 19
+  Percentage of Gamers: 20%
+  Ratio: 2.22
+  TA: '66'
   Tags:
   - Offline Mode
   - Single Player
@@ -343,10 +343,10 @@ Base Game Achievements:
   Description: Upgrade Pablo to maximum health.
   GS: '30'
   Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 35%
-  Ratio: 1.68
-  TA: '50'
+  Number of Gamers: 34
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '49'
   Tags:
   - Offline Mode
   - Single Player
@@ -355,10 +355,10 @@ Base Game Achievements:
   Description: Upgrade Luna to maximum health.
   GS: '30'
   Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 35%
-  Ratio: 1.68
-  TA: '50'
+  Number of Gamers: 34
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '49'
   Tags:
   - Offline Mode
   - Single Player
@@ -367,10 +367,10 @@ Base Game Achievements:
   Description: Unlock all Outfits.
   GS: '30'
   Guide: true
-  Number of Gamers: 16
-  Percentage of Gamers: 18%
-  Ratio: 2.34
-  TA: '70'
+  Number of Gamers: 19
+  Percentage of Gamers: 20%
+  Ratio: 2.22
+  TA: '66'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -378,10 +378,10 @@ Base Game Achievements:
   Description: Unlock all Custom Grappling Hooks.
   GS: '30'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 17%
-  Ratio: 2.42
-  TA: '72'
+  Number of Gamers: 18
+  Percentage of Gamers: 19%
+  Ratio: 2.28
+  TA: '68'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -389,10 +389,10 @@ Base Game Achievements:
   Description: Achieve 100% Completion.
   GS: '100'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 16%
-  Ratio: 2.5
-  TA: '250'
+  Number of Gamers: 16
+  Percentage of Gamers: 17%
+  Ratio: 2.42
+  TA: '242'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -400,10 +400,10 @@ Base Game Achievements:
   Description: Defeat Vyr without upgrading your health.
   GS: '30'
   Guide: true
-  Number of Gamers: 19
-  Percentage of Gamers: 22%
-  Ratio: 2.15
-  TA: '64'
+  Number of Gamers: 22
+  Percentage of Gamers: 23%
+  Ratio: 2.06
+  TA: '62'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -411,34 +411,34 @@ Base Game Achievements:
   Description: Find Every Duck Band.
   GS: '30'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 18%
-  Ratio: 2.34
-  TA: '70'
+  Number of Gamers: 18
+  Percentage of Gamers: 19%
+  Ratio: 2.28
+  TA: '68'
   Tags:
   - Offline Mode
   - Single Player
   - Collectable
-Base Ratio: 2.041
-Base TA: 2041
+Base Ratio: 1.981
+Base TA: 1981
 Delisted: false
 Developer: Medallion Games
 Game Name: 'Grapple Dogs: Cosmic Canines'
 Genres: Platformer
 Install Size: 805.0
-Number of Completions: 13
-Number of Gamers: 88
+Number of Completions: 15
+Number of Gamers: 94
 Overall Completion Time:
-- 13
 - 14
+- 15
 Overall GS: 1000
-Overall Ratio: 2.041
-Overall TA: 2041
+Overall Ratio: 1.981
+Overall TA: 1981
 PDU: 0
-Percentage Completed: 14.77
+Percentage Completed: 15.96
 Publisher: Super Rare Games
 Release Date: 12 September 2024
 Server Closure: false
-Site Rating: 4.7
+Site Rating: 4.5
 Update Achievements: []
 Walkthrough: false

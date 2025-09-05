@@ -1,15 +1,15 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 1.0
-Base GS: 2000
+- 1.5
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: Level 2
   Description: Complete Level 2
   GS: '70'
   Guide: false
-  Number of Gamers: 678
-  Percentage of Gamers: 99%
+  Number of Gamers: 920
+  Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '70'
   Tags:
@@ -20,9 +20,9 @@ Base Game Achievements:
   Description: Complete Level 4
   GS: '70'
   Guide: false
-  Number of Gamers: 654
+  Number of Gamers: 887
   Percentage of Gamers: 96%
-  Ratio: 1.01
+  Ratio: 1.02
   TA: '71'
   Tags:
   - Offline Mode
@@ -32,7 +32,7 @@ Base Game Achievements:
   Description: Complete Level 6
   GS: '70'
   Guide: false
-  Number of Gamers: 634
+  Number of Gamers: 861
   Percentage of Gamers: 93%
   Ratio: 1.03
   TA: '72'
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Complete Level 8
   GS: '70'
   Guide: false
-  Number of Gamers: 624
-  Percentage of Gamers: 91%
+  Number of Gamers: 850
+  Percentage of Gamers: 92%
   Ratio: 1.04
-  TA: '72'
+  TA: '73'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,8 +56,8 @@ Base Game Achievements:
   Description: Complete Level 10
   GS: '70'
   Guide: false
-  Number of Gamers: 617
-  Percentage of Gamers: 90%
+  Number of Gamers: 840
+  Percentage of Gamers: 91%
   Ratio: 1.04
   TA: '73'
   Tags:
@@ -68,7 +68,7 @@ Base Game Achievements:
   Description: Complete Level 12
   GS: '70'
   Guide: false
-  Number of Gamers: 612
+  Number of Gamers: 834
   Percentage of Gamers: 90%
   Ratio: 1.05
   TA: '73'
@@ -80,9 +80,9 @@ Base Game Achievements:
   Description: Complete Level 14
   GS: '70'
   Guide: false
-  Number of Gamers: 604
+  Number of Gamers: 819
   Percentage of Gamers: 89%
-  Ratio: 1.05
+  Ratio: 1.06
   TA: '74'
   Tags:
   - Offline Mode
@@ -92,9 +92,9 @@ Base Game Achievements:
   Description: Complete Level 16
   GS: '70'
   Guide: false
-  Number of Gamers: 582
+  Number of Gamers: 784
   Percentage of Gamers: 85%
-  Ratio: 1.07
+  Ratio: 1.08
   TA: '75'
   Tags:
   - Offline Mode
@@ -104,9 +104,9 @@ Base Game Achievements:
   Description: Complete Level 18
   GS: '70'
   Guide: false
-  Number of Gamers: 574
+  Number of Gamers: 776
   Percentage of Gamers: 84%
-  Ratio: 1.08
+  Ratio: 1.09
   TA: '76'
   Tags:
   - Offline Mode
@@ -116,7 +116,7 @@ Base Game Achievements:
   Description: Complete Level 20
   GS: '70'
   Guide: false
-  Number of Gamers: 570
+  Number of Gamers: 772
   Percentage of Gamers: 84%
   Ratio: 1.09
   TA: '76'
@@ -128,7 +128,7 @@ Base Game Achievements:
   Description: Complete Level 22
   GS: '70'
   Guide: false
-  Number of Gamers: 569
+  Number of Gamers: 771
   Percentage of Gamers: 83%
   Ratio: 1.09
   TA: '76'
@@ -140,7 +140,7 @@ Base Game Achievements:
   Description: Complete Level 24
   GS: '70'
   Guide: false
-  Number of Gamers: 568
+  Number of Gamers: 769
   Percentage of Gamers: 83%
   Ratio: 1.09
   TA: '76'
@@ -152,7 +152,7 @@ Base Game Achievements:
   Description: Complete Level 26
   GS: '70'
   Guide: false
-  Number of Gamers: 566
+  Number of Gamers: 766
   Percentage of Gamers: 83%
   Ratio: 1.09
   TA: '76'
@@ -164,44 +164,44 @@ Base Game Achievements:
   Description: Complete Level 28
   GS: '90'
   Guide: true
-  Number of Gamers: 562
-  Percentage of Gamers: 82%
-  Ratio: 1.09
-  TA: '98'
+  Number of Gamers: 764
+  Percentage of Gamers: 83%
+  Ratio: 1.1
+  TA: '99'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.08
-Base TA: 2160
+Base Ratio: 1.1106666666666667
+Base TA: 3332
 Delisted: false
 Developer: Joffre Macedo Neto
 Game Name: Fruit Adventure Returns
 Genres: Platformer
 Install Size: 537.0
-Number of Completions: 504
-Number of Gamers: 682
+Number of Completions: 562
+Number of Gamers: 924
 Overall Completion Time:
 - 0.0
-- 1.0
-Overall GS: 2000
-Overall Ratio: 1.08
-Overall TA: 2160
+- 1.5
+Overall GS: 3000
+Overall Ratio: 1.1106666666666667
+Overall TA: 3332
 PDU: 0
-Percentage Completed: 73.9
+Percentage Completed: 60.82
 Publisher: JM Neto Game Dev
 Release Date: 19 February 2025
 Server Closure: false
-Site Rating: 2.61
+Site Rating: 2.49
 Update Achievements:
 - Achievement Name: Kill 5 Enemies
   Description: Kill 5 Enemies
   GS: '200'
   Guide: false
-  Number of Gamers: 572
-  Percentage of Gamers: 84%
-  Ratio: 1.09
-  TA: '218'
+  Number of Gamers: 836
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '210'
   Tags:
   - Offline Mode
   - Single Player
@@ -210,10 +210,10 @@ Update Achievements:
   Description: Kill 10 Enemies
   GS: '200'
   Guide: false
-  Number of Gamers: 571
-  Percentage of Gamers: 84%
-  Ratio: 1.09
-  TA: '218'
+  Number of Gamers: 833
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '210'
   Tags:
   - Offline Mode
   - Single Player
@@ -222,10 +222,10 @@ Update Achievements:
   Description: Take 2 Portals
   GS: '200'
   Guide: false
-  Number of Gamers: 556
-  Percentage of Gamers: 82%
-  Ratio: 1.1
-  TA: '221'
+  Number of Gamers: 819
+  Percentage of Gamers: 89%
+  Ratio: 1.06
+  TA: '212'
   Tags:
   - Offline Mode
   - Single Player
@@ -234,10 +234,10 @@ Update Achievements:
   Description: Take 5 Portals
   GS: '200'
   Guide: false
-  Number of Gamers: 548
-  Percentage of Gamers: 80%
-  Ratio: 1.11
-  TA: '222'
+  Number of Gamers: 795
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '215'
   Tags:
   - Offline Mode
   - Single Player
@@ -245,11 +245,71 @@ Update Achievements:
 - Achievement Name: Take 8 Portals
   Description: Take 8 Portals
   GS: '200'
+  Guide: true
+  Number of Gamers: 789
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '216'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Die 3 Times
+  Description: Die 3 times in a single game session
+  GS: '200'
   Guide: false
-  Number of Gamers: 545
-  Percentage of Gamers: 80%
-  Ratio: 1.11
-  TA: '223'
+  Number of Gamers: 635
+  Percentage of Gamers: 69%
+  Ratio: 1.21
+  TA: '242'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Die 5 Times
+  Description: Die 5 times in a single game session
+  GS: '200'
+  Guide: false
+  Number of Gamers: 632
+  Percentage of Gamers: 68%
+  Ratio: 1.21
+  TA: '242'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Get 15 Stars
+  Description: Collect 15 Stars in one game session
+  GS: '200'
+  Guide: false
+  Number of Gamers: 638
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '241'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Get 30 Stars
+  Description: Collect 30 Stars in one game session
+  GS: '200'
+  Guide: false
+  Number of Gamers: 634
+  Percentage of Gamers: 69%
+  Ratio: 1.21
+  TA: '242'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Get 45 Stars
+  Description: Collect 45 Stars in one game session
+  GS: '200'
+  Guide: false
+  Number of Gamers: 632
+  Percentage of Gamers: 68%
+  Ratio: 1.21
+  TA: '242'
   Tags:
   - Offline Mode
   - Single Player

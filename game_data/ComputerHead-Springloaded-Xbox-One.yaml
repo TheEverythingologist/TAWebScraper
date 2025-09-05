@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 1.0
-Base GS: 2000
+- 1.5
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: 2000 Score
   Description: Reach 2000 Score
   GS: '100'
   Guide: false
-  Number of Gamers: 249
+  Number of Gamers: 392
   Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '101'
@@ -19,7 +19,7 @@ Base Game Achievements:
   Description: Reach 4000 Score
   GS: '100'
   Guide: false
-  Number of Gamers: 241
+  Number of Gamers: 383
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
@@ -30,10 +30,10 @@ Base Game Achievements:
   Description: Reach 6000 Score
   GS: '100'
   Guide: true
-  Number of Gamers: 233
-  Percentage of Gamers: 91%
-  Ratio: 1.04
-  TA: '104'
+  Number of Gamers: 374
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '103'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -41,7 +41,7 @@ Base Game Achievements:
   Description: Purchase Heart Upgrade 1
   GS: '100'
   Guide: false
-  Number of Gamers: 253
+  Number of Gamers: 398
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -53,7 +53,7 @@ Base Game Achievements:
   Description: Purchase Heart Upgrade 2
   GS: '100'
   Guide: false
-  Number of Gamers: 253
+  Number of Gamers: 398
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -65,7 +65,7 @@ Base Game Achievements:
   Description: Purchase Heart Upgrade 3
   GS: '100'
   Guide: false
-  Number of Gamers: 252
+  Number of Gamers: 398
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -77,8 +77,8 @@ Base Game Achievements:
   Description: Purchase Coin Upgrade 1
   GS: '100'
   Guide: false
-  Number of Gamers: 255
-  Percentage of Gamers: 100%
+  Number of Gamers: 399
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
   Tags:
@@ -89,7 +89,7 @@ Base Game Achievements:
   Description: Purchase Coin Upgrade 2
   GS: '100'
   Guide: false
-  Number of Gamers: 252
+  Number of Gamers: 398
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -101,7 +101,7 @@ Base Game Achievements:
   Description: Purchase Magnet Upgrade
   GS: '100'
   Guide: false
-  Number of Gamers: 252
+  Number of Gamers: 398
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -113,7 +113,7 @@ Base Game Achievements:
   Description: Purchase Double Jump Upgrade
   GS: '100'
   Guide: false
-  Number of Gamers: 253
+  Number of Gamers: 399
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -121,36 +121,36 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Shop
-Base Ratio: 1.011
-Base TA: 2022
+Base Ratio: 1.0193333333333334
+Base TA: 3058
 Delisted: false
 Developer: Jolly Lobster Interactive
 Game Name: 'ComputerHead: Springloaded (Xbox One)'
 Genres: Platformer
 Install Size: 548.0
-Number of Completions: 228
-Number of Gamers: 255
+Number of Completions: 339
+Number of Gamers: 402
 Overall Completion Time:
 - 0.0
-- 1.0
-Overall GS: 2000
-Overall Ratio: 1.011
-Overall TA: 2022
+- 1.5
+Overall GS: 3000
+Overall Ratio: 1.0193333333333334
+Overall TA: 3058
 PDU: 0
-Percentage Completed: 89.41
+Percentage Completed: 84.33
 Publisher: Jolly Lobster Interactive
 Release Date: 23 May 2025
 Server Closure: false
-Site Rating: 2.29
+Site Rating: 2.24
 Update Achievements:
 - Achievement Name: Hat 1
   Description: Wear the Orange Hat
   GS: '200'
   Guide: false
-  Number of Gamers: 246
-  Percentage of Gamers: 96%
-  Ratio: 1.01
-  TA: '203'
+  Number of Gamers: 395
+  Percentage of Gamers: 98%
+  Ratio: 1.0
+  TA: '201'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -158,10 +158,10 @@ Update Achievements:
   Description: Wear the Red Cap
   GS: '200'
   Guide: false
-  Number of Gamers: 247
-  Percentage of Gamers: 97%
-  Ratio: 1.01
-  TA: '203'
+  Number of Gamers: 396
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '201'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -169,10 +169,10 @@ Update Achievements:
   Description: Wear the Slim Sunshades
   GS: '200'
   Guide: false
-  Number of Gamers: 248
-  Percentage of Gamers: 97%
-  Ratio: 1.01
-  TA: '202'
+  Number of Gamers: 397
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '201'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -180,10 +180,10 @@ Update Achievements:
   Description: Reach 1000 Score
   GS: '200'
   Guide: false
-  Number of Gamers: 248
-  Percentage of Gamers: 97%
-  Ratio: 1.01
-  TA: '202'
+  Number of Gamers: 395
+  Percentage of Gamers: 98%
+  Ratio: 1.0
+  TA: '201'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -191,10 +191,65 @@ Update Achievements:
   Description: Reach 3000 Score
   GS: '200'
   Guide: false
-  Number of Gamers: 241
-  Percentage of Gamers: 95%
-  Ratio: 1.02
-  TA: '205'
+  Number of Gamers: 388
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '203'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Hat 3
+  Description: Wear the Workcap
+  GS: '200'
+  Guide: false
+  Number of Gamers: 378
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '206'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Glasses 2
+  Description: Wear the Blue Shades
+  GS: '200'
+  Guide: false
+  Number of Gamers: 377
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '206'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Glasses 3
+  Description: Wear the Black Shades
+  GS: '200'
+  Guide: false
+  Number of Gamers: 377
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '206'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Score 5000
+  Description: Reach Score 5000
+  GS: '200'
+  Guide: false
+  Number of Gamers: 363
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '210'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Score 7000
+  Description: Reach Score 7000
+  GS: '200'
+  Guide: false
+  Number of Gamers: 339
+  Percentage of Gamers: 84%
+  Ratio: 1.08
+  TA: '217'
   Tags:
   - Offline Game Mode
   - Single Player

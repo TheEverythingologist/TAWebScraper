@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 9
-- 10
+- 5.0
+- 6.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Title bearer
   Description: Get one title
   GS: '15'
   Guide: false
-  Number of Gamers: 193
+  Number of Gamers: 237
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '15'
@@ -19,10 +19,10 @@ Base Game Achievements:
   Description: Get half of the titles
   GS: '15'
   Guide: false
-  Number of Gamers: 28
-  Percentage of Gamers: 15%
-  Ratio: 2.62
-  TA: '39'
+  Number of Gamers: 38
+  Percentage of Gamers: 16%
+  Ratio: 2.49
+  TA: '37'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -30,10 +30,10 @@ Base Game Achievements:
   Description: Get all the titles
   GS: '15'
   Guide: false
-  Number of Gamers: 24
-  Percentage of Gamers: 12%
-  Ratio: 2.83
-  TA: '42'
+  Number of Gamers: 32
+  Percentage of Gamers: 14%
+  Ratio: 2.72
+  TA: '40'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -41,10 +41,10 @@ Base Game Achievements:
   Description: Disenchant the Serpentine
   GS: '15'
   Guide: false
-  Number of Gamers: 43
-  Percentage of Gamers: 22%
-  Ratio: 2.11
-  TA: '31'
+  Number of Gamers: 60
+  Percentage of Gamers: 25%
+  Ratio: 1.98
+  TA: '29'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -52,10 +52,10 @@ Base Game Achievements:
   Description: Meet the Leshy
   GS: '15'
   Guide: false
-  Number of Gamers: 59
-  Percentage of Gamers: 31%
-  Ratio: 1.8
-  TA: '27'
+  Number of Gamers: 77
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '26'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -64,10 +64,10 @@ Base Game Achievements:
     skill
   GS: '15'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 13%
-  Ratio: 2.72
-  TA: '40'
+  Number of Gamers: 38
+  Percentage of Gamers: 16%
+  Ratio: 2.53
+  TA: '37'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -75,10 +75,10 @@ Base Game Achievements:
   Description: Find all the allies
   GS: '30'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 13%
-  Ratio: 2.72
-  TA: '81'
+  Number of Gamers: 34
+  Percentage of Gamers: 14%
+  Ratio: 2.64
+  TA: '79'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -86,10 +86,10 @@ Base Game Achievements:
   Description: Get all the skills in one playthrough (except scar)
   GS: '30'
   Guide: false
-  Number of Gamers: 25
-  Percentage of Gamers: 13%
-  Ratio: 2.77
-  TA: '83'
+  Number of Gamers: 35
+  Percentage of Gamers: 15%
+  Ratio: 2.64
+  TA: '79'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -97,9 +97,9 @@ Base Game Achievements:
   Description: Complete chapter 1
   GS: '30'
   Guide: false
-  Number of Gamers: 104
+  Number of Gamers: 129
   Percentage of Gamers: 54%
-  Ratio: 1.36
+  Ratio: 1.35
   TA: '40'
   Tags:
   - Offline Mode
@@ -109,10 +109,10 @@ Base Game Achievements:
   Description: Complete chapter 2 and win the battle
   GS: '30'
   Guide: false
-  Number of Gamers: 39
-  Percentage of Gamers: 20%
-  Ratio: 2.22
-  TA: '66'
+  Number of Gamers: 51
+  Percentage of Gamers: 22%
+  Ratio: 2.17
+  TA: '65'
   Tags:
   - Offline Mode
   - Single Player
@@ -121,10 +121,10 @@ Base Game Achievements:
   Description: Complete chapter 2 and lose the battle
   GS: '30'
   Guide: false
-  Number of Gamers: 55
-  Percentage of Gamers: 28%
-  Ratio: 1.87
-  TA: '56'
+  Number of Gamers: 71
+  Percentage of Gamers: 30%
+  Ratio: 1.82
+  TA: '54'
   Tags:
   - Offline Mode
   - Single Player
@@ -133,9 +133,9 @@ Base Game Achievements:
   Description: Complete Chapter 3 with any of the endings
   GS: '30'
   Guide: false
-  Number of Gamers: 58
+  Number of Gamers: 72
   Percentage of Gamers: 30%
-  Ratio: 1.82
+  Ratio: 1.81
   TA: '54'
   Tags:
   - Offline Mode
@@ -145,10 +145,10 @@ Base Game Achievements:
   Description: Complete the game for all endings
   GS: '30'
   Guide: false
-  Number of Gamers: 25
-  Percentage of Gamers: 13%
-  Ratio: 2.77
-  TA: '83'
+  Number of Gamers: 34
+  Percentage of Gamers: 14%
+  Ratio: 2.64
+  TA: '79'
   Tags:
   - Offline Mode
   - Single Player
@@ -157,10 +157,10 @@ Base Game Achievements:
   Description: Find the best queen
   GS: '30'
   Guide: false
-  Number of Gamers: 33
-  Percentage of Gamers: 17%
-  Ratio: 2.41
-  TA: '72'
+  Number of Gamers: 42
+  Percentage of Gamers: 18%
+  Ratio: 2.37
+  TA: '71'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -168,10 +168,10 @@ Base Game Achievements:
   Description: Conquer the South
   GS: '30'
   Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 16%
-  Ratio: 2.49
-  TA: '74'
+  Number of Gamers: 41
+  Percentage of Gamers: 17%
+  Ratio: 2.4
+  TA: '72'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -179,10 +179,10 @@ Base Game Achievements:
   Description: Feel the taste of the marriage
   GS: '30'
   Guide: false
-  Number of Gamers: 28
-  Percentage of Gamers: 15%
-  Ratio: 2.62
-  TA: '78'
+  Number of Gamers: 37
+  Percentage of Gamers: 16%
+  Ratio: 2.53
+  TA: '75'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -190,10 +190,10 @@ Base Game Achievements:
   Description: Abdicate the throne
   GS: '90'
   Guide: false
-  Number of Gamers: 28
-  Percentage of Gamers: 15%
-  Ratio: 2.62
-  TA: '236'
+  Number of Gamers: 38
+  Percentage of Gamers: 16%
+  Ratio: 2.49
+  TA: '224'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -201,10 +201,10 @@ Base Game Achievements:
   Description: Feel the power of family ties
   GS: '90'
   Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 16%
-  Ratio: 2.53
-  TA: '228'
+  Number of Gamers: 40
+  Percentage of Gamers: 17%
+  Ratio: 2.43
+  TA: '219'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -212,10 +212,10 @@ Base Game Achievements:
   Description: Become a king who really didn't change a thing
   GS: '90'
   Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 16%
-  Ratio: 2.49
-  TA: '224'
+  Number of Gamers: 43
+  Percentage of Gamers: 18%
+  Ratio: 2.34
+  TA: '211'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -223,10 +223,10 @@ Base Game Achievements:
   Description: Miss all the opportunities to return to your castle
   GS: '90'
   Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 16%
-  Ratio: 2.49
-  TA: '224'
+  Number of Gamers: 42
+  Percentage of Gamers: 18%
+  Ratio: 2.37
+  TA: '213'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -234,10 +234,10 @@ Base Game Achievements:
   Description: Lose the campaign
   GS: '100'
   Guide: false
-  Number of Gamers: 29
-  Percentage of Gamers: 15%
-  Ratio: 2.57
-  TA: '257'
+  Number of Gamers: 39
+  Percentage of Gamers: 16%
+  Ratio: 2.46
+  TA: '246'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -245,33 +245,33 @@ Base Game Achievements:
   Description: Make everyone hate you
   GS: '150'
   Guide: true
-  Number of Gamers: 42
-  Percentage of Gamers: 22%
-  Ratio: 2.14
-  TA: '321'
+  Number of Gamers: 54
+  Percentage of Gamers: 23%
+  Ratio: 2.09
+  TA: '314'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 2.371
-Base TA: 2371
+Base Ratio: 2.279
+Base TA: 2279
 Delisted: false
 Developer: Blazing Planet Studio
 Game Name: 'Choice of Life: Middle Ages 2'
 Genres: Visual Novel
 Install Size: 951.0
-Number of Completions: 24
-Number of Gamers: 193
+Number of Completions: 32
+Number of Gamers: 237
 Overall Completion Time:
-- 9
-- 10
+- 5.0
+- 6.0
 Overall GS: 1000
-Overall Ratio: 2.371
-Overall TA: 2371
+Overall Ratio: 2.279
+Overall TA: 2279
 PDU: 0
-Percentage Completed: 12.44
+Percentage Completed: 13.5
 Publisher: Samustai
 Release Date: 09 February 2024
 Server Closure: false
-Site Rating: 2.06
+Site Rating: 2.54
 Update Achievements: []
 Walkthrough: false

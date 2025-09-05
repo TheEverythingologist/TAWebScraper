@@ -1,59 +1,14 @@
-Add On Achievements:
-- Achievement Name: Bounty Berserker
-  Description: Complete 10 Bounty Hunts
-  GS: '200'
-  Guide: false
-  Number of Gamers: 165
-  Percentage of Gamers: 99%
-  Ratio: 1.79
-  TA: '358'
-  Tags: []
-- Achievement Name: Bounty Behemoth
-  Description: Complete 11 Bounty Hunts
-  GS: '200'
-  Guide: false
-  Number of Gamers: 165
-  Percentage of Gamers: 99%
-  Ratio: 1.79
-  TA: '358'
-  Tags: []
-- Achievement Name: Bounty Battlelord
-  Description: Complete 12 Bounty Hunts
-  GS: '200'
-  Guide: false
-  Number of Gamers: 165
-  Percentage of Gamers: 99%
-  Ratio: 1.79
-  TA: '358'
-  Tags: []
-- Achievement Name: Bounty Beast
-  Description: Complete 13 Bounty Hunts
-  GS: '200'
-  Guide: false
-  Number of Gamers: 165
-  Percentage of Gamers: 99%
-  Ratio: 1.79
-  TA: '358'
-  Tags: []
-- Achievement Name: Bounty Bigshot
-  Description: Complete 14 Bounty Hunts
-  GS: '200'
-  Guide: false
-  Number of Gamers: 165
-  Percentage of Gamers: 99%
-  Ratio: 1.79
-  TA: '358'
-  Tags: []
+Add On Achievements: []
 Base Completion Time:
 - 5.0
-- 7.5
-Base GS: 4000
+- 8.0
+Base GS: 5000
 Base Game Achievements:
 - Achievement Name: Chicken Tender
   Description: Complete your first Bounty Hunt
   GS: '40'
   Guide: true
-  Number of Gamers: 926
+  Number of Gamers: 1077
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '40'
@@ -65,10 +20,10 @@ Base Game Achievements:
   Description: Unlock Lord Yolka by purchasing him in the shop.
   GS: '80'
   Guide: false
-  Number of Gamers: 750
-  Percentage of Gamers: 81%
-  Ratio: 1.11
-  TA: '88'
+  Number of Gamers: 896
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '87'
   Tags:
   - Offline Mode
   - Single Player
@@ -77,7 +32,7 @@ Base Game Achievements:
   Description: Collect at least $100 bounty in a single hunt
   GS: '20'
   Guide: false
-  Number of Gamers: 918
+  Number of Gamers: 1069
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '20'
@@ -88,8 +43,8 @@ Base Game Achievements:
   Description: Collect at least $250 bounty in a single hunt
   GS: '40'
   Guide: false
-  Number of Gamers: 912
-  Percentage of Gamers: 98%
+  Number of Gamers: 1063
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '40'
   Tags:
@@ -99,10 +54,10 @@ Base Game Achievements:
   Description: Collect at least $500 bounty in a single hunt
   GS: '80'
   Guide: false
-  Number of Gamers: 902
-  Percentage of Gamers: 97%
+  Number of Gamers: 1053
+  Percentage of Gamers: 98%
   Ratio: 1.01
-  TA: '81'
+  TA: '80'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -110,7 +65,7 @@ Base Game Achievements:
   Description: Defeat 10 enemies
   GS: '20'
   Guide: false
-  Number of Gamers: 899
+  Number of Gamers: 1045
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '20'
@@ -122,9 +77,9 @@ Base Game Achievements:
   Description: Defeat 100 enemies
   GS: '40'
   Guide: false
-  Number of Gamers: 807
-  Percentage of Gamers: 87%
-  Ratio: 1.07
+  Number of Gamers: 949
+  Percentage of Gamers: 88%
+  Ratio: 1.06
   TA: '42'
   Tags:
   - Offline Mode
@@ -134,10 +89,10 @@ Base Game Achievements:
   Description: Defeat 200 enemies
   GS: '200'
   Guide: true
-  Number of Gamers: 696
-  Percentage of Gamers: 75%
-  Ratio: 1.15
-  TA: '231'
+  Number of Gamers: 844
+  Percentage of Gamers: 78%
+  Ratio: 1.13
+  TA: '226'
   Tags:
   - Offline Mode
   - Single Player
@@ -146,9 +101,9 @@ Base Game Achievements:
   Description: Complete 2 Bounty Hunts
   GS: '20'
   Guide: false
-  Number of Gamers: 853
-  Percentage of Gamers: 92%
-  Ratio: 1.04
+  Number of Gamers: 1002
+  Percentage of Gamers: 93%
+  Ratio: 1.03
   TA: '20'
   Tags:
   - Offline Mode
@@ -158,10 +113,10 @@ Base Game Achievements:
   Description: Complete 3 Bounty Hunts
   GS: '60'
   Guide: false
-  Number of Gamers: 804
-  Percentage of Gamers: 87%
-  Ratio: 1.07
-  TA: '64'
+  Number of Gamers: 952
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '63'
   Tags:
   - Offline Mode
   - Single Player
@@ -170,10 +125,10 @@ Base Game Achievements:
   Description: Complete 5 Bounty Hunts
   GS: '100'
   Guide: true
-  Number of Gamers: 745
-  Percentage of Gamers: 80%
-  Ratio: 1.11
-  TA: '111'
+  Number of Gamers: 893
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '109'
   Tags:
   - Offline Mode
   - Single Player
@@ -182,9 +137,9 @@ Base Game Achievements:
   Description: Collect a total of $5,000 bounty
   GS: '40'
   Guide: false
-  Number of Gamers: 853
-  Percentage of Gamers: 92%
-  Ratio: 1.04
+  Number of Gamers: 1000
+  Percentage of Gamers: 93%
+  Ratio: 1.03
   TA: '41'
   Tags:
   - Offline Mode
@@ -194,10 +149,10 @@ Base Game Achievements:
   Description: Collect a total of $15,000 bounty
   GS: '60'
   Guide: false
-  Number of Gamers: 803
-  Percentage of Gamers: 87%
-  Ratio: 1.07
-  TA: '64'
+  Number of Gamers: 955
+  Percentage of Gamers: 89%
+  Ratio: 1.06
+  TA: '63'
   Tags:
   - Offline Mode
   - Single Player
@@ -206,9 +161,9 @@ Base Game Achievements:
   Description: Unlock Big Bucket by purchasing him in the shop.
   GS: '60'
   Guide: false
-  Number of Gamers: 820
-  Percentage of Gamers: 88%
-  Ratio: 1.06
+  Number of Gamers: 966
+  Percentage of Gamers: 90%
+  Ratio: 1.05
   TA: '63'
   Tags:
   - Offline Mode
@@ -218,9 +173,9 @@ Base Game Achievements:
   Description: Unlock the Scattershot by purchasing it in the shop.
   GS: '40'
   Guide: false
-  Number of Gamers: 786
-  Percentage of Gamers: 85%
-  Ratio: 1.08
+  Number of Gamers: 931
+  Percentage of Gamers: 86%
+  Ratio: 1.07
   TA: '43'
   Tags:
   - Offline Mode
@@ -230,44 +185,44 @@ Base Game Achievements:
   Description: Unlock the Chargeshot by purchasing it in the shop.
   GS: '100'
   Guide: true
-  Number of Gamers: 746
-  Percentage of Gamers: 80%
-  Ratio: 1.11
-  TA: '111'
+  Number of Gamers: 890
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '110'
   Tags:
   - Offline Mode
   - Single Player
   - Shop
-Base Ratio: 1.23425
-Base TA: 4937
+Base Ratio: 1.2222
+Base TA: 6111
 Delisted: false
 Developer: Studio Nisse
 Game Name: Skycadia
 Genres: Aerial, Vehicular Combat
 Install Size: 407.0
-Number of Completions: 145
-Number of Gamers: 927
+Number of Completions: 520
+Number of Gamers: 1079
 Overall Completion Time:
 - 5.0
 - 8.0
 Overall GS: 5000
-Overall Ratio: 1.3454
-Overall TA: 6727
+Overall Ratio: 1.2222
+Overall TA: 6111
 PDU: 0
-Percentage Completed: 15.64
+Percentage Completed: 48.19
 Publisher: Studio Nisse
 Release Date: 22 January 2021
 Server Closure: false
-Site Rating: 2.22
+Site Rating: 2.25
 Update Achievements:
 - Achievement Name: Shoot Down Anton
   Description: Shoot down the bounty Anton
   GS: '100'
   Guide: true
-  Number of Gamers: 659
-  Percentage of Gamers: 71%
-  Ratio: 1.18
-  TA: '118'
+  Number of Gamers: 804
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '115'
   Tags:
   - Offline Mode
   - Single Player
@@ -276,10 +231,10 @@ Update Achievements:
   Description: Shoot down the bounty Queen Bee
   GS: '100'
   Guide: true
-  Number of Gamers: 561
-  Percentage of Gamers: 61%
-  Ratio: 1.28
-  TA: '128'
+  Number of Gamers: 706
+  Percentage of Gamers: 65%
+  Ratio: 1.23
+  TA: '123'
   Tags:
   - Offline Mode
   - Single Player
@@ -288,10 +243,10 @@ Update Achievements:
   Description: Shoot down the bounty Mageetle
   GS: '100'
   Guide: true
-  Number of Gamers: 590
-  Percentage of Gamers: 64%
-  Ratio: 1.25
-  TA: '125'
+  Number of Gamers: 737
+  Percentage of Gamers: 68%
+  Ratio: 1.21
+  TA: '121'
   Tags:
   - Offline Mode
   - Single Player
@@ -300,10 +255,10 @@ Update Achievements:
   Description: Shoot down the bounty Hopper
   GS: '100'
   Guide: true
-  Number of Gamers: 616
-  Percentage of Gamers: 66%
-  Ratio: 1.22
-  TA: '122'
+  Number of Gamers: 763
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '118'
   Tags:
   - Offline Mode
   - Single Player
@@ -312,10 +267,10 @@ Update Achievements:
   Description: Shoot down the bounty Ladybug
   GS: '100'
   Guide: true
-  Number of Gamers: 605
-  Percentage of Gamers: 65%
-  Ratio: 1.24
-  TA: '124'
+  Number of Gamers: 752
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '119'
   Tags:
   - Offline Mode
   - Single Player
@@ -324,10 +279,10 @@ Update Achievements:
   Description: Shoot down the bounty Quito
   GS: '100'
   Guide: true
-  Number of Gamers: 578
-  Percentage of Gamers: 62%
-  Ratio: 1.27
-  TA: '127'
+  Number of Gamers: 726
+  Percentage of Gamers: 67%
+  Ratio: 1.21
+  TA: '121'
   Tags:
   - Offline Mode
   - Single Player
@@ -336,10 +291,10 @@ Update Achievements:
   Description: Shoot down the bounty Aether
   GS: '100'
   Guide: true
-  Number of Gamers: 565
-  Percentage of Gamers: 61%
-  Ratio: 1.28
-  TA: '128'
+  Number of Gamers: 711
+  Percentage of Gamers: 66%
+  Ratio: 1.23
+  TA: '123'
   Tags:
   - Offline Mode
   - Single Player
@@ -348,10 +303,10 @@ Update Achievements:
   Description: Shoot down the bounty Tyrantula
   GS: '100'
   Guide: true
-  Number of Gamers: 598
-  Percentage of Gamers: 65%
-  Ratio: 1.24
-  TA: '124'
+  Number of Gamers: 745
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '120'
   Tags:
   - Offline Mode
   - Single Player
@@ -360,10 +315,10 @@ Update Achievements:
   Description: Beat Story Mode by playing through all the Story Mode levels
   GS: '200'
   Guide: true
-  Number of Gamers: 544
-  Percentage of Gamers: 59%
-  Ratio: 1.3
-  TA: '261'
+  Number of Gamers: 684
+  Percentage of Gamers: 63%
+  Ratio: 1.25
+  TA: '251'
   Tags:
   - Offline Mode
   - Single Player
@@ -373,10 +328,10 @@ Update Achievements:
   Description: Gather 1 Damage Power-up
   GS: '200'
   Guide: true
-  Number of Gamers: 571
-  Percentage of Gamers: 62%
-  Ratio: 1.27
-  TA: '254'
+  Number of Gamers: 734
+  Percentage of Gamers: 68%
+  Ratio: 1.21
+  TA: '242'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -384,10 +339,10 @@ Update Achievements:
   Description: Gather 2 Damage Power-ups
   GS: '200'
   Guide: false
-  Number of Gamers: 567
-  Percentage of Gamers: 61%
-  Ratio: 1.27
-  TA: '255'
+  Number of Gamers: 729
+  Percentage of Gamers: 68%
+  Ratio: 1.21
+  TA: '243'
   Tags:
   - Offline Mode
   - Single Player
@@ -396,10 +351,10 @@ Update Achievements:
   Description: Gather 3 Damage Power-ups
   GS: '200'
   Guide: true
-  Number of Gamers: 564
-  Percentage of Gamers: 61%
-  Ratio: 1.28
-  TA: '256'
+  Number of Gamers: 724
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '244'
   Tags:
   - Offline Mode
   - Single Player
@@ -408,10 +363,10 @@ Update Achievements:
   Description: Gather 1 Shield Power-up
   GS: '200'
   Guide: true
-  Number of Gamers: 567
-  Percentage of Gamers: 61%
-  Ratio: 1.27
-  TA: '255'
+  Number of Gamers: 725
+  Percentage of Gamers: 67%
+  Ratio: 1.21
+  TA: '243'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -419,10 +374,10 @@ Update Achievements:
   Description: Gather 2 Shield Power-ups
   GS: '200'
   Guide: false
-  Number of Gamers: 563
-  Percentage of Gamers: 61%
-  Ratio: 1.28
-  TA: '256'
+  Number of Gamers: 721
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '244'
   Tags:
   - Offline Mode
   - Single Player
@@ -431,10 +386,10 @@ Update Achievements:
   Description: Gather 3 Shield Power-ups
   GS: '200'
   Guide: false
-  Number of Gamers: 521
-  Percentage of Gamers: 56%
-  Ratio: 1.33
-  TA: '267'
+  Number of Gamers: 686
+  Percentage of Gamers: 64%
+  Ratio: 1.25
+  TA: '250'
   Tags:
   - Offline Mode
   - Single Player
@@ -443,10 +398,10 @@ Update Achievements:
   Description: Complete 6 Bounty Hunts
   GS: '200'
   Guide: false
-  Number of Gamers: 532
-  Percentage of Gamers: 57%
-  Ratio: 1.32
-  TA: '264'
+  Number of Gamers: 692
+  Percentage of Gamers: 64%
+  Ratio: 1.24
+  TA: '249'
   Tags:
   - Offline Mode
   - Single Player
@@ -455,10 +410,10 @@ Update Achievements:
   Description: Complete 7 Bounty Hunts
   GS: '200'
   Guide: false
-  Number of Gamers: 531
-  Percentage of Gamers: 57%
-  Ratio: 1.32
-  TA: '264'
+  Number of Gamers: 692
+  Percentage of Gamers: 64%
+  Ratio: 1.24
+  TA: '249'
   Tags:
   - Offline Mode
   - Single Player
@@ -467,10 +422,10 @@ Update Achievements:
   Description: Complete 8 Bounty Hunts
   GS: '200'
   Guide: false
-  Number of Gamers: 530
-  Percentage of Gamers: 57%
-  Ratio: 1.32
-  TA: '265'
+  Number of Gamers: 691
+  Percentage of Gamers: 64%
+  Ratio: 1.24
+  TA: '249'
   Tags:
   - Offline Mode
   - Single Player
@@ -479,10 +434,70 @@ Update Achievements:
   Description: Complete 9 Bounty Hunts
   GS: '200'
   Guide: false
-  Number of Gamers: 530
-  Percentage of Gamers: 57%
-  Ratio: 1.32
-  TA: '265'
+  Number of Gamers: 691
+  Percentage of Gamers: 64%
+  Ratio: 1.24
+  TA: '249'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Bounty Berserker
+  Description: Complete 10 Bounty Hunts
+  GS: '200'
+  Guide: false
+  Number of Gamers: 572
+  Percentage of Gamers: 53%
+  Ratio: 1.37
+  TA: '274'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Bounty Behemoth
+  Description: Complete 11 Bounty Hunts
+  GS: '200'
+  Guide: false
+  Number of Gamers: 572
+  Percentage of Gamers: 53%
+  Ratio: 1.37
+  TA: '274'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Bounty Battlelord
+  Description: Complete 12 Bounty Hunts
+  GS: '200'
+  Guide: false
+  Number of Gamers: 571
+  Percentage of Gamers: 53%
+  Ratio: 1.37
+  TA: '274'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Bounty Beast
+  Description: Complete 13 Bounty Hunts
+  GS: '200'
+  Guide: false
+  Number of Gamers: 571
+  Percentage of Gamers: 53%
+  Ratio: 1.37
+  TA: '274'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Bounty Bigshot
+  Description: Complete 14 Bounty Hunts
+  GS: '200'
+  Guide: false
+  Number of Gamers: 569
+  Percentage of Gamers: 53%
+  Ratio: 1.37
+  TA: '275'
   Tags:
   - Offline Mode
   - Single Player

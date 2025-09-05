@@ -1,59 +1,14 @@
-Add On Achievements:
-- Achievement Name: Jump 5
-  Description: Jump 5 times
-  GS: '200'
-  Guide: false
-  Number of Gamers: 203
-  Percentage of Gamers: 98%
-  Ratio: 1.78
-  TA: '357'
-  Tags: []
-- Achievement Name: Jump 10
-  Description: Jump 10 times
-  GS: '200'
-  Guide: false
-  Number of Gamers: 201
-  Percentage of Gamers: 97%
-  Ratio: 1.79
-  TA: '358'
-  Tags: []
-- Achievement Name: Jump 15
-  Description: Jump 15 times
-  GS: '200'
-  Guide: false
-  Number of Gamers: 201
-  Percentage of Gamers: 97%
-  Ratio: 1.79
-  TA: '358'
-  Tags: []
-- Achievement Name: Jump 20
-  Description: Jump 20 times
-  GS: '200'
-  Guide: false
-  Number of Gamers: 201
-  Percentage of Gamers: 97%
-  Ratio: 1.79
-  TA: '358'
-  Tags: []
-- Achievement Name: Jump 30
-  Description: Jump 30 times
-  GS: '200'
-  Guide: false
-  Number of Gamers: 201
-  Percentage of Gamers: 97%
-  Ratio: 1.79
-  TA: '358'
-  Tags: []
+Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 1.5
-Base GS: 3000
+- 2.0
+Base GS: 4000
 Base Game Achievements:
 - Achievement Name: Level 5
   Description: Beat level 5
   GS: '100'
-  Guide: true
-  Number of Gamers: 1338
+  Guide: false
+  Number of Gamers: 1656
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -65,10 +20,10 @@ Base Game Achievements:
   Description: Beat level 10
   GS: '100'
   Guide: false
-  Number of Gamers: 1320
+  Number of Gamers: 1631
   Percentage of Gamers: 98%
-  Ratio: 1.0
-  TA: '100'
+  Ratio: 1.01
+  TA: '101'
   Tags:
   - Offline Mode
   - Single Player
@@ -77,8 +32,8 @@ Base Game Achievements:
   Description: Beat level 15
   GS: '100'
   Guide: false
-  Number of Gamers: 1305
-  Percentage of Gamers: 97%
+  Number of Gamers: 1610
+  Percentage of Gamers: 96%
   Ratio: 1.01
   TA: '101'
   Tags:
@@ -89,8 +44,8 @@ Base Game Achievements:
   Description: Beat level 20
   GS: '100'
   Guide: false
-  Number of Gamers: 1273
-  Percentage of Gamers: 95%
+  Number of Gamers: 1577
+  Percentage of Gamers: 94%
   Ratio: 1.02
   TA: '102'
   Tags:
@@ -101,7 +56,7 @@ Base Game Achievements:
   Description: Beat level 25
   GS: '100'
   Guide: false
-  Number of Gamers: 1267
+  Number of Gamers: 1567
   Percentage of Gamers: 94%
   Ratio: 1.03
   TA: '103'
@@ -113,7 +68,7 @@ Base Game Achievements:
   Description: Beat level 30
   GS: '100'
   Guide: false
-  Number of Gamers: 1265
+  Number of Gamers: 1565
   Percentage of Gamers: 94%
   Ratio: 1.03
   TA: '103'
@@ -125,7 +80,7 @@ Base Game Achievements:
   Description: Beat level 35
   GS: '100'
   Guide: false
-  Number of Gamers: 1264
+  Number of Gamers: 1565
   Percentage of Gamers: 94%
   Ratio: 1.03
   TA: '103'
@@ -136,9 +91,9 @@ Base Game Achievements:
 - Achievement Name: Level 40
   Description: Beat level 40
   GS: '100'
-  Guide: true
-  Number of Gamers: 1260
-  Percentage of Gamers: 94%
+  Guide: false
+  Number of Gamers: 1560
+  Percentage of Gamers: 93%
   Ratio: 1.03
   TA: '103'
   Tags:
@@ -149,10 +104,10 @@ Base Game Achievements:
   Description: Beat level 12
   GS: '100'
   Guide: false
-  Number of Gamers: 1320
-  Percentage of Gamers: 98%
-  Ratio: 1.0
-  TA: '100'
+  Number of Gamers: 1630
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '101'
   Tags:
   - Offline Mode
   - Single Player
@@ -161,7 +116,7 @@ Base Game Achievements:
   Description: Beat level 27
   GS: '100'
   Guide: false
-  Number of Gamers: 1267
+  Number of Gamers: 1567
   Percentage of Gamers: 94%
   Ratio: 1.03
   TA: '103'
@@ -169,34 +124,34 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.0186666666666666
-Base TA: 3056
+Base Ratio: 1.04925
+Base TA: 4197
 Delisted: false
 Developer: Kitnet Hostage
 Game Name: Mr.Slime in Dungeon
 Genres: Platformer
 Install Size: 373.0
-Number of Completions: 196
-Number of Gamers: 1346
+Number of Completions: 1225
+Number of Gamers: 1672
 Overall Completion Time:
 - 0.0
 - 2.0
 Overall GS: 4000
-Overall Ratio: 1.21125
-Overall TA: 4845
+Overall Ratio: 1.04925
+Overall TA: 4197
 PDU: 0
-Percentage Completed: 14.56
+Percentage Completed: 73.27
 Publisher: 2dragontails
 Release Date: 13 December 2024
 Server Closure: false
-Site Rating: 2.39
+Site Rating: 2.59
 Update Achievements:
 - Achievement Name: 10 coins
   Description: Collect 10 coins
   GS: '200'
   Guide: false
-  Number of Gamers: 1321
-  Percentage of Gamers: 98%
+  Number of Gamers: 1648
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '201'
   Tags:
@@ -207,10 +162,10 @@ Update Achievements:
   Description: Collect 20 coins
   GS: '200'
   Guide: false
-  Number of Gamers: 1316
+  Number of Gamers: 1640
   Percentage of Gamers: 98%
-  Ratio: 1.01
-  TA: '202'
+  Ratio: 1.0
+  TA: '201'
   Tags:
   - Offline Mode
   - Single Player
@@ -219,10 +174,10 @@ Update Achievements:
   Description: Collect 30 coins
   GS: '200'
   Guide: false
-  Number of Gamers: 1316
+  Number of Gamers: 1639
   Percentage of Gamers: 98%
-  Ratio: 1.01
-  TA: '202'
+  Ratio: 1.0
+  TA: '201'
   Tags:
   - Offline Mode
   - Single Player
@@ -231,10 +186,10 @@ Update Achievements:
   Description: Collect 40 coins
   GS: '200'
   Guide: false
-  Number of Gamers: 1316
+  Number of Gamers: 1639
   Percentage of Gamers: 98%
-  Ratio: 1.01
-  TA: '202'
+  Ratio: 1.0
+  TA: '201'
   Tags:
   - Offline Mode
   - Single Player
@@ -242,11 +197,11 @@ Update Achievements:
 - Achievement Name: 50 coins
   Description: Collect 50 coins
   GS: '200'
-  Guide: true
-  Number of Gamers: 1316
+  Guide: false
+  Number of Gamers: 1639
   Percentage of Gamers: 98%
-  Ratio: 1.01
-  TA: '202'
+  Ratio: 1.0
+  TA: '201'
   Tags:
   - Offline Mode
   - Single Player
@@ -255,8 +210,8 @@ Update Achievements:
   Description: Beat level 2
   GS: '200'
   Guide: false
-  Number of Gamers: 1293
-  Percentage of Gamers: 96%
+  Number of Gamers: 1617
+  Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '203'
   Tags:
@@ -267,10 +222,10 @@ Update Achievements:
   Description: Beat level 7
   GS: '200'
   Guide: false
-  Number of Gamers: 1291
+  Number of Gamers: 1612
   Percentage of Gamers: 96%
-  Ratio: 1.02
-  TA: '204'
+  Ratio: 1.01
+  TA: '203'
   Tags:
   - Offline Mode
   - Single Player
@@ -279,7 +234,7 @@ Update Achievements:
   Description: Beat level 16
   GS: '200'
   Guide: false
-  Number of Gamers: 1265
+  Number of Gamers: 1574
   Percentage of Gamers: 94%
   Ratio: 1.03
   TA: '206'
@@ -291,10 +246,10 @@ Update Achievements:
   Description: Beat level 21
   GS: '200'
   Guide: false
-  Number of Gamers: 1242
-  Percentage of Gamers: 92%
-  Ratio: 1.04
-  TA: '208'
+  Number of Gamers: 1547
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '207'
   Tags:
   - Offline Mode
   - Single Player
@@ -303,7 +258,7 @@ Update Achievements:
   Description: Enter the chest at the final level
   GS: '200'
   Guide: false
-  Number of Gamers: 1232
+  Number of Gamers: 1534
   Percentage of Gamers: 92%
   Ratio: 1.04
   TA: '208'
@@ -311,4 +266,64 @@ Update Achievements:
   - Offline Mode
   - Single Player
   - Main Storyline
+- Achievement Name: Jump 5
+  Description: Jump 5 times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 1279
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '229'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Jump 10
+  Description: Jump 10 times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 1276
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '229'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Jump 15
+  Description: Jump 15 times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 1275
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '229'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Jump 20
+  Description: Jump 20 times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 1275
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '229'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Jump 30
+  Description: Jump 30 times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 1274
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '229'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 Walkthrough: false

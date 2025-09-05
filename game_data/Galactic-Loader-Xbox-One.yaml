@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 1.0
-Base GS: 2000
+- 1.5
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: Level 2
   Description: Reach the Level 2
   GS: '100'
   Guide: false
-  Number of Gamers: 734
+  Number of Gamers: 808
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Reach the Level 4
   GS: '100'
   Guide: false
-  Number of Gamers: 727
+  Number of Gamers: 800
   Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '101'
@@ -32,7 +32,7 @@ Base Game Achievements:
   Description: Reach the Level 6
   GS: '100'
   Guide: false
-  Number of Gamers: 719
+  Number of Gamers: 792
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '101'
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Reach the Level 8
   GS: '100'
   Guide: false
-  Number of Gamers: 717
+  Number of Gamers: 787
   Percentage of Gamers: 96%
-  Ratio: 1.01
-  TA: '101'
+  Ratio: 1.02
+  TA: '102'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,8 +56,8 @@ Base Game Achievements:
   Description: Reach the Level 10
   GS: '100'
   Guide: false
-  Number of Gamers: 711
-  Percentage of Gamers: 96%
+  Number of Gamers: 781
+  Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
   Tags:
@@ -68,7 +68,7 @@ Base Game Achievements:
   Description: Reach the Level 12
   GS: '100'
   Guide: false
-  Number of Gamers: 709
+  Number of Gamers: 779
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
@@ -80,7 +80,7 @@ Base Game Achievements:
   Description: Reach the Level 14
   GS: '100'
   Guide: false
-  Number of Gamers: 708
+  Number of Gamers: 778
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
@@ -92,7 +92,7 @@ Base Game Achievements:
   Description: Reach the Level 16
   GS: '100'
   Guide: false
-  Number of Gamers: 706
+  Number of Gamers: 777
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
@@ -104,7 +104,7 @@ Base Game Achievements:
   Description: Reach the Level 18
   GS: '100'
   Guide: false
-  Number of Gamers: 704
+  Number of Gamers: 776
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
@@ -116,7 +116,7 @@ Base Game Achievements:
   Description: Finish the prologue
   GS: '100'
   Guide: false
-  Number of Gamers: 743
+  Number of Gamers: 820
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '100'
@@ -124,36 +124,36 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.0675
-Base TA: 2135
+Base Ratio: 1.1856666666666666
+Base TA: 3557
 Delisted: false
 Developer: Alexandr Bondarenko
 Game Name: Galactic Loader (Xbox One)
 Genres: Platformer
 Install Size: 396.0
-Number of Completions: 587
-Number of Gamers: 744
+Number of Completions: 397
+Number of Gamers: 820
 Overall Completion Time:
 - 0.0
-- 1.0
-Overall GS: 2000
-Overall Ratio: 1.0675
-Overall TA: 2135
+- 1.5
+Overall GS: 3000
+Overall Ratio: 1.1856666666666666
+Overall TA: 3557
 PDU: 0
-Percentage Completed: 78.9
+Percentage Completed: 48.41
 Publisher: Desert Water Games
 Release Date: 18 October 2024
 Server Closure: false
-Site Rating: 2.16
+Site Rating: 2.27
 Update Achievements:
 - Achievement Name: Level 11
   Description: Reach the Level 11
   GS: '200'
   Guide: false
-  Number of Gamers: 591
-  Percentage of Gamers: 79%
-  Ratio: 1.12
-  TA: '224'
+  Number of Gamers: 681
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '219'
   Tags:
   - Offline Mode
   - Single Player
@@ -162,10 +162,10 @@ Update Achievements:
   Description: Reach the Level 13
   GS: '200'
   Guide: false
-  Number of Gamers: 590
-  Percentage of Gamers: 79%
-  Ratio: 1.12
-  TA: '224'
+  Number of Gamers: 680
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '219'
   Tags:
   - Offline Mode
   - Single Player
@@ -174,10 +174,10 @@ Update Achievements:
   Description: Reach the Level 15
   GS: '200'
   Guide: false
-  Number of Gamers: 589
-  Percentage of Gamers: 79%
-  Ratio: 1.12
-  TA: '224'
+  Number of Gamers: 680
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '219'
   Tags:
   - Offline Mode
   - Single Player
@@ -186,10 +186,10 @@ Update Achievements:
   Description: Reach the Level 17
   GS: '200'
   Guide: false
-  Number of Gamers: 587
-  Percentage of Gamers: 79%
-  Ratio: 1.12
-  TA: '225'
+  Number of Gamers: 679
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '219'
   Tags:
   - Offline Mode
   - Single Player
@@ -198,10 +198,70 @@ Update Achievements:
   Description: Reach the Level 19
   GS: '200'
   Guide: true
-  Number of Gamers: 586
-  Percentage of Gamers: 79%
-  Ratio: 1.12
-  TA: '225'
+  Number of Gamers: 678
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '219'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Level 7
+  Description: Reach the level 7
+  GS: '200'
+  Guide: false
+  Number of Gamers: 402
+  Percentage of Gamers: 49%
+  Ratio: 1.44
+  TA: '289'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Level 9
+  Description: Reach the level 9
+  GS: '200'
+  Guide: false
+  Number of Gamers: 402
+  Percentage of Gamers: 49%
+  Ratio: 1.44
+  TA: '289'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Level 20
+  Description: Reach the level 20
+  GS: '200'
+  Guide: false
+  Number of Gamers: 398
+  Percentage of Gamers: 49%
+  Ratio: 1.45
+  TA: '290'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Level 21
+  Description: Reach the level 21
+  GS: '200'
+  Guide: false
+  Number of Gamers: 398
+  Percentage of Gamers: 49%
+  Ratio: 1.45
+  TA: '290'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Level 22
+  Description: Reach the level 22
+  GS: '200'
+  Guide: false
+  Number of Gamers: 398
+  Percentage of Gamers: 49%
+  Ratio: 1.45
+  TA: '290'
   Tags:
   - Offline Mode
   - Single Player

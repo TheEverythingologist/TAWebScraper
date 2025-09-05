@@ -1,16 +1,16 @@
 Add On Achievements: []
 Base Completion Time:
-- 29
-- 30
+- 15.0
+- 20.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Rookie
   Description: Complete the tutorial
   GS: '10'
   Guide: false
-  Number of Gamers: 431
-  Percentage of Gamers: 81%
-  Ratio: 1.11
+  Number of Gamers: 490
+  Percentage of Gamers: 79%
+  Ratio: 1.12
   TA: '11'
   Tags:
   - Online/Offline
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Clear The City
   GS: '30'
   Guide: false
-  Number of Gamers: 228
-  Percentage of Gamers: 43%
-  Ratio: 1.53
-  TA: '46'
+  Number of Gamers: 275
+  Percentage of Gamers: 44%
+  Ratio: 1.49
+  TA: '44'
   Tags:
   - Online/Offline
   - Single Player
@@ -33,10 +33,10 @@ Base Game Achievements:
   Description: Clear The Docks
   GS: '30'
   Guide: false
-  Number of Gamers: 148
-  Percentage of Gamers: 28%
-  Ratio: 1.9
-  TA: '57'
+  Number of Gamers: 177
+  Percentage of Gamers: 29%
+  Ratio: 1.86
+  TA: '55'
   Tags:
   - Online/Offline
   - Single Player
@@ -46,10 +46,10 @@ Base Game Achievements:
   Description: Clear Eden
   GS: '30'
   Guide: false
-  Number of Gamers: 113
-  Percentage of Gamers: 21%
-  Ratio: 2.18
-  TA: '65'
+  Number of Gamers: 135
+  Percentage of Gamers: 22%
+  Ratio: 2.13
+  TA: '63'
   Tags:
   - Online/Offline
   - Single Player
@@ -59,10 +59,10 @@ Base Game Achievements:
   Description: Clear Outer Core
   GS: '30'
   Guide: false
-  Number of Gamers: 86
-  Percentage of Gamers: 16%
-  Ratio: 2.48
-  TA: '74'
+  Number of Gamers: 108
+  Percentage of Gamers: 17%
+  Ratio: 2.38
+  TA: '71'
   Tags:
   - Online/Offline
   - Single Player
@@ -72,10 +72,10 @@ Base Game Achievements:
   Description: Clear Inner Core
   GS: '90'
   Guide: false
-  Number of Gamers: 69
-  Percentage of Gamers: 13%
-  Ratio: 2.77
-  TA: '250'
+  Number of Gamers: 89
+  Percentage of Gamers: 14%
+  Ratio: 2.62
+  TA: '236'
   Tags:
   - Online/Offline
   - Single Player
@@ -85,10 +85,10 @@ Base Game Achievements:
   Description: Integrate with KORE
   GS: '90'
   Guide: false
-  Number of Gamers: 58
+  Number of Gamers: 69
   Percentage of Gamers: 11%
-  Ratio: 3.05
-  TA: '275'
+  Ratio: 2.98
+  TA: '268'
   Tags:
   - Online/Offline
   - Single Player
@@ -97,10 +97,10 @@ Base Game Achievements:
   Description: Destroy KORE
   GS: '90'
   Guide: false
-  Number of Gamers: 47
-  Percentage of Gamers: 9%
-  Ratio: 3.36
-  TA: '303'
+  Number of Gamers: 63
+  Percentage of Gamers: 10%
+  Ratio: 3.11
+  TA: '280'
   Tags:
   - Online/Offline
   - Single Player
@@ -109,7 +109,7 @@ Base Game Achievements:
   Description: Install a Nanite Upgrade in the Cryochamber
   GS: '15'
   Guide: false
-  Number of Gamers: 427
+  Number of Gamers: 497
   Percentage of Gamers: 80%
   Ratio: 1.11
   TA: '16'
@@ -122,9 +122,9 @@ Base Game Achievements:
   Description: Install 10 different Nanite Upgrades
   GS: '15'
   Guide: false
-  Number of Gamers: 212
-  Percentage of Gamers: 40%
-  Ratio: 1.58
+  Number of Gamers: 252
+  Percentage of Gamers: 41%
+  Ratio: 1.56
   TA: '23'
   Tags:
   - Online/Offline
@@ -135,9 +135,9 @@ Base Game Achievements:
   Description: Enhance a Nanite Upgrade to level 5
   GS: '15'
   Guide: false
-  Number of Gamers: 156
-  Percentage of Gamers: 29%
-  Ratio: 1.85
+  Number of Gamers: 190
+  Percentage of Gamers: 31%
+  Ratio: 1.8
   TA: '27'
   Tags:
   - Online/Offline
@@ -148,10 +148,10 @@ Base Game Achievements:
   Description: Install 3 weapon mods into a weapon
   GS: '15'
   Guide: false
-  Number of Gamers: 184
-  Percentage of Gamers: 34%
-  Ratio: 1.7
-  TA: '25'
+  Number of Gamers: 222
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '24'
   Tags:
   - Online/Offline
   - Single Player
@@ -160,10 +160,10 @@ Base Game Achievements:
   Description: Complete the game on Hard difficulty
   GS: '30'
   Guide: false
-  Number of Gamers: 30
+  Number of Gamers: 36
   Percentage of Gamers: 6%
-  Ratio: 4.21
-  TA: '126'
+  Ratio: 4.12
+  TA: '123'
   Tags:
   - Online/Offline
   - Single Player
@@ -173,9 +173,9 @@ Base Game Achievements:
   Description: Use the Autodoc to install an augment
   GS: '15'
   Guide: false
-  Number of Gamers: 503
+  Number of Gamers: 581
   Percentage of Gamers: 94%
-  Ratio: 1.03
+  Ratio: 1.02
   TA: '15'
   Tags:
   - Online/Offline
@@ -185,10 +185,10 @@ Base Game Achievements:
   Description: Install 15 different Augments in one run
   GS: '90'
   Guide: false
-  Number of Gamers: 47
+  Number of Gamers: 55
   Percentage of Gamers: 9%
-  Ratio: 3.36
-  TA: '303'
+  Ratio: 3.33
+  TA: '300'
   Tags:
   - Online/Offline
   - Single Player
@@ -197,10 +197,10 @@ Base Game Achievements:
   Description: Fully upgrade an Augment
   GS: '30'
   Guide: false
-  Number of Gamers: 132
-  Percentage of Gamers: 25%
-  Ratio: 2.01
-  TA: '60'
+  Number of Gamers: 161
+  Percentage of Gamers: 26%
+  Ratio: 1.95
+  TA: '58'
   Tags:
   - Online/Offline
   - Single Player
@@ -210,10 +210,10 @@ Base Game Achievements:
   Description: Fully upgrade 3 different Augments
   GS: '30'
   Guide: false
-  Number of Gamers: 50
+  Number of Gamers: 56
   Percentage of Gamers: 9%
-  Ratio: 3.29
-  TA: '98'
+  Ratio: 3.3
+  TA: '99'
   Tags:
   - Online/Offline
   - Single Player
@@ -223,10 +223,10 @@ Base Game Achievements:
   Description: Unlock a weapon in the armory
   GS: '15'
   Guide: false
-  Number of Gamers: 412
-  Percentage of Gamers: 77%
-  Ratio: 1.14
-  TA: '17'
+  Number of Gamers: 483
+  Percentage of Gamers: 78%
+  Ratio: 1.13
+  TA: '16'
   Tags:
   - Online/Offline
   - Single Player
@@ -235,9 +235,9 @@ Base Game Achievements:
   Description: Unlock 10 weapons in the Armoury
   GS: '30'
   Guide: false
-  Number of Gamers: 42
+  Number of Gamers: 50
   Percentage of Gamers: 8%
-  Ratio: 3.56
+  Ratio: 3.53
   TA: '106'
   Tags:
   - Online/Offline
@@ -247,7 +247,7 @@ Base Game Achievements:
   Description: Defeat 100 enemies
   GS: '15'
   Guide: false
-  Number of Gamers: 427
+  Number of Gamers: 497
   Percentage of Gamers: 80%
   Ratio: 1.11
   TA: '16'
@@ -260,9 +260,9 @@ Base Game Achievements:
   Description: Defeat 250 enemies
   GS: '15'
   Guide: false
-  Number of Gamers: 346
-  Percentage of Gamers: 65%
-  Ratio: 1.24
+  Number of Gamers: 409
+  Percentage of Gamers: 66%
+  Ratio: 1.22
   TA: '18'
   Tags:
   - Online/Offline
@@ -273,9 +273,9 @@ Base Game Achievements:
   Description: Defeat 500 enemies
   GS: '15'
   Guide: false
-  Number of Gamers: 274
-  Percentage of Gamers: 51%
-  Ratio: 1.39
+  Number of Gamers: 325
+  Percentage of Gamers: 53%
+  Ratio: 1.38
   TA: '20'
   Tags:
   - Online/Offline
@@ -286,10 +286,10 @@ Base Game Achievements:
   Description: Defeat 10 elites
   GS: '30'
   Guide: false
-  Number of Gamers: 147
-  Percentage of Gamers: 28%
-  Ratio: 1.9
-  TA: '57'
+  Number of Gamers: 181
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '55'
   Tags:
   - Online/Offline
   - Single Player
@@ -299,9 +299,9 @@ Base Game Achievements:
   Description: Complete a challenge
   GS: '15'
   Guide: false
-  Number of Gamers: 403
-  Percentage of Gamers: 75%
-  Ratio: 1.15
+  Number of Gamers: 470
+  Percentage of Gamers: 76%
+  Ratio: 1.14
   TA: '17'
   Tags:
   - Online/Offline
@@ -311,9 +311,9 @@ Base Game Achievements:
   Description: Complete 10 challenges
   GS: '30'
   Guide: false
-  Number of Gamers: 240
-  Percentage of Gamers: 45%
-  Ratio: 1.49
+  Number of Gamers: 285
+  Percentage of Gamers: 46%
+  Ratio: 1.47
   TA: '44'
   Tags:
   - Online/Offline
@@ -324,10 +324,10 @@ Base Game Achievements:
   Description: Use 5 different gadgets in one run
   GS: '30'
   Guide: false
-  Number of Gamers: 117
+  Number of Gamers: 136
   Percentage of Gamers: 22%
-  Ratio: 2.13
-  TA: '64'
+  Ratio: 2.12
+  TA: '63'
   Tags:
   - Online/Offline
   - Single Player
@@ -336,9 +336,9 @@ Base Game Achievements:
   Description: Defeat 200 enemies with melee attacks
   GS: '30'
   Guide: false
-  Number of Gamers: 174
+  Number of Gamers: 204
   Percentage of Gamers: 33%
-  Ratio: 1.75
+  Ratio: 1.73
   TA: '52'
   Tags:
   - Online/Offline
@@ -349,10 +349,10 @@ Base Game Achievements:
   Description: Loot 30 supply crates
   GS: '30'
   Guide: false
-  Number of Gamers: 168
-  Percentage of Gamers: 31%
-  Ratio: 1.78
-  TA: '53'
+  Number of Gamers: 201
+  Percentage of Gamers: 32%
+  Ratio: 1.75
+  TA: '52'
   Tags:
   - Online/Offline
   - Single Player
@@ -362,32 +362,32 @@ Base Game Achievements:
   Description: Complete the game on Hell difficulty
   GS: '90'
   Guide: false
-  Number of Gamers: 19
+  Number of Gamers: 23
   Percentage of Gamers: 4%
-  Ratio: 5.44
-  TA: '489'
+  Ratio: 5.16
+  TA: '464'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
   - Difficulty Specific
-Base Ratio: 2.727
-Base TA: 2727
+Base Ratio: 2.636
+Base TA: 2636
 Delisted: false
 Developer: Trickjump Games
 Game Name: ArcRunner
 Genres: Third Person Shooter, Roguelite
 Install Size: 4430.0
-Number of Completions: 18
-Number of Gamers: 534
+Number of Completions: 22
+Number of Gamers: 619
 Overall Completion Time:
-- 29
-- 30
+- 15.0
+- 20.0
 Overall GS: 1000
-Overall Ratio: 2.727
-Overall TA: 2727
+Overall Ratio: 2.636
+Overall TA: 2636
 PDU: 0
-Percentage Completed: 3.37
+Percentage Completed: 3.55
 Publisher: PQube
 Release Date: 18 April 2023
 Server Closure: false

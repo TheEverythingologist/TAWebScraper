@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 1.0
-Base GS: 2000
+- 1.5
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: The Tree of Hate
   Description: Beat the 1st level
   GS: '100'
   Guide: true
-  Number of Gamers: 1112
+  Number of Gamers: 1447
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '100'
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Beat the 2nd level
   GS: '100'
   Guide: false
-  Number of Gamers: 1093
+  Number of Gamers: 1423
   Percentage of Gamers: 98%
-  Ratio: 1.01
-  TA: '101'
+  Ratio: 1.0
+  TA: '100'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Beat the 3rd level
   GS: '100'
   Guide: false
-  Number of Gamers: 1067
+  Number of Gamers: 1394
   Percentage of Gamers: 96%
-  Ratio: 1.02
-  TA: '102'
+  Ratio: 1.01
+  TA: '101'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,7 +44,7 @@ Base Game Achievements:
   Description: Beat the 4th level
   GS: '100'
   Guide: false
-  Number of Gamers: 1064
+  Number of Gamers: 1389
   Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '102'
@@ -56,8 +56,8 @@ Base Game Achievements:
   Description: Unlock the new character
   GS: '100'
   Guide: false
-  Number of Gamers: 1094
-  Percentage of Gamers: 98%
+  Number of Gamers: 1428
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
   Tags:
@@ -67,10 +67,10 @@ Base Game Achievements:
   Description: Unlock a new item
   GS: '100'
   Guide: false
-  Number of Gamers: 1091
+  Number of Gamers: 1419
   Percentage of Gamers: 98%
-  Ratio: 1.0
-  TA: '100'
+  Ratio: 1.01
+  TA: '101'
   Tags:
   - Offline Mode
   - Single Player
@@ -79,7 +79,7 @@ Base Game Achievements:
   Description: Fully upgrade one of the characters
   GS: '100'
   Guide: false
-  Number of Gamers: 1091
+  Number of Gamers: 1420
   Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '101'
@@ -91,8 +91,8 @@ Base Game Achievements:
   Description: Unlock a third character
   GS: '100'
   Guide: false
-  Number of Gamers: 1084
-  Percentage of Gamers: 97%
+  Number of Gamers: 1417
+  Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '101'
   Tags:
@@ -102,8 +102,8 @@ Base Game Achievements:
   Description: Kill 750 enemies
   GS: '100'
   Guide: false
-  Number of Gamers: 1109
-  Percentage of Gamers: 100%
+  Number of Gamers: 1441
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
   Tags:
@@ -114,31 +114,31 @@ Base Game Achievements:
   Description: Kill 1500 enemies
   GS: '100'
   Guide: false
-  Number of Gamers: 1095
-  Percentage of Gamers: 98%
+  Number of Gamers: 1430
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 1.04
-Base TA: 2080
+Base Ratio: 1.149
+Base TA: 3447
 Delisted: false
 Developer: HugePixel
 Game Name: 'Exodus: Creepy Time (Xbox One)'
 Genres: Roguelite
 Install Size: 436.0
-Number of Completions: 944
-Number of Gamers: 1114
+Number of Completions: 738
+Number of Gamers: 1449
 Overall Completion Time:
 - 0.0
-- 1.0
-Overall GS: 2000
-Overall Ratio: 1.04
-Overall TA: 2080
+- 1.5
+Overall GS: 3000
+Overall Ratio: 1.149
+Overall TA: 3447
 PDU: 0
-Percentage Completed: 84.74
+Percentage Completed: 50.93
 Publisher: Desert Water Games
 Release Date: 26 July 2024
 Server Closure: false
@@ -148,10 +148,10 @@ Update Achievements:
   Description: Fully upgrade two of the characters
   GS: '200'
   Guide: false
-  Number of Gamers: 961
-  Percentage of Gamers: 86%
-  Ratio: 1.07
-  TA: '215'
+  Number of Gamers: 1322
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '209'
   Tags:
   - Offline Mode
   - Single Player
@@ -160,10 +160,10 @@ Update Achievements:
   Description: Unlock all items
   GS: '200'
   Guide: false
-  Number of Gamers: 960
-  Percentage of Gamers: 86%
-  Ratio: 1.07
-  TA: '215'
+  Number of Gamers: 1323
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '209'
   Tags:
   - Offline Mode
   - Single Player
@@ -172,10 +172,10 @@ Update Achievements:
   Description: Unlock the third character
   GS: '200'
   Guide: false
-  Number of Gamers: 957
-  Percentage of Gamers: 86%
-  Ratio: 1.07
-  TA: '215'
+  Number of Gamers: 1325
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '209'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -183,10 +183,10 @@ Update Achievements:
   Description: Kill 2500 enemies
   GS: '200'
   Guide: false
-  Number of Gamers: 971
-  Percentage of Gamers: 87%
-  Ratio: 1.07
-  TA: '214'
+  Number of Gamers: 1339
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '208'
   Tags:
   - Offline Mode
   - Single Player
@@ -195,12 +195,69 @@ Update Achievements:
   Description: Kill 3000 enemies
   GS: '200'
   Guide: false
-  Number of Gamers: 970
-  Percentage of Gamers: 87%
-  Ratio: 1.07
-  TA: '214'
+  Number of Gamers: 1336
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '208'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
+- Achievement Name: Rampage
+  Description: Kill 3500 enemies
+  GS: '200'
+  Guide: true
+  Number of Gamers: 749
+  Percentage of Gamers: 52%
+  Ratio: 1.39
+  TA: '279'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Unstoppable
+  Description: Kill 4000 enemies
+  GS: '200'
+  Guide: false
+  Number of Gamers: 749
+  Percentage of Gamers: 52%
+  Ratio: 1.39
+  TA: '279'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Heroes from the myth
+  Description: Unlock 4th character
+  GS: '200'
+  Guide: false
+  Number of Gamers: 740
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '280'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Training pays off
+  Description: Fully upgrade three characters
+  GS: '200'
+  Guide: false
+  Number of Gamers: 746
+  Percentage of Gamers: 51%
+  Ratio: 1.39
+  TA: '279'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Enough to slay the evil root
+  Description: Unlock 5th character
+  GS: '200'
+  Guide: false
+  Number of Gamers: 735
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '281'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 Walkthrough: false

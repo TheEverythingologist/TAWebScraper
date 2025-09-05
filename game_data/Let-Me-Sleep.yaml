@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- 5
-- 6
+- 3.0
+- 4.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: COMPLETIONIST
   Description: Complete all the levels.
   GS: '100'
   Guide: false
-  Number of Gamers: 176
-  Percentage of Gamers: 43%
-  Ratio: 1.51
-  TA: '151'
+  Number of Gamers: 329
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '147'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -19,10 +19,10 @@ Base Game Achievements:
   Description: Click 2000 times.
   GS: '50'
   Guide: false
-  Number of Gamers: 191
-  Percentage of Gamers: 47%
-  Ratio: 1.45
-  TA: '72'
+  Number of Gamers: 350
+  Percentage of Gamers: 49%
+  Ratio: 1.42
+  TA: '71'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -30,9 +30,9 @@ Base Game Achievements:
   Description: Play the game for 30 minutes.
   GS: '50'
   Guide: true
-  Number of Gamers: 295
-  Percentage of Gamers: 73%
-  Ratio: 1.17
+  Number of Gamers: 529
+  Percentage of Gamers: 74%
+  Ratio: 1.16
   TA: '58'
   Tags:
   - Offline Mode
@@ -42,10 +42,10 @@ Base Game Achievements:
   Description: Play the game for 60 minutes.
   GS: '50'
   Guide: false
-  Number of Gamers: 251
-  Percentage of Gamers: 62%
-  Ratio: 1.27
-  TA: '63'
+  Number of Gamers: 453
+  Percentage of Gamers: 63%
+  Ratio: 1.25
+  TA: '62'
   Tags:
   - Offline Mode
   - Single Player
@@ -54,10 +54,10 @@ Base Game Achievements:
   Description: Use hint 100 times.
   GS: '50'
   Guide: true
-  Number of Gamers: 106
-  Percentage of Gamers: 26%
-  Ratio: 1.96
-  TA: '98'
+  Number of Gamers: 222
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '89'
   Tags:
   - Offline Mode
   - Single Player
@@ -66,10 +66,10 @@ Base Game Achievements:
   Description: Use any item 30 times.
   GS: '50'
   Guide: false
-  Number of Gamers: 232
-  Percentage of Gamers: 57%
-  Ratio: 1.32
-  TA: '66'
+  Number of Gamers: 423
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '65'
   Tags:
   - Offline Mode
   - Single Player
@@ -78,10 +78,10 @@ Base Game Achievements:
   Description: Use any item 100 times.
   GS: '50'
   Guide: false
-  Number of Gamers: 130
-  Percentage of Gamers: 32%
-  Ratio: 1.76
-  TA: '88'
+  Number of Gamers: 247
+  Percentage of Gamers: 34%
+  Ratio: 1.69
+  TA: '84'
   Tags:
   - Offline Mode
   - Single Player
@@ -89,11 +89,11 @@ Base Game Achievements:
 - Achievement Name: The real deal
   Description: Complete all the levels in one go.
   GS: '50'
-  Guide: false
-  Number of Gamers: 134
-  Percentage of Gamers: 33%
-  Ratio: 1.74
-  TA: '87'
+  Guide: true
+  Number of Gamers: 258
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '83'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -101,10 +101,10 @@ Base Game Achievements:
   Description: Complete a level in 3 seconds.
   GS: '50'
   Guide: false
-  Number of Gamers: 235
-  Percentage of Gamers: 58%
-  Ratio: 1.31
-  TA: '65'
+  Number of Gamers: 428
+  Percentage of Gamers: 60%
+  Ratio: 1.29
+  TA: '64'
   Tags:
   - Offline Mode
   - Single Player
@@ -113,10 +113,10 @@ Base Game Achievements:
   Description: Complete 8 mini-games.
   GS: '50'
   Guide: false
-  Number of Gamers: 240
-  Percentage of Gamers: 59%
-  Ratio: 1.3
-  TA: '65'
+  Number of Gamers: 442
+  Percentage of Gamers: 62%
+  Ratio: 1.27
+  TA: '63'
   Tags:
   - Offline Mode
   - Single Player
@@ -125,10 +125,10 @@ Base Game Achievements:
   Description: Complete 10 levels with 0 missclicks.
   GS: '50'
   Guide: true
-  Number of Gamers: 214
-  Percentage of Gamers: 53%
-  Ratio: 1.37
-  TA: '68'
+  Number of Gamers: 395
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '67'
   Tags:
   - Offline Mode
   - Single Player
@@ -137,7 +137,7 @@ Base Game Achievements:
   Description: Trigger a missclick animation 10 times.
   GS: '50'
   Guide: false
-  Number of Gamers: 404
+  Number of Gamers: 715
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '50'
@@ -149,10 +149,10 @@ Base Game Achievements:
   Description: Fail a level 3 times.
   GS: '50'
   Guide: false
-  Number of Gamers: 244
-  Percentage of Gamers: 60%
-  Ratio: 1.28
-  TA: '64'
+  Number of Gamers: 453
+  Percentage of Gamers: 63%
+  Ratio: 1.25
+  TA: '62'
   Tags:
   - Offline Mode
   - Single Player
@@ -160,11 +160,11 @@ Base Game Achievements:
 - Achievement Name: Another gamer
   Description: Come back to the game 5 times.
   GS: '50'
-  Guide: true
-  Number of Gamers: 175
-  Percentage of Gamers: 43%
-  Ratio: 1.51
-  TA: '75'
+  Guide: false
+  Number of Gamers: 321
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '74'
   Tags:
   - Offline Mode
   - Single Player
@@ -173,10 +173,10 @@ Base Game Achievements:
   Description: Perform 300 actions.
   GS: '50'
   Guide: false
-  Number of Gamers: 202
-  Percentage of Gamers: 50%
-  Ratio: 1.42
-  TA: '71'
+  Number of Gamers: 370
+  Percentage of Gamers: 52%
+  Ratio: 1.39
+  TA: '69'
   Tags:
   - Offline Mode
   - Single Player
@@ -185,18 +185,18 @@ Base Game Achievements:
   Description: Complete every level 2 times.
   GS: '50'
   Guide: false
-  Number of Gamers: 114
-  Percentage of Gamers: 28%
-  Ratio: 1.88
-  TA: '94'
+  Number of Gamers: 218
+  Percentage of Gamers: 30%
+  Ratio: 1.8
+  TA: '90'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Fearless
   Description: Interact with any monster 50 times.
   GS: '50'
-  Guide: true
-  Number of Gamers: 303
+  Guide: false
+  Number of Gamers: 539
   Percentage of Gamers: 75%
   Ratio: 1.15
   TA: '57'
@@ -208,10 +208,10 @@ Base Game Achievements:
   Description: Complete a level with only 2 seconds left.
   GS: '50'
   Guide: false
-  Number of Gamers: 229
-  Percentage of Gamers: 56%
-  Ratio: 1.33
-  TA: '66'
+  Number of Gamers: 414
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '65'
   Tags:
   - Offline Mode
   - Single Player
@@ -220,34 +220,34 @@ Base Game Achievements:
   Description: Annoy the character 20 times.
   GS: '50'
   Guide: false
-  Number of Gamers: 264
-  Percentage of Gamers: 65%
-  Ratio: 1.23
-  TA: '61'
+  Number of Gamers: 480
+  Percentage of Gamers: 67%
+  Ratio: 1.21
+  TA: '60'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 1.419
-Base TA: 1419
+Base Ratio: 1.38
+Base TA: 1380
 Delisted: false
 Developer: Brave Giant
 Game Name: Let Me Sleep
 Genres: Puzzle
 Install Size: 1290.0
-Number of Completions: 96
-Number of Gamers: 406
+Number of Completions: 196
+Number of Gamers: 718
 Overall Completion Time:
-- 5
-- 6
+- 3.0
+- 4.0
 Overall GS: 1000
-Overall Ratio: 1.419
-Overall TA: 1419
+Overall Ratio: 1.38
+Overall TA: 1380
 PDU: 0
-Percentage Completed: 23.65
+Percentage Completed: 27.3
 Publisher: Silesia Games
 Release Date: 22 January 2025
 Server Closure: false
-Site Rating: 3.75
+Site Rating: 3.68
 Update Achievements: []
 Walkthrough: false

@@ -1,1330 +1,306 @@
-Add On Achievements:
-- Achievement Name: MW2 - Crocodile
+Add On Achievements: []
+Base Completion Time:
+- 0.0
+- 0.5
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Crocodile
   Description: Kill 3 enemies while underwater in 'Wetwork'
   GS: '30'
-  Guide: true
-  Number of Gamers: 61296
-  Percentage of Gamers: 31%
-  Ratio: 2.25
-  TA: '67'
+  Guide: false
+  Number of Gamers: 5449
+  Percentage of Gamers: 51%
+  Ratio: 1.39
+  TA: '41'
   Tags:
   - Offline Game Mode
   - Single Player
-- Achievement Name: MW2 - Must be Wind
+- Achievement Name: Must be Wind
   Description: Rescue the hostages in 'Countdown' without the enemies firing their
     weapons.
   GS: '60'
-  Guide: true
-  Number of Gamers: 32408
-  Percentage of Gamers: 17%
-  Ratio: 3.1
-  TA: '186'
+  Guide: false
+  Number of Gamers: 3517
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '104'
   Tags:
   - Offline Game Mode
   - Single Player
-- Achievement Name: MW2 - Gunless
+- Achievement Name: Gunless
   Description: Finish 'Alone' without firing a gun.
   GS: '60'
-  Guide: true
-  Number of Gamers: 40446
-  Percentage of Gamers: 21%
-  Ratio: 2.77
-  TA: '166'
+  Guide: false
+  Number of Gamers: 4048
+  Percentage of Gamers: 38%
+  Ratio: 1.62
+  TA: '97'
   Tags:
   - Offline Game Mode
   - Single Player
-- Achievement Name: MW2 - Test Drive
+- Achievement Name: Test Drive
   Description: Drive 5 types of vehicles in 'Violence and Timing'.
   GS: '20'
-  Guide: true
-  Number of Gamers: 31604
-  Percentage of Gamers: 16%
-  Ratio: 3.14
-  TA: '62'
+  Guide: false
+  Number of Gamers: 3634
+  Percentage of Gamers: 34%
+  Ratio: 1.71
+  TA: '34'
   Tags:
   - Offline Game Mode
   - Single Player
-- Achievement Name: MW2 - Ghost-in-Training
+- Achievement Name: Ghost-in-Training
   Description: Reach the penthouse in 'El Sin Nombre' without killing anyone.
   GS: '60'
-  Guide: true
-  Number of Gamers: 36488
-  Percentage of Gamers: 19%
-  Ratio: 2.92
-  TA: '175'
+  Guide: false
+  Number of Gamers: 3834
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '100'
   Tags:
-  - Offline Mode
+  - Offline Game Mode
   - Single Player
-  - Buggy
-- Achievement Name: MW2 - Floor is Lava
+- Achievement Name: Floor is Lava
   Description: In 'Dark Water' advance 90 meters of ship deck without touching the
     deck.
   GS: '30'
-  Guide: true
-  Number of Gamers: 30428
-  Percentage of Gamers: 16%
-  Ratio: 3.2
-  TA: '96'
+  Guide: false
+  Number of Gamers: 3492
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '52'
   Tags:
   - Offline Game Mode
   - Single Player
-- Achievement Name: MW2 - Keeping this One
+- Achievement Name: Keeping this One
   Description: Reach Price using the first vehicle you hijack.
   GS: '30'
-  Guide: true
-  Number of Gamers: 32966
-  Percentage of Gamers: 17%
-  Ratio: 3.07
-  TA: '92'
+  Guide: false
+  Number of Gamers: 3624
+  Percentage of Gamers: 34%
+  Ratio: 1.71
+  TA: '51'
   Tags:
   - Offline Game Mode
   - Single Player
-- Achievement Name: MW2 - Gentleman Thief
+- Achievement Name: Gentleman Thief
   Description: Open three Safes in the Campaign.
   GS: '60'
-  Guide: true
-  Number of Gamers: 35657
-  Percentage of Gamers: 18%
-  Ratio: 2.96
-  TA: '177'
+  Guide: false
+  Number of Gamers: 3671
+  Percentage of Gamers: 34%
+  Ratio: 1.7
+  TA: '102'
   Tags:
   - Offline Mode
   - Single Player
-  - Cooperative
   - Collectable
-- Achievement Name: MW2 - Wall of Duty
+- Achievement Name: Wall of Duty
   Description: Kill 3 Enemies with the Riot Shield in the Campaign or Co-op.
   GS: '20'
-  Guide: true
-  Number of Gamers: 57904
-  Percentage of Gamers: 30%
-  Ratio: 2.32
-  TA: '46'
+  Guide: false
+  Number of Gamers: 4703
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '30'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
-  - External Content
-- Achievement Name: MW2 - Daredevil
+  - Collectable
+- Achievement Name: Daredevil
   Description: While affected by one flashbang kill two enemies in the Campaign or
     Co-op.
   GS: '20'
-  Guide: true
-  Number of Gamers: 44266
-  Percentage of Gamers: 23%
-  Ratio: 2.65
-  TA: '53'
+  Guide: false
+  Number of Gamers: 4241
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '31'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
-  - External Content
-- Achievement Name: MW2 - Practice makes Perfect
+- Achievement Name: Practice makes Perfect
   Description: Shoot all the targets in the training area in 'Ghost Team'.
   GS: '30'
-  Guide: true
-  Number of Gamers: 24581
-  Percentage of Gamers: 13%
-  Ratio: 3.56
-  TA: '106'
+  Guide: false
+  Number of Gamers: 3108
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '55'
   Tags:
   - Offline Game Mode
   - Single Player
-- Achievement Name: MW2 - A Crappy Way to Die
+- Achievement Name: A Crappy Way to Die
   Description: Kill the enemy in the porta-potty.
   GS: '20'
-  Guide: true
-  Number of Gamers: 45306
-  Percentage of Gamers: 23%
-  Ratio: 2.62
-  TA: '52'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: MW2 - Nessy
-  Description: Reach the barge without being seen in 'Wetwork'.
-  GS: '30'
-  Guide: true
-  Number of Gamers: 41178
-  Percentage of Gamers: 21%
-  Ratio: 2.75
-  TA: '82'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: MW2 - No time to lose
-  Description: Complete the CCTV sequence in 4 minutes.
-  GS: '30'
-  Guide: true
-  Number of Gamers: 20936
-  Percentage of Gamers: 11%
-  Ratio: 3.86
-  TA: '115'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Time/Date
-- Achievement Name: MW2 - Backpack Guy
-  Description: Kill gassed or blinded enemies using a molotov, semtex and frag in
-    'Prison Break'.
-  GS: '30'
-  Guide: true
-  Number of Gamers: 24856
-  Percentage of Gamers: 13%
-  Ratio: 3.54
-  TA: '106'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Buggy
-- Achievement Name: MW2 - Cutting heads off Snakes
-  Description: Finish all Campaign missions on Veteran or Realism difficulty.
-  GS: '100'
-  Guide: true
-  Number of Gamers: 34334
-  Percentage of Gamers: 18%
-  Ratio: 3.01
-  TA: '301'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Difficulty Specific
-  - Stackable
-- Achievement Name: MW2 - Time for Pints
-  Description: Finish the Campaign on any difficulty.
-  GS: '100'
-  Guide: true
-  Number of Gamers: 154162
-  Percentage of Gamers: 79%
-  Ratio: 1.42
-  TA: '142'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Main Storyline
-  - Story Completed
-  - Stackable
-- Achievement Name: MW2 - Nobody was There
-  Description: Never trigger the alarm in 'Recon by Fire'.
-  GS: '30'
-  Guide: true
-  Number of Gamers: 103615
-  Percentage of Gamers: 53%
-  Ratio: 1.73
-  TA: '52'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: MW2 - Night Fight
-  Description: Earn three Stars in 'Low Profile'.
-  GS: '40'
-  Guide: true
-  Number of Gamers: 34810
-  Percentage of Gamers: 18%
-  Ratio: 2.99
-  TA: '119'
-  Tags:
-  - Online Mode
-  - Cooperative
-  - External Content
-- Achievement Name: MW2 - Hellride
-  Description: Earn three Stars in 'Denied Area'.
-  GS: '40'
-  Guide: true
-  Number of Gamers: 11180
-  Percentage of Gamers: 6%
-  Ratio: 5.28
-  TA: '211'
-  Tags:
-  - Online Mode
-  - Cooperative
-  - External Content
-- Achievement Name: MW2 - Kings of the Mountain
-  Description: 'Earn three Stars in ''Defender: Mt. Zaya''.'
-  GS: '40'
-  Guide: true
-  Number of Gamers: 28758
-  Percentage of Gamers: 15%
-  Ratio: 3.29
-  TA: '131'
-  Tags:
-  - Online Mode
-  - Cooperative
-  - External Content
-- Achievement Name: MW2 - Going Dark
-  Description: Complete 'Low Profile' without triggering any Alarms.
-  GS: '40'
-  Guide: true
-  Number of Gamers: 13035
-  Percentage of Gamers: 7%
-  Ratio: 4.89
-  TA: '195'
-  Tags:
-  - Online Mode
-  - Cooperative
-  - External Content
-- Achievement Name: MW2 - Only the Beginning
-  Description: Earn at least one Star in Co-op.
-  GS: '40'
-  Guide: true
-  Number of Gamers: 106190
-  Percentage of Gamers: 54%
-  Ratio: 1.71
-  TA: '68'
-  Tags:
-  - Online Mode
-  - Cooperative
-  - External Content
-- Achievement Name: MW2 - Full SSE
-  Description: Find 20 intel fragments in Co-op.
-  GS: '40'
-  Guide: true
-  Number of Gamers: 11456
-  Percentage of Gamers: 6%
-  Ratio: 5.22
-  TA: '208'
-  Tags:
-  - Online Mode
-  - Cooperative
-  - Collectable
-  - External Content
-- Achievement Name: MW3 - And So It Begins
-  Description: Successfully Exfil in MWZ
-  GS: '10'
-  Guide: true
-  Number of Gamers: 147784
-  Percentage of Gamers: 54%
+  Guide: false
+  Number of Gamers: 4245
+  Percentage of Gamers: 40%
   Ratio: 1.58
-  TA: '15'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Cooperative
-- Achievement Name: MW3 - Write Off
-  Description: Kill 500 Enemies using an Insured Weapon in MWZ
-  GS: '10'
-  Guide: true
-  Number of Gamers: 82860
-  Percentage of Gamers: 30%
-  Ratio: 2.11
-  TA: '21'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Cooperative
-  - Cumulative +
-- Achievement Name: MW3 - Perkaholic
-  Description: Have 9 perks active at the same time in MWZ
-  GS: '10'
-  Guide: true
-  Number of Gamers: 51911
-  Percentage of Gamers: 19%
-  Ratio: 2.67
-  TA: '26'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Cooperative
-  - Cumulative
-- Achievement Name: MW3 - Gravestone
-  Description: Kill 100 Zombies with a vehicle in a single deployment in MWZ
-  GS: '10'
-  Guide: true
-  Number of Gamers: 26454
-  Percentage of Gamers: 10%
-  Ratio: 3.74
-  TA: '37'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Cooperative
-- Achievement Name: MW3 - Back From The Dead
-  Description: Reclaim your gear from a Tombstone in MWZ
-  GS: '10'
-  Guide: true
-  Number of Gamers: 35354
-  Percentage of Gamers: 13%
-  Ratio: 3.23
-  TA: '32'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Cooperative
-  - Collectable
-- Achievement Name: MW3 - Helpful Stranger
-  Description: Revive a player from a different Squad in MWZ
-  GS: '10'
-  Guide: true
-  Number of Gamers: 70035
-  Percentage of Gamers: 25%
-  Ratio: 2.3
-  TA: '23'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Cooperative
-- Achievement Name: MW3 - You Can Pet The Dog
-  Description: Pet a Hellhound in MWZ
-  GS: '10'
-  Guide: true
-  Number of Gamers: 51342
-  Percentage of Gamers: 19%
-  Ratio: 2.68
-  TA: '26'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Cooperative
-  - Collectable
-- Achievement Name: MW3 - Hired Gun
-  Description: Complete 20 Contracts in MWZ
-  GS: '10'
-  Guide: true
-  Number of Gamers: 88927
-  Percentage of Gamers: 32%
-  Ratio: 2.04
-  TA: '20'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Cooperative
-  - Cumulative +
-- Achievement Name: MW3 - Seeing Red
-  Description: Complete 5 Contracts in the High Threat Zone in a single deployment
-    in MWZ
-  GS: '30'
-  Guide: true
-  Number of Gamers: 37477
-  Percentage of Gamers: 14%
-  Ratio: 3.14
-  TA: '94'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Cooperative
-  - Difficulty Specific
-  - Cumulative +
-- Achievement Name: MW3 - The End?
-  Description: Complete Act III in MWZ
-  GS: '30'
-  Guide: true
-  Number of Gamers: 25225
-  Percentage of Gamers: 9%
-  Ratio: 3.83
-  TA: '115'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Cooperative
-- Achievement Name: MW3 - Slaughterhouse
-  Description: Kill 50,000 total Enemies in MWZ
-  GS: '30'
-  Guide: true
-  Number of Gamers: 14631
-  Percentage of Gamers: 5%
-  Ratio: 5.03
-  TA: '151'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Cooperative
-  - Cumulative +
-  - Time Consuming
-  - Buggy
-- Achievement Name: MW3 - Conqueror
-  Description: Defeat a Warlord in MWZ
-  GS: '30'
-  Guide: true
-  Number of Gamers: 46736
-  Percentage of Gamers: 17%
-  Ratio: 2.81
-  TA: '84'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Cooperative
-- Achievement Name: MW3 - One Against All
-  Description: Kill Orcus while in a 6 person squad in MWZ
-  GS: '90'
-  Guide: true
-  Number of Gamers: 4381
-  Percentage of Gamers: 2%
-  Ratio: 9.21
-  TA: '829'
-  Tags:
-  - Online Mode
-  - Cooperative
-  - 12 Players Required
-- Achievement Name: MW3 - No Such Thing as Too Many
-  Description: Find and use all Armaments in Open Combat Missions
-  GS: '30'
-  Guide: true
-  Number of Gamers: 11629
-  Percentage of Gamers: 4%
-  Ratio: 5.65
-  TA: '169'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Collectable
-- Achievement Name: MW3 - Dialed In
-  Description: Customize your loadout in every Open Combat Mission
-  GS: '15'
-  Guide: true
-  Number of Gamers: 67343
-  Percentage of Gamers: 24%
-  Ratio: 2.34
-  TA: '35'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: MW3 - Gearhead
-  Description: Collect all Weapons and Field Upgrades from Supply Boxes in Open Combat
-    Missions
-  GS: '90'
-  Guide: true
-  Number of Gamers: 12014
-  Percentage of Gamers: 4%
-  Ratio: 5.56
-  TA: '500'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Collectable
-- Achievement Name: MW3 - Sample Platter
-  Description: Use 5 different Armaments in Open Combat Missions
-  GS: '15'
-  Guide: true
-  Number of Gamers: 83529
-  Percentage of Gamers: 30%
-  Ratio: 2.1
   TA: '31'
   Tags:
   - Offline Game Mode
   - Single Player
-- Achievement Name: MW3 - I Call Shotgun!
-  Description: Drive a vehicle with a Sentry Gun on the back and have it kill 5 enemies
-  GS: '15'
-  Guide: true
-  Number of Gamers: 18645
-  Percentage of Gamers: 7%
-  Ratio: 4.46
-  TA: '66'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Cumulative +
-  - Buggy
-- Achievement Name: MW3 - Tag, You're it!
-  Description: Use the Spotter Scope to tag 60 enemies or items in Open Combat Missions
-  GS: '15'
-  Guide: true
-  Number of Gamers: 33179
-  Percentage of Gamers: 12%
-  Ratio: 3.34
-  TA: '50'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Cumulative +
-- Achievement Name: MW3 - Bulletproof
-  Description: Find all Plate Carrier Upgrades in Open Combat Missions
-  GS: '15'
-  Guide: true
-  Number of Gamers: 12285
-  Percentage of Gamers: 4%
-  Ratio: 5.5
-  TA: '82'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Collectable
-- Achievement Name: MW3 - Have You Tried Turning it Off and On?
-  Description: Use a Shock Stick to disable an enemy Sentry Gun
-  GS: '15'
-  Guide: true
-  Number of Gamers: 22655
-  Percentage of Gamers: 8%
-  Ratio: 4.04
-  TA: '60'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Versus
-- Achievement Name: MW3 - That's One Way to Do It...
-  Description: Destroy an airborne enemy helicopter with a Mortar Strike
-  GS: '15'
-  Guide: true
-  Number of Gamers: 11906
-  Percentage of Gamers: 4%
-  Ratio: 5.58
-  TA: '83'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Versus
-- Achievement Name: MW3 - Hey, Catch!
-  Description: Throw and hit an enemy directly with a Flammable Cannister then blow
-    them up with it
-  GS: '15'
-  Guide: true
-  Number of Gamers: 18461
-  Percentage of Gamers: 7%
-  Ratio: 4.48
-  TA: '67'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Versus
-- Achievement Name: MW3 - Frequent Flyer
-  Description: BASE jump and travel more than 150 m with your parachute
-  GS: '15'
-  Guide: true
-  Number of Gamers: 37919
-  Percentage of Gamers: 14%
-  Ratio: 3.12
-  TA: '46'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Versus
-- Achievement Name: MW3 - High Wire Act
-  Description: Kill 10 enemies while using a zipline
-  GS: '15'
-  Guide: true
-  Number of Gamers: 11944
-  Percentage of Gamers: 4%
-  Ratio: 5.57
-  TA: '83'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Versus
-  - Cumulative +
-- Achievement Name: MW3 - Never Bury Your Enemies Alive
-  Description: Complete the campaign
-  GS: '90'
+- Achievement Name: Nessy
+  Description: Reach the barge without being seen in 'Wetwork'.
+  GS: '30'
   Guide: false
-  Number of Gamers: 93268
-  Percentage of Gamers: 34%
-  Ratio: 1.99
-  TA: '179'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Main Storyline
-  - Story Completed
-  - Stackable
-- Achievement Name: MW3 - 141 Ready
-  Description: Complete the campaign on Veteran
-  GS: '90'
-  Guide: true
-  Number of Gamers: 16810
-  Percentage of Gamers: 6%
-  Ratio: 4.7
-  TA: '423'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Main Storyline
-  - Difficulty Specific
-  - Stackable
-- Achievement Name: MW3 - Death Row
-  Description: Kill 12 enemies while descending in the panopticon in 'Operation 627'
-  GS: '15'
-  Guide: true
-  Number of Gamers: 132395
-  Percentage of Gamers: 48%
-  Ratio: 1.67
-  TA: '25'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: MW3 - Floater
-  Description: Parachute off a Gantry Crane onto the roof of the Harbormaster's Building
-    in 'Precious Cargo'
-  GS: '15'
-  Guide: true
-  Number of Gamers: 29706
-  Percentage of Gamers: 11%
-  Ratio: 3.53
-  TA: '53'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: MW3 - Helo Hat Trick
-  Description: Destroy each objective helicopter in 'Reactor' with a different Armament
-  GS: '15'
-  Guide: true
-  Number of Gamers: 17878
-  Percentage of Gamers: 6%
-  Ratio: 4.55
-  TA: '68'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: MW3 - 2-fer
-  Description: Using the EBR-14, kill 2 enemies with 1 bullet 5 times in 'Payload'
-    without sounding the alarm
-  GS: '15'
-  Guide: true
-  Number of Gamers: 14435
-  Percentage of Gamers: 5%
-  Ratio: 5.07
-  TA: '76'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: MW3 - Back in the Field
-  Description: Acquire the Major's keycard in 'Deep Cover' within 90 seconds without
-    being detected
-  GS: '15'
-  Guide: true
-  Number of Gamers: 13109
-  Percentage of Gamers: 5%
-  Ratio: 5.32
-  TA: '79'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Time/Date
-- Achievement Name: MW3 - Shot Blocked
-  Description: Shoot the gun out of the air in 'Flashpoint' before a terrorist catches
-    it
-  GS: '15'
-  Guide: true
-  Number of Gamers: 14658
-  Percentage of Gamers: 5%
-  Ratio: 5.03
-  TA: '75'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: MW3 - Think She'll Notice?
-  Description: Destroy all of the cars in the mansion garage in 'Oligarch'
-  GS: '10'
-  Guide: true
-  Number of Gamers: 20453
-  Percentage of Gamers: 7%
-  Ratio: 4.26
-  TA: '42'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Collectable
-- Achievement Name: MW3 - Elevator Out of Order
-  Description: Reach the roof in 'Highrise' under 45 seconds
-  GS: '15'
-  Guide: true
-  Number of Gamers: 14969
-  Percentage of Gamers: 5%
-  Ratio: 4.98
-  TA: '74'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Time/Date
-- Achievement Name: MW3 - Snow Angel
-  Description: Execute the forest sniper in 'Frozen Tundra' with a takedown
-  GS: '15'
-  Guide: true
-  Number of Gamers: 17781
-  Percentage of Gamers: 6%
-  Ratio: 4.57
-  TA: '68'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: MW3 - Hitchhiker
-  Description: Defuse the bomb on the truck in 'Gora Dam' while it is in motion
-  GS: '15'
-  Guide: true
-  Number of Gamers: 20028
-  Percentage of Gamers: 7%
-  Ratio: 4.3
-  TA: '64'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: MW3 - Your Tax Dollars at Work
-  Description: Use a missile to take out a single enemy in 'Danger Close'
-  GS: '15'
-  Guide: true
-  Number of Gamers: 54838
-  Percentage of Gamers: 20%
-  Ratio: 2.6
-  TA: '39'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: BO6 - Case Closed
-  Description: Complete the Campaign on any difficulty
-  GS: '75'
-  Guide: true
-  Number of Gamers: 121737
-  Percentage of Gamers: 30%
-  Ratio: 1.93
-  TA: '144'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Main Storyline
-  - Story Completed
-  - Stackable
-- Achievement Name: BO6 - Case in Point
-  Description: Complete the Campaign on Veteran difficulty
-  GS: '100'
-  Guide: true
-  Number of Gamers: 22218
-  Percentage of Gamers: 5%
-  Ratio: 4.51
-  TA: '451'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Difficulty Specific
-  - Stackable
-- Achievement Name: BO6 - Unexpected Move
-  Description: Complete Bishop Takes Rook in Campaign on any difficulty
-  GS: '15'
-  Guide: true
-  Number of Gamers: 256132
-  Percentage of Gamers: 62%
-  Ratio: 1.33
-  TA: '19'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Main Storyline
-- Achievement Name: BO6 - Talent Acquisition
-  Description: Complete Blood Feud in Campaign on any difficulty
-  GS: '15'
-  Guide: true
-  Number of Gamers: 220551
-  Percentage of Gamers: 54%
-  Ratio: 1.43
-  TA: '21'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Main Storyline
-- Achievement Name: BO6 - Breaking News
-  Description: Complete Most Wanted in Campaign on any difficulty
-  GS: '15'
-  Guide: false
-  Number of Gamers: 186836
-  Percentage of Gamers: 45%
-  Ratio: 1.55
-  TA: '23'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Main Storyline
-- Achievement Name: BO6 - Bunker Busters
-  Description: Complete Hunting Season and The Cradle in Campaign on any difficulty
-  GS: '15'
-  Guide: true
-  Number of Gamers: 156340
+  Number of Gamers: 4007
   Percentage of Gamers: 38%
-  Ratio: 1.7
-  TA: '25'
+  Ratio: 1.63
+  TA: '48'
   Tags:
-  - Online Mode
+  - Offline Game Mode
   - Single Player
-  - Main Storyline
-- Achievement Name: BO6 - Head Games
-  Description: Complete Emergence in Campaign on any difficulty
-  GS: '15'
-  Guide: true
-  Number of Gamers: 139070
-  Percentage of Gamers: 34%
-  Ratio: 1.8
-  TA: '27'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Main Storyline
-- Achievement Name: BO6 - Jackpot
-  Description: Complete High Rollers in Campaign on any difficulty
-  GS: '15'
-  Guide: true
-  Number of Gamers: 133757
-  Percentage of Gamers: 33%
-  Ratio: 1.84
-  TA: '27'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Main Storyline
-- Achievement Name: BO6 - Grounded
-  Description: Complete Ground Control in Campaign on any difficulty
-  GS: '15'
-  Guide: true
-  Number of Gamers: 129762
-  Percentage of Gamers: 32%
-  Ratio: 1.86
-  TA: '28'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Main Storyline
-- Achievement Name: BO6 - Consolation Prize
-  Description: Complete Under the Radar in Campaign on any difficulty
-  GS: '15'
-  Guide: false
-  Number of Gamers: 126738
-  Percentage of Gamers: 31%
-  Ratio: 1.89
-  TA: '28'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Main Storyline
-- Achievement Name: BO6 - Capitol Punishment
-  Description: Complete Separation Anxiety in Campaign on any difficulty
-  GS: '15'
-  Guide: true
-  Number of Gamers: 121971
-  Percentage of Gamers: 30%
-  Ratio: 1.92
-  TA: '28'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Main Storyline
-- Achievement Name: BO6 - Buried at Sea
-  Description: Complete Checkmate in Campaign on any difficulty
-  GS: '15'
-  Guide: false
-  Number of Gamers: 121737
-  Percentage of Gamers: 30%
-  Ratio: 1.93
-  TA: '28'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Main Storyline
-- Achievement Name: BO6 - Covert Agent
-  Description: In Blood Feud, reach the Guild meeting without ever breaking stealth
-  GS: '15'
-  Guide: true
-  Number of Gamers: 54927
-  Percentage of Gamers: 13%
-  Ratio: 2.87
-  TA: '43'
-  Tags:
-  - Online Mode
-  - Single Player
-- Achievement Name: BO6 - Party's Over
-  Description: In Most Wanted, perform 5 takedowns on guards in the gala without being
-    spotted
-  GS: '15'
-  Guide: true
-  Number of Gamers: 61508
-  Percentage of Gamers: 15%
-  Ratio: 2.71
-  TA: '40'
-  Tags:
-  - Online Mode
-  - Single Player
-- Achievement Name: BO6 - Full Clear
-  Description: In Hunting Season, complete every POI on the Tac Map
-  GS: '15'
-  Guide: true
-  Number of Gamers: 94264
-  Percentage of Gamers: 23%
-  Ratio: 2.19
-  TA: '32'
-  Tags:
-  - Online Mode
-  - Single Player
-- Achievement Name: BO6 - Skewer the Winged Beast
-  Description: In Under the Radar, have the SAM target itself and the helicopter
-  GS: '15'
-  Guide: true
-  Number of Gamers: 29687
-  Percentage of Gamers: 7%
-  Ratio: 3.91
-  TA: '58'
-  Tags:
-  - Online Mode
-  - Single Player
-- Achievement Name: BO6 - Bulldozed
-  Description: In Ground Control, crush 25 enemies while driving the tank
-  GS: '15'
-  Guide: true
-  Number of Gamers: 17930
-  Percentage of Gamers: 4%
-  Ratio: 5.03
-  TA: '75'
-  Tags:
-  - Online Mode
-  - Single Player
-- Achievement Name: BO6 - David vs Goliath
-  Description: In Checkmate, destroy the APC using an RC-XD
-  GS: '15'
-  Guide: true
-  Number of Gamers: 19317
-  Percentage of Gamers: 5%
-  Ratio: 4.84
-  TA: '72'
-  Tags:
-  - Online Mode
-  - Single Player
-- Achievement Name: BO6 - Dipped in Gold
-  Description: Purchase all Safehouse and Player Upgrades in Campaign
+- Achievement Name: No time to lose
+  Description: Complete the CCTV sequence in 4 minutes.
   GS: '30'
-  Guide: true
-  Number of Gamers: 20389
-  Percentage of Gamers: 5%
-  Ratio: 4.72
-  TA: '141'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Shop
-- Achievement Name: BO6 - The Puzzles, Mason
-  Description: Complete all Safehouse Puzzles in Campaign
-  GS: '30'
-  Guide: true
-  Number of Gamers: 122884
-  Percentage of Gamers: 30%
+  Guide: false
+  Number of Gamers: 2884
+  Percentage of Gamers: 27%
   Ratio: 1.92
   TA: '57'
   Tags:
-  - Online Mode
+  - Offline Mode
   - Single Player
-- Achievement Name: BO6 - Seek and Destroy
-  Description: Get 2 Kills with a single remote controlled Throwing Knife from at
-    least 50 meters away in Campaign
-  GS: '15'
-  Guide: true
-  Number of Gamers: 25026
-  Percentage of Gamers: 6%
-  Ratio: 4.26
-  TA: '63'
-  Tags:
-  - Online Mode
-  - Single Player
-- Achievement Name: BO6 - Rapid Reflexes
-  Description: Get 5 Headshot Kills during a single use of the Adrenaline Stim in
-    Campaign
-  GS: '15'
-  Guide: true
-  Number of Gamers: 19781
-  Percentage of Gamers: 5%
-  Ratio: 4.79
-  TA: '71'
-  Tags:
-  - Online Mode
-  - Single Player
-- Achievement Name: BO6 - Close Combat Specialist
-  Description: Perform 10 takedowns in Campaign
-  GS: '10'
-  Guide: true
-  Number of Gamers: 174285
-  Percentage of Gamers: 42%
-  Ratio: 1.61
-  TA: '16'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Cumulative +
-- Achievement Name: BO6 - Destructive Wake
-  Description: Get 5 or more Kills with a single Scorestreak in Campaign
-  GS: '10'
-  Guide: true
-  Number of Gamers: 148793
-  Percentage of Gamers: 36%
-  Ratio: 1.74
-  TA: '17'
-  Tags:
-  - Online Mode
-  - Single Player
-- Achievement Name: BO6 - Return of the King
-  Description: Enter Prestige 1
-  GS: '75'
-  Guide: true
-  Number of Gamers: 204995
-  Percentage of Gamers: 50%
-  Ratio: 1.48
-  TA: '111'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Level
-- Achievement Name: BO6 - Show Off
-  Description: Earn a Mastery Badge for any weapon
+  - Time/Date
+- Achievement Name: Backpack Guy
+  Description: Kill gassed or blinded enemies using a molotov, semtex and frag in
+    'Prison Break'.
   GS: '30'
-  Guide: true
-  Number of Gamers: 262331
-  Percentage of Gamers: 64%
-  Ratio: 1.31
-  TA: '39'
+  Guide: false
+  Number of Gamers: 3109
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '55'
   Tags:
-  - Online Mode
-  - Versus
-- Achievement Name: BO6 - Camos Are Forever
-  Description: Unlock any Diamond or Opal Camo
-  GS: '30'
-  Guide: true
-  Number of Gamers: 93299
-  Percentage of Gamers: 23%
-  Ratio: 2.21
-  TA: '66'
-  Tags:
-  - Online Mode
+  - Offline Game Mode
   - Single Player
-  - Versus
-- Achievement Name: BO6 - The Pale Horse Arrives
-  Description: Get 500 Eliminations in Multiplayer
-  GS: '30'
-  Guide: true
-  Number of Gamers: 265396
-  Percentage of Gamers: 65%
-  Ratio: 1.3
-  TA: '39'
-  Tags:
-  - Online Mode
-  - Versus
-  - Cumulative +
-- Achievement Name: BO6 - Podium Finish
-  Description: Win 25 Multiplayer Matches
-  GS: '30'
-  Guide: true
-  Number of Gamers: 225859
-  Percentage of Gamers: 55%
-  Ratio: 1.41
-  TA: '42'
-  Tags:
-  - Online Mode
-  - Versus
-  - Cumulative +
-- Achievement Name: BO6 - Rush Hour
-  Description: Get a Double Kill with the RC-XD in Multiplayer
-  GS: '15'
-  Guide: true
-  Number of Gamers: 61313
-  Percentage of Gamers: 15%
-  Ratio: 2.71
-  TA: '40'
-  Tags:
-  - Online Mode
-  - Versus
-  - Buggy
-- Achievement Name: BO6 - Red Carpet
-  Description: Get featured in the Best Play 3 times in Multiplayer
-  GS: '30'
-  Guide: true
-  Number of Gamers: 234659
-  Percentage of Gamers: 57%
-  Ratio: 1.39
-  TA: '41'
-  Tags:
-  - Online Mode
-  - Versus
-  - Cumulative +
-- Achievement Name: BO6 - Doing Your Part
-  Description: Complete the Training Course in Multiplayer
-  GS: '10'
-  Guide: true
-  Number of Gamers: 75479
-  Percentage of Gamers: 18%
-  Ratio: 2.44
-  TA: '24'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Versus
-- Achievement Name: BO6 - Betrayal
-  Description: Kill an enemy from behind while disguised by the Sleeper Agent
-  GS: '15'
-  Guide: true
-  Number of Gamers: 71345
-  Percentage of Gamers: 17%
-  Ratio: 2.53
-  TA: '37'
-  Tags:
-  - Online Mode
-  - Versus
-- Achievement Name: BO6 - Heavy Ordinance Specialist
-  Description: Destroy 50 Aerial Scorestreaks with Launchers in Multiplayer
-  GS: '15'
-  Guide: true
-  Number of Gamers: 49266
-  Percentage of Gamers: 12%
-  Ratio: 3.03
-  TA: '45'
-  Tags:
-  - Online Mode
-  - Versus
-  - Cumulative +
-- Achievement Name: BO6 - Stylish Kill
-  Description: Get 75 Eliminations while having an active Combat Speciality Perk in
-    Multiplayer
-  GS: '15'
-  Guide: true
-  Number of Gamers: 263519
-  Percentage of Gamers: 64%
-  Ratio: 1.31
-  TA: '19'
-  Tags:
-  - Online Mode
-  - Versus
-- Achievement Name: BO6 - No Mo' Modi
-  Description: Get out of jail, but not for free
-  GS: '30'
-  Guide: true
-  Number of Gamers: 81723
-  Percentage of Gamers: 20%
-  Ratio: 2.35
-  TA: '70'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Cooperative
-- Achievement Name: BO6 - Culinary Delight
-  Description: In Terminus, consume a fish cooked with a special ingredient
-  GS: '15'
-  Guide: true
-  Number of Gamers: 17558
-  Percentage of Gamers: 4%
-  Ratio: 5.08
-  TA: '76'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Cooperative
-  - Difficulty Specific
-- Achievement Name: BO6 - Treasure Hunter
-  Description: In Terminus, find the final Talisman
-  GS: '15'
-  Guide: true
-  Number of Gamers: 25828
-  Percentage of Gamers: 6%
-  Ratio: 4.19
-  TA: '62'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Cooperative
-  - Difficulty Specific
-- Achievement Name: BO6 - Bye-Bye, Dark Aether
-  Description: Help the lost scientist complete his experiment
-  GS: '30'
-  Guide: true
-  Number of Gamers: 141848
-  Percentage of Gamers: 35%
-  Ratio: 1.78
-  TA: '53'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Cooperative
-- Achievement Name: BO6 - World Domination
-  Description: In Liberty Falls, tap into your Supervillain side
-  GS: '15'
-  Guide: true
-  Number of Gamers: 34749
-  Percentage of Gamers: 8%
-  Ratio: 3.61
-  TA: '54'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Cooperative
-  - Difficulty Specific
-- Achievement Name: BO6 - Deadwood
-  Description: In Liberty Falls, achieve a sporting high score
-  GS: '15'
-  Guide: true
-  Number of Gamers: 41100
-  Percentage of Gamers: 10%
-  Ratio: 3.32
-  TA: '49'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Cooperative
-  - Difficulty Specific
-- Achievement Name: BO6 - To Know Your Enemy...
-  Description: Get 100 Kills while using Mutant Injections in Zombies
-  GS: '15'
-  Guide: true
-  Number of Gamers: 129929
-  Percentage of Gamers: 32%
-  Ratio: 1.86
-  TA: '28'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Cooperative
-  - Cumulative +
-- Achievement Name: BO6 - Cyberized
-  Description: Research all Augments for 10 Items in Zombies
-  GS: '15'
-  Guide: true
-  Number of Gamers: 38154
-  Percentage of Gamers: 9%
-  Ratio: 3.48
-  TA: '52'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Cooperative
-- Achievement Name: BO6 - Annihilation
-  Description: Get 100 Elite Zombie Eliminations in Zombies
-  GS: '30'
-  Guide: true
-  Number of Gamers: 71946
-  Percentage of Gamers: 18%
-  Ratio: 2.51
-  TA: '75'
-  Tags:
-  - Online Mode
-  - Single Player
-  - Cooperative
-  - Cumulative +
-Base Completion Time:
-- 170.0
-- 220.5
-Base GS: 3000
-Base Game Achievements: []
-Base Ratio: 3.245
-Base TA: 9735
-Delisted: false
-Developer: Infinity Ward, Treyarch, Sledgehammer Games, Raven Software, Activision
-  Shanghai
-Game Name: Call of Duty
-Genres: First Person Shooter, Battle Royale
-Install Size: 315190.0
-Number of Completions: 895
-Number of Gamers: 500093
-Overall Completion Time:
-- 170.0
-- 220.5
-Overall GS: 3000
-Overall Ratio: 3.245
-Overall TA: 9735
-PDU: 0
-Percentage Completed: 0.18
-Publisher: Activision
-Release Date: 28 October 2022
-Server Closure: false
-Site Rating: 3.88
-Update Achievements:
-- Achievement Name: MW3 - The First Step
-  Description: Reach Level 55
+- Achievement Name: Cutting heads off Snakes
+  Description: Finish all Campaign missions on Veteran or Realism difficulty.
   GS: '100'
   Guide: true
-  Number of Gamers: 190354
-  Percentage of Gamers: 38%
-  Ratio: 1.61
-  TA: '161'
+  Number of Gamers: 3418
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '176'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Time for Pints
+  Description: Finish the Campaign on any difficulty.
+  GS: '100'
+  Guide: false
+  Number of Gamers: 8374
+  Percentage of Gamers: 79%
+  Ratio: 1.12
+  TA: '112'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
+- Achievement Name: Nobody was There
+  Description: Never trigger the alarm in 'Recon by Fire'.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 6361
+  Percentage of Gamers: 60%
+  Ratio: 1.29
+  TA: '38'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Night Fight
+  Description: Earn three Stars in 'Low Profile'.
+  GS: '40'
+  Guide: false
+  Number of Gamers: 2796
+  Percentage of Gamers: 26%
+  Ratio: 1.95
+  TA: '78'
   Tags:
   - Online Mode
-  - Single Player
   - Cooperative
-  - Versus
-  - Level
+- Achievement Name: Hellride
+  Description: Earn three Stars in 'Denied Area'.
+  GS: '40'
+  Guide: false
+  Number of Gamers: 1911
+  Percentage of Gamers: 18%
+  Ratio: 2.36
+  TA: '94'
+  Tags:
+  - Online Mode
+  - Cooperative
+- Achievement Name: Kings of the Mountain
+  Description: 'Earn three Stars in ''Defender: Mt. Zaya''.'
+  GS: '40'
+  Guide: false
+  Number of Gamers: 2424
+  Percentage of Gamers: 23%
+  Ratio: 2.09
+  TA: '83'
+  Tags:
+  - Online Mode
+  - Cooperative
+- Achievement Name: Going Dark
+  Description: Complete 'Low Profile' without triggering any Alarms.
+  GS: '40'
+  Guide: false
+  Number of Gamers: 1919
+  Percentage of Gamers: 18%
+  Ratio: 2.35
+  TA: '94'
+  Tags:
+  - Online Mode
+  - Cooperative
+- Achievement Name: Only the Beginning
+  Description: Earn at least one Star in Co-op.
+  GS: '40'
+  Guide: false
+  Number of Gamers: 4543
+  Percentage of Gamers: 43%
+  Ratio: 1.53
+  TA: '61'
+  Tags:
+  - Online Mode
+  - Cooperative
+- Achievement Name: Full SSE
+  Description: Find 20 intel fragments in Co-op.
+  GS: '40'
+  Guide: false
+  Number of Gamers: 1975
+  Percentage of Gamers: 19%
+  Ratio: 2.32
+  TA: '92'
+  Tags:
+  - Online Mode
+  - Cooperative
+  - Collectable
+Base Ratio: 1.716
+Base TA: 1716
+Delisted: false
+Developer: Infinity Ward
+Game Name: 'Call of Duty: Modern Warfare II'
+Genres: First Person Shooter
+Install Size: 157810.0
+Number of Completions: 1561
+Number of Gamers: 10665
+Overall Completion Time:
+- 0.0
+- 0.5
+Overall GS: 1000
+Overall Ratio: 1.716
+Overall TA: 1716
+PDU: 0
+Percentage Completed: 14.64
+Publisher: Activision
+Release Date: 29 July 2025
+Server Closure: false
+Site Rating: 3.65
+Update Achievements: []
 Walkthrough: false

@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- 148
-- 149
+- 287
+- 288
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: A Real Deal
   Description: Reach profile level 50.
   GS: '60'
   Guide: false
-  Number of Gamers: 255
-  Percentage of Gamers: 7%
-  Ratio: 3.77
-  TA: '226'
+  Number of Gamers: 302
+  Percentage of Gamers: 8%
+  Ratio: 3.58
+  TA: '215'
   Tags:
   - Online Mode
   - Versus
@@ -21,10 +21,10 @@ Base Game Achievements:
   Description: Build a full Drop Team using modules of level 5 or higher.
   GS: '60'
   Guide: true
-  Number of Gamers: 51
-  Percentage of Gamers: 1%
-  Ratio: 8.45
-  TA: '507'
+  Number of Gamers: 67
+  Percentage of Gamers: 2%
+  Ratio: 7.67
+  TA: '460'
   Tags:
   - Online Mode
   - Versus
@@ -35,10 +35,10 @@ Base Game Achievements:
   Description: Win 100 battles while in Squad.
   GS: '60'
   Guide: false
-  Number of Gamers: 66
+  Number of Gamers: 81
   Percentage of Gamers: 2%
-  Ratio: 7.42
-  TA: '445'
+  Ratio: 6.92
+  TA: '415'
   Tags:
   - Online Mode
   - Versus
@@ -47,10 +47,10 @@ Base Game Achievements:
   Description: Win a battle with the enemy team being 99% to victory.
   GS: '60'
   Guide: false
-  Number of Gamers: 270
-  Percentage of Gamers: 7%
-  Ratio: 3.67
-  TA: '220'
+  Number of Gamers: 304
+  Percentage of Gamers: 8%
+  Ratio: 3.58
+  TA: '215'
   Tags:
   - Online Mode
   - Versus
@@ -59,8 +59,8 @@ Base Game Achievements:
     in critical condition.
   GS: '60'
   Guide: false
-  Number of Gamers: 2226
-  Percentage of Gamers: 61%
+  Number of Gamers: 2415
+  Percentage of Gamers: 62%
   Ratio: 1.27
   TA: '76'
   Tags:
@@ -70,10 +70,10 @@ Base Game Achievements:
   Description: Complete 40 Freecon jobs.
   GS: '45'
   Guide: false
-  Number of Gamers: 231
-  Percentage of Gamers: 6%
-  Ratio: 3.97
-  TA: '178'
+  Number of Gamers: 264
+  Percentage of Gamers: 7%
+  Ratio: 3.83
+  TA: '172'
   Tags:
   - Online Mode
   - Versus
@@ -83,10 +83,10 @@ Base Game Achievements:
   Description: Complete 40 FortEvo jobs.
   GS: '45'
   Guide: false
-  Number of Gamers: 140
+  Number of Gamers: 175
   Percentage of Gamers: 4%
-  Ratio: 5.1
-  TA: '229'
+  Ratio: 4.71
+  TA: '211'
   Tags:
   - Online Mode
   - Versus
@@ -96,10 +96,10 @@ Base Game Achievements:
   Description: Complete 40 Mayflower jobs.
   GS: '45'
   Guide: false
-  Number of Gamers: 187
-  Percentage of Gamers: 5%
-  Ratio: 4.41
-  TA: '198'
+  Number of Gamers: 224
+  Percentage of Gamers: 6%
+  Ratio: 4.16
+  TA: '187'
   Tags:
   - Online Mode
   - Versus
@@ -109,10 +109,10 @@ Base Game Achievements:
   Description: Complete 100 Battles.
   GS: '45'
   Guide: false
-  Number of Gamers: 536
+  Number of Gamers: 580
   Percentage of Gamers: 15%
-  Ratio: 2.6
-  TA: '117'
+  Ratio: 2.59
+  TA: '116'
   Tags:
   - Online Mode
   - Versus
@@ -121,10 +121,10 @@ Base Game Achievements:
   Description: Get MVP in 15 battles.
   GS: '45'
   Guide: false
-  Number of Gamers: 429
+  Number of Gamers: 486
   Percentage of Gamers: 12%
-  Ratio: 2.91
-  TA: '131'
+  Ratio: 2.83
+  TA: '127'
   Tags:
   - Online Mode
   - Versus
@@ -133,9 +133,9 @@ Base Game Achievements:
   Description: Promote 5 pilots to level 3 or higher.
   GS: '45'
   Guide: false
-  Number of Gamers: 805
+  Number of Gamers: 867
   Percentage of Gamers: 22%
-  Ratio: 2.12
+  Ratio: 2.11
   TA: '95'
   Tags:
   - Online Mode
@@ -146,10 +146,10 @@ Base Game Achievements:
   Description: Destroy 50 enemies from long range.
   GS: '45'
   Guide: false
-  Number of Gamers: 191
+  Number of Gamers: 207
   Percentage of Gamers: 5%
-  Ratio: 4.36
-  TA: '196'
+  Ratio: 4.33
+  TA: '194'
   Tags:
   - Online Mode
   - Versus
@@ -158,10 +158,10 @@ Base Game Achievements:
   Description: Destroy 50 enemies at close range.
   GS: '45'
   Guide: false
-  Number of Gamers: 1371
+  Number of Gamers: 1480
   Percentage of Gamers: 38%
-  Ratio: 1.63
-  TA: '73'
+  Ratio: 1.62
+  TA: '72'
   Tags:
   - Online Mode
   - Versus
@@ -170,10 +170,10 @@ Base Game Achievements:
   Description: Destroy 50 enemies while in the air.
   GS: '45'
   Guide: false
-  Number of Gamers: 597
-  Percentage of Gamers: 16%
-  Ratio: 2.47
-  TA: '111'
+  Number of Gamers: 648
+  Percentage of Gamers: 17%
+  Ratio: 2.45
+  TA: '110'
   Tags:
   - Online Mode
   - Versus
@@ -182,10 +182,10 @@ Base Game Achievements:
   Description: Destroy 50 enemies using robot abilities.
   GS: '45'
   Guide: false
-  Number of Gamers: 564
-  Percentage of Gamers: 15%
-  Ratio: 2.54
-  TA: '114'
+  Number of Gamers: 608
+  Percentage of Gamers: 16%
+  Ratio: 2.52
+  TA: '113'
   Tags:
   - Online Mode
   - Versus
@@ -194,10 +194,10 @@ Base Game Achievements:
   Description: Destroy 50 enemies using a Titan.
   GS: '45'
   Guide: false
-  Number of Gamers: 600
-  Percentage of Gamers: 16%
-  Ratio: 2.46
-  TA: '110'
+  Number of Gamers: 668
+  Percentage of Gamers: 17%
+  Ratio: 2.41
+  TA: '108'
   Tags:
   - Online Mode
   - Versus
@@ -206,10 +206,10 @@ Base Game Achievements:
   Description: Perform 10 environmental kills.
   GS: '45'
   Guide: false
-  Number of Gamers: 204
+  Number of Gamers: 222
   Percentage of Gamers: 6%
-  Ratio: 4.22
-  TA: '190'
+  Ratio: 4.2
+  TA: '189'
   Tags:
   - Online Mode
   - Versus
@@ -217,10 +217,10 @@ Base Game Achievements:
 - Achievement Name: The Gang's All Here
   Description: Complete a full Drop Team.
   GS: '10'
-  Guide: true
-  Number of Gamers: 2091
+  Guide: false
+  Number of Gamers: 2209
   Percentage of Gamers: 57%
-  Ratio: 1.31
+  Ratio: 1.32
   TA: '13'
   Tags:
   - Online Mode
@@ -230,9 +230,9 @@ Base Game Achievements:
   Description: Acquire your first Titan.
   GS: '10'
   Guide: false
-  Number of Gamers: 1819
+  Number of Gamers: 1964
   Percentage of Gamers: 50%
-  Ratio: 1.41
+  Ratio: 1.4
   TA: '14'
   Tags:
   - Online Mode
@@ -242,9 +242,9 @@ Base Game Achievements:
   Description: Acquire your second Titan.
   GS: '10'
   Guide: false
-  Number of Gamers: 1149
-  Percentage of Gamers: 31%
-  Ratio: 1.78
+  Number of Gamers: 1252
+  Percentage of Gamers: 32%
+  Ratio: 1.76
   TA: '17'
   Tags:
   - Online Mode
@@ -254,8 +254,8 @@ Base Game Achievements:
   Description: Destroy an enemy capturing a Warp Gate.
   GS: '10'
   Guide: false
-  Number of Gamers: 2283
-  Percentage of Gamers: 63%
+  Number of Gamers: 2430
+  Percentage of Gamers: 62%
   Ratio: 1.26
   TA: '12'
   Tags:
@@ -265,9 +265,9 @@ Base Game Achievements:
   Description: Deal 10 million damage using automatic weapons.
   GS: '10'
   Guide: false
-  Number of Gamers: 1187
+  Number of Gamers: 1284
   Percentage of Gamers: 33%
-  Ratio: 1.75
+  Ratio: 1.74
   TA: '17'
   Tags:
   - Online Mode
@@ -277,10 +277,10 @@ Base Game Achievements:
   Description: Deal 10 million damage using shotguns.
   GS: '10'
   Guide: false
-  Number of Gamers: 529
-  Percentage of Gamers: 14%
-  Ratio: 2.62
-  TA: '26'
+  Number of Gamers: 606
+  Percentage of Gamers: 16%
+  Ratio: 2.53
+  TA: '25'
   Tags:
   - Online Mode
   - Versus
@@ -289,9 +289,9 @@ Base Game Achievements:
   Description: Deal 10 million damage using sniper weapons.
   GS: '10'
   Guide: false
-  Number of Gamers: 635
-  Percentage of Gamers: 17%
-  Ratio: 2.39
+  Number of Gamers: 695
+  Percentage of Gamers: 18%
+  Ratio: 2.36
   TA: '23'
   Tags:
   - Online Mode
@@ -301,9 +301,9 @@ Base Game Achievements:
   Description: Deal 10 million damage using missile weapons.
   GS: '10'
   Guide: false
-  Number of Gamers: 368
+  Number of Gamers: 402
   Percentage of Gamers: 10%
-  Ratio: 3.14
+  Ratio: 3.11
   TA: '31'
   Tags:
   - Online Mode
@@ -313,10 +313,10 @@ Base Game Achievements:
   Description: Deal 10 million damage using special weapons.
   GS: '10'
   Guide: false
-  Number of Gamers: 914
+  Number of Gamers: 963
   Percentage of Gamers: 25%
-  Ratio: 1.99
-  TA: '19'
+  Ratio: 2.0
+  TA: '20'
   Tags:
   - Online Mode
   - Versus
@@ -325,7 +325,7 @@ Base Game Achievements:
   Description: Deal 10 million damage using artillery weapons.
   GS: '10'
   Guide: false
-  Number of Gamers: 476
+  Number of Gamers: 508
   Percentage of Gamers: 13%
   Ratio: 2.76
   TA: '27'
@@ -337,10 +337,10 @@ Base Game Achievements:
   Description: Destroy 20 enemies using Assault-class torso.
   GS: '10'
   Guide: false
-  Number of Gamers: 1241
-  Percentage of Gamers: 34%
-  Ratio: 1.71
-  TA: '17'
+  Number of Gamers: 1354
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '16'
   Tags:
   - Online Mode
   - Versus
@@ -349,9 +349,9 @@ Base Game Achievements:
   Description: Destroy 20 enemies using Defender-class torso.
   GS: '10'
   Guide: false
-  Number of Gamers: 1405
+  Number of Gamers: 1520
   Percentage of Gamers: 39%
-  Ratio: 1.61
+  Ratio: 1.6
   TA: '16'
   Tags:
   - Online Mode
@@ -361,7 +361,7 @@ Base Game Achievements:
   Description: Destroy 20 enemies using Flanker-class torso.
   GS: '10'
   Guide: false
-  Number of Gamers: 1277
+  Number of Gamers: 1362
   Percentage of Gamers: 35%
   Ratio: 1.68
   TA: '16'
@@ -373,9 +373,9 @@ Base Game Achievements:
   Description: Destroy 20 enemies using Tactician-class torso.
   GS: '10'
   Guide: false
-  Number of Gamers: 1392
-  Percentage of Gamers: 38%
-  Ratio: 1.61
+  Number of Gamers: 1509
+  Percentage of Gamers: 39%
+  Ratio: 1.6
   TA: '16'
   Tags:
   - Online Mode
@@ -385,9 +385,9 @@ Base Game Achievements:
   Description: Reach profile level 20.
   GS: '10'
   Guide: false
-  Number of Gamers: 650
+  Number of Gamers: 705
   Percentage of Gamers: 18%
-  Ratio: 2.36
+  Ratio: 2.35
   TA: '23'
   Tags:
   - Online Mode
@@ -397,33 +397,33 @@ Base Game Achievements:
   Description: Destroy an enemy by damaging only one armor segment.
   GS: '10'
   Guide: false
-  Number of Gamers: 2983
+  Number of Gamers: 3210
   Percentage of Gamers: 82%
   Ratio: 1.1
   TA: '11'
   Tags:
   - Online Mode
   - Versus
-Base Ratio: 3.514
-Base TA: 3514
+Base Ratio: 3.372
+Base TA: 3372
 Delisted: false
 Developer: Pixonic
 Game Name: 'War Robots: Frontiers'
 Genres: Third Person Shooter, Mech
 Install Size: 9510.0
-Number of Completions: 19
-Number of Gamers: 3649
+Number of Completions: 26
+Number of Gamers: 3893
 Overall Completion Time:
-- 148
-- 149
+- 287
+- 288
 Overall GS: 1000
-Overall Ratio: 3.514
-Overall TA: 3514
+Overall Ratio: 3.372
+Overall TA: 3372
 PDU: 0
-Percentage Completed: 0.52
+Percentage Completed: 0.67
 Publisher: MY.GAMES
 Release Date: 04 March 2025
 Server Closure: false
-Site Rating: 3.24
+Site Rating: 3.17
 Update Achievements: []
 Walkthrough: false

@@ -8,7 +8,7 @@ Base Game Achievements:
   Description: Reach the base
   GS: '10'
   Guide: true
-  Number of Gamers: 43453
+  Number of Gamers: 55208
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '10'
@@ -20,9 +20,9 @@ Base Game Achievements:
   Description: Create the first Alter
   GS: '10'
   Guide: true
-  Number of Gamers: 28051
+  Number of Gamers: 36125
   Percentage of Gamers: 65%
-  Ratio: 1.24
+  Ratio: 1.23
   TA: '12'
   Tags:
   - Offline Mode
@@ -32,8 +32,8 @@ Base Game Achievements:
   Description: Set up the first outpost
   GS: '10'
   Guide: true
-  Number of Gamers: 30936
-  Percentage of Gamers: 71%
+  Number of Gamers: 39621
+  Percentage of Gamers: 72%
   Ratio: 1.18
   TA: '11'
   Tags:
@@ -44,9 +44,9 @@ Base Game Achievements:
   Description: Finish the Prologue
   GS: '10'
   Guide: true
-  Number of Gamers: 27064
-  Percentage of Gamers: 62%
-  Ratio: 1.26
+  Number of Gamers: 34916
+  Percentage of Gamers: 63%
+  Ratio: 1.25
   TA: '12'
   Tags:
   - Offline Mode
@@ -55,10 +55,10 @@ Base Game Achievements:
 - Achievement Name: The Bridge
   Description: Build a bridge over the lava river
   GS: '10'
-  Guide: true
-  Number of Gamers: 12043
-  Percentage of Gamers: 28%
-  Ratio: 1.89
+  Guide: false
+  Number of Gamers: 17019
+  Percentage of Gamers: 31%
+  Ratio: 1.8
   TA: '18'
   Tags:
   - Offline Mode
@@ -67,11 +67,11 @@ Base Game Achievements:
 - Achievement Name: Nothing's gonna stop us
   Description: Finish Act 1
   GS: '10'
-  Guide: true
-  Number of Gamers: 11339
-  Percentage of Gamers: 26%
-  Ratio: 1.95
-  TA: '19'
+  Guide: false
+  Number of Gamers: 16183
+  Percentage of Gamers: 29%
+  Ratio: 1.84
+  TA: '18'
   Tags:
   - Offline Mode
   - Single Player
@@ -80,10 +80,10 @@ Base Game Achievements:
   Description: Finish Act 2
   GS: '10'
   Guide: true
-  Number of Gamers: 5397
-  Percentage of Gamers: 12%
-  Ratio: 2.83
-  TA: '28'
+  Number of Gamers: 9145
+  Percentage of Gamers: 17%
+  Ratio: 2.45
+  TA: '24'
   Tags:
   - Offline Mode
   - Single Player
@@ -91,11 +91,11 @@ Base Game Achievements:
 - Achievement Name: Time to go home
   Description: Finish Act 3
   GS: '10'
-  Guide: true
-  Number of Gamers: 3757
-  Percentage of Gamers: 9%
-  Ratio: 3.4
-  TA: '34'
+  Guide: false
+  Number of Gamers: 7301
+  Percentage of Gamers: 13%
+  Ratio: 2.74
+  TA: '27'
   Tags:
   - Offline Mode
   - Single Player
@@ -103,22 +103,22 @@ Base Game Achievements:
 - Achievement Name: I Found You
   Description: Find the rebel base
   GS: '10'
-  Guide: false
-  Number of Gamers: 4551
-  Percentage of Gamers: 10%
-  Ratio: 3.09
-  TA: '30'
+  Guide: true
+  Number of Gamers: 8159
+  Percentage of Gamers: 15%
+  Ratio: 2.6
+  TA: '26'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Corporate Plug
   Description: Start treating the brain mutation using implants
   GS: '10'
-  Guide: false
-  Number of Gamers: 3889
-  Percentage of Gamers: 9%
-  Ratio: 3.34
-  TA: '33'
+  Guide: true
+  Number of Gamers: 6608
+  Percentage of Gamers: 12%
+  Ratio: 2.89
+  TA: '28'
   Tags:
   - Offline Mode
   - Single Player
@@ -126,11 +126,11 @@ Base Game Achievements:
 - Achievement Name: Bold Science
   Description: Start treating the brain mutation using experimental therapy
   GS: '10'
-  Guide: false
-  Number of Gamers: 3278
-  Percentage of Gamers: 8%
-  Ratio: 3.64
-  TA: '36'
+  Guide: true
+  Number of Gamers: 5474
+  Percentage of Gamers: 10%
+  Ratio: 3.17
+  TA: '31'
   Tags:
   - Offline Mode
   - Single Player
@@ -138,11 +138,11 @@ Base Game Achievements:
 - Achievement Name: Her last wish
   Description: "Complete the Technician\u2019s storyline"
   GS: '10'
-  Guide: false
-  Number of Gamers: 3720
-  Percentage of Gamers: 9%
-  Ratio: 3.41
-  TA: '34'
+  Guide: true
+  Number of Gamers: 7060
+  Percentage of Gamers: 13%
+  Ratio: 2.79
+  TA: '27'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -150,10 +150,10 @@ Base Game Achievements:
   Description: "Complete the Scientist\u2019s storyline"
   GS: '10'
   Guide: true
-  Number of Gamers: 1645
-  Percentage of Gamers: 4%
-  Ratio: 5.13
-  TA: '51'
+  Number of Gamers: 3346
+  Percentage of Gamers: 6%
+  Ratio: 4.06
+  TA: '40'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -161,21 +161,21 @@ Base Game Achievements:
   Description: "Complete the Refiner\u2019s storyline"
   GS: '10'
   Guide: true
-  Number of Gamers: 786
-  Percentage of Gamers: 2%
-  Ratio: 7.43
-  TA: '74'
+  Number of Gamers: 1722
+  Percentage of Gamers: 3%
+  Ratio: 5.66
+  TA: '56'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Remaking Himself
   Description: "Complete the Miner\u2019s storyline"
   GS: '10'
-  Guide: false
-  Number of Gamers: 2215
-  Percentage of Gamers: 5%
-  Ratio: 4.43
-  TA: '44'
+  Guide: true
+  Number of Gamers: 4256
+  Percentage of Gamers: 8%
+  Ratio: 3.6
+  TA: '36'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -183,10 +183,10 @@ Base Game Achievements:
   Description: "Complete the Botanist\u2019s storyline"
   GS: '10'
   Guide: true
-  Number of Gamers: 2686
-  Percentage of Gamers: 6%
-  Ratio: 4.02
-  TA: '40'
+  Number of Gamers: 4712
+  Percentage of Gamers: 9%
+  Ratio: 3.42
+  TA: '34'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -194,21 +194,21 @@ Base Game Achievements:
   Description: "Complete the Guard\u2019s storyline"
   GS: '10'
   Guide: true
-  Number of Gamers: 409
-  Percentage of Gamers: 1%
-  Ratio: 10.3
-  TA: '103'
+  Number of Gamers: 975
+  Percentage of Gamers: 2%
+  Ratio: 7.52
+  TA: '75'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Happy Sisyphus
   Description: "Complete the Doctor\u2019s storyline"
   GS: '10'
-  Guide: false
-  Number of Gamers: 2300
-  Percentage of Gamers: 5%
-  Ratio: 4.34
-  TA: '43'
+  Guide: true
+  Number of Gamers: 4315
+  Percentage of Gamers: 8%
+  Ratio: 3.57
+  TA: '35'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -216,10 +216,10 @@ Base Game Achievements:
   Description: "Complete the Shrink\u2019s storyline"
   GS: '10'
   Guide: true
-  Number of Gamers: 631
-  Percentage of Gamers: 1%
-  Ratio: 8.29
-  TA: '82'
+  Number of Gamers: 1389
+  Percentage of Gamers: 3%
+  Ratio: 6.3
+  TA: '63'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -227,65 +227,65 @@ Base Game Achievements:
   Description: "Complete the Worker\u2019s storyline"
   GS: '10'
   Guide: true
-  Number of Gamers: 829
-  Percentage of Gamers: 2%
-  Ratio: 7.24
-  TA: '72'
+  Number of Gamers: 1839
+  Percentage of Gamers: 3%
+  Ratio: 5.47
+  TA: '54'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Assertiveness
   Description: "Learn the Technician\u2019s lesson - Assertiveness"
   GS: '10'
-  Guide: false
-  Number of Gamers: 12567
-  Percentage of Gamers: 29%
-  Ratio: 1.85
-  TA: '18'
+  Guide: true
+  Number of Gamers: 17506
+  Percentage of Gamers: 32%
+  Ratio: 1.77
+  TA: '17'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Reliance
   Description: "Learn the Botanist\u2019s lesson - Reliance"
   GS: '10'
-  Guide: false
-  Number of Gamers: 6494
-  Percentage of Gamers: 15%
-  Ratio: 2.58
-  TA: '25'
+  Guide: true
+  Number of Gamers: 9443
+  Percentage of Gamers: 17%
+  Ratio: 2.41
+  TA: '24'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Vulnerability
   Description: "Learn the Miner\u2019s lesson - Vulnerability"
   GS: '10'
-  Guide: false
-  Number of Gamers: 2980
-  Percentage of Gamers: 7%
-  Ratio: 3.81
-  TA: '38'
+  Guide: true
+  Number of Gamers: 5165
+  Percentage of Gamers: 9%
+  Ratio: 3.26
+  TA: '32'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Charisma
   Description: Learn the Worker's lesson - Charisma
   GS: '10'
-  Guide: false
-  Number of Gamers: 1391
-  Percentage of Gamers: 3%
-  Ratio: 5.58
-  TA: '55'
+  Guide: true
+  Number of Gamers: 2462
+  Percentage of Gamers: 4%
+  Ratio: 4.73
+  TA: '47'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Optimism
   Description: "Learn the Refiner\u2019s lesson - Optimism"
   GS: '10'
-  Guide: false
-  Number of Gamers: 3031
-  Percentage of Gamers: 7%
-  Ratio: 3.78
-  TA: '37'
+  Guide: true
+  Number of Gamers: 5185
+  Percentage of Gamers: 9%
+  Ratio: 3.26
+  TA: '32'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -293,10 +293,10 @@ Base Game Achievements:
   Description: "Learn the Doctor\u2019s lesson - Integrity"
   GS: '10'
   Guide: true
-  Number of Gamers: 239
+  Number of Gamers: 653
   Percentage of Gamers: 1%
-  Ratio: 13.48
-  TA: '134'
+  Ratio: 9.19
+  TA: '91'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -304,21 +304,21 @@ Base Game Achievements:
   Description: "Learn the Shrink\u2019s lesson - Chill"
   GS: '10'
   Guide: true
-  Number of Gamers: 1098
-  Percentage of Gamers: 3%
-  Ratio: 6.29
-  TA: '62'
+  Number of Gamers: 2049
+  Percentage of Gamers: 4%
+  Ratio: 5.19
+  TA: '51'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Shrewdness
   Description: "Learn the Guard\u2019s lesson - Shrewdness"
   GS: '10'
-  Guide: false
-  Number of Gamers: 905
-  Percentage of Gamers: 2%
-  Ratio: 6.92
-  TA: '69'
+  Guide: true
+  Number of Gamers: 1724
+  Percentage of Gamers: 3%
+  Ratio: 5.65
+  TA: '56'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -326,10 +326,10 @@ Base Game Achievements:
   Description: "Learn the Tabula Rasa\u2019s lesson - Joy of Life"
   GS: '10'
   Guide: true
-  Number of Gamers: 1287
-  Percentage of Gamers: 3%
-  Ratio: 5.81
-  TA: '58'
+  Number of Gamers: 2512
+  Percentage of Gamers: 5%
+  Ratio: 4.68
+  TA: '46'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -337,10 +337,10 @@ Base Game Achievements:
   Description: "Learn the Scientist\u2019s lesson - Pragmatism"
   GS: '10'
   Guide: true
-  Number of Gamers: 6791
-  Percentage of Gamers: 16%
-  Ratio: 2.52
-  TA: '25'
+  Number of Gamers: 9790
+  Percentage of Gamers: 18%
+  Ratio: 2.37
+  TA: '23'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -348,20 +348,20 @@ Base Game Achievements:
   Description: Unexpected member stays with the crew
   GS: '10'
   Guide: true
-  Number of Gamers: 1403
-  Percentage of Gamers: 3%
-  Ratio: 5.56
-  TA: '55'
+  Number of Gamers: 2623
+  Percentage of Gamers: 5%
+  Ratio: 4.58
+  TA: '45'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Who else is there?
   Description: Upgrade the Quantum Computer
   GS: '10'
-  Guide: false
-  Number of Gamers: 15354
-  Percentage of Gamers: 35%
-  Ratio: 1.68
+  Guide: true
+  Number of Gamers: 20986
+  Percentage of Gamers: 38%
+  Ratio: 1.62
   TA: '16'
   Tags:
   - Offline Mode
@@ -371,10 +371,10 @@ Base Game Achievements:
   Description: Build all possible modules
   GS: '60'
   Guide: true
-  Number of Gamers: 1299
-  Percentage of Gamers: 3%
-  Ratio: 5.78
-  TA: '347'
+  Number of Gamers: 2612
+  Percentage of Gamers: 5%
+  Ratio: 4.59
+  TA: '275'
   Tags:
   - Offline Mode
   - Single Player
@@ -383,10 +383,10 @@ Base Game Achievements:
   Description: Convince the rebels to come back
   GS: '10'
   Guide: true
-  Number of Gamers: 2626
-  Percentage of Gamers: 6%
-  Ratio: 4.06
-  TA: '40'
+  Number of Gamers: 4981
+  Percentage of Gamers: 9%
+  Ratio: 3.32
+  TA: '33'
   Tags:
   - Offline Mode
   - Single Player
@@ -394,22 +394,22 @@ Base Game Achievements:
 - Achievement Name: Not Just An Object
   Description: Give every Alter at least one personal item
   GS: '60'
-  Guide: false
-  Number of Gamers: 289
+  Guide: true
+  Number of Gamers: 731
   Percentage of Gamers: 1%
-  Ratio: 12.26
-  TA: '735'
+  Ratio: 8.69
+  TA: '521'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: All by myselves
   Description: Create all possible Alters
   GS: '60'
-  Guide: false
-  Number of Gamers: 287
+  Guide: true
+  Number of Gamers: 741
   Percentage of Gamers: 1%
-  Ratio: 12.3
-  TA: '738'
+  Ratio: 8.63
+  TA: '517'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -417,10 +417,10 @@ Base Game Achievements:
   Description: Build the second Rapidium Ark
   GS: '10'
   Guide: false
-  Number of Gamers: 7381
-  Percentage of Gamers: 17%
-  Ratio: 2.42
-  TA: '24'
+  Number of Gamers: 11226
+  Percentage of Gamers: 20%
+  Ratio: 2.21
+  TA: '22'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -428,10 +428,10 @@ Base Game Achievements:
   Description: Build the third Rapidium Ark
   GS: '10'
   Guide: false
-  Number of Gamers: 4299
-  Percentage of Gamers: 10%
-  Ratio: 3.17
-  TA: '31'
+  Number of Gamers: 7414
+  Percentage of Gamers: 13%
+  Ratio: 2.72
+  TA: '27'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -439,10 +439,10 @@ Base Game Achievements:
   Description: Build the fourth Rapidium Ark
   GS: '60'
   Guide: false
-  Number of Gamers: 3146
-  Percentage of Gamers: 7%
-  Ratio: 3.71
-  TA: '222'
+  Number of Gamers: 5699
+  Percentage of Gamers: 10%
+  Ratio: 3.11
+  TA: '186'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -450,10 +450,10 @@ Base Game Achievements:
   Description: Build the fifth Rapidium Ark
   GS: '100'
   Guide: false
-  Number of Gamers: 2502
-  Percentage of Gamers: 6%
-  Ratio: 4.16
-  TA: '416'
+  Number of Gamers: 4725
+  Percentage of Gamers: 9%
+  Ratio: 3.41
+  TA: '341'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -461,21 +461,21 @@ Base Game Achievements:
   Description: Learn all the lessons from your Alters
   GS: '120'
   Guide: true
-  Number of Gamers: 127
-  Percentage of Gamers: 0%
-  Ratio: 18.49
-  TA: 2,219
+  Number of Gamers: 453
+  Percentage of Gamers: 1%
+  Ratio: 11.03
+  TA: 1,324
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Smart Management
   Description: Start a production uphold
   GS: '10'
-  Guide: false
-  Number of Gamers: 18676
-  Percentage of Gamers: 43%
-  Ratio: 1.52
-  TA: '15'
+  Guide: true
+  Number of Gamers: 25032
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '14'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -483,10 +483,10 @@ Base Game Achievements:
   Description: Expand the base for the first time
   GS: '10'
   Guide: true
-  Number of Gamers: 12933
-  Percentage of Gamers: 30%
-  Ratio: 1.83
-  TA: '18'
+  Number of Gamers: 18034
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '17'
   Tags:
   - Offline Mode
   - Single Player
@@ -494,11 +494,11 @@ Base Game Achievements:
 - Achievement Name: Jan's Moving Village
   Description: Expand the base to maximum capacity
   GS: '10'
-  Guide: false
-  Number of Gamers: 3723
-  Percentage of Gamers: 9%
-  Ratio: 3.41
-  TA: '34'
+  Guide: true
+  Number of Gamers: 6501
+  Percentage of Gamers: 12%
+  Ratio: 2.91
+  TA: '29'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -506,9 +506,9 @@ Base Game Achievements:
   Description: Pet the sheep
   GS: '10'
   Guide: true
-  Number of Gamers: 28418
-  Percentage of Gamers: 65%
-  Ratio: 1.23
+  Number of Gamers: 36514
+  Percentage of Gamers: 66%
+  Ratio: 1.22
   TA: '12'
   Tags:
   - Offline Game Mode
@@ -517,10 +517,10 @@ Base Game Achievements:
   Description: Finish the game with the help of the corporation
   GS: '10'
   Guide: true
-  Number of Gamers: 2407
-  Percentage of Gamers: 6%
-  Ratio: 4.24
-  TA: '42'
+  Number of Gamers: 4859
+  Percentage of Gamers: 9%
+  Ratio: 3.37
+  TA: '33'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -528,10 +528,10 @@ Base Game Achievements:
   Description: Finish the game with Maxwell's help
   GS: '10'
   Guide: true
-  Number of Gamers: 1581
-  Percentage of Gamers: 4%
-  Ratio: 5.24
-  TA: '52'
+  Number of Gamers: 3170
+  Percentage of Gamers: 6%
+  Ratio: 4.17
+  TA: '41'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -539,9 +539,9 @@ Base Game Achievements:
   Description: Create the first portion of resources using the Refinery
   GS: '10'
   Guide: true
-  Number of Gamers: 15733
-  Percentage of Gamers: 36%
-  Ratio: 1.66
+  Number of Gamers: 21441
+  Percentage of Gamers: 39%
+  Ratio: 1.6
   TA: '16'
   Tags:
   - Offline Game Mode
@@ -550,10 +550,10 @@ Base Game Achievements:
   Description: Walk into an anomaly 20 times
   GS: '10'
   Guide: false
-  Number of Gamers: 7825
-  Percentage of Gamers: 18%
-  Ratio: 2.35
-  TA: '23'
+  Number of Gamers: 12070
+  Percentage of Gamers: 22%
+  Ratio: 2.13
+  TA: '21'
   Tags:
   - Offline Mode
   - Single Player
@@ -562,10 +562,10 @@ Base Game Achievements:
   Description: Betray everybody as the Botanist
   GS: '60'
   Guide: true
-  Number of Gamers: 572
-  Percentage of Gamers: 1%
-  Ratio: 8.71
-  TA: '522'
+  Number of Gamers: 1283
+  Percentage of Gamers: 2%
+  Ratio: 6.55
+  TA: '393'
   Tags:
   - Offline Mode
   - Single Player
@@ -574,10 +574,10 @@ Base Game Achievements:
   Description: Blow up the base
   GS: '10'
   Guide: true
-  Number of Gamers: 1334
-  Percentage of Gamers: 3%
-  Ratio: 5.7
-  TA: '57'
+  Number of Gamers: 2688
+  Percentage of Gamers: 5%
+  Ratio: 4.53
+  TA: '45'
   Tags:
   - Offline Mode
   - Single Player
@@ -585,11 +585,11 @@ Base Game Achievements:
 - Achievement Name: We Made It Together
   Description: Survive the magnetic storm
   GS: '10'
-  Guide: false
-  Number of Gamers: 16223
-  Percentage of Gamers: 37%
-  Ratio: 1.63
-  TA: '16'
+  Guide: true
+  Number of Gamers: 22127
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '15'
   Tags:
   - Offline Mode
   - Single Player
@@ -598,10 +598,10 @@ Base Game Achievements:
   Description: Get an alternative tattoo with Naranath Bhranthan
   GS: '10'
   Guide: true
-  Number of Gamers: 234
+  Number of Gamers: 642
   Percentage of Gamers: 1%
-  Ratio: 13.62
-  TA: '136'
+  Ratio: 9.27
+  TA: '92'
   Tags:
   - Offline Mode
   - Single Player
@@ -610,10 +610,10 @@ Base Game Achievements:
   Description: Come back to Earth as the Botanist
   GS: '10'
   Guide: true
-  Number of Gamers: 967
-  Percentage of Gamers: 2%
-  Ratio: 6.7
-  TA: '67'
+  Number of Gamers: 2106
+  Percentage of Gamers: 4%
+  Ratio: 5.12
+  TA: '51'
   Tags:
   - Offline Mode
   - Single Player
@@ -622,34 +622,34 @@ Base Game Achievements:
   Description: Leave your Alters to the mercy of others
   GS: '10'
   Guide: true
-  Number of Gamers: 1066
-  Percentage of Gamers: 2%
-  Ratio: 6.38
-  TA: '63'
+  Number of Gamers: 2237
+  Percentage of Gamers: 4%
+  Ratio: 4.96
+  TA: '49'
   Tags:
   - Offline Mode
   - Single Player
   - Missable
-Base Ratio: 7.223
-Base TA: 7223
+Base Ratio: 5.191
+Base TA: 5191
 Delisted: false
 Developer: 11 bit studios
 Game Name: The Alters
 Genres: Survival
 Install Size: 49170.0
-Number of Completions: 106
-Number of Gamers: 43455
+Number of Completions: 414
+Number of Gamers: 55209
 Overall Completion Time:
 - 40.0
 - 50.0
 Overall GS: 1000
-Overall Ratio: 7.223
-Overall TA: 7223
+Overall Ratio: 5.191
+Overall TA: 5191
 PDU: 0
-Percentage Completed: 0.24
+Percentage Completed: 0.75
 Publisher: 11 bit studios
 Release Date: 13 June 2025
 Server Closure: false
-Site Rating: 4.28
+Site Rating: 4.25
 Update Achievements: []
 Walkthrough: false

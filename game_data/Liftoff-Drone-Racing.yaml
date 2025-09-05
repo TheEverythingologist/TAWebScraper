@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- 16
-- 17
+- 19
+- 20
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Adventurer
   Description: Play all standard maps
   GS: '50'
   Guide: true
-  Number of Gamers: 74
-  Percentage of Gamers: 18%
-  Ratio: 2.34
-  TA: '117'
+  Number of Gamers: 83
+  Percentage of Gamers: 19%
+  Ratio: 2.31
+  TA: '115'
   Tags:
   - Online/Offline
   - Single Player
@@ -19,11 +19,11 @@ Base Game Achievements:
 - Achievement Name: Collector
   Description: Play with all the drones
   GS: '50'
-  Guide: false
-  Number of Gamers: 32
+  Guide: true
+  Number of Gamers: 37
   Percentage of Gamers: 8%
-  Ratio: 3.56
-  TA: '178'
+  Ratio: 3.46
+  TA: '173'
   Tags:
   - Online/Offline
   - Single Player
@@ -32,8 +32,8 @@ Base Game Achievements:
   Description: Practice for 1 hour in Free Flight
   GS: '25'
   Guide: false
-  Number of Gamers: 145
-  Percentage of Gamers: 35%
+  Number of Gamers: 159
+  Percentage of Gamers: 36%
   Ratio: 1.67
   TA: '41'
   Tags:
@@ -44,8 +44,8 @@ Base Game Achievements:
   Description: Customize your drone
   GS: '25'
   Guide: false
-  Number of Gamers: 195
-  Percentage of Gamers: 48%
+  Number of Gamers: 212
+  Percentage of Gamers: 47%
   Ratio: 1.44
   TA: '36'
   Tags:
@@ -55,7 +55,7 @@ Base Game Achievements:
   Description: Reach level 5
   GS: '50'
   Guide: false
-  Number of Gamers: 355
+  Number of Gamers: 391
   Percentage of Gamers: 87%
   Ratio: 1.07
   TA: '53'
@@ -68,21 +68,21 @@ Base Game Achievements:
   Description: Complete all the tutorials
   GS: '50'
   Guide: false
-  Number of Gamers: 44
+  Number of Gamers: 49
   Percentage of Gamers: 11%
-  Ratio: 3.04
-  TA: '152'
+  Ratio: 3.01
+  TA: '150'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: World Champion
   Description: Complete Career game mode
   GS: '150'
-  Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 2%
-  Ratio: 6.37
-  TA: '956'
+  Guide: true
+  Number of Gamers: 12
+  Percentage of Gamers: 3%
+  Ratio: 6.08
+  TA: '913'
   Tags:
   - Offline Mode
   - Single Player
@@ -91,10 +91,10 @@ Base Game Achievements:
   Description: Fly for 10 hours
   GS: '50'
   Guide: false
-  Number of Gamers: 50
+  Number of Gamers: 55
   Percentage of Gamers: 12%
-  Ratio: 2.88
-  TA: '144'
+  Ratio: 2.84
+  TA: '142'
   Tags:
   - Online/Offline
   - Single Player
@@ -104,9 +104,9 @@ Base Game Achievements:
   Description: Crash your drone 25 times
   GS: '25'
   Guide: true
-  Number of Gamers: 198
-  Percentage of Gamers: 48%
-  Ratio: 1.43
+  Number of Gamers: 221
+  Percentage of Gamers: 49%
+  Ratio: 1.42
   TA: '35'
   Tags:
   - Online/Offline
@@ -116,22 +116,22 @@ Base Game Achievements:
 - Achievement Name: A Friend in Me
   Description: Play race mode online with a total of 5 different friends
   GS: '50'
-  Guide: false
-  Number of Gamers: 19
+  Guide: true
+  Number of Gamers: 22
   Percentage of Gamers: 5%
-  Ratio: 4.62
-  TA: '231'
+  Ratio: 4.49
+  TA: '224'
   Tags:
   - Online Mode
   - Versus
 - Achievement Name: Winner
   Description: Win 10 online races
   GS: '50'
-  Guide: false
-  Number of Gamers: 24
+  Guide: true
+  Number of Gamers: 27
   Percentage of Gamers: 6%
-  Ratio: 4.11
-  TA: '205'
+  Ratio: 4.05
+  TA: '202'
   Tags:
   - Online Mode
   - Versus
@@ -139,11 +139,11 @@ Base Game Achievements:
 - Achievement Name: Master
   Description: Win 25 online races
   GS: '95'
-  Guide: false
-  Number of Gamers: 20
+  Guide: true
+  Number of Gamers: 23
   Percentage of Gamers: 5%
-  Ratio: 4.51
-  TA: '428'
+  Ratio: 4.39
+  TA: '417'
   Tags:
   - Online Mode
   - Versus
@@ -152,10 +152,10 @@ Base Game Achievements:
   Description: Open 10 gift boxes
   GS: '25'
   Guide: true
-  Number of Gamers: 79
+  Number of Gamers: 84
   Percentage of Gamers: 19%
-  Ratio: 2.26
-  TA: '56'
+  Ratio: 2.3
+  TA: '57'
   Tags:
   - Online/Offline
   - Single Player
@@ -163,11 +163,11 @@ Base Game Achievements:
 - Achievement Name: Dizzy!
   Description: Perform 6 loops with a drone in Freestyle
   GS: '10'
-  Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 2%
-  Ratio: 6.37
-  TA: '63'
+  Guide: true
+  Number of Gamers: 14
+  Percentage of Gamers: 3%
+  Ratio: 5.63
+  TA: '56'
   Tags:
   - Offline Mode
   - Single Player
@@ -176,10 +176,10 @@ Base Game Achievements:
   Description: Fly in the leaves of trees 10 times without resetting
   GS: '50'
   Guide: true
-  Number of Gamers: 205
-  Percentage of Gamers: 50%
-  Ratio: 1.4
-  TA: '70'
+  Number of Gamers: 220
+  Percentage of Gamers: 49%
+  Ratio: 1.42
+  TA: '71'
   Tags:
   - Online/Offline
   - Single Player
@@ -188,21 +188,21 @@ Base Game Achievements:
   Description: Get a lawnmower stunt modifier of more than 200 points in Freestyle
   GS: '25'
   Guide: true
-  Number of Gamers: 36
+  Number of Gamers: 40
   Percentage of Gamers: 9%
-  Ratio: 3.36
-  TA: '84'
+  Ratio: 3.33
+  TA: '83'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Purist
   Description: Win a multiplayer race in purist mode
   GS: '20'
-  Guide: false
-  Number of Gamers: 23
+  Guide: true
+  Number of Gamers: 27
   Percentage of Gamers: 6%
-  Ratio: 4.2
-  TA: '84'
+  Ratio: 4.05
+  TA: '81'
   Tags:
   - Online Mode
   - Versus
@@ -210,9 +210,9 @@ Base Game Achievements:
   Description: Fly until the battery is completely depleted
   GS: '10'
   Guide: false
-  Number of Gamers: 62
+  Number of Gamers: 69
   Percentage of Gamers: 15%
-  Ratio: 2.56
+  Ratio: 2.53
   TA: '25'
   Tags:
   - Online/Offline
@@ -222,21 +222,21 @@ Base Game Achievements:
   Description: Get more than 20,000 points in Freestyle
   GS: '30'
   Guide: true
-  Number of Gamers: 25
+  Number of Gamers: 29
   Percentage of Gamers: 6%
-  Ratio: 4.03
-  TA: '121'
+  Ratio: 3.91
+  TA: '117'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Deep Dive
   Description: Get a dive stunt modifier of more than 200 points in Freestyle
   GS: '20'
-  Guide: false
-  Number of Gamers: 57
-  Percentage of Gamers: 14%
-  Ratio: 2.67
-  TA: '53'
+  Guide: true
+  Number of Gamers: 66
+  Percentage of Gamers: 15%
+  Ratio: 2.61
+  TA: '52'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -244,10 +244,10 @@ Base Game Achievements:
   Description: Bounce on Bardwell's trampoline
   GS: '20'
   Guide: true
-  Number of Gamers: 62
-  Percentage of Gamers: 15%
-  Ratio: 2.56
-  TA: '51'
+  Number of Gamers: 71
+  Percentage of Gamers: 16%
+  Ratio: 2.5
+  TA: '50'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -255,10 +255,10 @@ Base Game Achievements:
   Description: Dive in the longest elevator shaft in Bando City
   GS: '20'
   Guide: true
-  Number of Gamers: 35
+  Number of Gamers: 39
   Percentage of Gamers: 9%
-  Ratio: 3.41
-  TA: '68'
+  Ratio: 3.37
+  TA: '67'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -266,10 +266,10 @@ Base Game Achievements:
   Description: Fly underneath the lake bridge on The Green
   GS: '20'
   Guide: true
-  Number of Gamers: 49
+  Number of Gamers: 55
   Percentage of Gamers: 12%
-  Ratio: 2.88
-  TA: '57'
+  Ratio: 2.84
+  TA: '56'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -277,7 +277,7 @@ Base Game Achievements:
   Description: Fly through Straw Bale's barn, using the top windows
   GS: '20'
   Guide: true
-  Number of Gamers: 114
+  Number of Gamers: 125
   Percentage of Gamers: 28%
   Ratio: 1.88
   TA: '37'
@@ -288,9 +288,9 @@ Base Game Achievements:
   Description: Record a flight session in Free Flight game mode
   GS: '20'
   Guide: false
-  Number of Gamers: 68
+  Number of Gamers: 75
   Percentage of Gamers: 17%
-  Ratio: 2.44
+  Ratio: 2.43
   TA: '48'
   Tags:
   - Offline Game Mode
@@ -299,45 +299,45 @@ Base Game Achievements:
   Description: Watch a replay in replay game mode
   GS: '20'
   Guide: true
-  Number of Gamers: 52
+  Number of Gamers: 58
   Percentage of Gamers: 13%
-  Ratio: 2.82
-  TA: '56'
+  Ratio: 2.76
+  TA: '55'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: No More Training Wheels
   Description: Win a race without any flight assist features enabled
   GS: '20'
-  Guide: false
-  Number of Gamers: 23
+  Guide: true
+  Number of Gamers: 27
   Percentage of Gamers: 6%
-  Ratio: 4.2
-  TA: '84'
+  Ratio: 4.05
+  TA: '81'
   Tags:
   - Online/Offline
   - Single Player
   - Versus
-Base Ratio: 3.533
-Base TA: 3533
+Base Ratio: 3.437
+Base TA: 3437
 Delisted: false
 Developer: LuGus Studios
 Game Name: 'Liftoff: Drone Racing'
 Genres: Arcade Racing, Aerial
 Install Size: 15960.0
-Number of Completions: 4
-Number of Gamers: 409
+Number of Completions: 6
+Number of Gamers: 447
 Overall Completion Time:
-- 16
-- 17
+- 19
+- 20
 Overall GS: 1000
-Overall Ratio: 3.533
-Overall TA: 3533
+Overall Ratio: 3.437
+Overall TA: 3437
 PDU: 0
-Percentage Completed: 0.98
+Percentage Completed: 1.34
 Publisher: astragon Entertainment
 Release Date: 10 November 2020
 Server Closure: false
-Site Rating: 3.25
+Site Rating: 2.88
 Update Achievements: []
 Walkthrough: false

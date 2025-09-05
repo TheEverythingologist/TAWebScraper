@@ -1,16 +1,16 @@
 Add On Achievements: []
 Base Completion Time:
-- 38
-- 39
+- -1
+- -1
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Training Wheels
   Description: Earn a Bronze medal in the Briefing Room
   GS: '5'
   Guide: false
-  Number of Gamers: 92
-  Percentage of Gamers: 60%
-  Ratio: 1.28
+  Number of Gamers: 99
+  Percentage of Gamers: 62%
+  Ratio: 1.26
   TA: '6'
   Tags:
   - Offline Mode
@@ -21,10 +21,10 @@ Base Game Achievements:
   Description: Earn Bronze medals in all levels of MayDayCare
   GS: '10'
   Guide: false
-  Number of Gamers: 37
-  Percentage of Gamers: 24%
-  Ratio: 2.02
-  TA: '20'
+  Number of Gamers: 40
+  Percentage of Gamers: 25%
+  Ratio: 1.99
+  TA: '19'
   Tags:
   - Offline Mode
   - Single Player
@@ -35,9 +35,9 @@ Base Game Achievements:
   Description: Earn Bronze medals in all levels of The Enchanted Kingdom
   GS: '10'
   Guide: false
-  Number of Gamers: 24
+  Number of Gamers: 25
   Percentage of Gamers: 16%
-  Ratio: 2.51
+  Ratio: 2.52
   TA: '25'
   Tags:
   - Offline Mode
@@ -51,8 +51,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 14
   Percentage of Gamers: 9%
-  Ratio: 3.29
-  TA: '49'
+  Ratio: 3.37
+  TA: '50'
   Tags:
   - Offline Mode
   - Single Player
@@ -63,10 +63,10 @@ Base Game Achievements:
   Description: Earn Bronze medals in all levels of The Anomaly
   GS: '20'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 7%
-  Ratio: 3.89
-  TA: '77'
+  Number of Gamers: 9
+  Percentage of Gamers: 6%
+  Ratio: 4.2
+  TA: '84'
   Tags:
   - Offline Mode
   - Single Player
@@ -79,8 +79,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 13
   Percentage of Gamers: 8%
-  Ratio: 3.41
-  TA: '85'
+  Ratio: 3.49
+  TA: '87'
   Tags:
   - Offline Mode
   - Single Player
@@ -91,10 +91,10 @@ Base Game Achievements:
   Description: Earn Silver medals in all levels of The Enchanted Kingdom
   GS: '25'
   Guide: false
-  Number of Gamers: 5
+  Number of Gamers: 4
   Percentage of Gamers: 3%
-  Ratio: 5.51
-  TA: '137'
+  Ratio: 6.3
+  TA: '157'
   Tags:
   - Offline Mode
   - Single Player
@@ -105,10 +105,10 @@ Base Game Achievements:
   Description: Earn Silver medals in all levels of The Sandy Lands
   GS: '30'
   Guide: false
-  Number of Gamers: 5
+  Number of Gamers: 4
   Percentage of Gamers: 3%
-  Ratio: 5.51
-  TA: '165'
+  Ratio: 6.3
+  TA: '189'
   Tags:
   - Offline Mode
   - Single Player
@@ -119,10 +119,10 @@ Base Game Achievements:
   Description: Earn Silver medals in all levels of The Anomaly
   GS: '40'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 3%
-  Ratio: 6.16
-  TA: '246'
+  Number of Gamers: 3
+  Percentage of Gamers: 2%
+  Ratio: 7.28
+  TA: '291'
   Tags:
   - Offline Mode
   - Single Player
@@ -135,8 +135,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 9
   Percentage of Gamers: 6%
-  Ratio: 4.1
-  TA: '205'
+  Ratio: 4.2
+  TA: '210'
   Tags:
   - Offline Mode
   - Single Player
@@ -147,10 +147,10 @@ Base Game Achievements:
   Description: Earn Gold medals in all levels of The Enchanted Kingdom
   GS: '50'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 3%
-  Ratio: 6.16
-  TA: '308'
+  Number of Gamers: 3
+  Percentage of Gamers: 2%
+  Ratio: 7.28
+  TA: '364'
   Tags:
   - Offline Mode
   - Single Player
@@ -161,10 +161,10 @@ Base Game Achievements:
   Description: Earn Gold medals in all levels of The Sandy Lands
   GS: '75'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 3%
-  Ratio: 6.16
-  TA: '462'
+  Number of Gamers: 3
+  Percentage of Gamers: 2%
+  Ratio: 7.28
+  TA: '546'
   Tags:
   - Offline Mode
   - Single Player
@@ -175,10 +175,10 @@ Base Game Achievements:
   Description: Earn Gold medals in all levels of The Anomaly
   GS: '100'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 2%
-  Ratio: 7.11
-  TA: '711'
+  Number of Gamers: 2
+  Percentage of Gamers: 1%
+  Ratio: 8.91
+  TA: '891'
   Tags:
   - Offline Mode
   - Single Player
@@ -189,10 +189,10 @@ Base Game Achievements:
   Description: Acquire all cosmetic items
   GS: '80'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 2%
-  Ratio: 7.11
-  TA: '569'
+  Number of Gamers: 2
+  Percentage of Gamers: 1%
+  Ratio: 8.91
+  TA: '713'
   Tags:
   - Offline Mode
   - Single Player
@@ -204,8 +204,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 17
   Percentage of Gamers: 11%
-  Ratio: 2.99
-  TA: '59'
+  Ratio: 3.05
+  TA: '61'
   Tags:
   - Offline Mode
   - Single Player
@@ -214,10 +214,10 @@ Base Game Achievements:
   Description: Complete a total of 500 desires
   GS: '30'
   Guide: false
-  Number of Gamers: 36
-  Percentage of Gamers: 24%
-  Ratio: 2.05
-  TA: '61'
+  Number of Gamers: 40
+  Percentage of Gamers: 25%
+  Ratio: 1.99
+  TA: '59'
   Tags:
   - Offline Mode
   - Single Player
@@ -227,9 +227,9 @@ Base Game Achievements:
   Description: Break up a total of 10 fights
   GS: '10'
   Guide: false
-  Number of Gamers: 83
-  Percentage of Gamers: 54%
-  Ratio: 1.35
+  Number of Gamers: 85
+  Percentage of Gamers: 53%
+  Ratio: 1.36
   TA: '13'
   Tags:
   - Offline Mode
@@ -242,8 +242,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 14
   Percentage of Gamers: 9%
-  Ratio: 3.29
-  TA: '32'
+  Ratio: 3.37
+  TA: '33'
   Tags:
   - Offline Mode
   - Single Player
@@ -253,10 +253,10 @@ Base Game Achievements:
   Description: Clean a total of 1000 dirty spots
   GS: '15'
   Guide: false
-  Number of Gamers: 28
-  Percentage of Gamers: 18%
-  Ratio: 2.32
-  TA: '34'
+  Number of Gamers: 32
+  Percentage of Gamers: 20%
+  Ratio: 2.22
+  TA: '33'
   Tags:
   - Offline Mode
   - Single Player
@@ -266,9 +266,9 @@ Base Game Achievements:
   Description: Throw a total of 200 garbage items in the bin
   GS: '10'
   Guide: false
-  Number of Gamers: 49
-  Percentage of Gamers: 32%
-  Ratio: 1.76
+  Number of Gamers: 52
+  Percentage of Gamers: 33%
+  Ratio: 1.74
   TA: '17'
   Tags:
   - Offline Mode
@@ -281,7 +281,7 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 19
   Percentage of Gamers: 12%
-  Ratio: 2.82
+  Ratio: 2.89
   TA: '28'
   Tags:
   - Offline Mode
@@ -292,9 +292,9 @@ Base Game Achievements:
   Description: Lift a total of 5 furniture back up
   GS: '20'
   Guide: false
-  Number of Gamers: 51
+  Number of Gamers: 52
   Percentage of Gamers: 33%
-  Ratio: 1.72
+  Ratio: 1.74
   TA: '34'
   Tags:
   - Offline Mode
@@ -305,10 +305,10 @@ Base Game Achievements:
   Description: Complete a level without letting a kid cry
   GS: '20'
   Guide: false
-  Number of Gamers: 47
-  Percentage of Gamers: 31%
-  Ratio: 1.79
-  TA: '35'
+  Number of Gamers: 48
+  Percentage of Gamers: 30%
+  Ratio: 1.82
+  TA: '36'
   Tags:
   - Offline Mode
   - Single Player
@@ -317,9 +317,9 @@ Base Game Achievements:
   Description: Complete a level with a perfect cleaning bonus
   GS: '20'
   Guide: false
-  Number of Gamers: 93
+  Number of Gamers: 97
   Percentage of Gamers: 61%
-  Ratio: 1.27
+  Ratio: 1.28
   TA: '25'
   Tags:
   - Offline Mode
@@ -329,9 +329,9 @@ Base Game Achievements:
   Description: Clean 20 dirty spots in one Vacuum use
   GS: '30'
   Guide: false
-  Number of Gamers: 122
-  Percentage of Gamers: 80%
-  Ratio: 1.11
+  Number of Gamers: 126
+  Percentage of Gamers: 79%
+  Ratio: 1.12
   TA: '33'
   Tags:
   - Offline Mode
@@ -341,9 +341,9 @@ Base Game Achievements:
   Description: Successfully complete every ball passes during a whole level
   GS: '30'
   Guide: false
-  Number of Gamers: 61
+  Number of Gamers: 63
   Percentage of Gamers: 40%
-  Ratio: 1.57
+  Ratio: 1.58
   TA: '47'
   Tags:
   - Offline Mode
@@ -353,10 +353,10 @@ Base Game Achievements:
   Description: Throw a pile of 15 trash items in the bin
   GS: '10'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 5%
-  Ratio: 4.35
-  TA: '43'
+  Number of Gamers: 7
+  Percentage of Gamers: 4%
+  Ratio: 4.76
+  TA: '47'
   Tags:
   - Offline Mode
   - Single Player
@@ -365,10 +365,10 @@ Base Game Achievements:
   Description: Find the hidden Powerup in The Sandy Lands to unlock it in all levels
   GS: '30'
   Guide: true
-  Number of Gamers: 8
-  Percentage of Gamers: 5%
-  Ratio: 4.35
-  TA: '130'
+  Number of Gamers: 7
+  Percentage of Gamers: 4%
+  Ratio: 4.76
+  TA: '142'
   Tags:
   - Offline Mode
   - Single Player
@@ -378,9 +378,9 @@ Base Game Achievements:
   Description: Clean a dirty spot by dropping a crying kid on the ground
   GS: '20'
   Guide: false
-  Number of Gamers: 70
-  Percentage of Gamers: 46%
-  Ratio: 1.47
+  Number of Gamers: 72
+  Percentage of Gamers: 45%
+  Ratio: 1.48
   TA: '29'
   Tags:
   - Offline Mode
@@ -390,10 +390,10 @@ Base Game Achievements:
   Description: Slip on a dirty spot and stumble on a kid
   GS: '10'
   Guide: false
-  Number of Gamers: 90
-  Percentage of Gamers: 59%
-  Ratio: 1.29
-  TA: '12'
+  Number of Gamers: 91
+  Percentage of Gamers: 57%
+  Ratio: 1.32
+  TA: '13'
   Tags:
   - Offline Mode
   - Single Player
@@ -402,9 +402,9 @@ Base Game Achievements:
   Description: Send a toy down a slide
   GS: '10'
   Guide: false
-  Number of Gamers: 40
+  Number of Gamers: 41
   Percentage of Gamers: 26%
-  Ratio: 1.94
+  Ratio: 1.96
   TA: '19'
   Tags:
   - Offline Mode
@@ -414,9 +414,9 @@ Base Game Achievements:
   Description: Fall in a hole while holding a kid
   GS: '10'
   Guide: false
-  Number of Gamers: 36
-  Percentage of Gamers: 24%
-  Ratio: 2.05
+  Number of Gamers: 39
+  Percentage of Gamers: 25%
+  Ratio: 2.01
   TA: '20'
   Tags:
   - Offline Mode
@@ -425,33 +425,33 @@ Base Game Achievements:
 - Achievement Name: Perfect Parent
   Description: Obtain all other achievements
   GS: '150'
-  Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 1%
-  Ratio: 1.0
+  Guide: true
+  Number of Gamers: 0
+  Percentage of Gamers: NA
+  Ratio: NA
   TA: '150'
   Tags:
   - Unobtainable
-Base Ratio: 3.886
-Base TA: 3886
+Base Ratio: 4.471
+Base TA: 4471
 Delisted: false
 Developer: Storm Trident, Baby Corp
 Game Name: Baby Storm
 Genres: Party
 Install Size: 2620.0
-Number of Completions: 1
-Number of Gamers: 153
+Number of Completions: 0
+Number of Gamers: 159
 Overall Completion Time:
-- 38
-- 39
+- -1
+- -1
 Overall GS: 1000
-Overall Ratio: 3.886
-Overall TA: 3886
+Overall Ratio: 4.471
+Overall TA: 4471
 PDU: 0
-Percentage Completed: 0.65
+Percentage Completed: 0.0
 Publisher: Forever Entertainment
 Release Date: 12 May 2023
 Server Closure: false
-Site Rating: 4.12
+Site Rating: 4.1
 Update Achievements: []
 Walkthrough: false

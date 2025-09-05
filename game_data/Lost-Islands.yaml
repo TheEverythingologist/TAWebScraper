@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- -1
-- -1
+- 14
+- 15
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Kill 100 Enemies
   Description: Complete the quest Kill 100 Enemies
   GS: '50'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 6%
-  Ratio: 3.94
-  TA: '197'
+  Number of Gamers: 15
+  Percentage of Gamers: 7%
+  Ratio: 3.83
+  TA: '191'
   Tags:
   - Offline Mode
   - Single Player
@@ -20,9 +20,9 @@ Base Game Achievements:
   Description: Level Up
   GS: '10'
   Guide: false
-  Number of Gamers: 169
-  Percentage of Gamers: 99%
-  Ratio: 1.0
+  Number of Gamers: 198
+  Percentage of Gamers: 96%
+  Ratio: 1.02
   TA: '10'
   Tags:
   - Offline Mode
@@ -32,9 +32,9 @@ Base Game Achievements:
   Description: Complete the quest Unlock Skills
   GS: '10'
   Guide: false
-  Number of Gamers: 127
-  Percentage of Gamers: 74%
-  Ratio: 1.16
+  Number of Gamers: 149
+  Percentage of Gamers: 72%
+  Ratio: 1.17
   TA: '11'
   Tags:
   - Offline Mode
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Complete the quest Collect 100 Crabs
   GS: '50'
   Guide: true
-  Number of Gamers: 9
-  Percentage of Gamers: 5%
-  Ratio: 4.35
-  TA: '217'
+  Number of Gamers: 14
+  Percentage of Gamers: 7%
+  Ratio: 3.98
+  TA: '199'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Complete the quest Collect 100 Rats
   GS: '50'
   Guide: true
-  Number of Gamers: 10
-  Percentage of Gamers: 6%
-  Ratio: 4.13
-  TA: '206'
+  Number of Gamers: 14
+  Percentage of Gamers: 7%
+  Ratio: 3.83
+  TA: '191'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: Complete the quest Collect 100 Blue Fishes
   GS: '50'
   Guide: true
-  Number of Gamers: 8
-  Percentage of Gamers: 5%
-  Ratio: 4.62
-  TA: '231'
+  Number of Gamers: 12
+  Percentage of Gamers: 6%
+  Ratio: 4.14
+  TA: '207'
   Tags:
   - Offline Mode
   - Single Player
@@ -80,10 +80,10 @@ Base Game Achievements:
   Description: Complete the quest Training
   GS: '100'
   Guide: false
-  Number of Gamers: 40
-  Percentage of Gamers: 23%
-  Ratio: 2.06
-  TA: '206'
+  Number of Gamers: 72
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '169'
   Tags:
   - Offline Mode
   - Single Player
@@ -92,10 +92,10 @@ Base Game Achievements:
   Description: Complete the quest Mysterious Island
   GS: '100'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 6%
-  Ratio: 3.94
-  TA: '394'
+  Number of Gamers: 16
+  Percentage of Gamers: 8%
+  Ratio: 3.58
+  TA: '358'
   Tags:
   - Offline Mode
   - Single Player
@@ -104,10 +104,10 @@ Base Game Achievements:
   Description: Complete the quest Rat Race
   GS: '50'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 8%
-  Ratio: 3.49
-  TA: '174'
+  Number of Gamers: 18
+  Percentage of Gamers: 9%
+  Ratio: 3.38
+  TA: '169'
   Tags:
   - Offline Mode
   - Single Player
@@ -116,10 +116,10 @@ Base Game Achievements:
   Description: Complete the quest Beach Threat
   GS: '30'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 8%
-  Ratio: 3.49
-  TA: '104'
+  Number of Gamers: 18
+  Percentage of Gamers: 9%
+  Ratio: 3.38
+  TA: '101'
   Tags:
   - Offline Mode
   - Single Player
@@ -128,10 +128,10 @@ Base Game Achievements:
   Description: Complete the quest Fish Holiday
   GS: '50'
   Guide: true
-  Number of Gamers: 16
-  Percentage of Gamers: 9%
-  Ratio: 3.26
-  TA: '163'
+  Number of Gamers: 20
+  Percentage of Gamers: 10%
+  Ratio: 3.2
+  TA: '160'
   Tags:
   - Offline Mode
   - Single Player
@@ -140,10 +140,10 @@ Base Game Achievements:
   Description: Complete the quest Game Of Dice
   GS: '100'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 6%
-  Ratio: 3.94
-  TA: '394'
+  Number of Gamers: 16
+  Percentage of Gamers: 8%
+  Ratio: 3.58
+  TA: '358'
   Tags:
   - Offline Mode
   - Single Player
@@ -152,10 +152,10 @@ Base Game Achievements:
   Description: Complete the quest Stranger Things
   GS: '50'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 7%
-  Ratio: 3.77
-  TA: '188'
+  Number of Gamers: 16
+  Percentage of Gamers: 8%
+  Ratio: 3.58
+  TA: '179'
   Tags:
   - Offline Mode
   - Single Player
@@ -163,21 +163,24 @@ Base Game Achievements:
 - Achievement Name: TheEnd
   Description: Complete the quest TheEnd
   GS: '50'
-  Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '50'
+  Guide: true
+  Number of Gamers: 22
+  Percentage of Gamers: 11%
+  Ratio: 3.06
+  TA: '153'
   Tags:
-  - Unobtainable
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
 - Achievement Name: Beat the Boss
   Description: Beat the Boss on dungeon
   GS: '50'
   Guide: false
-  Number of Gamers: 8
+  Number of Gamers: 11
   Percentage of Gamers: 5%
-  Ratio: 4.62
-  TA: '231'
+  Ratio: 4.32
+  TA: '216'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -185,10 +188,10 @@ Base Game Achievements:
   Description: Complete the quest Collect 100 Striped Fishes
   GS: '50'
   Guide: true
-  Number of Gamers: 10
-  Percentage of Gamers: 6%
-  Ratio: 4.13
-  TA: '206'
+  Number of Gamers: 15
+  Percentage of Gamers: 7%
+  Ratio: 3.7
+  TA: '185'
   Tags:
   - Offline Mode
   - Single Player
@@ -197,10 +200,10 @@ Base Game Achievements:
   Description: Complete the quest Collect 100 Orange Fishes
   GS: '50'
   Guide: true
-  Number of Gamers: 8
-  Percentage of Gamers: 5%
-  Ratio: 4.62
-  TA: '231'
+  Number of Gamers: 12
+  Percentage of Gamers: 6%
+  Ratio: 4.14
+  TA: '207'
   Tags:
   - Offline Mode
   - Single Player
@@ -209,10 +212,10 @@ Base Game Achievements:
   Description: Complete the quest Collect 100 Cyan Fishes
   GS: '50'
   Guide: true
-  Number of Gamers: 9
-  Percentage of Gamers: 5%
-  Ratio: 4.35
-  TA: '217'
+  Number of Gamers: 13
+  Percentage of Gamers: 6%
+  Ratio: 3.98
+  TA: '199'
   Tags:
   - Offline Mode
   - Single Player
@@ -221,33 +224,33 @@ Base Game Achievements:
   Description: Complete the quest Where Bananas
   GS: '50'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 7%
-  Ratio: 3.77
-  TA: '188'
+  Number of Gamers: 16
+  Percentage of Gamers: 8%
+  Ratio: 3.58
+  TA: '179'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 3.618
-Base TA: 3618
+Base Ratio: 3.442
+Base TA: 3442
 Delisted: false
 Developer: Glitch Studio
 Game Name: Lost Islands
 Genres: Survival
 Install Size: 6000.0
-Number of Completions: 0
-Number of Gamers: 171
+Number of Completions: 4
+Number of Gamers: 206
 Overall Completion Time:
-- -1
-- -1
+- 14
+- 15
 Overall GS: 1000
-Overall Ratio: 3.618
-Overall TA: 3618
+Overall Ratio: 3.442
+Overall TA: 3442
 PDU: 0
-Percentage Completed: 0.0
+Percentage Completed: 1.94
 Publisher: Glitch Studio
 Release Date: 08 November 2023
 Server Closure: false
-Site Rating: 2.5
+Site Rating: 3.0
 Update Achievements: []
 Walkthrough: false

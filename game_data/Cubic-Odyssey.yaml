@@ -1,63 +1,65 @@
 Add On Achievements: []
 Base Completion Time:
-- 61
-- 62
+- 80
+- 81
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Reach Nexus
   Description: Get to see a glimpse of the Red Darkness
   GS: '20'
   Guide: false
-  Number of Gamers: 207
-  Percentage of Gamers: 81%
-  Ratio: 1.1
-  TA: '22'
+  Number of Gamers: 282
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '21'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Main Storyline
 - Achievement Name: Reach for the stars
   Description: Get a spaceship off a planet and get to space
   GS: '20'
   Guide: false
-  Number of Gamers: 221
-  Percentage of Gamers: 87%
-  Ratio: 1.07
+  Number of Gamers: 292
+  Percentage of Gamers: 88%
+  Ratio: 1.06
   TA: '21'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Main Storyline
 - Achievement Name: One small step for man
   Description: Land on 50 different planets
   GS: '20'
   Guide: false
-  Number of Gamers: 7
+  Number of Gamers: 11
   Percentage of Gamers: 3%
-  Ratio: 6.02
-  TA: '120'
+  Ratio: 5.49
+  TA: '109'
   Tags:
   - Offline Mode
   - Single Player
-  - Cumulative +
+  - Collectable
 - Achievement Name: Fly like you mean it
   Description: Discover 50 star systems
   GS: '20'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 4%
-  Ratio: 5.03
-  TA: '100'
+  Number of Gamers: 16
+  Percentage of Gamers: 5%
+  Ratio: 4.55
+  TA: '91'
   Tags:
   - Offline Mode
   - Single Player
-  - Cumulative +
+  - Collectable
 - Achievement Name: Conveyor Man
   Description: Craft 500 items
   GS: '20'
   Guide: false
-  Number of Gamers: 112
-  Percentage of Gamers: 44%
-  Ratio: 1.5
-  TA: '30'
+  Number of Gamers: 153
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '29'
   Tags:
   - Offline Mode
   - Single Player
@@ -66,10 +68,10 @@ Base Game Achievements:
   Description: Accumulate 1.000.000 qbits
   GS: '20'
   Guide: false
-  Number of Gamers: 7
+  Number of Gamers: 11
   Percentage of Gamers: 3%
-  Ratio: 6.02
-  TA: '120'
+  Ratio: 5.49
+  TA: '109'
   Tags:
   - Offline Mode
   - Single Player
@@ -78,32 +80,34 @@ Base Game Achievements:
   Description: Clear your first planet from the Red Darkness
   GS: '20'
   Guide: false
-  Number of Gamers: 93
-  Percentage of Gamers: 36%
-  Ratio: 1.65
-  TA: '33'
+  Number of Gamers: 135
+  Percentage of Gamers: 41%
+  Ratio: 1.57
+  TA: '31'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Main Storyline
 - Achievement Name: Bend space
   Description: Warp to a new star system
   GS: '20'
   Guide: false
-  Number of Gamers: 94
-  Percentage of Gamers: 37%
-  Ratio: 1.64
-  TA: '32'
+  Number of Gamers: 132
+  Percentage of Gamers: 40%
+  Ratio: 1.59
+  TA: '31'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Main Storyline
 - Achievement Name: Dedicated
   Description: Reach max level
   GS: '20'
   Guide: false
-  Number of Gamers: 17
+  Number of Gamers: 23
   Percentage of Gamers: 7%
-  Ratio: 3.98
-  TA: '79'
+  Ratio: 3.79
+  TA: '75'
   Tags:
   - Offline Mode
   - Single Player
@@ -112,10 +116,10 @@ Base Game Achievements:
   Description: Kill a darkness walker
   GS: '20'
   Guide: false
-  Number of Gamers: 38
-  Percentage of Gamers: 15%
-  Ratio: 2.58
-  TA: '51'
+  Number of Gamers: 57
+  Percentage of Gamers: 17%
+  Ratio: 2.41
+  TA: '48'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -123,10 +127,10 @@ Base Game Achievements:
   Description: Own 10 speeders
   GS: '20'
   Guide: false
-  Number of Gamers: 2
+  Number of Gamers: 3
   Percentage of Gamers: 1%
-  Ratio: 11.26
-  TA: '225'
+  Ratio: 10.51
+  TA: '210'
   Tags:
   - Offline Mode
   - Single Player
@@ -135,21 +139,22 @@ Base Game Achievements:
   Description: Activate the first temple
   GS: '20'
   Guide: false
-  Number of Gamers: 176
-  Percentage of Gamers: 69%
-  Ratio: 1.2
-  TA: '24'
+  Number of Gamers: 238
+  Percentage of Gamers: 72%
+  Ratio: 1.18
+  TA: '23'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Main Storyline
 - Achievement Name: Skilled
   Description: Reach max level for all skills
   GS: '40'
   Guide: false
-  Number of Gamers: 2
+  Number of Gamers: 3
   Percentage of Gamers: 1%
-  Ratio: 11.26
-  TA: '450'
+  Ratio: 10.51
+  TA: '420'
   Tags:
   - Offline Mode
   - Single Player
@@ -158,10 +163,10 @@ Base Game Achievements:
   Description: Equip an ancient piece of gear
   GS: '20'
   Guide: false
-  Number of Gamers: 19
-  Percentage of Gamers: 7%
-  Ratio: 3.65
-  TA: '73'
+  Number of Gamers: 29
+  Percentage of Gamers: 9%
+  Ratio: 3.44
+  TA: '68'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -169,10 +174,10 @@ Base Game Achievements:
   Description: Destroy a pirate space-ship
   GS: '20'
   Guide: false
-  Number of Gamers: 85
-  Percentage of Gamers: 33%
-  Ratio: 1.72
-  TA: '34'
+  Number of Gamers: 129
+  Percentage of Gamers: 39%
+  Ratio: 1.6
+  TA: '32'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -180,10 +185,10 @@ Base Game Achievements:
   Description: Liberate a pirate outpost
   GS: '20'
   Guide: false
-  Number of Gamers: 120
-  Percentage of Gamers: 47%
-  Ratio: 1.45
-  TA: '29'
+  Number of Gamers: 160
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '28'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -191,9 +196,9 @@ Base Game Achievements:
   Description: Complete a secondary quest
   GS: '20'
   Guide: false
-  Number of Gamers: 198
-  Percentage of Gamers: 78%
-  Ratio: 1.13
+  Number of Gamers: 264
+  Percentage of Gamers: 80%
+  Ratio: 1.12
   TA: '22'
   Tags:
   - Offline Game Mode
@@ -202,20 +207,22 @@ Base Game Achievements:
   Description: Save the princess and Defeat the Red Darkness
   GS: '60'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 5%
-  Ratio: 4.25
-  TA: '255'
+  Number of Gamers: 21
+  Percentage of Gamers: 6%
+  Ratio: 3.97
+  TA: '238'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Main Storyline
+  - Story Completed
 - Achievement Name: Back in action
   Description: Obtain a spaceship
   GS: '20'
   Guide: false
-  Number of Gamers: 225
-  Percentage of Gamers: 88%
-  Ratio: 1.06
+  Number of Gamers: 299
+  Percentage of Gamers: 90%
+  Ratio: 1.05
   TA: '21'
   Tags:
   - Offline Mode
@@ -225,10 +232,10 @@ Base Game Achievements:
   Description: Play all "specialties" reaching at least level 10
   GS: '20'
   Guide: false
-  Number of Gamers: 2
+  Number of Gamers: 3
   Percentage of Gamers: 1%
-  Ratio: 11.26
-  TA: '225'
+  Ratio: 10.51
+  TA: '210'
   Tags:
   - Offline Mode
   - Single Player
@@ -237,10 +244,10 @@ Base Game Achievements:
   Description: Hunt 100 aggressive creatures
   GS: '20'
   Guide: false
-  Number of Gamers: 54
-  Percentage of Gamers: 21%
-  Ratio: 2.16
-  TA: '43'
+  Number of Gamers: 84
+  Percentage of Gamers: 25%
+  Ratio: 1.98
+  TA: '39'
   Tags:
   - Offline Mode
   - Single Player
@@ -249,10 +256,10 @@ Base Game Achievements:
   Description: Hunt 100 pirates
   GS: '20'
   Guide: false
-  Number of Gamers: 83
-  Percentage of Gamers: 33%
-  Ratio: 1.74
-  TA: '34'
+  Number of Gamers: 115
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '33'
   Tags:
   - Offline Mode
   - Single Player
@@ -261,10 +268,10 @@ Base Game Achievements:
   Description: Hunt 100 zombies
   GS: '20'
   Guide: false
-  Number of Gamers: 2
+  Number of Gamers: 4
   Percentage of Gamers: 1%
-  Ratio: 11.26
-  TA: '225'
+  Ratio: 9.11
+  TA: '182'
   Tags:
   - Offline Mode
   - Single Player
@@ -273,9 +280,9 @@ Base Game Achievements:
   Description: Fortify your heart against the red darkness
   GS: '20'
   Guide: false
-  Number of Gamers: 210
-  Percentage of Gamers: 82%
-  Ratio: 1.09
+  Number of Gamers: 287
+  Percentage of Gamers: 86%
+  Ratio: 1.07
   TA: '21'
   Tags:
   - Offline Game Mode
@@ -284,10 +291,10 @@ Base Game Achievements:
   Description: Reach max level on building
   GS: '40'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 5
   Percentage of Gamers: 2%
-  Ratio: 7.96
-  TA: '318'
+  Ratio: 8.14
+  TA: '325'
   Tags:
   - Offline Mode
   - Single Player
@@ -296,10 +303,10 @@ Base Game Achievements:
   Description: Reach max level on knighthood
   GS: '40'
   Guide: false
-  Number of Gamers: 9
+  Number of Gamers: 14
   Percentage of Gamers: 4%
-  Ratio: 5.31
-  TA: '212'
+  Ratio: 4.86
+  TA: '194'
   Tags:
   - Offline Mode
   - Single Player
@@ -308,10 +315,10 @@ Base Game Achievements:
   Description: Reach max level on mining
   GS: '40'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 7%
-  Ratio: 3.75
-  TA: '150'
+  Number of Gamers: 29
+  Percentage of Gamers: 9%
+  Ratio: 3.38
+  TA: '135'
   Tags:
   - Offline Mode
   - Single Player
@@ -320,10 +327,10 @@ Base Game Achievements:
   Description: Reach max level on crafting
   GS: '40'
   Guide: false
-  Number of Gamers: 35
-  Percentage of Gamers: 14%
-  Ratio: 2.69
-  TA: '107'
+  Number of Gamers: 50
+  Percentage of Gamers: 15%
+  Ratio: 2.57
+  TA: '103'
   Tags:
   - Offline Mode
   - Single Player
@@ -331,11 +338,11 @@ Base Game Achievements:
 - Achievement Name: Brawler
   Description: Reach max level on melee fighting
   GS: '40'
-  Guide: false
-  Number of Gamers: 4
+  Guide: true
+  Number of Gamers: 5
   Percentage of Gamers: 2%
-  Ratio: 7.96
-  TA: '318'
+  Ratio: 8.14
+  TA: '325'
   Tags:
   - Offline Mode
   - Single Player
@@ -344,10 +351,10 @@ Base Game Achievements:
   Description: Reach max level on ranged weapons
   GS: '40'
   Guide: false
-  Number of Gamers: 46
-  Percentage of Gamers: 18%
-  Ratio: 2.34
-  TA: '93'
+  Number of Gamers: 73
+  Percentage of Gamers: 22%
+  Ratio: 2.14
+  TA: '85'
   Tags:
   - Offline Mode
   - Single Player
@@ -356,10 +363,10 @@ Base Game Achievements:
   Description: Reach max level on corruption resistance
   GS: '40'
   Guide: false
-  Number of Gamers: 2
+  Number of Gamers: 3
   Percentage of Gamers: 1%
-  Ratio: 11.26
-  TA: '450'
+  Ratio: 10.51
+  TA: '420'
   Tags:
   - Offline Mode
   - Single Player
@@ -368,10 +375,10 @@ Base Game Achievements:
   Description: Reach max level on trading
   GS: '40'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 3%
-  Ratio: 5.63
-  TA: '225'
+  Number of Gamers: 13
+  Percentage of Gamers: 4%
+  Ratio: 5.05
+  TA: '202'
   Tags:
   - Offline Mode
   - Single Player
@@ -380,10 +387,10 @@ Base Game Achievements:
   Description: Reach max level on space combat
   GS: '40'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 2%
-  Ratio: 6.5
-  TA: '260'
+  Number of Gamers: 11
+  Percentage of Gamers: 3%
+  Ratio: 5.49
+  TA: '219'
   Tags:
   - Offline Mode
   - Single Player
@@ -392,53 +399,55 @@ Base Game Achievements:
   Description: Obtain the mobile light strike
   GS: '20'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 10%
-  Ratio: 3.12
-  TA: '62'
+  Number of Gamers: 41
+  Percentage of Gamers: 12%
+  Ratio: 2.84
+  TA: '56'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Main Storyline
 - Achievement Name: No obstacle too great
   Description: Obtain the red darkness shield breaker
   GS: '40'
   Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 9%
-  Ratio: 3.32
-  TA: '132'
+  Number of Gamers: 34
+  Percentage of Gamers: 10%
+  Ratio: 3.12
+  TA: '124'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Main Storyline
 - Achievement Name: Warming up
   Description: Clear 50 planets of the red darkness
   GS: '40'
   Guide: false
-  Number of Gamers: 2
+  Number of Gamers: 3
   Percentage of Gamers: 1%
-  Ratio: 11.26
-  TA: '450'
+  Ratio: 10.51
+  TA: '420'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 5.066
-Base TA: 5066
+Base Ratio: 4.72
+Base TA: 4720
 Delisted: false
 Developer: Atypical Games
 Game Name: Cubic Odyssey
 Genres: Role Playing, Open World
 Install Size: 5690.0
-Number of Completions: 2
-Number of Gamers: 255
+Number of Completions: 3
+Number of Gamers: 332
 Overall Completion Time:
-- 61
-- 62
+- 80
+- 81
 Overall GS: 1000
-Overall Ratio: 5.066
-Overall TA: 5066
+Overall Ratio: 4.72
+Overall TA: 4720
 PDU: 0
-Percentage Completed: 0.78
+Percentage Completed: 0.9
 Publisher: Gaijin Entertainment
 Release Date: 14 May 2025
 Server Closure: false

@@ -1,326 +1,421 @@
 Add On Achievements: []
 Base Completion Time:
-- -1
-- -1
+- 35.0
+- 40.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Spread the Wealth
-  Description: Achievement | Locked
+  Description: Give 500 Dosh
   GS: '15'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 60%
-  Ratio: 1.29
-  TA: '19'
-  Tags: []
+  Number of Gamers: 2848
+  Percentage of Gamers: 71%
+  Ratio: 1.19
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Game, Set, Match
-  Description: Achievement | Locked
+  Description: Complete a Multiplayer Survival Match
   GS: '15'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
+  Number of Gamers: 3721
+  Percentage of Gamers: 92%
+  Ratio: 1.04
   TA: '15'
-  Tags: []
+  Tags:
+  - Online Mode
+  - Cooperative
 - Achievement Name: Healing Touch
-  Description: Achievement | Locked
+  Description: Heal Teammates for 500 HP
   GS: '15'
-  Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '15'
-  Tags: []
-- Achievement Name: Designated Revivor
-  Description: Achievement | Locked
-  GS: '10'
-  Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '10'
-  Tags: []
-- Achievement Name: Custom Made
-  Description: Achievement | Locked
-  GS: '10'
-  Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '10'
-  Tags: []
-- Achievement Name: In Mod We Trust
-  Description: Achievement | Locked
-  GS: '10'
-  Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '10'
-  Tags: []
-- Achievement Name: Smooth Upgrader
-  Description: Achievement | Locked
-  GS: '10'
-  Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '10'
-  Tags: []
-- Achievement Name: Maximalist
-  Description: Achievement | Locked
-  GS: '30'
-  Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '30'
-  Tags: []
-- Achievement Name: Pound of Flesh
-  Description: Achievement | Locked
-  GS: '15'
-  Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '15'
-  Tags: []
-- Achievement Name: Scrake, Rattle and Roll
-  Description: Achievement | Locked
-  GS: '15'
-  Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 20%
-  Ratio: 2.23
-  TA: '33'
-  Tags: []
-- Achievement Name: Noble Blood
-  Description: Achievement | Locked
-  GS: '15'
-  Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 20%
-  Ratio: 2.23
-  TA: '33'
-  Tags: []
-- Achievement Name: Royal Flush
-  Description: Achievement | Locked
-  GS: '30'
-  Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '30'
-  Tags: []
-- Achievement Name: Reign Supreme
-  Description: Achievement | Locked
-  GS: '90'
-  Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '90'
-  Tags: []
-- Achievement Name: Tendril Twister
-  Description: Achievement | Locked
-  GS: '15'
-  Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 20%
-  Ratio: 2.23
-  TA: '33'
-  Tags: []
-- Achievement Name: Shellshocker
-  Description: Achievement | Locked
-  GS: '30'
-  Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '30'
-  Tags: []
-- Achievement Name: Chimerical Cure
-  Description: Achievement | Locked
-  GS: '90'
-  Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '90'
-  Tags: []
-- Achievement Name: Stabbing Pain
-  Description: Achievement | Locked
-  GS: '15'
-  Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 40%
-  Ratio: 1.58
+  Guide: true
+  Number of Gamers: 1674
+  Percentage of Gamers: 41%
+  Ratio: 1.55
   TA: '23'
-  Tags: []
+  Tags:
+  - Online Mode
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Designated Revivor
+  Description: Revive a Downed Teammate
+  GS: '10'
+  Guide: false
+  Number of Gamers: 3207
+  Percentage of Gamers: 79%
+  Ratio: 1.12
+  TA: '11'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Custom Made
+  Description: Customize a Weapon
+  GS: '10'
+  Guide: false
+  Number of Gamers: 3410
+  Percentage of Gamers: 84%
+  Ratio: 1.08
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: In Mod We Trust
+  Description: Craft a Weapon Mod
+  GS: '10'
+  Guide: false
+  Number of Gamers: 3367
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Smooth Upgrader
+  Description: Upgrade a Weapon Mod
+  GS: '10'
+  Guide: false
+  Number of Gamers: 2431
+  Percentage of Gamers: 60%
+  Ratio: 1.28
+  TA: '12'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Maximalist
+  Description: Upgrade a Weapon Mod to the Max Tier
+  GS: '30'
+  Guide: false
+  Number of Gamers: 1843
+  Percentage of Gamers: 46%
+  Ratio: 1.48
+  TA: '44'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Pound of Flesh
+  Description: Execute a Fleshpound
+  GS: '15'
+  Guide: false
+  Number of Gamers: 2984
+  Percentage of Gamers: 74%
+  Ratio: 1.16
+  TA: '17'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Scrake, Rattle and Roll
+  Description: Execute a Scrake
+  GS: '15'
+  Guide: false
+  Number of Gamers: 3117
+  Percentage of Gamers: 77%
+  Ratio: 1.13
+  TA: '17'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Noble Blood
+  Description: Defeat a Queen Crawler (Normal)
+  GS: '15'
+  Guide: false
+  Number of Gamers: 3507
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Royal Flush
+  Description: Defeat a Queen Crawler (Hard)
+  GS: '30'
+  Guide: false
+  Number of Gamers: 1541
+  Percentage of Gamers: 38%
+  Ratio: 1.61
+  TA: '48'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Reign Supreme
+  Description: Defeat a Queen Crawler (Hell on Earth)
+  GS: '90'
+  Guide: true
+  Number of Gamers: 360
+  Percentage of Gamers: 9%
+  Ratio: 3.35
+  TA: '302'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Tendril Twister
+  Description: Defeat the Chimera (Normal)
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3000
+  Percentage of Gamers: 74%
+  Ratio: 1.16
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Shellshocker
+  Description: Defeat the Chimera (Hard)
+  GS: '30'
+  Guide: false
+  Number of Gamers: 1409
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '50'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Chimerical Cure
+  Description: Defeat the Chimera (Hell on Earth)
+  GS: '90'
+  Guide: true
+  Number of Gamers: 378
+  Percentage of Gamers: 9%
+  Ratio: 3.26
+  TA: '294'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Stabbing Pain
+  Description: Defeat an Impaler (Normal)
+  GS: '15'
+  Guide: false
+  Number of Gamers: 3091
+  Percentage of Gamers: 77%
+  Ratio: 1.14
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
 - Achievement Name: Sharp Instincts
-  Description: Achievement | Locked
+  Description: Defeat an Impaler (Hard)
   GS: '30'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '30'
-  Tags: []
+  Number of Gamers: 1250
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '53'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
 - Achievement Name: A Cut Above
-  Description: Achievement | Locked
+  Description: Defeat an Impaler (Hell on Earth)
   GS: '90'
-  Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '90'
-  Tags: []
+  Guide: true
+  Number of Gamers: 407
+  Percentage of Gamers: 10%
+  Ratio: 3.14
+  TA: '283'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
 - Achievement Name: High Five
-  Description: Achievement | Locked
+  Description: Reach Level 5 with Any Specialist
   GS: '15'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '15'
-  Tags: []
+  Number of Gamers: 3290
+  Percentage of Gamers: 81%
+  Ratio: 1.1
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
 - Achievement Name: Fifteen and Counting
-  Description: Achievement | Locked
+  Description: Reach Level 15 with any Specialist
   GS: '30'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '30'
-  Tags: []
+  Number of Gamers: 1582
+  Percentage of Gamers: 39%
+  Ratio: 1.59
+  TA: '47'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
 - Achievement Name: Thirty is Something
-  Description: Achievement | Locked
+  Description: Reach Level 30 with any Specialist
   GS: '90'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '90'
-  Tags: []
+  Number of Gamers: 360
+  Percentage of Gamers: 9%
+  Ratio: 3.34
+  TA: '301'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
 - Achievement Name: Skill Shift
-  Description: Achievement | Locked
+  Description: Upgrade a Specialist Skill
   GS: '10'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
+  Number of Gamers: 3576
+  Percentage of Gamers: 89%
+  Ratio: 1.06
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Maximum Potential
-  Description: Achievement | Locked
+  Description: Upgrade a Specialist Skill to the Max Tier
   GS: '30'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '30'
-  Tags: []
+  Number of Gamers: 2472
+  Percentage of Gamers: 61%
+  Ratio: 1.27
+  TA: '38'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Break the Story
-  Description: Achievement | Locked
+  Description: Complete a Story Assignment
   GS: '15'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
+  Number of Gamers: 3629
+  Percentage of Gamers: 90%
+  Ratio: 1.05
   TA: '15'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Survivor Mentality
-  Description: Achievement | Locked
+  Description: Survive a Multiplayer Survival Match
   GS: '10'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
+  Number of Gamers: 3579
+  Percentage of Gamers: 89%
+  Ratio: 1.06
   TA: '10'
-  Tags: []
+  Tags:
+  - Online Mode
+  - Cooperative
 - Achievement Name: Survive Another Day
-  Description: Achievement | Locked
+  Description: Survive 10 Multiplayer Survival Matches
   GS: '30'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '30'
-  Tags: []
+  Number of Gamers: 2002
+  Percentage of Gamers: 50%
+  Ratio: 1.42
+  TA: '42'
+  Tags:
+  - Online Mode
+  - Cooperative
+  - Cumulative +
 - Achievement Name: Survival of the Fittest
-  Description: Achievement | Locked
+  Description: Survive 25 Multiplayer Survival Matches
   GS: '90'
-  Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '90'
-  Tags: []
+  Guide: true
+  Number of Gamers: 1024
+  Percentage of Gamers: 25%
+  Ratio: 1.98
+  TA: '178'
+  Tags:
+  - Online Mode
+  - Cooperative
+  - Cumulative +
 - Achievement Name: Weekly Warrior
-  Description: Achievement | Locked
+  Description: Survive a Weekly Operation
   GS: '90'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '90'
-  Tags: []
+  Number of Gamers: 912
+  Percentage of Gamers: 23%
+  Ratio: 2.1
+  TA: '189'
+  Tags:
+  - Online Mode
+  - Cooperative
+  - Time/Date
 - Achievement Name: Armor-Bearer
-  Description: Achievement | Locked
+  Description: Unlock an Armor Locker
   GS: '10'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 20%
-  Ratio: 2.23
-  TA: '22'
-  Tags: []
+  Number of Gamers: 2677
+  Percentage of Gamers: 66%
+  Ratio: 1.22
+  TA: '12'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
 - Achievement Name: Zip It Up
-  Description: Achievement | Locked
+  Description: Activate a Zipline
   GS: '10'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 40%
-  Ratio: 1.58
-  TA: '15'
-  Tags: []
+  Number of Gamers: 2385
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '13'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
 - Achievement Name: Turret Captain
-  Description: Achievement | Locked
+  Description: Activate a Turret
   GS: '10'
-  Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 40%
-  Ratio: 1.58
-  TA: '15'
-  Tags: []
+  Guide: true
+  Number of Gamers: 2824
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '11'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
 - Achievement Name: Tool Pusher
-  Description: Achievement | Locked
+  Description: Use Multitool to Unlock an Item
   GS: '10'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 40%
-  Ratio: 1.58
-  TA: '15'
-  Tags: []
-Base Ratio: 1.093
-Base TA: 1093
+  Number of Gamers: 2957
+  Percentage of Gamers: 73%
+  Ratio: 1.16
+  TA: '11'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+Base Ratio: 2.149
+Base TA: 2149
 Delisted: false
 Developer: Tripwire Interactive
 Game Name: Killing Floor 3
 Genres: First Person Shooter, Action Horror
-Install Size: 14550.0
-Number of Completions: 0
-Number of Gamers: 5
+Install Size: 16840.0
+Number of Completions: 221
+Number of Gamers: 4037
 Overall Completion Time:
-- -1
-- -1
+- 35.0
+- 40.0
 Overall GS: 1000
-Overall Ratio: 1.093
-Overall TA: 1093
+Overall Ratio: 2.149
+Overall TA: 2149
 PDU: 0
-Percentage Completed: 0.0
+Percentage Completed: 5.47
 Publisher: Tripwire Interactive
-Release Date: To be announced
+Release Date: 24 July 2025
 Server Closure: false
-Site Rating: None
+Site Rating: 3.4
 Update Achievements: []
 Walkthrough: false

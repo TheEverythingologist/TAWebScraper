@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- 40.0
-- 50.0
+- 25.0
+- 30.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Smells Like Team Spirit
   Description: Escape with your whole team alive using each Survivor character.
   GS: '90'
   Guide: false
-  Number of Gamers: 1325
+  Number of Gamers: 1480
   Percentage of Gamers: 4%
-  Ratio: 5.14
-  TA: '462'
+  Ratio: 4.93
+  TA: '444'
   Tags:
   - Online Mode
   - Versus
@@ -21,10 +21,10 @@ Base Game Achievements:
     character.
   GS: '90'
   Guide: true
-  Number of Gamers: 1237
+  Number of Gamers: 1379
   Percentage of Gamers: 4%
-  Ratio: 5.32
-  TA: '479'
+  Ratio: 5.11
+  TA: '460'
   Tags:
   - Online Mode
   - Versus
@@ -33,7 +33,7 @@ Base Game Achievements:
   Description: Pass through an Exit during Overtime using any Survivor character.
   GS: '30'
   Guide: true
-  Number of Gamers: 10166
+  Number of Gamers: 10523
   Percentage of Gamers: 29%
   Ratio: 1.85
   TA: '55'
@@ -45,10 +45,10 @@ Base Game Achievements:
   Description: Escape as a Survivor with 3rd phase infection.
   GS: '30'
   Guide: true
-  Number of Gamers: 2276
-  Percentage of Gamers: 6%
-  Ratio: 3.92
-  TA: '117'
+  Number of Gamers: 2474
+  Percentage of Gamers: 7%
+  Ratio: 3.81
+  TA: '114'
   Tags:
   - Online Mode
   - Versus
@@ -57,10 +57,10 @@ Base Game Achievements:
   Description: Defeat 2 Survivors using a single camera-mounted firearm.
   GS: '30'
   Guide: true
-  Number of Gamers: 1584
+  Number of Gamers: 1737
   Percentage of Gamers: 5%
-  Ratio: 4.7
-  TA: '141'
+  Ratio: 4.55
+  TA: '136'
   Tags:
   - Online Mode
   - Versus
@@ -69,10 +69,10 @@ Base Game Achievements:
   Description: Make Survivors cough 30 times in a single match.
   GS: '30'
   Guide: true
-  Number of Gamers: 1600
+  Number of Gamers: 1751
   Percentage of Gamers: 5%
-  Ratio: 4.68
-  TA: '140'
+  Ratio: 4.53
+  TA: '136'
   Tags:
   - Online Mode
   - Versus
@@ -81,10 +81,10 @@ Base Game Achievements:
   Description: Escape within 10 minutes.
   GS: '30'
   Guide: true
-  Number of Gamers: 4359
-  Percentage of Gamers: 12%
-  Ratio: 2.83
-  TA: '85'
+  Number of Gamers: 4621
+  Percentage of Gamers: 13%
+  Ratio: 2.79
+  TA: '83'
   Tags:
   - Online Mode
   - Versus
@@ -94,10 +94,10 @@ Base Game Achievements:
   Description: Win a match before the Survivors clear Area 2 as the Mastermind.
   GS: '30'
   Guide: true
-  Number of Gamers: 3380
+  Number of Gamers: 3580
   Percentage of Gamers: 10%
-  Ratio: 3.22
-  TA: '96'
+  Ratio: 3.17
+  TA: '95'
   Tags:
   - Online Mode
   - Versus
@@ -106,7 +106,7 @@ Base Game Achievements:
   Description: Complete the Survivor tutorial.
   GS: '10'
   Guide: true
-  Number of Gamers: 27793
+  Number of Gamers: 28593
   Percentage of Gamers: 79%
   Ratio: 1.12
   TA: '11'
@@ -117,9 +117,9 @@ Base Game Achievements:
   Description: Have 2 cameras disabled simultaneously in a level.
   GS: '15'
   Guide: true
-  Number of Gamers: 9669
+  Number of Gamers: 10035
   Percentage of Gamers: 28%
-  Ratio: 1.9
+  Ratio: 1.89
   TA: '28'
   Tags:
   - Online Mode
@@ -129,10 +129,10 @@ Base Game Achievements:
   Description: Use explosive-type weapons to kill 3 enemies at once.
   GS: '15'
   Guide: true
-  Number of Gamers: 3356
+  Number of Gamers: 3538
   Percentage of Gamers: 10%
-  Ratio: 3.23
-  TA: '48'
+  Ratio: 3.19
+  TA: '47'
   Tags:
   - Online Mode
   - Versus
@@ -141,10 +141,10 @@ Base Game Achievements:
   Description: Have all Survivors possess at least 1 special weapon at the same time.
   GS: '15'
   Guide: true
-  Number of Gamers: 1323
+  Number of Gamers: 1493
   Percentage of Gamers: 4%
-  Ratio: 5.14
-  TA: '77'
+  Ratio: 4.91
+  TA: '73'
   Tags:
   - Online Mode
   - Versus
@@ -153,10 +153,10 @@ Base Game Achievements:
   Description: Break 3 melee weapons in a single match.
   GS: '15'
   Guide: true
-  Number of Gamers: 2213
-  Percentage of Gamers: 6%
-  Ratio: 3.98
-  TA: '59'
+  Number of Gamers: 2395
+  Percentage of Gamers: 7%
+  Ratio: 3.87
+  TA: '58'
   Tags:
   - Online Mode
   - Versus
@@ -165,10 +165,10 @@ Base Game Achievements:
   Description: Incapacitate the bioweapon 3 times in a single match.
   GS: '15'
   Guide: true
-  Number of Gamers: 1108
-  Percentage of Gamers: 3%
-  Ratio: 5.62
-  TA: '84'
+  Number of Gamers: 1282
+  Percentage of Gamers: 4%
+  Ratio: 5.3
+  TA: '79'
   Tags:
   - Online Mode
   - Versus
@@ -177,10 +177,10 @@ Base Game Achievements:
   Description: Save every member of your team in a single match.
   GS: '15'
   Guide: true
-  Number of Gamers: 2028
+  Number of Gamers: 2204
   Percentage of Gamers: 6%
-  Ratio: 4.15
-  TA: '62'
+  Ratio: 4.04
+  TA: '60'
   Tags:
   - Online Mode
   - Versus
@@ -190,10 +190,10 @@ Base Game Achievements:
     - Counterattack.
   GS: '15'
   Guide: true
-  Number of Gamers: 1066
+  Number of Gamers: 1220
   Percentage of Gamers: 3%
-  Ratio: 5.73
-  TA: '86'
+  Ratio: 5.43
+  TA: '81'
   Tags:
   - Online Mode
   - Versus
@@ -203,10 +203,10 @@ Base Game Achievements:
     3 times in a single match.
   GS: '15'
   Guide: true
-  Number of Gamers: 1848
-  Percentage of Gamers: 5%
-  Ratio: 4.35
-  TA: '65'
+  Number of Gamers: 2015
+  Percentage of Gamers: 6%
+  Ratio: 4.22
+  TA: '63'
   Tags:
   - Online Mode
   - Versus
@@ -216,10 +216,10 @@ Base Game Achievements:
     Instinct.
   GS: '15'
   Guide: true
-  Number of Gamers: 4440
+  Number of Gamers: 4658
   Percentage of Gamers: 13%
-  Ratio: 2.81
-  TA: '42'
+  Ratio: 2.78
+  TA: '41'
   Tags:
   - Online Mode
   - Versus
@@ -229,10 +229,10 @@ Base Game Achievements:
     a chance to fire.
   GS: '15'
   Guide: true
-  Number of Gamers: 2553
-  Percentage of Gamers: 7%
-  Ratio: 3.7
-  TA: '55'
+  Number of Gamers: 2732
+  Percentage of Gamers: 8%
+  Ratio: 3.63
+  TA: '54'
   Tags:
   - Online Mode
   - Versus
@@ -241,10 +241,10 @@ Base Game Achievements:
   Description: Disable cameras 15 times in a single match using Jan.
   GS: '15'
   Guide: true
-  Number of Gamers: 1415
+  Number of Gamers: 1583
   Percentage of Gamers: 4%
-  Ratio: 4.98
-  TA: '74'
+  Ratio: 4.77
+  TA: '71'
   Tags:
   - Online Mode
   - Versus
@@ -253,10 +253,10 @@ Base Game Achievements:
   Description: Buy a special weapon from the Armory using Jan's Cyber Monday - Arsenal.
   GS: '15'
   Guide: true
-  Number of Gamers: 1376
+  Number of Gamers: 1544
   Percentage of Gamers: 4%
-  Ratio: 5.04
-  TA: '75'
+  Ratio: 4.83
+  TA: '72'
   Tags:
   - Online Mode
   - Versus
@@ -266,10 +266,10 @@ Base Game Achievements:
   Description: Kill 5 enemies in a single match while using Becca's Sentry Stance.
   GS: '15'
   Guide: true
-  Number of Gamers: 1835
-  Percentage of Gamers: 5%
-  Ratio: 4.37
-  TA: '65'
+  Number of Gamers: 2021
+  Percentage of Gamers: 6%
+  Ratio: 4.22
+  TA: '63'
   Tags:
   - Online Mode
   - Versus
@@ -278,9 +278,9 @@ Base Game Achievements:
   Description: As Becca, expend 300 Ammo in a single match.
   GS: '15'
   Guide: true
-  Number of Gamers: 6327
+  Number of Gamers: 6597
   Percentage of Gamers: 18%
-  Ratio: 2.35
+  Ratio: 2.33
   TA: '35'
   Tags:
   - Online Mode
@@ -290,10 +290,10 @@ Base Game Achievements:
   Description: Shoot 100 bullets in a single activation of Becca's Bullet Storm.
   GS: '15'
   Guide: true
-  Number of Gamers: 1716
+  Number of Gamers: 1896
   Percentage of Gamers: 5%
-  Ratio: 4.52
-  TA: '67'
+  Ratio: 4.35
+  TA: '65'
   Tags:
   - Online Mode
   - Versus
@@ -303,10 +303,10 @@ Base Game Achievements:
     a teammate.
   GS: '15'
   Guide: true
-  Number of Gamers: 1817
+  Number of Gamers: 1983
   Percentage of Gamers: 5%
-  Ratio: 4.39
-  TA: '65'
+  Ratio: 4.26
+  TA: '63'
   Tags:
   - Online Mode
   - Versus
@@ -316,10 +316,10 @@ Base Game Achievements:
     - Shock.
   GS: '15'
   Guide: true
-  Number of Gamers: 2633
-  Percentage of Gamers: 7%
-  Ratio: 3.65
-  TA: '54'
+  Number of Gamers: 2814
+  Percentage of Gamers: 8%
+  Ratio: 3.57
+  TA: '53'
   Tags:
   - Online Mode
   - Versus
@@ -327,11 +327,11 @@ Base Game Achievements:
 - Achievement Name: Y'all Got Any More of Them Traps?
   Description: Disarm or destroy 10 traps in a single match using Martin's Sapper.
   GS: '15'
-  Guide: false
-  Number of Gamers: 1379
+  Guide: true
+  Number of Gamers: 1535
   Percentage of Gamers: 4%
-  Ratio: 5.04
-  TA: '75'
+  Ratio: 4.84
+  TA: '72'
   Tags:
   - Online Mode
   - Versus
@@ -341,10 +341,10 @@ Base Game Achievements:
     - Second Wind.
   GS: '15'
   Guide: true
-  Number of Gamers: 1183
-  Percentage of Gamers: 3%
-  Ratio: 5.44
-  TA: '81'
+  Number of Gamers: 1333
+  Percentage of Gamers: 4%
+  Ratio: 5.19
+  TA: '77'
   Tags:
   - Online Mode
   - Versus
@@ -353,10 +353,10 @@ Base Game Achievements:
   Description: Send 2 enemies flying with one kick using Tyrone's Power Kick.
   GS: '15'
   Guide: true
-  Number of Gamers: 2813
+  Number of Gamers: 3004
   Percentage of Gamers: 8%
-  Ratio: 3.53
-  TA: '52'
+  Ratio: 3.46
+  TA: '51'
   Tags:
   - Online Mode
   - Versus
@@ -365,10 +365,10 @@ Base Game Achievements:
   Description: As Tyrone, escape without being grabbed by enemies.
   GS: '15'
   Guide: true
-  Number of Gamers: 1600
+  Number of Gamers: 1767
   Percentage of Gamers: 5%
-  Ratio: 4.68
-  TA: '70'
+  Ratio: 4.51
+  TA: '67'
   Tags:
   - Online Mode
   - Versus
@@ -377,10 +377,10 @@ Base Game Achievements:
   Description: Activate Sam's Fists of Iron twice within 90 seconds.
   GS: '15'
   Guide: true
-  Number of Gamers: 1447
+  Number of Gamers: 1607
   Percentage of Gamers: 4%
-  Ratio: 4.92
-  TA: '73'
+  Ratio: 4.73
+  TA: '71'
   Tags:
   - Online Mode
   - Versus
@@ -390,10 +390,10 @@ Base Game Achievements:
   Description: As Sam, kill 5 creatures within 30 seconds using melee attacks.
   GS: '15'
   Guide: true
-  Number of Gamers: 1758
+  Number of Gamers: 1931
   Percentage of Gamers: 5%
-  Ratio: 4.46
-  TA: '66'
+  Ratio: 4.32
+  TA: '64'
   Tags:
   - Online Mode
   - Versus
@@ -404,10 +404,10 @@ Base Game Achievements:
     healed by teammates).
   GS: '15'
   Guide: true
-  Number of Gamers: 1249
+  Number of Gamers: 1419
   Percentage of Gamers: 4%
-  Ratio: 5.29
-  TA: '79'
+  Ratio: 5.03
+  TA: '75'
   Tags:
   - Online Mode
   - Versus
@@ -416,8 +416,8 @@ Base Game Achievements:
   Description: Complete the Mastermind tutorial.
   GS: '15'
   Guide: true
-  Number of Gamers: 30708
-  Percentage of Gamers: 87%
+  Number of Gamers: 31576
+  Percentage of Gamers: 88%
   Ratio: 1.06
   TA: '16'
   Tags:
@@ -427,10 +427,10 @@ Base Game Achievements:
   Description: As Annette, have a creature with 3 buffs survive for 1 minute.
   GS: '15'
   Guide: true
-  Number of Gamers: 990
+  Number of Gamers: 1130
   Percentage of Gamers: 3%
-  Ratio: 5.95
-  TA: '89'
+  Ratio: 5.64
+  TA: '84'
   Tags:
   - Online Mode
   - Versus
@@ -439,10 +439,10 @@ Base Game Achievements:
   Description: As Annette, have 8 creatures with at least 1 buff in the game simultaneously.
   GS: '15'
   Guide: true
-  Number of Gamers: 1829
-  Percentage of Gamers: 5%
-  Ratio: 4.37
-  TA: '65'
+  Number of Gamers: 1985
+  Percentage of Gamers: 6%
+  Ratio: 4.26
+  TA: '63'
   Tags:
   - Online Mode
   - Versus
@@ -450,11 +450,11 @@ Base Game Achievements:
 - Achievement Name: Will of the G
   Description: Successfully use G-Birkin's Overkill 2 times in a single match.
   GS: '15'
-  Guide: false
-  Number of Gamers: 3353
+  Guide: true
+  Number of Gamers: 3543
   Percentage of Gamers: 10%
-  Ratio: 3.23
-  TA: '48'
+  Ratio: 3.18
+  TA: '47'
   Tags:
   - Online Mode
   - Versus
@@ -463,10 +463,10 @@ Base Game Achievements:
   Description: As Alex, use traps to defeat Survivors 4 times in a single match.
   GS: '15'
   Guide: true
-  Number of Gamers: 921
+  Number of Gamers: 1060
   Percentage of Gamers: 3%
-  Ratio: 6.16
-  TA: '92'
+  Ratio: 5.83
+  TA: '87'
   Tags:
   - Online Mode
   - Versus
@@ -476,10 +476,10 @@ Base Game Achievements:
     in a single match.
   GS: '15'
   Guide: true
-  Number of Gamers: 1089
+  Number of Gamers: 1233
   Percentage of Gamers: 3%
-  Ratio: 5.67
-  TA: '85'
+  Ratio: 5.4
+  TA: '81'
   Tags:
   - Online Mode
   - Versus
@@ -489,10 +489,10 @@ Base Game Achievements:
     match.
   GS: '15'
   Guide: true
-  Number of Gamers: 921
+  Number of Gamers: 1061
   Percentage of Gamers: 3%
-  Ratio: 6.16
-  TA: '92'
+  Ratio: 5.82
+  TA: '87'
   Tags:
   - Online Mode
   - Versus
@@ -502,10 +502,10 @@ Base Game Achievements:
     Field is active.
   GS: '15'
   Guide: true
-  Number of Gamers: 896
+  Number of Gamers: 1036
   Percentage of Gamers: 3%
-  Ratio: 6.25
-  TA: '93'
+  Ratio: 5.89
+  TA: '88'
   Tags:
   - Online Mode
   - Versus
@@ -514,10 +514,10 @@ Base Game Achievements:
   Description: As Spencer, maintain 8 units or more of Bio Energy for 2 minutes.
   GS: '15'
   Guide: true
-  Number of Gamers: 990
+  Number of Gamers: 1142
   Percentage of Gamers: 3%
-  Ratio: 5.95
-  TA: '89'
+  Ratio: 5.61
+  TA: '84'
   Tags:
   - Online Mode
   - Versus
@@ -527,10 +527,10 @@ Base Game Achievements:
   Description: As Spencer, activate 10 skill cards within 1 minute.
   GS: '15'
   Guide: true
-  Number of Gamers: 1703
+  Number of Gamers: 1874
   Percentage of Gamers: 5%
-  Ratio: 4.53
-  TA: '68'
+  Ratio: 4.38
+  TA: '65'
   Tags:
   - Online Mode
   - Versus
@@ -541,10 +541,10 @@ Base Game Achievements:
     in a single match.
   GS: '15'
   Guide: true
-  Number of Gamers: 1851
-  Percentage of Gamers: 5%
-  Ratio: 4.35
-  TA: '65'
+  Number of Gamers: 2006
+  Percentage of Gamers: 6%
+  Ratio: 4.23
+  TA: '63'
   Tags:
   - Online Mode
   - Versus
@@ -554,10 +554,10 @@ Base Game Achievements:
     4 consecutive times.
   GS: '15'
   Guide: true
-  Number of Gamers: 860
-  Percentage of Gamers: 2%
-  Ratio: 6.38
-  TA: '95'
+  Number of Gamers: 998
+  Percentage of Gamers: 3%
+  Ratio: 6.0
+  TA: '90'
   Tags:
   - Online Mode
   - Versus
@@ -566,10 +566,10 @@ Base Game Achievements:
   Description: Defeat Survivors using the Tyrant's Bull Rush 2 times in a single match.
   GS: '15'
   Guide: true
-  Number of Gamers: 931
+  Number of Gamers: 1073
   Percentage of Gamers: 3%
-  Ratio: 6.13
-  TA: '92'
+  Ratio: 5.79
+  TA: '86'
   Tags:
   - Online Mode
   - Versus
@@ -578,10 +578,10 @@ Base Game Achievements:
   Description: Win as the Mastermind while the Final Exit is open.
   GS: '15'
   Guide: true
-  Number of Gamers: 1958
+  Number of Gamers: 2122
   Percentage of Gamers: 6%
-  Ratio: 4.23
-  TA: '63'
+  Ratio: 4.12
+  TA: '61'
   Tags:
   - Online Mode
   - Versus
@@ -590,10 +590,10 @@ Base Game Achievements:
   Description: Defeat a Survivor while they are holding a puzzle piece in Area 1.
   GS: '15'
   Guide: true
-  Number of Gamers: 2501
+  Number of Gamers: 2680
   Percentage of Gamers: 7%
-  Ratio: 3.74
-  TA: '56'
+  Ratio: 3.66
+  TA: '55'
   Tags:
   - Online Mode
   - Versus
@@ -602,10 +602,10 @@ Base Game Achievements:
   Description: Lock doors 10 times in a single match.
   GS: '15'
   Guide: true
-  Number of Gamers: 2701
+  Number of Gamers: 2890
   Percentage of Gamers: 8%
-  Ratio: 3.6
-  TA: '54'
+  Ratio: 3.53
+  TA: '52'
   Tags:
   - Online Mode
   - Versus
@@ -614,10 +614,10 @@ Base Game Achievements:
   Description: Turn off lights 10 times in a single match.
   GS: '15'
   Guide: true
-  Number of Gamers: 1688
+  Number of Gamers: 1856
   Percentage of Gamers: 5%
-  Ratio: 4.55
-  TA: '68'
+  Ratio: 4.4
+  TA: '66'
   Tags:
   - Online Mode
   - Versus
@@ -627,34 +627,34 @@ Base Game Achievements:
     2.
   GS: '15'
   Guide: true
-  Number of Gamers: 1359
+  Number of Gamers: 1511
   Percentage of Gamers: 4%
-  Ratio: 5.07
-  TA: '76'
+  Ratio: 4.88
+  TA: '73'
   Tags:
   - Online Mode
   - Versus
   - 12 Players Required
-Base Ratio: 4.429
-Base TA: 4429
+Base Ratio: 4.265
+Base TA: 4265
 Delisted: false
 Developer: Capcom Entertainment, NeoBards Entertainment
 Game Name: Resident Evil Resistance
 Genres: Action Horror
 Install Size: 28750.0
-Number of Completions: 587
-Number of Gamers: 35110
+Number of Completions: 732
+Number of Gamers: 36065
 Overall Completion Time:
-- 40.0
-- 50.0
+- 25.0
+- 30.0
 Overall GS: 1000
-Overall Ratio: 4.429
-Overall TA: 4429
+Overall Ratio: 4.265
+Overall TA: 4265
 PDU: 0
-Percentage Completed: 1.67
+Percentage Completed: 2.03
 Publisher: Capcom Entertainment
 Release Date: 03 April 2020
 Server Closure: false
-Site Rating: 2.69
+Site Rating: 2.66
 Update Achievements: []
 Walkthrough: false

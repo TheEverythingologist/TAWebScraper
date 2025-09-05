@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.5
-- 1.5
-Base GS: 2000
+- 2.0
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: Level 1
   Description: Complete Level 1
   GS: '50'
   Guide: false
-  Number of Gamers: 238
+  Number of Gamers: 356
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '50'
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Complete Level 2
   GS: '50'
   Guide: false
-  Number of Gamers: 235
+  Number of Gamers: 352
   Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '50'
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Complete Level 3
   GS: '50'
   Guide: false
-  Number of Gamers: 231
+  Number of Gamers: 345
   Percentage of Gamers: 96%
-  Ratio: 1.01
-  TA: '50'
+  Ratio: 1.02
+  TA: '51'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Complete Level 4
   GS: '50'
   Guide: false
-  Number of Gamers: 223
-  Percentage of Gamers: 93%
-  Ratio: 1.03
-  TA: '51'
+  Number of Gamers: 328
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '52'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,7 +56,7 @@ Base Game Achievements:
   Description: Complete Level 5
   GS: '50'
   Guide: false
-  Number of Gamers: 214
+  Number of Gamers: 320
   Percentage of Gamers: 89%
   Ratio: 1.05
   TA: '52'
@@ -68,7 +68,7 @@ Base Game Achievements:
   Description: Complete Level 6
   GS: '50'
   Guide: false
-  Number of Gamers: 206
+  Number of Gamers: 308
   Percentage of Gamers: 86%
   Ratio: 1.07
   TA: '53'
@@ -80,9 +80,9 @@ Base Game Achievements:
   Description: Complete Level 7
   GS: '50'
   Guide: false
-  Number of Gamers: 200
-  Percentage of Gamers: 83%
-  Ratio: 1.09
+  Number of Gamers: 301
+  Percentage of Gamers: 84%
+  Ratio: 1.08
   TA: '54'
   Tags:
   - Offline Mode
@@ -92,7 +92,7 @@ Base Game Achievements:
   Description: Complete Level 8
   GS: '50'
   Guide: false
-  Number of Gamers: 199
+  Number of Gamers: 298
   Percentage of Gamers: 83%
   Ratio: 1.09
   TA: '54'
@@ -104,10 +104,10 @@ Base Game Achievements:
   Description: Complete Level 9
   GS: '50'
   Guide: false
-  Number of Gamers: 196
-  Percentage of Gamers: 82%
-  Ratio: 1.1
-  TA: '55'
+  Number of Gamers: 298
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '54'
   Tags:
   - Offline Mode
   - Single Player
@@ -116,9 +116,9 @@ Base Game Achievements:
   Description: Complete Level 10
   GS: '50'
   Guide: false
-  Number of Gamers: 192
-  Percentage of Gamers: 80%
-  Ratio: 1.11
+  Number of Gamers: 292
+  Percentage of Gamers: 81%
+  Ratio: 1.1
   TA: '55'
   Tags:
   - Offline Mode
@@ -128,10 +128,10 @@ Base Game Achievements:
   Description: Complete Level 11
   GS: '50'
   Guide: false
-  Number of Gamers: 191
-  Percentage of Gamers: 80%
-  Ratio: 1.12
-  TA: '56'
+  Number of Gamers: 285
+  Percentage of Gamers: 79%
+  Ratio: 1.11
+  TA: '55'
   Tags:
   - Offline Mode
   - Single Player
@@ -140,8 +140,8 @@ Base Game Achievements:
   Description: Complete Level 12
   GS: '50'
   Guide: false
-  Number of Gamers: 187
-  Percentage of Gamers: 78%
+  Number of Gamers: 278
+  Percentage of Gamers: 77%
   Ratio: 1.13
   TA: '56'
   Tags:
@@ -152,9 +152,9 @@ Base Game Achievements:
   Description: Complete Level 13
   GS: '50'
   Guide: false
-  Number of Gamers: 189
-  Percentage of Gamers: 79%
-  Ratio: 1.12
+  Number of Gamers: 279
+  Percentage of Gamers: 78%
+  Ratio: 1.13
   TA: '56'
   Tags:
   - Offline Mode
@@ -164,9 +164,9 @@ Base Game Achievements:
   Description: Complete Level 14
   GS: '50'
   Guide: false
-  Number of Gamers: 184
-  Percentage of Gamers: 77%
-  Ratio: 1.14
+  Number of Gamers: 268
+  Percentage of Gamers: 74%
+  Ratio: 1.15
   TA: '57'
   Tags:
   - Offline Mode
@@ -176,10 +176,10 @@ Base Game Achievements:
   Description: Complete Level 15
   GS: '50'
   Guide: false
-  Number of Gamers: 182
-  Percentage of Gamers: 76%
-  Ratio: 1.15
-  TA: '57'
+  Number of Gamers: 264
+  Percentage of Gamers: 73%
+  Ratio: 1.16
+  TA: '58'
   Tags:
   - Offline Mode
   - Single Player
@@ -188,10 +188,10 @@ Base Game Achievements:
   Description: Complete Level 16
   GS: '50'
   Guide: false
-  Number of Gamers: 174
-  Percentage of Gamers: 72%
-  Ratio: 1.17
-  TA: '58'
+  Number of Gamers: 254
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '59'
   Tags:
   - Offline Mode
   - Single Player
@@ -200,10 +200,10 @@ Base Game Achievements:
   Description: Complete Level 17
   GS: '50'
   Guide: false
-  Number of Gamers: 174
-  Percentage of Gamers: 72%
-  Ratio: 1.17
-  TA: '58'
+  Number of Gamers: 254
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '59'
   Tags:
   - Offline Mode
   - Single Player
@@ -212,8 +212,8 @@ Base Game Achievements:
   Description: Complete Level 18
   GS: '50'
   Guide: false
-  Number of Gamers: 173
-  Percentage of Gamers: 72%
+  Number of Gamers: 254
+  Percentage of Gamers: 71%
   Ratio: 1.18
   TA: '59'
   Tags:
@@ -224,8 +224,8 @@ Base Game Achievements:
   Description: Complete Level 19
   GS: '50'
   Guide: false
-  Number of Gamers: 173
-  Percentage of Gamers: 72%
+  Number of Gamers: 253
+  Percentage of Gamers: 70%
   Ratio: 1.18
   TA: '59'
   Tags:
@@ -236,44 +236,44 @@ Base Game Achievements:
   Description: Complete Level 20
   GS: '50'
   Guide: true
-  Number of Gamers: 177
-  Percentage of Gamers: 74%
-  Ratio: 1.16
+  Number of Gamers: 259
+  Percentage of Gamers: 72%
+  Ratio: 1.17
   TA: '58'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.072
-Base TA: 2144
+Base Ratio: 1.0943333333333334
+Base TA: 3283
 Delisted: false
 Developer: Old School Vibes
 Game Name: 1-Bit Dungeon
 Genres: Platformer
 Install Size: 514.0
-Number of Completions: 168
-Number of Gamers: 240
+Number of Completions: 224
+Number of Gamers: 360
 Overall Completion Time:
 - 0.5
-- 1.5
-Overall GS: 2000
-Overall Ratio: 1.072
-Overall TA: 2144
+- 2.0
+Overall GS: 3000
+Overall Ratio: 1.0943333333333334
+Overall TA: 3283
 PDU: 0
-Percentage Completed: 70.0
+Percentage Completed: 62.22
 Publisher: Old School Vibes
 Release Date: 20 March 2025
 Server Closure: false
-Site Rating: 1.87
+Site Rating: 2.06
 Update Achievements:
 - Achievement Name: Dungeon Gem at Level 1
   Description: Get the Dungeon Gem at Level 1
   GS: '200'
   Guide: false
-  Number of Gamers: 222
-  Percentage of Gamers: 92%
-  Ratio: 1.03
-  TA: '207'
+  Number of Gamers: 341
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '205'
   Tags:
   - Offline Mode
   - Single Player
@@ -282,10 +282,10 @@ Update Achievements:
   Description: Get the Dungeon Gem at Level 2
   GS: '200'
   Guide: false
-  Number of Gamers: 219
-  Percentage of Gamers: 91%
-  Ratio: 1.04
-  TA: '209'
+  Number of Gamers: 335
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '207'
   Tags:
   - Offline Mode
   - Single Player
@@ -294,10 +294,10 @@ Update Achievements:
   Description: Get the Dungeon Gem at Level 3
   GS: '200'
   Guide: false
-  Number of Gamers: 217
-  Percentage of Gamers: 90%
-  Ratio: 1.05
-  TA: '210'
+  Number of Gamers: 334
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '207'
   Tags:
   - Offline Mode
   - Single Player
@@ -306,10 +306,10 @@ Update Achievements:
   Description: Get the Dungeon Gem at Level 4
   GS: '200'
   Guide: false
-  Number of Gamers: 218
-  Percentage of Gamers: 91%
+  Number of Gamers: 332
+  Percentage of Gamers: 92%
   Ratio: 1.04
-  TA: '209'
+  TA: '208'
   Tags:
   - Offline Mode
   - Single Player
@@ -318,10 +318,70 @@ Update Achievements:
   Description: Get the Dungeon Gem at Level 5
   GS: '200'
   Guide: false
-  Number of Gamers: 215
+  Number of Gamers: 323
   Percentage of Gamers: 90%
   Ratio: 1.05
   TA: '211'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Dungeon Gem at Level 6
+  Description: Get the Dungeon Gem at Level 6
+  GS: '200'
+  Guide: false
+  Number of Gamers: 274
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '228'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Dungeon Gem at Level 7
+  Description: Get the Dungeon Gem at Level 7
+  GS: '200'
+  Guide: false
+  Number of Gamers: 273
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '229'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Dungeon Gem at Level 8
+  Description: Get the Dungeon Gem at Level 8
+  GS: '200'
+  Guide: false
+  Number of Gamers: 272
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '229'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Dungeon Gem at Level 9
+  Description: Get the Dungeon Gem at Level 9
+  GS: '200'
+  Guide: false
+  Number of Gamers: 271
+  Percentage of Gamers: 75%
+  Ratio: 1.14
+  TA: '229'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Dungeon Gem at Level 10
+  Description: Get the Dungeon Gem at Level 10
+  GS: '200'
+  Guide: false
+  Number of Gamers: 271
+  Percentage of Gamers: 75%
+  Ratio: 1.14
+  TA: '229'
   Tags:
   - Offline Mode
   - Single Player

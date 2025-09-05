@@ -97,26 +97,25 @@ def format_game_row(input_game: dict):
     if input_game['Install Size'] is None:
         return None 
     time_val = max(float(overall_time_list[0]), 0.5)
+    min_time, max_time = input_game['Overall Completion Time'][0], input_game['Overall Completion Time'][1] 
     # num_achievements = len(input_game['Base Game Achievements']) + len(input_game['Add On Achievements']) + len(input_game['Update Achievements'])
     # tad_val = input_game['Overall TA'] - input_game['Overall GS']
-    # game_row = [
-    #             input_game['Game Name'],
-    #             time_val,
-    #             num_achievements,
-    #             tad_val,
-    #             num_achievements / time_val,
-    #             tad_val / time_val
-    #             ]
-    tad = input_game['Base TA'] - input_game['Base GS']
-    num_achievements = len(input_game['Base Game Achievements']) + len(input_game['Update Achievements'])
+    # tad = input_game['Base TA'] - input_game['Base GS']
+    # num_achievements = len(input_game['Base Game Achievements']) + len(input_game['Update Achievements'])
     game_row = [
         input_game['Game Name'],
-        input_game['Base TA'],
-        input_game['Base GS'],
-        tad,
-        num_achievements,
-        time_val,
-        tad * num_achievements / time_val
+        input_game['Overall TA'],
+        input_game['Overall GS'],
+        input_game['Site Rating'],
+        input_game['Number of Gamers'],
+        input_game['Percentage Completed'],
+        min_time,
+        max_time,
+        input_game['Overall Ratio'],
+        input_game['Release Date'],
+        input_game['Install Size'],
+        input_game['Developer'],
+        input_game['Publisher']
     ]
     new_row = pd.DataFrame([game_row], columns=utils.columns_list)
     return new_row 

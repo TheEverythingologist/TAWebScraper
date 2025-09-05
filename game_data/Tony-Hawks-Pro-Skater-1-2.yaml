@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 100.0
-- 120.0
+- 60.0
+- 80.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Summer's Over
   Description: Unlock School in THPS1 Classic.
   GS: '15'
   Guide: true
-  Number of Gamers: 81402
+  Number of Gamers: 84858
   Percentage of Gamers: 93%
   Ratio: 1.03
   TA: '15'
@@ -19,9 +19,9 @@ Base Game Achievements:
   Description: Earn a Medal on any competition park in Tours.
   GS: '15'
   Guide: true
-  Number of Gamers: 53263
+  Number of Gamers: 55764
   Percentage of Gamers: 61%
-  Ratio: 1.28
+  Ratio: 1.27
   TA: '19'
   Tags:
   - Offline Game Mode
@@ -30,22 +30,21 @@ Base Game Achievements:
   Description: Unlock Roswell in THPS1 Classic.
   GS: '15'
   Guide: true
-  Number of Gamers: 31990
+  Number of Gamers: 33814
   Percentage of Gamers: 37%
-  Ratio: 1.65
+  Ratio: 1.64
   TA: '24'
   Tags:
-  - Offline Mode
+  - Offline Game Mode
   - Single Player
-  - Collectable
 - Achievement Name: The Truth is In Here
   Description: Find every alien plushie.
   GS: '30'
   Guide: true
-  Number of Gamers: 9099
-  Percentage of Gamers: 10%
-  Ratio: 3.09
-  TA: '92'
+  Number of Gamers: 9737
+  Percentage of Gamers: 11%
+  Ratio: 3.06
+  TA: '91'
   Tags:
   - Offline Mode
   - Single Player
@@ -54,9 +53,9 @@ Base Game Achievements:
   Description: Complete every goal in THPS1 Classic and gain all gold medals.
   GS: '30'
   Guide: true
-  Number of Gamers: 20674
+  Number of Gamers: 21844
   Percentage of Gamers: 24%
-  Ratio: 2.05
+  Ratio: 2.04
   TA: '61'
   Tags:
   - Offline Game Mode
@@ -65,9 +64,9 @@ Base Game Achievements:
   Description: Unlock School II in THPS2 Classic.
   GS: '15'
   Guide: true
-  Number of Gamers: 52133
+  Number of Gamers: 54793
   Percentage of Gamers: 60%
-  Ratio: 1.29
+  Ratio: 1.28
   TA: '19'
   Tags:
   - Offline Game Mode
@@ -76,9 +75,9 @@ Base Game Achievements:
   Description: Earn any 4 Medals on competition parks in Tours.
   GS: '15'
   Guide: true
-  Number of Gamers: 27762
+  Number of Gamers: 29308
   Percentage of Gamers: 32%
-  Ratio: 1.77
+  Ratio: 1.76
   TA: '26'
   Tags:
   - Offline Game Mode
@@ -87,10 +86,10 @@ Base Game Achievements:
   Description: Unlock Bullring in THPS2 Classic.
   GS: '15'
   Guide: true
-  Number of Gamers: 26854
+  Number of Gamers: 28484
   Percentage of Gamers: 31%
-  Ratio: 1.8
-  TA: '27'
+  Ratio: 1.78
+  TA: '26'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -98,9 +97,9 @@ Base Game Achievements:
   Description: Get hit by the Bull in Bullring.
   GS: '15'
   Guide: true
-  Number of Gamers: 25641
-  Percentage of Gamers: 29%
-  Ratio: 1.84
+  Number of Gamers: 27278
+  Percentage of Gamers: 30%
+  Ratio: 1.82
   TA: '27'
   Tags:
   - Offline Game Mode
@@ -109,10 +108,10 @@ Base Game Achievements:
   Description: Complete every goal in THPS2 Classic and gain all gold medals.
   GS: '30'
   Guide: true
-  Number of Gamers: 19075
+  Number of Gamers: 20189
   Percentage of Gamers: 22%
-  Ratio: 2.14
-  TA: '64'
+  Ratio: 2.12
+  TA: '63'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -120,33 +119,35 @@ Base Game Achievements:
   Description: Complete a match in multiplayer.
   GS: '15'
   Guide: true
-  Number of Gamers: 40647
+  Number of Gamers: 42286
   Percentage of Gamers: 46%
   Ratio: 1.46
-  TA: '21'
+  TA: '22'
   Tags:
   - Online/Offline
+  - Single Player
   - Cooperative
   - Versus
 - Achievement Name: BEEP BEEP
   Description: Get hit by a vehicle on every map that features them.
   GS: '15'
   Guide: true
-  Number of Gamers: 23434
+  Number of Gamers: 24972
   Percentage of Gamers: 27%
-  Ratio: 1.93
+  Ratio: 1.91
   TA: '28'
   Tags:
   - Online/Offline
+  - Single Player
   - Cooperative
   - Versus
 - Achievement Name: Creator
   Description: Create a skater using the CAS system.
   GS: '15'
   Guide: true
-  Number of Gamers: 63848
+  Number of Gamers: 66666
   Percentage of Gamers: 73%
-  Ratio: 1.17
+  Ratio: 1.16
   TA: '17'
   Tags:
   - Offline Game Mode
@@ -155,9 +156,9 @@ Base Game Achievements:
   Description: Create a new park and upload it.
   GS: '15'
   Guide: true
-  Number of Gamers: 16618
+  Number of Gamers: 17684
   Percentage of Gamers: 19%
-  Ratio: 2.29
+  Ratio: 2.27
   TA: '34'
   Tags:
   - Online Mode
@@ -167,10 +168,10 @@ Base Game Achievements:
   Description: Spend $10,000 in the Skate Shop.
   GS: '30'
   Guide: true
-  Number of Gamers: 14382
-  Percentage of Gamers: 16%
-  Ratio: 2.46
-  TA: '73'
+  Number of Gamers: 15424
+  Percentage of Gamers: 17%
+  Ratio: 2.43
+  TA: '72'
   Tags:
   - Offline Mode
   - Single Player
@@ -180,9 +181,9 @@ Base Game Achievements:
   Description: Find all Stat points for any Pro Skater.
   GS: '15'
   Guide: true
-  Number of Gamers: 13213
+  Number of Gamers: 14076
   Percentage of Gamers: 15%
-  Ratio: 2.57
+  Ratio: 2.54
   TA: '38'
   Tags:
   - Offline Mode
@@ -193,10 +194,10 @@ Base Game Achievements:
   Description: Unlock Officer Dick.
   GS: '30'
   Guide: true
-  Number of Gamers: 7225
+  Number of Gamers: 7716
   Percentage of Gamers: 8%
-  Ratio: 3.47
-  TA: '104'
+  Ratio: 3.44
+  TA: '103'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -204,9 +205,9 @@ Base Game Achievements:
   Description: Earn the "Rookie" Challenge Collection.
   GS: '15'
   Guide: true
-  Number of Gamers: 24530
+  Number of Gamers: 25846
   Percentage of Gamers: 28%
-  Ratio: 1.88
+  Ratio: 1.87
   TA: '28'
   Tags:
   - Offline Game Mode
@@ -215,10 +216,10 @@ Base Game Achievements:
   Description: Earn the "Veteran" Challenge Collection.
   GS: '30'
   Guide: false
-  Number of Gamers: 5565
-  Percentage of Gamers: 6%
-  Ratio: 3.96
-  TA: '118'
+  Number of Gamers: 5983
+  Percentage of Gamers: 7%
+  Ratio: 3.9
+  TA: '117'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -226,10 +227,10 @@ Base Game Achievements:
   Description: Earn the "Legend" Challenge Collection.
   GS: '80'
   Guide: true
-  Number of Gamers: 4463
+  Number of Gamers: 4838
   Percentage of Gamers: 5%
-  Ratio: 4.42
-  TA: '354'
+  Ratio: 4.34
+  TA: '347'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -237,10 +238,10 @@ Base Game Achievements:
   Description: Complete all "Hard" Get-Theres.
   GS: '80'
   Guide: true
-  Number of Gamers: 1556
+  Number of Gamers: 1772
   Percentage of Gamers: 2%
-  Ratio: 7.5
-  TA: '600'
+  Ratio: 7.19
+  TA: '575'
   Tags:
   - Offline Mode
   - Single Player
@@ -249,7 +250,7 @@ Base Game Achievements:
   Description: Reach Career level 10.
   GS: '15'
   Guide: true
-  Number of Gamers: 59047
+  Number of Gamers: 61939
   Percentage of Gamers: 68%
   Ratio: 1.21
   TA: '18'
@@ -262,10 +263,10 @@ Base Game Achievements:
   Description: Reach Career level 100.
   GS: '30'
   Guide: true
-  Number of Gamers: 820
+  Number of Gamers: 1005
   Percentage of Gamers: 1%
-  Ratio: 10.33
-  TA: '310'
+  Ratio: 9.56
+  TA: '286'
   Tags:
   - Offline Mode
   - Single Player
@@ -274,9 +275,9 @@ Base Game Achievements:
   Description: Paint 100 surfaces in Graffiti across all playtime.
   GS: '15'
   Guide: true
-  Number of Gamers: 11749
-  Percentage of Gamers: 13%
-  Ratio: 2.72
+  Number of Gamers: 12522
+  Percentage of Gamers: 14%
+  Ratio: 2.69
   TA: '40'
   Tags:
   - Online/Offline
@@ -287,20 +288,19 @@ Base Game Achievements:
   Description: Give 50 Letters in Horse.
   GS: '30'
   Guide: true
-  Number of Gamers: 4951
+  Number of Gamers: 5440
   Percentage of Gamers: 6%
-  Ratio: 4.2
-  TA: '126'
+  Ratio: 4.09
+  TA: '122'
   Tags:
   - Online/Offline
-  - Single Player
   - Versus
   - Cumulative +
 - Achievement Name: Combination Blow
   Description: Land a 50,000+ point combo.
   GS: '15'
   Guide: true
-  Number of Gamers: 53144
+  Number of Gamers: 55583
   Percentage of Gamers: 61%
   Ratio: 1.28
   TA: '19'
@@ -311,9 +311,9 @@ Base Game Achievements:
   Description: Achieve a High Score of 1,000,000+ on any classic Park.
   GS: '30'
   Guide: true
-  Number of Gamers: 18112
+  Number of Gamers: 19143
   Percentage of Gamers: 21%
-  Ratio: 2.19
+  Ratio: 2.18
   TA: '65'
   Tags:
   - Offline Game Mode
@@ -322,10 +322,10 @@ Base Game Achievements:
   Description: Land a 1,000,000+ point combo.
   GS: '30'
   Guide: true
-  Number of Gamers: 15072
-  Percentage of Gamers: 17%
-  Ratio: 2.4
-  TA: '72'
+  Number of Gamers: 16018
+  Percentage of Gamers: 18%
+  Ratio: 2.38
+  TA: '71'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -333,10 +333,10 @@ Base Game Achievements:
   Description: Achieve a High Score of 10,000,000+ on any classic Park.
   GS: '80'
   Guide: true
-  Number of Gamers: 10531
+  Number of Gamers: 11218
   Percentage of Gamers: 12%
-  Ratio: 2.88
-  TA: '230'
+  Ratio: 2.85
+  TA: '228'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -344,10 +344,10 @@ Base Game Achievements:
   Description: Complete all Gap collections.
   GS: '80'
   Guide: true
-  Number of Gamers: 2769
+  Number of Gamers: 3084
   Percentage of Gamers: 3%
-  Ratio: 5.61
-  TA: '449'
+  Ratio: 5.44
+  TA: '435'
   Tags:
   - Offline Mode
   - Single Player
@@ -356,10 +356,10 @@ Base Game Achievements:
   Description: Place 500 objects in CAP.
   GS: '20'
   Guide: true
-  Number of Gamers: 10263
+  Number of Gamers: 11039
   Percentage of Gamers: 12%
-  Ratio: 2.91
-  TA: '58'
+  Ratio: 2.87
+  TA: '57'
   Tags:
   - Offline Mode
   - Single Player
@@ -368,9 +368,9 @@ Base Game Achievements:
   Description: Bail a 100,000+ point combo.
   GS: '15'
   Guide: true
-  Number of Gamers: 38739
-  Percentage of Gamers: 44%
-  Ratio: 1.5
+  Number of Gamers: 40770
+  Percentage of Gamers: 45%
+  Ratio: 1.49
   TA: '22'
   Tags:
   - Offline Game Mode
@@ -379,10 +379,10 @@ Base Game Achievements:
   Description: Earn 5,000,000 points in Trick Attack across all playtime.
   GS: '30'
   Guide: true
-  Number of Gamers: 8519
+  Number of Gamers: 9141
   Percentage of Gamers: 10%
-  Ratio: 3.2
-  TA: '96'
+  Ratio: 3.15
+  TA: '94'
   Tags:
   - Online/Offline
   - Single Player
@@ -392,10 +392,10 @@ Base Game Achievements:
   Description: Earn 2,000,000 points in Combo Mambo across all playtime.
   GS: '30'
   Guide: true
-  Number of Gamers: 8586
+  Number of Gamers: 9198
   Percentage of Gamers: 10%
-  Ratio: 3.19
-  TA: '95'
+  Ratio: 3.14
+  TA: '94'
   Tags:
   - Online/Offline
   - Single Player
@@ -405,7 +405,7 @@ Base Game Achievements:
   Description: Break 20 Panes of Glass.
   GS: '30'
   Guide: true
-  Number of Gamers: 61165
+  Number of Gamers: 64119
   Percentage of Gamers: 70%
   Ratio: 1.19
   TA: '35'
@@ -418,34 +418,34 @@ Base Game Achievements:
   Description: Achieve a judge score of 99.9 on a competition run.
   GS: '15'
   Guide: true
-  Number of Gamers: 17914
-  Percentage of Gamers: 20%
-  Ratio: 2.2
-  TA: '33'
+  Number of Gamers: 18972
+  Percentage of Gamers: 21%
+  Ratio: 2.19
+  TA: '32'
   Tags:
   - Online/Offline
   - Single Player
   - Versus
-Base Ratio: 3.457
-Base TA: 3457
+Base Ratio: 3.37
+Base TA: 3370
 Delisted: false
 Developer: Blizzard Albany, Neversoft
 Game Name: Tony Hawk's Pro Skater 1 + 2
-Genres: Skateboarding, Collection
+Genres: Sports, Skateboarding, Collection
 Install Size: 26570.0
-Number of Completions: 757
-Number of Gamers: 87476
+Number of Completions: 930
+Number of Gamers: 91185
 Overall Completion Time:
-- 100.0
-- 120.0
+- 60.0
+- 80.0
 Overall GS: 1000
-Overall Ratio: 3.457
-Overall TA: 3457
+Overall Ratio: 3.37
+Overall TA: 3370
 PDU: 0
-Percentage Completed: 0.87
+Percentage Completed: 1.02
 Publisher: Activision
 Release Date: 04 September 2020
 Server Closure: false
-Site Rating: 4.48
+Site Rating: 4.47
 Update Achievements: []
 Walkthrough: false

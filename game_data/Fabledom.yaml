@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
+- 60
 - 61
-- 62
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: The harvest princess
   Description: Marry Agnes, the harvest princess
   GS: '30'
   Guide: false
-  Number of Gamers: 52
+  Number of Gamers: 56
   Percentage of Gamers: 9%
-  Ratio: 3.4
-  TA: '102'
+  Ratio: 3.36
+  TA: '100'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -19,10 +19,10 @@ Base Game Achievements:
   Description: Marry Giovanni, the merchant prince
   GS: '30'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 4%
-  Ratio: 4.81
-  TA: '144'
+  Number of Gamers: 29
+  Percentage of Gamers: 5%
+  Ratio: 4.63
+  TA: '139'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -30,10 +30,10 @@ Base Game Achievements:
   Description: Marry Winifred, the warrior princess
   GS: '30'
   Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 4%
-  Ratio: 4.72
-  TA: '141'
+  Number of Gamers: 33
+  Percentage of Gamers: 5%
+  Ratio: 4.34
+  TA: '130'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -41,10 +41,10 @@ Base Game Achievements:
   Description: Marry Ramone, the bard prince
   GS: '30'
   Guide: false
-  Number of Gamers: 20
-  Percentage of Gamers: 3%
-  Ratio: 5.49
-  TA: '164'
+  Number of Gamers: 23
+  Percentage of Gamers: 4%
+  Ratio: 5.2
+  TA: '156'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -52,10 +52,10 @@ Base Game Achievements:
   Description: Marry Farrah, the tinker princess
   GS: '30'
   Guide: false
-  Number of Gamers: 25
+  Number of Gamers: 28
   Percentage of Gamers: 4%
-  Ratio: 4.91
-  TA: '147'
+  Ratio: 4.71
+  TA: '141'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -63,10 +63,10 @@ Base Game Achievements:
   Description: Marry Sir Payne, the dark knight
   GS: '30'
   Guide: false
-  Number of Gamers: 24
+  Number of Gamers: 27
   Percentage of Gamers: 4%
-  Ratio: 5.01
-  TA: '150'
+  Ratio: 4.8
+  TA: '144'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -74,8 +74,8 @@ Base Game Achievements:
   Description: Have a hero join the kingdom
   GS: '20'
   Guide: false
-  Number of Gamers: 504
-  Percentage of Gamers: 84%
+  Number of Gamers: 523
+  Percentage of Gamers: 83%
   Ratio: 1.09
   TA: '21'
   Tags:
@@ -85,8 +85,8 @@ Base Game Achievements:
   Description: Complete an off-world mission
   GS: '20'
   Guide: false
-  Number of Gamers: 546
-  Percentage of Gamers: 91%
+  Number of Gamers: 565
+  Percentage of Gamers: 90%
   Ratio: 1.05
   TA: '21'
   Tags:
@@ -96,9 +96,9 @@ Base Game Achievements:
   Description: Complete a 4-star off-world mission
   GS: '30'
   Guide: false
-  Number of Gamers: 368
+  Number of Gamers: 386
   Percentage of Gamers: 61%
-  Ratio: 1.28
+  Ratio: 1.27
   TA: '38'
   Tags:
   - Offline Game Mode
@@ -107,9 +107,9 @@ Base Game Achievements:
   Description: Throw a feast
   GS: '20'
   Guide: false
-  Number of Gamers: 98
-  Percentage of Gamers: 16%
-  Ratio: 2.48
+  Number of Gamers: 104
+  Percentage of Gamers: 17%
+  Ratio: 2.45
   TA: '49'
   Tags:
   - Offline Game Mode
@@ -118,10 +118,10 @@ Base Game Achievements:
   Description: Get first place in a kingdom beauty contest
   GS: '100'
   Guide: false
-  Number of Gamers: 125
+  Number of Gamers: 130
   Percentage of Gamers: 21%
-  Ratio: 2.19
-  TA: '219'
+  Ratio: 2.18
+  TA: '218'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -129,10 +129,10 @@ Base Game Achievements:
   Description: Get first place in a kingdom military contest
   GS: '100'
   Guide: false
-  Number of Gamers: 72
+  Number of Gamers: 75
   Percentage of Gamers: 12%
-  Ratio: 2.89
-  TA: '289'
+  Ratio: 2.88
+  TA: '288'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -140,8 +140,8 @@ Base Game Achievements:
   Description: Build a Palace
   GS: '30'
   Guide: true
-  Number of Gamers: 178
-  Percentage of Gamers: 30%
+  Number of Gamers: 185
+  Percentage of Gamers: 29%
   Ratio: 1.84
   TA: '55'
   Tags:
@@ -151,7 +151,7 @@ Base Game Achievements:
   Description: Unlock all territories
   GS: '20'
   Guide: false
-  Number of Gamers: 129
+  Number of Gamers: 135
   Percentage of Gamers: 21%
   Ratio: 2.16
   TA: '43'
@@ -162,10 +162,10 @@ Base Game Achievements:
   Description: Get your hero to level 10
   GS: '30'
   Guide: false
-  Number of Gamers: 77
+  Number of Gamers: 79
   Percentage of Gamers: 13%
-  Ratio: 2.79
-  TA: '83'
+  Ratio: 2.8
+  TA: '84'
   Tags:
   - Offline Mode
   - Single Player
@@ -174,7 +174,7 @@ Base Game Achievements:
   Description: Reach a population of 25 fablings
   GS: '20'
   Guide: false
-  Number of Gamers: 593
+  Number of Gamers: 617
   Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '20'
@@ -186,7 +186,7 @@ Base Game Achievements:
   Description: Reach a population of 100 fablings
   GS: '20'
   Guide: false
-  Number of Gamers: 386
+  Number of Gamers: 404
   Percentage of Gamers: 64%
   Ratio: 1.24
   TA: '24'
@@ -198,7 +198,7 @@ Base Game Achievements:
   Description: Reach a population of 200 fablings
   GS: '20'
   Guide: false
-  Number of Gamers: 206
+  Number of Gamers: 212
   Percentage of Gamers: 34%
   Ratio: 1.71
   TA: '34'
@@ -210,8 +210,8 @@ Base Game Achievements:
   Description: "Reach relationship \u201CFriend\u201D with all neighboring rulers"
   GS: '20'
   Guide: false
-  Number of Gamers: 214
-  Percentage of Gamers: 35%
+  Number of Gamers: 226
+  Percentage of Gamers: 36%
   Ratio: 1.67
   TA: '33'
   Tags:
@@ -222,7 +222,7 @@ Base Game Achievements:
   Description: Get to 300+ fablings on Classic difficulty (or higher)
   GS: '120'
   Guide: false
-  Number of Gamers: 101
+  Number of Gamers: 104
   Percentage of Gamers: 17%
   Ratio: 2.44
   TA: '293'
@@ -234,10 +234,10 @@ Base Game Achievements:
   Description: Get to 300+ fablings on Challenge difficulty (or higher)
   GS: '120'
   Guide: false
-  Number of Gamers: 28
+  Number of Gamers: 31
   Percentage of Gamers: 5%
-  Ratio: 4.64
-  TA: '556'
+  Ratio: 4.48
+  TA: '537'
   Tags:
   - Offline Mode
   - Single Player
@@ -247,32 +247,32 @@ Base Game Achievements:
   Description: Get to 300+ fablings on Cruel difficulty (or higher)
   GS: '130'
   Guide: false
-  Number of Gamers: 23
+  Number of Gamers: 27
   Percentage of Gamers: 4%
-  Ratio: 5.12
-  TA: '665'
+  Ratio: 4.8
+  TA: '624'
   Tags:
   - Offline Mode
   - Single Player
   - Difficulty Specific
   - Stackable
-Base Ratio: 3.291
-Base TA: 3291
+Base Ratio: 3.192
+Base TA: 3192
 Delisted: false
 Developer: Grenaa Games
 Game Name: Fabledom
 Genres: Management
 Install Size: 4260.0
-Number of Completions: 14
-Number of Gamers: 603
+Number of Completions: 18
+Number of Gamers: 628
 Overall Completion Time:
+- 60
 - 61
-- 62
 Overall GS: 1000
-Overall Ratio: 3.291
-Overall TA: 3291
+Overall Ratio: 3.192
+Overall TA: 3192
 PDU: 0
-Percentage Completed: 2.32
+Percentage Completed: 2.87
 Publisher: Dear Villagers
 Release Date: 12 September 2024
 Server Closure: false

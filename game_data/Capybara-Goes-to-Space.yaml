@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 1.0
-Base GS: 2000
+- 1.5
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: Stage Complete 1
   Description: Stage Complete 1
   GS: '100'
-  Guide: false
-  Number of Gamers: 161
+  Guide: true
+  Number of Gamers: 409
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '100'
@@ -19,9 +19,9 @@ Base Game Achievements:
 - Achievement Name: Stage Complete 2
   Description: Stage Complete 2
   GS: '100'
-  Guide: false
-  Number of Gamers: 159
-  Percentage of Gamers: 99%
+  Guide: true
+  Number of Gamers: 403
+  Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '100'
   Tags:
@@ -31,9 +31,9 @@ Base Game Achievements:
 - Achievement Name: Stage Complete 3
   Description: Stage Complete 3
   GS: '100'
-  Guide: false
-  Number of Gamers: 159
-  Percentage of Gamers: 99%
+  Guide: true
+  Number of Gamers: 403
+  Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '100'
   Tags:
@@ -43,11 +43,11 @@ Base Game Achievements:
 - Achievement Name: Stage Complete 4
   Description: Stage Complete 4
   GS: '100'
-  Guide: false
-  Number of Gamers: 159
-  Percentage of Gamers: 99%
-  Ratio: 1.0
-  TA: '100'
+  Guide: true
+  Number of Gamers: 399
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '101'
   Tags:
   - Offline Mode
   - Single Player
@@ -55,9 +55,9 @@ Base Game Achievements:
 - Achievement Name: Stage Complete 5
   Description: Stage Complete 5
   GS: '100'
-  Guide: false
-  Number of Gamers: 157
-  Percentage of Gamers: 98%
+  Guide: true
+  Number of Gamers: 395
+  Percentage of Gamers: 96%
   Ratio: 1.01
   TA: '101'
   Tags:
@@ -67,9 +67,9 @@ Base Game Achievements:
 - Achievement Name: Stage Complete 6
   Description: Stage Complete 6
   GS: '100'
-  Guide: false
-  Number of Gamers: 154
-  Percentage of Gamers: 96%
+  Guide: true
+  Number of Gamers: 391
+  Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
   Tags:
@@ -79,11 +79,11 @@ Base Game Achievements:
 - Achievement Name: Stage Complete 12
   Description: Stage Complete 12
   GS: '100'
-  Guide: false
-  Number of Gamers: 141
-  Percentage of Gamers: 88%
-  Ratio: 1.06
-  TA: '106'
+  Guide: true
+  Number of Gamers: 357
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '107'
   Tags:
   - Offline Mode
   - Single Player
@@ -91,11 +91,11 @@ Base Game Achievements:
 - Achievement Name: Stage Complete 18
   Description: Stage Complete 18
   GS: '100'
-  Guide: false
-  Number of Gamers: 125
-  Percentage of Gamers: 78%
-  Ratio: 1.14
-  TA: '114'
+  Guide: true
+  Number of Gamers: 322
+  Percentage of Gamers: 79%
+  Ratio: 1.12
+  TA: '112'
   Tags:
   - Offline Mode
   - Single Player
@@ -103,9 +103,9 @@ Base Game Achievements:
 - Achievement Name: Stage Complete 24
   Description: Stage Complete 24
   GS: '100'
-  Guide: false
-  Number of Gamers: 125
-  Percentage of Gamers: 78%
+  Guide: true
+  Number of Gamers: 314
+  Percentage of Gamers: 77%
   Ratio: 1.14
   TA: '114'
   Tags:
@@ -115,45 +115,45 @@ Base Game Achievements:
 - Achievement Name: Stage Complete 30
   Description: Stage Complete 30
   GS: '100'
-  Guide: false
-  Number of Gamers: 125
-  Percentage of Gamers: 78%
+  Guide: true
+  Number of Gamers: 313
+  Percentage of Gamers: 76%
   Ratio: 1.14
   TA: '114'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.109
-Base TA: 2218
+Base Ratio: 1.1386666666666667
+Base TA: 3416
 Delisted: false
 Developer: PedroFStudio
 Game Name: Capybara Goes to Space
 Genres: Platformer
 Install Size: 566.0
-Number of Completions: 107
-Number of Gamers: 161
+Number of Completions: 231
+Number of Gamers: 410
 Overall Completion Time:
 - 0.0
-- 1.0
-Overall GS: 2000
-Overall Ratio: 1.109
-Overall TA: 2218
+- 1.5
+Overall GS: 3000
+Overall Ratio: 1.1386666666666667
+Overall TA: 3416
 PDU: 0
-Percentage Completed: 66.46
+Percentage Completed: 56.34
 Publisher: PedroFStudio
 Release Date: 20 June 2025
 Server Closure: false
-Site Rating: 1.93
+Site Rating: 1.67
 Update Achievements:
 - Achievement Name: Stage Complete 7
   Description: Stage Complete 7
   GS: '200'
   Guide: false
-  Number of Gamers: 123
-  Percentage of Gamers: 76%
-  Ratio: 1.15
-  TA: '230'
+  Number of Gamers: 379
+  Percentage of Gamers: 92%
+  Ratio: 1.03
+  TA: '207'
   Tags:
   - Offline Mode
   - Single Player
@@ -162,10 +162,10 @@ Update Achievements:
   Description: Stage Complete 8
   GS: '200'
   Guide: false
-  Number of Gamers: 120
-  Percentage of Gamers: 75%
-  Ratio: 1.16
-  TA: '233'
+  Number of Gamers: 367
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '211'
   Tags:
   - Offline Mode
   - Single Player
@@ -174,10 +174,10 @@ Update Achievements:
   Description: Stage Complete 9
   GS: '200'
   Guide: false
-  Number of Gamers: 119
-  Percentage of Gamers: 74%
-  Ratio: 1.17
-  TA: '234'
+  Number of Gamers: 356
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '214'
   Tags:
   - Offline Mode
   - Single Player
@@ -186,10 +186,10 @@ Update Achievements:
   Description: Stage Complete 10
   GS: '200'
   Guide: false
-  Number of Gamers: 118
-  Percentage of Gamers: 73%
-  Ratio: 1.17
-  TA: '235'
+  Number of Gamers: 352
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '215'
   Tags:
   - Offline Mode
   - Single Player
@@ -198,10 +198,70 @@ Update Achievements:
   Description: Stage Complete 11
   GS: '200'
   Guide: false
-  Number of Gamers: 118
-  Percentage of Gamers: 73%
-  Ratio: 1.17
-  TA: '235'
+  Number of Gamers: 351
+  Percentage of Gamers: 86%
+  Ratio: 1.08
+  TA: '216'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Stage Complete 13
+  Description: Stage Complete 13
+  GS: '200'
+  Guide: false
+  Number of Gamers: 253
+  Percentage of Gamers: 62%
+  Ratio: 1.28
+  TA: '257'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Stage Complete 14
+  Description: Stage Complete 14
+  GS: '200'
+  Guide: false
+  Number of Gamers: 248
+  Percentage of Gamers: 60%
+  Ratio: 1.3
+  TA: '260'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Stage Complete 15
+  Description: Stage Complete 15
+  GS: '200'
+  Guide: false
+  Number of Gamers: 246
+  Percentage of Gamers: 60%
+  Ratio: 1.3
+  TA: '261'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Stage Complete 16
+  Description: Stage Complete 16
+  GS: '200'
+  Guide: false
+  Number of Gamers: 244
+  Percentage of Gamers: 60%
+  Ratio: 1.31
+  TA: '262'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Stage Complete 17
+  Description: Stage Complete 17
+  GS: '200'
+  Guide: false
+  Number of Gamers: 243
+  Percentage of Gamers: 59%
+  Ratio: 1.31
+  TA: '262'
   Tags:
   - Offline Mode
   - Single Player

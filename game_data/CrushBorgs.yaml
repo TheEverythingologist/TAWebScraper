@@ -1,59 +1,14 @@
-Add On Achievements:
-- Achievement Name: Destroy a weapon crate
-  Description: Destroy a weapon crate
-  GS: '200'
-  Guide: false
-  Number of Gamers: 79
-  Percentage of Gamers: 100%
-  Ratio: 1.87
-  TA: '375'
-  Tags: []
-- Achievement Name: Get weapon 1
-  Description: Get weapon 1
-  GS: '200'
-  Guide: false
-  Number of Gamers: 76
-  Percentage of Gamers: 96%
-  Ratio: 1.91
-  TA: '383'
-  Tags: []
-- Achievement Name: Get weapon 2
-  Description: Get weapon 2
-  GS: '200'
-  Guide: false
-  Number of Gamers: 77
-  Percentage of Gamers: 97%
-  Ratio: 1.9
-  TA: '380'
-  Tags: []
-- Achievement Name: Get weapon 3
-  Description: Get weapon 3
-  GS: '200'
-  Guide: false
-  Number of Gamers: 78
-  Percentage of Gamers: 99%
-  Ratio: 1.89
-  TA: '378'
-  Tags: []
-- Achievement Name: Get weapon 4
-  Description: Get weapon 4
-  GS: '200'
-  Guide: false
-  Number of Gamers: 77
-  Percentage of Gamers: 97%
-  Ratio: 1.9
-  TA: '380'
-  Tags: []
+Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 1.0
-Base GS: 2000
+- 1.5
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: Get through the first wall
   Description: Get through the first wall
   GS: '100'
   Guide: false
-  Number of Gamers: 878
+  Number of Gamers: 1094
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -65,7 +20,7 @@ Base Game Achievements:
   Description: Get through the cliffs
   GS: '100'
   Guide: false
-  Number of Gamers: 863
+  Number of Gamers: 1075
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '101'
@@ -77,8 +32,8 @@ Base Game Achievements:
   Description: Get through the ice
   GS: '100'
   Guide: false
-  Number of Gamers: 856
-  Percentage of Gamers: 97%
+  Number of Gamers: 1064
+  Percentage of Gamers: 96%
   Ratio: 1.01
   TA: '101'
   Tags:
@@ -89,7 +44,7 @@ Base Game Achievements:
   Description: Get through the tech
   GS: '100'
   Guide: false
-  Number of Gamers: 848
+  Number of Gamers: 1056
   Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '102'
@@ -101,7 +56,7 @@ Base Game Achievements:
   Description: Get through the cannon wall
   GS: '100'
   Guide: false
-  Number of Gamers: 845
+  Number of Gamers: 1054
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
@@ -113,7 +68,7 @@ Base Game Achievements:
   Description: Get through the circuit
   GS: '100'
   Guide: false
-  Number of Gamers: 845
+  Number of Gamers: 1054
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
@@ -125,7 +80,7 @@ Base Game Achievements:
   Description: Get through the lab
   GS: '100'
   Guide: false
-  Number of Gamers: 845
+  Number of Gamers: 1054
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
@@ -137,7 +92,7 @@ Base Game Achievements:
   Description: Get through the guardian
   GS: '100'
   Guide: false
-  Number of Gamers: 845
+  Number of Gamers: 1054
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
@@ -149,7 +104,7 @@ Base Game Achievements:
   Description: Get through the alien lair
   GS: '100'
   Guide: false
-  Number of Gamers: 843
+  Number of Gamers: 1052
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
@@ -161,7 +116,7 @@ Base Game Achievements:
   Description: Get through the final boss
   GS: '100'
   Guide: true
-  Number of Gamers: 842
+  Number of Gamers: 1052
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
@@ -169,36 +124,36 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.0145
-Base TA: 2029
+Base Ratio: 1.0443333333333333
+Base TA: 3133
 Delisted: false
 Developer: Xitilon
 Game Name: CrushBorgs
 Genres: Run & Gun
 Install Size: 400.0
-Number of Completions: 76
-Number of Gamers: 886
+Number of Completions: 878
+Number of Gamers: 1104
 Overall Completion Time:
 - 0.0
 - 1.5
 Overall GS: 3000
-Overall Ratio: 1.3083333333333333
-Overall TA: 3925
+Overall Ratio: 1.0443333333333333
+Overall TA: 3133
 PDU: 0
-Percentage Completed: 8.58
+Percentage Completed: 79.53
 Publisher: Xitilon
 Release Date: 25 February 2025
 Server Closure: false
-Site Rating: 2.39
+Site Rating: 2.41
 Update Achievements:
 - Achievement Name: Destroy the enemy bot
   Description: Destroy the enemy bot
   GS: '200'
   Guide: false
-  Number of Gamers: 876
+  Number of Gamers: 1098
   Percentage of Gamers: 99%
   Ratio: 1.0
-  TA: '201'
+  TA: '200'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -206,8 +161,8 @@ Update Achievements:
   Description: Destroy the guard cannon
   GS: '200'
   Guide: false
-  Number of Gamers: 872
-  Percentage of Gamers: 98%
+  Number of Gamers: 1092
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '201'
   Tags:
@@ -217,10 +172,10 @@ Update Achievements:
   Description: Destroy the square cannon
   GS: '200'
   Guide: false
-  Number of Gamers: 841
+  Number of Gamers: 1051
   Percentage of Gamers: 95%
   Ratio: 1.02
-  TA: '205'
+  TA: '204'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -228,7 +183,7 @@ Update Achievements:
   Description: Destroy the triple turret
   GS: '200'
   Guide: false
-  Number of Gamers: 873
+  Number of Gamers: 1093
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '201'
@@ -239,10 +194,65 @@ Update Achievements:
   Description: Destroy the hex cannon
   GS: '200'
   Guide: true
-  Number of Gamers: 838
+  Number of Gamers: 1049
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '205'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Destroy a weapon crate
+  Description: Destroy a weapon crate
+  GS: '200'
+  Guide: false
+  Number of Gamers: 904
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '221'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Get weapon 1
+  Description: Get weapon 1
+  GS: '200'
+  Guide: false
+  Number of Gamers: 896
+  Percentage of Gamers: 81%
+  Ratio: 1.11
+  TA: '222'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Get weapon 2
+  Description: Get weapon 2
+  GS: '200'
+  Guide: false
+  Number of Gamers: 904
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '221'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Get weapon 3
+  Description: Get weapon 3
+  GS: '200'
+  Guide: false
+  Number of Gamers: 904
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '221'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Get weapon 4
+  Description: Get weapon 4
+  GS: '200'
+  Guide: false
+  Number of Gamers: 898
+  Percentage of Gamers: 81%
+  Ratio: 1.1
+  TA: '221'
   Tags:
   - Offline Game Mode
   - Single Player

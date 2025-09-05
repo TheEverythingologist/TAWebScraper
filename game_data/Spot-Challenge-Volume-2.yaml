@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 1.0
-Base GS: 2000
+- 1.5
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: Beginner Hunter
   Description: Find 5 differences
   GS: '50'
   Guide: true
-  Number of Gamers: 854
+  Number of Gamers: 1291
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '50'
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Find 25 differences
   GS: '100'
   Guide: false
-  Number of Gamers: 808
+  Number of Gamers: 1233
   Percentage of Gamers: 94%
   Ratio: 1.03
   TA: '103'
@@ -32,8 +32,8 @@ Base Game Achievements:
   Description: Find 50 differences
   GS: '150'
   Guide: false
-  Number of Gamers: 784
-  Percentage of Gamers: 91%
+  Number of Gamers: 1203
+  Percentage of Gamers: 92%
   Ratio: 1.04
   TA: '156'
   Tags:
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Find 100 differences
   GS: '200'
   Guide: false
-  Number of Gamers: 757
-  Percentage of Gamers: 88%
-  Ratio: 1.06
-  TA: '213'
+  Number of Gamers: 1166
+  Percentage of Gamers: 89%
+  Ratio: 1.05
+  TA: '211'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,9 +56,9 @@ Base Game Achievements:
   Description: Completed 10 levels
   GS: '50'
   Guide: false
-  Number of Gamers: 748
-  Percentage of Gamers: 87%
-  Ratio: 1.07
+  Number of Gamers: 1154
+  Percentage of Gamers: 88%
+  Ratio: 1.06
   TA: '53'
   Tags:
   - Offline Mode
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: Completed 20 levels
   GS: '100'
   Guide: false
-  Number of Gamers: 718
-  Percentage of Gamers: 83%
-  Ratio: 1.09
-  TA: '109'
+  Number of Gamers: 1112
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '108'
   Tags:
   - Offline Mode
   - Single Player
@@ -80,10 +80,10 @@ Base Game Achievements:
   Description: Completed 35 levels
   GS: '200'
   Guide: true
-  Number of Gamers: 706
-  Percentage of Gamers: 82%
-  Ratio: 1.1
-  TA: '220'
+  Number of Gamers: 1085
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '219'
   Tags:
   - Offline Mode
   - Single Player
@@ -92,7 +92,7 @@ Base Game Achievements:
   Description: Found the difference by clicking on a fish
   GS: '50'
   Guide: false
-  Number of Gamers: 818
+  Number of Gamers: 1241
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '51'
@@ -103,8 +103,8 @@ Base Game Achievements:
   Description: Found the difference by clicking on the lighthouse
   GS: '50'
   Guide: false
-  Number of Gamers: 741
-  Percentage of Gamers: 86%
+  Number of Gamers: 1142
+  Percentage of Gamers: 87%
   Ratio: 1.07
   TA: '53'
   Tags:
@@ -114,41 +114,41 @@ Base Game Achievements:
   Description: Found the difference by clicking on a bird
   GS: '50'
   Guide: false
-  Number of Gamers: 730
+  Number of Gamers: 1119
   Percentage of Gamers: 85%
   Ratio: 1.08
   TA: '54'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 1.0515
-Base TA: 2103
+Base Ratio: 1.0986666666666667
+Base TA: 3296
 Delisted: false
 Developer: Lucky Raccoon Games
 Game Name: Spot Challenge Vol. 2
 Genres: Puzzle
 Install Size: 1290.0
-Number of Completions: 701
-Number of Gamers: 861
+Number of Completions: 858
+Number of Gamers: 1309
 Overall Completion Time:
 - 0.0
-- 1.0
-Overall GS: 2000
-Overall Ratio: 1.0515
-Overall TA: 2103
+- 1.5
+Overall GS: 3000
+Overall Ratio: 1.0986666666666667
+Overall TA: 3296
 PDU: 0
-Percentage Completed: 81.42
+Percentage Completed: 65.55
 Publisher: Lucky Raccoon Games
 Release Date: 07 February 2025
 Server Closure: false
-Site Rating: 2.71
+Site Rating: 2.64
 Update Achievements:
 - Achievement Name: Fast and Curious
   Description: Finished the level in under 2 minutes
   GS: '200'
   Guide: true
-  Number of Gamers: 775
-  Percentage of Gamers: 90%
+  Number of Gamers: 1187
+  Percentage of Gamers: 91%
   Ratio: 1.05
   TA: '210'
   Tags:
@@ -159,7 +159,7 @@ Update Achievements:
   Description: Found the difference by clicking on an elephant
   GS: '100'
   Guide: true
-  Number of Gamers: 849
+  Number of Gamers: 1299
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -170,10 +170,10 @@ Update Achievements:
   Description: Found the difference by clicking on a lemonade
   GS: '100'
   Guide: true
-  Number of Gamers: 791
-  Percentage of Gamers: 92%
-  Ratio: 1.04
-  TA: '104'
+  Number of Gamers: 1215
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '103'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -181,8 +181,8 @@ Update Achievements:
   Description: Found the difference by clicking on a microscope
   GS: '100'
   Guide: true
-  Number of Gamers: 786
-  Percentage of Gamers: 91%
+  Number of Gamers: 1205
+  Percentage of Gamers: 92%
   Ratio: 1.04
   TA: '104'
   Tags:
@@ -192,8 +192,8 @@ Update Achievements:
   Description: Found the difference by clicking on a big fish
   GS: '100'
   Guide: true
-  Number of Gamers: 783
-  Percentage of Gamers: 91%
+  Number of Gamers: 1198
+  Percentage of Gamers: 92%
   Ratio: 1.04
   TA: '104'
   Tags:
@@ -203,8 +203,8 @@ Update Achievements:
   Description: Found the difference by clicking on a giant octopus
   GS: '100'
   Guide: true
-  Number of Gamers: 779
-  Percentage of Gamers: 90%
+  Number of Gamers: 1194
+  Percentage of Gamers: 91%
   Ratio: 1.04
   TA: '104'
   Tags:
@@ -214,10 +214,10 @@ Update Achievements:
   Description: Found the difference by clicking on a cat walking with its owners
   GS: '100'
   Guide: true
-  Number of Gamers: 778
-  Percentage of Gamers: 90%
-  Ratio: 1.05
-  TA: '105'
+  Number of Gamers: 1188
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '104'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -225,7 +225,7 @@ Update Achievements:
   Description: Found the difference by clicking on a backpack
   GS: '100'
   Guide: true
-  Number of Gamers: 773
+  Number of Gamers: 1182
   Percentage of Gamers: 90%
   Ratio: 1.05
   TA: '105'
@@ -236,10 +236,120 @@ Update Achievements:
   Description: Found the difference by clicking on a trophy
   GS: '100'
   Guide: true
-  Number of Gamers: 769
-  Percentage of Gamers: 89%
+  Number of Gamers: 1179
+  Percentage of Gamers: 90%
   Ratio: 1.05
   TA: '105'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Beach Fun
+  Description: Found the difference by clicking on a beach ball
+  GS: '100'
+  Guide: true
+  Number of Gamers: 914
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '119'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Sweet Picnic
+  Description: Found the difference by clicking on a donut
+  GS: '100'
+  Guide: true
+  Number of Gamers: 909
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '120'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Dancing Glow
+  Description: Found the difference by clicking on a crown
+  GS: '100'
+  Guide: true
+  Number of Gamers: 904
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '120'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Journey through the desert
+  Description: Found the difference by clicking on a motorbike
+  GS: '100'
+  Guide: true
+  Number of Gamers: 904
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '120'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The Siren's Song
+  Description: Found the difference by clicking on a mermaid
+  GS: '100'
+  Guide: true
+  Number of Gamers: 907
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '120'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Fruit Kitchen
+  Description: Found the difference by clicking on a strawberry
+  GS: '100'
+  Guide: true
+  Number of Gamers: 901
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '120'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Let's go cycling!
+  Description: Found the difference by clicking on a bike
+  GS: '100'
+  Guide: true
+  Number of Gamers: 902
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '120'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Excavation
+  Description: Found the difference by clicking on an excavator
+  GS: '100'
+  Guide: true
+  Number of Gamers: 902
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '120'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Too fast to click
+  Description: Found the difference by clicking on a racing car
+  GS: '100'
+  Guide: true
+  Number of Gamers: 902
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '120'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Recycling is a must
+  Description: Found the difference by clicking on a trash can
+  GS: '100'
+  Guide: true
+  Number of Gamers: 901
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '120'
   Tags:
   - Offline Game Mode
   - Single Player

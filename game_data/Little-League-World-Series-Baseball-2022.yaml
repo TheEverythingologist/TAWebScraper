@@ -8,7 +8,7 @@ Base Game Achievements:
   Description: Earn your first Sticker.
   GS: '10'
   Guide: false
-  Number of Gamers: 319
+  Number of Gamers: 353
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '10'
@@ -19,9 +19,9 @@ Base Game Achievements:
   Description: Score a Run while having 2 Outs and 2 Strikes and the bases loaded.
   GS: '10'
   Guide: false
-  Number of Gamers: 63
+  Number of Gamers: 72
   Percentage of Gamers: 20%
-  Ratio: 2.25
+  Ratio: 2.21
   TA: '22'
   Tags:
   - Offline Game Mode
@@ -29,11 +29,11 @@ Base Game Achievements:
 - Achievement Name: All Them Plays
   Description: Execute all the Plays of Baseball.
   GS: '10'
-  Guide: false
-  Number of Gamers: 15
+  Guide: true
+  Number of Gamers: 17
   Percentage of Gamers: 5%
-  Ratio: 4.61
-  TA: '46'
+  Ratio: 4.56
+  TA: '45'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -41,8 +41,8 @@ Base Game Achievements:
   Description: Successfully complete a Quick Time Event.
   GS: '10'
   Guide: false
-  Number of Gamers: 250
-  Percentage of Gamers: 78%
+  Number of Gamers: 280
+  Percentage of Gamers: 79%
   Ratio: 1.12
   TA: '11'
   Tags:
@@ -52,9 +52,9 @@ Base Game Achievements:
   Description: Finish a game without using a Super.
   GS: '10'
   Guide: false
-  Number of Gamers: 130
-  Percentage of Gamers: 41%
-  Ratio: 1.56
+  Number of Gamers: 142
+  Percentage of Gamers: 40%
+  Ratio: 1.57
   TA: '15'
   Tags:
   - Offline Game Mode
@@ -63,9 +63,9 @@ Base Game Achievements:
   Description: Play and win a quickmatch.
   GS: '10'
   Guide: true
-  Number of Gamers: 56
+  Number of Gamers: 64
   Percentage of Gamers: 18%
-  Ratio: 2.38
+  Ratio: 2.35
   TA: '23'
   Tags:
   - Offline Game Mode
@@ -74,7 +74,7 @@ Base Game Achievements:
   Description: Finish a game without changing your starting Pitcher.
   GS: '10'
   Guide: true
-  Number of Gamers: 180
+  Number of Gamers: 198
   Percentage of Gamers: 56%
   Ratio: 1.33
   TA: '13'
@@ -85,10 +85,10 @@ Base Game Achievements:
   Description: Improve a Player's attributes to the maximum values.
   GS: '10'
   Guide: false
-  Number of Gamers: 20
+  Number of Gamers: 22
   Percentage of Gamers: 6%
-  Ratio: 3.99
-  TA: '39'
+  Ratio: 4.01
+  TA: '40'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -96,9 +96,9 @@ Base Game Achievements:
   Description: Successfully complete all Quick Time Events.
   GS: '30'
   Guide: false
-  Number of Gamers: 123
-  Percentage of Gamers: 38%
-  Ratio: 1.61
+  Number of Gamers: 137
+  Percentage of Gamers: 39%
+  Ratio: 1.6
   TA: '48'
   Tags:
   - Offline Game Mode
@@ -107,7 +107,7 @@ Base Game Achievements:
   Description: Complete a challenge.
   GS: '30'
   Guide: false
-  Number of Gamers: 319
+  Number of Gamers: 353
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '30'
@@ -119,10 +119,10 @@ Base Game Achievements:
     values.
   GS: '30'
   Guide: false
-  Number of Gamers: 11
+  Number of Gamers: 12
   Percentage of Gamers: 3%
-  Ratio: 5.38
-  TA: '161'
+  Ratio: 5.43
+  TA: '162'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -130,7 +130,7 @@ Base Game Achievements:
   Description: During a single Game, have 6 Putouts by the same Player.
   GS: '30'
   Guide: true
-  Number of Gamers: 141
+  Number of Gamers: 157
   Percentage of Gamers: 44%
   Ratio: 1.5
   TA: '45'
@@ -141,10 +141,10 @@ Base Game Achievements:
   Description: Score 6 or more Runs in a single Inning without a single Out.
   GS: '30'
   Guide: false
-  Number of Gamers: 59
+  Number of Gamers: 65
   Percentage of Gamers: 18%
-  Ratio: 2.32
-  TA: '69'
+  Ratio: 2.33
+  TA: '70'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -152,18 +152,18 @@ Base Game Achievements:
   Description: Take the lead and win the game on the last Inning.
   GS: '30'
   Guide: false
-  Number of Gamers: 56
-  Percentage of Gamers: 18%
-  Ratio: 2.38
-  TA: '71'
+  Number of Gamers: 66
+  Percentage of Gamers: 19%
+  Ratio: 2.31
+  TA: '69'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: World Tour
   Description: Play and win a match in all Stadiums.
   GS: '30'
-  Guide: false
-  Number of Gamers: 18
+  Guide: true
+  Number of Gamers: 20
   Percentage of Gamers: 6%
   Ratio: 4.2
   TA: '126'
@@ -175,20 +175,20 @@ Base Game Achievements:
   GS: '100'
   Guide: false
   Number of Gamers: 5
-  Percentage of Gamers: 2%
-  Ratio: 7.98
-  TA: '798'
+  Percentage of Gamers: 1%
+  Ratio: 8.41
+  TA: '841'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Champion
   Description: Win a Championship.
   GS: '100'
-  Guide: false
-  Number of Gamers: 24
+  Guide: true
+  Number of Gamers: 28
   Percentage of Gamers: 8%
-  Ratio: 3.64
-  TA: '364'
+  Ratio: 3.55
+  TA: '355'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -197,10 +197,10 @@ Base Game Achievements:
     any order.
   GS: '100'
   Guide: false
-  Number of Gamers: 36
-  Percentage of Gamers: 11%
-  Ratio: 2.97
-  TA: '297'
+  Number of Gamers: 41
+  Percentage of Gamers: 12%
+  Ratio: 2.93
+  TA: '293'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -210,8 +210,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 4
   Percentage of Gamers: 1%
-  Ratio: 8.93
-  TA: '893'
+  Ratio: 9.4
+  TA: '940'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -219,10 +219,10 @@ Base Game Achievements:
   Description: Finish a game without allowing your opponent to take a single base.
   GS: '100'
   Guide: true
-  Number of Gamers: 50
+  Number of Gamers: 55
   Percentage of Gamers: 16%
-  Ratio: 2.52
-  TA: '252'
+  Ratio: 2.53
+  TA: '253'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -230,10 +230,10 @@ Base Game Achievements:
   Description: During a single game do a Double Play, Triple Play and a Grand Slam.
   GS: '100'
   Guide: true
-  Number of Gamers: 20
+  Number of Gamers: 22
   Percentage of Gamers: 6%
-  Ratio: 3.99
-  TA: '399'
+  Ratio: 4.01
+  TA: '401'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -241,11 +241,11 @@ Base Game Achievements:
   Description: Move beyond the first stage of the Championship (Round Robin) with
     all teams.
   GS: '100'
-  Guide: false
+  Guide: true
   Number of Gamers: 3
   Percentage of Gamers: 1%
-  Ratio: 10.31
-  TA: 1,031
+  Ratio: 10.86
+  TA: 1,086
   Tags:
   - Offline Game Mode
   - Single Player
@@ -255,31 +255,31 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 3
   Percentage of Gamers: 1%
-  Ratio: 10.31
-  TA: '103'
+  Ratio: 10.86
+  TA: '108'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 4.866
-Base TA: 4866
+Base Ratio: 5.006
+Base TA: 5006
 Delisted: false
 Developer: IguanaBee
 Game Name: Little League World Series Baseball 2022
 Genres: Sports, Baseball
 Install Size: 3310.0
 Number of Completions: 3
-Number of Gamers: 320
+Number of Gamers: 354
 Overall Completion Time:
 - 63
 - 64
 Overall GS: 1000
-Overall Ratio: 4.866
-Overall TA: 4866
+Overall Ratio: 5.006
+Overall TA: 5006
 PDU: 0
-Percentage Completed: 0.94
+Percentage Completed: 0.85
 Publisher: GameMill Entertainment
 Release Date: 17 August 2022
 Server Closure: false
-Site Rating: 2.43
+Site Rating: 2.44
 Update Achievements: []
 Walkthrough: false

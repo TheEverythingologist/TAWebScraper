@@ -1,16 +1,16 @@
 Add On Achievements: []
 Base Completion Time:
-- 59
-- 60
+- 71
+- 72
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Match Made
   Description: Achieve a style match of 80% or higher for any beer style
   GS: '15'
   Guide: true
-  Number of Gamers: 552
+  Number of Gamers: 630
   Percentage of Gamers: 45%
-  Ratio: 1.49
+  Ratio: 1.48
   TA: '22'
   Tags:
   - Offline Game Mode
@@ -19,7 +19,7 @@ Base Game Achievements:
   Description: Achieve a style match of 90% or higher for any beer style
   GS: '15'
   Guide: true
-  Number of Gamers: 233
+  Number of Gamers: 266
   Percentage of Gamers: 19%
   Ratio: 2.29
   TA: '34'
@@ -30,10 +30,10 @@ Base Game Achievements:
   Description: Achieve a style match of 100% for any beer style
   GS: '30'
   Guide: true
-  Number of Gamers: 20
+  Number of Gamers: 25
   Percentage of Gamers: 2%
-  Ratio: 7.83
-  TA: '234'
+  Ratio: 7.47
+  TA: '224'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -41,10 +41,10 @@ Base Game Achievements:
   Description: Achieve a style match of 90% or higher for a Specialty beer
   GS: '15'
   Guide: true
-  Number of Gamers: 33
+  Number of Gamers: 38
   Percentage of Gamers: 3%
-  Ratio: 6.09
-  TA: '91'
+  Ratio: 6.06
+  TA: '90'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -52,10 +52,10 @@ Base Game Achievements:
   Description: Brew at least one beer of every category
   GS: '15'
   Guide: false
-  Number of Gamers: 10
+  Number of Gamers: 12
   Percentage of Gamers: 1%
-  Ratio: 11.07
-  TA: '166'
+  Ratio: 10.78
+  TA: '161'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -63,10 +63,10 @@ Base Game Achievements:
   Description: Brew at least 20 different beer styles
   GS: '15'
   Guide: false
-  Number of Gamers: 53
+  Number of Gamers: 58
   Percentage of Gamers: 4%
-  Ratio: 4.81
-  TA: '72'
+  Ratio: 4.9
+  TA: '73'
   Tags:
   - Offline Mode
   - Single Player
@@ -75,10 +75,10 @@ Base Game Achievements:
   Description: Brew at least 50 different beer styles
   GS: '30'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 0%
-  Ratio: 15.66
-  TA: '469'
+  Number of Gamers: 8
+  Percentage of Gamers: 1%
+  Ratio: 13.21
+  TA: '396'
   Tags:
   - Offline Mode
   - Single Player
@@ -87,10 +87,10 @@ Base Game Achievements:
   Description: Brew a beer with less than 2% ABV
   GS: '15'
   Guide: true
-  Number of Gamers: 152
-  Percentage of Gamers: 12%
-  Ratio: 2.84
-  TA: '42'
+  Number of Gamers: 179
+  Percentage of Gamers: 13%
+  Ratio: 2.79
+  TA: '41'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -98,9 +98,9 @@ Base Game Achievements:
   Description: Brew a beer with at least 6% ABV
   GS: '15'
   Guide: false
-  Number of Gamers: 752
+  Number of Gamers: 852
   Percentage of Gamers: 61%
-  Ratio: 1.27
+  Ratio: 1.28
   TA: '19'
   Tags:
   - Offline Game Mode
@@ -109,10 +109,10 @@ Base Game Achievements:
   Description: Brew a beer with at least 10% ABV
   GS: '15'
   Guide: false
-  Number of Gamers: 105
+  Number of Gamers: 121
   Percentage of Gamers: 9%
-  Ratio: 3.41
-  TA: '51'
+  Ratio: 3.39
+  TA: '50'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -120,10 +120,10 @@ Base Game Achievements:
   Description: Brew a beer with at least 15% ABV
   GS: '15'
   Guide: false
-  Number of Gamers: 16
+  Number of Gamers: 18
   Percentage of Gamers: 1%
-  Ratio: 8.75
-  TA: '131'
+  Ratio: 8.8
+  TA: '132'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -131,10 +131,10 @@ Base Game Achievements:
   Description: Brew a beer with 9.99% ABV
   GS: '15'
   Guide: false
-  Number of Gamers: 13
+  Number of Gamers: 15
   Percentage of Gamers: 1%
-  Ratio: 9.71
-  TA: '145'
+  Ratio: 9.65
+  TA: '144'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -142,7 +142,7 @@ Base Game Achievements:
   Description: Brew a beer with at least 50 IBUs
   GS: '15'
   Guide: true
-  Number of Gamers: 887
+  Number of Gamers: 1012
   Percentage of Gamers: 72%
   Ratio: 1.17
   TA: '17'
@@ -153,7 +153,7 @@ Base Game Achievements:
   Description: Brew a beer with at least 100 IBUs
   GS: '15'
   Guide: true
-  Number of Gamers: 262
+  Number of Gamers: 297
   Percentage of Gamers: 21%
   Ratio: 2.16
   TA: '32'
@@ -164,7 +164,7 @@ Base Game Achievements:
   Description: Brew a beer with Carbonation above 4 vols
   GS: '15'
   Guide: false
-  Number of Gamers: 212
+  Number of Gamers: 242
   Percentage of Gamers: 17%
   Ratio: 2.4
   TA: '36'
@@ -175,7 +175,7 @@ Base Game Achievements:
   Description: Brew a Brilliantly Clear beer
   GS: '15'
   Guide: false
-  Number of Gamers: 295
+  Number of Gamers: 338
   Percentage of Gamers: 24%
   Ratio: 2.03
   TA: '30'
@@ -186,8 +186,8 @@ Base Game Achievements:
   Description: Brew an Extremely Hazy beer
   GS: '15'
   Guide: false
-  Number of Gamers: 767
-  Percentage of Gamers: 63%
+  Number of Gamers: 871
+  Percentage of Gamers: 62%
   Ratio: 1.26
   TA: '18'
   Tags:
@@ -197,7 +197,7 @@ Base Game Achievements:
   Description: Brew a beer with Contamination below 10%
   GS: '15'
   Guide: false
-  Number of Gamers: 1214
+  Number of Gamers: 1380
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '15'
@@ -208,10 +208,10 @@ Base Game Achievements:
   Description: Brew a beer with Contamination below 5%
   GS: '15'
   Guide: false
-  Number of Gamers: 440
+  Number of Gamers: 509
   Percentage of Gamers: 36%
-  Ratio: 1.66
-  TA: '25'
+  Ratio: 1.65
+  TA: '24'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -219,10 +219,10 @@ Base Game Achievements:
   Description: Brew a beer with 20% Contamination or above
   GS: '15'
   Guide: true
-  Number of Gamers: 11
+  Number of Gamers: 13
   Percentage of Gamers: 1%
-  Ratio: 10.56
-  TA: '158'
+  Ratio: 10.36
+  TA: '155'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -230,10 +230,10 @@ Base Game Achievements:
   Description: Brew a medium-sized batch of beer
   GS: '15'
   Guide: false
-  Number of Gamers: 124
+  Number of Gamers: 146
   Percentage of Gamers: 10%
-  Ratio: 3.14
-  TA: '47'
+  Ratio: 3.09
+  TA: '46'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -241,7 +241,7 @@ Base Game Achievements:
   Description: Brew a large-sized batch of beer
   GS: '15'
   Guide: false
-  Number of Gamers: 50
+  Number of Gamers: 57
   Percentage of Gamers: 4%
   Ratio: 4.95
   TA: '74'
@@ -252,9 +252,9 @@ Base Game Achievements:
   Description: Brew a beer with SRM below 5
   GS: '15'
   Guide: false
-  Number of Gamers: 246
+  Number of Gamers: 285
   Percentage of Gamers: 20%
-  Ratio: 2.23
+  Ratio: 2.21
   TA: '33'
   Tags:
   - Offline Game Mode
@@ -263,7 +263,7 @@ Base Game Achievements:
   Description: Brew your first beer
   GS: '50'
   Guide: false
-  Number of Gamers: 1225
+  Number of Gamers: 1394
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '50'
@@ -275,9 +275,9 @@ Base Game Achievements:
   Description: Brew an all-grain beer
   GS: '15'
   Guide: false
-  Number of Gamers: 341
-  Percentage of Gamers: 28%
-  Ratio: 1.89
+  Number of Gamers: 384
+  Percentage of Gamers: 27%
+  Ratio: 1.9
   TA: '28'
   Tags:
   - Offline Game Mode
@@ -286,9 +286,9 @@ Base Game Achievements:
   Description: Complete a Job
   GS: '15'
   Guide: false
-  Number of Gamers: 730
+  Number of Gamers: 826
   Percentage of Gamers: 59%
-  Ratio: 1.29
+  Ratio: 1.3
   TA: '19'
   Tags:
   - Offline Mode
@@ -298,10 +298,10 @@ Base Game Achievements:
   Description: Complete 25 Jobs
   GS: '15'
   Guide: false
-  Number of Gamers: 32
+  Number of Gamers: 36
   Percentage of Gamers: 3%
-  Ratio: 6.19
-  TA: '92'
+  Ratio: 6.22
+  TA: '93'
   Tags:
   - Offline Mode
   - Single Player
@@ -310,10 +310,10 @@ Base Game Achievements:
   Description: Complete 50 Jobs
   GS: '15'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 0%
-  Ratio: 15.66
-  TA: '234'
+  Number of Gamers: 7
+  Percentage of Gamers: 1%
+  Ratio: 14.12
+  TA: '211'
   Tags:
   - Offline Mode
   - Single Player
@@ -322,9 +322,9 @@ Base Game Achievements:
   Description: Complete a "Challenging" Job
   GS: '15'
   Guide: false
-  Number of Gamers: 115
-  Percentage of Gamers: 9%
-  Ratio: 3.26
+  Number of Gamers: 133
+  Percentage of Gamers: 10%
+  Ratio: 3.24
   TA: '48'
   Tags:
   - Offline Game Mode
@@ -333,10 +333,10 @@ Base Game Achievements:
   Description: Complete a "Very Difficult" Job
   GS: '15'
   Guide: false
-  Number of Gamers: 26
+  Number of Gamers: 28
   Percentage of Gamers: 2%
-  Ratio: 6.86
-  TA: '103'
+  Ratio: 7.06
+  TA: '105'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -344,9 +344,9 @@ Base Game Achievements:
   Description: Win a Competition
   GS: '15'
   Guide: true
-  Number of Gamers: 124
+  Number of Gamers: 138
   Percentage of Gamers: 10%
-  Ratio: 3.14
+  Ratio: 3.18
   TA: '47'
   Tags:
   - Offline Game Mode
@@ -355,10 +355,10 @@ Base Game Achievements:
   Description: Win all Competitions in the game
   GS: '50'
   Guide: false
-  Number of Gamers: 3
+  Number of Gamers: 5
   Percentage of Gamers: 0%
-  Ratio: 20.22
-  TA: 1,011
+  Ratio: 16.71
+  TA: '835'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -366,10 +366,10 @@ Base Game Achievements:
   Description: Reach the maximum Mastery level
   GS: '30'
   Guide: false
-  Number of Gamers: 11
+  Number of Gamers: 12
   Percentage of Gamers: 1%
-  Ratio: 10.56
-  TA: '316'
+  Ratio: 10.78
+  TA: '323'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -377,10 +377,10 @@ Base Game Achievements:
   Description: Complete Jeff's storyline
   GS: '15'
   Guide: false
-  Number of Gamers: 163
+  Number of Gamers: 188
   Percentage of Gamers: 13%
-  Ratio: 2.74
-  TA: '41'
+  Ratio: 2.72
+  TA: '40'
   Tags:
   - Offline Mode
   - Single Player
@@ -389,10 +389,10 @@ Base Game Achievements:
   Description: Complete Rosa's storyline
   GS: '15'
   Guide: false
-  Number of Gamers: 80
-  Percentage of Gamers: 7%
-  Ratio: 3.91
-  TA: '58'
+  Number of Gamers: 89
+  Percentage of Gamers: 6%
+  Ratio: 3.96
+  TA: '59'
   Tags:
   - Offline Mode
   - Single Player
@@ -401,10 +401,10 @@ Base Game Achievements:
   Description: Complete Pat's storyline
   GS: '15'
   Guide: false
-  Number of Gamers: 61
+  Number of Gamers: 67
   Percentage of Gamers: 5%
-  Ratio: 4.48
-  TA: '67'
+  Ratio: 4.56
+  TA: '68'
   Tags:
   - Offline Mode
   - Single Player
@@ -413,10 +413,10 @@ Base Game Achievements:
   Description: Complete Mei's storyline
   GS: '15'
   Guide: false
-  Number of Gamers: 20
+  Number of Gamers: 21
   Percentage of Gamers: 2%
-  Ratio: 7.83
-  TA: '117'
+  Ratio: 8.15
+  TA: '122'
   Tags:
   - Offline Mode
   - Single Player
@@ -425,10 +425,10 @@ Base Game Achievements:
   Description: Complete Kristoff's storyline
   GS: '15'
   Guide: false
-  Number of Gamers: 25
+  Number of Gamers: 27
   Percentage of Gamers: 2%
-  Ratio: 7.0
-  TA: '105'
+  Ratio: 7.19
+  TA: '107'
   Tags:
   - Offline Mode
   - Single Player
@@ -437,10 +437,10 @@ Base Game Achievements:
   Description: Complete the story
   GS: '15'
   Guide: false
-  Number of Gamers: 17
+  Number of Gamers: 18
   Percentage of Gamers: 1%
-  Ratio: 8.49
-  TA: '127'
+  Ratio: 8.8
+  TA: '132'
   Tags:
   - Offline Mode
   - Single Player
@@ -449,10 +449,10 @@ Base Game Achievements:
   Description: Unlock the first local brewery
   GS: '15'
   Guide: false
-  Number of Gamers: 287
+  Number of Gamers: 328
   Percentage of Gamers: 23%
   Ratio: 2.06
-  TA: '31'
+  TA: '30'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -460,10 +460,10 @@ Base Game Achievements:
   Description: Unlock the second local brewery
   GS: '15'
   Guide: false
-  Number of Gamers: 124
+  Number of Gamers: 143
   Percentage of Gamers: 10%
-  Ratio: 3.14
-  TA: '47'
+  Ratio: 3.12
+  TA: '46'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -471,10 +471,10 @@ Base Game Achievements:
   Description: Unlock the third local brewery
   GS: '15'
   Guide: false
-  Number of Gamers: 58
+  Number of Gamers: 65
   Percentage of Gamers: 5%
-  Ratio: 4.59
-  TA: '68'
+  Ratio: 4.63
+  TA: '69'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -482,10 +482,10 @@ Base Game Achievements:
   Description: Unlock the fourth local brewery
   GS: '15'
   Guide: false
-  Number of Gamers: 48
+  Number of Gamers: 53
   Percentage of Gamers: 4%
-  Ratio: 5.05
-  TA: '75'
+  Ratio: 5.13
+  TA: '77'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -493,9 +493,9 @@ Base Game Achievements:
   Description: Unlock a Commercial Slot
   GS: '15'
   Guide: false
-  Number of Gamers: 105
+  Number of Gamers: 119
   Percentage of Gamers: 9%
-  Ratio: 3.41
+  Ratio: 3.42
   TA: '51'
   Tags:
   - Offline Game Mode
@@ -504,10 +504,10 @@ Base Game Achievements:
   Description: Reach maximum Reputation with a local brewery
   GS: '15'
   Guide: false
-  Number of Gamers: 30
+  Number of Gamers: 34
   Percentage of Gamers: 2%
-  Ratio: 6.39
-  TA: '95'
+  Ratio: 6.41
+  TA: '96'
   Tags:
   - Offline Mode
   - Single Player
@@ -516,10 +516,10 @@ Base Game Achievements:
   Description: Reach maximum Reputation with all local breweries
   GS: '50'
   Guide: false
-  Number of Gamers: 10
+  Number of Gamers: 11
   Percentage of Gamers: 1%
-  Ratio: 11.07
-  TA: '553'
+  Ratio: 11.26
+  TA: '563'
   Tags:
   - Offline Mode
   - Single Player
@@ -529,10 +529,10 @@ Base Game Achievements:
     beer
   GS: '15'
   Guide: true
-  Number of Gamers: 9
+  Number of Gamers: 12
   Percentage of Gamers: 1%
-  Ratio: 11.67
-  TA: '175'
+  Ratio: 10.78
+  TA: '161'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -540,10 +540,10 @@ Base Game Achievements:
   Description: Obtain a giant bottle cap
   GS: '15'
   Guide: false
-  Number of Gamers: 252
+  Number of Gamers: 290
   Percentage of Gamers: 21%
-  Ratio: 2.2
-  TA: '33'
+  Ratio: 2.19
+  TA: '32'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -551,10 +551,10 @@ Base Game Achievements:
   Description: Obtain at least 10 fridge magnets
   GS: '15'
   Guide: false
-  Number of Gamers: 16
+  Number of Gamers: 19
   Percentage of Gamers: 1%
-  Ratio: 8.75
-  TA: '131'
+  Ratio: 8.8
+  TA: '132'
   Tags:
   - Offline Mode
   - Single Player
@@ -563,10 +563,10 @@ Base Game Achievements:
   Description: Obtain at least 50 Hops
   GS: '15'
   Guide: false
-  Number of Gamers: 24
+  Number of Gamers: 28
   Percentage of Gamers: 2%
-  Ratio: 7.15
-  TA: '107'
+  Ratio: 7.06
+  TA: '105'
   Tags:
   - Offline Mode
   - Single Player
@@ -575,10 +575,10 @@ Base Game Achievements:
   Description: Obtain at least 30 Yeasts
   GS: '15'
   Guide: false
-  Number of Gamers: 20
+  Number of Gamers: 22
   Percentage of Gamers: 2%
-  Ratio: 7.83
-  TA: '117'
+  Ratio: 7.96
+  TA: '119'
   Tags:
   - Offline Mode
   - Single Player
@@ -587,10 +587,10 @@ Base Game Achievements:
   Description: Obtain at least 50 Grains
   GS: '15'
   Guide: false
-  Number of Gamers: 20
+  Number of Gamers: 23
   Percentage of Gamers: 2%
-  Ratio: 7.83
-  TA: '117'
+  Ratio: 7.79
+  TA: '116'
   Tags:
   - Offline Mode
   - Single Player
@@ -599,33 +599,33 @@ Base Game Achievements:
   Description: Complete all other achievements
   GS: '70'
   Guide: false
-  Number of Gamers: 3
+  Number of Gamers: 5
   Percentage of Gamers: 0%
-  Ratio: 20.22
-  TA: 1,415
+  Ratio: 16.71
+  TA: 1,170
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 7.439
-Base TA: 7439
+Base Ratio: 6.92
+Base TA: 6920
 Delisted: false
 Developer: Auroch Digital
 Game Name: 'Brewmaster: Beer Brewing Simulator'
 Genres: Simulation
 Install Size: 3420.0
-Number of Completions: 3
-Number of Gamers: 1227
+Number of Completions: 5
+Number of Gamers: 1397
 Overall Completion Time:
-- 59
-- 60
+- 71
+- 72
 Overall GS: 1000
-Overall Ratio: 7.439
-Overall TA: 7439
+Overall Ratio: 6.92
+Overall TA: 6920
 PDU: 0
-Percentage Completed: 0.24
+Percentage Completed: 0.36
 Publisher: Fireshine Games
 Release Date: 27 October 2022
 Server Closure: false
-Site Rating: 3.75
+Site Rating: 3.69
 Update Achievements: []
 Walkthrough: false

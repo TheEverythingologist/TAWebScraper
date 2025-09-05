@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- 193
-- 194
+- 211
+- 212
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Destroyer
   Description: Destroy 3,000 environmental objects.
   GS: '15'
   Guide: false
-  Number of Gamers: 45
+  Number of Gamers: 60
   Percentage of Gamers: 5%
-  Ratio: 4.39
-  TA: '65'
+  Ratio: 4.43
+  TA: '66'
   Tags:
   - Offline Mode
   - Single Player
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Destroy 10,000 environmental objects.
   GS: '30'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 1%
-  Ratio: 13.17
-  TA: '395'
+  Number of Gamers: 4
+  Percentage of Gamers: 0%
+  Ratio: 17.18
+  TA: '515'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,9 +32,9 @@ Base Game Achievements:
   Description: Defeat 1,000 enemies.
   GS: '15'
   Guide: false
-  Number of Gamers: 190
-  Percentage of Gamers: 22%
-  Ratio: 2.13
+  Number of Gamers: 252
+  Percentage of Gamers: 21%
+  Ratio: 2.16
   TA: '32'
   Tags:
   - Offline Mode
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Defeat 5,000 enemies.
   GS: '30'
   Guide: false
-  Number of Gamers: 9
+  Number of Gamers: 12
   Percentage of Gamers: 1%
-  Ratio: 9.82
-  TA: '294'
+  Ratio: 9.92
+  TA: '297'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Defeat 50 enemies using secondary weapons.
   GS: '15'
   Guide: false
-  Number of Gamers: 93
-  Percentage of Gamers: 11%
-  Ratio: 3.05
-  TA: '45'
+  Number of Gamers: 115
+  Percentage of Gamers: 10%
+  Ratio: 3.2
+  TA: '48'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: Defeat Agginox on Soldier or Warrior mode.
   GS: '15'
   Guide: false
-  Number of Gamers: 135
-  Percentage of Gamers: 16%
-  Ratio: 2.53
-  TA: '38'
+  Number of Gamers: 155
+  Percentage of Gamers: 13%
+  Ratio: 2.76
+  TA: '41'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -79,10 +79,10 @@ Base Game Achievements:
   Description: Defeat Beigon on Soldier or Warrior mode.
   GS: '15'
   Guide: false
-  Number of Gamers: 111
-  Percentage of Gamers: 13%
-  Ratio: 2.79
-  TA: '41'
+  Number of Gamers: 123
+  Percentage of Gamers: 10%
+  Ratio: 3.09
+  TA: '46'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -90,10 +90,10 @@ Base Game Achievements:
   Description: Defeat Birk on Soldier or Warrior mode.
   GS: '15'
   Guide: false
-  Number of Gamers: 241
-  Percentage of Gamers: 28%
-  Ratio: 1.89
-  TA: '28'
+  Number of Gamers: 294
+  Percentage of Gamers: 25%
+  Ratio: 2.0
+  TA: '30'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -101,10 +101,10 @@ Base Game Achievements:
   Description: Defeat Brigard.
   GS: '15'
   Guide: false
-  Number of Gamers: 240
-  Percentage of Gamers: 28%
-  Ratio: 1.9
-  TA: '28'
+  Number of Gamers: 293
+  Percentage of Gamers: 25%
+  Ratio: 2.0
+  TA: '30'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -112,10 +112,10 @@ Base Game Achievements:
   Description: Defeat Sangrigor.
   GS: '15'
   Guide: false
-  Number of Gamers: 239
-  Percentage of Gamers: 28%
-  Ratio: 1.9
-  TA: '28'
+  Number of Gamers: 292
+  Percentage of Gamers: 25%
+  Ratio: 2.01
+  TA: '30'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -123,10 +123,10 @@ Base Game Achievements:
   Description: Defeat all Dark Warriors.
   GS: '15'
   Guide: false
-  Number of Gamers: 137
-  Percentage of Gamers: 16%
-  Ratio: 2.51
-  TA: '37'
+  Number of Gamers: 157
+  Percentage of Gamers: 13%
+  Ratio: 2.74
+  TA: '41'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -134,10 +134,10 @@ Base Game Achievements:
   Description: Defeat Galath a second time.
   GS: '15'
   Guide: false
-  Number of Gamers: 138
-  Percentage of Gamers: 16%
-  Ratio: 2.5
-  TA: '37'
+  Number of Gamers: 159
+  Percentage of Gamers: 13%
+  Ratio: 2.72
+  TA: '40'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -145,9 +145,9 @@ Base Game Achievements:
   Description: Defeat Iktala on Soldier or Warrior mode.
   GS: '15'
   Guide: false
-  Number of Gamers: 590
-  Percentage of Gamers: 68%
-  Ratio: 1.21
+  Number of Gamers: 753
+  Percentage of Gamers: 64%
+  Ratio: 1.25
   TA: '18'
   Tags:
   - Offline Game Mode
@@ -156,10 +156,10 @@ Base Game Achievements:
   Description: Defeat the Minotaur
   GS: '15'
   Guide: false
-  Number of Gamers: 542
-  Percentage of Gamers: 62%
-  Ratio: 1.26
-  TA: '18'
+  Number of Gamers: 688
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '19'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -167,10 +167,10 @@ Base Game Achievements:
   Description: Defeat Project S on Soldier or Warrior mode.
   GS: '15'
   Guide: false
-  Number of Gamers: 199
-  Percentage of Gamers: 23%
-  Ratio: 2.08
-  TA: '31'
+  Number of Gamers: 241
+  Percentage of Gamers: 20%
+  Ratio: 2.21
+  TA: '33'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -178,10 +178,10 @@ Base Game Achievements:
   Description: Defeat Ratatosk on Soldier or Warrior mode.
   GS: '15'
   Guide: false
-  Number of Gamers: 149
-  Percentage of Gamers: 17%
-  Ratio: 2.41
-  TA: '36'
+  Number of Gamers: 175
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '38'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -189,10 +189,10 @@ Base Game Achievements:
   Description: Defeat all Royal Scorpions.
   GS: '15'
   Guide: false
-  Number of Gamers: 313
-  Percentage of Gamers: 36%
-  Ratio: 1.66
-  TA: '24'
+  Number of Gamers: 389
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '26'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -200,10 +200,10 @@ Base Game Achievements:
   Description: Defeat Babylon on Soldier or Warrior mode.
   GS: '15'
   Guide: false
-  Number of Gamers: 297
-  Percentage of Gamers: 34%
-  Ratio: 1.7
-  TA: '25'
+  Number of Gamers: 373
+  Percentage of Gamers: 32%
+  Ratio: 1.77
+  TA: '26'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -211,10 +211,10 @@ Base Game Achievements:
   Description: Complete the game as all three classes.
   GS: '30'
   Guide: true
-  Number of Gamers: 5
-  Percentage of Gamers: 1%
-  Ratio: 13.17
-  TA: '395'
+  Number of Gamers: 4
+  Percentage of Gamers: 0%
+  Ratio: 17.18
+  TA: '515'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -222,10 +222,10 @@ Base Game Achievements:
   Description: Complete the game as an Archer.
   GS: '15'
   Guide: false
-  Number of Gamers: 28
+  Number of Gamers: 30
   Percentage of Gamers: 3%
-  Ratio: 5.56
-  TA: '83'
+  Ratio: 6.27
+  TA: '94'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -233,10 +233,10 @@ Base Game Achievements:
   Description: Complete the game as a Scout.
   GS: '15'
   Guide: false
-  Number of Gamers: 83
-  Percentage of Gamers: 10%
-  Ratio: 3.23
-  TA: '48'
+  Number of Gamers: 93
+  Percentage of Gamers: 8%
+  Ratio: 3.56
+  TA: '53'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -244,10 +244,10 @@ Base Game Achievements:
   Description: Complete the game as a Caster.
   GS: '15'
   Guide: false
-  Number of Gamers: 38
+  Number of Gamers: 43
   Percentage of Gamers: 4%
-  Ratio: 4.77
-  TA: '71'
+  Ratio: 5.24
+  TA: '78'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -255,10 +255,10 @@ Base Game Achievements:
   Description: Complete the game on Warrior mode.
   GS: '30'
   Guide: false
-  Number of Gamers: 25
-  Percentage of Gamers: 3%
-  Ratio: 5.89
-  TA: '176'
+  Number of Gamers: 26
+  Percentage of Gamers: 2%
+  Ratio: 6.73
+  TA: '202'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -266,10 +266,10 @@ Base Game Achievements:
   Description: Finish a game on Game+ mode.
   GS: '30'
   Guide: true
-  Number of Gamers: 4
+  Number of Gamers: 3
   Percentage of Gamers: 0%
-  Ratio: 14.73
-  TA: '441'
+  Ratio: 19.84
+  TA: '595'
   Tags:
   - Offline Mode
   - Single Player
@@ -278,10 +278,10 @@ Base Game Achievements:
   Description: Upgrade your weapon to the highest level.
   GS: '30'
   Guide: false
-  Number of Gamers: 12
+  Number of Gamers: 13
   Percentage of Gamers: 1%
-  Ratio: 8.5
-  TA: '255'
+  Ratio: 9.53
+  TA: '285'
   Tags:
   - Offline Mode
   - Single Player
@@ -290,10 +290,10 @@ Base Game Achievements:
   Description: Upgrade your protection the highest level.
   GS: '30'
   Guide: false
-  Number of Gamers: 11
+  Number of Gamers: 12
   Percentage of Gamers: 1%
-  Ratio: 8.88
-  TA: '266'
+  Ratio: 9.92
+  TA: '297'
   Tags:
   - Offline Mode
   - Single Player
@@ -302,10 +302,10 @@ Base Game Achievements:
   Description: Collect all Dark Crystals.
   GS: '80'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 2%
-  Ratio: 7.87
-  TA: '629'
+  Number of Gamers: 16
+  Percentage of Gamers: 1%
+  Ratio: 8.59
+  TA: '687'
   Tags:
   - Offline Mode
   - Single Player
@@ -314,10 +314,10 @@ Base Game Achievements:
   Description: Collect all orbs in the game.
   GS: '15'
   Guide: false
-  Number of Gamers: 29
+  Number of Gamers: 36
   Percentage of Gamers: 3%
-  Ratio: 5.47
-  TA: '82'
+  Ratio: 5.72
+  TA: '85'
   Tags:
   - Offline Mode
   - Single Player
@@ -326,10 +326,10 @@ Base Game Achievements:
   Description: Collect all secondary weapons.
   GS: '80'
   Guide: false
-  Number of Gamers: 9
+  Number of Gamers: 10
   Percentage of Gamers: 1%
-  Ratio: 9.82
-  TA: '785'
+  Ratio: 10.86
+  TA: '869'
   Tags:
   - Offline Mode
   - Single Player
@@ -338,7 +338,7 @@ Base Game Achievements:
   Description: Be revived by the Valkyries after falling in combat.
   GS: '15'
   Guide: true
-  Number of Gamers: 834
+  Number of Gamers: 1129
   Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '15'
@@ -349,10 +349,10 @@ Base Game Achievements:
   Description: Discover 50 hidden rooms.
   GS: '15'
   Guide: false
-  Number of Gamers: 102
+  Number of Gamers: 136
   Percentage of Gamers: 12%
-  Ratio: 2.91
-  TA: '43'
+  Ratio: 2.94
+  TA: '44'
   Tags:
   - Offline Mode
   - Single Player
@@ -361,10 +361,10 @@ Base Game Achievements:
   Description: Find all of the hidden rooms.
   GS: '80'
   Guide: true
-  Number of Gamers: 10
+  Number of Gamers: 11
   Percentage of Gamers: 1%
-  Ratio: 9.31
-  TA: '745'
+  Ratio: 10.36
+  TA: '828'
   Tags:
   - Offline Mode
   - Single Player
@@ -373,10 +373,10 @@ Base Game Achievements:
   Description: Use 100 potions.
   GS: '15'
   Guide: false
-  Number of Gamers: 211
-  Percentage of Gamers: 24%
-  Ratio: 2.02
-  TA: '30'
+  Number of Gamers: 258
+  Percentage of Gamers: 22%
+  Ratio: 2.13
+  TA: '32'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -384,10 +384,10 @@ Base Game Achievements:
   Description: Complete all side quests.
   GS: '80'
   Guide: true
-  Number of Gamers: 11
+  Number of Gamers: 12
   Percentage of Gamers: 1%
-  Ratio: 8.88
-  TA: '710'
+  Ratio: 9.92
+  TA: '793'
   Tags:
   - Offline Mode
   - Single Player
@@ -396,10 +396,10 @@ Base Game Achievements:
   Description: Reveal 100% of every map.
   GS: '80'
   Guide: false
-  Number of Gamers: 38
+  Number of Gamers: 47
   Percentage of Gamers: 4%
-  Ratio: 4.77
-  TA: '382'
+  Ratio: 5.01
+  TA: '401'
   Tags:
   - Offline Mode
   - Single Player
@@ -408,10 +408,10 @@ Base Game Achievements:
   Description: Complete the Bestiary in your Encyclopaedia.
   GS: '15'
   Guide: false
-  Number of Gamers: 47
+  Number of Gamers: 60
   Percentage of Gamers: 5%
-  Ratio: 4.29
-  TA: '64'
+  Ratio: 4.43
+  TA: '66'
   Tags:
   - Offline Mode
   - Single Player
@@ -420,10 +420,10 @@ Base Game Achievements:
   Description: Unlock all skills.
   GS: '15'
   Guide: true
-  Number of Gamers: 5
-  Percentage of Gamers: 1%
-  Ratio: 13.17
-  TA: '197'
+  Number of Gamers: 4
+  Percentage of Gamers: 0%
+  Ratio: 17.18
+  TA: '257'
   Tags:
   - Offline Mode
   - Single Player
@@ -432,34 +432,34 @@ Base Game Achievements:
   Description: Inflict altered states on your enemies 50 times.
   GS: '15'
   Guide: false
-  Number of Gamers: 226
-  Percentage of Gamers: 26%
-  Ratio: 1.95
-  TA: '29'
+  Number of Gamers: 280
+  Percentage of Gamers: 24%
+  Ratio: 2.05
+  TA: '30'
   Tags:
   - Offline Mode
   - Single Player
   - Collectable
-Base Ratio: 6.666
-Base TA: 6666
+Base Ratio: 7.602
+Base TA: 7602
 Delisted: false
 Developer: Retro Forge Games
 Game Name: Souldiers
 Genres: Action-RPG, Role Playing, Platformer, Metroidvania
 Install Size: 1260.0
-Number of Completions: 4
-Number of Gamers: 868
+Number of Completions: 3
+Number of Gamers: 1181
 Overall Completion Time:
-- 193
-- 194
+- 211
+- 212
 Overall GS: 1000
-Overall Ratio: 6.666
-Overall TA: 6666
+Overall Ratio: 7.602
+Overall TA: 7602
 PDU: 0
-Percentage Completed: 0.46
+Percentage Completed: 0.25
 Publisher: Dear Villagers
 Release Date: 02 June 2022
 Server Closure: false
-Site Rating: 3.71
+Site Rating: 3.68
 Update Achievements: []
 Walkthrough: false

@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- 127
-- 128
+- 115
+- 116
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: The Legend of Praslav
   Description: Earn all the other achievements.
   GS: '50'
   Guide: false
-  Number of Gamers: 10
+  Number of Gamers: 11
   Percentage of Gamers: 0%
-  Ratio: 15.69
-  TA: '784'
+  Ratio: 15.1
+  TA: '755'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -19,10 +19,10 @@ Base Game Achievements:
   Description: Become the hobo king.
   GS: '50'
   Guide: false
-  Number of Gamers: 118
+  Number of Gamers: 122
   Percentage of Gamers: 5%
-  Ratio: 4.66
-  TA: '233'
+  Ratio: 4.53
+  TA: '226'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -30,10 +30,10 @@ Base Game Achievements:
   Description: Survive one season in a hardcore mode.
   GS: '50'
   Guide: true
-  Number of Gamers: 31
+  Number of Gamers: 33
   Percentage of Gamers: 1%
-  Ratio: 8.91
-  TA: '445'
+  Ratio: 8.72
+  TA: '436'
   Tags:
   - Offline Mode
   - Single Player
@@ -42,10 +42,10 @@ Base Game Achievements:
   Description: Uncover all points of interest. (Across multiple worlds)
   GS: '25'
   Guide: false
-  Number of Gamers: 30
+  Number of Gamers: 32
   Percentage of Gamers: 1%
-  Ratio: 9.21
-  TA: '230'
+  Ratio: 8.85
+  TA: '221'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -53,10 +53,10 @@ Base Game Achievements:
   Description: Achieve mastery in all of your skills. (Across multiple worlds)
   GS: '25'
   Guide: true
-  Number of Gamers: 45
+  Number of Gamers: 50
   Percentage of Gamers: 2%
-  Ratio: 7.39
-  TA: '184'
+  Ratio: 7.08
+  TA: '177'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -64,10 +64,10 @@ Base Game Achievements:
   Description: Learn all available perks. (Across multiple worlds)
   GS: '25'
   Guide: false
-  Number of Gamers: 45
+  Number of Gamers: 48
   Percentage of Gamers: 2%
-  Ratio: 7.48
-  TA: '187'
+  Ratio: 7.23
+  TA: '180'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -75,9 +75,9 @@ Base Game Achievements:
   Description: Reach trust 100 with ten different NPCs.
   GS: '25'
   Guide: false
-  Number of Gamers: 207
+  Number of Gamers: 211
   Percentage of Gamers: 8%
-  Ratio: 3.45
+  Ratio: 3.44
   TA: '86'
   Tags:
   - Offline Game Mode
@@ -86,8 +86,8 @@ Base Game Achievements:
   Description: Place an item into your hideout for the first time.
   GS: '15'
   Guide: false
-  Number of Gamers: 1472
-  Percentage of Gamers: 59%
+  Number of Gamers: 1508
+  Percentage of Gamers: 60%
   Ratio: 1.29
   TA: '19'
   Tags:
@@ -97,7 +97,7 @@ Base Game Achievements:
   Description: Uncover a spectacular find for the first time.
   GS: '15'
   Guide: false
-  Number of Gamers: 2072
+  Number of Gamers: 2113
   Percentage of Gamers: 84%
   Ratio: 1.09
   TA: '16'
@@ -108,10 +108,10 @@ Base Game Achievements:
   Description: Use the public transport for the first time.
   GS: '15'
   Guide: false
-  Number of Gamers: 476
+  Number of Gamers: 491
   Percentage of Gamers: 19%
-  Ratio: 2.27
-  TA: '34'
+  Ratio: 2.26
+  TA: '33'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -119,7 +119,7 @@ Base Game Achievements:
   Description: Wake up from your sleep due to being too cold.
   GS: '15'
   Guide: false
-  Number of Gamers: 1780
+  Number of Gamers: 1816
   Percentage of Gamers: 72%
   Ratio: 1.17
   TA: '17'
@@ -130,7 +130,7 @@ Base Game Achievements:
   Description: Talk to a passerby for the first time.
   GS: '15'
   Guide: false
-  Number of Gamers: 2419
+  Number of Gamers: 2466
   Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '15'
@@ -142,7 +142,7 @@ Base Game Achievements:
   Description: Light a fire for the first time.
   GS: '15'
   Guide: false
-  Number of Gamers: 1795
+  Number of Gamers: 1837
   Percentage of Gamers: 73%
   Ratio: 1.17
   TA: '17'
@@ -154,10 +154,10 @@ Base Game Achievements:
   Description: Craft an item for the first time.
   GS: '15'
   Guide: false
-  Number of Gamers: 1147
-  Percentage of Gamers: 46%
+  Number of Gamers: 1176
+  Percentage of Gamers: 47%
   Ratio: 1.46
-  TA: '22'
+  TA: '21'
   Tags:
   - Offline Mode
   - Single Player
@@ -166,9 +166,9 @@ Base Game Achievements:
   Description: Win your first battle.
   GS: '15'
   Guide: true
-  Number of Gamers: 326
+  Number of Gamers: 336
   Percentage of Gamers: 13%
-  Ratio: 2.75
+  Ratio: 2.73
   TA: '41'
   Tags:
   - Offline Mode
@@ -178,9 +178,9 @@ Base Game Achievements:
   Description: Survive the first season.
   GS: '15'
   Guide: true
-  Number of Gamers: 243
+  Number of Gamers: 253
   Percentage of Gamers: 10%
-  Ratio: 3.19
+  Ratio: 3.15
   TA: '47'
   Tags:
   - Offline Mode
@@ -190,10 +190,10 @@ Base Game Achievements:
   Description: Level up hideout equipment 10 times.
   GS: '15'
   Guide: true
-  Number of Gamers: 152
+  Number of Gamers: 158
   Percentage of Gamers: 6%
-  Ratio: 4.03
-  TA: '60'
+  Ratio: 3.98
+  TA: '59'
   Tags:
   - Offline Mode
   - Single Player
@@ -202,10 +202,10 @@ Base Game Achievements:
   Description: Dress like a woman.
   GS: '15'
   Guide: true
-  Number of Gamers: 65
+  Number of Gamers: 69
   Percentage of Gamers: 3%
-  Ratio: 6.2
-  TA: '93'
+  Ratio: 6.03
+  TA: '90'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -213,10 +213,10 @@ Base Game Achievements:
   Description: Dress like a fan of the most hardcore music genre.
   GS: '15'
   Guide: false
-  Number of Gamers: 55
+  Number of Gamers: 60
   Percentage of Gamers: 2%
-  Ratio: 6.94
-  TA: '104'
+  Ratio: 6.46
+  TA: '97'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -224,21 +224,21 @@ Base Game Achievements:
   Description: Defeat Kroll.
   GS: '15'
   Guide: true
-  Number of Gamers: 104
+  Number of Gamers: 109
   Percentage of Gamers: 4%
-  Ratio: 4.91
-  TA: '73'
+  Ratio: 4.79
+  TA: '71'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Model Citizen
   Description: Reach maximum renown with the police.
   GS: '15'
-  Guide: false
-  Number of Gamers: 15
+  Guide: true
+  Number of Gamers: 16
   Percentage of Gamers: 1%
-  Ratio: 12.81
-  TA: '192'
+  Ratio: 12.52
+  TA: '187'
   Tags:
   - Offline Mode
   - Single Player
@@ -247,10 +247,10 @@ Base Game Achievements:
   Description: Unlock all playable characters.
   GS: '15'
   Guide: false
-  Number of Gamers: 53
+  Number of Gamers: 56
   Percentage of Gamers: 2%
-  Ratio: 6.81
-  TA: '102'
+  Ratio: 6.69
+  TA: '100'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -258,9 +258,9 @@ Base Game Achievements:
   Description: Become one of the initiates.
   GS: '15'
   Guide: false
-  Number of Gamers: 194
+  Number of Gamers: 201
   Percentage of Gamers: 8%
-  Ratio: 3.57
+  Ratio: 3.53
   TA: '53'
   Tags:
   - Offline Game Mode
@@ -269,10 +269,10 @@ Base Game Achievements:
   Description: Make sure there's peace around the train station... for good.
   GS: '15'
   Guide: false
-  Number of Gamers: 141
+  Number of Gamers: 147
   Percentage of Gamers: 6%
-  Ratio: 4.17
-  TA: '62'
+  Ratio: 4.13
+  TA: '61'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -280,9 +280,9 @@ Base Game Achievements:
   Description: Is this the beginning of a new mafia?
   GS: '15'
   Guide: false
-  Number of Gamers: 178
+  Number of Gamers: 183
   Percentage of Gamers: 7%
-  Ratio: 3.71
+  Ratio: 3.7
   TA: '55'
   Tags:
   - Offline Game Mode
@@ -291,10 +291,10 @@ Base Game Achievements:
   Description: Help Moiser move his goods.
   GS: '15'
   Guide: false
-  Number of Gamers: 205
+  Number of Gamers: 211
   Percentage of Gamers: 8%
-  Ratio: 3.47
-  TA: '52'
+  Ratio: 3.44
+  TA: '51'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -302,10 +302,10 @@ Base Game Achievements:
   Description: Rise from an accomplice to a culprit.
   GS: '15'
   Guide: false
-  Number of Gamers: 222
+  Number of Gamers: 231
   Percentage of Gamers: 9%
-  Ratio: 3.33
-  TA: '50'
+  Ratio: 3.29
+  TA: '49'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -313,9 +313,9 @@ Base Game Achievements:
   Description: Be allowed entry into the Fort.
   GS: '15'
   Guide: false
-  Number of Gamers: 316
+  Number of Gamers: 325
   Percentage of Gamers: 13%
-  Ratio: 2.79
+  Ratio: 2.77
   TA: '41'
   Tags:
   - Offline Game Mode
@@ -324,10 +324,10 @@ Base Game Achievements:
   Description: Prove Baron your loyalty... or not.
   GS: '15'
   Guide: false
-  Number of Gamers: 142
+  Number of Gamers: 147
   Percentage of Gamers: 6%
-  Ratio: 4.17
-  TA: '62'
+  Ratio: 4.13
+  TA: '61'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -335,10 +335,10 @@ Base Game Achievements:
   Description: Solve the robbery at the church of St. Maurice.
   GS: '15'
   Guide: false
-  Number of Gamers: 149
+  Number of Gamers: 155
   Percentage of Gamers: 6%
-  Ratio: 4.09
-  TA: '61'
+  Ratio: 4.02
+  TA: '60'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -346,10 +346,10 @@ Base Game Achievements:
   Description: Have all three addictions active at the same time.
   GS: '15'
   Guide: true
-  Number of Gamers: 57
+  Number of Gamers: 62
   Percentage of Gamers: 2%
-  Ratio: 6.63
-  TA: '99'
+  Ratio: 6.36
+  TA: '95'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -357,7 +357,7 @@ Base Game Achievements:
   Description: Let it all go in your pants.
   GS: '15'
   Guide: true
-  Number of Gamers: 417
+  Number of Gamers: 428
   Percentage of Gamers: 17%
   Ratio: 2.43
   TA: '36'
@@ -369,10 +369,10 @@ Base Game Achievements:
     time.
   GS: '15'
   Guide: true
-  Number of Gamers: 215
+  Number of Gamers: 221
   Percentage of Gamers: 9%
-  Ratio: 3.4
-  TA: '51'
+  Ratio: 3.37
+  TA: '50'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -380,7 +380,7 @@ Base Game Achievements:
   Description: Go through the same shrapnel three times in a row.
   GS: '15'
   Guide: false
-  Number of Gamers: 1981
+  Number of Gamers: 2025
   Percentage of Gamers: 80%
   Ratio: 1.11
   TA: '16'
@@ -391,10 +391,10 @@ Base Game Achievements:
   Description: Craft a weapon from a garden gnome.
   GS: '15'
   Guide: false
-  Number of Gamers: 95
+  Number of Gamers: 99
   Percentage of Gamers: 4%
-  Ratio: 5.14
-  TA: '77'
+  Ratio: 5.03
+  TA: '75'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -402,10 +402,10 @@ Base Game Achievements:
   Description: Have all the negative conditions active at the same time.
   GS: '15'
   Guide: false
-  Number of Gamers: 47
+  Number of Gamers: 50
   Percentage of Gamers: 2%
-  Ratio: 7.23
-  TA: '108'
+  Ratio: 7.08
+  TA: '106'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -413,10 +413,10 @@ Base Game Achievements:
   Description: Save a dog from being eaten.
   GS: '15'
   Guide: false
-  Number of Gamers: 299
+  Number of Gamers: 307
   Percentage of Gamers: 12%
-  Ratio: 2.87
-  TA: '43'
+  Ratio: 2.85
+  TA: '42'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -424,10 +424,10 @@ Base Game Achievements:
   Description: Have a kitchen, a toilet, a shower and a laundry in your build inventory.
   GS: '15'
   Guide: false
-  Number of Gamers: 67
+  Number of Gamers: 71
   Percentage of Gamers: 3%
-  Ratio: 6.2
-  TA: '93'
+  Ratio: 5.94
+  TA: '89'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -435,10 +435,10 @@ Base Game Achievements:
   Description: Have seven garden gnomes in your inventory at the same time.
   GS: '15'
   Guide: false
-  Number of Gamers: 54
+  Number of Gamers: 60
   Percentage of Gamers: 2%
-  Ratio: 7.01
-  TA: '105'
+  Ratio: 6.46
+  TA: '97'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -446,10 +446,10 @@ Base Game Achievements:
   Description: Perform your first occult ritual.
   GS: '15'
   Guide: true
-  Number of Gamers: 164
+  Number of Gamers: 172
   Percentage of Gamers: 7%
-  Ratio: 3.91
-  TA: '58'
+  Ratio: 3.82
+  TA: '57'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -457,10 +457,10 @@ Base Game Achievements:
   Description: Cumulatively sleep for one hour outside of your hideouts.
   GS: '15'
   Guide: true
-  Number of Gamers: 35
+  Number of Gamers: 37
   Percentage of Gamers: 1%
-  Ratio: 8.51
-  TA: '127'
+  Ratio: 8.23
+  TA: '123'
   Tags:
   - Offline Mode
   - Single Player
@@ -469,9 +469,9 @@ Base Game Achievements:
   Description: Complete 30 favors.
   GS: '15'
   Guide: true
-  Number of Gamers: 238
+  Number of Gamers: 245
   Percentage of Gamers: 10%
-  Ratio: 3.23
+  Ratio: 3.2
   TA: '48'
   Tags:
   - Offline Mode
@@ -481,9 +481,9 @@ Base Game Achievements:
   Description: Finish your first job opportunity.
   GS: '15'
   Guide: false
-  Number of Gamers: 554
+  Number of Gamers: 563
   Percentage of Gamers: 22%
-  Ratio: 2.1
+  Ratio: 2.11
   TA: '31'
   Tags:
   - Offline Game Mode
@@ -492,10 +492,10 @@ Base Game Achievements:
   Description: Finish 30 job opportunities.
   GS: '15'
   Guide: false
-  Number of Gamers: 76
+  Number of Gamers: 81
   Percentage of Gamers: 3%
-  Ratio: 5.69
-  TA: '85'
+  Ratio: 5.56
+  TA: '83'
   Tags:
   - Offline Mode
   - Single Player
@@ -504,9 +504,9 @@ Base Game Achievements:
   Description: Steal 100 items from the passersby.
   GS: '15'
   Guide: true
-  Number of Gamers: 270
+  Number of Gamers: 276
   Percentage of Gamers: 11%
-  Ratio: 3.02
+  Ratio: 3.01
   TA: '45'
   Tags:
   - Offline Mode
@@ -516,10 +516,10 @@ Base Game Achievements:
   Description: Steal 500 items from the passersby.
   GS: '15'
   Guide: false
-  Number of Gamers: 147
+  Number of Gamers: 154
   Percentage of Gamers: 6%
-  Ratio: 4.09
-  TA: '61'
+  Ratio: 4.03
+  TA: '60'
   Tags:
   - Offline Mode
   - Single Player
@@ -528,10 +528,10 @@ Base Game Achievements:
   Description: Unlock 100 locks.
   GS: '15'
   Guide: true
-  Number of Gamers: 257
-  Percentage of Gamers: 10%
-  Ratio: 3.09
-  TA: '46'
+  Number of Gamers: 269
+  Percentage of Gamers: 11%
+  Ratio: 3.05
+  TA: '45'
   Tags:
   - Offline Mode
   - Single Player
@@ -540,10 +540,10 @@ Base Game Achievements:
   Description: Unlock 500 locks.
   GS: '15'
   Guide: false
-  Number of Gamers: 94
+  Number of Gamers: 98
   Percentage of Gamers: 4%
-  Ratio: 5.17
-  TA: '77'
+  Ratio: 5.06
+  TA: '75'
   Tags:
   - Offline Mode
   - Single Player
@@ -552,7 +552,7 @@ Base Game Achievements:
   Description: Get 1000 crowns through begging.
   GS: '15'
   Guide: false
-  Number of Gamers: 599
+  Number of Gamers: 617
   Percentage of Gamers: 24%
   Ratio: 2.02
   TA: '30'
@@ -564,9 +564,9 @@ Base Game Achievements:
   Description: Get 5000 crowns through begging.
   GS: '15'
   Guide: false
-  Number of Gamers: 350
+  Number of Gamers: 360
   Percentage of Gamers: 14%
-  Ratio: 2.65
+  Ratio: 2.64
   TA: '39'
   Tags:
   - Offline Mode
@@ -576,10 +576,10 @@ Base Game Achievements:
   Description: Sell 100 items to passersby.
   GS: '15'
   Guide: true
-  Number of Gamers: 181
+  Number of Gamers: 188
   Percentage of Gamers: 7%
-  Ratio: 3.69
-  TA: '55'
+  Ratio: 3.65
+  TA: '54'
   Tags:
   - Offline Mode
   - Single Player
@@ -589,10 +589,10 @@ Base Game Achievements:
   Description: Sell 500 items to passersby.
   GS: '15'
   Guide: false
-  Number of Gamers: 51
+  Number of Gamers: 55
   Percentage of Gamers: 2%
-  Ratio: 7.01
-  TA: '105'
+  Ratio: 6.75
+  TA: '101'
   Tags:
   - Offline Mode
   - Single Player
@@ -602,10 +602,10 @@ Base Game Achievements:
   Description: Touch 100 shrapnels.
   GS: '15'
   Guide: false
-  Number of Gamers: 1713
+  Number of Gamers: 1752
   Percentage of Gamers: 69%
-  Ratio: 1.2
-  TA: '18'
+  Ratio: 1.19
+  TA: '17'
   Tags:
   - Offline Mode
   - Single Player
@@ -614,9 +614,9 @@ Base Game Achievements:
   Description: Touch 500 shrapnels.
   GS: '15'
   Guide: false
-  Number of Gamers: 627
+  Number of Gamers: 643
   Percentage of Gamers: 25%
-  Ratio: 1.98
+  Ratio: 1.97
   TA: '29'
   Tags:
   - Offline Mode
@@ -626,9 +626,9 @@ Base Game Achievements:
   Description: Defeat a thug.
   GS: '15'
   Guide: false
-  Number of Gamers: 269
+  Number of Gamers: 276
   Percentage of Gamers: 11%
-  Ratio: 3.03
+  Ratio: 3.01
   TA: '45'
   Tags:
   - Offline Game Mode
@@ -637,10 +637,10 @@ Base Game Achievements:
   Description: Defeat 50 thugs.
   GS: '15'
   Guide: false
-  Number of Gamers: 63
+  Number of Gamers: 67
   Percentage of Gamers: 3%
-  Ratio: 6.35
-  TA: '95'
+  Ratio: 6.12
+  TA: '91'
   Tags:
   - Offline Mode
   - Single Player
@@ -649,30 +649,30 @@ Base Game Achievements:
   Description: Reach the score of 100 on the arcade machine.
   GS: '15'
   Guide: false
-  Number of Gamers: 23
+  Number of Gamers: 29
   Percentage of Gamers: 1%
-  Ratio: 10.34
-  TA: '155'
+  Ratio: 9.3
+  TA: '139'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 5.214
-Base TA: 5214
+Base Ratio: 5.06
+Base TA: 5060
 Delisted: false
 Developer: Perun Creative
 Game Name: 'Hobo: Tough Life'
 Genres: Survival, Open World
 Install Size: 9870.0
-Number of Completions: 10
-Number of Gamers: 2475
+Number of Completions: 11
+Number of Gamers: 2522
 Overall Completion Time:
-- 127
-- 128
+- 115
+- 116
 Overall GS: 1000
-Overall Ratio: 5.214
-Overall TA: 5214
+Overall Ratio: 5.06
+Overall TA: 5060
 PDU: 0
-Percentage Completed: 0.4
+Percentage Completed: 0.44
 Publisher: Perun Creative
 Release Date: 01 September 2022
 Server Closure: false

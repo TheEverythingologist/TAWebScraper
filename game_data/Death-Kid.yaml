@@ -8,319 +8,400 @@ Base Game Achievements:
   Description: Beat the game on easy difficulty
   GS: '15'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 18%
-  Ratio: 2.34
-  TA: '35'
-  Tags: []
+  Number of Gamers: 6
+  Percentage of Gamers: 17%
+  Ratio: 2.41
+  TA: '36'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
 - Achievement Name: Silver
   Description: Beat the game on normal difficulty
   GS: '30'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 18%
-  Ratio: 2.34
-  TA: '70'
-  Tags: []
+  Number of Gamers: 5
+  Percentage of Gamers: 14%
+  Ratio: 2.64
+  TA: '79'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
 - Achievement Name: Gold
   Description: Beat the game on hard difficulty
   GS: '30'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 18%
-  Ratio: 2.34
-  TA: '70'
-  Tags: []
+  Number of Gamers: 5
+  Percentage of Gamers: 14%
+  Ratio: 2.64
+  TA: '79'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
 - Achievement Name: Diamond
   Description: Beat the game on vary hard difficulty
   GS: '90'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 18%
-  Ratio: 2.34
-  TA: '211'
-  Tags: []
+  Number of Gamers: 5
+  Percentage of Gamers: 14%
+  Ratio: 2.64
+  TA: '238'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
 - Achievement Name: Medal
   Description: Beat the game on impossible difficulty
   GS: '90'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 18%
-  Ratio: 2.34
-  TA: '211'
-  Tags: []
+  Number of Gamers: 5
+  Percentage of Gamers: 14%
+  Ratio: 2.64
+  TA: '238'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
 - Achievement Name: Too Much Damage
   Description: Deal 500k damage
   GS: '90'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 23%
-  Ratio: 2.09
-  TA: '188'
-  Tags: []
+  Number of Gamers: 7
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '201'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: One More Room
   Description: Gain access to the third room
   GS: '30'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 27%
-  Ratio: 1.91
-  TA: '57'
-  Tags: []
+  Number of Gamers: 10
+  Percentage of Gamers: 29%
+  Ratio: 1.87
+  TA: '56'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Worst Nightmare
   Description: Good thing it was only a dream
   GS: '30'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 27%
-  Ratio: 1.91
-  TA: '57'
-  Tags: []
+  Number of Gamers: 10
+  Percentage of Gamers: 29%
+  Ratio: 1.87
+  TA: '56'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: What A Mess
   Description: Good thing you don't have to clean it up
   GS: '30'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 27%
-  Ratio: 1.91
-  TA: '57'
-  Tags: []
+  Number of Gamers: 10
+  Percentage of Gamers: 29%
+  Ratio: 1.87
+  TA: '56'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Plot Twist
   Description: Discover the truth
   GS: '30'
   Guide: false
-  Number of Gamers: 5
+  Number of Gamers: 8
   Percentage of Gamers: 23%
   Ratio: 2.09
   TA: '62'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Get Slapped
   Description: Learn how to recover
   GS: '90'
   Guide: false
-  Number of Gamers: 19
-  Percentage of Gamers: 86%
-  Ratio: 1.07
-  TA: '96'
-  Tags: []
+  Number of Gamers: 27
+  Percentage of Gamers: 77%
+  Ratio: 1.13
+  TA: '102'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Face the Inevitable
   Description: Lose your first run
   GS: '15'
   Guide: false
-  Number of Gamers: 20
-  Percentage of Gamers: 91%
-  Ratio: 1.04
-  TA: '15'
-  Tags: []
+  Number of Gamers: 29
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '16'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Reach The Pink Alien
   Description: Reach stage 1
   GS: '15'
   Guide: false
-  Number of Gamers: 22
+  Number of Gamers: 35
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '15'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Reach The Faceless
   Description: Reach stage 2
   GS: '15'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 77%
-  Ratio: 1.13
-  TA: '17'
-  Tags: []
+  Number of Gamers: 24
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Reach The Spider Drone
   Description: Reach stage 3
   GS: '15'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 55%
-  Ratio: 1.35
-  TA: '20'
-  Tags: []
+  Number of Gamers: 16
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Reach The Nosferatu
   Description: Reach stage 4
   GS: '15'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 45%
-  Ratio: 1.48
-  TA: '22'
-  Tags: []
+  Number of Gamers: 14
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Reach The Black Bot
   Description: Reach stage 5
   GS: '15'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 32%
-  Ratio: 1.77
-  TA: '26'
-  Tags: []
+  Number of Gamers: 10
+  Percentage of Gamers: 29%
+  Ratio: 1.87
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Reach The Fire Salamander
   Description: Reach stage 6
   GS: '15'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 32%
-  Ratio: 1.77
-  TA: '26'
-  Tags: []
+  Number of Gamers: 10
+  Percentage of Gamers: 29%
+  Ratio: 1.87
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Reach The Icy Slug Clam
   Description: Reach stage 7
   GS: '15'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 27%
-  Ratio: 1.91
-  TA: '28'
-  Tags: []
+  Number of Gamers: 9
+  Percentage of Gamers: 26%
+  Ratio: 1.97
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Reach The Shadow Folk
   Description: Reach stage 8
   GS: '15'
   Guide: false
-  Number of Gamers: 5
+  Number of Gamers: 8
   Percentage of Gamers: 23%
   Ratio: 2.09
   TA: '31'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Gardener
   Description: Take care of the plant until it blossoms
   GS: '30'
   Guide: false
-  Number of Gamers: 5
+  Number of Gamers: 8
   Percentage of Gamers: 23%
   Ratio: 2.09
   TA: '62'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Still Here?
   Description: Unlock first level of Grind Skill
   GS: '90'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 23%
-  Ratio: 2.09
-  TA: '188'
-  Tags: []
+  Number of Gamers: 6
+  Percentage of Gamers: 17%
+  Ratio: 2.41
+  TA: '217'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Melee Combat Mastery
   Description: Unlock the fifth level of Attack Skill
   GS: '15'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 27%
-  Ratio: 1.91
+  Number of Gamers: 10
+  Percentage of Gamers: 29%
+  Ratio: 1.87
   TA: '28'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Death Form Mastery
   Description: Unlock the fifth level of Death Form Skill
   GS: '15'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 23%
-  Ratio: 2.09
-  TA: '31'
-  Tags: []
+  Number of Gamers: 7
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '33'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Energy Combat Mastery
   Description: Unlock the fifth level of Energy Skill
   GS: '15'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 23%
-  Ratio: 2.09
-  TA: '31'
-  Tags: []
+  Number of Gamers: 7
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '33'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Barrage Attack Mastery
   Description: Unlock the third level of Barrage Attack
   GS: '15'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 23%
-  Ratio: 2.09
-  TA: '31'
-  Tags: []
+  Number of Gamers: 7
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '33'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Megaball Mastery
   Description: Unlock the third level of Megaball
   GS: '15'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 23%
-  Ratio: 2.09
-  TA: '31'
-  Tags: []
+  Number of Gamers: 7
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '33'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Piercing Balls Mastery
   Description: Unlock the third level of Piercing Balls
   GS: '15'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 23%
-  Ratio: 2.09
-  TA: '31'
-  Tags: []
+  Number of Gamers: 7
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '33'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Pull Blast Mastery
   Description: Unlock the third level of Pull Blast
   GS: '15'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 23%
-  Ratio: 2.09
-  TA: '31'
-  Tags: []
+  Number of Gamers: 9
+  Percentage of Gamers: 26%
+  Ratio: 1.97
+  TA: '29'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Spin Kick Mastery
   Description: Unlock the third level of Spin Kick
   GS: '15'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 23%
-  Ratio: 2.09
-  TA: '31'
-  Tags: []
+  Number of Gamers: 6
+  Percentage of Gamers: 17%
+  Ratio: 2.41
+  TA: '36'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Teleport Attack Mastery
   Description: Unlock the third level of Teleport Attack
   GS: '15'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 23%
-  Ratio: 2.09
-  TA: '31'
-  Tags: []
+  Number of Gamers: 7
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '33'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: He Is Watching
   Description: Walk on the eye
   GS: '15'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 23%
-  Ratio: 2.09
-  TA: '31'
-  Tags: []
+  Number of Gamers: 7
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '33'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Happy End
   Description: Win the game
   GS: '40'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 18%
-  Ratio: 2.34
-  TA: '93'
-  Tags: []
-Base Ratio: 1.964
-Base TA: 1964
+  Number of Gamers: 6
+  Percentage of Gamers: 17%
+  Ratio: 2.41
+  TA: '96'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+Base Ratio: 2.112
+Base TA: 2112
 Delisted: false
 Developer: Take IT Studio!
 Game Name: Death Kid
 Genres: Beat 'em up
 Install Size: 1300.0
-Number of Completions: 4
-Number of Gamers: 22
+Number of Completions: 5
+Number of Gamers: 35
 Overall Completion Time:
 - 6
 - 7
 Overall GS: 1000
-Overall Ratio: 1.964
-Overall TA: 1964
+Overall Ratio: 2.112
+Overall TA: 2112
 PDU: 0
-Percentage Completed: 18.18
+Percentage Completed: 14.29
 Publisher: Take IT Studio!
 Release Date: 12 June 2025
 Server Closure: false
-Site Rating: 4.0
+Site Rating: 4.5
 Update Achievements: []
 Walkthrough: false

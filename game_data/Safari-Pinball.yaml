@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- 15
-- 16
+- 13
+- 14
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Extra ball!
   Description: Get an extra ball to unlock
   GS: '200'
   Guide: true
-  Number of Gamers: 27
-  Percentage of Gamers: 5%
-  Ratio: 4.57
-  TA: '915'
+  Number of Gamers: 30
+  Percentage of Gamers: 4%
+  Ratio: 4.78
+  TA: '956'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -19,10 +19,10 @@ Base Game Achievements:
   Description: Activate multiball to unlock
   GS: '150'
   Guide: true
-  Number of Gamers: 38
-  Percentage of Gamers: 7%
-  Ratio: 3.85
-  TA: '578'
+  Number of Gamers: 42
+  Percentage of Gamers: 6%
+  Ratio: 4.04
+  TA: '606'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -30,7 +30,7 @@ Base Game Achievements:
   Description: Use the ballsaver to unlock
   GS: '10'
   Guide: true
-  Number of Gamers: 566
+  Number of Gamers: 685
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '10'
@@ -41,7 +41,7 @@ Base Game Achievements:
   Description: Skillshot!
   GS: '30'
   Guide: true
-  Number of Gamers: 521
+  Number of Gamers: 625
   Percentage of Gamers: 91%
   Ratio: 1.04
   TA: '31'
@@ -52,8 +52,8 @@ Base Game Achievements:
   Description: Get one million to unlock
   GS: '10'
   Guide: false
-  Number of Gamers: 533
-  Percentage of Gamers: 94%
+  Number of Gamers: 639
+  Percentage of Gamers: 93%
   Ratio: 1.03
   TA: '10'
   Tags:
@@ -63,7 +63,7 @@ Base Game Achievements:
   Description: Get two millions to unlock
   GS: '10'
   Guide: false
-  Number of Gamers: 452
+  Number of Gamers: 544
   Percentage of Gamers: 79%
   Ratio: 1.12
   TA: '11'
@@ -74,8 +74,8 @@ Base Game Achievements:
   Description: Get three millions to unlock
   GS: '20'
   Guide: false
-  Number of Gamers: 346
-  Percentage of Gamers: 61%
+  Number of Gamers: 416
+  Percentage of Gamers: 60%
   Ratio: 1.28
   TA: '25'
   Tags:
@@ -85,10 +85,10 @@ Base Game Achievements:
   Description: Get four millions to unlock
   GS: '30'
   Guide: false
-  Number of Gamers: 257
-  Percentage of Gamers: 45%
-  Ratio: 1.48
-  TA: '44'
+  Number of Gamers: 304
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '45'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -96,10 +96,10 @@ Base Game Achievements:
   Description: Get five millions to unlock
   GS: '40'
   Guide: false
-  Number of Gamers: 209
-  Percentage of Gamers: 37%
-  Ratio: 1.64
-  TA: '65'
+  Number of Gamers: 241
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '67'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -107,10 +107,10 @@ Base Game Achievements:
   Description: Get six millions to unlock
   GS: '50'
   Guide: false
-  Number of Gamers: 176
-  Percentage of Gamers: 31%
-  Ratio: 1.79
-  TA: '89'
+  Number of Gamers: 197
+  Percentage of Gamers: 29%
+  Ratio: 1.86
+  TA: '93'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -118,10 +118,10 @@ Base Game Achievements:
   Description: Get seven millions to unlock
   GS: '60'
   Guide: false
-  Number of Gamers: 152
-  Percentage of Gamers: 27%
-  Ratio: 1.93
-  TA: '116'
+  Number of Gamers: 170
+  Percentage of Gamers: 25%
+  Ratio: 2.01
+  TA: '120'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -129,10 +129,10 @@ Base Game Achievements:
   Description: Get eight millions to unlock
   GS: '70'
   Guide: false
-  Number of Gamers: 126
-  Percentage of Gamers: 22%
-  Ratio: 2.12
-  TA: '148'
+  Number of Gamers: 141
+  Percentage of Gamers: 20%
+  Ratio: 2.21
+  TA: '154'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -140,10 +140,10 @@ Base Game Achievements:
   Description: Get nine millions to unlock
   GS: '80'
   Guide: false
-  Number of Gamers: 112
-  Percentage of Gamers: 20%
-  Ratio: 2.25
-  TA: '180'
+  Number of Gamers: 126
+  Percentage of Gamers: 18%
+  Ratio: 2.34
+  TA: '187'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -151,10 +151,10 @@ Base Game Achievements:
   Description: Get ten millions to unlock
   GS: '90'
   Guide: false
-  Number of Gamers: 94
+  Number of Gamers: 108
   Percentage of Gamers: 16%
-  Ratio: 2.46
-  TA: '222'
+  Ratio: 2.53
+  TA: '227'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -162,33 +162,33 @@ Base Game Achievements:
   Description: Get fifteen millions to unlock
   GS: '150'
   Guide: true
-  Number of Gamers: 56
-  Percentage of Gamers: 10%
-  Ratio: 3.17
-  TA: '476'
+  Number of Gamers: 65
+  Percentage of Gamers: 9%
+  Ratio: 3.27
+  TA: '491'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 2.92
-Base TA: 2920
+Base Ratio: 3.033
+Base TA: 3033
 Delisted: false
 Developer: Super PowerUp Games
 Game Name: Safari Pinball
 Genres: Pinball
 Install Size: 603.0
-Number of Completions: 27
-Number of Gamers: 570
+Number of Completions: 30
+Number of Gamers: 690
 Overall Completion Time:
-- 15
-- 16
+- 13
+- 14
 Overall GS: 1000
-Overall Ratio: 2.92
-Overall TA: 2920
+Overall Ratio: 3.033
+Overall TA: 3033
 PDU: 0
-Percentage Completed: 4.74
+Percentage Completed: 4.35
 Publisher: Super PowerUp Games
 Release Date: 07 July 2023
 Server Closure: false
-Site Rating: 2.22
+Site Rating: 2.21
 Update Achievements: []
 Walkthrough: false

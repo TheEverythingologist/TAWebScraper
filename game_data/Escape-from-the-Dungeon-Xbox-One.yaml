@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.5
-- 2.0
-Base GS: 3000
+- 2.5
+Base GS: 4000
 Base Game Achievements:
 - Achievement Name: Stage 1
   Description: Complete Stage 1
   GS: '30'
-  Guide: true
-  Number of Gamers: 555
+  Guide: false
+  Number of Gamers: 971
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '30'
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Complete Stage 2
   GS: '30'
   Guide: false
-  Number of Gamers: 552
+  Number of Gamers: 964
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '30'
@@ -32,7 +32,7 @@ Base Game Achievements:
   Description: Complete Stage 3
   GS: '30'
   Guide: false
-  Number of Gamers: 552
+  Number of Gamers: 964
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '30'
@@ -44,9 +44,9 @@ Base Game Achievements:
   Description: Complete Stage 4
   GS: '30'
   Guide: false
-  Number of Gamers: 538
-  Percentage of Gamers: 97%
-  Ratio: 1.01
+  Number of Gamers: 955
+  Percentage of Gamers: 98%
+  Ratio: 1.0
   TA: '30'
   Tags:
   - Offline Mode
@@ -56,9 +56,9 @@ Base Game Achievements:
   Description: Complete Stage 5
   GS: '30'
   Guide: false
-  Number of Gamers: 538
-  Percentage of Gamers: 97%
-  Ratio: 1.01
+  Number of Gamers: 954
+  Percentage of Gamers: 98%
+  Ratio: 1.0
   TA: '30'
   Tags:
   - Offline Mode
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: Complete Stage 6
   GS: '30'
   Guide: false
-  Number of Gamers: 518
-  Percentage of Gamers: 93%
-  Ratio: 1.03
-  TA: '31'
+  Number of Gamers: 928
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '30'
   Tags:
   - Offline Mode
   - Single Player
@@ -80,10 +80,10 @@ Base Game Achievements:
   Description: Complete Stage 7
   GS: '30'
   Guide: false
-  Number of Gamers: 518
-  Percentage of Gamers: 93%
-  Ratio: 1.03
-  TA: '31'
+  Number of Gamers: 923
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '30'
   Tags:
   - Offline Mode
   - Single Player
@@ -92,9 +92,9 @@ Base Game Achievements:
   Description: Complete Stage 8
   GS: '30'
   Guide: false
-  Number of Gamers: 508
-  Percentage of Gamers: 91%
-  Ratio: 1.04
+  Number of Gamers: 908
+  Percentage of Gamers: 93%
+  Ratio: 1.03
   TA: '31'
   Tags:
   - Offline Mode
@@ -104,9 +104,9 @@ Base Game Achievements:
   Description: Complete Stage 9
   GS: '30'
   Guide: false
-  Number of Gamers: 505
-  Percentage of Gamers: 91%
-  Ratio: 1.04
+  Number of Gamers: 903
+  Percentage of Gamers: 93%
+  Ratio: 1.03
   TA: '31'
   Tags:
   - Offline Mode
@@ -116,9 +116,9 @@ Base Game Achievements:
   Description: Complete Stage 10
   GS: '30'
   Guide: false
-  Number of Gamers: 497
-  Percentage of Gamers: 89%
-  Ratio: 1.05
+  Number of Gamers: 889
+  Percentage of Gamers: 91%
+  Ratio: 1.04
   TA: '31'
   Tags:
   - Offline Mode
@@ -128,9 +128,9 @@ Base Game Achievements:
   Description: Complete Stage 11
   GS: '30'
   Guide: false
-  Number of Gamers: 500
-  Percentage of Gamers: 90%
-  Ratio: 1.05
+  Number of Gamers: 888
+  Percentage of Gamers: 91%
+  Ratio: 1.04
   TA: '31'
   Tags:
   - Offline Mode
@@ -140,9 +140,9 @@ Base Game Achievements:
   Description: Complete Stage 12
   GS: '30'
   Guide: false
-  Number of Gamers: 493
-  Percentage of Gamers: 89%
-  Ratio: 1.06
+  Number of Gamers: 884
+  Percentage of Gamers: 91%
+  Ratio: 1.04
   TA: '31'
   Tags:
   - Offline Mode
@@ -152,9 +152,9 @@ Base Game Achievements:
   Description: Complete Stage 13
   GS: '30'
   Guide: false
-  Number of Gamers: 491
-  Percentage of Gamers: 88%
-  Ratio: 1.06
+  Number of Gamers: 881
+  Percentage of Gamers: 91%
+  Ratio: 1.05
   TA: '31'
   Tags:
   - Offline Mode
@@ -164,10 +164,10 @@ Base Game Achievements:
   Description: Complete Stage 14
   GS: '30'
   Guide: false
-  Number of Gamers: 482
-  Percentage of Gamers: 87%
-  Ratio: 1.07
-  TA: '32'
+  Number of Gamers: 867
+  Percentage of Gamers: 89%
+  Ratio: 1.05
+  TA: '31'
   Tags:
   - Offline Mode
   - Single Player
@@ -176,10 +176,10 @@ Base Game Achievements:
   Description: Complete Stage 15
   GS: '30'
   Guide: false
-  Number of Gamers: 480
-  Percentage of Gamers: 86%
-  Ratio: 1.07
-  TA: '32'
+  Number of Gamers: 860
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '31'
   Tags:
   - Offline Mode
   - Single Player
@@ -188,9 +188,9 @@ Base Game Achievements:
   Description: Complete Stage 16
   GS: '30'
   Guide: false
-  Number of Gamers: 469
-  Percentage of Gamers: 84%
-  Ratio: 1.08
+  Number of Gamers: 842
+  Percentage of Gamers: 87%
+  Ratio: 1.07
   TA: '32'
   Tags:
   - Offline Mode
@@ -200,9 +200,9 @@ Base Game Achievements:
   Description: Complete Stage 17
   GS: '30'
   Guide: false
-  Number of Gamers: 467
-  Percentage of Gamers: 84%
-  Ratio: 1.09
+  Number of Gamers: 839
+  Percentage of Gamers: 86%
+  Ratio: 1.07
   TA: '32'
   Tags:
   - Offline Mode
@@ -212,9 +212,9 @@ Base Game Achievements:
   Description: Complete Stage 18
   GS: '30'
   Guide: false
-  Number of Gamers: 459
-  Percentage of Gamers: 83%
-  Ratio: 1.09
+  Number of Gamers: 827
+  Percentage of Gamers: 85%
+  Ratio: 1.08
   TA: '32'
   Tags:
   - Offline Mode
@@ -224,10 +224,10 @@ Base Game Achievements:
   Description: Complete Stage 19
   GS: '30'
   Guide: false
-  Number of Gamers: 456
-  Percentage of Gamers: 82%
-  Ratio: 1.1
-  TA: '33'
+  Number of Gamers: 826
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '32'
   Tags:
   - Offline Mode
   - Single Player
@@ -236,10 +236,10 @@ Base Game Achievements:
   Description: Complete Stage 20
   GS: '30'
   Guide: false
-  Number of Gamers: 443
-  Percentage of Gamers: 80%
-  Ratio: 1.11
-  TA: '33'
+  Number of Gamers: 813
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '32'
   Tags:
   - Offline Mode
   - Single Player
@@ -248,10 +248,10 @@ Base Game Achievements:
   Description: Complete Stage 21
   GS: '30'
   Guide: false
-  Number of Gamers: 448
-  Percentage of Gamers: 81%
-  Ratio: 1.11
-  TA: '33'
+  Number of Gamers: 806
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '32'
   Tags:
   - Offline Mode
   - Single Player
@@ -260,9 +260,9 @@ Base Game Achievements:
   Description: Complete Stage 22
   GS: '30'
   Guide: false
-  Number of Gamers: 445
-  Percentage of Gamers: 80%
-  Ratio: 1.11
+  Number of Gamers: 800
+  Percentage of Gamers: 82%
+  Ratio: 1.1
   TA: '33'
   Tags:
   - Offline Mode
@@ -272,9 +272,9 @@ Base Game Achievements:
   Description: Complete Stage 23
   GS: '30'
   Guide: false
-  Number of Gamers: 439
-  Percentage of Gamers: 79%
-  Ratio: 1.12
+  Number of Gamers: 796
+  Percentage of Gamers: 82%
+  Ratio: 1.1
   TA: '33'
   Tags:
   - Offline Mode
@@ -284,9 +284,9 @@ Base Game Achievements:
   Description: Complete Stage 24
   GS: '30'
   Guide: false
-  Number of Gamers: 433
-  Percentage of Gamers: 78%
-  Ratio: 1.13
+  Number of Gamers: 789
+  Percentage of Gamers: 81%
+  Ratio: 1.1
   TA: '33'
   Tags:
   - Offline Mode
@@ -296,10 +296,10 @@ Base Game Achievements:
   Description: Complete Stage 25
   GS: '30'
   Guide: false
-  Number of Gamers: 429
-  Percentage of Gamers: 77%
-  Ratio: 1.13
-  TA: '34'
+  Number of Gamers: 788
+  Percentage of Gamers: 81%
+  Ratio: 1.11
+  TA: '33'
   Tags:
   - Offline Mode
   - Single Player
@@ -308,9 +308,9 @@ Base Game Achievements:
   Description: Complete Stage 26
   GS: '30'
   Guide: false
-  Number of Gamers: 432
-  Percentage of Gamers: 78%
-  Ratio: 1.13
+  Number of Gamers: 789
+  Percentage of Gamers: 81%
+  Ratio: 1.1
   TA: '33'
   Tags:
   - Offline Mode
@@ -320,9 +320,9 @@ Base Game Achievements:
   Description: Complete Stage 27
   GS: '30'
   Guide: false
-  Number of Gamers: 435
-  Percentage of Gamers: 78%
-  Ratio: 1.12
+  Number of Gamers: 786
+  Percentage of Gamers: 81%
+  Ratio: 1.11
   TA: '33'
   Tags:
   - Offline Mode
@@ -332,10 +332,10 @@ Base Game Achievements:
   Description: Complete Stage 28
   GS: '30'
   Guide: false
-  Number of Gamers: 430
-  Percentage of Gamers: 77%
-  Ratio: 1.13
-  TA: '34'
+  Number of Gamers: 779
+  Percentage of Gamers: 80%
+  Ratio: 1.11
+  TA: '33'
   Tags:
   - Offline Mode
   - Single Player
@@ -344,10 +344,10 @@ Base Game Achievements:
   Description: Complete Stage 29
   GS: '60'
   Guide: false
-  Number of Gamers: 418
-  Percentage of Gamers: 75%
-  Ratio: 1.15
-  TA: '69'
+  Number of Gamers: 771
+  Percentage of Gamers: 79%
+  Ratio: 1.12
+  TA: '67'
   Tags:
   - Offline Mode
   - Single Player
@@ -355,45 +355,45 @@ Base Game Achievements:
 - Achievement Name: Stage 30
   Description: Complete Stage 30
   GS: '100'
-  Guide: true
-  Number of Gamers: 362
-  Percentage of Gamers: 65%
-  Ratio: 1.23
-  TA: '123'
+  Guide: false
+  Number of Gamers: 678
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '119'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.0626666666666666
-Base TA: 3188
+Base Ratio: 1.0975
+Base TA: 4390
 Delisted: false
 Developer: Joffre Macedo Neto
 Game Name: Escape from the Dungeon (Xbox One)
 Genres: Platformer
 Install Size: 509.0
-Number of Completions: 322
-Number of Gamers: 556
+Number of Completions: 465
+Number of Gamers: 973
 Overall Completion Time:
 - 0.5
-- 2.0
-Overall GS: 3000
-Overall Ratio: 1.0626666666666666
-Overall TA: 3188
+- 2.5
+Overall GS: 4000
+Overall Ratio: 1.0975
+Overall TA: 4390
 PDU: 0
-Percentage Completed: 57.91
+Percentage Completed: 47.79
 Publisher: JM Neto Game Dev
 Release Date: 16 October 2024
 Server Closure: false
-Site Rating: 1.54
+Site Rating: 1.92
 Update Achievements:
 - Achievement Name: Take it slow
   Description: Die 5 times in one game session
   GS: '200'
   Guide: false
-  Number of Gamers: 534
-  Percentage of Gamers: 96%
+  Number of Gamers: 946
+  Percentage of Gamers: 97%
   Ratio: 1.01
-  TA: '203'
+  TA: '202'
   Tags:
   - Offline Mode
   - Single Player
@@ -402,10 +402,10 @@ Update Achievements:
   Description: Die 10 times in one game session
   GS: '200'
   Guide: false
-  Number of Gamers: 530
-  Percentage of Gamers: 95%
-  Ratio: 1.02
-  TA: '204'
+  Number of Gamers: 942
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '203'
   Tags:
   - Offline Mode
   - Single Player
@@ -414,10 +414,10 @@ Update Achievements:
   Description: Die 15 times in one game session
   GS: '200'
   Guide: false
-  Number of Gamers: 526
-  Percentage of Gamers: 95%
-  Ratio: 1.02
-  TA: '205'
+  Number of Gamers: 939
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '203'
   Tags:
   - Offline Mode
   - Single Player
@@ -426,10 +426,10 @@ Update Achievements:
   Description: Perform 15 Dashes in one game session
   GS: '200'
   Guide: false
-  Number of Gamers: 534
-  Percentage of Gamers: 96%
+  Number of Gamers: 948
+  Percentage of Gamers: 97%
   Ratio: 1.01
-  TA: '203'
+  TA: '202'
   Tags:
   - Offline Mode
   - Single Player
@@ -438,10 +438,10 @@ Update Achievements:
   Description: Perform 30 Dashes in one game session
   GS: '200'
   Guide: false
-  Number of Gamers: 529
-  Percentage of Gamers: 95%
-  Ratio: 1.02
-  TA: '204'
+  Number of Gamers: 940
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '203'
   Tags:
   - Offline Mode
   - Single Player
@@ -450,10 +450,10 @@ Update Achievements:
   Description: Collect 05 coins in one game session
   GS: '200'
   Guide: false
-  Number of Gamers: 469
-  Percentage of Gamers: 84%
-  Ratio: 1.08
-  TA: '217'
+  Number of Gamers: 911
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '206'
   Tags:
   - Offline Mode
   - Single Player
@@ -462,10 +462,10 @@ Update Achievements:
   Description: Collect 10 coins in one game session
   GS: '200'
   Guide: false
-  Number of Gamers: 468
-  Percentage of Gamers: 84%
-  Ratio: 1.08
-  TA: '217'
+  Number of Gamers: 909
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '206'
   Tags:
   - Offline Mode
   - Single Player
@@ -474,10 +474,10 @@ Update Achievements:
   Description: Collect 15 coins in one game session
   GS: '200'
   Guide: false
-  Number of Gamers: 468
-  Percentage of Gamers: 84%
-  Ratio: 1.08
-  TA: '217'
+  Number of Gamers: 909
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '206'
   Tags:
   - Offline Mode
   - Single Player
@@ -486,10 +486,10 @@ Update Achievements:
   Description: Collect 20 coins in one game session
   GS: '200'
   Guide: false
-  Number of Gamers: 467
-  Percentage of Gamers: 84%
-  Ratio: 1.09
-  TA: '218'
+  Number of Gamers: 908
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '206'
   Tags:
   - Offline Mode
   - Single Player
@@ -498,10 +498,70 @@ Update Achievements:
   Description: Collect 25 coins in one game session
   GS: '200'
   Guide: false
-  Number of Gamers: 464
-  Percentage of Gamers: 83%
-  Ratio: 1.09
-  TA: '218'
+  Number of Gamers: 907
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '206'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Get 30 Coins
+  Description: Collect 30 coins in one game session
+  GS: '200'
+  Guide: false
+  Number of Gamers: 590
+  Percentage of Gamers: 61%
+  Ratio: 1.28
+  TA: '256'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Get 35 Coins
+  Description: Collect 35 coins in one game session
+  GS: '200'
+  Guide: false
+  Number of Gamers: 590
+  Percentage of Gamers: 61%
+  Ratio: 1.28
+  TA: '256'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Get 40 Coins
+  Description: Collect 40 coins in one game session
+  GS: '200'
+  Guide: false
+  Number of Gamers: 590
+  Percentage of Gamers: 61%
+  Ratio: 1.28
+  TA: '256'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Get 45 Coins
+  Description: Collect 45 coins in one game session
+  GS: '200'
+  Guide: false
+  Number of Gamers: 590
+  Percentage of Gamers: 61%
+  Ratio: 1.28
+  TA: '256'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Get 50 Coins
+  Description: Collect 50 coins in one game session
+  GS: '200'
+  Guide: false
+  Number of Gamers: 590
+  Percentage of Gamers: 61%
+  Ratio: 1.28
+  TA: '256'
   Tags:
   - Offline Mode
   - Single Player

@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 44
-- 45
+- 40.0
+- 50.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Classic Achievement
   Description: Play any game
   GS: '50'
   Guide: true
-  Number of Gamers: 73000
+  Number of Gamers: 82363
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '50'
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Unlock the original Xbox collectable
   GS: '50'
   Guide: true
-  Number of Gamers: 20237
+  Number of Gamers: 22859
   Percentage of Gamers: 28%
   Ratio: 1.9
   TA: '95'
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Win a Vs game challenge
   GS: '50'
   Guide: true
-  Number of Gamers: 2452
+  Number of Gamers: 2787
   Percentage of Gamers: 3%
-  Ratio: 5.47
-  TA: '273'
+  Ratio: 5.45
+  TA: '272'
   Tags:
   - Online Mode
   - Versus
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Setup a community challenge
   GS: '50'
   Guide: true
-  Number of Gamers: 6422
+  Number of Gamers: 7275
   Percentage of Gamers: 9%
-  Ratio: 3.38
-  TA: '169'
+  Ratio: 3.37
+  TA: '168'
   Tags:
   - Online Mode
   - Single Player
@@ -56,7 +56,7 @@ Base Game Achievements:
   Description: Win a medal on any supported challenge
   GS: '50'
   Guide: true
-  Number of Gamers: 18324
+  Number of Gamers: 20675
   Percentage of Gamers: 25%
   Ratio: 2.0
   TA: '100'
@@ -67,10 +67,10 @@ Base Game Achievements:
   Description: Rank 50 or higher in any game or challenge leaderboard
   GS: '50'
   Guide: true
-  Number of Gamers: 5635
-  Percentage of Gamers: 8%
-  Ratio: 3.61
-  TA: '180'
+  Number of Gamers: 6078
+  Percentage of Gamers: 7%
+  Ratio: 3.69
+  TA: '184'
   Tags:
   - Online Mode
   - Single Player
@@ -80,7 +80,7 @@ Base Game Achievements:
   Description: Unlock the Xbox 360 collectable
   GS: '50'
   Guide: true
-  Number of Gamers: 18400
+  Number of Gamers: 20827
   Percentage of Gamers: 25%
   Ratio: 1.99
   TA: '99'
@@ -92,10 +92,10 @@ Base Game Achievements:
   Description: Play 5 games or challenges that are different genres
   GS: '50'
   Guide: true
-  Number of Gamers: 15007
-  Percentage of Gamers: 20%
-  Ratio: 2.21
-  TA: '110'
+  Number of Gamers: 17302
+  Percentage of Gamers: 21%
+  Ratio: 2.18
+  TA: '109'
   Tags:
   - Online Mode
   - Single Player
@@ -104,23 +104,24 @@ Base Game Achievements:
   Description: Rank 50th or higher in a completed Tournament
   GS: '100'
   Guide: true
-  Number of Gamers: 208
-  Percentage of Gamers: 0%
-  Ratio: 18.8
-  TA: 1,880
+  Number of Gamers: 456
+  Percentage of Gamers: 1%
+  Ratio: 13.48
+  TA: 1,348
   Tags:
   - Online Mode
   - Single Player
   - Online Skill
   - Time/Date
+  - Buggy
 - Achievement Name: Silverware
   Description: Win 5 silver medals
   GS: '100'
   Guide: true
-  Number of Gamers: 1571
+  Number of Gamers: 1902
   Percentage of Gamers: 2%
-  Ratio: 6.84
-  TA: '684'
+  Ratio: 6.6
+  TA: '660'
   Tags:
   - Online Mode
   - Single Player
@@ -128,10 +129,10 @@ Base Game Achievements:
   Description: Unlock any 15 collectables
   GS: '100'
   Guide: true
-  Number of Gamers: 923
-  Percentage of Gamers: 1%
-  Ratio: 8.92
-  TA: '892'
+  Number of Gamers: 1725
+  Percentage of Gamers: 2%
+  Ratio: 6.93
+  TA: '693'
   Tags:
   - Online Mode
   - Single Player
@@ -140,10 +141,10 @@ Base Game Achievements:
   Description: Win 10 gold medals across 10 challenges
   GS: '150'
   Guide: true
-  Number of Gamers: 396
+  Number of Gamers: 588
   Percentage of Gamers: 1%
-  Ratio: 13.62
-  TA: 2,044
+  Ratio: 11.87
+  TA: 1,781
   Tags:
   - Online Mode
   - Single Player
@@ -152,31 +153,31 @@ Base Game Achievements:
   Description: Unlock all the classic collectables
   GS: '150'
   Guide: true
-  Number of Gamers: 38
+  Number of Gamers: 120
   Percentage of Gamers: 0%
-  Ratio: 43.99
-  TA: 6,598
+  Ratio: 26.29
+  TA: 3,943
   Tags: []
-Base Ratio: 13.174
-Base TA: 13174
+Base Ratio: 9.502
+Base TA: 9502
 Delisted: false
 Developer: Antstream
 Game Name: Retro Classics
 Genres: Collection
 Install Size: 442.0
-Number of Completions: 32
-Number of Gamers: 73538
+Number of Completions: 96
+Number of Gamers: 82958
 Overall Completion Time:
-- 44
-- 45
+- 40.0
+- 50.0
 Overall GS: 1000
-Overall Ratio: 13.174
-Overall TA: 13174
+Overall Ratio: 9.502
+Overall TA: 9502
 PDU: 0
-Percentage Completed: 0.04
+Percentage Completed: 0.12
 Publisher: Xbox Game Studios
 Release Date: 21 May 2025
 Server Closure: false
-Site Rating: 3.0
+Site Rating: 2.93
 Update Achievements: []
 Walkthrough: false

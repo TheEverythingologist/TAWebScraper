@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- -1
-- -1
+- 549
+- 550
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Day One
   Description: Play for 24 hours
   GS: '10'
   Guide: false
-  Number of Gamers: 24
+  Number of Gamers: 47
   Percentage of Gamers: 3%
-  Ratio: 5.42
-  TA: '54'
+  Ratio: 5.57
+  TA: '55'
   Tags:
   - Online/Offline
   - Single Player
@@ -22,10 +22,10 @@ Base Game Achievements:
   Description: Play for 48 hours
   GS: '15'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 2%
-  Ratio: 7.67
-  TA: '115'
+  Number of Gamers: 19
+  Percentage of Gamers: 1%
+  Ratio: 8.68
+  TA: '130'
   Tags:
   - Online/Offline
   - Single Player
@@ -36,10 +36,10 @@ Base Game Achievements:
   Description: Play for 72 hours
   GS: '20'
   Guide: false
-  Number of Gamers: 8
+  Number of Gamers: 15
   Percentage of Gamers: 1%
-  Ratio: 9.39
-  TA: '187'
+  Ratio: 9.77
+  TA: '195'
   Tags:
   - Online/Offline
   - Single Player
@@ -49,11 +49,11 @@ Base Game Achievements:
 - Achievement Name: Lifer
   Description: Play for one week/168 hours
   GS: '50'
-  Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 0%
-  Ratio: 15.34
-  TA: '767'
+  Guide: true
+  Number of Gamers: 8
+  Percentage of Gamers: 1%
+  Ratio: 13.37
+  TA: '668'
   Tags:
   - Online/Offline
   - Single Player
@@ -64,19 +64,19 @@ Base Game Achievements:
   Description: Create a team for the first time
   GS: '10'
   Guide: false
-  Number of Gamers: 377
-  Percentage of Gamers: 53%
-  Ratio: 1.37
-  TA: '13'
+  Number of Gamers: 681
+  Percentage of Gamers: 48%
+  Ratio: 1.45
+  TA: '14'
   Tags:
-  - Online Mode
+  - Offline Game Mode
   - Single Player
 - Achievement Name: Challenger
   Description: Use a user-created team online
   GS: '20'
-  Guide: false
-  Number of Gamers: 39
-  Percentage of Gamers: 5%
+  Guide: true
+  Number of Gamers: 79
+  Percentage of Gamers: 6%
   Ratio: 4.25
   TA: '85'
   Tags:
@@ -85,11 +85,11 @@ Base Game Achievements:
 - Achievement Name: 100 wins
   Description: Defeat 100 players online
   GS: '100'
-  Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '100'
+  Guide: true
+  Number of Gamers: 3
+  Percentage of Gamers: 0%
+  Ratio: 21.84
+  TA: 2,184
   Tags:
   - Online Mode
   - Versus
@@ -98,10 +98,10 @@ Base Game Achievements:
   Description: Gain 200 rushing yards and 200 passing yards in the same game
   GS: '20'
   Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 4%
-  Ratio: 4.77
-  TA: '95'
+  Number of Gamers: 69
+  Percentage of Gamers: 5%
+  Ratio: 4.55
+  TA: '91'
   Tags:
   - Online/Offline
   - Single Player
@@ -110,9 +110,9 @@ Base Game Achievements:
   Description: Call an audible
   GS: '10'
   Guide: false
-  Number of Gamers: 527
-  Percentage of Gamers: 74%
-  Ratio: 1.16
+  Number of Gamers: 1027
+  Percentage of Gamers: 72%
+  Ratio: 1.18
   TA: '11'
   Tags:
   - Online/Offline
@@ -122,9 +122,9 @@ Base Game Achievements:
   Description: View a replay of a play in any game
   GS: '10'
   Guide: false
-  Number of Gamers: 220
-  Percentage of Gamers: 31%
-  Ratio: 1.8
+  Number of Gamers: 398
+  Percentage of Gamers: 28%
+  Ratio: 1.89
   TA: '18'
   Tags:
   - Offline Game Mode
@@ -132,10 +132,10 @@ Base Game Achievements:
 - Achievement Name: Setting the mark
   Description: Get your first running touchdown of 10 or more yards
   GS: '10'
-  Guide: false
-  Number of Gamers: 186
+  Guide: true
+  Number of Gamers: 379
   Percentage of Gamers: 26%
-  Ratio: 1.95
+  Ratio: 1.94
   TA: '19'
   Tags:
   - Online/Offline
@@ -145,9 +145,9 @@ Base Game Achievements:
   Description: Complete a pass for 50 or more yards
   GS: '20'
   Guide: false
-  Number of Gamers: 263
+  Number of Gamers: 534
   Percentage of Gamers: 37%
-  Ratio: 1.64
+  Ratio: 1.63
   TA: '32'
   Tags:
   - Online/Offline
@@ -157,10 +157,10 @@ Base Game Achievements:
   Description: Win a game by 40 or more points
   GS: '15'
   Guide: false
-  Number of Gamers: 43
+  Number of Gamers: 90
   Percentage of Gamers: 6%
-  Ratio: 4.05
-  TA: '60'
+  Ratio: 3.98
+  TA: '59'
   Tags:
   - Online/Offline
   - Single Player
@@ -168,11 +168,11 @@ Base Game Achievements:
 - Achievement Name: Get to the 20!
   Description: Get 20 yards on one run on your opponent's side of field
   GS: '20'
-  Guide: false
-  Number of Gamers: 179
-  Percentage of Gamers: 25%
-  Ratio: 1.99
-  TA: '39'
+  Guide: true
+  Number of Gamers: 386
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '38'
   Tags:
   - Online/Offline
   - Single Player
@@ -181,10 +181,10 @@ Base Game Achievements:
   Description: Get a recruit to extreme interest
   GS: '10'
   Guide: false
-  Number of Gamers: 6
+  Number of Gamers: 19
   Percentage of Gamers: 1%
-  Ratio: 10.84
-  TA: '108'
+  Ratio: 8.68
+  TA: '86'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -192,10 +192,10 @@ Base Game Achievements:
   Description: Get a recruit to visit campus
   GS: '10'
   Guide: false
-  Number of Gamers: 7
+  Number of Gamers: 10
   Percentage of Gamers: 1%
-  Ratio: 10.04
-  TA: '100'
+  Ratio: 11.96
+  TA: '119'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -203,10 +203,10 @@ Base Game Achievements:
   Description: Successfully sway a recruit from another program
   GS: '10'
   Guide: false
-  Number of Gamers: 23
+  Number of Gamers: 43
   Percentage of Gamers: 3%
-  Ratio: 5.54
-  TA: '55'
+  Ratio: 5.77
+  TA: '57'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -215,10 +215,10 @@ Base Game Achievements:
     mode'
   GS: '15'
   Guide: false
-  Number of Gamers: 13
+  Number of Gamers: 30
   Percentage of Gamers: 2%
-  Ratio: 7.36
-  TA: '110'
+  Ratio: 6.9
+  TA: '103'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -226,9 +226,9 @@ Base Game Achievements:
   Description: Win the High School all star game in any Gridiron mode
   GS: '15'
   Guide: false
-  Number of Gamers: 12
+  Number of Gamers: 24
   Percentage of Gamers: 2%
-  Ratio: 7.67
+  Ratio: 7.72
   TA: '115'
   Tags:
   - Offline Game Mode
@@ -237,10 +237,10 @@ Base Game Achievements:
   Description: Win a player accolade/trophy in any Gridiron mode
   GS: '15'
   Guide: false
-  Number of Gamers: 29
-  Percentage of Gamers: 4%
-  Ratio: 4.93
-  TA: '74'
+  Number of Gamers: 67
+  Percentage of Gamers: 5%
+  Ratio: 4.62
+  TA: '69'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -248,10 +248,10 @@ Base Game Achievements:
   Description: Reach the maximum Charisma for a Coach in any Gridiron mode
   GS: '20'
   Guide: false
-  Number of Gamers: 36
-  Percentage of Gamers: 5%
-  Ratio: 4.42
-  TA: '88'
+  Number of Gamers: 62
+  Percentage of Gamers: 4%
+  Ratio: 4.8
+  TA: '96'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -259,21 +259,21 @@ Base Game Achievements:
   Description: Get an extended contract as Coach in any Gridiron mode
   GS: '20'
   Guide: false
-  Number of Gamers: 18
+  Number of Gamers: 37
   Percentage of Gamers: 3%
-  Ratio: 6.26
-  TA: '125'
+  Ratio: 6.22
+  TA: '124'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Match
   Description: Before visiting, recruiting interest is shown on all attributes
   GS: '20'
-  Guide: false
-  Number of Gamers: 8
+  Guide: true
+  Number of Gamers: 19
   Percentage of Gamers: 1%
-  Ratio: 9.39
-  TA: '187'
+  Ratio: 8.68
+  TA: '173'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -281,10 +281,10 @@ Base Game Achievements:
   Description: Add a new stadium in any gridiron mode
   GS: '25'
   Guide: false
-  Number of Gamers: 8
+  Number of Gamers: 12
   Percentage of Gamers: 1%
-  Ratio: 9.39
-  TA: '234'
+  Ratio: 10.92
+  TA: '273'
   Tags:
   - Offline Mode
   - Single Player
@@ -293,10 +293,10 @@ Base Game Achievements:
   Description: Upgrade a stadium to tier 2 in any Gridiron mode
   GS: '40'
   Guide: false
-  Number of Gamers: 78
-  Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '120'
+  Number of Gamers: 149
+  Percentage of Gamers: 10%
+  Ratio: 3.1
+  TA: '124'
   Tags:
   - Offline Mode
   - Single Player
@@ -305,10 +305,10 @@ Base Game Achievements:
   Description: Upgrade a stadium to the top tier in any Gridiron mode
   GS: '50'
   Guide: false
-  Number of Gamers: 66
+  Number of Gamers: 124
   Percentage of Gamers: 9%
-  Ratio: 3.27
-  TA: '163'
+  Ratio: 3.39
+  TA: '169'
   Tags:
   - Offline Mode
   - Single Player
@@ -319,8 +319,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 2
   Percentage of Gamers: 0%
-  Ratio: 18.78
-  TA: '939'
+  Ratio: 26.75
+  TA: 1,337
   Tags:
   - Offline Mode
   - Single Player
@@ -331,8 +331,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 2
   Percentage of Gamers: 0%
-  Ratio: 18.78
-  TA: '939'
+  Ratio: 26.75
+  TA: 1,337
   Tags:
   - Offline Mode
   - Single Player
@@ -343,8 +343,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 2
   Percentage of Gamers: 0%
-  Ratio: 18.78
-  TA: '939'
+  Ratio: 26.75
+  TA: 1,337
   Tags:
   - Offline Mode
   - Single Player
@@ -355,8 +355,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 2
   Percentage of Gamers: 0%
-  Ratio: 18.78
-  TA: '939'
+  Ratio: 26.75
+  TA: 1,337
   Tags:
   - Offline Mode
   - Single Player
@@ -365,10 +365,10 @@ Base Game Achievements:
   Description: Max all Blocking Facilities in any Gridiron mode
   GS: '50'
   Guide: false
-  Number of Gamers: 1
+  Number of Gamers: 2
   Percentage of Gamers: 0%
-  Ratio: 26.57
-  TA: 1,328
+  Ratio: 26.75
+  TA: 1,337
   Tags:
   - Offline Mode
   - Single Player
@@ -377,10 +377,10 @@ Base Game Achievements:
   Description: Max all Defensive Facilities in any Gridiron mode
   GS: '50'
   Guide: false
-  Number of Gamers: 1
+  Number of Gamers: 2
   Percentage of Gamers: 0%
-  Ratio: 26.57
-  TA: 1,328
+  Ratio: 26.75
+  TA: 1,337
   Tags:
   - Offline Mode
   - Single Player
@@ -389,10 +389,10 @@ Base Game Achievements:
   Description: Max all special teams Facilities in any Gridiron mode
   GS: '50'
   Guide: false
-  Number of Gamers: 1
+  Number of Gamers: 2
   Percentage of Gamers: 0%
-  Ratio: 26.57
-  TA: 1,328
+  Ratio: 26.75
+  TA: 1,337
   Tags:
   - Offline Mode
   - Single Player
@@ -400,11 +400,11 @@ Base Game Achievements:
 - Achievement Name: MAXIMUM
   Description: Max out all Facilities trees in any Gridiron mode
   GS: '50'
-  Guide: false
-  Number of Gamers: 1
+  Guide: true
+  Number of Gamers: 2
   Percentage of Gamers: 0%
-  Ratio: 26.57
-  TA: 1,328
+  Ratio: 26.75
+  TA: 1,337
   Tags:
   - Offline Mode
   - Single Player
@@ -413,34 +413,34 @@ Base Game Achievements:
   Description: Win a game by using a custom team
   GS: '20'
   Guide: false
-  Number of Gamers: 86
-  Percentage of Gamers: 12%
-  Ratio: 2.86
-  TA: '57'
+  Number of Gamers: 163
+  Percentage of Gamers: 11%
+  Ratio: 2.96
+  TA: '59'
   Tags:
   - Online/Offline
   - Single Player
   - Versus
-Base Ratio: 12.199
-Base TA: 12199
+Base Ratio: 15.862
+Base TA: 15862
 Delisted: false
 Developer: Maximum Entertainment
 Game Name: Maximum Football
 Genres: Sports, American Football
 Install Size: 9550.0
-Number of Completions: 0
-Number of Gamers: 712
+Number of Completions: 2
+Number of Gamers: 1432
 Overall Completion Time:
-- -1
-- -1
+- 549
+- 550
 Overall GS: 1000
-Overall Ratio: 12.199
-Overall TA: 12199
+Overall Ratio: 15.862
+Overall TA: 15862
 PDU: 0
-Percentage Completed: 0.0
+Percentage Completed: 0.14
 Publisher: Maximum Entertainment
 Release Date: 17 June 2025
 Server Closure: false
-Site Rating: 3.67
+Site Rating: 3.4
 Update Achievements: []
 Walkthrough: false

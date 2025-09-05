@@ -1,29 +1,28 @@
 Add On Achievements: []
 Base Completion Time:
-- 14
-- 15
+- 22
+- 23
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: "Let's end this\u2026 Together!"
   Description: Defeat the Necromancer
   GS: '90'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 2%
-  Ratio: 6.51
-  TA: '586'
+  Number of Gamers: 4
+  Percentage of Gamers: 4%
+  Ratio: 5.12
+  TA: '461'
   Tags:
-  - Offline Mode
+  - Offline Game Mode
   - Single Player
-  - Main Storyline
 - Achievement Name: No matter the cost
   Description: Resurrect Koko
   GS: '90'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 5%
-  Ratio: 4.6
-  TA: '414'
+  Number of Gamers: 7
+  Percentage of Gamers: 7%
+  Ratio: 3.87
+  TA: '348'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,22 +31,22 @@ Base Game Achievements:
   Description: See all the memories
   GS: '80'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 4%
-  Ratio: 5.32
-  TA: '425'
+  Number of Gamers: 5
+  Percentage of Gamers: 5%
+  Ratio: 4.58
+  TA: '366'
   Tags:
   - Offline Mode
   - Single Player
-  - Collectable
+  - Main Storyline
 - Achievement Name: To catch them is my real test
   Description: Revive 30 different types of monster
   GS: '80'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 2%
-  Ratio: 6.51
-  TA: '521'
+  Number of Gamers: 5
+  Percentage of Gamers: 5%
+  Ratio: 4.58
+  TA: '366'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -55,10 +54,10 @@ Base Game Achievements:
   Description: Get a monster to max rank
   GS: '80'
   Guide: true
-  Number of Gamers: 5
-  Percentage of Gamers: 6%
-  Ratio: 4.12
-  TA: '329'
+  Number of Gamers: 9
+  Percentage of Gamers: 9%
+  Ratio: 3.41
+  TA: '273'
   Tags:
   - Offline Mode
   - Single Player
@@ -67,8 +66,8 @@ Base Game Achievements:
   Description: Get the Sword of the Necromancer
   GS: '80'
   Guide: false
-  Number of Gamers: 82
-  Percentage of Gamers: 96%
+  Number of Gamers: 102
+  Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '81'
   Tags:
@@ -79,10 +78,10 @@ Base Game Achievements:
   Description: Get rid of the Sword of the Necromancer
   GS: '80'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 1%
-  Ratio: 9.21
-  TA: '737'
+  Number of Gamers: 3
+  Percentage of Gamers: 3%
+  Ratio: 5.91
+  TA: '473'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -90,10 +89,10 @@ Base Game Achievements:
   Description: Find all the hidden chests
   GS: '30'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 1%
-  Ratio: 9.21
-  TA: '276'
+  Number of Gamers: 3
+  Percentage of Gamers: 3%
+  Ratio: 5.91
+  TA: '177'
   Tags:
   - Offline Mode
   - Single Player
@@ -101,11 +100,11 @@ Base Game Achievements:
 - Achievement Name: Monster Hunter
   Description: Get all elemental variants of a monster
   GS: '30'
-  Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 11%
-  Ratio: 3.07
-  TA: '92'
+  Guide: true
+  Number of Gamers: 13
+  Percentage of Gamers: 12%
+  Ratio: 2.84
+  TA: '85'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -113,10 +112,10 @@ Base Game Achievements:
   Description: Get the character to the maximum level
   GS: '30'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 4%
-  Ratio: 5.32
-  TA: '159'
+  Number of Gamers: 5
+  Percentage of Gamers: 5%
+  Ratio: 4.58
+  TA: '137'
   Tags:
   - Offline Mode
   - Single Player
@@ -125,10 +124,10 @@ Base Game Achievements:
   Description: Kill 300 enemies
   GS: '30'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 11%
-  Ratio: 3.07
-  TA: '92'
+  Number of Gamers: 15
+  Percentage of Gamers: 14%
+  Ratio: 2.64
+  TA: '79'
   Tags:
   - Offline Mode
   - Single Player
@@ -137,10 +136,10 @@ Base Game Achievements:
   Description: Kill 1000 enemies
   GS: '30'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 5%
-  Ratio: 4.6
-  TA: '138'
+  Number of Gamers: 6
+  Percentage of Gamers: 6%
+  Ratio: 4.18
+  TA: '125'
   Tags:
   - Offline Mode
   - Single Player
@@ -149,10 +148,10 @@ Base Game Achievements:
   Description: Clear a dungeon floor without summoning a monster
   GS: '30'
   Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 35%
-  Ratio: 1.68
-  TA: '50'
+  Number of Gamers: 41
+  Percentage of Gamers: 39%
+  Ratio: 1.6
+  TA: '48'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -160,10 +159,10 @@ Base Game Achievements:
   Description: Have 3 monsters summoned at the same time
   GS: '30'
   Guide: false
-  Number of Gamers: 55
-  Percentage of Gamers: 65%
-  Ratio: 1.24
-  TA: '37'
+  Number of Gamers: 71
+  Percentage of Gamers: 68%
+  Ratio: 1.21
+  TA: '36'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -171,10 +170,10 @@ Base Game Achievements:
   Description: Modify Equipment using the Forge
   GS: '30'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 20%
-  Ratio: 2.23
-  TA: '67'
+  Number of Gamers: 25
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '61'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -182,10 +181,10 @@ Base Game Achievements:
   Description: Clear a dungeon floor without taking damage
   GS: '30'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 15%
-  Ratio: 2.55
-  TA: '76'
+  Number of Gamers: 21
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '67'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -193,10 +192,10 @@ Base Game Achievements:
   Description: Obtain 50 medals
   GS: '30'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 2%
-  Ratio: 6.51
-  TA: '195'
+  Number of Gamers: 5
+  Percentage of Gamers: 5%
+  Ratio: 4.58
+  TA: '137'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -204,10 +203,10 @@ Base Game Achievements:
   Description: Obtain all the medals in a level
   GS: '15'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 9%
-  Ratio: 3.25
-  TA: '48'
+  Number of Gamers: 17
+  Percentage of Gamers: 16%
+  Ratio: 2.48
+  TA: '37'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -215,10 +214,10 @@ Base Game Achievements:
   Description: Perform 10 Critical Attacks
   GS: '15'
   Guide: false
-  Number of Gamers: 51
-  Percentage of Gamers: 60%
-  Ratio: 1.29
-  TA: '19'
+  Number of Gamers: 66
+  Percentage of Gamers: 63%
+  Ratio: 1.26
+  TA: '18'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -226,10 +225,10 @@ Base Game Achievements:
   Description: Perform 10 Charged Attacks
   GS: '15'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 21%
-  Ratio: 2.17
-  TA: '32'
+  Number of Gamers: 25
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '30'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -237,21 +236,21 @@ Base Game Achievements:
   Description: Deflect 10 magic attacks
   GS: '15'
   Guide: true
-  Number of Gamers: 1
-  Percentage of Gamers: 1%
-  Ratio: 9.21
-  TA: '138'
+  Number of Gamers: 4
+  Percentage of Gamers: 4%
+  Ratio: 5.12
+  TA: '76'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Useless! Useless!
   Description: Perform 10 perfect dribbles
   GS: '15'
-  Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 15%
-  Ratio: 2.55
-  TA: '38'
+  Guide: true
+  Number of Gamers: 18
+  Percentage of Gamers: 17%
+  Ratio: 2.41
+  TA: '36'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -259,9 +258,9 @@ Base Game Achievements:
   Description: Edit a Monster's Tactics
   GS: '15'
   Guide: false
-  Number of Gamers: 56
-  Percentage of Gamers: 66%
-  Ratio: 1.23
+  Number of Gamers: 71
+  Percentage of Gamers: 68%
+  Ratio: 1.21
   TA: '18'
   Tags:
   - Offline Game Mode
@@ -270,8 +269,8 @@ Base Game Achievements:
   Description: Kill an enemy with a single blow
   GS: '15'
   Guide: false
-  Number of Gamers: 76
-  Percentage of Gamers: 89%
+  Number of Gamers: 95
+  Percentage of Gamers: 90%
   Ratio: 1.05
   TA: '15'
   Tags:
@@ -281,30 +280,31 @@ Base Game Achievements:
   Description: Find the Priestess Staff
   GS: '15'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 1%
-  Ratio: 9.21
-  TA: '138'
+  Number of Gamers: 3
+  Percentage of Gamers: 3%
+  Ratio: 5.91
+  TA: '88'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
-Base Ratio: 4.721
-Base TA: 4721
+  - Collectable
+Base Ratio: 3.638
+Base TA: 3638
 Delisted: false
 Developer: Grimorio of Games
 Game Name: 'Sword of the Necromancer: Resurrection'
 Genres: Action-RPG, Role Playing
 Install Size: 3310.0
-Number of Completions: 1
-Number of Gamers: 85
+Number of Completions: 3
+Number of Gamers: 105
 Overall Completion Time:
-- 14
-- 15
+- 22
+- 23
 Overall GS: 1000
-Overall Ratio: 4.721
-Overall TA: 4721
+Overall Ratio: 3.638
+Overall TA: 3638
 PDU: 0
-Percentage Completed: 1.18
+Percentage Completed: 2.86
 Publisher: Grimorio of Games
 Release Date: 23 January 2025
 Server Closure: false

@@ -1,452 +1,586 @@
 Add On Achievements: []
 Base Completion Time:
-- 18
-- 19
+- 16
+- 17
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Saviour of Riverside
   Description: Accomplish all achievements!
   GS: '200'
   Guide: true
-  Number of Gamers: 8
-  Percentage of Gamers: 5%
-  Ratio: 4.48
-  TA: '897'
-  Tags: []
+  Number of Gamers: 25
+  Percentage of Gamers: 10%
+  Ratio: 3.11
+  TA: '622'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+  - Level
+  - Shop
 - Achievement Name: The first swap
   Description: Swap for the first time!
   GS: '10'
   Guide: false
-  Number of Gamers: 160
-  Percentage of Gamers: 99%
+  Number of Gamers: 242
+  Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Cant stop to swap
   Description: Swap 100 times!
   GS: '10'
   Guide: false
-  Number of Gamers: 72
+  Number of Gamers: 108
   Percentage of Gamers: 44%
   Ratio: 1.49
   TA: '14'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Swap until you drop
   Description: Swap 1001 times!
   GS: '22'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 8%
-  Ratio: 3.51
-  TA: '77'
-  Tags: []
+  Number of Gamers: 27
+  Percentage of Gamers: 11%
+  Ratio: 2.99
+  TA: '65'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Big or small
   Description: Open the entrance to the World Core!
   GS: '10'
   Guide: false
-  Number of Gamers: 77
-  Percentage of Gamers: 48%
-  Ratio: 1.44
+  Number of Gamers: 111
+  Percentage of Gamers: 46%
+  Ratio: 1.47
   TA: '14'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Happy customers
   Description: Swap the customers paintings!
   GS: '10'
   Guide: false
-  Number of Gamers: 156
-  Percentage of Gamers: 96%
-  Ratio: 1.01
+  Number of Gamers: 230
+  Percentage of Gamers: 95%
+  Ratio: 1.02
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Legendary gems!
   Description: Bring one legendary gem to Sir Eddlers shop!
   GS: '10'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 7%
-  Ratio: 3.82
-  TA: '38'
-  Tags: []
+  Number of Gamers: 26
+  Percentage of Gamers: 11%
+  Ratio: 3.17
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: More legendary gems!
   Description: Bring all legendary gems to Sir Eddlers shop!
   GS: '22'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 3%
-  Ratio: 5.67
-  TA: '124'
-  Tags: []
+  Number of Gamers: 14
+  Percentage of Gamers: 6%
+  Ratio: 4.15
+  TA: '91'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: A well dressed bear
   Description: Buy all capes in Riverside!
   GS: '10'
   Guide: false
-  Number of Gamers: 45
-  Percentage of Gamers: 28%
-  Ratio: 1.89
-  TA: '18'
-  Tags: []
+  Number of Gamers: 65
+  Percentage of Gamers: 27%
+  Ratio: 1.94
+  TA: '19'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
 - Achievement Name: Casino King
   Description: Level up all capes to the maximum!
   GS: '10'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 5%
-  Ratio: 4.48
-  TA: '44'
-  Tags: []
+  Number of Gamers: 20
+  Percentage of Gamers: 8%
+  Ratio: 3.47
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
 - Achievement Name: First dreamstone
   Description: Deliver one dreamstone to Pix!
   GS: '10'
   Guide: false
-  Number of Gamers: 54
-  Percentage of Gamers: 33%
-  Ratio: 1.72
+  Number of Gamers: 76
+  Percentage of Gamers: 31%
+  Ratio: 1.78
   TA: '17'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: All dreamstones
   Description: Deliver all dreamstones to Pix!
   GS: '22'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 3%
-  Ratio: 5.67
-  TA: '124'
-  Tags: []
+  Number of Gamers: 15
+  Percentage of Gamers: 6%
+  Ratio: 4.01
+  TA: '88'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: My paintings, my world
   Description: Paint every dreamstone texture!
   GS: '10'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 3%
-  Ratio: 5.67
-  TA: '56'
-  Tags: []
+  Number of Gamers: 14
+  Percentage of Gamers: 6%
+  Ratio: 4.15
+  TA: '41'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: An island from the sea
   Description: Summon Moon Island!
   GS: '10'
   Guide: false
-  Number of Gamers: 44
+  Number of Gamers: 66
   Percentage of Gamers: 27%
   Ratio: 1.91
   TA: '19'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Through the jungle
   Description: Make it through the jungle to the pyramide!
   GS: '10'
   Guide: false
-  Number of Gamers: 44
+  Number of Gamers: 65
   Percentage of Gamers: 27%
-  Ratio: 1.91
+  Ratio: 1.92
   TA: '19'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Fast as a farmer
   Description: Win the race at the farm!
   GS: '10'
   Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 19%
-  Ratio: 2.27
+  Number of Gamers: 51
+  Percentage of Gamers: 21%
+  Ratio: 2.2
   TA: '22'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Open sesame
   Description: Open the crypt in the Realm of the Dead!
   GS: '10'
   Guide: false
-  Number of Gamers: 28
-  Percentage of Gamers: 17%
-  Ratio: 2.39
-  TA: '23'
-  Tags: []
+  Number of Gamers: 47
+  Percentage of Gamers: 19%
+  Ratio: 2.26
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Wondrous Woods
   Description: Make it through the Wondrous Woods!
   GS: '10'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 16%
-  Ratio: 2.48
-  TA: '24'
-  Tags: []
+  Number of Gamers: 45
+  Percentage of Gamers: 19%
+  Ratio: 2.31
+  TA: '23'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Ring the bell
   Description: Ring the heavenly bell at the Steep Games!
   GS: '10'
   Guide: false
-  Number of Gamers: 22
-  Percentage of Gamers: 14%
-  Ratio: 2.7
-  TA: '27'
-  Tags: []
+  Number of Gamers: 40
+  Percentage of Gamers: 16%
+  Ratio: 2.45
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Well deserved
   Description: Defeat Groll in the canyon!
   GS: '22'
   Guide: false
-  Number of Gamers: 20
-  Percentage of Gamers: 12%
-  Ratio: 2.83
-  TA: '62'
-  Tags: []
+  Number of Gamers: 39
+  Percentage of Gamers: 16%
+  Ratio: 2.49
+  TA: '54'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Heart of gold
   Description: Heal Groll, even if he doesn`t deserve it!
   GS: '10'
   Guide: false
-  Number of Gamers: 20
-  Percentage of Gamers: 12%
-  Ratio: 2.83
-  TA: '28'
-  Tags: []
+  Number of Gamers: 39
+  Percentage of Gamers: 16%
+  Ratio: 2.49
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Pet Sounds
   Description: Find Methoks Etoi!
   GS: '10'
   Guide: false
-  Number of Gamers: 19
-  Percentage of Gamers: 12%
-  Ratio: 2.91
-  TA: '29'
-  Tags: []
+  Number of Gamers: 37
+  Percentage of Gamers: 15%
+  Ratio: 2.55
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Friends and foes
   Description: Defeat and heal Silya!
   GS: '10'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 10%
-  Ratio: 3.07
-  TA: '30'
-  Tags: []
+  Number of Gamers: 36
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: The Emblem
   Description: Fix the Emblem!
   GS: '22'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 10%
-  Ratio: 3.07
-  TA: '67'
-  Tags: []
+  Number of Gamers: 36
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '57'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Defeat Groll. Again.
   Description: Defeat Groll in the endfight!
   GS: '22'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 10%
-  Ratio: 3.07
-  TA: '67'
-  Tags: []
+  Number of Gamers: 35
+  Percentage of Gamers: 14%
+  Ratio: 2.62
+  TA: '57'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Is this really the end?
   Description: Find out about Grolls return!
   GS: '50'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 10%
-  Ratio: 3.17
-  TA: '158'
-  Tags: []
+  Number of Gamers: 33
+  Percentage of Gamers: 14%
+  Ratio: 2.7
+  TA: '135'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
 - Achievement Name: Mushroom Maniac
   Description: Solve all mushroom puzzles!
   GS: '10'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 4%
-  Ratio: 4.79
-  TA: '47'
-  Tags: []
+  Number of Gamers: 20
+  Percentage of Gamers: 8%
+  Ratio: 3.47
+  TA: '34'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Enlightment!
   Description: Solve one riddle at the sepents boards!
   GS: '10'
   Guide: false
-  Number of Gamers: 45
-  Percentage of Gamers: 28%
-  Ratio: 1.89
-  TA: '18'
-  Tags: []
+  Number of Gamers: 65
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '19'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Big enlighment!
   Description: Stop Sir Eddler from digging out the gem!
   GS: '50'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 5%
-  Ratio: 4.48
-  TA: '224'
-  Tags: []
+  Number of Gamers: 19
+  Percentage of Gamers: 8%
+  Ratio: 3.56
+  TA: '178'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Not too light, not too heavy
   Description: Master the bale rally!
   GS: '10'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 8%
-  Ratio: 3.51
-  TA: '35'
-  Tags: []
+  Number of Gamers: 22
+  Percentage of Gamers: 9%
+  Ratio: 3.31
+  TA: '33'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Little cheater
   Description: Win against one of the Five Fellows!
   GS: '10'
   Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 14%
-  Ratio: 2.64
-  TA: '26'
-  Tags: []
+  Number of Gamers: 40
+  Percentage of Gamers: 16%
+  Ratio: 2.49
+  TA: '24'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Big cheater
   Description: Win against all of the Five Fellows!
   GS: '22'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 9%
-  Ratio: 3.27
-  TA: '72'
-  Tags: []
+  Number of Gamers: 28
+  Percentage of Gamers: 12%
+  Ratio: 2.99
+  TA: '65'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: I love Etoi
   Description: Find one hidden Etoi!
   GS: '10'
   Guide: false
-  Number of Gamers: 96
-  Percentage of Gamers: 59%
-  Ratio: 1.29
-  TA: '12'
-  Tags: []
+  Number of Gamers: 142
+  Percentage of Gamers: 58%
+  Ratio: 1.3
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: I love all Etoi
   Description: Find all hidden Etoi!
   GS: '50'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 3%
-  Ratio: 5.67
-  TA: '283'
-  Tags: []
+  Number of Gamers: 14
+  Percentage of Gamers: 6%
+  Ratio: 4.15
+  TA: '207'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Mr. Clean
   Description: Clean one dirty area!
   GS: '10'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 7%
-  Ratio: 3.82
-  TA: '38'
-  Tags: []
+  Number of Gamers: 27
+  Percentage of Gamers: 11%
+  Ratio: 2.99
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Clean country
   Description: Clean all dirty areas!
   GS: '22'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 3%
-  Ratio: 5.67
-  TA: '124'
-  Tags: []
+  Number of Gamers: 14
+  Percentage of Gamers: 6%
+  Ratio: 4.15
+  TA: '91'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: I am a scientist now
   Description: Find out about all northland stories!
   GS: '10'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 3%
-  Ratio: 5.67
-  TA: '56'
-  Tags: []
+  Number of Gamers: 16
+  Percentage of Gamers: 7%
+  Ratio: 3.88
+  TA: '38'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: I see patterns
   Description: Solve one Pattern Potato!
   GS: '10'
   Guide: false
-  Number of Gamers: 78
-  Percentage of Gamers: 48%
-  Ratio: 1.43
+  Number of Gamers: 114
+  Percentage of Gamers: 47%
+  Ratio: 1.45
   TA: '14'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: I see too many patterns
   Description: Solve all Pattern Potatoes!
   GS: '22'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 4%
-  Ratio: 5.18
-  TA: '113'
-  Tags: []
+  Number of Gamers: 17
+  Percentage of Gamers: 7%
+  Ratio: 3.77
+  TA: '83'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Lepidopteran brother
   Description: Collect one butterfly!
   GS: '10'
   Guide: false
-  Number of Gamers: 141
-  Percentage of Gamers: 87%
-  Ratio: 1.06
-  TA: '10'
-  Tags: []
+  Number of Gamers: 201
+  Percentage of Gamers: 83%
+  Ratio: 1.1
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Lepidopteran nerd
   Description: Collect all butterflies!
   GS: '50'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 3%
-  Ratio: 5.67
-  TA: '283'
-  Tags: []
+  Number of Gamers: 16
+  Percentage of Gamers: 7%
+  Ratio: 3.88
+  TA: '194'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Sacred Letter R
   Description: Collect the Sacred Letter "R"!
   GS: '22'
   Guide: false
-  Number of Gamers: 43
-  Percentage of Gamers: 27%
-  Ratio: 1.93
+  Number of Gamers: 64
+  Percentage of Gamers: 26%
+  Ratio: 1.94
   TA: '42'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Sacred Letter I
   Description: Collect the Sacred Letter "I"!
   GS: '22'
   Guide: false
-  Number of Gamers: 19
-  Percentage of Gamers: 12%
-  Ratio: 2.91
-  TA: '64'
-  Tags: []
+  Number of Gamers: 37
+  Percentage of Gamers: 15%
+  Ratio: 2.55
+  TA: '56'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Sacred Letter V
   Description: Collect the Sacred Letter "V"!
   GS: '22'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 10%
-  Ratio: 3.07
-  TA: '67'
-  Tags: []
+  Number of Gamers: 36
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '57'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Sacred Letter E
   Description: Collect the Sacred Letter "E"!
   GS: '22'
   Guide: false
-  Number of Gamers: 28
-  Percentage of Gamers: 17%
-  Ratio: 2.39
-  TA: '52'
-  Tags: []
+  Number of Gamers: 47
+  Percentage of Gamers: 19%
+  Ratio: 2.26
+  TA: '49'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Sacred Letter S
   Description: Collect the Sacred Letter "S"!
   GS: '22'
   Guide: false
-  Number of Gamers: 25
-  Percentage of Gamers: 15%
-  Ratio: 2.53
-  TA: '55'
-  Tags: []
+  Number of Gamers: 45
+  Percentage of Gamers: 19%
+  Ratio: 2.31
+  TA: '51'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Sacred Letter D
   Description: Collect the Sacred Letter "D"!
   GS: '22'
   Guide: false
-  Number of Gamers: 21
-  Percentage of Gamers: 13%
-  Ratio: 2.76
-  TA: '60'
-  Tags: []
-Base Ratio: 3.713
-Base TA: 3713
+  Number of Gamers: 40
+  Percentage of Gamers: 16%
+  Ratio: 2.45
+  TA: '54'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+Base Ratio: 2.904
+Base TA: 2904
 Delisted: false
 Developer: Zockrates Laboratories
 Game Name: Ruffy and the Riverside
 Genres: Action-Adventure
 Install Size: 4380.0
-Number of Completions: 5
-Number of Gamers: 162
+Number of Completions: 14
+Number of Gamers: 243
 Overall Completion Time:
-- 18
-- 19
+- 16
+- 17
 Overall GS: 1000
-Overall Ratio: 3.713
-Overall TA: 3713
+Overall Ratio: 2.904
+Overall TA: 2904
 PDU: 0
-Percentage Completed: 3.09
+Percentage Completed: 5.76
 Publisher: Phiphen Games
 Release Date: 26 June 2025
 Server Closure: false
-Site Rating: 4.0
+Site Rating: 4.2
 Update Achievements: []
 Walkthrough: false

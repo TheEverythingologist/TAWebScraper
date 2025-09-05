@@ -8,203 +8,274 @@ Base Game Achievements:
   Description: Score 100 goals.
   GS: '60'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 8%
-  Ratio: 3.6
-  TA: '216'
-  Tags: []
+  Number of Gamers: 6
+  Percentage of Gamers: 11%
+  Ratio: 3.08
+  TA: '184'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
 - Achievement Name: Impenetrable wall
   Description: Perform 500 tackles
   GS: '60'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 15%
-  Ratio: 2.54
-  TA: '152'
-  Tags: []
+  Number of Gamers: 11
+  Percentage of Gamers: 19%
+  Ratio: 2.27
+  TA: '136'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
 - Achievement Name: Master of the pass
   Description: Complete 500 passes
   GS: '60'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 10%
-  Ratio: 3.12
-  TA: '187'
-  Tags: []
+  Number of Gamers: 9
+  Percentage of Gamers: 16%
+  Ratio: 2.51
+  TA: '150'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
 - Achievement Name: Cinephile
   Description: Watch all the game's cinematics.
   GS: '40'
   Guide: false
   Number of Gamers: 2
-  Percentage of Gamers: 5%
-  Ratio: 4.41
-  TA: '176'
-  Tags: []
+  Percentage of Gamers: 4%
+  Ratio: 5.33
+  TA: '213'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Bad shot
   Description: Complete the 3 levels with Franky, Poppy, and Mutombo without upgrading
     the power stat.
   GS: '30'
   Guide: false
-  Number of Gamers: 2
+  Number of Gamers: 3
   Percentage of Gamers: 5%
-  Ratio: 4.41
-  TA: '132'
-  Tags: []
+  Ratio: 4.35
+  TA: '130'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: On the brink
   Description: Win a match with only one heart left.
   GS: '40'
   Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 79%
-  Ratio: 1.12
-  TA: '44'
-  Tags: []
+  Number of Gamers: 41
+  Percentage of Gamers: 72%
+  Ratio: 1.17
+  TA: '47'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
 - Achievement Name: One shot, one opportunity
   Description: Destroy a goalkeeper with a single shot.
   GS: '40'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 13%
-  Ratio: 2.79
-  TA: '111'
-  Tags: []
+  Number of Gamers: 10
+  Percentage of Gamers: 18%
+  Ratio: 2.38
+  TA: '95'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
 - Achievement Name: Unleashed power
   Description: Complete level 3 with all your awakenings fully upgraded.
   GS: '50'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 10%
-  Ratio: 3.12
-  TA: '156'
-  Tags: []
+  Number of Gamers: 9
+  Percentage of Gamers: 16%
+  Ratio: 2.51
+  TA: '125'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Pure talent
   Description: Win a run without upgrading any awakenings.
   GS: '50'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 8%
-  Ratio: 3.6
-  TA: '180'
-  Tags: []
+  Number of Gamers: 5
+  Percentage of Gamers: 9%
+  Ratio: 3.37
+  TA: '168'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Intiate
   Description: Complete the tutorial.
   GS: '20'
   Guide: false
-  Number of Gamers: 39
+  Number of Gamers: 57
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '20'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Legendary rivals
   Description: Face off against a friend in Quick Match mode.
   GS: '50'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 28%
-  Ratio: 1.88
-  TA: '94'
-  Tags: []
+  Number of Gamers: 15
+  Percentage of Gamers: 26%
+  Ratio: 1.94
+  TA: '97'
+  Tags:
+  - Offline Mode
+  - Versus
 - Achievement Name: Legeandry teammates
   Description: Complete all 3 levels with one or more friends in your team.
   GS: '50'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 8%
-  Ratio: 3.6
-  TA: '180'
-  Tags: []
+  Number of Gamers: 4
+  Percentage of Gamers: 7%
+  Ratio: 3.77
+  TA: '188'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Amalgam
   Description: Complete all 3 levels with one awakening of each type.
   GS: '50'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 10%
-  Ratio: 3.12
-  TA: '156'
-  Tags: []
+  Number of Gamers: 9
+  Percentage of Gamers: 16%
+  Ratio: 2.51
+  TA: '125'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Overconfidence
   Description: Complete all 3 levels without buying on E-Shop.
   GS: '50'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 8%
-  Ratio: 3.6
-  TA: '180'
-  Tags: []
+  Number of Gamers: 5
+  Percentage of Gamers: 9%
+  Ratio: 3.37
+  TA: '168'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Conditioning
   Description: Win 3 matches in a row.
   GS: '50'
   Guide: false
-  Number of Gamers: 28
-  Percentage of Gamers: 72%
-  Ratio: 1.18
-  TA: '59'
-  Tags: []
+  Number of Gamers: 38
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '61'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
 - Achievement Name: World class
   Description: Complete all 3 levels with each character as captain.
   GS: '50'
   Guide: false
   Number of Gamers: 2
-  Percentage of Gamers: 5%
-  Ratio: 4.41
-  TA: '220'
-  Tags: []
+  Percentage of Gamers: 4%
+  Ratio: 5.33
+  TA: '266'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: The power of friendship
   Description: Defeat the Football King.
   GS: '50'
   Guide: false
   Number of Gamers: 2
-  Percentage of Gamers: 5%
-  Ratio: 4.41
-  TA: '220'
-  Tags: []
+  Percentage of Gamers: 4%
+  Ratio: 5.33
+  TA: '266'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Amateur
   Description: Reach level 3.
   GS: '50'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 23%
-  Ratio: 2.08
-  TA: '104'
-  Tags: []
+  Number of Gamers: 16
+  Percentage of Gamers: 28%
+  Ratio: 1.88
+  TA: '94'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
 - Achievement Name: Rumblers, assemble
   Description: Unlock all characters.
   GS: '100'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 8%
-  Ratio: 3.6
-  TA: '360'
-  Tags: []
+  Number of Gamers: 7
+  Percentage of Gamers: 12%
+  Ratio: 2.85
+  TA: '285'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Versus
 - Achievement Name: Professional
   Description: Complete all 3 levels.
   GS: '50'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 10%
-  Ratio: 3.12
-  TA: '156'
-  Tags: []
-Base Ratio: 3.103
-Base TA: 3103
+  Number of Gamers: 9
+  Percentage of Gamers: 16%
+  Ratio: 2.51
+  TA: '125'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+Base Ratio: 2.943
+Base TA: 2943
 Delisted: false
 Developer: Mean Mink, Dolores Entertainment
 Game Name: Wild Rumble
 Genres: Sports, Football
 Install Size: 3210.0
 Number of Completions: 2
-Number of Gamers: 39
+Number of Gamers: 57
 Overall Completion Time:
 - 13
 - 14
 Overall GS: 1000
-Overall Ratio: 3.103
-Overall TA: 3103
+Overall Ratio: 2.943
+Overall TA: 2943
 PDU: 0
-Percentage Completed: 5.13
+Percentage Completed: 3.51
 Publisher: Dolores Entertainment
 Release Date: 13 June 2025
 Server Closure: false
-Site Rating: None
+Site Rating: 5.0
 Update Achievements: []
 Walkthrough: false

@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 52
-- 53
+- 44
+- 45
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Basic Training
   Description: Complete the tutorial.
   GS: '15'
   Guide: false
-  Number of Gamers: 135
+  Number of Gamers: 137
   Percentage of Gamers: 84%
   Ratio: 1.09
   TA: '16'
@@ -20,9 +20,9 @@ Base Game Achievements:
   Description: Call in 150 Tactician artillery strikes
   GS: '15'
   Guide: false
-  Number of Gamers: 50
-  Percentage of Gamers: 31%
-  Ratio: 1.79
+  Number of Gamers: 53
+  Percentage of Gamers: 32%
+  Ratio: 1.75
   TA: '26'
   Tags:
   - Offline Mode
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Capture every territory in the campaign
   GS: '30'
   Guide: false
-  Number of Gamers: 65
-  Percentage of Gamers: 40%
-  Ratio: 1.57
-  TA: '47'
+  Number of Gamers: 68
+  Percentage of Gamers: 41%
+  Ratio: 1.55
+  TA: '46'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -43,10 +43,10 @@ Base Game Achievements:
   Description: Mine 5,000 cash from Pumpjacks or Oil Derricks
   GS: '30'
   Guide: false
-  Number of Gamers: 55
-  Percentage of Gamers: 34%
-  Ratio: 1.72
-  TA: '51'
+  Number of Gamers: 58
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '50'
   Tags:
   - Offline Mode
   - Single Player
@@ -55,9 +55,9 @@ Base Game Achievements:
   Description: Kill 150 enemies with Missiles.
   GS: '15'
   Guide: false
-  Number of Gamers: 44
-  Percentage of Gamers: 27%
-  Ratio: 1.91
+  Number of Gamers: 47
+  Percentage of Gamers: 29%
+  Ratio: 1.86
   TA: '28'
   Tags:
   - Offline Mode
@@ -67,9 +67,9 @@ Base Game Achievements:
   Description: Kill 500 enemies with Small Turrets.
   GS: '60'
   Guide: false
-  Number of Gamers: 41
-  Percentage of Gamers: 25%
-  Ratio: 1.98
+  Number of Gamers: 42
+  Percentage of Gamers: 26%
+  Ratio: 1.97
   TA: '118'
   Tags:
   - Offline Mode
@@ -79,10 +79,10 @@ Base Game Achievements:
   Description: LRV spawns Marines 50 times
   GS: '30'
   Guide: false
-  Number of Gamers: 40
-  Percentage of Gamers: 25%
-  Ratio: 2.0
-  TA: '60'
+  Number of Gamers: 43
+  Percentage of Gamers: 26%
+  Ratio: 1.95
+  TA: '58'
   Tags:
   - Offline Mode
   - Single Player
@@ -91,10 +91,10 @@ Base Game Achievements:
   Description: Marines fire 1500 grenades
   GS: '60'
   Guide: false
-  Number of Gamers: 24
+  Number of Gamers: 25
   Percentage of Gamers: 15%
-  Ratio: 2.59
-  TA: '155'
+  Ratio: 2.56
+  TA: '153'
   Tags:
   - Offline Mode
   - Single Player
@@ -103,9 +103,9 @@ Base Game Achievements:
   Description: Shield Pip takes 4000 damage
   GS: '15'
   Guide: false
-  Number of Gamers: 70
-  Percentage of Gamers: 43%
-  Ratio: 1.51
+  Number of Gamers: 73
+  Percentage of Gamers: 45%
+  Ratio: 1.49
   TA: '22'
   Tags:
   - Offline Mode
@@ -115,9 +115,9 @@ Base Game Achievements:
   Description: Sniper kills 100 enemies
   GS: '15'
   Guide: false
-  Number of Gamers: 78
-  Percentage of Gamers: 48%
-  Ratio: 1.44
+  Number of Gamers: 81
+  Percentage of Gamers: 49%
+  Ratio: 1.42
   TA: '21'
   Tags:
   - Offline Mode
@@ -127,10 +127,10 @@ Base Game Achievements:
   Description: Beat Conquest Mode on any difficulty
   GS: '30'
   Guide: false
-  Number of Gamers: 29
-  Percentage of Gamers: 18%
-  Ratio: 2.35
-  TA: '70'
+  Number of Gamers: 31
+  Percentage of Gamers: 19%
+  Ratio: 2.3
+  TA: '69'
   Tags:
   - Offline Mode
   - Single Player
@@ -140,10 +140,10 @@ Base Game Achievements:
   Description: Spawn 200 Vehicles
   GS: '70'
   Guide: false
-  Number of Gamers: 27
+  Number of Gamers: 28
   Percentage of Gamers: 17%
-  Ratio: 2.44
-  TA: '170'
+  Ratio: 2.42
+  TA: '169'
   Tags:
   - Offline Mode
   - Single Player
@@ -152,10 +152,10 @@ Base Game Achievements:
   Description: Spawn 2000 Infantry
   GS: '30'
   Guide: false
-  Number of Gamers: 70
-  Percentage of Gamers: 43%
-  Ratio: 1.51
-  TA: '45'
+  Number of Gamers: 73
+  Percentage of Gamers: 45%
+  Ratio: 1.49
+  TA: '44'
   Tags:
   - Offline Mode
   - Single Player
@@ -164,10 +164,10 @@ Base Game Achievements:
   Description: Spawn 35 Spec Ops Pips
   GS: '30'
   Guide: false
-  Number of Gamers: 32
+  Number of Gamers: 33
   Percentage of Gamers: 20%
-  Ratio: 2.24
-  TA: '67'
+  Ratio: 2.22
+  TA: '66'
   Tags:
   - Offline Mode
   - Single Player
@@ -176,10 +176,10 @@ Base Game Achievements:
   Description: Complete Endless Mode with at least 150k points
   GS: '120'
   Guide: false
-  Number of Gamers: 8
+  Number of Gamers: 9
   Percentage of Gamers: 5%
-  Ratio: 4.48
-  TA: '538'
+  Ratio: 4.26
+  TA: '512'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -187,10 +187,10 @@ Base Game Achievements:
   Description: Complete Endless Mode with at least 50k points
   GS: '30'
   Guide: true
-  Number of Gamers: 22
+  Number of Gamers: 23
   Percentage of Gamers: 14%
-  Ratio: 2.7
-  TA: '81'
+  Ratio: 2.67
+  TA: '80'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -198,10 +198,10 @@ Base Game Achievements:
   Description: Complete Endless Mode with at least 100k points
   GS: '100'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 6%
-  Ratio: 4.01
-  TA: '401'
+  Number of Gamers: 11
+  Percentage of Gamers: 7%
+  Ratio: 3.86
+  TA: '386'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -209,10 +209,10 @@ Base Game Achievements:
   Description: "Win the campain on \u201CGeneral\u201D difficulty."
   GS: '200'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 4%
-  Ratio: 4.79
-  TA: '959'
+  Number of Gamers: 8
+  Percentage of Gamers: 5%
+  Ratio: 4.52
+  TA: '905'
   Tags:
   - Offline Mode
   - Single Player
@@ -223,9 +223,9 @@ Base Game Achievements:
   Description: Capture the first island in Conquest Mode.
   GS: '15'
   Guide: false
-  Number of Gamers: 104
+  Number of Gamers: 107
   Percentage of Gamers: 65%
-  Ratio: 1.24
+  Ratio: 1.23
   TA: '18'
   Tags:
   - Offline Game Mode
@@ -234,10 +234,10 @@ Base Game Achievements:
   Description: Capture the second island in Conquest Mode.
   GS: '30'
   Guide: false
-  Number of Gamers: 55
-  Percentage of Gamers: 34%
-  Ratio: 1.72
-  TA: '51'
+  Number of Gamers: 58
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '50'
   Tags:
   - Offline Mode
   - Single Player
@@ -246,34 +246,34 @@ Base Game Achievements:
   Description: Capture the third island in Conquest Mode.
   GS: '60'
   Guide: false
-  Number of Gamers: 36
-  Percentage of Gamers: 22%
-  Ratio: 2.14
-  TA: '128'
+  Number of Gamers: 38
+  Percentage of Gamers: 23%
+  Ratio: 2.07
+  TA: '124'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 3.072
-Base TA: 3072
+Base Ratio: 2.961
+Base TA: 2961
 Delisted: false
 Developer: Skirmish Mode Games
 Game Name: Warpips
 Genres: Strategy, Real Time
 Install Size: 1170.0
-Number of Completions: 3
-Number of Gamers: 161
+Number of Completions: 4
+Number of Gamers: 164
 Overall Completion Time:
-- 52
-- 53
+- 44
+- 45
 Overall GS: 1000
-Overall Ratio: 3.072
-Overall TA: 3072
+Overall Ratio: 2.961
+Overall TA: 2961
 PDU: 0
-Percentage Completed: 1.86
+Percentage Completed: 2.44
 Publisher: Daedalic Entertainment
 Release Date: 12 October 2022
 Server Closure: false
-Site Rating: 4.5
+Site Rating: 4.4
 Update Achievements: []
 Walkthrough: false

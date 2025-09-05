@@ -1,16 +1,16 @@
 Add On Achievements: []
 Base Completion Time:
-- 25
-- 26
+- 20
+- 21
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: First Escape
   Description: Escape from the first floor!
   GS: '15'
   Guide: false
-  Number of Gamers: 128
-  Percentage of Gamers: 58%
-  Ratio: 1.31
+  Number of Gamers: 186
+  Percentage of Gamers: 61%
+  Ratio: 1.27
   TA: '19'
   Tags:
   - Offline Mode
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Escape from the second floor!
   GS: '35'
   Guide: false
-  Number of Gamers: 87
-  Percentage of Gamers: 39%
-  Ratio: 1.59
-  TA: '55'
+  Number of Gamers: 135
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '52'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Escape from the third floor!
   GS: '45'
   Guide: false
-  Number of Gamers: 66
-  Percentage of Gamers: 30%
-  Ratio: 1.82
-  TA: '82'
+  Number of Gamers: 106
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '76'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Escape from the final floor!
   GS: '60'
   Guide: false
-  Number of Gamers: 52
-  Percentage of Gamers: 23%
-  Ratio: 2.05
-  TA: '123'
+  Number of Gamers: 88
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '111'
   Tags:
   - Offline Mode
   - Single Player
@@ -57,10 +57,10 @@ Base Game Achievements:
   Description: Unlock "Circe".
   GS: '25'
   Guide: false
-  Number of Gamers: 72
-  Percentage of Gamers: 32%
-  Ratio: 1.74
-  TA: '43'
+  Number of Gamers: 119
+  Percentage of Gamers: 39%
+  Ratio: 1.59
+  TA: '39'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: Unlock "Gabriel".
   GS: '50'
   Guide: false
-  Number of Gamers: 108
-  Percentage of Gamers: 49%
-  Ratio: 1.42
-  TA: '71'
+  Number of Gamers: 169
+  Percentage of Gamers: 56%
+  Ratio: 1.34
+  TA: '67'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -79,10 +79,10 @@ Base Game Achievements:
   Description: Complete 10 rooms without taking any damage.
   GS: '15'
   Guide: false
-  Number of Gamers: 132
-  Percentage of Gamers: 59%
-  Ratio: 1.29
-  TA: '19'
+  Number of Gamers: 195
+  Percentage of Gamers: 64%
+  Ratio: 1.24
+  TA: '18'
   Tags:
   - Offline Mode
   - Single Player
@@ -91,10 +91,10 @@ Base Game Achievements:
   Description: Defeat YIR'MARID on Hell difficulty.
   GS: '25'
   Guide: true
-  Number of Gamers: 13
-  Percentage of Gamers: 6%
-  Ratio: 4.11
-  TA: '102'
+  Number of Gamers: 31
+  Percentage of Gamers: 10%
+  Ratio: 3.13
+  TA: '78'
   Tags:
   - Offline Mode
   - Single Player
@@ -104,10 +104,10 @@ Base Game Achievements:
   Description: Defeat CHROUTAN on Hell difficulty.
   GS: '45'
   Guide: true
-  Number of Gamers: 13
-  Percentage of Gamers: 6%
-  Ratio: 4.11
-  TA: '185'
+  Number of Gamers: 30
+  Percentage of Gamers: 10%
+  Ratio: 3.18
+  TA: '143'
   Tags:
   - Offline Mode
   - Single Player
@@ -117,10 +117,10 @@ Base Game Achievements:
   Description: Defeat BA'ELK on Hell difficulty.
   GS: '75'
   Guide: true
-  Number of Gamers: 12
-  Percentage of Gamers: 5%
-  Ratio: 4.28
-  TA: '321'
+  Number of Gamers: 28
+  Percentage of Gamers: 9%
+  Ratio: 3.29
+  TA: '247'
   Tags:
   - Offline Mode
   - Single Player
@@ -130,10 +130,10 @@ Base Game Achievements:
   Description: Defeat SOL'XEI on Hell difficulty.
   GS: '130'
   Guide: true
-  Number of Gamers: 12
-  Percentage of Gamers: 5%
-  Ratio: 4.28
-  TA: '556'
+  Number of Gamers: 27
+  Percentage of Gamers: 9%
+  Ratio: 3.35
+  TA: '436'
   Tags:
   - Offline Mode
   - Single Player
@@ -143,7 +143,7 @@ Base Game Achievements:
   Description: Use 1 wish at the wishing well.
   GS: '5'
   Guide: false
-  Number of Gamers: 196
+  Number of Gamers: 269
   Percentage of Gamers: 88%
   Ratio: 1.06
   TA: '5'
@@ -154,10 +154,10 @@ Base Game Achievements:
   Description: Use 30 wishes at the wishing well.
   GS: '60'
   Guide: false
-  Number of Gamers: 47
-  Percentage of Gamers: 21%
-  Ratio: 2.16
-  TA: '129'
+  Number of Gamers: 80
+  Percentage of Gamers: 26%
+  Ratio: 1.94
+  TA: '116'
   Tags:
   - Offline Mode
   - Single Player
@@ -167,22 +167,22 @@ Base Game Achievements:
   Description: Kill 250 enemies.
   GS: '50'
   Guide: false
-  Number of Gamers: 147
-  Percentage of Gamers: 66%
-  Ratio: 1.22
-  TA: '61'
+  Number of Gamers: 216
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '59'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
 - Achievement Name: Wealthy Wanderer
-  Description: Collect 50,000 coins.
+  Description: Collect 15,000 coins.
   GS: '90'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 2%
-  Ratio: 6.63
-  TA: '596'
+  Number of Gamers: 22
+  Percentage of Gamers: 7%
+  Ratio: 3.71
+  TA: '334'
   Tags:
   - Offline Mode
   - Single Player
@@ -191,8 +191,8 @@ Base Game Achievements:
   Description: Die for the first time.
   GS: '5'
   Guide: false
-  Number of Gamers: 216
-  Percentage of Gamers: 97%
+  Number of Gamers: 297
+  Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '5'
   Tags:
@@ -202,10 +202,10 @@ Base Game Achievements:
   Description: Die 25 times.
   GS: '20'
   Guide: false
-  Number of Gamers: 32
-  Percentage of Gamers: 14%
-  Ratio: 2.62
-  TA: '52'
+  Number of Gamers: 65
+  Percentage of Gamers: 21%
+  Ratio: 2.16
+  TA: '43'
   Tags:
   - Offline Mode
   - Single Player
@@ -214,10 +214,10 @@ Base Game Achievements:
   Description: Spend 10 souls to upgrade the character.
   GS: '35'
   Guide: false
-  Number of Gamers: 66
-  Percentage of Gamers: 30%
-  Ratio: 1.82
-  TA: '63'
+  Number of Gamers: 111
+  Percentage of Gamers: 37%
+  Ratio: 1.65
+  TA: '57'
   Tags:
   - Offline Mode
   - Single Player
@@ -226,9 +226,9 @@ Base Game Achievements:
   Description: Spend 1 soul to upgrade the character.
   GS: '5'
   Guide: false
-  Number of Gamers: 131
-  Percentage of Gamers: 59%
-  Ratio: 1.29
+  Number of Gamers: 188
+  Percentage of Gamers: 62%
+  Ratio: 1.27
   TA: '6'
   Tags:
   - Offline Mode
@@ -238,7 +238,7 @@ Base Game Achievements:
   Description: Complete the first loop.
   GS: '5'
   Guide: false
-  Number of Gamers: 220
+  Number of Gamers: 301
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '5'
@@ -250,10 +250,10 @@ Base Game Achievements:
   Description: Complete 50 loops.
   GS: '40'
   Guide: false
-  Number of Gamers: 81
-  Percentage of Gamers: 36%
-  Ratio: 1.64
-  TA: '65'
+  Number of Gamers: 126
+  Percentage of Gamers: 41%
+  Ratio: 1.55
+  TA: '62'
   Tags:
   - Offline Mode
   - Single Player
@@ -262,8 +262,8 @@ Base Game Achievements:
   Description: Obtain the first relic.
   GS: '10'
   Guide: false
-  Number of Gamers: 205
-  Percentage of Gamers: 92%
+  Number of Gamers: 286
+  Percentage of Gamers: 94%
   Ratio: 1.03
   TA: '10'
   Tags:
@@ -273,10 +273,10 @@ Base Game Achievements:
   Description: Find 10 relic scrolls.
   GS: '60'
   Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 14%
-  Ratio: 2.7
-  TA: '162'
+  Number of Gamers: 63
+  Percentage of Gamers: 21%
+  Ratio: 2.19
+  TA: '131'
   Tags:
   - Offline Mode
   - Single Player
@@ -285,10 +285,10 @@ Base Game Achievements:
   Description: Finish a room without dashing at all.
   GS: '35'
   Guide: false
-  Number of Gamers: 139
-  Percentage of Gamers: 63%
-  Ratio: 1.25
-  TA: '44'
+  Number of Gamers: 195
+  Percentage of Gamers: 64%
+  Ratio: 1.24
+  TA: '43'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -296,10 +296,10 @@ Base Game Achievements:
   Description: Finish 5 loops on the highest difficulty.
   GS: '40'
   Guide: true
-  Number of Gamers: 16
-  Percentage of Gamers: 7%
-  Ratio: 3.7
-  TA: '148'
+  Number of Gamers: 41
+  Percentage of Gamers: 13%
+  Ratio: 2.72
+  TA: '108'
   Tags:
   - Offline Mode
   - Single Player
@@ -309,34 +309,34 @@ Base Game Achievements:
   Description: Defeat the first boss.
   GS: '20'
   Guide: false
-  Number of Gamers: 128
-  Percentage of Gamers: 58%
-  Ratio: 1.31
-  TA: '26'
+  Number of Gamers: 186
+  Percentage of Gamers: 61%
+  Ratio: 1.27
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 2.953
-Base TA: 2953
+Base Ratio: 2.295
+Base TA: 2295
 Delisted: false
 Developer: Fubu Games
 Game Name: Rogue Loops
-Genres: Roguelite
-Install Size: 1730.0
-Number of Completions: 5
-Number of Gamers: 222
+Genres: Roguelite, Hack & Slash
+Install Size: 1980.0
+Number of Completions: 15
+Number of Gamers: 304
 Overall Completion Time:
-- 25
-- 26
+- 20
+- 21
 Overall GS: 1000
-Overall Ratio: 2.953
-Overall TA: 2953
+Overall Ratio: 2.295
+Overall TA: 2295
 PDU: 0
-Percentage Completed: 2.25
+Percentage Completed: 4.93
 Publisher: NAISU
 Release Date: 20 June 2025
 Server Closure: false
-Site Rating: 4.36
+Site Rating: 4.39
 Update Achievements: []
 Walkthrough: false

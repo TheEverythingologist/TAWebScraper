@@ -1,60 +1,15 @@
-Add On Achievements:
-- Achievement Name: Treasure Hunter
-  Description: Reach 200 coins
-  GS: '200'
-  Guide: false
-  Number of Gamers: 401
-  Percentage of Gamers: 99%
-  Ratio: 1.32
-  TA: '265'
-  Tags: []
-- Achievement Name: Gold Collector
-  Description: Reach 250 coins
-  GS: '200'
-  Guide: false
-  Number of Gamers: 396
-  Percentage of Gamers: 98%
-  Ratio: 1.33
-  TA: '267'
-  Tags: []
-- Achievement Name: Life Restorer
-  Description: Recover 17 points of life in total
-  GS: '200'
-  Guide: false
-  Number of Gamers: 370
-  Percentage of Gamers: 91%
-  Ratio: 1.38
-  TA: '276'
-  Tags: []
-- Achievement Name: Vitality Expert
-  Description: Recover 20 points of life in total
-  GS: '200'
-  Guide: false
-  Number of Gamers: 367
-  Percentage of Gamers: 91%
-  Ratio: 1.38
-  TA: '277'
-  Tags: []
-- Achievement Name: Turret Engineer
-  Description: Construct 4 turrets in one stage
-  GS: '200'
-  Guide: false
-  Number of Gamers: 400
-  Percentage of Gamers: 99%
-  Ratio: 1.33
-  TA: '266'
-  Tags: []
+Add On Achievements: []
 Base Completion Time:
 - 0.5
-- 1.5
-Base GS: 2000
+- 2.0
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: Slime Slayer
   Description: Kill a blue slime
   GS: '20'
   Guide: false
-  Number of Gamers: 1217
-  Percentage of Gamers: 100%
+  Number of Gamers: 1442
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '20'
   Tags:
@@ -64,7 +19,7 @@ Base Game Achievements:
   Description: Kill a green slime
   GS: '20'
   Guide: false
-  Number of Gamers: 1212
+  Number of Gamers: 1434
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '20'
@@ -75,7 +30,7 @@ Base Game Achievements:
   Description: Kill a red slime
   GS: '20'
   Guide: false
-  Number of Gamers: 1215
+  Number of Gamers: 1437
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '20'
@@ -86,8 +41,8 @@ Base Game Achievements:
   Description: Recover your ammo 3 times
   GS: '20'
   Guide: false
-  Number of Gamers: 1216
-  Percentage of Gamers: 100%
+  Number of Gamers: 1441
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '20'
   Tags:
@@ -98,7 +53,7 @@ Base Game Achievements:
   Description: reach 10 coins
   GS: '20'
   Guide: false
-  Number of Gamers: 1218
+  Number of Gamers: 1443
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '20'
@@ -110,8 +65,8 @@ Base Game Achievements:
   Description: reach 15 coins
   GS: '20'
   Guide: false
-  Number of Gamers: 1217
-  Percentage of Gamers: 100%
+  Number of Gamers: 1441
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '20'
   Tags:
@@ -122,8 +77,8 @@ Base Game Achievements:
   Description: recover 1 points of life
   GS: '40'
   Guide: false
-  Number of Gamers: 1217
-  Percentage of Gamers: 100%
+  Number of Gamers: 1439
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '40'
   Tags:
@@ -133,7 +88,7 @@ Base Game Achievements:
   Description: recover 5 points of life
   GS: '40'
   Guide: false
-  Number of Gamers: 1215
+  Number of Gamers: 1437
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '40'
@@ -145,7 +100,7 @@ Base Game Achievements:
   Description: Refil your bullets in main menu
   GS: '40'
   Guide: true
-  Number of Gamers: 1104
+  Number of Gamers: 1303
   Percentage of Gamers: 90%
   Ratio: 1.05
   TA: '42'
@@ -157,8 +112,8 @@ Base Game Achievements:
   Description: Buy one item on the market
   GS: '40'
   Guide: false
-  Number of Gamers: 1207
-  Percentage of Gamers: 99%
+  Number of Gamers: 1428
+  Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '40'
   Tags:
@@ -169,10 +124,10 @@ Base Game Achievements:
   Description: Buy the most expensive turret
   GS: '40'
   Guide: true
-  Number of Gamers: 1014
-  Percentage of Gamers: 83%
-  Ratio: 1.09
-  TA: '43'
+  Number of Gamers: 1187
+  Percentage of Gamers: 82%
+  Ratio: 1.1
+  TA: '44'
   Tags:
   - Offline Mode
   - Single Player
@@ -181,8 +136,8 @@ Base Game Achievements:
   Description: Finish the tutorial
   GS: '40'
   Guide: true
-  Number of Gamers: 1151
-  Percentage of Gamers: 94%
+  Number of Gamers: 1355
+  Percentage of Gamers: 93%
   Ratio: 1.03
   TA: '41'
   Tags:
@@ -193,7 +148,7 @@ Base Game Achievements:
   Description: Construct 1 turrets in one stage
   GS: '40'
   Guide: false
-  Number of Gamers: 1214
+  Number of Gamers: 1436
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '40'
@@ -204,8 +159,8 @@ Base Game Achievements:
   Description: Let the turret finish the last slime
   GS: '40'
   Guide: false
-  Number of Gamers: 1209
-  Percentage of Gamers: 99%
+  Number of Gamers: 1428
+  Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '40'
   Tags:
@@ -215,7 +170,7 @@ Base Game Achievements:
   Description: Destroy all the boxes in the wave
   GS: '70'
   Guide: false
-  Number of Gamers: 1213
+  Number of Gamers: 1435
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '70'
@@ -226,7 +181,7 @@ Base Game Achievements:
   Description: Finish a wave without take damage
   GS: '70'
   Guide: false
-  Number of Gamers: 1207
+  Number of Gamers: 1430
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '70'
@@ -237,7 +192,7 @@ Base Game Achievements:
   Description: Construct 2 turrets in one stage
   GS: '70'
   Guide: false
-  Number of Gamers: 1212
+  Number of Gamers: 1434
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '70'
@@ -248,10 +203,10 @@ Base Game Achievements:
   Description: Buy the most expensive weapon
   GS: '70'
   Guide: true
-  Number of Gamers: 1094
-  Percentage of Gamers: 90%
-  Ratio: 1.05
-  TA: '73'
+  Number of Gamers: 1284
+  Percentage of Gamers: 89%
+  Ratio: 1.06
+  TA: '74'
   Tags:
   - Offline Mode
   - Single Player
@@ -259,10 +214,10 @@ Base Game Achievements:
 - Achievement Name: Solo Warrior
   Description: Finish the stage without buy turrets
   GS: '70'
-  Guide: false
-  Number of Gamers: 1141
-  Percentage of Gamers: 93%
-  Ratio: 1.03
+  Guide: true
+  Number of Gamers: 1339
+  Percentage of Gamers: 92%
+  Ratio: 1.04
   TA: '72'
   Tags:
   - Offline Game Mode
@@ -271,9 +226,9 @@ Base Game Achievements:
   Description: Complete stage 1
   GS: '70'
   Guide: false
-  Number of Gamers: 1199
+  Number of Gamers: 1421
   Percentage of Gamers: 98%
-  Ratio: 1.0
+  Ratio: 1.01
   TA: '70'
   Tags:
   - Offline Mode
@@ -283,10 +238,10 @@ Base Game Achievements:
   Description: Complete stage 2
   GS: '70'
   Guide: false
-  Number of Gamers: 1160
-  Percentage of Gamers: 95%
-  Ratio: 1.02
-  TA: '71'
+  Number of Gamers: 1368
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '72'
   Tags:
   - Offline Mode
   - Single Player
@@ -295,42 +250,42 @@ Base Game Achievements:
   Description: Complete stage 3
   GS: '70'
   Guide: false
-  Number of Gamers: 1071
-  Percentage of Gamers: 88%
-  Ratio: 1.06
-  TA: '74'
+  Number of Gamers: 1259
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '75'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.013
-Base TA: 2026
+Base Ratio: 1.0823333333333334
+Base TA: 3247
 Delisted: false
 Developer: DuDeeki Studio
 Game Name: Beyond Border
 Genres: Shoot 'em up, Tower Defence
 Install Size: 402.0
-Number of Completions: 351
-Number of Gamers: 1222
+Number of Completions: 848
+Number of Gamers: 1450
 Overall Completion Time:
 - 0.5
 - 2.0
 Overall GS: 3000
-Overall Ratio: 1.1256666666666666
-Overall TA: 3377
+Overall Ratio: 1.0823333333333334
+Overall TA: 3247
 PDU: 0
-Percentage Completed: 28.72
+Percentage Completed: 58.48
 Publisher: AFIL Games
 Release Date: 16 October 2024
 Server Closure: false
-Site Rating: 2.36
+Site Rating: 2.41
 Update Achievements:
 - Achievement Name: Coin Hoarder
   Description: Reach 20 coins
   GS: '200'
   Guide: false
-  Number of Gamers: 1217
-  Percentage of Gamers: 100%
+  Number of Gamers: 1440
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '200'
   Tags:
@@ -341,8 +296,8 @@ Update Achievements:
   Description: Reach 25 coins
   GS: '200'
   Guide: false
-  Number of Gamers: 1217
-  Percentage of Gamers: 100%
+  Number of Gamers: 1440
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '200'
   Tags:
@@ -353,7 +308,7 @@ Update Achievements:
   Description: Recover 10 points of life
   GS: '200'
   Guide: true
-  Number of Gamers: 1168
+  Number of Gamers: 1387
   Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '204'
@@ -365,7 +320,7 @@ Update Achievements:
   Description: Recover 15 points of life
   GS: '200'
   Guide: true
-  Number of Gamers: 1147
+  Number of Gamers: 1365
   Percentage of Gamers: 94%
   Ratio: 1.03
   TA: '206'
@@ -377,10 +332,69 @@ Update Achievements:
   Description: Construct 3 turrets in one stage
   GS: '200'
   Guide: false
-  Number of Gamers: 1212
+  Number of Gamers: 1434
   Percentage of Gamers: 99%
   Ratio: 1.0
-  TA: '200'
+  TA: '201'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Treasure Hunter
+  Description: Reach 200 coins
+  GS: '200'
+  Guide: false
+  Number of Gamers: 1016
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '239'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative
+- Achievement Name: Gold Collector
+  Description: Reach 250 coins
+  GS: '200'
+  Guide: false
+  Number of Gamers: 1006
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '240'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative
+- Achievement Name: Life Restorer
+  Description: Recover 17 points of life in total
+  GS: '200'
+  Guide: false
+  Number of Gamers: 945
+  Percentage of Gamers: 65%
+  Ratio: 1.24
+  TA: '248'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Vitality Expert
+  Description: Recover 20 points of life in total
+  GS: '200'
+  Guide: false
+  Number of Gamers: 932
+  Percentage of Gamers: 64%
+  Ratio: 1.25
+  TA: '250'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Turret Engineer
+  Description: Construct 4 turrets in one stage
+  GS: '200'
+  Guide: false
+  Number of Gamers: 1015
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '239'
   Tags:
   - Offline Game Mode
   - Single Player

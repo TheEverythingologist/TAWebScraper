@@ -8,7 +8,7 @@ Base Game Achievements:
   Description: Win Matrix Forest
   GS: '100'
   Guide: false
-  Number of Gamers: 121
+  Number of Gamers: 195
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Win Machine Palace
   GS: '100'
   Guide: false
-  Number of Gamers: 119
+  Number of Gamers: 191
   Percentage of Gamers: 93%
   Ratio: 1.03
   TA: '103'
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Win Bit Hell
   GS: '100'
   Guide: false
-  Number of Gamers: 116
-  Percentage of Gamers: 91%
-  Ratio: 1.05
-  TA: '105'
+  Number of Gamers: 183
+  Percentage of Gamers: 89%
+  Ratio: 1.06
+  TA: '106'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Unlock Golden Character
   GS: '100'
   Guide: false
-  Number of Gamers: 119
-  Percentage of Gamers: 93%
-  Ratio: 1.03
-  TA: '103'
+  Number of Gamers: 187
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '104'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -55,7 +55,7 @@ Base Game Achievements:
   Description: Unlock Armor Upgrade
   GS: '100'
   Guide: false
-  Number of Gamers: 122
+  Number of Gamers: 196
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
@@ -67,10 +67,10 @@ Base Game Achievements:
   Description: Unlock Damage Upgrade
   GS: '100'
   Guide: false
-  Number of Gamers: 123
-  Percentage of Gamers: 96%
-  Ratio: 1.02
-  TA: '102'
+  Number of Gamers: 194
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '103'
   Tags:
   - Offline Mode
   - Single Player
@@ -79,10 +79,10 @@ Base Game Achievements:
   Description: Unlock Healing Upgrade
   GS: '100'
   Guide: false
-  Number of Gamers: 122
-  Percentage of Gamers: 95%
-  Ratio: 1.02
-  TA: '102'
+  Number of Gamers: 192
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '103'
   Tags:
   - Offline Mode
   - Single Player
@@ -91,10 +91,10 @@ Base Game Achievements:
   Description: Unlock Health Upgrade
   GS: '100'
   Guide: false
-  Number of Gamers: 122
-  Percentage of Gamers: 95%
-  Ratio: 1.02
-  TA: '102'
+  Number of Gamers: 193
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '103'
   Tags:
   - Offline Mode
   - Single Player
@@ -103,7 +103,7 @@ Base Game Achievements:
   Description: Unlock Revive Upgrade
   GS: '100'
   Guide: false
-  Number of Gamers: 117
+  Number of Gamers: 187
   Percentage of Gamers: 91%
   Ratio: 1.04
   TA: '104'
@@ -115,79 +115,94 @@ Base Game Achievements:
   Description: Max One Upgrade
   GS: '100'
   Guide: true
-  Number of Gamers: 115
-  Percentage of Gamers: 90%
-  Ratio: 1.05
-  TA: '105'
+  Number of Gamers: 181
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '106'
   Tags:
   - Offline Mode
   - Single Player
   - Shop
-Base Ratio: 1.401
-Base TA: 2802
+Base Ratio: 1.042
+Base TA: 2084
 Delisted: false
 Developer: Rafael Valim Fernandes
 Game Name: Machinetrix (Xbox One)
-Genres: Action
+Genres: Roguelite
 Install Size: 444.0
-Number of Completions: 50
-Number of Gamers: 128
+Number of Completions: 172
+Number of Gamers: 206
 Overall Completion Time:
 - 1.0
 - 2.5
 Overall GS: 2000
-Overall Ratio: 1.401
-Overall TA: 2802
+Overall Ratio: 1.042
+Overall TA: 2084
 PDU: 0
-Percentage Completed: 39.06
+Percentage Completed: 83.5
 Publisher: Rafael Valim Fernandes
 Release Date: 20 June 2025
 Server Closure: false
-Site Rating: 1.33
+Site Rating: 2.14
 Update Achievements:
 - Achievement Name: Buy Increase Gold Skill
   Description: Buy Increase Gold Skill
   GS: '200'
   Guide: false
-  Number of Gamers: 50
-  Percentage of Gamers: 39%
-  Ratio: 1.78
-  TA: '356'
-  Tags: []
+  Number of Gamers: 186
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '211'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
 - Achievement Name: Buy Increase Damage Skill
   Description: Buy Increase Damage Skill
   GS: '200'
   Guide: false
-  Number of Gamers: 50
-  Percentage of Gamers: 39%
-  Ratio: 1.78
-  TA: '356'
-  Tags: []
+  Number of Gamers: 186
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '210'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
 - Achievement Name: Buy Increase Max HP Skill
   Description: Buy Increase Max HP Skill
   GS: '200'
   Guide: false
-  Number of Gamers: 50
-  Percentage of Gamers: 39%
-  Ratio: 1.78
-  TA: '356'
-  Tags: []
+  Number of Gamers: 187
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '209'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
 - Achievement Name: Buy Damage Reduction Skill
   Description: Buy Damage Reduction Skill
   GS: '200'
   Guide: false
-  Number of Gamers: 50
-  Percentage of Gamers: 39%
-  Ratio: 1.76
-  TA: '352'
-  Tags: []
+  Number of Gamers: 187
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '209'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
 - Achievement Name: Buy Increase XP Skill
   Description: Buy Increase XP Skill
   GS: '200'
   Guide: false
-  Number of Gamers: 51
-  Percentage of Gamers: 40%
-  Ratio: 1.76
-  TA: '352'
-  Tags: []
+  Number of Gamers: 188
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '209'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
 Walkthrough: false

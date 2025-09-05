@@ -1,16 +1,16 @@
 Add On Achievements: []
 Base Completion Time:
-- 60
 - 61
+- 62
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Off to the Races
   Description: Complete your first championship event.
   GS: '10'
   Guide: true
-  Number of Gamers: 295
+  Number of Gamers: 316
   Percentage of Gamers: 84%
-  Ratio: 1.09
+  Ratio: 1.08
   TA: '10'
   Tags:
   - Online/Offline
@@ -21,9 +21,9 @@ Base Game Achievements:
   Description: Get a gold trophy in a pole race challenge event.
   GS: '10'
   Guide: false
-  Number of Gamers: 112
+  Number of Gamers: 120
   Percentage of Gamers: 32%
-  Ratio: 1.77
+  Ratio: 1.76
   TA: '17'
   Tags:
   - Online/Offline
@@ -33,10 +33,10 @@ Base Game Achievements:
   Description: Get a gold trophy in a big bad enemy challenge event.
   GS: '10'
   Guide: false
-  Number of Gamers: 52
-  Percentage of Gamers: 15%
-  Ratio: 2.59
-  TA: '25'
+  Number of Gamers: 53
+  Percentage of Gamers: 14%
+  Ratio: 2.64
+  TA: '26'
   Tags:
   - Online/Offline
   - Single Player
@@ -45,10 +45,10 @@ Base Game Achievements:
   Description: Get a gold trophy in a rage gauge challenge event.
   GS: '10'
   Guide: false
-  Number of Gamers: 67
-  Percentage of Gamers: 19%
-  Ratio: 2.29
-  TA: '22'
+  Number of Gamers: 69
+  Percentage of Gamers: 18%
+  Ratio: 2.32
+  TA: '23'
   Tags:
   - Online/Offline
   - Single Player
@@ -57,10 +57,10 @@ Base Game Achievements:
   Description: Get a bronze trophy in all Threepenny events.
   GS: '25'
   Guide: false
-  Number of Gamers: 44
-  Percentage of Gamers: 12%
-  Ratio: 2.81
-  TA: '70'
+  Number of Gamers: 47
+  Percentage of Gamers: 13%
+  Ratio: 2.84
+  TA: '71'
   Tags:
   - Online/Offline
   - Single Player
@@ -70,9 +70,9 @@ Base Game Achievements:
   GS: '25'
   Guide: false
   Number of Gamers: 23
-  Percentage of Gamers: 7%
-  Ratio: 3.89
-  TA: '97'
+  Percentage of Gamers: 6%
+  Ratio: 4.02
+  TA: '100'
   Tags:
   - Online/Offline
   - Single Player
@@ -83,8 +83,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 18
   Percentage of Gamers: 5%
-  Ratio: 4.4
-  TA: '110'
+  Ratio: 4.54
+  TA: '113'
   Tags:
   - Online/Offline
   - Single Player
@@ -94,9 +94,9 @@ Base Game Achievements:
   GS: '25'
   Guide: false
   Number of Gamers: 16
-  Percentage of Gamers: 5%
-  Ratio: 4.67
-  TA: '116'
+  Percentage of Gamers: 4%
+  Ratio: 4.82
+  TA: '120'
   Tags:
   - Online/Offline
   - Single Player
@@ -106,9 +106,9 @@ Base Game Achievements:
   GS: '25'
   Guide: false
   Number of Gamers: 13
-  Percentage of Gamers: 4%
-  Ratio: 5.18
-  TA: '129'
+  Percentage of Gamers: 3%
+  Ratio: 5.34
+  TA: '133'
   Tags:
   - Online/Offline
   - Single Player
@@ -118,9 +118,9 @@ Base Game Achievements:
   GS: '25'
   Guide: false
   Number of Gamers: 13
-  Percentage of Gamers: 4%
-  Ratio: 5.18
-  TA: '129'
+  Percentage of Gamers: 3%
+  Ratio: 5.34
+  TA: '133'
   Tags:
   - Online/Offline
   - Single Player
@@ -131,8 +131,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 7
   Percentage of Gamers: 2%
-  Ratio: 7.06
-  TA: '706'
+  Ratio: 7.28
+  TA: '728'
   Tags:
   - Online/Offline
   - Single Player
@@ -141,9 +141,9 @@ Base Game Achievements:
   Description: Defeat 50 enemies with charge-dash attacks.
   GS: '10'
   Guide: false
-  Number of Gamers: 46
+  Number of Gamers: 49
   Percentage of Gamers: 13%
-  Ratio: 2.78
+  Ratio: 2.75
   TA: '27'
   Tags:
   - Online/Offline
@@ -154,10 +154,10 @@ Base Game Achievements:
   Description: Defeat 50 enemies with wall-dash attacks.
   GS: '10'
   Guide: true
-  Number of Gamers: 20
+  Number of Gamers: 21
   Percentage of Gamers: 6%
-  Ratio: 4.17
-  TA: '41'
+  Ratio: 4.2
+  TA: '42'
   Tags:
   - Online/Offline
   - Single Player
@@ -168,9 +168,9 @@ Base Game Achievements:
   GS: '10'
   Guide: true
   Number of Gamers: 13
-  Percentage of Gamers: 4%
-  Ratio: 5.18
-  TA: '51'
+  Percentage of Gamers: 3%
+  Ratio: 5.34
+  TA: '53'
   Tags:
   - Online/Offline
   - Single Player
@@ -180,9 +180,9 @@ Base Game Achievements:
   Description: Defeat 100 enemies with special attacks.
   GS: '10'
   Guide: false
-  Number of Gamers: 70
+  Number of Gamers: 73
   Percentage of Gamers: 20%
-  Ratio: 2.24
+  Ratio: 2.27
   TA: '22'
   Tags:
   - Online/Offline
@@ -193,10 +193,10 @@ Base Game Achievements:
   Description: Defeat 100 enemies with ultimate attacks.
   GS: '10'
   Guide: false
-  Number of Gamers: 69
-  Percentage of Gamers: 20%
-  Ratio: 2.24
-  TA: '22'
+  Number of Gamers: 71
+  Percentage of Gamers: 19%
+  Ratio: 2.3
+  TA: '23'
   Tags:
   - Online/Offline
   - Single Player
@@ -206,9 +206,9 @@ Base Game Achievements:
   Description: Defeat 50 enemies with aerial attacks.
   GS: '10'
   Guide: false
-  Number of Gamers: 228
-  Percentage of Gamers: 65%
-  Ratio: 1.24
+  Number of Gamers: 245
+  Percentage of Gamers: 66%
+  Ratio: 1.23
   TA: '12'
   Tags:
   - Online/Offline
@@ -221,8 +221,8 @@ Base Game Achievements:
   Guide: true
   Number of Gamers: 6
   Percentage of Gamers: 2%
-  Ratio: 7.62
-  TA: '76'
+  Ratio: 7.87
+  TA: '78'
   Tags:
   - Online/Offline
   - Single Player
@@ -232,9 +232,9 @@ Base Game Achievements:
   Description: Defeat 50 enemies with wooden barrels.
   GS: '10'
   Guide: false
-  Number of Gamers: 53
+  Number of Gamers: 57
   Percentage of Gamers: 15%
-  Ratio: 2.59
+  Ratio: 2.55
   TA: '25'
   Tags:
   - Online/Offline
@@ -245,9 +245,9 @@ Base Game Achievements:
   Description: Defeat 50 enemies with explosive barrels.
   GS: '10'
   Guide: false
-  Number of Gamers: 55
+  Number of Gamers: 58
   Percentage of Gamers: 16%
-  Ratio: 2.51
+  Ratio: 2.55
   TA: '25'
   Tags:
   - Online/Offline
@@ -258,17 +258,21 @@ Base Game Achievements:
   Description: Defeat 50 enemies by pushing them into pits.
   GS: '10'
   Guide: true
-  Number of Gamers: 7
+  Number of Gamers: 8
   Percentage of Gamers: 2%
-  Ratio: 7.06
-  TA: '70'
+  Ratio: 6.81
+  TA: '68'
   Tags:
-  - Discontinued
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+  - Buggy
 - Achievement Name: You Wreck Me
   Description: Defeat 50 enemies with wrecking balls.
   GS: '10'
   Guide: true
-  Number of Gamers: 16
+  Number of Gamers: 17
   Percentage of Gamers: 5%
   Ratio: 4.67
   TA: '46'
@@ -283,8 +287,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 8
   Percentage of Gamers: 2%
-  Ratio: 6.6
-  TA: '66'
+  Ratio: 6.81
+  TA: '68'
   Tags:
   - Online/Offline
   - Single Player
@@ -294,9 +298,9 @@ Base Game Achievements:
   Description: Defeat 50 enemies with pole swing attacks.
   GS: '10'
   Guide: false
-  Number of Gamers: 25
+  Number of Gamers: 26
   Percentage of Gamers: 7%
-  Ratio: 3.73
+  Ratio: 3.78
   TA: '37'
   Tags:
   - Online/Offline
@@ -309,8 +313,8 @@ Base Game Achievements:
   Guide: true
   Number of Gamers: 8
   Percentage of Gamers: 2%
-  Ratio: 6.6
-  TA: '66'
+  Ratio: 6.81
+  TA: '68'
   Tags:
   - Online/Offline
   - Single Player
@@ -322,8 +326,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 14
   Percentage of Gamers: 4%
-  Ratio: 4.99
-  TA: '49'
+  Ratio: 5.15
+  TA: '51'
   Tags:
   - Online/Offline
   - Single Player
@@ -333,7 +337,7 @@ Base Game Achievements:
   Description: Successfully dodge 100 enemy attacks.
   GS: '10'
   Guide: false
-  Number of Gamers: 29
+  Number of Gamers: 31
   Percentage of Gamers: 8%
   Ratio: 3.46
   TA: '34'
@@ -348,8 +352,8 @@ Base Game Achievements:
   Guide: true
   Number of Gamers: 12
   Percentage of Gamers: 3%
-  Ratio: 5.39
-  TA: '53'
+  Ratio: 5.56
+  TA: '55'
   Tags:
   - Online/Offline
   - Single Player
@@ -361,8 +365,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 15
   Percentage of Gamers: 4%
-  Ratio: 4.82
-  TA: '48'
+  Ratio: 4.98
+  TA: '49'
   Tags:
   - Online/Offline
   - Single Player
@@ -374,8 +378,8 @@ Base Game Achievements:
   Guide: true
   Number of Gamers: 8
   Percentage of Gamers: 2%
-  Ratio: 6.6
-  TA: '66'
+  Ratio: 6.81
+  TA: '68'
   Tags:
   - Online/Offline
   - Single Player
@@ -384,7 +388,7 @@ Base Game Achievements:
   Description: Complete any boss event without tagging once.
   GS: '10'
   Guide: false
-  Number of Gamers: 16
+  Number of Gamers: 17
   Percentage of Gamers: 5%
   Ratio: 4.67
   TA: '46'
@@ -396,7 +400,7 @@ Base Game Achievements:
   Description: Defeat 5 enemies with a single ultimate attack.
   GS: '10'
   Guide: false
-  Number of Gamers: 140
+  Number of Gamers: 149
   Percentage of Gamers: 40%
   Ratio: 1.58
   TA: '15'
@@ -408,10 +412,10 @@ Base Game Achievements:
   Description: Defeat 5 enemies with a single barrel explosion.
   GS: '10'
   Guide: true
-  Number of Gamers: 19
+  Number of Gamers: 20
   Percentage of Gamers: 5%
-  Ratio: 4.28
-  TA: '42'
+  Ratio: 4.31
+  TA: '43'
   Tags:
   - Online/Offline
   - Single Player
@@ -420,10 +424,10 @@ Base Game Achievements:
   Description: Deal damage with 4 heroes all within 1 second.
   GS: '10'
   Guide: false
-  Number of Gamers: 39
+  Number of Gamers: 40
   Percentage of Gamers: 11%
-  Ratio: 2.99
-  TA: '29'
+  Ratio: 3.04
+  TA: '30'
   Tags:
   - Online/Offline
   - Single Player
@@ -435,8 +439,8 @@ Base Game Achievements:
   Guide: true
   Number of Gamers: 15
   Percentage of Gamers: 4%
-  Ratio: 4.82
-  TA: '120'
+  Ratio: 4.98
+  TA: '124'
   Tags:
   - Online/Offline
   - Single Player
@@ -446,9 +450,9 @@ Base Game Achievements:
     ground.
   GS: '25'
   Guide: false
-  Number of Gamers: 102
+  Number of Gamers: 108
   Percentage of Gamers: 29%
-  Ratio: 1.86
+  Ratio: 1.85
   TA: '46'
   Tags:
   - Online/Offline
@@ -460,8 +464,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 6
   Percentage of Gamers: 2%
-  Ratio: 7.62
-  TA: '190'
+  Ratio: 7.87
+  TA: '196'
   Tags:
   - Online/Offline
   - Single Player
@@ -472,8 +476,8 @@ Base Game Achievements:
   Guide: true
   Number of Gamers: 7
   Percentage of Gamers: 2%
-  Ratio: 7.06
-  TA: '176'
+  Ratio: 7.28
+  TA: '182'
   Tags:
   - Online/Offline
   - Single Player
@@ -485,8 +489,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 8
   Percentage of Gamers: 2%
-  Ratio: 6.6
-  TA: '165'
+  Ratio: 6.81
+  TA: '170'
   Tags:
   - Online/Offline
   - Single Player
@@ -498,8 +502,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 8
   Percentage of Gamers: 2%
-  Ratio: 6.6
-  TA: '165'
+  Ratio: 6.81
+  TA: '170'
   Tags:
   - Online/Offline
   - Single Player
@@ -511,8 +515,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 8
   Percentage of Gamers: 2%
-  Ratio: 6.6
-  TA: '165'
+  Ratio: 6.81
+  TA: '170'
   Tags:
   - Online/Offline
   - Single Player
@@ -523,8 +527,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 8
   Percentage of Gamers: 2%
-  Ratio: 6.6
-  TA: '165'
+  Ratio: 6.81
+  TA: '170'
   Tags:
   - Online/Offline
   - Single Player
@@ -535,8 +539,8 @@ Base Game Achievements:
   Guide: true
   Number of Gamers: 11
   Percentage of Gamers: 3%
-  Ratio: 5.63
-  TA: '675'
+  Ratio: 5.81
+  TA: '697'
   Tags:
   - Online/Offline
   - Single Player
@@ -545,10 +549,10 @@ Base Game Achievements:
   Description: Unlock every playable character and complete your brawler roster.
   GS: '10'
   Guide: false
-  Number of Gamers: 29
+  Number of Gamers: 30
   Percentage of Gamers: 8%
-  Ratio: 3.46
-  TA: '34'
+  Ratio: 3.52
+  TA: '35'
   Tags:
   - Online/Offline
   - Single Player
@@ -557,9 +561,9 @@ Base Game Achievements:
   Description: Receive an invitation to the Florin League.
   GS: '10'
   Guide: false
-  Number of Gamers: 165
-  Percentage of Gamers: 47%
-  Ratio: 1.45
+  Number of Gamers: 169
+  Percentage of Gamers: 45%
+  Ratio: 1.48
   TA: '14'
   Tags:
   - Online/Offline
@@ -570,9 +574,9 @@ Base Game Achievements:
   GS: '10'
   Guide: false
   Number of Gamers: 23
-  Percentage of Gamers: 7%
-  Ratio: 3.89
-  TA: '38'
+  Percentage of Gamers: 6%
+  Ratio: 4.02
+  TA: '40'
   Tags:
   - Online/Offline
   - Single Player
@@ -581,10 +585,10 @@ Base Game Achievements:
   Description: Buy 10 pieces of gear.
   GS: '10'
   Guide: false
-  Number of Gamers: 31
+  Number of Gamers: 32
   Percentage of Gamers: 9%
-  Ratio: 3.35
-  TA: '33'
+  Ratio: 3.4
+  TA: '34'
   Tags:
   - Online/Offline
   - Single Player
@@ -594,10 +598,10 @@ Base Game Achievements:
   Description: Sell 10 pieces of gear.
   GS: '10'
   Guide: false
-  Number of Gamers: 109
+  Number of Gamers: 115
   Percentage of Gamers: 31%
-  Ratio: 1.8
-  TA: '18'
+  Ratio: 1.79
+  TA: '17'
   Tags:
   - Online/Offline
   - Single Player
@@ -609,8 +613,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 11
   Percentage of Gamers: 3%
-  Ratio: 5.63
-  TA: '56'
+  Ratio: 5.81
+  TA: '58'
   Tags:
   - Online/Offline
   - Single Player
@@ -622,8 +626,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 18
   Percentage of Gamers: 5%
-  Ratio: 4.4
-  TA: '44'
+  Ratio: 4.54
+  TA: '45'
   Tags:
   - Online/Offline
   - Single Player
@@ -635,8 +639,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 18
   Percentage of Gamers: 5%
-  Ratio: 4.4
-  TA: '44'
+  Ratio: 4.54
+  TA: '45'
   Tags:
   - Online/Offline
   - Single Player
@@ -647,8 +651,8 @@ Base Game Achievements:
   Guide: true
   Number of Gamers: 4
   Percentage of Gamers: 1%
-  Ratio: 9.34
-  TA: '93'
+  Ratio: 9.64
+  TA: '96'
   Tags:
   - Online/Offline
   - Single Player
@@ -657,9 +661,9 @@ Base Game Achievements:
   Description: Defeat 2000 enemies.
   GS: '10'
   Guide: false
-  Number of Gamers: 37
-  Percentage of Gamers: 10%
-  Ratio: 3.07
+  Number of Gamers: 40
+  Percentage of Gamers: 11%
+  Ratio: 3.08
   TA: '30'
   Tags:
   - Online/Offline
@@ -671,9 +675,9 @@ Base Game Achievements:
     clock.
   GS: '10'
   Guide: true
-  Number of Gamers: 266
-  Percentage of Gamers: 75%
-  Ratio: 1.14
+  Number of Gamers: 289
+  Percentage of Gamers: 77%
+  Ratio: 1.13
   TA: '11'
   Tags:
   - Online/Offline
@@ -686,8 +690,8 @@ Base Game Achievements:
   Guide: true
   Number of Gamers: 8
   Percentage of Gamers: 2%
-  Ratio: 6.6
-  TA: '66'
+  Ratio: 6.81
+  TA: '68'
   Tags:
   - Online/Offline
   - Single Player
@@ -698,8 +702,8 @@ Base Game Achievements:
   Guide: true
   Number of Gamers: 7
   Percentage of Gamers: 2%
-  Ratio: 7.06
-  TA: '70'
+  Ratio: 7.28
+  TA: '72'
   Tags:
   - Online/Offline
   - Single Player
@@ -709,10 +713,10 @@ Base Game Achievements:
   Description: Suffer from 3 different status effects at the same time.
   GS: '10'
   Guide: true
-  Number of Gamers: 26
+  Number of Gamers: 27
   Percentage of Gamers: 7%
-  Ratio: 3.66
-  TA: '36'
+  Ratio: 3.71
+  TA: '37'
   Tags:
   - Online/Offline
   - Single Player
@@ -721,9 +725,9 @@ Base Game Achievements:
   Description: Complete any championship in local co-op with a friend.
   GS: '10'
   Guide: false
-  Number of Gamers: 49
+  Number of Gamers: 53
   Percentage of Gamers: 14%
-  Ratio: 2.66
+  Ratio: 2.67
   TA: '26'
   Tags:
   - Offline Mode
@@ -732,33 +736,33 @@ Base Game Achievements:
   Description: Complete any championship in online co-op with a stranger.
   GS: '10'
   Guide: true
-  Number of Gamers: 62
+  Number of Gamers: 67
   Percentage of Gamers: 18%
-  Ratio: 2.37
+  Ratio: 2.35
   TA: '23'
   Tags:
   - Online Mode
   - Cooperative
-Base Ratio: 4.902
-Base TA: 4902
+Base Ratio: 5.035
+Base TA: 5035
 Delisted: false
 Developer: Double Stallion, 22nd Century Toys
 Game Name: Speed Brawl
 Genres: Beat 'em up
 Install Size: 2990.0
-Number of Completions: 2
-Number of Gamers: 353
+Number of Completions: 3
+Number of Gamers: 374
 Overall Completion Time:
-- 60
 - 61
+- 62
 Overall GS: 1000
-Overall Ratio: 4.902
-Overall TA: 4902
+Overall Ratio: 5.035
+Overall TA: 5035
 PDU: 0
-Percentage Completed: 0.57
+Percentage Completed: 0.8
 Publisher: Kongregate
 Release Date: 18 September 2018
 Server Closure: false
-Site Rating: 4.15
+Site Rating: 4.14
 Update Achievements: []
 Walkthrough: false

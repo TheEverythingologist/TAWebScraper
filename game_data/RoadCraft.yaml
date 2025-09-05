@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- 276
-- 277
+- 200.0
+- 300.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Easy rider
   Description: Travel 100 km
   GS: '10'
   Guide: false
-  Number of Gamers: 2518
-  Percentage of Gamers: 43%
-  Ratio: 1.51
-  TA: '15'
+  Number of Gamers: 2916
+  Percentage of Gamers: 45%
+  Ratio: 1.49
+  TA: '14'
   Tags:
   - Offline Mode
   - Single Player
@@ -20,44 +20,47 @@ Base Game Achievements:
   Description: Travel 5,000 km
   GS: '40'
   Guide: true
-  Number of Gamers: 6
+  Number of Gamers: 21
   Percentage of Gamers: 0%
-  Ratio: 31.12
-  TA: 1,244
+  Ratio: 17.59
+  TA: '703'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
+  - Time Consuming
 - Achievement Name: Hand-me-down
   Description: Receive your first Rusty vehicle
   GS: '10'
   Guide: true
-  Number of Gamers: 5797
+  Number of Gamers: 6482
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '10'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Main Storyline
 - Achievement Name: Baller on a budget
   Description: Receive all Rusty vehicles
   GS: '20'
   Guide: true
-  Number of Gamers: 412
-  Percentage of Gamers: 7%
-  Ratio: 3.75
-  TA: '75'
+  Number of Gamers: 748
+  Percentage of Gamers: 12%
+  Ratio: 2.94
+  TA: '58'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Main Storyline
 - Achievement Name: Baller
   Description: Purchase a Modern vehicle in every category
   GS: '40'
   Guide: false
-  Number of Gamers: 1256
-  Percentage of Gamers: 22%
-  Ratio: 2.15
-  TA: '86'
+  Number of Gamers: 1476
+  Percentage of Gamers: 23%
+  Ratio: 2.09
+  TA: '83'
   Tags:
   - Offline Mode
   - Single Player
@@ -66,7 +69,7 @@ Base Game Achievements:
   Description: Reinforce the endangered shoreline
   GS: '10'
   Guide: true
-  Number of Gamers: 4957
+  Number of Gamers: 5510
   Percentage of Gamers: 85%
   Ratio: 1.08
   TA: '10'
@@ -77,10 +80,10 @@ Base Game Achievements:
 - Achievement Name: When The Levee Breaks
   Description: Reconnect the town to the power plant
   GS: '10'
-  Guide: false
-  Number of Gamers: 3715
+  Guide: true
+  Number of Gamers: 4170
   Percentage of Gamers: 64%
-  Ratio: 1.25
+  Ratio: 1.24
   TA: '12'
   Tags:
   - Offline Mode
@@ -90,10 +93,10 @@ Base Game Achievements:
   Description: Restore region communications
   GS: '10'
   Guide: false
-  Number of Gamers: 1710
-  Percentage of Gamers: 29%
-  Ratio: 1.84
-  TA: '18'
+  Number of Gamers: 2090
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '17'
   Tags:
   - Offline Mode
   - Single Player
@@ -102,10 +105,10 @@ Base Game Achievements:
   Description: Recover all mining equipment
   GS: '10'
   Guide: true
-  Number of Gamers: 1355
-  Percentage of Gamers: 23%
-  Ratio: 2.07
-  TA: '20'
+  Number of Gamers: 1712
+  Percentage of Gamers: 26%
+  Ratio: 1.94
+  TA: '19'
   Tags:
   - Offline Mode
   - Single Player
@@ -113,11 +116,11 @@ Base Game Achievements:
 - Achievement Name: Rectify
   Description: Repair the region infrastructure and the dam
   GS: '20'
-  Guide: false
-  Number of Gamers: 407
-  Percentage of Gamers: 7%
-  Ratio: 3.78
-  TA: '75'
+  Guide: true
+  Number of Gamers: 745
+  Percentage of Gamers: 11%
+  Ratio: 2.95
+  TA: '59'
   Tags:
   - Offline Mode
   - Single Player
@@ -126,10 +129,10 @@ Base Game Achievements:
   Description: Rehabilitate the region gas industry and logistics
   GS: '20'
   Guide: false
-  Number of Gamers: 507
-  Percentage of Gamers: 9%
-  Ratio: 3.38
-  TA: '67'
+  Number of Gamers: 875
+  Percentage of Gamers: 13%
+  Ratio: 2.72
+  TA: '54'
   Tags:
   - Offline Mode
   - Single Player
@@ -138,10 +141,10 @@ Base Game Achievements:
   Description: Relaunch region electricity production and research facility
   GS: '40'
   Guide: false
-  Number of Gamers: 406
-  Percentage of Gamers: 7%
-  Ratio: 3.78
-  TA: '151'
+  Number of Gamers: 746
+  Percentage of Gamers: 11%
+  Ratio: 2.95
+  TA: '118'
   Tags:
   - Offline Mode
   - Single Player
@@ -150,21 +153,22 @@ Base Game Achievements:
   Description: Investigate the geothermal plant failure
   GS: '40'
   Guide: false
-  Number of Gamers: 110
-  Percentage of Gamers: 2%
-  Ratio: 7.26
-  TA: '290'
+  Number of Gamers: 350
+  Percentage of Gamers: 5%
+  Ratio: 4.3
+  TA: '172'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
+  - Story Completed
 - Achievement Name: It Flows
   Description: Pour 500 tons of sand
   GS: '20'
   Guide: false
-  Number of Gamers: 2593
-  Percentage of Gamers: 45%
-  Ratio: 1.49
+  Number of Gamers: 2984
+  Percentage of Gamers: 46%
+  Ratio: 1.47
   TA: '29'
   Tags:
   - Offline Mode
@@ -174,10 +178,10 @@ Base Game Achievements:
   Description: Find and sell all Toy vehicles
   GS: '40'
   Guide: true
-  Number of Gamers: 32
-  Percentage of Gamers: 1%
-  Ratio: 13.47
-  TA: '539'
+  Number of Gamers: 116
+  Percentage of Gamers: 2%
+  Ratio: 7.48
+  TA: '299'
   Tags:
   - Offline Mode
   - Single Player
@@ -187,7 +191,7 @@ Base Game Achievements:
   Description: Build your first asphalt road
   GS: '10'
   Guide: false
-  Number of Gamers: 4418
+  Number of Gamers: 4929
   Percentage of Gamers: 76%
   Ratio: 1.14
   TA: '11'
@@ -198,10 +202,10 @@ Base Game Achievements:
 - Achievement Name: Patchwork
   Description: Pave 1000 m2 of asphalt
   GS: '20'
-  Guide: true
-  Number of Gamers: 2636
-  Percentage of Gamers: 45%
-  Ratio: 1.48
+  Guide: false
+  Number of Gamers: 3084
+  Percentage of Gamers: 47%
+  Ratio: 1.45
   TA: '29'
   Tags:
   - Offline Mode
@@ -211,9 +215,9 @@ Base Game Achievements:
   Description: Have 250 vehicles successfully travel along the routes you've plotted
   GS: '20'
   Guide: false
-  Number of Gamers: 3226
-  Percentage of Gamers: 56%
-  Ratio: 1.34
+  Number of Gamers: 3708
+  Percentage of Gamers: 57%
+  Ratio: 1.32
   TA: '26'
   Tags:
   - Offline Mode
@@ -223,10 +227,10 @@ Base Game Achievements:
   Description: Have 750 vehicles successfully travel along the routes you've plotted
   GS: '40'
   Guide: true
-  Number of Gamers: 1863
-  Percentage of Gamers: 32%
-  Ratio: 1.76
-  TA: '70'
+  Number of Gamers: 2284
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '67'
   Tags:
   - Offline Mode
   - Single Player
@@ -235,10 +239,10 @@ Base Game Achievements:
   Description: Complete all Side Objectives (base game)
   GS: '40'
   Guide: false
-  Number of Gamers: 92
-  Percentage of Gamers: 2%
-  Ratio: 7.94
-  TA: '317'
+  Number of Gamers: 288
+  Percentage of Gamers: 4%
+  Ratio: 4.75
+  TA: '190'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -246,10 +250,10 @@ Base Game Achievements:
   Description: Purchase 25 Resources from Construction Depots
   GS: '10'
   Guide: true
-  Number of Gamers: 566
-  Percentage of Gamers: 10%
-  Ratio: 3.2
-  TA: '32'
+  Number of Gamers: 839
+  Percentage of Gamers: 13%
+  Ratio: 2.78
+  TA: '27'
   Tags:
   - Offline Mode
   - Single Player
@@ -259,10 +263,10 @@ Base Game Achievements:
   Description: Sell 50 Resources to Construction Depots
   GS: '20'
   Guide: true
-  Number of Gamers: 312
-  Percentage of Gamers: 5%
-  Ratio: 4.31
-  TA: '86'
+  Number of Gamers: 491
+  Percentage of Gamers: 8%
+  Ratio: 3.63
+  TA: '72'
   Tags:
   - Offline Mode
   - Single Player
@@ -271,21 +275,22 @@ Base Game Achievements:
   Description: Visit all rest spots on Deluge
   GS: '20'
   Guide: true
-  Number of Gamers: 122
-  Percentage of Gamers: 2%
-  Ratio: 6.9
-  TA: '138'
+  Number of Gamers: 251
+  Percentage of Gamers: 4%
+  Ratio: 5.08
+  TA: '101'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Collectable
 - Achievement Name: Dam Son
   Description: Help a strange guy build his own dam on Deluge
   GS: '40'
   Guide: true
-  Number of Gamers: 563
-  Percentage of Gamers: 10%
-  Ratio: 3.21
-  TA: '128'
+  Number of Gamers: 888
+  Percentage of Gamers: 14%
+  Ratio: 2.7
+  TA: '108'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -293,10 +298,10 @@ Base Game Achievements:
   Description: Find a future reference on Deluge
   GS: '10'
   Guide: true
-  Number of Gamers: 293
-  Percentage of Gamers: 5%
-  Ratio: 4.46
-  TA: '44'
+  Number of Gamers: 520
+  Percentage of Gamers: 8%
+  Ratio: 3.53
+  TA: '35'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -304,10 +309,10 @@ Base Game Achievements:
   Description: Revisit the facilities you worked with on Aftermath
   GS: '10'
   Guide: true
-  Number of Gamers: 378
-  Percentage of Gamers: 7%
-  Ratio: 3.92
-  TA: '39'
+  Number of Gamers: 513
+  Percentage of Gamers: 8%
+  Ratio: 3.55
+  TA: '35'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -315,10 +320,10 @@ Base Game Achievements:
   Description: Find all the ships thrown ashore on Aftermath
   GS: '10'
   Guide: true
-  Number of Gamers: 340
-  Percentage of Gamers: 6%
-  Ratio: 4.13
-  TA: '41'
+  Number of Gamers: 461
+  Percentage of Gamers: 7%
+  Ratio: 3.75
+  TA: '37'
   Tags:
   - Offline Mode
   - Single Player
@@ -328,10 +333,10 @@ Base Game Achievements:
     them successfully cross it
   GS: '20'
   Guide: true
-  Number of Gamers: 551
-  Percentage of Gamers: 9%
-  Ratio: 3.24
-  TA: '64'
+  Number of Gamers: 725
+  Percentage of Gamers: 11%
+  Ratio: 2.99
+  TA: '59'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -339,10 +344,10 @@ Base Game Achievements:
   Description: Fully drain out all rewards from the route to the castle on Sunken
   GS: '20'
   Guide: true
-  Number of Gamers: 771
-  Percentage of Gamers: 13%
-  Ratio: 2.74
-  TA: '54'
+  Number of Gamers: 999
+  Percentage of Gamers: 15%
+  Ratio: 2.55
+  TA: '51'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -350,10 +355,10 @@ Base Game Achievements:
   Description: Visit the Sabertooth island on Sunken
   GS: '20'
   Guide: true
-  Number of Gamers: 369
-  Percentage of Gamers: 6%
-  Ratio: 3.96
-  TA: '79'
+  Number of Gamers: 515
+  Percentage of Gamers: 8%
+  Ratio: 3.55
+  TA: '71'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -361,10 +366,10 @@ Base Game Achievements:
   Description: Perform an insane jump in jungle area on Sojourn
   GS: '10'
   Guide: true
-  Number of Gamers: 167
-  Percentage of Gamers: 3%
-  Ratio: 5.89
-  TA: '58'
+  Number of Gamers: 324
+  Percentage of Gamers: 5%
+  Ratio: 4.47
+  TA: '44'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -372,10 +377,10 @@ Base Game Achievements:
   Description: Ruin the orange harvest on Sojourn
   GS: '20'
   Guide: true
-  Number of Gamers: 179
-  Percentage of Gamers: 3%
-  Ratio: 5.69
-  TA: '113'
+  Number of Gamers: 342
+  Percentage of Gamers: 5%
+  Ratio: 4.35
+  TA: '87'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -383,10 +388,10 @@ Base Game Achievements:
   Description: Find a well with unusual properties on Sojourn
   GS: '20'
   Guide: true
-  Number of Gamers: 179
-  Percentage of Gamers: 3%
-  Ratio: 5.69
-  TA: '113'
+  Number of Gamers: 326
+  Percentage of Gamers: 5%
+  Ratio: 4.46
+  TA: '89'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -394,10 +399,10 @@ Base Game Achievements:
   Description: You wanna rock?!
   GS: '20'
   Guide: true
-  Number of Gamers: 168
-  Percentage of Gamers: 3%
-  Ratio: 5.89
-  TA: '117'
+  Number of Gamers: 327
+  Percentage of Gamers: 5%
+  Ratio: 4.45
+  TA: '89'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -405,10 +410,10 @@ Base Game Achievements:
   Description: Do you hear a distant screaming?
   GS: '10'
   Guide: true
-  Number of Gamers: 205
-  Percentage of Gamers: 4%
-  Ratio: 5.32
-  TA: '53'
+  Number of Gamers: 375
+  Percentage of Gamers: 6%
+  Ratio: 4.16
+  TA: '41'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -416,10 +421,10 @@ Base Game Achievements:
   Description: That sure was a leap
   GS: '10'
   Guide: true
-  Number of Gamers: 118
-  Percentage of Gamers: 2%
-  Ratio: 7.01
-  TA: '70'
+  Number of Gamers: 247
+  Percentage of Gamers: 4%
+  Ratio: 5.12
+  TA: '51'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -427,10 +432,10 @@ Base Game Achievements:
   Description: Thoroughly make sure all geysers are indeed geysers on Kernel
   GS: '20'
   Guide: true
-  Number of Gamers: 56
-  Percentage of Gamers: 1%
-  Ratio: 10.18
-  TA: '203'
+  Number of Gamers: 172
+  Percentage of Gamers: 3%
+  Ratio: 6.14
+  TA: '122'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -438,10 +443,10 @@ Base Game Achievements:
   Description: Ruin a beautiful thing on Kernel (you monster)
   GS: '10'
   Guide: true
-  Number of Gamers: 67
-  Percentage of Gamers: 1%
-  Ratio: 9.31
-  TA: '93'
+  Number of Gamers: 186
+  Percentage of Gamers: 3%
+  Ratio: 5.91
+  TA: '59'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -449,10 +454,10 @@ Base Game Achievements:
   Description: Construct 30 bridges
   GS: '40'
   Guide: true
-  Number of Gamers: 313
-  Percentage of Gamers: 5%
-  Ratio: 4.31
-  TA: '172'
+  Number of Gamers: 584
+  Percentage of Gamers: 9%
+  Ratio: 3.33
+  TA: '133'
   Tags:
   - Offline Mode
   - Single Player
@@ -461,10 +466,10 @@ Base Game Achievements:
   Description: Flood your engine 10 times
   GS: '20'
   Guide: true
-  Number of Gamers: 777
-  Percentage of Gamers: 13%
-  Ratio: 2.73
-  TA: '54'
+  Number of Gamers: 1098
+  Percentage of Gamers: 17%
+  Ratio: 2.43
+  TA: '48'
   Tags:
   - Offline Mode
   - Single Player
@@ -473,9 +478,9 @@ Base Game Achievements:
   Description: Freefall 15m in a single leap
   GS: '20'
   Guide: true
-  Number of Gamers: 2677
-  Percentage of Gamers: 46%
-  Ratio: 1.47
+  Number of Gamers: 3080
+  Percentage of Gamers: 47%
+  Ratio: 1.45
   TA: '29'
   Tags:
   - Offline Game Mode
@@ -484,10 +489,10 @@ Base Game Achievements:
   Description: Feel the need to refuel?
   GS: '40'
   Guide: true
-  Number of Gamers: 69
-  Percentage of Gamers: 1%
-  Ratio: 9.17
-  TA: '367'
+  Number of Gamers: 192
+  Percentage of Gamers: 3%
+  Ratio: 5.81
+  TA: '232'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -495,44 +500,42 @@ Base Game Achievements:
   Description: Complete all achievements
   GS: '100'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 20
   Percentage of Gamers: 0%
-  Ratio: 38.11
-  TA: 3,811
-  Tags:
-  - Offline Game Mode
-  - Single Player
+  Ratio: 18.02
+  TA: 1,802
+  Tags: []
 - Achievement Name: Open for business
   Description: Restore the Construction Depot on Incommunicado
   GS: '10'
   Guide: true
-  Number of Gamers: 2128
-  Percentage of Gamers: 37%
-  Ratio: 1.65
+  Number of Gamers: 2503
+  Percentage of Gamers: 39%
+  Ratio: 1.61
   TA: '16'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 9.068
-Base TA: 9068
+Base Ratio: 5.418
+Base TA: 5418
 Delisted: false
 Developer: Saber Interactive
 Game Name: RoadCraft
 Genres: Simulation
 Install Size: 29230.0
-Number of Completions: 4
-Number of Gamers: 5811
+Number of Completions: 20
+Number of Gamers: 6498
 Overall Completion Time:
-- 276
-- 277
+- 200.0
+- 300.0
 Overall GS: 1000
-Overall Ratio: 9.068
-Overall TA: 9068
+Overall Ratio: 5.418
+Overall TA: 5418
 PDU: 0
-Percentage Completed: 0.07
+Percentage Completed: 0.31
 Publisher: Focus Entertainment
 Release Date: 19 May 2025
 Server Closure: false
-Site Rating: 4.47
+Site Rating: 4.2
 Update Achievements: []
 Walkthrough: false

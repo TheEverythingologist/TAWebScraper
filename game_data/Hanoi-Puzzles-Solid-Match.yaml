@@ -1,59 +1,14 @@
-Add On Achievements:
-- Achievement Name: Shortcut Star!
-  Description: Solve at least 8 levels with less moves than the sugested.
-  GS: '200'
-  Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 50%
-  Ratio: 4.86
-  TA: '972'
-  Tags: []
-- Achievement Name: Double Match! Level 10
-  Description: Complete 2 towers in a row at Level 10.
-  GS: '200'
-  Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 88%
-  Ratio: 3.43
-  TA: '687'
-  Tags: []
-- Achievement Name: Triple Match! Level 13
-  Description: Complete 3 towers in a row at Level 13.
-  GS: '200'
-  Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 88%
-  Ratio: 3.43
-  TA: '687'
-  Tags: []
-- Achievement Name: Undo Level 10
-  Description: Undo a movement at Level 10.
-  GS: '200'
-  Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 88%
-  Ratio: 3.43
-  TA: '687'
-  Tags: []
-- Achievement Name: Fresh Start Level 18
-  Description: Restart Level 18 after making a mistake.
-  GS: '200'
-  Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 100%
-  Ratio: 2.8
-  TA: '561'
-  Tags: []
+Add On Achievements: []
 Base Completion Time:
 - 0.5
-- 1.0
-Base GS: 1000
+- 1.5
+Base GS: 2000
 Base Game Achievements:
 - Achievement Name: First tower built
   Description: Complete Level 1
   GS: '5'
   Guide: false
-  Number of Gamers: 186
+  Number of Gamers: 231
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '5'
@@ -65,8 +20,8 @@ Base Game Achievements:
   Description: Complete Level 10
   GS: '10'
   Guide: false
-  Number of Gamers: 166
-  Percentage of Gamers: 89%
+  Number of Gamers: 207
+  Percentage of Gamers: 90%
   Ratio: 1.05
   TA: '10'
   Tags:
@@ -77,9 +32,9 @@ Base Game Achievements:
   Description: Complete Level 20
   GS: '20'
   Guide: false
-  Number of Gamers: 143
+  Number of Gamers: 179
   Percentage of Gamers: 77%
-  Ratio: 1.14
+  Ratio: 1.13
   TA: '22'
   Tags:
   - Offline Mode
@@ -89,8 +44,8 @@ Base Game Achievements:
   Description: Complete Level 30
   GS: '30'
   Guide: false
-  Number of Gamers: 133
-  Percentage of Gamers: 72%
+  Number of Gamers: 165
+  Percentage of Gamers: 71%
   Ratio: 1.18
   TA: '35'
   Tags:
@@ -101,7 +56,7 @@ Base Game Achievements:
   Description: Complete Level 40
   GS: '40'
   Guide: false
-  Number of Gamers: 129
+  Number of Gamers: 160
   Percentage of Gamers: 69%
   Ratio: 1.2
   TA: '48'
@@ -113,7 +68,7 @@ Base Game Achievements:
   Description: Complete Half of the game with any number of moves
   GS: '75'
   Guide: false
-  Number of Gamers: 138
+  Number of Gamers: 171
   Percentage of Gamers: 74%
   Ratio: 1.16
   TA: '87'
@@ -124,7 +79,7 @@ Base Game Achievements:
   Description: Complete Half of the game within the number of moves suggested
   GS: '125'
   Guide: false
-  Number of Gamers: 128
+  Number of Gamers: 159
   Percentage of Gamers: 69%
   Ratio: 1.2
   TA: '150'
@@ -135,33 +90,35 @@ Base Game Achievements:
   Description: Finish the game with any number of moves
   GS: '150'
   Guide: false
-  Number of Gamers: 127
+  Number of Gamers: 158
   Percentage of Gamers: 68%
-  Ratio: 1.21
+  Ratio: 1.2
   TA: '181'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
+  - Partly Discontinued/Unobtainable
 - Achievement Name: Hanoi Master
   Description: Complete the game within the number of moves suggested
   GS: '200'
   Guide: true
-  Number of Gamers: 124
+  Number of Gamers: 154
   Percentage of Gamers: 67%
   Ratio: 1.22
   TA: '244'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Partly Discontinued/Unobtainable
 - Achievement Name: I Found a Shortcut!
   Description: Solve a level with less moves than the sugested
   GS: '145'
   Guide: false
-  Number of Gamers: 129
-  Percentage of Gamers: 69%
-  Ratio: 1.2
-  TA: '174'
+  Number of Gamers: 161
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '173'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -169,34 +126,79 @@ Base Game Achievements:
   Description: Solve at least 5 levels with less moves than the sugested
   GS: '200'
   Guide: false
-  Number of Gamers: 125
-  Percentage of Gamers: 67%
+  Number of Gamers: 156
+  Percentage of Gamers: 68%
   Ratio: 1.21
   TA: '243'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 1.199
-Base TA: 1199
+Base Ratio: 1.272
+Base TA: 2544
 Delisted: false
 Developer: Hanoi Studios
 Game Name: 'Hanoi Puzzles: Solid Match'
 Genres: Puzzle
 Install Size: 558.0
-Number of Completions: 4
-Number of Gamers: 186
+Number of Completions: 120
+Number of Gamers: 231
 Overall Completion Time:
 - 0.5
-- 1.0
+- 1.5
 Overall GS: 2000
-Overall Ratio: 2.3965
-Overall TA: 4793
+Overall Ratio: 1.272
+Overall TA: 2544
 PDU: 0
-Percentage Completed: 2.15
+Percentage Completed: 51.95
 Publisher: Hanoi Studios
 Release Date: 28 February 2025
 Server Closure: false
-Site Rating: 2.54
-Update Achievements: []
+Site Rating: 2.72
+Update Achievements:
+- Achievement Name: Shortcut Star!
+  Description: Solve at least 8 levels with less moves than the sugested.
+  GS: '200'
+  Guide: false
+  Number of Gamers: 121
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '276'
+  Tags: []
+- Achievement Name: Double Match! Level 10
+  Description: Complete 2 towers in a row at Level 10.
+  GS: '200'
+  Guide: false
+  Number of Gamers: 130
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '266'
+  Tags: []
+- Achievement Name: Triple Match! Level 13
+  Description: Complete 3 towers in a row at Level 13.
+  GS: '200'
+  Guide: false
+  Number of Gamers: 127
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '269'
+  Tags: []
+- Achievement Name: Undo Level 10
+  Description: Undo a movement at Level 10.
+  GS: '200'
+  Guide: false
+  Number of Gamers: 128
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '268'
+  Tags: []
+- Achievement Name: Fresh Start Level 18
+  Description: Restart Level 18 after making a mistake.
+  GS: '200'
+  Guide: false
+  Number of Gamers: 129
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '267'
+  Tags: []
 Walkthrough: false

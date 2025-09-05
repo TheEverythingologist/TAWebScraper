@@ -8,271 +8,349 @@ Base Game Achievements:
   Description: Watch the Opening
   GS: '10'
   Guide: false
-  Number of Gamers: 82
-  Percentage of Gamers: 100%
+  Number of Gamers: 113
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: The Birth of Cyborg Kevin
   Description: Complete the Tutorial
   GS: '10'
   Guide: false
-  Number of Gamers: 69
-  Percentage of Gamers: 84%
+  Number of Gamers: 94
+  Percentage of Gamers: 82%
   Ratio: 1.09
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: No Pain, No Gain
   Description: First Death
   GS: '10'
   Guide: false
-  Number of Gamers: 59
-  Percentage of Gamers: 72%
+  Number of Gamers: 81
+  Percentage of Gamers: 71%
   Ratio: 1.17
   TA: '11'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Kevin, The Beginning of Counterattack
   Description: Clear New Earth Stage 1
   GS: '10'
   Guide: false
-  Number of Gamers: 62
-  Percentage of Gamers: 76%
-  Ratio: 1.15
+  Number of Gamers: 83
+  Percentage of Gamers: 73%
+  Ratio: 1.16
   TA: '11'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Clear on Normal Difficulty
   Description: Clear on Normal Difficulty
   GS: '50'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 5%
-  Ratio: 4.52
-  TA: '226'
-  Tags: []
+  Number of Gamers: 5
+  Percentage of Gamers: 4%
+  Ratio: 4.73
+  TA: '236'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
 - Achievement Name: Clear on Hard Difficulty
   Description: Clear on Hard Difficulty
   GS: '100'
   Guide: false
   Number of Gamers: 1
   Percentage of Gamers: 1%
-  Ratio: 9.05
-  TA: '905'
-  Tags: []
+  Ratio: 10.58
+  TA: 1,058
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
 - Achievement Name: Clear on Hell Difficulty
   Description: Clear on Hell Difficulty
   GS: '150'
   Guide: true
   Number of Gamers: 1
   Percentage of Gamers: 1%
-  Ratio: 9.05
-  TA: 1,358
-  Tags: []
+  Ratio: 10.58
+  TA: 1,587
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
 - Achievement Name: Collect 3 Collectibles
   Description: Collect 3 Collectibles
   GS: '10'
   Guide: false
-  Number of Gamers: 21
-  Percentage of Gamers: 26%
-  Ratio: 1.97
-  TA: '19'
-  Tags: []
+  Number of Gamers: 27
+  Percentage of Gamers: 24%
+  Ratio: 2.03
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Collect 7 Collectibles
   Description: Collect 7 Collectibles
   GS: '10'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 10%
-  Ratio: 3.2
-  TA: '32'
-  Tags: []
+  Number of Gamers: 10
+  Percentage of Gamers: 9%
+  Ratio: 3.34
+  TA: '33'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Collect 12 Collectibles
   Description: Collect 12 Collectibles
   GS: '10'
   Guide: false
-  Number of Gamers: 5
+  Number of Gamers: 7
   Percentage of Gamers: 6%
-  Ratio: 4.04
+  Ratio: 4.0
   TA: '40'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Collect All Collectibles
   Description: Collect All Collectibles
   GS: '10'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 1%
-  Ratio: 9.05
-  TA: '90'
-  Tags: []
+  Number of Gamers: 2
+  Percentage of Gamers: 2%
+  Ratio: 7.48
+  TA: '74'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Collect 20 UPC Medals
   Description: Collect 20 UPC Medals
   GS: '10'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 13%
-  Ratio: 2.73
-  TA: '27'
-  Tags: []
+  Number of Gamers: 14
+  Percentage of Gamers: 12%
+  Ratio: 2.82
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Collect 40 UPC Medals
   Description: Collect 40 UPC Medals
   GS: '10'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 6
   Percentage of Gamers: 5%
-  Ratio: 4.52
-  TA: '45'
-  Tags: []
+  Ratio: 4.32
+  TA: '43'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Collect All UPC Medals
   Description: Collect All UPC Medals
   GS: '10'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 1%
-  Ratio: 9.05
-  TA: '90'
-  Tags: []
+  Number of Gamers: 2
+  Percentage of Gamers: 2%
+  Ratio: 7.48
+  TA: '74'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Achieve First Kill
   Description: Achieve First Kill
   GS: '10'
   Guide: false
-  Number of Gamers: 67
-  Percentage of Gamers: 82%
+  Number of Gamers: 91
+  Percentage of Gamers: 80%
   Ratio: 1.11
   TA: '11'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Achieve 100 Kills
   Description: Achieve 100 Kills
   GS: '10'
   Guide: false
-  Number of Gamers: 50
-  Percentage of Gamers: 61%
-  Ratio: 1.28
+  Number of Gamers: 68
+  Percentage of Gamers: 60%
+  Ratio: 1.29
   TA: '12'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Achieve 500 Kills
   Description: Achieve 500 Kills
   GS: '10'
   Guide: false
-  Number of Gamers: 20
-  Percentage of Gamers: 24%
-  Ratio: 2.02
+  Number of Gamers: 28
+  Percentage of Gamers: 25%
+  Ratio: 2.0
   TA: '20'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Achieve 1,000 Kills
   Description: Achieve 1,000 Kills
   GS: '10'
   Guide: false
-  Number of Gamers: 13
+  Number of Gamers: 18
   Percentage of Gamers: 16%
-  Ratio: 2.51
-  TA: '25'
-  Tags: []
+  Ratio: 2.49
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Achieve 5,000 Kills
   Description: Achieve 5,000 Kills
   GS: '10'
   Guide: false
-  Number of Gamers: 5
+  Number of Gamers: 7
   Percentage of Gamers: 6%
-  Ratio: 4.04
+  Ratio: 4.0
   TA: '40'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Achieve 10,000 Kills
   Description: Achieve 10,000 Kills
   GS: '10'
   Guide: false
   Number of Gamers: 2
   Percentage of Gamers: 2%
-  Ratio: 6.4
-  TA: '64'
-  Tags: []
+  Ratio: 7.48
+  TA: '74'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Obtain All Suits
   Description: Obtain All Suits
   GS: '30'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 2%
-  Ratio: 6.4
-  TA: '192'
-  Tags: []
+  Number of Gamers: 3
+  Percentage of Gamers: 3%
+  Ratio: 6.11
+  TA: '183'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Complete Ellix Notes
   Description: Complete Ellix Notes
   GS: '50'
   Guide: false
   Number of Gamers: 1
   Percentage of Gamers: 1%
-  Ratio: 9.05
-  TA: '452'
-  Tags: []
+  Ratio: 10.58
+  TA: '529'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Obtain Magical Girl Suit
   Description: Obtain Magical Girl Suit
   GS: '50'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 6
   Percentage of Gamers: 5%
-  Ratio: 4.52
-  TA: '226'
-  Tags: []
+  Ratio: 4.32
+  TA: '216'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Obtain Hammer and Thunder Suit
   Description: Obtain Hammer and Thunder Suit
   GS: '50'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 2%
-  Ratio: 6.4
-  TA: '320'
-  Tags: []
+  Number of Gamers: 4
+  Percentage of Gamers: 4%
+  Ratio: 5.29
+  TA: '264'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Obtain Axe Man Suit
   Description: Obtain Axe Man Suit
   GS: '50'
   Guide: false
-  Number of Gamers: 3
+  Number of Gamers: 4
   Percentage of Gamers: 4%
-  Ratio: 5.22
-  TA: '261'
-  Tags: []
+  Ratio: 5.29
+  TA: '264'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Just Melee Attacker
   Description: Clear 3 or more Normal stages using only melee attacks
   GS: '50'
   Guide: true
-  Number of Gamers: 10
-  Percentage of Gamers: 12%
-  Ratio: 2.86
-  TA: '143'
-  Tags: []
+  Number of Gamers: 12
+  Percentage of Gamers: 11%
+  Ratio: 3.19
+  TA: '159'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: The End is a New Beginning
   Description: Watch the Ending
   GS: '50'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 5%
-  Ratio: 4.52
-  TA: '226'
-  Tags: []
+  Number of Gamers: 5
+  Percentage of Gamers: 4%
+  Ratio: 4.73
+  TA: '236'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: I'm Not a Disposable Item
   Description: Clear All Difficulties
   GS: '200'
   Guide: true
   Number of Gamers: 1
   Percentage of Gamers: 1%
-  Ratio: 9.05
-  TA: 1,811
-  Tags: []
-Base Ratio: 6.677
-Base TA: 6677
+  Ratio: 10.58
+  TA: 2,116
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Multiple Playthroughs Required
+Base Ratio: 7.383
+Base TA: 7383
 Delisted: false
 Developer: Eggtart
 Game Name: 'METAL SUITS: Counter-attack'
 Genres: Run & Gun
 Install Size: 1820.0
 Number of Completions: 1
-Number of Gamers: 82
+Number of Gamers: 114
 Overall Completion Time:
 - 35
 - 36
 Overall GS: 1000
-Overall Ratio: 6.677
-Overall TA: 6677
+Overall Ratio: 7.383
+Overall TA: 7383
 PDU: 0
-Percentage Completed: 1.22
+Percentage Completed: 0.88
 Publisher: Eggtart
 Release Date: 13 February 2025
 Server Closure: false

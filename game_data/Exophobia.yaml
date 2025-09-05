@@ -8,9 +8,9 @@ Base Game Achievements:
   Description: Defeat Mecha Alien
   GS: '15'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 43%
-  Ratio: 1.53
+  Number of Gamers: 27
+  Percentage of Gamers: 44%
+  Ratio: 1.5
   TA: '22'
   Tags:
   - Offline Mode
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Defeat ship's main core
   GS: '15'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 8%
-  Ratio: 3.49
-  TA: '52'
+  Number of Gamers: 7
+  Percentage of Gamers: 11%
+  Ratio: 2.95
+  TA: '44'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Defeat the secret rival...
   GS: '15'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 30%
-  Ratio: 1.84
-  TA: '27'
+  Number of Gamers: 19
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '26'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Defeat rival in round 2
   GS: '15'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 16%
-  Ratio: 2.46
-  TA: '37'
+  Number of Gamers: 11
+  Percentage of Gamers: 18%
+  Ratio: 2.35
+  TA: '35'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Defeat the Hunter
   GS: '15'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 8%
-  Ratio: 3.49
-  TA: '52'
+  Number of Gamers: 7
+  Percentage of Gamers: 11%
+  Ratio: 2.95
+  TA: '44'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: Defeat the giant worm
   GS: '15'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 7%
-  Ratio: 3.9
-  TA: '58'
+  Number of Gamers: 6
+  Percentage of Gamers: 10%
+  Ratio: 3.18
+  TA: '47'
   Tags:
   - Offline Mode
   - Single Player
@@ -92,9 +92,9 @@ Base Game Achievements:
   Description: Get the charge upgrade
   GS: '15'
   Guide: false
-  Number of Gamers: 40
-  Percentage of Gamers: 66%
-  Ratio: 1.23
+  Number of Gamers: 41
+  Percentage of Gamers: 67%
+  Ratio: 1.21
   TA: '18'
   Tags:
   - Offline Mode
@@ -104,10 +104,10 @@ Base Game Achievements:
   Description: Get the shockwave upgrade
   GS: '15'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 21%
-  Ratio: 2.16
-  TA: '32'
+  Number of Gamers: 14
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '31'
   Tags:
   - Offline Mode
   - Single Player
@@ -116,10 +116,10 @@ Base Game Achievements:
   Description: Get the teleport upgrade
   GS: '15'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 13%
-  Ratio: 2.76
-  TA: '41'
+  Number of Gamers: 10
+  Percentage of Gamers: 16%
+  Ratio: 2.46
+  TA: '37'
   Tags:
   - Offline Mode
   - Single Player
@@ -128,10 +128,10 @@ Base Game Achievements:
   Description: Get the blast upgrade
   GS: '15'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 8%
-  Ratio: 3.49
-  TA: '52'
+  Number of Gamers: 7
+  Percentage of Gamers: 11%
+  Ratio: 2.95
+  TA: '44'
   Tags:
   - Offline Mode
   - Single Player
@@ -140,71 +140,17 @@ Base Game Achievements:
   Description: Beat the game
   GS: '30'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 5%
-  Ratio: 4.5
-  TA: '135'
+  Number of Gamers: 4
+  Percentage of Gamers: 7%
+  Ratio: 3.9
+  TA: '117'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
+  - Story Completed
 - Achievement Name: Cooked to Death
   Description: Push an alien into the end of a conveyor belt
-  GS: '15'
-  Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 18%
-  Ratio: 2.35
-  TA: '35'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: Pest Control
-  Description: Kill 10 bugs with a single shockwave
-  GS: '15'
-  Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 18%
-  Ratio: 2.35
-  TA: '35'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: Strike!!
-  Description: Explode a robot into other
-  GS: '15'
-  Guide: true
-  Number of Gamers: 2
-  Percentage of Gamers: 3%
-  Ratio: 5.52
-  TA: '82'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: Bye bye!
-  Description: Push an alien out of the spaceship
-  GS: '15'
-  Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 16%
-  Ratio: 2.46
-  TA: '37'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: Blue Bullets
-  Description: Hold a charge for 30 seconds
-  GS: '15'
-  Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 44%
-  Ratio: 1.5
-  TA: '22'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: Zap Zap Zap!
-  Description: Deflect 5 bullets with a shockwave
   GS: '15'
   Guide: false
   Number of Gamers: 13
@@ -212,33 +158,10 @@ Base Game Achievements:
   Ratio: 2.16
   TA: '32'
   Tags:
-  - Offline Mode
-  - Single Player
-  - Cumulative +
-- Achievement Name: Fast Travel
-  Description: Teleport over a big, big distance
-  GS: '15'
-  Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 5%
-  Ratio: 4.5
-  TA: '67'
-  Tags:
   - Offline Game Mode
   - Single Player
-- Achievement Name: BOOM!
-  Description: Kill 5 enemies with a single explosion
-  GS: '15'
-  Guide: true
-  Number of Gamers: 5
-  Percentage of Gamers: 8%
-  Ratio: 3.49
-  TA: '52'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: Powered up!
-  Description: Equip all 3 powerups at the same time
+- Achievement Name: Pest Control
+  Description: Kill 10 bugs with a single shockwave
   GS: '15'
   Guide: false
   Number of Gamers: 12
@@ -248,14 +171,92 @@ Base Game Achievements:
   Tags:
   - Offline Game Mode
   - Single Player
-- Achievement Name: I'm a Fortress
-  Description: Absorb two explosions with a helmet
+- Achievement Name: Strike!!
+  Description: Explode a robot into other
+  GS: '15'
+  Guide: true
+  Number of Gamers: 3
+  Percentage of Gamers: 5%
+  Ratio: 4.5
+  TA: '67'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Bye bye!
+  Description: Push an alien out of the spaceship
+  GS: '15'
+  Guide: false
+  Number of Gamers: 12
+  Percentage of Gamers: 20%
+  Ratio: 2.25
+  TA: '33'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Blue Bullets
+  Description: Hold a charge for 30 seconds
+  GS: '15'
+  Guide: false
+  Number of Gamers: 28
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '22'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Zap Zap Zap!
+  Description: Deflect 5 bullets with a shockwave
+  GS: '15'
+  Guide: false
+  Number of Gamers: 14
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Fast Travel
+  Description: Teleport over a big, big distance
   GS: '15'
   Guide: false
   Number of Gamers: 5
   Percentage of Gamers: 8%
   Ratio: 3.49
   TA: '52'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: BOOM!
+  Description: Kill 5 enemies with a single explosion
+  GS: '15'
+  Guide: true
+  Number of Gamers: 7
+  Percentage of Gamers: 11%
+  Ratio: 2.95
+  TA: '44'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Powered up!
+  Description: Equip all 3 powerups at the same time
+  GS: '15'
+  Guide: false
+  Number of Gamers: 13
+  Percentage of Gamers: 21%
+  Ratio: 2.16
+  TA: '32'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: I'm a Fortress
+  Description: Absorb two explosions with a helmet
+  GS: '15'
+  Guide: true
+  Number of Gamers: 6
+  Percentage of Gamers: 10%
+  Ratio: 3.18
+  TA: '47'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -263,10 +264,10 @@ Base Game Achievements:
   Description: Jetpack for 10 seconds straight
   GS: '15'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 8%
-  Ratio: 3.49
-  TA: '52'
+  Number of Gamers: 6
+  Percentage of Gamers: 10%
+  Ratio: 3.18
+  TA: '47'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -274,10 +275,10 @@ Base Game Achievements:
   Description: Kill 20 enemies with your drone
   GS: '15'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 21%
-  Ratio: 2.16
-  TA: '32'
+  Number of Gamers: 14
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '31'
   Tags:
   - Offline Mode
   - Single Player
@@ -297,10 +298,10 @@ Base Game Achievements:
   Description: Hold more than 10 items at the same time
   GS: '15'
   Guide: true
-  Number of Gamers: 2
-  Percentage of Gamers: 3%
-  Ratio: 5.52
-  TA: '82'
+  Number of Gamers: 3
+  Percentage of Gamers: 5%
+  Ratio: 4.5
+  TA: '67'
   Tags:
   - Offline Mode
   - Single Player
@@ -321,10 +322,10 @@ Base Game Achievements:
   Description: Complete the game without dying once
   GS: '30'
   Guide: true
-  Number of Gamers: 1
-  Percentage of Gamers: 2%
-  Ratio: 7.81
-  TA: '234'
+  Number of Gamers: 3
+  Percentage of Gamers: 5%
+  Ratio: 4.5
+  TA: '135'
   Tags:
   - Offline Mode
   - Single Player
@@ -333,10 +334,10 @@ Base Game Achievements:
   Description: Complete the game with 3 health points
   GS: '30'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 2%
-  Ratio: 7.81
-  TA: '234'
+  Number of Gamers: 2
+  Percentage of Gamers: 3%
+  Ratio: 5.52
+  TA: '165'
   Tags:
   - Offline Mode
   - Single Player
@@ -345,16 +346,85 @@ Base Game Achievements:
   Description: Find all health upgrades
   GS: '15'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 5%
-  Ratio: 4.5
-  TA: '67'
+  Number of Gamers: 5
+  Percentage of Gamers: 8%
+  Ratio: 3.49
+  TA: '52'
   Tags:
   - Offline Mode
   - Single Player
   - Collectable
 - Achievement Name: Log Collector
   Description: Find all CDs
+  GS: '30'
+  Guide: true
+  Number of Gamers: 4
+  Percentage of Gamers: 7%
+  Ratio: 3.9
+  TA: '117'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: A new lens
+  Description: Find one color filter
+  GS: '15'
+  Guide: false
+  Number of Gamers: 17
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: What a colorful world
+  Description: Find all color filters
+  GS: '60'
+  Guide: false
+  Number of Gamers: 3
+  Percentage of Gamers: 5%
+  Ratio: 4.5
+  TA: '270'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Revenge!
+  Description: Kill back the first alien that chased you
+  GS: '15'
+  Guide: false
+  Number of Gamers: 47
+  Percentage of Gamers: 77%
+  Ratio: 1.13
+  TA: '17'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Brutal
+  Description: Push the mecha head into a pit
+  GS: '15'
+  Guide: true
+  Number of Gamers: 6
+  Percentage of Gamers: 10%
+  Ratio: 3.18
+  TA: '47'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Getting warmed up
+  Description: Complete 1 run in infinite mode
+  GS: '15'
+  Guide: true
+  Number of Gamers: 4
+  Percentage of Gamers: 7%
+  Ratio: 3.9
+  TA: '58'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Adrenaline rush
+  Description: Complete 4 runs in infinite mode
   GS: '30'
   Guide: true
   Number of Gamers: 2
@@ -364,84 +434,15 @@ Base Game Achievements:
   Tags:
   - Offline Mode
   - Single Player
-  - Collectable
-- Achievement Name: A new lens
-  Description: Find one color filter
-  GS: '15'
-  Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 26%
-  Ratio: 1.95
-  TA: '29'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Collectable
-- Achievement Name: What a colorful world
-  Description: Find all color filters
-  GS: '60'
-  Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 2%
-  Ratio: 7.81
-  TA: '468'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Collectable
-- Achievement Name: Revenge!
-  Description: Kill back the first alien that chased you
-  GS: '15'
-  Guide: false
-  Number of Gamers: 45
-  Percentage of Gamers: 74%
-  Ratio: 1.16
-  TA: '17'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: Brutal
-  Description: Push the mecha head into a pit
-  GS: '15'
-  Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 7%
-  Ratio: 3.9
-  TA: '58'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: Getting warmed up
-  Description: Complete 1 run in infinite mode
-  GS: '15'
-  Guide: true
-  Number of Gamers: 3
-  Percentage of Gamers: 5%
-  Ratio: 4.5
-  TA: '67'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: Adrenaline rush
-  Description: Complete 4 runs in infinite mode
-  GS: '30'
-  Guide: true
-  Number of Gamers: 1
-  Percentage of Gamers: 2%
-  Ratio: 7.81
-  TA: '234'
-  Tags:
-  - Offline Mode
-  - Single Player
   - Cumulative +
 - Achievement Name: C-c-combo!
   Description: Reach a 10x combo in infinite mode
   GS: '30'
   Guide: true
-  Number of Gamers: 1
-  Percentage of Gamers: 2%
-  Ratio: 7.81
-  TA: '234'
+  Number of Gamers: 2
+  Percentage of Gamers: 3%
+  Ratio: 5.52
+  TA: '165'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -449,10 +450,10 @@ Base Game Achievements:
   Description: Score 100000 Points in infinite mode
   GS: '30'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 2%
-  Ratio: 7.81
-  TA: '234'
+  Number of Gamers: 2
+  Percentage of Gamers: 3%
+  Ratio: 5.52
+  TA: '165'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -460,10 +461,10 @@ Base Game Achievements:
   Description: Beat Boss Rush
   GS: '15'
   Guide: true
-  Number of Gamers: 1
-  Percentage of Gamers: 2%
-  Ratio: 7.81
-  TA: '117'
+  Number of Gamers: 2
+  Percentage of Gamers: 3%
+  Ratio: 5.52
+  TA: '82'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -471,10 +472,10 @@ Base Game Achievements:
   Description: Beat Boss Rush Without Damage
   GS: '100'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '100'
+  Number of Gamers: 1
+  Percentage of Gamers: 2%
+  Ratio: 7.81
+  TA: '781'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -482,10 +483,10 @@ Base Game Achievements:
   Description: Find The Dev Team
   GS: '15'
   Guide: true
-  Number of Gamers: 10
-  Percentage of Gamers: 16%
-  Ratio: 2.46
-  TA: '37'
+  Number of Gamers: 11
+  Percentage of Gamers: 18%
+  Ratio: 2.35
+  TA: '35'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -493,10 +494,10 @@ Base Game Achievements:
   Description: Shockwave a secret ball
   GS: '30'
   Guide: true
-  Number of Gamers: 8
-  Percentage of Gamers: 13%
-  Ratio: 2.76
-  TA: '82'
+  Number of Gamers: 9
+  Percentage of Gamers: 15%
+  Ratio: 2.6
+  TA: '78'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -504,26 +505,26 @@ Base Game Achievements:
   Description: Pet All Dogs
   GS: '30'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 2%
-  Ratio: 7.81
-  TA: '234'
+  Number of Gamers: 2
+  Percentage of Gamers: 3%
+  Ratio: 5.52
+  TA: '165'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Alien King
   Description: Defeat the Alien King
   GS: '60'
-  Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 3%
-  Ratio: 5.52
-  TA: '331'
+  Guide: true
+  Number of Gamers: 4
+  Percentage of Gamers: 7%
+  Ratio: 3.9
+  TA: '234'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 4.208
-Base TA: 4208
+Base Ratio: 3.889
+Base TA: 3889
 Delisted: false
 Developer: Zarc Attack
 Game Name: Exophobia
@@ -535,13 +536,13 @@ Overall Completion Time:
 - -1
 - -1
 Overall GS: 1000
-Overall Ratio: 4.208
-Overall TA: 4208
+Overall Ratio: 3.889
+Overall TA: 3889
 PDU: 0
 Percentage Completed: 0.0
 Publisher: PM Studios
 Release Date: 23 July 2024
 Server Closure: false
-Site Rating: 5.0
+Site Rating: 4.5
 Update Achievements: []
 Walkthrough: false

@@ -9,11 +9,17 @@ class Utils:
                     'xbox_360_games_times.csv', 
                     'windows_games_times.csv',
                     'series_x_games_times.csv',
-                    'all_games_times.csv']
+                    'data_for_vorteka.csv']
     columns_list = ["Game Name",
                     "TA",
                     "GS",
-                    "TAD",
-                    "Num",
-                    "Time",
-                    "Score"]
+                    "Rating",
+                    "Number of Players",
+                    "Completion Percentage",
+                    "Completion Time (min)",
+                    "Completion TIme (max)",
+                    "TA Ratio",
+                    "Release Date",
+                    "Install Size",
+                    "Developer",
+                    "Publisher"]

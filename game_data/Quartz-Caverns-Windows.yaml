@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 1.0
-Base GS: 2000
+- 1.5
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: Stage 1
   Description: Completed Stage 1
   GS: '50'
   Guide: true
-  Number of Gamers: 305
+  Number of Gamers: 436
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '50'
@@ -20,8 +20,8 @@ Base Game Achievements:
   Description: Completed Stage 2
   GS: '50'
   Guide: true
-  Number of Gamers: 304
-  Percentage of Gamers: 100%
+  Number of Gamers: 435
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '50'
   Tags:
@@ -32,7 +32,7 @@ Base Game Achievements:
   Description: Completed Stage 3
   GS: '50'
   Guide: true
-  Number of Gamers: 302
+  Number of Gamers: 434
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '50'
@@ -44,9 +44,9 @@ Base Game Achievements:
   Description: Completed Stage 4
   GS: '50'
   Guide: true
-  Number of Gamers: 298
-  Percentage of Gamers: 98%
-  Ratio: 1.01
+  Number of Gamers: 432
+  Percentage of Gamers: 99%
+  Ratio: 1.0
   TA: '50'
   Tags:
   - Offline Mode
@@ -56,7 +56,7 @@ Base Game Achievements:
   Description: Completed Stage 5
   GS: '50'
   Guide: false
-  Number of Gamers: 296
+  Number of Gamers: 425
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '50'
@@ -68,9 +68,9 @@ Base Game Achievements:
   Description: Completed Stage 6
   GS: '50'
   Guide: false
-  Number of Gamers: 289
-  Percentage of Gamers: 95%
-  Ratio: 1.02
+  Number of Gamers: 411
+  Percentage of Gamers: 94%
+  Ratio: 1.03
   TA: '51'
   Tags:
   - Offline Mode
@@ -80,9 +80,9 @@ Base Game Achievements:
   Description: Completed Stage 7
   GS: '50'
   Guide: false
-  Number of Gamers: 289
-  Percentage of Gamers: 95%
-  Ratio: 1.02
+  Number of Gamers: 406
+  Percentage of Gamers: 93%
+  Ratio: 1.03
   TA: '51'
   Tags:
   - Offline Mode
@@ -92,10 +92,10 @@ Base Game Achievements:
   Description: Completed Stage 8
   GS: '50'
   Guide: false
-  Number of Gamers: 289
-  Percentage of Gamers: 95%
-  Ratio: 1.02
-  TA: '51'
+  Number of Gamers: 405
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '52'
   Tags:
   - Offline Mode
   - Single Player
@@ -104,10 +104,10 @@ Base Game Achievements:
   Description: Completed Stage 9
   GS: '50'
   Guide: false
-  Number of Gamers: 287
-  Percentage of Gamers: 94%
-  Ratio: 1.03
-  TA: '51'
+  Number of Gamers: 397
+  Percentage of Gamers: 91%
+  Ratio: 1.05
+  TA: '52'
   Tags:
   - Offline Mode
   - Single Player
@@ -116,10 +116,10 @@ Base Game Achievements:
   Description: Completed Stage 10
   GS: '50'
   Guide: false
-  Number of Gamers: 287
-  Percentage of Gamers: 94%
-  Ratio: 1.03
-  TA: '51'
+  Number of Gamers: 397
+  Percentage of Gamers: 91%
+  Ratio: 1.05
+  TA: '52'
   Tags:
   - Offline Mode
   - Single Player
@@ -128,10 +128,10 @@ Base Game Achievements:
   Description: Completed Stage 11
   GS: '50'
   Guide: false
-  Number of Gamers: 284
-  Percentage of Gamers: 93%
-  Ratio: 1.03
-  TA: '51'
+  Number of Gamers: 393
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '52'
   Tags:
   - Offline Mode
   - Single Player
@@ -140,9 +140,9 @@ Base Game Achievements:
   Description: Completed Stage 12
   GS: '50'
   Guide: false
-  Number of Gamers: 282
-  Percentage of Gamers: 92%
-  Ratio: 1.04
+  Number of Gamers: 391
+  Percentage of Gamers: 89%
+  Ratio: 1.05
   TA: '52'
   Tags:
   - Offline Mode
@@ -152,10 +152,10 @@ Base Game Achievements:
   Description: Completed Stage 13
   GS: '50'
   Guide: false
-  Number of Gamers: 280
-  Percentage of Gamers: 92%
-  Ratio: 1.04
-  TA: '52'
+  Number of Gamers: 387
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '53'
   Tags:
   - Offline Mode
   - Single Player
@@ -164,10 +164,10 @@ Base Game Achievements:
   Description: Completed Stage 14
   GS: '50'
   Guide: false
-  Number of Gamers: 279
-  Percentage of Gamers: 91%
-  Ratio: 1.04
-  TA: '52'
+  Number of Gamers: 386
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '53'
   Tags:
   - Offline Mode
   - Single Player
@@ -176,10 +176,10 @@ Base Game Achievements:
   Description: Completed Stage 15
   GS: '50'
   Guide: false
-  Number of Gamers: 279
-  Percentage of Gamers: 91%
-  Ratio: 1.04
-  TA: '52'
+  Number of Gamers: 385
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '53'
   Tags:
   - Offline Mode
   - Single Player
@@ -188,10 +188,10 @@ Base Game Achievements:
   Description: Completed Stage 16
   GS: '50'
   Guide: true
-  Number of Gamers: 279
-  Percentage of Gamers: 91%
-  Ratio: 1.04
-  TA: '52'
+  Number of Gamers: 385
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '53'
   Tags:
   - Offline Mode
   - Single Player
@@ -200,10 +200,10 @@ Base Game Achievements:
   Description: Completed Stage 17
   GS: '50'
   Guide: true
-  Number of Gamers: 279
-  Percentage of Gamers: 91%
-  Ratio: 1.04
-  TA: '52'
+  Number of Gamers: 385
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '53'
   Tags:
   - Offline Mode
   - Single Player
@@ -212,44 +212,44 @@ Base Game Achievements:
   Description: Completed Stage 18
   GS: '150'
   Guide: true
-  Number of Gamers: 279
-  Percentage of Gamers: 91%
-  Ratio: 1.04
-  TA: '156'
+  Number of Gamers: 385
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '160'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.0395
-Base TA: 2079
+Base Ratio: 1.0823333333333334
+Base TA: 3247
 Delisted: false
 Developer: MerakiDev
 Game Name: Quartz Caverns (Windows)
 Genres: Platformer
 Install Size: 344.0
-Number of Completions: 250
-Number of Gamers: 305
+Number of Completions: 286
+Number of Gamers: 438
 Overall Completion Time:
 - 0.0
-- 1.0
-Overall GS: 2000
-Overall Ratio: 1.0395
-Overall TA: 2079
+- 1.5
+Overall GS: 3000
+Overall Ratio: 1.0823333333333334
+Overall TA: 3247
 PDU: 0
-Percentage Completed: 81.97
+Percentage Completed: 65.3
 Publisher: MerakiDev
 Release Date: 16 October 2024
 Server Closure: false
-Site Rating: 1.9
+Site Rating: 1.94
 Update Achievements:
 - Achievement Name: Get 10 Gems
   Description: Get 10 Gems
   GS: '200'
   Guide: false
-  Number of Gamers: 272
-  Percentage of Gamers: 89%
-  Ratio: 1.05
-  TA: '211'
+  Number of Gamers: 413
+  Percentage of Gamers: 94%
+  Ratio: 1.02
+  TA: '205'
   Tags:
   - Offline Mode
   - Single Player
@@ -258,10 +258,10 @@ Update Achievements:
   Description: Get 20 Gems
   GS: '200'
   Guide: false
-  Number of Gamers: 272
-  Percentage of Gamers: 89%
-  Ratio: 1.05
-  TA: '211'
+  Number of Gamers: 412
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '206'
   Tags:
   - Offline Mode
   - Single Player
@@ -270,10 +270,10 @@ Update Achievements:
   Description: Get 30 Gems
   GS: '200'
   Guide: false
-  Number of Gamers: 272
-  Percentage of Gamers: 89%
-  Ratio: 1.05
-  TA: '211'
+  Number of Gamers: 411
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '206'
   Tags:
   - Offline Mode
   - Single Player
@@ -282,10 +282,10 @@ Update Achievements:
   Description: Get 40 Gems
   GS: '200'
   Guide: false
-  Number of Gamers: 272
-  Percentage of Gamers: 89%
-  Ratio: 1.05
-  TA: '211'
+  Number of Gamers: 411
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '206'
   Tags:
   - Offline Mode
   - Single Player
@@ -294,10 +294,70 @@ Update Achievements:
   Description: Get 50 Gems
   GS: '200'
   Guide: false
-  Number of Gamers: 272
-  Percentage of Gamers: 89%
-  Ratio: 1.05
-  TA: '211'
+  Number of Gamers: 411
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '206'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Dash 10 Times
+  Description: Dash 10 Times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 315
+  Percentage of Gamers: 72%
+  Ratio: 1.17
+  TA: '235'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Dash 20 Times
+  Description: Dash 20 Times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 315
+  Percentage of Gamers: 72%
+  Ratio: 1.17
+  TA: '235'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Dash 30 Times
+  Description: Dash 30 Times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 311
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '237'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Dash 40 Times
+  Description: Dash 40 Times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 310
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '237'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Dash 50 Times
+  Description: Dash 50 Times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 310
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '237'
   Tags:
   - Offline Mode
   - Single Player

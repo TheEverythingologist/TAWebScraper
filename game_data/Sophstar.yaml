@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 16
 - 17
+- 18
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Welcome to Sophstar!
   Description: Start a game on any mode or difficulty for the first time.
   GS: '20'
   Guide: true
-  Number of Gamers: 412
+  Number of Gamers: 546
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '20'
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Face the true last boss.
   GS: '80'
   Guide: true
-  Number of Gamers: 7
-  Percentage of Gamers: 2%
-  Ratio: 7.69
-  TA: '615'
+  Number of Gamers: 8
+  Percentage of Gamers: 1%
+  Ratio: 8.29
+  TA: '663'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,8 +32,8 @@ Base Game Achievements:
   Description: Score 500000 points in arcade mode (Original).
   GS: '20'
   Guide: false
-  Number of Gamers: 320
-  Percentage of Gamers: 77%
+  Number of Gamers: 421
+  Percentage of Gamers: 76%
   Ratio: 1.14
   TA: '22'
   Tags:
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Score 2000000 points in arcade mode (Original).
   GS: '30'
   Guide: true
-  Number of Gamers: 103
+  Number of Gamers: 140
   Percentage of Gamers: 25%
-  Ratio: 2.01
-  TA: '60'
+  Ratio: 1.98
+  TA: '59'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Score 5000000 points in arcade mode (Original).
   GS: '50'
   Guide: false
-  Number of Gamers: 12
+  Number of Gamers: 14
   Percentage of Gamers: 3%
-  Ratio: 5.88
-  TA: '294'
+  Ratio: 6.27
+  TA: '313'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: Make a 100x chain in Arcade mode (Advanced).
   GS: '30'
   Guide: true
-  Number of Gamers: 27
-  Percentage of Gamers: 6%
-  Ratio: 3.92
-  TA: '117'
+  Number of Gamers: 40
+  Percentage of Gamers: 7%
+  Ratio: 3.71
+  TA: '111'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -79,7 +79,7 @@ Base Game Achievements:
   Description: Destroy 30 enemies in a row at 9x chain in arcade mode (Original).
   GS: '30'
   Guide: false
-  Number of Gamers: 397
+  Number of Gamers: 524
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '30'
@@ -90,7 +90,7 @@ Base Game Achievements:
   Description: Finish a level without using a teleport.
   GS: '20'
   Guide: true
-  Number of Gamers: 306
+  Number of Gamers: 405
   Percentage of Gamers: 73%
   Ratio: 1.16
   TA: '23'
@@ -101,9 +101,9 @@ Base Game Achievements:
   Description: Play in TATE mode.
   GS: '20'
   Guide: true
-  Number of Gamers: 120
-  Percentage of Gamers: 29%
-  Ratio: 1.85
+  Number of Gamers: 157
+  Percentage of Gamers: 28%
+  Ratio: 1.87
   TA: '37'
   Tags:
   - Offline Game Mode
@@ -112,10 +112,10 @@ Base Game Achievements:
   Description: Finish the arcade mode using Dumont.
   GS: '20'
   Guide: false
-  Number of Gamers: 20
+  Number of Gamers: 28
   Percentage of Gamers: 5%
-  Ratio: 4.55
-  TA: '91'
+  Ratio: 4.43
+  TA: '88'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -123,10 +123,10 @@ Base Game Achievements:
   Description: Finish the arcade mode using Leo.
   GS: '20'
   Guide: false
-  Number of Gamers: 28
+  Number of Gamers: 37
   Percentage of Gamers: 7%
-  Ratio: 3.84
-  TA: '76'
+  Ratio: 3.85
+  TA: '77'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -134,9 +134,9 @@ Base Game Achievements:
   Description: Finish the arcade mode using Nina.
   GS: '20'
   Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 6%
-  Ratio: 3.92
+  Number of Gamers: 36
+  Percentage of Gamers: 7%
+  Ratio: 3.91
   TA: '78'
   Tags:
   - Offline Game Mode
@@ -145,10 +145,10 @@ Base Game Achievements:
   Description: Finish the arcade mode using Rigby.
   GS: '20'
   Guide: false
-  Number of Gamers: 24
-  Percentage of Gamers: 6%
-  Ratio: 4.15
-  TA: '83'
+  Number of Gamers: 30
+  Percentage of Gamers: 5%
+  Ratio: 4.28
+  TA: '85'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -156,10 +156,10 @@ Base Game Achievements:
   Description: Finish the arcade mode using Arobe-D.
   GS: '20'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 6%
-  Ratio: 3.99
-  TA: '79'
+  Number of Gamers: 36
+  Percentage of Gamers: 7%
+  Ratio: 3.91
+  TA: '78'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -167,10 +167,10 @@ Base Game Achievements:
   Description: Finish the arcade mode using Katha.
   GS: '20'
   Guide: false
-  Number of Gamers: 17
+  Number of Gamers: 23
   Percentage of Gamers: 4%
-  Ratio: 4.94
-  TA: '98'
+  Ratio: 4.89
+  TA: '97'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -178,10 +178,10 @@ Base Game Achievements:
   Description: Finish the arcade mode using Hirane.
   GS: '20'
   Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 6%
-  Ratio: 4.24
-  TA: '84'
+  Number of Gamers: 28
+  Percentage of Gamers: 5%
+  Ratio: 4.43
+  TA: '88'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -189,9 +189,9 @@ Base Game Achievements:
   Description: Finish the arcade mode using Reyka.
   GS: '20'
   Guide: false
-  Number of Gamers: 46
+  Number of Gamers: 60
   Percentage of Gamers: 11%
-  Ratio: 3.0
+  Ratio: 3.03
   TA: '60'
   Tags:
   - Offline Game Mode
@@ -200,10 +200,10 @@ Base Game Achievements:
   Description: Finish the arcade mode using Z2.
   GS: '20'
   Guide: false
-  Number of Gamers: 18
+  Number of Gamers: 24
   Percentage of Gamers: 4%
-  Ratio: 4.8
-  TA: '96'
+  Ratio: 4.79
+  TA: '95'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -211,9 +211,9 @@ Base Game Achievements:
   Description: Grab some boss pieces that were left behind.
   GS: '20'
   Guide: false
-  Number of Gamers: 12
+  Number of Gamers: 16
   Percentage of Gamers: 3%
-  Ratio: 5.88
+  Ratio: 5.86
   TA: '117'
   Tags:
   - Offline Game Mode
@@ -222,7 +222,7 @@ Base Game Achievements:
   Description: Select Reyka for the first time.
   GS: '20'
   Guide: false
-  Number of Gamers: 361
+  Number of Gamers: 473
   Percentage of Gamers: 86%
   Ratio: 1.07
   TA: '21'
@@ -233,10 +233,10 @@ Base Game Achievements:
   Description: Select Hirane for the first time.
   GS: '20'
   Guide: false
-  Number of Gamers: 254
-  Percentage of Gamers: 61%
-  Ratio: 1.27
-  TA: '25'
+  Number of Gamers: 326
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '26'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -244,10 +244,10 @@ Base Game Achievements:
   Description: Select Katha for the first time.
   GS: '20'
   Guide: false
-  Number of Gamers: 214
+  Number of Gamers: 280
   Percentage of Gamers: 51%
-  Ratio: 1.39
-  TA: '27'
+  Ratio: 1.4
+  TA: '28'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -255,10 +255,10 @@ Base Game Achievements:
   Description: Select Nina for the first time.
   GS: '20'
   Guide: false
-  Number of Gamers: 270
-  Percentage of Gamers: 65%
-  Ratio: 1.24
-  TA: '24'
+  Number of Gamers: 352
+  Percentage of Gamers: 64%
+  Ratio: 1.25
+  TA: '25'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -266,10 +266,10 @@ Base Game Achievements:
   Description: Select Dumont for the first time.
   GS: '20'
   Guide: false
-  Number of Gamers: 215
-  Percentage of Gamers: 51%
-  Ratio: 1.38
-  TA: '27'
+  Number of Gamers: 271
+  Percentage of Gamers: 49%
+  Ratio: 1.42
+  TA: '28'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -277,9 +277,9 @@ Base Game Achievements:
   Description: Select Z2 for the first time.
   GS: '20'
   Guide: false
-  Number of Gamers: 209
-  Percentage of Gamers: 50%
-  Ratio: 1.4
+  Number of Gamers: 265
+  Percentage of Gamers: 48%
+  Ratio: 1.44
   TA: '28'
   Tags:
   - Offline Game Mode
@@ -288,9 +288,9 @@ Base Game Achievements:
   Description: Select Arobe-D for the first time.
   GS: '20'
   Guide: false
-  Number of Gamers: 227
-  Percentage of Gamers: 54%
-  Ratio: 1.35
+  Number of Gamers: 294
+  Percentage of Gamers: 53%
+  Ratio: 1.36
   TA: '27'
   Tags:
   - Offline Game Mode
@@ -299,9 +299,9 @@ Base Game Achievements:
   Description: Select Rigby for the first time.
   GS: '20'
   Guide: false
-  Number of Gamers: 224
-  Percentage of Gamers: 54%
-  Ratio: 1.36
+  Number of Gamers: 286
+  Percentage of Gamers: 52%
+  Ratio: 1.38
   TA: '27'
   Tags:
   - Offline Game Mode
@@ -310,10 +310,10 @@ Base Game Achievements:
   Description: Select Leo for the first time.
   GS: '20'
   Guide: false
-  Number of Gamers: 215
-  Percentage of Gamers: 51%
-  Ratio: 1.38
-  TA: '27'
+  Number of Gamers: 274
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '28'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -321,9 +321,9 @@ Base Game Achievements:
   Description: Finish score attack mode.
   GS: '80'
   Guide: true
-  Number of Gamers: 131
+  Number of Gamers: 173
   Percentage of Gamers: 31%
-  Ratio: 1.77
+  Ratio: 1.78
   TA: '142'
   Tags:
   - Offline Game Mode
@@ -332,10 +332,10 @@ Base Game Achievements:
   Description: Have at least 2 minutes remaining on Timed Challenge.
   GS: '80'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 3%
-  Ratio: 6.14
-  TA: '491'
+  Number of Gamers: 13
+  Percentage of Gamers: 2%
+  Ratio: 6.51
+  TA: '520'
   Tags:
   - Offline Mode
   - Single Player
@@ -344,10 +344,10 @@ Base Game Achievements:
   Description: Get 3 secret bonus.
   GS: '80'
   Guide: true
-  Number of Gamers: 33
-  Percentage of Gamers: 8%
-  Ratio: 3.54
-  TA: '283'
+  Number of Gamers: 39
+  Percentage of Gamers: 7%
+  Ratio: 3.75
+  TA: '300'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -355,33 +355,33 @@ Base Game Achievements:
   Description: Played an endless mode up until the end.
   GS: '80'
   Guide: true
-  Number of Gamers: 129
-  Percentage of Gamers: 31%
-  Ratio: 1.79
-  TA: '143'
+  Number of Gamers: 177
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '141'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 3.372
-Base TA: 3372
+Base Ratio: 3.482
+Base TA: 3482
 Delisted: false
 Developer: Banana Bytes
 Game Name: Sophstar
 Genres: Shoot 'em up
 Install Size: 534.0
-Number of Completions: 7
-Number of Gamers: 418
+Number of Completions: 8
+Number of Gamers: 552
 Overall Completion Time:
-- 16
 - 17
+- 18
 Overall GS: 1000
-Overall Ratio: 3.372
-Overall TA: 3372
+Overall Ratio: 3.482
+Overall TA: 3482
 PDU: 0
-Percentage Completed: 1.67
+Percentage Completed: 1.45
 Publisher: Red Art Games
 Release Date: 28 October 2022
 Server Closure: false
-Site Rating: 4.08
+Site Rating: 3.84
 Update Achievements: []
 Walkthrough: false

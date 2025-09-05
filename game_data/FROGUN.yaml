@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 28
-- 29
+- 30
+- 31
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Prickly situation handler
   Description: Beat Prickly
   GS: '50'
   Guide: false
-  Number of Gamers: 315
+  Number of Gamers: 342
   Percentage of Gamers: 47%
   Ratio: 1.45
   TA: '72'
@@ -20,9 +20,9 @@ Base Game Achievements:
   Description: Beat Kicky
   GS: '50'
   Guide: false
-  Number of Gamers: 161
+  Number of Gamers: 177
   Percentage of Gamers: 24%
-  Ratio: 2.03
+  Ratio: 2.02
   TA: '101'
   Tags:
   - Offline Mode
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Beat Wintry
   GS: '50'
   Guide: false
-  Number of Gamers: 118
+  Number of Gamers: 133
   Percentage of Gamers: 18%
-  Ratio: 2.37
-  TA: '118'
+  Ratio: 2.34
+  TA: '117'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Beat Scorchy
   GS: '50'
   Guide: false
-  Number of Gamers: 103
-  Percentage of Gamers: 15%
-  Ratio: 2.53
-  TA: '126'
+  Number of Gamers: 115
+  Percentage of Gamers: 16%
+  Ratio: 2.51
+  TA: '125'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Beat Hexy
   GS: '50'
   Guide: false
-  Number of Gamers: 69
+  Number of Gamers: 76
   Percentage of Gamers: 10%
-  Ratio: 3.11
-  TA: '155'
+  Ratio: 3.08
+  TA: '154'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: Beat Beelzebub
   GS: '50'
   Guide: false
-  Number of Gamers: 56
-  Percentage of Gamers: 8%
-  Ratio: 3.46
-  TA: '173'
+  Number of Gamers: 63
+  Percentage of Gamers: 9%
+  Ratio: 3.39
+  TA: '169'
   Tags:
   - Offline Mode
   - Single Player
@@ -80,8 +80,8 @@ Base Game Achievements:
   Description: Win a race
   GS: '20'
   Guide: false
-  Number of Gamers: 345
-  Percentage of Gamers: 52%
+  Number of Gamers: 373
+  Percentage of Gamers: 51%
   Ratio: 1.39
   TA: '27'
   Tags:
@@ -91,10 +91,10 @@ Base Game Achievements:
   Description: Win all races
   GS: '50'
   Guide: false
-  Number of Gamers: 61
+  Number of Gamers: 68
   Percentage of Gamers: 9%
-  Ratio: 3.31
-  TA: '165'
+  Ratio: 3.26
+  TA: '163'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -102,7 +102,7 @@ Base Game Achievements:
   Description: Get all coins in a level
   GS: '20'
   Guide: false
-  Number of Gamers: 575
+  Number of Gamers: 623
   Percentage of Gamers: 86%
   Ratio: 1.07
   TA: '21'
@@ -113,10 +113,10 @@ Base Game Achievements:
   Description: Finish a level without dying
   GS: '20'
   Guide: true
-  Number of Gamers: 603
-  Percentage of Gamers: 91%
-  Ratio: 1.04
-  TA: '20'
+  Number of Gamers: 656
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '21'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -124,7 +124,7 @@ Base Game Achievements:
   Description: Finish a level under the time limit
   GS: '20'
   Guide: true
-  Number of Gamers: 416
+  Number of Gamers: 454
   Percentage of Gamers: 63%
   Ratio: 1.26
   TA: '25'
@@ -136,9 +136,9 @@ Base Game Achievements:
   Description: Finish a level with both eyemeralds
   GS: '20'
   Guide: false
-  Number of Gamers: 650
+  Number of Gamers: 710
   Percentage of Gamers: 98%
-  Ratio: 1.0
+  Ratio: 1.01
   TA: '20'
   Tags:
   - Offline Game Mode
@@ -147,7 +147,7 @@ Base Game Achievements:
   Description: Finish a level having found the notes
   GS: '20'
   Guide: false
-  Number of Gamers: 661
+  Number of Gamers: 722
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '20'
@@ -158,9 +158,9 @@ Base Game Achievements:
   Description: Finish a level with the obsidian skull
   GS: '20'
   Guide: false
-  Number of Gamers: 591
+  Number of Gamers: 644
   Percentage of Gamers: 89%
-  Ratio: 1.05
+  Ratio: 1.06
   TA: '21'
   Tags:
   - Offline Game Mode
@@ -169,8 +169,8 @@ Base Game Achievements:
   Description: Finish a level with all of the emblem pieces
   GS: '20'
   Guide: false
-  Number of Gamers: 349
-  Percentage of Gamers: 52%
+  Number of Gamers: 382
+  Percentage of Gamers: 53%
   Ratio: 1.37
   TA: '27'
   Tags:
@@ -180,10 +180,10 @@ Base Game Achievements:
   Description: Get all of the complete emblems
   GS: '150'
   Guide: true
-  Number of Gamers: 15
-  Percentage of Gamers: 2%
-  Ratio: 6.63
-  TA: '995'
+  Number of Gamers: 19
+  Percentage of Gamers: 3%
+  Ratio: 6.17
+  TA: '926'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -191,8 +191,8 @@ Base Game Achievements:
   Description: Buy a hat
   GS: '10'
   Guide: false
-  Number of Gamers: 312
-  Percentage of Gamers: 47%
+  Number of Gamers: 337
+  Percentage of Gamers: 46%
   Ratio: 1.46
   TA: '14'
   Tags:
@@ -203,10 +203,10 @@ Base Game Achievements:
   Description: Buy all hats
   GS: '50'
   Guide: true
-  Number of Gamers: 17
+  Number of Gamers: 21
   Percentage of Gamers: 3%
-  Ratio: 6.23
-  TA: '311'
+  Ratio: 6.02
+  TA: '301'
   Tags:
   - Offline Mode
   - Single Player
@@ -215,10 +215,10 @@ Base Game Achievements:
   Description: Buy all gallery images
   GS: '50'
   Guide: true
-  Number of Gamers: 15
-  Percentage of Gamers: 2%
-  Ratio: 6.63
-  TA: '331'
+  Number of Gamers: 19
+  Percentage of Gamers: 3%
+  Ratio: 6.34
+  TA: '317'
   Tags:
   - Offline Mode
   - Single Player
@@ -227,10 +227,10 @@ Base Game Achievements:
   Description: Complete the bestiary
   GS: '20'
   Guide: false
-  Number of Gamers: 25
+  Number of Gamers: 30
   Percentage of Gamers: 4%
-  Ratio: 5.14
-  TA: '102'
+  Ratio: 4.91
+  TA: '98'
   Tags:
   - Offline Mode
   - Single Player
@@ -239,21 +239,21 @@ Base Game Achievements:
   Description: Get all health upgrades
   GS: '30'
   Guide: false
-  Number of Gamers: 38
+  Number of Gamers: 42
   Percentage of Gamers: 6%
-  Ratio: 4.17
-  TA: '125'
+  Ratio: 4.15
+  TA: '124'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Gladiator
   Description: Beat the Boss Rush
   GS: '50'
-  Guide: false
-  Number of Gamers: 31
+  Guide: true
+  Number of Gamers: 35
   Percentage of Gamers: 5%
-  Ratio: 4.61
-  TA: '230'
+  Ratio: 4.55
+  TA: '227'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -261,20 +261,20 @@ Base Game Achievements:
   Description: Beat the Brutal Rush
   GS: '50'
   Guide: false
-  Number of Gamers: 21
+  Number of Gamers: 24
   Percentage of Gamers: 3%
-  Ratio: 5.61
-  TA: '280'
+  Ratio: 5.49
+  TA: '274'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Photographer
   Description: Take a photo of the scenery
   GS: '10'
-  Guide: false
-  Number of Gamers: 118
+  Guide: true
+  Number of Gamers: 129
   Percentage of Gamers: 18%
-  Ratio: 2.36
+  Ratio: 2.37
   TA: '23'
   Tags:
   - Offline Game Mode
@@ -282,11 +282,11 @@ Base Game Achievements:
 - Achievement Name: Model
   Description: Pose for the camera
   GS: '10'
-  Guide: false
-  Number of Gamers: 184
+  Guide: true
+  Number of Gamers: 200
   Percentage of Gamers: 28%
-  Ratio: 1.89
-  TA: '18'
+  Ratio: 1.9
+  TA: '19'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -294,7 +294,7 @@ Base Game Achievements:
   Description: Get a Max. Health Up
   GS: '10'
   Guide: false
-  Number of Gamers: 302
+  Number of Gamers: 329
   Percentage of Gamers: 45%
   Ratio: 1.48
   TA: '14'
@@ -305,10 +305,10 @@ Base Game Achievements:
   Description: Own the Kiwi and Melon hats
   GS: '10'
   Guide: false
-  Number of Gamers: 98
+  Number of Gamers: 109
   Percentage of Gamers: 15%
-  Ratio: 2.61
-  TA: '26'
+  Ratio: 2.59
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
@@ -317,9 +317,9 @@ Base Game Achievements:
   Description: Defeat a boss cosplaying as them
   GS: '10'
   Guide: false
-  Number of Gamers: 53
+  Number of Gamers: 58
   Percentage of Gamers: 8%
-  Ratio: 3.53
+  Ratio: 3.56
   TA: '35'
   Tags:
   - Offline Game Mode
@@ -328,9 +328,9 @@ Base Game Achievements:
   Description: Finish a level without damaging any enemy
   GS: '10'
   Guide: true
-  Number of Gamers: 171
+  Number of Gamers: 192
   Percentage of Gamers: 26%
-  Ratio: 1.97
+  Ratio: 1.94
   TA: '19'
   Tags:
   - Offline Game Mode
@@ -339,9 +339,9 @@ Base Game Achievements:
   Description: Fall on water
   GS: '10'
   Guide: false
-  Number of Gamers: 453
-  Percentage of Gamers: 68%
-  Ratio: 1.2
+  Number of Gamers: 486
+  Percentage of Gamers: 67%
+  Ratio: 1.22
   TA: '12'
   Tags:
   - Offline Game Mode
@@ -350,30 +350,30 @@ Base Game Achievements:
   Description: Hit Jake with something during a race
   GS: '10'
   Guide: false
-  Number of Gamers: 232
+  Number of Gamers: 256
   Percentage of Gamers: 35%
-  Ratio: 1.69
+  Ratio: 1.68
   TA: '16'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 3.642
-Base TA: 3642
+Base Ratio: 3.527
+Base TA: 3527
 Delisted: false
 Developer: Molegato
 Game Name: FROGUN
 Genres: Platformer
 Install Size: 1020.0
-Number of Completions: 13
-Number of Gamers: 665
+Number of Completions: 17
+Number of Gamers: 726
 Overall Completion Time:
-- 28
-- 29
+- 30
+- 31
 Overall GS: 1000
-Overall Ratio: 3.642
-Overall TA: 3642
+Overall Ratio: 3.527
+Overall TA: 3527
 PDU: 0
-Percentage Completed: 1.95
+Percentage Completed: 2.34
 Publisher: Top Hat Studios
 Release Date: 02 August 2022
 Server Closure: false

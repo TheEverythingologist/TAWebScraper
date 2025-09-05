@@ -1,59 +1,14 @@
-Add On Achievements:
-- Achievement Name: Level 2
-  Description: Beat level 2
-  GS: '200'
-  Guide: false
-  Number of Gamers: 226
-  Percentage of Gamers: 100%
-  Ratio: 1.22
-  TA: '245'
-  Tags: []
-- Achievement Name: Level 7
-  Description: Beat level 7
-  GS: '200'
-  Guide: false
-  Number of Gamers: 224
-  Percentage of Gamers: 99%
-  Ratio: 1.23
-  TA: '246'
-  Tags: []
-- Achievement Name: Level 16
-  Description: Beat level 16
-  GS: '200'
-  Guide: false
-  Number of Gamers: 219
-  Percentage of Gamers: 96%
-  Ratio: 1.24
-  TA: '249'
-  Tags: []
-- Achievement Name: Level 21
-  Description: Beat level 21
-  GS: '200'
-  Guide: false
-  Number of Gamers: 218
-  Percentage of Gamers: 96%
-  Ratio: 1.24
-  TA: '249'
-  Tags: []
-- Achievement Name: Level 39
-  Description: Beat level 39
-  GS: '200'
-  Guide: false
-  Number of Gamers: 215
-  Percentage of Gamers: 95%
-  Ratio: 1.25
-  TA: '251'
-  Tags: []
+Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 1.0
-Base GS: 2000
+- 1.5
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: Level 5
   Description: Beat level 5
   GS: '100'
   Guide: false
-  Number of Gamers: 456
+  Number of Gamers: 629
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -65,7 +20,7 @@ Base Game Achievements:
   Description: Beat level 10
   GS: '100'
   Guide: false
-  Number of Gamers: 455
+  Number of Gamers: 629
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -77,8 +32,8 @@ Base Game Achievements:
   Description: Beat level 15
   GS: '100'
   Guide: false
-  Number of Gamers: 443
-  Percentage of Gamers: 96%
+  Number of Gamers: 612
+  Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '101'
   Tags:
@@ -89,7 +44,7 @@ Base Game Achievements:
   Description: Beat level 20
   GS: '100'
   Guide: false
-  Number of Gamers: 443
+  Number of Gamers: 611
   Percentage of Gamers: 96%
   Ratio: 1.01
   TA: '101'
@@ -101,7 +56,7 @@ Base Game Achievements:
   Description: Beat level 25
   GS: '100'
   Guide: false
-  Number of Gamers: 436
+  Number of Gamers: 604
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
@@ -113,7 +68,7 @@ Base Game Achievements:
   Description: Beat level 30
   GS: '100'
   Guide: false
-  Number of Gamers: 436
+  Number of Gamers: 604
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
@@ -125,7 +80,7 @@ Base Game Achievements:
   Description: Beat level 35
   GS: '100'
   Guide: false
-  Number of Gamers: 436
+  Number of Gamers: 603
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
@@ -137,7 +92,7 @@ Base Game Achievements:
   Description: Beat level 40
   GS: '100'
   Guide: true
-  Number of Gamers: 433
+  Number of Gamers: 597
   Percentage of Gamers: 94%
   Ratio: 1.03
   TA: '103'
@@ -149,8 +104,8 @@ Base Game Achievements:
   Description: Beat level 12
   GS: '100'
   Guide: false
-  Number of Gamers: 454
-  Percentage of Gamers: 98%
+  Number of Gamers: 627
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
   Tags:
@@ -161,7 +116,7 @@ Base Game Achievements:
   Description: Beat level 27
   GS: '100'
   Guide: false
-  Number of Gamers: 436
+  Number of Gamers: 604
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
@@ -169,33 +124,33 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.009
-Base TA: 2018
+Base Ratio: 1.0263333333333333
+Base TA: 3079
 Delisted: false
 Developer: Kitnet Hostage
 Game Name: Yooperlite (Xbox One)
 Genres: Platformer
 Install Size: 390.0
-Number of Completions: 213
-Number of Gamers: 461
+Number of Completions: 547
+Number of Gamers: 634
 Overall Completion Time:
 - 0.0
 - 1.5
 Overall GS: 3000
-Overall Ratio: 1.086
-Overall TA: 3258
+Overall Ratio: 1.0263333333333333
+Overall TA: 3079
 PDU: 0
-Percentage Completed: 46.2
+Percentage Completed: 86.28
 Publisher: 2dragontails
 Release Date: 02 April 2025
 Server Closure: false
-Site Rating: 2.98
+Site Rating: 2.92
 Update Achievements:
 - Achievement Name: 10 fireflies
   Description: Collect 10 fireflies
   GS: '200'
   Guide: false
-  Number of Gamers: 459
+  Number of Gamers: 633
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '200'
@@ -207,10 +162,10 @@ Update Achievements:
   Description: Collect 20 fireflies
   GS: '200'
   Guide: false
-  Number of Gamers: 455
+  Number of Gamers: 628
   Percentage of Gamers: 99%
   Ratio: 1.0
-  TA: '201'
+  TA: '200'
   Tags:
   - Offline Mode
   - Single Player
@@ -219,8 +174,8 @@ Update Achievements:
   Description: Collect 30 fireflies
   GS: '200'
   Guide: false
-  Number of Gamers: 452
-  Percentage of Gamers: 98%
+  Number of Gamers: 626
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '201'
   Tags:
@@ -231,8 +186,8 @@ Update Achievements:
   Description: Collect 40 fireflies
   GS: '200'
   Guide: false
-  Number of Gamers: 452
-  Percentage of Gamers: 98%
+  Number of Gamers: 625
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '201'
   Tags:
@@ -243,12 +198,72 @@ Update Achievements:
   Description: Collect 50 fireflies
   GS: '200'
   Guide: true
-  Number of Gamers: 451
-  Percentage of Gamers: 98%
-  Ratio: 1.01
-  TA: '202'
+  Number of Gamers: 625
+  Percentage of Gamers: 99%
+  Ratio: 1.0
+  TA: '201'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
+- Achievement Name: Level 2
+  Description: Beat level 2
+  GS: '200'
+  Guide: false
+  Number of Gamers: 572
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '210'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Level 7
+  Description: Beat level 7
+  GS: '200'
+  Guide: false
+  Number of Gamers: 571
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '211'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Level 16
+  Description: Beat level 16
+  GS: '200'
+  Guide: false
+  Number of Gamers: 558
+  Percentage of Gamers: 88%
+  Ratio: 1.06
+  TA: '213'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Level 21
+  Description: Beat level 21
+  GS: '200'
+  Guide: false
+  Number of Gamers: 556
+  Percentage of Gamers: 88%
+  Ratio: 1.07
+  TA: '214'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Level 39
+  Description: Beat level 39
+  GS: '200'
+  Guide: false
+  Number of Gamers: 547
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '215'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 Walkthrough: false

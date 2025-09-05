@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- 10
-- 11
+- 12
+- 13
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Explorer
   Description: Unlock a secret path
   GS: '15'
   Guide: false
-  Number of Gamers: 36
-  Percentage of Gamers: 20%
-  Ratio: 2.21
-  TA: '33'
+  Number of Gamers: 40
+  Percentage of Gamers: 21%
+  Ratio: 2.16
+  TA: '32'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -19,10 +19,10 @@ Base Game Achievements:
   Description: Unlock all secret paths
   GS: '30'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 6%
-  Ratio: 4.0
-  TA: '120'
+  Number of Gamers: 13
+  Percentage of Gamers: 7%
+  Ratio: 3.8
+  TA: '114'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -30,10 +30,10 @@ Base Game Achievements:
   Description: Complete 100% the first map
   GS: '15'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 6%
-  Ratio: 4.0
-  TA: '60'
+  Number of Gamers: 13
+  Percentage of Gamers: 7%
+  Ratio: 3.8
+  TA: '57'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -41,10 +41,10 @@ Base Game Achievements:
   Description: Complete 100% the second map
   GS: '15'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 6%
-  Ratio: 4.0
-  TA: '60'
+  Number of Gamers: 13
+  Percentage of Gamers: 7%
+  Ratio: 3.8
+  TA: '57'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -52,9 +52,9 @@ Base Game Achievements:
   Description: Buy an item
   GS: '15'
   Guide: false
-  Number of Gamers: 110
-  Percentage of Gamers: 62%
-  Ratio: 1.27
+  Number of Gamers: 114
+  Percentage of Gamers: 61%
+  Ratio: 1.28
   TA: '19'
   Tags:
   - Offline Game Mode
@@ -63,10 +63,10 @@ Base Game Achievements:
   Description: Find the secret shop
   GS: '15'
   Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 13%
-  Ratio: 2.76
-  TA: '41'
+  Number of Gamers: 26
+  Percentage of Gamers: 14%
+  Ratio: 2.68
+  TA: '40'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -74,7 +74,7 @@ Base Game Achievements:
   Description: Achieve a x10 combo
   GS: '15'
   Guide: true
-  Number of Gamers: 143
+  Number of Gamers: 153
   Percentage of Gamers: 81%
   Ratio: 1.1
   TA: '16'
@@ -85,7 +85,7 @@ Base Game Achievements:
   Description: Achieve a x20 combo
   GS: '15'
   Guide: false
-  Number of Gamers: 67
+  Number of Gamers: 71
   Percentage of Gamers: 38%
   Ratio: 1.62
   TA: '24'
@@ -96,10 +96,10 @@ Base Game Achievements:
   Description: Achieve a x50 combo
   GS: '15'
   Guide: false
-  Number of Gamers: 21
-  Percentage of Gamers: 12%
-  Ratio: 2.89
-  TA: '43'
+  Number of Gamers: 24
+  Percentage of Gamers: 13%
+  Ratio: 2.79
+  TA: '41'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -107,10 +107,10 @@ Base Game Achievements:
   Description: Achieve a x100 combo
   GS: '30'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 6%
-  Ratio: 4.0
-  TA: '120'
+  Number of Gamers: 13
+  Percentage of Gamers: 7%
+  Ratio: 3.8
+  TA: '114'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -118,10 +118,10 @@ Base Game Achievements:
   Description: Win a combat using only Spock
   GS: '15'
   Guide: false
-  Number of Gamers: 28
+  Number of Gamers: 31
   Percentage of Gamers: 16%
-  Ratio: 2.5
-  TA: '37'
+  Ratio: 2.46
+  TA: '36'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -129,9 +129,9 @@ Base Game Achievements:
   Description: Complete a level with the wings powerup equipped
   GS: '15'
   Guide: false
-  Number of Gamers: 53
-  Percentage of Gamers: 30%
-  Ratio: 1.82
+  Number of Gamers: 58
+  Percentage of Gamers: 31%
+  Ratio: 1.8
   TA: '27'
   Tags:
   - Offline Game Mode
@@ -140,10 +140,10 @@ Base Game Achievements:
   Description: Complete a level with the sunglasses powerup equipped
   GS: '15'
   Guide: false
-  Number of Gamers: 44
-  Percentage of Gamers: 25%
-  Ratio: 2.0
-  TA: '30'
+  Number of Gamers: 48
+  Percentage of Gamers: 26%
+  Ratio: 1.97
+  TA: '29'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -151,9 +151,9 @@ Base Game Achievements:
   Description: Fly above a winged pig?
   GS: '15'
   Guide: false
-  Number of Gamers: 51
+  Number of Gamers: 55
   Percentage of Gamers: 29%
-  Ratio: 1.85
+  Ratio: 1.84
   TA: '27'
   Tags:
   - Offline Game Mode
@@ -162,10 +162,10 @@ Base Game Achievements:
   Description: Complete Gorilla Attack without shooting
   GS: '15'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 5%
-  Ratio: 4.42
-  TA: '66'
+  Number of Gamers: 11
+  Percentage of Gamers: 6%
+  Ratio: 4.13
+  TA: '62'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -173,9 +173,9 @@ Base Game Achievements:
   Description: Win with a perfect in a combat
   GS: '15'
   Guide: false
-  Number of Gamers: 57
-  Percentage of Gamers: 32%
-  Ratio: 1.75
+  Number of Gamers: 62
+  Percentage of Gamers: 33%
+  Ratio: 1.74
   TA: '26'
   Tags:
   - Offline Game Mode
@@ -184,10 +184,10 @@ Base Game Achievements:
   Description: Win with a perfect against Hot CAT
   GS: '30'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 8%
-  Ratio: 3.54
-  TA: '106'
+  Number of Gamers: 16
+  Percentage of Gamers: 9%
+  Ratio: 3.42
+  TA: '102'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -195,10 +195,10 @@ Base Game Achievements:
   Description: Win with a perfect in a bonus phase
   GS: '30'
   Guide: false
-  Number of Gamers: 93
-  Percentage of Gamers: 53%
-  Ratio: 1.37
-  TA: '41'
+  Number of Gamers: 102
+  Percentage of Gamers: 54%
+  Ratio: 1.35
+  TA: '40'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -206,10 +206,10 @@ Base Game Achievements:
   Description: Buy all books
   GS: '60'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 6%
-  Ratio: 4.0
-  TA: '240'
+  Number of Gamers: 13
+  Percentage of Gamers: 7%
+  Ratio: 3.8
+  TA: '228'
   Tags:
   - Offline Mode
   - Single Player
@@ -218,10 +218,10 @@ Base Game Achievements:
   Description: Get all Super Burgers
   GS: '60'
   Guide: false
-  Number of Gamers: 10
+  Number of Gamers: 12
   Percentage of Gamers: 6%
-  Ratio: 4.19
-  TA: '251'
+  Ratio: 3.95
+  TA: '237'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -229,8 +229,8 @@ Base Game Achievements:
   Description: Complete (skate) level
   GS: '15'
   Guide: false
-  Number of Gamers: 163
-  Percentage of Gamers: 92%
+  Number of Gamers: 174
+  Percentage of Gamers: 93%
   Ratio: 1.03
   TA: '15'
   Tags:
@@ -241,10 +241,10 @@ Base Game Achievements:
   Description: Complete (Car) level
   GS: '15'
   Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 18%
-  Ratio: 2.38
-  TA: '35'
+  Number of Gamers: 35
+  Percentage of Gamers: 19%
+  Ratio: 2.31
+  TA: '34'
   Tags:
   - Offline Mode
   - Single Player
@@ -253,10 +253,10 @@ Base Game Achievements:
   Description: Complete (Minecart) level
   GS: '15'
   Guide: false
-  Number of Gamers: 47
-  Percentage of Gamers: 27%
-  Ratio: 1.93
-  TA: '29'
+  Number of Gamers: 52
+  Percentage of Gamers: 28%
+  Ratio: 1.9
+  TA: '28'
   Tags:
   - Offline Mode
   - Single Player
@@ -265,10 +265,10 @@ Base Game Achievements:
   Description: Complete (Cloud) level
   GS: '15'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 8%
-  Ratio: 3.42
-  TA: '51'
+  Number of Gamers: 17
+  Percentage of Gamers: 9%
+  Ratio: 3.32
+  TA: '49'
   Tags:
   - Offline Mode
   - Single Player
@@ -277,7 +277,7 @@ Base Game Achievements:
   Description: Die more than 30 times in a level
   GS: '15'
   Guide: false
-  Number of Gamers: 81
+  Number of Gamers: 86
   Percentage of Gamers: 46%
   Ratio: 1.47
   TA: '22'
@@ -288,10 +288,10 @@ Base Game Achievements:
   Description: Beat Hot CAT
   GS: '15'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 6%
-  Ratio: 4.0
-  TA: '60'
+  Number of Gamers: 13
+  Percentage of Gamers: 7%
+  Ratio: 3.8
+  TA: '57'
   Tags:
   - Offline Mode
   - Single Player
@@ -301,10 +301,10 @@ Base Game Achievements:
   Description: Unlock the true ending
   GS: '60'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 5%
-  Ratio: 4.42
-  TA: '265'
+  Number of Gamers: 11
+  Percentage of Gamers: 6%
+  Ratio: 4.13
+  TA: '248'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -312,8 +312,8 @@ Base Game Achievements:
   Description: Beat the jungle
   GS: '15'
   Guide: false
-  Number of Gamers: 96
-  Percentage of Gamers: 54%
+  Number of Gamers: 103
+  Percentage of Gamers: 55%
   Ratio: 1.35
   TA: '20'
   Tags:
@@ -324,10 +324,10 @@ Base Game Achievements:
   Description: Beat the castle
   GS: '15'
   Guide: false
-  Number of Gamers: 32
-  Percentage of Gamers: 18%
-  Ratio: 2.34
-  TA: '35'
+  Number of Gamers: 36
+  Percentage of Gamers: 19%
+  Ratio: 2.28
+  TA: '34'
   Tags:
   - Offline Mode
   - Single Player
@@ -336,10 +336,10 @@ Base Game Achievements:
   Description: Beat the city
   GS: '15'
   Guide: false
-  Number of Gamers: 20
-  Percentage of Gamers: 11%
-  Ratio: 2.96
-  TA: '44'
+  Number of Gamers: 23
+  Percentage of Gamers: 12%
+  Ratio: 2.85
+  TA: '42'
   Tags:
   - Offline Mode
   - Single Player
@@ -348,10 +348,10 @@ Base Game Achievements:
   Description: Beat the jungle a second time
   GS: '15'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 6%
-  Ratio: 4.0
-  TA: '60'
+  Number of Gamers: 13
+  Percentage of Gamers: 7%
+  Ratio: 3.8
+  TA: '57'
   Tags:
   - Offline Mode
   - Single Player
@@ -360,10 +360,10 @@ Base Game Achievements:
   Description: Beat the castle a second time
   GS: '15'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 6%
-  Ratio: 4.0
-  TA: '60'
+  Number of Gamers: 13
+  Percentage of Gamers: 7%
+  Ratio: 3.8
+  TA: '57'
   Tags:
   - Offline Mode
   - Single Player
@@ -372,10 +372,10 @@ Base Game Achievements:
   Description: Beat the city a second time
   GS: '15'
   Guide: false
-  Number of Gamers: 12
+  Number of Gamers: 14
   Percentage of Gamers: 7%
-  Ratio: 3.82
-  TA: '57'
+  Ratio: 3.66
+  TA: '54'
   Tags:
   - Offline Mode
   - Single Player
@@ -384,8 +384,8 @@ Base Game Achievements:
   Description: Kill 50 enemies
   GS: '15'
   Guide: false
-  Number of Gamers: 128
-  Percentage of Gamers: 72%
+  Number of Gamers: 137
+  Percentage of Gamers: 73%
   Ratio: 1.17
   TA: '17'
   Tags:
@@ -396,9 +396,9 @@ Base Game Achievements:
   Description: Kill 200 enemies
   GS: '15'
   Guide: false
-  Number of Gamers: 80
+  Number of Gamers: 84
   Percentage of Gamers: 45%
-  Ratio: 1.48
+  Ratio: 1.49
   TA: '22'
   Tags:
   - Offline Mode
@@ -408,10 +408,10 @@ Base Game Achievements:
   Description: Kill 500 enemies
   GS: '55'
   Guide: false
-  Number of Gamers: 42
-  Percentage of Gamers: 24%
-  Ratio: 2.04
-  TA: '112'
+  Number of Gamers: 47
+  Percentage of Gamers: 25%
+  Ratio: 2.0
+  TA: '110'
   Tags:
   - Offline Mode
   - Single Player
@@ -420,10 +420,10 @@ Base Game Achievements:
   Description: Complete a level with the X2 powerup equipped
   GS: '15'
   Guide: false
-  Number of Gamers: 46
-  Percentage of Gamers: 26%
-  Ratio: 1.95
-  TA: '29'
+  Number of Gamers: 51
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '28'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -431,10 +431,10 @@ Base Game Achievements:
   Description: Complete a water level with the wings powerup equipped
   GS: '15'
   Guide: false
-  Number of Gamers: 36
-  Percentage of Gamers: 20%
-  Ratio: 2.21
-  TA: '33'
+  Number of Gamers: 39
+  Percentage of Gamers: 21%
+  Ratio: 2.19
+  TA: '32'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -442,10 +442,10 @@ Base Game Achievements:
   Description: Complete a level with the fire powerup equipped
   GS: '15'
   Guide: false
-  Number of Gamers: 47
+  Number of Gamers: 51
   Percentage of Gamers: 27%
-  Ratio: 1.93
-  TA: '29'
+  Ratio: 1.92
+  TA: '28'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -453,7 +453,7 @@ Base Game Achievements:
   Description: Buy a costume
   GS: '15'
   Guide: false
-  Number of Gamers: 28
+  Number of Gamers: 30
   Percentage of Gamers: 16%
   Ratio: 2.5
   TA: '37'
@@ -465,10 +465,10 @@ Base Game Achievements:
   Description: Buy all costumes
   GS: '60'
   Guide: true
-  Number of Gamers: 7
+  Number of Gamers: 8
   Percentage of Gamers: 4%
-  Ratio: 5.01
-  TA: '300'
+  Ratio: 4.84
+  TA: '290'
   Tags:
   - Offline Mode
   - Single Player
@@ -477,9 +477,9 @@ Base Game Achievements:
   Description: Complete one stage without killing enemies
   GS: '15'
   Guide: false
-  Number of Gamers: 126
-  Percentage of Gamers: 71%
-  Ratio: 1.18
+  Number of Gamers: 136
+  Percentage of Gamers: 72%
+  Ratio: 1.17
   TA: '17'
   Tags:
   - Offline Game Mode
@@ -488,10 +488,10 @@ Base Game Achievements:
   Description: Complete 5 stages without killing enemies
   GS: '15'
   Guide: false
-  Number of Gamers: 20
-  Percentage of Gamers: 11%
-  Ratio: 2.96
-  TA: '44'
+  Number of Gamers: 22
+  Percentage of Gamers: 12%
+  Ratio: 2.92
+  TA: '43'
   Tags:
   - Offline Mode
   - Single Player
@@ -500,10 +500,10 @@ Base Game Achievements:
   Description: Complete 10 stages without killing enemies
   GS: '15'
   Guide: false
-  Number of Gamers: 10
+  Number of Gamers: 12
   Percentage of Gamers: 6%
-  Ratio: 4.19
-  TA: '62'
+  Ratio: 3.95
+  TA: '59'
   Tags:
   - Offline Mode
   - Single Player
@@ -512,31 +512,31 @@ Base Game Achievements:
   Description: Complete 20 stages without killing enemies
   GS: '60'
   Guide: false
-  Number of Gamers: 8
+  Number of Gamers: 10
   Percentage of Gamers: 5%
-  Ratio: 4.69
-  TA: '281'
+  Ratio: 4.33
+  TA: '260'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 3.123
-Base TA: 3123
+Base Ratio: 2.988
+Base TA: 2988
 Delisted: false
 Developer: Undercoders
 Game Name: Superola Champion Edition
 Genres: Platformer
 Install Size: 1170.0
-Number of Completions: 7
-Number of Gamers: 177
+Number of Completions: 8
+Number of Gamers: 188
 Overall Completion Time:
-- 10
-- 11
+- 12
+- 13
 Overall GS: 1000
-Overall Ratio: 3.123
-Overall TA: 3123
+Overall Ratio: 2.988
+Overall TA: 2988
 PDU: 0
-Percentage Completed: 3.95
+Percentage Completed: 4.26
 Publisher: JanduSoft
 Release Date: 14 July 2022
 Server Closure: false

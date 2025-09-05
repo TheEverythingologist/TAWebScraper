@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 219.0
-- 326.0
-Base GS: 1380
+- 222.0
+- 331.0
+Base GS: 1475
 Base Game Achievements:
 - Achievement Name: A Hero Emerges
   Description: Create your first Hero
   GS: '10'
   Guide: true
-  Number of Gamers: 12218
+  Number of Gamers: 12899
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '10'
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Complete Chapter 1
   GS: '25'
   Guide: false
-  Number of Gamers: 6878
+  Number of Gamers: 7232
   Percentage of Gamers: 56%
   Ratio: 1.33
   TA: '33'
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Complete Chapter 5
   GS: '50'
   Guide: false
-  Number of Gamers: 2133
-  Percentage of Gamers: 17%
-  Ratio: 2.4
-  TA: '120'
+  Number of Gamers: 2271
+  Percentage of Gamers: 18%
+  Ratio: 2.38
+  TA: '119'
   Tags:
   - Online Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Complete Chapter 10
   GS: '75'
   Guide: false
-  Number of Gamers: 1538
+  Number of Gamers: 1655
   Percentage of Gamers: 13%
-  Ratio: 2.82
-  TA: '212'
+  Ratio: 2.79
+  TA: '209'
   Tags:
   - Online Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Complete Chapter 15
   GS: '100'
   Guide: false
-  Number of Gamers: 1210
+  Number of Gamers: 1310
   Percentage of Gamers: 10%
-  Ratio: 3.18
-  TA: '318'
+  Ratio: 3.14
+  TA: '314'
   Tags:
   - Online Mode
   - Single Player
@@ -69,7 +69,7 @@ Base Game Achievements:
   Description: Reach Level 10 with any Hero
   GS: '20'
   Guide: true
-  Number of Gamers: 3891
+  Number of Gamers: 4100
   Percentage of Gamers: 32%
   Ratio: 1.77
   TA: '35'
@@ -82,10 +82,10 @@ Base Game Achievements:
   Description: Reach Level 25 with any Hero
   GS: '50'
   Guide: false
-  Number of Gamers: 1858
+  Number of Gamers: 1989
   Percentage of Gamers: 15%
-  Ratio: 2.57
-  TA: '128'
+  Ratio: 2.54
+  TA: '127'
   Tags:
   - Online Mode
   - Single Player
@@ -95,10 +95,10 @@ Base Game Achievements:
   Description: Reach Level 50 with any Hero
   GS: '100'
   Guide: false
-  Number of Gamers: 1284
-  Percentage of Gamers: 10%
-  Ratio: 3.09
-  TA: '309'
+  Number of Gamers: 1385
+  Percentage of Gamers: 11%
+  Ratio: 3.05
+  TA: '305'
   Tags:
   - Online Mode
   - Single Player
@@ -108,9 +108,9 @@ Base Game Achievements:
   Description: Complete your first Follower Side Quest
   GS: '10'
   Guide: true
-  Number of Gamers: 4922
+  Number of Gamers: 5175
   Percentage of Gamers: 40%
-  Ratio: 1.57
+  Ratio: 1.58
   TA: '15'
   Tags:
   - Online Mode
@@ -119,9 +119,9 @@ Base Game Achievements:
   Description: Reach Level 10 on a Follower
   GS: '20'
   Guide: true
-  Number of Gamers: 2633
-  Percentage of Gamers: 21%
-  Ratio: 2.16
+  Number of Gamers: 2786
+  Percentage of Gamers: 22%
+  Ratio: 2.15
   TA: '43'
   Tags:
   - Online Mode
@@ -131,9 +131,9 @@ Base Game Achievements:
   Description: Own 50 unique pieces of Gear
   GS: '20'
   Guide: true
-  Number of Gamers: 1715
+  Number of Gamers: 1832
   Percentage of Gamers: 14%
-  Ratio: 2.67
+  Ratio: 2.65
   TA: '53'
   Tags:
   - Online Mode
@@ -143,7 +143,7 @@ Base Game Achievements:
   Description: Get any Battle Scroll to Level 10
   GS: '20'
   Guide: true
-  Number of Gamers: 4174
+  Number of Gamers: 4375
   Percentage of Gamers: 34%
   Ratio: 1.71
   TA: '34'
@@ -155,10 +155,10 @@ Base Game Achievements:
   Description: Get any Battle Scroll to Level 50
   GS: '200'
   Guide: true
-  Number of Gamers: 397
-  Percentage of Gamers: 3%
-  Ratio: 5.57
-  TA: 1,115
+  Number of Gamers: 462
+  Percentage of Gamers: 4%
+  Ratio: 5.31
+  TA: 1,062
   Tags:
   - Online Mode
   - Single Player
@@ -167,10 +167,10 @@ Base Game Achievements:
   Description: Own 10 unique Spells
   GS: '10'
   Guide: true
-  Number of Gamers: 2501
-  Percentage of Gamers: 20%
-  Ratio: 2.21
-  TA: '22'
+  Number of Gamers: 2672
+  Percentage of Gamers: 21%
+  Ratio: 2.19
+  TA: '21'
   Tags:
   - Online Mode
   - Single Player
@@ -179,7 +179,7 @@ Base Game Achievements:
   Description: Get a Spell Book to Level 10
   GS: '20'
   Guide: true
-  Number of Gamers: 3213
+  Number of Gamers: 3379
   Percentage of Gamers: 26%
   Ratio: 1.95
   TA: '39'
@@ -191,9 +191,9 @@ Base Game Achievements:
   Description: Own 25 unique Minions
   GS: '20'
   Guide: true
-  Number of Gamers: 1569
+  Number of Gamers: 1685
   Percentage of Gamers: 13%
-  Ratio: 2.79
+  Ratio: 2.77
   TA: '55'
   Tags:
   - Online Mode
@@ -203,7 +203,7 @@ Base Game Achievements:
   Description: Get a Minion to Level 10
   GS: '20'
   Guide: false
-  Number of Gamers: 3149
+  Number of Gamers: 3327
   Percentage of Gamers: 26%
   Ratio: 1.97
   TA: '39'
@@ -215,10 +215,10 @@ Base Game Achievements:
   Description: Equip your first Armor Bonus
   GS: '10'
   Guide: true
-  Number of Gamers: 8508
+  Number of Gamers: 8956
   Percentage of Gamers: 69%
-  Ratio: 1.19
-  TA: '11'
+  Ratio: 1.2
+  TA: '12'
   Tags:
   - Online Mode
   - Single Player
@@ -226,18 +226,18 @@ Base Game Achievements:
   Description: Equip a complete Armor Bonus Set
   GS: '50'
   Guide: true
-  Number of Gamers: 1324
+  Number of Gamers: 1406
   Percentage of Gamers: 11%
-  Ratio: 3.04
-  TA: '152'
+  Ratio: 3.03
+  TA: '151'
   Tags:
   - Online Mode
   - Single Player
 - Achievement Name: Citizen
   Description: Join a Kingdom
   GS: '10'
-  Guide: true
-  Number of Gamers: 4498
+  Guide: false
+  Number of Gamers: 4723
   Percentage of Gamers: 37%
   Ratio: 1.65
   TA: '16'
@@ -248,9 +248,9 @@ Base Game Achievements:
   Description: Win a battle in a Party
   GS: '10'
   Guide: true
-  Number of Gamers: 1407
-  Percentage of Gamers: 11%
-  Ratio: 2.96
+  Number of Gamers: 1502
+  Percentage of Gamers: 12%
+  Ratio: 2.93
   TA: '29'
   Tags:
   - Online Mode
@@ -259,7 +259,7 @@ Base Game Achievements:
   Description: Win 5 Skirmishes
   GS: '10'
   Guide: false
-  Number of Gamers: 2815
+  Number of Gamers: 2980
   Percentage of Gamers: 23%
   Ratio: 2.08
   TA: '20'
@@ -272,7 +272,7 @@ Base Game Achievements:
   Description: Beat 5 Dungeons
   GS: '20'
   Guide: true
-  Number of Gamers: 5037
+  Number of Gamers: 5306
   Percentage of Gamers: 41%
   Ratio: 1.56
   TA: '31'
@@ -285,7 +285,7 @@ Base Game Achievements:
   Description: Win 5 Versus Battles
   GS: '10'
   Guide: true
-  Number of Gamers: 2020
+  Number of Gamers: 2132
   Percentage of Gamers: 16%
   Ratio: 2.46
   TA: '24'
@@ -297,9 +297,9 @@ Base Game Achievements:
   Description: Defeat 10 Enemies in Events
   GS: '20'
   Guide: true
-  Number of Gamers: 2811
+  Number of Gamers: 2964
   Percentage of Gamers: 23%
-  Ratio: 2.09
+  Ratio: 2.08
   TA: '41'
   Tags:
   - Online Mode
@@ -310,45 +310,45 @@ Base Game Achievements:
   Description: Defeat 100 Dragons
   GS: '90'
   Guide: true
-  Number of Gamers: 875
+  Number of Gamers: 945
   Percentage of Gamers: 7%
-  Ratio: 3.75
-  TA: '337'
+  Ratio: 3.7
+  TA: '333'
   Tags:
   - Online Mode
   - Single Player
   - Cooperative
   - Cumulative +
-Base Ratio: 3.816666666666667
-Base TA: 5267
+Base Ratio: 4.3254237288135595
+Base TA: 6380
 Delisted: false
 Developer: Infinity Plus Two
 Game Name: Puzzle Quest 3
 Genres: Puzzle, Role Playing
-Install Size: 6000.0
-Number of Completions: 0
-Number of Gamers: 12260
+Install Size: 6610.0
+Number of Completions: 1
+Number of Gamers: 12935
 Overall Completion Time:
 - 200.0
 - 300.0
-Overall GS: 1380
-Overall Ratio: 3.816666666666667
-Overall TA: 5267
+Overall GS: 1475
+Overall Ratio: 4.3254237288135595
+Overall TA: 6380
 PDU: 0
-Percentage Completed: 0.0
+Percentage Completed: 0.01
 Publisher: 505 Games
 Release Date: 31 May 2023
 Server Closure: false
-Site Rating: 2.97
+Site Rating: 2.96
 Update Achievements:
 - Achievement Name: Divine Intervention
   Description: Defeat the Scourge of Light
   GS: '50'
   Guide: true
-  Number of Gamers: 561
+  Number of Gamers: 629
   Percentage of Gamers: 5%
-  Ratio: 4.68
-  TA: '234'
+  Ratio: 4.54
+  TA: '227'
   Tags:
   - Online Mode
   - Single Player
@@ -357,10 +357,10 @@ Update Achievements:
   Description: Defeat Yog'Thadassa
   GS: '50'
   Guide: true
-  Number of Gamers: 524
-  Percentage of Gamers: 4%
-  Ratio: 4.85
-  TA: '242'
+  Number of Gamers: 609
+  Percentage of Gamers: 5%
+  Ratio: 4.62
+  TA: '231'
   Tags:
   - Online Mode
   - Single Player
@@ -369,10 +369,10 @@ Update Achievements:
   Description: Complete all Chapters of the Story in Season 3.0
   GS: '20'
   Guide: true
-  Number of Gamers: 562
+  Number of Gamers: 627
   Percentage of Gamers: 5%
-  Ratio: 4.69
-  TA: '93'
+  Ratio: 4.55
+  TA: '91'
   Tags:
   - Online Mode
   - Single Player
@@ -381,10 +381,10 @@ Update Achievements:
   Description: Complete 10 Adventures
   GS: '15'
   Guide: true
-  Number of Gamers: 614
+  Number of Gamers: 708
   Percentage of Gamers: 5%
-  Ratio: 4.48
-  TA: '67'
+  Ratio: 4.28
+  TA: '64'
   Tags:
   - Online Mode
   - Single Player
@@ -394,10 +394,10 @@ Update Achievements:
   Description: Collect 15 Portraits
   GS: '15'
   Guide: true
-  Number of Gamers: 756
+  Number of Gamers: 833
   Percentage of Gamers: 6%
-  Ratio: 4.03
-  TA: '60'
+  Ratio: 3.94
+  TA: '59'
   Tags:
   - Online Mode
   - Single Player
@@ -406,10 +406,10 @@ Update Achievements:
   Description: Complete all Chapters of the Story in Season 3.1
   GS: '20'
   Guide: true
-  Number of Gamers: 528
-  Percentage of Gamers: 4%
-  Ratio: 4.83
-  TA: '96'
+  Number of Gamers: 591
+  Percentage of Gamers: 5%
+  Ratio: 4.68
+  TA: '93'
   Tags:
   - Online Mode
   - Single Player
@@ -418,10 +418,10 @@ Update Achievements:
   Description: Complete 50 Adventures
   GS: '30'
   Guide: true
-  Number of Gamers: 376
-  Percentage of Gamers: 3%
-  Ratio: 5.75
-  TA: '172'
+  Number of Gamers: 459
+  Percentage of Gamers: 4%
+  Ratio: 5.33
+  TA: '159'
   Tags:
   - Online Mode
   - Single Player
@@ -431,10 +431,10 @@ Update Achievements:
   Description: Complete all Chapters of the Story in Season 3.2
   GS: '20'
   Guide: true
-  Number of Gamers: 482
+  Number of Gamers: 536
   Percentage of Gamers: 4%
-  Ratio: 5.06
-  TA: '101'
+  Ratio: 4.91
+  TA: '98'
   Tags:
   - Online Mode
   - Single Player
@@ -443,10 +443,10 @@ Update Achievements:
   Description: Reach Citadel Level 50
   GS: '30'
   Guide: true
-  Number of Gamers: 457
+  Number of Gamers: 555
   Percentage of Gamers: 4%
-  Ratio: 5.24
-  TA: '157'
+  Ratio: 4.85
+  TA: '145'
   Tags:
   - Online Mode
   - Single Player
@@ -456,10 +456,10 @@ Update Achievements:
   Description: Complete all Chapters of the Story in Season 3.3
   GS: '20'
   Guide: true
-  Number of Gamers: 442
+  Number of Gamers: 505
   Percentage of Gamers: 4%
-  Ratio: 5.33
-  TA: '106'
+  Ratio: 5.06
+  TA: '101'
   Tags:
   - Online Mode
   - Single Player
@@ -468,10 +468,10 @@ Update Achievements:
   Description: Reforge Gear 10 times
   GS: '10'
   Guide: true
-  Number of Gamers: 404
-  Percentage of Gamers: 3%
-  Ratio: 5.55
-  TA: '55'
+  Number of Gamers: 496
+  Percentage of Gamers: 4%
+  Ratio: 5.12
+  TA: '51'
   Tags:
   - Online Mode
   - Single Player
@@ -481,10 +481,10 @@ Update Achievements:
   Description: Win a battle in Boss Rush
   GS: '30'
   Guide: true
-  Number of Gamers: 443
+  Number of Gamers: 518
   Percentage of Gamers: 4%
-  Ratio: 5.3
-  TA: '159'
+  Ratio: 5.01
+  TA: '150'
   Tags:
   - Online Mode
   - Single Player
@@ -493,10 +493,10 @@ Update Achievements:
   Description: Complete all Chapters of the Story in Season 3.4
   GS: '20'
   Guide: true
-  Number of Gamers: 423
-  Percentage of Gamers: 3%
-  Ratio: 5.38
-  TA: '107'
+  Number of Gamers: 482
+  Percentage of Gamers: 4%
+  Ratio: 5.2
+  TA: '104'
   Tags:
   - Online Mode
   - Single Player
@@ -504,11 +504,11 @@ Update Achievements:
 - Achievement Name: "The Best Defense\u2026"
   Description: Deal 100,000 damage in Kingdom Defense
   GS: '20'
-  Guide: false
-  Number of Gamers: 510
-  Percentage of Gamers: 4%
-  Ratio: 4.97
-  TA: '99'
+  Guide: true
+  Number of Gamers: 646
+  Percentage of Gamers: 5%
+  Ratio: 4.48
+  TA: '89'
   Tags:
   - Online Mode
   - Single Player
@@ -517,10 +517,10 @@ Update Achievements:
   Description: Win 25 battles in a Party
   GS: '10'
   Guide: true
-  Number of Gamers: 294
-  Percentage of Gamers: 2%
-  Ratio: 6.85
-  TA: '68'
+  Number of Gamers: 381
+  Percentage of Gamers: 3%
+  Ratio: 5.83
+  TA: '58'
   Tags:
   - Online Mode
   - Cooperative
@@ -529,12 +529,85 @@ Update Achievements:
   Description: Complete all Chapters of the Story in Season 3.5
   GS: '20'
   Guide: true
-  Number of Gamers: 1
-  Percentage of Gamers: 0%
-  Ratio: 10.51
-  TA: '210'
+  Number of Gamers: 448
+  Percentage of Gamers: 3%
+  Ratio: 5.4
+  TA: '108'
   Tags:
   - Online Mode
   - Single Player
   - Main Storyline
+- Achievement Name: Storming the Mines
+  Description: Complete all Chapters of the Story in Season 4.0
+  GS: '20'
+  Guide: true
+  Number of Gamers: 333
+  Percentage of Gamers: 3%
+  Ratio: 6.47
+  TA: '129'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: The Lost Ones
+  Description: Complete all Chapters of the Story in Season 4.1
+  GS: '20'
+  Guide: true
+  Number of Gamers: 358
+  Percentage of Gamers: 3%
+  Ratio: 6.03
+  TA: '120'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: Dark Arts and Crafts
+  Description: Craft 10 Rare or higher Scrolls or Runes
+  GS: '10'
+  Guide: true
+  Number of Gamers: 317
+  Percentage of Gamers: 2%
+  Ratio: 6.42
+  TA: '64'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cumulative +
+  - Shop
+- Achievement Name: The Wondrous Emporium
+  Description: Complete all Chapters of the Story in Season 4.2
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1
+  Percentage of Gamers: 0%
+  Ratio: 43.7
+  TA: '874'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Main Storyline
+- Achievement Name: A Variant Good Look For You
+  Description: Own 10 unique pieces of Variant Gear
+  GS: '10'
+  Guide: true
+  Number of Gamers: 224
+  Percentage of Gamers: 2%
+  Ratio: 8.13
+  TA: '81'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Collectable
+- Achievement Name: A New Frame of Mine
+  Description: Own 15 unique Portrait Frames
+  GS: '15'
+  Guide: true
+  Number of Gamers: 239
+  Percentage of Gamers: 2%
+  Ratio: 7.62
+  TA: '114'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Collectable
 Walkthrough: false

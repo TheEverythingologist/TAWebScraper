@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 247
-- 248
+- 214
+- 215
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: The Call to Adventure
   Description: "Reach\_Profile Level\_10."
   GS: '10'
   Guide: false
-  Number of Gamers: 1499
+  Number of Gamers: 1511
   Percentage of Gamers: 70%
   Ratio: 1.19
   TA: '11'
@@ -21,7 +21,7 @@ Base Game Achievements:
   Description: Reach Profile Level 20.
   GS: '30'
   Guide: false
-  Number of Gamers: 625
+  Number of Gamers: 631
   Percentage of Gamers: 29%
   Ratio: 1.84
   TA: '55'
@@ -34,10 +34,10 @@ Base Game Achievements:
   Description: Reach Profile Level 200.
   GS: '35'
   Guide: false
-  Number of Gamers: 15
+  Number of Gamers: 17
   Percentage of Gamers: 1%
-  Ratio: 11.92
-  TA: '417'
+  Ratio: 11.25
+  TA: '393'
   Tags:
   - Online Mode
   - Versus
@@ -48,10 +48,10 @@ Base Game Achievements:
   Description: Get a Hero to Mastery Level 20.
   GS: '20'
   Guide: false
-  Number of Gamers: 105
+  Number of Gamers: 107
   Percentage of Gamers: 5%
-  Ratio: 4.5
-  TA: '90'
+  Ratio: 4.48
+  TA: '89'
   Tags:
   - Online Mode
   - Versus
@@ -61,10 +61,10 @@ Base Game Achievements:
   Description: Get 5 Heroes to Mastery Level 20.
   GS: '35'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 0%
-  Ratio: 14.6
-  TA: '511'
+  Number of Gamers: 11
+  Percentage of Gamers: 1%
+  Ratio: 13.99
+  TA: '489'
   Tags:
   - Online Mode
   - Versus
@@ -75,10 +75,10 @@ Base Game Achievements:
   Description: Get a Hero to Mastery Level 50.
   GS: '40'
   Guide: false
-  Number of Gamers: 9
+  Number of Gamers: 10
   Percentage of Gamers: 0%
-  Ratio: 15.39
-  TA: '615'
+  Ratio: 14.67
+  TA: '586'
   Tags:
   - Online Mode
   - Versus
@@ -88,10 +88,10 @@ Base Game Achievements:
   Description: Get 3 Heroes to Mastery Level 50.
   GS: '100'
   Guide: false
-  Number of Gamers: 3
+  Number of Gamers: 4
   Percentage of Gamers: 0%
-  Ratio: 26.66
-  TA: 2,666
+  Ratio: 23.2
+  TA: 2,320
   Tags:
   - Online Mode
   - Versus
@@ -102,20 +102,24 @@ Base Game Achievements:
   Description: Achieve an A Rank or higher 25 times.
   GS: '30'
   Guide: false
-  Number of Gamers: 19
+  Number of Gamers: 21
   Percentage of Gamers: 1%
-  Ratio: 10.59
-  TA: '317'
+  Ratio: 10.12
+  TA: '303'
   Tags:
-  - Unobtainable
+  - Online Mode
+  - Versus
+  - Cumulative +
+  - 6 Players Required
+  - Buggy
 - Achievement Name: Prestigious Effort
   Description: Achieve an S Rank 25 times.
   GS: '75'
   Guide: false
-  Number of Gamers: 55
+  Number of Gamers: 59
   Percentage of Gamers: 3%
-  Ratio: 6.22
-  TA: '467'
+  Ratio: 6.04
+  TA: '453'
   Tags:
   - Online Mode
   - Versus
@@ -125,9 +129,9 @@ Base Game Achievements:
   Description: Complete all the Intro Tutorials.
   GS: '10'
   Guide: false
-  Number of Gamers: 790
+  Number of Gamers: 802
   Percentage of Gamers: 37%
-  Ratio: 1.64
+  Ratio: 1.63
   TA: '16'
   Tags:
   - Online Mode
@@ -137,10 +141,10 @@ Base Game Achievements:
   Description: Win 50 matches of Clash.
   GS: '40'
   Guide: false
-  Number of Gamers: 38
+  Number of Gamers: 39
   Percentage of Gamers: 2%
-  Ratio: 7.49
-  TA: '299'
+  Ratio: 7.43
+  TA: '297'
   Tags:
   - Online Mode
   - Versus
@@ -150,7 +154,7 @@ Base Game Achievements:
   Description: Successfully summon a creature in a match.
   GS: '10'
   Guide: false
-  Number of Gamers: 987
+  Number of Gamers: 994
   Percentage of Gamers: 46%
   Ratio: 1.47
   TA: '14'
@@ -162,7 +166,7 @@ Base Game Achievements:
   Description: Earn a Triple Hero Kill! badge in a match.
   GS: '20'
   Guide: false
-  Number of Gamers: 1445
+  Number of Gamers: 1457
   Percentage of Gamers: 68%
   Ratio: 1.21
   TA: '24'
@@ -174,7 +178,7 @@ Base Game Achievements:
   Description: Earn a Quadra Hero Kill! badge in a match.
   GS: '35'
   Guide: false
-  Number of Gamers: 395
+  Number of Gamers: 398
   Percentage of Gamers: 18%
   Ratio: 2.32
   TA: '81'
@@ -186,10 +190,10 @@ Base Game Achievements:
   Description: Earn a Penta Hero Kill! badge in a match.
   GS: '75'
   Guide: false
-  Number of Gamers: 80
+  Number of Gamers: 82
   Percentage of Gamers: 4%
-  Ratio: 5.16
-  TA: '387'
+  Ratio: 5.12
+  TA: '384'
   Tags:
   - Online Mode
   - Versus
@@ -198,9 +202,9 @@ Base Game Achievements:
   Description: Deal 2,000,000 total damage to enemies.
   GS: '20'
   Guide: false
-  Number of Gamers: 176
+  Number of Gamers: 179
   Percentage of Gamers: 8%
-  Ratio: 3.49
+  Ratio: 3.46
   TA: '69'
   Tags:
   - Online Mode
@@ -211,10 +215,10 @@ Base Game Achievements:
   Description: Win 50 matches of Rush.
   GS: '40'
   Guide: false
-  Number of Gamers: 82
+  Number of Gamers: 84
   Percentage of Gamers: 4%
-  Ratio: 5.1
-  TA: '204'
+  Ratio: 5.06
+  TA: '202'
   Tags:
   - Online Mode
   - Versus
@@ -224,10 +228,10 @@ Base Game Achievements:
   Description: Play 40 matches of Ranked.
   GS: '40'
   Guide: false
-  Number of Gamers: 9
+  Number of Gamers: 10
   Percentage of Gamers: 0%
-  Ratio: 15.39
-  TA: '615'
+  Ratio: 14.67
+  TA: '586'
   Tags:
   - Online Mode
   - Versus
@@ -237,10 +241,10 @@ Base Game Achievements:
   Description: Earn a combined total of 10 Comeback! and Epic Comeback! badges.
   GS: '30'
   Guide: false
-  Number of Gamers: 15
+  Number of Gamers: 16
   Percentage of Gamers: 1%
-  Ratio: 11.92
-  TA: '357'
+  Ratio: 11.6
+  TA: '348'
   Tags:
   - Online Mode
   - Versus
@@ -250,7 +254,7 @@ Base Game Achievements:
   Description: Earn a Power Thief! badge in a match.
   GS: '10'
   Guide: false
-  Number of Gamers: 1222
+  Number of Gamers: 1231
   Percentage of Gamers: 57%
   Ratio: 1.32
   TA: '13'
@@ -262,9 +266,9 @@ Base Game Achievements:
   Description: Earn a Ring Out! badge in a match.
   GS: '20'
   Guide: false
-  Number of Gamers: 398
+  Number of Gamers: 400
   Percentage of Gamers: 19%
-  Ratio: 2.31
+  Ratio: 2.32
   TA: '46'
   Tags:
   - Online Mode
@@ -274,7 +278,7 @@ Base Game Achievements:
   Description: Earn a Shooting Star! badge in a match.
   GS: '20'
   Guide: false
-  Number of Gamers: 363
+  Number of Gamers: 366
   Percentage of Gamers: 17%
   Ratio: 2.42
   TA: '48'
@@ -286,10 +290,10 @@ Base Game Achievements:
   Description: Complete 30 tiers of a single hero's Fortunes.
   GS: '40'
   Guide: false
-  Number of Gamers: 53
-  Percentage of Gamers: 2%
-  Ratio: 6.53
-  TA: '261'
+  Number of Gamers: 54
+  Percentage of Gamers: 3%
+  Ratio: 6.31
+  TA: '252'
   Tags:
   - Online Mode
   - Versus
@@ -299,10 +303,10 @@ Base Game Achievements:
   Description: Complete all tiers of a single hero's Fortunes.
   GS: '100'
   Guide: false
-  Number of Gamers: 1
+  Number of Gamers: 3
   Percentage of Gamers: 0%
-  Ratio: 46.18
-  TA: 4,618
+  Ratio: 26.78
+  TA: 2,678
   Tags:
   - Online Mode
   - Versus
@@ -311,10 +315,10 @@ Base Game Achievements:
   Description: Complete 25 tiers of General Fortunes.
   GS: '40'
   Guide: false
-  Number of Gamers: 76
+  Number of Gamers: 79
   Percentage of Gamers: 4%
-  Ratio: 5.29
-  TA: '211'
+  Ratio: 5.22
+  TA: '208'
   Tags:
   - Online Mode
   - Versus
@@ -324,32 +328,32 @@ Base Game Achievements:
   Description: Complete 50 tiers of General Fortunes.
   GS: '75'
   Guide: false
-  Number of Gamers: 6
+  Number of Gamers: 8
   Percentage of Gamers: 0%
-  Ratio: 18.85
-  TA: 1,414
+  Ratio: 16.4
+  TA: 1,230
   Tags:
   - Online Mode
   - Versus
   - Cumulative +
   - 4 Players Required
-Base Ratio: 13.826
-Base TA: 13826
+Base Ratio: 11.195
+Base TA: 11195
 Delisted: false
 Developer: Abstraction Games
 Game Name: 'Gigantic: Rampage Edition'
 Genres: MOBA
 Install Size: 17710.0
-Number of Completions: 1
-Number of Gamers: 2136
+Number of Completions: 3
+Number of Gamers: 2157
 Overall Completion Time:
-- 247
-- 248
+- 214
+- 215
 Overall GS: 1000
-Overall Ratio: 13.826
-Overall TA: 13826
+Overall Ratio: 11.195
+Overall TA: 11195
 PDU: 0
-Percentage Completed: 0.05
+Percentage Completed: 0.14
 Publisher: Arc Games
 Release Date: 09 April 2024
 Server Closure: false

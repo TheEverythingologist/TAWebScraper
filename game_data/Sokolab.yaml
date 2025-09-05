@@ -1,225 +1,222 @@
-Add On Achievements:
-- Achievement Name: 'RELOADING: 180%'
-  Description: Reset a level 110 times
-  GS: '200'
-  Guide: false
-  Number of Gamers: 409
-  Percentage of Gamers: 95%
-  Ratio: 1.35
-  TA: '271'
-  Tags: []
-- Achievement Name: OVERLOADED
-  Description: Reset a level 120 times
-  GS: '200'
-  Guide: false
-  Number of Gamers: 408
-  Percentage of Gamers: 95%
-  Ratio: 1.35
-  TA: '271'
-  Tags: []
-- Achievement Name: TRIPLE BETA RETURNER
-  Description: Perform undo 150 times
-  GS: '200'
-  Guide: false
-  Number of Gamers: 414
-  Percentage of Gamers: 96%
-  Ratio: 1.34
-  TA: '269'
-  Tags: []
-- Achievement Name: TRIPLE ZETA RETURNER
-  Description: Perform undo 175 times
-  GS: '200'
-  Guide: false
-  Number of Gamers: 413
-  Percentage of Gamers: 96%
-  Ratio: 1.34
-  TA: '269'
-  Tags: []
-- Achievement Name: UNSTOPPABLE
-  Description: Complete 6 levels without undo
-  GS: '200'
-  Guide: false
-  Number of Gamers: 414
-  Percentage of Gamers: 96%
-  Ratio: 1.34
-  TA: '269'
-  Tags: []
+Add On Achievements: []
 Base Completion Time:
 - 0.5
-- 1.5
-Base GS: 2000
+- 2.0
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: SEEMS T0 B3 W0RK1NG
   Description: Complete the 5 initial levels
   GS: '30'
   Guide: false
-  Number of Gamers: 1249
-  Percentage of Gamers: 97%
+  Number of Gamers: 1405
+  Percentage of Gamers: 96%
   Ratio: 1.01
   TA: '30'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: G00D SUBJECT
   Description: Complete the level 10
   GS: '30'
   Guide: true
-  Number of Gamers: 1105
-  Percentage of Gamers: 86%
-  Ratio: 1.07
+  Number of Gamers: 1240
+  Percentage of Gamers: 85%
+  Ratio: 1.08
   TA: '32'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: EX3L3NT SUBJECT
   Description: Complete the level 25
   GS: '60'
   Guide: true
-  Number of Gamers: 978
-  Percentage of Gamers: 76%
-  Ratio: 1.14
-  TA: '68'
-  Tags: []
+  Number of Gamers: 1090
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '69'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: WAVING LIGHT
   Description: Complete 3 levels without undo
   GS: '75'
-  Guide: false
-  Number of Gamers: 1275
+  Guide: true
+  Number of Gamers: 1440
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '75'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: ELEVATE (USER)
   Description: Lift a block using the elevator
   GS: '60'
   Guide: false
-  Number of Gamers: 1132
-  Percentage of Gamers: 88%
-  Ratio: 1.06
-  TA: '63'
-  Tags: []
+  Number of Gamers: 1270
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '64'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: CONTROLLED THUNDER
   Description: Find out the electrical system
   GS: '60'
   Guide: false
-  Number of Gamers: 1249
-  Percentage of Gamers: 97%
+  Number of Gamers: 1405
+  Percentage of Gamers: 96%
   Ratio: 1.01
-  TA: '60'
-  Tags: []
+  TA: '61'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: BOOLEAN TOUCH
   Description: Find out the light switch
   GS: '60'
   Guide: true
-  Number of Gamers: 1093
-  Percentage of Gamers: 85%
-  Ratio: 1.08
+  Number of Gamers: 1223
+  Percentage of Gamers: 84%
+  Ratio: 1.09
   TA: '65'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: DATA TRANSFER
   Description: Complete the level 13 without using any light switch
   GS: '75'
   Guide: false
-  Number of Gamers: 1061
-  Percentage of Gamers: 83%
-  Ratio: 1.09
-  TA: '82'
-  Tags: []
+  Number of Gamers: 1185
+  Percentage of Gamers: 81%
+  Ratio: 1.1
+  TA: '83'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: VARIABLE SYSTEM
   Description: Discover/Find out the floor system on level 16
   GS: '60'
   Guide: true
-  Number of Gamers: 1006
-  Percentage of Gamers: 78%
-  Ratio: 1.12
-  TA: '67'
-  Tags: []
+  Number of Gamers: 1123
+  Percentage of Gamers: 77%
+  Ratio: 1.13
+  TA: '68'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: EXPLORATION ROBOT
   Description: Find out the automatic elevator
   GS: '75'
   Guide: true
-  Number of Gamers: 985
-  Percentage of Gamers: 77%
-  Ratio: 1.14
-  TA: '85'
-  Tags: []
+  Number of Gamers: 1098
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '86'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: CYBER ENGINEER
   Description: Disable an elevator with undo
   GS: '60'
   Guide: true
-  Number of Gamers: 1138
-  Percentage of Gamers: 89%
+  Number of Gamers: 1279
+  Percentage of Gamers: 88%
   Ratio: 1.06
-  TA: '63'
-  Tags: []
+  TA: '64'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: 'RELOADING: 10%'
   Description: Reset a level for the first time
   GS: '25'
-  Guide: false
-  Number of Gamers: 1263
+  Guide: true
+  Number of Gamers: 1427
   Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '25'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: 'RELOADING: 33%'
   Description: Reset a level 20 times
   GS: '60'
-  Guide: false
-  Number of Gamers: 1185
-  Percentage of Gamers: 92%
+  Guide: true
+  Number of Gamers: 1330
+  Percentage of Gamers: 91%
   Ratio: 1.04
   TA: '62'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: 'RELOADING: 67%'
   Description: Reset a level 40 times
   GS: '60'
   Guide: true
-  Number of Gamers: 1172
-  Percentage of Gamers: 91%
-  Ratio: 1.04
-  TA: '62'
-  Tags: []
+  Number of Gamers: 1313
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '63'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: 'RELOADING: 100%'
   Description: Reset a level 60 times
   GS: '75'
   Guide: true
-  Number of Gamers: 1164
-  Percentage of Gamers: 91%
-  Ratio: 1.04
-  TA: '78'
-  Tags: []
+  Number of Gamers: 1307
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '79'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: BETA RETURNER
   Description: Perform undo 40 times
   GS: '60'
   Guide: false
-  Number of Gamers: 1208
-  Percentage of Gamers: 94%
+  Number of Gamers: 1357
+  Percentage of Gamers: 93%
   Ratio: 1.03
-  TA: '61'
-  Tags: []
+  TA: '62'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: ZETA RETURNER
   Description: Perform undo 80 times
   GS: '75'
   Guide: false
-  Number of Gamers: 1198
-  Percentage of Gamers: 93%
-  Ratio: 1.03
-  TA: '77'
-  Tags: []
-Base Ratio: 1.05
-Base TA: 2100
+  Number of Gamers: 1347
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '78'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+Base Ratio: 1.119
+Base TA: 3357
 Delisted: false
-Developer: Antonio Filipe, AFIL Games
+Developer: Antonio Filipe, Afil Games
 Game Name: Sokolab
 Genres: Puzzle
 Install Size: 1250.0
-Number of Completions: 364
-Number of Gamers: 1284
+Number of Completions: 832
+Number of Gamers: 1457
 Overall Completion Time:
 - 0.5
 - 2.0
 Overall GS: 3000
-Overall Ratio: 1.1496666666666666
-Overall TA: 3449
+Overall Ratio: 1.119
+Overall TA: 3357
 PDU: 0
-Percentage Completed: 28.35
-Publisher: AFIL Games
+Percentage Completed: 57.1
+Publisher: Afil Games
 Release Date: 15 August 2024
 Server Closure: false
 Site Rating: 2.26
@@ -228,45 +225,118 @@ Update Achievements:
   Description: reset a level 80 times
   GS: '200'
   Guide: false
-  Number of Gamers: 1147
+  Number of Gamers: 1294
   Percentage of Gamers: 89%
-  Ratio: 1.05
-  TA: '211'
-  Tags: []
+  Ratio: 1.06
+  TA: '212'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: 'RELOADING: 150%'
   Description: reset a level 100 times
   GS: '200'
   Guide: true
-  Number of Gamers: 1142
+  Number of Gamers: 1290
   Percentage of Gamers: 89%
-  Ratio: 1.05
-  TA: '211'
-  Tags: []
+  Ratio: 1.06
+  TA: '212'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: DOUBLE BETA RETURNER
   Description: perform undo 100 times
   GS: '200'
   Guide: false
-  Number of Gamers: 1174
+  Number of Gamers: 1324
   Percentage of Gamers: 91%
   Ratio: 1.04
   TA: '209'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: DOUBLE ZETA RETURNER
   Description: perform undo 120 times
   GS: '200'
   Guide: false
-  Number of Gamers: 1171
+  Number of Gamers: 1320
   Percentage of Gamers: 91%
-  Ratio: 1.04
-  TA: '209'
-  Tags: []
+  Ratio: 1.05
+  TA: '210'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: ROCKETS DON'T REVERSE
   Description: complete 5 levels without undo
   GS: '200'
   Guide: false
-  Number of Gamers: 1219
-  Percentage of Gamers: 95%
+  Number of Gamers: 1372
+  Percentage of Gamers: 94%
   Ratio: 1.02
   TA: '205'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: 'RELOADING: 180%'
+  Description: Reset a level 110 times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 944
+  Percentage of Gamers: 65%
+  Ratio: 1.24
+  TA: '249'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: OVERLOADED
+  Description: Reset a level 120 times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 939
+  Percentage of Gamers: 64%
+  Ratio: 1.25
+  TA: '250'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: TRIPLE BETA RETURNER
+  Description: Perform undo 150 times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 947
+  Percentage of Gamers: 65%
+  Ratio: 1.24
+  TA: '248'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: TRIPLE ZETA RETURNER
+  Description: Perform undo 175 times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 946
+  Percentage of Gamers: 65%
+  Ratio: 1.24
+  TA: '249'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: UNSTOPPABLE
+  Description: Complete 6 levels without undo
+  GS: '200'
+  Guide: true
+  Number of Gamers: 956
+  Percentage of Gamers: 66%
+  Ratio: 1.23
+  TA: '247'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 Walkthrough: false

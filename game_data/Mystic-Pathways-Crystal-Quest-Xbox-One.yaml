@@ -1,60 +1,15 @@
-Add On Achievements:
-- Achievement Name: Nature's Helper
-  Description: Collect 20 crystals
-  GS: '200'
-  Guide: false
-  Number of Gamers: 194
-  Percentage of Gamers: 93%
-  Ratio: 1.08
-  TA: '217'
-  Tags: []
-- Achievement Name: Here and there
-  Description: Use 10 portals
-  GS: '200'
-  Guide: false
-  Number of Gamers: 185
-  Percentage of Gamers: 89%
-  Ratio: 1.11
-  TA: '222'
-  Tags: []
-- Achievement Name: Vital Energy
-  Description: Activate 18 altars
-  GS: '200'
-  Guide: false
-  Number of Gamers: 188
-  Percentage of Gamers: 90%
-  Ratio: 1.1
-  TA: '221'
-  Tags: []
-- Achievement Name: In the middle of the road there was a stone
-  Description: Swap 40 tiles
-  GS: '200'
-  Guide: false
-  Number of Gamers: 197
-  Percentage of Gamers: 95%
-  Ratio: 1.08
-  TA: '216'
-  Tags: []
-- Achievement Name: Dusting off
-  Description: Rotate pieces 50 times
-  GS: '200'
-  Guide: false
-  Number of Gamers: 202
-  Percentage of Gamers: 97%
-  Ratio: 1.06
-  TA: '213'
-  Tags: []
+Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 0.5
-Base GS: 1000
+- 1.0
+Base GS: 2000
 Base Game Achievements:
 - Achievement Name: It's shiny!
   Description: Collect the first crystal
   GS: '10'
   Guide: false
-  Number of Gamers: 249
-  Percentage of Gamers: 98%
+  Number of Gamers: 602
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '10'
   Tags:
@@ -65,9 +20,9 @@ Base Game Achievements:
   Description: Collect 4 crystals
   GS: '20'
   Guide: false
-  Number of Gamers: 245
-  Percentage of Gamers: 96%
-  Ratio: 1.01
+  Number of Gamers: 596
+  Percentage of Gamers: 98%
+  Ratio: 1.0
   TA: '20'
   Tags:
   - Offline Mode
@@ -77,8 +32,8 @@ Base Game Achievements:
   Description: Collect 8 crystals
   GS: '30'
   Guide: false
-  Number of Gamers: 242
-  Percentage of Gamers: 95%
+  Number of Gamers: 588
+  Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '30'
   Tags:
@@ -89,10 +44,10 @@ Base Game Achievements:
   Description: Collect 12 crystals
   GS: '40'
   Guide: false
-  Number of Gamers: 238
-  Percentage of Gamers: 93%
+  Number of Gamers: 579
+  Percentage of Gamers: 95%
   Ratio: 1.02
-  TA: '41'
+  TA: '40'
   Tags:
   - Offline Mode
   - Single Player
@@ -101,10 +56,10 @@ Base Game Achievements:
   Description: Collect 16 crystals
   GS: '90'
   Guide: false
-  Number of Gamers: 235
-  Percentage of Gamers: 92%
-  Ratio: 1.03
-  TA: '93'
+  Number of Gamers: 576
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '92'
   Tags:
   - Offline Mode
   - Single Player
@@ -113,9 +68,9 @@ Base Game Achievements:
   Description: Use a portal for the first time
   GS: '15'
   Guide: false
-  Number of Gamers: 223
-  Percentage of Gamers: 87%
-  Ratio: 1.06
+  Number of Gamers: 563
+  Percentage of Gamers: 93%
+  Ratio: 1.03
   TA: '15'
   Tags:
   - Offline Mode
@@ -125,9 +80,9 @@ Base Game Achievements:
   Description: Use 3 portals
   GS: '30'
   Guide: false
-  Number of Gamers: 222
-  Percentage of Gamers: 87%
-  Ratio: 1.06
+  Number of Gamers: 563
+  Percentage of Gamers: 93%
+  Ratio: 1.03
   TA: '31'
   Tags:
   - Offline Mode
@@ -137,10 +92,10 @@ Base Game Achievements:
   Description: Use 6 portals
   GS: '90'
   Guide: false
-  Number of Gamers: 221
-  Percentage of Gamers: 87%
-  Ratio: 1.06
-  TA: '95'
+  Number of Gamers: 562
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '93'
   Tags:
   - Offline Mode
   - Single Player
@@ -149,8 +104,8 @@ Base Game Achievements:
   Description: Activate an altar for the first time
   GS: '10'
   Guide: false
-  Number of Gamers: 248
-  Percentage of Gamers: 97%
+  Number of Gamers: 600
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '10'
   Tags:
@@ -161,8 +116,8 @@ Base Game Achievements:
   Description: Activate 5 altars
   GS: '20'
   Guide: false
-  Number of Gamers: 241
-  Percentage of Gamers: 95%
+  Number of Gamers: 586
+  Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '20'
   Tags:
@@ -173,9 +128,9 @@ Base Game Achievements:
   Description: Activate 10 altars
   GS: '35'
   Guide: false
-  Number of Gamers: 229
-  Percentage of Gamers: 90%
-  Ratio: 1.04
+  Number of Gamers: 569
+  Percentage of Gamers: 94%
+  Ratio: 1.03
   TA: '36'
   Tags:
   - Offline Mode
@@ -185,10 +140,10 @@ Base Game Achievements:
   Description: Activate 15 altars
   GS: '90'
   Guide: false
-  Number of Gamers: 226
-  Percentage of Gamers: 89%
-  Ratio: 1.05
-  TA: '94'
+  Number of Gamers: 567
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '92'
   Tags:
   - Offline Mode
   - Single Player
@@ -197,8 +152,8 @@ Base Game Achievements:
   Description: Swap tiles for the first time
   GS: '10'
   Guide: false
-  Number of Gamers: 248
-  Percentage of Gamers: 97%
+  Number of Gamers: 601
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '10'
   Tags:
@@ -209,9 +164,9 @@ Base Game Achievements:
   Description: Swap 10 tiles
   GS: '20'
   Guide: false
-  Number of Gamers: 245
-  Percentage of Gamers: 96%
-  Ratio: 1.01
+  Number of Gamers: 596
+  Percentage of Gamers: 98%
+  Ratio: 1.0
   TA: '20'
   Tags:
   - Offline Mode
@@ -221,8 +176,8 @@ Base Game Achievements:
   Description: Swap 20 tiles
   GS: '35'
   Guide: false
-  Number of Gamers: 245
-  Percentage of Gamers: 96%
+  Number of Gamers: 593
+  Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '35'
   Tags:
@@ -233,8 +188,8 @@ Base Game Achievements:
   Description: Swap 30 tiles
   GS: '90'
   Guide: false
-  Number of Gamers: 243
-  Percentage of Gamers: 95%
+  Number of Gamers: 591
+  Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '91'
   Tags:
@@ -245,8 +200,8 @@ Base Game Achievements:
   Description: Rotate tiles 12 times
   GS: '20'
   Guide: false
-  Number of Gamers: 248
-  Percentage of Gamers: 97%
+  Number of Gamers: 602
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '20'
   Tags:
@@ -257,9 +212,9 @@ Base Game Achievements:
   Description: Rotate tiles 24 times
   GS: '30'
   Guide: false
-  Number of Gamers: 245
-  Percentage of Gamers: 96%
-  Ratio: 1.01
+  Number of Gamers: 600
+  Percentage of Gamers: 99%
+  Ratio: 1.0
   TA: '30'
   Tags:
   - Offline Mode
@@ -269,9 +224,9 @@ Base Game Achievements:
   Description: Rotate tiles 36 times
   GS: '90'
   Guide: false
-  Number of Gamers: 245
-  Percentage of Gamers: 96%
-  Ratio: 1.01
+  Number of Gamers: 599
+  Percentage of Gamers: 99%
+  Ratio: 1.0
   TA: '90'
   Tags:
   - Offline Mode
@@ -281,8 +236,8 @@ Base Game Achievements:
   Description: Use hint for the first time
   GS: '15'
   Guide: false
-  Number of Gamers: 243
-  Percentage of Gamers: 95%
+  Number of Gamers: 593
+  Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '15'
   Tags:
@@ -292,10 +247,10 @@ Base Game Achievements:
   Description: Use hint 5 times
   GS: '90'
   Guide: false
-  Number of Gamers: 237
-  Percentage of Gamers: 93%
-  Ratio: 1.02
-  TA: '92'
+  Number of Gamers: 583
+  Percentage of Gamers: 96%
+  Ratio: 1.01
+  TA: '91'
   Tags:
   - Offline Mode
   - Single Player
@@ -304,8 +259,8 @@ Base Game Achievements:
   Description: Cross a 2-way tile for the first time
   GS: '30'
   Guide: false
-  Number of Gamers: 244
-  Percentage of Gamers: 96%
+  Number of Gamers: 594
+  Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '30'
   Tags:
@@ -315,33 +270,93 @@ Base Game Achievements:
   Description: Cross a 3-way tile for the first time
   GS: '90'
   Guide: false
-  Number of Gamers: 231
-  Percentage of Gamers: 91%
-  Ratio: 1.04
-  TA: '93'
+  Number of Gamers: 572
+  Percentage of Gamers: 94%
+  Ratio: 1.02
+  TA: '92'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 1.021
-Base TA: 1021
+Base Ratio: 1.0265
+Base TA: 2053
 Delisted: false
 Developer: AFIL Games
 Game Name: 'Mystic Pathways: Crystal Quest (Xbox One)'
 Genres: Puzzle
 Install Size: 455.0
-Number of Completions: 187
-Number of Gamers: 255
+Number of Completions: 544
+Number of Gamers: 607
 Overall Completion Time:
 - 0.0
 - 1.0
 Overall GS: 2000
-Overall Ratio: 1.055
-Overall TA: 2110
+Overall Ratio: 1.0265
+Overall TA: 2053
 PDU: 0
-Percentage Completed: 73.33
+Percentage Completed: 89.62
 Publisher: AFIL Games
-Release Date: Yesterday
+Release Date: 02 July 2025
 Server Closure: false
-Site Rating: 2.61
-Update Achievements: []
+Site Rating: 2.33
+Update Achievements:
+- Achievement Name: Nature's Helper
+  Description: Collect 20 crystals
+  GS: '200'
+  Guide: false
+  Number of Gamers: 554
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '209'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Here and there
+  Description: Use 10 portals
+  GS: '200'
+  Guide: false
+  Number of Gamers: 544
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '210'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Vital Energy
+  Description: Activate 18 altars
+  GS: '200'
+  Guide: false
+  Number of Gamers: 549
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '210'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: In the middle of the road there was a stone
+  Description: Swap 40 tiles
+  GS: '200'
+  Guide: false
+  Number of Gamers: 565
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '207'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Dusting off
+  Description: Rotate pieces 50 times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 579
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '204'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 Walkthrough: false

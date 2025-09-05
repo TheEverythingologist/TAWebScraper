@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 10.0
-- 12.0
+- 15.0
+- 20.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: EXPLORER
   Description: Find the map
   GS: '8'
   Guide: false
-  Number of Gamers: 952
+  Number of Gamers: 1563
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '8'
@@ -19,8 +19,8 @@ Base Game Achievements:
 - Achievement Name: SECRET EGG
   Description: Find a secret egg
   GS: '1'
-  Guide: false
-  Number of Gamers: 975
+  Guide: true
+  Number of Gamers: 1606
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '1'
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Find 8 secret eggs
   GS: '8'
   Guide: false
-  Number of Gamers: 526
-  Percentage of Gamers: 52%
-  Ratio: 1.38
-  TA: '11'
+  Number of Gamers: 886
+  Percentage of Gamers: 54%
+  Ratio: 1.36
+  TA: '10'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,9 +44,9 @@ Base Game Achievements:
   Description: Find 16 secret eggs
   GS: '16'
   Guide: false
-  Number of Gamers: 423
-  Percentage of Gamers: 42%
-  Ratio: 1.54
+  Number of Gamers: 730
+  Percentage of Gamers: 44%
+  Ratio: 1.5
   TA: '24'
   Tags:
   - Offline Mode
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Find 32 secret eggs
   GS: '32'
   Guide: false
-  Number of Gamers: 284
-  Percentage of Gamers: 28%
-  Ratio: 1.88
-  TA: '60'
+  Number of Gamers: 511
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '57'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: Find all secret eggs
   GS: '65'
   Guide: false
-  Number of Gamers: 161
-  Percentage of Gamers: 16%
-  Ratio: 2.49
-  TA: '162'
+  Number of Gamers: 291
+  Percentage of Gamers: 18%
+  Ratio: 2.38
+  TA: '154'
   Tags:
   - Offline Mode
   - Single Player
@@ -80,10 +80,10 @@ Base Game Achievements:
   Description: Find a secret rabbit
   GS: '32'
   Guide: false
-  Number of Gamers: 295
-  Percentage of Gamers: 29%
-  Ratio: 1.84
-  TA: '59'
+  Number of Gamers: 524
+  Percentage of Gamers: 32%
+  Ratio: 1.77
+  TA: '56'
   Tags:
   - Offline Mode
   - Single Player
@@ -92,10 +92,10 @@ Base Game Achievements:
   Description: Find the V. flame
   GS: '64'
   Guide: false
-  Number of Gamers: 407
-  Percentage of Gamers: 40%
-  Ratio: 1.57
-  TA: '100'
+  Number of Gamers: 705
+  Percentage of Gamers: 43%
+  Ratio: 1.53
+  TA: '97'
   Tags:
   - Offline Mode
   - Single Player
@@ -104,10 +104,10 @@ Base Game Achievements:
   Description: Find the P. flame
   GS: '64'
   Guide: false
-  Number of Gamers: 370
-  Percentage of Gamers: 37%
-  Ratio: 1.64
-  TA: '105'
+  Number of Gamers: 652
+  Percentage of Gamers: 39%
+  Ratio: 1.59
+  TA: '101'
   Tags:
   - Offline Mode
   - Single Player
@@ -116,10 +116,10 @@ Base Game Achievements:
   Description: Find the B. flame
   GS: '64'
   Guide: false
-  Number of Gamers: 396
-  Percentage of Gamers: 39%
-  Ratio: 1.59
-  TA: '101'
+  Number of Gamers: 691
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '98'
   Tags:
   - Offline Mode
   - Single Player
@@ -128,10 +128,10 @@ Base Game Achievements:
   Description: Find the G. flame
   GS: '64'
   Guide: false
-  Number of Gamers: 407
-  Percentage of Gamers: 40%
-  Ratio: 1.57
-  TA: '100'
+  Number of Gamers: 700
+  Percentage of Gamers: 42%
+  Ratio: 1.53
+  TA: '98'
   Tags:
   - Offline Mode
   - Single Player
@@ -140,10 +140,10 @@ Base Game Achievements:
   Description: Light all candles
   GS: '45'
   Guide: false
-  Number of Gamers: 192
-  Percentage of Gamers: 19%
-  Ratio: 2.28
-  TA: '102'
+  Number of Gamers: 342
+  Percentage of Gamers: 21%
+  Ratio: 2.19
+  TA: '98'
   Tags:
   - Offline Mode
   - Single Player
@@ -152,10 +152,10 @@ Base Game Achievements:
   Description: Release the Manticore
   GS: '128'
   Guide: false
-  Number of Gamers: 337
-  Percentage of Gamers: 34%
-  Ratio: 1.72
-  TA: '221'
+  Number of Gamers: 602
+  Percentage of Gamers: 36%
+  Ratio: 1.65
+  TA: '211'
   Tags:
   - Offline Mode
   - Single Player
@@ -165,10 +165,10 @@ Base Game Achievements:
   Description: Sneak up on a squirrel
   GS: '48'
   Guide: true
-  Number of Gamers: 167
-  Percentage of Gamers: 17%
-  Ratio: 2.45
-  TA: '117'
+  Number of Gamers: 296
+  Percentage of Gamers: 18%
+  Ratio: 2.36
+  TA: '113'
   Tags:
   - Offline Mode
   - Single Player
@@ -177,10 +177,10 @@ Base Game Achievements:
   Description: Get crushed by a chinchilla
   GS: '35'
   Guide: true
-  Number of Gamers: 285
-  Percentage of Gamers: 28%
-  Ratio: 1.87
-  TA: '65'
+  Number of Gamers: 496
+  Percentage of Gamers: 30%
+  Ratio: 1.82
+  TA: '63'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -188,10 +188,10 @@ Base Game Achievements:
   Description: Find a new way to get around
   GS: '35'
   Guide: true
-  Number of Gamers: 545
-  Percentage of Gamers: 54%
-  Ratio: 1.35
-  TA: '47'
+  Number of Gamers: 931
+  Percentage of Gamers: 56%
+  Ratio: 1.33
+  TA: '46'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -199,10 +199,10 @@ Base Game Achievements:
   Description: Pop 1000 bubbles
   GS: '64'
   Guide: false
-  Number of Gamers: 266
-  Percentage of Gamers: 26%
-  Ratio: 1.94
-  TA: '124'
+  Number of Gamers: 477
+  Percentage of Gamers: 29%
+  Ratio: 1.86
+  TA: '119'
   Tags:
   - Offline Mode
   - Single Player
@@ -211,10 +211,10 @@ Base Game Achievements:
   Description: Find another way to get around
   GS: '64'
   Guide: false
-  Number of Gamers: 356
-  Percentage of Gamers: 35%
-  Ratio: 1.68
-  TA: '107'
+  Number of Gamers: 629
+  Percentage of Gamers: 38%
+  Ratio: 1.62
+  TA: '103'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -222,10 +222,10 @@ Base Game Achievements:
   Description: Find a different way to get around
   GS: '35'
   Guide: true
-  Number of Gamers: 435
-  Percentage of Gamers: 43%
-  Ratio: 1.52
-  TA: '53'
+  Number of Gamers: 753
+  Percentage of Gamers: 46%
+  Ratio: 1.48
+  TA: '51'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -233,34 +233,34 @@ Base Game Achievements:
   Description: Leave the well
   GS: '128'
   Guide: false
-  Number of Gamers: 158
-  Percentage of Gamers: 16%
-  Ratio: 2.52
-  TA: '322'
+  Number of Gamers: 284
+  Percentage of Gamers: 17%
+  Ratio: 2.41
+  TA: '308'
   Tags:
   - Offline Mode
   - Single Player
   - Collectable
-Base Ratio: 1.889
-Base TA: 1889
+Base Ratio: 1.816
+Base TA: 1816
 Delisted: false
 Developer: Billy Basso
 Game Name: ANIMAL WELL
 Genres: Platformer, Metroidvania
 Install Size: 363.0
-Number of Completions: 137
-Number of Gamers: 1005
+Number of Completions: 238
+Number of Gamers: 1651
 Overall Completion Time:
-- 10.0
-- 12.0
+- 15.0
+- 20.0
 Overall GS: 1000
-Overall Ratio: 1.889
-Overall TA: 1889
+Overall Ratio: 1.816
+Overall TA: 1816
 PDU: 0
-Percentage Completed: 13.63
+Percentage Completed: 14.42
 Publisher: Bigmode
 Release Date: 17 October 2024
 Server Closure: false
-Site Rating: 4.38
+Site Rating: 4.25
 Update Achievements: []
 Walkthrough: false

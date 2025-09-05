@@ -1,15 +1,15 @@
 Add On Achievements: []
 Base Completion Time:
-- -1
-- -1
+- 31
+- 32
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Team-building
   Description: Recruit your first Abomi
   GS: '10'
   Guide: false
-  Number of Gamers: 64
-  Percentage of Gamers: 97%
+  Number of Gamers: 82
+  Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '10'
   Tags:
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Beat your first boss and gain a Mysterious Piece
   GS: '10'
   Guide: false
-  Number of Gamers: 32
-  Percentage of Gamers: 48%
-  Ratio: 1.41
-  TA: '14'
+  Number of Gamers: 43
+  Percentage of Gamers: 51%
+  Ratio: 1.39
+  TA: '13'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,9 +32,9 @@ Base Game Achievements:
   Description: Evolve an Abomi with an Evolution Crystal
   GS: '20'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 24%
-  Ratio: 1.97
+  Number of Gamers: 22
+  Percentage of Gamers: 26%
+  Ratio: 1.95
   TA: '39'
   Tags:
   - Offline Mode
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Reach maximum Bond between two Abomis and make them Partners
   GS: '25'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 9%
-  Ratio: 3.07
-  TA: '76'
+  Number of Gamers: 8
+  Percentage of Gamers: 10%
+  Ratio: 3.24
+  TA: '81'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Change an Abomi's colour using a Palette or Grayscale Orb
   GS: '10'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 17%
-  Ratio: 2.34
-  TA: '23'
+  Number of Gamers: 16
+  Percentage of Gamers: 19%
+  Ratio: 2.29
+  TA: '22'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -67,10 +67,10 @@ Base Game Achievements:
   Description: Win the Whack-a-Moile minigame
   GS: '10'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 24%
-  Ratio: 1.97
-  TA: '19'
+  Number of Gamers: 21
+  Percentage of Gamers: 25%
+  Ratio: 2.0
+  TA: '20'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -78,10 +78,10 @@ Base Game Achievements:
   Description: Win the Abomi Quiz minigame
   GS: '10'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 5%
-  Ratio: 4.06
-  TA: '40'
+  Number of Gamers: 7
+  Percentage of Gamers: 8%
+  Ratio: 3.46
+  TA: '34'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -89,10 +89,10 @@ Base Game Achievements:
   Description: Win the Abomi Racin' minigame
   GS: '10'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 23%
-  Ratio: 2.03
-  TA: '20'
+  Number of Gamers: 23
+  Percentage of Gamers: 27%
+  Ratio: 1.91
+  TA: '19'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -100,10 +100,10 @@ Base Game Achievements:
   Description: Revive an Abomi through a code
   GS: '15'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 12%
-  Ratio: 2.7
-  TA: '40'
+  Number of Gamers: 11
+  Percentage of Gamers: 13%
+  Ratio: 2.76
+  TA: '41'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -111,10 +111,10 @@ Base Game Achievements:
   Description: Beat the optional Temporal Boss
   GS: '50'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 5%
-  Ratio: 4.06
-  TA: '203'
+  Number of Gamers: 7
+  Percentage of Gamers: 8%
+  Ratio: 3.46
+  TA: '173'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -122,10 +122,10 @@ Base Game Achievements:
   Description: Discover every area in a map
   GS: '20'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 8%
-  Ratio: 3.31
-  TA: '66'
+  Number of Gamers: 9
+  Percentage of Gamers: 11%
+  Ratio: 3.05
+  TA: '61'
   Tags:
   - Offline Mode
   - Single Player
@@ -134,10 +134,10 @@ Base Game Achievements:
   Description: Fill the Global Abomi Archive
   GS: '75'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 2%
-  Ratio: 5.74
-  TA: '430'
+  Number of Gamers: 3
+  Percentage of Gamers: 4%
+  Ratio: 5.29
+  TA: '396'
   Tags:
   - Offline Mode
   - Single Player
@@ -146,10 +146,10 @@ Base Game Achievements:
   Description: Spend 50,000 Shiny Pebbles across all runs
   GS: '100'
   Guide: false
-  Number of Gamers: 1
+  Number of Gamers: 2
   Percentage of Gamers: 2%
-  Ratio: 8.12
-  TA: '812'
+  Ratio: 6.48
+  TA: '648'
   Tags:
   - Offline Mode
   - Single Player
@@ -158,10 +158,10 @@ Base Game Achievements:
   Description: Buy something from the Temporal Store
   GS: '10'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 26%
-  Ratio: 1.91
-  TA: '19'
+  Number of Gamers: 25
+  Percentage of Gamers: 30%
+  Ratio: 1.83
+  TA: '18'
   Tags:
   - Offline Mode
   - Single Player
@@ -170,10 +170,10 @@ Base Game Achievements:
   Description: Buy 50 things from the Temporal Store
   GS: '100'
   Guide: false
-  Number of Gamers: 1
+  Number of Gamers: 2
   Percentage of Gamers: 2%
-  Ratio: 8.12
-  TA: '812'
+  Ratio: 6.48
+  TA: '648'
   Tags:
   - Offline Mode
   - Single Player
@@ -183,10 +183,10 @@ Base Game Achievements:
   Description: Survive on 1HP in a Permadeath battle
   GS: '10'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 21%
-  Ratio: 2.17
-  TA: '21'
+  Number of Gamers: 21
+  Percentage of Gamers: 25%
+  Ratio: 2.0
+  TA: '20'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -194,10 +194,10 @@ Base Game Achievements:
   Description: Raise one stat to +6 in a Permadeath battle
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 6%
-  Ratio: 3.63
-  TA: '36'
+  Number of Gamers: 8
+  Percentage of Gamers: 10%
+  Ratio: 3.24
+  TA: '32'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -205,10 +205,10 @@ Base Game Achievements:
   Description: Deal over 300 damage to an Abomi in one hit
   GS: '10'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 9%
-  Ratio: 3.07
-  TA: '30'
+  Number of Gamers: 10
+  Percentage of Gamers: 12%
+  Ratio: 2.89
+  TA: '28'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -216,10 +216,10 @@ Base Game Achievements:
   Description: KO an opponent in one hit with your Basic Attack
   GS: '10'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 5%
-  Ratio: 4.06
-  TA: '40'
+  Number of Gamers: 7
+  Percentage of Gamers: 8%
+  Ratio: 3.46
+  TA: '34'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -227,9 +227,9 @@ Base Game Achievements:
   Description: Use a Fire-type move while underwater
   GS: '10'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 20%
-  Ratio: 2.17
+  Number of Gamers: 19
+  Percentage of Gamers: 23%
+  Ratio: 2.1
   TA: '21'
   Tags:
   - Offline Game Mode
@@ -238,10 +238,10 @@ Base Game Achievements:
   Description: KO 100 Abomis
   GS: '25'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 23%
-  Ratio: 2.09
-  TA: '52'
+  Number of Gamers: 22
+  Percentage of Gamers: 26%
+  Ratio: 1.95
+  TA: '48'
   Tags:
   - Offline Mode
   - Single Player
@@ -250,10 +250,10 @@ Base Game Achievements:
   Description: KO 1,000 Abomis
   GS: '75'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 2%
-  Ratio: 5.74
-  TA: '430'
+  Number of Gamers: 4
+  Percentage of Gamers: 5%
+  Ratio: 4.58
+  TA: '343'
   Tags:
   - Offline Mode
   - Single Player
@@ -262,10 +262,10 @@ Base Game Achievements:
   Description: Beat the game
   GS: '75'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 9%
-  Ratio: 3.31
-  TA: '248'
+  Number of Gamers: 9
+  Percentage of Gamers: 11%
+  Ratio: 3.05
+  TA: '229'
   Tags:
   - Offline Mode
   - Single Player
@@ -276,10 +276,10 @@ Base Game Achievements:
   Description: Beat the game on Brutal with Permadeath on
   GS: '100'
   Guide: false
-  Number of Gamers: 1
+  Number of Gamers: 2
   Percentage of Gamers: 2%
-  Ratio: 8.12
-  TA: '812'
+  Ratio: 6.48
+  TA: '648'
   Tags:
   - Offline Mode
   - Single Player
@@ -290,10 +290,10 @@ Base Game Achievements:
   Description: Finish a Custom Game
   GS: '100'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 2%
-  Ratio: 5.74
-  TA: '574'
+  Number of Gamers: 5
+  Percentage of Gamers: 6%
+  Ratio: 4.09
+  TA: '409'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -301,10 +301,10 @@ Base Game Achievements:
   Description: Obtain all other achievements
   GS: '100'
   Guide: false
-  Number of Gamers: 1
+  Number of Gamers: 2
   Percentage of Gamers: 2%
-  Ratio: 8.12
-  TA: '812'
+  Ratio: 6.48
+  TA: '648'
   Tags:
   - Offline Mode
   - Single Player
@@ -312,26 +312,26 @@ Base Game Achievements:
   - Collectable
   - Level
   - Shop
-Base Ratio: 5.699
-Base TA: 5699
+Base Ratio: 4.683
+Base TA: 4683
 Delisted: false
 Developer: Orange Pylon Games
 Game Name: Abomi Nation
 Genres: Action-Adventure
 Install Size: 1260.0
-Number of Completions: 0
-Number of Gamers: 66
+Number of Completions: 2
+Number of Gamers: 84
 Overall Completion Time:
-- -1
-- -1
+- 31
+- 32
 Overall GS: 1000
-Overall Ratio: 5.699
-Overall TA: 5699
+Overall Ratio: 4.683
+Overall TA: 4683
 PDU: 0
-Percentage Completed: 0.0
+Percentage Completed: 2.38
 Publisher: DANGEN Entertainment
 Release Date: 28 September 2023
 Server Closure: false
-Site Rating: None
+Site Rating: 4.5
 Update Achievements: []
 Walkthrough: false

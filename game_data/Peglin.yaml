@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 81
-- 82
+- 91
+- 91
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Holey Moley
   Description: Defeat Avogadro, the Mole Boss
   GS: '10'
   Guide: false
-  Number of Gamers: 240
+  Number of Gamers: 295
   Percentage of Gamers: 76%
   Ratio: 1.14
   TA: '11'
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Defeat the Slime Boss
   GS: '10'
   Guide: false
-  Number of Gamers: 231
+  Number of Gamers: 281
   Percentage of Gamers: 73%
   Ratio: 1.17
   TA: '11'
@@ -32,7 +32,7 @@ Base Game Achievements:
   Description: Defeat Betsy the Leshy
   GS: '10'
   Guide: false
-  Number of Gamers: 238
+  Number of Gamers: 290
   Percentage of Gamers: 75%
   Ratio: 1.15
   TA: '11'
@@ -44,9 +44,9 @@ Base Game Achievements:
   Description: Defeat the Demon Wall
   GS: '15'
   Guide: false
-  Number of Gamers: 189
-  Percentage of Gamers: 60%
-  Ratio: 1.29
+  Number of Gamers: 237
+  Percentage of Gamers: 61%
+  Ratio: 1.27
   TA: '19'
   Tags:
   - Offline Mode
@@ -56,9 +56,9 @@ Base Game Achievements:
   Description: Defeat the Ballista Militia
   GS: '15'
   Guide: false
-  Number of Gamers: 190
-  Percentage of Gamers: 60%
-  Ratio: 1.29
+  Number of Gamers: 227
+  Percentage of Gamers: 59%
+  Ratio: 1.3
   TA: '19'
   Tags:
   - Offline Mode
@@ -68,7 +68,7 @@ Base Game Achievements:
   Description: Defeat the Pigment of Imagination
   GS: '15'
   Guide: false
-  Number of Gamers: 173
+  Number of Gamers: 211
   Percentage of Gamers: 55%
   Ratio: 1.35
   TA: '20'
@@ -80,9 +80,9 @@ Base Game Achievements:
   Description: Defeat the Qaballistic Ruins
   GS: '20'
   Guide: false
-  Number of Gamers: 142
-  Percentage of Gamers: 45%
-  Ratio: 1.49
+  Number of Gamers: 180
+  Percentage of Gamers: 47%
+  Ratio: 1.46
   TA: '29'
   Tags:
   - Offline Mode
@@ -92,7 +92,7 @@ Base Game Achievements:
   Description: Defeat the Super Sapper
   GS: '20'
   Guide: false
-  Number of Gamers: 174
+  Number of Gamers: 214
   Percentage of Gamers: 55%
   Ratio: 1.34
   TA: '26'
@@ -104,9 +104,9 @@ Base Game Achievements:
   Description: Vanquish Thesaurosus the Avaricious Dragon
   GS: '20'
   Guide: false
-  Number of Gamers: 161
-  Percentage of Gamers: 51%
-  Ratio: 1.4
+  Number of Gamers: 194
+  Percentage of Gamers: 50%
+  Ratio: 1.41
   TA: '28'
   Tags:
   - Offline Game Mode
@@ -115,10 +115,10 @@ Base Game Achievements:
   Description: Inflict 40+ Spinfection onto a single enemy
   GS: '30'
   Guide: false
-  Number of Gamers: 88
-  Percentage of Gamers: 28%
-  Ratio: 1.89
-  TA: '56'
+  Number of Gamers: 113
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '55'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -126,10 +126,10 @@ Base Game Achievements:
   Description: Win a battle with 100+ Ballwark remaining
   GS: '30'
   Guide: false
-  Number of Gamers: 62
+  Number of Gamers: 78
   Percentage of Gamers: 20%
-  Ratio: 2.26
-  TA: '67'
+  Ratio: 2.22
+  TA: '66'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -138,9 +138,9 @@ Base Game Achievements:
     anything else
   GS: '30'
   Guide: false
-  Number of Gamers: 143
-  Percentage of Gamers: 45%
-  Ratio: 1.48
+  Number of Gamers: 177
+  Percentage of Gamers: 46%
+  Ratio: 1.47
   TA: '44'
   Tags:
   - Offline Game Mode
@@ -149,10 +149,10 @@ Base Game Achievements:
   Description: Defeat any boss on the first turn
   GS: '30'
   Guide: false
-  Number of Gamers: 73
-  Percentage of Gamers: 23%
-  Ratio: 2.08
-  TA: '62'
+  Number of Gamers: 101
+  Percentage of Gamers: 26%
+  Ratio: 1.95
+  TA: '58'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -160,10 +160,10 @@ Base Game Achievements:
   Description: Die during an event scenario
   GS: '5'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 8%
-  Ratio: 3.49
-  TA: '17'
+  Number of Gamers: 34
+  Percentage of Gamers: 9%
+  Ratio: 3.37
+  TA: '16'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -171,9 +171,9 @@ Base Game Achievements:
   Description: Deal exactly one damage
   GS: '5'
   Guide: false
-  Number of Gamers: 194
-  Percentage of Gamers: 61%
-  Ratio: 1.27
+  Number of Gamers: 244
+  Percentage of Gamers: 63%
+  Ratio: 1.26
   TA: '6'
   Tags:
   - Offline Game Mode
@@ -182,10 +182,10 @@ Base Game Achievements:
   Description: Deal more than 9000 damage in one shot
   GS: '20'
   Guide: false
-  Number of Gamers: 88
+  Number of Gamers: 107
   Percentage of Gamers: 28%
-  Ratio: 1.89
-  TA: '37'
+  Ratio: 1.9
+  TA: '38'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -193,7 +193,7 @@ Base Game Achievements:
   Description: Deal the exact damage needed to defeat an enemy
   GS: '10'
   Guide: false
-  Number of Gamers: 278
+  Number of Gamers: 339
   Percentage of Gamers: 88%
   Ratio: 1.06
   TA: '10'
@@ -204,7 +204,7 @@ Base Game Achievements:
   Description: Fully clear a pegboard
   GS: '20'
   Guide: false
-  Number of Gamers: 181
+  Number of Gamers: 222
   Percentage of Gamers: 57%
   Ratio: 1.32
   TA: '26'
@@ -215,10 +215,10 @@ Base Game Achievements:
   Description: Hit 1000 pegs or more in one shot
   GS: '25'
   Guide: false
-  Number of Gamers: 36
-  Percentage of Gamers: 11%
-  Ratio: 2.96
-  TA: '74'
+  Number of Gamers: 48
+  Percentage of Gamers: 12%
+  Ratio: 2.83
+  TA: '70'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -226,10 +226,10 @@ Base Game Achievements:
   Description: Leave an enemy with just one health point
   GS: '20'
   Guide: false
-  Number of Gamers: 238
-  Percentage of Gamers: 75%
-  Ratio: 1.15
-  TA: '23'
+  Number of Gamers: 296
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '22'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -237,10 +237,10 @@ Base Game Achievements:
   Description: Keep an enemy Brambled for 6 turns
   GS: '20'
   Guide: false
-  Number of Gamers: 38
-  Percentage of Gamers: 12%
-  Ratio: 2.88
-  TA: '57'
+  Number of Gamers: 56
+  Percentage of Gamers: 14%
+  Ratio: 2.62
+  TA: '52'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -248,10 +248,10 @@ Base Game Achievements:
   Description: Defeat Avogadro's Tree before entering the Castle
   GS: '25'
   Guide: false
-  Number of Gamers: 99
-  Percentage of Gamers: 31%
-  Ratio: 1.78
-  TA: '44'
+  Number of Gamers: 126
+  Percentage of Gamers: 33%
+  Ratio: 1.75
+  TA: '43'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -259,10 +259,10 @@ Base Game Achievements:
   Description: Fully assemble the Assemball
   GS: '25'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 8%
-  Ratio: 3.49
-  TA: '87'
+  Number of Gamers: 37
+  Percentage of Gamers: 10%
+  Ratio: 3.23
+  TA: '80'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -270,10 +270,10 @@ Base Game Achievements:
   Description: Complete Cruciball Level 5
   GS: '5'
   Guide: false
-  Number of Gamers: 60
-  Percentage of Gamers: 19%
-  Ratio: 2.29
-  TA: '11'
+  Number of Gamers: 81
+  Percentage of Gamers: 21%
+  Ratio: 2.19
+  TA: '10'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -281,10 +281,10 @@ Base Game Achievements:
   Description: Complete Cruciball Level 10
   GS: '10'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 4%
-  Ratio: 4.75
-  TA: '47'
+  Number of Gamers: 22
+  Percentage of Gamers: 6%
+  Ratio: 4.19
+  TA: '41'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -292,10 +292,10 @@ Base Game Achievements:
   Description: Complete Cruciball Level 15
   GS: '25'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 1%
-  Ratio: 10.27
-  TA: '256'
+  Number of Gamers: 8
+  Percentage of Gamers: 2%
+  Ratio: 6.95
+  TA: '173'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -303,10 +303,10 @@ Base Game Achievements:
   Description: Complete Cruciball Level 20
   GS: '50'
   Guide: false
-  Number of Gamers: 2
+  Number of Gamers: 4
   Percentage of Gamers: 1%
-  Ratio: 12.58
-  TA: '629'
+  Ratio: 9.83
+  TA: '491'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -315,10 +315,10 @@ Base Game Achievements:
     Level 10 or higher
   GS: '25'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 1%
-  Ratio: 12.58
-  TA: '314'
+  Number of Gamers: 8
+  Percentage of Gamers: 2%
+  Ratio: 6.95
+  TA: '173'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -326,10 +326,10 @@ Base Game Achievements:
   Description: Using the Matryorbshka, have 16 multiballs on screen at once
   GS: '25'
   Guide: false
-  Number of Gamers: 81
-  Percentage of Gamers: 26%
-  Ratio: 1.97
-  TA: '49'
+  Number of Gamers: 103
+  Percentage of Gamers: 27%
+  Ratio: 1.94
+  TA: '48'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -337,10 +337,10 @@ Base Game Achievements:
   Description: Achieve a 5x crit multiplier with the Critsomallos Fleece
   GS: '25'
   Guide: false
-  Number of Gamers: 43
-  Percentage of Gamers: 14%
-  Ratio: 2.71
-  TA: '67'
+  Number of Gamers: 63
+  Percentage of Gamers: 16%
+  Ratio: 2.47
+  TA: '61'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -348,10 +348,10 @@ Base Game Achievements:
   Description: Battle the Ballista Militia until all its minions have spawned
   GS: '25'
   Guide: false
-  Number of Gamers: 50
+  Number of Gamers: 63
   Percentage of Gamers: 16%
-  Ratio: 2.51
-  TA: '62'
+  Ratio: 2.47
+  TA: '61'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -359,10 +359,10 @@ Base Game Achievements:
   Description: Get three Bramballs stuck in Leshy's vines at the same time
   GS: '25'
   Guide: true
-  Number of Gamers: 10
-  Percentage of Gamers: 3%
-  Ratio: 5.63
-  TA: '140'
+  Number of Gamers: 18
+  Percentage of Gamers: 5%
+  Ratio: 4.63
+  TA: '115'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -370,10 +370,10 @@ Base Game Achievements:
   Description: Win a run with two eggs in your satchel
   GS: '25'
   Guide: true
-  Number of Gamers: 10
-  Percentage of Gamers: 3%
-  Ratio: 5.63
-  TA: '140'
+  Number of Gamers: 15
+  Percentage of Gamers: 4%
+  Ratio: 5.07
+  TA: '126'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -382,10 +382,10 @@ Base Game Achievements:
     ingot
   GS: '25'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 3%
-  Ratio: 5.93
-  TA: '148'
+  Number of Gamers: 18
+  Percentage of Gamers: 5%
+  Ratio: 4.63
+  TA: '115'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -393,10 +393,10 @@ Base Game Achievements:
   Description: Die while defeating the Mines' boss
   GS: '20'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 5%
-  Ratio: 4.45
-  TA: '89'
+  Number of Gamers: 24
+  Percentage of Gamers: 6%
+  Ratio: 4.01
+  TA: '80'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -404,10 +404,10 @@ Base Game Achievements:
   Description: Bring an Egg to the peglin chef
   GS: '25'
   Guide: false
-  Number of Gamers: 16
+  Number of Gamers: 18
   Percentage of Gamers: 5%
-  Ratio: 4.45
-  TA: '111'
+  Ratio: 4.63
+  TA: '115'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -415,10 +415,10 @@ Base Game Achievements:
   Description: Send a demon squirrel into a black hole
   GS: '10'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 5%
-  Ratio: 4.45
-  TA: '44'
+  Number of Gamers: 23
+  Percentage of Gamers: 6%
+  Ratio: 4.1
+  TA: '41'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -426,9 +426,9 @@ Base Game Achievements:
   Description: Defeat a Rainbow Slime
   GS: '10'
   Guide: false
-  Number of Gamers: 200
-  Percentage of Gamers: 63%
-  Ratio: 1.25
+  Number of Gamers: 241
+  Percentage of Gamers: 62%
+  Ratio: 1.26
   TA: '12'
   Tags:
   - Offline Game Mode
@@ -437,10 +437,10 @@ Base Game Achievements:
   Description: Win a run with only your class relic
   GS: '30'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 1%
-  Ratio: 8.9
-  TA: '267'
+  Number of Gamers: 6
+  Percentage of Gamers: 2%
+  Ratio: 8.03
+  TA: '240'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -448,10 +448,10 @@ Base Game Achievements:
   Description: Win a run with only level 1 orbs
   GS: '30'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 5%
-  Ratio: 4.31
-  TA: '129'
+  Number of Gamers: 26
+  Percentage of Gamers: 7%
+  Ratio: 3.85
+  TA: '115'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -459,10 +459,10 @@ Base Game Achievements:
   Description: Completely fill one entry in the Encirclepedia's Bestiary
   GS: '20'
   Guide: false
-  Number of Gamers: 36
-  Percentage of Gamers: 11%
-  Ratio: 2.96
-  TA: '59'
+  Number of Gamers: 53
+  Percentage of Gamers: 14%
+  Ratio: 2.7
+  TA: '54'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -470,9 +470,9 @@ Base Game Achievements:
   Description: Collect your first monster trading card
   GS: '10'
   Guide: false
-  Number of Gamers: 239
-  Percentage of Gamers: 75%
-  Ratio: 1.15
+  Number of Gamers: 286
+  Percentage of Gamers: 74%
+  Ratio: 1.16
   TA: '11'
   Tags:
   - Offline Game Mode
@@ -481,10 +481,10 @@ Base Game Achievements:
   Description: Throw a Rigged Bomb after being eaten by the Slime Boss
   GS: '25'
   Guide: false
-  Number of Gamers: 28
-  Percentage of Gamers: 9%
-  Ratio: 3.36
-  TA: '84'
+  Number of Gamers: 37
+  Percentage of Gamers: 10%
+  Ratio: 3.27
+  TA: '81'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -492,10 +492,10 @@ Base Game Achievements:
   Description: Defeat the Pigment of Imagination without destroying any paintings
   GS: '25'
   Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 7%
-  Ratio: 3.71
-  TA: '92'
+  Number of Gamers: 32
+  Percentage of Gamers: 8%
+  Ratio: 3.53
+  TA: '88'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -503,10 +503,10 @@ Base Game Achievements:
   Description: Convert or Destroy 3 dull pegs while fighting the Demon Wall
   GS: '25'
   Guide: false
-  Number of Gamers: 68
-  Percentage of Gamers: 21%
-  Ratio: 2.15
-  TA: '53'
+  Number of Gamers: 91
+  Percentage of Gamers: 24%
+  Ratio: 2.06
+  TA: '51'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -514,10 +514,10 @@ Base Game Achievements:
   Description: Defeat all 4 Qaballistic Ruins with the same attack
   GS: '25'
   Guide: false
-  Number of Gamers: 61
+  Number of Gamers: 73
   Percentage of Gamers: 19%
-  Ratio: 2.27
-  TA: '56'
+  Ratio: 2.3
+  TA: '57'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -526,9 +526,9 @@ Base Game Achievements:
     Sappers
   GS: '25'
   Guide: false
-  Number of Gamers: 97
-  Percentage of Gamers: 31%
-  Ratio: 1.8
+  Number of Gamers: 115
+  Percentage of Gamers: 30%
+  Ratio: 1.83
   TA: '45'
   Tags:
   - Offline Game Mode
@@ -537,33 +537,33 @@ Base Game Achievements:
   Description: Defeat Thesaurosus with no coins remaining in the pegboard
   GS: '25'
   Guide: false
-  Number of Gamers: 35
-  Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '75'
+  Number of Gamers: 47
+  Percentage of Gamers: 12%
+  Ratio: 2.86
+  TA: '71'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 3.774
-Base TA: 3774
+Base Ratio: 3.235
+Base TA: 3235
 Delisted: false
 Developer: Red Nexus Games
 Game Name: Peglin
 Genres: Puzzle, Roguelite
 Install Size: 622.0
-Number of Completions: 2
-Number of Gamers: 317
+Number of Completions: 3
+Number of Gamers: 387
 Overall Completion Time:
-- 81
-- 82
+- 91
+- 91
 Overall GS: 1000
-Overall Ratio: 3.774
-Overall TA: 3774
+Overall Ratio: 3.235
+Overall TA: 3235
 PDU: 0
-Percentage Completed: 0.63
+Percentage Completed: 0.78
 Publisher: BlitWorks
 Release Date: 01 May 2025
 Server Closure: false
-Site Rating: 4.61
+Site Rating: 4.42
 Update Achievements: []
 Walkthrough: false

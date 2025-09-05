@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 17
 - 18
+- 19
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: The Deal Is Done
   Description: Finish the tutorial, let's move on
   GS: '25'
   Guide: true
-  Number of Gamers: 97
+  Number of Gamers: 102
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '25'
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Sammael defeated Jacob's army
   GS: '25'
   Guide: false
-  Number of Gamers: 35
+  Number of Gamers: 37
   Percentage of Gamers: 36%
   Ratio: 1.66
   TA: '41'
@@ -32,9 +32,9 @@ Base Game Achievements:
   Description: Destroy the outer body of the piano and don't eat the soul
   GS: '25'
   Guide: false
-  Number of Gamers: 28
+  Number of Gamers: 30
   Percentage of Gamers: 29%
-  Ratio: 1.86
+  Ratio: 1.84
   TA: '46'
   Tags:
   - Offline Mode
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Finish the cihuanahuallis' tests
   GS: '25'
   Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 24%
-  Ratio: 2.05
-  TA: '51'
+  Number of Gamers: 25
+  Percentage of Gamers: 25%
+  Ratio: 2.01
+  TA: '50'
   Tags:
   - Offline Mode
   - Single Player
@@ -57,10 +57,10 @@ Base Game Achievements:
     you
   GS: '25'
   Guide: true
-  Number of Gamers: 23
-  Percentage of Gamers: 24%
-  Ratio: 2.05
-  TA: '51'
+  Number of Gamers: 25
+  Percentage of Gamers: 25%
+  Ratio: 2.01
+  TA: '50'
   Tags:
   - Offline Mode
   - Single Player
@@ -69,7 +69,7 @@ Base Game Achievements:
   Description: Finish the first spiritual test
   GS: '25'
   Guide: false
-  Number of Gamers: 20
+  Number of Gamers: 21
   Percentage of Gamers: 21%
   Ratio: 2.2
   TA: '55'
@@ -81,7 +81,7 @@ Base Game Achievements:
   Description: Finish the second spiritual test
   GS: '25'
   Guide: false
-  Number of Gamers: 19
+  Number of Gamers: 20
   Percentage of Gamers: 20%
   Ratio: 2.25
   TA: '56'
@@ -93,10 +93,10 @@ Base Game Achievements:
   Description: Finish the Third spiritual test
   GS: '25'
   Guide: false
-  Number of Gamers: 18
+  Number of Gamers: 19
   Percentage of Gamers: 19%
-  Ratio: 2.32
-  TA: '58'
+  Ratio: 2.31
+  TA: '57'
   Tags:
   - Offline Mode
   - Single Player
@@ -105,10 +105,10 @@ Base Game Achievements:
   Description: Jacob didn't die or lost in the first trial
   GS: '50'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 11%
-  Ratio: 2.96
-  TA: '148'
+  Number of Gamers: 12
+  Percentage of Gamers: 12%
+  Ratio: 2.91
+  TA: '145'
   Tags:
   - Offline Mode
   - Single Player
@@ -117,10 +117,10 @@ Base Game Achievements:
   Description: Jacob didn't die or lost in the second trial
   GS: '50'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 9%
-  Ratio: 3.28
-  TA: '164'
+  Number of Gamers: 10
+  Percentage of Gamers: 10%
+  Ratio: 3.19
+  TA: '159'
   Tags:
   - Offline Mode
   - Single Player
@@ -129,10 +129,10 @@ Base Game Achievements:
   Description: Jacob didn't get hit enough in the third trial
   GS: '50'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 8%
-  Ratio: 3.48
-  TA: '174'
+  Number of Gamers: 9
+  Percentage of Gamers: 9%
+  Ratio: 3.36
+  TA: '168'
   Tags:
   - Offline Mode
   - Single Player
@@ -141,10 +141,10 @@ Base Game Achievements:
   Description: Obey your master
   GS: '25'
   Guide: true
-  Number of Gamers: 12
-  Percentage of Gamers: 12%
-  Ratio: 2.84
-  TA: '71'
+  Number of Gamers: 13
+  Percentage of Gamers: 13%
+  Ratio: 2.8
+  TA: '70'
   Tags:
   - Offline Mode
   - Single Player
@@ -154,9 +154,9 @@ Base Game Achievements:
     proud about it
   GS: '0'
   Guide: true
-  Number of Gamers: 9
-  Percentage of Gamers: 9%
-  Ratio: 3.28
+  Number of Gamers: 10
+  Percentage of Gamers: 10%
+  Ratio: 3.19
   TA: '0'
   Tags:
   - Offline Mode
@@ -166,10 +166,10 @@ Base Game Achievements:
   Description: Just press the counter button on the right time
   GS: '25'
   Guide: true
-  Number of Gamers: 8
-  Percentage of Gamers: 8%
-  Ratio: 3.48
-  TA: '87'
+  Number of Gamers: 9
+  Percentage of Gamers: 9%
+  Ratio: 3.36
+  TA: '84'
   Tags:
   - Offline Mode
   - Single Player
@@ -178,10 +178,10 @@ Base Game Achievements:
   Description: First Battle
   GS: '25'
   Guide: false
-  Number of Gamers: 18
+  Number of Gamers: 19
   Percentage of Gamers: 19%
-  Ratio: 2.32
-  TA: '58'
+  Ratio: 2.31
+  TA: '57'
   Tags:
   - Offline Mode
   - Single Player
@@ -190,10 +190,10 @@ Base Game Achievements:
   Description: Second Battle
   GS: '25'
   Guide: false
-  Number of Gamers: 18
+  Number of Gamers: 19
   Percentage of Gamers: 19%
-  Ratio: 2.32
-  TA: '58'
+  Ratio: 2.31
+  TA: '57'
   Tags:
   - Offline Mode
   - Single Player
@@ -202,9 +202,9 @@ Base Game Achievements:
   Description: Third Battle
   GS: '25'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 16%
-  Ratio: 2.46
+  Number of Gamers: 17
+  Percentage of Gamers: 17%
+  Ratio: 2.44
   TA: '61'
   Tags:
   - Offline Mode
@@ -214,10 +214,10 @@ Base Game Achievements:
   Description: Fight your creators
   GS: '25'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 11%
-  Ratio: 2.96
-  TA: '74'
+  Number of Gamers: 12
+  Percentage of Gamers: 12%
+  Ratio: 2.91
+  TA: '72'
   Tags:
   - Offline Mode
   - Single Player
@@ -226,10 +226,10 @@ Base Game Achievements:
   Description: Defeat the low level warrior without dying
   GS: '50'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 9%
-  Ratio: 3.28
-  TA: '164'
+  Number of Gamers: 10
+  Percentage of Gamers: 10%
+  Ratio: 3.19
+  TA: '159'
   Tags:
   - Offline Mode
   - Single Player
@@ -238,10 +238,10 @@ Base Game Achievements:
   Description: Defeat the eagle warrior without dying
   GS: '50'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 13%
-  Ratio: 2.73
-  TA: '136'
+  Number of Gamers: 14
+  Percentage of Gamers: 14%
+  Ratio: 2.69
+  TA: '134'
   Tags:
   - Offline Mode
   - Single Player
@@ -250,10 +250,10 @@ Base Game Achievements:
   Description: Defeat the Jaguar warrior without Jacob dying
   GS: '50'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 9%
-  Ratio: 3.28
-  TA: '164'
+  Number of Gamers: 10
+  Percentage of Gamers: 10%
+  Ratio: 3.19
+  TA: '159'
   Tags:
   - Offline Mode
   - Single Player
@@ -262,10 +262,10 @@ Base Game Achievements:
   Description: Defeat your creators without Jacob dying
   GS: '50'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 7%
-  Ratio: 3.72
-  TA: '186'
+  Number of Gamers: 8
+  Percentage of Gamers: 8%
+  Ratio: 3.57
+  TA: '178'
   Tags:
   - Offline Mode
   - Single Player
@@ -274,10 +274,10 @@ Base Game Achievements:
   Description: Get the neutral ending
   GS: '100'
   Guide: true
-  Number of Gamers: 11
-  Percentage of Gamers: 11%
-  Ratio: 2.96
-  TA: '296'
+  Number of Gamers: 12
+  Percentage of Gamers: 12%
+  Ratio: 2.91
+  TA: '291'
   Tags:
   - Offline Mode
   - Single Player
@@ -287,10 +287,10 @@ Base Game Achievements:
   Description: '...'
   GS: '100'
   Guide: true
-  Number of Gamers: 7
-  Percentage of Gamers: 7%
-  Ratio: 3.72
-  TA: '372'
+  Number of Gamers: 8
+  Percentage of Gamers: 8%
+  Ratio: 3.57
+  TA: '357'
   Tags:
   - Offline Mode
   - Single Player
@@ -300,32 +300,32 @@ Base Game Achievements:
   Description: Jacob doesn't die
   GS: '100'
   Guide: true
-  Number of Gamers: 6
-  Percentage of Gamers: 6%
-  Ratio: 4.02
-  TA: '402'
+  Number of Gamers: 7
+  Percentage of Gamers: 7%
+  Ratio: 3.81
+  TA: '381'
   Tags:
   - Offline Mode
   - Single Player
   - Story Completed
   - Missable
-Base Ratio: 2.998
-Base TA: 2998
+Base Ratio: 2.912
+Base TA: 2912
 Delisted: false
 Developer: Third World Productions
 Game Name: 'The end is nahual: If I may say so'
 Genres: Puzzle
 Install Size: 2970.0
-Number of Completions: 6
-Number of Gamers: 97
+Number of Completions: 7
+Number of Gamers: 102
 Overall Completion Time:
-- 17
 - 18
+- 19
 Overall GS: 1000
-Overall Ratio: 2.998
-Overall TA: 2998
+Overall Ratio: 2.912
+Overall TA: 2912
 PDU: 0
-Percentage Completed: 6.19
+Percentage Completed: 6.86
 Publisher: Third World Productions
 Release Date: 09 September 2022
 Server Closure: false

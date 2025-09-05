@@ -8,75 +8,91 @@ Base Game Achievements:
   Description: "Leave Scrapheap in \u2018Pilgrims of the Wasteland\u2019."
   GS: '5'
   Guide: false
-  Number of Gamers: 45
-  Percentage of Gamers: 92%
-  Ratio: 1.04
+  Number of Gamers: 63
+  Percentage of Gamers: 90%
+  Ratio: 1.05
   TA: '5'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: The Package
   Description: "Deliver Narbo\u2019s package to Skornar in \u2018Pilgrims of the Wasteland\u2019\
     ."
   GS: '5'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 53%
-  Ratio: 1.37
-  TA: '6'
-  Tags: []
+  Number of Gamers: 32
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '7'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Pilgrimage's End
   Description: Complete the main story in 'Pilgrims of the Wasteland'.
   GS: '20'
   Guide: false
   Number of Gamers: 5
-  Percentage of Gamers: 10%
-  Ratio: 3.13
-  TA: '62'
-  Tags: []
+  Percentage of Gamers: 7%
+  Ratio: 3.74
+  TA: '74'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Embellished
   Description: Complete all side-stories in 'Pilgrims of the Wasteland'.
   GS: '10'
   Guide: false
   Number of Gamers: 3
-  Percentage of Gamers: 6%
-  Ratio: 4.04
-  TA: '40'
-  Tags: []
+  Percentage of Gamers: 4%
+  Ratio: 4.83
+  TA: '48'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Press-ganged
   Description: Reach Avernum in 'Pilgrims of the Wasteland'.
   GS: '5'
   Guide: false
-  Number of Gamers: 36
-  Percentage of Gamers: 73%
-  Ratio: 1.16
-  TA: '5'
-  Tags: []
+  Number of Gamers: 46
+  Percentage of Gamers: 66%
+  Ratio: 1.23
+  TA: '6'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Trouble at Fort Larius
   Description: Complete 'the Trouble at Fort Larius' storyline.
   GS: '5'
   Guide: false
-  Number of Gamers: 2
+  Number of Gamers: 3
   Percentage of Gamers: 4%
-  Ratio: 4.94
+  Ratio: 4.83
   TA: '24'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Theory to Practice
   Description: Complete 'the Golden Theory' storyline.
   GS: '5'
   Guide: false
-  Number of Gamers: 2
+  Number of Gamers: 3
   Percentage of Gamers: 4%
-  Ratio: 4.94
+  Ratio: 4.83
   TA: '24'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Inquisitions of Discord
   Description: Complete 'the Source of Discord' storyline.
   GS: '5'
   Guide: false
-  Number of Gamers: 2
+  Number of Gamers: 3
   Percentage of Gamers: 4%
-  Ratio: 4.94
+  Ratio: 4.83
   TA: '24'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: What Lies Below
   Description: Learn the truth about the Great Machine.
   GS: '5'
@@ -85,25 +101,31 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '5'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Insectoid Propagator
   Description: Complete the 'Insectoid Propagation' storyline.
   GS: '5'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 2%
-  Ratio: 7.0
-  TA: '35'
-  Tags: []
+  Percentage of Gamers: 1%
+  Ratio: 8.36
+  TA: '41'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Spiritual Journey
   Description: Gain access to the upper village in Sadirar.
   GS: '5'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 2%
-  Ratio: 7.0
-  TA: '35'
-  Tags: []
+  Percentage of Gamers: 1%
+  Ratio: 8.36
+  TA: '41'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Wyrmslayer
   Description: Complete the 'Return of the Wyrms' storyline.
   GS: '50'
@@ -112,7 +134,9 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '50'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Settler
   Description: Build your own outpost and develop it to its full potential.
   GS: '10'
@@ -121,16 +145,20 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Life... Finds a Way
   Description: Gain the Spirit Idol.
   GS: '5'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 2%
-  Ratio: 7.0
-  TA: '35'
-  Tags: []
+  Number of Gamers: 2
+  Percentage of Gamers: 3%
+  Ratio: 5.91
+  TA: '29'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: And the Sky Full of Stars
   Description: Complete the 'Sealed Beyond' storyline.
   GS: '50'
@@ -139,7 +167,9 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '50'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Entrepreneur
   Description: Win the game through the Wealth Ambition.
   GS: '10'
@@ -148,7 +178,10 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Seeker
   Description: Win the game through the Knowledge Ambition.
   GS: '10'
@@ -157,7 +190,10 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: For the Cause!
   Description: Unlock access to 10 different Abolitionist cells in a single playthrough
     and report your success.
@@ -167,7 +203,9 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '20'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Tax Evasion
   Description: Avoid the highest tier of road tax.
   GS: '10'
@@ -176,7 +214,9 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Xevarian Gambit
   Description: Listen to Daneram Xevaris announce his intentions at his feast.
   GS: '5'
@@ -185,16 +225,20 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '5'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Unseen Patterns
   Description: Listen to the strangest sounds of the wasteland.
   GS: '5'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 2%
-  Ratio: 7.0
-  TA: '35'
-  Tags: []
+  Percentage of Gamers: 1%
+  Ratio: 8.36
+  TA: '41'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Ruiner
   Description: Have Velarias, Fort Larius, and the Omphalat Outpost destroyed in a
     single playthrough.
@@ -204,7 +248,9 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Bounty Hunter
   Description: Complete all bounty hunting storylines in a single playthrough.
   GS: '10'
@@ -213,25 +259,31 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Randomized
   Description: Roll 100 on an Accuracy roll.
   GS: '5'
   Guide: false
-  Number of Gamers: 13
+  Number of Gamers: 19
   Percentage of Gamers: 27%
-  Ratio: 1.94
+  Ratio: 1.91
   TA: '9'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Fight Another Day
   Description: Successfully flee from a crew combat encounter.
   GS: '5'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 10%
-  Ratio: 3.13
-  TA: '15'
-  Tags: []
+  Number of Gamers: 8
+  Percentage of Gamers: 11%
+  Ratio: 2.95
+  TA: '14'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Accomplished Explorer
   Description: Discover all accessible named locations and regions.
   GS: '10'
@@ -240,7 +292,10 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Mercenary
   Description: Complete 100 Mercenary Tasks in a single playthrough.
   GS: '5'
@@ -249,43 +304,53 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '5'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Escort
   Description: Transport 100 Passenger groups to their destinations in a single playthrough.
   GS: '5'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 2%
-  Ratio: 7.0
-  TA: '35'
-  Tags: []
+  Percentage of Gamers: 1%
+  Ratio: 8.36
+  TA: '41'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Merchant
   Description: Complete 100 Trade Tasks in a single playthrough.
   GS: '5'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 8%
-  Ratio: 3.5
+  Number of Gamers: 6
+  Percentage of Gamers: 9%
+  Ratio: 3.41
   TA: '17'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Courier
   Description: Exchange news 200 times in single playthrough.
   GS: '5'
   Guide: false
-  Number of Gamers: 3
+  Number of Gamers: 4
   Percentage of Gamers: 6%
-  Ratio: 4.04
+  Ratio: 4.18
   TA: '20'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Huntsmaster
   Description: Gain at least 950 Supplies from a single Hunting camp action.
   GS: '10'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 2%
-  Ratio: 7.0
-  TA: '70'
-  Tags: []
+  Percentage of Gamers: 1%
+  Ratio: 8.36
+  TA: '83'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Hired Help
   Description: Extend an elite hireling's contract twice.
   GS: '5'
@@ -294,7 +359,9 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '5'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Adept
   Description: Unlock Tier 3 for all four Skills of a Companion during a single playthrough.
   GS: '10'
@@ -303,7 +370,10 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
 - Achievement Name: Mercenary Lord
   Description: Complete 250 Mercenary Tasks in a single playthrough.
   GS: '20'
@@ -312,34 +382,43 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '20'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Merchant Lord
   Description: Complete 250 Trade Tasks in a single playthrough.
   GS: '5'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 2%
-  Ratio: 7.0
-  TA: '35'
-  Tags: []
+  Number of Gamers: 2
+  Percentage of Gamers: 3%
+  Ratio: 5.91
+  TA: '29'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Harbinger
   Description: Get paid for recent news from a 'Far Away' source of origin.
   GS: '5'
   Guide: false
   Number of Gamers: 2
-  Percentage of Gamers: 4%
-  Ratio: 4.94
-  TA: '24'
-  Tags: []
+  Percentage of Gamers: 3%
+  Ratio: 5.91
+  TA: '29'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Taskmaster
   Description: Complete 50 Tasks.
   GS: '5'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 12%
-  Ratio: 2.85
-  TA: '14'
-  Tags: []
+  Number of Gamers: 9
+  Percentage of Gamers: 13%
+  Ratio: 2.78
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Voracity Confronted
   Description: Complete Vorax's personal storyline.
   GS: '5'
@@ -348,16 +427,20 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '5'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Been There, Done That
   Description: Complete the 'To the Four Corners' storyline.
   GS: '5'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 2%
-  Ratio: 7.0
-  TA: '35'
-  Tags: []
+  Number of Gamers: 2
+  Percentage of Gamers: 3%
+  Ratio: 5.91
+  TA: '29'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: The Darkness Within
   Description: Complete Renkailon's personal storyline.
   GS: '5'
@@ -366,7 +449,9 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '5'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Celebrity
   Description: Win the game through the Renown Ambition.
   GS: '10'
@@ -375,25 +460,32 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Legacy of a Mercenary
   Description: Complete Harvek's personal storyline.
   GS: '5'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 2%
-  Ratio: 7.0
-  TA: '35'
-  Tags: []
+  Percentage of Gamers: 1%
+  Ratio: 8.36
+  TA: '41'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Ever After
   Description: Complete Eylani's personal storyline.
   GS: '5'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 2%
-  Ratio: 7.0
-  TA: '35'
-  Tags: []
+  Percentage of Gamers: 1%
+  Ratio: 8.36
+  TA: '41'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Huntress Unbound
   Description: Complete Criftaa's personal storyline.
   GS: '5'
@@ -402,7 +494,9 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '5'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Business As Usual
   Description: Complete Garrik's personal storyline.
   GS: '5'
@@ -411,7 +505,9 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '5'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Conqueror
   Description: Win the game.
   GS: '20'
@@ -420,7 +516,11 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '20'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
 - Achievement Name: Forged in Battle
   Description: Complete Gor'Goro's personal storyline.
   GS: '5'
@@ -429,7 +529,9 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '5'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: The Last Voyage
   Description: Complete Skornar's personal storyline.
   GS: '5'
@@ -438,7 +540,9 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '5'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: A Terrible Will
   Description: Complete Nedir's personal storyline.
   GS: '5'
@@ -447,16 +551,20 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '5'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: The Voice of Hereafter
   Description: Complete Finndurarth's personal storyline.
   GS: '5'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 2%
-  Ratio: 7.0
-  TA: '35'
-  Tags: []
+  Percentage of Gamers: 1%
+  Ratio: 8.36
+  TA: '41'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Loremaster
   Description: Unlock 215 codex entries in a single playthrough.
   GS: '10'
@@ -465,7 +573,10 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Rage Repressed
   Description: Receive the Wrath of Sergorod during the first three in-game weeks
     and win the game without ever rem
@@ -475,7 +586,10 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '20'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
 - Achievement Name: Deceptions Disclosed
   Description: Receive the Treachery of Bal Ur Kaal during the first three in-game
     weeks and win the game without e
@@ -485,7 +599,10 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '20'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
 - Achievement Name: Death Denied
   Description: Receive the Disdain of Ahskul during the first three in-game weeks
     and win the game without ever rem
@@ -495,16 +612,21 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '20'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
 - Achievement Name: Conquered
   Description: Die for the first time.
   GS: '5'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 35%
-  Ratio: 1.69
+  Number of Gamers: 25
+  Percentage of Gamers: 36%
+  Ratio: 1.67
   TA: '8'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Beloved by Irafons
   Description: Win the game without ever loading a manual savegame in the playthrough.
   GS: '50'
@@ -513,7 +635,10 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '50'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Defiant
   Description: Receive the 3 main curses in the first three in-game weeks and win
     without ever removing them.
@@ -523,7 +648,10 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '50'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
 - Achievement Name: Vagrus Supreme
   Description: Receive 3 curses during the first three in-game weeks and then win
     the game without manual loading.
@@ -533,34 +661,44 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '100'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
 - Achievement Name: Conciliator
   Description: Successfully appease the foe during a crew combat encounter.
   GS: '5'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 18%
-  Ratio: 2.33
-  TA: '11'
-  Tags: []
+  Number of Gamers: 12
+  Percentage of Gamers: 17%
+  Ratio: 2.41
+  TA: '12'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Breached
   Description: Fail a Faction Task.
   GS: '5'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 16%
-  Ratio: 2.47
-  TA: '12'
-  Tags: []
+  Number of Gamers: 10
+  Percentage of Gamers: 14%
+  Ratio: 2.64
+  TA: '13'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Scribe
   Description: Unlock 85 codex entries in a single playthrough.
   GS: '5'
   Guide: false
-  Number of Gamers: 7
+  Number of Gamers: 10
   Percentage of Gamers: 14%
   Ratio: 2.64
   TA: '13'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: All Geared Up
   Description: Own at least 40 unique Gear.
   GS: '10'
@@ -569,7 +707,10 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative
 - Achievement Name: Chromatic Collector
   Description: Own one of each Dragonstone.
   GS: '10'
@@ -578,7 +719,9 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Prepared For Anything
   Description: Own at least 45 unique Equipment.
   GS: '10'
@@ -587,25 +730,33 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative
 - Achievement Name: Scholar
   Description: Unlock 150 codex entries in a single playthrough.
   GS: '5'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 8%
-  Ratio: 3.5
+  Number of Gamers: 6
+  Percentage of Gamers: 9%
+  Ratio: 3.41
   TA: '17'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Tail-wind
   Description: Start an in-game day with a total of MP plus MMP higher than 20.
   GS: '5'
   Guide: false
-  Number of Gamers: 2
+  Number of Gamers: 3
   Percentage of Gamers: 4%
-  Ratio: 4.94
+  Ratio: 4.83
   TA: '24'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Trailblazer
   Description: Reach the highest standing with House Oquo.
   GS: '5'
@@ -614,7 +765,10 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '5'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
 - Achievement Name: Carpenter
   Description: Reach the highest standing with the Carpenters' Guild.
   GS: '5'
@@ -623,16 +777,22 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '5'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
 - Achievement Name: Potential Unlocked
   Description: Reach Prowess 9 with any Companion.
   GS: '5'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 2%
-  Ratio: 7.0
-  TA: '35'
-  Tags: []
+  Percentage of Gamers: 1%
+  Ratio: 8.36
+  TA: '41'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
 - Achievement Name: Liberator
   Description: Reach the highest standing with the Abolitionists.
   GS: '5'
@@ -641,7 +801,10 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '5'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
 - Achievement Name: Diplomat
   Description: Have Tier 4 standing simultaneously with 8 different factions.
   GS: '10'
@@ -650,7 +813,10 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
 - Achievement Name: Company of Heroes
   Description: Reach Prowess 9 with at least 6 Companions in a single playthrough.
   GS: '10'
@@ -659,7 +825,10 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
 - Achievement Name: Moving At Odd Angles
   Description: Start an in-game day with a total of MP plus MMP higher than 28.
   GS: '10'
@@ -668,7 +837,9 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: General
   Description: Start an in-game day with at least 1000 Combat Strength and no more
     than 50 armed crew members.
@@ -678,7 +849,9 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Loader
   Description: Reach the highest standing with the Loaders' Guild.
   GS: '5'
@@ -687,7 +860,10 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '5'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
 - Achievement Name: Forager
   Description: Gain at least 500 Supplies from a single Foraging camp action.
   GS: '10'
@@ -696,16 +872,21 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Manticore
   Description: Reach the highest standing with House Venari.
   GS: '5'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '5'
-  Tags: []
+  Number of Gamers: 1
+  Percentage of Gamers: 1%
+  Ratio: 8.36
+  TA: '41'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
 - Achievement Name: Factotum
   Description: Have Tier 5 standing simultaneously with 6 different factions.
   GS: '10'
@@ -714,27 +895,35 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
 - Achievement Name: Glorious leader
   Description: Unlock all Leadership Perks and reach the max Resourcefulness and Authority
     in a single playthrough.
   GS: '10'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '10'
-  Tags: []
+  Number of Gamers: 1
+  Percentage of Gamers: 1%
+  Ratio: 8.36
+  TA: '83'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
 - Achievement Name: Supercargo
   Description: Start an in-game day with 600+ Cargo capacity, no more than 50 working
     crew and 4 or less Beasts.
   GS: '5'
   Guide: false
   Number of Gamers: 2
-  Percentage of Gamers: 4%
-  Ratio: 4.94
-  TA: '24'
-  Tags: []
+  Percentage of Gamers: 3%
+  Ratio: 5.91
+  TA: '29'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Captain
   Description: Reach the highest standing with House Darius.
   GS: '5'
@@ -743,7 +932,10 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '5'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
 - Achievement Name: Arcanite
   Description: Reach the highest standing with the Scythichnis Covenant.
   GS: '5'
@@ -752,7 +944,10 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '5'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
 - Achievement Name: Despoiler
   Description: Reach the highest standing with the Ratharnak Alliance.
   GS: '5'
@@ -761,7 +956,10 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '5'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
 - Achievement Name: Despised
   Description: Reach the lowest standing with a faction.
   GS: '5'
@@ -770,7 +968,9 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '5'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Watcher
   Description: Reach the highest standing with the Church of Ahskul.
   GS: '5'
@@ -779,7 +979,9 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '5'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Metropolitan
   Description: Visit the four great cities within 14 in-game days or less.
   GS: '10'
@@ -788,17 +990,23 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
 - Achievement Name: Over the Horizon
   Description: From the start of a campaign, reach the Last Oasis in 17 in-game days
     or less.
   GS: '10'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 2%
-  Ratio: 7.0
-  TA: '70'
-  Tags: []
+  Percentage of Gamers: 1%
+  Ratio: 8.36
+  TA: '83'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
 - Achievement Name: Handymen
   Description: Gain at least 5 Bross from a single Odd Jobs city rest action.
   GS: '10'
@@ -807,7 +1015,9 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Making Contact
   Description: Unlock access to the Abolitionist faction's headquarters.
   GS: '5'
@@ -816,17 +1026,21 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '5'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Strategist
   Description: Start an in-game day with at least 500 Combat Strength and no more
     than 50 armed crew members.
   GS: '5'
   Guide: false
-  Number of Gamers: 2
+  Number of Gamers: 3
   Percentage of Gamers: 4%
-  Ratio: 4.94
+  Ratio: 4.83
   TA: '24'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Executor
   Description: Reach the highest standing with the Church of Sergorod.
   GS: '5'
@@ -835,7 +1049,10 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '5'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
 - Achievement Name: Talent Nurtured
   Description: Reach Prowess 6 with at least 6 Companions in a single playthrough.
   GS: '5'
@@ -844,63 +1061,79 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '5'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
 - Achievement Name: Acquaintance
   Description: Reach a Tier 3 standing with any faction.
   GS: '5'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 8%
-  Ratio: 3.5
-  TA: '17'
-  Tags: []
+  Number of Gamers: 5
+  Percentage of Gamers: 7%
+  Ratio: 3.74
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
 - Achievement Name: A Real Battle
   Description: Defeat a foe with at least 1000 Combat Strength in a crew combat encounter.
   GS: '5'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 2%
-  Ratio: 7.0
-  TA: '35'
-  Tags: []
+  Percentage of Gamers: 1%
+  Ratio: 8.36
+  TA: '41'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: The More the Merrier
   Description: Start an in-game day with 8 Companions in your crew.
   GS: '5'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 8%
-  Ratio: 3.5
-  TA: '17'
-  Tags: []
+  Number of Gamers: 6
+  Percentage of Gamers: 9%
+  Ratio: 3.74
+  TA: '18'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Deputized
   Description: Start an in-game day with 6 Deputy slots filled.
   GS: '5'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 8%
-  Ratio: 3.5
-  TA: '17'
-  Tags: []
+  Number of Gamers: 6
+  Percentage of Gamers: 9%
+  Ratio: 3.74
+  TA: '18'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Quartermaster
   Description: Start an in-game day with 600+ Cargo capacity, no more than 50 working
     crew and 5 or less Beasts.
   GS: '5'
   Guide: false
-  Number of Gamers: 3
+  Number of Gamers: 4
   Percentage of Gamers: 6%
-  Ratio: 4.04
+  Ratio: 4.18
   TA: '20'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Tactician
   Description: Start an in-game day with at least 250 Combat Strength and no more
     than 50 armed crew members.
   GS: '5'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 14%
-  Ratio: 2.64
+  Number of Gamers: 9
+  Percentage of Gamers: 13%
+  Ratio: 2.78
   TA: '13'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Delayed
   Description: Keep a Passenger for an in-game year.
   GS: '5'
@@ -909,27 +1142,29 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '5'
-  Tags: []
-Base Ratio: 1.831
-Base TA: 1831
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 2.037
+Base TA: 2037
 Delisted: false
 Developer: Last Pillars Development
 Game Name: Vagrus - The Riven Realms
 Genres: Role Playing, Turn Based
 Install Size: 5430.0
 Number of Completions: 0
-Number of Gamers: 49
+Number of Gamers: 70
 Overall Completion Time:
 - -1
 - -1
 Overall GS: 1000
-Overall Ratio: 1.831
-Overall TA: 1831
+Overall Ratio: 2.037
+Overall TA: 2037
 PDU: 0
 Percentage Completed: 0.0
 Publisher: Lost Pilgrims Studio
 Release Date: 31 March 2025
 Server Closure: false
-Site Rating: 5.0
+Site Rating: 4.5
 Update Achievements: []
 Walkthrough: false

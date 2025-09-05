@@ -1,4 +1,37 @@
-Add On Achievements: []
+Add On Achievements:
+- Achievement Name: Raining Dragons
+  Description: End the reign of the dragons in Scorched Earth expedition map.
+  GS: '75'
+  Guide: false
+  Number of Gamers: 122
+  Percentage of Gamers: 61%
+  Ratio: 2.42
+  TA: '181'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: The Natural
+  Description: Roll a "20" on the Fates O'Twenty exhibit.
+  GS: '50'
+  Guide: true
+  Number of Gamers: 100
+  Percentage of Gamers: 50%
+  Ratio: 2.67
+  TA: '133'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Scorched Earth
+  Description: Choose to save Fairydale or Wishfell.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 199
+  Percentage of Gamers: 99%
+  Ratio: 1.89
+  TA: '18'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 Base Completion Time:
 - 60.0
 - 80.0
@@ -8,10 +41,10 @@ Base Game Achievements:
   Description: Complete chapter 5 of Memento Mile museum.
   GS: '75'
   Guide: false
-  Number of Gamers: 458
-  Percentage of Gamers: 20%
-  Ratio: 2.22
-  TA: '167'
+  Number of Gamers: 545
+  Percentage of Gamers: 21%
+  Ratio: 2.17
+  TA: '162'
   Tags:
   - Offline Mode
   - Single Player
@@ -20,10 +53,10 @@ Base Game Achievements:
   Description: Complete chapter 5 of Passwater Cove museum.
   GS: '75'
   Guide: false
-  Number of Gamers: 453
-  Percentage of Gamers: 20%
-  Ratio: 2.24
-  TA: '168'
+  Number of Gamers: 543
+  Percentage of Gamers: 21%
+  Ratio: 2.17
+  TA: '163'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,10 +65,10 @@ Base Game Achievements:
   Description: Complete chapter 5 of Wailon Lodge museum.
   GS: '75'
   Guide: false
-  Number of Gamers: 414
-  Percentage of Gamers: 18%
-  Ratio: 2.34
-  TA: '175'
+  Number of Gamers: 491
+  Percentage of Gamers: 19%
+  Ratio: 2.28
+  TA: '171'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +77,10 @@ Base Game Achievements:
   Description: Complete chapter 5 of Pebberley Heights museum.
   GS: '75'
   Guide: false
-  Number of Gamers: 463
-  Percentage of Gamers: 20%
-  Ratio: 2.21
-  TA: '166'
+  Number of Gamers: 531
+  Percentage of Gamers: 21%
+  Ratio: 2.19
+  TA: '164'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,10 +89,10 @@ Base Game Achievements:
   Description: Complete chapter 5 of Bungle Wasteland museum.
   GS: '75'
   Guide: false
-  Number of Gamers: 434
-  Percentage of Gamers: 19%
-  Ratio: 2.29
-  TA: '171'
+  Number of Gamers: 509
+  Percentage of Gamers: 20%
+  Ratio: 2.24
+  TA: '168'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,8 +101,8 @@ Base Game Achievements:
   Description: Complete chapter 1 of Memento Mile museum.
   GS: '10'
   Guide: false
-  Number of Gamers: 2084
-  Percentage of Gamers: 92%
+  Number of Gamers: 2344
+  Percentage of Gamers: 91%
   Ratio: 1.04
   TA: '10'
   Tags:
@@ -80,8 +113,8 @@ Base Game Achievements:
   Description: Discover a Pristine quality exhibit on an expedition.
   GS: '10'
   Guide: false
-  Number of Gamers: 1637
-  Percentage of Gamers: 72%
+  Number of Gamers: 1864
+  Percentage of Gamers: 73%
   Ratio: 1.17
   TA: '11'
   Tags:
@@ -91,10 +124,10 @@ Base Game Achievements:
   Description: Earn a gold trophy in an Exhibition Mode pop-up museum.
   GS: '50'
   Guide: true
-  Number of Gamers: 484
-  Percentage of Gamers: 21%
-  Ratio: 2.16
-  TA: '108'
+  Number of Gamers: 568
+  Percentage of Gamers: 22%
+  Ratio: 2.12
+  TA: '106'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -102,9 +135,9 @@ Base Game Achievements:
   Description: Unlock 25 expedition points of interest (POIs).
   GS: '10'
   Guide: true
-  Number of Gamers: 1384
+  Number of Gamers: 1579
   Percentage of Gamers: 61%
-  Ratio: 1.28
+  Ratio: 1.27
   TA: '12'
   Tags:
   - Offline Mode
@@ -114,10 +147,10 @@ Base Game Achievements:
   Description: Earn 100 shiny stickers in the Sticker Book.
   GS: '50'
   Guide: false
-  Number of Gamers: 591
-  Percentage of Gamers: 26%
-  Ratio: 1.96
-  TA: '98'
+  Number of Gamers: 698
+  Percentage of Gamers: 27%
+  Ratio: 1.91
+  TA: '95'
   Tags:
   - Offline Mode
   - Single Player
@@ -126,9 +159,9 @@ Base Game Achievements:
   Description: Give a fish exhibit a custom name.
   GS: '5'
   Guide: true
-  Number of Gamers: 603
-  Percentage of Gamers: 26%
-  Ratio: 1.94
+  Number of Gamers: 712
+  Percentage of Gamers: 28%
+  Ratio: 1.89
   TA: '9'
   Tags:
   - Offline Game Mode
@@ -137,9 +170,9 @@ Base Game Achievements:
   Description: Build a level 10 museum in Sandbox Mode.
   GS: '5'
   Guide: false
-  Number of Gamers: 366
-  Percentage of Gamers: 16%
-  Ratio: 2.49
+  Number of Gamers: 431
+  Percentage of Gamers: 17%
+  Ratio: 2.44
   TA: '12'
   Tags:
   - Offline Mode
@@ -149,10 +182,10 @@ Base Game Achievements:
   Description: Train a member of staff as much as possible.
   GS: '25'
   Guide: true
-  Number of Gamers: 256
-  Percentage of Gamers: 11%
-  Ratio: 2.98
-  TA: '74'
+  Number of Gamers: 326
+  Percentage of Gamers: 13%
+  Ratio: 2.8
+  TA: '70'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -160,10 +193,10 @@ Base Game Achievements:
   Description: Have 5 visiting children wear onesies of 5 different themes at once.
   GS: '10'
   Guide: true
-  Number of Gamers: 426
+  Number of Gamers: 499
   Percentage of Gamers: 19%
-  Ratio: 2.31
-  TA: '23'
+  Ratio: 2.26
+  TA: '22'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -171,9 +204,9 @@ Base Game Achievements:
   Description: Complete 20 Workshop projects.
   GS: '5'
   Guide: true
-  Number of Gamers: 801
-  Percentage of Gamers: 35%
-  Ratio: 1.68
+  Number of Gamers: 941
+  Percentage of Gamers: 37%
+  Ratio: 1.65
   TA: '8'
   Tags:
   - Offline Mode
@@ -182,11 +215,11 @@ Base Game Achievements:
 - Achievement Name: Uncommon Knowledge
   Description: Reach 30 Enlightenment for any theme.
   GS: '50'
-  Guide: false
-  Number of Gamers: 684
-  Percentage of Gamers: 30%
-  Ratio: 1.82
-  TA: '91'
+  Guide: true
+  Number of Gamers: 805
+  Percentage of Gamers: 31%
+  Ratio: 1.78
+  TA: '89'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -194,9 +227,9 @@ Base Game Achievements:
   Description: Install 3 perks on a single exhibit.
   GS: '10'
   Guide: false
-  Number of Gamers: 1023
+  Number of Gamers: 1161
   Percentage of Gamers: 45%
-  Ratio: 1.49
+  Ratio: 1.48
   TA: '14'
   Tags:
   - Offline Game Mode
@@ -205,9 +238,9 @@ Base Game Achievements:
   Description: Catch a thief who has stolen an exhibit.
   GS: '10'
   Guide: true
-  Number of Gamers: 1219
+  Number of Gamers: 1396
   Percentage of Gamers: 54%
-  Ratio: 1.36
+  Ratio: 1.35
   TA: '13'
   Tags:
   - Offline Game Mode
@@ -216,10 +249,10 @@ Base Game Achievements:
   Description: Have a level 50 museum.
   GS: '50'
   Guide: false
-  Number of Gamers: 333
-  Percentage of Gamers: 15%
-  Ratio: 2.61
-  TA: '130'
+  Number of Gamers: 430
+  Percentage of Gamers: 17%
+  Ratio: 2.44
+  TA: '122'
   Tags:
   - Offline Mode
   - Single Player
@@ -228,10 +261,10 @@ Base Game Achievements:
   Description: Reach Curator Class level 7.
   GS: '100'
   Guide: false
-  Number of Gamers: 566
-  Percentage of Gamers: 25%
-  Ratio: 2.0
-  TA: '200'
+  Number of Gamers: 674
+  Percentage of Gamers: 26%
+  Ratio: 1.95
+  TA: '195'
   Tags:
   - Offline Mode
   - Single Player
@@ -240,10 +273,10 @@ Base Game Achievements:
   Description: Create a 5-star tour.
   GS: '10'
   Guide: true
-  Number of Gamers: 258
-  Percentage of Gamers: 11%
-  Ratio: 2.97
-  TA: '29'
+  Number of Gamers: 324
+  Percentage of Gamers: 13%
+  Ratio: 2.81
+  TA: '28'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -251,7 +284,7 @@ Base Game Achievements:
   Description: Complete a Dinosaur Bones exhibit.
   GS: '10'
   Guide: false
-  Number of Gamers: 2226
+  Number of Gamers: 2511
   Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '10'
@@ -262,9 +295,9 @@ Base Game Achievements:
   Description: Have a guest eaten by a Chomper Pit exhibit.
   GS: '5'
   Guide: false
-  Number of Gamers: 802
-  Percentage of Gamers: 35%
-  Ratio: 1.68
+  Number of Gamers: 951
+  Percentage of Gamers: 37%
+  Ratio: 1.64
   TA: '8'
   Tags:
   - Offline Game Mode
@@ -274,10 +307,10 @@ Base Game Achievements:
     Room.
   GS: '25'
   Guide: false
-  Number of Gamers: 284
-  Percentage of Gamers: 12%
-  Ratio: 2.83
-  TA: '70'
+  Number of Gamers: 340
+  Percentage of Gamers: 13%
+  Ratio: 2.74
+  TA: '68'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -285,9 +318,9 @@ Base Game Achievements:
   Description: Have a level 3 (III) Custom Contraption, Science exhibit.
   GS: '25'
   Guide: true
-  Number of Gamers: 945
+  Number of Gamers: 1085
   Percentage of Gamers: 42%
-  Ratio: 1.55
+  Ratio: 1.53
   TA: '38'
   Tags:
   - Offline Game Mode
@@ -297,8 +330,8 @@ Base Game Achievements:
     Springs.
   GS: '5'
   Guide: true
-  Number of Gamers: 1602
-  Percentage of Gamers: 70%
+  Number of Gamers: 1812
+  Percentage of Gamers: 71%
   Ratio: 1.19
   TA: '5'
   Tags:
@@ -308,9 +341,9 @@ Base Game Achievements:
   Description: Earn $10,000 from Sponsored exhibits.
   GS: '10'
   Guide: true
-  Number of Gamers: 1076
-  Percentage of Gamers: 47%
-  Ratio: 1.45
+  Number of Gamers: 1256
+  Percentage of Gamers: 49%
+  Ratio: 1.43
   TA: '14'
   Tags:
   - Offline Mode
@@ -320,9 +353,9 @@ Base Game Achievements:
   Description: Have 10 fish born at the museum.
   GS: '10'
   Guide: true
-  Number of Gamers: 637
-  Percentage of Gamers: 28%
-  Ratio: 1.89
+  Number of Gamers: 763
+  Percentage of Gamers: 30%
+  Ratio: 1.83
   TA: '18'
   Tags:
   - Offline Mode
@@ -332,10 +365,10 @@ Base Game Achievements:
   Description: Activate the final Astral Anomaly exhibit.
   GS: '25'
   Guide: false
-  Number of Gamers: 465
-  Percentage of Gamers: 20%
-  Ratio: 2.21
-  TA: '55'
+  Number of Gamers: 534
+  Percentage of Gamers: 21%
+  Ratio: 2.19
+  TA: '54'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -343,9 +376,9 @@ Base Game Achievements:
   Description: Lose a staff member on an expedition.
   GS: '5'
   Guide: true
-  Number of Gamers: 1664
-  Percentage of Gamers: 73%
-  Ratio: 1.17
+  Number of Gamers: 1889
+  Percentage of Gamers: 74%
+  Ratio: 1.16
   TA: '5'
   Tags:
   - Offline Game Mode
@@ -354,10 +387,10 @@ Base Game Achievements:
   Description: Have a guest reach 2000 Buzz.
   GS: '25'
   Guide: false
-  Number of Gamers: 1222
-  Percentage of Gamers: 54%
-  Ratio: 1.36
-  TA: '34'
+  Number of Gamers: 1401
+  Percentage of Gamers: 55%
+  Ratio: 1.35
+  TA: '33'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -365,10 +398,10 @@ Base Game Achievements:
   Description: Activate a Prehistory Mystery exhibit.
   GS: '5'
   Guide: true
-  Number of Gamers: 386
-  Percentage of Gamers: 17%
-  Ratio: 2.42
-  TA: '12'
+  Number of Gamers: 473
+  Percentage of Gamers: 18%
+  Ratio: 2.33
+  TA: '11'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -376,9 +409,9 @@ Base Game Achievements:
   Description: Have a donation stand vandalised by a Defrosted Cave-Person.
   GS: '5'
   Guide: true
-  Number of Gamers: 337
+  Number of Gamers: 394
   Percentage of Gamers: 15%
-  Ratio: 2.59
+  Ratio: 2.55
   TA: '12'
   Tags:
   - Offline Game Mode
@@ -387,9 +420,9 @@ Base Game Achievements:
   Description: Employ 10 Robo staff (Janitors or Security Guards) in a single museum.
   GS: '10'
   Guide: true
-  Number of Gamers: 342
-  Percentage of Gamers: 15%
-  Ratio: 2.58
+  Number of Gamers: 401
+  Percentage of Gamers: 16%
+  Ratio: 2.53
   TA: '25'
   Tags:
   - Offline Mode
@@ -399,34 +432,34 @@ Base Game Achievements:
   Description: Display an exhibit from 6 different themes in one museum.
   GS: '50'
   Guide: false
-  Number of Gamers: 620
-  Percentage of Gamers: 27%
-  Ratio: 1.91
-  TA: '95'
+  Number of Gamers: 736
+  Percentage of Gamers: 29%
+  Ratio: 1.86
+  TA: '93'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative
-Base Ratio: 2.09
-Base TA: 2090
+Base Ratio: 2.038
+Base TA: 2038
 Delisted: false
 Developer: Two Point Studios
 Game Name: Two Point Museum
 Genres: Simulation, Management
-Install Size: 4240.0
-Number of Completions: 156
-Number of Gamers: 2277
+Install Size: 4600.0
+Number of Completions: 80
+Number of Gamers: 2569
 Overall Completion Time:
-- 60.0
-- 80.0
-Overall GS: 1000
-Overall Ratio: 2.09
-Overall TA: 2090
+- 65.0
+- 86.0
+Overall GS: 1135
+Overall Ratio: 2.0881057268722465
+Overall TA: 2370
 PDU: 0
-Percentage Completed: 6.85
+Percentage Completed: 3.11
 Publisher: SEGA
 Release Date: 04 March 2025
 Server Closure: false
-Site Rating: 4.36
+Site Rating: 4.41
 Update Achievements: []
 Walkthrough: false

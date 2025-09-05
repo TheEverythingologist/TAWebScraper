@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 125
-- 126
+- 123
+- 124
 Base GS: 1030
 Base Game Achievements:
 - Achievement Name: Once upon a time
   Description: Level up a Hero during a game
   GS: '10'
   Guide: false
-  Number of Gamers: 2659
+  Number of Gamers: 2947
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '10'
@@ -20,9 +20,9 @@ Base Game Achievements:
   Description: Select an Ultimate ability during a game
   GS: '10'
   Guide: false
-  Number of Gamers: 2236
+  Number of Gamers: 2488
   Percentage of Gamers: 84%
-  Ratio: 1.09
+  Ratio: 1.08
   TA: '10'
   Tags:
   - Online/Offline
@@ -32,9 +32,9 @@ Base Game Achievements:
   Description: Select a Final Talent during a game
   GS: '10'
   Guide: false
-  Number of Gamers: 1523
-  Percentage of Gamers: 57%
-  Ratio: 1.32
+  Number of Gamers: 1698
+  Percentage of Gamers: 58%
+  Ratio: 1.31
   TA: '13'
   Tags:
   - Online/Offline
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Reach Chapter 2
   GS: '10'
   Guide: false
-  Number of Gamers: 2191
-  Percentage of Gamers: 82%
-  Ratio: 1.1
-  TA: '11'
+  Number of Gamers: 2436
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '10'
   Tags:
   - Online/Offline
   - Single Player
@@ -57,9 +57,9 @@ Base Game Achievements:
   Description: Reach Chapter 3
   GS: '40'
   Guide: false
-  Number of Gamers: 1661
-  Percentage of Gamers: 62%
-  Ratio: 1.26
+  Number of Gamers: 1852
+  Percentage of Gamers: 63%
+  Ratio: 1.25
   TA: '50'
   Tags:
   - Online/Offline
@@ -70,10 +70,10 @@ Base Game Achievements:
   Description: Reach Epilog - Part 1
   GS: '90'
   Guide: false
-  Number of Gamers: 575
-  Percentage of Gamers: 22%
-  Ratio: 2.15
-  TA: '193'
+  Number of Gamers: 667
+  Percentage of Gamers: 23%
+  Ratio: 2.1
+  TA: '189'
   Tags:
   - Online/Offline
   - Single Player
@@ -83,10 +83,10 @@ Base Game Achievements:
   Description: Reach Epilog - Part 2
   GS: '90'
   Guide: false
-  Number of Gamers: 321
-  Percentage of Gamers: 12%
-  Ratio: 2.87
-  TA: '259'
+  Number of Gamers: 379
+  Percentage of Gamers: 13%
+  Ratio: 2.79
+  TA: '251'
   Tags:
   - Online/Offline
   - Single Player
@@ -96,10 +96,10 @@ Base Game Achievements:
   Description: Unlock all Memoirs of Scarlet
   GS: '40'
   Guide: true
-  Number of Gamers: 98
+  Number of Gamers: 123
   Percentage of Gamers: 4%
-  Ratio: 5.2
-  TA: '208'
+  Ratio: 4.88
+  TA: '195'
   Tags:
   - Online/Offline
   - Single Player
@@ -108,11 +108,11 @@ Base Game Achievements:
 - Achievement Name: Tale of Frightful Fife
   Description: Unlock all Memoirs of the Pied Piper
   GS: '40'
-  Guide: false
-  Number of Gamers: 112
-  Percentage of Gamers: 4%
-  Ratio: 4.87
-  TA: '194'
+  Guide: true
+  Number of Gamers: 136
+  Percentage of Gamers: 5%
+  Ratio: 4.64
+  TA: '185'
   Tags:
   - Online/Offline
   - Single Player
@@ -121,21 +121,8 @@ Base Game Achievements:
 - Achievement Name: The Curse of a Drake's Mother
   Description: Unlock all Memoirs of Beowulf
   GS: '40'
-  Guide: false
-  Number of Gamers: 98
-  Percentage of Gamers: 4%
-  Ratio: 5.2
-  TA: '208'
-  Tags:
-  - Online/Offline
-  - Single Player
-  - Cooperative
-  - Collectable
-- Achievement Name: The Annals of the Reign of Queen Nyss
-  Description: Unlock all Memoirs of the Snow Queen
-  GS: '40'
-  Guide: false
-  Number of Gamers: 115
+  Guide: true
+  Number of Gamers: 127
   Percentage of Gamers: 4%
   Ratio: 4.8
   TA: '192'
@@ -144,14 +131,27 @@ Base Game Achievements:
   - Single Player
   - Cooperative
   - Collectable
+- Achievement Name: The Annals of the Reign of Queen Nyss
+  Description: Unlock all Memoirs of the Snow Queen
+  GS: '40'
+  Guide: true
+  Number of Gamers: 141
+  Percentage of Gamers: 5%
+  Ratio: 4.57
+  TA: '183'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
 - Achievement Name: The Thief Who Married a Princess
   Description: Unlock all Memoirs of Aladdin
   GS: '40'
-  Guide: false
-  Number of Gamers: 92
-  Percentage of Gamers: 3%
-  Ratio: 5.37
-  TA: '215'
+  Guide: true
+  Number of Gamers: 112
+  Percentage of Gamers: 4%
+  Ratio: 5.16
+  TA: '206'
   Tags:
   - Online/Offline
   - Single Player
@@ -160,11 +160,11 @@ Base Game Achievements:
 - Achievement Name: A Mermaid's Lullaby
   Description: Unlock all Memoirs of Melusine
   GS: '40'
-  Guide: false
-  Number of Gamers: 98
+  Guide: true
+  Number of Gamers: 118
   Percentage of Gamers: 4%
-  Ratio: 5.2
-  TA: '208'
+  Ratio: 5.0
+  TA: '200'
   Tags:
   - Online/Offline
   - Single Player
@@ -173,11 +173,11 @@ Base Game Achievements:
 - Achievement Name: A Memoir of Dire Mirth
   Description: Unlock all Memoirs of Geppetto
   GS: '40'
-  Guide: false
-  Number of Gamers: 111
-  Percentage of Gamers: 4%
-  Ratio: 4.89
-  TA: '195'
+  Guide: true
+  Number of Gamers: 135
+  Percentage of Gamers: 5%
+  Ratio: 4.66
+  TA: '186'
   Tags:
   - Online/Offline
   - Single Player
@@ -186,11 +186,11 @@ Base Game Achievements:
 - Achievement Name: The Epic Tragic Tale of Immortal Demise
   Description: Unlock all Memoirs of Sun Wukong
   GS: '40'
-  Guide: false
-  Number of Gamers: 92
-  Percentage of Gamers: 3%
-  Ratio: 5.37
-  TA: '215'
+  Guide: true
+  Number of Gamers: 119
+  Percentage of Gamers: 4%
+  Ratio: 5.0
+  TA: '200'
   Tags:
   - Online/Offline
   - Single Player
@@ -199,11 +199,11 @@ Base Game Achievements:
 - Achievement Name: Letters to Laura - Diary of a Dhampire
   Description: Unlock all Memoirs of Carmilla
   GS: '40'
-  Guide: false
-  Number of Gamers: 91
-  Percentage of Gamers: 3%
-  Ratio: 5.4
-  TA: '216'
+  Guide: true
+  Number of Gamers: 111
+  Percentage of Gamers: 4%
+  Ratio: 5.14
+  TA: '205'
   Tags:
   - Online/Offline
   - Single Player
@@ -213,9 +213,9 @@ Base Game Achievements:
   Description: Achieve Victory in multiplayer
   GS: '10'
   Guide: false
-  Number of Gamers: 1053
+  Number of Gamers: 1181
   Percentage of Gamers: 40%
-  Ratio: 1.58
+  Ratio: 1.57
   TA: '15'
   Tags:
   - Online/Offline
@@ -224,7 +224,7 @@ Base Game Achievements:
   Description: Complete 5 challenges in Darkness difficulty or more
   GS: '90'
   Guide: false
-  Number of Gamers: 38
+  Number of Gamers: 42
   Percentage of Gamers: 1%
   Ratio: 8.36
   TA: '752'
@@ -237,9 +237,9 @@ Base Game Achievements:
   Description: Complete all three Swyne brothers quests
   GS: '10'
   Guide: false
-  Number of Gamers: 944
+  Number of Gamers: 1067
   Percentage of Gamers: 36%
-  Ratio: 1.67
+  Ratio: 1.66
   TA: '16'
   Tags:
   - Online/Offline
@@ -249,9 +249,9 @@ Base Game Achievements:
   Description: Complete 3 quests in a single run
   GS: '10'
   Guide: false
-  Number of Gamers: 773
-  Percentage of Gamers: 29%
-  Ratio: 1.85
+  Number of Gamers: 871
+  Percentage of Gamers: 30%
+  Ratio: 1.84
   TA: '18'
   Tags:
   - Online/Offline
@@ -261,9 +261,9 @@ Base Game Achievements:
   Description: Complete 4 or more Grimoires in a single run
   GS: '10'
   Guide: false
-  Number of Gamers: 1000
-  Percentage of Gamers: 38%
-  Ratio: 1.63
+  Number of Gamers: 1093
+  Percentage of Gamers: 37%
+  Ratio: 1.64
   TA: '16'
   Tags:
   - Online/Offline
@@ -273,9 +273,9 @@ Base Game Achievements:
   Description: Complete 4 or more Nightmare tumors in a single run
   GS: '10'
   Guide: false
-  Number of Gamers: 330
-  Percentage of Gamers: 12%
-  Ratio: 2.83
+  Number of Gamers: 374
+  Percentage of Gamers: 13%
+  Ratio: 2.8
   TA: '28'
   Tags:
   - Online/Offline
@@ -285,9 +285,9 @@ Base Game Achievements:
   Description: Wish for 3 Magical Objects at a single Wishing Well
   GS: '10'
   Guide: false
-  Number of Gamers: 971
+  Number of Gamers: 1086
   Percentage of Gamers: 37%
-  Ratio: 1.65
+  Ratio: 1.64
   TA: '16'
   Tags:
   - Online/Offline
@@ -297,10 +297,10 @@ Base Game Achievements:
   Description: Defeat 3 optional bosses in a single run
   GS: '10'
   Guide: false
-  Number of Gamers: 260
-  Percentage of Gamers: 10%
-  Ratio: 3.19
-  TA: '31'
+  Number of Gamers: 312
+  Percentage of Gamers: 11%
+  Ratio: 3.08
+  TA: '30'
   Tags:
   - Online/Offline
   - Single Player
@@ -309,7 +309,7 @@ Base Game Achievements:
   Description: Use 6 or more Healing fountains in a single run
   GS: '10'
   Guide: false
-  Number of Gamers: 1524
+  Number of Gamers: 1688
   Percentage of Gamers: 57%
   Ratio: 1.32
   TA: '13'
@@ -321,10 +321,10 @@ Base Game Achievements:
   Description: Buy 3 feathers from Altar of Heroes in a single run
   GS: '10'
   Guide: false
-  Number of Gamers: 356
-  Percentage of Gamers: 13%
-  Ratio: 2.73
-  TA: '27'
+  Number of Gamers: 408
+  Percentage of Gamers: 14%
+  Ratio: 2.68
+  TA: '26'
   Tags:
   - Online/Offline
   - Single Player
@@ -333,9 +333,9 @@ Base Game Achievements:
   Description: Have 20 or more magical objects equiped during a single run
   GS: '10'
   Guide: false
-  Number of Gamers: 404
-  Percentage of Gamers: 15%
-  Ratio: 2.56
+  Number of Gamers: 459
+  Percentage of Gamers: 16%
+  Ratio: 2.53
   TA: '25'
   Tags:
   - Online/Offline
@@ -345,10 +345,10 @@ Base Game Achievements:
   Description: Have 9 Legendary Talents in a single run
   GS: '10'
   Guide: false
-  Number of Gamers: 300
-  Percentage of Gamers: 11%
-  Ratio: 2.97
-  TA: '29'
+  Number of Gamers: 361
+  Percentage of Gamers: 12%
+  Ratio: 2.86
+  TA: '28'
   Tags:
   - Online/Offline
   - Single Player
@@ -357,10 +357,10 @@ Base Game Achievements:
   Description: Revive 3 heroes at the same time
   GS: '90'
   Guide: true
-  Number of Gamers: 98
+  Number of Gamers: 114
   Percentage of Gamers: 4%
-  Ratio: 5.2
-  TA: '468'
+  Ratio: 5.09
+  TA: '458'
   Tags:
   - Online/Offline
   - Single Player
@@ -369,44 +369,44 @@ Base Game Achievements:
   Description: Defeat Baba Yaga without using any Raven Feather
   GS: '90'
   Guide: false
-  Number of Gamers: 99
+  Number of Gamers: 123
   Percentage of Gamers: 4%
-  Ratio: 5.18
-  TA: '466'
+  Ratio: 4.92
+  TA: '443'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
-Base Ratio: 4.271844660194175
-Base TA: 4400
+Base Ratio: 4.123300970873786
+Base TA: 4247
 Delisted: false
 Developer: Passtech Games
 Game Name: Ravenswatch
 Genres: Action-RPG, Role Playing, Roguelite
 Install Size: 6080.0
-Number of Completions: 23
-Number of Gamers: 2659
+Number of Completions: 27
+Number of Gamers: 2948
 Overall Completion Time:
-- 125
-- 126
+- 123
+- 124
 Overall GS: 1030
-Overall Ratio: 4.271844660194175
-Overall TA: 4400
+Overall Ratio: 4.123300970873786
+Overall TA: 4247
 PDU: 0
-Percentage Completed: 0.86
+Percentage Completed: 0.92
 Publisher: Nacon
 Release Date: 28 November 2024
 Server Closure: false
-Site Rating: 4.15
+Site Rating: 4.12
 Update Achievements:
 - Achievement Name: Open sesame!
   Description: Collect 5 or more keys in a single run
   GS: '10'
   Guide: false
-  Number of Gamers: 334
-  Percentage of Gamers: 13%
-  Ratio: 2.82
-  TA: '28'
+  Number of Gamers: 411
+  Percentage of Gamers: 14%
+  Ratio: 2.68
+  TA: '26'
   Tags:
   - Online/Offline
   - Single Player
@@ -415,10 +415,10 @@ Update Achievements:
   Description: Interact with 6 or more Refugees in a single run
   GS: '10'
   Guide: false
-  Number of Gamers: 796
-  Percentage of Gamers: 30%
-  Ratio: 1.83
-  TA: '18'
+  Number of Gamers: 963
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '17'
   Tags:
   - Online/Offline
   - Single Player
@@ -427,10 +427,10 @@ Update Achievements:
   Description: Use 6 or more Sacrificial Idols in a single run
   GS: '10'
   Guide: false
-  Number of Gamers: 190
-  Percentage of Gamers: 7%
-  Ratio: 3.75
-  TA: '37'
+  Number of Gamers: 242
+  Percentage of Gamers: 8%
+  Ratio: 3.52
+  TA: '35'
   Tags:
   - Online/Offline
   - Single Player

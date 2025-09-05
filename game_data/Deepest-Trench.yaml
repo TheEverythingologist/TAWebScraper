@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
+- 11
 - 12
-- 13
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Use Oxygen Station
   Description: '***'
   GS: '25'
   Guide: false
-  Number of Gamers: 111
+  Number of Gamers: 128
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '25'
@@ -19,11 +19,11 @@ Base Game Achievements:
 - Achievement Name: Collect All Datalogs
   Description: '***'
   GS: '25'
-  Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 14%
-  Ratio: 2.63
-  TA: '65'
+  Guide: true
+  Number of Gamers: 19
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '64'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: '***'
   GS: '100'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 7%
-  Ratio: 3.98
-  TA: '398'
+  Number of Gamers: 10
+  Percentage of Gamers: 8%
+  Ratio: 3.57
+  TA: '357'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,11 +44,11 @@ Base Game Achievements:
 - Achievement Name: Collect all Security logs
   Description: '***'
   GS: '25'
-  Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 10%
-  Ratio: 3.17
-  TA: '79'
+  Guide: true
+  Number of Gamers: 14
+  Percentage of Gamers: 11%
+  Ratio: 3.02
+  TA: '75'
   Tags:
   - Offline Mode
   - Single Player
@@ -57,10 +57,10 @@ Base Game Achievements:
   Description: '***'
   GS: '50'
   Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 24%
-  Ratio: 2.02
-  TA: '101'
+  Number of Gamers: 33
+  Percentage of Gamers: 26%
+  Ratio: 1.96
+  TA: '98'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: '***'
   GS: '100'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 14%
-  Ratio: 2.72
-  TA: '272'
+  Number of Gamers: 19
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '259'
   Tags:
   - Offline Mode
   - Single Player
@@ -80,22 +80,22 @@ Base Game Achievements:
 - Achievement Name: Sniper
   Description: '***'
   GS: '50'
-  Guide: false
-  Number of Gamers: 29
-  Percentage of Gamers: 26%
-  Ratio: 1.95
-  TA: '97'
+  Guide: true
+  Number of Gamers: 35
+  Percentage of Gamers: 27%
+  Ratio: 1.91
+  TA: '95'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Super Swimmer
   Description: '***'
   GS: '25'
-  Guide: false
-  Number of Gamers: 4
+  Guide: true
+  Number of Gamers: 5
   Percentage of Gamers: 4%
-  Ratio: 6.08
-  TA: '152'
+  Ratio: 5.05
+  TA: '126'
   Tags:
   - Offline Mode
   - Single Player
@@ -104,10 +104,10 @@ Base Game Achievements:
   Description: '***'
   GS: '50'
   Guide: false
-  Number of Gamers: 20
-  Percentage of Gamers: 18%
-  Ratio: 2.35
-  TA: '117'
+  Number of Gamers: 25
+  Percentage of Gamers: 20%
+  Ratio: 2.26
+  TA: '113'
   Tags:
   - Offline Mode
   - Single Player
@@ -115,11 +115,11 @@ Base Game Achievements:
 - Achievement Name: Sharkbait...hoo ha ha
   Description: '***'
   GS: '50'
-  Guide: false
-  Number of Gamers: 43
-  Percentage of Gamers: 39%
-  Ratio: 1.6
-  TA: '80'
+  Guide: true
+  Number of Gamers: 48
+  Percentage of Gamers: 38%
+  Ratio: 1.63
+  TA: '81'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -127,65 +127,65 @@ Base Game Achievements:
   Description: '***'
   GS: '50'
   Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 27%
-  Ratio: 1.92
-  TA: '96'
+  Number of Gamers: 36
+  Percentage of Gamers: 28%
+  Ratio: 1.88
+  TA: '94'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Eel-ectric Slide
   Description: '***'
   GS: '25'
-  Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 4%
-  Ratio: 5.26
-  TA: '131'
+  Guide: true
+  Number of Gamers: 6
+  Percentage of Gamers: 5%
+  Ratio: 4.61
+  TA: '115'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Independence Day
   Description: '***'
   GS: '100'
-  Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 10%
-  Ratio: 3.17
-  TA: '317'
+  Guide: true
+  Number of Gamers: 14
+  Percentage of Gamers: 11%
+  Ratio: 3.02
+  TA: '302'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Black Pearl
   Description: '***'
   GS: '100'
-  Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 4%
-  Ratio: 5.26
-  TA: '526'
+  Guide: true
+  Number of Gamers: 6
+  Percentage of Gamers: 5%
+  Ratio: 4.61
+  TA: '461'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Area 51 Pilot
   Description: '***'
   GS: '50'
-  Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 7%
-  Ratio: 3.72
-  TA: '186'
+  Guide: true
+  Number of Gamers: 12
+  Percentage of Gamers: 9%
+  Ratio: 3.26
+  TA: '163'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Reunited
   Description: '***'
   GS: '25'
-  Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 8%
-  Ratio: 3.51
-  TA: '87'
+  Guide: true
+  Number of Gamers: 11
+  Percentage of Gamers: 9%
+  Ratio: 3.41
+  TA: '85'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -193,10 +193,10 @@ Base Game Achievements:
   Description: '***'
   GS: '100'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 5
   Percentage of Gamers: 4%
-  Ratio: 6.08
-  TA: '608'
+  Ratio: 5.05
+  TA: '505'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -204,34 +204,34 @@ Base Game Achievements:
   Description: '***'
   GS: '50'
   Guide: false
-  Number of Gamers: 5
+  Number of Gamers: 7
   Percentage of Gamers: 5%
-  Ratio: 5.26
-  TA: '263'
+  Ratio: 4.27
+  TA: '213'
   Tags:
   - Offline Mode
   - Single Player
   - Multiple Playthroughs Required
-Base Ratio: 3.6
-Base TA: 3600
+Base Ratio: 3.231
+Base TA: 3231
 Delisted: false
 Developer: Favor Games
 Game Name: Deepest Trench
 Genres: Adventure
 Install Size: 16880.0
-Number of Completions: 4
-Number of Gamers: 111
+Number of Completions: 5
+Number of Gamers: 128
 Overall Completion Time:
+- 11
 - 12
-- 13
 Overall GS: 1000
-Overall Ratio: 3.6
-Overall TA: 3600
+Overall Ratio: 3.231
+Overall TA: 3231
 PDU: 0
-Percentage Completed: 3.6
+Percentage Completed: 3.91
 Publisher: Favor Games
 Release Date: 30 October 2024
 Server Closure: false
-Site Rating: 1.0
+Site Rating: 2.17
 Update Achievements: []
 Walkthrough: false

@@ -1,59 +1,14 @@
-Add On Achievements:
-- Achievement Name: Determined Paws
-  Description: Reset the level 8 times
-  GS: '200'
-  Guide: false
-  Number of Gamers: 223
-  Percentage of Gamers: 98%
-  Ratio: 1.29
-  TA: '259'
-  Tags: []
-- Achievement Name: Tenacious Whiskers
-  Description: Reset the level 9 times
-  GS: '200'
-  Guide: false
-  Number of Gamers: 223
-  Percentage of Gamers: 98%
-  Ratio: 1.29
-  TA: '259'
-  Tags: []
-- Achievement Name: Box Hopper
-  Description: Jump 21 boxes
-  GS: '200'
-  Guide: false
-  Number of Gamers: 224
-  Percentage of Gamers: 99%
-  Ratio: 1.29
-  TA: '259'
-  Tags: []
-- Achievement Name: Relentless Feline
-  Description: Reset the level 10 times
-  GS: '200'
-  Guide: false
-  Number of Gamers: 223
-  Percentage of Gamers: 98%
-  Ratio: 1.29
-  TA: '259'
-  Tags: []
-- Achievement Name: Level Leaper Pro
-  Description: Complete 36 levels
-  GS: '200'
-  Guide: true
-  Number of Gamers: 217
-  Percentage of Gamers: 96%
-  Ratio: 1.31
-  TA: '262'
-  Tags: []
+Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 1.0
-Base GS: 2000
+- 1.5
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: Pile 7 boxes
   Description: Complete 2 levels.
   GS: '15'
   Guide: true
-  Number of Gamers: 594
+  Number of Gamers: 671
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '15'
@@ -65,7 +20,7 @@ Base Game Achievements:
   Description: Complete 10 levels.
   GS: '15'
   Guide: true
-  Number of Gamers: 588
+  Number of Gamers: 664
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '15'
@@ -77,10 +32,10 @@ Base Game Achievements:
   Description: Complete 15 levels
   GS: '90'
   Guide: true
-  Number of Gamers: 584
-  Percentage of Gamers: 98%
-  Ratio: 1.0
-  TA: '90'
+  Number of Gamers: 656
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '91'
   Tags:
   - Offline Mode
   - Single Player
@@ -89,8 +44,8 @@ Base Game Achievements:
   Description: Complete 20 levels.
   GS: '90'
   Guide: true
-  Number of Gamers: 579
-  Percentage of Gamers: 97%
+  Number of Gamers: 650
+  Percentage of Gamers: 96%
   Ratio: 1.01
   TA: '91'
   Tags:
@@ -101,9 +56,9 @@ Base Game Achievements:
   Description: Complete 25 levels.
   GS: '15'
   Guide: true
-  Number of Gamers: 573
-  Percentage of Gamers: 96%
-  Ratio: 1.01
+  Number of Gamers: 642
+  Percentage of Gamers: 95%
+  Ratio: 1.02
   TA: '15'
   Tags:
   - Offline Mode
@@ -113,9 +68,9 @@ Base Game Achievements:
   Description: Complete 30 levels.
   GS: '15'
   Guide: true
-  Number of Gamers: 572
-  Percentage of Gamers: 96%
-  Ratio: 1.01
+  Number of Gamers: 640
+  Percentage of Gamers: 95%
+  Ratio: 1.02
   TA: '15'
   Tags:
   - Offline Mode
@@ -125,7 +80,7 @@ Base Game Achievements:
   Description: Collect a skin. First one's on level 8
   GS: '90'
   Guide: true
-  Number of Gamers: 589
+  Number of Gamers: 665
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '90'
@@ -136,10 +91,10 @@ Base Game Achievements:
   Description: Select other skin
   GS: '90'
   Guide: true
-  Number of Gamers: 581
+  Number of Gamers: 659
   Percentage of Gamers: 98%
   Ratio: 1.01
-  TA: '90'
+  TA: '91'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -147,8 +102,8 @@ Base Game Achievements:
   Description: Use the help button
   GS: '30'
   Guide: true
-  Number of Gamers: 582
-  Percentage of Gamers: 98%
+  Number of Gamers: 656
+  Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '30'
   Tags:
@@ -158,8 +113,8 @@ Base Game Achievements:
   Description: Jump to another part of the level
   GS: '30'
   Guide: true
-  Number of Gamers: 587
-  Percentage of Gamers: 99%
+  Number of Gamers: 661
+  Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '30'
   Tags:
@@ -169,7 +124,7 @@ Base Game Achievements:
   Description: Jump 5 boxes
   GS: '90'
   Guide: true
-  Number of Gamers: 591
+  Number of Gamers: 667
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '90'
@@ -181,7 +136,7 @@ Base Game Achievements:
   Description: Jump 7 boxes
   GS: '90'
   Guide: true
-  Number of Gamers: 591
+  Number of Gamers: 667
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '90'
@@ -193,7 +148,7 @@ Base Game Achievements:
   Description: Jump 10 boxes
   GS: '90'
   Guide: true
-  Number of Gamers: 591
+  Number of Gamers: 667
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '90'
@@ -205,19 +160,20 @@ Base Game Achievements:
   Description: Reset the level 3 times
   GS: '30'
   Guide: true
-  Number of Gamers: 585
-  Percentage of Gamers: 98%
+  Number of Gamers: 665
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '30'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
+  - Partly Discontinued/Unobtainable
 - Achievement Name: And again, and again!
   Description: Reset the level 5 times
   GS: '15'
   Guide: true
-  Number of Gamers: 584
+  Number of Gamers: 661
   Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '15'
@@ -225,13 +181,14 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Cumulative +
+  - Partly Discontinued/Unobtainable
 - Achievement Name: Stacking Starter
   Description: Pile 5 boxes
   GS: '90'
   Guide: true
-  Number of Gamers: 584
+  Number of Gamers: 660
   Percentage of Gamers: 98%
-  Ratio: 1.0
+  Ratio: 1.01
   TA: '90'
   Tags:
   - Offline Mode
@@ -241,10 +198,10 @@ Base Game Achievements:
   Description: Pile 7 boxes
   GS: '100'
   Guide: true
-  Number of Gamers: 583
+  Number of Gamers: 659
   Percentage of Gamers: 98%
-  Ratio: 1.0
-  TA: '100'
+  Ratio: 1.01
+  TA: '101'
   Tags:
   - Offline Mode
   - Single Player
@@ -253,43 +210,43 @@ Base Game Achievements:
   Description: Finish one level without help
   GS: '15'
   Guide: true
-  Number of Gamers: 594
+  Number of Gamers: 671
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '15'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 1.005
-Base TA: 2010
+Base Ratio: 1.0663333333333334
+Base TA: 3199
 Delisted: false
 Developer: Wise Box Studios
 Game Name: 'Mimi the Cat: New Friends (Windows)'
 Genres: Puzzle
 Install Size: 1890.0
-Number of Completions: 217
-Number of Gamers: 594
+Number of Completions: 468
+Number of Gamers: 674
 Overall Completion Time:
 - 0.0
 - 1.5
 Overall GS: 3000
-Overall Ratio: 1.1026666666666667
-Overall TA: 3308
+Overall Ratio: 1.0663333333333334
+Overall TA: 3199
 PDU: 0
-Percentage Completed: 36.53
-Publisher: AFIL Games
+Percentage Completed: 69.44
+Publisher: Afil Games
 Release Date: 09 October 2024
 Server Closure: false
-Site Rating: 2.35
+Site Rating: 2.51
 Update Achievements:
 - Achievement Name: Level Leaper
   Description: Complete 35 levels.
   GS: '200'
   Guide: true
-  Number of Gamers: 571
-  Percentage of Gamers: 96%
+  Number of Gamers: 640
+  Percentage of Gamers: 95%
   Ratio: 1.02
-  TA: '204'
+  TA: '205'
   Tags:
   - Offline Mode
   - Single Player
@@ -298,10 +255,10 @@ Update Achievements:
   Description: Jump 15 boxes
   GS: '200'
   Guide: true
-  Number of Gamers: 590
+  Number of Gamers: 666
   Percentage of Gamers: 99%
   Ratio: 1.0
-  TA: '200'
+  TA: '201'
   Tags:
   - Offline Mode
   - Single Player
@@ -310,7 +267,7 @@ Update Achievements:
   Description: Jump 20 boxes
   GS: '200'
   Guide: true
-  Number of Gamers: 588
+  Number of Gamers: 664
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '201'
@@ -322,7 +279,7 @@ Update Achievements:
   Description: Reset the level 7 times
   GS: '200'
   Guide: true
-  Number of Gamers: 581
+  Number of Gamers: 658
   Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '202'
@@ -330,16 +287,80 @@ Update Achievements:
   - Offline Mode
   - Single Player
   - Cumulative +
+  - Partly Discontinued/Unobtainable
 - Achievement Name: Jenga?
   Description: Pile 10 boxes
   GS: '200'
   Guide: true
-  Number of Gamers: 580
-  Percentage of Gamers: 98%
+  Number of Gamers: 656
+  Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '202'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
+- Achievement Name: Determined Paws
+  Description: Reset the level 8 times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 484
+  Percentage of Gamers: 72%
+  Ratio: 1.18
+  TA: '236'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Partly Discontinued/Unobtainable
+- Achievement Name: Tenacious Whiskers
+  Description: Reset the level 9 times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 484
+  Percentage of Gamers: 72%
+  Ratio: 1.18
+  TA: '236'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Partly Discontinued/Unobtainable
+- Achievement Name: Box Hopper
+  Description: Jump 21 boxes
+  GS: '200'
+  Guide: false
+  Number of Gamers: 484
+  Percentage of Gamers: 72%
+  Ratio: 1.18
+  TA: '236'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Relentless Feline
+  Description: Reset the level 10 times
+  GS: '200'
+  Guide: false
+  Number of Gamers: 484
+  Percentage of Gamers: 72%
+  Ratio: 1.18
+  TA: '236'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Partly Discontinued/Unobtainable
+- Achievement Name: Level Leaper Pro
+  Description: Complete 36 levels
+  GS: '200'
+  Guide: true
+  Number of Gamers: 468
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '240'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 Walkthrough: false

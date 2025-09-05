@@ -12,7 +12,11 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '100'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
 - Achievement Name: Hex Royale Conquered!
   Description: Complete all of the Campaign challenges on Normal.
   GS: '100'
@@ -21,7 +25,11 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '100'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
 - Achievement Name: Hex Royale Complete!
   Description: Complete all of the Campaign challenges on Easy.
   GS: '35'
@@ -30,7 +38,11 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '35'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Difficulty Specific
 - Achievement Name: Math Skills
   Description: Defeat an enemy with full HP using Split Strike in Campaign.
   GS: '30'
@@ -39,16 +51,20 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '30'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Rocked with Roll
   Description: Defeat two enemies with a single Roll in Campaign.
   GS: '90'
   Guide: false
   Number of Gamers: 2
-  Percentage of Gamers: 10%
-  Ratio: 3.24
-  TA: '291'
-  Tags: []
+  Percentage of Gamers: 9%
+  Ratio: 3.39
+  TA: '305'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Get Wrecked
   Description: Defeat three enemies with a single Wrecker in Campaign.
   GS: '90'
@@ -57,43 +73,53 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '90'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Yikes
   Description: Intimidate three enemies at once in Campaign.
   GS: '30'
   Guide: false
   Number of Gamers: 2
-  Percentage of Gamers: 10%
-  Ratio: 3.24
-  TA: '97'
-  Tags: []
+  Percentage of Gamers: 9%
+  Ratio: 3.39
+  TA: '101'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Shish Kebabbed
   Description: Defeat two enemies with a single Stab in Campaign.
   GS: '90'
   Guide: false
   Number of Gamers: 11
-  Percentage of Gamers: 52%
-  Ratio: 1.38
-  TA: '124'
-  Tags: []
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '130'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: You Don't Say
   Description: Discover the Mastermind's true identity.
   GS: '15'
   Guide: false
   Number of Gamers: 4
-  Percentage of Gamers: 19%
-  Ratio: 2.29
-  TA: '34'
-  Tags: []
+  Percentage of Gamers: 17%
+  Ratio: 2.39
+  TA: '35'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: '...Thanks?'
   Description: Get the Mastermind's autograph.
   GS: '15'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 5%
-  Ratio: 4.58
-  TA: '68'
-  Tags: []
+  Percentage of Gamers: 4%
+  Ratio: 4.79
+  TA: '71'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Is That Allowed?
   Description: Pillar Tap twice in the same turn with a single minion in Campaign.
   GS: '30'
@@ -102,94 +128,116 @@ Base Game Achievements:
   Percentage of Gamers: NA
   Ratio: NA
   TA: '30'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: That's Cold
   Description: Freeze an enemy on their spawn space in Campaign.
   GS: '15'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 5%
-  Ratio: 4.58
-  TA: '68'
-  Tags: []
+  Number of Gamers: 2
+  Percentage of Gamers: 9%
+  Ratio: 3.39
+  TA: '50'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: AP Miser
   Description: Pass a turn without spending any AP in Campaign.
   GS: '15'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 62%
-  Ratio: 1.27
+  Number of Gamers: 14
+  Percentage of Gamers: 61%
+  Ratio: 1.28
   TA: '19'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: The best things in life are free.
   Description: Finish an enemy with a Scratch in Campaign.
   GS: '15'
   Guide: false
   Number of Gamers: 8
-  Percentage of Gamers: 38%
-  Ratio: 1.62
-  TA: '24'
-  Tags: []
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '25'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Multitasking
   Description: Defeat two enemies with a single Multislash in Campaign.
   GS: '90'
   Guide: false
   Number of Gamers: 2
-  Percentage of Gamers: 10%
-  Ratio: 3.24
-  TA: '291'
-  Tags: []
+  Percentage of Gamers: 9%
+  Ratio: 3.39
+  TA: '305'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: That Was Easy
   Description: Win a Free for All match against 3 Easy AIs in Local Multiplayer.
   GS: '30'
   Guide: false
   Number of Gamers: 2
-  Percentage of Gamers: 10%
-  Ratio: 3.24
-  TA: '97'
-  Tags: []
+  Percentage of Gamers: 9%
+  Ratio: 3.39
+  TA: '101'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
 - Achievement Name: Take That, Robots!
   Description: Win a 2v2 match against 2 Easy AIs in Local Multiplayer.
   GS: '30'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 5%
-  Ratio: 4.58
-  TA: '137'
-  Tags: []
+  Percentage of Gamers: 4%
+  Ratio: 4.79
+  TA: '143'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
 - Achievement Name: Not Smarter Enough
   Description: Win a Free for All match against 3 Smarter AIs in Local Multiplayer.
   GS: '90'
   Guide: false
   Number of Gamers: 1
-  Percentage of Gamers: 5%
-  Ratio: 4.58
-  TA: '412'
-  Tags: []
+  Percentage of Gamers: 4%
+  Ratio: 4.79
+  TA: '431'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
 - Achievement Name: Raging Against the Machines
   Description: Win a 2v2 match against 2 Smarter AIs in Local Multiplayer.
   GS: '90'
   Guide: false
   Number of Gamers: 2
-  Percentage of Gamers: 10%
-  Ratio: 3.24
-  TA: '291'
-  Tags: []
-Base Ratio: 2.338
-Base TA: 2338
+  Percentage of Gamers: 9%
+  Ratio: 3.39
+  TA: '305'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+Base Ratio: 2.406
+Base TA: 2406
 Delisted: false
 Developer: One Man Left Studios
 Game Name: 'Hex Gambit: Respawned'
 Genres: Strategy, Turn Based
 Install Size: 2400.0
 Number of Completions: 0
-Number of Gamers: 21
+Number of Gamers: 23
 Overall Completion Time:
 - -1
 - -1
 Overall GS: 1000
-Overall Ratio: 2.338
-Overall TA: 2338
+Overall Ratio: 2.406
+Overall TA: 2406
 PDU: 0
 Percentage Completed: 0.0
 Publisher: Blowfish Studios

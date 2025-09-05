@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 7
-- 8
-Base GS: 1400
+- 9
+- 10
+Base GS: 1600
 Base Game Achievements:
 - Achievement Name: We Have a Winner!
   Description: Finish 1st in a race. Taste that sweet victory!
   GS: '50'
   Guide: false
-  Number of Gamers: 82
+  Number of Gamers: 90
   Percentage of Gamers: 92%
   Ratio: 1.04
   TA: '52'
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Win a championship. You're the best of the best!
   GS: '50'
   Guide: false
-  Number of Gamers: 57
-  Percentage of Gamers: 64%
-  Ratio: 1.24
-  TA: '62'
+  Number of Gamers: 66
+  Percentage of Gamers: 67%
+  Ratio: 1.21
+  TA: '60'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -31,10 +31,10 @@ Base Game Achievements:
   Description: Unlock all tracks. Let the chaos begin!
   GS: '50'
   Guide: false
-  Number of Gamers: 28
+  Number of Gamers: 30
   Percentage of Gamers: 31%
-  Ratio: 1.78
-  TA: '89'
+  Ratio: 1.8
+  TA: '90'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -42,10 +42,10 @@ Base Game Achievements:
   Description: Drift to fill up your boost bar. Smoke those tires!
   GS: '50'
   Guide: false
-  Number of Gamers: 46
-  Percentage of Gamers: 52%
-  Ratio: 1.39
-  TA: '69'
+  Number of Gamers: 49
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '70'
   Tags:
   - Offline Mode
   - Single Player
@@ -54,7 +54,7 @@ Base Game Achievements:
   Description: Hit an opponent with an item. No rules, just mayhem!
   GS: '50'
   Guide: false
-  Number of Gamers: 87
+  Number of Gamers: 96
   Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '50'
@@ -66,10 +66,10 @@ Base Game Achievements:
   Description: Use boost from full to empty in one go. Speed demon!
   GS: '50'
   Guide: false
-  Number of Gamers: 62
-  Percentage of Gamers: 70%
-  Ratio: 1.19
-  TA: '59'
+  Number of Gamers: 68
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '60'
   Tags:
   - Offline Mode
   - Single Player
@@ -78,8 +78,8 @@ Base Game Achievements:
   Description: Block a dart with the shield. Nice try!
   GS: '50'
   Guide: false
-  Number of Gamers: 71
-  Percentage of Gamers: 80%
+  Number of Gamers: 79
+  Percentage of Gamers: 81%
   Ratio: 1.11
   TA: '55'
   Tags:
@@ -90,10 +90,10 @@ Base Game Achievements:
   Description: Unlock 5 helmets. Style and safety!
   GS: '100'
   Guide: false
-  Number of Gamers: 21
-  Percentage of Gamers: 24%
-  Ratio: 2.05
-  TA: '205'
+  Number of Gamers: 22
+  Percentage of Gamers: 22%
+  Ratio: 2.11
+  TA: '211'
   Tags:
   - Offline Mode
   - Single Player
@@ -102,10 +102,10 @@ Base Game Achievements:
   Description: Unlock all Hot Rods. A garage full of mayhem!
   GS: '50'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 17%
-  Ratio: 2.43
-  TA: '121'
+  Number of Gamers: 16
+  Percentage of Gamers: 16%
+  Ratio: 2.47
+  TA: '123'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -113,10 +113,10 @@ Base Game Achievements:
   Description: Complete all championships. You're a legend on wheels!
   GS: '50'
   Guide: false
-  Number of Gamers: 28
+  Number of Gamers: 30
   Percentage of Gamers: 31%
-  Ratio: 1.78
-  TA: '89'
+  Ratio: 1.8
+  TA: '90'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -124,10 +124,10 @@ Base Game Achievements:
   Description: Unlock 3 suits. Fashion meets speed!
   GS: '100'
   Guide: false
-  Number of Gamers: 22
-  Percentage of Gamers: 25%
-  Ratio: 2.01
-  TA: '201'
+  Number of Gamers: 23
+  Percentage of Gamers: 23%
+  Ratio: 2.06
+  TA: '206'
   Tags:
   - Offline Mode
   - Single Player
@@ -137,10 +137,10 @@ Base Game Achievements:
     get-go!
   GS: '50'
   Guide: false
-  Number of Gamers: 46
-  Percentage of Gamers: 52%
-  Ratio: 1.39
-  TA: '69'
+  Number of Gamers: 52
+  Percentage of Gamers: 53%
+  Ratio: 1.37
+  TA: '68'
   Tags:
   - Offline Mode
   - Single Player
@@ -149,10 +149,10 @@ Base Game Achievements:
   Description: Use every item at least once. Master of mayhem!
   GS: '50'
   Guide: false
-  Number of Gamers: 60
-  Percentage of Gamers: 67%
-  Ratio: 1.21
-  TA: '60'
+  Number of Gamers: 64
+  Percentage of Gamers: 65%
+  Ratio: 1.23
+  TA: '61'
   Tags:
   - Offline Mode
   - Single Player
@@ -161,10 +161,10 @@ Base Game Achievements:
   Description: Unlock 3 new characters. The team is growing!
   GS: '200'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 18%
-  Ratio: 2.35
-  TA: '471'
+  Number of Gamers: 17
+  Percentage of Gamers: 17%
+  Ratio: 2.4
+  TA: '480'
   Tags:
   - Offline Mode
   - Single Player
@@ -173,44 +173,44 @@ Base Game Achievements:
   Description: Win all championships on Hard mode. Only the fearless survive!
   GS: '50'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 17%
-  Ratio: 2.43
-  TA: '121'
+  Number of Gamers: 16
+  Percentage of Gamers: 16%
+  Ratio: 2.47
+  TA: '123'
   Tags:
   - Offline Mode
   - Single Player
   - Difficulty Specific
-Base Ratio: 2.0035714285714286
-Base TA: 2805
+Base Ratio: 2.97875
+Base TA: 4766
 Delisted: false
 Developer: Casual Brothers
 Game Name: Hot Rod Mayhem
 Genres: Arcade Racing, Automobile
-Install Size: 3420.0
-Number of Completions: 2
-Number of Gamers: 89
+Install Size: 3540.0
+Number of Completions: 4
+Number of Gamers: 98
 Overall Completion Time:
-- 7
-- 8
-Overall GS: 1400
-Overall Ratio: 2.0035714285714286
-Overall TA: 2805
+- 9
+- 10
+Overall GS: 1600
+Overall Ratio: 2.97875
+Overall TA: 4766
 PDU: 0
-Percentage Completed: 2.25
+Percentage Completed: 4.08
 Publisher: Casual Brothers
 Release Date: 15 April 2025
 Server Closure: false
-Site Rating: 1.88
+Site Rating: 1.8
 Update Achievements:
 - Achievement Name: Crazy Conqueror!
   Description: Win all championships in Crazy mode. A true legend on wheels!
   GS: '200'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 2%
-  Ratio: 2.58
-  TA: '516'
+  Number of Gamers: 4
+  Percentage of Gamers: 4%
+  Ratio: 4.94
+  TA: '989'
   Tags:
   - Offline Mode
   - Single Player
@@ -219,10 +219,23 @@ Update Achievements:
   Description: Win every Crazy championship and unlock all gold cars.
   GS: '200'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 2%
-  Ratio: 2.58
-  TA: '516'
+  Number of Gamers: 4
+  Percentage of Gamers: 4%
+  Ratio: 4.94
+  TA: '989'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
+- Achievement Name: Trial Blazer!
+  Description: Complete all Trials on Hard or Crazy difficulty. You eat asphalt for
+    breakfast!
+  GS: '200'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 4%
+  Ratio: 4.94
+  TA: '989'
   Tags:
   - Offline Mode
   - Single Player

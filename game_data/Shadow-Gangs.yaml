@@ -1,16 +1,16 @@
 Add On Achievements: []
 Base Completion Time:
-- 46
-- 47
+- 76
+- 77
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Power Start
   Description: Find city level hidden lives
   GS: '20'
   Guide: true
-  Number of Gamers: 32
+  Number of Gamers: 34
   Percentage of Gamers: 12%
-  Ratio: 2.87
+  Ratio: 2.86
   TA: '57'
   Tags:
   - Offline Mode
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Finish the city level
   GS: '20'
   Guide: false
-  Number of Gamers: 170
+  Number of Gamers: 180
   Percentage of Gamers: 64%
-  Ratio: 1.25
-  TA: '25'
+  Ratio: 1.24
+  TA: '24'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Find bridge level pirate ship
   GS: '20'
   Guide: true
-  Number of Gamers: 23
+  Number of Gamers: 25
   Percentage of Gamers: 9%
-  Ratio: 3.39
-  TA: '67'
+  Ratio: 3.34
+  TA: '66'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Finish the bridge level
   GS: '20'
   Guide: false
-  Number of Gamers: 119
-  Percentage of Gamers: 45%
-  Ratio: 1.49
-  TA: '29'
+  Number of Gamers: 124
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '30'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -55,7 +55,7 @@ Base Game Achievements:
   Description: Complete the first mission and defeat the boss Collin
   GS: '20'
   Guide: false
-  Number of Gamers: 87
+  Number of Gamers: 92
   Percentage of Gamers: 33%
   Ratio: 1.74
   TA: '34'
@@ -67,10 +67,10 @@ Base Game Achievements:
   Description: Finish the forest level
   GS: '20'
   Guide: false
-  Number of Gamers: 54
-  Percentage of Gamers: 20%
-  Ratio: 2.21
-  TA: '44'
+  Number of Gamers: 58
+  Percentage of Gamers: 21%
+  Ratio: 2.19
+  TA: '43'
   Tags:
   - Offline Mode
   - Single Player
@@ -79,10 +79,10 @@ Base Game Achievements:
   Description: Finish the canyon level
   GS: '20'
   Guide: false
-  Number of Gamers: 40
-  Percentage of Gamers: 15%
-  Ratio: 2.57
-  TA: '51'
+  Number of Gamers: 44
+  Percentage of Gamers: 16%
+  Ratio: 2.52
+  TA: '50'
   Tags:
   - Offline Mode
   - Single Player
@@ -92,10 +92,10 @@ Base Game Achievements:
     Daddy
   GS: '20'
   Guide: false
-  Number of Gamers: 32
+  Number of Gamers: 35
   Percentage of Gamers: 12%
-  Ratio: 2.87
-  TA: '57'
+  Ratio: 2.82
+  TA: '56'
   Tags:
   - Offline Mode
   - Single Player
@@ -104,10 +104,10 @@ Base Game Achievements:
   Description: Finish the cave level
   GS: '20'
   Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 11%
-  Ratio: 2.97
-  TA: '59'
+  Number of Gamers: 34
+  Percentage of Gamers: 12%
+  Ratio: 2.86
+  TA: '57'
   Tags:
   - Offline Mode
   - Single Player
@@ -116,10 +116,10 @@ Base Game Achievements:
   Description: Find the cave treasure room
   GS: '20'
   Guide: true
-  Number of Gamers: 16
+  Number of Gamers: 18
   Percentage of Gamers: 6%
-  Ratio: 4.06
-  TA: '81'
+  Ratio: 3.94
+  TA: '78'
   Tags:
   - Offline Mode
   - Single Player
@@ -128,10 +128,10 @@ Base Game Achievements:
   Description: Finish the subway level
   GS: '20'
   Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 10%
-  Ratio: 3.13
-  TA: '62'
+  Number of Gamers: 30
+  Percentage of Gamers: 11%
+  Ratio: 3.05
+  TA: '61'
   Tags:
   - Offline Mode
   - Single Player
@@ -140,10 +140,10 @@ Base Game Achievements:
   Description: Finish mission III
   GS: '20'
   Guide: false
-  Number of Gamers: 26
+  Number of Gamers: 29
   Percentage of Gamers: 10%
-  Ratio: 3.19
-  TA: '63'
+  Ratio: 3.1
+  TA: '62'
   Tags:
   - Offline Mode
   - Single Player
@@ -152,10 +152,10 @@ Base Game Achievements:
   Description: Finish the factory level
   GS: '20'
   Guide: false
-  Number of Gamers: 23
+  Number of Gamers: 26
   Percentage of Gamers: 9%
-  Ratio: 3.39
-  TA: '67'
+  Ratio: 3.28
+  TA: '65'
   Tags:
   - Offline Mode
   - Single Player
@@ -164,10 +164,10 @@ Base Game Achievements:
   Description: Finish the train level
   GS: '20'
   Guide: false
-  Number of Gamers: 22
-  Percentage of Gamers: 8%
-  Ratio: 3.47
-  TA: '69'
+  Number of Gamers: 25
+  Percentage of Gamers: 9%
+  Ratio: 3.34
+  TA: '66'
   Tags:
   - Offline Mode
   - Single Player
@@ -176,10 +176,10 @@ Base Game Achievements:
   Description: Finish mission IV
   GS: '20'
   Guide: false
-  Number of Gamers: 21
-  Percentage of Gamers: 8%
-  Ratio: 3.55
-  TA: '71'
+  Number of Gamers: 24
+  Percentage of Gamers: 9%
+  Ratio: 3.41
+  TA: '68'
   Tags:
   - Offline Mode
   - Single Player
@@ -188,10 +188,10 @@ Base Game Achievements:
   Description: Finish the bamboo level
   GS: '20'
   Guide: false
-  Number of Gamers: 21
-  Percentage of Gamers: 8%
-  Ratio: 3.55
-  TA: '71'
+  Number of Gamers: 24
+  Percentage of Gamers: 9%
+  Ratio: 3.41
+  TA: '68'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -199,10 +199,10 @@ Base Game Achievements:
   Description: Find hidden Collin
   GS: '20'
   Guide: true
-  Number of Gamers: 13
+  Number of Gamers: 15
   Percentage of Gamers: 5%
-  Ratio: 4.51
-  TA: '90'
+  Ratio: 4.47
+  TA: '89'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -210,10 +210,10 @@ Base Game Achievements:
   Description: Finish the temple level
   GS: '20'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 6%
-  Ratio: 3.94
-  TA: '78'
+  Number of Gamers: 20
+  Percentage of Gamers: 7%
+  Ratio: 3.74
+  TA: '74'
   Tags:
   - Offline Mode
   - Single Player
@@ -222,10 +222,10 @@ Base Game Achievements:
   Description: Finish the last mission
   GS: '20'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 5%
-  Ratio: 4.35
-  TA: '87'
+  Number of Gamers: 17
+  Percentage of Gamers: 6%
+  Ratio: 4.05
+  TA: '81'
   Tags:
   - Offline Mode
   - Single Player
@@ -233,10 +233,10 @@ Base Game Achievements:
 - Achievement Name: First shoot bonus stage beaten
   Description: Beat the first shoot bonus stage
   GS: '20'
-  Guide: false
-  Number of Gamers: 38
-  Percentage of Gamers: 14%
-  Ratio: 2.64
+  Guide: true
+  Number of Gamers: 41
+  Percentage of Gamers: 15%
+  Ratio: 2.61
   TA: '52'
   Tags:
   - Offline Game Mode
@@ -245,10 +245,10 @@ Base Game Achievements:
   Description: Beat the second shoot bonus stage
   GS: '20'
   Guide: false
-  Number of Gamers: 26
+  Number of Gamers: 29
   Percentage of Gamers: 10%
-  Ratio: 3.19
-  TA: '63'
+  Ratio: 3.1
+  TA: '62'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -256,10 +256,10 @@ Base Game Achievements:
   Description: Beat the third shoot bonus stage
   GS: '20'
   Guide: false
-  Number of Gamers: 24
-  Percentage of Gamers: 9%
-  Ratio: 3.32
-  TA: '66'
+  Number of Gamers: 27
+  Percentage of Gamers: 10%
+  Ratio: 3.22
+  TA: '64'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -267,31 +267,31 @@ Base Game Achievements:
   Description: Beat the fourth shoot bonus stage
   GS: '20'
   Guide: false
-  Number of Gamers: 12
+  Number of Gamers: 14
   Percentage of Gamers: 5%
-  Ratio: 4.69
-  TA: '93'
+  Ratio: 4.47
+  TA: '89'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: First ninja bonus stage beaten
   Description: Beat the first ninja bonus stage
   GS: '20'
-  Guide: false
-  Number of Gamers: 33
-  Percentage of Gamers: 12%
-  Ratio: 2.83
-  TA: '56'
+  Guide: true
+  Number of Gamers: 36
+  Percentage of Gamers: 13%
+  Ratio: 2.78
+  TA: '55'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Second ninja bonus stage beaten
   Description: Beat the second ninja bonus stage
   GS: '20'
-  Guide: false
-  Number of Gamers: 27
+  Guide: true
+  Number of Gamers: 29
   Percentage of Gamers: 10%
-  Ratio: 3.13
+  Ratio: 3.1
   TA: '62'
   Tags:
   - Offline Game Mode
@@ -300,10 +300,10 @@ Base Game Achievements:
   Description: Beat the third ninja bonus stage
   GS: '20'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 6%
-  Ratio: 3.94
-  TA: '78'
+  Number of Gamers: 19
+  Percentage of Gamers: 7%
+  Ratio: 3.83
+  TA: '76'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -311,10 +311,10 @@ Base Game Achievements:
   Description: Beat the fourth ninja bonus stage
   GS: '20'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 6%
-  Ratio: 3.94
-  TA: '78'
+  Number of Gamers: 19
+  Percentage of Gamers: 7%
+  Ratio: 3.83
+  TA: '76'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -322,10 +322,10 @@ Base Game Achievements:
   Description: Beat the fifth ninja bonus stage
   GS: '20'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 4%
-  Ratio: 4.9
-  TA: '98'
+  Number of Gamers: 13
+  Percentage of Gamers: 5%
+  Ratio: 4.64
+  TA: '92'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -333,10 +333,10 @@ Base Game Achievements:
   Description: Beat the sixth ninja bonus stage
   GS: '20'
   Guide: false
-  Number of Gamers: 12
+  Number of Gamers: 14
   Percentage of Gamers: 5%
-  Ratio: 4.69
-  TA: '93'
+  Ratio: 4.64
+  TA: '92'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -344,10 +344,10 @@ Base Game Achievements:
   Description: Beat the seventh ninja bonus stage
   GS: '20'
   Guide: false
-  Number of Gamers: 10
+  Number of Gamers: 12
   Percentage of Gamers: 4%
-  Ratio: 5.14
-  TA: '102'
+  Ratio: 5.04
+  TA: '100'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -355,10 +355,10 @@ Base Game Achievements:
   Description: Beat the eighth ninja bonus stage
   GS: '20'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 3%
-  Ratio: 5.75
-  TA: '115'
+  Number of Gamers: 10
+  Percentage of Gamers: 4%
+  Ratio: 5.57
+  TA: '111'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -366,10 +366,10 @@ Base Game Achievements:
   Description: Beat the ninth ninja bonus stage
   GS: '20'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 3%
-  Ratio: 5.75
-  TA: '115'
+  Number of Gamers: 10
+  Percentage of Gamers: 4%
+  Ratio: 5.57
+  TA: '111'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -377,10 +377,10 @@ Base Game Achievements:
   Description: Beat the tenth ninja bonus stage
   GS: '20'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 2%
-  Ratio: 6.64
-  TA: '132'
+  Number of Gamers: 8
+  Percentage of Gamers: 3%
+  Ratio: 6.32
+  TA: '126'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -388,7 +388,7 @@ Base Game Achievements:
   Description: Take the challenge
   GS: '20'
   Guide: false
-  Number of Gamers: 265
+  Number of Gamers: 281
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '20'
@@ -399,10 +399,10 @@ Base Game Achievements:
   Description: Beat the fifth shoot bonus stage
   GS: '20'
   Guide: false
-  Number of Gamers: 13
+  Number of Gamers: 15
   Percentage of Gamers: 5%
-  Ratio: 4.51
-  TA: '90'
+  Ratio: 4.32
+  TA: '86'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -410,10 +410,10 @@ Base Game Achievements:
   Description: Beat the sixth shoot bonus stage
   GS: '20'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 3%
-  Ratio: 5.75
-  TA: '115'
+  Number of Gamers: 10
+  Percentage of Gamers: 4%
+  Ratio: 5.29
+  TA: '105'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -421,10 +421,10 @@ Base Game Achievements:
   Description: Beat the seventh shoot bonus stage
   GS: '20'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 3%
-  Ratio: 5.75
-  TA: '115'
+  Number of Gamers: 10
+  Percentage of Gamers: 4%
+  Ratio: 5.57
+  TA: '111'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -432,10 +432,10 @@ Base Game Achievements:
   Description: Beat the eighth shoot bonus stage
   GS: '20'
   Guide: false
-  Number of Gamers: 7
+  Number of Gamers: 9
   Percentage of Gamers: 3%
-  Ratio: 6.15
-  TA: '123'
+  Ratio: 5.91
+  TA: '118'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -443,10 +443,10 @@ Base Game Achievements:
   Description: Beat the ninth shoot bonus stage
   GS: '20'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 3%
-  Ratio: 5.42
-  TA: '108'
+  Number of Gamers: 11
+  Percentage of Gamers: 4%
+  Ratio: 5.29
+  TA: '105'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -454,10 +454,10 @@ Base Game Achievements:
   Description: Finish the game on Rising Ninja
   GS: '50'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 5%
-  Ratio: 4.35
-  TA: '217'
+  Number of Gamers: 17
+  Percentage of Gamers: 6%
+  Ratio: 4.05
+  TA: '202'
   Tags:
   - Offline Mode
   - Single Player
@@ -467,10 +467,10 @@ Base Game Achievements:
   Description: Finish the game on Ninja
   GS: '70'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 3%
-  Ratio: 5.42
-  TA: '379'
+  Number of Gamers: 11
+  Percentage of Gamers: 4%
+  Ratio: 5.29
+  TA: '370'
   Tags:
   - Offline Mode
   - Single Player
@@ -480,34 +480,34 @@ Base Game Achievements:
 - Achievement Name: Finish the game on Crimson Ninja
   Description: Finish the game on Crimson Ninja
   GS: '100'
-  Guide: false
-  Number of Gamers: 5
+  Guide: true
+  Number of Gamers: 6
   Percentage of Gamers: 2%
-  Ratio: 7.28
-  TA: '728'
+  Ratio: 6.83
+  TA: '683'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
   - Difficulty Specific
   - Stackable
-Base Ratio: 4.26
-Base TA: 4260
+Base Ratio: 4.097
+Base TA: 4097
 Delisted: false
 Developer: JKM Corp
 Game Name: Shadow Gangs
 Genres: Run & Gun
 Install Size: 747.0
-Number of Completions: 5
-Number of Gamers: 265
+Number of Completions: 6
+Number of Gamers: 281
 Overall Completion Time:
-- 46
-- 47
+- 76
+- 77
 Overall GS: 1000
-Overall Ratio: 4.26
-Overall TA: 4260
+Overall Ratio: 4.097
+Overall TA: 4097
 PDU: 0
-Percentage Completed: 1.89
+Percentage Completed: 2.14
 Publisher: JKM Corp
 Release Date: 14 October 2020
 Server Closure: false

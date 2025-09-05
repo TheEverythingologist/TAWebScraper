@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 100.0
-- 125.0
+- 80.0
+- 105.0
 Base GS: 1500
 Base Game Achievements:
 - Achievement Name: Into The Woods
   Description: Reach the forest
   GS: '10'
   Guide: true
-  Number of Gamers: 77882
+  Number of Gamers: 81076
   Percentage of Gamers: 42%
   Ratio: 1.54
   TA: '15'
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Reach the canyon
   GS: '25'
   Guide: true
-  Number of Gamers: 29415
+  Number of Gamers: 30867
   Percentage of Gamers: 16%
-  Ratio: 2.52
-  TA: '63'
+  Ratio: 2.5
+  TA: '62'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Reach the peaks
   GS: '50'
   Guide: true
-  Number of Gamers: 17129
+  Number of Gamers: 18106
   Percentage of Gamers: 9%
-  Ratio: 3.3
-  TA: '165'
+  Ratio: 3.27
+  TA: '163'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Finish peaks boss jump
   GS: '50'
   Guide: true
-  Number of Gamers: 6249
+  Number of Gamers: 6716
   Percentage of Gamers: 3%
-  Ratio: 5.46
-  TA: '273'
+  Ratio: 5.38
+  TA: '269'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -55,10 +55,10 @@ Base Game Achievements:
   Description: Start to finish run
   GS: '80'
   Guide: true
-  Number of Gamers: 4031
+  Number of Gamers: 4325
   Percentage of Gamers: 2%
-  Ratio: 6.8
-  TA: '544'
+  Ratio: 6.7
+  TA: '536'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -66,10 +66,10 @@ Base Game Achievements:
   Description: Full session without bails
   GS: '125'
   Guide: true
-  Number of Gamers: 695
+  Number of Gamers: 770
   Percentage of Gamers: 0%
-  Ratio: 16.39
-  TA: 2,049
+  Ratio: 15.89
+  TA: 1,986
   Tags:
   - Offline Game Mode
   - Single Player
@@ -77,9 +77,9 @@ Base Game Achievements:
   Description: Get sponsored by a team
   GS: '25'
   Guide: true
-  Number of Gamers: 36583
+  Number of Gamers: 38414
   Percentage of Gamers: 20%
-  Ratio: 2.26
+  Ratio: 2.24
   TA: '56'
   Tags:
   - Offline Game Mode
@@ -88,7 +88,7 @@ Base Game Achievements:
   Description: Get 10.000 REP
   GS: '10'
   Guide: true
-  Number of Gamers: 94768
+  Number of Gamers: 98531
   Percentage of Gamers: 51%
   Ratio: 1.4
   TA: '14'
@@ -101,10 +101,10 @@ Base Game Achievements:
   Description: Get 50.000 REP
   GS: '25'
   Guide: true
-  Number of Gamers: 36953
+  Number of Gamers: 38996
   Percentage of Gamers: 20%
-  Ratio: 2.24
-  TA: '56'
+  Ratio: 2.23
+  TA: '55'
   Tags:
   - Offline Mode
   - Single Player
@@ -114,10 +114,10 @@ Base Game Achievements:
   Description: Get 250.000 REP
   GS: '50'
   Guide: true
-  Number of Gamers: 11273
+  Number of Gamers: 12182
   Percentage of Gamers: 6%
-  Ratio: 4.07
-  TA: '203'
+  Ratio: 3.99
+  TA: '199'
   Tags:
   - Offline Mode
   - Single Player
@@ -127,7 +127,7 @@ Base Game Achievements:
   Description: Unlock 10 items
   GS: '10'
   Guide: true
-  Number of Gamers: 82199
+  Number of Gamers: 85587
   Percentage of Gamers: 44%
   Ratio: 1.5
   TA: '15'
@@ -140,10 +140,10 @@ Base Game Achievements:
   Description: Unlock 25 items
   GS: '25'
   Guide: true
-  Number of Gamers: 34424
-  Percentage of Gamers: 18%
-  Ratio: 2.32
-  TA: '58'
+  Number of Gamers: 36451
+  Percentage of Gamers: 19%
+  Ratio: 2.3
+  TA: '57'
   Tags:
   - Offline Mode
   - Single Player
@@ -152,10 +152,10 @@ Base Game Achievements:
   Description: Unlock 50 items
   GS: '50'
   Guide: true
-  Number of Gamers: 20585
+  Number of Gamers: 22036
   Percentage of Gamers: 11%
-  Ratio: 3.01
-  TA: '150'
+  Ratio: 2.96
+  TA: '148'
   Tags:
   - Offline Mode
   - Single Player
@@ -164,7 +164,7 @@ Base Game Achievements:
   Description: Get REKT
   GS: '10'
   Guide: true
-  Number of Gamers: 170442
+  Number of Gamers: 177000
   Percentage of Gamers: 91%
   Ratio: 1.04
   TA: '10'
@@ -175,9 +175,9 @@ Base Game Achievements:
   Description: Complete 10 mini-bosses
   GS: '25'
   Guide: true
-  Number of Gamers: 53885
+  Number of Gamers: 56502
   Percentage of Gamers: 29%
-  Ratio: 1.86
+  Ratio: 1.85
   TA: '46'
   Tags:
   - Offline Mode
@@ -187,9 +187,9 @@ Base Game Achievements:
   Description: Survive a boss jump
   GS: '50'
   Guide: true
-  Number of Gamers: 77645
+  Number of Gamers: 80841
   Percentage of Gamers: 42%
-  Ratio: 1.55
+  Ratio: 1.54
   TA: '77'
   Tags:
   - Offline Game Mode
@@ -198,9 +198,9 @@ Base Game Achievements:
   Description: Jump over the train
   GS: '25'
   Guide: true
-  Number of Gamers: 46075
+  Number of Gamers: 48269
   Percentage of Gamers: 25%
-  Ratio: 2.01
+  Ratio: 2.0
   TA: '50'
   Tags:
   - Offline Game Mode
@@ -209,7 +209,7 @@ Base Game Achievements:
   Description: Complete a team node
   GS: '10'
   Guide: true
-  Number of Gamers: 106680
+  Number of Gamers: 110804
   Percentage of Gamers: 57%
   Ratio: 1.32
   TA: '13'
@@ -220,9 +220,9 @@ Base Game Achievements:
   Description: Unlock a shortcut
   GS: '10'
   Guide: true
-  Number of Gamers: 35800
+  Number of Gamers: 37662
   Percentage of Gamers: 19%
-  Ratio: 2.28
+  Ratio: 2.27
   TA: '22'
   Tags:
   - Offline Game Mode
@@ -231,9 +231,9 @@ Base Game Achievements:
   Description: Land a double frontflip
   GS: '10'
   Guide: true
-  Number of Gamers: 29050
+  Number of Gamers: 30480
   Percentage of Gamers: 16%
-  Ratio: 2.53
+  Ratio: 2.52
   TA: '25'
   Tags:
   - Offline Game Mode
@@ -242,9 +242,9 @@ Base Game Achievements:
   Description: Land a 360 frontflip
   GS: '10'
   Guide: true
-  Number of Gamers: 26507
+  Number of Gamers: 27901
   Percentage of Gamers: 14%
-  Ratio: 2.65
+  Ratio: 2.63
   TA: '26'
   Tags:
   - Offline Game Mode
@@ -253,9 +253,9 @@ Base Game Achievements:
   Description: Land a 720 double backflip
   GS: '10'
   Guide: true
-  Number of Gamers: 5753
+  Number of Gamers: 6165
   Percentage of Gamers: 3%
-  Ratio: 5.69
+  Ratio: 5.61
   TA: '56'
   Tags:
   - Offline Game Mode
@@ -264,10 +264,10 @@ Base Game Achievements:
   Description: Reach 100 km/h
   GS: '10'
   Guide: true
-  Number of Gamers: 51605
+  Number of Gamers: 54348
   Percentage of Gamers: 28%
-  Ratio: 1.9
-  TA: '19'
+  Ratio: 1.89
+  TA: '18'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -275,9 +275,9 @@ Base Game Achievements:
   Description: Use the whoopee cushion 200 times
   GS: '0'
   Guide: true
-  Number of Gamers: 658
+  Number of Gamers: 742
   Percentage of Gamers: 0%
-  Ratio: 16.85
+  Ratio: 16.19
   TA: '0'
   Tags:
   - Offline Game Mode
@@ -286,10 +286,10 @@ Base Game Achievements:
   Description: Complete boss jump in Volcano
   GS: '50'
   Guide: true
-  Number of Gamers: 1194
+  Number of Gamers: 1328
   Percentage of Gamers: 1%
-  Ratio: 12.51
-  TA: '625'
+  Ratio: 12.11
+  TA: '605'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -297,10 +297,10 @@ Base Game Achievements:
   Description: Complete all bonus worlds
   GS: '50'
   Guide: true
-  Number of Gamers: 517
+  Number of Gamers: 573
   Percentage of Gamers: 0%
-  Ratio: 19.01
-  TA: '950'
+  Ratio: 18.43
+  TA: '921'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -308,9 +308,9 @@ Base Game Achievements:
   Description: Finish a level after bailing
   GS: '10'
   Guide: true
-  Number of Gamers: 49885
+  Number of Gamers: 52171
   Percentage of Gamers: 27%
-  Ratio: 1.93
+  Ratio: 1.92
   TA: '19'
   Tags:
   - Offline Game Mode
@@ -319,10 +319,10 @@ Base Game Achievements:
   Description: Complete a sponsorship
   GS: '75'
   Guide: true
-  Number of Gamers: 1608
+  Number of Gamers: 1744
   Percentage of Gamers: 1%
-  Ratio: 10.78
-  TA: '808'
+  Ratio: 10.57
+  TA: '793'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -330,9 +330,9 @@ Base Game Achievements:
   Description: Finish a level together with someone else
   GS: '10'
   Guide: true
-  Number of Gamers: 39261
+  Number of Gamers: 41079
   Percentage of Gamers: 21%
-  Ratio: 2.18
+  Ratio: 2.17
   TA: '21'
   Tags:
   - Online Mode
@@ -341,10 +341,10 @@ Base Game Achievements:
   Description: Finish a session with 3 different crew members
   GS: '10'
   Guide: true
-  Number of Gamers: 10502
+  Number of Gamers: 11685
   Percentage of Gamers: 6%
-  Ratio: 4.21
-  TA: '42'
+  Ratio: 4.08
+  TA: '40'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -352,9 +352,9 @@ Base Game Achievements:
   Description: Finish the credits
   GS: '10'
   Guide: true
-  Number of Gamers: 19004
+  Number of Gamers: 19988
   Percentage of Gamers: 10%
-  Ratio: 3.13
+  Ratio: 3.11
   TA: '31'
   Tags:
   - Offline Game Mode
@@ -363,43 +363,43 @@ Base Game Achievements:
   Description: Finish career+ in one session
   GS: '80'
   Guide: true
-  Number of Gamers: 2193
+  Number of Gamers: 2399
   Percentage of Gamers: 1%
-  Ratio: 9.23
-  TA: '738'
+  Ratio: 9.0
+  TA: '720'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 9.356
-Base TA: 14034
+Base Ratio: 9.04
+Base TA: 13560
 Delisted: false
 Developer: RageSquid
 Game Name: Descenders
 Genres: Roguelite, Sports, Cycling
 Install Size: 13110.0
-Number of Completions: 325
-Number of Gamers: 186874
+Number of Completions: 361
+Number of Gamers: 194313
 Overall Completion Time:
-- 100.0
-- 125.0
+- 80.0
+- 105.0
 Overall GS: 1500
-Overall Ratio: 9.356
-Overall TA: 14034
+Overall Ratio: 9.04
+Overall TA: 13560
 PDU: 0
-Percentage Completed: 0.17
+Percentage Completed: 0.19
 Publisher: No More Robots, Fireshine Games
 Release Date: 07 May 2019
 Server Closure: false
-Site Rating: 3.38
+Site Rating: 3.39
 Update Achievements:
 - Achievement Name: No More Robots Amateur Tour
   Description: Complete all of the missions in the No More Robots Amateur Tour
   GS: '50'
   Guide: true
-  Number of Gamers: 2568
+  Number of Gamers: 2913
   Percentage of Gamers: 1%
-  Ratio: 8.53
-  TA: '426'
+  Ratio: 8.17
+  TA: '408'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -407,10 +407,10 @@ Update Achievements:
   Description: Complete all of the missions in the Power Up Audio Amateur Tour
   GS: '50'
   Guide: true
-  Number of Gamers: 1771
+  Number of Gamers: 2037
   Percentage of Gamers: 1%
-  Ratio: 10.27
-  TA: '513'
+  Ratio: 9.77
+  TA: '488'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -418,10 +418,10 @@ Update Achievements:
   Description: Complete all of the missions in the Liquicity Amateur Tour
   GS: '50'
   Guide: true
-  Number of Gamers: 1674
+  Number of Gamers: 1925
   Percentage of Gamers: 1%
-  Ratio: 10.56
-  TA: '528'
+  Ratio: 10.06
+  TA: '503'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -429,10 +429,10 @@ Update Achievements:
   Description: Complete all of the missions in the RageSquid Amateur Tour
   GS: '50'
   Guide: true
-  Number of Gamers: 1347
+  Number of Gamers: 1547
   Percentage of Gamers: 1%
-  Ratio: 11.77
-  TA: '588'
+  Ratio: 11.22
+  TA: '561'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -440,10 +440,10 @@ Update Achievements:
   Description: Complete all of the missions in the No More Robots Pro Tour
   GS: '50'
   Guide: true
-  Number of Gamers: 1511
+  Number of Gamers: 1738
   Percentage of Gamers: 1%
-  Ratio: 11.12
-  TA: '556'
+  Ratio: 10.58
+  TA: '529'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -451,10 +451,10 @@ Update Achievements:
   Description: Complete all of the missions in the Power Up Audio Pro Tour
   GS: '50'
   Guide: true
-  Number of Gamers: 1033
+  Number of Gamers: 1172
   Percentage of Gamers: 1%
-  Ratio: 13.45
-  TA: '672'
+  Ratio: 12.88
+  TA: '644'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -462,10 +462,10 @@ Update Achievements:
   Description: Complete all of the missions in the Liquicity Pro Tour
   GS: '100'
   Guide: true
-  Number of Gamers: 684
+  Number of Gamers: 782
   Percentage of Gamers: 0%
-  Ratio: 16.52
-  TA: 1,652
+  Ratio: 15.81
+  TA: 1,581
   Tags:
   - Offline Game Mode
   - Single Player
@@ -473,10 +473,10 @@ Update Achievements:
   Description: Complete all of the missions in the RageSquid Pro Tour
   GS: '100'
   Guide: true
-  Number of Gamers: 540
+  Number of Gamers: 616
   Percentage of Gamers: 0%
-  Ratio: 18.6
-  TA: 1,860
+  Ratio: 17.78
+  TA: 1,778
   Tags:
   - Offline Mode
   - Online Mode

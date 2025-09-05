@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 72
-- 73
+- 40.0
+- 50.0
 Base GS: 1450
 Base Game Achievements:
 - Achievement Name: FrostCity
   Description: Have at least 5 different area effects applied to the district
   GS: '10'
   Guide: true
-  Number of Gamers: 741
+  Number of Gamers: 763
   Percentage of Gamers: 6%
   Ratio: 4.08
   TA: '40'
@@ -19,8 +19,8 @@ Base Game Achievements:
   Description: Have 10 districts affected by hubs
   GS: '15'
   Guide: false
-  Number of Gamers: 2662
-  Percentage of Gamers: 21%
+  Number of Gamers: 2739
+  Percentage of Gamers: 22%
   Ratio: 2.15
   TA: '32'
   Tags:
@@ -31,10 +31,10 @@ Base Game Achievements:
   Description: See 10 different situations near a district hub
   GS: '10'
   Guide: true
-  Number of Gamers: 285
+  Number of Gamers: 301
   Percentage of Gamers: 2%
-  Ratio: 6.65
-  TA: '66'
+  Ratio: 6.49
+  TA: '64'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -42,10 +42,10 @@ Base Game Achievements:
   Description: Have "Devoted" relations with all communities and factions
   GS: '30'
   Guide: true
-  Number of Gamers: 597
+  Number of Gamers: 626
   Percentage of Gamers: 5%
-  Ratio: 4.55
-  TA: '136'
+  Ratio: 4.5
+  TA: '135'
   Tags:
   - Offline Mode
   - Single Player
@@ -55,10 +55,10 @@ Base Game Achievements:
     one playthrough
   GS: '30'
   Guide: true
-  Number of Gamers: 795
-  Percentage of Gamers: 6%
-  Ratio: 3.96
-  TA: '118'
+  Number of Gamers: 855
+  Percentage of Gamers: 7%
+  Ratio: 3.85
+  TA: '115'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -66,10 +66,10 @@ Base Game Achievements:
   Description: Never have relations worse than "Sceptical" with any community or faction
   GS: '60'
   Guide: true
-  Number of Gamers: 153
+  Number of Gamers: 156
   Percentage of Gamers: 1%
-  Ratio: 9.04
-  TA: '542'
+  Ratio: 9.02
+  TA: '541'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -77,10 +77,10 @@ Base Game Achievements:
   Description: Pass at least 20 new laws in a single playthrough
   GS: '30'
   Guide: true
-  Number of Gamers: 3193
+  Number of Gamers: 3287
   Percentage of Gamers: 26%
   Ratio: 1.96
-  TA: '59'
+  TA: '58'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -88,10 +88,10 @@ Base Game Achievements:
   Description: Have 100% of delegates vote in favour of any law
   GS: '30'
   Guide: true
-  Number of Gamers: 930
+  Number of Gamers: 970
   Percentage of Gamers: 8%
-  Ratio: 3.64
-  TA: '109'
+  Ratio: 3.61
+  TA: '108'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -99,9 +99,9 @@ Base Game Achievements:
   Description: Set up 3 colonies
   GS: '30'
   Guide: true
-  Number of Gamers: 1348
+  Number of Gamers: 1386
   Percentage of Gamers: 11%
-  Ratio: 3.03
+  Ratio: 3.02
   TA: '90'
   Tags:
   - Offline Mode
@@ -112,10 +112,10 @@ Base Game Achievements:
     or colonies
   GS: '30'
   Guide: true
-  Number of Gamers: 92
+  Number of Gamers: 95
   Percentage of Gamers: 1%
-  Ratio: 11.58
-  TA: '347'
+  Ratio: 11.56
+  TA: '346'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -123,10 +123,10 @@ Base Game Achievements:
   Description: Have twice as much heat abundance as heat demand
   GS: '30'
   Guide: false
-  Number of Gamers: 797
-  Percentage of Gamers: 6%
-  Ratio: 3.96
-  TA: '118'
+  Number of Gamers: 908
+  Percentage of Gamers: 7%
+  Ratio: 3.74
+  TA: '112'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -134,9 +134,9 @@ Base Game Achievements:
   Description: Fulfil at least 300 Heat demand using Steam and have absent Squalor
   GS: '30'
   Guide: true
-  Number of Gamers: 781
+  Number of Gamers: 805
   Percentage of Gamers: 6%
-  Ratio: 3.98
+  Ratio: 3.97
   TA: '119'
   Tags:
   - Offline Mode
@@ -147,10 +147,10 @@ Base Game Achievements:
     the one you already have
   GS: '15'
   Guide: true
-  Number of Gamers: 82
+  Number of Gamers: 83
   Percentage of Gamers: 1%
-  Ratio: 12.27
-  TA: '184'
+  Ratio: 12.37
+  TA: '185'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -158,9 +158,9 @@ Base Game Achievements:
   Description: Double starting Research speed
   GS: '10'
   Guide: false
-  Number of Gamers: 2946
+  Number of Gamers: 3045
   Percentage of Gamers: 24%
-  Ratio: 2.05
+  Ratio: 2.04
   TA: '20'
   Tags:
   - Offline Game Mode
@@ -169,9 +169,9 @@ Base Game Achievements:
   Description: Have maximum trust
   GS: '10'
   Guide: true
-  Number of Gamers: 3696
+  Number of Gamers: 3832
   Percentage of Gamers: 30%
-  Ratio: 1.83
+  Ratio: 1.82
   TA: '18'
   Tags:
   - Offline Mode
@@ -182,9 +182,9 @@ Base Game Achievements:
     population
   GS: '15'
   Guide: false
-  Number of Gamers: 1741
+  Number of Gamers: 1806
   Percentage of Gamers: 14%
-  Ratio: 2.66
+  Ratio: 2.65
   TA: '39'
   Tags:
   - Offline Game Mode
@@ -193,7 +193,7 @@ Base Game Achievements:
   Description: Ensure the Wanderers' survival during the Whiteout
   GS: '10'
   Guide: true
-  Number of Gamers: 12192
+  Number of Gamers: 12517
   Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '10'
@@ -205,9 +205,9 @@ Base Game Achievements:
     the elders
   GS: '30'
   Guide: true
-  Number of Gamers: 7927
+  Number of Gamers: 8119
   Percentage of Gamers: 64%
-  Ratio: 1.24
+  Ratio: 1.25
   TA: '37'
   Tags:
   - Offline Game Mode
@@ -216,10 +216,10 @@ Base Game Achievements:
   Description: Complete a playthrough in Utopia Builder mode
   GS: '15'
   Guide: false
-  Number of Gamers: 491
+  Number of Gamers: 512
   Percentage of Gamers: 4%
-  Ratio: 5.03
-  TA: '75'
+  Ratio: 4.98
+  TA: '74'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -227,9 +227,9 @@ Base Game Achievements:
   Description: Complete all Ambitions in Utopia Builder mode
   GS: '60'
   Guide: true
-  Number of Gamers: 72
+  Number of Gamers: 73
   Percentage of Gamers: 1%
-  Ratio: 13.18
+  Ratio: 13.19
   TA: '791'
   Tags:
   - Offline Game Mode
@@ -238,7 +238,7 @@ Base Game Achievements:
   Description: Finish Defeat the Frost or Embrace the Frost before the Whiteout
   GS: '15'
   Guide: false
-  Number of Gamers: 3395
+  Number of Gamers: 3488
   Percentage of Gamers: 27%
   Ratio: 1.9
   TA: '28'
@@ -250,9 +250,9 @@ Base Game Achievements:
     London
   GS: '15'
   Guide: false
-  Number of Gamers: 3118
+  Number of Gamers: 3220
   Percentage of Gamers: 25%
-  Ratio: 1.99
+  Ratio: 1.98
   TA: '29'
   Tags:
   - Offline Game Mode
@@ -261,10 +261,10 @@ Base Game Achievements:
   Description: Have at least 50 income of heatstamps
   GS: '15'
   Guide: false
-  Number of Gamers: 2886
+  Number of Gamers: 2985
   Percentage of Gamers: 23%
-  Ratio: 2.07
-  TA: '31'
+  Ratio: 2.06
+  TA: '30'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -272,10 +272,10 @@ Base Game Achievements:
   Description: Don't let the Fervour of any faction reach maximum level in a playthrough
   GS: '30'
   Guide: true
-  Number of Gamers: 476
+  Number of Gamers: 492
   Percentage of Gamers: 4%
-  Ratio: 5.1
-  TA: '153'
+  Ratio: 5.08
+  TA: '152'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -283,10 +283,10 @@ Base Game Achievements:
   Description: Don't let Civil War spread over 5 or more districts
   GS: '15'
   Guide: true
-  Number of Gamers: 1642
+  Number of Gamers: 1711
   Percentage of Gamers: 13%
-  Ratio: 2.74
-  TA: '41'
+  Ratio: 2.72
+  TA: '40'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -294,10 +294,10 @@ Base Game Achievements:
   Description: Reach over 60,000 population in your main city
   GS: '60'
   Guide: false
-  Number of Gamers: 356
+  Number of Gamers: 378
   Percentage of Gamers: 3%
-  Ratio: 5.92
-  TA: '355'
+  Ratio: 5.79
+  TA: '347'
   Tags:
   - Offline Mode
   - Single Player
@@ -306,10 +306,10 @@ Base Game Achievements:
   Description: Reach over 50,000 population outside of your main city
   GS: '60'
   Guide: true
-  Number of Gamers: 141
+  Number of Gamers: 146
   Percentage of Gamers: 1%
-  Ratio: 9.39
-  TA: '563'
+  Ratio: 9.32
+  TA: '559'
   Tags:
   - Offline Mode
   - Single Player
@@ -318,10 +318,10 @@ Base Game Achievements:
   Description: Have Squalor Absent despite having at least 1000 Material Demand
   GS: '60'
   Guide: true
-  Number of Gamers: 254
+  Number of Gamers: 300
   Percentage of Gamers: 2%
-  Ratio: 7.02
-  TA: '421'
+  Ratio: 6.5
+  TA: '390'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -329,9 +329,9 @@ Base Game Achievements:
   Description: Have Crime and Tension Absent in the City with at least 30k population
   GS: '60'
   Guide: false
-  Number of Gamers: 1907
-  Percentage of Gamers: 15%
-  Ratio: 2.54
+  Number of Gamers: 1977
+  Percentage of Gamers: 16%
+  Ratio: 2.53
   TA: '152'
   Tags:
   - Offline Game Mode
@@ -340,10 +340,10 @@ Base Game Achievements:
   Description: Research 60 different ideas under 600 weeks
   GS: '60'
   Guide: false
-  Number of Gamers: 529
+  Number of Gamers: 552
   Percentage of Gamers: 4%
-  Ratio: 4.84
-  TA: '290'
+  Ratio: 4.79
+  TA: '287'
   Tags:
   - Offline Mode
   - Single Player
@@ -352,10 +352,10 @@ Base Game Achievements:
   Description: Have at least 90% of the population be active workers in your city
   GS: '60'
   Guide: true
-  Number of Gamers: 493
+  Number of Gamers: 508
   Percentage of Gamers: 4%
-  Ratio: 5.01
-  TA: '301'
+  Ratio: 5.0
+  TA: '300'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -363,10 +363,10 @@ Base Game Achievements:
   Description: Meet all factions in Utopia Builder mode
   GS: '15'
   Guide: true
-  Number of Gamers: 118
+  Number of Gamers: 126
   Percentage of Gamers: 1%
-  Ratio: 10.22
-  TA: '153'
+  Ratio: 10.04
+  TA: '150'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -374,9 +374,9 @@ Base Game Achievements:
   Description: Have negative relations with all communities and factions
   GS: '10'
   Guide: true
-  Number of Gamers: 2483
+  Number of Gamers: 2596
   Percentage of Gamers: 20%
-  Ratio: 2.23
+  Ratio: 2.21
   TA: '22'
   Tags:
   - Offline Game Mode
@@ -385,7 +385,7 @@ Base Game Achievements:
   Description: Have rallies and protests in the City at the same time
   GS: '15'
   Guide: false
-  Number of Gamers: 1819
+  Number of Gamers: 1877
   Percentage of Gamers: 15%
   Ratio: 2.6
   TA: '39'
@@ -397,30 +397,30 @@ Base Game Achievements:
     again
   GS: '10'
   Guide: true
-  Number of Gamers: 3391
+  Number of Gamers: 3473
   Percentage of Gamers: 27%
   Ratio: 1.91
   TA: '19'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 8.397931034482758
-Base TA: 12177
+Base Ratio: 8.097931034482759
+Base TA: 11742
 Delisted: false
 Developer: 11 bit studios
 Game Name: Frostpunk 2 (Windows)
 Genres: Survival, Simulation, Management
 Install Size: 13880.0
-Number of Completions: 8
-Number of Gamers: 12383
+Number of Completions: 9
+Number of Gamers: 12708
 Overall Completion Time:
-- 72
-- 73
+- 40.0
+- 50.0
 Overall GS: 1450
-Overall Ratio: 8.397931034482758
-Overall TA: 12177
+Overall Ratio: 8.097931034482759
+Overall TA: 11742
 PDU: 0
-Percentage Completed: 0.06
+Percentage Completed: 0.07
 Publisher: 11 bit studios
 Release Date: 20 September 2024
 Server Closure: false
@@ -430,10 +430,10 @@ Update Achievements:
   Description: Disregard community requests 5 times in one playthrough
   GS: '10'
   Guide: true
-  Number of Gamers: 215
+  Number of Gamers: 226
   Percentage of Gamers: 2%
-  Ratio: 7.59
-  TA: '75'
+  Ratio: 7.49
+  TA: '74'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -444,8 +444,8 @@ Update Achievements:
   Guide: true
   Number of Gamers: 70
   Percentage of Gamers: 1%
-  Ratio: 13.28
-  TA: '398'
+  Ratio: 13.47
+  TA: '404'
   Tags:
   - Offline Mode
   - Single Player
@@ -454,10 +454,10 @@ Update Achievements:
   Description: Complete a playthrough without any avoidable deaths
   GS: '30'
   Guide: true
-  Number of Gamers: 86
+  Number of Gamers: 88
   Percentage of Gamers: 1%
-  Ratio: 11.98
-  TA: '359'
+  Ratio: 12.01
+  TA: '360'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -465,9 +465,9 @@ Update Achievements:
   Description: Complete the Story on any difficulty
   GS: '10'
   Guide: false
-  Number of Gamers: 2191
+  Number of Gamers: 2266
   Percentage of Gamers: 18%
-  Ratio: 2.37
+  Ratio: 2.36
   TA: '23'
   Tags:
   - Offline Mode
@@ -479,10 +479,10 @@ Update Achievements:
   Description: Complete the Story on at least Steward difficulty
   GS: '25'
   Guide: false
-  Number of Gamers: 176
+  Number of Gamers: 180
   Percentage of Gamers: 1%
-  Ratio: 8.37
-  TA: '209'
+  Ratio: 8.4
+  TA: '210'
   Tags:
   - Offline Mode
   - Single Player
@@ -493,10 +493,10 @@ Update Achievements:
   Description: Complete the Story on Captain difficulty
   GS: '40'
   Guide: false
-  Number of Gamers: 125
+  Number of Gamers: 126
   Percentage of Gamers: 1%
-  Ratio: 9.93
-  TA: '397'
+  Ratio: 10.04
+  TA: '401'
   Tags:
   - Offline Mode
   - Single Player
@@ -508,10 +508,10 @@ Update Achievements:
     the city
   GS: '15'
   Guide: true
-  Number of Gamers: 157
+  Number of Gamers: 163
   Percentage of Gamers: 1%
-  Ratio: 8.86
-  TA: '133'
+  Ratio: 8.82
+  TA: '132'
   Tags:
   - Offline Mode
   - Single Player
@@ -523,8 +523,8 @@ Update Achievements:
   Guide: true
   Number of Gamers: 113
   Percentage of Gamers: 1%
-  Ratio: 10.49
-  TA: '157'
+  Ratio: 10.6
+  TA: '159'
   Tags:
   - Offline Mode
   - Single Player
@@ -533,9 +533,9 @@ Update Achievements:
   Description: No deaths caused by Civil War during the whole game
   GS: '15'
   Guide: true
-  Number of Gamers: 87
+  Number of Gamers: 90
   Percentage of Gamers: 1%
-  Ratio: 11.91
+  Ratio: 11.88
   TA: '178'
   Tags:
   - Offline Game Mode
@@ -544,9 +544,9 @@ Update Achievements:
   Description: Have the banished faction leave New London of their own accord
   GS: '15'
   Guide: true
-  Number of Gamers: 534
+  Number of Gamers: 545
   Percentage of Gamers: 4%
-  Ratio: 4.8
+  Ratio: 4.82
   TA: '72'
   Tags:
   - Offline Game Mode
@@ -556,9 +556,9 @@ Update Achievements:
     Tension
   GS: '15'
   Guide: false
-  Number of Gamers: 573
+  Number of Gamers: 597
   Percentage of Gamers: 5%
-  Ratio: 4.65
+  Ratio: 4.61
   TA: '69'
   Tags:
   - Offline Game Mode
@@ -567,10 +567,10 @@ Update Achievements:
   Description: Have no votes against Captain's Authority policy
   GS: '15'
   Guide: true
-  Number of Gamers: 84
+  Number of Gamers: 88
   Percentage of Gamers: 1%
-  Ratio: 12.19
-  TA: '182'
+  Ratio: 12.01
+  TA: '180'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -578,9 +578,9 @@ Update Achievements:
   Description: End the civil war through the Path of Reconciliation
   GS: '15'
   Guide: false
-  Number of Gamers: 650
+  Number of Gamers: 672
   Percentage of Gamers: 5%
-  Ratio: 4.36
+  Ratio: 4.34
   TA: '65'
   Tags:
   - Offline Game Mode
@@ -590,10 +590,10 @@ Update Achievements:
     least -100 Celsius degrees
   GS: '30'
   Guide: true
-  Number of Gamers: 234
+  Number of Gamers: 245
   Percentage of Gamers: 2%
-  Ratio: 7.31
-  TA: '219'
+  Ratio: 7.2
+  TA: '216'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -601,10 +601,10 @@ Update Achievements:
   Description: Have at least 20k heatstamps and over 200k Goods stockpile
   GS: '20'
   Guide: false
-  Number of Gamers: 414
+  Number of Gamers: 435
   Percentage of Gamers: 3%
-  Ratio: 5.47
-  TA: '109'
+  Ratio: 5.4
+  TA: '108'
   Tags:
   - Offline Mode
   - Single Player
@@ -613,7 +613,7 @@ Update Achievements:
   Description: Have no problems higher than Minor in a colony for 300 weeks
   GS: '30'
   Guide: false
-  Number of Gamers: 1388
+  Number of Gamers: 1428
   Percentage of Gamers: 11%
   Ratio: 2.98
   TA: '89'
@@ -624,10 +624,10 @@ Update Achievements:
   Description: "Complete the \u2018Beacon of Hope\u2019 Tale"
   GS: '10'
   Guide: false
-  Number of Gamers: 23
+  Number of Gamers: 36
   Percentage of Gamers: 0%
-  Ratio: 24.24
-  TA: '242'
+  Ratio: 18.78
+  TA: '187'
   Tags:
   - Offline Mode
   - Single Player
@@ -636,10 +636,10 @@ Update Achievements:
   Description: "Complete the \u2018Apocalyptic Whiteout\u2019 Tale"
   GS: '10'
   Guide: false
-  Number of Gamers: 23
+  Number of Gamers: 33
   Percentage of Gamers: 0%
-  Ratio: 24.84
-  TA: '248'
+  Ratio: 19.62
+  TA: '196'
   Tags:
   - Offline Mode
   - Single Player
@@ -648,10 +648,10 @@ Update Achievements:
   Description: "Complete the \u2018Depleted Cores\u2019 Tale"
   GS: '10'
   Guide: false
-  Number of Gamers: 31
+  Number of Gamers: 48
   Percentage of Gamers: 0%
-  Ratio: 20.28
-  TA: '202'
+  Ratio: 16.27
+  TA: '162'
   Tags:
   - Offline Mode
   - Single Player
@@ -659,11 +659,11 @@ Update Achievements:
 - Achievement Name: Born Ready
   Description: Complete three Tales in a single playthrough on at least Steward difficulty
   GS: '30'
-  Guide: false
-  Number of Gamers: 10
+  Guide: true
+  Number of Gamers: 12
   Percentage of Gamers: 0%
-  Ratio: 35.13
-  TA: 1,054
+  Ratio: 32.54
+  TA: '976'
   Tags:
   - Offline Mode
   - Single Player
@@ -675,8 +675,8 @@ Update Achievements:
   Guide: false
   Number of Gamers: 9
   Percentage of Gamers: 0%
-  Ratio: 37.03
-  TA: '740'
+  Ratio: 37.57
+  TA: '751'
   Tags:
   - Offline Mode
   - Single Player
@@ -686,10 +686,10 @@ Update Achievements:
     \ over Minor on at least Steward difficulty"
   GS: '20'
   Guide: false
-  Number of Gamers: 9
+  Number of Gamers: 12
   Percentage of Gamers: 0%
-  Ratio: 37.03
-  TA: '740'
+  Ratio: 32.54
+  TA: '650'
   Tags:
   - Offline Mode
   - Single Player
@@ -699,10 +699,10 @@ Update Achievements:
     \ least Steward difficulty"
   GS: '20'
   Guide: false
-  Number of Gamers: 12
+  Number of Gamers: 14
   Percentage of Gamers: 0%
-  Ratio: 33.5
-  TA: '670'
+  Ratio: 30.12
+  TA: '602'
   Tags:
   - Offline Mode
   - Single Player

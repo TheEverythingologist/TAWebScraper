@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 100.0
-- 120.0
+- 60.0
+- 80.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Game on!
   Description: Complete the first Ranked Match.
   GS: '15'
   Guide: false
-  Number of Gamers: 12693
+  Number of Gamers: 13536
   Percentage of Gamers: 86%
   Ratio: 1.07
   TA: '16'
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Claim a reward for any completed quest.
   GS: '30'
   Guide: false
-  Number of Gamers: 10220
+  Number of Gamers: 10816
   Percentage of Gamers: 69%
   Ratio: 1.2
   TA: '36'
@@ -33,10 +33,10 @@ Base Game Achievements:
   Description: Sell any of your players on the Transfer Market.
   GS: '15'
   Guide: true
-  Number of Gamers: 4232
+  Number of Gamers: 4540
   Percentage of Gamers: 29%
   Ratio: 1.86
-  TA: '28'
+  TA: '27'
   Tags:
   - Online Mode
   - Single Player
@@ -45,7 +45,7 @@ Base Game Achievements:
   Description: Change the tactical formation of your squad.
   GS: '30'
   Guide: true
-  Number of Gamers: 5432
+  Number of Gamers: 5770
   Percentage of Gamers: 37%
   Ratio: 1.65
   TA: '49'
@@ -58,10 +58,10 @@ Base Game Achievements:
   Description: Add your squad's third kit in Customization.
   GS: '90'
   Guide: true
-  Number of Gamers: 2719
+  Number of Gamers: 2881
   Percentage of Gamers: 18%
   Ratio: 2.33
-  TA: '209'
+  TA: '210'
   Tags:
   - Online Mode
   - Single Player
@@ -69,7 +69,7 @@ Base Game Achievements:
   Description: Customize the kit of a single player.
   GS: '15'
   Guide: true
-  Number of Gamers: 3118
+  Number of Gamers: 3330
   Percentage of Gamers: 21%
   Ratio: 2.17
   TA: '32'
@@ -80,9 +80,9 @@ Base Game Achievements:
   Description: Loan a player.
   GS: '15'
   Guide: false
-  Number of Gamers: 2486
+  Number of Gamers: 2683
   Percentage of Gamers: 17%
-  Ratio: 2.43
+  Ratio: 2.42
   TA: '36'
   Tags:
   - Online Mode
@@ -92,10 +92,10 @@ Base Game Achievements:
   Description: Buy a player with a rating of 80 or higher on the Transfer Market.
   GS: '90'
   Guide: false
-  Number of Gamers: 1545
-  Percentage of Gamers: 10%
-  Ratio: 3.09
-  TA: '278'
+  Number of Gamers: 1922
+  Percentage of Gamers: 12%
+  Ratio: 2.86
+  TA: '257'
   Tags:
   - Online Mode
   - Single Player
@@ -104,10 +104,10 @@ Base Game Achievements:
   Description: Buy a player with a rating of 90 or higher on the Transfer Market.
   GS: '90'
   Guide: false
-  Number of Gamers: 408
+  Number of Gamers: 533
   Percentage of Gamers: 3%
-  Ratio: 6.02
-  TA: '541'
+  Ratio: 5.43
+  TA: '488'
   Tags:
   - Online Mode
   - Single Player
@@ -116,10 +116,10 @@ Base Game Achievements:
   Description: Buy a goalkeeper with a rating of 85 or higher on the Transfer Market.
   GS: '90'
   Guide: false
-  Number of Gamers: 423
+  Number of Gamers: 547
   Percentage of Gamers: 3%
-  Ratio: 5.92
-  TA: '532'
+  Ratio: 5.36
+  TA: '482'
   Tags:
   - Online Mode
   - Single Player
@@ -128,10 +128,10 @@ Base Game Achievements:
   Description: Build a Starting XI of players with an average rating of 75.
   GS: '15'
   Guide: false
-  Number of Gamers: 1313
-  Percentage of Gamers: 9%
-  Ratio: 3.35
-  TA: '50'
+  Number of Gamers: 1497
+  Percentage of Gamers: 10%
+  Ratio: 3.24
+  TA: '48'
   Tags:
   - Online Mode
   - Single Player
@@ -140,10 +140,10 @@ Base Game Achievements:
   Description: Build a Starting XI of players with an average rating of 80 or higher.
   GS: '30'
   Guide: false
-  Number of Gamers: 833
+  Number of Gamers: 960
   Percentage of Gamers: 6%
-  Ratio: 4.21
-  TA: '126'
+  Ratio: 4.04
+  TA: '121'
   Tags:
   - Online Mode
   - Single Player
@@ -152,10 +152,10 @@ Base Game Achievements:
   Description: Build a Starting XI of players with an average rating of 85 or higher.
   GS: '115'
   Guide: true
-  Number of Gamers: 473
-  Percentage of Gamers: 3%
-  Ratio: 5.59
-  TA: '643'
+  Number of Gamers: 575
+  Percentage of Gamers: 4%
+  Ratio: 5.23
+  TA: '601'
   Tags:
   - Online Mode
   - Single Player
@@ -164,10 +164,10 @@ Base Game Achievements:
   Description: In your Starting XI get 5 or more players with a rating of 75 or higher.
   GS: '15'
   Guide: false
-  Number of Gamers: 1513
-  Percentage of Gamers: 10%
-  Ratio: 3.12
-  TA: '46'
+  Number of Gamers: 1733
+  Percentage of Gamers: 11%
+  Ratio: 3.01
+  TA: '45'
   Tags:
   - Online Mode
   - Single Player
@@ -176,10 +176,10 @@ Base Game Achievements:
   Description: In your Starting XI get 5 or more players with a rating of 85 or higher.
   GS: '30'
   Guide: true
-  Number of Gamers: 570
+  Number of Gamers: 691
   Percentage of Gamers: 4%
-  Ratio: 5.09
-  TA: '152'
+  Ratio: 4.77
+  TA: '143'
   Tags:
   - Online Mode
   - Single Player
@@ -188,10 +188,10 @@ Base Game Achievements:
   Description: In your Starting XI get 2 players with a rating of 90 or higher.
   GS: '90'
   Guide: true
-  Number of Gamers: 366
-  Percentage of Gamers: 2%
-  Ratio: 6.36
-  TA: '572'
+  Number of Gamers: 472
+  Percentage of Gamers: 3%
+  Ratio: 5.77
+  TA: '519'
   Tags:
   - Online Mode
   - Single Player
@@ -200,9 +200,9 @@ Base Game Achievements:
   Description: Get a yellow card during a Ranked Match.
   GS: '15'
   Guide: false
-  Number of Gamers: 10343
-  Percentage of Gamers: 70%
-  Ratio: 1.19
+  Number of Gamers: 11143
+  Percentage of Gamers: 71%
+  Ratio: 1.18
   TA: '17'
   Tags:
   - Online Mode
@@ -213,10 +213,10 @@ Base Game Achievements:
   Description: Get a red card during a Ranked Match.
   GS: '30'
   Guide: true
-  Number of Gamers: 4508
-  Percentage of Gamers: 30%
-  Ratio: 1.81
-  TA: '54'
+  Number of Gamers: 4928
+  Percentage of Gamers: 31%
+  Ratio: 1.78
+  TA: '53'
   Tags:
   - Online Mode
   - Single Player
@@ -226,9 +226,9 @@ Base Game Achievements:
   Description: Draw a Ranked Match.
   GS: '15'
   Guide: true
-  Number of Gamers: 3364
+  Number of Gamers: 3615
   Percentage of Gamers: 23%
-  Ratio: 2.09
+  Ratio: 2.08
   TA: '31'
   Tags:
   - Online Mode
@@ -239,7 +239,7 @@ Base Game Achievements:
   Description: Upgrade a skill for any player.
   GS: '30'
   Guide: true
-  Number of Gamers: 6478
+  Number of Gamers: 6898
   Percentage of Gamers: 44%
   Ratio: 1.51
   TA: '45'
@@ -251,10 +251,10 @@ Base Game Achievements:
   Description: Buy a free spot to get more space in your Reserve.
   GS: '30'
   Guide: true
-  Number of Gamers: 1453
+  Number of Gamers: 1609
   Percentage of Gamers: 10%
-  Ratio: 3.19
-  TA: '95'
+  Ratio: 3.12
+  TA: '93'
   Tags:
   - Online Mode
   - Single Player
@@ -263,8 +263,8 @@ Base Game Achievements:
   Description: Score 3 or more goals in a single Ranked Match.
   GS: '30'
   Guide: false
-  Number of Gamers: 12504
-  Percentage of Gamers: 85%
+  Number of Gamers: 13245
+  Percentage of Gamers: 84%
   Ratio: 1.08
   TA: '32'
   Tags:
@@ -276,9 +276,9 @@ Base Game Achievements:
   Description: Score 5 or more goals in a single Ranked Match.
   GS: '30'
   Guide: true
-  Number of Gamers: 10456
-  Percentage of Gamers: 71%
-  Ratio: 1.18
+  Number of Gamers: 10938
+  Percentage of Gamers: 69%
+  Ratio: 1.19
   TA: '35'
   Tags:
   - Online Mode
@@ -289,8 +289,8 @@ Base Game Achievements:
   Description: Win a Ranked Match by at least two goals.
   GS: '30'
   Guide: true
-  Number of Gamers: 11943
-  Percentage of Gamers: 81%
+  Number of Gamers: 12638
+  Percentage of Gamers: 80%
   Ratio: 1.11
   TA: '33'
   Tags:
@@ -302,35 +302,35 @@ Base Game Achievements:
   Description: Substitute 3 players in a single Ranked Match.
   GS: '15'
   Guide: true
-  Number of Gamers: 2018
-  Percentage of Gamers: 14%
-  Ratio: 2.7
-  TA: '40'
+  Number of Gamers: 2444
+  Percentage of Gamers: 16%
+  Ratio: 2.53
+  TA: '38'
   Tags:
   - Online Mode
   - Single Player
   - Cooperative
   - Versus
-Base Ratio: 3.728
-Base TA: 3728
+Base Ratio: 3.487
+Base TA: 3487
 Delisted: false
 Developer: XTEN Limited
 Game Name: UFL
 Genres: Sports, Football
 Install Size: 19280.0
-Number of Completions: 236
-Number of Gamers: 14792
+Number of Completions: 311
+Number of Gamers: 15750
 Overall Completion Time:
-- 100.0
-- 120.0
+- 60.0
+- 80.0
 Overall GS: 1000
-Overall Ratio: 3.728
-Overall TA: 3728
+Overall Ratio: 3.487
+Overall TA: 3487
 PDU: 0
-Percentage Completed: 1.6
+Percentage Completed: 1.97
 Publisher: XTEN Limited
 Release Date: 05 December 2024
 Server Closure: false
-Site Rating: 2.72
+Site Rating: 2.71
 Update Achievements: []
 Walkthrough: false

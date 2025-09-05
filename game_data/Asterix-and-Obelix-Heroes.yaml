@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 46
-- 47
+- 25.0
+- 30.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: First Steps of a long journey
   Description: Complete the first chapter
   GS: '10'
   Guide: false
-  Number of Gamers: 208
+  Number of Gamers: 219
   Percentage of Gamers: 84%
   Ratio: 1.09
   TA: '10'
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Complete the adventure Gaul by defeating the boss
   GS: '40'
   Guide: false
-  Number of Gamers: 72
-  Percentage of Gamers: 29%
-  Ratio: 1.85
-  TA: '74'
+  Number of Gamers: 80
+  Percentage of Gamers: 31%
+  Ratio: 1.8
+  TA: '72'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Complete the adventure Carnute Forest by defeating the boss
   GS: '40'
   Guide: false
-  Number of Gamers: 46
+  Number of Gamers: 51
   Percentage of Gamers: 19%
-  Ratio: 2.32
-  TA: '92'
+  Ratio: 2.26
+  TA: '90'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Complete the adventure Egypt by defeating the boss
   GS: '40'
   Guide: false
-  Number of Gamers: 37
-  Percentage of Gamers: 15%
-  Ratio: 2.58
-  TA: '103'
+  Number of Gamers: 43
+  Percentage of Gamers: 16%
+  Ratio: 2.46
+  TA: '98'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Complete the adventure Britain by defeating the boss
   GS: '40'
   Guide: false
-  Number of Gamers: 33
-  Percentage of Gamers: 13%
-  Ratio: 2.74
-  TA: '109'
+  Number of Gamers: 40
+  Percentage of Gamers: 15%
+  Ratio: 2.55
+  TA: '102'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: Complete the adventure Land of the Norse by defeating the boss
   GS: '100'
   Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 12%
-  Ratio: 2.82
-  TA: '282'
+  Number of Gamers: 37
+  Percentage of Gamers: 14%
+  Ratio: 2.66
+  TA: '266'
   Tags:
   - Offline Mode
   - Single Player
@@ -80,10 +80,10 @@ Base Game Achievements:
   Description: Complete the adventure Rome by defeating the boss
   GS: '100'
   Guide: false
-  Number of Gamers: 28
-  Percentage of Gamers: 11%
-  Ratio: 2.97
-  TA: '297'
+  Number of Gamers: 33
+  Percentage of Gamers: 13%
+  Ratio: 2.81
+  TA: '281'
   Tags:
   - Offline Mode
   - Single Player
@@ -93,7 +93,7 @@ Base Game Achievements:
   Description: Win first battle
   GS: '10'
   Guide: false
-  Number of Gamers: 248
+  Number of Gamers: 262
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '10'
@@ -105,9 +105,9 @@ Base Game Achievements:
   Description: Fix an obstacle for the first time
   GS: '10'
   Guide: false
-  Number of Gamers: 168
-  Percentage of Gamers: 68%
-  Ratio: 1.21
+  Number of Gamers: 176
+  Percentage of Gamers: 67%
+  Ratio: 1.22
   TA: '12'
   Tags:
   - Offline Game Mode
@@ -117,7 +117,7 @@ Base Game Achievements:
     the first time
   GS: '10'
   Guide: false
-  Number of Gamers: 228
+  Number of Gamers: 240
   Percentage of Gamers: 92%
   Ratio: 1.04
   TA: '10'
@@ -128,10 +128,10 @@ Base Game Achievements:
   Description: Unlock a blocked path
   GS: '10'
   Guide: false
-  Number of Gamers: 83
-  Percentage of Gamers: 33%
-  Ratio: 1.72
-  TA: '17'
+  Number of Gamers: 91
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '16'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -139,10 +139,10 @@ Base Game Achievements:
   Description: Unlock Cleopatra
   GS: '100'
   Guide: false
-  Number of Gamers: 37
-  Percentage of Gamers: 15%
-  Ratio: 2.58
-  TA: '258'
+  Number of Gamers: 43
+  Percentage of Gamers: 16%
+  Ratio: 2.46
+  TA: '246'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -150,7 +150,7 @@ Base Game Achievements:
   Description: Unlock Vitalstatistix
   GS: '10'
   Guide: false
-  Number of Gamers: 179
+  Number of Gamers: 189
   Percentage of Gamers: 72%
   Ratio: 1.17
   TA: '11'
@@ -161,10 +161,10 @@ Base Game Achievements:
   Description: Unlock Getafix
   GS: '40'
   Guide: false
-  Number of Gamers: 67
-  Percentage of Gamers: 27%
-  Ratio: 1.92
-  TA: '76'
+  Number of Gamers: 75
+  Percentage of Gamers: 29%
+  Ratio: 1.86
+  TA: '74'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -172,10 +172,10 @@ Base Game Achievements:
   Description: Unlock Latraviata
   GS: '100'
   Guide: false
-  Number of Gamers: 28
-  Percentage of Gamers: 11%
-  Ratio: 2.97
-  TA: '297'
+  Number of Gamers: 33
+  Percentage of Gamers: 13%
+  Ratio: 2.81
+  TA: '281'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -183,9 +183,9 @@ Base Game Achievements:
   Description: Unlock Cacofonix
   GS: '10'
   Guide: false
-  Number of Gamers: 82
-  Percentage of Gamers: 33%
-  Ratio: 1.73
+  Number of Gamers: 90
+  Percentage of Gamers: 34%
+  Ratio: 1.7
   TA: '17'
   Tags:
   - Offline Game Mode
@@ -194,10 +194,10 @@ Base Game Achievements:
   Description: Unlock Edifis
   GS: '40'
   Guide: false
-  Number of Gamers: 43
-  Percentage of Gamers: 17%
-  Ratio: 2.4
-  TA: '96'
+  Number of Gamers: 48
+  Percentage of Gamers: 18%
+  Ratio: 2.33
+  TA: '93'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -205,9 +205,9 @@ Base Game Achievements:
   Description: Unlock Fulliautomatix
   GS: '10'
   Guide: false
-  Number of Gamers: 113
-  Percentage of Gamers: 46%
-  Ratio: 1.48
+  Number of Gamers: 122
+  Percentage of Gamers: 47%
+  Ratio: 1.46
   TA: '14'
   Tags:
   - Offline Game Mode
@@ -216,10 +216,10 @@ Base Game Achievements:
   Description: Unlock Unhygienix
   GS: '40'
   Guide: false
-  Number of Gamers: 80
-  Percentage of Gamers: 32%
-  Ratio: 1.76
-  TA: '70'
+  Number of Gamers: 87
+  Percentage of Gamers: 33%
+  Ratio: 1.73
+  TA: '69'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -227,10 +227,10 @@ Base Game Achievements:
   Description: Win 50 battles
   GS: '40'
   Guide: false
-  Number of Gamers: 106
-  Percentage of Gamers: 43%
-  Ratio: 1.52
-  TA: '61'
+  Number of Gamers: 115
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '60'
   Tags:
   - Offline Mode
   - Single Player
@@ -239,10 +239,10 @@ Base Game Achievements:
   Description: Win 250 battles
   GS: '100'
   Guide: false
-  Number of Gamers: 46
+  Number of Gamers: 50
   Percentage of Gamers: 19%
-  Ratio: 2.32
-  TA: '232'
+  Ratio: 2.28
+  TA: '228'
   Tags:
   - Offline Mode
   - Single Player
@@ -251,34 +251,34 @@ Base Game Achievements:
   Description: Use 100 campfire
   GS: '100'
   Guide: false
-  Number of Gamers: 44
-  Percentage of Gamers: 18%
-  Ratio: 2.37
-  TA: '237'
+  Number of Gamers: 49
+  Percentage of Gamers: 19%
+  Ratio: 2.31
+  TA: '231'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 2.385
-Base TA: 2385
+Base Ratio: 2.291
+Base TA: 2291
 Delisted: false
 Developer: Jumpgate
 Game Name: 'Asterix & Obelix: Heroes'
 Genres: Collectable Card Game
 Install Size: 1820.0
-Number of Completions: 27
-Number of Gamers: 248
+Number of Completions: 32
+Number of Gamers: 262
 Overall Completion Time:
-- 46
-- 47
+- 25.0
+- 30.0
 Overall GS: 1000
-Overall Ratio: 2.385
-Overall TA: 2385
+Overall Ratio: 2.291
+Overall TA: 2291
 PDU: 0
-Percentage Completed: 10.89
+Percentage Completed: 12.21
 Publisher: Nacon
 Release Date: 05 October 2023
 Server Closure: false
-Site Rating: 3.17
+Site Rating: 2.97
 Update Achievements: []
 Walkthrough: false

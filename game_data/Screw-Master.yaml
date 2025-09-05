@@ -1,170 +1,184 @@
 Add On Achievements: []
 Base Completion Time:
+- 1.0
 - 2.0
-- 3.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: No Time 15
   Description: Time ran out 15 times. Are you even trying?
   GS: '160'
   Guide: false
-  Number of Gamers: 93
-  Percentage of Gamers: 44%
-  Ratio: 1.5
-  TA: '240'
+  Number of Gamers: 257
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '215'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Cumulative +
 - Achievement Name: No Time 14
   Description: Time ran out 14 times. Speed is not your thing.
   GS: '10'
   Guide: false
-  Number of Gamers: 95
-  Percentage of Gamers: 45%
-  Ratio: 1.48
-  TA: '14'
+  Number of Gamers: 260
+  Percentage of Gamers: 56%
+  Ratio: 1.34
+  TA: '13'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Cumulative +
 - Achievement Name: No Time 13
   Description: Time ran out 13 times. Unlucky, huh?
   GS: '10'
   Guide: false
-  Number of Gamers: 98
-  Percentage of Gamers: 47%
-  Ratio: 1.46
-  TA: '14'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: No Time 12
-  Description: Time ran out 12 times. You call that effort?
-  GS: '10'
-  Guide: false
-  Number of Gamers: 99
-  Percentage of Gamers: 47%
-  Ratio: 1.45
-  TA: '14'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: No Time 11
-  Description: Time ran out 11 times. Almost there?
-  GS: '10'
-  Guide: false
-  Number of Gamers: 102
-  Percentage of Gamers: 49%
-  Ratio: 1.43
-  TA: '14'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: No Time 10
-  Description: Time ran out 10 times. A solid fail streak.
-  GS: '10'
-  Guide: false
-  Number of Gamers: 106
-  Percentage of Gamers: 50%
-  Ratio: 1.4
-  TA: '14'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: No Time 9
-  Description: Time ran out 9 times. Nearly double digits!
-  GS: '10'
-  Guide: false
-  Number of Gamers: 107
-  Percentage of Gamers: 51%
-  Ratio: 1.4
-  TA: '14'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: No Time 8
-  Description: Time ran out 8 times. Impressive dedication.
-  GS: '10'
-  Guide: false
-  Number of Gamers: 108
-  Percentage of Gamers: 51%
-  Ratio: 1.39
-  TA: '13'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: No Time 7
-  Description: Time ran out 7 times. Lucky number?
-  GS: '10'
-  Guide: false
-  Number of Gamers: 109
-  Percentage of Gamers: 52%
-  Ratio: 1.38
-  TA: '13'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: No Time 6
-  Description: Time ran out 6 times. Still learning?
-  GS: '10'
-  Guide: false
-  Number of Gamers: 114
-  Percentage of Gamers: 54%
-  Ratio: 1.35
-  TA: '13'
-  Tags:
-  - Offline Game Mode
-  - Single Player
-- Achievement Name: No Time 5
-  Description: Time ran out 5 times. Halfway to disaster.
-  GS: '10'
-  Guide: false
-  Number of Gamers: 118
+  Number of Gamers: 262
   Percentage of Gamers: 56%
   Ratio: 1.33
   TA: '13'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
-- Achievement Name: No Time 4
-  Description: "Time ran out 4 times. You\u2019re getting good at this."
+  - Cumulative +
+- Achievement Name: No Time 12
+  Description: Time ran out 12 times. You call that effort?
   GS: '10'
   Guide: false
-  Number of Gamers: 125
+  Number of Gamers: 265
+  Percentage of Gamers: 57%
+  Ratio: 1.32
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: No Time 11
+  Description: Time ran out 11 times. Almost there?
+  GS: '10'
+  Guide: false
+  Number of Gamers: 269
+  Percentage of Gamers: 57%
+  Ratio: 1.31
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: No Time 10
+  Description: Time ran out 10 times. A solid fail streak.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 270
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: No Time 9
+  Description: Time ran out 9 times. Nearly double digits!
+  GS: '10'
+  Guide: false
+  Number of Gamers: 275
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: No Time 8
+  Description: Time ran out 8 times. Impressive dedication.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 279
   Percentage of Gamers: 60%
   Ratio: 1.29
   TA: '12'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Cumulative +
+- Achievement Name: No Time 7
+  Description: Time ran out 7 times. Lucky number?
+  GS: '10'
+  Guide: false
+  Number of Gamers: 282
+  Percentage of Gamers: 60%
+  Ratio: 1.28
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: No Time 6
+  Description: Time ran out 6 times. Still learning?
+  GS: '10'
+  Guide: false
+  Number of Gamers: 290
+  Percentage of Gamers: 62%
+  Ratio: 1.26
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: No Time 5
+  Description: Time ran out 5 times. Halfway to disaster.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 298
+  Percentage of Gamers: 64%
+  Ratio: 1.25
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: No Time 4
+  Description: "Time ran out 4 times. You\u2019re getting good at this."
+  GS: '10'
+  Guide: false
+  Number of Gamers: 310
+  Percentage of Gamers: 66%
+  Ratio: 1.22
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: No Time 3
   Description: Time ran out 3 times. Uh-oh.
   GS: '10'
   Guide: false
-  Number of Gamers: 132
-  Percentage of Gamers: 63%
-  Ratio: 1.26
+  Number of Gamers: 321
+  Percentage of Gamers: 69%
+  Ratio: 1.2
   TA: '12'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Cumulative +
 - Achievement Name: No Time 2
   Description: Time ran out twice. Oopsie.
   GS: '10'
   Guide: false
-  Number of Gamers: 138
-  Percentage of Gamers: 66%
-  Ratio: 1.23
-  TA: '12'
+  Number of Gamers: 338
+  Percentage of Gamers: 72%
+  Ratio: 1.17
+  TA: '11'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Cumulative +
 - Achievement Name: No Time
   Description: Time ran out once. Classic.
   GS: '10'
   Guide: false
-  Number of Gamers: 159
-  Percentage of Gamers: 76%
-  Ratio: 1.14
+  Number of Gamers: 378
+  Percentage of Gamers: 81%
+  Ratio: 1.11
   TA: '11'
   Tags:
   - Offline Game Mode
@@ -173,139 +187,151 @@ Base Game Achievements:
   Description: Complete a level in under 60 seconds. Just barely fast.
   GS: '10'
   Guide: true
-  Number of Gamers: 191
-  Percentage of Gamers: 91%
-  Ratio: 1.04
+  Number of Gamers: 420
+  Percentage of Gamers: 90%
+  Ratio: 1.05
   TA: '10'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Time/Date
 - Achievement Name: 55 Seconds
   Description: Complete a level in under 55 seconds. Not bad.
   GS: '15'
   Guide: true
-  Number of Gamers: 189
-  Percentage of Gamers: 90%
+  Number of Gamers: 417
+  Percentage of Gamers: 89%
   Ratio: 1.05
   TA: '15'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Time/Date
 - Achievement Name: 50 Seconds
   Description: Complete a level in under 50 seconds.
   GS: '10'
   Guide: true
-  Number of Gamers: 184
+  Number of Gamers: 413
   Percentage of Gamers: 88%
   Ratio: 1.06
   TA: '10'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Time/Date
 - Achievement Name: 45 Seconds
   Description: Complete a level in under 45 seconds.
   GS: '15'
   Guide: true
-  Number of Gamers: 181
+  Number of Gamers: 403
   Percentage of Gamers: 86%
   Ratio: 1.07
   TA: '16'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Time/Date
 - Achievement Name: 40 Seconds
   Description: Complete a level in under 40 seconds.
   GS: '10'
   Guide: true
-  Number of Gamers: 179
-  Percentage of Gamers: 85%
-  Ratio: 1.08
+  Number of Gamers: 402
+  Percentage of Gamers: 86%
+  Ratio: 1.07
   TA: '10'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Time/Date
 - Achievement Name: 35 Seconds
   Description: Complete a level in under 35 seconds.
   GS: '15'
   Guide: true
-  Number of Gamers: 174
-  Percentage of Gamers: 83%
+  Number of Gamers: 392
+  Percentage of Gamers: 84%
   Ratio: 1.09
   TA: '16'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Time/Date
 - Achievement Name: 30 Seconds
   Description: Complete a level in under 30 seconds.
   GS: '10'
   Guide: true
-  Number of Gamers: 168
-  Percentage of Gamers: 80%
-  Ratio: 1.11
+  Number of Gamers: 382
+  Percentage of Gamers: 82%
+  Ratio: 1.1
   TA: '11'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Time/Date
 - Achievement Name: 25 Seconds
   Description: Complete a level in under 25 seconds.
   GS: '10'
   Guide: true
-  Number of Gamers: 161
-  Percentage of Gamers: 77%
-  Ratio: 1.14
+  Number of Gamers: 376
+  Percentage of Gamers: 80%
+  Ratio: 1.11
   TA: '11'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Time/Date
 - Achievement Name: 20 Seconds
   Description: Complete a level in under 20 seconds.
   GS: '30'
   Guide: true
-  Number of Gamers: 155
-  Percentage of Gamers: 74%
-  Ratio: 1.16
-  TA: '34'
+  Number of Gamers: 366
+  Percentage of Gamers: 78%
+  Ratio: 1.12
+  TA: '33'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Time/Date
 - Achievement Name: 15 Seconds
   Description: Complete a level in under 15 seconds.
   GS: '15'
   Guide: true
-  Number of Gamers: 146
-  Percentage of Gamers: 70%
-  Ratio: 1.19
+  Number of Gamers: 350
+  Percentage of Gamers: 75%
+  Ratio: 1.15
   TA: '17'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Time/Date
 - Achievement Name: 10 Seconds
   Description: Complete a level in under 10 seconds.
   GS: '30'
   Guide: true
-  Number of Gamers: 136
-  Percentage of Gamers: 65%
-  Ratio: 1.24
-  TA: '37'
+  Number of Gamers: 329
+  Percentage of Gamers: 70%
+  Ratio: 1.19
+  TA: '35'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Time/Date
 - Achievement Name: 5 Seconds
   Description: Complete a level in under 5 seconds.
   GS: '30'
   Guide: true
-  Number of Gamers: 129
-  Percentage of Gamers: 61%
-  Ratio: 1.27
-  TA: '38'
+  Number of Gamers: 311
+  Percentage of Gamers: 66%
+  Ratio: 1.22
+  TA: '36'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Time/Date
 - Achievement Name: Level 1
   Description: Complete Level 1. Yes, even that counts.
   GS: '10'
   Guide: false
-  Number of Gamers: 210
+  Number of Gamers: 467
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '10'
@@ -317,9 +343,9 @@ Base Game Achievements:
   Description: Complete Level 2. Already sweating?
   GS: '10'
   Guide: false
-  Number of Gamers: 201
-  Percentage of Gamers: 96%
-  Ratio: 1.02
+  Number of Gamers: 456
+  Percentage of Gamers: 97%
+  Ratio: 1.01
   TA: '10'
   Tags:
   - Offline Mode
@@ -329,9 +355,9 @@ Base Game Achievements:
   Description: "Complete Level 3. You\u2019re doing something right?"
   GS: '10'
   Guide: false
-  Number of Gamers: 197
-  Percentage of Gamers: 94%
-  Ratio: 1.03
+  Number of Gamers: 448
+  Percentage of Gamers: 96%
+  Ratio: 1.02
   TA: '10'
   Tags:
   - Offline Mode
@@ -341,9 +367,9 @@ Base Game Achievements:
   Description: Complete Level 4. Still going?
   GS: '10'
   Guide: false
-  Number of Gamers: 190
-  Percentage of Gamers: 90%
-  Ratio: 1.05
+  Number of Gamers: 432
+  Percentage of Gamers: 92%
+  Ratio: 1.03
   TA: '10'
   Tags:
   - Offline Mode
@@ -353,9 +379,9 @@ Base Game Achievements:
   Description: Complete Level 5. Starting to feel hard?
   GS: '10'
   Guide: false
-  Number of Gamers: 176
-  Percentage of Gamers: 84%
-  Ratio: 1.09
+  Number of Gamers: 413
+  Percentage of Gamers: 88%
+  Ratio: 1.06
   TA: '10'
   Tags:
   - Offline Mode
@@ -365,10 +391,10 @@ Base Game Achievements:
   Description: "Complete Level 6. You\u2019re getting confident."
   GS: '10'
   Guide: false
-  Number of Gamers: 171
-  Percentage of Gamers: 81%
-  Ratio: 1.1
-  TA: '11'
+  Number of Gamers: 403
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '10'
   Tags:
   - Offline Mode
   - Single Player
@@ -377,10 +403,10 @@ Base Game Achievements:
   Description: Complete Level 7. Still clicking.
   GS: '10'
   Guide: false
-  Number of Gamers: 168
-  Percentage of Gamers: 80%
-  Ratio: 1.11
-  TA: '11'
+  Number of Gamers: 402
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '10'
   Tags:
   - Offline Mode
   - Single Player
@@ -389,9 +415,9 @@ Base Game Achievements:
   Description: Complete Level 8. Nearly at 10!
   GS: '10'
   Guide: false
-  Number of Gamers: 152
-  Percentage of Gamers: 72%
-  Ratio: 1.17
+  Number of Gamers: 372
+  Percentage of Gamers: 79%
+  Ratio: 1.12
   TA: '11'
   Tags:
   - Offline Mode
@@ -401,10 +427,10 @@ Base Game Achievements:
   Description: Complete Level 9. Almost there.
   GS: '10'
   Guide: false
-  Number of Gamers: 141
-  Percentage of Gamers: 67%
-  Ratio: 1.22
-  TA: '12'
+  Number of Gamers: 358
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '11'
   Tags:
   - Offline Mode
   - Single Player
@@ -413,10 +439,10 @@ Base Game Achievements:
   Description: Complete Level 10. Wow, double digits!
   GS: '15'
   Guide: false
-  Number of Gamers: 137
-  Percentage of Gamers: 65%
-  Ratio: 1.23
-  TA: '18'
+  Number of Gamers: 352
+  Percentage of Gamers: 75%
+  Ratio: 1.15
+  TA: '17'
   Tags:
   - Offline Mode
   - Single Player
@@ -425,10 +451,10 @@ Base Game Achievements:
   Description: Complete Level 11. New territory ahead.
   GS: '10'
   Guide: false
-  Number of Gamers: 133
-  Percentage of Gamers: 63%
-  Ratio: 1.25
-  TA: '12'
+  Number of Gamers: 344
+  Percentage of Gamers: 74%
+  Ratio: 1.16
+  TA: '11'
   Tags:
   - Offline Mode
   - Single Player
@@ -437,10 +463,10 @@ Base Game Achievements:
   Description: Complete Level 12. Still alive?
   GS: '10'
   Guide: false
-  Number of Gamers: 129
-  Percentage of Gamers: 61%
-  Ratio: 1.27
-  TA: '12'
+  Number of Gamers: 340
+  Percentage of Gamers: 73%
+  Ratio: 1.17
+  TA: '11'
   Tags:
   - Offline Mode
   - Single Player
@@ -449,10 +475,10 @@ Base Game Achievements:
   Description: Complete Level 13. Lucky or cursed?
   GS: '15'
   Guide: false
-  Number of Gamers: 119
-  Percentage of Gamers: 57%
-  Ratio: 1.32
-  TA: '19'
+  Number of Gamers: 316
+  Percentage of Gamers: 68%
+  Ratio: 1.21
+  TA: '18'
   Tags:
   - Offline Mode
   - Single Player
@@ -461,10 +487,10 @@ Base Game Achievements:
   Description: Complete Level 14. Momentum rising.
   GS: '10'
   Guide: false
-  Number of Gamers: 120
-  Percentage of Gamers: 57%
-  Ratio: 1.32
-  TA: '13'
+  Number of Gamers: 315
+  Percentage of Gamers: 67%
+  Ratio: 1.21
+  TA: '12'
   Tags:
   - Offline Mode
   - Single Player
@@ -473,10 +499,10 @@ Base Game Achievements:
   Description: Complete Level 15. Halfway there?
   GS: '10'
   Guide: false
-  Number of Gamers: 119
-  Percentage of Gamers: 57%
-  Ratio: 1.32
-  TA: '13'
+  Number of Gamers: 309
+  Percentage of Gamers: 66%
+  Ratio: 1.22
+  TA: '12'
   Tags:
   - Offline Mode
   - Single Player
@@ -485,10 +511,10 @@ Base Game Achievements:
   Description: Complete Level 16. Still holding on.
   GS: '10'
   Guide: false
-  Number of Gamers: 117
-  Percentage of Gamers: 56%
-  Ratio: 1.33
-  TA: '13'
+  Number of Gamers: 307
+  Percentage of Gamers: 66%
+  Ratio: 1.23
+  TA: '12'
   Tags:
   - Offline Mode
   - Single Player
@@ -497,10 +523,10 @@ Base Game Achievements:
   Description: Complete Level 17. Button masher alert.
   GS: '10'
   Guide: false
-  Number of Gamers: 115
-  Percentage of Gamers: 55%
-  Ratio: 1.35
-  TA: '13'
+  Number of Gamers: 302
+  Percentage of Gamers: 65%
+  Ratio: 1.24
+  TA: '12'
   Tags:
   - Offline Mode
   - Single Player
@@ -509,10 +535,10 @@ Base Game Achievements:
   Description: Complete Level 18. You're deep now.
   GS: '10'
   Guide: false
-  Number of Gamers: 113
-  Percentage of Gamers: 54%
-  Ratio: 1.36
-  TA: '13'
+  Number of Gamers: 301
+  Percentage of Gamers: 64%
+  Ratio: 1.24
+  TA: '12'
   Tags:
   - Offline Mode
   - Single Player
@@ -521,10 +547,10 @@ Base Game Achievements:
   Description: Complete Level 19. Just one more...
   GS: '10'
   Guide: false
-  Number of Gamers: 109
-  Percentage of Gamers: 52%
-  Ratio: 1.38
-  TA: '13'
+  Number of Gamers: 294
+  Percentage of Gamers: 63%
+  Ratio: 1.26
+  TA: '12'
   Tags:
   - Offline Mode
   - Single Player
@@ -533,10 +559,10 @@ Base Game Achievements:
   Description: Complete Level 20. Two digits behind you.
   GS: '15'
   Guide: false
-  Number of Gamers: 107
-  Percentage of Gamers: 51%
-  Ratio: 1.4
-  TA: '21'
+  Number of Gamers: 287
+  Percentage of Gamers: 61%
+  Ratio: 1.27
+  TA: '19'
   Tags:
   - Offline Mode
   - Single Player
@@ -545,10 +571,10 @@ Base Game Achievements:
   Description: Complete Level 21. The grind is real.
   GS: '10'
   Guide: false
-  Number of Gamers: 106
-  Percentage of Gamers: 50%
-  Ratio: 1.4
-  TA: '14'
+  Number of Gamers: 287
+  Percentage of Gamers: 61%
+  Ratio: 1.27
+  TA: '12'
   Tags:
   - Offline Mode
   - Single Player
@@ -557,10 +583,10 @@ Base Game Achievements:
   Description: Complete Level 22. Deep waters now.
   GS: '10'
   Guide: false
-  Number of Gamers: 105
-  Percentage of Gamers: 50%
-  Ratio: 1.41
-  TA: '14'
+  Number of Gamers: 283
+  Percentage of Gamers: 60%
+  Ratio: 1.28
+  TA: '12'
   Tags:
   - Offline Mode
   - Single Player
@@ -569,10 +595,10 @@ Base Game Achievements:
   Description: Complete Level 23. Still no rage quit?
   GS: '10'
   Guide: false
-  Number of Gamers: 105
-  Percentage of Gamers: 50%
-  Ratio: 1.41
-  TA: '14'
+  Number of Gamers: 282
+  Percentage of Gamers: 60%
+  Ratio: 1.28
+  TA: '12'
   Tags:
   - Offline Mode
   - Single Player
@@ -581,10 +607,10 @@ Base Game Achievements:
   Description: Complete Level 24. You got rhythm now.
   GS: '10'
   Guide: false
-  Number of Gamers: 105
-  Percentage of Gamers: 50%
-  Ratio: 1.41
-  TA: '14'
+  Number of Gamers: 280
+  Percentage of Gamers: 60%
+  Ratio: 1.29
+  TA: '12'
   Tags:
   - Offline Mode
   - Single Player
@@ -593,10 +619,10 @@ Base Game Achievements:
   Description: Complete Level 25. A nice round number.
   GS: '15'
   Guide: false
-  Number of Gamers: 103
-  Percentage of Gamers: 49%
-  Ratio: 1.42
-  TA: '21'
+  Number of Gamers: 276
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '19'
   Tags:
   - Offline Mode
   - Single Player
@@ -605,10 +631,10 @@ Base Game Achievements:
   Description: Complete Level 26. Pushing forward.
   GS: '10'
   Guide: false
-  Number of Gamers: 101
-  Percentage of Gamers: 48%
-  Ratio: 1.44
-  TA: '14'
+  Number of Gamers: 271
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '13'
   Tags:
   - Offline Mode
   - Single Player
@@ -617,10 +643,10 @@ Base Game Achievements:
   Description: Complete Level 27. Are you okay?
   GS: '10'
   Guide: false
-  Number of Gamers: 100
-  Percentage of Gamers: 48%
-  Ratio: 1.44
-  TA: '14'
+  Number of Gamers: 270
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '13'
   Tags:
   - Offline Mode
   - Single Player
@@ -629,10 +655,10 @@ Base Game Achievements:
   Description: Complete Level 28. It never ends.
   GS: '10'
   Guide: false
-  Number of Gamers: 101
-  Percentage of Gamers: 48%
-  Ratio: 1.44
-  TA: '14'
+  Number of Gamers: 270
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '13'
   Tags:
   - Offline Mode
   - Single Player
@@ -641,10 +667,10 @@ Base Game Achievements:
   Description: Complete Level 29. Almost 30!
   GS: '10'
   Guide: false
-  Number of Gamers: 101
-  Percentage of Gamers: 48%
-  Ratio: 1.44
-  TA: '14'
+  Number of Gamers: 270
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '13'
   Tags:
   - Offline Mode
   - Single Player
@@ -653,10 +679,10 @@ Base Game Achievements:
   Description: Complete Level 30. True gamer detected.
   GS: '15'
   Guide: false
-  Number of Gamers: 99
-  Percentage of Gamers: 47%
-  Ratio: 1.45
-  TA: '21'
+  Number of Gamers: 268
+  Percentage of Gamers: 57%
+  Ratio: 1.32
+  TA: '19'
   Tags:
   - Offline Mode
   - Single Player
@@ -665,10 +691,10 @@ Base Game Achievements:
   Description: Complete Level 31. This is ridiculous.
   GS: '10'
   Guide: false
-  Number of Gamers: 99
-  Percentage of Gamers: 47%
-  Ratio: 1.45
-  TA: '14'
+  Number of Gamers: 268
+  Percentage of Gamers: 57%
+  Ratio: 1.32
+  TA: '13'
   Tags:
   - Offline Mode
   - Single Player
@@ -677,10 +703,10 @@ Base Game Achievements:
   Description: Complete Level 32. Why though?
   GS: '10'
   Guide: true
-  Number of Gamers: 69
-  Percentage of Gamers: 33%
-  Ratio: 1.74
-  TA: '17'
+  Number of Gamers: 219
+  Percentage of Gamers: 47%
+  Ratio: 1.46
+  TA: '14'
   Tags:
   - Offline Mode
   - Single Player
@@ -689,10 +715,10 @@ Base Game Achievements:
   Description: Complete Level 33. Still not done.
   GS: '10'
   Guide: false
-  Number of Gamers: 70
-  Percentage of Gamers: 33%
-  Ratio: 1.73
-  TA: '17'
+  Number of Gamers: 218
+  Percentage of Gamers: 47%
+  Ratio: 1.46
+  TA: '14'
   Tags:
   - Offline Mode
   - Single Player
@@ -701,10 +727,10 @@ Base Game Achievements:
   Description: Complete Level 34. Just one more.
   GS: '10'
   Guide: false
-  Number of Gamers: 70
-  Percentage of Gamers: 33%
-  Ratio: 1.73
-  TA: '17'
+  Number of Gamers: 218
+  Percentage of Gamers: 47%
+  Ratio: 1.46
+  TA: '14'
   Tags:
   - Offline Mode
   - Single Player
@@ -713,10 +739,10 @@ Base Game Achievements:
   Description: Complete Level 35. Pushing boundaries.
   GS: '10'
   Guide: false
-  Number of Gamers: 70
-  Percentage of Gamers: 33%
-  Ratio: 1.73
-  TA: '17'
+  Number of Gamers: 217
+  Percentage of Gamers: 46%
+  Ratio: 1.46
+  TA: '14'
   Tags:
   - Offline Mode
   - Single Player
@@ -725,10 +751,10 @@ Base Game Achievements:
   Description: Complete Level 36. Veteran status soon.
   GS: '15'
   Guide: false
-  Number of Gamers: 70
-  Percentage of Gamers: 33%
-  Ratio: 1.73
-  TA: '25'
+  Number of Gamers: 216
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '22'
   Tags:
   - Offline Mode
   - Single Player
@@ -737,10 +763,10 @@ Base Game Achievements:
   Description: "Complete Level 37. That\u2019s dedication."
   GS: '10'
   Guide: false
-  Number of Gamers: 70
-  Percentage of Gamers: 33%
-  Ratio: 1.73
-  TA: '17'
+  Number of Gamers: 216
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '14'
   Tags:
   - Offline Mode
   - Single Player
@@ -749,10 +775,10 @@ Base Game Achievements:
   Description: "Complete Level 38. You\u2019re nearly there."
   GS: '10'
   Guide: false
-  Number of Gamers: 70
-  Percentage of Gamers: 33%
-  Ratio: 1.73
-  TA: '17'
+  Number of Gamers: 216
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '14'
   Tags:
   - Offline Mode
   - Single Player
@@ -761,10 +787,10 @@ Base Game Achievements:
   Description: Complete Level 39. Almost legendary.
   GS: '10'
   Guide: false
-  Number of Gamers: 70
-  Percentage of Gamers: 33%
-  Ratio: 1.73
-  TA: '17'
+  Number of Gamers: 215
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '14'
   Tags:
   - Offline Mode
   - Single Player
@@ -773,10 +799,10 @@ Base Game Achievements:
   Description: Complete Level 40. Big milestone.
   GS: '30'
   Guide: false
-  Number of Gamers: 70
-  Percentage of Gamers: 33%
-  Ratio: 1.73
-  TA: '51'
+  Number of Gamers: 215
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '44'
   Tags:
   - Offline Mode
   - Single Player
@@ -785,10 +811,10 @@ Base Game Achievements:
   Description: Complete Level 41. Are you tired yet?
   GS: '10'
   Guide: false
-  Number of Gamers: 70
-  Percentage of Gamers: 33%
-  Ratio: 1.73
-  TA: '17'
+  Number of Gamers: 215
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '14'
   Tags:
   - Offline Mode
   - Single Player
@@ -797,10 +823,10 @@ Base Game Achievements:
   Description: Complete Level 42. The answer to everything.
   GS: '10'
   Guide: false
-  Number of Gamers: 70
-  Percentage of Gamers: 33%
-  Ratio: 1.73
-  TA: '17'
+  Number of Gamers: 215
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '14'
   Tags:
   - Offline Mode
   - Single Player
@@ -809,34 +835,34 @@ Base Game Achievements:
   Description: Complete Level 43. The final screw.
   GS: '30'
   Guide: true
-  Number of Gamers: 70
-  Percentage of Gamers: 33%
-  Ratio: 1.73
-  TA: '51'
+  Number of Gamers: 215
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '44'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.351
-Base TA: 1351
+Base Ratio: 1.234
+Base TA: 1234
 Delisted: false
 Developer: Webnetic
 Game Name: Screw Master
 Genres: Puzzle
 Install Size: 428.0
-Number of Completions: 62
-Number of Gamers: 210
+Number of Completions: 202
+Number of Gamers: 468
 Overall Completion Time:
+- 1.0
 - 2.0
-- 3.0
 Overall GS: 1000
-Overall Ratio: 1.351
-Overall TA: 1351
+Overall Ratio: 1.234
+Overall TA: 1234
 PDU: 0
-Percentage Completed: 29.52
+Percentage Completed: 43.16
 Publisher: Webnetic
 Release Date: 27 June 2025
 Server Closure: false
-Site Rating: 2.8
+Site Rating: 2.82
 Update Achievements: []
 Walkthrough: false

@@ -1,155 +1,206 @@
 Add On Achievements: []
 Base Completion Time:
-- 78
-- 79
+- 309
+- 310
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: The Rookie
   Description: Achieve Season Character Combat level 20
   GS: '20'
   Guide: false
-  Number of Gamers: 21
-  Percentage of Gamers: 17%
-  Ratio: 2.61
-  TA: '52'
-  Tags: []
+  Number of Gamers: 601
+  Percentage of Gamers: 63%
+  Ratio: 1.26
+  TA: '25'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Level
+  - Time/Date
 - Achievement Name: The Dark Horse
   Description: Achieve Season Character Combat level 40.
   GS: '40'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 11%
-  Ratio: 4.0
-  TA: '160'
-  Tags: []
+  Number of Gamers: 501
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '55'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Level
+  - Time/Date
 - Achievement Name: The Veteran
   Description: Achieve Combat level 56.
   GS: '50'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 7%
-  Ratio: 4.89
-  TA: '244'
-  Tags: []
+  Number of Gamers: 438
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '73'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Level
 - Achievement Name: The Undaunted One
   Description: Achieve Season Character Combat level 60.
   GS: '60'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 3%
-  Ratio: 7.81
-  TA: '468'
-  Tags: []
+  Number of Gamers: 336
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '101'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Level
+  - Time/Date
 - Achievement Name: Con-Graduation!
   Description: Graduate your Season Character
   GS: '100'
-  Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 2%
-  Ratio: 9.74
-  TA: '974'
-  Tags: []
+  Guide: true
+  Number of Gamers: 323
+  Percentage of Gamers: 34%
+  Ratio: 1.71
+  TA: '171'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+  - Level
+  - Time/Date
 - Achievement Name: Didn't Even Break a Sweat
   Description: Successfully enhance your equipment
   GS: '30'
-  Guide: false
-  Number of Gamers: 92
-  Percentage of Gamers: 75%
+  Guide: true
+  Number of Gamers: 789
+  Percentage of Gamers: 83%
   Ratio: 1.1
   TA: '33'
-  Tags: []
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Soldier of Fortune
   Description: Defeat a monster from Dark Rift
   GS: '50'
-  Guide: false
-  Number of Gamers: 56
-  Percentage of Gamers: 46%
-  Ratio: 1.63
-  TA: '81'
-  Tags: []
+  Guide: true
+  Number of Gamers: 464
+  Percentage of Gamers: 49%
+  Ratio: 1.43
+  TA: '71'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Savior of Calpheon
   Description: Defeat Kzarka, the Lord of Corruption
   GS: '50'
-  Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 7%
-  Ratio: 4.0
-  TA: '200'
-  Tags: []
+  Guide: true
+  Number of Gamers: 171
+  Percentage of Gamers: 18%
+  Ratio: 2.36
+  TA: '118'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: A Dragon Slayer
   Description: Defeat Garmoth, the overlord of Drieghan.
   GS: '100'
-  Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 2%
-  Ratio: 7.74
-  TA: '774'
-  Tags: []
+  Guide: true
+  Number of Gamers: 103
+  Percentage of Gamers: 11%
+  Ratio: 3.04
+  TA: '304'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Reel Big Fish
   Description: Reel fish with yellow grade
   GS: '100'
-  Guide: false
-  Number of Gamers: 47
+  Guide: true
+  Number of Gamers: 368
   Percentage of Gamers: 38%
-  Ratio: 1.73
-  TA: '173'
-  Tags: []
+  Ratio: 1.61
+  TA: '161'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Derby Horse Trainer
   Description: Train a wild horse to your companion.
   GS: '100'
-  Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 11%
-  Ratio: 2.44
-  TA: '244'
-  Tags: []
+  Guide: true
+  Number of Gamers: 150
+  Percentage of Gamers: 16%
+  Ratio: 2.52
+  TA: '252'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Witch, Please
   Description: Obtain Witch's Delicacy
   GS: '100'
-  Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 19%
-  Ratio: 2.61
-  TA: '261'
-  Tags: []
+  Guide: true
+  Number of Gamers: 205
+  Percentage of Gamers: 21%
+  Ratio: 2.15
+  TA: '215'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: What's in the Flask?
   Description: Obtain Mysterious Catalyst
   GS: '100'
-  Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 12%
-  Ratio: 3.09
-  TA: '309'
-  Tags: []
+  Guide: true
+  Number of Gamers: 166
+  Percentage of Gamers: 17%
+  Ratio: 2.39
+  TA: '239'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Whispers of the Forest
   Description: Obtain Fairy's Breath
   GS: '100'
-  Guide: false
-  Number of Gamers: 36
-  Percentage of Gamers: 29%
-  Ratio: 1.85
-  TA: '185'
-  Tags: []
-Base Ratio: 4.159
-Base TA: 4159
+  Guide: true
+  Number of Gamers: 472
+  Percentage of Gamers: 49%
+  Ratio: 1.42
+  TA: '142'
+  Tags:
+  - Online Mode
+  - Single Player
+  - Cooperative
+Base Ratio: 1.96
+Base TA: 1960
 Delisted: false
 Developer: PearlAbyss
 Game Name: Black Desert
 Genres: Action-RPG, Role Playing, Open World, MMO
-Install Size: 87200.0
-Number of Completions: 1
-Number of Gamers: 123
+Install Size: 87170.0
+Number of Completions: 37
+Number of Gamers: 956
 Overall Completion Time:
-- 78
-- 79
+- 309
+- 310
 Overall GS: 1000
-Overall Ratio: 4.159
-Overall TA: 4159
+Overall Ratio: 1.96
+Overall TA: 1960
 PDU: 0
-Percentage Completed: 0.81
+Percentage Completed: 3.87
 Publisher: PearlAbyss
 Release Date: 26 June 2025
 Server Closure: false
-Site Rating: None
+Site Rating: 4.5
 Update Achievements: []
 Walkthrough: false

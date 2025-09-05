@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
+- 8
 - 9
-- 10
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Headache
   Description: You hit a wall.
   GS: '30'
   Guide: false
-  Number of Gamers: 341
+  Number of Gamers: 363
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '30'
@@ -19,8 +19,8 @@ Base Game Achievements:
   Description: If only you knew how to swim.
   GS: '30'
   Guide: false
-  Number of Gamers: 326
-  Percentage of Gamers: 94%
+  Number of Gamers: 347
+  Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '30'
   Tags:
@@ -30,9 +30,9 @@ Base Game Achievements:
   Description: You crushed your enemy.
   GS: '30'
   Guide: false
-  Number of Gamers: 156
-  Percentage of Gamers: 45%
-  Ratio: 1.48
+  Number of Gamers: 169
+  Percentage of Gamers: 46%
+  Ratio: 1.46
   TA: '44'
   Tags:
   - Offline Game Mode
@@ -41,7 +41,7 @@ Base Game Achievements:
   Description: You deflected a bullet!
   GS: '30'
   Guide: false
-  Number of Gamers: 311
+  Number of Gamers: 330
   Percentage of Gamers: 90%
   Ratio: 1.05
   TA: '31'
@@ -52,8 +52,8 @@ Base Game Achievements:
   Description: You escaped the maze.
   GS: '30'
   Guide: false
-  Number of Gamers: 290
-  Percentage of Gamers: 84%
+  Number of Gamers: 309
+  Percentage of Gamers: 85%
   Ratio: 1.08
   TA: '32'
   Tags:
@@ -63,7 +63,7 @@ Base Game Achievements:
   Description: You found the sword you lost during the crash.
   GS: '30'
   Guide: false
-  Number of Gamers: 339
+  Number of Gamers: 359
   Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '30'
@@ -75,8 +75,8 @@ Base Game Achievements:
   Description: You found the pickaxe you lost during the crash.
   GS: '30'
   Guide: false
-  Number of Gamers: 326
-  Percentage of Gamers: 94%
+  Number of Gamers: 346
+  Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '30'
   Tags:
@@ -87,8 +87,8 @@ Base Game Achievements:
   Description: You found the grappling hook you lost during the crash.
   GS: '30'
   Guide: false
-  Number of Gamers: 288
-  Percentage of Gamers: 83%
+  Number of Gamers: 305
+  Percentage of Gamers: 84%
   Ratio: 1.09
   TA: '32'
   Tags:
@@ -99,8 +99,8 @@ Base Game Achievements:
   Description: You beat this chapter in Normal mode.
   GS: '40'
   Guide: false
-  Number of Gamers: 236
-  Percentage of Gamers: 68%
+  Number of Gamers: 252
+  Percentage of Gamers: 69%
   Ratio: 1.2
   TA: '48'
   Tags:
@@ -113,10 +113,10 @@ Base Game Achievements:
   Description: You beat this chapter in Unfair mode.
   GS: '40'
   Guide: true
-  Number of Gamers: 13
-  Percentage of Gamers: 4%
-  Ratio: 5.12
-  TA: '205'
+  Number of Gamers: 18
+  Percentage of Gamers: 5%
+  Ratio: 4.5
+  TA: '180'
   Tags:
   - Offline Mode
   - Single Player
@@ -127,10 +127,10 @@ Base Game Achievements:
   Description: You beat this chapter in Speedrun mode.
   GS: '40'
   Guide: false
-  Number of Gamers: 67
-  Percentage of Gamers: 19%
-  Ratio: 2.29
-  TA: '91'
+  Number of Gamers: 73
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '89'
   Tags:
   - Offline Mode
   - Single Player
@@ -140,8 +140,8 @@ Base Game Achievements:
   Description: You found the 1st dungeon's key.
   GS: '30'
   Guide: false
-  Number of Gamers: 329
-  Percentage of Gamers: 95%
+  Number of Gamers: 349
+  Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '30'
   Tags:
@@ -152,8 +152,8 @@ Base Game Achievements:
   Description: You found the 2nd dungeon's key.
   GS: '30'
   Guide: false
-  Number of Gamers: 290
-  Percentage of Gamers: 84%
+  Number of Gamers: 309
+  Percentage of Gamers: 85%
   Ratio: 1.08
   TA: '32'
   Tags:
@@ -164,8 +164,8 @@ Base Game Achievements:
   Description: You found the 3rd dungeon's key.
   GS: '30'
   Guide: false
-  Number of Gamers: 270
-  Percentage of Gamers: 78%
+  Number of Gamers: 287
+  Percentage of Gamers: 79%
   Ratio: 1.12
   TA: '33'
   Tags:
@@ -176,10 +176,10 @@ Base Game Achievements:
   Description: You maxed out your health.
   GS: '30'
   Guide: false
-  Number of Gamers: 139
-  Percentage of Gamers: 40%
-  Ratio: 1.57
-  TA: '47'
+  Number of Gamers: 153
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '46'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -187,8 +187,8 @@ Base Game Achievements:
   Description: You defeated the 1st boss.
   GS: '30'
   Guide: false
-  Number of Gamers: 318
-  Percentage of Gamers: 92%
+  Number of Gamers: 338
+  Percentage of Gamers: 93%
   Ratio: 1.03
   TA: '31'
   Tags:
@@ -199,7 +199,7 @@ Base Game Achievements:
   Description: You defeated the 2nd boss.
   GS: '30'
   Guide: false
-  Number of Gamers: 280
+  Number of Gamers: 297
   Percentage of Gamers: 81%
   Ratio: 1.1
   TA: '33'
@@ -211,10 +211,10 @@ Base Game Achievements:
   Description: You found the 3rd dungeon's key.
   GS: '30'
   Guide: false
-  Number of Gamers: 253
-  Percentage of Gamers: 73%
+  Number of Gamers: 270
+  Percentage of Gamers: 74%
   Ratio: 1.16
-  TA: '35'
+  TA: '34'
   Tags:
   - Offline Mode
   - Single Player
@@ -223,9 +223,9 @@ Base Game Achievements:
   Description: You saved your dog!
   GS: '30'
   Guide: false
-  Number of Gamers: 260
-  Percentage of Gamers: 75%
-  Ratio: 1.15
+  Number of Gamers: 277
+  Percentage of Gamers: 76%
+  Ratio: 1.14
   TA: '34'
   Tags:
   - Offline Game Mode
@@ -234,9 +234,9 @@ Base Game Achievements:
   Description: You have reached the 10th floor.
   GS: '30'
   Guide: false
-  Number of Gamers: 208
-  Percentage of Gamers: 60%
-  Ratio: 1.28
+  Number of Gamers: 223
+  Percentage of Gamers: 61%
+  Ratio: 1.27
   TA: '38'
   Tags:
   - Offline Mode
@@ -246,10 +246,10 @@ Base Game Achievements:
   Description: You have reached the 20th floor.
   GS: '30'
   Guide: false
-  Number of Gamers: 156
-  Percentage of Gamers: 45%
-  Ratio: 1.49
-  TA: '44'
+  Number of Gamers: 170
+  Percentage of Gamers: 47%
+  Ratio: 1.46
+  TA: '43'
   Tags:
   - Offline Mode
   - Single Player
@@ -258,10 +258,10 @@ Base Game Achievements:
   Description: You have reached the 30th floor.
   GS: '30'
   Guide: false
-  Number of Gamers: 113
+  Number of Gamers: 122
   Percentage of Gamers: 33%
-  Ratio: 1.74
-  TA: '52'
+  Ratio: 1.72
+  TA: '51'
   Tags:
   - Offline Mode
   - Single Player
@@ -270,9 +270,9 @@ Base Game Achievements:
   Description: You have reached the 40th floor.
   GS: '30'
   Guide: false
-  Number of Gamers: 103
+  Number of Gamers: 111
   Percentage of Gamers: 30%
-  Ratio: 1.83
+  Ratio: 1.81
   TA: '54'
   Tags:
   - Offline Mode
@@ -282,10 +282,10 @@ Base Game Achievements:
   Description: You have reached the 50th floor.
   GS: '30'
   Guide: false
-  Number of Gamers: 72
-  Percentage of Gamers: 21%
-  Ratio: 2.19
-  TA: '65'
+  Number of Gamers: 80
+  Percentage of Gamers: 22%
+  Ratio: 2.13
+  TA: '64'
   Tags:
   - Offline Mode
   - Single Player
@@ -294,10 +294,10 @@ Base Game Achievements:
   Description: Your sword is all-powerful.
   GS: '30'
   Guide: false
-  Number of Gamers: 91
-  Percentage of Gamers: 26%
-  Ratio: 1.94
-  TA: '58'
+  Number of Gamers: 99
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '57'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -305,10 +305,10 @@ Base Game Achievements:
   Description: Your pickaxe is all-powerful.
   GS: '30'
   Guide: false
-  Number of Gamers: 55
-  Percentage of Gamers: 16%
-  Ratio: 2.49
-  TA: '74'
+  Number of Gamers: 63
+  Percentage of Gamers: 17%
+  Ratio: 2.4
+  TA: '72'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -316,10 +316,10 @@ Base Game Achievements:
   Description: Your grappling hook is all-powerful.
   GS: '30'
   Guide: false
-  Number of Gamers: 55
-  Percentage of Gamers: 16%
-  Ratio: 2.51
-  TA: '75'
+  Number of Gamers: 61
+  Percentage of Gamers: 17%
+  Ratio: 2.44
+  TA: '73'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -327,10 +327,10 @@ Base Game Achievements:
   Description: You have obtained the 4 orbs.
   GS: '30'
   Guide: false
-  Number of Gamers: 45
-  Percentage of Gamers: 13%
-  Ratio: 2.78
-  TA: '83'
+  Number of Gamers: 51
+  Percentage of Gamers: 14%
+  Ratio: 2.67
+  TA: '80'
   Tags:
   - Offline Mode
   - Single Player
@@ -339,10 +339,10 @@ Base Game Achievements:
   Description: You are ultra-fast.
   GS: '30'
   Guide: false
-  Number of Gamers: 40
-  Percentage of Gamers: 12%
-  Ratio: 2.96
-  TA: '88'
+  Number of Gamers: 47
+  Percentage of Gamers: 13%
+  Ratio: 2.78
+  TA: '83'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -350,10 +350,10 @@ Base Game Achievements:
   Description: Your magnet is all-powerful.
   GS: '30'
   Guide: false
-  Number of Gamers: 32
-  Percentage of Gamers: 9%
-  Ratio: 3.32
-  TA: '99'
+  Number of Gamers: 38
+  Percentage of Gamers: 10%
+  Ratio: 3.09
+  TA: '92'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -361,10 +361,10 @@ Base Game Achievements:
   Description: You have destroyed the tower's crystal!
   GS: '40'
   Guide: false
-  Number of Gamers: 43
-  Percentage of Gamers: 12%
-  Ratio: 2.85
-  TA: '114'
+  Number of Gamers: 51
+  Percentage of Gamers: 14%
+  Ratio: 2.67
+  TA: '107'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -372,33 +372,33 @@ Base Game Achievements:
   Description: Thank you for watching the credits.
   GS: '30'
   Guide: false
-  Number of Gamers: 180
-  Percentage of Gamers: 52%
-  Ratio: 1.38
-  TA: '41'
+  Number of Gamers: 198
+  Percentage of Gamers: 54%
+  Ratio: 1.35
+  TA: '40'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 1.763
-Base TA: 1763
+Base Ratio: 1.703
+Base TA: 1703
 Delisted: false
 Developer: Canari Games
 Game Name: Castaway
 Genres: Action-Adventure
 Install Size: 390.0
-Number of Completions: 13
-Number of Gamers: 345
+Number of Completions: 18
+Number of Gamers: 365
 Overall Completion Time:
+- 8
 - 9
-- 10
 Overall GS: 1000
-Overall Ratio: 1.763
-Overall TA: 1763
+Overall Ratio: 1.703
+Overall TA: 1703
 PDU: 0
-Percentage Completed: 3.77
+Percentage Completed: 4.93
 Publisher: Canari Games
 Release Date: 16 August 2024
 Server Closure: false
-Site Rating: 3.0
+Site Rating: 3.11
 Update Achievements: []
 Walkthrough: false

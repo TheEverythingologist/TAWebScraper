@@ -1,15 +1,15 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.5
-- 1.5
-Base GS: 2000
+- 2.0
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: Rat Hunter
   Description: Defeat 500 rats.
   GS: '100'
   Guide: false
-  Number of Gamers: 542
-  Percentage of Gamers: 100%
+  Number of Gamers: 742
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
   Tags:
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Defeat 1000 rats.
   GS: '100'
   Guide: false
-  Number of Gamers: 532
+  Number of Gamers: 733
   Percentage of Gamers: 98%
-  Ratio: 1.01
-  TA: '101'
+  Ratio: 1.0
+  TA: '100'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,7 +32,7 @@ Base Game Achievements:
   Description: Defeat 1500 rats.
   GS: '100'
   Guide: false
-  Number of Gamers: 529
+  Number of Gamers: 729
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '101'
@@ -44,7 +44,7 @@ Base Game Achievements:
   Description: Defeat 2000 rats
   GS: '100'
   Guide: false
-  Number of Gamers: 527
+  Number of Gamers: 725
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '101'
@@ -56,7 +56,7 @@ Base Game Achievements:
   Description: Defeat a Lieutenant Rat (Mid Boss) 3 times.
   GS: '100'
   Guide: false
-  Number of Gamers: 510
+  Number of Gamers: 703
   Percentage of Gamers: 94%
   Ratio: 1.03
   TA: '103'
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: Defeat 3 General Rat 3 (Last Boss) times.
   GS: '100'
   Guide: false
-  Number of Gamers: 477
-  Percentage of Gamers: 88%
-  Ratio: 1.06
-  TA: '106'
+  Number of Gamers: 651
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '107'
   Tags:
   - Offline Mode
   - Single Player
@@ -80,10 +80,10 @@ Base Game Achievements:
   Description: Gather 500 money.
   GS: '100'
   Guide: false
-  Number of Gamers: 533
-  Percentage of Gamers: 98%
-  Ratio: 1.0
-  TA: '100'
+  Number of Gamers: 730
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '101'
   Tags:
   - Offline Mode
   - Single Player
@@ -92,8 +92,8 @@ Base Game Achievements:
   Description: Gather 2000 money.
   GS: '100'
   Guide: false
-  Number of Gamers: 510
-  Percentage of Gamers: 94%
+  Number of Gamers: 697
+  Percentage of Gamers: 93%
   Ratio: 1.03
   TA: '103'
   Tags:
@@ -104,7 +104,7 @@ Base Game Achievements:
   Description: Use Churu and Milk on the same run.
   GS: '100'
   Guide: false
-  Number of Gamers: 525
+  Number of Gamers: 724
   Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '101'
@@ -115,7 +115,7 @@ Base Game Achievements:
   Description: Unlock a new comrade in arms.
   GS: '100'
   Guide: false
-  Number of Gamers: 516
+  Number of Gamers: 715
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '102'
@@ -123,36 +123,36 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Shop
-Base Ratio: 1.049
-Base TA: 2098
+Base Ratio: 1.1006666666666667
+Base TA: 3302
 Delisted: false
 Developer: Synnergy Circle Games
 Game Name: Cats with Guns (Windows)
 Genres: Roguelite, Shoot 'em up
-Install Size: 178.0
-Number of Completions: 429
-Number of Gamers: 544
+Install Size: 362.0
+Number of Completions: 465
+Number of Gamers: 749
 Overall Completion Time:
 - 0.5
-- 1.5
-Overall GS: 2000
-Overall Ratio: 1.049
-Overall TA: 2098
+- 2.0
+Overall GS: 3000
+Overall Ratio: 1.1006666666666667
+Overall TA: 3302
 PDU: 0
-Percentage Completed: 78.86
+Percentage Completed: 62.08
 Publisher: Synnergy Circle Games
 Release Date: 01 October 2024
 Server Closure: false
-Site Rating: 2.2
+Site Rating: 2.17
 Update Achievements:
 - Achievement Name: Ratpocalypse Redux
   Description: Defeat 2500 rats.
   GS: '200'
   Guide: false
-  Number of Gamers: 467
-  Percentage of Gamers: 86%
-  Ratio: 1.07
-  TA: '215'
+  Number of Gamers: 678
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '209'
   Tags:
   - Offline Mode
   - Single Player
@@ -161,10 +161,10 @@ Update Achievements:
   Description: Defeat 3000 rats.
   GS: '200'
   Guide: false
-  Number of Gamers: 464
-  Percentage of Gamers: 85%
-  Ratio: 1.08
-  TA: '216'
+  Number of Gamers: 673
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '210'
   Tags:
   - Offline Mode
   - Single Player
@@ -173,10 +173,10 @@ Update Achievements:
   Description: 'Unlock the level 2: Snowfield'
   GS: '200'
   Guide: false
-  Number of Gamers: 462
-  Percentage of Gamers: 85%
-  Ratio: 1.08
-  TA: '216'
+  Number of Gamers: 672
+  Percentage of Gamers: 90%
+  Ratio: 1.05
+  TA: '210'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -184,10 +184,10 @@ Update Achievements:
   Description: Use the special attack Bomb to eliminate all enemies on the screen.
   GS: '200'
   Guide: false
-  Number of Gamers: 479
-  Percentage of Gamers: 88%
-  Ratio: 1.06
-  TA: '213'
+  Number of Gamers: 693
+  Percentage of Gamers: 93%
+  Ratio: 1.03
+  TA: '207'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -195,10 +195,68 @@ Update Achievements:
   Description: 'Unlock the stage 3: Meowstopia'
   GS: '200'
   Guide: false
-  Number of Gamers: 447
-  Percentage of Gamers: 82%
-  Ratio: 1.1
-  TA: '220'
+  Number of Gamers: 645
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '215'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Rat Obliterator
+  Description: Defeat 3500 rats.
+  GS: '200'
+  Guide: false
+  Number of Gamers: 498
+  Percentage of Gamers: 66%
+  Ratio: 1.23
+  TA: '247'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Rat Eradicator
+  Description: Defeat 4000 rats.
+  GS: '200'
+  Guide: false
+  Number of Gamers: 498
+  Percentage of Gamers: 66%
+  Ratio: 1.23
+  TA: '247'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Ultimate Rat Slayer
+  Description: Defeat 4500 rats.
+  GS: '200'
+  Guide: false
+  Number of Gamers: 492
+  Percentage of Gamers: 66%
+  Ratio: 1.24
+  TA: '248'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Just a Little Boom
+  Description: Throw a grenade for the first time.
+  GS: '200'
+  Guide: false
+  Number of Gamers: 503
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '245'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Fish Bonk!
+  Description: Smack an enemy with a fish.
+  GS: '200'
+  Guide: false
+  Number of Gamers: 503
+  Percentage of Gamers: 67%
+  Ratio: 1.22
+  TA: '245'
   Tags:
   - Offline Game Mode
   - Single Player

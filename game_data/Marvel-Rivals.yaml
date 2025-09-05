@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- 35.0
-- 40.0
-Base GS: 1000
+- 37.5
+- 45.0
+Base GS: 1075
 Base Game Achievements:
 - Achievement Name: Rising Star
   Description: Reach level 20.
   GS: '100'
-  Guide: true
-  Number of Gamers: 48401
-  Percentage of Gamers: 32%
-  Ratio: 1.75
-  TA: '175'
+  Guide: false
+  Number of Gamers: 62450
+  Percentage of Gamers: 36%
+  Ratio: 1.65
+  TA: '165'
   Tags:
   - Online Mode
   - Versus
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Win 100 matches.
   GS: '30'
   Guide: true
-  Number of Gamers: 34949
-  Percentage of Gamers: 23%
-  Ratio: 2.07
-  TA: '62'
+  Number of Gamers: 49748
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '55'
   Tags:
   - Online Mode
   - Versus
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Team up with a friend for a match.
   GS: '15'
   Guide: true
-  Number of Gamers: 75475
-  Percentage of Gamers: 50%
-  Ratio: 1.4
-  TA: '21'
+  Number of Gamers: 92126
+  Percentage of Gamers: 54%
+  Ratio: 1.36
+  TA: '20'
   Tags:
   - Online Mode
   - Versus
@@ -43,8 +43,8 @@ Base Game Achievements:
   Description: Land a 3-player KO streak.
   GS: '15'
   Guide: true
-  Number of Gamers: 124888
-  Percentage of Gamers: 83%
+  Number of Gamers: 143627
+  Percentage of Gamers: 84%
   Ratio: 1.09
   TA: '16'
   Tags:
@@ -54,7 +54,7 @@ Base Game Achievements:
   Description: Upvote 1 player.
   GS: '15'
   Guide: true
-  Number of Gamers: 124378
+  Number of Gamers: 142752
   Percentage of Gamers: 83%
   Ratio: 1.09
   TA: '16'
@@ -65,9 +65,9 @@ Base Game Achievements:
   Description: Use the customizable wheel once.
   GS: '15'
   Guide: true
-  Number of Gamers: 123604
-  Percentage of Gamers: 82%
-  Ratio: 1.1
+  Number of Gamers: 139049
+  Percentage of Gamers: 81%
+  Ratio: 1.11
   TA: '16'
   Tags:
   - Online Mode
@@ -76,9 +76,9 @@ Base Game Achievements:
   Description: Complete 1 Arcade match.
   GS: '15'
   Guide: true
-  Number of Gamers: 72309
-  Percentage of Gamers: 48%
-  Ratio: 1.43
+  Number of Gamers: 86224
+  Percentage of Gamers: 50%
+  Ratio: 1.41
   TA: '21'
   Tags:
   - Online Mode
@@ -88,10 +88,10 @@ Base Game Achievements:
     Hulk to Banner.
   GS: '90'
   Guide: true
-  Number of Gamers: 27330
-  Percentage of Gamers: 18%
-  Ratio: 2.34
-  TA: '210'
+  Number of Gamers: 35787
+  Percentage of Gamers: 21%
+  Ratio: 2.18
+  TA: '197'
   Tags:
   - Online Mode
   - Versus
@@ -101,10 +101,10 @@ Base Game Achievements:
     a single game.
   GS: '30'
   Guide: true
-  Number of Gamers: 6577
-  Percentage of Gamers: 4%
-  Ratio: 4.77
-  TA: '143'
+  Number of Gamers: 12810
+  Percentage of Gamers: 7%
+  Ratio: 3.66
+  TA: '109'
   Tags:
   - Online Mode
   - Versus
@@ -112,10 +112,10 @@ Base Game Achievements:
   Description: As Storm, assist X-Men members 10 times.
   GS: '30'
   Guide: true
-  Number of Gamers: 20066
-  Percentage of Gamers: 13%
-  Ratio: 2.73
-  TA: '81'
+  Number of Gamers: 29996
+  Percentage of Gamers: 17%
+  Ratio: 2.39
+  TA: '71'
   Tags:
   - Online Mode
   - Versus
@@ -124,10 +124,10 @@ Base Game Achievements:
   Description: As Loki, land one KO by stabbing from behind.
   GS: '30'
   Guide: true
-  Number of Gamers: 11908
-  Percentage of Gamers: 8%
-  Ratio: 3.54
-  TA: '106'
+  Number of Gamers: 17208
+  Percentage of Gamers: 10%
+  Ratio: 3.15
+  TA: '94'
   Tags:
   - Online Mode
   - Versus
@@ -135,10 +135,10 @@ Base Game Achievements:
   Description: As Doctor Strange, land 1 terrain KO with the portal.
   GS: '30'
   Guide: true
-  Number of Gamers: 10108
-  Percentage of Gamers: 7%
-  Ratio: 3.85
-  TA: '115'
+  Number of Gamers: 14638
+  Percentage of Gamers: 9%
+  Ratio: 3.42
+  TA: '102'
   Tags:
   - Online Mode
   - Versus
@@ -146,10 +146,10 @@ Base Game Achievements:
   Description: As Mantis, assist allies in achieving a team wipe.
   GS: '15'
   Guide: true
-  Number of Gamers: 17744
-  Percentage of Gamers: 12%
-  Ratio: 2.9
-  TA: '43'
+  Number of Gamers: 24825
+  Percentage of Gamers: 14%
+  Ratio: 2.62
+  TA: '39'
   Tags:
   - Online Mode
   - Versus
@@ -157,10 +157,10 @@ Base Game Achievements:
   Description: As Hawkeye, partner with the Avengers to land 10 KOs.
   GS: '30'
   Guide: true
-  Number of Gamers: 30453
-  Percentage of Gamers: 20%
-  Ratio: 2.21
-  TA: '66'
+  Number of Gamers: 39331
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '62'
   Tags:
   - Online Mode
   - Versus
@@ -169,10 +169,10 @@ Base Game Achievements:
   Description: As Captain America, land 3 KOs with a single use of Freedom Charge.
   GS: '15'
   Guide: true
-  Number of Gamers: 6431
-  Percentage of Gamers: 4%
-  Ratio: 4.82
-  TA: '72'
+  Number of Gamers: 10683
+  Percentage of Gamers: 6%
+  Ratio: 4.0
+  TA: '60'
   Tags:
   - Online Mode
   - Versus
@@ -180,10 +180,10 @@ Base Game Achievements:
   Description: As Rocket Raccoon, revive the Guardians of the Galaxy members 5 times.
   GS: '15'
   Guide: true
-  Number of Gamers: 20638
-  Percentage of Gamers: 14%
-  Ratio: 2.69
-  TA: '40'
+  Number of Gamers: 31196
+  Percentage of Gamers: 18%
+  Ratio: 2.34
+  TA: '35'
   Tags:
   - Online Mode
   - Versus
@@ -192,10 +192,10 @@ Base Game Achievements:
   Description: 'As Hela, land a 3-player KO streak in Yggsgard: Yggdrasill Path.'
   GS: '15'
   Guide: true
-  Number of Gamers: 14707
-  Percentage of Gamers: 10%
-  Ratio: 3.19
-  TA: '47'
+  Number of Gamers: 22436
+  Percentage of Gamers: 13%
+  Ratio: 2.76
+  TA: '41'
   Tags:
   - Online Mode
   - Versus
@@ -203,10 +203,10 @@ Base Game Achievements:
   Description: As Cloak and Dagger, assist allies in achieving a team wipe.
   GS: '15'
   Guide: true
-  Number of Gamers: 21728
-  Percentage of Gamers: 14%
-  Ratio: 2.62
-  TA: '39'
+  Number of Gamers: 32972
+  Percentage of Gamers: 19%
+  Ratio: 2.28
+  TA: '34'
   Tags:
   - Online Mode
   - Versus
@@ -215,10 +215,10 @@ Base Game Achievements:
     of Wakanda: Hall of Djalia.'
   GS: '30'
   Guide: true
-  Number of Gamers: 5215
-  Percentage of Gamers: 3%
-  Ratio: 5.36
-  TA: '160'
+  Number of Gamers: 10308
+  Percentage of Gamers: 6%
+  Ratio: 4.08
+  TA: '122'
   Tags:
   - Online Mode
   - Versus
@@ -226,10 +226,10 @@ Base Game Achievements:
   Description: As Groot, imprison 4 enemies with a single use of Strangling Prison.
   GS: '15'
   Guide: true
-  Number of Gamers: 22619
-  Percentage of Gamers: 15%
-  Ratio: 2.57
-  TA: '38'
+  Number of Gamers: 31583
+  Percentage of Gamers: 18%
+  Ratio: 2.33
+  TA: '34'
   Tags:
   - Online Mode
   - Versus
@@ -237,10 +237,10 @@ Base Game Achievements:
   Description: As Magik, land 3 KOs within a single tranformation into Darkchild.
   GS: '15'
   Guide: true
-  Number of Gamers: 16926
-  Percentage of Gamers: 11%
-  Ratio: 2.97
-  TA: '44'
+  Number of Gamers: 25086
+  Percentage of Gamers: 15%
+  Ratio: 2.61
+  TA: '39'
   Tags:
   - Online Mode
   - Versus
@@ -248,10 +248,10 @@ Base Game Achievements:
   Description: As Moon Knight, hit 4 enemies with a single use of Hand of Khonshu.
   GS: '30'
   Guide: true
-  Number of Gamers: 36882
-  Percentage of Gamers: 25%
-  Ratio: 2.01
-  TA: '60'
+  Number of Gamers: 47830
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '56'
   Tags:
   - Online Mode
   - Versus
@@ -259,10 +259,10 @@ Base Game Achievements:
   Description: As Luna Snow, complete a match on 5 maps with different themes.
   GS: '15'
   Guide: true
-  Number of Gamers: 29418
-  Percentage of Gamers: 20%
-  Ratio: 2.25
-  TA: '33'
+  Number of Gamers: 41937
+  Percentage of Gamers: 24%
+  Ratio: 2.02
+  TA: '30'
   Tags:
   - Online Mode
   - Versus
@@ -272,10 +272,10 @@ Base Game Achievements:
     Tsunami.
   GS: '90'
   Guide: true
-  Number of Gamers: 21546
-  Percentage of Gamers: 14%
-  Ratio: 2.63
-  TA: '237'
+  Number of Gamers: 35131
+  Percentage of Gamers: 20%
+  Ratio: 2.21
+  TA: '198'
   Tags:
   - Online Mode
   - Versus
@@ -283,10 +283,10 @@ Base Game Achievements:
   Description: As Black Widow, land 3 KOs with critical hits in a single match.
   GS: '15'
   Guide: true
-  Number of Gamers: 16022
-  Percentage of Gamers: 11%
-  Ratio: 3.05
-  TA: '45'
+  Number of Gamers: 21401
+  Percentage of Gamers: 12%
+  Ratio: 2.83
+  TA: '42'
   Tags:
   - Online Mode
   - Versus
@@ -294,10 +294,10 @@ Base Game Achievements:
   Description: As Iron Man, hit 4 enemies with a single use of Invincible Pulse Cannon.
   GS: '15'
   Guide: true
-  Number of Gamers: 33724
-  Percentage of Gamers: 22%
-  Ratio: 2.1
-  TA: '31'
+  Number of Gamers: 44063
+  Percentage of Gamers: 26%
+  Ratio: 1.97
+  TA: '29'
   Tags:
   - Online Mode
   - Versus
@@ -305,10 +305,10 @@ Base Game Achievements:
   Description: As Venom, snare 4 enemies with a single use of Cellular Corrosion.
   GS: '15'
   Guide: true
-  Number of Gamers: 36518
-  Percentage of Gamers: 24%
-  Ratio: 2.02
-  TA: '30'
+  Number of Gamers: 47890
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '28'
   Tags:
   - Online Mode
   - Versus
@@ -317,10 +317,10 @@ Base Game Achievements:
     counterattack.
   GS: '15'
   Guide: true
-  Number of Gamers: 23116
-  Percentage of Gamers: 15%
-  Ratio: 2.54
-  TA: '38'
+  Number of Gamers: 29685
+  Percentage of Gamers: 17%
+  Ratio: 2.4
+  TA: '36'
   Tags:
   - Online Mode
   - Versus
@@ -328,10 +328,10 @@ Base Game Achievements:
   Description: As Magneto, assist Mutant allies 10 times.
   GS: '30'
   Guide: true
-  Number of Gamers: 11883
-  Percentage of Gamers: 8%
-  Ratio: 3.55
-  TA: '106'
+  Number of Gamers: 21580
+  Percentage of Gamers: 13%
+  Ratio: 2.81
+  TA: '84'
   Tags:
   - Online Mode
   - Versus
@@ -340,10 +340,10 @@ Base Game Achievements:
   Description: As Scarlet Witch, take down Mutant enemies 10 times.
   GS: '15'
   Guide: true
-  Number of Gamers: 27949
-  Percentage of Gamers: 19%
-  Ratio: 2.31
-  TA: '34'
+  Number of Gamers: 39245
+  Percentage of Gamers: 23%
+  Ratio: 2.09
+  TA: '31'
   Tags:
   - Online Mode
   - Versus
@@ -352,10 +352,10 @@ Base Game Achievements:
   Description: As Thor, strike down 4 enemies with a single use of God of Thunder.
   GS: '30'
   Guide: true
-  Number of Gamers: 22562
-  Percentage of Gamers: 15%
-  Ratio: 2.57
-  TA: '77'
+  Number of Gamers: 32829
+  Percentage of Gamers: 19%
+  Ratio: 2.28
+  TA: '68'
   Tags:
   - Online Mode
   - Versus
@@ -363,10 +363,10 @@ Base Game Achievements:
   Description: As Winter Soldier, land 3 KOs with a single use of Kraken Impact.
   GS: '15'
   Guide: true
-  Number of Gamers: 24357
-  Percentage of Gamers: 16%
-  Ratio: 2.48
-  TA: '37'
+  Number of Gamers: 32690
+  Percentage of Gamers: 19%
+  Ratio: 2.29
+  TA: '34'
   Tags:
   - Online Mode
   - Versus
@@ -374,10 +374,10 @@ Base Game Achievements:
   Description: As Peni Parker, blast 3 enemies with a single use of Arachno-Mine.
   GS: '15'
   Guide: true
-  Number of Gamers: 26859
-  Percentage of Gamers: 18%
-  Ratio: 2.36
-  TA: '35'
+  Number of Gamers: 35438
+  Percentage of Gamers: 21%
+  Ratio: 2.2
+  TA: '33'
   Tags:
   - Online Mode
   - Versus
@@ -385,10 +385,10 @@ Base Game Achievements:
   Description: As Star-Lord, land 10 KOs with assists from the Guardians of the Galaxy.
   GS: '15'
   Guide: true
-  Number of Gamers: 38178
-  Percentage of Gamers: 25%
-  Ratio: 1.98
-  TA: '29'
+  Number of Gamers: 48504
+  Percentage of Gamers: 28%
+  Ratio: 1.88
+  TA: '28'
   Tags:
   - Online Mode
   - Versus
@@ -397,10 +397,10 @@ Base Game Achievements:
   Description: As Namor, summon Monstro Spawn to land 10 KOs in a single game.
   GS: '15'
   Guide: true
-  Number of Gamers: 24288
-  Percentage of Gamers: 16%
-  Ratio: 2.48
-  TA: '37'
+  Number of Gamers: 36520
+  Percentage of Gamers: 21%
+  Ratio: 2.16
+  TA: '32'
   Tags:
   - Online Mode
   - Versus
@@ -409,10 +409,10 @@ Base Game Achievements:
     of the Galaxy.
   GS: '15'
   Guide: true
-  Number of Gamers: 12692
-  Percentage of Gamers: 8%
-  Ratio: 3.43
-  TA: '51'
+  Number of Gamers: 17604
+  Percentage of Gamers: 10%
+  Ratio: 3.12
+  TA: '46'
   Tags:
   - Online Mode
   - Versus
@@ -421,10 +421,10 @@ Base Game Achievements:
     Jeff!
   GS: '30'
   Guide: true
-  Number of Gamers: 42727
-  Percentage of Gamers: 29%
-  Ratio: 1.87
-  TA: '56'
+  Number of Gamers: 51727
+  Percentage of Gamers: 30%
+  Ratio: 1.82
+  TA: '54'
   Tags:
   - Online Mode
   - Versus
@@ -432,10 +432,10 @@ Base Game Achievements:
   Description: As Psylocke, contest the mission area for 60 seconds in a single match.
   GS: '15'
   Guide: true
-  Number of Gamers: 24188
-  Percentage of Gamers: 16%
-  Ratio: 2.48
-  TA: '37'
+  Number of Gamers: 33158
+  Percentage of Gamers: 19%
+  Ratio: 2.27
+  TA: '34'
   Tags:
   - Online Mode
   - Versus
@@ -443,44 +443,101 @@ Base Game Achievements:
   Description: As Wolverine, land 3 KOs with a single use of Last Stand.
   GS: '15'
   Guide: true
-  Number of Gamers: 8228
-  Percentage of Gamers: 5%
-  Ratio: 4.26
-  TA: '64'
+  Number of Gamers: 14989
+  Percentage of Gamers: 9%
+  Ratio: 3.38
+  TA: '50'
   Tags:
   - Online Mode
   - Versus
 - Achievement Name: Might of Fuxi
   Description: As Iron Fist, land 3 KOs with a single use of Living Chi.
   GS: '15'
-  Guide: false
-  Number of Gamers: 18778
-  Percentage of Gamers: 13%
-  Ratio: 2.82
-  TA: '42'
+  Guide: true
+  Number of Gamers: 24972
+  Percentage of Gamers: 15%
+  Ratio: 2.62
+  TA: '39'
   Tags:
   - Online Mode
   - Versus
-Base Ratio: 2.61
-Base TA: 2610
+Base Ratio: 2.3367441860465115
+Base TA: 2512
 Delisted: false
 Developer: NetEase Games
 Game Name: Marvel Rivals
 Genres: Third Person Shooter
-Install Size: 44560.0
-Number of Completions: 1445
-Number of Gamers: 149904
+Install Size: 63600.0
+Number of Completions: 1979
+Number of Gamers: 171596
 Overall Completion Time:
-- 35.0
-- 40.0
-Overall GS: 1000
-Overall Ratio: 2.61
-Overall TA: 2610
+- 37.5
+- 45.0
+Overall GS: 1075
+Overall Ratio: 2.3367441860465115
+Overall TA: 2512
 PDU: 0
-Percentage Completed: 0.96
+Percentage Completed: 1.15
 Publisher: NetEase Games
 Release Date: 06 December 2024
 Server Closure: false
-Site Rating: 4.25
-Update Achievements: []
+Site Rating: 4.12
+Update Achievements:
+- Achievement Name: Bouncing Ideas
+  Description: As Mister Fantastic, bounce 5 times with a single use of Brainiac Bounce.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 37461
+  Percentage of Gamers: 22%
+  Ratio: 2.14
+  TA: '32'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Lady of the House
+  Description: As Invisible Woman, assist the Fantastic Four members 10 times.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 36789
+  Percentage of Gamers: 21%
+  Ratio: 2.15
+  TA: '32'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Hot and Trending
+  Description: As Human Torch, land 3 KOs with a single use of Supernova.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 12799
+  Percentage of Gamers: 7%
+  Ratio: 3.66
+  TA: '54'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: What Time Is It?
+  Description: As the Thing, launch up 4 enemies with a single use of Clobberin' Time.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 23576
+  Percentage of Gamers: 14%
+  Ratio: 2.69
+  TA: '40'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Schism from Within
+  Description: As Emma Frost, control Mutant enemies with Mind Control 10 times.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 12840
+  Percentage of Gamers: 7%
+  Ratio: 3.65
+  TA: '54'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
 Walkthrough: false
