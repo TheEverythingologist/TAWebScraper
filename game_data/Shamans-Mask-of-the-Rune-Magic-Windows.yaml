@@ -6,12 +6,12 @@ Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Adventurer
   Description: Begin the journey
-  GS: '50'
+  GS: '100'
   Guide: false
-  Number of Gamers: 106
+  Number of Gamers: 130
   Percentage of Gamers: 100%
   Ratio: 1.0
-  TA: '50'
+  TA: '100'
   Tags:
   - Offline Mode
   - Single Player
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Jump for the first time
   GS: '90'
   Guide: false
-  Number of Gamers: 105
+  Number of Gamers: 129
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '90'
@@ -32,7 +32,7 @@ Base Game Achievements:
   Description: Strike with a saber for the first time
   GS: '90'
   Guide: false
-  Number of Gamers: 106
+  Number of Gamers: 130
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '90'
@@ -44,7 +44,7 @@ Base Game Achievements:
   Description: Dodge for the first time
   GS: '90'
   Guide: false
-  Number of Gamers: 105
+  Number of Gamers: 129
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '90'
@@ -56,8 +56,8 @@ Base Game Achievements:
   Description: Deflect an arrow
   GS: '90'
   Guide: false
-  Number of Gamers: 105
-  Percentage of Gamers: 99%
+  Number of Gamers: 128
+  Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '90'
   Tags:
@@ -68,9 +68,9 @@ Base Game Achievements:
   Description: Choose the fire rune
   GS: '90'
   Guide: false
-  Number of Gamers: 101
-  Percentage of Gamers: 95%
-  Ratio: 1.02
+  Number of Gamers: 122
+  Percentage of Gamers: 94%
+  Ratio: 1.03
   TA: '92'
   Tags:
   - Offline Mode
@@ -80,10 +80,10 @@ Base Game Achievements:
   Description: Cast a fireball
   GS: '90'
   Guide: false
-  Number of Gamers: 102
-  Percentage of Gamers: 96%
+  Number of Gamers: 124
+  Percentage of Gamers: 95%
   Ratio: 1.02
-  TA: '91'
+  TA: '92'
   Tags:
   - Offline Mode
   - Single Player
@@ -92,10 +92,10 @@ Base Game Achievements:
   Description: Cast a fire wall
   GS: '90'
   Guide: false
-  Number of Gamers: 102
-  Percentage of Gamers: 96%
+  Number of Gamers: 124
+  Percentage of Gamers: 95%
   Ratio: 1.02
-  TA: '91'
+  TA: '92'
   Tags:
   - Offline Mode
   - Single Player
@@ -104,10 +104,10 @@ Base Game Achievements:
   Description: Choose the lightning rune
   GS: '90'
   Guide: true
-  Number of Gamers: 91
-  Percentage of Gamers: 86%
-  Ratio: 1.07
-  TA: '96'
+  Number of Gamers: 111
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '97'
   Tags:
   - Offline Mode
   - Single Player
@@ -116,10 +116,10 @@ Base Game Achievements:
   Description: Cast a lightning ball
   GS: '90'
   Guide: false
-  Number of Gamers: 94
-  Percentage of Gamers: 89%
-  Ratio: 1.05
-  TA: '95'
+  Number of Gamers: 113
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '96'
   Tags:
   - Offline Mode
   - Single Player
@@ -128,46 +128,34 @@ Base Game Achievements:
   Description: Cast a lightning strike
   GS: '90'
   Guide: false
-  Number of Gamers: 94
-  Percentage of Gamers: 89%
-  Ratio: 1.05
-  TA: '95'
+  Number of Gamers: 113
+  Percentage of Gamers: 87%
+  Ratio: 1.07
+  TA: '96'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
-- Achievement Name: True Hero
-  Description: Defeat the Dark Knight
-  GS: '50'
-  Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 1%
-  Ratio: 10.14
-  TA: '507'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Main Storyline
-Base Ratio: 1.477
-Base TA: 1477
+Base Ratio: 1.025
+Base TA: 1025
 Delisted: false
 Developer: myHazards
 Game Name: Shaman's Mask of the Rune Magic (Windows)
 Genres: Platformer
 Install Size: 95.0
-Number of Completions: 1
-Number of Gamers: 106
+Number of Completions: 3
+Number of Gamers: 130
 Overall Completion Time:
 - 0
 - 1
 Overall GS: 1000
-Overall Ratio: 1.477
-Overall TA: 1477
+Overall Ratio: 1.025
+Overall TA: 1025
 PDU: 0
-Percentage Completed: 0.94
+Percentage Completed: 2.31
 Publisher: Xitilon
 Release Date: 20 August 2025
 Server Closure: false
-Site Rating: 0.75
+Site Rating: 0.7
 Update Achievements: []
 Walkthrough: false

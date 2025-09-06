@@ -1,290 +1,363 @@
 Add On Achievements: []
 Base Completion Time:
-- 24
-- 25
+- 29
+- 30
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Initiation into the Arts
   Description: Obtained a Ninjutsu.
   GS: '10'
   Guide: false
-  Number of Gamers: 756
-  Percentage of Gamers: 89%
-  Ratio: 1.06
+  Number of Gamers: 1119
+  Percentage of Gamers: 91%
+  Ratio: 1.04
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Going Up
   Description: Unlocked the Ninja Claws.
   GS: '10'
   Guide: false
-  Number of Gamers: 435
-  Percentage of Gamers: 51%
-  Ratio: 1.39
-  TA: '13'
-  Tags: []
+  Number of Gamers: 730
+  Percentage of Gamers: 59%
+  Ratio: 1.29
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Wall Breaker
   Description: Unlocked the Cannon Punch.
   GS: '10'
   Guide: false
-  Number of Gamers: 515
-  Percentage of Gamers: 61%
-  Ratio: 1.28
+  Number of Gamers: 837
+  Percentage of Gamers: 68%
+  Ratio: 1.21
   TA: '12'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Flying Ninja
   Description: Unlocked the Ninja Hook.
   GS: '10'
   Guide: false
-  Number of Gamers: 272
-  Percentage of Gamers: 32%
-  Ratio: 1.76
-  TA: '17'
-  Tags: []
+  Number of Gamers: 505
+  Percentage of Gamers: 41%
+  Ratio: 1.56
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Earthquake
   Description: Unlocked the Sword Dive.
   GS: '10'
   Guide: false
-  Number of Gamers: 179
-  Percentage of Gamers: 21%
-  Ratio: 2.18
-  TA: '21'
-  Tags: []
+  Number of Gamers: 403
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Whirlwind
   Description: Unlocked the Glider.
   GS: '10'
   Guide: false
-  Number of Gamers: 123
-  Percentage of Gamers: 15%
-  Ratio: 2.63
-  TA: '26'
-  Tags: []
+  Number of Gamers: 298
+  Percentage of Gamers: 24%
+  Ratio: 2.03
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Showstopper
   Description: Killed an enemy who was being healed.
   GS: '10'
   Guide: true
-  Number of Gamers: 724
-  Percentage of Gamers: 85%
-  Ratio: 1.08
+  Number of Gamers: 1068
+  Percentage of Gamers: 87%
+  Ratio: 1.07
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: First Zone Finished
   Description: Completed the first zone.
   GS: '10'
   Guide: false
-  Number of Gamers: 633
-  Percentage of Gamers: 75%
-  Ratio: 1.15
+  Number of Gamers: 975
+  Percentage of Gamers: 79%
+  Ratio: 1.12
   TA: '11'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Second Zone Settled
   Description: Completed the second zone.
   GS: '10'
   Guide: false
-  Number of Gamers: 358
-  Percentage of Gamers: 42%
-  Ratio: 1.54
-  TA: '15'
-  Tags: []
+  Number of Gamers: 623
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Third Zone Thwarted
   Description: Completed the third zone.
   GS: '10'
   Guide: false
-  Number of Gamers: 154
-  Percentage of Gamers: 18%
-  Ratio: 2.36
-  TA: '23'
-  Tags: []
+  Number of Gamers: 357
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Fourth Zone Fixed
   Description: Completed the fourth zone.
   GS: '10'
   Guide: false
-  Number of Gamers: 92
-  Percentage of Gamers: 11%
-  Ratio: 3.02
-  TA: '30'
-  Tags: []
+  Number of Gamers: 237
+  Percentage of Gamers: 19%
+  Ratio: 2.27
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Perfect Movement
   Description: Obtained all Ningi.
   GS: '15'
   Guide: false
-  Number of Gamers: 123
-  Percentage of Gamers: 15%
-  Ratio: 2.63
-  TA: '39'
-  Tags: []
+  Number of Gamers: 298
+  Percentage of Gamers: 24%
+  Ratio: 2.03
+  TA: '30'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Lab Monster
   Description: Reached a 30-hit Combo. Cannot be unlocked in Training Room.
   GS: '15'
   Guide: false
-  Number of Gamers: 849
+  Number of Gamers: 1229
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '15'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Treasure Hunter
   Description: Collected 40,000 coins.
   GS: '10'
   Guide: false
-  Number of Gamers: 108
-  Percentage of Gamers: 13%
-  Ratio: 2.8
-  TA: '28'
-  Tags: []
+  Number of Gamers: 274
+  Percentage of Gamers: 22%
+  Ratio: 2.12
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: The Art of Vengeance
   Description: Completed the game.
   GS: '40'
   Guide: false
-  Number of Gamers: 63
-  Percentage of Gamers: 7%
-  Ratio: 3.65
-  TA: '146'
-  Tags: []
+  Number of Gamers: 173
+  Percentage of Gamers: 14%
+  Ratio: 2.66
+  TA: '106'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: No-Hit Run
   Description: Completed a stage in Arcade Mode untouched.
   GS: '40'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 2%
-  Ratio: 7.75
-  TA: '310'
-  Tags: []
+  Number of Gamers: 33
+  Percentage of Gamers: 3%
+  Ratio: 6.19
+  TA: '247'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: The Secret Lab
   Description: Found all of the secret keys.
   GS: '40'
   Guide: false
-  Number of Gamers: 28
-  Percentage of Gamers: 3%
-  Ratio: 5.48
-  TA: '219'
-  Tags: []
+  Number of Gamers: 103
+  Percentage of Gamers: 8%
+  Ratio: 3.45
+  TA: '138'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: I Am the Captain Now
   Description: Completed the Boss Rush.
   GS: '40'
   Guide: true
-  Number of Gamers: 13
-  Percentage of Gamers: 2%
-  Ratio: 8.05
-  TA: '322'
-  Tags: []
+  Number of Gamers: 33
+  Percentage of Gamers: 3%
+  Ratio: 6.1
+  TA: '244'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Miraculous Comeback
   Description: Parried 15 attacks with the Water Ninpo.
   GS: '40'
   Guide: false
-  Number of Gamers: 69
-  Percentage of Gamers: 8%
-  Ratio: 3.52
-  TA: '140'
-  Tags: []
+  Number of Gamers: 156
+  Percentage of Gamers: 13%
+  Ratio: 2.81
+  TA: '112'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Combo Master
   Description: Reached a 100-hit Combo. Cannot be unlocked in Training Room.
   GS: '40'
   Guide: false
-  Number of Gamers: 416
-  Percentage of Gamers: 49%
-  Ratio: 1.43
-  TA: '57'
-  Tags: []
+  Number of Gamers: 626
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '56'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Take My Money
   Description: Purchased everything available in the shop.
   GS: '40'
   Guide: false
-  Number of Gamers: 25
-  Percentage of Gamers: 3%
-  Ratio: 5.8
-  TA: '232'
-  Tags: []
+  Number of Gamers: 82
+  Percentage of Gamers: 7%
+  Ratio: 3.91
+  TA: '156'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
 - Achievement Name: Complete Kit
   Description: Obtained every upgrade.
   GS: '40'
   Guide: false
-  Number of Gamers: 28
-  Percentage of Gamers: 3%
-  Ratio: 5.48
-  TA: '219'
-  Tags: []
+  Number of Gamers: 100
+  Percentage of Gamers: 8%
+  Ratio: 3.5
+  TA: '140'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Ultimate Power
   Description: Obtained all Ninjutsu.
   GS: '40'
   Guide: false
-  Number of Gamers: 92
-  Percentage of Gamers: 11%
-  Ratio: 3.02
-  TA: '121'
-  Tags: []
+  Number of Gamers: 236
+  Percentage of Gamers: 19%
+  Ratio: 2.28
+  TA: '91'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Perfect Offense
   Description: Obtained all Ninpo.
   GS: '40'
   Guide: false
-  Number of Gamers: 85
-  Percentage of Gamers: 10%
-  Ratio: 3.18
-  TA: '127'
-  Tags: []
+  Number of Gamers: 232
+  Percentage of Gamers: 19%
+  Ratio: 2.31
+  TA: '92'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: 'Oboro Clan: Avenged'
   Description: Defeated all Elite Squads.
   GS: '90'
   Guide: false
-  Number of Gamers: 29
-  Percentage of Gamers: 3%
-  Ratio: 5.39
-  TA: '485'
-  Tags: []
+  Number of Gamers: 107
+  Percentage of Gamers: 9%
+  Ratio: 3.38
+  TA: '305'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Ultimate Weapon
   Description: Reforged the Dark Katana.
   GS: '90'
   Guide: false
-  Number of Gamers: 35
-  Percentage of Gamers: 4%
-  Ratio: 4.9
-  TA: '441'
-  Tags: []
+  Number of Gamers: 118
+  Percentage of Gamers: 10%
+  Ratio: 3.22
+  TA: '290'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: SEGA Mega Play
   Description: Earned an S rank on all stages in Arcade Mode.
   GS: '90'
   Guide: false
-  Number of Gamers: 1
+  Number of Gamers: 4
   Percentage of Gamers: 0%
-  Ratio: 29.03
-  TA: 2,613
-  Tags: []
+  Ratio: 17.52
+  TA: 1,577
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Divine Speed
   Description: Killed the final boss in under 10 hours.
   GS: '90'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 2%
-  Ratio: 6.84
-  TA: '615'
-  Tags: []
+  Number of Gamers: 40
+  Percentage of Gamers: 3%
+  Ratio: 5.54
+  TA: '498'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Time/Date
 - Achievement Name: Revenge of the Ninja Master
   Description: Killed the Shadow Master clone.
   GS: '90'
   Guide: false
-  Number of Gamers: 24
-  Percentage of Gamers: 3%
-  Ratio: 5.92
-  TA: '533'
-  Tags: []
-Base Ratio: 6.85
-Base TA: 6850
+  Number of Gamers: 79
+  Percentage of Gamers: 6%
+  Ratio: 3.99
+  TA: '359'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 4.638
+Base TA: 4638
 Delisted: false
 Developer: Lizardcube, SEGA
 Game Name: 'SHINOBI: Art of Vengeance'
 Genres: Platformer
 Install Size: 10530.0
-Number of Completions: 1
-Number of Gamers: 848
+Number of Completions: 4
+Number of Gamers: 1230
 Overall Completion Time:
-- 24
-- 25
+- 29
+- 30
 Overall GS: 1000
-Overall Ratio: 6.85
-Overall TA: 6850
+Overall Ratio: 4.638
+Overall TA: 4638
 PDU: 0
-Percentage Completed: 0.12
-Publisher: SEGA
+Percentage Completed: 0.33
+Publisher: SEGA, Limited Run Games
 Release Date: 30 August 2025
 Server Closure: false
-Site Rating: 4.62
+Site Rating: 4.64
 Update Achievements: []
 Walkthrough: false

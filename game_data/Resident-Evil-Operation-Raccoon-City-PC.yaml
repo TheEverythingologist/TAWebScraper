@@ -1,0 +1,679 @@
+Add On Achievements: []
+Base Completion Time:
+- 30.0
+- 35.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Witness
+  Description: Witness the beginning of the Raccoon City outbreak.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 3709
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '20'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Corrupted
+  Description: Complete the second mission of the U.S.S. campaign.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 2884
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '23'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Danger, High Voltage!
+  Description: Complete the third mission of the U.S.S. campaign.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 2267
+  Percentage of Gamers: 56%
+  Ratio: 1.34
+  TA: '26'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Rogue's Gallery
+  Description: Complete the fourth mission of the U.S.S. campaign.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 2001
+  Percentage of Gamers: 49%
+  Ratio: 1.42
+  TA: '28'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Betrayal
+  Description: Complete the fifth mission of the U.S.S. campaign.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1741
+  Percentage of Gamers: 43%
+  Ratio: 1.53
+  TA: '30'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Down in the Labs
+  Description: Complete the sixth mission of the U.S.S. campaign.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1596
+  Percentage of Gamers: 39%
+  Ratio: 1.59
+  TA: '31'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Died Trying
+  Description: Attempt "The Rescue" and fail
+  GS: '15'
+  Guide: true
+  Number of Gamers: 650
+  Percentage of Gamers: 16%
+  Ratio: 2.5
+  TA: '37'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: A Hero Spared!
+  Description: Attempt "The Rescue" and survive.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1191
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '27'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: The Loyalists
+  Description: Follow orders and defeat all liabilities
+  GS: '15'
+  Guide: true
+  Number of Gamers: 796
+  Percentage of Gamers: 20%
+  Ratio: 2.26
+  TA: '33'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+- Achievement Name: Outbreak Survivalist
+  Description: Complete all U.S.S. missions on Veteran.
+  GS: '25'
+  Guide: false
+  Number of Gamers: 511
+  Percentage of Gamers: 13%
+  Ratio: 2.83
+  TA: '70'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Raccoon City Cleanser
+  Description: Complete all U.S.S. missions on Professional.
+  GS: '35'
+  Guide: false
+  Number of Gamers: 397
+  Percentage of Gamers: 10%
+  Ratio: 3.21
+  TA: '112'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Success
+  Description: Complete all U.S.S. missions with an S Rank.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 307
+  Percentage of Gamers: 8%
+  Ratio: 3.65
+  TA: '109'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Stackable
+  - Time/Date
+- Achievement Name: Great Success
+  Description: Gain S+ on all U.S.S. missions on Veteran or Professional difficulty
+  GS: '45'
+  Guide: true
+  Number of Gamers: 247
+  Percentage of Gamers: 6%
+  Ratio: 4.08
+  TA: '183'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Difficulty Specific
+  - Stackable
+  - Time/Date
+- Achievement Name: On A Roll
+  Description: Achieve a 5 kill streak in a Versus match.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 395
+  Percentage of Gamers: 10%
+  Ratio: 3.21
+  TA: '48'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Skill... Or Luck?
+  Description: Achieve a 10 kill streak in a Versus match.
+  GS: '25'
+  Guide: true
+  Number of Gamers: 362
+  Percentage of Gamers: 9%
+  Ratio: 3.35
+  TA: '83'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Now That's G
+  Description: Collect 3 G-Virus Samples in one Biohazard match.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 391
+  Percentage of Gamers: 10%
+  Ratio: 3.23
+  TA: '48'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: No Sample For You
+  Description: Force 25 enemies to drop G-Virus Samples in Biohazard (lifetime).
+  GS: '30'
+  Guide: true
+  Number of Gamers: 332
+  Percentage of Gamers: 8%
+  Ratio: 3.5
+  TA: '105'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Supreme Survivors
+  Description: In Survivors mode, have all 4 players on your team Survive the game.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 387
+  Percentage of Gamers: 9%
+  Ratio: 3.24
+  TA: '64'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+- Achievement Name: Fallen Idols
+  Description: In Heroes mode, eliminate 4 Heroes in one game.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 365
+  Percentage of Gamers: 9%
+  Ratio: 3.34
+  TA: '100'
+  Tags:
+  - Online Mode
+  - Versus
+  - 12 Players Required
+- Achievement Name: Sampler
+  Description: Play at least one match in every Versus game type
+  GS: '20'
+  Guide: false
+  Number of Gamers: 415
+  Percentage of Gamers: 10%
+  Ratio: 3.13
+  TA: '62'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: You Love to Hate my 98
+  Description: Complete 98 Versus games
+  GS: '50'
+  Guide: true
+  Number of Gamers: 295
+  Percentage of Gamers: 7%
+  Ratio: 3.72
+  TA: '186'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Tongue Tied
+  Description: Kill a Licker that is grappling a Teammate.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1542
+  Percentage of Gamers: 38%
+  Ratio: 1.62
+  TA: '16'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Like a Butterfly
+  Description: Kill 100 zombies with CQC (lifetime)
+  GS: '15'
+  Guide: true
+  Number of Gamers: 557
+  Percentage of Gamers: 14%
+  Ratio: 2.7
+  TA: '40'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Stop Squirming
+  Description: 17 Hunters Killed (lifetime)
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1192
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '18'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: This Place Crawls
+  Description: 31 Parasites killed (lifetime)
+  GS: '15'
+  Guide: true
+  Number of Gamers: 419
+  Percentage of Gamers: 10%
+  Ratio: 3.12
+  TA: '46'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: By Trail Of Dead
+  Description: 50 Versus opponents killed (lifetime)
+  GS: '10'
+  Guide: true
+  Number of Gamers: 353
+  Percentage of Gamers: 9%
+  Ratio: 3.39
+  TA: '33'
+  Tags:
+  - Online Mode
+  - Versus
+  - Cumulative +
+- Achievement Name: Hat Trick
+  Description: 3 Tyrants Killed (lifetime)
+  GS: '15'
+  Guide: true
+  Number of Gamers: 585
+  Percentage of Gamers: 14%
+  Ratio: 2.64
+  TA: '39'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Only Hurts For A While
+  Description: Infected 13 times (lifetime)
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1357
+  Percentage of Gamers: 33%
+  Ratio: 1.73
+  TA: '17'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Clingy
+  Description: 13 Parasite Zombies killed (lifetime)
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1447
+  Percentage of Gamers: 35%
+  Ratio: 1.67
+  TA: '16'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Revival
+  Description: Revive 31 team mates (lifetime)
+  GS: '20'
+  Guide: true
+  Number of Gamers: 1189
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '37'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Green Thumb
+  Description: Heal with 101 Green Herbs (lifetime)
+  GS: '25'
+  Guide: true
+  Number of Gamers: 972
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '51'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: Down Boy
+  Description: Kill  13 zombie dogs (lifetime)
+  GS: '15'
+  Guide: true
+  Number of Gamers: 375
+  Percentage of Gamers: 9%
+  Ratio: 3.3
+  TA: '49'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: These Will Do
+  Description: Purchase 5 weapons.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 818
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '22'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Shop
+- Achievement Name: Choices Aplenty
+  Description: Purchase 15 weapons.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 450
+  Percentage of Gamers: 11%
+  Ratio: 3.01
+  TA: '45'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Shop
+- Achievement Name: Quite The Collection
+  Description: Purchase all available weapons.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 396
+  Percentage of Gamers: 10%
+  Ratio: 3.21
+  TA: '96'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Shop
+- Achievement Name: One Trick Pony
+  Description: Purchase an ability.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 3409
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '10'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Shop
+- Achievement Name: Feelin' Stronger Every Day
+  Description: Fully upgrade an ability.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1651
+  Percentage of Gamers: 40%
+  Ratio: 1.57
+  TA: '23'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+  - Shop
+- Achievement Name: Look What I Can Do
+  Description: Purchase all abilities for one character class.
+  GS: '20'
+  Guide: false
+  Number of Gamers: 1429
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '33'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Shop
+- Achievement Name: Ready To Dominate
+  Description: Fully upgrade all abilities for one character class.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 654
+  Percentage of Gamers: 16%
+  Ratio: 2.49
+  TA: '49'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+  - Shop
+- Achievement Name: So Many Choices
+  Description: Purchase all abilities for all character classes.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 445
+  Percentage of Gamers: 11%
+  Ratio: 3.03
+  TA: '90'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Shop
+- Achievement Name: Epic Standards
+  Description: Upgrade all abilities for all characters to its maximum level.
+  GS: '40'
+  Guide: true
+  Number of Gamers: 343
+  Percentage of Gamers: 8%
+  Ratio: 3.45
+  TA: '138'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Level
+  - Shop
+- Achievement Name: Organic Shield
+  Description: Kill 5 enemies consecutively while using a zombie as a shield.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 854
+  Percentage of Gamers: 21%
+  Ratio: 2.18
+  TA: '43'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Baker's Dozen
+  Description: Kill 13 zombified teammates.
+  GS: '30'
+  Guide: true
+  Number of Gamers: 419
+  Percentage of Gamers: 10%
+  Ratio: 3.12
+  TA: '93'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+- Achievement Name: So Hot Right Now
+  Description: Kill 103 enemies with incendiary rounds (lifetime)
+  GS: '15'
+  Guide: false
+  Number of Gamers: 398
+  Percentage of Gamers: 10%
+  Ratio: 3.2
+  TA: '48'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+  - Cumulative +
+  - Shop
+- Achievement Name: Bloody Good Time
+  Description: Kill 5 enemies by causing Blood Frenzy in a single campaign game or
+    multiplayer match.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 2234
+  Percentage of Gamers: 55%
+  Ratio: 1.35
+  TA: '27'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Up Close and Personal
+  Description: Kill 5 players in one multiplayer game with CQC Kills.
+  GS: '10'
+  Guide: true
+  Number of Gamers: 369
+  Percentage of Gamers: 9%
+  Ratio: 3.32
+  TA: '33'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: Chaos Averted
+  Description: Kill an infected teammate with a headshot before they become a zombie
+    in any mode.
+  GS: '5'
+  Guide: true
+  Number of Gamers: 1275
+  Percentage of Gamers: 31%
+  Ratio: 1.78
+  TA: '8'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Like a Bee
+  Description: Kill 10 enemy players in one Versus game with CQC.
+  GS: '20'
+  Guide: true
+  Number of Gamers: 350
+  Percentage of Gamers: 9%
+  Ratio: 3.41
+  TA: '68'
+  Tags:
+  - Online Mode
+  - Versus
+- Achievement Name: A Gun by Any Other Name
+  Description: Kill an enemy with each weapon type including special weapons.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 903
+  Percentage of Gamers: 22%
+  Ratio: 2.12
+  TA: '31'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Versus
+- Achievement Name: Raccoon City Mascot
+  Description: Collect all 7 Raccoons.
+  GS: '15'
+  Guide: true
+  Number of Gamers: 373
+  Percentage of Gamers: 9%
+  Ratio: 3.31
+  TA: '49'
+  Tags:
+  - Online/Offline
+  - Single Player
+  - Cooperative
+  - Collectable
+Base Ratio: 2.693
+Base TA: 2693
+Delisted: true
+Developer: Slant Six Games
+Game Name: 'Resident Evil: Operation Raccoon City (GFWL)'
+Genres: Third Person Shooter, Action Horror
+Install Size: 6150.0
+Number of Completions: 202
+Number of Gamers: 4077
+Overall Completion Time:
+- 30.0
+- 35.0
+Overall GS: 1000
+Overall Ratio: 2.693
+Overall TA: 2693
+PDU: 0
+Percentage Completed: 4.95
+Publisher: Capcom Entertainment
+Release Date: 18 May 2012
+Server Closure: false
+Site Rating: 3.21
+Update Achievements: []
+Walkthrough: false

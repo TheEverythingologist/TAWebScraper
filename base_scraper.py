@@ -77,7 +77,7 @@ class BaseScraper:
         for page in tqdm(range(1, total_pages + 1)):
             rows = self.get_gamebox_trs(scraper, page)
             all_rows.extend(rows)
-            time_delay = random.uniform(2,5)
+            time_delay = random.uniform(5,10)
             time.sleep(time_delay)  # be polite to server
 
         return all_rows

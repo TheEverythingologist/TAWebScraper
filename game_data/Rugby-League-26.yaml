@@ -1,16 +1,16 @@
 Add On Achievements: []
 Base Completion Time:
-- 82
-- 83
+- 70
+- 71
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Origin Story
   Description: Win a match with an academy created player (any difficulty)
   GS: '10'
   Guide: false
-  Number of Gamers: 58
+  Number of Gamers: 60
   Percentage of Gamers: 8%
-  Ratio: 3.55
+  Ratio: 3.5
   TA: '35'
   Tags:
   - Online/Offline
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Kick a 40/20
   GS: '10'
   Guide: false
-  Number of Gamers: 286
-  Percentage of Gamers: 39%
-  Ratio: 1.6
-  TA: '16'
+  Number of Gamers: 293
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '15'
   Tags:
   - Online/Offline
   - Single Player
@@ -32,7 +32,7 @@ Base Game Achievements:
   Description: Perform 5 big hits in a single match
   GS: '10'
   Guide: false
-  Number of Gamers: 435
+  Number of Gamers: 440
   Percentage of Gamers: 60%
   Ratio: 1.29
   TA: '12'
@@ -44,9 +44,9 @@ Base Game Achievements:
   Description: Taunt and then score a try with the same player
   GS: '10'
   Guide: true
-  Number of Gamers: 456
-  Percentage of Gamers: 62%
-  Ratio: 1.26
+  Number of Gamers: 469
+  Percentage of Gamers: 64%
+  Ratio: 1.25
   TA: '12'
   Tags:
   - Online/Offline
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Win a match in golden point extra time
   GS: '10'
   Guide: false
-  Number of Gamers: 371
-  Percentage of Gamers: 51%
-  Ratio: 1.4
-  TA: '14'
+  Number of Gamers: 380
+  Percentage of Gamers: 52%
+  Ratio: 1.39
+  TA: '13'
   Tags:
   - Online/Offline
   - Single Player
@@ -68,7 +68,7 @@ Base Game Achievements:
   Description: Complete a match without a single high tackle
   GS: '10'
   Guide: false
-  Number of Gamers: 703
+  Number of Gamers: 711
   Percentage of Gamers: 96%
   Ratio: 1.01
   TA: '10'
@@ -80,9 +80,9 @@ Base Game Achievements:
   Description: Obtain a try after a video ref decision
   GS: '10'
   Guide: false
-  Number of Gamers: 546
-  Percentage of Gamers: 75%
-  Ratio: 1.15
+  Number of Gamers: 559
+  Percentage of Gamers: 76%
+  Ratio: 1.14
   TA: '11'
   Tags:
   - Online/Offline
@@ -92,9 +92,9 @@ Base Game Achievements:
   Description: Score a try after a contested catch
   GS: '10'
   Guide: false
-  Number of Gamers: 314
-  Percentage of Gamers: 43%
-  Ratio: 1.52
+  Number of Gamers: 323
+  Percentage of Gamers: 44%
+  Ratio: 1.51
   TA: '15'
   Tags:
   - Online/Offline
@@ -104,8 +104,8 @@ Base Game Achievements:
   Description: Score a try after diving on a loose ball
   GS: '10'
   Guide: false
-  Number of Gamers: 373
-  Percentage of Gamers: 51%
+  Number of Gamers: 381
+  Percentage of Gamers: 52%
   Ratio: 1.39
   TA: '13'
   Tags:
@@ -116,8 +116,8 @@ Base Game Achievements:
   Description: Win a match by 30 points
   GS: '10'
   Guide: true
-  Number of Gamers: 537
-  Percentage of Gamers: 73%
+  Number of Gamers: 545
+  Percentage of Gamers: 74%
   Ratio: 1.16
   TA: '11'
   Tags:
@@ -128,9 +128,9 @@ Base Game Achievements:
   Description: Upload a created player in Academy
   GS: '15'
   Guide: false
-  Number of Gamers: 79
+  Number of Gamers: 81
   Percentage of Gamers: 11%
-  Ratio: 3.04
+  Ratio: 3.01
   TA: '45'
   Tags:
   - Online Mode
@@ -139,10 +139,10 @@ Base Game Achievements:
   Description: Drive the defence back over the try line to score a try
   GS: '15'
   Guide: false
-  Number of Gamers: 284
-  Percentage of Gamers: 39%
-  Ratio: 1.6
-  TA: '24'
+  Number of Gamers: 292
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '23'
   Tags:
   - Online/Offline
   - Single Player
@@ -151,10 +151,10 @@ Base Game Achievements:
   Description: Drag ball carrier back into their own goal
   GS: '15'
   Guide: false
-  Number of Gamers: 409
-  Percentage of Gamers: 56%
-  Ratio: 1.33
-  TA: '20'
+  Number of Gamers: 423
+  Percentage of Gamers: 57%
+  Ratio: 1.32
+  TA: '19'
   Tags:
   - Online/Offline
   - Single Player
@@ -163,7 +163,7 @@ Base Game Achievements:
   Description: Complete 2000 run metres across all matches
   GS: '15'
   Guide: false
-  Number of Gamers: 610
+  Number of Gamers: 615
   Percentage of Gamers: 83%
   Ratio: 1.09
   TA: '16'
@@ -176,7 +176,7 @@ Base Game Achievements:
   Description: Score a try from a grubber kick or a chip kick
   GS: '15'
   Guide: true
-  Number of Gamers: 435
+  Number of Gamers: 440
   Percentage of Gamers: 60%
   Ratio: 1.29
   TA: '19'
@@ -188,9 +188,9 @@ Base Game Achievements:
   Description: Complete 50 evasive manoeuvres across all matches
   GS: '15'
   Guide: false
-  Number of Gamers: 648
+  Number of Gamers: 657
   Percentage of Gamers: 89%
-  Ratio: 1.06
+  Ratio: 1.05
   TA: '15'
   Tags:
   - Online/Offline
@@ -201,9 +201,9 @@ Base Game Achievements:
   Description: Kick 100 conversions across all matches
   GS: '30'
   Guide: false
-  Number of Gamers: 311
-  Percentage of Gamers: 43%
-  Ratio: 1.53
+  Number of Gamers: 324
+  Percentage of Gamers: 44%
+  Ratio: 1.51
   TA: '45'
   Tags:
   - Online/Offline
@@ -215,9 +215,9 @@ Base Game Achievements:
     or above
   GS: '30'
   Guide: false
-  Number of Gamers: 82
+  Number of Gamers: 84
   Percentage of Gamers: 11%
-  Ratio: 2.98
+  Ratio: 2.97
   TA: '89'
   Tags:
   - Offline Mode
@@ -228,10 +228,10 @@ Base Game Achievements:
     all matches
   GS: '30'
   Guide: false
-  Number of Gamers: 20
+  Number of Gamers: 21
   Percentage of Gamers: 3%
-  Ratio: 6.04
-  TA: '181'
+  Ratio: 5.92
+  TA: '177'
   Tags:
   - Online/Offline
   - Single Player
@@ -241,10 +241,10 @@ Base Game Achievements:
   Description: Perform 100 offloads to receivers across all matches
   GS: '30'
   Guide: false
-  Number of Gamers: 175
-  Percentage of Gamers: 24%
-  Ratio: 2.05
-  TA: '61'
+  Number of Gamers: 191
+  Percentage of Gamers: 26%
+  Ratio: 1.96
+  TA: '59'
   Tags:
   - Online/Offline
   - Single Player
@@ -254,7 +254,7 @@ Base Game Achievements:
   Description: Complete 100 lines breaks across all matches
   GS: '30'
   Guide: false
-  Number of Gamers: 578
+  Number of Gamers: 581
   Percentage of Gamers: 79%
   Ratio: 1.12
   TA: '33'
@@ -267,9 +267,9 @@ Base Game Achievements:
   Description: Win 10 online matches
   GS: '30'
   Guide: false
-  Number of Gamers: 37
+  Number of Gamers: 38
   Percentage of Gamers: 5%
-  Ratio: 4.44
+  Ratio: 4.46
   TA: '133'
   Tags:
   - Online Mode
@@ -278,11 +278,11 @@ Base Game Achievements:
 - Achievement Name: Comeback Kid
   Description: Win a match while losing by 20+ points at half time
   GS: '30'
-  Guide: false
-  Number of Gamers: 42
+  Guide: true
+  Number of Gamers: 44
   Percentage of Gamers: 6%
-  Ratio: 4.17
-  TA: '125'
+  Ratio: 4.08
+  TA: '122'
   Tags:
   - Online/Offline
   - Single Player
@@ -292,10 +292,10 @@ Base Game Achievements:
     and above
   GS: '30'
   Guide: false
-  Number of Gamers: 105
-  Percentage of Gamers: 14%
-  Ratio: 2.63
-  TA: '79'
+  Number of Gamers: 109
+  Percentage of Gamers: 15%
+  Ratio: 2.61
+  TA: '78'
   Tags:
   - Offline Mode
   - Single Player
@@ -304,9 +304,9 @@ Base Game Achievements:
   Description: Score 3 tries with dummy half after a scoot in a single match
   GS: '30'
   Guide: false
-  Number of Gamers: 255
+  Number of Gamers: 261
   Percentage of Gamers: 35%
-  Ratio: 1.69
+  Ratio: 1.67
   TA: '50'
   Tags:
   - Online/Offline
@@ -316,9 +316,9 @@ Base Game Achievements:
   Description: Perform a successful charge down to prevent a field goal
   GS: '30'
   Guide: false
-  Number of Gamers: 358
-  Percentage of Gamers: 49%
-  Ratio: 1.42
+  Number of Gamers: 372
+  Percentage of Gamers: 50%
+  Ratio: 1.4
   TA: '42'
   Tags:
   - Online/Offline
@@ -328,10 +328,10 @@ Base Game Achievements:
   Description: Win a match after losing by 14+ point in veteran difficulty or above
   GS: '30'
   Guide: false
-  Number of Gamers: 38
+  Number of Gamers: 39
   Percentage of Gamers: 5%
-  Ratio: 4.38
-  TA: '131'
+  Ratio: 4.34
+  TA: '130'
   Tags:
   - Offline Mode
   - Single Player
@@ -340,10 +340,10 @@ Base Game Achievements:
   Description: Score at least 10 points from drop goals in a single match
   GS: '30'
   Guide: false
-  Number of Gamers: 74
-  Percentage of Gamers: 10%
-  Ratio: 3.14
-  TA: '94'
+  Number of Gamers: 78
+  Percentage of Gamers: 11%
+  Ratio: 3.07
+  TA: '92'
   Tags:
   - Online/Offline
   - Single Player
@@ -351,11 +351,11 @@ Base Game Achievements:
 - Achievement Name: Donuts
   Description: Keep opposition team scoreless in a match on legend difficulty
   GS: '30'
-  Guide: false
-  Number of Gamers: 61
-  Percentage of Gamers: 8%
-  Ratio: 3.46
-  TA: '103'
+  Guide: true
+  Number of Gamers: 64
+  Percentage of Gamers: 9%
+  Ratio: 3.39
+  TA: '101'
   Tags:
   - Offline Mode
   - Single Player
@@ -364,10 +364,10 @@ Base Game Achievements:
   Description: Score a try while a player is in the sin bin
   GS: '30'
   Guide: false
-  Number of Gamers: 139
-  Percentage of Gamers: 19%
-  Ratio: 2.29
-  TA: '68'
+  Number of Gamers: 147
+  Percentage of Gamers: 20%
+  Ratio: 2.24
+  TA: '67'
   Tags:
   - Online/Offline
   - Single Player
@@ -376,10 +376,10 @@ Base Game Achievements:
   Description: Win an NRL or Super League Premiership competition
   GS: '30'
   Guide: false
-  Number of Gamers: 81
-  Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '90'
+  Number of Gamers: 95
+  Percentage of Gamers: 13%
+  Ratio: 2.78
+  TA: '83'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -388,10 +388,10 @@ Base Game Achievements:
     a loss
   GS: '90'
   Guide: false
-  Number of Gamers: 44
-  Percentage of Gamers: 6%
-  Ratio: 4.07
-  TA: '366'
+  Number of Gamers: 51
+  Percentage of Gamers: 7%
+  Ratio: 3.79
+  TA: '341'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -399,10 +399,10 @@ Base Game Achievements:
   Description: Score a field goal to win a match in the final 3 minutes (in game time)
   GS: '90'
   Guide: false
-  Number of Gamers: 218
+  Number of Gamers: 222
   Percentage of Gamers: 30%
-  Ratio: 1.83
-  TA: '164'
+  Ratio: 1.82
+  TA: '163'
   Tags:
   - Online/Offline
   - Single Player
@@ -411,10 +411,10 @@ Base Game Achievements:
   Description: Score 500 tries across all matches
   GS: '90'
   Guide: false
-  Number of Gamers: 48
-  Percentage of Gamers: 7%
-  Ratio: 3.94
-  TA: '354'
+  Number of Gamers: 58
+  Percentage of Gamers: 8%
+  Ratio: 3.62
+  TA: '326'
   Tags:
   - Online/Offline
   - Single Player
@@ -424,35 +424,35 @@ Base Game Achievements:
   Description: Perform 1000 tackles across all matches
   GS: '90'
   Guide: false
-  Number of Gamers: 368
-  Percentage of Gamers: 50%
-  Ratio: 1.4
-  TA: '126'
+  Number of Gamers: 377
+  Percentage of Gamers: 51%
+  Ratio: 1.39
+  TA: '125'
   Tags:
   - Online/Offline
   - Single Player
   - Versus
   - Cumulative +
-Base Ratio: 2.622
-Base TA: 2622
+Base Ratio: 2.54
+Base TA: 2540
 Delisted: false
 Developer: Big Ant Studios
 Game Name: Rugby League 26
 Genres: Sports, Rugby
 Install Size: 59560.0
-Number of Completions: 3
-Number of Gamers: 731
+Number of Completions: 4
+Number of Gamers: 737
 Overall Completion Time:
-- 82
-- 83
+- 70
+- 71
 Overall GS: 1000
-Overall Ratio: 2.622
-Overall TA: 2622
+Overall Ratio: 2.54
+Overall TA: 2540
 PDU: 0
-Percentage Completed: 0.41
+Percentage Completed: 0.54
 Publisher: Nacon
 Release Date: 16 July 2025
 Server Closure: false
-Site Rating: 0.5
+Site Rating: 2.25
 Update Achievements: []
 Walkthrough: false

@@ -1,15 +1,15 @@
 Add On Achievements: []
 Base Completion Time:
-- -1
-- -1
+- 10
+- 11
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Strike Force
   Description: Bowl a strike 50 times in total in classic mode
   GS: '90'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 38%
+  Number of Gamers: 30
+  Percentage of Gamers: 39%
   Ratio: 1.59
   TA: '143'
   Tags: []
@@ -17,8 +17,8 @@ Base Game Achievements:
   Description: Bowl a spare 50 times in total in classic mode
   GS: '15'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 38%
+  Number of Gamers: 30
+  Percentage of Gamers: 39%
   Ratio: 1.59
   TA: '23'
   Tags: []
@@ -26,44 +26,44 @@ Base Game Achievements:
   Description: Enter training mode
   GS: '15'
   Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 88%
-  Ratio: 1.07
-  TA: '16'
+  Number of Gamers: 70
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '15'
   Tags: []
 - Achievement Name: Pin Pusher
   Description: Acquire Power skill
   GS: '15'
   Guide: false
-  Number of Gamers: 24
-  Percentage of Gamers: 92%
-  Ratio: 1.04
+  Number of Gamers: 73
+  Percentage of Gamers: 95%
+  Ratio: 1.02
   TA: '15'
   Tags: []
 - Achievement Name: Pin Whisperer
   Description: Acquire Nitro skill
   GS: '30'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 46%
-  Ratio: 1.51
-  TA: '45'
+  Number of Gamers: 36
+  Percentage of Gamers: 47%
+  Ratio: 1.45
+  TA: '43'
   Tags: []
 - Achievement Name: KingPin
   Description: Acquire Convert skill
   GS: '90'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 27%
-  Ratio: 1.95
-  TA: '176'
+  Number of Gamers: 22
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '167'
   Tags: []
 - Achievement Name: Ball Enthusiast
   Description: Own more than a quarter of the Common balls
   GS: '15'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 38%
+  Number of Gamers: 30
+  Percentage of Gamers: 39%
   Ratio: 1.59
   TA: '23'
   Tags: []
@@ -71,80 +71,80 @@ Base Game Achievements:
   Description: Own at least two Rare balls
   GS: '30'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 15%
-  Ratio: 2.39
-  TA: '71'
+  Number of Gamers: 17
+  Percentage of Gamers: 22%
+  Ratio: 2.11
+  TA: '63'
   Tags: []
 - Achievement Name: The Mythical Bowler
   Description: Own one of the Mythic balls
   GS: '90'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 23%
-  Ratio: 2.14
-  TA: '193'
+  Number of Gamers: 16
+  Percentage of Gamers: 21%
+  Ratio: 2.17
+  TA: '196'
   Tags: []
 - Achievement Name: Pinfluencer
   Description: Own more than a quarter of the Common outfits
   GS: '15'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 46%
-  Ratio: 1.51
-  TA: '22'
+  Number of Gamers: 40
+  Percentage of Gamers: 52%
+  Ratio: 1.37
+  TA: '20'
   Tags: []
 - Achievement Name: Strike a Pose
   Description: Own at least two Rare outfits
   GS: '30'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 15%
-  Ratio: 2.39
-  TA: '71'
+  Number of Gamers: 11
+  Percentage of Gamers: 14%
+  Ratio: 2.62
+  TA: '78'
   Tags: []
 - Achievement Name: Catwalk on the Lane
   Description: Own one of the Mythic outfits
   GS: '90'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 8%
-  Ratio: 3.39
-  TA: '305'
+  Number of Gamers: 9
+  Percentage of Gamers: 12%
+  Ratio: 2.9
+  TA: '261'
   Tags: []
 - Achievement Name: Breaking Gutter Habits
   Description: Reach the Junior League
   GS: '15'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 62%
-  Ratio: 1.28
-  TA: '19'
+  Number of Gamers: 49
+  Percentage of Gamers: 64%
+  Ratio: 1.24
+  TA: '18'
   Tags: []
 - Achievement Name: Frame Slayer
   Description: Reach the Advanced League
   GS: '30'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 35%
-  Ratio: 1.69
-  TA: '50'
+  Number of Gamers: 26
+  Percentage of Gamers: 34%
+  Ratio: 1.7
+  TA: '51'
   Tags: []
 - Achievement Name: Big Leaguer
   Description: Reach the Prodigy League
   GS: '90'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '90'
+  Number of Gamers: 11
+  Percentage of Gamers: 14%
+  Ratio: 2.62
+  TA: '236'
   Tags: []
 - Achievement Name: Ball of Fame
   Description: Upgrade one of your balls to the max level
   GS: '30'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 31%
+  Number of Gamers: 23
+  Percentage of Gamers: 30%
   Ratio: 1.81
   TA: '54'
   Tags: []
@@ -152,58 +152,58 @@ Base Game Achievements:
   Description: Upgrade one of your outfits to the max level
   GS: '30'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 27%
-  Ratio: 1.81
-  TA: '54'
+  Number of Gamers: 18
+  Percentage of Gamers: 23%
+  Ratio: 2.05
+  TA: '61'
   Tags: []
 - Achievement Name: Not Just a Lucky Roll
   Description: Win the Tournament Final
   GS: '100'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 12%
-  Ratio: 3.39
-  TA: '339'
+  Number of Gamers: 18
+  Percentage of Gamers: 23%
+  Ratio: 2.05
+  TA: '205'
   Tags: []
 - Achievement Name: Precision Overload
   Description: Knock down at least 90% of the pins during the 100 Pins! event
   GS: '90'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 23%
-  Ratio: 2.14
-  TA: '193'
+  Number of Gamers: 24
+  Percentage of Gamers: 31%
+  Ratio: 1.77
+  TA: '160'
   Tags: []
 - Achievement Name: Born to Survive
   Description: Beat level 6 in the Survival event
   GS: '90'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 8%
-  Ratio: 4.79
-  TA: '431'
+  Number of Gamers: 7
+  Percentage of Gamers: 9%
+  Ratio: 3.29
+  TA: '296'
   Tags: []
-Base Ratio: 2.333
-Base TA: 2333
+Base Ratio: 2.128
+Base TA: 2128
 Delisted: false
 Developer: Voodoo
 Game Name: Skyline Bowling
 Genres: Sports, Bowling
 Install Size: 1080.0
-Number of Completions: 0
-Number of Gamers: 26
+Number of Completions: 4
+Number of Gamers: 77
 Overall Completion Time:
-- -1
-- -1
+- 10
+- 11
 Overall GS: 1000
-Overall Ratio: 2.333
-Overall TA: 2333
+Overall Ratio: 2.128
+Overall TA: 2128
 PDU: 0
-Percentage Completed: 0.0
+Percentage Completed: 5.19
 Publisher: QubicGames
-Release Date: 05 September 2025
+Release Date: Today
 Server Closure: false
-Site Rating: 5.0
+Site Rating: 2.75
 Update Achievements: []
 Walkthrough: false

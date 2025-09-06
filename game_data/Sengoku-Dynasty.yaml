@@ -1,7 +1,7 @@
 Add On Achievements: []
 Base Completion Time:
-- -1
-- -1
+- 28
+- 29
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Personal Enlightenment
@@ -9,10 +9,10 @@ Base Game Achievements:
     perks.
   GS: '100'
   Guide: false
-  Number of Gamers: 2
+  Number of Gamers: 3
   Percentage of Gamers: 0%
-  Ratio: 19.57
-  TA: 1,957
+  Ratio: 16.5
+  TA: 1,650
   Tags:
   - Online/Offline
   - Single Player
@@ -22,10 +22,10 @@ Base Game Achievements:
   Description: Reach the max population at max Dynasty Level.
   GS: '100'
   Guide: false
-  Number of Gamers: 5
+  Number of Gamers: 9
   Percentage of Gamers: 1%
-  Ratio: 12.37
-  TA: 1,237
+  Ratio: 9.52
+  TA: '952'
   Tags:
   - Online/Offline
   - Single Player
@@ -35,10 +35,10 @@ Base Game Achievements:
   Description: Complete all Special Projects on the map.
   GS: '100'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 5
   Percentage of Gamers: 1%
-  Ratio: 13.83
-  TA: 1,383
+  Ratio: 12.78
+  TA: 1,278
   Tags:
   - Online/Offline
   - Single Player
@@ -47,10 +47,10 @@ Base Game Achievements:
   Description: Unlock max level in all Way of the Warrior (non-background) perks.
   GS: '30'
   Guide: false
-  Number of Gamers: 2
+  Number of Gamers: 3
   Percentage of Gamers: 0%
-  Ratio: 19.57
-  TA: '587'
+  Ratio: 16.5
+  TA: '495'
   Tags:
   - Online/Offline
   - Single Player
@@ -60,10 +60,10 @@ Base Game Achievements:
   Description: Unlock max level in all Way of the Monk (non-background) perks.
   GS: '30'
   Guide: false
-  Number of Gamers: 35
+  Number of Gamers: 41
   Percentage of Gamers: 5%
-  Ratio: 4.67
-  TA: '140'
+  Ratio: 4.46
+  TA: '133'
   Tags:
   - Online/Offline
   - Single Player
@@ -73,10 +73,10 @@ Base Game Achievements:
   Description: Unlock max level in all Way of the Craftsman (non-background) perks.
   GS: '30'
   Guide: false
-  Number of Gamers: 16
+  Number of Gamers: 20
   Percentage of Gamers: 2%
-  Ratio: 6.91
-  TA: '207'
+  Ratio: 6.39
+  TA: '191'
   Tags:
   - Online/Offline
   - Single Player
@@ -86,10 +86,10 @@ Base Game Achievements:
   Description: Reach the max Dynasty Legend level.
   GS: '30'
   Guide: false
-  Number of Gamers: 13
+  Number of Gamers: 20
   Percentage of Gamers: 2%
-  Ratio: 7.67
-  TA: '230'
+  Ratio: 6.39
+  TA: '191'
   Tags:
   - Online/Offline
   - Single Player
@@ -99,10 +99,10 @@ Base Game Achievements:
   Description: Have 50,000 coins in your inventory.
   GS: '30'
   Guide: false
-  Number of Gamers: 12
+  Number of Gamers: 18
   Percentage of Gamers: 2%
-  Ratio: 7.98
-  TA: '239'
+  Ratio: 6.73
+  TA: '202'
   Tags:
   - Online/Offline
   - Single Player
@@ -112,10 +112,10 @@ Base Game Achievements:
   Description: Finish all neutral village side quests.
   GS: '30'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 1%
-  Ratio: 8.34
-  TA: '250'
+  Number of Gamers: 19
+  Percentage of Gamers: 2%
+  Ratio: 6.55
+  TA: '196'
   Tags:
   - Online/Offline
   - Single Player
@@ -124,10 +124,10 @@ Base Game Achievements:
   Description: Liberate all regions.
   GS: '30'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 2%
-  Ratio: 6.91
-  TA: '207'
+  Number of Gamers: 23
+  Percentage of Gamers: 3%
+  Ratio: 5.96
+  TA: '178'
   Tags:
   - Online/Offline
   - Single Player
@@ -136,10 +136,10 @@ Base Game Achievements:
   Description: Kill all types of animals and any human opponent.
   GS: '30'
   Guide: true
-  Number of Gamers: 226
-  Percentage of Gamers: 29%
-  Ratio: 1.84
-  TA: '55'
+  Number of Gamers: 261
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '53'
   Tags:
   - Online/Offline
   - Single Player
@@ -149,10 +149,10 @@ Base Game Achievements:
   Description: Have a positive production for all 8 types of needs simultaneously.
   GS: '30'
   Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 4%
-  Ratio: 5.05
-  TA: '151'
+  Number of Gamers: 42
+  Percentage of Gamers: 5%
+  Ratio: 4.41
+  TA: '132'
   Tags:
   - Online/Offline
   - Single Player
@@ -161,9 +161,9 @@ Base Game Achievements:
   Description: Build any decoration.
   GS: '10'
   Guide: false
-  Number of Gamers: 243
-  Percentage of Gamers: 32%
-  Ratio: 1.78
+  Number of Gamers: 275
+  Percentage of Gamers: 34%
+  Ratio: 1.72
   TA: '17'
   Tags:
   - Online/Offline
@@ -173,10 +173,10 @@ Base Game Achievements:
   Description: Personally harvest crops from your farm field.
   GS: '15'
   Guide: false
-  Number of Gamers: 149
-  Percentage of Gamers: 19%
-  Ratio: 2.26
-  TA: '34'
+  Number of Gamers: 167
+  Percentage of Gamers: 20%
+  Ratio: 2.21
+  TA: '33'
   Tags:
   - Online/Offline
   - Single Player
@@ -185,10 +185,10 @@ Base Game Achievements:
   Description: Consume any top-tier, excellent meal.
   GS: '15'
   Guide: false
-  Number of Gamers: 95
-  Percentage of Gamers: 12%
-  Ratio: 2.83
-  TA: '42'
+  Number of Gamers: 121
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '38'
   Tags:
   - Online/Offline
   - Single Player
@@ -197,7 +197,7 @@ Base Game Achievements:
   Description: Cut down any full-size tree.
   GS: '10'
   Guide: false
-  Number of Gamers: 764
+  Number of Gamers: 814
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '10'
@@ -209,10 +209,10 @@ Base Game Achievements:
   Description: Die because of the fall damage.
   GS: '15'
   Guide: false
-  Number of Gamers: 202
-  Percentage of Gamers: 26%
-  Ratio: 1.94
-  TA: '29'
+  Number of Gamers: 232
+  Percentage of Gamers: 28%
+  Ratio: 1.87
+  TA: '28'
   Tags:
   - Online/Offline
   - Single Player
@@ -221,10 +221,10 @@ Base Game Achievements:
   Description: Build any house-type structure.
   GS: '25'
   Guide: true
-  Number of Gamers: 651
-  Percentage of Gamers: 85%
-  Ratio: 1.08
-  TA: '27'
+  Number of Gamers: 701
+  Percentage of Gamers: 86%
+  Ratio: 1.07
+  TA: '26'
   Tags:
   - Online/Offline
   - Single Player
@@ -233,10 +233,10 @@ Base Game Achievements:
   Description: Have a child.
   GS: '25'
   Guide: false
-  Number of Gamers: 33
-  Percentage of Gamers: 4%
-  Ratio: 4.89
-  TA: '122'
+  Number of Gamers: 43
+  Percentage of Gamers: 5%
+  Ratio: 4.35
+  TA: '108'
   Tags:
   - Online/Offline
   - Single Player
@@ -245,10 +245,10 @@ Base Game Achievements:
   Description: Plant a tree and let it grow to full size.
   GS: '15'
   Guide: false
-  Number of Gamers: 80
-  Percentage of Gamers: 10%
-  Ratio: 3.11
-  TA: '46'
+  Number of Gamers: 105
+  Percentage of Gamers: 13%
+  Ratio: 2.78
+  TA: '41'
   Tags:
   - Online/Offline
   - Single Player
@@ -257,10 +257,10 @@ Base Game Achievements:
   Description: Drink sake.
   GS: '15'
   Guide: false
-  Number of Gamers: 174
-  Percentage of Gamers: 23%
-  Ratio: 2.09
-  TA: '31'
+  Number of Gamers: 202
+  Percentage of Gamers: 25%
+  Ratio: 2.01
+  TA: '30'
   Tags:
   - Online/Offline
   - Single Player
@@ -269,9 +269,9 @@ Base Game Achievements:
   Description: Kill a deer.
   GS: '15'
   Guide: false
-  Number of Gamers: 361
-  Percentage of Gamers: 47%
-  Ratio: 1.45
+  Number of Gamers: 402
+  Percentage of Gamers: 49%
+  Ratio: 1.42
   TA: '21'
   Tags:
   - Online/Offline
@@ -281,10 +281,10 @@ Base Game Achievements:
   Description: Kill a boar.
   GS: '15'
   Guide: false
-  Number of Gamers: 381
-  Percentage of Gamers: 49%
-  Ratio: 1.41
-  TA: '21'
+  Number of Gamers: 424
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '20'
   Tags:
   - Online/Offline
   - Single Player
@@ -293,10 +293,10 @@ Base Game Achievements:
   Description: Kill a wolf
   GS: '15'
   Guide: false
-  Number of Gamers: 353
-  Percentage of Gamers: 46%
-  Ratio: 1.47
-  TA: '22'
+  Number of Gamers: 394
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '21'
   Tags:
   - Online/Offline
   - Single Player
@@ -305,10 +305,10 @@ Base Game Achievements:
   Description: Kill a bear.
   GS: '15'
   Guide: false
-  Number of Gamers: 270
-  Percentage of Gamers: 35%
-  Ratio: 1.69
-  TA: '25'
+  Number of Gamers: 312
+  Percentage of Gamers: 38%
+  Ratio: 1.61
+  TA: '24'
   Tags:
   - Online/Offline
   - Single Player
@@ -317,10 +317,10 @@ Base Game Achievements:
   Description: Kill a hare.
   GS: '10'
   Guide: false
-  Number of Gamers: 360
-  Percentage of Gamers: 47%
-  Ratio: 1.46
-  TA: '14'
+  Number of Gamers: 418
+  Percentage of Gamers: 51%
+  Ratio: 1.39
+  TA: '13'
   Tags:
   - Online/Offline
   - Single Player
@@ -329,9 +329,9 @@ Base Game Achievements:
   Description: Kill a fox.
   GS: '15'
   Guide: false
-  Number of Gamers: 361
-  Percentage of Gamers: 47%
-  Ratio: 1.45
+  Number of Gamers: 404
+  Percentage of Gamers: 49%
+  Ratio: 1.42
   TA: '21'
   Tags:
   - Online/Offline
@@ -341,7 +341,7 @@ Base Game Achievements:
   Description: Kill any enemy.
   GS: '15'
   Guide: false
-  Number of Gamers: 516
+  Number of Gamers: 552
   Percentage of Gamers: 67%
   Ratio: 1.21
   TA: '18'
@@ -354,10 +354,10 @@ Base Game Achievements:
     a copper-tier weapon or tool.
   GS: '10'
   Guide: false
-  Number of Gamers: 384
-  Percentage of Gamers: 50%
-  Ratio: 1.41
-  TA: '14'
+  Number of Gamers: 423
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '13'
   Tags:
   - Online/Offline
   - Single Player
@@ -366,10 +366,10 @@ Base Game Achievements:
   Description: Craft a bronze-tier weapon or tool.
   GS: '15'
   Guide: false
-  Number of Gamers: 237
-  Percentage of Gamers: 31%
-  Ratio: 1.79
-  TA: '26'
+  Number of Gamers: 274
+  Percentage of Gamers: 33%
+  Ratio: 1.72
+  TA: '25'
   Tags:
   - Online/Offline
   - Single Player
@@ -378,10 +378,10 @@ Base Game Achievements:
   Description: Craft an iron-tier weapon or tool.
   GS: '15'
   Guide: false
-  Number of Gamers: 129
-  Percentage of Gamers: 17%
-  Ratio: 2.43
-  TA: '36'
+  Number of Gamers: 161
+  Percentage of Gamers: 20%
+  Ratio: 2.25
+  TA: '33'
   Tags:
   - Online/Offline
   - Single Player
@@ -390,10 +390,10 @@ Base Game Achievements:
   Description: Craft a steel-tier weapon or tool.
   GS: '15'
   Guide: false
-  Number of Gamers: 68
-  Percentage of Gamers: 9%
-  Ratio: 3.4
-  TA: '51'
+  Number of Gamers: 86
+  Percentage of Gamers: 11%
+  Ratio: 3.08
+  TA: '46'
   Tags:
   - Online/Offline
   - Single Player
@@ -402,10 +402,10 @@ Base Game Achievements:
   Description: Craft a masterwork-tier weapon or tool.
   GS: '25'
   Guide: false
-  Number of Gamers: 76
-  Percentage of Gamers: 10%
-  Ratio: 3.19
-  TA: '79'
+  Number of Gamers: 96
+  Percentage of Gamers: 12%
+  Ratio: 2.91
+  TA: '72'
   Tags:
   - Online/Offline
   - Single Player
@@ -414,10 +414,10 @@ Base Game Achievements:
   Description: Have a villager leave your Dynasty for any reason.
   GS: '15'
   Guide: false
-  Number of Gamers: 29
-  Percentage of Gamers: 4%
-  Ratio: 5.23
-  TA: '78'
+  Number of Gamers: 37
+  Percentage of Gamers: 5%
+  Ratio: 4.69
+  TA: '70'
   Tags:
   - Online/Offline
   - Single Player
@@ -426,10 +426,10 @@ Base Game Achievements:
   Description: Bathe in an Onsen.
   GS: '15'
   Guide: false
-  Number of Gamers: 143
-  Percentage of Gamers: 19%
-  Ratio: 2.32
-  TA: '34'
+  Number of Gamers: 172
+  Percentage of Gamers: 21%
+  Ratio: 2.17
+  TA: '32'
   Tags:
   - Online/Offline
   - Single Player
@@ -438,10 +438,10 @@ Base Game Achievements:
   Description: Complete the "Get Your Bearings" quest.
   GS: '15'
   Guide: true
-  Number of Gamers: 2
+  Number of Gamers: 3
   Percentage of Gamers: 0%
-  Ratio: 19.57
-  TA: '293'
+  Ratio: 20.21
+  TA: '303'
   Tags:
   - Online/Offline
   - Single Player
@@ -450,10 +450,10 @@ Base Game Achievements:
   Description: Have 3 non-player villagers in your Dynasty.
   GS: '15'
   Guide: false
-  Number of Gamers: 529
+  Number of Gamers: 569
   Percentage of Gamers: 69%
-  Ratio: 1.2
-  TA: '18'
+  Ratio: 1.19
+  TA: '17'
   Tags:
   - Online/Offline
   - Single Player
@@ -462,10 +462,10 @@ Base Game Achievements:
   Description: Have 1,000 coins in your inventory.
   GS: '15'
   Guide: false
-  Number of Gamers: 239
-  Percentage of Gamers: 31%
-  Ratio: 1.79
-  TA: '26'
+  Number of Gamers: 279
+  Percentage of Gamers: 34%
+  Ratio: 1.71
+  TA: '25'
   Tags:
   - Online/Offline
   - Single Player
@@ -475,10 +475,10 @@ Base Game Achievements:
   Description: Liberate any region.
   GS: '15'
   Guide: false
-  Number of Gamers: 298
-  Percentage of Gamers: 39%
-  Ratio: 1.6
-  TA: '24'
+  Number of Gamers: 343
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '23'
   Tags:
   - Online/Offline
   - Single Player
@@ -487,31 +487,31 @@ Base Game Achievements:
   Description: Establish a village outside the starting region.
   GS: '15'
   Guide: false
-  Number of Gamers: 185
-  Percentage of Gamers: 24%
-  Ratio: 2.04
-  TA: '30'
+  Number of Gamers: 217
+  Percentage of Gamers: 26%
+  Ratio: 1.94
+  TA: '29'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
-Base Ratio: 7.852
-Base TA: 7852
+Base Ratio: 6.808
+Base TA: 6808
 Delisted: false
 Developer: Superkami
 Game Name: Sengoku Dynasty
 Genres: Survival
 Install Size: 19360.0
-Number of Completions: 0
-Number of Gamers: 770
+Number of Completions: 1
+Number of Gamers: 819
 Overall Completion Time:
-- -1
-- -1
+- 28
+- 29
 Overall GS: 1000
-Overall Ratio: 7.852
-Overall TA: 7852
+Overall Ratio: 6.808
+Overall TA: 6808
 PDU: 0
-Percentage Completed: 0.0
+Percentage Completed: 0.12
 Publisher: Toplitz Productions
 Release Date: 21 August 2025
 Server Closure: false

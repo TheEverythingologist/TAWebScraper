@@ -1,326 +1,407 @@
 Add On Achievements: []
 Base Completion Time:
-- -1
-- -1
+- 13
+- 14
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Initialization
   Description: Complete the Prologue
   GS: '25'
-  Guide: false
-  Number of Gamers: 65
-  Percentage of Gamers: 78%
-  Ratio: 1.12
-  TA: '28'
-  Tags: []
+  Guide: true
+  Number of Gamers: 134
+  Percentage of Gamers: 89%
+  Ratio: 1.05
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Jailbreak
   Description: Complete Chapter 1
   GS: '25'
-  Guide: false
-  Number of Gamers: 52
-  Percentage of Gamers: 63%
-  Ratio: 1.25
-  TA: '31'
-  Tags: []
+  Guide: true
+  Number of Gamers: 102
+  Percentage of Gamers: 68%
+  Ratio: 1.21
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Large File Format
   Description: Complete Chapter 2
   GS: '25'
-  Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 28%
-  Ratio: 1.93
-  TA: '48'
-  Tags: []
+  Guide: true
+  Number of Gamers: 51
+  Percentage of Gamers: 34%
+  Ratio: 1.71
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: White Hat
   Description: Complete Chapter 3
   GS: '25'
-  Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 20%
-  Ratio: 2.26
-  TA: '56'
-  Tags: []
+  Guide: true
+  Number of Gamers: 40
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '48'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Source Files
   Description: Complete Chapter 4
   GS: '25'
-  Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 13%
-  Ratio: 2.73
-  TA: '68'
-  Tags: []
+  Guide: true
+  Number of Gamers: 35
+  Percentage of Gamers: 23%
+  Ratio: 2.07
+  TA: '51'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Error Code
   Description: Complete Chapter 5
   GS: '100'
-  Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 13%
-  Ratio: 2.73
-  TA: '273'
-  Tags: []
+  Guide: true
+  Number of Gamers: 34
+  Percentage of Gamers: 23%
+  Ratio: 2.1
+  TA: '210'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Support System
   Description: Rescue a strong friend
   GS: '25'
-  Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 13%
-  Ratio: 2.73
-  TA: '68'
-  Tags: []
+  Guide: true
+  Number of Gamers: 32
+  Percentage of Gamers: 21%
+  Ratio: 2.16
+  TA: '54'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Creative Software
   Description: Recruit a charismatic artist
   GS: '25'
-  Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 13%
-  Ratio: 2.73
-  TA: '68'
-  Tags: []
+  Guide: true
+  Number of Gamers: 30
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '55'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Identifying Data
   Description: Fix a past mistake
   GS: '25'
-  Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 12%
-  Ratio: 2.86
-  TA: '71'
-  Tags: []
+  Guide: true
+  Number of Gamers: 30
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '55'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Drive Diagnostics
   Description: "Help a program atone for his brother\u2019s sins"
   GS: '25'
-  Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 10%
-  Ratio: 3.42
-  TA: '85'
-  Tags: []
+  Guide: true
+  Number of Gamers: 27
+  Percentage of Gamers: 18%
+  Ratio: 2.35
+  TA: '58'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: End of Line
   Description: Complete the Game
   GS: '100'
-  Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 10%
-  Ratio: 3.42
-  TA: '342'
-  Tags: []
+  Guide: true
+  Number of Gamers: 27
+  Percentage of Gamers: 18%
+  Ratio: 2.35
+  TA: '235'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
+  - Story Completed
 - Achievement Name: Defragmentation
   Description: Solve clues to find missing bits
   GS: '15'
-  Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 8%
-  Ratio: 3.42
-  TA: '51'
-  Tags: []
+  Guide: true
+  Number of Gamers: 26
+  Percentage of Gamers: 17%
+  Ratio: 2.4
+  TA: '36'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Tech Debt
   Description: Free a program in trouble
   GS: '15'
-  Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 8%
-  Ratio: 3.42
-  TA: '51'
-  Tags: []
+  Guide: true
+  Number of Gamers: 21
+  Percentage of Gamers: 14%
+  Ratio: 2.67
+  TA: '40'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Uncompromising Data
   Description: Provide closure to a lonely program
   GS: '15'
-  Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 13%
-  Ratio: 2.73
-  TA: '40'
-  Tags: []
+  Guide: true
+  Number of Gamers: 31
+  Percentage of Gamers: 21%
+  Ratio: 2.19
+  TA: '32'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Distributed Memory
   Description: Help a program find their missing memories
   GS: '15'
-  Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 13%
-  Ratio: 2.73
-  TA: '40'
-  Tags: []
+  Guide: true
+  Number of Gamers: 32
+  Percentage of Gamers: 21%
+  Ratio: 2.16
+  TA: '32'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Collector
   Description: Unlock 50% of the Codex
   GS: '50'
-  Guide: false
-  Number of Gamers: 21
-  Percentage of Gamers: 25%
-  Ratio: 2.02
-  TA: '101'
-  Tags: []
+  Guide: true
+  Number of Gamers: 47
+  Percentage of Gamers: 31%
+  Ratio: 1.78
+  TA: '89'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Archivist
   Description: Unlock 100% of the Codex
   GS: '100'
-  Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '100'
-  Tags: []
+  Guide: true
+  Number of Gamers: 8
+  Percentage of Gamers: 5%
+  Ratio: 4.33
+  TA: '433'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Specialist
   Description: Unlock all upgrades in one ability
   GS: '50'
-  Guide: false
-  Number of Gamers: 20
-  Percentage of Gamers: 24%
-  Ratio: 2.02
-  TA: '101'
-  Tags: []
+  Guide: true
+  Number of Gamers: 41
+  Percentage of Gamers: 27%
+  Ratio: 1.91
+  TA: '95'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Full stack
   Description: Unlock all ability upgrades
   GS: '100'
-  Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 16%
-  Ratio: 2.61
-  TA: '261'
-  Tags: []
+  Guide: true
+  Number of Gamers: 31
+  Percentage of Gamers: 21%
+  Ratio: 2.19
+  TA: '219'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Firewall
   Description: Perform 50 Parries
   GS: '15'
-  Guide: false
-  Number of Gamers: 25
-  Percentage of Gamers: 30%
-  Ratio: 1.81
-  TA: '27'
-  Tags: []
-- Achievement Name: Echo
-  Description: Perform 30 Disc Kicks
-  GS: '15'
-  Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 14%
-  Ratio: 2.61
-  TA: '39'
-  Tags: []
-- Achievement Name: Borrowed Code
-  Description: Use an enemy's weapon against them
-  GS: '15'
-  Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 22%
-  Ratio: 2.19
-  TA: '32'
-  Tags: []
-- Achievement Name: Destructive
-  Description: Destroy 50 crates
-  GS: '15'
-  Guide: false
-  Number of Gamers: 20
-  Percentage of Gamers: 24%
-  Ratio: 2.07
-  TA: '31'
-  Tags: []
-- Achievement Name: Clone Tool
-  Description: Use decoy 15 times
-  GS: '15'
-  Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 5%
-  Ratio: 4.52
-  TA: '67'
-  Tags: []
-- Achievement Name: Electromagnet
-  Description: Use light pull 30 times
-  GS: '15'
-  Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 5%
-  Ratio: 4.52
-  TA: '67'
-  Tags: []
-- Achievement Name: Tour de Light Cycle
-  Description: Ride 100 kilometers using the Light Cycle
-  GS: '15'
-  Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 5%
-  Ratio: 4.52
-  TA: '67'
-  Tags: []
-- Achievement Name: Impact
-  Description: Defeat 30 enemies with the Light Ribbon
-  GS: '15'
-  Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 22%
-  Ratio: 2.19
-  TA: '32'
-  Tags: []
-- Achievement Name: Elevated
-  Description: Jump over the city bridge on your Light Cycle
-  GS: '15'
-  Guide: false
-  Number of Gamers: 28
+  Guide: true
+  Number of Gamers: 51
   Percentage of Gamers: 34%
   Ratio: 1.71
   TA: '25'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Echo
+  Description: Perform 30 Disc Kicks
+  GS: '15'
+  Guide: true
+  Number of Gamers: 28
+  Percentage of Gamers: 19%
+  Ratio: 2.31
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Borrowed Code
+  Description: Use an enemy's weapon against them
+  GS: '15'
+  Guide: true
+  Number of Gamers: 41
+  Percentage of Gamers: 27%
+  Ratio: 1.91
+  TA: '28'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Destructive
+  Description: Destroy 50 crates
+  GS: '15'
+  Guide: true
+  Number of Gamers: 41
+  Percentage of Gamers: 27%
+  Ratio: 1.91
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Clone Tool
+  Description: Use decoy 15 times
+  GS: '15'
+  Guide: true
+  Number of Gamers: 12
+  Percentage of Gamers: 8%
+  Ratio: 3.53
+  TA: '53'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Electromagnet
+  Description: Use light pull 30 times
+  GS: '15'
+  Guide: true
+  Number of Gamers: 12
+  Percentage of Gamers: 8%
+  Ratio: 3.53
+  TA: '53'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Tour de Light Cycle
+  Description: Ride 100 kilometers using the Light Cycle
+  GS: '15'
+  Guide: true
+  Number of Gamers: 12
+  Percentage of Gamers: 8%
+  Ratio: 3.53
+  TA: '53'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Impact
+  Description: Defeat 30 enemies with the Light Ribbon
+  GS: '15'
+  Guide: true
+  Number of Gamers: 46
+  Percentage of Gamers: 31%
+  Ratio: 1.8
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Elevated
+  Description: Jump over the city bridge on your Light Cycle
+  GS: '15'
+  Guide: true
+  Number of Gamers: 63
+  Percentage of Gamers: 42%
+  Ratio: 1.55
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: System Crash
   Description: Derezz an enemy with the Light Cycle
   GS: '15'
-  Guide: false
-  Number of Gamers: 33
-  Percentage of Gamers: 40%
-  Ratio: 1.57
-  TA: '23'
-  Tags: []
+  Guide: true
+  Number of Gamers: 77
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Off and On Again
   Description: Loop for the first time
   GS: '20'
-  Guide: false
-  Number of Gamers: 62
-  Percentage of Gamers: 75%
-  Ratio: 1.15
-  TA: '23'
-  Tags: []
+  Guide: true
+  Number of Gamers: 127
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Consequential
   Description: Visit Stronghold Storage after making a substantial change
   GS: '15'
-  Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 4%
-  Ratio: 5.22
-  TA: '78'
-  Tags: []
+  Guide: true
+  Number of Gamers: 13
+  Percentage of Gamers: 9%
+  Ratio: 3.39
+  TA: '50'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Point of Contact
   Description: Find Vega after winning the games
   GS: '15'
-  Guide: false
-  Number of Gamers: 59
-  Percentage of Gamers: 71%
-  Ratio: 1.17
+  Guide: true
+  Number of Gamers: 114
+  Percentage of Gamers: 76%
+  Ratio: 1.14
   TA: '17'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Patron of the Arq
   Description: Finish Kiya's tour of the Automata Embassy
   GS: '15'
-  Guide: false
-  Number of Gamers: 36
-  Percentage of Gamers: 43%
-  Ratio: 1.5
+  Guide: true
+  Number of Gamers: 69
+  Percentage of Gamers: 46%
+  Ratio: 1.48
   TA: '22'
-  Tags: []
-Base Ratio: 2.433
-Base TA: 2433
+  Tags:
+  - Offline Game Mode
+  - Single Player
+Base Ratio: 2.295
+Base TA: 2295
 Delisted: false
 Developer: Bithell Games
 Game Name: 'TRON: Catalyst'
 Genres: Action-Adventure
 Install Size: 3000.0
-Number of Completions: 0
-Number of Gamers: 83
+Number of Completions: 6
+Number of Gamers: 150
 Overall Completion Time:
-- -1
-- -1
+- 13
+- 14
 Overall GS: 1000
-Overall Ratio: 2.433
-Overall TA: 2433
+Overall Ratio: 2.295
+Overall TA: 2295
 PDU: 0
-Percentage Completed: 0.0
+Percentage Completed: 4.0
 Publisher: Big Fan Games
 Release Date: 17 June 2025
 Server Closure: false
-Site Rating: 4.5
+Site Rating: 4.67
 Update Achievements: []
 Walkthrough: false

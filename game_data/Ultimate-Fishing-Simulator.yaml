@@ -1,15 +1,15 @@
 Add On Achievements: []
 Base Completion Time:
-- 354
-- 355
+- 258
+- 259
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Fish basket S
   Description: 'Amount of caught fish: 50'
   GS: '10'
   Guide: false
-  Number of Gamers: 226
-  Percentage of Gamers: 44%
+  Number of Gamers: 227
+  Percentage of Gamers: 43%
   Ratio: 1.51
   TA: '15'
   Tags:
@@ -22,9 +22,9 @@ Base Game Achievements:
   Description: 'Amount of caught fish: 250'
   GS: '30'
   Guide: false
-  Number of Gamers: 91
+  Number of Gamers: 92
   Percentage of Gamers: 18%
-  Ratio: 2.37
+  Ratio: 2.38
   TA: '71'
   Tags:
   - Online/Offline
@@ -36,10 +36,10 @@ Base Game Achievements:
   Description: 'Amount of caught fish: 1000'
   GS: '60'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 3%
-  Ratio: 5.34
-  TA: '320'
+  Number of Gamers: 19
+  Percentage of Gamers: 4%
+  Ratio: 5.24
+  TA: '314'
   Tags:
   - Online/Offline
   - Single Player
@@ -50,10 +50,10 @@ Base Game Achievements:
   Description: 'Amount of caught fish: 10000'
   GS: '130'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 5
   Percentage of Gamers: 1%
-  Ratio: 11.34
-  TA: 1,475
+  Ratio: 10.22
+  TA: 1,329
   Tags:
   - Online/Offline
   - Single Player
@@ -64,7 +64,7 @@ Base Game Achievements:
   Description: 'Reach level: 3'
   GS: '30'
   Guide: true
-  Number of Gamers: 371
+  Number of Gamers: 376
   Percentage of Gamers: 72%
   Ratio: 1.17
   TA: '35'
@@ -78,9 +78,9 @@ Base Game Achievements:
   Description: 'Reach level: 10'
   GS: '60'
   Guide: false
-  Number of Gamers: 142
-  Percentage of Gamers: 28%
-  Ratio: 1.9
+  Number of Gamers: 143
+  Percentage of Gamers: 27%
+  Ratio: 1.91
   TA: '114'
   Tags:
   - Online/Offline
@@ -94,8 +94,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 15
   Percentage of Gamers: 3%
-  Ratio: 5.85
-  TA: '585'
+  Ratio: 5.9
+  TA: '590'
   Tags:
   - Online/Offline
   - Single Player
@@ -106,7 +106,7 @@ Base Game Achievements:
   Description: 'Catch: Rainbow Trout'
   GS: '10'
   Guide: true
-  Number of Gamers: 416
+  Number of Gamers: 422
   Percentage of Gamers: 81%
   Ratio: 1.11
   TA: '11'
@@ -119,7 +119,7 @@ Base Game Achievements:
   Description: 'Catch: Brown Trout'
   GS: '10'
   Guide: true
-  Number of Gamers: 429
+  Number of Gamers: 434
   Percentage of Gamers: 83%
   Ratio: 1.09
   TA: '10'
@@ -132,9 +132,9 @@ Base Game Achievements:
   Description: 'Catch: Cutthroat Trout'
   GS: '10'
   Guide: true
-  Number of Gamers: 411
+  Number of Gamers: 417
   Percentage of Gamers: 80%
-  Ratio: 1.12
+  Ratio: 1.11
   TA: '11'
   Tags:
   - Online/Offline
@@ -145,7 +145,7 @@ Base Game Achievements:
   Description: 'Catch: Brook Trout'
   GS: '10'
   Guide: true
-  Number of Gamers: 367
+  Number of Gamers: 371
   Percentage of Gamers: 71%
   Ratio: 1.18
   TA: '11'
@@ -158,7 +158,7 @@ Base Game Achievements:
   Description: 'Catch: Bull Trout'
   GS: '10'
   Guide: true
-  Number of Gamers: 448
+  Number of Gamers: 454
   Percentage of Gamers: 87%
   Ratio: 1.07
   TA: '10'
@@ -171,9 +171,9 @@ Base Game Achievements:
   Description: 'Catch: Whitefish'
   GS: '10'
   Guide: true
-  Number of Gamers: 91
+  Number of Gamers: 92
   Percentage of Gamers: 18%
-  Ratio: 2.37
+  Ratio: 2.38
   TA: '23'
   Tags:
   - Online/Offline
@@ -184,9 +184,9 @@ Base Game Achievements:
   Description: 'Catch: Black Marlin'
   GS: '10'
   Guide: true
-  Number of Gamers: 44
+  Number of Gamers: 45
   Percentage of Gamers: 9%
-  Ratio: 3.42
+  Ratio: 3.4
   TA: '34'
   Tags:
   - Online/Offline
@@ -197,9 +197,9 @@ Base Game Achievements:
   Description: 'Catch: Blue Marlin'
   GS: '10'
   Guide: true
-  Number of Gamers: 56
+  Number of Gamers: 57
   Percentage of Gamers: 11%
-  Ratio: 3.03
+  Ratio: 3.02
   TA: '30'
   Tags:
   - Online/Offline
@@ -211,8 +211,8 @@ Base Game Achievements:
   GS: '10'
   Guide: true
   Number of Gamers: 44
-  Percentage of Gamers: 9%
-  Ratio: 3.46
+  Percentage of Gamers: 8%
+  Ratio: 3.44
   TA: '34'
   Tags:
   - Online/Offline
@@ -223,10 +223,10 @@ Base Game Achievements:
   Description: 'Catch: White Marlin'
   GS: '10'
   Guide: true
-  Number of Gamers: 42
+  Number of Gamers: 43
   Percentage of Gamers: 8%
-  Ratio: 3.5
-  TA: '35'
+  Ratio: 3.48
+  TA: '34'
   Tags:
   - Online/Offline
   - Single Player
@@ -236,7 +236,7 @@ Base Game Achievements:
   Description: 'Catch: Striped Bass'
   GS: '10'
   Guide: true
-  Number of Gamers: 223
+  Number of Gamers: 224
   Percentage of Gamers: 43%
   Ratio: 1.52
   TA: '15'
@@ -249,7 +249,7 @@ Base Game Achievements:
   Description: 'Catch: Largemouth Bass'
   GS: '10'
   Guide: true
-  Number of Gamers: 192
+  Number of Gamers: 193
   Percentage of Gamers: 37%
   Ratio: 1.64
   TA: '16'
@@ -262,7 +262,7 @@ Base Game Achievements:
   Description: 'Catch: Black Crappie'
   GS: '10'
   Guide: true
-  Number of Gamers: 202
+  Number of Gamers: 203
   Percentage of Gamers: 39%
   Ratio: 1.6
   TA: '16'
@@ -275,9 +275,9 @@ Base Game Achievements:
   Description: 'Catch: Smallmouth Bass'
   GS: '10'
   Guide: true
-  Number of Gamers: 200
-  Percentage of Gamers: 39%
-  Ratio: 1.6
+  Number of Gamers: 201
+  Percentage of Gamers: 38%
+  Ratio: 1.61
   TA: '16'
   Tags:
   - Online/Offline
@@ -288,9 +288,9 @@ Base Game Achievements:
   Description: 'Catch: Mirror Carp'
   GS: '10'
   Guide: true
-  Number of Gamers: 146
+  Number of Gamers: 147
   Percentage of Gamers: 28%
-  Ratio: 1.87
+  Ratio: 1.88
   TA: '18'
   Tags:
   - Online/Offline
@@ -301,9 +301,9 @@ Base Game Achievements:
   Description: 'Catch: Bluegill'
   GS: '10'
   Guide: true
-  Number of Gamers: 188
+  Number of Gamers: 189
   Percentage of Gamers: 36%
-  Ratio: 1.65
+  Ratio: 1.66
   TA: '16'
   Tags:
   - Online/Offline
@@ -314,9 +314,9 @@ Base Game Achievements:
   Description: 'Catch: Pike'
   GS: '10'
   Guide: true
-  Number of Gamers: 135
+  Number of Gamers: 136
   Percentage of Gamers: 26%
-  Ratio: 1.95
+  Ratio: 1.96
   TA: '19'
   Tags:
   - Online/Offline
@@ -327,9 +327,9 @@ Base Game Achievements:
   Description: 'Catch: Crucian Carp'
   GS: '10'
   Guide: true
-  Number of Gamers: 163
-  Percentage of Gamers: 32%
-  Ratio: 1.77
+  Number of Gamers: 164
+  Percentage of Gamers: 31%
+  Ratio: 1.78
   TA: '17'
   Tags:
   - Online/Offline
@@ -340,9 +340,9 @@ Base Game Achievements:
   Description: 'Catch: Bream'
   GS: '10'
   Guide: true
-  Number of Gamers: 153
-  Percentage of Gamers: 30%
-  Ratio: 1.83
+  Number of Gamers: 154
+  Percentage of Gamers: 29%
+  Ratio: 1.84
   TA: '18'
   Tags:
   - Online/Offline
@@ -353,9 +353,9 @@ Base Game Achievements:
   Description: 'Catch: Grass Carp'
   GS: '10'
   Guide: true
-  Number of Gamers: 123
+  Number of Gamers: 124
   Percentage of Gamers: 24%
-  Ratio: 2.04
+  Ratio: 2.05
   TA: '20'
   Tags:
   - Online/Offline
@@ -366,9 +366,9 @@ Base Game Achievements:
   Description: 'Catch: Channel Catfish'
   GS: '10'
   Guide: true
-  Number of Gamers: 140
+  Number of Gamers: 141
   Percentage of Gamers: 27%
-  Ratio: 1.91
+  Ratio: 1.92
   TA: '19'
   Tags:
   - Online/Offline
@@ -379,10 +379,10 @@ Base Game Achievements:
   Description: 'Catch: Baikal Sturgeon'
   GS: '10'
   Guide: true
-  Number of Gamers: 107
+  Number of Gamers: 108
   Percentage of Gamers: 21%
-  Ratio: 2.19
-  TA: '21'
+  Ratio: 2.2
+  TA: '22'
   Tags:
   - Online/Offline
   - Single Player
@@ -392,9 +392,9 @@ Base Game Achievements:
   Description: 'Catch: Chub'
   GS: '10'
   Guide: true
-  Number of Gamers: 135
+  Number of Gamers: 136
   Percentage of Gamers: 26%
-  Ratio: 1.95
+  Ratio: 1.96
   TA: '19'
   Tags:
   - Online/Offline
@@ -405,9 +405,9 @@ Base Game Achievements:
   Description: 'Catch: Perch'
   GS: '10'
   Guide: true
-  Number of Gamers: 135
+  Number of Gamers: 136
   Percentage of Gamers: 26%
-  Ratio: 1.95
+  Ratio: 1.96
   TA: '19'
   Tags:
   - Online/Offline
@@ -418,9 +418,9 @@ Base Game Achievements:
   Description: 'Catch: Rainbow Runner'
   GS: '10'
   Guide: true
-  Number of Gamers: 92
+  Number of Gamers: 93
   Percentage of Gamers: 18%
-  Ratio: 2.36
+  Ratio: 2.37
   TA: '23'
   Tags:
   - Online/Offline
@@ -431,7 +431,7 @@ Base Game Achievements:
   Description: 'Catch: Greater Amberjack'
   GS: '10'
   Guide: true
-  Number of Gamers: 93
+  Number of Gamers: 94
   Percentage of Gamers: 18%
   Ratio: 2.35
   TA: '23'
@@ -444,9 +444,9 @@ Base Game Achievements:
   Description: 'Catch: Baikal Omul'
   GS: '10'
   Guide: true
-  Number of Gamers: 110
+  Number of Gamers: 111
   Percentage of Gamers: 21%
-  Ratio: 2.16
+  Ratio: 2.17
   TA: '21'
   Tags:
   - Online/Offline
@@ -457,7 +457,7 @@ Base Game Achievements:
   Description: 'Catch: Roosterfish'
   GS: '10'
   Guide: true
-  Number of Gamers: 75
+  Number of Gamers: 76
   Percentage of Gamers: 15%
   Ratio: 2.62
   TA: '26'
@@ -470,7 +470,7 @@ Base Game Achievements:
   Description: 'Catch: Zander'
   GS: '10'
   Guide: true
-  Number of Gamers: 70
+  Number of Gamers: 71
   Percentage of Gamers: 14%
   Ratio: 2.71
   TA: '27'
@@ -483,7 +483,7 @@ Base Game Achievements:
   Description: 'Catch: Huchen'
   GS: '10'
   Guide: true
-  Number of Gamers: 59
+  Number of Gamers: 60
   Percentage of Gamers: 11%
   Ratio: 2.95
   TA: '29'
@@ -496,9 +496,9 @@ Base Game Achievements:
   Description: 'Catch: Golden Trout'
   GS: '10'
   Guide: true
-  Number of Gamers: 74
+  Number of Gamers: 75
   Percentage of Gamers: 14%
-  Ratio: 2.63
+  Ratio: 2.64
   TA: '26'
   Tags:
   - Online/Offline
@@ -509,7 +509,7 @@ Base Game Achievements:
   Description: 'Catch: Walleye'
   GS: '10'
   Guide: true
-  Number of Gamers: 64
+  Number of Gamers: 65
   Percentage of Gamers: 12%
   Ratio: 2.83
   TA: '28'
@@ -522,7 +522,7 @@ Base Game Achievements:
   Description: 'Catch: Tiger Trout'
   GS: '10'
   Guide: true
-  Number of Gamers: 63
+  Number of Gamers: 64
   Percentage of Gamers: 12%
   Ratio: 2.85
   TA: '28'
@@ -535,7 +535,7 @@ Base Game Achievements:
   Description: 'Catch: Sauger'
   GS: '10'
   Guide: true
-  Number of Gamers: 66
+  Number of Gamers: 67
   Percentage of Gamers: 13%
   Ratio: 2.79
   TA: '27'
@@ -548,7 +548,7 @@ Base Game Achievements:
   Description: 'Catch: Barbel'
   GS: '10'
   Guide: true
-  Number of Gamers: 72
+  Number of Gamers: 73
   Percentage of Gamers: 14%
   Ratio: 2.67
   TA: '26'
@@ -561,7 +561,7 @@ Base Game Achievements:
   Description: 'Catch: Atlantic Cod'
   GS: '10'
   Guide: true
-  Number of Gamers: 73
+  Number of Gamers: 74
   Percentage of Gamers: 14%
   Ratio: 2.65
   TA: '26'
@@ -574,7 +574,7 @@ Base Game Achievements:
   Description: 'Catch: Spotted Bass'
   GS: '10'
   Guide: true
-  Number of Gamers: 75
+  Number of Gamers: 76
   Percentage of Gamers: 15%
   Ratio: 2.62
   TA: '26'
@@ -587,7 +587,7 @@ Base Game Achievements:
   Description: 'Catch: Greenland Cod'
   GS: '10'
   Guide: true
-  Number of Gamers: 68
+  Number of Gamers: 69
   Percentage of Gamers: 13%
   Ratio: 2.75
   TA: '27'
@@ -602,7 +602,7 @@ Base Game Achievements:
   Guide: true
   Number of Gamers: 50
   Percentage of Gamers: 10%
-  Ratio: 3.2
+  Ratio: 3.23
   TA: '32'
   Tags:
   - Online/Offline
@@ -613,7 +613,7 @@ Base Game Achievements:
   Description: 'Catch: Atlantic Salmon'
   GS: '10'
   Guide: true
-  Number of Gamers: 59
+  Number of Gamers: 60
   Percentage of Gamers: 11%
   Ratio: 2.95
   TA: '29'
@@ -626,7 +626,7 @@ Base Game Achievements:
   Description: 'Catch: Yellow Perch'
   GS: '10'
   Guide: true
-  Number of Gamers: 58
+  Number of Gamers: 59
   Percentage of Gamers: 11%
   Ratio: 2.97
   TA: '29'
@@ -639,7 +639,7 @@ Base Game Achievements:
   Description: 'Catch: Greenland Halibut'
   GS: '10'
   Guide: true
-  Number of Gamers: 52
+  Number of Gamers: 53
   Percentage of Gamers: 10%
   Ratio: 3.14
   TA: '31'
@@ -652,9 +652,9 @@ Base Game Achievements:
   Description: 'Catch: Goblin Shark'
   GS: '10'
   Guide: true
-  Number of Gamers: 38
+  Number of Gamers: 39
   Percentage of Gamers: 7%
-  Ratio: 3.68
+  Ratio: 3.66
   TA: '36'
   Tags:
   - Online/Offline
@@ -665,7 +665,7 @@ Base Game Achievements:
   Description: 'Catch: Common Nase'
   GS: '10'
   Guide: true
-  Number of Gamers: 64
+  Number of Gamers: 65
   Percentage of Gamers: 12%
   Ratio: 2.83
   TA: '28'
@@ -678,7 +678,7 @@ Base Game Achievements:
   Description: 'Catch: African Tigerfish'
   GS: '10'
   Guide: true
-  Number of Gamers: 53
+  Number of Gamers: 54
   Percentage of Gamers: 10%
   Ratio: 3.11
   TA: '31'
@@ -691,9 +691,9 @@ Base Game Achievements:
   Description: 'Catch: Vundu Catfish'
   GS: '10'
   Guide: true
-  Number of Gamers: 56
+  Number of Gamers: 57
   Percentage of Gamers: 11%
-  Ratio: 3.03
+  Ratio: 3.02
   TA: '30'
   Tags:
   - Online/Offline
@@ -704,9 +704,9 @@ Base Game Achievements:
   Description: 'Catch: African Catfish'
   GS: '10'
   Guide: true
-  Number of Gamers: 44
+  Number of Gamers: 45
   Percentage of Gamers: 9%
-  Ratio: 3.42
+  Ratio: 3.4
   TA: '34'
   Tags:
   - Online/Offline
@@ -717,8 +717,8 @@ Base Game Achievements:
   Description: 'Catch: Three-spot Tilapia'
   GS: '10'
   Guide: true
-  Number of Gamers: 54
-  Percentage of Gamers: 10%
+  Number of Gamers: 55
+  Percentage of Gamers: 11%
   Ratio: 3.08
   TA: '30'
   Tags:
@@ -730,7 +730,7 @@ Base Game Achievements:
   Description: 'Catch: Deepwater Redfish'
   GS: '10'
   Guide: true
-  Number of Gamers: 53
+  Number of Gamers: 54
   Percentage of Gamers: 10%
   Ratio: 3.11
   TA: '31'
@@ -743,9 +743,9 @@ Base Game Achievements:
   Description: 'Catch: Greenland Shark'
   GS: '10'
   Guide: true
-  Number of Gamers: 34
+  Number of Gamers: 35
   Percentage of Gamers: 7%
-  Ratio: 3.89
+  Ratio: 3.86
   TA: '38'
   Tags:
   - Online/Offline
@@ -756,7 +756,7 @@ Base Game Achievements:
   Description: 'Catch: Red Breasted Tilapia'
   GS: '10'
   Guide: true
-  Number of Gamers: 51
+  Number of Gamers: 52
   Percentage of Gamers: 10%
   Ratio: 3.17
   TA: '31'
@@ -769,9 +769,9 @@ Base Game Achievements:
   Description: 'Catch: Kariba Tilapia'
   GS: '10'
   Guide: true
-  Number of Gamers: 56
+  Number of Gamers: 57
   Percentage of Gamers: 11%
-  Ratio: 3.03
+  Ratio: 3.02
   TA: '30'
   Tags:
   - Online/Offline
@@ -782,9 +782,9 @@ Base Game Achievements:
   Description: 'Catch: Lumpfish'
   GS: '10'
   Guide: true
-  Number of Gamers: 47
+  Number of Gamers: 48
   Percentage of Gamers: 9%
-  Ratio: 3.31
+  Ratio: 3.3
   TA: '33'
   Tags:
   - Online/Offline
@@ -795,9 +795,9 @@ Base Game Achievements:
   Description: 'Catch: Large-scaled Yellowfish'
   GS: '10'
   Guide: true
-  Number of Gamers: 41
+  Number of Gamers: 42
   Percentage of Gamers: 8%
-  Ratio: 3.54
+  Ratio: 3.52
   TA: '35'
   Tags:
   - Online/Offline
@@ -808,9 +808,9 @@ Base Game Achievements:
   Description: 'Catch: Fourhorned Sculpin'
   GS: '10'
   Guide: true
-  Number of Gamers: 41
+  Number of Gamers: 42
   Percentage of Gamers: 8%
-  Ratio: 3.54
+  Ratio: 3.52
   TA: '35'
   Tags:
   - Online/Offline
@@ -821,9 +821,9 @@ Base Game Achievements:
   Description: 'Catch: Atlantic Wolffish'
   GS: '10'
   Guide: true
-  Number of Gamers: 43
+  Number of Gamers: 44
   Percentage of Gamers: 8%
-  Ratio: 3.46
+  Ratio: 3.44
   TA: '34'
   Tags:
   - Online/Offline
@@ -834,9 +834,9 @@ Base Game Achievements:
   Description: 'Catch: Electric Catfish'
   GS: '10'
   Guide: true
-  Number of Gamers: 43
+  Number of Gamers: 44
   Percentage of Gamers: 8%
-  Ratio: 3.46
+  Ratio: 3.44
   TA: '34'
   Tags:
   - Online/Offline
@@ -847,35 +847,35 @@ Base Game Achievements:
   Description: 'Catch: Purple Labeo'
   GS: '10'
   Guide: true
-  Number of Gamers: 42
+  Number of Gamers: 43
   Percentage of Gamers: 8%
-  Ratio: 3.5
-  TA: '35'
+  Ratio: 3.48
+  TA: '34'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
   - Versus
-Base Ratio: 4.082
-Base TA: 4082
+Base Ratio: 3.934
+Base TA: 3934
 Delisted: false
 Developer: Bit Golem, Console Labs
 Game Name: Ultimate Fishing Simulator
 Genres: Sports, Fishing
 Install Size: 5530.0
-Number of Completions: 3
-Number of Gamers: 516
+Number of Completions: 5
+Number of Gamers: 523
 Overall Completion Time:
-- 354
-- 355
+- 258
+- 259
 Overall GS: 1000
-Overall Ratio: 4.082
-Overall TA: 4082
+Overall Ratio: 3.934
+Overall TA: 3934
 PDU: 0
-Percentage Completed: 0.58
+Percentage Completed: 0.96
 Publisher: Ultimate Games, PlayWay
 Release Date: 29 May 2020
 Server Closure: false
-Site Rating: 2.89
+Site Rating: 2.8
 Update Achievements: []
 Walkthrough: false

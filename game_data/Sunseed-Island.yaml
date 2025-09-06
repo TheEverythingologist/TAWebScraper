@@ -1,7 +1,7 @@
 Add On Achievements: []
 Base Completion Time:
-- 20
-- 21
+- 22
+- 23
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Welcome to the Sunseed Island!
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Visit 2nd island
   GS: '25'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 43%
-  Ratio: 1.51
-  TA: '37'
+  Number of Gamers: 12
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '34'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Visit 3rd island
   GS: '25'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 30%
-  Ratio: 1.81
-  TA: '45'
+  Number of Gamers: 8
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '42'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Visit 4th island
   GS: '30'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 30%
-  Ratio: 1.81
-  TA: '54'
+  Number of Gamers: 8
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '50'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Visit 5th island
   GS: '50'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 22%
-  Ratio: 2.14
-  TA: '107'
+  Number of Gamers: 6
+  Percentage of Gamers: 26%
+  Ratio: 1.95
+  TA: '97'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: Bring the tree back to life
   GS: '100'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 17%
-  Ratio: 2.39
-  TA: '239'
+  Number of Gamers: 5
+  Percentage of Gamers: 22%
+  Ratio: 2.14
+  TA: '214'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -79,10 +79,10 @@ Base Game Achievements:
   Description: Upgrade all tools to tier 2
   GS: '25'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 39%
-  Ratio: 1.59
-  TA: '39'
+  Number of Gamers: 10
+  Percentage of Gamers: 43%
+  Ratio: 1.51
+  TA: '37'
   Tags:
   - Offline Mode
   - Single Player
@@ -91,10 +91,10 @@ Base Game Achievements:
   Description: Upgrade all tools to tier 3
   GS: '25'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 30%
-  Ratio: 1.81
-  TA: '45'
+  Number of Gamers: 8
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '42'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -102,10 +102,10 @@ Base Game Achievements:
   Description: Upgrade all tools to tier 4
   GS: '25'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 30%
-  Ratio: 1.81
-  TA: '45'
+  Number of Gamers: 8
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '42'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -113,10 +113,10 @@ Base Game Achievements:
   Description: Upgrade all tools to tier 5
   GS: '75'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 26%
-  Ratio: 1.95
-  TA: '146'
+  Number of Gamers: 7
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '135'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -135,10 +135,10 @@ Base Game Achievements:
   Description: Plant one fruit tree sapling
   GS: '25'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 43%
-  Ratio: 1.51
-  TA: '37'
+  Number of Gamers: 12
+  Percentage of Gamers: 52%
+  Ratio: 1.38
+  TA: '34'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -146,10 +146,10 @@ Base Game Achievements:
   Description: Repair all the houses in the city
   GS: '30'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 22%
-  Ratio: 2.14
-  TA: '64'
+  Number of Gamers: 6
+  Percentage of Gamers: 26%
+  Ratio: 1.95
+  TA: '58'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -157,52 +157,16 @@ Base Game Achievements:
   Description: Buy at least 1 of each animal
   GS: '40'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 26%
-  Ratio: 1.95
-  TA: '78'
+  Number of Gamers: 7
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '72'
   Tags:
   - Offline Mode
   - Single Player
   - Shop
 - Achievement Name: Ancient Discoveries
   Description: Complete the Archaeology Collection in the Community Center
-  GS: '75'
-  Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 17%
-  Ratio: 2.39
-  TA: '179'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Collectable
-- Achievement Name: Dish Delights
-  Description: Complete the Dishes Collection in the Community Center
-  GS: '75'
-  Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 17%
-  Ratio: 2.39
-  TA: '179'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Collectable
-- Achievement Name: Insect Inspector
-  Description: Complete the Bugs Collection in the Community Center
-  GS: '75'
-  Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 17%
-  Ratio: 2.39
-  TA: '179'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Collectable
-- Achievement Name: Toy Tender
-  Description: Complete the Plush Toys Collection in the Community Center
   GS: '75'
   Guide: false
   Number of Gamers: 5
@@ -213,14 +177,50 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Collectable
+- Achievement Name: Dish Delights
+  Description: Complete the Dishes Collection in the Community Center
+  GS: '75'
+  Guide: false
+  Number of Gamers: 5
+  Percentage of Gamers: 22%
+  Ratio: 2.14
+  TA: '160'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Insect Inspector
+  Description: Complete the Bugs Collection in the Community Center
+  GS: '75'
+  Guide: false
+  Number of Gamers: 5
+  Percentage of Gamers: 22%
+  Ratio: 2.14
+  TA: '160'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+- Achievement Name: Toy Tender
+  Description: Complete the Plush Toys Collection in the Community Center
+  GS: '75'
+  Guide: false
+  Number of Gamers: 6
+  Percentage of Gamers: 26%
+  Ratio: 1.95
+  TA: '146'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Aqua Aficionado
   Description: Complete the Fish Collection in the Community Center
   GS: '75'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 17%
-  Ratio: 2.39
-  TA: '179'
+  Number of Gamers: 5
+  Percentage of Gamers: 22%
+  Ratio: 2.14
+  TA: '160'
   Tags:
   - Offline Mode
   - Single Player
@@ -229,30 +229,30 @@ Base Game Achievements:
   Description: Use your first Potion of Willpower
   GS: '100'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 61%
-  Ratio: 1.28
-  TA: '128'
+  Number of Gamers: 15
+  Percentage of Gamers: 65%
+  Ratio: 1.23
+  TA: '123'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 1.994
-Base TA: 1994
+Base Ratio: 1.82
+Base TA: 1820
 Delisted: false
 Developer: RedDeer.Games
 Game Name: Sunseed Island
 Genres: Management
 Install Size: 1670.0
-Number of Completions: 4
+Number of Completions: 5
 Number of Gamers: 23
 Overall Completion Time:
-- 20
-- 21
+- 22
+- 23
 Overall GS: 1000
-Overall Ratio: 1.994
-Overall TA: 1994
+Overall Ratio: 1.82
+Overall TA: 1820
 PDU: 0
-Percentage Completed: 17.39
+Percentage Completed: 21.74
 Publisher: RedDeer.Games
 Release Date: 20 May 2025
 Server Closure: false

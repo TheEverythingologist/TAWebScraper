@@ -1,0 +1,655 @@
+Add On Achievements: []
+Base Completion Time:
+- 15.0
+- 20.0
+Base GS: 1000
+Base Game Achievements:
+- Achievement Name: Refresher Course
+  Description: 'Finish the Prologue Mission: Master & Padawan'
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2472
+  Percentage of Gamers: 96%
+  Ratio: 1.02
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+- Achievement Name: Girl Power
+  Description: Finish all Jedi Missions as Ahsoka
+  GS: '15'
+  Guide: false
+  Number of Gamers: 333
+  Percentage of Gamers: 13%
+  Ratio: 2.78
+  TA: '41'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Double Trouble
+  Description: Perform a Droid-Jak at the same time as your partner
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1313
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '14'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Act 1 Padawan
+  Description: Finish all Act 1 Missions on Padawan Difficulty
+  GS: '10'
+  Guide: false
+  Number of Gamers: 1056
+  Percentage of Gamers: 41%
+  Ratio: 1.56
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+  - Stackable
+- Achievement Name: Act 1 Master
+  Description: Finish all Act 1 Missions on Master Difficulty
+  GS: '15'
+  Guide: false
+  Number of Gamers: 720
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Nobody messes with...
+  Description: Finish all Clone Missions as Cad Bane
+  GS: '30'
+  Guide: true
+  Number of Gamers: 348
+  Percentage of Gamers: 13%
+  Ratio: 2.72
+  TA: '81'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Droid Hopper
+  Description: Destroy 25 Droids by Jumping from Droid to Droid
+  GS: '15'
+  Guide: true
+  Number of Gamers: 541
+  Percentage of Gamers: 21%
+  Ratio: 2.18
+  TA: '32'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Act 2 Padawan
+  Description: Finish all Act 2 Missions on Padawan Difficulty
+  GS: '10'
+  Guide: false
+  Number of Gamers: 775
+  Percentage of Gamers: 30%
+  Ratio: 1.82
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+  - Stackable
+- Achievement Name: Act 2 Master
+  Description: Finish all Act 2 Missions on Master Difficulty
+  GS: '15'
+  Guide: false
+  Number of Gamers: 586
+  Percentage of Gamers: 23%
+  Ratio: 2.1
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Two's company
+  Description: Finish a mission with another Player
+  GS: '10'
+  Guide: true
+  Number of Gamers: 736
+  Percentage of Gamers: 28%
+  Ratio: 1.87
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Cooperative
+- Achievement Name: Dance of Death
+  Description: Destroy 25 droids while they are dancing
+  GS: '15'
+  Guide: true
+  Number of Gamers: 656
+  Percentage of Gamers: 25%
+  Ratio: 1.98
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+  - Shop
+- Achievement Name: Act 3 Padawan
+  Description: Finish all Act 3 Missions on Padawan Difficulty
+  GS: '30'
+  Guide: false
+  Number of Gamers: 721
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '56'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+  - Story Completed
+  - Stackable
+- Achievement Name: Act 3 Master
+  Description: Finish all Act 3 Missions on Master Difficulty
+  GS: '90'
+  Guide: false
+  Number of Gamers: 560
+  Percentage of Gamers: 22%
+  Ratio: 2.14
+  TA: '193'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+  - Difficulty Specific
+  - Stackable
+- Achievement Name: Heroic Alliance
+  Description: Finish a mission in co-op with a combined score of over 10000 points
+  GS: '15'
+  Guide: true
+  Number of Gamers: 511
+  Percentage of Gamers: 20%
+  Ratio: 2.24
+  TA: '33'
+  Tags:
+  - Offline Mode
+  - Cooperative
+- Achievement Name: Youngling Award
+  Description: Get at least a Bronze Medal for every challenge
+  GS: '15'
+  Guide: true
+  Number of Gamers: 436
+  Percentage of Gamers: 17%
+  Ratio: 2.43
+  TA: '36'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Stackable
+- Achievement Name: Republic Heroes
+  Description: Finish all missions with another Player
+  GS: '30'
+  Guide: true
+  Number of Gamers: 301
+  Percentage of Gamers: 12%
+  Ratio: 2.93
+  TA: '87'
+  Tags:
+  - Offline Mode
+  - Cooperative
+- Achievement Name: Master Award
+  Description: Get a Gold Medal for every challenge
+  GS: '30'
+  Guide: true
+  Number of Gamers: 401
+  Percentage of Gamers: 16%
+  Ratio: 2.53
+  TA: '76'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Stackable
+- Achievement Name: Jawa Scavenger
+  Description: Collect an Artifact
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2086
+  Percentage of Gamers: 81%
+  Ratio: 1.11
+  TA: '11'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Jawa Hunter
+  Description: Collect 25 Artifacts
+  GS: '10'
+  Guide: true
+  Number of Gamers: 765
+  Percentage of Gamers: 30%
+  Ratio: 1.83
+  TA: '18'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Jawa Lord
+  Description: Collect 50 Artifacts
+  GS: '30'
+  Guide: true
+  Number of Gamers: 379
+  Percentage of Gamers: 15%
+  Ratio: 2.61
+  TA: '78'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Collectable
+- Achievement Name: Come back soon
+  Description: Buy a Hat or Mask
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1775
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Combat Master
+  Description: Buy all Combat upgrades
+  GS: '15'
+  Guide: true
+  Number of Gamers: 992
+  Percentage of Gamers: 38%
+  Ratio: 1.61
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Droid Master
+  Description: Buy all Droid-Jak upgrades
+  GS: '15'
+  Guide: true
+  Number of Gamers: 817
+  Percentage of Gamers: 32%
+  Ratio: 1.77
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Dance Master
+  Description: Buy all Droid Dancing upgrades
+  GS: '15'
+  Guide: true
+  Number of Gamers: 870
+  Percentage of Gamers: 34%
+  Ratio: 1.72
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Can't Touch Me
+  Description: Defeat Kul Teska on Behpour without either player dying
+  GS: '15'
+  Guide: true
+  Number of Gamers: 286
+  Percentage of Gamers: 11%
+  Ratio: 3.0
+  TA: '45'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Dressed for Success
+  Description: Buy every Hat & Mask
+  GS: '30'
+  Guide: true
+  Number of Gamers: 768
+  Percentage of Gamers: 30%
+  Ratio: 1.83
+  TA: '55'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Shop
+- Achievement Name: Jedi Knight
+  Description: Get a Gold Medal on a Jedi Mission
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2470
+  Percentage of Gamers: 96%
+  Ratio: 1.02
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Stackable
+- Achievement Name: Clone Captain
+  Description: Get a Gold Medal on a Clone Mission
+  GS: '15'
+  Guide: true
+  Number of Gamers: 1907
+  Percentage of Gamers: 74%
+  Ratio: 1.16
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Stackable
+- Achievement Name: Jedi Master
+  Description: Get a Platinum Medal on a Jedi Mission
+  GS: '30'
+  Guide: true
+  Number of Gamers: 2391
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '31'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Stackable
+- Achievement Name: Clone Commander
+  Description: Get a Platinum Medal on a Clone Mission
+  GS: '30'
+  Guide: true
+  Number of Gamers: 1429
+  Percentage of Gamers: 55%
+  Ratio: 1.34
+  TA: '40'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Stackable
+- Achievement Name: Droid Disruptor
+  Description: Get over 250 points while controlling a single droid
+  GS: '10'
+  Guide: true
+  Number of Gamers: 1370
+  Percentage of Gamers: 53%
+  Ratio: 1.37
+  TA: '13'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Demolition Derby
+  Description: Destroy over 100 droids with Droid-Jaks
+  GS: '15'
+  Guide: true
+  Number of Gamers: 788
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Droid Dynamo
+  Description: Get over 100 points while controlling each type of Droid
+  GS: '15'
+  Guide: false
+  Number of Gamers: 460
+  Percentage of Gamers: 18%
+  Ratio: 2.37
+  TA: '35'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Dynamic Duo
+  Description: Finish all Jedi missions as Anakin & Ahsoka
+  GS: '15'
+  Guide: true
+  Number of Gamers: 329
+  Percentage of Gamers: 13%
+  Ratio: 2.8
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: High Achiever
+  Description: Get a total score of over 200,000 points
+  GS: '30'
+  Guide: true
+  Number of Gamers: 662
+  Percentage of Gamers: 26%
+  Ratio: 1.97
+  TA: '59'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Time to kill
+  Description: Get a combined best time for all missions under 200 minutes
+  GS: '30'
+  Guide: true
+  Number of Gamers: 368
+  Percentage of Gamers: 14%
+  Ratio: 2.65
+  TA: '79'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Time/Date
+- Achievement Name: Scrap Lord
+  Description: Destroy 5000 droids
+  GS: '30'
+  Guide: false
+  Number of Gamers: 386
+  Percentage of Gamers: 15%
+  Ratio: 2.58
+  TA: '77'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Campaign Veteran
+  Description: Get a Gold Medal for every mission
+  GS: '90'
+  Guide: true
+  Number of Gamers: 357
+  Percentage of Gamers: 14%
+  Ratio: 2.69
+  TA: '242'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Bowling Master
+  Description: Destroy 10 Droids with a rolling Destroyer
+  GS: '15'
+  Guide: false
+  Number of Gamers: 391
+  Percentage of Gamers: 15%
+  Ratio: 2.57
+  TA: '38'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: My Hero
+  Description: Destroy 10 Droids attacking your partner
+  GS: '15'
+  Guide: true
+  Number of Gamers: 2382
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Force Crusher
+  Description: Destroy 50 Droids with a mounted Force Kill
+  GS: '15'
+  Guide: true
+  Number of Gamers: 755
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Watch your step
+  Description: Push 50 enemies off an edge to their doom
+  GS: '15'
+  Guide: true
+  Number of Gamers: 821
+  Percentage of Gamers: 32%
+  Ratio: 1.77
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Grand Slam
+  Description: Destroy 25 Droids by doing a jump attack off another character
+  GS: '15'
+  Guide: true
+  Number of Gamers: 376
+  Percentage of Gamers: 15%
+  Ratio: 2.62
+  TA: '39'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Up close and personal
+  Description: Destroy 50 droids with a clone melee attack
+  GS: '15'
+  Guide: true
+  Number of Gamers: 636
+  Percentage of Gamers: 25%
+  Ratio: 2.01
+  TA: '30'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Tag Team
+  Description: Destroy 100 droids your partner has stunned
+  GS: '15'
+  Guide: true
+  Number of Gamers: 313
+  Percentage of Gamers: 12%
+  Ratio: 2.87
+  TA: '43'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: Handle with care
+  Description: Destroy 20 droids with explosive props
+  GS: '15'
+  Guide: true
+  Number of Gamers: 734
+  Percentage of Gamers: 28%
+  Ratio: 1.87
+  TA: '28'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Cumulative +
+- Achievement Name: I got one!
+  Description: Destroy a Gold Droid
+  GS: '10'
+  Guide: true
+  Number of Gamers: 2166
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '10'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: Gold Leader
+  Description: Force Kill one of each type of Gold Droid
+  GS: '15'
+  Guide: false
+  Number of Gamers: 373
+  Percentage of Gamers: 14%
+  Ratio: 2.63
+  TA: '39'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+- Achievement Name: No Favorites
+  Description: Destroy at least one droid with each Droid-Jak
+  GS: '15'
+  Guide: true
+  Number of Gamers: 531
+  Percentage of Gamers: 21%
+  Ratio: 2.2
+  TA: '33'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+Base Ratio: 2.097
+Base TA: 2097
+Delisted: true
+Developer: Krome Studios
+Game Name: 'Star Wars the Clone Wars: Republic Heroes (GFWL)'
+Genres: Action-Adventure
+Install Size: null
+Number of Completions: 274
+Number of Gamers: 2586
+Overall Completion Time:
+- 15.0
+- 20.0
+Overall GS: 1000
+Overall Ratio: 2.097
+Overall TA: 2097
+PDU: 0
+Percentage Completed: 10.6
+Publisher: Disney Interactive Studios
+Release Date: 06 October 2009
+Server Closure: false
+Site Rating: 2.89
+Update Achievements: []
+Walkthrough: false
