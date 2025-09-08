@@ -1,7 +1,7 @@
 Add On Achievements: []
 Base Completion Time:
-- 8
-- 9
+- 12
+- 13
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Meeting Aurora
@@ -17,112 +17,121 @@ Base Game Achievements:
   Description: Escape the cell.
   GS: '10'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 77%
-  Ratio: 1.14
-  TA: '11'
+  Number of Gamers: 11
+  Percentage of Gamers: 85%
+  Ratio: 1.08
+  TA: '10'
   Tags: []
 - Achievement Name: Teleportation Glyph
   Description: Find a teleportation glyph.
   GS: '10'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 69%
-  Ratio: 1.2
-  TA: '12'
+  Number of Gamers: 10
+  Percentage of Gamers: 77%
+  Ratio: 1.14
+  TA: '11'
   Tags: []
 - Achievement Name: Spirit Village
   Description: Listen to the village chief's story.
   GS: '10'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 54%
-  Ratio: 1.36
-  TA: '13'
+  Number of Gamers: 8
+  Percentage of Gamers: 62%
+  Ratio: 1.27
+  TA: '12'
   Tags: []
 - Achievement Name: Plague of Forge, the Mining Town
   Description: Solve Forge's plague.
   GS: '15'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 23%
-  Ratio: 2.08
-  TA: '31'
+  Number of Gamers: 4
+  Percentage of Gamers: 31%
+  Ratio: 1.8
+  TA: '27'
   Tags: []
 - Achievement Name: Underground Ruins of Langoval
   Description: Listen to the Imperial Army's story at Langoval.
   GS: '15'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 23%
-  Ratio: 2.08
-  TA: '31'
+  Number of Gamers: 4
+  Percentage of Gamers: 31%
+  Ratio: 1.8
+  TA: '27'
   Tags: []
 - Achievement Name: Erily Rescue
   Description: Save the village chief's daughter at the Drake Village.
   GS: '15'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 15%
-  Ratio: 2.54
-  TA: '38'
+  Number of Gamers: 3
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '31'
   Tags: []
 - Achievement Name: Spirits' Chosen
   Description: Speak with Helio at the Mysterious Shrine.
   GS: '30'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 15%
-  Ratio: 2.54
-  TA: '76'
+  Number of Gamers: 3
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '62'
   Tags: []
 - Achievement Name: Those Who Fight the Empire
   Description: Speak with the resistance at Knightsburg.
   GS: '30'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 15%
-  Ratio: 2.54
-  TA: '76'
+  Number of Gamers: 3
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '62'
   Tags: []
 - Achievement Name: To the Great Prison
   Description: Open the secret passage to the Great Prison.
   GS: '30'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 15%
-  Ratio: 2.54
-  TA: '76'
+  Number of Gamers: 3
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '62'
   Tags: []
 - Achievement Name: Awakened Swordmaster
   Description: Pass the Gauntlet.
   GS: '30'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 15%
-  Ratio: 2.54
-  TA: '76'
+  Number of Gamers: 3
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '62'
   Tags: []
 - Achievement Name: Final Battle with the Empire
   Description: Enter the Imperial Castle.
   GS: '90'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 15%
-  Ratio: 2.54
-  TA: '229'
+  Number of Gamers: 3
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '187'
   Tags: []
 - Achievement Name: 'Suppression: Royal Guard'
   Description: Suppress Royal Guard at the Maze of Doors.
   GS: '10'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 54%
-  Ratio: 1.36
-  TA: '13'
+  Number of Gamers: 8
+  Percentage of Gamers: 62%
+  Ratio: 1.27
+  TA: '12'
   Tags: []
 - Achievement Name: 'Suppression: Court Medic'
   Description: Suppress Court Medic at the Drakes' Gravestone.
+  GS: '10'
+  Guide: false
+  Number of Gamers: 5
+  Percentage of Gamers: 38%
+  Ratio: 1.61
+  TA: '16'
+  Tags: []
+- Achievement Name: 'Suppression: Cursed Bones'
+  Description: Suppress Cursed Bones at the Abandoned Mines.
   GS: '10'
   Guide: false
   Number of Gamers: 4
@@ -130,17 +139,17 @@ Base Game Achievements:
   Ratio: 1.8
   TA: '18'
   Tags: []
-- Achievement Name: 'Suppression: Cursed Bones'
-  Description: Suppress Cursed Bones at the Abandoned Mines.
-  GS: '10'
-  Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 23%
-  Ratio: 2.08
-  TA: '20'
-  Tags: []
 - Achievement Name: 'Suppression: Kraken'
   Description: Suppress Kraken at the Nameless Ruins.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 31%
+  Ratio: 1.8
+  TA: '27'
+  Tags: []
+- Achievement Name: 'Suppression: Kristofer'
+  Description: Suppress Kristofer at the Arcanwood.
   GS: '15'
   Guide: false
   Number of Gamers: 3
@@ -148,116 +157,62 @@ Base Game Achievements:
   Ratio: 2.08
   TA: '31'
   Tags: []
-- Achievement Name: 'Suppression: Kristofer'
-  Description: Suppress Kristofer at the Arcanwood.
-  GS: '15'
-  Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 15%
-  Ratio: 2.54
-  TA: '38'
-  Tags: []
 - Achievement Name: 'Suppression: Arch Demon'
   Description: Suppress Arch Demon at the Corrupted Forest.
   GS: '30'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 15%
-  Ratio: 2.54
-  TA: '76'
+  Number of Gamers: 3
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '62'
   Tags: []
 - Achievement Name: 'Suppression: Court Mage'
   Description: Suppress Court Mage at the Training Grounds.
   GS: '30'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 15%
-  Ratio: 2.54
-  TA: '76'
+  Number of Gamers: 3
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '62'
   Tags: []
 - Achievement Name: 'Suppression: Terror Giant'
   Description: Suppress Terror Giant at the Great Prison.
   GS: '30'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 15%
-  Ratio: 2.54
-  TA: '76'
+  Number of Gamers: 3
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '62'
   Tags: []
 - Achievement Name: 'Suppression: Volgrim'
   Description: Suppress Volgrim at the Dueling Grounds.
   GS: '30'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 15%
-  Ratio: 2.54
-  TA: '76'
+  Number of Gamers: 3
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '62'
   Tags: []
 - Achievement Name: 'Suppression: Subjugator'
   Description: Suppress Subjugator at the Subjugator's Lair.
   GS: '90'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 15%
-  Ratio: 2.54
-  TA: '229'
+  Number of Gamers: 3
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '187'
   Tags: []
 - Achievement Name: 'Suppression: Emperor Demon'
   Description: Suppress Emperor Demon at the Mines Dungeon.
   GS: '90'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 8%
-  Ratio: 3.6
-  TA: '324'
+  Number of Gamers: 2
+  Percentage of Gamers: 15%
+  Ratio: 2.54
+  TA: '229'
   Tags: []
 - Achievement Name: 'Suppression: Kaiser Dragon'
   Description: Suppress Kaiser Dragon at the Forbidden Grounds.
-  GS: '90'
-  Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 8%
-  Ratio: 3.6
-  TA: '324'
-  Tags: []
-- Achievement Name: 'Suppression: Corrupter Fragment'
-  Description: Suppress Corrupter Fragment at the Corrupter's Domain.
-  GS: '90'
-  Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 8%
-  Ratio: 3.6
-  TA: '324'
-  Tags: []
-- Achievement Name: Goen Summon
-  Description: Make Einherjar Goen an ally.
-  GS: '15'
-  Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 69%
-  Ratio: 1.2
-  TA: '18'
-  Tags: []
-- Achievement Name: Terminus Summon
-  Description: Make Einherjar Terminus an ally.
-  GS: '30'
-  Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 23%
-  Ratio: 2.08
-  TA: '62'
-  Tags: []
-- Achievement Name: Solphina Summon
-  Description: Make Einherjar Solphina an ally.
-  GS: '30'
-  Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 23%
-  Ratio: 2.08
-  TA: '62'
-  Tags: []
-- Achievement Name: Louise Summon
-  Description: Make Einherjar Louise an ally.
   GS: '90'
   Guide: false
   Number of Gamers: 2
@@ -265,23 +220,68 @@ Base Game Achievements:
   Ratio: 2.54
   TA: '229'
   Tags: []
-Base Ratio: 2.675
-Base TA: 2675
+- Achievement Name: 'Suppression: Corrupter Fragment'
+  Description: Suppress Corrupter Fragment at the Corrupter's Domain.
+  GS: '90'
+  Guide: false
+  Number of Gamers: 2
+  Percentage of Gamers: 15%
+  Ratio: 2.54
+  TA: '229'
+  Tags: []
+- Achievement Name: Goen Summon
+  Description: Make Einherjar Goen an ally.
+  GS: '15'
+  Guide: false
+  Number of Gamers: 10
+  Percentage of Gamers: 77%
+  Ratio: 1.14
+  TA: '17'
+  Tags: []
+- Achievement Name: Terminus Summon
+  Description: Make Einherjar Terminus an ally.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 31%
+  Ratio: 1.8
+  TA: '54'
+  Tags: []
+- Achievement Name: Solphina Summon
+  Description: Make Einherjar Solphina an ally.
+  GS: '30'
+  Guide: false
+  Number of Gamers: 4
+  Percentage of Gamers: 31%
+  Ratio: 1.8
+  TA: '54'
+  Tags: []
+- Achievement Name: Louise Summon
+  Description: Make Einherjar Louise an ally.
+  GS: '90'
+  Guide: false
+  Number of Gamers: 3
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '187'
+  Tags: []
+Base Ratio: 2.101
+Base TA: 2101
 Delisted: false
 Developer: VANGUARD
 Game Name: Astral Takers
 Genres: Role Playing, Turn Based
 Install Size: 816.0
-Number of Completions: 1
+Number of Completions: 2
 Number of Gamers: 13
 Overall Completion Time:
-- 8
-- 9
+- 12
+- 13
 Overall GS: 1000
-Overall Ratio: 2.675
-Overall TA: 2675
+Overall Ratio: 2.101
+Overall TA: 2101
 PDU: 0
-Percentage Completed: 7.69
+Percentage Completed: 15.38
 Publisher: KEMCO
 Release Date: 01 August 2025
 Server Closure: false

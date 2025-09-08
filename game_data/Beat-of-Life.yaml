@@ -19,28 +19,16 @@ Base Game Achievements:
   Description: Died 10 times
   GS: '15'
   Guide: false
-  Number of Gamers: 29
-  Percentage of Gamers: 52%
-  Ratio: 1.38
-  TA: '20'
+  Number of Gamers: 28
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '21'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
 - Achievement Name: "Soul windows\u2026 access denied"
   Description: Eye Bad total 6 times
-  GS: '15'
-  Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 48%
-  Ratio: 1.44
-  TA: '21'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Cumulative +
-- Achievement Name: Stomach in shambles
-  Description: Stomach Bad total 6 times
   GS: '15'
   Guide: false
   Number of Gamers: 26
@@ -51,14 +39,26 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Cumulative +
+- Achievement Name: Stomach in shambles
+  Description: Stomach Bad total 6 times
+  GS: '15'
+  Guide: false
+  Number of Gamers: 25
+  Percentage of Gamers: 45%
+  Ratio: 1.49
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Pain too deep to breathe
   Description: Lung Bad total 6 times
   GS: '15'
   Guide: false
-  Number of Gamers: 19
-  Percentage of Gamers: 34%
-  Ratio: 1.71
-  TA: '25'
+  Number of Gamers: 18
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '26'
   Tags:
   - Offline Mode
   - Single Player
@@ -67,9 +67,9 @@ Base Game Achievements:
   Description: Liver Bad total 6 times
   GS: '15'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 46%
-  Ratio: 1.46
+  Number of Gamers: 25
+  Percentage of Gamers: 45%
+  Ratio: 1.49
   TA: '22'
   Tags:
   - Offline Mode
@@ -103,10 +103,10 @@ Base Game Achievements:
   Description: Eye miss death
   GS: '30'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 30%
-  Ratio: 1.81
-  TA: '54'
+  Number of Gamers: 16
+  Percentage of Gamers: 29%
+  Ratio: 1.87
+  TA: '56'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -114,10 +114,10 @@ Base Game Achievements:
   Description: Stomach miss death
   GS: '30'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 29%
-  Ratio: 1.87
-  TA: '56'
+  Number of Gamers: 15
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '57'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -125,10 +125,10 @@ Base Game Achievements:
   Description: Lung miss death
   GS: '30'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 32%
-  Ratio: 1.76
-  TA: '52'
+  Number of Gamers: 17
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '54'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -136,10 +136,10 @@ Base Game Achievements:
   Description: Liver miss death
   GS: '30'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 29%
-  Ratio: 1.87
-  TA: '56'
+  Number of Gamers: 15
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '57'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -147,10 +147,10 @@ Base Game Achievements:
   Description: Heart miss death
   GS: '30'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 32%
-  Ratio: 1.76
-  TA: '52'
+  Number of Gamers: 17
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '54'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -158,10 +158,10 @@ Base Game Achievements:
   Description: Brain miss death
   GS: '30'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 29%
-  Ratio: 1.87
-  TA: '56'
+  Number of Gamers: 15
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '57'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -204,10 +204,10 @@ Base Game Achievements:
   Description: Cleared Level 2 without getting sick
   GS: '90'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 25%
-  Ratio: 2.0
-  TA: '180'
+  Number of Gamers: 13
+  Percentage of Gamers: 23%
+  Ratio: 2.07
+  TA: '186'
   Tags:
   - Offline Mode
   - Single Player
@@ -228,10 +228,10 @@ Base Game Achievements:
   Description: Cleared Level 3 without getting sick
   GS: '90'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 25%
-  Ratio: 2.0
-  TA: '180'
+  Number of Gamers: 13
+  Percentage of Gamers: 23%
+  Ratio: 2.07
+  TA: '186'
   Tags:
   - Offline Mode
   - Single Player
@@ -240,28 +240,16 @@ Base Game Achievements:
   Description: Cleared Level 3 and got sick
   GS: '90'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 30%
-  Ratio: 1.81
-  TA: '163'
+  Number of Gamers: 16
+  Percentage of Gamers: 29%
+  Ratio: 1.87
+  TA: '168'
   Tags:
   - Offline Mode
   - Single Player
   - Missable
 - Achievement Name: Rebirth
   Description: Achieved healthy ending
-  GS: '90'
-  Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 25%
-  Ratio: 2.0
-  TA: '180'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Missable
-- Achievement Name: Return to the Void
-  Description: Achieved sick ending
   GS: '90'
   Guide: false
   Number of Gamers: 13
@@ -272,34 +260,46 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Missable
+- Achievement Name: Return to the Void
+  Description: Achieved sick ending
+  GS: '90'
+  Guide: false
+  Number of Gamers: 12
+  Percentage of Gamers: 21%
+  Ratio: 2.16
+  TA: '194'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: One Life, One Fate
   Description: Challenge Stage Unlocked
   GS: '85'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 27%
-  Ratio: 1.93
-  TA: '164'
+  Number of Gamers: 14
+  Percentage of Gamers: 25%
+  Ratio: 2.0
+  TA: '170'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 1.774
-Base TA: 1774
+Base Ratio: 1.823
+Base TA: 1823
 Delisted: false
 Developer: Happy Player
 Game Name: Beat of Life
 Genres: Music & Rhythm
 Install Size: 2060.0
-Number of Completions: 12
+Number of Completions: 11
 Number of Gamers: 56
 Overall Completion Time:
 - 2
 - 3
 Overall GS: 1000
-Overall Ratio: 1.774
-Overall TA: 1774
+Overall Ratio: 1.823
+Overall TA: 1823
 PDU: 0
-Percentage Completed: 21.43
+Percentage Completed: 19.64
 Publisher: Happy Player
 Release Date: 04 July 2025
 Server Closure: false

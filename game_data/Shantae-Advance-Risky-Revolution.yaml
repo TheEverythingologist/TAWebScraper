@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 12
-- 13
+- 14
+- 15
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: A less than perfect day...
   Description: Witness a small demonstration of Risky's power.
   GS: '25'
   Guide: false
-  Number of Gamers: 100
+  Number of Gamers: 101
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '25'
@@ -20,9 +20,9 @@ Base Game Achievements:
   Description: 'Complete Chapter 1: Lost Relics'
   GS: '40'
   Guide: false
-  Number of Gamers: 65
-  Percentage of Gamers: 65%
-  Ratio: 1.24
+  Number of Gamers: 67
+  Percentage of Gamers: 66%
+  Ratio: 1.22
   TA: '49'
   Tags:
   - Offline Mode
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: 'Complete Chapter 2: Molten Mix-Up'
   GS: '40'
   Guide: false
-  Number of Gamers: 49
-  Percentage of Gamers: 49%
+  Number of Gamers: 50
+  Percentage of Gamers: 50%
   Ratio: 1.42
-  TA: '57'
+  TA: '56'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: 'Complete Chapter 3: A Royal Pain'
   GS: '40'
   Guide: false
-  Number of Gamers: 38
-  Percentage of Gamers: 38%
-  Ratio: 1.62
-  TA: '64'
+  Number of Gamers: 42
+  Percentage of Gamers: 42%
+  Ratio: 1.56
+  TA: '62'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: 'Complete Chapter 4: Risky''s Fault'
   GS: '75'
   Guide: false
-  Number of Gamers: 37
-  Percentage of Gamers: 37%
-  Ratio: 1.64
-  TA: '123'
+  Number of Gamers: 40
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '119'
   Tags:
   - Offline Mode
   - Single Player
@@ -69,10 +69,10 @@ Base Game Achievements:
   Description: Collect All Secret Squids
   GS: '50'
   Guide: false
-  Number of Gamers: 29
-  Percentage of Gamers: 29%
-  Ratio: 1.85
-  TA: '92'
+  Number of Gamers: 32
+  Percentage of Gamers: 32%
+  Ratio: 1.77
+  TA: '88'
   Tags:
   - Offline Mode
   - Single Player
@@ -81,10 +81,10 @@ Base Game Achievements:
   Description: Collect All Heart Holders
   GS: '50'
   Guide: false
-  Number of Gamers: 32
-  Percentage of Gamers: 32%
-  Ratio: 1.76
-  TA: '88'
+  Number of Gamers: 35
+  Percentage of Gamers: 35%
+  Ratio: 1.69
+  TA: '84'
   Tags:
   - Offline Mode
   - Single Player
@@ -93,7 +93,7 @@ Base Game Achievements:
   Description: Obtain Crab Form
   GS: '15'
   Guide: false
-  Number of Gamers: 76
+  Number of Gamers: 77
   Percentage of Gamers: 76%
   Ratio: 1.14
   TA: '17'
@@ -105,9 +105,9 @@ Base Game Achievements:
   Description: Obtain Crab Flint
   GS: '25'
   Guide: true
-  Number of Gamers: 64
+  Number of Gamers: 65
   Percentage of Gamers: 64%
-  Ratio: 1.25
+  Ratio: 1.24
   TA: '31'
   Tags:
   - Offline Game Mode
@@ -116,9 +116,9 @@ Base Game Achievements:
   Description: Obtain Monkey Form
   GS: '15'
   Guide: false
-  Number of Gamers: 73
-  Percentage of Gamers: 73%
-  Ratio: 1.17
+  Number of Gamers: 75
+  Percentage of Gamers: 74%
+  Ratio: 1.16
   TA: '17'
   Tags:
   - Offline Mode
@@ -128,9 +128,9 @@ Base Game Achievements:
   Description: Obtain Monkey Vision
   GS: '25'
   Guide: false
-  Number of Gamers: 62
-  Percentage of Gamers: 62%
-  Ratio: 1.27
+  Number of Gamers: 64
+  Percentage of Gamers: 63%
+  Ratio: 1.25
   TA: '31'
   Tags:
   - Offline Game Mode
@@ -139,9 +139,9 @@ Base Game Achievements:
   Description: Obtain Elephant Form
   GS: '15'
   Guide: false
-  Number of Gamers: 54
+  Number of Gamers: 55
   Percentage of Gamers: 54%
-  Ratio: 1.36
+  Ratio: 1.35
   TA: '20'
   Tags:
   - Offline Mode
@@ -151,9 +151,9 @@ Base Game Achievements:
   Description: Obtain Elephant Tote
   GS: '25'
   Guide: false
-  Number of Gamers: 44
-  Percentage of Gamers: 44%
-  Ratio: 1.5
+  Number of Gamers: 45
+  Percentage of Gamers: 45%
+  Ratio: 1.49
   TA: '37'
   Tags:
   - Offline Game Mode
@@ -162,9 +162,9 @@ Base Game Achievements:
   Description: Obtain Spider Form
   GS: '15'
   Guide: false
-  Number of Gamers: 53
+  Number of Gamers: 54
   Percentage of Gamers: 53%
-  Ratio: 1.37
+  Ratio: 1.36
   TA: '20'
   Tags:
   - Offline Mode
@@ -174,8 +174,8 @@ Base Game Achievements:
   Description: Obtain Spider Venom
   GS: '25'
   Guide: false
-  Number of Gamers: 49
-  Percentage of Gamers: 49%
+  Number of Gamers: 50
+  Percentage of Gamers: 50%
   Ratio: 1.42
   TA: '35'
   Tags:
@@ -185,9 +185,9 @@ Base Game Achievements:
   Description: Obtain Mermaid Form
   GS: '15'
   Guide: false
-  Number of Gamers: 45
-  Percentage of Gamers: 45%
-  Ratio: 1.49
+  Number of Gamers: 46
+  Percentage of Gamers: 46%
+  Ratio: 1.48
   TA: '22'
   Tags:
   - Offline Mode
@@ -197,9 +197,9 @@ Base Game Achievements:
   Description: Obtain Mermaid Bubble
   GS: '25'
   Guide: false
-  Number of Gamers: 44
-  Percentage of Gamers: 44%
-  Ratio: 1.5
+  Number of Gamers: 45
+  Percentage of Gamers: 45%
+  Ratio: 1.49
   TA: '37'
   Tags:
   - Offline Game Mode
@@ -208,10 +208,10 @@ Base Game Achievements:
   Description: Obtain Harpy Form
   GS: '15'
   Guide: false
-  Number of Gamers: 40
-  Percentage of Gamers: 40%
-  Ratio: 1.58
-  TA: '23'
+  Number of Gamers: 43
+  Percentage of Gamers: 43%
+  Ratio: 1.53
+  TA: '22'
   Tags:
   - Offline Mode
   - Single Player
@@ -220,10 +220,10 @@ Base Game Achievements:
   Description: Obtain Harpy Talon
   GS: '25'
   Guide: false
-  Number of Gamers: 35
-  Percentage of Gamers: 35%
-  Ratio: 1.69
-  TA: '42'
+  Number of Gamers: 40
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '39'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -231,10 +231,10 @@ Base Game Achievements:
   Description: Purchase Fire Max
   GS: '30'
   Guide: false
-  Number of Gamers: 42
-  Percentage of Gamers: 42%
-  Ratio: 1.54
-  TA: '46'
+  Number of Gamers: 44
+  Percentage of Gamers: 44%
+  Ratio: 1.51
+  TA: '45'
   Tags:
   - Offline Mode
   - Single Player
@@ -243,10 +243,10 @@ Base Game Achievements:
   Description: Purchase Storm Max
   GS: '30'
   Guide: false
-  Number of Gamers: 38
-  Percentage of Gamers: 38%
-  Ratio: 1.62
-  TA: '48'
+  Number of Gamers: 40
+  Percentage of Gamers: 40%
+  Ratio: 1.58
+  TA: '47'
   Tags:
   - Offline Mode
   - Single Player
@@ -255,10 +255,10 @@ Base Game Achievements:
   Description: Purchase Pike Ball Max
   GS: '30'
   Guide: false
-  Number of Gamers: 42
-  Percentage of Gamers: 42%
-  Ratio: 1.54
-  TA: '46'
+  Number of Gamers: 43
+  Percentage of Gamers: 43%
+  Ratio: 1.53
+  TA: '45'
   Tags:
   - Offline Mode
   - Single Player
@@ -267,9 +267,9 @@ Base Game Achievements:
   Description: Purchase Pants Ants
   GS: '15'
   Guide: false
-  Number of Gamers: 49
-  Percentage of Gamers: 49%
-  Ratio: 1.42
+  Number of Gamers: 51
+  Percentage of Gamers: 50%
+  Ratio: 1.4
   TA: '21'
   Tags:
   - Offline Mode
@@ -279,10 +279,10 @@ Base Game Achievements:
   Description: Purchase Vanish
   GS: '15'
   Guide: false
-  Number of Gamers: 39
-  Percentage of Gamers: 39%
-  Ratio: 1.6
-  TA: '24'
+  Number of Gamers: 42
+  Percentage of Gamers: 42%
+  Ratio: 1.56
+  TA: '23'
   Tags:
   - Offline Mode
   - Single Player
@@ -291,9 +291,9 @@ Base Game Achievements:
   Description: Purchase Float Cake
   GS: '15'
   Guide: false
-  Number of Gamers: 43
-  Percentage of Gamers: 43%
-  Ratio: 1.52
+  Number of Gamers: 44
+  Percentage of Gamers: 44%
+  Ratio: 1.51
   TA: '22'
   Tags:
   - Offline Mode
@@ -303,10 +303,10 @@ Base Game Achievements:
   Description: Purchase Twin Mint
   GS: '15'
   Guide: false
-  Number of Gamers: 42
-  Percentage of Gamers: 42%
-  Ratio: 1.54
-  TA: '23'
+  Number of Gamers: 44
+  Percentage of Gamers: 44%
+  Ratio: 1.51
+  TA: '22'
   Tags:
   - Offline Mode
   - Single Player
@@ -315,9 +315,9 @@ Base Game Achievements:
   Description: Purchase Greedy Jar
   GS: '15'
   Guide: false
-  Number of Gamers: 57
+  Number of Gamers: 58
   Percentage of Gamers: 57%
-  Ratio: 1.32
+  Ratio: 1.31
   TA: '19'
   Tags:
   - Offline Mode
@@ -327,9 +327,9 @@ Base Game Achievements:
   Description: Purchase Attract Up
   GS: '15'
   Guide: false
-  Number of Gamers: 52
-  Percentage of Gamers: 52%
-  Ratio: 1.38
+  Number of Gamers: 54
+  Percentage of Gamers: 53%
+  Ratio: 1.36
   TA: '20'
   Tags:
   - Offline Mode
@@ -339,8 +339,8 @@ Base Game Achievements:
   Description: Purchase MP Saver
   GS: '15'
   Guide: false
-  Number of Gamers: 49
-  Percentage of Gamers: 49%
+  Number of Gamers: 50
+  Percentage of Gamers: 50%
   Ratio: 1.42
   TA: '21'
   Tags:
@@ -351,10 +351,10 @@ Base Game Achievements:
   Description: Purchase Shampoo EX
   GS: '30'
   Guide: false
-  Number of Gamers: 56
+  Number of Gamers: 57
   Percentage of Gamers: 56%
   Ratio: 1.33
-  TA: '40'
+  TA: '39'
   Tags:
   - Offline Mode
   - Single Player
@@ -363,10 +363,10 @@ Base Game Achievements:
   Description: Obtain 100%
   GS: '100'
   Guide: true
-  Number of Gamers: 27
-  Percentage of Gamers: 27%
-  Ratio: 1.92
-  TA: '192'
+  Number of Gamers: 30
+  Percentage of Gamers: 30%
+  Ratio: 1.83
+  TA: '183'
   Tags:
   - Offline Mode
   - Single Player
@@ -376,10 +376,10 @@ Base Game Achievements:
   Description: Obtain all win screens
   GS: '100'
   Guide: true
-  Number of Gamers: 9
-  Percentage of Gamers: 9%
-  Ratio: 3.33
-  TA: '333'
+  Number of Gamers: 11
+  Percentage of Gamers: 11%
+  Ratio: 3.03
+  TA: '303'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -387,30 +387,30 @@ Base Game Achievements:
   Description: Complete the game with an alternative costume.
   GS: '15'
   Guide: true
-  Number of Gamers: 24
-  Percentage of Gamers: 24%
-  Ratio: 2.04
+  Number of Gamers: 25
+  Percentage of Gamers: 25%
+  Ratio: 2.01
   TA: '30'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 1.715
-Base TA: 1715
+Base Ratio: 1.651
+Base TA: 1651
 Delisted: false
 Developer: WayForward Technologies
 Game Name: 'Shantae Advance: Risky Revolution'
 Genres: Platformer
 Install Size: 4630.0
-Number of Completions: 9
-Number of Gamers: 100
+Number of Completions: 11
+Number of Gamers: 101
 Overall Completion Time:
-- 12
-- 13
+- 14
+- 15
 Overall GS: 1000
-Overall Ratio: 1.715
-Overall TA: 1715
+Overall Ratio: 1.651
+Overall TA: 1651
 PDU: 0
-Percentage Completed: 9.0
+Percentage Completed: 10.89
 Publisher: WayForward Technologies, Limited Run Games
 Release Date: 19 August 2025
 Server Closure: false

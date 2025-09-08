@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 20
-- 21
+- 22
+- 23
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: First things first
   Description: Complete tutorial.
   GS: '25'
   Guide: false
-  Number of Gamers: 210
+  Number of Gamers: 216
   Percentage of Gamers: 86%
   Ratio: 1.07
   TA: '26'
@@ -20,9 +20,9 @@ Base Game Achievements:
   Description: Complete table tennis arena on 100%
   GS: '35'
   Guide: false
-  Number of Gamers: 171
-  Percentage of Gamers: 70%
-  Ratio: 1.19
+  Number of Gamers: 177
+  Percentage of Gamers: 71%
+  Ratio: 1.18
   TA: '41'
   Tags:
   - Offline Game Mode
@@ -31,10 +31,10 @@ Base Game Achievements:
   Description: Complete small tennis arena on 100%
   GS: '75'
   Guide: false
-  Number of Gamers: 118
-  Percentage of Gamers: 48%
-  Ratio: 1.43
-  TA: '107'
+  Number of Gamers: 125
+  Percentage of Gamers: 50%
+  Ratio: 1.41
+  TA: '106'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -42,10 +42,10 @@ Base Game Achievements:
   Description: Complete basketball arena on 100%
   GS: '75'
   Guide: false
-  Number of Gamers: 97
-  Percentage of Gamers: 40%
-  Ratio: 1.58
-  TA: '118'
+  Number of Gamers: 104
+  Percentage of Gamers: 42%
+  Ratio: 1.55
+  TA: '116'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -53,10 +53,10 @@ Base Game Achievements:
   Description: Complete football arena on 100%
   GS: '75'
   Guide: false
-  Number of Gamers: 89
-  Percentage of Gamers: 36%
-  Ratio: 1.65
-  TA: '123'
+  Number of Gamers: 95
+  Percentage of Gamers: 38%
+  Ratio: 1.62
+  TA: '121'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -64,10 +64,10 @@ Base Game Achievements:
   Description: Buy your first arena.
   GS: '25'
   Guide: false
-  Number of Gamers: 80
-  Percentage of Gamers: 33%
-  Ratio: 1.74
-  TA: '43'
+  Number of Gamers: 85
+  Percentage of Gamers: 34%
+  Ratio: 1.71
+  TA: '42'
   Tags:
   - Offline Mode
   - Single Player
@@ -76,10 +76,10 @@ Base Game Achievements:
   Description: Sell your first arena
   GS: '25'
   Guide: false
-  Number of Gamers: 58
-  Percentage of Gamers: 24%
-  Ratio: 2.04
-  TA: '51'
+  Number of Gamers: 64
+  Percentage of Gamers: 26%
+  Ratio: 1.97
+  TA: '49'
   Tags:
   - Offline Mode
   - Single Player
@@ -88,9 +88,9 @@ Base Game Achievements:
   Description: Collect 150k on your account.
   GS: '25'
   Guide: false
-  Number of Gamers: 69
-  Percentage of Gamers: 28%
-  Ratio: 1.87
+  Number of Gamers: 73
+  Percentage of Gamers: 29%
+  Ratio: 1.85
   TA: '46'
   Tags:
   - Offline Mode
@@ -100,10 +100,10 @@ Base Game Achievements:
   Description: Collect 350k on your account
   GS: '25'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 11%
-  Ratio: 3.11
-  TA: '77'
+  Number of Gamers: 29
+  Percentage of Gamers: 12%
+  Ratio: 2.93
+  TA: '73'
   Tags:
   - Offline Mode
   - Single Player
@@ -112,10 +112,10 @@ Base Game Achievements:
   Description: Collect 750k on your account.
   GS: '75'
   Guide: false
-  Number of Gamers: 21
+  Number of Gamers: 23
   Percentage of Gamers: 9%
-  Ratio: 3.48
-  TA: '261'
+  Ratio: 3.29
+  TA: '247'
   Tags:
   - Offline Mode
   - Single Player
@@ -124,10 +124,10 @@ Base Game Achievements:
   Description: Collect 1.000.000 on your account
   GS: '100'
   Guide: true
-  Number of Gamers: 18
-  Percentage of Gamers: 7%
-  Ratio: 3.67
-  TA: '367'
+  Number of Gamers: 21
+  Percentage of Gamers: 8%
+  Ratio: 3.45
+  TA: '345'
   Tags:
   - Offline Mode
   - Single Player
@@ -136,7 +136,7 @@ Base Game Achievements:
   Description: Apply plaster on 50 segments
   GS: '10'
   Guide: false
-  Number of Gamers: 235
+  Number of Gamers: 241
   Percentage of Gamers: 96%
   Ratio: 1.01
   TA: '10'
@@ -148,10 +148,10 @@ Base Game Achievements:
   Description: Apply plaster on 500 segments
   GS: '25'
   Guide: false
-  Number of Gamers: 90
-  Percentage of Gamers: 37%
-  Ratio: 1.64
-  TA: '41'
+  Number of Gamers: 96
+  Percentage of Gamers: 38%
+  Ratio: 1.61
+  TA: '40'
   Tags:
   - Offline Mode
   - Single Player
@@ -160,10 +160,10 @@ Base Game Achievements:
   Description: Apply plaster on 2000 segments
   GS: '75'
   Guide: false
-  Number of Gamers: 45
-  Percentage of Gamers: 18%
-  Ratio: 2.35
-  TA: '176'
+  Number of Gamers: 49
+  Percentage of Gamers: 20%
+  Ratio: 2.25
+  TA: '169'
   Tags:
   - Offline Mode
   - Single Player
@@ -172,7 +172,7 @@ Base Game Achievements:
   Description: Paint 50 segments
   GS: '10'
   Guide: false
-  Number of Gamers: 234
+  Number of Gamers: 240
   Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '10'
@@ -184,9 +184,9 @@ Base Game Achievements:
   Description: Paint 500 segments
   GS: '25'
   Guide: false
-  Number of Gamers: 91
-  Percentage of Gamers: 37%
-  Ratio: 1.63
+  Number of Gamers: 97
+  Percentage of Gamers: 39%
+  Ratio: 1.6
   TA: '40'
   Tags:
   - Offline Mode
@@ -194,6 +194,42 @@ Base Game Achievements:
   - Cumulative +
 - Achievement Name: Brush master
   Description: Paint 2000 segments
+  GS: '75'
+  Guide: false
+  Number of Gamers: 49
+  Percentage of Gamers: 20%
+  Ratio: 2.25
+  TA: '169'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Flooring apprentice
+  Description: Lay floor on 50 segments
+  GS: '10'
+  Guide: false
+  Number of Gamers: 161
+  Percentage of Gamers: 64%
+  Ratio: 1.24
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Flooring specialist
+  Description: Lay floor on 500 segments
+  GS: '25'
+  Guide: false
+  Number of Gamers: 57
+  Percentage of Gamers: 23%
+  Ratio: 2.09
+  TA: '52'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Flooring master
+  Description: Lay floor on 2000 segments
   GS: '75'
   Guide: false
   Number of Gamers: 45
@@ -204,47 +240,11 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Cumulative +
-- Achievement Name: Flooring apprentice
-  Description: Lay floor on 50 segments
-  GS: '10'
-  Guide: false
-  Number of Gamers: 154
-  Percentage of Gamers: 63%
-  Ratio: 1.25
-  TA: '12'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Cumulative +
-- Achievement Name: Flooring specialist
-  Description: Lay floor on 500 segments
-  GS: '25'
-  Guide: false
-  Number of Gamers: 53
-  Percentage of Gamers: 22%
-  Ratio: 2.14
-  TA: '53'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Cumulative +
-- Achievement Name: Flooring master
-  Description: Lay floor on 2000 segments
-  GS: '75'
-  Guide: false
-  Number of Gamers: 41
-  Percentage of Gamers: 17%
-  Ratio: 2.46
-  TA: '184'
-  Tags:
-  - Offline Mode
-  - Single Player
-  - Cumulative +
 - Achievement Name: Collector
   Description: Clean up 50 garbage
   GS: '10'
   Guide: false
-  Number of Gamers: 241
+  Number of Gamers: 247
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '10'
@@ -256,10 +256,10 @@ Base Game Achievements:
   Description: Clean up 500 garbage
   GS: '25'
   Guide: false
-  Number of Gamers: 84
-  Percentage of Gamers: 34%
-  Ratio: 1.7
-  TA: '42'
+  Number of Gamers: 90
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '41'
   Tags:
   - Offline Mode
   - Single Player
@@ -268,31 +268,31 @@ Base Game Achievements:
   Description: Clean up 2000 garbage
   GS: '75'
   Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 9%
-  Ratio: 3.32
-  TA: '249'
+  Number of Gamers: 25
+  Percentage of Gamers: 10%
+  Ratio: 3.16
+  TA: '237'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 2.263
-Base TA: 2263
+Base Ratio: 2.178
+Base TA: 2178
 Delisted: false
 Developer: FreeMind, Nesalis Games
 Game Name: Arena Renovation
 Genres: Simulation
 Install Size: 16510.0
-Number of Completions: 18
-Number of Gamers: 244
+Number of Completions: 21
+Number of Gamers: 250
 Overall Completion Time:
-- 20
-- 21
+- 22
+- 23
 Overall GS: 1000
-Overall Ratio: 2.263
-Overall TA: 2263
+Overall Ratio: 2.178
+Overall TA: 2178
 PDU: 0
-Percentage Completed: 7.38
+Percentage Completed: 8.4
 Publisher: FreeMind
 Release Date: 02 July 2025
 Server Closure: false

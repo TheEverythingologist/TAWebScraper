@@ -1,88 +1,16 @@
-Add On Achievements:
-- Achievement Name: Slayer
-  Description: Defeat 250 enemies
-  GS: '75'
-  Guide: false
-  Number of Gamers: 24
-  Percentage of Gamers: 96%
-  Ratio: 1.44
-  TA: '108'
-  Tags: []
-- Achievement Name: Knight
-  Description: Defeat 500 enemies.
-  GS: '100'
-  Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 92%
-  Ratio: 1.47
-  TA: '147'
-  Tags: []
-- Achievement Name: Champion
-  Description: Defeat 1000 enemies.
-  GS: '125'
-  Guide: false
-  Number of Gamers: 20
-  Percentage of Gamers: 80%
-  Ratio: 1.6
-  TA: '200'
-  Tags: []
-- Achievement Name: Warlord
-  Description: Defeat 2000 enemies.
-  GS: '150'
-  Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 68%
-  Ratio: 1.76
-  TA: '265'
-  Tags: []
-- Achievement Name: First Combo
-  Description: Get a x5 combo
-  GS: '50'
-  Guide: false
-  Number of Gamers: 24
-  Percentage of Gamers: 96%
-  Ratio: 1.41
-  TA: '70'
-  Tags: []
-- Achievement Name: Hot Combo
-  Description: Get a x10 combo
-  GS: '150'
-  Guide: false
-  Number of Gamers: 24
-  Percentage of Gamers: 96%
-  Ratio: 1.41
-  TA: '211'
-  Tags: []
-- Achievement Name: Mega Combo
-  Description: Get a x15 combo
-  GS: '150'
-  Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 92%
-  Ratio: 1.44
-  TA: '216'
-  Tags: []
-- Achievement Name: Super Combo
-  Description: Get a x20 combo
-  GS: '200'
-  Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 92%
-  Ratio: 1.44
-  TA: '288'
-  Tags: []
+Add On Achievements: []
 Base Completion Time:
-- 4
-- 5
-Base GS: 1000
+- 3.0
+- 4.0
+Base GS: 2000
 Base Game Achievements:
 - Achievement Name: Boned and Ready
   Description: First Ability Unlocked
   GS: '50'
   Guide: false
-  Number of Gamers: 78
-  Percentage of Gamers: 90%
-  Ratio: 1.05
+  Number of Gamers: 93
+  Percentage of Gamers: 91%
+  Ratio: 1.04
   TA: '52'
   Tags:
   - Offline Game Mode
@@ -91,10 +19,10 @@ Base Game Achievements:
   Description: Clear the first area by defeating its boss.
   GS: '100'
   Guide: false
-  Number of Gamers: 42
-  Percentage of Gamers: 48%
-  Ratio: 1.43
-  TA: '143'
+  Number of Gamers: 59
+  Percentage of Gamers: 58%
+  Ratio: 1.31
+  TA: '131'
   Tags:
   - Offline Mode
   - Single Player
@@ -103,10 +31,10 @@ Base Game Achievements:
   Description: Conquer the second area and slay its boss.
   GS: '100'
   Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 34%
-  Ratio: 1.7
-  TA: '170'
+  Number of Gamers: 34
+  Percentage of Gamers: 33%
+  Ratio: 1.72
+  TA: '172'
   Tags:
   - Offline Mode
   - Single Player
@@ -115,10 +43,10 @@ Base Game Achievements:
   Description: Defeat the boss of the third area.
   GS: '100'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 30%
-  Ratio: 1.82
-  TA: '182'
+  Number of Gamers: 28
+  Percentage of Gamers: 27%
+  Ratio: 1.89
+  TA: '189'
   Tags:
   - Offline Mode
   - Single Player
@@ -127,10 +55,10 @@ Base Game Achievements:
   Description: Complete the game by defeating the final boss.
   GS: '200'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 30%
-  Ratio: 1.82
-  TA: '365'
+  Number of Gamers: 28
+  Percentage of Gamers: 27%
+  Ratio: 1.89
+  TA: '379'
   Tags:
   - Offline Mode
   - Single Player
@@ -139,10 +67,10 @@ Base Game Achievements:
   Description: Collect a total of 15.000 coins during your journey.
   GS: '50'
   Guide: false
-  Number of Gamers: 64
-  Percentage of Gamers: 74%
-  Ratio: 1.16
-  TA: '58'
+  Number of Gamers: 80
+  Percentage of Gamers: 78%
+  Ratio: 1.13
+  TA: '56'
   Tags:
   - Offline Mode
   - Single Player
@@ -151,10 +79,10 @@ Base Game Achievements:
   Description: Buy all active abilities from the shop.
   GS: '100'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 21%
-  Ratio: 2.19
-  TA: '219'
+  Number of Gamers: 25
+  Percentage of Gamers: 25%
+  Ratio: 2.01
+  TA: '201'
   Tags:
   - Offline Mode
   - Single Player
@@ -163,7 +91,7 @@ Base Game Achievements:
   Description: Die for the very first time.
   GS: '10'
   Guide: false
-  Number of Gamers: 87
+  Number of Gamers: 102
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '10'
@@ -174,9 +102,9 @@ Base Game Achievements:
   Description: Die 10 times. It builds character!
   GS: '20'
   Guide: false
-  Number of Gamers: 74
-  Percentage of Gamers: 85%
-  Ratio: 1.08
+  Number of Gamers: 86
+  Percentage of Gamers: 84%
+  Ratio: 1.09
   TA: '21'
   Tags:
   - Offline Mode
@@ -186,10 +114,10 @@ Base Game Achievements:
   Description: Loyal Companion
   GS: '100'
   Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 36%
-  Ratio: 1.67
-  TA: '167'
+  Number of Gamers: 38
+  Percentage of Gamers: 37%
+  Ratio: 1.63
+  TA: '163'
   Tags:
   - Offline Mode
   - Single Player
@@ -198,10 +126,10 @@ Base Game Achievements:
   Description: Reach 15,000 score in a single run.
   GS: '100'
   Guide: false
-  Number of Gamers: 53
-  Percentage of Gamers: 61%
-  Ratio: 1.28
-  TA: '128'
+  Number of Gamers: 73
+  Percentage of Gamers: 72%
+  Ratio: 1.19
+  TA: '119'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -209,7 +137,7 @@ Base Game Achievements:
   Description: Defeat  50 enemies
   GS: '20'
   Guide: false
-  Number of Gamers: 82
+  Number of Gamers: 96
   Percentage of Gamers: 94%
   Ratio: 1.03
   TA: '20'
@@ -221,7 +149,7 @@ Base Game Achievements:
   Description: Defeat 100 enemies
   GS: '50'
   Guide: false
-  Number of Gamers: 80
+  Number of Gamers: 94
   Percentage of Gamers: 92%
   Ratio: 1.04
   TA: '52'
@@ -229,26 +157,118 @@ Base Game Achievements:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 1.587
-Base TA: 1587
+Base Ratio: 1.5025
+Base TA: 3005
 Delisted: false
 Developer: Chepurniy Yevgeniy
 Game Name: 'Boned Again: Survivors'
 Genres: Action
 Install Size: 408.0
-Number of Completions: 7
-Number of Gamers: 87
+Number of Completions: 15
+Number of Gamers: 102
 Overall Completion Time:
-- 4
-- 5
+- 3.0
+- 4.0
 Overall GS: 2000
-Overall Ratio: 1.546
-Overall TA: 3092
+Overall Ratio: 1.5025
+Overall TA: 3005
 PDU: 0
-Percentage Completed: 8.05
+Percentage Completed: 14.71
 Publisher: TERNOX
 Release Date: 21 August 2025
 Server Closure: false
 Site Rating: 5.0
-Update Achievements: []
+Update Achievements:
+- Achievement Name: Slayer
+  Description: Defeat 250 enemies
+  GS: '75'
+  Guide: false
+  Number of Gamers: 55
+  Percentage of Gamers: 54%
+  Ratio: 1.38
+  TA: '103'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Knight
+  Description: Defeat 500 enemies.
+  GS: '100'
+  Guide: false
+  Number of Gamers: 51
+  Percentage of Gamers: 50%
+  Ratio: 1.43
+  TA: '143'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Champion
+  Description: Defeat 1000 enemies.
+  GS: '125'
+  Guide: false
+  Number of Gamers: 46
+  Percentage of Gamers: 45%
+  Ratio: 1.51
+  TA: '189'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: Warlord
+  Description: Defeat 2000 enemies.
+  GS: '150'
+  Guide: false
+  Number of Gamers: 40
+  Percentage of Gamers: 39%
+  Ratio: 1.58
+  TA: '238'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+- Achievement Name: First Combo
+  Description: Get a x5 combo
+  GS: '50'
+  Guide: false
+  Number of Gamers: 56
+  Percentage of Gamers: 55%
+  Ratio: 1.36
+  TA: '68'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Hot Combo
+  Description: Get a x10 combo
+  GS: '150'
+  Guide: false
+  Number of Gamers: 54
+  Percentage of Gamers: 53%
+  Ratio: 1.39
+  TA: '209'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Mega Combo
+  Description: Get a x15 combo
+  GS: '150'
+  Guide: false
+  Number of Gamers: 54
+  Percentage of Gamers: 53%
+  Ratio: 1.39
+  TA: '209'
+  Tags:
+  - Offline Game Mode
+  - Single Player
+- Achievement Name: Super Combo
+  Description: Get a x20 combo
+  GS: '200'
+  Guide: false
+  Number of Gamers: 53
+  Percentage of Gamers: 52%
+  Ratio: 1.4
+  TA: '281'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 Walkthrough: false

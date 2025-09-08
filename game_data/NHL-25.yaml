@@ -1,7 +1,7 @@
 Add On Achievements: []
 Base Completion Time:
-- 186
-- 187
+- 266
+- 267
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Someone get that kid the puck!
@@ -9,21 +9,21 @@ Base Game Achievements:
     \ A Pro"
   GS: '15'
   Guide: false
-  Number of Gamers: 1614
-  Percentage of Gamers: 18%
-  Ratio: 2.35
-  TA: '35'
+  Number of Gamers: 4667
+  Percentage of Gamers: 24%
+  Ratio: 2.05
+  TA: '30'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: We are the Champions!
   Description: Win the Champions Hockey League trophy in Be A Pro
   GS: '15'
-  Guide: false
-  Number of Gamers: 319
+  Guide: true
+  Number of Gamers: 800
   Percentage of Gamers: 4%
-  Ratio: 5.29
-  TA: '79'
+  Ratio: 4.95
+  TA: '74'
   Tags:
   - Offline Mode
   - Single Player
@@ -33,10 +33,10 @@ Base Game Achievements:
     \ A Pro"
   GS: '30'
   Guide: true
-  Number of Gamers: 261
-  Percentage of Gamers: 3%
-  Ratio: 5.85
-  TA: '175'
+  Number of Gamers: 1021
+  Percentage of Gamers: 5%
+  Ratio: 4.38
+  TA: '131'
   Tags:
   - Offline Mode
   - Single Player
@@ -45,10 +45,10 @@ Base Game Achievements:
   Description: "Break an NHL\xAE single season franchise record in Be A Pro"
   GS: '30'
   Guide: false
-  Number of Gamers: 515
-  Percentage of Gamers: 6%
-  Ratio: 4.16
-  TA: '124'
+  Number of Gamers: 1836
+  Percentage of Gamers: 9%
+  Ratio: 3.27
+  TA: '98'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Win a championship in a custom league
   GS: '15'
   Guide: true
-  Number of Gamers: 259
+  Number of Gamers: 623
   Percentage of Gamers: 3%
-  Ratio: 5.87
-  TA: '88'
+  Ratio: 5.61
+  TA: '84'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -68,10 +68,10 @@ Base Game Achievements:
     Mode
   GS: '15'
   Guide: true
-  Number of Gamers: 548
-  Percentage of Gamers: 6%
-  Ratio: 4.03
-  TA: '60'
+  Number of Gamers: 1054
+  Percentage of Gamers: 5%
+  Ratio: 4.31
+  TA: '64'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -79,10 +79,10 @@ Base Game Achievements:
   Description: "Win the Stanley Cup\xAE as the 33rd NHL\xAE team in Franchise Mode"
   GS: '15'
   Guide: false
-  Number of Gamers: 305
-  Percentage of Gamers: 3%
-  Ratio: 5.41
-  TA: '81'
+  Number of Gamers: 779
+  Percentage of Gamers: 4%
+  Ratio: 5.02
+  TA: '75'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -90,10 +90,10 @@ Base Game Achievements:
   Description: Draft a player with an X-Factor in Franchise Mode
   GS: '15'
   Guide: true
-  Number of Gamers: 1342
-  Percentage of Gamers: 15%
-  Ratio: 2.58
-  TA: '38'
+  Number of Gamers: 2712
+  Percentage of Gamers: 14%
+  Ratio: 2.69
+  TA: '40'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -101,10 +101,10 @@ Base Game Achievements:
   Description: Have a coach win the Jack Adams trophy in Franchise Mode
   GS: '15'
   Guide: true
-  Number of Gamers: 431
+  Number of Gamers: 1046
   Percentage of Gamers: 5%
-  Ratio: 4.55
-  TA: '68'
+  Ratio: 4.33
+  TA: '65'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -112,10 +112,10 @@ Base Game Achievements:
   Description: Unlock a character in Ones Now
   GS: '15'
   Guide: true
-  Number of Gamers: 241
+  Number of Gamers: 593
   Percentage of Gamers: 3%
-  Ratio: 6.08
-  TA: '91'
+  Ratio: 5.75
+  TA: '86'
   Tags:
   - Online/Offline
   - Single Player
@@ -124,10 +124,10 @@ Base Game Achievements:
   Description: Play and Complete a Ones Now Game
   GS: '15'
   Guide: true
-  Number of Gamers: 886
-  Percentage of Gamers: 10%
-  Ratio: 3.17
-  TA: '47'
+  Number of Gamers: 2097
+  Percentage of Gamers: 11%
+  Ratio: 3.06
+  TA: '45'
   Tags:
   - Online/Offline
   - Single Player
@@ -136,10 +136,10 @@ Base Game Achievements:
   Description: Activate an X-Factor in Be A Pro
   GS: '15'
   Guide: false
-  Number of Gamers: 1303
-  Percentage of Gamers: 14%
-  Ratio: 2.61
-  TA: '39'
+  Number of Gamers: 3992
+  Percentage of Gamers: 20%
+  Ratio: 2.21
+  TA: '33'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -147,10 +147,10 @@ Base Game Achievements:
   Description: "Break the NHL\xAE record for points in a career in Be A Pro"
   GS: '50'
   Guide: false
-  Number of Gamers: 18
+  Number of Gamers: 55
   Percentage of Gamers: 0%
-  Ratio: 22.28
-  TA: 1,114
+  Ratio: 18.89
+  TA: '944'
   Tags:
   - Offline Mode
   - Single Player
@@ -160,10 +160,10 @@ Base Game Achievements:
   Description: Retire and reach gold legacy status in Be A Pro
   GS: '30'
   Guide: false
-  Number of Gamers: 20
+  Number of Gamers: 68
   Percentage of Gamers: 0%
-  Ratio: 21.14
-  TA: '634'
+  Ratio: 16.99
+  TA: '509'
   Tags:
   - Offline Mode
   - Single Player
@@ -173,10 +173,10 @@ Base Game Achievements:
   Description: Choose and equip a customized player introduction animation
   GS: '15'
   Guide: true
-  Number of Gamers: 3697
-  Percentage of Gamers: 41%
-  Ratio: 1.55
-  TA: '23'
+  Number of Gamers: 5945
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '27'
   Tags:
   - Online Mode
   - Single Player
@@ -184,10 +184,10 @@ Base Game Achievements:
   Description: Win a Threes Eliminator Game
   GS: '15'
   Guide: false
-  Number of Gamers: 1324
-  Percentage of Gamers: 15%
-  Ratio: 2.59
-  TA: '38'
+  Number of Gamers: 2433
+  Percentage of Gamers: 12%
+  Ratio: 2.84
+  TA: '42'
   Tags:
   - Online Mode
   - Cooperative
@@ -197,10 +197,10 @@ Base Game Achievements:
   Description: Win a Ones game in World of Chel
   GS: '15'
   Guide: false
-  Number of Gamers: 790
-  Percentage of Gamers: 9%
-  Ratio: 3.36
-  TA: '50'
+  Number of Gamers: 1412
+  Percentage of Gamers: 7%
+  Ratio: 3.73
+  TA: '55'
   Tags:
   - Online Mode
   - Versus
@@ -208,10 +208,10 @@ Base Game Achievements:
   Description: Win a Ones Eliminator Tournament
   GS: '30'
   Guide: false
-  Number of Gamers: 188
+  Number of Gamers: 339
   Percentage of Gamers: 2%
-  Ratio: 6.89
-  TA: '206'
+  Ratio: 7.61
+  TA: '228'
   Tags:
   - Online Mode
   - Versus
@@ -221,10 +221,10 @@ Base Game Achievements:
     player
   GS: '15'
   Guide: false
-  Number of Gamers: 4561
-  Percentage of Gamers: 51%
-  Ratio: 1.39
-  TA: '20'
+  Number of Gamers: 7510
+  Percentage of Gamers: 38%
+  Ratio: 1.61
+  TA: '24'
   Tags:
   - Online Mode
   - Single Player
@@ -235,10 +235,10 @@ Base Game Achievements:
   Description: Equip a Player Banner
   GS: '15'
   Guide: true
-  Number of Gamers: 2622
-  Percentage of Gamers: 29%
-  Ratio: 1.84
-  TA: '27'
+  Number of Gamers: 4171
+  Percentage of Gamers: 21%
+  Ratio: 2.17
+  TA: '32'
   Tags:
   - Online Mode
   - Single Player
@@ -248,10 +248,10 @@ Base Game Achievements:
   Description: Win a Threes Eliminator Tournament
   GS: '30'
   Guide: false
-  Number of Gamers: 677
-  Percentage of Gamers: 8%
-  Ratio: 3.63
-  TA: '109'
+  Number of Gamers: 1299
+  Percentage of Gamers: 7%
+  Ratio: 3.88
+  TA: '116'
   Tags:
   - Online Mode
   - Cooperative
@@ -261,10 +261,10 @@ Base Game Achievements:
   Description: Buy any item in the Vanity Store
   GS: '15'
   Guide: true
-  Number of Gamers: 3378
-  Percentage of Gamers: 38%
-  Ratio: 1.62
-  TA: '24'
+  Number of Gamers: 5443
+  Percentage of Gamers: 28%
+  Ratio: 1.89
+  TA: '28'
   Tags:
   - Online Mode
   - Single Player
@@ -275,10 +275,10 @@ Base Game Achievements:
   Description: In a World of CHEL game, score the game-winning overtime goal
   GS: '15'
   Guide: false
-  Number of Gamers: 2418
-  Percentage of Gamers: 27%
-  Ratio: 1.92
-  TA: '28'
+  Number of Gamers: 3787
+  Percentage of Gamers: 19%
+  Ratio: 2.27
+  TA: '34'
   Tags:
   - Online Mode
   - Single Player
@@ -289,10 +289,10 @@ Base Game Achievements:
     as a goalie in World of CHEL
   GS: '15'
   Guide: false
-  Number of Gamers: 4465
-  Percentage of Gamers: 50%
-  Ratio: 1.41
-  TA: '21'
+  Number of Gamers: 7200
+  Percentage of Gamers: 37%
+  Ratio: 1.65
+  TA: '24'
   Tags:
   - Online Mode
   - Single Player
@@ -302,10 +302,10 @@ Base Game Achievements:
   Description: Level up your World of CHEL pro past Player Level 50
   GS: '30'
   Guide: false
-  Number of Gamers: 1643
-  Percentage of Gamers: 18%
-  Ratio: 2.33
-  TA: '69'
+  Number of Gamers: 2534
+  Percentage of Gamers: 13%
+  Ratio: 2.78
+  TA: '83'
   Tags:
   - Online Mode
   - Single Player
@@ -316,10 +316,10 @@ Base Game Achievements:
     toe drag in any mode
   GS: '15'
   Guide: true
-  Number of Gamers: 696
-  Percentage of Gamers: 8%
-  Ratio: 3.58
-  TA: '53'
+  Number of Gamers: 1145
+  Percentage of Gamers: 6%
+  Ratio: 4.14
+  TA: '62'
   Tags:
   - Online/Offline
   - Single Player
@@ -329,10 +329,10 @@ Base Game Achievements:
   Description: Deflect a shot with the Defensive Skill Stick in any mode
   GS: '15'
   Guide: false
-  Number of Gamers: 3890
-  Percentage of Gamers: 43%
-  Ratio: 1.51
-  TA: '22'
+  Number of Gamers: 7051
+  Percentage of Gamers: 36%
+  Ratio: 1.66
+  TA: '25'
   Tags:
   - Online/Offline
   - Single Player
@@ -342,10 +342,10 @@ Base Game Achievements:
   Description: Score a goal with a between the legs shot in any mode
   GS: '30'
   Guide: false
-  Number of Gamers: 1651
-  Percentage of Gamers: 18%
-  Ratio: 2.32
-  TA: '69'
+  Number of Gamers: 2920
+  Percentage of Gamers: 15%
+  Ratio: 2.59
+  TA: '77'
   Tags:
   - Online/Offline
   - Single Player
@@ -355,10 +355,10 @@ Base Game Achievements:
   Description: Knock off the opposing goalie's bottle from the net by scoring a goal
   GS: '15'
   Guide: false
-  Number of Gamers: 4251
-  Percentage of Gamers: 47%
-  Ratio: 1.45
-  TA: '21'
+  Number of Gamers: 8234
+  Percentage of Gamers: 42%
+  Ratio: 1.54
+  TA: '23'
   Tags:
   - Online/Offline
   - Single Player
@@ -368,10 +368,10 @@ Base Game Achievements:
   Description: Break the glass with either a shot or hit in-game
   GS: '15'
   Guide: false
-  Number of Gamers: 4723
-  Percentage of Gamers: 53%
-  Ratio: 1.37
-  TA: '20'
+  Number of Gamers: 9442
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '21'
   Tags:
   - Online/Offline
   - Single Player
@@ -381,10 +381,10 @@ Base Game Achievements:
   Description: Use the lacrosse flip for an assist or the lacrosse shot for a goal
   GS: '30'
   Guide: false
-  Number of Gamers: 945
-  Percentage of Gamers: 11%
-  Ratio: 3.07
-  TA: '92'
+  Number of Gamers: 1567
+  Percentage of Gamers: 8%
+  Ratio: 3.54
+  TA: '106'
   Tags:
   - Online/Offline
   - Single Player
@@ -394,10 +394,10 @@ Base Game Achievements:
   Description: Have a shutout and win a game as a user-controlled goalie in any mode
   GS: '15'
   Guide: true
-  Number of Gamers: 1061
-  Percentage of Gamers: 12%
-  Ratio: 2.9
-  TA: '43'
+  Number of Gamers: 2014
+  Percentage of Gamers: 10%
+  Ratio: 3.12
+  TA: '46'
   Tags:
   - Online/Offline
   - Single Player
@@ -407,10 +407,10 @@ Base Game Achievements:
   Description: Hit an opposing player into the bench
   GS: '15'
   Guide: false
-  Number of Gamers: 3942
-  Percentage of Gamers: 44%
-  Ratio: 1.5
-  TA: '22'
+  Number of Gamers: 7703
+  Percentage of Gamers: 39%
+  Ratio: 1.59
+  TA: '23'
   Tags:
   - Online/Offline
   - Single Player
@@ -420,10 +420,10 @@ Base Game Achievements:
   Description: Goal scored by using a perfect one-timer
   GS: '30'
   Guide: true
-  Number of Gamers: 5559
-  Percentage of Gamers: 62%
-  Ratio: 1.26
-  TA: '38'
+  Number of Gamers: 9936
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '42'
   Tags:
   - Online/Offline
   - Single Player
@@ -432,11 +432,11 @@ Base Game Achievements:
 - Achievement Name: Ankle Breaker
   Description: Cause an opposing player to react by deking around them
   GS: '30'
-  Guide: true
-  Number of Gamers: 5182
-  Percentage of Gamers: 58%
-  Ratio: 1.31
-  TA: '39'
+  Guide: false
+  Number of Gamers: 10020
+  Percentage of Gamers: 51%
+  Ratio: 1.4
+  TA: '42'
   Tags:
   - Online/Offline
   - Single Player
@@ -446,10 +446,10 @@ Base Game Achievements:
   Description: Score a goal via deflection
   GS: '15'
   Guide: false
-  Number of Gamers: 5747
-  Percentage of Gamers: 64%
-  Ratio: 1.24
-  TA: '18'
+  Number of Gamers: 11517
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '19'
   Tags:
   - Online/Offline
   - Single Player
@@ -459,10 +459,10 @@ Base Game Achievements:
   Description: Score a goal with a player who has a shooting Superstar or Zone Ability
   GS: '15'
   Guide: true
-  Number of Gamers: 6874
-  Percentage of Gamers: 76%
-  Ratio: 1.14
-  TA: '17'
+  Number of Gamers: 13544
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '18'
   Tags:
   - Online/Offline
   - Single Player
@@ -472,10 +472,10 @@ Base Game Achievements:
   Description: Upgrade a Player Item one Tier in Hockey Ultimate Team
   GS: '50'
   Guide: true
-  Number of Gamers: 1990
-  Percentage of Gamers: 22%
-  Ratio: 2.11
-  TA: '105'
+  Number of Gamers: 2932
+  Percentage of Gamers: 15%
+  Ratio: 2.58
+  TA: '129'
   Tags:
   - Online Mode
   - Single Player
@@ -483,10 +483,10 @@ Base Game Achievements:
   Description: Complete 5 HUT Moments
   GS: '15'
   Guide: true
-  Number of Gamers: 2219
-  Percentage of Gamers: 25%
-  Ratio: 2.0
-  TA: '30'
+  Number of Gamers: 3288
+  Percentage of Gamers: 17%
+  Ratio: 2.44
+  TA: '36'
   Tags:
   - Online Mode
   - Single Player
@@ -495,10 +495,10 @@ Base Game Achievements:
   Description: Complete 5 games in HUT Wild Card
   GS: '15'
   Guide: false
-  Number of Gamers: 1932
-  Percentage of Gamers: 21%
-  Ratio: 2.15
-  TA: '32'
+  Number of Gamers: 2824
+  Percentage of Gamers: 14%
+  Ratio: 2.63
+  TA: '39'
   Tags:
   - Online Mode
   - Single Player
@@ -507,10 +507,10 @@ Base Game Achievements:
   Description: Buy or Sell an item in the auction house in Hockey Ultimate Team
   GS: '15'
   Guide: true
-  Number of Gamers: 1991
-  Percentage of Gamers: 22%
-  Ratio: 2.11
-  TA: '31'
+  Number of Gamers: 2931
+  Percentage of Gamers: 15%
+  Ratio: 2.58
+  TA: '38'
   Tags:
   - Online Mode
   - Single Player
@@ -519,10 +519,10 @@ Base Game Achievements:
   Description: Complete 10 sets in Hockey Ultimate Team
   GS: '15'
   Guide: false
-  Number of Gamers: 1700
-  Percentage of Gamers: 19%
-  Ratio: 2.29
-  TA: '34'
+  Number of Gamers: 2533
+  Percentage of Gamers: 13%
+  Ratio: 2.78
+  TA: '41'
   Tags:
   - Online Mode
   - Single Player
@@ -531,10 +531,10 @@ Base Game Achievements:
   Description: Win Squad Battles game in Hockey Ultimate Team
   GS: '15'
   Guide: true
-  Number of Gamers: 2326
-  Percentage of Gamers: 26%
-  Ratio: 1.96
-  TA: '29'
+  Number of Gamers: 3688
+  Percentage of Gamers: 19%
+  Ratio: 2.3
+  TA: '34'
   Tags:
   - Online Mode
   - Single Player
@@ -542,10 +542,10 @@ Base Game Achievements:
   Description: Collect 7 Free Daily Login packs in Hockey Ultimate Team
   GS: '15'
   Guide: true
-  Number of Gamers: 2099
-  Percentage of Gamers: 23%
-  Ratio: 2.06
-  TA: '30'
+  Number of Gamers: 3184
+  Percentage of Gamers: 16%
+  Ratio: 2.48
+  TA: '37'
   Tags:
   - Online Mode
   - Single Player
@@ -554,10 +554,10 @@ Base Game Achievements:
   Description: Collect an Event Player in Hockey Ultimate Team
   GS: '30'
   Guide: false
-  Number of Gamers: 3714
-  Percentage of Gamers: 41%
-  Ratio: 1.55
-  TA: '46'
+  Number of Gamers: 6651
+  Percentage of Gamers: 34%
+  Ratio: 1.71
+  TA: '51'
   Tags:
   - Online Mode
   - Single Player
@@ -565,10 +565,10 @@ Base Game Achievements:
   Description: Activate any Synergy
   GS: '15'
   Guide: false
-  Number of Gamers: 3751
-  Percentage of Gamers: 42%
-  Ratio: 1.54
-  TA: '23'
+  Number of Gamers: 6402
+  Percentage of Gamers: 33%
+  Ratio: 1.75
+  TA: '26'
   Tags:
   - Online/Offline
   - Single Player
@@ -578,10 +578,10 @@ Base Game Achievements:
   Description: Complete an Online game in Hockey Ultimate Team
   GS: '15'
   Guide: false
-  Number of Gamers: 2022
-  Percentage of Gamers: 22%
-  Ratio: 2.1
-  TA: '31'
+  Number of Gamers: 2975
+  Percentage of Gamers: 15%
+  Ratio: 2.56
+  TA: '38'
   Tags:
   - Online Mode
   - Single Player
@@ -589,10 +589,10 @@ Base Game Achievements:
   Description: Reach Level 5 on any XP progression track
   GS: '15'
   Guide: true
-  Number of Gamers: 2572
-  Percentage of Gamers: 29%
-  Ratio: 1.86
-  TA: '27'
+  Number of Gamers: 3792
+  Percentage of Gamers: 19%
+  Ratio: 2.27
+  TA: '34'
   Tags:
   - Online Mode
   - Single Player
@@ -600,10 +600,10 @@ Base Game Achievements:
   Description: Add an X-Factor player item to your lineup in Hockey Ultimate Team
   GS: '15'
   Guide: true
-  Number of Gamers: 2412
-  Percentage of Gamers: 27%
-  Ratio: 1.92
-  TA: '28'
+  Number of Gamers: 4870
+  Percentage of Gamers: 25%
+  Ratio: 2.0
+  TA: '30'
   Tags:
   - Online Mode
   - Single Player
@@ -611,34 +611,34 @@ Base Game Achievements:
   Description: Complete 5 Rivals Placement Games
   GS: '30'
   Guide: true
-  Number of Gamers: 1171
-  Percentage of Gamers: 13%
-  Ratio: 2.76
-  TA: '82'
+  Number of Gamers: 1765
+  Percentage of Gamers: 9%
+  Ratio: 3.33
+  TA: '100'
   Tags:
   - Online Mode
   - Versus
   - Cumulative +
-Base Ratio: 4.27
-Base TA: 4270
+Base Ratio: 4.108
+Base TA: 4108
 Delisted: false
 Developer: EA Vancouver
 Game Name: NHL 25
 Genres: Sports, Hockey
-Install Size: 43450.0
-Number of Completions: 11
-Number of Gamers: 8994
+Install Size: 47120.0
+Number of Completions: 26
+Number of Gamers: 19646
 Overall Completion Time:
-- 186
-- 187
+- 266
+- 267
 Overall GS: 1000
-Overall Ratio: 4.27
-Overall TA: 4270
+Overall Ratio: 4.108
+Overall TA: 4108
 PDU: 0
-Percentage Completed: 0.12
+Percentage Completed: 0.13
 Publisher: Electronic Arts
 Release Date: 04 October 2024
 Server Closure: false
-Site Rating: 3.54
+Site Rating: 3.46
 Update Achievements: []
 Walkthrough: false

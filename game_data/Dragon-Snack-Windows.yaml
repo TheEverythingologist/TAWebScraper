@@ -1,15 +1,15 @@
 Add On Achievements: []
 Base Completion Time:
-- 0
-- 1
+- 0.0
+- 1.0
 Base GS: 2000
 Base Game Achievements:
 - Achievement Name: Unlocked Gear
   Description: Swap a tile for the first time
   GS: '10'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 100%
+  Number of Gamers: 101
+  Percentage of Gamers: 97%
   Ratio: 1.0
   TA: '10'
   Tags:
@@ -19,10 +19,10 @@ Base Game Achievements:
   Description: Swap 20 tiles in total
   GS: '90'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '90'
+  Number of Gamers: 98
+  Percentage of Gamers: 94%
+  Ratio: 1.02
+  TA: '92'
   Tags:
   - Offline Mode
   - Single Player
@@ -31,8 +31,8 @@ Base Game Achievements:
   Description: Rotate a tile for the first time
   GS: '15'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 100%
+  Number of Gamers: 102
+  Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '15'
   Tags:
@@ -42,9 +42,9 @@ Base Game Achievements:
   Description: Rotate 10 tiles in total
   GS: '30'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 100%
-  Ratio: 1.0
+  Number of Gamers: 99
+  Percentage of Gamers: 95%
+  Ratio: 1.01
   TA: '30'
   Tags:
   - Offline Mode
@@ -54,9 +54,9 @@ Base Game Achievements:
   Description: Rotate 15 tiles in total
   GS: '30'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 100%
-  Ratio: 1.0
+  Number of Gamers: 99
+  Percentage of Gamers: 95%
+  Ratio: 1.01
   TA: '30'
   Tags:
   - Offline Mode
@@ -66,10 +66,10 @@ Base Game Achievements:
   Description: Use a hint for the first time
   GS: '30'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '30'
+  Number of Gamers: 94
+  Percentage of Gamers: 90%
+  Ratio: 1.03
+  TA: '31'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -77,10 +77,10 @@ Base Game Achievements:
   Description: Complete 5 levels in a row without using hints
   GS: '90'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '90'
+  Number of Gamers: 98
+  Percentage of Gamers: 94%
+  Ratio: 1.02
+  TA: '92'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -88,10 +88,10 @@ Base Game Achievements:
   Description: Complete 5 levels in a row without getting lost
   GS: '90'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '90'
+  Number of Gamers: 97
+  Percentage of Gamers: 93%
+  Ratio: 1.02
+  TA: '92'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -99,8 +99,8 @@ Base Game Achievements:
   Description: Save your first nest
   GS: '15'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 100%
+  Number of Gamers: 101
+  Percentage of Gamers: 97%
   Ratio: 1.0
   TA: '15'
   Tags:
@@ -110,9 +110,9 @@ Base Game Achievements:
   Description: Save 6 nests
   GS: '30'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 100%
-  Ratio: 1.0
+  Number of Gamers: 96
+  Percentage of Gamers: 92%
+  Ratio: 1.02
   TA: '30'
   Tags:
   - Offline Mode
@@ -122,10 +122,10 @@ Base Game Achievements:
   Description: Save 9 nests
   GS: '90'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '90'
+  Number of Gamers: 96
+  Percentage of Gamers: 92%
+  Ratio: 1.02
+  TA: '92'
   Tags:
   - Offline Mode
   - Single Player
@@ -134,10 +134,10 @@ Base Game Achievements:
   Description: Complete level 10
   GS: '30'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '30'
+  Number of Gamers: 93
+  Percentage of Gamers: 89%
+  Ratio: 1.04
+  TA: '31'
   Tags:
   - Offline Mode
   - Single Player
@@ -146,10 +146,10 @@ Base Game Achievements:
   Description: Complete level 20
   GS: '90'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '90'
+  Number of Gamers: 89
+  Percentage of Gamers: 86%
+  Ratio: 1.06
+  TA: '96'
   Tags:
   - Offline Mode
   - Single Player
@@ -158,9 +158,9 @@ Base Game Achievements:
   Description: Eat a fire gem for the first time
   GS: '15'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 100%
-  Ratio: 1.0
+  Number of Gamers: 97
+  Percentage of Gamers: 93%
+  Ratio: 1.02
   TA: '15'
   Tags:
   - Offline Game Mode
@@ -169,9 +169,9 @@ Base Game Achievements:
   Description: Eat 5 fire gems
   GS: '15'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 100%
-  Ratio: 1.0
+  Number of Gamers: 95
+  Percentage of Gamers: 91%
+  Ratio: 1.03
   TA: '15'
   Tags:
   - Offline Mode
@@ -181,10 +181,10 @@ Base Game Achievements:
   Description: Eat 10 fire gems
   GS: '30'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '30'
+  Number of Gamers: 94
+  Percentage of Gamers: 90%
+  Ratio: 1.04
+  TA: '31'
   Tags:
   - Offline Mode
   - Single Player
@@ -193,9 +193,9 @@ Base Game Achievements:
   Description: Destroy a trap for the first time
   GS: '15'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 100%
-  Ratio: 1.0
+  Number of Gamers: 97
+  Percentage of Gamers: 93%
+  Ratio: 1.02
   TA: '15'
   Tags:
   - Offline Game Mode
@@ -204,9 +204,9 @@ Base Game Achievements:
   Description: Destroy 6 traps
   GS: '15'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 100%
-  Ratio: 1.0
+  Number of Gamers: 95
+  Percentage of Gamers: 91%
+  Ratio: 1.03
   TA: '15'
   Tags:
   - Offline Mode
@@ -216,10 +216,10 @@ Base Game Achievements:
   Description: Destroy 8 traps
   GS: '30'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '30'
+  Number of Gamers: 95
+  Percentage of Gamers: 91%
+  Ratio: 1.03
+  TA: '31'
   Tags:
   - Offline Mode
   - Single Player
@@ -228,10 +228,10 @@ Base Game Achievements:
   Description: Destroy 10 traps
   GS: '90'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '90'
+  Number of Gamers: 94
+  Percentage of Gamers: 90%
+  Ratio: 1.04
+  TA: '93'
   Tags:
   - Offline Mode
   - Single Player
@@ -240,10 +240,10 @@ Base Game Achievements:
   Description: Destroy 12 traps
   GS: '90'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '90'
+  Number of Gamers: 92
+  Percentage of Gamers: 88%
+  Ratio: 1.05
+  TA: '94'
   Tags:
   - Offline Mode
   - Single Player
@@ -252,9 +252,9 @@ Base Game Achievements:
   Description: Get lost for the first time
   GS: '15'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 100%
-  Ratio: 1.0
+  Number of Gamers: 94
+  Percentage of Gamers: 90%
+  Ratio: 1.03
   TA: '15'
   Tags:
   - Offline Game Mode
@@ -263,10 +263,10 @@ Base Game Achievements:
   Description: Complete 10 levels in a row without getting lost
   GS: '30'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '30'
+  Number of Gamers: 95
+  Percentage of Gamers: 91%
+  Ratio: 1.03
+  TA: '31'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -274,43 +274,43 @@ Base Game Achievements:
   Description: Complete a level with multiple dragons without crashing
   GS: '15'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '15'
+  Number of Gamers: 89
+  Percentage of Gamers: 86%
+  Ratio: 1.06
+  TA: '16'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 1.0
-Base TA: 2000
+Base Ratio: 1.036
+Base TA: 2072
 Delisted: false
 Developer: Afil Games
 Game Name: Dragon Snack (Windows)
 Genres: Puzzle
 Install Size: 116.0
-Number of Completions: 7
-Number of Gamers: 7
+Number of Completions: 91
+Number of Gamers: 104
 Overall Completion Time:
-- 0
-- 1
+- 0.0
+- 1.0
 Overall GS: 2000
-Overall Ratio: 1.0
-Overall TA: 2000
+Overall Ratio: 1.036
+Overall TA: 2072
 PDU: 0
-Percentage Completed: 100.0
+Percentage Completed: 87.5
 Publisher: Afil Games
 Release Date: 03 September 2025
 Server Closure: false
-Site Rating: 0.0
+Site Rating: 2.2
 Update Achievements:
 - Achievement Name: Dragon Vortex
   Description: Rotate 25 tiles in total
   GS: '200'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '200'
+  Number of Gamers: 99
+  Percentage of Gamers: 95%
+  Ratio: 1.01
+  TA: '202'
   Tags:
   - Offline Mode
   - Single Player
@@ -319,10 +319,10 @@ Update Achievements:
   Description: Eat 15 fire gems
   GS: '200'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '200'
+  Number of Gamers: 90
+  Percentage of Gamers: 87%
+  Ratio: 1.06
+  TA: '212'
   Tags:
   - Offline Mode
   - Single Player
@@ -331,10 +331,10 @@ Update Achievements:
   Description: Destroy 16 traps
   GS: '200'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '200'
+  Number of Gamers: 90
+  Percentage of Gamers: 87%
+  Ratio: 1.06
+  TA: '212'
   Tags:
   - Offline Mode
   - Single Player
@@ -343,10 +343,10 @@ Update Achievements:
   Description: Guide 18 dragons to their destination
   GS: '200'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '200'
+  Number of Gamers: 91
+  Percentage of Gamers: 88%
+  Ratio: 1.05
+  TA: '210'
   Tags:
   - Offline Mode
   - Single Player
@@ -355,10 +355,10 @@ Update Achievements:
   Description: Save 12 nests
   GS: '200'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '200'
+  Number of Gamers: 93
+  Percentage of Gamers: 89%
+  Ratio: 1.04
+  TA: '209'
   Tags:
   - Offline Mode
   - Single Player

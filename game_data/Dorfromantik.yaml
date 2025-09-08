@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 44
-- 45
+- 58
+- 59
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: First Steps
   Description: Your first challenge! Finish the tutorial to unlock a new tile.
   GS: '10'
   Guide: false
-  Number of Gamers: 232
+  Number of Gamers: 237
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '10'
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: Reach rank 2 of the 'True Fan' challenge
   GS: '10'
   Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 13%
-  Ratio: 2.73
-  TA: '27'
+  Number of Gamers: 35
+  Percentage of Gamers: 15%
+  Ratio: 2.63
+  TA: '26'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Reach rank 4 of the 'True Fan' challenge
   GS: '30'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 5
   Percentage of Gamers: 2%
-  Ratio: 7.61
-  TA: '228'
+  Ratio: 6.87
+  TA: '206'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,9 +44,9 @@ Base Game Achievements:
   Description: Reach rank 2 of the 'Champion' challenge
   GS: '10'
   Guide: false
-  Number of Gamers: 92
+  Number of Gamers: 95
   Percentage of Gamers: 40%
-  Ratio: 1.58
+  Ratio: 1.57
   TA: '15'
   Tags:
   - Offline Game Mode
@@ -57,8 +57,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 6
   Percentage of Gamers: 3%
-  Ratio: 6.21
-  TA: '621'
+  Ratio: 6.27
+  TA: '627'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -66,7 +66,7 @@ Base Game Achievements:
   Description: Reach rank 2 of the 'Landscaper' challenge
   GS: '10'
   Guide: false
-  Number of Gamers: 179
+  Number of Gamers: 182
   Percentage of Gamers: 77%
   Ratio: 1.13
   TA: '11'
@@ -78,10 +78,10 @@ Base Game Achievements:
   Description: Reach rank 6 of the 'Landscaper' challenge
   GS: '30'
   Guide: false
-  Number of Gamers: 60
+  Number of Gamers: 62
   Percentage of Gamers: 26%
   Ratio: 1.96
-  TA: '58'
+  TA: '59'
   Tags:
   - Offline Mode
   - Single Player
@@ -90,7 +90,7 @@ Base Game Achievements:
   Description: Reach rank 2 of the 'Engineer' challenge
   GS: '10'
   Guide: false
-  Number of Gamers: 122
+  Number of Gamers: 125
   Percentage of Gamers: 53%
   Ratio: 1.37
   TA: '13'
@@ -103,8 +103,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 4
   Percentage of Gamers: 2%
-  Ratio: 7.61
-  TA: '228'
+  Ratio: 7.68
+  TA: '230'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -112,9 +112,9 @@ Base Game Achievements:
   Description: Reach rank 2 of the 'Ocean' challenge
   GS: '10'
   Guide: false
-  Number of Gamers: 151
+  Number of Gamers: 153
   Percentage of Gamers: 65%
-  Ratio: 1.23
+  Ratio: 1.24
   TA: '12'
   Tags:
   - Offline Game Mode
@@ -125,8 +125,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 7
   Percentage of Gamers: 3%
-  Ratio: 5.75
-  TA: '172'
+  Ratio: 5.8
+  TA: '174'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -134,9 +134,9 @@ Base Game Achievements:
   Description: Unlock the 'Farmer' challenge and reach rank 2
   GS: '10'
   Guide: false
-  Number of Gamers: 40
+  Number of Gamers: 41
   Percentage of Gamers: 17%
-  Ratio: 2.4
+  Ratio: 2.42
   TA: '24'
   Tags:
   - Offline Game Mode
@@ -147,8 +147,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 5
   Percentage of Gamers: 2%
-  Ratio: 6.81
-  TA: '204'
+  Ratio: 6.87
+  TA: '206'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -158,7 +158,7 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 31
   Percentage of Gamers: 13%
-  Ratio: 2.73
+  Ratio: 2.75
   TA: '27'
   Tags:
   - Offline Mode
@@ -168,10 +168,10 @@ Base Game Achievements:
   Description: Unlock the 'Perfectionist' challenge and reach rank 5
   GS: '30'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 4%
-  Ratio: 5.07
-  TA: '152'
+  Number of Gamers: 12
+  Percentage of Gamers: 5%
+  Ratio: 4.43
+  TA: '133'
   Tags:
   - Offline Mode
   - Single Player
@@ -180,9 +180,9 @@ Base Game Achievements:
   Description: Unlock the 'Villager' challenge and reach rank 1
   GS: '10'
   Guide: false
-  Number of Gamers: 36
+  Number of Gamers: 37
   Percentage of Gamers: 16%
-  Ratio: 2.53
+  Ratio: 2.52
   TA: '25'
   Tags:
   - Offline Game Mode
@@ -191,10 +191,10 @@ Base Game Achievements:
   Description: Unlock the 'Villager' challenge and reach rank 4
   GS: '30'
   Guide: false
-  Number of Gamers: 9
+  Number of Gamers: 10
   Percentage of Gamers: 4%
-  Ratio: 5.07
-  TA: '152'
+  Ratio: 4.85
+  TA: '145'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -202,10 +202,10 @@ Base Game Achievements:
   Description: Unlock the 'Puzzler' challenge and reach rank 2
   GS: '10'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 8%
-  Ratio: 3.59
-  TA: '35'
+  Number of Gamers: 21
+  Percentage of Gamers: 9%
+  Ratio: 3.62
+  TA: '36'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -213,10 +213,10 @@ Base Game Achievements:
   Description: Unlock the 'Puzzler' challenge and reach rank 7
   GS: '30'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 5
   Percentage of Gamers: 2%
-  Ratio: 7.61
-  TA: '228'
+  Ratio: 6.87
+  TA: '206'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -224,9 +224,9 @@ Base Game Achievements:
   Description: Unlock the 'Green Thumb' challenge and reach rank 2
   GS: '10'
   Guide: false
-  Number of Gamers: 36
+  Number of Gamers: 37
   Percentage of Gamers: 16%
-  Ratio: 2.53
+  Ratio: 2.52
   TA: '25'
   Tags:
   - Offline Game Mode
@@ -235,10 +235,10 @@ Base Game Achievements:
   Description: Unlock the 'Green Thumb' challenge and reach rank 5
   GS: '30'
   Guide: false
-  Number of Gamers: 6
+  Number of Gamers: 7
   Percentage of Gamers: 3%
-  Ratio: 6.21
-  TA: '186'
+  Ratio: 5.8
+  TA: '174'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -248,8 +248,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 26
   Percentage of Gamers: 11%
-  Ratio: 2.98
-  TA: '29'
+  Ratio: 3.01
+  TA: '30'
   Tags:
   - Offline Mode
   - Single Player
@@ -258,10 +258,10 @@ Base Game Achievements:
   Description: Unlock the 'Self-Sufficiency' challenge and reach rank 3
   GS: '30'
   Guide: false
-  Number of Gamers: 7
+  Number of Gamers: 8
   Percentage of Gamers: 3%
-  Ratio: 5.75
-  TA: '172'
+  Ratio: 5.43
+  TA: '162'
   Tags:
   - Offline Mode
   - Single Player
@@ -270,10 +270,10 @@ Base Game Achievements:
   Description: Unlock the 'Explorer' challenge and reach rank 1
   GS: '10'
   Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 13%
-  Ratio: 2.73
-  TA: '27'
+  Number of Gamers: 33
+  Percentage of Gamers: 14%
+  Ratio: 2.67
+  TA: '26'
   Tags:
   - Offline Mode
   - Single Player
@@ -282,10 +282,10 @@ Base Game Achievements:
   Description: Unlock the 'Explorer' challenge and reach rank 4
   GS: '30'
   Guide: false
-  Number of Gamers: 7
+  Number of Gamers: 8
   Percentage of Gamers: 3%
-  Ratio: 5.75
-  TA: '172'
+  Ratio: 5.43
+  TA: '162'
   Tags:
   - Offline Mode
   - Single Player
@@ -294,10 +294,10 @@ Base Game Achievements:
   Description: Unlock the 'Planner' challenge and reach rank 2
   GS: '10'
   Guide: false
-  Number of Gamers: 34
+  Number of Gamers: 35
   Percentage of Gamers: 15%
-  Ratio: 2.61
-  TA: '26'
+  Ratio: 2.59
+  TA: '25'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -305,10 +305,10 @@ Base Game Achievements:
   Description: Unlock the 'Planner' challenge and reach rank 6
   GS: '30'
   Guide: false
-  Number of Gamers: 14
+  Number of Gamers: 15
   Percentage of Gamers: 6%
-  Ratio: 4.07
-  TA: '122'
+  Ratio: 3.96
+  TA: '118'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -318,7 +318,7 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 29
   Percentage of Gamers: 12%
-  Ratio: 2.82
+  Ratio: 2.85
   TA: '28'
   Tags:
   - Offline Mode
@@ -328,10 +328,10 @@ Base Game Achievements:
   Description: Unlock the 'Quest Master' challenge and reach rank 6
   GS: '30'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 7%
-  Ratio: 3.8
-  TA: '114'
+  Number of Gamers: 18
+  Percentage of Gamers: 8%
+  Ratio: 3.62
+  TA: '108'
   Tags:
   - Offline Mode
   - Single Player
@@ -340,10 +340,10 @@ Base Game Achievements:
   Description: Unlock the 'Heavy Weight' challenge and reach rank 2
   GS: '20'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 7%
-  Ratio: 3.69
-  TA: '73'
+  Number of Gamers: 19
+  Percentage of Gamers: 8%
+  Ratio: 3.52
+  TA: '70'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -351,10 +351,10 @@ Base Game Achievements:
   Description: Unlock the 'Heavy Weight' challenge and reach rank 7
   GS: '100'
   Guide: false
-  Number of Gamers: 6
+  Number of Gamers: 7
   Percentage of Gamers: 3%
-  Ratio: 6.21
-  TA: '621'
+  Ratio: 5.8
+  TA: '580'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -362,9 +362,9 @@ Base Game Achievements:
   Description: Unlock the 'Analyst' challenge and reach rank 2
   GS: '20'
   Guide: false
-  Number of Gamers: 35
+  Number of Gamers: 36
   Percentage of Gamers: 15%
-  Ratio: 2.57
+  Ratio: 2.59
   TA: '51'
   Tags:
   - Offline Game Mode
@@ -375,8 +375,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 5
   Percentage of Gamers: 2%
-  Ratio: 6.81
-  TA: '681'
+  Ratio: 6.87
+  TA: '687'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -384,7 +384,7 @@ Base Game Achievements:
   Description: Reach rank 1 of the 'Overachiever' challenge
   GS: '20'
   Guide: false
-  Number of Gamers: 169
+  Number of Gamers: 172
   Percentage of Gamers: 73%
   Ratio: 1.17
   TA: '23'
@@ -396,31 +396,31 @@ Base Game Achievements:
   Description: Reach rank 4 of the 'Overachiever' challenge
   GS: '100'
   Guide: false
-  Number of Gamers: 40
+  Number of Gamers: 41
   Percentage of Gamers: 17%
-  Ratio: 2.4
-  TA: '240'
+  Ratio: 2.39
+  TA: '239'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 4.832
-Base TA: 4832
+Base Ratio: 4.693
+Base TA: 4693
 Delisted: false
 Developer: Toukana Interactive
 Game Name: Dorfromantik
 Genres: Puzzle
 Install Size: 910.0
-Number of Completions: 2
-Number of Gamers: 232
+Number of Completions: 3
+Number of Gamers: 237
 Overall Completion Time:
-- 44
-- 45
+- 58
+- 59
 Overall GS: 1000
-Overall Ratio: 4.832
-Overall TA: 4832
+Overall Ratio: 4.693
+Overall TA: 4693
 PDU: 0
-Percentage Completed: 0.86
+Percentage Completed: 1.27
 Publisher: Headup Games
 Release Date: 14 August 2025
 Server Closure: false

@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- 98
-- 99
+- 90
+- 91
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Champion of a New Era
   Description: Obtain every achievement.
   GS: '109'
   Guide: false
-  Number of Gamers: 2
+  Number of Gamers: 4
   Percentage of Gamers: 1%
-  Ratio: 12.08
-  TA: 1,317
+  Ratio: 8.7
+  TA: '948'
   Tags:
   - Offline Mode
   - Single Player
@@ -23,10 +23,10 @@ Base Game Achievements:
   Description: Recruit all units.
   GS: '9'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 1%
-  Ratio: 8.54
-  TA: '76'
+  Number of Gamers: 6
+  Percentage of Gamers: 2%
+  Ratio: 7.78
+  TA: '70'
   Tags:
   - Offline Mode
   - Single Player
@@ -36,10 +36,10 @@ Base Game Achievements:
   Description: Reach a sufficient Morality Conviction value.
   GS: '9'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 1%
-  Ratio: 8.54
-  TA: '76'
+  Number of Gamers: 5
+  Percentage of Gamers: 2%
+  Ratio: 7.78
+  TA: '70'
   Tags:
   - Offline Mode
   - Single Player
@@ -48,10 +48,10 @@ Base Game Achievements:
   Description: Reach a sufficient Utility Conviction value.
   GS: '9'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 1%
-  Ratio: 8.54
-  TA: '76'
+  Number of Gamers: 6
+  Percentage of Gamers: 2%
+  Ratio: 7.78
+  TA: '70'
   Tags:
   - Offline Mode
   - Single Player
@@ -60,10 +60,10 @@ Base Game Achievements:
   Description: Reach a sufficient Liberty Conviction value.
   GS: '9'
   Guide: false
-  Number of Gamers: 6
+  Number of Gamers: 7
   Percentage of Gamers: 2%
-  Ratio: 6.97
-  TA: '62'
+  Ratio: 6.57
+  TA: '59'
   Tags:
   - Offline Mode
   - Single Player
@@ -72,8 +72,8 @@ Base Game Achievements:
   Description: Successfully persuade an ally.
   GS: '9'
   Guide: false
-  Number of Gamers: 289
-  Percentage of Gamers: 99%
+  Number of Gamers: 299
+  Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '9'
   Tags:
@@ -83,9 +83,9 @@ Base Game Achievements:
   Description: Successfully persuade everyone to vote the same way.
   GS: '9'
   Guide: true
-  Number of Gamers: 140
-  Percentage of Gamers: 48%
-  Ratio: 1.44
+  Number of Gamers: 151
+  Percentage of Gamers: 50%
+  Ratio: 1.41
   TA: '12'
   Tags:
   - Offline Game Mode
@@ -94,9 +94,9 @@ Base Game Achievements:
   Description: Cast the deciding vote when there is a tie.
   GS: '9'
   Guide: false
-  Number of Gamers: 37
+  Number of Gamers: 39
   Percentage of Gamers: 13%
-  Ratio: 2.8
+  Ratio: 2.78
   TA: '25'
   Tags:
   - Offline Game Mode
@@ -105,9 +105,9 @@ Base Game Achievements:
   Description: Do not sacrifice the town of Wolffort during chapter 7.
   GS: '9'
   Guide: true
-  Number of Gamers: 96
-  Percentage of Gamers: 33%
-  Ratio: 1.74
+  Number of Gamers: 105
+  Percentage of Gamers: 35%
+  Ratio: 1.69
   TA: '15'
   Tags:
   - Offline Mode
@@ -117,10 +117,10 @@ Base Game Achievements:
   Description: Reveal Roland's identity to Svarog.
   GS: '9'
   Guide: false
-  Number of Gamers: 33
-  Percentage of Gamers: 11%
-  Ratio: 2.97
-  TA: '26'
+  Number of Gamers: 39
+  Percentage of Gamers: 13%
+  Ratio: 2.78
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
@@ -129,9 +129,9 @@ Base Game Achievements:
   Description: Receive the royal signet from Symon.
   GS: '9'
   Guide: true
-  Number of Gamers: 40
+  Number of Gamers: 43
   Percentage of Gamers: 14%
-  Ratio: 2.73
+  Ratio: 2.68
   TA: '24'
   Tags:
   - Offline Mode
@@ -141,9 +141,9 @@ Base Game Achievements:
   Description: Find the key in the Rosellan village.
   GS: '9'
   Guide: true
-  Number of Gamers: 84
+  Number of Gamers: 89
   Percentage of Gamers: 29%
-  Ratio: 1.86
+  Ratio: 1.84
   TA: '16'
   Tags:
   - Offline Mode
@@ -153,10 +153,10 @@ Base Game Achievements:
   Description: Successfully report Sorsley's misdeeds.
   GS: '9'
   Guide: true
-  Number of Gamers: 40
-  Percentage of Gamers: 14%
-  Ratio: 2.7
-  TA: '24'
+  Number of Gamers: 45
+  Percentage of Gamers: 15%
+  Ratio: 2.62
+  TA: '23'
   Tags:
   - Offline Mode
   - Single Player
@@ -165,10 +165,10 @@ Base Game Achievements:
   Description: Assent to Benedict's strategy.
   GS: '9'
   Guide: false
-  Number of Gamers: 29
-  Percentage of Gamers: 10%
-  Ratio: 3.17
-  TA: '28'
+  Number of Gamers: 33
+  Percentage of Gamers: 11%
+  Ratio: 3.03
+  TA: '27'
   Tags:
   - Offline Mode
   - Single Player
@@ -178,10 +178,10 @@ Base Game Achievements:
   Description: Stand with Roland's idea.
   GS: '9'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 4%
-  Ratio: 4.93
-  TA: '44'
+  Number of Gamers: 15
+  Percentage of Gamers: 5%
+  Ratio: 4.49
+  TA: '40'
   Tags:
   - Offline Mode
   - Single Player
@@ -191,8 +191,8 @@ Base Game Achievements:
   Description: Place your faith in Frederica's ideals.
   GS: '9'
   Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 9%
+  Number of Gamers: 29
+  Percentage of Gamers: 10%
   Ratio: 3.28
   TA: '29'
   Tags:
@@ -204,10 +204,10 @@ Base Game Achievements:
   Description: Discover the fourth path.
   GS: '9'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 4%
-  Ratio: 5.15
-  TA: '46'
+  Number of Gamers: 15
+  Percentage of Gamers: 5%
+  Ratio: 4.49
+  TA: '40'
   Tags:
   - Offline Mode
   - Single Player
@@ -216,10 +216,10 @@ Base Game Achievements:
   Description: Win 100 battles.
   GS: '9'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 5%
-  Ratio: 4.56
-  TA: '41'
+  Number of Gamers: 18
+  Percentage of Gamers: 6%
+  Ratio: 4.22
+  TA: '37'
   Tags:
   - Offline Mode
   - Single Player
@@ -228,10 +228,10 @@ Base Game Achievements:
   Description: Exploit enemy weaknesses 100 times.
   GS: '9'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 4%
-  Ratio: 4.93
-  TA: '44'
+  Number of Gamers: 15
+  Percentage of Gamers: 5%
+  Ratio: 4.49
+  TA: '40'
   Tags:
   - Offline Mode
   - Single Player
@@ -240,9 +240,9 @@ Base Game Achievements:
   Description: Perform 100 follow-up attacks.
   GS: '9'
   Guide: false
-  Number of Gamers: 152
+  Number of Gamers: 159
   Percentage of Gamers: 52%
-  Ratio: 1.39
+  Ratio: 1.38
   TA: '12'
   Tags:
   - Offline Mode
@@ -252,9 +252,9 @@ Base Game Achievements:
   Description: Perform 100 back attacks.
   GS: '9'
   Guide: false
-  Number of Gamers: 154
+  Number of Gamers: 162
   Percentage of Gamers: 53%
-  Ratio: 1.38
+  Ratio: 1.36
   TA: '12'
   Tags:
   - Offline Mode
@@ -264,10 +264,10 @@ Base Game Achievements:
   Description: Set the ground ablaze 50 times.
   GS: '9'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 2%
-  Ratio: 6.45
-  TA: '58'
+  Number of Gamers: 10
+  Percentage of Gamers: 3%
+  Ratio: 5.5
+  TA: '49'
   Tags:
   - Offline Mode
   - Single Player
@@ -276,7 +276,7 @@ Base Game Achievements:
   Description: Freeze the ground 50 times.
   GS: '9'
   Guide: false
-  Number of Gamers: 83
+  Number of Gamers: 86
   Percentage of Gamers: 28%
   Ratio: 1.88
   TA: '16'
@@ -290,8 +290,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 20
   Percentage of Gamers: 7%
-  Ratio: 3.82
-  TA: '34'
+  Ratio: 3.89
+  TA: '35'
   Tags:
   - Offline Mode
   - Single Player
@@ -300,10 +300,10 @@ Base Game Achievements:
   Description: Electrocute units 50 times.
   GS: '9'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 2%
-  Ratio: 6.45
-  TA: '58'
+  Number of Gamers: 8
+  Percentage of Gamers: 3%
+  Ratio: 6.15
+  TA: '55'
   Tags:
   - Offline Mode
   - Single Player
@@ -312,10 +312,10 @@ Base Game Achievements:
   Description: Deal collision damage 50 times.
   GS: '9'
   Guide: false
-  Number of Gamers: 23
+  Number of Gamers: 25
   Percentage of Gamers: 8%
-  Ratio: 3.56
-  TA: '32'
+  Ratio: 3.48
+  TA: '31'
   Tags:
   - Offline Mode
   - Single Player
@@ -326,8 +326,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 8
   Percentage of Gamers: 3%
-  Ratio: 6.04
-  TA: '54'
+  Ratio: 6.15
+  TA: '55'
   Tags:
   - Offline Mode
   - Single Player
@@ -336,9 +336,9 @@ Base Game Achievements:
   Description: Counter 50 times.
   GS: '9'
   Guide: false
-  Number of Gamers: 64
+  Number of Gamers: 68
   Percentage of Gamers: 22%
-  Ratio: 2.13
+  Ratio: 2.12
   TA: '19'
   Tags:
   - Offline Mode
@@ -349,9 +349,9 @@ Base Game Achievements:
   GS: '9'
   Guide: false
   Number of Gamers: 22
-  Percentage of Gamers: 8%
-  Ratio: 3.64
-  TA: '32'
+  Percentage of Gamers: 7%
+  Ratio: 3.71
+  TA: '33'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -359,10 +359,10 @@ Base Game Achievements:
   Description: Embark with half or fewer than the maximum units and claim victory.
   GS: '9'
   Guide: true
-  Number of Gamers: 48
-  Percentage of Gamers: 16%
-  Ratio: 2.46
-  TA: '22'
+  Number of Gamers: 52
+  Percentage of Gamers: 17%
+  Ratio: 2.41
+  TA: '21'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -370,10 +370,10 @@ Base Game Achievements:
   Description: Deal damage with a mine cart.
   GS: '9'
   Guide: false
-  Number of Gamers: 59
+  Number of Gamers: 62
   Percentage of Gamers: 20%
-  Ratio: 2.24
-  TA: '20'
+  Ratio: 2.21
+  TA: '19'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -381,9 +381,9 @@ Base Game Achievements:
   Description: Pick up 100 spoils.
   GS: '9'
   Guide: false
-  Number of Gamers: 121
-  Percentage of Gamers: 41%
-  Ratio: 1.55
+  Number of Gamers: 127
+  Percentage of Gamers: 42%
+  Ratio: 1.54
   TA: '13'
   Tags:
   - Offline Mode
@@ -393,10 +393,10 @@ Base Game Achievements:
   Description: Use quietuses 50 times.
   GS: '9'
   Guide: false
-  Number of Gamers: 22
+  Number of Gamers: 24
   Percentage of Gamers: 8%
-  Ratio: 3.64
-  TA: '32'
+  Ratio: 3.55
+  TA: '31'
   Tags:
   - Offline Mode
   - Single Player
@@ -405,9 +405,9 @@ Base Game Achievements:
   Description: Accumulate 1,000 kudos.
   GS: '9'
   Guide: false
-  Number of Gamers: 58
+  Number of Gamers: 61
   Percentage of Gamers: 20%
-  Ratio: 2.24
+  Ratio: 2.22
   TA: '20'
   Tags:
   - Offline Mode
@@ -417,10 +417,10 @@ Base Game Achievements:
   Description: Accumulate 1,000,000 coins.
   GS: '9'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 2%
-  Ratio: 6.97
-  TA: '62'
+  Number of Gamers: 8
+  Percentage of Gamers: 3%
+  Ratio: 6.57
+  TA: '59'
   Tags:
   - Offline Mode
   - Single Player
@@ -429,10 +429,10 @@ Base Game Achievements:
   Description: Complete all mental mock battles.
   GS: '9'
   Guide: false
-  Number of Gamers: 2
+  Number of Gamers: 4
   Percentage of Gamers: 1%
-  Ratio: 12.08
-  TA: '108'
+  Ratio: 8.7
+  TA: '78'
   Tags:
   - Offline Mode
   - Single Player
@@ -441,10 +441,10 @@ Base Game Achievements:
   Description: Learn all quietuses and obtain the maximum amount of Quietus Points.
   GS: '9'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 3%
-  Ratio: 5.69
-  TA: '51'
+  Number of Gamers: 11
+  Percentage of Gamers: 4%
+  Ratio: 5.5
+  TA: '49'
   Tags:
   - Offline Mode
   - Single Player
@@ -453,10 +453,10 @@ Base Game Achievements:
   Description: Travel all paths.
   GS: '9'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 1%
-  Ratio: 8.54
-  TA: '76'
+  Number of Gamers: 5
+  Percentage of Gamers: 2%
+  Ratio: 7.78
+  TA: '70'
   Tags:
   - Offline Mode
   - Single Player
@@ -465,10 +465,10 @@ Base Game Achievements:
   Description: Collect all notes.
   GS: '9'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 1%
-  Ratio: 9.86
-  TA: '88'
+  Number of Gamers: 5
+  Percentage of Gamers: 2%
+  Ratio: 7.78
+  TA: '70'
   Tags:
   - Offline Mode
   - Single Player
@@ -480,8 +480,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 10
   Percentage of Gamers: 3%
-  Ratio: 5.4
-  TA: '48'
+  Ratio: 5.5
+  TA: '49'
   Tags:
   - Offline Mode
   - Single Player
@@ -490,10 +490,10 @@ Base Game Achievements:
   Description: Learn the Weapon Skill of all units.
   GS: '9'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 1%
-  Ratio: 8.54
-  TA: '76'
+  Number of Gamers: 5
+  Percentage of Gamers: 2%
+  Ratio: 7.78
+  TA: '70'
   Tags:
   - Offline Mode
   - Single Player
@@ -502,10 +502,10 @@ Base Game Achievements:
   Description: Reach the pinnacle of Serenoa's strength.
   GS: '9'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 6%
-  Ratio: 4.02
-  TA: '36'
+  Number of Gamers: 21
+  Percentage of Gamers: 7%
+  Ratio: 3.89
+  TA: '35'
   Tags:
   - Offline Mode
   - Single Player
@@ -514,10 +514,10 @@ Base Game Achievements:
   Description: Reach the pinnacle of Roland's strength.
   GS: '9'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 4%
-  Ratio: 4.73
-  TA: '42'
+  Number of Gamers: 17
+  Percentage of Gamers: 6%
+  Ratio: 4.35
+  TA: '39'
   Tags:
   - Offline Mode
   - Single Player
@@ -526,10 +526,10 @@ Base Game Achievements:
   Description: Reach the pinnacle of Benedict's strength.
   GS: '9'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 5%
-  Ratio: 4.27
-  TA: '38'
+  Number of Gamers: 19
+  Percentage of Gamers: 6%
+  Ratio: 3.99
+  TA: '35'
   Tags:
   - Offline Mode
   - Single Player
@@ -538,10 +538,10 @@ Base Game Achievements:
   Description: Reach the pinnacle of Frederica's strength.
   GS: '9'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 5%
-  Ratio: 4.41
-  TA: '39'
+  Number of Gamers: 18
+  Percentage of Gamers: 6%
+  Ratio: 4.22
+  TA: '37'
   Tags:
   - Offline Mode
   - Single Player
@@ -550,10 +550,10 @@ Base Game Achievements:
   Description: Reach the pinnacle of Geela's strength.
   GS: '9'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 5%
-  Ratio: 4.41
-  TA: '39'
+  Number of Gamers: 18
+  Percentage of Gamers: 6%
+  Ratio: 4.22
+  TA: '37'
   Tags:
   - Offline Mode
   - Single Player
@@ -562,10 +562,10 @@ Base Game Achievements:
   Description: Reach the pinnacle of Anna's strength.
   GS: '9'
   Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 6%
-  Ratio: 4.14
-  TA: '37'
+  Number of Gamers: 20
+  Percentage of Gamers: 7%
+  Ratio: 3.99
+  TA: '35'
   Tags:
   - Offline Mode
   - Single Player
@@ -574,10 +574,10 @@ Base Game Achievements:
   Description: Reach the pinnacle of Hughette's strength.
   GS: '9'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 5%
-  Ratio: 4.41
-  TA: '39'
+  Number of Gamers: 19
+  Percentage of Gamers: 6%
+  Ratio: 4.1
+  TA: '36'
   Tags:
   - Offline Mode
   - Single Player
@@ -586,10 +586,10 @@ Base Game Achievements:
   Description: Reach the pinnacle of Erador's strength.
   GS: '9'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 5%
-  Ratio: 4.41
-  TA: '39'
+  Number of Gamers: 17
+  Percentage of Gamers: 6%
+  Ratio: 4.22
+  TA: '37'
   Tags:
   - Offline Mode
   - Single Player
@@ -598,10 +598,10 @@ Base Game Achievements:
   Description: Reach the pinnacle of Rudolph's strength.
   GS: '9'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 5%
-  Ratio: 4.41
-  TA: '39'
+  Number of Gamers: 17
+  Percentage of Gamers: 6%
+  Ratio: 4.22
+  TA: '37'
   Tags:
   - Offline Mode
   - Single Player
@@ -610,10 +610,10 @@ Base Game Achievements:
   Description: Reach the pinnacle of Corentin's strength.
   GS: '9'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 4%
-  Ratio: 4.93
-  TA: '44'
+  Number of Gamers: 15
+  Percentage of Gamers: 5%
+  Ratio: 4.49
+  TA: '40'
   Tags:
   - Offline Mode
   - Single Player
@@ -624,8 +624,8 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 12
   Percentage of Gamers: 4%
-  Ratio: 4.93
-  TA: '44'
+  Ratio: 5.02
+  TA: '45'
   Tags:
   - Offline Mode
   - Single Player
@@ -634,10 +634,10 @@ Base Game Achievements:
   Description: Reach the pinnacle of Milo's strength.
   GS: '9'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 3%
-  Ratio: 5.4
-  TA: '48'
+  Number of Gamers: 12
+  Percentage of Gamers: 4%
+  Ratio: 5.24
+  TA: '47'
   Tags:
   - Offline Mode
   - Single Player
@@ -646,10 +646,10 @@ Base Game Achievements:
   Description: Reach the pinnacle of Cordelia's strength.
   GS: '9'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 2%
-  Ratio: 6.45
-  TA: '58'
+  Number of Gamers: 8
+  Percentage of Gamers: 3%
+  Ratio: 6.15
+  TA: '55'
   Tags:
   - Offline Mode
   - Single Player
@@ -658,10 +658,10 @@ Base Game Achievements:
   Description: Reach the pinnacle of Travis's strength.
   GS: '9'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 2%
-  Ratio: 6.45
-  TA: '58'
+  Number of Gamers: 8
+  Percentage of Gamers: 3%
+  Ratio: 6.15
+  TA: '55'
   Tags:
   - Offline Mode
   - Single Player
@@ -670,10 +670,10 @@ Base Game Achievements:
   Description: Reach the pinnacle of Trish's strength.
   GS: '9'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 3%
-  Ratio: 5.4
-  TA: '48'
+  Number of Gamers: 11
+  Percentage of Gamers: 4%
+  Ratio: 5.24
+  TA: '47'
   Tags:
   - Offline Mode
   - Single Player
@@ -682,10 +682,10 @@ Base Game Achievements:
   Description: Reach the pinnacle of Avlora's strength.
   GS: '9'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 3%
-  Ratio: 5.69
-  TA: '51'
+  Number of Gamers: 12
+  Percentage of Gamers: 4%
+  Ratio: 5.24
+  TA: '47'
   Tags:
   - Offline Mode
   - Single Player
@@ -694,10 +694,10 @@ Base Game Achievements:
   Description: Reach the pinnacle of Hossabara's strength.
   GS: '9'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 3%
-  Ratio: 5.4
-  TA: '48'
+  Number of Gamers: 16
+  Percentage of Gamers: 5%
+  Ratio: 4.65
+  TA: '41'
   Tags:
   - Offline Mode
   - Single Player
@@ -706,10 +706,10 @@ Base Game Achievements:
   Description: Reach the pinnacle of Narve's strength.
   GS: '9'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 4%
-  Ratio: 4.73
-  TA: '42'
+  Number of Gamers: 16
+  Percentage of Gamers: 5%
+  Ratio: 4.49
+  TA: '40'
   Tags:
   - Offline Mode
   - Single Player
@@ -718,10 +718,10 @@ Base Game Achievements:
   Description: Reach the pinnacle of Medina's strength.
   GS: '9'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 4%
-  Ratio: 4.93
-  TA: '44'
+  Number of Gamers: 14
+  Percentage of Gamers: 5%
+  Ratio: 4.65
+  TA: '41'
   Tags:
   - Offline Mode
   - Single Player
@@ -730,10 +730,10 @@ Base Game Achievements:
   Description: Reach the pinnacle of Jens's strength.
   GS: '9'
   Guide: false
-  Number of Gamers: 12
+  Number of Gamers: 13
   Percentage of Gamers: 4%
-  Ratio: 4.93
-  TA: '44'
+  Ratio: 4.82
+  TA: '43'
   Tags:
   - Offline Mode
   - Single Player
@@ -742,10 +742,10 @@ Base Game Achievements:
   Description: Reach the pinnacle of Maxwell's strength.
   GS: '9'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 4%
-  Ratio: 4.73
-  TA: '42'
+  Number of Gamers: 15
+  Percentage of Gamers: 5%
+  Ratio: 4.65
+  TA: '41'
   Tags:
   - Offline Mode
   - Single Player
@@ -754,10 +754,10 @@ Base Game Achievements:
   Description: Reach the pinnacle of Archibald's strength.
   GS: '9'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 4%
-  Ratio: 4.93
-  TA: '44'
+  Number of Gamers: 14
+  Percentage of Gamers: 5%
+  Ratio: 4.82
+  TA: '43'
   Tags:
   - Offline Mode
   - Single Player
@@ -766,10 +766,10 @@ Base Game Achievements:
   Description: Reach the pinnacle of Flanagan's strength.
   GS: '9'
   Guide: false
-  Number of Gamers: 11
+  Number of Gamers: 13
   Percentage of Gamers: 4%
-  Ratio: 5.15
-  TA: '46'
+  Ratio: 4.82
+  TA: '43'
   Tags:
   - Offline Mode
   - Single Player
@@ -778,10 +778,10 @@ Base Game Achievements:
   Description: Reach the pinnacle of Ezana's strength.
   GS: '9'
   Guide: false
-  Number of Gamers: 12
+  Number of Gamers: 13
   Percentage of Gamers: 4%
-  Ratio: 4.93
-  TA: '44'
+  Ratio: 4.82
+  TA: '43'
   Tags:
   - Offline Mode
   - Single Player
@@ -790,10 +790,10 @@ Base Game Achievements:
   Description: Reach the pinnacle of Lionel's strength.
   GS: '9'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 3%
-  Ratio: 5.4
-  TA: '48'
+  Number of Gamers: 13
+  Percentage of Gamers: 4%
+  Ratio: 4.82
+  TA: '43'
   Tags:
   - Offline Mode
   - Single Player
@@ -802,10 +802,10 @@ Base Game Achievements:
   Description: Reach the pinnacle of Groma's strength.
   GS: '9'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 3%
-  Ratio: 5.69
-  TA: '51'
+  Number of Gamers: 12
+  Percentage of Gamers: 4%
+  Ratio: 5.02
+  TA: '45'
   Tags:
   - Offline Mode
   - Single Player
@@ -814,10 +814,10 @@ Base Game Achievements:
   Description: Reach the pinnacle of Piccoletta's strength.
   GS: '9'
   Guide: false
-  Number of Gamers: 8
+  Number of Gamers: 10
   Percentage of Gamers: 3%
-  Ratio: 6.04
-  TA: '54'
+  Ratio: 5.8
+  TA: '52'
   Tags:
   - Offline Mode
   - Single Player
@@ -826,10 +826,10 @@ Base Game Achievements:
   Description: Reach the pinnacle of Decimal's strength.
   GS: '9'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 3%
-  Ratio: 5.69
-  TA: '51'
+  Number of Gamers: 12
+  Percentage of Gamers: 4%
+  Ratio: 5.24
+  TA: '47'
   Tags:
   - Offline Mode
   - Single Player
@@ -838,10 +838,10 @@ Base Game Achievements:
   Description: Reach the pinnacle of Quahaug's strength.
   GS: '9'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 3%
-  Ratio: 5.4
-  TA: '48'
+  Number of Gamers: 13
+  Percentage of Gamers: 4%
+  Ratio: 4.82
+  TA: '43'
   Tags:
   - Offline Mode
   - Single Player
@@ -850,10 +850,10 @@ Base Game Achievements:
   Description: Reach the pinnacle of Giovanna's strength.
   GS: '9'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 3%
-  Ratio: 5.69
-  TA: '51'
+  Number of Gamers: 13
+  Percentage of Gamers: 4%
+  Ratio: 5.02
+  TA: '45'
   Tags:
   - Offline Mode
   - Single Player
@@ -862,9 +862,9 @@ Base Game Achievements:
   Description: View all of Roland's character stories.
   GS: '9'
   Guide: false
-  Number of Gamers: 52
+  Number of Gamers: 55
   Percentage of Gamers: 18%
-  Ratio: 2.39
+  Ratio: 2.34
   TA: '21'
   Tags:
   - Offline Mode
@@ -874,9 +874,9 @@ Base Game Achievements:
   Description: View all of Benedict's character stories.
   GS: '9'
   Guide: false
-  Number of Gamers: 43
+  Number of Gamers: 45
   Percentage of Gamers: 15%
-  Ratio: 2.63
+  Ratio: 2.59
   TA: '23'
   Tags:
   - Offline Mode
@@ -886,9 +886,9 @@ Base Game Achievements:
   Description: View all of Frederica's character stories.
   GS: '9'
   Guide: false
-  Number of Gamers: 57
-  Percentage of Gamers: 20%
-  Ratio: 2.28
+  Number of Gamers: 59
+  Percentage of Gamers: 19%
+  Ratio: 2.26
   TA: '20'
   Tags:
   - Offline Mode
@@ -898,9 +898,9 @@ Base Game Achievements:
   Description: View all of Geela's character stories.
   GS: '9'
   Guide: false
-  Number of Gamers: 56
-  Percentage of Gamers: 19%
-  Ratio: 2.3
+  Number of Gamers: 61
+  Percentage of Gamers: 20%
+  Ratio: 2.22
   TA: '20'
   Tags:
   - Offline Mode
@@ -910,9 +910,9 @@ Base Game Achievements:
   Description: View all of Anna's character stories.
   GS: '9'
   Guide: false
-  Number of Gamers: 57
-  Percentage of Gamers: 20%
-  Ratio: 2.28
+  Number of Gamers: 59
+  Percentage of Gamers: 19%
+  Ratio: 2.26
   TA: '20'
   Tags:
   - Offline Mode
@@ -922,9 +922,9 @@ Base Game Achievements:
   Description: View all of Hughette's character stories.
   GS: '9'
   Guide: false
-  Number of Gamers: 55
+  Number of Gamers: 57
   Percentage of Gamers: 19%
-  Ratio: 2.32
+  Ratio: 2.3
   TA: '20'
   Tags:
   - Offline Mode
@@ -934,9 +934,9 @@ Base Game Achievements:
   Description: View all of Erador's character stories.
   GS: '9'
   Guide: false
-  Number of Gamers: 43
+  Number of Gamers: 46
   Percentage of Gamers: 15%
-  Ratio: 2.63
+  Ratio: 2.56
   TA: '23'
   Tags:
   - Offline Mode
@@ -946,7 +946,7 @@ Base Game Achievements:
   Description: View all of Rudolph's character stories.
   GS: '9'
   Guide: false
-  Number of Gamers: 27
+  Number of Gamers: 28
   Percentage of Gamers: 9%
   Ratio: 3.28
   TA: '29'
@@ -958,10 +958,10 @@ Base Game Achievements:
   Description: View all of Corentin's character stories.
   GS: '9'
   Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 10%
-  Ratio: 3.17
-  TA: '28'
+  Number of Gamers: 34
+  Percentage of Gamers: 11%
+  Ratio: 3.03
+  TA: '27'
   Tags:
   - Offline Mode
   - Single Player
@@ -970,10 +970,10 @@ Base Game Achievements:
   Description: View all of Julio's character stories.
   GS: '9'
   Guide: false
-  Number of Gamers: 28
-  Percentage of Gamers: 10%
-  Ratio: 3.28
-  TA: '29'
+  Number of Gamers: 33
+  Percentage of Gamers: 11%
+  Ratio: 3.03
+  TA: '27'
   Tags:
   - Offline Mode
   - Single Player
@@ -982,10 +982,10 @@ Base Game Achievements:
   Description: View all of Milo's character stories.
   GS: '9'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 5%
-  Ratio: 4.41
-  TA: '39'
+  Number of Gamers: 18
+  Percentage of Gamers: 6%
+  Ratio: 4.22
+  TA: '37'
   Tags:
   - Offline Mode
   - Single Player
@@ -994,10 +994,10 @@ Base Game Achievements:
   Description: View all of Cordelia's character stories.
   GS: '9'
   Guide: false
-  Number of Gamers: 6
+  Number of Gamers: 7
   Percentage of Gamers: 2%
-  Ratio: 6.97
-  TA: '62'
+  Ratio: 6.57
+  TA: '59'
   Tags:
   - Offline Mode
   - Single Player
@@ -1006,10 +1006,10 @@ Base Game Achievements:
   Description: View all of Travis's character stories.
   GS: '9'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 2%
-  Ratio: 6.97
-  TA: '62'
+  Number of Gamers: 8
+  Percentage of Gamers: 3%
+  Ratio: 6.57
+  TA: '59'
   Tags:
   - Offline Mode
   - Single Player
@@ -1018,10 +1018,10 @@ Base Game Achievements:
   Description: View all of Trish's character stories.
   GS: '9'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 4%
-  Ratio: 4.73
-  TA: '42'
+  Number of Gamers: 15
+  Percentage of Gamers: 5%
+  Ratio: 4.49
+  TA: '40'
   Tags:
   - Offline Mode
   - Single Player
@@ -1030,10 +1030,10 @@ Base Game Achievements:
   Description: View all of Avlora's character stories.
   GS: '9'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 2%
-  Ratio: 6.97
-  TA: '62'
+  Number of Gamers: 8
+  Percentage of Gamers: 3%
+  Ratio: 6.15
+  TA: '55'
   Tags:
   - Offline Mode
   - Single Player
@@ -1042,10 +1042,10 @@ Base Game Achievements:
   Description: View all of Hossabara's character stories.
   GS: '9'
   Guide: false
-  Number of Gamers: 22
+  Number of Gamers: 25
   Percentage of Gamers: 8%
-  Ratio: 3.64
-  TA: '32'
+  Ratio: 3.55
+  TA: '31'
   Tags:
   - Offline Mode
   - Single Player
@@ -1054,9 +1054,9 @@ Base Game Achievements:
   Description: View all of Narve's character stories.
   GS: '9'
   Guide: false
-  Number of Gamers: 42
+  Number of Gamers: 44
   Percentage of Gamers: 14%
-  Ratio: 2.63
+  Ratio: 2.62
   TA: '23'
   Tags:
   - Offline Mode
@@ -1066,10 +1066,10 @@ Base Game Achievements:
   Description: View all of Medina's character stories.
   GS: '9'
   Guide: false
-  Number of Gamers: 24
-  Percentage of Gamers: 8%
-  Ratio: 3.48
-  TA: '31'
+  Number of Gamers: 26
+  Percentage of Gamers: 9%
+  Ratio: 3.41
+  TA: '30'
   Tags:
   - Offline Mode
   - Single Player
@@ -1078,9 +1078,9 @@ Base Game Achievements:
   Description: View all of Jens's character stories.
   GS: '9'
   Guide: false
-  Number of Gamers: 19
+  Number of Gamers: 20
   Percentage of Gamers: 7%
-  Ratio: 3.92
+  Ratio: 3.99
   TA: '35'
   Tags:
   - Offline Mode
@@ -1090,10 +1090,10 @@ Base Game Achievements:
   Description: View all of Maxwell's character stories.
   GS: '9'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 4%
-  Ratio: 4.93
-  TA: '44'
+  Number of Gamers: 17
+  Percentage of Gamers: 6%
+  Ratio: 4.49
+  TA: '40'
   Tags:
   - Offline Mode
   - Single Player
@@ -1102,10 +1102,10 @@ Base Game Achievements:
   Description: View all of Archibald's character stories.
   GS: '9'
   Guide: false
-  Number of Gamers: 34
+  Number of Gamers: 37
   Percentage of Gamers: 12%
-  Ratio: 2.93
-  TA: '26'
+  Ratio: 2.86
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
@@ -1114,10 +1114,10 @@ Base Game Achievements:
   Description: View all of Flanagan's character stories.
   GS: '9'
   Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 8%
-  Ratio: 3.56
-  TA: '32'
+  Number of Gamers: 27
+  Percentage of Gamers: 9%
+  Ratio: 3.35
+  TA: '30'
   Tags:
   - Offline Mode
   - Single Player
@@ -1126,10 +1126,10 @@ Base Game Achievements:
   Description: View all of Ezana's character stories.
   GS: '9'
   Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 9%
-  Ratio: 3.28
-  TA: '29'
+  Number of Gamers: 31
+  Percentage of Gamers: 10%
+  Ratio: 3.12
+  TA: '28'
   Tags:
   - Offline Mode
   - Single Player
@@ -1138,10 +1138,10 @@ Base Game Achievements:
   Description: View all of Lionel's character stories.
   GS: '9'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 4%
-  Ratio: 4.73
-  TA: '42'
+  Number of Gamers: 15
+  Percentage of Gamers: 5%
+  Ratio: 4.65
+  TA: '41'
   Tags:
   - Offline Mode
   - Single Player
@@ -1150,10 +1150,10 @@ Base Game Achievements:
   Description: View all of Groma's character stories.
   GS: '9'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 4%
-  Ratio: 4.93
-  TA: '44'
+  Number of Gamers: 15
+  Percentage of Gamers: 5%
+  Ratio: 4.65
+  TA: '41'
   Tags:
   - Offline Mode
   - Single Player
@@ -1162,9 +1162,9 @@ Base Game Achievements:
   Description: View all of Piccoletta's character stories.
   GS: '9'
   Guide: false
-  Number of Gamers: 14
+  Number of Gamers: 15
   Percentage of Gamers: 5%
-  Ratio: 4.56
+  Ratio: 4.65
   TA: '41'
   Tags:
   - Offline Mode
@@ -1174,10 +1174,10 @@ Base Game Achievements:
   Description: View all of Decimal's character stories.
   GS: '9'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 3%
-  Ratio: 5.69
-  TA: '51'
+  Number of Gamers: 13
+  Percentage of Gamers: 4%
+  Ratio: 5.24
+  TA: '47'
   Tags:
   - Offline Mode
   - Single Player
@@ -1186,10 +1186,10 @@ Base Game Achievements:
   Description: View all of Quahaug's character stories.
   GS: '9'
   Guide: false
-  Number of Gamers: 8
+  Number of Gamers: 9
   Percentage of Gamers: 3%
-  Ratio: 6.04
-  TA: '54'
+  Ratio: 6.15
+  TA: '55'
   Tags:
   - Offline Mode
   - Single Player
@@ -1198,31 +1198,31 @@ Base Game Achievements:
   Description: View all of Giovanna's character stories.
   GS: '9'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 2%
-  Ratio: 7.64
-  TA: '68'
+  Number of Gamers: 8
+  Percentage of Gamers: 3%
+  Ratio: 6.57
+  TA: '59'
   Tags:
   - Offline Mode
   - Single Player
   - Missable
-Base Ratio: 5.341
-Base TA: 5341
+Base Ratio: 4.725
+Base TA: 4725
 Delisted: false
 Developer: ArtDink, Square Enix
 Game Name: TRIANGLE STRATEGY
 Genres: Strategy, Turn Based
 Install Size: 8500.0
-Number of Completions: 2
-Number of Gamers: 292
+Number of Completions: 4
+Number of Gamers: 304
 Overall Completion Time:
-- 98
-- 99
+- 90
+- 91
 Overall GS: 1000
-Overall Ratio: 5.341
-Overall TA: 5341
+Overall Ratio: 4.725
+Overall TA: 4725
 PDU: 0
-Percentage Completed: 0.68
+Percentage Completed: 1.32
 Publisher: Square Enix
 Release Date: 20 August 2025
 Server Closure: false
