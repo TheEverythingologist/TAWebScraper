@@ -1,15 +1,15 @@
 Add On Achievements: []
 Base Completion Time:
-- 4
-- 5
+- 0.0
+- 1.0
 Base GS: 2000
 Base Game Achievements:
 - Achievement Name: First Victory
   Description: Complete your first level
   GS: '10'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 100%
+  Number of Gamers: 96
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '10'
   Tags:
@@ -20,8 +20,8 @@ Base Game Achievements:
   Description: Earn your first star
   GS: '10'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 100%
+  Number of Gamers: 96
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '10'
   Tags:
@@ -32,9 +32,9 @@ Base Game Achievements:
   Description: After level 2, complete a level using more capybaras
   GS: '10'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 100%
-  Ratio: 1.0
+  Number of Gamers: 91
+  Percentage of Gamers: 94%
+  Ratio: 1.03
   TA: '10'
   Tags:
   - Offline Game Mode
@@ -43,9 +43,9 @@ Base Game Achievements:
   Description: After level 2, complete a level using more wolves
   GS: '10'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 100%
-  Ratio: 1.0
+  Number of Gamers: 92
+  Percentage of Gamers: 95%
+  Ratio: 1.03
   TA: '10'
   Tags:
   - Offline Game Mode
@@ -54,10 +54,10 @@ Base Game Achievements:
   Description: After level 5, complete a level without hints
   GS: '30'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '30'
+  Number of Gamers: 90
+  Percentage of Gamers: 93%
+  Ratio: 1.04
+  TA: '31'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -65,9 +65,9 @@ Base Game Achievements:
   Description: After level 5, complete 3 levels without hints
   GS: '10'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 100%
-  Ratio: 1.0
+  Number of Gamers: 90
+  Percentage of Gamers: 93%
+  Ratio: 1.04
   TA: '10'
   Tags:
   - Offline Game Mode
@@ -76,9 +76,9 @@ Base Game Achievements:
   Description: Use a hint for the first time
   GS: '10'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 100%
-  Ratio: 1.0
+  Number of Gamers: 92
+  Percentage of Gamers: 95%
+  Ratio: 1.03
   TA: '10'
   Tags:
   - Offline Game Mode
@@ -87,9 +87,9 @@ Base Game Achievements:
   Description: Use restart for the first time
   GS: '10'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 100%
-  Ratio: 1.0
+  Number of Gamers: 95
+  Percentage of Gamers: 98%
+  Ratio: 1.01
   TA: '10'
   Tags:
   - Offline Game Mode
@@ -98,7 +98,7 @@ Base Game Achievements:
   Description: Rotate a piece for the first time
   GS: '10'
   Guide: false
-  Number of Gamers: 8
+  Number of Gamers: 97
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '10'
@@ -109,9 +109,9 @@ Base Game Achievements:
   Description: After level 5, complete 5 levels without hints
   GS: '10'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 100%
-  Ratio: 1.0
+  Number of Gamers: 90
+  Percentage of Gamers: 93%
+  Ratio: 1.04
   TA: '10'
   Tags:
   - Offline Mode
@@ -121,8 +121,8 @@ Base Game Achievements:
   Description: Place a piece on the grid without rotating it
   GS: '10'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 100%
+  Number of Gamers: 95
+  Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '10'
   Tags:
@@ -132,9 +132,9 @@ Base Game Achievements:
   Description: After level 2, complete a level without restart
   GS: '30'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 100%
-  Ratio: 1.0
+  Number of Gamers: 94
+  Percentage of Gamers: 97%
+  Ratio: 1.01
   TA: '30'
   Tags:
   - Offline Game Mode
@@ -143,10 +143,10 @@ Base Game Achievements:
   Description: After level 5, complete a level in under a minute
   GS: '30'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '30'
+  Number of Gamers: 90
+  Percentage of Gamers: 93%
+  Ratio: 1.04
+  TA: '31'
   Tags:
   - Offline Mode
   - Single Player
@@ -155,10 +155,10 @@ Base Game Achievements:
   Description: Earn 3 stars
   GS: '90'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '90'
+  Number of Gamers: 93
+  Percentage of Gamers: 96%
+  Ratio: 1.01
+  TA: '91'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -166,10 +166,10 @@ Base Game Achievements:
   Description: Complete 5 levels
   GS: '90'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '90'
+  Number of Gamers: 92
+  Percentage of Gamers: 95%
+  Ratio: 1.03
+  TA: '93'
   Tags:
   - Offline Mode
   - Single Player
@@ -178,10 +178,10 @@ Base Game Achievements:
   Description: Use a hint 5 times
   GS: '90'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '90'
+  Number of Gamers: 91
+  Percentage of Gamers: 94%
+  Ratio: 1.03
+  TA: '93'
   Tags:
   - Offline Mode
   - Single Player
@@ -190,10 +190,10 @@ Base Game Achievements:
   Description: Use restart 5 times
   GS: '90'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '90'
+  Number of Gamers: 93
+  Percentage of Gamers: 96%
+  Ratio: 1.01
+  TA: '91'
   Tags:
   - Offline Mode
   - Single Player
@@ -202,10 +202,10 @@ Base Game Achievements:
   Description: Reach level 10
   GS: '90'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '90'
+  Number of Gamers: 90
+  Percentage of Gamers: 93%
+  Ratio: 1.04
+  TA: '94'
   Tags:
   - Offline Mode
   - Single Player
@@ -214,10 +214,10 @@ Base Game Achievements:
   Description: Earn 5 stars
   GS: '90'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '90'
+  Number of Gamers: 91
+  Percentage of Gamers: 94%
+  Ratio: 1.04
+  TA: '93'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -225,10 +225,10 @@ Base Game Achievements:
   Description: After level 2, complete a level with equal wolf and capybara
   GS: '90'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '90'
+  Number of Gamers: 93
+  Percentage of Gamers: 96%
+  Ratio: 1.01
+  TA: '91'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -236,10 +236,10 @@ Base Game Achievements:
   Description: Reach level 15
   GS: '90'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '90'
+  Number of Gamers: 89
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '94'
   Tags:
   - Offline Mode
   - Single Player
@@ -248,79 +248,94 @@ Base Game Achievements:
   Description: After level 10, complete a level in under 2 minutes
   GS: '90'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '90'
+  Number of Gamers: 90
+  Percentage of Gamers: 93%
+  Ratio: 1.04
+  TA: '94'
   Tags:
   - Offline Mode
   - Single Player
   - Time/Date
-Base Ratio: 1.0
-Base TA: 2000
+Base Ratio: 1.025
+Base TA: 2050
 Delisted: false
 Developer: Afil Games
 Game Name: Claim the Forest (Windows)
 Genres: Puzzle
 Install Size: 50.0
-Number of Completions: 8
-Number of Gamers: 8
+Number of Completions: 89
+Number of Gamers: 97
 Overall Completion Time:
-- 4
-- 5
+- 0.0
+- 1.0
 Overall GS: 2000
-Overall Ratio: 1.0
-Overall TA: 2000
+Overall Ratio: 1.025
+Overall TA: 2050
 PDU: 0
-Percentage Completed: 100.0
+Percentage Completed: 91.75
 Publisher: Afil Games
 Release Date: 11 September 2025
 Server Closure: false
-Site Rating: 0.0
+Site Rating: 2.0
 Update Achievements:
 - Achievement Name: New  Spins
   Description: Rotate 5  pieces
   GS: '200'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '200'
-  Tags: []
+  Number of Gamers: 94
+  Percentage of Gamers: 97%
+  Ratio: 1.01
+  TA: '202'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: First Steps
   Description: Move 5  pieces
   GS: '200'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '200'
-  Tags: []
+  Number of Gamers: 93
+  Percentage of Gamers: 96%
+  Ratio: 1.01
+  TA: '203'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Starting Over
   Description: Use  restart 10 times
   GS: '200'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '200'
-  Tags: []
+  Number of Gamers: 92
+  Percentage of Gamers: 95%
+  Ratio: 1.01
+  TA: '203'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Sudden Help
   Description: Use hint 10 times
   GS: '200'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '200'
-  Tags: []
+  Number of Gamers: 91
+  Percentage of Gamers: 94%
+  Ratio: 1.04
+  TA: '208'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Forest  Balance
   Description: Earn 7 stars
   GS: '200'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '200'
-  Tags: []
+  Number of Gamers: 91
+  Percentage of Gamers: 94%
+  Ratio: 1.04
+  TA: '208'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 Walkthrough: false

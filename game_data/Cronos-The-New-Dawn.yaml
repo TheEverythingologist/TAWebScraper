@@ -1,452 +1,584 @@
 Add On Achievements: []
 Base Completion Time:
-- -1
-- -1
+- 30.0
+- 35.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: The Catfinder
   Description: Pet all the cats.
   GS: '30'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 0%
-  Ratio: 19.03
-  TA: '571'
-  Tags: []
+  Number of Gamers: 220
+  Percentage of Gamers: 6%
+  Ratio: 3.96
+  TA: '118'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Unadulterated Joy
   Description: Find all of the comic books.
   GS: '30'
-  Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 0%
-  Ratio: 19.03
-  TA: '571'
-  Tags: []
+  Guide: true
+  Number of Gamers: 155
+  Percentage of Gamers: 4%
+  Ratio: 4.71
+  TA: '141'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: The Archivist
   Description: Find all of the Travelogs.
   GS: '30'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 0%
-  Ratio: 15.54
-  TA: '466'
-  Tags: []
+  Number of Gamers: 159
+  Percentage of Gamers: 5%
+  Ratio: 4.65
+  TA: '139'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: To Bring Them Back
   Description: Transfer an Essence from a fallen Traveler.
   GS: '15'
   Guide: false
-  Number of Gamers: 102
-  Percentage of Gamers: 14%
-  Ratio: 2.74
-  TA: '41'
-  Tags: []
+  Number of Gamers: 1479
+  Percentage of Gamers: 43%
+  Ratio: 1.52
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: The Preserver
   Description: Transfer the Essences from all fallen Travelers.
   GS: '30'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 0%
-  Ratio: 19.03
-  TA: '571'
-  Tags: []
+  Number of Gamers: 191
+  Percentage of Gamers: 6%
+  Ratio: 4.25
+  TA: '127'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: The Boon Of The Relics
   Description: Find all the weapons.
   GS: '30'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 1%
-  Ratio: 12.04
-  TA: '361'
-  Tags: []
+  Number of Gamers: 347
+  Percentage of Gamers: 10%
+  Ratio: 3.15
+  TA: '94'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: The Contribution
   Description: Sell 15 valuable items.
   GS: '15'
   Guide: false
-  Number of Gamers: 34
-  Percentage of Gamers: 5%
-  Ratio: 4.83
-  TA: '72'
-  Tags: []
+  Number of Gamers: 912
+  Percentage of Gamers: 26%
+  Ratio: 1.94
+  TA: '29'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
+  - Shop
 - Achievement Name: Resources Are Scarce
   Description: Fabricate an item.
   GS: '15'
   Guide: false
-  Number of Gamers: 659
-  Percentage of Gamers: 90%
-  Ratio: 1.05
+  Number of Gamers: 3274
+  Percentage of Gamers: 95%
+  Ratio: 1.02
   TA: '15'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: To Pave The Path
   Description: Fabricate all item types.
   GS: '30'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 1%
-  Ratio: 10.17
-  TA: '305'
-  Tags: []
+  Number of Gamers: 450
+  Percentage of Gamers: 13%
+  Ratio: 2.77
+  TA: '83'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Fire. Spreading.
   Description: Set 5 enemies on fire with a single burst of the Torch.
   GS: '15'
-  Guide: false
-  Number of Gamers: 40
-  Percentage of Gamers: 5%
-  Ratio: 4.55
-  TA: '68'
-  Tags: []
+  Guide: true
+  Number of Gamers: 713
+  Percentage of Gamers: 21%
+  Ratio: 2.2
+  TA: '33'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Efficiency Discipline
   Description: Defeat 2 enemies with a single Sword projectile.
   GS: '15'
-  Guide: false
-  Number of Gamers: 142
-  Percentage of Gamers: 19%
-  Ratio: 2.3
-  TA: '34'
-  Tags: []
+  Guide: true
+  Number of Gamers: 1426
+  Percentage of Gamers: 41%
+  Ratio: 1.55
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: The Anvil Of The Collective
   Description: Defeat 4 enemies with a single Hammer shot.
   GS: '15'
-  Guide: false
-  Number of Gamers: 19
-  Percentage of Gamers: 3%
-  Ratio: 6.73
-  TA: '100'
-  Tags: []
+  Guide: true
+  Number of Gamers: 425
+  Percentage of Gamers: 12%
+  Ratio: 2.85
+  TA: '42'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: The Annihilator
   Description: Defeat 5 enemies with a single Arbalest round.
   GS: '15'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 0%
-  Ratio: 15.54
-  TA: '233'
-  Tags: []
+  Number of Gamers: 269
+  Percentage of Gamers: 8%
+  Ratio: 3.58
+  TA: '53'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Rapid Oxidation
   Description: Burn the Biomass.
   GS: '15'
   Guide: false
-  Number of Gamers: 498
-  Percentage of Gamers: 68%
-  Ratio: 1.21
-  TA: '18'
-  Tags: []
+  Number of Gamers: 2788
+  Percentage of Gamers: 81%
+  Ratio: 1.11
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Spacetime Oddity
   Description: Activate a Time Oddity.
   GS: '15'
   Guide: false
-  Number of Gamers: 457
-  Percentage of Gamers: 63%
-  Ratio: 1.26
-  TA: '18'
-  Tags: []
+  Number of Gamers: 2640
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Counter-Gravity Traversal
   Description: Execute a Gravity Jump.
   GS: '15'
   Guide: false
-  Number of Gamers: 50
-  Percentage of Gamers: 7%
-  Ratio: 3.97
-  TA: '59'
-  Tags: []
+  Number of Gamers: 1115
+  Percentage of Gamers: 32%
+  Ratio: 1.76
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Do Travelers Dream Of Electric Sheep?
   Description: Power up a device with the Conductor.
   GS: '15'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 2%
-  Ratio: 8.97
-  TA: '134'
-  Tags: []
+  Number of Gamers: 648
+  Percentage of Gamers: 19%
+  Ratio: 2.31
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Don't Let Them Merge
   Description: Burn 25 dead Orphans.
   GS: '15'
   Guide: false
-  Number of Gamers: 157
-  Percentage of Gamers: 22%
-  Ratio: 2.18
-  TA: '32'
-  Tags: []
+  Number of Gamers: 1650
+  Percentage of Gamers: 48%
+  Ratio: 1.44
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Raging Bull
   Description: Defeat an enemy with a melee attack.
   GS: '15'
-  Guide: false
-  Number of Gamers: 464
-  Percentage of Gamers: 64%
-  Ratio: 1.25
-  TA: '18'
-  Tags: []
+  Guide: true
+  Number of Gamers: 2652
+  Percentage of Gamers: 77%
+  Ratio: 1.14
+  TA: '17'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Better Than One
   Description: Defeat 25 enemies with a headshot.
   GS: '15'
   Guide: false
-  Number of Gamers: 124
-  Percentage of Gamers: 17%
-  Ratio: 2.46
-  TA: '37'
-  Tags: []
+  Number of Gamers: 1524
+  Percentage of Gamers: 44%
+  Ratio: 1.5
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: May It Serve You Fault-Free
   Description: Fully upgrade a single weapon.
   GS: '15'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 1%
-  Ratio: 13.46
-  TA: '201'
-  Tags: []
+  Number of Gamers: 313
+  Percentage of Gamers: 9%
+  Ratio: 3.32
+  TA: '49'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: The Praetorian
   Description: Fully upgrade all weapons.
   GS: '30'
-  Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 0%
-  Ratio: 26.92
-  TA: '807'
-  Tags: []
+  Guide: true
+  Number of Gamers: 98
+  Percentage of Gamers: 3%
+  Ratio: 5.93
+  TA: '178'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Forged In Fire
   Description: Fully upgrade the Traveler's Temporal Shell.
   GS: '30'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 0%
-  Ratio: 19.03
-  TA: '571'
-  Tags: []
+  Number of Gamers: 191
+  Percentage of Gamers: 6%
+  Ratio: 4.26
+  TA: '127'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Welcome To The Vocation
   Description: Exit the REV-Capsule.
   GS: '15'
   Guide: false
-  Number of Gamers: 730
+  Number of Gamers: 3454
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '15'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Such Is Our Calling
   Description: Find the Predecessor.
   GS: '15'
   Guide: false
-  Number of Gamers: 457
-  Percentage of Gamers: 63%
-  Ratio: 1.26
-  TA: '18'
-  Tags: []
+  Number of Gamers: 2639
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '17'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Suppressed Recomposition
   Description: Defeat the Unmerged One.
   GS: '15'
-  Guide: false
-  Number of Gamers: 197
-  Percentage of Gamers: 27%
-  Ratio: 1.94
-  TA: '29'
-  Tags: []
+  Guide: true
+  Number of Gamers: 1851
+  Percentage of Gamers: 54%
+  Ratio: 1.36
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Temporal Destination Reached
   Description: Execute a Dive for the first time.
   GS: '15'
   Guide: false
-  Number of Gamers: 196
-  Percentage of Gamers: 27%
-  Ratio: 1.94
-  TA: '29'
-  Tags: []
+  Number of Gamers: 1849
+  Percentage of Gamers: 54%
+  Ratio: 1.36
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Essence Aquired
   Description: Extract Edward.
   GS: '15'
   Guide: false
-  Number of Gamers: 158
-  Percentage of Gamers: 22%
-  Ratio: 2.18
-  TA: '32'
-  Tags: []
+  Number of Gamers: 1714
+  Percentage of Gamers: 50%
+  Ratio: 1.42
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: The Ascendance
   Description: Execute an Ascendance Sequence for the first time.
   GS: '15'
   Guide: false
-  Number of Gamers: 147
-  Percentage of Gamers: 20%
-  Ratio: 2.27
-  TA: '34'
-  Tags: []
+  Number of Gamers: 1676
+  Percentage of Gamers: 48%
+  Ratio: 1.43
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Public Transport
   Description: Power up the tram to reach the Steelworks.
   GS: '15'
   Guide: false
-  Number of Gamers: 102
-  Percentage of Gamers: 14%
-  Ratio: 2.74
-  TA: '41'
-  Tags: []
+  Number of Gamers: 1483
+  Percentage of Gamers: 43%
+  Ratio: 1.52
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: The Bigger They Are
   Description: Defeat the Terror in the Steelworks.
   GS: '15'
-  Guide: false
-  Number of Gamers: 46
-  Percentage of Gamers: 6%
-  Ratio: 4.1
-  TA: '61'
-  Tags: []
+  Guide: true
+  Number of Gamers: 1049
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: My Brother's Keeper
   Description: Extract one of the brothers.
   GS: '15'
   Guide: false
-  Number of Gamers: 45
-  Percentage of Gamers: 6%
-  Ratio: 4.15
-  TA: '62'
-  Tags: []
+  Number of Gamers: 1047
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '27'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Down With The Sickness
   Description: Defeat the Unmerged Terror.
   GS: '30'
-  Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 2%
-  Ratio: 8.11
-  TA: '243'
-  Tags: []
+  Guide: true
+  Number of Gamers: 694
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '67'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: For Good And For Ill
   Description: Extract Dr. Zybert.
   GS: '15'
   Guide: false
-  Number of Gamers: 13
-  Percentage of Gamers: 2%
-  Ratio: 8.11
-  TA: '121'
-  Tags: []
+  Number of Gamers: 692
+  Percentage of Gamers: 20%
+  Ratio: 2.23
+  TA: '33'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Hit Like A Train
   Description: Defeat the Terror at the station B.
   GS: '15'
-  Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 1%
-  Ratio: 9.51
-  TA: '142'
-  Tags: []
+  Guide: true
+  Number of Gamers: 597
+  Percentage of Gamers: 17%
+  Ratio: 2.4
+  TA: '36'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: The Sacrifice Of The Flesh
   Description: Defeat Eliza.
   GS: '30'
-  Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 0%
-  Ratio: 15.54
-  TA: '466'
-  Tags: []
+  Guide: true
+  Number of Gamers: 482
+  Percentage of Gamers: 14%
+  Ratio: 2.67
+  TA: '80'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: The Pathfinder
   Description: Get the Pathfinder to the tram.
   GS: '15'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 0%
-  Ratio: 15.54
-  TA: '233'
-  Tags: []
+  Number of Gamers: 473
+  Percentage of Gamers: 14%
+  Ratio: 2.7
+  TA: '40'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Fixing Things
   Description: Discover the Warden's secret.
   GS: '15'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 0%
-  Ratio: 15.54
-  TA: '233'
-  Tags: []
+  Number of Gamers: 467
+  Percentage of Gamers: 14%
+  Ratio: 2.72
+  TA: '40'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: A Flicker Of Hope
   Description: Spare the Pathfinder's life.
   GS: '30'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 0%
-  Ratio: 15.54
-  TA: '466'
-  Tags: []
+  Number of Gamers: 326
+  Percentage of Gamers: 9%
+  Ratio: 3.25
+  TA: '97'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: I Am Free
   Description: Shoot the Pathfinder.
   GS: '30'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 0%
-  Ratio: 19.03
-  TA: '571'
-  Tags: []
+  Number of Gamers: 319
+  Percentage of Gamers: 9%
+  Ratio: 3.29
+  TA: '98'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Free From All The Scars
   Description: Save both Weronikas.
   GS: '65'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '65'
-  Tags: []
+  Number of Gamers: 88
+  Percentage of Gamers: 3%
+  Ratio: 6.26
+  TA: '407'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Shell Not Compromised
   Description: Finish the game in the Hard Mode.
   GS: '65'
-  Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '65'
-  Tags: []
+  Guide: true
+  Number of Gamers: 77
+  Percentage of Gamers: 2%
+  Ratio: 6.69
+  TA: '435'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
 - Achievement Name: You Never Give Up
   Description: Finish the game in the NG+.
   GS: '30'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '30'
-  Tags: []
+  Number of Gamers: 88
+  Percentage of Gamers: 3%
+  Ratio: 6.26
+  TA: '187'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Multiple Playthroughs Required
 - Achievement Name: The Orthodox
   Description: Finish the game only with the Essences appointed by the Collective.
   GS: '15'
-  Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '15'
-  Tags: []
+  Guide: true
+  Number of Gamers: 124
+  Percentage of Gamers: 4%
+  Ratio: 5.27
+  TA: '79'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Punks Not Dead!
   Description: Finish the game with Edward's Essence.
   GS: '15'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 0%
-  Ratio: 26.92
-  TA: '403'
-  Tags: []
+  Number of Gamers: 282
+  Percentage of Gamers: 8%
+  Ratio: 3.49
+  TA: '52'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: Togetherness
   Description: Gather together the Essences of Lidia, Marcel and Krzysztof.
   GS: '15'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 0%
-  Ratio: 26.92
-  TA: '403'
-  Tags: []
+  Number of Gamers: 194
+  Percentage of Gamers: 6%
+  Ratio: 4.21
+  TA: '63'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
 - Achievement Name: The Pyromaniac
   Description: Burn Biomass with the Pyre.
   GS: '15'
-  Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 0%
-  Ratio: 15.54
-  TA: '233'
-  Tags: []
-Base Ratio: 9.313
-Base TA: 9313
+  Guide: true
+  Number of Gamers: 344
+  Percentage of Gamers: 10%
+  Ratio: 3.18
+  TA: '47'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Missable
+Base Ratio: 3.377
+Base TA: 3377
 Delisted: false
 Developer: Bloober Team
 Game Name: 'Cronos: The New Dawn'
 Genres: Survival Horror
-Install Size: 342.0
-Number of Completions: 0
-Number of Gamers: 730
+Install Size: 22590.0
+Number of Completions: 64
+Number of Gamers: 3456
 Overall Completion Time:
-- -1
-- -1
+- 30.0
+- 35.0
 Overall GS: 1000
-Overall Ratio: 9.313
-Overall TA: 9313
+Overall Ratio: 3.377
+Overall TA: 3377
 PDU: 0
-Percentage Completed: 0.0
+Percentage Completed: 1.85
 Publisher: Bloober Team
-Release Date: Today
+Release Date: 05 September 2025
 Server Closure: false
-Site Rating: 4.5
+Site Rating: 4.41
 Update Achievements: []
 Walkthrough: false

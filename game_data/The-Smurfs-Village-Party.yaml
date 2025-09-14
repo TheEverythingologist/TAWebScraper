@@ -1,16 +1,16 @@
 Add On Achievements: []
 Base Completion Time:
-- 30
-- 31
+- 35
+- 36
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Player Smurf
   Description: Finish your first mini-game in the adventure.
   GS: '5'
   Guide: false
-  Number of Gamers: 75
-  Percentage of Gamers: 84%
-  Ratio: 1.08
+  Number of Gamers: 98
+  Percentage of Gamers: 83%
+  Ratio: 1.09
   TA: '5'
   Tags:
   - Offline Mode
@@ -20,9 +20,9 @@ Base Game Achievements:
   Description: Find your first treasure map in the adventure.
   GS: '5'
   Guide: false
-  Number of Gamers: 43
-  Percentage of Gamers: 48%
-  Ratio: 1.43
+  Number of Gamers: 55
+  Percentage of Gamers: 47%
+  Ratio: 1.46
   TA: '7'
   Tags:
   - Offline Mode
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Find your first figurine in the adventure.
   GS: '10'
   Guide: false
-  Number of Gamers: 46
-  Percentage of Gamers: 52%
-  Ratio: 1.39
-  TA: '13'
+  Number of Gamers: 57
+  Percentage of Gamers: 48%
+  Ratio: 1.43
+  TA: '14'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Customize your Smurf at Tailor Smurf's place in the adventure.
   GS: '10'
   Guide: false
-  Number of Gamers: 47
-  Percentage of Gamers: 53%
-  Ratio: 1.37
-  TA: '13'
+  Number of Gamers: 58
+  Percentage of Gamers: 49%
+  Ratio: 1.42
+  TA: '14'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: Dodge all obstacles in hard mode in "Smurf for Your Life!"
   GS: '20'
   Guide: false
-  Number of Gamers: 19
-  Percentage of Gamers: 21%
-  Ratio: 2.16
-  TA: '43'
+  Number of Gamers: 24
+  Percentage of Gamers: 20%
+  Ratio: 2.21
+  TA: '44'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,9 +68,9 @@ Base Game Achievements:
   Description: Give a prank present to a Smurf in "Surprise! Surprise!"
   GS: '5'
   Guide: false
-  Number of Gamers: 54
-  Percentage of Gamers: 61%
-  Ratio: 1.28
+  Number of Gamers: 68
+  Percentage of Gamers: 58%
+  Ratio: 1.31
   TA: '6'
   Tags:
   - Offline Mode
@@ -80,9 +80,9 @@ Base Game Achievements:
   Description: Paint more than 30% of the playing area in hard mode in "Colorful Battle."
   GS: '20'
   Guide: false
-  Number of Gamers: 17
+  Number of Gamers: 23
   Percentage of Gamers: 19%
-  Ratio: 2.28
+  Ratio: 2.26
   TA: '45'
   Tags:
   - Offline Mode
@@ -92,10 +92,10 @@ Base Game Achievements:
   Description: Score higher than 3500 in "Robin Smurf."
   GS: '20'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 29%
-  Ratio: 1.85
-  TA: '37'
+  Number of Gamers: 32
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '38'
   Tags:
   - Offline Mode
   - Single Player
@@ -104,10 +104,10 @@ Base Game Achievements:
   Description: Don't drop more than 5 plates in "Broken Dishes."
   GS: '20'
   Guide: false
-  Number of Gamers: 61
-  Percentage of Gamers: 69%
-  Ratio: 1.2
-  TA: '24'
+  Number of Gamers: 73
+  Percentage of Gamers: 62%
+  Ratio: 1.27
+  TA: '25'
   Tags:
   - Offline Mode
   - Single Player
@@ -116,10 +116,10 @@ Base Game Achievements:
   Description: Win the race without hitting any obstacles in "Crazy Sleds."
   GS: '5'
   Guide: false
-  Number of Gamers: 19
-  Percentage of Gamers: 21%
-  Ratio: 2.16
-  TA: '10'
+  Number of Gamers: 22
+  Percentage of Gamers: 19%
+  Ratio: 2.31
+  TA: '11'
   Tags:
   - Offline Mode
   - Single Player
@@ -128,10 +128,10 @@ Base Game Achievements:
   Description: Find the right Smurf 5 rounds in a row in hard mode in "Find the Smurf?"
   GS: '20'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 17%
-  Ratio: 2.43
-  TA: '48'
+  Number of Gamers: 19
+  Percentage of Gamers: 16%
+  Ratio: 2.49
+  TA: '49'
   Tags:
   - Offline Mode
   - Single Player
@@ -141,10 +141,10 @@ Base Game Achievements:
     in "Memory Smurf."
   GS: '10'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 20%
-  Ratio: 2.22
-  TA: '22'
+  Number of Gamers: 22
+  Percentage of Gamers: 19%
+  Ratio: 2.31
+  TA: '23'
   Tags:
   - Offline Mode
   - Single Player
@@ -153,10 +153,10 @@ Base Game Achievements:
   Description: Unlock all Stork nests in the adventure.
   GS: '20'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 16%
-  Ratio: 2.52
-  TA: '50'
+  Number of Gamers: 18
+  Percentage of Gamers: 15%
+  Ratio: 2.56
+  TA: '51'
   Tags:
   - Offline Mode
   - Single Player
@@ -166,10 +166,10 @@ Base Game Achievements:
     Growlers!"
   GS: '20'
   Guide: false
-  Number of Gamers: 20
-  Percentage of Gamers: 22%
-  Ratio: 2.1
-  TA: '42'
+  Number of Gamers: 25
+  Percentage of Gamers: 21%
+  Ratio: 2.17
+  TA: '43'
   Tags:
   - Offline Mode
   - Single Player
@@ -178,10 +178,10 @@ Base Game Achievements:
   Description: Finish the game with -150 points in "Delicious Cakes."
   GS: '20'
   Guide: false
-  Number of Gamers: 17
+  Number of Gamers: 22
   Percentage of Gamers: 19%
-  Ratio: 2.28
-  TA: '45'
+  Ratio: 2.31
+  TA: '46'
   Tags:
   - Offline Mode
   - Single Player
@@ -190,10 +190,10 @@ Base Game Achievements:
   Description: Win the game by catching a golden fish in hard mode in "Smurf Fishing."
   GS: '20'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 17%
-  Ratio: 2.43
-  TA: '48'
+  Number of Gamers: 19
+  Percentage of Gamers: 16%
+  Ratio: 2.49
+  TA: '49'
   Tags:
   - Offline Mode
   - Single Player
@@ -202,10 +202,10 @@ Base Game Achievements:
   Description: Finish the game with exactly 300 points in "Hole-in-One."
   GS: '20'
   Guide: false
-  Number of Gamers: 19
-  Percentage of Gamers: 21%
-  Ratio: 2.16
-  TA: '43'
+  Number of Gamers: 23
+  Percentage of Gamers: 19%
+  Ratio: 2.26
+  TA: '45'
   Tags:
   - Offline Mode
   - Single Player
@@ -215,10 +215,10 @@ Base Game Achievements:
     Mine."
   GS: '20'
   Guide: false
-  Number of Gamers: 19
-  Percentage of Gamers: 21%
-  Ratio: 2.16
-  TA: '43'
+  Number of Gamers: 24
+  Percentage of Gamers: 20%
+  Ratio: 2.21
+  TA: '44'
   Tags:
   - Offline Mode
   - Single Player
@@ -227,10 +227,10 @@ Base Game Achievements:
   Description: Obtain the "Dragon's Fire" in the adventure.
   GS: '20'
   Guide: false
-  Number of Gamers: 27
-  Percentage of Gamers: 30%
-  Ratio: 1.81
-  TA: '36'
+  Number of Gamers: 32
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '38'
   Tags:
   - Offline Mode
   - Single Player
@@ -239,9 +239,9 @@ Base Game Achievements:
   Description: Escape from Azrael in the adventure.
   GS: '10'
   Guide: false
-  Number of Gamers: 38
-  Percentage of Gamers: 43%
-  Ratio: 1.53
+  Number of Gamers: 47
+  Percentage of Gamers: 40%
+  Ratio: 1.58
   TA: '15'
   Tags:
   - Offline Mode
@@ -251,10 +251,10 @@ Base Game Achievements:
   Description: Win a game in "Smurf them all!" mode.
   GS: '20'
   Guide: false
-  Number of Gamers: 39
-  Percentage of Gamers: 44%
-  Ratio: 1.51
-  TA: '30'
+  Number of Gamers: 46
+  Percentage of Gamers: 39%
+  Ratio: 1.6
+  TA: '32'
   Tags:
   - Offline Mode
   - Single Player
@@ -263,10 +263,10 @@ Base Game Achievements:
   Description: Play 42 Mini-games in "Challenge" mode.
   GS: '20'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 18%
-  Ratio: 2.35
-  TA: '47'
+  Number of Gamers: 20
+  Percentage of Gamers: 17%
+  Ratio: 2.42
+  TA: '48'
   Tags:
   - Offline Mode
   - Single Player
@@ -276,10 +276,10 @@ Base Game Achievements:
     in "Challenge" mode.
   GS: '20'
   Guide: false
-  Number of Gamers: 36
-  Percentage of Gamers: 40%
-  Ratio: 1.57
-  TA: '31'
+  Number of Gamers: 44
+  Percentage of Gamers: 37%
+  Ratio: 1.63
+  TA: '32'
   Tags:
   - Offline Mode
   - Single Player
@@ -288,10 +288,10 @@ Base Game Achievements:
   Description: Win the race without hitting any obstacle in "Ready to Smurf-off."
   GS: '25'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 18%
-  Ratio: 2.35
-  TA: '58'
+  Number of Gamers: 20
+  Percentage of Gamers: 17%
+  Ratio: 2.42
+  TA: '60'
   Tags:
   - Offline Mode
   - Single Player
@@ -301,10 +301,10 @@ Base Game Achievements:
     the Gas."
   GS: '25'
   Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 26%
-  Ratio: 1.96
-  TA: '49'
+  Number of Gamers: 27
+  Percentage of Gamers: 23%
+  Ratio: 2.09
+  TA: '52'
   Tags:
   - Offline Mode
   - Single Player
@@ -313,10 +313,10 @@ Base Game Achievements:
   Description: Unlock all costumes in the game.
   GS: '50'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 12%
-  Ratio: 2.84
-  TA: '142'
+  Number of Gamers: 13
+  Percentage of Gamers: 11%
+  Ratio: 3.01
+  TA: '150'
   Tags:
   - Offline Mode
   - Single Player
@@ -325,10 +325,10 @@ Base Game Achievements:
   Description: Find all Smurf statues in the main adventure.
   GS: '50'
   Guide: false
-  Number of Gamers: 11
+  Number of Gamers: 14
   Percentage of Gamers: 12%
-  Ratio: 2.84
-  TA: '142'
+  Ratio: 2.9
+  TA: '145'
   Tags:
   - Offline Mode
   - Single Player
@@ -338,10 +338,10 @@ Base Game Achievements:
     in C."
   GS: '25'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 20%
-  Ratio: 2.22
-  TA: '55'
+  Number of Gamers: 23
+  Percentage of Gamers: 19%
+  Ratio: 2.26
+  TA: '56'
   Tags:
   - Offline Mode
   - Single Player
@@ -350,10 +350,10 @@ Base Game Achievements:
   Description: Win a game of 50 Mini-games in "Smurf them all!" mode.
   GS: '50'
   Guide: false
-  Number of Gamers: 21
-  Percentage of Gamers: 24%
-  Ratio: 2.05
-  TA: '102'
+  Number of Gamers: 25
+  Percentage of Gamers: 21%
+  Ratio: 2.17
+  TA: '108'
   Tags:
   - Offline Mode
   - Single Player
@@ -362,10 +362,10 @@ Base Game Achievements:
   Description: Open all gifts from Jokey Smurf in the adventure.
   GS: '20'
   Guide: false
-  Number of Gamers: 12
+  Number of Gamers: 15
   Percentage of Gamers: 13%
-  Ratio: 2.72
-  TA: '54'
+  Ratio: 2.8
+  TA: '56'
   Tags:
   - Offline Mode
   - Single Player
@@ -374,10 +374,10 @@ Base Game Achievements:
   Description: Complete all "Race" missions in the adventure.
   GS: '50'
   Guide: false
-  Number of Gamers: 14
-  Percentage of Gamers: 16%
-  Ratio: 2.52
-  TA: '126'
+  Number of Gamers: 18
+  Percentage of Gamers: 15%
+  Ratio: 2.56
+  TA: '128'
   Tags:
   - Offline Mode
   - Single Player
@@ -386,10 +386,10 @@ Base Game Achievements:
   Description: Finish a game with 50% of the objects in your area in "My Toys!"
   GS: '20'
   Guide: false
-  Number of Gamers: 22
-  Percentage of Gamers: 25%
-  Ratio: 2.01
-  TA: '40'
+  Number of Gamers: 32
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '38'
   Tags:
   - Offline Mode
   - Single Player
@@ -398,9 +398,9 @@ Base Game Achievements:
   Description: Win a game by only catching Smurfette plushies in hard mode in "Catch-a-Smurf."
   GS: '25'
   Guide: false
-  Number of Gamers: 15
+  Number of Gamers: 20
   Percentage of Gamers: 17%
-  Ratio: 2.43
+  Ratio: 2.42
   TA: '60'
   Tags:
   - Offline Mode
@@ -410,10 +410,10 @@ Base Game Achievements:
   Description: Complete the adventure by defeating Gargamel.
   GS: '100'
   Guide: false
-  Number of Gamers: 26
-  Percentage of Gamers: 29%
-  Ratio: 1.85
-  TA: '185'
+  Number of Gamers: 32
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '192'
   Tags:
   - Offline Mode
   - Single Player
@@ -422,10 +422,10 @@ Base Game Achievements:
   Description: Finish building your house in the adventure.
   GS: '100'
   Guide: false
-  Number of Gamers: 12
+  Number of Gamers: 15
   Percentage of Gamers: 13%
-  Ratio: 2.72
-  TA: '272'
+  Ratio: 2.8
+  TA: '280'
   Tags:
   - Offline Mode
   - Single Player
@@ -434,33 +434,33 @@ Base Game Achievements:
   Description: Beat all Hefty's records in Village Party mode.
   GS: '100'
   Guide: false
-  Number of Gamers: 11
+  Number of Gamers: 14
   Percentage of Gamers: 12%
-  Ratio: 2.84
-  TA: '284'
+  Ratio: 2.9
+  TA: '290'
   Tags:
   - Offline Mode
   - Single Player
   - Versus
-Base Ratio: 2.272
-Base TA: 2272
+Base Ratio: 2.339
+Base TA: 2339
 Delisted: false
 Developer: Balio Studio
 Game Name: The Smurfs - Village Party
 Genres: Party
 Install Size: 3120.0
-Number of Completions: 8
-Number of Gamers: 89
+Number of Completions: 11
+Number of Gamers: 118
 Overall Completion Time:
-- 30
-- 31
+- 35
+- 36
 Overall GS: 1000
-Overall Ratio: 2.272
-Overall TA: 2272
+Overall Ratio: 2.339
+Overall TA: 2339
 PDU: 0
-Percentage Completed: 8.99
+Percentage Completed: 9.32
 Publisher: Microids
-Release Date: 05 June 2024
+Release Date: 06 June 2024
 Server Closure: false
 Site Rating: 5.0
 Update Achievements: []

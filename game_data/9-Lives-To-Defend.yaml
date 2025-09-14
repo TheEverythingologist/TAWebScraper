@@ -8,436 +8,549 @@ Base Game Achievements:
   Description: Lose the first life
   GS: '10'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 86%
+  Number of Gamers: 196
+  Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Snack time
   Description: Fill the bowl by collecting kibble
   GS: '10'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 86%
+  Number of Gamers: 193
+  Percentage of Gamers: 97%
   Ratio: 1.0
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Full belly
   Description: Take a full bowl
   GS: '10'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 86%
-  Ratio: 1.0
+  Number of Gamers: 189
+  Percentage of Gamers: 95%
+  Ratio: 1.01
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Never too much
   Description: Take another bowl
   GS: '10'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 43%
-  Ratio: 1.41
-  TA: '14'
-  Tags: []
+  Number of Gamers: 141
+  Percentage of Gamers: 71%
+  Ratio: 1.18
+  TA: '11'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Prolonged vigil
   Description: Win a match during the 24:00 trip
   GS: '30'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 14%
-  Ratio: 2.44
-  TA: '73'
-  Tags: []
+  Number of Gamers: 56
+  Percentage of Gamers: 28%
+  Ratio: 1.85
+  TA: '55'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Evolutionary
   Description: Make the first upgrade with original Loki
   GS: '10'
-  Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 57%
-  Ratio: 1.22
-  TA: '12'
-  Tags: []
+  Guide: true
+  Number of Gamers: 165
+  Percentage of Gamers: 83%
+  Ratio: 1.09
+  TA: '10'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Washitsu
   Description: Defeat 1 boss with Samurai Loki
   GS: '10'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 71%
-  Ratio: 1.09
-  TA: '10'
-  Tags: []
+  Number of Gamers: 106
+  Percentage of Gamers: 53%
+  Ratio: 1.36
+  TA: '13'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Skol!!
   Description: Make 3 upgrades for Viking Loki
   GS: '20'
-  Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 29%
-  Ratio: 2.44
-  TA: '48'
-  Tags: []
+  Guide: true
+  Number of Gamers: 126
+  Percentage of Gamers: 63%
+  Ratio: 1.25
+  TA: '25'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Authorized access
   Description: Make 5 upgrades for Bionic Loki
   GS: '10'
-  Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 14%
-  Ratio: 2.44
-  TA: '24'
-  Tags: []
+  Guide: true
+  Number of Gamers: 119
+  Percentage of Gamers: 60%
+  Ratio: 1.29
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Challenger
   Description: Win a match on Wild difficulty
   GS: '10'
-  Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 14%
-  Ratio: 2.44
-  TA: '24'
-  Tags: []
+  Guide: true
+  Number of Gamers: 41
+  Percentage of Gamers: 21%
+  Ratio: 2.21
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Difficulty Specific
 - Achievement Name: Pest hunter
   Description: Defeat 1000 enemies
   GS: '20'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 71%
-  Ratio: 1.09
-  TA: '21'
-  Tags: []
+  Number of Gamers: 161
+  Percentage of Gamers: 81%
+  Ratio: 1.1
+  TA: '22'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Pest tamer
   Description: Defeat 3000 enemies
   GS: '30'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 43%
-  Ratio: 1.41
-  TA: '42'
-  Tags: []
+  Number of Gamers: 122
+  Percentage of Gamers: 61%
+  Ratio: 1.27
+  TA: '38'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Pest annihilator
   Description: Defeat 6000 enemies
   GS: '40'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 43%
-  Ratio: 1.73
-  TA: '69'
-  Tags: []
+  Number of Gamers: 90
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '59'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Disinfestation master
   Description: Defeat 12000 enemies
   GS: '50'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 14%
-  Ratio: 2.44
-  TA: '122'
-  Tags: []
+  Number of Gamers: 63
+  Percentage of Gamers: 32%
+  Ratio: 1.75
+  TA: '87'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: CEO Of Pest Control
   Description: Defeat 24000 enemies
   GS: '100'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 14%
-  Ratio: 2.44
-  TA: '244'
-  Tags: []
+  Number of Gamers: 44
+  Percentage of Gamers: 22%
+  Ratio: 2.08
+  TA: '208'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Reserve Food
   Description: Collect 1000 kibbles
   GS: '10'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 71%
-  Ratio: 1.09
-  TA: '10'
-  Tags: []
+  Number of Gamers: 137
+  Percentage of Gamers: 69%
+  Ratio: 1.2
+  TA: '12'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Gourmet Cat
   Description: Collect 2000 kibbles
   GS: '20'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 43%
-  Ratio: 1.73
-  TA: '34'
-  Tags: []
+  Number of Gamers: 114
+  Percentage of Gamers: 57%
+  Ratio: 1.32
+  TA: '26'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: King of Food
   Description: Collect 5000 kibbles
   GS: '30'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 29%
-  Ratio: 2.44
-  TA: '73'
-  Tags: []
+  Number of Gamers: 80
+  Percentage of Gamers: 40%
+  Ratio: 1.56
+  TA: '47'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Insatiable Hungry
   Description: Collect 10000 kibbles
   GS: '40'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 14%
-  Ratio: 2.44
-  TA: '97'
-  Tags: []
+  Number of Gamers: 58
+  Percentage of Gamers: 29%
+  Ratio: 1.83
+  TA: '73'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Kibble negotiator
   Description: Collect 20000 kibbles
   GS: '50'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 14%
-  Ratio: 2.44
-  TA: '122'
-  Tags: []
+  Number of Gamers: 40
+  Percentage of Gamers: 20%
+  Ratio: 2.19
+  TA: '109'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Snack Master
   Description: Collect 50000 kibbles
   GS: '100'
-  Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 14%
-  Ratio: 2.44
-  TA: '244'
-  Tags: []
+  Guide: true
+  Number of Gamers: 26
+  Percentage of Gamers: 13%
+  Ratio: 2.77
+  TA: '277'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: From past to future
   Description: Win a match with Viking Loki on the Cattegat map
   GS: '10'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 14%
-  Ratio: 2.44
-  TA: '24'
-  Tags: []
+  Number of Gamers: 59
+  Percentage of Gamers: 30%
+  Ratio: 1.83
+  TA: '18'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Magical Multiverse
   Description: Win a match with any character using the Multiverse Amulet
   GS: '20'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 14%
-  Ratio: 2.44
-  TA: '48'
-  Tags: []
+  Number of Gamers: 51
+  Percentage of Gamers: 26%
+  Ratio: 1.97
+  TA: '39'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Drafted soldier
   Description: Defeat 16000 enemies
   GS: '20'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 14%
-  Ratio: 2.44
-  TA: '48'
-  Tags: []
+  Number of Gamers: 55
+  Percentage of Gamers: 28%
+  Ratio: 1.88
+  TA: '37'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Full paw
   Description: Use all secondary slots during a match
   GS: '20'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 86%
-  Ratio: 1.0
-  TA: '20'
-  Tags: []
+  Number of Gamers: 164
+  Percentage of Gamers: 82%
+  Ratio: 1.09
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Specialist
   Description: Reach maximum level on 1 secondary card slot
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 57%
-  Ratio: 1.41
-  TA: '14'
-  Tags: []
+  Number of Gamers: 109
+  Percentage of Gamers: 55%
+  Ratio: 1.35
+  TA: '13'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Versatile
   Description: Reach maximum level on 3 secondary card slots
   GS: '20'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 14%
-  Ratio: 2.44
-  TA: '48'
-  Tags: []
+  Number of Gamers: 36
+  Percentage of Gamers: 18%
+  Ratio: 2.34
+  TA: '46'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Valuable card
   Description: Reach maximum level in 1 main card slot
   GS: '10'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 29%
-  Ratio: 2.44
-  TA: '24'
-  Tags: []
+  Number of Gamers: 93
+  Percentage of Gamers: 47%
+  Ratio: 1.46
+  TA: '14'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: I'm ready
   Description: Reach maximum level in 3 main card slots
   GS: '10'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 14%
-  Ratio: 2.44
-  TA: '24'
-  Tags: []
+  Number of Gamers: 41
+  Percentage of Gamers: 21%
+  Ratio: 2.19
+  TA: '21'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Beginner
   Description: Reach XP level 5 with any character
   GS: '10'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 86%
-  Ratio: 1.0
+  Number of Gamers: 191
+  Percentage of Gamers: 96%
+  Ratio: 1.01
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
 - Achievement Name: Apprentice of cards
   Description: Reach XP level 10 with any character
   GS: '10'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 86%
-  Ratio: 1.0
+  Number of Gamers: 175
+  Percentage of Gamers: 88%
+  Ratio: 1.05
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
 - Achievement Name: Experienced player
   Description: Reach XP level 20 with any character
   GS: '10'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 43%
-  Ratio: 1.41
-  TA: '14'
-  Tags: []
+  Number of Gamers: 125
+  Percentage of Gamers: 63%
+  Ratio: 1.25
+  TA: '12'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Card Master
   Description: Reach XP level 30 with any character
   GS: '20'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 14%
-  Ratio: 2.44
-  TA: '48'
-  Tags: []
+  Number of Gamers: 69
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '33'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
 - Achievement Name: The Feline Instinct
   Description: Upgrade any character's Feline Instinct power to the maximum
   GS: '30'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 14%
-  Ratio: 2.44
-  TA: '73'
-  Tags: []
+  Number of Gamers: 121
+  Percentage of Gamers: 61%
+  Ratio: 1.28
+  TA: '38'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Equipped collar
   Description: Play a match with 3 amulets equipped
   GS: '10'
   Guide: false
-  Number of Gamers: 3
-  Percentage of Gamers: 43%
-  Ratio: 1.73
-  TA: '17'
-  Tags: []
+  Number of Gamers: 105
+  Percentage of Gamers: 53%
+  Ratio: 1.37
+  TA: '13'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Nimble cat
   Description: Play a match with the Double Dash amulet equipped
   GS: '20'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 14%
-  Ratio: 2.44
-  TA: '48'
-  Tags: []
+  Number of Gamers: 43
+  Percentage of Gamers: 22%
+  Ratio: 2.19
+  TA: '43'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Heart amulet
   Description: Play a match with the Extra Health amulet equipped
   GS: '30'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 14%
-  Ratio: 2.44
-  TA: '73'
-  Tags: []
+  Number of Gamers: 51
+  Percentage of Gamers: 26%
+  Ratio: 1.95
+  TA: '58'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: XP Fountain
   Description: Reach maximum level with the water fountain
   GS: '20'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 14%
-  Ratio: 2.44
-  TA: '48'
-  Tags: []
+  Number of Gamers: 42
+  Percentage of Gamers: 21%
+  Ratio: 2.21
+  TA: '44'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Brave Cat
   Description: Defeat 50 bosses
   GS: '10'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 14%
-  Ratio: 2.44
+  Number of Gamers: 33
+  Percentage of Gamers: 17%
+  Ratio: 2.48
   TA: '24'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Loki the Persian
   Description: Win a match as the original Loki
   GS: '10'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 14%
-  Ratio: 2.44
-  TA: '24'
-  Tags: []
+  Number of Gamers: 69
+  Percentage of Gamers: 35%
+  Ratio: 1.68
+  TA: '16'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Samurai Loki
   Description: Win a match with Samurai Loki
   GS: '10'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 14%
-  Ratio: 2.44
-  TA: '24'
-  Tags: []
+  Number of Gamers: 66
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '17'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Viking Loki
   Description: Win a match with Viking Loki
   GS: '10'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 14%
-  Ratio: 2.44
-  TA: '24'
-  Tags: []
+  Number of Gamers: 65
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '17'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Bionic Loki
   Description: Win a match with Bionic Loki
   GS: '10'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 14%
-  Ratio: 2.44
-  TA: '24'
-  Tags: []
+  Number of Gamers: 49
+  Percentage of Gamers: 25%
+  Ratio: 1.97
+  TA: '19'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Wizard Loki
   Description: Win a match with Wizard Loki
   GS: '10'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 14%
-  Ratio: 2.44
-  TA: '24'
-  Tags: []
+  Number of Gamers: 46
+  Percentage of Gamers: 23%
+  Ratio: 2.06
+  TA: '20'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Soldier Loki
   Description: Win a match with Guerrilla Loki
   GS: '10'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 14%
-  Ratio: 2.44
-  TA: '24'
-  Tags: []
+  Number of Gamers: 51
+  Percentage of Gamers: 26%
+  Ratio: 1.95
+  TA: '19'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Feline Master
   Description: Reach XP level 40 with any character
   GS: '30'
   Guide: false
-  Number of Gamers: 1
-  Percentage of Gamers: 14%
-  Ratio: 2.44
-  TA: '73'
-  Tags: []
-Base Ratio: 2.145
-Base TA: 2145
+  Number of Gamers: 35
+  Percentage of Gamers: 18%
+  Ratio: 2.34
+  TA: '70'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Level
+Base Ratio: 1.808
+Base TA: 1808
 Delisted: false
 Developer: Goldarait
 Game Name: 9 Lives To Defend
 Genres: Roguelite, Shoot 'em up
 Install Size: 655.0
-Number of Completions: 1
-Number of Gamers: 7
+Number of Completions: 25
+Number of Gamers: 199
 Overall Completion Time:
 - 11
 - 12
 Overall GS: 1000
-Overall Ratio: 2.145
-Overall TA: 2145
+Overall Ratio: 1.808
+Overall TA: 1808
 PDU: 0
-Percentage Completed: 14.29
+Percentage Completed: 12.56
 Publisher: Silesia Games
 Release Date: 10 September 2025
 Server Closure: false
-Site Rating: None
+Site Rating: 3.5
 Update Achievements: []
 Walkthrough: false

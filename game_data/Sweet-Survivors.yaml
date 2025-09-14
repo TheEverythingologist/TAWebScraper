@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
-- 27
 - 28
+- 29
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Cat Lover
   Description: Love 100 Cats
   GS: '5'
   Guide: false
-  Number of Gamers: 223
+  Number of Gamers: 226
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '5'
@@ -20,9 +20,9 @@ Base Game Achievements:
   Description: Love 1000 Flying Cats
   GS: '10'
   Guide: false
-  Number of Gamers: 94
-  Percentage of Gamers: 42%
-  Ratio: 1.54
+  Number of Gamers: 100
+  Percentage of Gamers: 44%
+  Ratio: 1.5
   TA: '15'
   Tags:
   - Offline Mode
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: Collect 49999 Tips
   GS: '100'
   Guide: false
-  Number of Gamers: 68
-  Percentage of Gamers: 30%
-  Ratio: 1.81
-  TA: '181'
+  Number of Gamers: 74
+  Percentage of Gamers: 33%
+  Ratio: 1.74
+  TA: '174'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Drink Crimson Cow 10 times
   GS: '66'
   Guide: true
-  Number of Gamers: 168
-  Percentage of Gamers: 75%
-  Ratio: 1.15
-  TA: '76'
+  Number of Gamers: 171
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '75'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,9 +56,9 @@ Base Game Achievements:
   Description: Regenerate 1000 Health
   GS: '25'
   Guide: false
-  Number of Gamers: 162
+  Number of Gamers: 166
   Percentage of Gamers: 73%
-  Ratio: 1.17
+  Ratio: 1.16
   TA: '29'
   Tags:
   - Offline Mode
@@ -68,9 +68,9 @@ Base Game Achievements:
   Description: Serve 20 Tables
   GS: '25'
   Guide: false
-  Number of Gamers: 162
+  Number of Gamers: 166
   Percentage of Gamers: 73%
-  Ratio: 1.17
+  Ratio: 1.16
   TA: '29'
   Tags:
   - Offline Mode
@@ -80,21 +80,22 @@ Base Game Achievements:
   Description: Collect  9999 Tips during one shift
   GS: '10'
   Guide: false
-  Number of Gamers: 110
-  Percentage of Gamers: 49%
-  Ratio: 1.42
+  Number of Gamers: 115
+  Percentage of Gamers: 51%
+  Ratio: 1.4
   TA: '14'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Buggy +
 - Achievement Name: Worker
   Description: Finish Full Shift
   GS: '20'
   Guide: true
-  Number of Gamers: 67
-  Percentage of Gamers: 30%
-  Ratio: 1.82
-  TA: '36'
+  Number of Gamers: 75
+  Percentage of Gamers: 33%
+  Ratio: 1.73
+  TA: '34'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -102,10 +103,10 @@ Base Game Achievements:
   Description: Finish Lucas' Shift
   GS: '15'
   Guide: false
-  Number of Gamers: 42
-  Percentage of Gamers: 19%
-  Ratio: 2.3
-  TA: '34'
+  Number of Gamers: 51
+  Percentage of Gamers: 23%
+  Ratio: 2.1
+  TA: '31'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -113,10 +114,10 @@ Base Game Achievements:
   Description: Finish Larry's Shift
   GS: '15'
   Guide: false
-  Number of Gamers: 34
-  Percentage of Gamers: 15%
-  Ratio: 2.56
-  TA: '38'
+  Number of Gamers: 46
+  Percentage of Gamers: 20%
+  Ratio: 2.21
+  TA: '33'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -124,10 +125,10 @@ Base Game Achievements:
   Description: Finish Julian's Shift
   GS: '15'
   Guide: false
-  Number of Gamers: 41
-  Percentage of Gamers: 18%
-  Ratio: 2.33
-  TA: '34'
+  Number of Gamers: 51
+  Percentage of Gamers: 23%
+  Ratio: 2.1
+  TA: '31'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -135,10 +136,10 @@ Base Game Achievements:
   Description: Finish Rachel's Shift
   GS: '15'
   Guide: false
-  Number of Gamers: 37
-  Percentage of Gamers: 17%
-  Ratio: 2.45
-  TA: '36'
+  Number of Gamers: 47
+  Percentage of Gamers: 21%
+  Ratio: 2.19
+  TA: '32'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -146,10 +147,10 @@ Base Game Achievements:
   Description: Finish Naomi's Shift
   GS: '15'
   Guide: false
-  Number of Gamers: 39
-  Percentage of Gamers: 17%
-  Ratio: 2.39
-  TA: '35'
+  Number of Gamers: 49
+  Percentage of Gamers: 22%
+  Ratio: 2.14
+  TA: '32'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -157,10 +158,10 @@ Base Game Achievements:
   Description: Finish Ashley's Shift
   GS: '15'
   Guide: false
-  Number of Gamers: 46
-  Percentage of Gamers: 21%
-  Ratio: 2.2
-  TA: '33'
+  Number of Gamers: 54
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '30'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -168,9 +169,9 @@ Base Game Achievements:
   Description: Collect 19999 Tips
   GS: '16'
   Guide: false
-  Number of Gamers: 100
-  Percentage of Gamers: 45%
-  Ratio: 1.49
+  Number of Gamers: 104
+  Percentage of Gamers: 46%
+  Ratio: 1.47
   TA: '23'
   Tags:
   - Offline Mode
@@ -180,9 +181,9 @@ Base Game Achievements:
   Description: Survive 15 minutes
   GS: '15'
   Guide: false
-  Number of Gamers: 108
-  Percentage of Gamers: 48%
-  Ratio: 1.43
+  Number of Gamers: 113
+  Percentage of Gamers: 50%
+  Ratio: 1.41
   TA: '21'
   Tags:
   - Offline Game Mode
@@ -191,9 +192,9 @@ Base Game Achievements:
   Description: Reach Level 15 any character
   GS: '30'
   Guide: false
-  Number of Gamers: 164
-  Percentage of Gamers: 74%
-  Ratio: 1.16
+  Number of Gamers: 169
+  Percentage of Gamers: 75%
+  Ratio: 1.15
   TA: '34'
   Tags:
   - Offline Mode
@@ -203,10 +204,10 @@ Base Game Achievements:
   Description: Encounter Water Tipper
   GS: '30'
   Guide: false
-  Number of Gamers: 80
-  Percentage of Gamers: 36%
-  Ratio: 1.66
-  TA: '50'
+  Number of Gamers: 87
+  Percentage of Gamers: 38%
+  Ratio: 1.61
+  TA: '48'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -214,20 +215,21 @@ Base Game Achievements:
   Description: Drink 6 Black coffees during one shift
   GS: '10'
   Guide: false
-  Number of Gamers: 81
-  Percentage of Gamers: 36%
-  Ratio: 1.65
+  Number of Gamers: 88
+  Percentage of Gamers: 39%
+  Ratio: 1.6
   TA: '16'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Level
 - Achievement Name: Fish Bone 8
   Description: Level up Fish Bone to 8th Level
   GS: '30'
   Guide: false
-  Number of Gamers: 118
-  Percentage of Gamers: 53%
-  Ratio: 1.37
+  Number of Gamers: 121
+  Percentage of Gamers: 54%
+  Ratio: 1.36
   TA: '41'
   Tags:
   - Offline Mode
@@ -237,10 +239,10 @@ Base Game Achievements:
   Description: Scare 500 Cats
   GS: '33'
   Guide: false
-  Number of Gamers: 167
-  Percentage of Gamers: 75%
-  Ratio: 1.15
-  TA: '38'
+  Number of Gamers: 171
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '37'
   Tags:
   - Offline Mode
   - Single Player
@@ -249,21 +251,22 @@ Base Game Achievements:
   Description: Increase Toy box count by 2
   GS: '20'
   Guide: false
-  Number of Gamers: 143
-  Percentage of Gamers: 64%
+  Number of Gamers: 146
+  Percentage of Gamers: 65%
   Ratio: 1.24
   TA: '24'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Level
 - Achievement Name: Jack Of All Traits
   Description: Finish 3 Waiters Shift's
   GS: '44'
   Guide: false
-  Number of Gamers: 46
-  Percentage of Gamers: 21%
-  Ratio: 2.2
-  TA: '96'
+  Number of Gamers: 54
+  Percentage of Gamers: 24%
+  Ratio: 2.04
+  TA: '90'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -271,10 +274,10 @@ Base Game Achievements:
   Description: Service all tables on Map1
   GS: '101'
   Guide: true
-  Number of Gamers: 129
-  Percentage of Gamers: 58%
-  Ratio: 1.31
-  TA: '132'
+  Number of Gamers: 133
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '131'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -282,10 +285,10 @@ Base Game Achievements:
   Description: Stay motionless for 2 minutes during shift
   GS: '100'
   Guide: true
-  Number of Gamers: 81
-  Percentage of Gamers: 36%
-  Ratio: 1.65
-  TA: '165'
+  Number of Gamers: 86
+  Percentage of Gamers: 38%
+  Ratio: 1.62
+  TA: '162'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -293,21 +296,22 @@ Base Game Achievements:
   Description: Meet pumpkin
   GS: '25'
   Guide: true
-  Number of Gamers: 31
-  Percentage of Gamers: 14%
-  Ratio: 2.68
-  TA: '67'
+  Number of Gamers: 43
+  Percentage of Gamers: 19%
+  Ratio: 2.29
+  TA: '57'
   Tags:
-  - Offline Game Mode
+  - Offline Mode
   - Single Player
+  - Difficulty Specific
 - Achievement Name: Zoomer
   Description: Meet Zoomer
   GS: '20'
   Guide: false
-  Number of Gamers: 131
-  Percentage of Gamers: 59%
-  Ratio: 1.3
-  TA: '26'
+  Number of Gamers: 135
+  Percentage of Gamers: 60%
+  Ratio: 1.29
+  TA: '25'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -315,7 +319,7 @@ Base Game Achievements:
   Description: Love 1000 Cats
   GS: '75'
   Guide: false
-  Number of Gamers: 198
+  Number of Gamers: 201
   Percentage of Gamers: 89%
   Ratio: 1.06
   TA: '79'
@@ -327,34 +331,34 @@ Base Game Achievements:
   Description: Love 5000 Cats
   GS: '100'
   Guide: false
-  Number of Gamers: 159
-  Percentage of Gamers: 71%
-  Ratio: 1.18
-  TA: '118'
+  Number of Gamers: 164
+  Percentage of Gamers: 73%
+  Ratio: 1.17
+  TA: '117'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 1.525
-Base TA: 1525
+Base Ratio: 1.469
+Base TA: 1469
 Delisted: false
 Developer: Bolt Goblin
 Game Name: Sweet Survivors
 Genres: Roguelite
 Install Size: 652.0
-Number of Completions: 28
-Number of Gamers: 223
+Number of Completions: 38
+Number of Gamers: 226
 Overall Completion Time:
-- 27
 - 28
+- 29
 Overall GS: 1000
-Overall Ratio: 1.525
-Overall TA: 1525
+Overall Ratio: 1.469
+Overall TA: 1469
 PDU: 0
-Percentage Completed: 12.56
+Percentage Completed: 16.81
 Publisher: QubicGames
 Release Date: 11 July 2025
 Server Closure: false
-Site Rating: 2.33
+Site Rating: 2.14
 Update Achievements: []
 Walkthrough: false

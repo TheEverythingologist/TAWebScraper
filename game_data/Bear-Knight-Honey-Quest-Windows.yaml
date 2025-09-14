@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 1.0
-Base GS: 2000
+- 1.5
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: Level 01
   Description: Play Level 01
   GS: '50'
   Guide: false
-  Number of Gamers: 312
+  Number of Gamers: 370
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '50'
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Play Level 02
   GS: '50'
   Guide: false
-  Number of Gamers: 311
+  Number of Gamers: 368
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '50'
@@ -32,7 +32,7 @@ Base Game Achievements:
   Description: Play Level 03
   GS: '50'
   Guide: false
-  Number of Gamers: 309
+  Number of Gamers: 366
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '50'
@@ -44,8 +44,8 @@ Base Game Achievements:
   Description: Play Level 04
   GS: '50'
   Guide: false
-  Number of Gamers: 305
-  Percentage of Gamers: 97%
+  Number of Gamers: 362
+  Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '50'
   Tags:
@@ -56,8 +56,8 @@ Base Game Achievements:
   Description: Play Level 05
   GS: '50'
   Guide: false
-  Number of Gamers: 304
-  Percentage of Gamers: 97%
+  Number of Gamers: 362
+  Percentage of Gamers: 98%
   Ratio: 1.01
   TA: '50'
   Tags:
@@ -68,7 +68,7 @@ Base Game Achievements:
   Description: Play Level 06
   GS: '50'
   Guide: false
-  Number of Gamers: 301
+  Number of Gamers: 358
   Percentage of Gamers: 96%
   Ratio: 1.01
   TA: '50'
@@ -80,10 +80,10 @@ Base Game Achievements:
   Description: Play Level 07
   GS: '50'
   Guide: false
-  Number of Gamers: 299
+  Number of Gamers: 357
   Percentage of Gamers: 96%
-  Ratio: 1.02
-  TA: '51'
+  Ratio: 1.01
+  TA: '50'
   Tags:
   - Offline Mode
   - Single Player
@@ -92,8 +92,8 @@ Base Game Achievements:
   Description: Play Level 08
   GS: '50'
   Guide: false
-  Number of Gamers: 298
-  Percentage of Gamers: 95%
+  Number of Gamers: 356
+  Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '51'
   Tags:
@@ -104,10 +104,10 @@ Base Game Achievements:
   Description: Play Level 09
   GS: '50'
   Guide: false
-  Number of Gamers: 298
-  Percentage of Gamers: 95%
-  Ratio: 1.02
-  TA: '51'
+  Number of Gamers: 357
+  Percentage of Gamers: 96%
+  Ratio: 1.01
+  TA: '50'
   Tags:
   - Offline Mode
   - Single Player
@@ -116,8 +116,8 @@ Base Game Achievements:
   Description: Play Level 10
   GS: '50'
   Guide: false
-  Number of Gamers: 297
-  Percentage of Gamers: 95%
+  Number of Gamers: 356
+  Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '51'
   Tags:
@@ -128,10 +128,10 @@ Base Game Achievements:
   Description: Play Level 11
   GS: '100'
   Guide: false
-  Number of Gamers: 295
-  Percentage of Gamers: 94%
-  Ratio: 1.03
-  TA: '103'
+  Number of Gamers: 354
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '102'
   Tags:
   - Offline Mode
   - Single Player
@@ -140,10 +140,10 @@ Base Game Achievements:
   Description: Play Level 12
   GS: '100'
   Guide: false
-  Number of Gamers: 294
-  Percentage of Gamers: 94%
-  Ratio: 1.03
-  TA: '103'
+  Number of Gamers: 353
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '102'
   Tags:
   - Offline Mode
   - Single Player
@@ -152,10 +152,10 @@ Base Game Achievements:
   Description: Play Level 13
   GS: '100'
   Guide: false
-  Number of Gamers: 293
-  Percentage of Gamers: 94%
-  Ratio: 1.03
-  TA: '103'
+  Number of Gamers: 353
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '102'
   Tags:
   - Offline Mode
   - Single Player
@@ -164,10 +164,10 @@ Base Game Achievements:
   Description: Play Level 14
   GS: '100'
   Guide: false
-  Number of Gamers: 292
-  Percentage of Gamers: 93%
-  Ratio: 1.03
-  TA: '103'
+  Number of Gamers: 352
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '102'
   Tags:
   - Offline Mode
   - Single Player
@@ -176,42 +176,42 @@ Base Game Achievements:
   Description: Play Level 15
   GS: '100'
   Guide: false
-  Number of Gamers: 291
-  Percentage of Gamers: 93%
-  Ratio: 1.03
-  TA: '103'
+  Number of Gamers: 350
+  Percentage of Gamers: 94%
+  Ratio: 1.02
+  TA: '102'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.02
-Base TA: 2040
+Base Ratio: 1.327
+Base TA: 3981
 Delisted: false
 Developer: Sweet Bread Games
 Game Name: Bear Knight Honey Quest (Windows)
 Genres: Platformer
 Install Size: 312.0
-Number of Completions: 284
-Number of Gamers: 313
+Number of Completions: 117
+Number of Gamers: 371
 Overall Completion Time:
 - 0.0
-- 1.0
-Overall GS: 2000
-Overall Ratio: 1.02
-Overall TA: 2040
+- 1.5
+Overall GS: 3000
+Overall Ratio: 1.327
+Overall TA: 3981
 PDU: 0
-Percentage Completed: 90.73
+Percentage Completed: 31.54
 Publisher: Sweet Bread Games
 Release Date: 16 April 2025
 Server Closure: false
-Site Rating: 2.34
+Site Rating: 2.38
 Update Achievements:
 - Achievement Name: Level 01 Pro
   Description: Collect 15 coins on Level 01
   GS: '200'
   Guide: false
-  Number of Gamers: 302
-  Percentage of Gamers: 96%
+  Number of Gamers: 359
+  Percentage of Gamers: 97%
   Ratio: 1.01
   TA: '203'
   Tags:
@@ -222,10 +222,10 @@ Update Achievements:
   Description: Collect 25 coins on Level 02
   GS: '200'
   Guide: false
-  Number of Gamers: 300
+  Number of Gamers: 356
   Percentage of Gamers: 96%
-  Ratio: 1.01
-  TA: '203'
+  Ratio: 1.02
+  TA: '204'
   Tags:
   - Offline Mode
   - Single Player
@@ -234,7 +234,7 @@ Update Achievements:
   Description: Collect 20 coins on Level 03
   GS: '200'
   Guide: false
-  Number of Gamers: 299
+  Number of Gamers: 355
   Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '204'
@@ -246,7 +246,7 @@ Update Achievements:
   Description: Collect 25 coins on Level 04
   GS: '200'
   Guide: false
-  Number of Gamers: 297
+  Number of Gamers: 353
   Percentage of Gamers: 95%
   Ratio: 1.02
   TA: '205'
@@ -258,12 +258,57 @@ Update Achievements:
   Description: Collect 15 coins on Level 05
   GS: '200'
   Guide: false
-  Number of Gamers: 294
-  Percentage of Gamers: 94%
-  Ratio: 1.03
-  TA: '206'
+  Number of Gamers: 351
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '205'
   Tags:
   - Offline Mode
   - Single Player
   - Collectable
+- Achievement Name: Level 06 Pro
+  Description: Collect 20 coins on Level 06
+  GS: '200'
+  Guide: false
+  Number of Gamers: 123
+  Percentage of Gamers: 33%
+  Ratio: 1.94
+  TA: '388'
+  Tags: []
+- Achievement Name: Level 07 Pro
+  Description: Collect 15 coins on Level 07
+  GS: '200'
+  Guide: false
+  Number of Gamers: 123
+  Percentage of Gamers: 33%
+  Ratio: 1.94
+  TA: '388'
+  Tags: []
+- Achievement Name: Level 08 Pro
+  Description: Collect 15 coins on Level 08
+  GS: '200'
+  Guide: false
+  Number of Gamers: 122
+  Percentage of Gamers: 33%
+  Ratio: 1.95
+  TA: '390'
+  Tags: []
+- Achievement Name: Level 09 Pro
+  Description: Collect 15 coins on Level 09
+  GS: '200'
+  Guide: false
+  Number of Gamers: 122
+  Percentage of Gamers: 33%
+  Ratio: 1.95
+  TA: '390'
+  Tags: []
+- Achievement Name: Level 10 Pro
+  Description: Collect 20 coins on Level 10
+  GS: '200'
+  Guide: false
+  Number of Gamers: 121
+  Percentage of Gamers: 33%
+  Ratio: 1.96
+  TA: '392'
+  Tags: []
 Walkthrough: false

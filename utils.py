@@ -1,5 +1,7 @@
+import pyautogui
+
 class Utils:
-    output_files = ['overall_data.csv']
+    output_file = 'overall_data.csv'
     columns_list = ["Game Name",
                     "TA",
                     "GS",
@@ -13,3 +15,9 @@ class Utils:
                     "Install Size",
                     "Developer",
                     "Publisher"]
+    
+    pyautogui.FAILSAFE = True
+    def stay_awake():
+    pyautogui.moveRel(0, 15)
+    pyautogui.press('left')
+    pyautogui.moveRel(0, -15)

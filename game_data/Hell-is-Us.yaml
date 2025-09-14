@@ -1,389 +1,482 @@
 Add On Achievements: []
 Base Completion Time:
-- 33
-- 34
+- 37
+- 38
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: So It Begins
   Description: Completed Act 1
   GS: '15'
   Guide: false
-  Number of Gamers: 120
-  Percentage of Gamers: 23%
-  Ratio: 2.07
-  TA: '31'
-  Tags: []
+  Number of Gamers: 466
+  Percentage of Gamers: 39%
+  Ratio: 1.61
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Emotional Baggage
   Description: Completed Act 2
   GS: '15'
   Guide: false
-  Number of Gamers: 23
-  Percentage of Gamers: 4%
-  Ratio: 4.75
-  TA: '71'
-  Tags: []
+  Number of Gamers: 133
+  Percentage of Gamers: 11%
+  Ratio: 3.01
+  TA: '45'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Redemption
   Description: Completed Act 3
   GS: '15'
   Guide: false
-  Number of Gamers: 24
-  Percentage of Gamers: 5%
-  Ratio: 4.65
-  TA: '69'
-  Tags: []
+  Number of Gamers: 129
+  Percentage of Gamers: 11%
+  Ratio: 3.06
+  TA: '45'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Good Samaritan
   Description: Accomplished a Good Deed
   GS: '5'
   Guide: true
-  Number of Gamers: 374
-  Percentage of Gamers: 71%
-  Ratio: 1.18
+  Number of Gamers: 943
+  Percentage of Gamers: 78%
+  Ratio: 1.13
   TA: '5'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Man of the People
   Description: Accomplished all Good Deeds
   GS: '50'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 2%
-  Ratio: 8.05
-  TA: '402'
-  Tags: []
+  Number of Gamers: 53
+  Percentage of Gamers: 4%
+  Ratio: 4.77
+  TA: '238'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: End the Suffering
   Description: Closed a Timeloop
   GS: '15'
   Guide: false
-  Number of Gamers: 162
-  Percentage of Gamers: 31%
-  Ratio: 1.79
-  TA: '26'
-  Tags: []
+  Number of Gamers: 558
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '22'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Amateur Detective
   Description: Resolved a Mystery
   GS: '5'
   Guide: false
-  Number of Gamers: 499
-  Percentage of Gamers: 95%
+  Number of Gamers: 1156
+  Percentage of Gamers: 96%
   Ratio: 1.02
   TA: '5'
-  Tags: []
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Super-Sleuth
   Description: Resolved all Mysteries
   GS: '50'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 2%
-  Ratio: 8.05
-  TA: '402'
-  Tags: []
+  Number of Gamers: 50
+  Percentage of Gamers: 4%
+  Ratio: 4.96
+  TA: '248'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: All the Rage
   Description: Defeated all 3 Haze of Rage variants
   GS: '10'
   Guide: false
-  Number of Gamers: 42
-  Percentage of Gamers: 8%
-  Ratio: 3.55
-  TA: '35'
-  Tags: []
+  Number of Gamers: 232
+  Percentage of Gamers: 19%
+  Ratio: 2.28
+  TA: '22'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Buzz Killer
   Description: Defeated all 3 Haze of Ecstasy variants
   GS: '10'
   Guide: false
-  Number of Gamers: 44
-  Percentage of Gamers: 8%
-  Ratio: 3.47
-  TA: '34'
-  Tags: []
+  Number of Gamers: 238
+  Percentage of Gamers: 20%
+  Ratio: 2.25
+  TA: '22'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Fear No Evil
   Description: Defeated all 3 Haze of Terror variants
   GS: '10'
   Guide: false
-  Number of Gamers: 44
-  Percentage of Gamers: 8%
-  Ratio: 3.43
-  TA: '34'
-  Tags: []
+  Number of Gamers: 237
+  Percentage of Gamers: 20%
+  Ratio: 2.25
+  TA: '22'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Good Grief
   Description: Defeated all 3 Haze of Grief variants
   GS: '10'
   Guide: false
-  Number of Gamers: 42
-  Percentage of Gamers: 8%
-  Ratio: 3.55
-  TA: '35'
-  Tags: []
+  Number of Gamers: 228
+  Percentage of Gamers: 19%
+  Ratio: 2.3
+  TA: '23'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Big Game Hunter
   Description: Defeated all 5 Hollow Walker variants
   GS: '5'
   Guide: false
-  Number of Gamers: 224
-  Percentage of Gamers: 43%
-  Ratio: 1.52
-  TA: '7'
-  Tags: []
+  Number of Gamers: 714
+  Percentage of Gamers: 59%
+  Ratio: 1.3
+  TA: '6'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Rise and Phol
   Description: Defeated 40 Hazes of tier 1
   GS: '50'
   Guide: false
-  Number of Gamers: 229
-  Percentage of Gamers: 44%
-  Ratio: 1.5
-  TA: '75'
-  Tags: []
+  Number of Gamers: 695
+  Percentage of Gamers: 57%
+  Ratio: 1.31
+  TA: '65'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Phol Guy
   Description: Defeated 40 Hazes of tier 2
   GS: '50'
   Guide: false
-  Number of Gamers: 74
-  Percentage of Gamers: 14%
-  Ratio: 2.64
-  TA: '132'
-  Tags: []
+  Number of Gamers: 358
+  Percentage of Gamers: 30%
+  Ratio: 1.83
+  TA: '91'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: The Harder They Phol
   Description: Defeated 40 Hazes of tier 3
   GS: '50'
   Guide: false
-  Number of Gamers: 24
-  Percentage of Gamers: 5%
-  Ratio: 4.65
-  TA: '232'
-  Tags: []
+  Number of Gamers: 149
+  Percentage of Gamers: 12%
+  Ratio: 2.84
+  TA: '142'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Legend of the Phol
   Description: Closed all Timeloops and defeated all remaining entities
   GS: '100'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 0%
-  Ratio: 16.1
-  TA: 1,610
-  Tags: []
+  Number of Gamers: 29
+  Percentage of Gamers: 2%
+  Ratio: 6.45
+  TA: '645'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Good Vibrations
   Description: Upgraded one of each Weapon type to Grade 5
   GS: '10'
   Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 3%
-  Ratio: 6.08
-  TA: '60'
-  Tags: []
+  Number of Gamers: 98
+  Percentage of Gamers: 8%
+  Ratio: 3.51
+  TA: '35'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Accessorizing
   Description: Imbued a Defensive Gear to Grade 4
   GS: '5'
   Guide: false
-  Number of Gamers: 37
-  Percentage of Gamers: 7%
-  Ratio: 3.79
-  TA: '18'
-  Tags: []
+  Number of Gamers: 181
+  Percentage of Gamers: 15%
+  Ratio: 2.58
+  TA: '12'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: To the Teeth
   Description: Equipped two Grade 5 Weapons and two Grade 4 Defensive Gear at once.
   GS: '50'
   Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 6%
-  Ratio: 4.23
-  TA: '211'
-  Tags: []
+  Number of Gamers: 143
+  Percentage of Gamers: 12%
+  Ratio: 2.9
+  TA: '145'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: War Correspondent
   Description: Performed research on all items related to the Civil War
   GS: '15'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 2%
-  Ratio: 7.59
-  TA: '113'
-  Tags: []
+  Number of Gamers: 57
+  Percentage of Gamers: 5%
+  Ratio: 4.6
+  TA: '69'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Historian
   Description: Performed research on all items related to Hadea
   GS: '15'
-  Guide: false
-  Number of Gamers: 17
-  Percentage of Gamers: 3%
-  Ratio: 5.52
-  TA: '82'
-  Tags: []
+  Guide: true
+  Number of Gamers: 96
+  Percentage of Gamers: 8%
+  Ratio: 3.54
+  TA: '53'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Conspiracy Theorist
   Description: Performed research on all items related to the Conspiracy
   GS: '15'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 2%
-  Ratio: 6.57
-  TA: '98'
-  Tags: []
+  Number of Gamers: 70
+  Percentage of Gamers: 6%
+  Ratio: 4.18
+  TA: '62'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Gentleman Scholar
   Description: Performed research on all items related to the Order of the Eye
   GS: '15'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 2%
-  Ratio: 6.86
-  TA: '103'
-  Tags: []
+  Number of Gamers: 63
+  Percentage of Gamers: 5%
+  Ratio: 4.41
+  TA: '66'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Demonologist
   Description: Performed research on all items related to Lymbic Invasions
   GS: '15'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 2%
-  Ratio: 6.86
-  TA: '103'
-  Tags: []
+  Number of Gamers: 67
+  Percentage of Gamers: 6%
+  Ratio: 4.28
+  TA: '64'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Sworn to Secrecy
   Description: Performed research on all items related to the Vigil
   GS: '15'
   Guide: false
-  Number of Gamers: 18
-  Percentage of Gamers: 3%
-  Ratio: 5.36
-  TA: '80'
-  Tags: []
+  Number of Gamers: 81
+  Percentage of Gamers: 7%
+  Ratio: 3.88
+  TA: '58'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Well-Read
   Description: Performed research on all items
   GS: '50'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 1%
-  Ratio: 8.61
-  TA: '430'
-  Tags: []
+  Number of Gamers: 50
+  Percentage of Gamers: 4%
+  Ratio: 4.91
+  TA: '245'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Vault Raider
   Description: Unsealed a Vault of Forbidden Knowledge
   GS: '50'
   Guide: false
-  Number of Gamers: 179
-  Percentage of Gamers: 34%
-  Ratio: 1.7
-  TA: '85'
-  Tags: []
+  Number of Gamers: 556
+  Percentage of Gamers: 46%
+  Ratio: 1.47
+  TA: '73'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Tech-Savvy
   Description: Acquired all Drone Modules
   GS: '10'
   Guide: false
-  Number of Gamers: 36
-  Percentage of Gamers: 7%
-  Ratio: 3.85
-  TA: '38'
-  Tags: []
+  Number of Gamers: 232
+  Percentage of Gamers: 19%
+  Ratio: 2.28
+  TA: '22'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Emotional Damage
   Description: Acquired at least one Glyph of each Lymbic Sphere
   GS: '5'
   Guide: false
-  Number of Gamers: 263
-  Percentage of Gamers: 50%
-  Ratio: 1.4
-  TA: '7'
-  Tags: []
+  Number of Gamers: 787
+  Percentage of Gamers: 65%
+  Ratio: 1.23
+  TA: '6'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Emotional Warfare
   Description: Acquired all Glyphs of each Lymbic Sphere
   GS: '25'
   Guide: false
-  Number of Gamers: 20
-  Percentage of Gamers: 4%
-  Ratio: 5.09
-  TA: '127'
-  Tags: []
+  Number of Gamers: 135
+  Percentage of Gamers: 11%
+  Ratio: 2.99
+  TA: '74'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Curator
   Description: Acquired 10 Relics
   GS: '10'
   Guide: false
-  Number of Gamers: 30
-  Percentage of Gamers: 6%
-  Ratio: 4.23
-  TA: '42'
-  Tags: []
+  Number of Gamers: 197
+  Percentage of Gamers: 16%
+  Ratio: 2.47
+  TA: '24'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Antiquarian
   Description: Acquired all Relics
   GS: '100'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 1%
-  Ratio: 8.61
-  TA: '861'
-  Tags: []
+  Number of Gamers: 45
+  Percentage of Gamers: 4%
+  Ratio: 5.18
+  TA: '518'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Well-Travelled
   Description: Visited all locations
   GS: '5'
   Guide: false
-  Number of Gamers: 24
-  Percentage of Gamers: 5%
-  Ratio: 4.65
-  TA: '23'
-  Tags: []
+  Number of Gamers: 133
+  Percentage of Gamers: 11%
+  Ratio: 3.01
+  TA: '15'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Lend an Ear
   Description: Conversed with all NPCs
   GS: '5'
-  Guide: false
-  Number of Gamers: 22
-  Percentage of Gamers: 4%
-  Ratio: 4.85
-  TA: '24'
-  Tags: []
+  Guide: true
+  Number of Gamers: 116
+  Percentage of Gamers: 10%
+  Ratio: 3.24
+  TA: '16'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
 - Achievement Name: Keymaster
   Description: Solved 25 puzzles that required the right item
   GS: '25'
   Guide: false
-  Number of Gamers: 43
-  Percentage of Gamers: 8%
-  Ratio: 3.51
-  TA: '87'
-  Tags: []
+  Number of Gamers: 249
+  Percentage of Gamers: 21%
+  Ratio: 2.2
+  TA: '55'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cumulative +
 - Achievement Name: Long and (not so) Winding Road
   Description: Traversed the tunnel from the Lymbic Forge to the Eye of God.
   GS: '10'
   Guide: false
-  Number of Gamers: 24
-  Percentage of Gamers: 5%
-  Ratio: 4.65
-  TA: '46'
-  Tags: []
+  Number of Gamers: 134
+  Percentage of Gamers: 11%
+  Ratio: 3.0
+  TA: '30'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: It's Mine Now
   Description: Acquired a means of transportation
   GS: '10'
   Guide: false
-  Number of Gamers: 463
-  Percentage of Gamers: 88%
-  Ratio: 1.05
+  Number of Gamers: 1115
+  Percentage of Gamers: 92%
+  Ratio: 1.04
   TA: '10'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Main Storyline
 - Achievement Name: Ever After
   Description: Ensured that all possible NPCs end up at Lake Cynon
   GS: '25'
   Guide: false
-  Number of Gamers: 21
-  Percentage of Gamers: 4%
-  Ratio: 4.97
-  TA: '124'
-  Tags: []
+  Number of Gamers: 135
+  Percentage of Gamers: 11%
+  Ratio: 2.99
+  TA: '74'
+  Tags:
+  - Offline Game Mode
+  - Single Player
 - Achievement Name: Passion for Fashion
   Description: Acquired and wore all baseball caps
   GS: '50'
-  Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 1%
-  Ratio: 8.61
-  TA: '430'
-  Tags: []
-Base Ratio: 6.407
-Base TA: 6407
+  Guide: true
+  Number of Gamers: 54
+  Percentage of Gamers: 4%
+  Ratio: 4.73
+  TA: '236'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Collectable
+Base Ratio: 3.632
+Base TA: 3632
 Delisted: false
 Developer: Rogue Factor
 Game Name: Hell is Us
 Genres: Action-Adventure
 Install Size: 22560.0
-Number of Completions: 1
-Number of Gamers: 524
+Number of Completions: 22
+Number of Gamers: 1210
 Overall Completion Time:
-- 33
-- 34
+- 37
+- 38
 Overall GS: 1000
-Overall Ratio: 6.407
-Overall TA: 6407
+Overall Ratio: 3.632
+Overall TA: 3632
 PDU: 0
-Percentage Completed: 0.19
+Percentage Completed: 1.82
 Publisher: Nacon
-Release Date: Yesterday
+Release Date: 04 September 2025
 Server Closure: false
-Site Rating: 4.0
+Site Rating: 4.35
 Update Achievements: []
 Walkthrough: false

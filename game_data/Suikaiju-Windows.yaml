@@ -1,14 +1,14 @@
 Add On Achievements: []
 Base Completion Time:
 - 0.0
-- 1.0
-Base GS: 2000
+- 1.5
+Base GS: 3000
 Base Game Achievements:
 - Achievement Name: Hatching the egg
   Description: Evolve your kaiju above level 1.
   GS: '100'
   Guide: false
-  Number of Gamers: 555
+  Number of Gamers: 618
   Percentage of Gamers: 100%
   Ratio: 1.0
   TA: '100'
@@ -20,7 +20,7 @@ Base Game Achievements:
   Description: Evolve your kaiju above level 2.
   GS: '100'
   Guide: false
-  Number of Gamers: 551
+  Number of Gamers: 612
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -32,7 +32,7 @@ Base Game Achievements:
   Description: Evolve your kaiju above level 3.
   GS: '100'
   Guide: false
-  Number of Gamers: 551
+  Number of Gamers: 612
   Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '100'
@@ -44,8 +44,8 @@ Base Game Achievements:
   Description: Evolve your kaiju above level 4.
   GS: '100'
   Guide: false
-  Number of Gamers: 549
-  Percentage of Gamers: 99%
+  Number of Gamers: 608
+  Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '100'
   Tags:
@@ -56,8 +56,8 @@ Base Game Achievements:
   Description: Do a 3-hit combo
   GS: '100'
   Guide: false
-  Number of Gamers: 550
-  Percentage of Gamers: 99%
+  Number of Gamers: 609
+  Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '100'
   Tags:
@@ -67,8 +67,8 @@ Base Game Achievements:
   Description: Connect 25 Kaiju Orbs.
   GS: '100'
   Guide: false
-  Number of Gamers: 550
-  Percentage of Gamers: 99%
+  Number of Gamers: 610
+  Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '100'
   Tags:
@@ -79,8 +79,8 @@ Base Game Achievements:
   Description: Connect 50 Kaiju Orbs.
   GS: '100'
   Guide: false
-  Number of Gamers: 549
-  Percentage of Gamers: 99%
+  Number of Gamers: 608
+  Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '100'
   Tags:
@@ -91,8 +91,8 @@ Base Game Achievements:
   Description: Connect 75 Kaiju Orbs.
   GS: '100'
   Guide: false
-  Number of Gamers: 549
-  Percentage of Gamers: 99%
+  Number of Gamers: 607
+  Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '100'
   Tags:
@@ -103,8 +103,8 @@ Base Game Achievements:
   Description: Connect 100 Kaiju Orbs.
   GS: '100'
   Guide: false
-  Number of Gamers: 549
-  Percentage of Gamers: 99%
+  Number of Gamers: 607
+  Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '100'
   Tags:
@@ -115,44 +115,44 @@ Base Game Achievements:
   Description: Connect 150 Kaiju Orbs.
   GS: '100'
   Guide: false
-  Number of Gamers: 549
-  Percentage of Gamers: 99%
+  Number of Gamers: 606
+  Percentage of Gamers: 98%
   Ratio: 1.0
   TA: '100'
   Tags:
   - Offline Mode
   - Single Player
   - Cumulative +
-Base Ratio: 1.0275
-Base TA: 2055
+Base Ratio: 2.047
+Base TA: 6141
 Delisted: false
 Developer: Synnergy Circle Games
 Game Name: Suikaiju (Windows)
 Genres: Puzzle
 Install Size: 255.0
-Number of Completions: 494
-Number of Gamers: 555
+Number of Completions: 77
+Number of Gamers: 620
 Overall Completion Time:
 - 0.0
-- 1.0
-Overall GS: 2000
-Overall Ratio: 1.0275
-Overall TA: 2055
+- 1.5
+Overall GS: 3000
+Overall Ratio: 2.047
+Overall TA: 6141
 PDU: 0
-Percentage Completed: 89.01
+Percentage Completed: 12.42
 Publisher: Synnergy Circle Games
 Release Date: 15 January 2025
 Server Closure: false
-Site Rating: 2.57
+Site Rating: 2.58
 Update Achievements:
 - Achievement Name: Orb-cessed
   Description: Connect 175 Kaiju Orbs.
   GS: '200'
   Guide: false
-  Number of Gamers: 495
-  Percentage of Gamers: 89%
-  Ratio: 1.05
-  TA: '211'
+  Number of Gamers: 567
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '208'
   Tags:
   - Offline Mode
   - Single Player
@@ -161,10 +161,10 @@ Update Achievements:
   Description: Connect 200 Kaiju Orbs.
   GS: '200'
   Guide: false
-  Number of Gamers: 495
-  Percentage of Gamers: 89%
-  Ratio: 1.05
-  TA: '211'
+  Number of Gamers: 567
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '208'
   Tags:
   - Offline Mode
   - Single Player
@@ -173,10 +173,10 @@ Update Achievements:
   Description: Connect 225 Kaiju Orbs.
   GS: '200'
   Guide: false
-  Number of Gamers: 495
-  Percentage of Gamers: 89%
-  Ratio: 1.05
-  TA: '211'
+  Number of Gamers: 567
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '208'
   Tags:
   - Offline Mode
   - Single Player
@@ -185,10 +185,10 @@ Update Achievements:
   Description: Connect 250 Kaiju Orbs.
   GS: '200'
   Guide: true
-  Number of Gamers: 494
-  Percentage of Gamers: 89%
-  Ratio: 1.05
-  TA: '211'
+  Number of Gamers: 565
+  Percentage of Gamers: 91%
+  Ratio: 1.04
+  TA: '208'
   Tags:
   - Offline Mode
   - Single Player
@@ -197,11 +197,56 @@ Update Achievements:
   Description: Do a 4 Hit Combo.
   GS: '200'
   Guide: true
-  Number of Gamers: 497
-  Percentage of Gamers: 90%
-  Ratio: 1.05
-  TA: '211'
+  Number of Gamers: 570
+  Percentage of Gamers: 92%
+  Ratio: 1.04
+  TA: '208'
   Tags:
   - Offline Game Mode
   - Single Player
+- Achievement Name: Colossal Awakening
+  Description: Evolve your kaiju above level 5.
+  GS: '200'
+  Guide: false
+  Number of Gamers: 74
+  Percentage of Gamers: 12%
+  Ratio: 4.44
+  TA: '889'
+  Tags: []
+- Achievement Name: Genetic Maestro
+  Description: Connect 275 Kaiju Orbs.
+  GS: '200'
+  Guide: false
+  Number of Gamers: 85
+  Percentage of Gamers: 14%
+  Ratio: 4.01
+  TA: '803'
+  Tags: []
+- Achievement Name: Genome Overlord
+  Description: Connect 300 Kaiju Orbs.
+  GS: '200'
+  Guide: false
+  Number of Gamers: 85
+  Percentage of Gamers: 14%
+  Ratio: 4.01
+  TA: '803'
+  Tags: []
+- Achievement Name: DNA Ascendant
+  Description: Connect 325 Kaiju Orbs.
+  GS: '200'
+  Guide: false
+  Number of Gamers: 85
+  Percentage of Gamers: 14%
+  Ratio: 4.01
+  TA: '803'
+  Tags: []
+- Achievement Name: Mega Combo!!!
+  Description: Do a 5-hit combo.
+  GS: '200'
+  Guide: false
+  Number of Gamers: 86
+  Percentage of Gamers: 14%
+  Ratio: 4.01
+  TA: '803'
+  Tags: []
 Walkthrough: false

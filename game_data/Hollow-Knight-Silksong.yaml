@@ -1,15 +1,15 @@
 Add On Achievements: []
 Base Completion Time:
-- 33
-- 34
+- 60
+- 61
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Equipped
   Description: Acquire your first Tool
   GS: '5'
   Guide: true
-  Number of Gamers: 25547
-  Percentage of Gamers: 92%
+  Number of Gamers: 50086
+  Percentage of Gamers: 99%
   Ratio: 1.0
   TA: '5'
   Tags:
@@ -20,20 +20,20 @@ Base Game Achievements:
   Description: Acquire all Tools
   GS: '15'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 0%
-  Ratio: 107.6
-  TA: 1,614
+  Number of Gamers: 355
+  Percentage of Gamers: 1%
+  Ratio: 12.14
+  TA: '182'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Bound
   Description: Bind your first Silk Skill
   GS: '5'
-  Guide: false
-  Number of Gamers: 22049
-  Percentage of Gamers: 79%
-  Ratio: 1.08
+  Guide: true
+  Number of Gamers: 44523
+  Percentage of Gamers: 88%
+  Ratio: 1.06
   TA: '5'
   Tags:
   - Offline Game Mode
@@ -42,10 +42,10 @@ Base Game Achievements:
   Description: Bind all Silk Skills
   GS: '15'
   Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 0%
-  Ratio: 76.08
-  TA: 1,141
+  Number of Gamers: 630
+  Percentage of Gamers: 1%
+  Ratio: 9.04
+  TA: '135'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -53,10 +53,10 @@ Base Game Achievements:
   Description: Claim your first Crest
   GS: '5'
   Guide: false
-  Number of Gamers: 6395
-  Percentage of Gamers: 23%
-  Ratio: 2.1
-  TA: '10'
+  Number of Gamers: 22984
+  Percentage of Gamers: 45%
+  Ratio: 1.48
+  TA: '7'
   Tags:
   - Offline Mode
   - Single Player
@@ -65,10 +65,10 @@ Base Game Achievements:
   Description: Claim all Crests
   GS: '15'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 0%
-  Ratio: 76.08
-  TA: 1,141
+  Number of Gamers: 676
+  Percentage of Gamers: 1%
+  Ratio: 8.73
+  TA: '131'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -76,10 +76,10 @@ Base Game Achievements:
   Description: Acquire 4 Mask Shards
   GS: '5'
   Guide: false
-  Number of Gamers: 2811
-  Percentage of Gamers: 10%
-  Ratio: 3.3
-  TA: '16'
+  Number of Gamers: 15346
+  Percentage of Gamers: 30%
+  Ratio: 1.81
+  TA: '9'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -87,10 +87,10 @@ Base Game Achievements:
   Description: Acquire all Mask Shards
   GS: '15'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 0%
-  Ratio: 76.08
-  TA: 1,141
+  Number of Gamers: 454
+  Percentage of Gamers: 1%
+  Ratio: 10.66
+  TA: '159'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -98,10 +98,10 @@ Base Game Achievements:
   Description: Acquire 2 Spool Fragments
   GS: '5'
   Guide: false
-  Number of Gamers: 4828
-  Percentage of Gamers: 17%
-  Ratio: 2.42
-  TA: '12'
+  Number of Gamers: 18707
+  Percentage of Gamers: 37%
+  Ratio: 1.64
+  TA: '8'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -109,10 +109,10 @@ Base Game Achievements:
   Description: Acquire all Spool Fragments
   GS: '15'
   Guide: false
-  Number of Gamers: 10
-  Percentage of Gamers: 0%
-  Ratio: 107.6
-  TA: 1,614
+  Number of Gamers: 567
+  Percentage of Gamers: 1%
+  Ratio: 9.56
+  TA: '143'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -120,10 +120,10 @@ Base Game Achievements:
   Description: Acquire all Silk Hearts
   GS: '15'
   Guide: false
-  Number of Gamers: 22
-  Percentage of Gamers: 0%
-  Ratio: 50.72
-  TA: '760'
+  Number of Gamers: 1121
+  Percentage of Gamers: 2%
+  Ratio: 6.76
+  TA: '101'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -131,10 +131,10 @@ Base Game Achievements:
   Description: Acquire a map of each area
   GS: '15'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 0%
-  Ratio: 152.17
-  TA: 2,282
+  Number of Gamers: 709
+  Percentage of Gamers: 1%
+  Ratio: 8.55
+  TA: '128'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -142,10 +142,10 @@ Base Game Achievements:
   Description: "Open all of Pharloom\u2019s Bellways"
   GS: '15'
   Guide: false
-  Number of Gamers: 54
-  Percentage of Gamers: 0%
-  Ratio: 36.9
-  TA: '553'
+  Number of Gamers: 2438
+  Percentage of Gamers: 5%
+  Ratio: 4.59
+  TA: '68'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -153,10 +153,10 @@ Base Game Achievements:
   Description: Learn the Beastling Call
   GS: '15'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 0%
-  Ratio: 87.85
-  TA: 1,317
+  Number of Gamers: 1399
+  Percentage of Gamers: 3%
+  Ratio: 6.06
+  TA: '90'
   Tags:
   - Offline Mode
   - Single Player
@@ -165,10 +165,10 @@ Base Game Achievements:
   Description: "Open all of the Citadel\u2019s Ventrica Stations"
   GS: '15'
   Guide: false
-  Number of Gamers: 97
-  Percentage of Gamers: 0%
-  Ratio: 21.1
-  TA: '316'
+  Number of Gamers: 3115
+  Percentage of Gamers: 6%
+  Ratio: 4.04
+  TA: '60'
   Tags:
   - Offline Mode
   - Single Player
@@ -177,10 +177,10 @@ Base Game Achievements:
   Description: "Grant Nuu\u2019s wish"
   GS: '10'
   Guide: false
-  Number of Gamers: 651
-  Percentage of Gamers: 2%
-  Ratio: 7.62
-  TA: '76'
+  Number of Gamers: 7705
+  Percentage of Gamers: 15%
+  Ratio: 2.56
+  TA: '25'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -188,10 +188,10 @@ Base Game Achievements:
   Description: "Receive the Hunter\u2019s Memento"
   GS: '15'
   Guide: false
-  Number of Gamers: 4
+  Number of Gamers: 128
   Percentage of Gamers: 0%
-  Ratio: 152.17
-  TA: 2,282
+  Ratio: 20.7
+  TA: '310'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -199,10 +199,10 @@ Base Game Achievements:
   Description: "Rescue half of Pharloom\u2019s lost fleas"
   GS: '10'
   Guide: false
-  Number of Gamers: 332
-  Percentage of Gamers: 1%
-  Ratio: 11.24
-  TA: '112'
+  Number of Gamers: 5558
+  Percentage of Gamers: 11%
+  Ratio: 3.02
+  TA: '30'
   Tags:
   - Offline Mode
   - Single Player
@@ -210,11 +210,11 @@ Base Game Achievements:
 - Achievement Name: Fleafriend
   Description: "Rescue all of Pharloom\u2019s lost fleas and receive their final gift"
   GS: '15'
-  Guide: false
-  Number of Gamers: 12
-  Percentage of Gamers: 0%
-  Ratio: 152.17
-  TA: 2,282
+  Guide: true
+  Number of Gamers: 1136
+  Percentage of Gamers: 2%
+  Ratio: 6.73
+  TA: '101'
   Tags:
   - Offline Mode
   - Single Player
@@ -223,9 +223,9 @@ Base Game Achievements:
   Description: Defeat the Bell Beast
   GS: '5'
   Guide: true
-  Number of Gamers: 19930
-  Percentage of Gamers: 72%
-  Ratio: 1.14
+  Number of Gamers: 41473
+  Percentage of Gamers: 82%
+  Ratio: 1.1
   TA: '5'
   Tags:
   - Offline Mode
@@ -235,10 +235,10 @@ Base Game Achievements:
   Description: Defeat Lace in Deep Docks
   GS: '15'
   Guide: true
-  Number of Gamers: 11561
-  Percentage of Gamers: 42%
-  Ratio: 1.52
-  TA: '22'
+  Number of Gamers: 30102
+  Percentage of Gamers: 59%
+  Ratio: 1.29
+  TA: '19'
   Tags:
   - Offline Mode
   - Single Player
@@ -247,10 +247,10 @@ Base Game Achievements:
   Description: Defeat Fourth Chorus
   GS: '15'
   Guide: true
-  Number of Gamers: 9396
-  Percentage of Gamers: 34%
-  Ratio: 1.7
-  TA: '25'
+  Number of Gamers: 27397
+  Percentage of Gamers: 54%
+  Ratio: 1.36
+  TA: '20'
   Tags:
   - Offline Mode
   - Single Player
@@ -259,10 +259,10 @@ Base Game Achievements:
   Description: Defeat Widow
   GS: '15'
   Guide: true
-  Number of Gamers: 2903
-  Percentage of Gamers: 10%
-  Ratio: 3.24
-  TA: '48'
+  Number of Gamers: 15743
+  Percentage of Gamers: 31%
+  Ratio: 1.79
+  TA: '26'
   Tags:
   - Offline Mode
   - Single Player
@@ -271,10 +271,10 @@ Base Game Achievements:
   Description: Defeat the Last Judge
   GS: '15'
   Guide: true
-  Number of Gamers: 1207
-  Percentage of Gamers: 4%
-  Ratio: 5.25
-  TA: '78'
+  Number of Gamers: 10346
+  Percentage of Gamers: 20%
+  Ratio: 2.21
+  TA: '33'
   Tags:
   - Offline Mode
   - Single Player
@@ -283,10 +283,10 @@ Base Game Achievements:
   Description: Defeat the Cogwork Dancers
   GS: '15'
   Guide: true
-  Number of Gamers: 771
-  Percentage of Gamers: 3%
-  Ratio: 6.86
-  TA: '102'
+  Number of Gamers: 8316
+  Percentage of Gamers: 16%
+  Ratio: 2.47
+  TA: '37'
   Tags:
   - Offline Mode
   - Single Player
@@ -295,10 +295,10 @@ Base Game Achievements:
   Description: Defeat Trobbio
   GS: '15'
   Guide: true
-  Number of Gamers: 330
-  Percentage of Gamers: 1%
-  Ratio: 10.81
-  TA: '162'
+  Number of Gamers: 5126
+  Percentage of Gamers: 10%
+  Ratio: 3.15
+  TA: '47'
   Tags:
   - Offline Mode
   - Single Player
@@ -306,11 +306,11 @@ Base Game Achievements:
 - Achievement Name: White Knight
   Description: Defeat Lace in the Cradle
   GS: '15'
-  Guide: false
-  Number of Gamers: 128
-  Percentage of Gamers: 0%
-  Ratio: 18.31
-  TA: '274'
+  Guide: true
+  Number of Gamers: 2914
+  Percentage of Gamers: 6%
+  Ratio: 4.19
+  TA: '62'
   Tags:
   - Offline Mode
   - Single Player
@@ -318,11 +318,11 @@ Base Game Achievements:
 - Achievement Name: Grey Ghost
   Description: Defeat Phantom
   GS: '15'
-  Guide: false
-  Number of Gamers: 208
-  Percentage of Gamers: 1%
-  Ratio: 13.66
-  TA: '204'
+  Guide: true
+  Number of Gamers: 4173
+  Percentage of Gamers: 8%
+  Ratio: 3.49
+  TA: '52'
   Tags:
   - Offline Mode
   - Single Player
@@ -331,10 +331,10 @@ Base Game Achievements:
   Description: Defeat First Sinner
   GS: '15'
   Guide: false
-  Number of Gamers: 54
-  Percentage of Gamers: 0%
-  Ratio: 31.06
-  TA: '465'
+  Number of Gamers: 2027
+  Percentage of Gamers: 4%
+  Ratio: 5.03
+  TA: '75'
   Tags:
   - Offline Mode
   - Single Player
@@ -343,10 +343,10 @@ Base Game Achievements:
   Description: Defeat Crust King Khann
   GS: '15'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 0%
-  Ratio: 107.6
-  TA: 1,614
+  Number of Gamers: 783
+  Percentage of Gamers: 2%
+  Ratio: 8.06
+  TA: '120'
   Tags:
   - Offline Mode
   - Single Player
@@ -355,10 +355,10 @@ Base Game Achievements:
   Description: Defeat Nyleth
   GS: '15'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 0%
-  Ratio: 107.6
-  TA: 1,614
+  Number of Gamers: 743
+  Percentage of Gamers: 1%
+  Ratio: 8.28
+  TA: '124'
   Tags:
   - Offline Mode
   - Single Player
@@ -367,10 +367,10 @@ Base Game Achievements:
   Description: Defeat Skarrsinger Karmelita
   GS: '15'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 0%
-  Ratio: 107.6
-  TA: 1,614
+  Number of Gamers: 727
+  Percentage of Gamers: 1%
+  Ratio: 8.4
+  TA: '126'
   Tags:
   - Offline Mode
   - Single Player
@@ -379,10 +379,10 @@ Base Game Achievements:
   Description: Defeat the Clover Dancers
   GS: '15'
   Guide: false
-  Number of Gamers: 8
-  Percentage of Gamers: 0%
-  Ratio: 152.17
-  TA: 2,282
+  Number of Gamers: 641
+  Percentage of Gamers: 1%
+  Ratio: 8.95
+  TA: '134'
   Tags:
   - Offline Mode
   - Single Player
@@ -391,10 +391,10 @@ Base Game Achievements:
   Description: Grant your first wish
   GS: '5'
   Guide: true
-  Number of Gamers: 16979
-  Percentage of Gamers: 61%
-  Ratio: 1.24
-  TA: '6'
+  Number of Gamers: 36880
+  Percentage of Gamers: 73%
+  Ratio: 1.17
+  TA: '5'
   Tags:
   - Offline Mode
   - Single Player
@@ -403,10 +403,10 @@ Base Game Achievements:
   Description: Satiate the Grand Gourmand
   GS: '15'
   Guide: false
-  Number of Gamers: 61
-  Percentage of Gamers: 0%
-  Ratio: 32.44
-  TA: '486'
+  Number of Gamers: 2566
+  Percentage of Gamers: 5%
+  Ratio: 4.46
+  TA: '66'
   Tags:
   - Offline Mode
   - Single Player
@@ -414,11 +414,11 @@ Base Game Achievements:
 - Achievement Name: "Trail\u2019s End"
   Description: "Grant Shakra\u2019s wish"
   GS: '30'
-  Guide: false
-  Number of Gamers: 40
-  Percentage of Gamers: 0%
-  Ratio: 39.29
-  TA: 1,178
+  Guide: true
+  Number of Gamers: 2112
+  Percentage of Gamers: 4%
+  Ratio: 4.92
+  TA: '147'
   Tags:
   - Offline Mode
   - Single Player
@@ -427,10 +427,10 @@ Base Game Achievements:
   Description: Defeat Lost Garmond
   GS: '30'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 0%
-  Ratio: 152.17
-  TA: 4,565
+  Number of Gamers: 721
+  Percentage of Gamers: 1%
+  Ratio: 8.44
+  TA: '253'
   Tags:
   - Offline Mode
   - Single Player
@@ -439,10 +439,10 @@ Base Game Achievements:
   Description: Defeat Pinstress
   GS: '30'
   Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 0%
-  Ratio: 152.17
-  TA: 4,565
+  Number of Gamers: 863
+  Percentage of Gamers: 2%
+  Ratio: 7.71
+  TA: '231'
   Tags:
   - Offline Mode
   - Single Player
@@ -451,10 +451,10 @@ Base Game Achievements:
   Description: Bind Eva
   GS: '30'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 0%
-  Ratio: 152.17
-  TA: 4,565
+  Number of Gamers: 495
+  Percentage of Gamers: 1%
+  Ratio: 10.22
+  TA: '306'
   Tags:
   - Offline Mode
   - Single Player
@@ -463,10 +463,10 @@ Base Game Achievements:
   Description: Acquire your own Bellhome
   GS: '5'
   Guide: false
-  Number of Gamers: 165
-  Percentage of Gamers: 1%
-  Ratio: 17.45
-  TA: '87'
+  Number of Gamers: 3765
+  Percentage of Gamers: 7%
+  Ratio: 3.68
+  TA: '18'
   Tags:
   - Offline Mode
   - Single Player
@@ -475,10 +475,10 @@ Base Game Achievements:
   Description: "Learn the Citadel\u2019s Threefold song"
   GS: '15'
   Guide: false
-  Number of Gamers: 151
-  Percentage of Gamers: 1%
-  Ratio: 16.6
-  TA: '249'
+  Number of Gamers: 3440
+  Percentage of Gamers: 7%
+  Ratio: 3.85
+  TA: '57'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -486,21 +486,21 @@ Base Game Achievements:
   Description: Claim the Everbloom from within a distant memory
   GS: '15'
   Guide: false
-  Number of Gamers: 9
-  Percentage of Gamers: 0%
-  Ratio: 107.6
-  TA: 1,614
+  Number of Gamers: 632
+  Percentage of Gamers: 1%
+  Ratio: 9.01
+  TA: '135'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Weaver Queen
   Description: Defeat Grand Mother Silk and bind her power
   GS: '15'
-  Guide: false
-  Number of Gamers: 109
-  Percentage of Gamers: 0%
-  Ratio: 19.98
-  TA: '299'
+  Guide: true
+  Number of Gamers: 2392
+  Percentage of Gamers: 5%
+  Ratio: 4.62
+  TA: '69'
   Tags:
   - Offline Mode
   - Single Player
@@ -508,11 +508,11 @@ Base Game Achievements:
 - Achievement Name: Snared Silk
   Description: Defeat Grand Mother Silk and entrap her with the Soul Snare
   GS: '15'
-  Guide: false
-  Number of Gamers: 15
-  Percentage of Gamers: 0%
-  Ratio: 107.6
-  TA: 1,614
+  Guide: true
+  Number of Gamers: 1464
+  Percentage of Gamers: 3%
+  Ratio: 5.94
+  TA: '89'
   Tags:
   - Offline Mode
   - Single Player
@@ -521,10 +521,10 @@ Base Game Achievements:
   Description: Defeat Grand Mother Silk while cursed
   GS: '15'
   Guide: true
-  Number of Gamers: 14
-  Percentage of Gamers: 0%
-  Ratio: 76.08
-  TA: 1,141
+  Number of Gamers: 335
+  Percentage of Gamers: 1%
+  Ratio: 12.34
+  TA: '185'
   Tags:
   - Offline Mode
   - Single Player
@@ -533,10 +533,10 @@ Base Game Achievements:
   Description: Defeat Lost Lace and free Pharloom
   GS: '15'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 0%
-  Ratio: 107.6
-  TA: 1,614
+  Number of Gamers: 488
+  Percentage of Gamers: 1%
+  Ratio: 10.36
+  TA: '155'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -544,10 +544,10 @@ Base Game Achievements:
   Description: "Grant the Herald\u2019s wish"
   GS: '30'
   Guide: true
-  Number of Gamers: 5
-  Percentage of Gamers: 0%
-  Ratio: 152.17
-  TA: 4,565
+  Number of Gamers: 262
+  Percentage of Gamers: 1%
+  Ratio: 14.28
+  TA: '428'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -555,10 +555,10 @@ Base Game Achievements:
   Description: Achieve 100% game completion and finish the game
   GS: '50'
   Guide: false
-  Number of Gamers: 5
+  Number of Gamers: 229
   Percentage of Gamers: 0%
-  Ratio: 107.6
-  TA: 5,380
+  Ratio: 15.3
+  TA: '765'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -566,10 +566,10 @@ Base Game Achievements:
   Description: Complete the game in under 5 hours
   GS: '50'
   Guide: false
-  Number of Gamers: 3
+  Number of Gamers: 64
   Percentage of Gamers: 0%
-  Ratio: 107.6
-  TA: 5,380
+  Ratio: 28.8
+  TA: 1,440
   Tags:
   - Offline Mode
   - Single Player
@@ -578,10 +578,10 @@ Base Game Achievements:
   Description: Achieve 100% game completion and finish the game in under 30 hours
   GS: '70'
   Guide: false
-  Number of Gamers: 5
+  Number of Gamers: 36
   Percentage of Gamers: 0%
-  Ratio: 107.6
-  TA: 7,532
+  Ratio: 38.57
+  TA: 2,700
   Tags:
   - Offline Mode
   - Single Player
@@ -590,10 +590,10 @@ Base Game Achievements:
   Description: Finish the game in Steel Soul mode
   GS: '70'
   Guide: true
-  Number of Gamers: 2
+  Number of Gamers: 47
   Percentage of Gamers: 0%
-  Ratio: 152.17
-  TA: 10,652
+  Ratio: 34.7
+  TA: 2,429
   Tags:
   - Offline Mode
   - Single Player
@@ -602,35 +602,35 @@ Base Game Achievements:
   Description: Achieve 100% game completion and finish the game in Steel Soul mode
   GS: '70'
   Guide: false
-  Number of Gamers: 2
+  Number of Gamers: 26
   Percentage of Gamers: 0%
-  Ratio: 152.17
-  TA: 10,652
+  Ratio: 45.91
+  TA: 3,214
   Tags:
   - Offline Mode
   - Single Player
   - Difficulty Specific
   - Multiple Playthroughs Required
-Base Ratio: 91.332
-Base TA: 91332
+Base Ratio: 15.269
+Base TA: 15269
 Delisted: false
 Developer: Team Cherry
 Game Name: 'Hollow Knight: Silksong'
 Genres: Platformer, Metroidvania
 Install Size: 8010.0
-Number of Completions: 2
-Number of Gamers: 27764
+Number of Completions: 24
+Number of Gamers: 50651
 Overall Completion Time:
-- 33
-- 34
+- 60
+- 61
 Overall GS: 1000
-Overall Ratio: 91.332
-Overall TA: 91332
+Overall Ratio: 15.269
+Overall TA: 15269
 PDU: 0
-Percentage Completed: 0.01
+Percentage Completed: 0.05
 Publisher: Team Cherry
 Release Date: 04 September 2025
 Server Closure: false
-Site Rating: 4.24
+Site Rating: 4.15
 Update Achievements: []
 Walkthrough: false

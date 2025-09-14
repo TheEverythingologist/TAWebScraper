@@ -1,16 +1,16 @@
 Add On Achievements: []
 Base Completion Time:
-- 4
-- 5
+- 7
+- 8
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: In a Row!
   Description: Put in a row two balls
   GS: '30'
   Guide: false
-  Number of Gamers: 190
+  Number of Gamers: 243
   Percentage of Gamers: 98%
-  Ratio: 1.01
+  Ratio: 1.0
   TA: '30'
   Tags:
   - Offline Mode
@@ -20,8 +20,8 @@ Base Game Achievements:
   Description: Put in order two balls
   GS: '30'
   Guide: false
-  Number of Gamers: 188
-  Percentage of Gamers: 97%
+  Number of Gamers: 238
+  Percentage of Gamers: 96%
   Ratio: 1.01
   TA: '30'
   Tags:
@@ -32,8 +32,8 @@ Base Game Achievements:
   Description: Put in the same shot two or more balls
   GS: '60'
   Guide: true
-  Number of Gamers: 175
-  Percentage of Gamers: 90%
+  Number of Gamers: 224
+  Percentage of Gamers: 91%
   Ratio: 1.05
   TA: '63'
   Tags:
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: Put in order three or more balls
   GS: '60'
   Guide: false
-  Number of Gamers: 132
-  Percentage of Gamers: 68%
-  Ratio: 1.21
-  TA: '72'
+  Number of Gamers: 164
+  Percentage of Gamers: 66%
+  Ratio: 1.22
+  TA: '73'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,8 +56,8 @@ Base Game Achievements:
   Description: Put in the same shot three or more balls
   GS: '60'
   Guide: true
-  Number of Gamers: 64
-  Percentage of Gamers: 33%
+  Number of Gamers: 80
+  Percentage of Gamers: 32%
   Ratio: 1.75
   TA: '105'
   Tags:
@@ -68,8 +68,8 @@ Base Game Achievements:
   Description: Clear Round 1 in Arcade Mode
   GS: '50'
   Guide: false
-  Number of Gamers: 130
-  Percentage of Gamers: 67%
+  Number of Gamers: 162
+  Percentage of Gamers: 66%
   Ratio: 1.23
   TA: '61'
   Tags:
@@ -79,9 +79,9 @@ Base Game Achievements:
   Description: Clear Round 2 in Arcade Mode
   GS: '60'
   Guide: false
-  Number of Gamers: 82
-  Percentage of Gamers: 42%
-  Ratio: 1.54
+  Number of Gamers: 105
+  Percentage of Gamers: 43%
+  Ratio: 1.53
   TA: '92'
   Tags:
   - Offline Game Mode
@@ -90,10 +90,10 @@ Base Game Achievements:
   Description: Clear Round 3 in Arcade Mode
   GS: '60'
   Guide: false
-  Number of Gamers: 65
+  Number of Gamers: 83
   Percentage of Gamers: 34%
-  Ratio: 1.74
-  TA: '104'
+  Ratio: 1.72
+  TA: '103'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -101,10 +101,10 @@ Base Game Achievements:
   Description: Clear Round 4 in Arcade Mode
   GS: '70'
   Guide: false
-  Number of Gamers: 51
-  Percentage of Gamers: 26%
-  Ratio: 1.96
-  TA: '137'
+  Number of Gamers: 66
+  Percentage of Gamers: 27%
+  Ratio: 1.93
+  TA: '135'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -112,10 +112,10 @@ Base Game Achievements:
   Description: Clear Round 5 in Arcade Mode
   GS: '70'
   Guide: false
-  Number of Gamers: 45
+  Number of Gamers: 58
   Percentage of Gamers: 23%
-  Ratio: 2.09
-  TA: '146'
+  Ratio: 2.06
+  TA: '144'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -123,10 +123,10 @@ Base Game Achievements:
   Description: Clear Round 6 in Arcade Mode
   GS: '80'
   Guide: false
-  Number of Gamers: 39
-  Percentage of Gamers: 20%
-  Ratio: 2.25
-  TA: '180'
+  Number of Gamers: 52
+  Percentage of Gamers: 21%
+  Ratio: 2.17
+  TA: '174'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -134,10 +134,10 @@ Base Game Achievements:
   Description: Clear Round 7 in Arcade Mode
   GS: '80'
   Guide: false
-  Number of Gamers: 36
-  Percentage of Gamers: 19%
-  Ratio: 2.35
-  TA: '188'
+  Number of Gamers: 50
+  Percentage of Gamers: 20%
+  Ratio: 2.22
+  TA: '177'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -145,10 +145,10 @@ Base Game Achievements:
   Description: Clear Round 8 in Arcade Mode
   GS: '90'
   Guide: false
-  Number of Gamers: 34
-  Percentage of Gamers: 18%
-  Ratio: 2.42
-  TA: '218'
+  Number of Gamers: 48
+  Percentage of Gamers: 19%
+  Ratio: 2.26
+  TA: '204'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -156,44 +156,44 @@ Base Game Achievements:
   Description: Clear Round 9 in Arcade Mode
   GS: '100'
   Guide: false
-  Number of Gamers: 32
-  Percentage of Gamers: 16%
-  Ratio: 2.5
-  TA: '250'
+  Number of Gamers: 45
+  Percentage of Gamers: 18%
+  Ratio: 2.34
+  TA: '234'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Round 10
   Description: Clear Round 10 in Arcade Mode
   GS: '100'
-  Guide: false
-  Number of Gamers: 31
-  Percentage of Gamers: 16%
-  Ratio: 2.5
-  TA: '250'
+  Guide: true
+  Number of Gamers: 45
+  Percentage of Gamers: 18%
+  Ratio: 2.34
+  TA: '234'
   Tags:
   - Offline Game Mode
   - Single Player
-Base Ratio: 1.926
-Base TA: 1926
+Base Ratio: 1.859
+Base TA: 1859
 Delisted: false
 Developer: Super PowerUp Games
 Game Name: 9Ball Pocket
 Genres: Sports, Cue Sports
 Install Size: 857.0
-Number of Completions: 29
-Number of Gamers: 194
+Number of Completions: 43
+Number of Gamers: 247
 Overall Completion Time:
-- 4
-- 5
+- 7
+- 8
 Overall GS: 1000
-Overall Ratio: 1.926
-Overall TA: 1926
+Overall Ratio: 1.859
+Overall TA: 1859
 PDU: 0
-Percentage Completed: 14.95
+Percentage Completed: 17.41
 Publisher: Super PowerUp Games
 Release Date: 22 December 2023
 Server Closure: false
-Site Rating: 1.65
+Site Rating: 1.6
 Update Achievements: []
 Walkthrough: false

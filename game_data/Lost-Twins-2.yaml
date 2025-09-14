@@ -1,72 +1,93 @@
 Add On Achievements: []
 Base Completion Time:
-- -1
-- -1
+- 34
+- 35
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Zoom Master
   Description: Triumph with zooming out only 4 times (Level 4 | Zone 1)
   GS: '20'
   Guide: false
-  Number of Gamers: 2
-  Percentage of Gamers: 9%
-  Ratio: 3.39
-  TA: '67'
-  Tags: []
+  Number of Gamers: 4
+  Percentage of Gamers: 17%
+  Ratio: 2.44
+  TA: '48'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Ladies First
   Description: Complete the level with Abi leading the way. (Level 3 | Zone 1)
   GS: '10'
   Guide: false
   Number of Gamers: 13
-  Percentage of Gamers: 57%
-  Ratio: 1.38
+  Percentage of Gamers: 54%
+  Ratio: 1.35
   TA: '13'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Feather Collector Abi
   Description: Collect all feathers in a level with Abi. (Level 5 | Zone 1)
   GS: '10'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 22%
-  Ratio: 2.14
-  TA: '21'
-  Tags: []
+  Number of Gamers: 6
+  Percentage of Gamers: 25%
+  Ratio: 2.0
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Two-Move Maestro
   Description: Efficient Mastery with Only Two Abi Moves. (Level 6 | Zone1)
   GS: '10'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 17%
-  Ratio: 2.39
-  TA: '23'
-  Tags: []
+  Number of Gamers: 5
+  Percentage of Gamers: 21%
+  Ratio: 2.19
+  TA: '21'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Feather Quest with Abi
   Description: Collect all feathers in a level with Abi. (Level 7 | Zone 1)
   GS: '10'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 22%
-  Ratio: 2.14
-  TA: '21'
-  Tags: []
+  Number of Gamers: 6
+  Percentage of Gamers: 25%
+  Ratio: 2.0
+  TA: '20'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Box Drop Virtuoso
   Description: Excel the unique feat of dropping a box on head. (Level 8 | Zone1)
   GS: '15'
   Guide: false
   Number of Gamers: 3
-  Percentage of Gamers: 13%
-  Ratio: 2.76
-  TA: '41'
-  Tags: []
+  Percentage of Gamers: 12%
+  Ratio: 2.82
+  TA: '42'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Shuffle Strategist
   Description: Master the level within 15 shuffle moves. (Level 10 | Zone 1)
   GS: '15'
   Guide: false
   Number of Gamers: 2
-  Percentage of Gamers: 9%
-  Ratio: 3.39
-  TA: '50'
-  Tags: []
+  Percentage of Gamers: 8%
+  Ratio: 3.46
+  TA: '51'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Boulder Banishment
   Description: Complete level without placing boulder on a button.(Level 9 | Zone
     1)
@@ -74,47 +95,62 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 1
   Percentage of Gamers: 4%
-  Ratio: 4.79
-  TA: '95'
-  Tags: []
+  Ratio: 4.89
+  TA: '97'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Strategic Boulder Drop
   Description: Master the level by strategically dropping a boulder on a box exactly
     once. (Level 11 | Zone 1))
   GS: '20'
   Guide: false
   Number of Gamers: 3
-  Percentage of Gamers: 13%
-  Ratio: 2.76
-  TA: '55'
-  Tags: []
+  Percentage of Gamers: 12%
+  Ratio: 2.82
+  TA: '56'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Mushroom Jumper
   Description: Navigate through the level with just 4 jumps on Mushrooms. (Level 1
     | Zone 2)
   GS: '15'
   Guide: false
   Number of Gamers: 2
-  Percentage of Gamers: 9%
-  Ratio: 3.39
-  TA: '50'
-  Tags: []
+  Percentage of Gamers: 8%
+  Ratio: 3.46
+  TA: '51'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Speed Surge
   Description: Complete the level within 50 seconds. (Level 2 | Zone 2)
   GS: '20'
   Guide: false
   Number of Gamers: 1
   Percentage of Gamers: 4%
-  Ratio: 4.79
-  TA: '95'
-  Tags: []
+  Ratio: 4.89
+  TA: '97'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Feather Sprinter
   Description: Collect all feathers within a speedy 40 seconds. (Level 3 | Zone 2)
   GS: '20'
   Guide: false
   Number of Gamers: 1
   Percentage of Gamers: 4%
-  Ratio: 4.79
-  TA: '95'
-  Tags: []
+  Ratio: 4.89
+  TA: '97'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Shuffle Master
   Description: Complete the level by shuffling 30 amount of times. (Level 4 | Zone
     2)
@@ -122,27 +158,36 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 1
   Percentage of Gamers: 4%
-  Ratio: 4.79
-  TA: '95'
-  Tags: []
+  Ratio: 4.89
+  TA: '97'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Ropeless Runner
   Description: Complete level without using a rope. (Level 5 | Zone 2)
   GS: '25'
   Guide: false
   Number of Gamers: 1
   Percentage of Gamers: 4%
-  Ratio: 4.79
-  TA: '119'
-  Tags: []
+  Ratio: 4.89
+  TA: '122'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Gravity's Embrace
   Description: Freefall for 25 meters. (Level 6 | Zone 2)
   GS: '20'
   Guide: false
   Number of Gamers: 2
-  Percentage of Gamers: 9%
-  Ratio: 3.39
-  TA: '67'
-  Tags: []
+  Percentage of Gamers: 8%
+  Ratio: 3.46
+  TA: '69'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Mushroom Diver
   Description: Dive onto a Mushroom from a daring height of over 15 meters. (Level
     7 | Zone 2)
@@ -150,9 +195,12 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 1
   Percentage of Gamers: 4%
-  Ratio: 4.79
-  TA: '95'
-  Tags: []
+  Ratio: 4.89
+  TA: '97'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Boulder Balancer
   Description: Achieve balance on a rolling boulder as it descends down a hill. (Level
     8 | Zone 2)
@@ -160,28 +208,37 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 1
   Percentage of Gamers: 4%
-  Ratio: 4.79
-  TA: '119'
-  Tags: []
+  Ratio: 4.89
+  TA: '122'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Feather Collector Ben
   Description: Gather all feathers in the level with Ben. (Level 9 | Zone 2)
   GS: '20'
   Guide: false
   Number of Gamers: 2
-  Percentage of Gamers: 9%
-  Ratio: 3.39
-  TA: '67'
-  Tags: []
+  Percentage of Gamers: 8%
+  Ratio: 3.46
+  TA: '69'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: DragonFly Rider
   Description: Collect a feather while skillfully riding a DragonFly. (Level 10 |
     Zone 2)
   GS: '20'
   Guide: false
   Number of Gamers: 2
-  Percentage of Gamers: 9%
-  Ratio: 3.39
-  TA: '67'
-  Tags: []
+  Percentage of Gamers: 8%
+  Ratio: 3.46
+  TA: '69'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Skyward Soarer
   Description: Soar on a DragonFly from an exhilarating height of more than 12 meters.
     (Level 11 | Zone 2)
@@ -189,37 +246,49 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 1
   Percentage of Gamers: 4%
-  Ratio: 4.79
-  TA: '95'
-  Tags: []
+  Ratio: 4.89
+  TA: '97'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Lucky 7 Shuffler
   Description: Complete the level in 7 piece shuffles. (Level 1 | Zone 3)
   GS: '20'
   Guide: false
   Number of Gamers: 1
   Percentage of Gamers: 4%
-  Ratio: 4.79
-  TA: '95'
-  Tags: []
+  Ratio: 4.89
+  TA: '97'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Feather Quest
   Description: Collect all feathers in the level with Abi. (Level 2 | Zone 3)
   GS: '15'
   Guide: false
   Number of Gamers: 1
   Percentage of Gamers: 4%
-  Ratio: 4.79
-  TA: '71'
-  Tags: []
+  Ratio: 4.89
+  TA: '73'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Balance Guru
   Description: Achieve balance with Ben on a rolling ball for 5 meters. (Level 3 |
     Zone 3)
   GS: '25'
   Guide: false
   Number of Gamers: 3
-  Percentage of Gamers: 13%
-  Ratio: 2.76
-  TA: '69'
-  Tags: []
+  Percentage of Gamers: 12%
+  Ratio: 2.82
+  TA: '70'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Battery Dash
   Description: Move the battery to the opposite end of the piano within 25 seconds.
     (Level 4 | Zone 3)
@@ -227,18 +296,24 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 1
   Percentage of Gamers: 4%
-  Ratio: 4.79
-  TA: '119'
-  Tags: []
+  Ratio: 4.89
+  TA: '122'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Piano Puzzler
   Description: Solve the piano puzzle swiftly within 20 seconds. (Level 5 | Zone 3)
   GS: '25'
   Guide: false
   Number of Gamers: 1
   Percentage of Gamers: 4%
-  Ratio: 4.79
-  TA: '119'
-  Tags: []
+  Ratio: 4.89
+  TA: '122'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Ball Balancer
   Description: Showcase your skill by balancing a ball on Ben's head for 1 second.
     (Level 6 | Zone 3)
@@ -246,145 +321,193 @@ Base Game Achievements:
   Guide: false
   Number of Gamers: 1
   Percentage of Gamers: 4%
-  Ratio: 4.79
-  TA: '119'
-  Tags: []
+  Ratio: 4.89
+  TA: '122'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Feather Collector
   Description: Gather all feathers with Ben. (Level 6 | Zone 3)
   GS: '15'
   Guide: false
   Number of Gamers: 1
   Percentage of Gamers: 4%
-  Ratio: 4.79
-  TA: '71'
-  Tags: []
+  Ratio: 4.89
+  TA: '73'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Driver Ben
   Description: Drive a Car with Ben in the driving seat. (Level 8 | Zone 3)
   GS: '10'
   Guide: false
   Number of Gamers: 1
   Percentage of Gamers: 4%
-  Ratio: 4.79
-  TA: '47'
-  Tags: []
+  Ratio: 4.89
+  TA: '48'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Ben Shock Therapy
   Description: Drop a battery on Ben's head (Level 9 | Zone 3)
   GS: '10'
   Guide: false
   Number of Gamers: 2
-  Percentage of Gamers: 9%
-  Ratio: 3.39
-  TA: '33'
-  Tags: []
+  Percentage of Gamers: 8%
+  Ratio: 3.46
+  TA: '34'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Ben's Solo Journey
   Description: Complete the level without Ben sitting in a car. (Level 10 | Zone 3)
   GS: '25'
   Guide: false
   Number of Gamers: 1
   Percentage of Gamers: 4%
-  Ratio: 4.79
-  TA: '119'
-  Tags: []
+  Ratio: 4.89
+  TA: '122'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Hover Buddies
   Description: Hover Ben and Abi together in the air for 4 seconds. (Level 11 | Zone
     3)
   GS: '25'
   Guide: false
   Number of Gamers: 5
-  Percentage of Gamers: 22%
-  Ratio: 2.14
-  TA: '53'
-  Tags: []
+  Percentage of Gamers: 21%
+  Ratio: 2.19
+  TA: '54'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Tutorial Trailblazer
   Description: Blaze through the FTUE tutorial, setting the stage for your epic journey.
   GS: '25'
   Guide: false
-  Number of Gamers: 20
-  Percentage of Gamers: 87%
-  Ratio: 1.07
+  Number of Gamers: 21
+  Percentage of Gamers: 88%
+  Ratio: 1.06
   TA: '26'
-  Tags: []
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
 - Achievement Name: Frosty Conqueror
   Description: Traverse and conquer the first zone Frozen Castle.
   GS: '50'
   Guide: false
-  Number of Gamers: 6
-  Percentage of Gamers: 26%
-  Ratio: 1.95
-  TA: '97'
-  Tags: []
+  Number of Gamers: 7
+  Percentage of Gamers: 29%
+  Ratio: 1.85
+  TA: '92'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
 - Achievement Name: Shape Shifter
   Description: Traverse and conquer the second zone Forest.
   GS: '50'
   Guide: false
   Number of Gamers: 5
-  Percentage of Gamers: 22%
-  Ratio: 2.14
-  TA: '107'
-  Tags: []
+  Percentage of Gamers: 21%
+  Ratio: 2.19
+  TA: '109'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
 - Achievement Name: Toyzone Triumph
   Description: Master the challenges of Toyzone, completing the third zone Toyland.
   GS: '50'
   Guide: false
   Number of Gamers: 4
   Percentage of Gamers: 17%
-  Ratio: 2.39
-  TA: '119'
-  Tags: []
+  Ratio: 2.44
+  TA: '122'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
 - Achievement Name: Master of Realms
   Description: Achieve game completion by successfully navigating through all zones.
   GS: '50'
   Guide: false
   Number of Gamers: 4
   Percentage of Gamers: 17%
-  Ratio: 2.39
-  TA: '119'
-  Tags: []
+  Ratio: 2.44
+  TA: '122'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+  - Main Storyline
+  - Story Completed
 - Achievement Name: Tarzan
   Description: Collect 12 crystals in a game by jumping from a rope.
   GS: '50'
   Guide: false
   Number of Gamers: 2
-  Percentage of Gamers: 9%
-  Ratio: 3.39
-  TA: '169'
-  Tags: []
+  Percentage of Gamers: 8%
+  Ratio: 3.46
+  TA: '173'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Shroom Soarer
   Description: Dance through the mushroom tops, achieving 50 mushroom jumps with effortless
     finesse.
   GS: '50'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 17%
-  Ratio: 2.39
-  TA: '119'
-  Tags: []
+  Number of Gamers: 5
+  Percentage of Gamers: 21%
+  Ratio: 2.19
+  TA: '109'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
 - Achievement Name: Solo Saga
   Description: Complete the entire game in a single sitting
   GS: '100'
   Guide: false
-  Number of Gamers: 0
-  Percentage of Gamers: NA
-  Ratio: NA
-  TA: '100'
-  Tags: []
-Base Ratio: 3.121
-Base TA: 3121
+  Number of Gamers: 1
+  Percentage of Gamers: 4%
+  Ratio: 4.89
+  TA: '489'
+  Tags:
+  - Offline Mode
+  - Single Player
+  - Cooperative
+Base Ratio: 3.534
+Base TA: 3534
 Delisted: false
 Developer: Playdew
 Game Name: Lost Twins 2
 Genres: Puzzle, Platformer
 Install Size: 870.0
-Number of Completions: 0
-Number of Gamers: 23
+Number of Completions: 1
+Number of Gamers: 24
 Overall Completion Time:
-- -1
-- -1
+- 34
+- 35
 Overall GS: 1000
-Overall Ratio: 3.121
-Overall TA: 3121
+Overall Ratio: 3.534
+Overall TA: 3534
 PDU: 0
-Percentage Completed: 0.0
+Percentage Completed: 4.17
 Publisher: Playdew
 Release Date: 14 August 2025
 Server Closure: false

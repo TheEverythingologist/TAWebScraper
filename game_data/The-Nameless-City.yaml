@@ -1,17 +1,17 @@
 Add On Achievements: []
 Base Completion Time:
-- 0
-- 1
+- 0.5
+- 1.0
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Dispel
   Description: The first glyph has been found
   GS: '90'
   Guide: false
-  Number of Gamers: 7
-  Percentage of Gamers: 100%
-  Ratio: 1.0
-  TA: '90'
+  Number of Gamers: 35
+  Percentage of Gamers: 95%
+  Ratio: 1.02
+  TA: '92'
   Tags:
   - Offline Mode
   - Single Player
@@ -20,10 +20,10 @@ Base Game Achievements:
   Description: The second glyph has been found
   GS: '90'
   Guide: false
-  Number of Gamers: 6
+  Number of Gamers: 32
   Percentage of Gamers: 86%
-  Ratio: 1.08
-  TA: '97'
+  Ratio: 1.07
+  TA: '96'
   Tags:
   - Offline Mode
   - Single Player
@@ -32,10 +32,10 @@ Base Game Achievements:
   Description: The third glyph has been found? Or not?
   GS: '90'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 71%
-  Ratio: 1.18
-  TA: '106'
+  Number of Gamers: 30
+  Percentage of Gamers: 81%
+  Ratio: 1.11
+  TA: '99'
   Tags:
   - Offline Mode
   - Single Player
@@ -44,10 +44,10 @@ Base Game Achievements:
   Description: The third glyph has been found
   GS: '90'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 71%
-  Ratio: 1.18
-  TA: '106'
+  Number of Gamers: 28
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '103'
   Tags:
   - Offline Mode
   - Single Player
@@ -56,10 +56,10 @@ Base Game Achievements:
   Description: The fourth glyph has been found
   GS: '90'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 71%
-  Ratio: 1.18
-  TA: '106'
+  Number of Gamers: 28
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '103'
   Tags:
   - Offline Mode
   - Single Player
@@ -68,10 +68,10 @@ Base Game Achievements:
   Description: The first barrier has been dispelled
   GS: '50'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 71%
-  Ratio: 1.18
-  TA: '59'
+  Number of Gamers: 31
+  Percentage of Gamers: 84%
+  Ratio: 1.09
+  TA: '54'
   Tags:
   - Offline Mode
   - Single Player
@@ -80,10 +80,10 @@ Base Game Achievements:
   Description: The second barrier has been dispelled
   GS: '50'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 71%
-  Ratio: 1.18
-  TA: '59'
+  Number of Gamers: 30
+  Percentage of Gamers: 81%
+  Ratio: 1.11
+  TA: '55'
   Tags:
   - Offline Mode
   - Single Player
@@ -92,10 +92,10 @@ Base Game Achievements:
   Description: Suspicious movement in the shadows
   GS: '50'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 71%
-  Ratio: 1.18
-  TA: '59'
+  Number of Gamers: 28
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '57'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -103,10 +103,10 @@ Base Game Achievements:
   Description: Looked into the pit
   GS: '50'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 71%
-  Ratio: 1.18
-  TA: '59'
+  Number of Gamers: 30
+  Percentage of Gamers: 81%
+  Ratio: 1.11
+  TA: '55'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -114,10 +114,10 @@ Base Game Achievements:
   Description: Night is coming
   GS: '50'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 71%
-  Ratio: 1.18
-  TA: '59'
+  Number of Gamers: 30
+  Percentage of Gamers: 81%
+  Ratio: 1.11
+  TA: '55'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -125,10 +125,10 @@ Base Game Achievements:
   Description: Feeling safe here
   GS: '50'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 71%
-  Ratio: 1.18
-  TA: '59'
+  Number of Gamers: 30
+  Percentage of Gamers: 81%
+  Ratio: 1.11
+  TA: '55'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -136,10 +136,10 @@ Base Game Achievements:
   Description: A frightening sight
   GS: '50'
   Guide: false
-  Number of Gamers: 4
-  Percentage of Gamers: 57%
-  Ratio: 1.32
-  TA: '66'
+  Number of Gamers: 27
+  Percentage of Gamers: 73%
+  Ratio: 1.17
+  TA: '58'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -147,10 +147,10 @@ Base Game Achievements:
   Description: This crystal emits a glow
   GS: '50'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 71%
-  Ratio: 1.18
-  TA: '59'
+  Number of Gamers: 28
+  Percentage of Gamers: 76%
+  Ratio: 1.14
+  TA: '57'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -158,10 +158,10 @@ Base Game Achievements:
   Description: Familiar glyphs in the painting
   GS: '50'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 71%
-  Ratio: 1.18
-  TA: '59'
+  Number of Gamers: 27
+  Percentage of Gamers: 73%
+  Ratio: 1.17
+  TA: '58'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -169,34 +169,34 @@ Base Game Achievements:
   Description: Thanks for playing!
   GS: '100'
   Guide: false
-  Number of Gamers: 5
-  Percentage of Gamers: 71%
-  Ratio: 1.18
-  TA: '118'
+  Number of Gamers: 27
+  Percentage of Gamers: 73%
+  Ratio: 1.17
+  TA: '117'
   Tags:
   - Offline Mode
   - Single Player
   - Main Storyline
-Base Ratio: 1.161
-Base TA: 1161
+Base Ratio: 1.114
+Base TA: 1114
 Delisted: false
 Developer: Paradnight Studio
 Game Name: The Nameless City
 Genres: Adventure
 Install Size: 679.0
-Number of Completions: 4
-Number of Gamers: 7
+Number of Completions: 24
+Number of Gamers: 37
 Overall Completion Time:
-- 0
-- 1
+- 0.5
+- 1.0
 Overall GS: 1000
-Overall Ratio: 1.161
-Overall TA: 1161
+Overall Ratio: 1.114
+Overall TA: 1114
 PDU: 0
-Percentage Completed: 57.14
+Percentage Completed: 64.86
 Publisher: Sometimes You
 Release Date: 03 September 2025
 Server Closure: false
-Site Rating: 5.0
+Site Rating: 2.33
 Update Achievements: []
 Walkthrough: false

@@ -1,7 +1,7 @@
 Add On Achievements: []
 Base Completion Time:
-- 11
 - 12
+- 13
 Base GS: 1000
 Base Game Achievements:
 - Achievement Name: Back to Living
@@ -17,10 +17,10 @@ Base Game Achievements:
   Description: Perform Selfloss For Turtle
   GS: '30'
   Guide: false
-  Number of Gamers: 41
-  Percentage of Gamers: 55%
-  Ratio: 1.34
-  TA: '40'
+  Number of Gamers: 42
+  Percentage of Gamers: 57%
+  Ratio: 1.32
+  TA: '39'
   Tags: []
 - Achievement Name: The Essence
   Description: Catch the Fish Essence
@@ -35,22 +35,13 @@ Base Game Achievements:
   Description: Destoy your first Miasma Grabber
   GS: '30'
   Guide: false
-  Number of Gamers: 48
-  Percentage of Gamers: 65%
-  Ratio: 1.24
-  TA: '37'
+  Number of Gamers: 49
+  Percentage of Gamers: 66%
+  Ratio: 1.22
+  TA: '36'
   Tags: []
 - Achievement Name: Lore master
   Description: Collect all Scrolls of Mirro
-  GS: '90'
-  Guide: false
-  Number of Gamers: 11
-  Percentage of Gamers: 15%
-  Ratio: 2.59
-  TA: '233'
-  Tags: []
-- Achievement Name: The Force of Light
-  Description: Find all Runic Stones for the Staff
   GS: '90'
   Guide: false
   Number of Gamers: 12
@@ -58,8 +49,26 @@ Base Game Achievements:
   Ratio: 2.48
   TA: '223'
   Tags: []
+- Achievement Name: The Force of Light
+  Description: Find all Runic Stones for the Staff
+  GS: '90'
+  Guide: false
+  Number of Gamers: 13
+  Percentage of Gamers: 18%
+  Ratio: 2.38
+  TA: '214'
+  Tags: []
 - Achievement Name: A Husband
   Description: Perform Selfloss for the Mermaid
+  GS: '30'
+  Guide: false
+  Number of Gamers: 21
+  Percentage of Gamers: 28%
+  Ratio: 1.87
+  TA: '56'
+  Tags: []
+- Achievement Name: A Child
+  Description: Save the Baby whale and his Mother whale
   GS: '30'
   Guide: false
   Number of Gamers: 20
@@ -67,23 +76,14 @@ Base Game Achievements:
   Ratio: 1.92
   TA: '57'
   Tags: []
-- Achievement Name: A Child
-  Description: Save the Baby whale and his Mother whale
-  GS: '30'
-  Guide: false
-  Number of Gamers: 19
-  Percentage of Gamers: 26%
-  Ratio: 1.97
-  TA: '59'
-  Tags: []
 - Achievement Name: No Orca Whales Left
   Description: Find the Orca Whales
   GS: '90'
   Guide: true
-  Number of Gamers: 16
-  Percentage of Gamers: 22%
-  Ratio: 2.15
-  TA: '193'
+  Number of Gamers: 17
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '187'
   Tags: []
 - Achievement Name: Full Stock
   Description: Have Maximum Amount of Herbs
@@ -98,13 +98,22 @@ Base Game Achievements:
   Description: Survive the fight with Kochei
   GS: '30'
   Guide: false
-  Number of Gamers: 19
-  Percentage of Gamers: 26%
-  Ratio: 1.97
-  TA: '59'
+  Number of Gamers: 20
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '57'
   Tags: []
 - Achievement Name: Freedom
   Description: Leave the Swamps
+  GS: '30'
+  Guide: false
+  Number of Gamers: 18
+  Percentage of Gamers: 24%
+  Ratio: 2.02
+  TA: '60'
+  Tags: []
+- Achievement Name: A Dear Friend
+  Description: Perform Selfloss for the Giant
   GS: '30'
   Guide: false
   Number of Gamers: 17
@@ -112,86 +121,77 @@ Base Game Achievements:
   Ratio: 2.08
   TA: '62'
   Tags: []
-- Achievement Name: A Dear Friend
-  Description: Perform Selfloss for the Giant
-  GS: '30'
-  Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 22%
-  Ratio: 2.15
-  TA: '64'
-  Tags: []
 - Achievement Name: Mercy for a God
   Description: Destroy the Whale's Heart
   GS: '90'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 22%
-  Ratio: 2.15
-  TA: '193'
+  Number of Gamers: 17
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '187'
   Tags: []
 - Achievement Name: "Sometimes parents don\u2019t love their children"
   Description: Rescue the soul of Lich's daughter
   GS: '30'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 22%
-  Ratio: 2.15
-  TA: '64'
+  Number of Gamers: 17
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '62'
   Tags: []
 - Achievement Name: The Warrior of Light
   Description: Kill 20 miasm dummies
   GS: '90'
   Guide: false
-  Number of Gamers: 19
-  Percentage of Gamers: 26%
-  Ratio: 1.97
-  TA: '177'
+  Number of Gamers: 20
+  Percentage of Gamers: 27%
+  Ratio: 1.92
+  TA: '173'
   Tags: []
 - Achievement Name: The True Form
   Description: Defeat the Lich in his true form
   GS: '30'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 22%
-  Ratio: 2.15
-  TA: '64'
+  Number of Gamers: 17
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '62'
   Tags: []
 - Achievement Name: Selfloss
   Description: Perform the forbidden variant of Selfloss
   GS: '115'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 22%
-  Ratio: 2.15
-  TA: '247'
+  Number of Gamers: 17
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '239'
   Tags: []
 - Achievement Name: Remembrance
   Description: See all Kazimir memories
   GS: '90'
   Guide: false
-  Number of Gamers: 16
-  Percentage of Gamers: 22%
-  Ratio: 2.15
-  TA: '193'
+  Number of Gamers: 17
+  Percentage of Gamers: 23%
+  Ratio: 2.08
+  TA: '187'
   Tags: []
-Base Ratio: 2.064
-Base TA: 2064
+Base Ratio: 2.0
+Base TA: 2000
 Delisted: false
 Developer: Goodwin Games
 Game Name: Selfloss
 Genres: Adventure
 Install Size: 3420.0
-Number of Completions: 10
+Number of Completions: 11
 Number of Gamers: 74
 Overall Completion Time:
-- 11
 - 12
+- 13
 Overall GS: 1000
-Overall Ratio: 2.064
-Overall TA: 2064
+Overall Ratio: 2.0
+Overall TA: 2000
 PDU: 0
-Percentage Completed: 13.51
+Percentage Completed: 14.86
 Publisher: Silver Lining Interactive
 Release Date: 12 September 2024
 Server Closure: false

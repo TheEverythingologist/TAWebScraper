@@ -1,11 +1,5 @@
-import requests
-from bs4 import BeautifulSoup
 import pandas as pd
-import csv
-import re
 from tqdm import tqdm
-import time
-import pyautogui
 from game import Game
 import os
 from utils import Utils as utils
@@ -13,11 +7,6 @@ from game_box import GameBox
 from tagdict import TagDict
 from base_scraper import BaseScraper
 import yaml
-import cloudscraper
-
-def csv_to_pandas_loader(csv_path):
-    _df = pd.read_csv(csv_path)
-    return _df
 
 
 def check_game_for_scan_need(game_box_object: GameBox):
@@ -46,55 +35,16 @@ def check_game_for_scan_need(game_box_object: GameBox):
             # If ta score changed by +/- 2.5 percent, rescan
             return True
     return False
-    
-    
-def get_page_links(games_list_url):
-    # Deprecated
-    # response = requests.get(games_list_url, headers={'User-Agent': 'Mozilla/6.0'})
-    
-    # TODO move this into a function to clean it up
-    _scraper = cloudscraper.create_scraper(delay=10, browser={'custom': 'Edge'})
-    response = _scraper.get(games_list_url)
-    time.sleep(5)
-    # Retry if title is still "Just a moment..."
-    if "Just a moment..." in response.text:
-        print("[!] Still got challenge page, retrying after delay...")
-        time.sleep(5)
-        response = _scraper.get(games_list_url)
-
-    soup = BeautifulSoup(response.content, 'html.parser')
-    page_elements = soup.find('ul', {'class': 'pagination'})
-    if 'game-pass' in games_list_url:
-        max_page = int(page_elements.find('li', {'class': 'l'}).text)
-        page_links = [f'https://www.trueachievements.com/game-pass-ultimate/games?page={i}' for i in range(1, max_page + 1)]
-    elif 'series-x' in games_list_url:
-        max_page = int(page_elements.find('li', {'class': 'l'}).text)
-        page_links = [f'https://www.trueachievements.com/xbox-series-x/games?page={i}' for i in range(1, max_page + 1)]
-    else:
-        page_elements = page_elements.find_all('li', {'class': 'prevnext'})
-        page_links = [page_element.find('a')['href'] for page_element in page_elements]
-    return page_links
-
-
-def find_game_box(inputted_game_boxes, inputted_url):
-    for tr in inputted_game_boxes:
-        a_tag = tr.find('a')['href']
-        if a_tag == inputted_url:
-            return tr
-    return None
 
 
 def format_game_row(input_game: dict):
+    # If the game doesn't have a valid completion time or install size, do NOT output its row. It's likely either bugged or unreleased.
     try:
         overall_time_list = input_game['Base Completion Time']
-        if int(overall_time_list[0]) == -1:
+        if int(overall_time_list[0]) == -1 or overall_time_list[1] == 0 or input_game['Install Size'] is None:
             return None
     except TypeError:
         return None
-    if overall_time_list[1] == 0:
-        return None
-    if input_game['Install Size'] is None:
-        return None 
     time_val = max(float(overall_time_list[0]), 0.5)
     min_time, max_time = input_game['Overall Completion Time'][0], input_game['Overall Completion Time'][1] 
     # num_achievements = len(input_game['Base Game Achievements']) + len(input_game['Add On Achievements']) + len(input_game['Update Achievements'])
@@ -120,17 +70,7 @@ def format_game_row(input_game: dict):
     return new_row 
 
 
-pyautogui.FAILSAFE = True
-def stay_awake():
-    pyautogui.moveRel(0, 15)
-    pyautogui.press('left')
-    pyautogui.moveRel(0, -15)
-
-
 def main():
-    output_files = utils.output_files
-    columns_list = utils.columns_list  
-    tag_dict = TagDict()
     games_scanned = 0
     bs = BaseScraper()
     gamebox_trs = bs.scrape_all_gamebox_trs()
@@ -141,25 +81,23 @@ def main():
         need_to_scan = check_game_for_scan_need(game_box_object=game_box_obj)
         if need_to_scan:
             games_scanned += 1
-            game = Game(_url = game_box_obj.game_url, _tag_dict = tag_dict)
+            game = Game(_url = game_box_obj.game_url, _tag_dict = TagDict())
             if game.unreleased == False:
                 game_data_path = f"game_data/{game_box_obj.game_name_url}.yaml"
                 try:
                     game.output_to_yaml(path=game_data_path)
                 except AttributeError:
                     print(f"Troublesome game: {game_box_obj.game_url}")
-        # Add data to the pandas dataframe
-        if game_box_obj.ta_score != 'Unreleased':
-            game_data_path = f"game_data/{game_box_obj.game_name_url}.yaml"
-            with open(game_data_path, 'r') as game_file:
-                game_data = yaml.safe_load(game_file)
-                game_row = format_game_row(game_data)
+        # Add data to the pandas dataframe, NOTE I think this code is deprecated
+        # if game_box_obj.ta_score != 'Unreleased':
+        #     game_data_path = f"game_data/{game_box_obj.game_name_url}.yaml"
+        #     with open(game_data_path, 'r') as game_file:
+        #         game_data = yaml.safe_load(game_file)
+        #         game_row = format_game_row(game_data)
       
     # We get here once we have iterated all other games. This is for the all games output
-    df_overall = pd.DataFrame(columns=columns_list)
-    output_file = output_files[0]
-    print(f"All scans completed. Games scanned = {games_scanned}")
-    print("Dumping ALL game data to csv")
+    df_overall = pd.DataFrame(columns=utils.columns_list)
+    print(f"All scans completed. Games scanned = {games_scanned}\nDumping ALL game data to csv")
     for yaml_file in tqdm(os.listdir("game_data/")):
         game_data_path = f"game_data/{yaml_file}"
         with open(game_data_path, 'r') as game_file:
@@ -169,10 +107,10 @@ def main():
                 continue
         df_overall = pd.concat([df_overall, game_row], ignore_index=True)
 
+    # Alphabetize the dataframe, and dump to csv
     df_overall = df_overall.sort_values(by=['Game Name'], ascending=False)
-    df_overall = df_overall.reset_index(drop=True)
-    # Convert the dataframes to csv files        
-    df_overall.to_csv(output_file, index=False)
+    df_overall = df_overall.reset_index(drop=True)        
+    df_overall.to_csv(utils.output_file, index=False)
 
 
 if __name__ == "__main__":

@@ -9,10 +9,10 @@ Base Game Achievements:
     game.
   GS: '20'
   Guide: true
-  Number of Gamers: 62
+  Number of Gamers: 85
   Percentage of Gamers: 1%
-  Ratio: 13.59
-  TA: '271'
+  Ratio: 12.62
+  TA: '252'
   Tags:
   - Online/Offline
   - Single Player
@@ -22,23 +22,24 @@ Base Game Achievements:
   Description: Record an interception on a play you correctly guess the route in
   GS: '20'
   Guide: false
-  Number of Gamers: 71
+  Number of Gamers: 91
   Percentage of Gamers: 1%
-  Ratio: 12.7
-  TA: '254'
+  Ratio: 12.2
+  TA: '244'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
   - Versus
+  - Buggy
 - Achievement Name: A Buck Fiddy
   Description: Rush for 150 yards in a game with one player
   GS: '20'
-  Guide: false
-  Number of Gamers: 4166
-  Percentage of Gamers: 36%
-  Ratio: 1.65
-  TA: '33'
+  Guide: true
+  Number of Gamers: 5229
+  Percentage of Gamers: 39%
+  Ratio: 1.61
+  TA: '32'
   Tags:
   - Online/Offline
   - Single Player
@@ -48,9 +49,9 @@ Base Game Achievements:
   Description: Finish the game with at least 300 yards passing and no interceptions
   GS: '20'
   Guide: true
-  Number of Gamers: 5855
-  Percentage of Gamers: 51%
-  Ratio: 1.39
+  Number of Gamers: 7173
+  Percentage of Gamers: 53%
+  Ratio: 1.37
   TA: '27'
   Tags:
   - Online/Offline
@@ -60,11 +61,11 @@ Base Game Achievements:
 - Achievement Name: Change of Scenery
   Description: Relocate a team
   GS: '30'
-  Guide: false
-  Number of Gamers: 1025
-  Percentage of Gamers: 9%
-  Ratio: 3.34
-  TA: '100'
+  Guide: true
+  Number of Gamers: 1390
+  Percentage of Gamers: 10%
+  Ratio: 3.12
+  TA: '93'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -72,10 +73,10 @@ Base Game Achievements:
   Description: Complete a fantasy draft
   GS: '20'
   Guide: true
-  Number of Gamers: 2326
-  Percentage of Gamers: 20%
-  Ratio: 2.22
-  TA: '44'
+  Number of Gamers: 2968
+  Percentage of Gamers: 22%
+  Ratio: 2.13
+  TA: '42'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -83,10 +84,10 @@ Base Game Achievements:
   Description: Win a Head To Head game in an online league
   GS: '20'
   Guide: false
-  Number of Gamers: 835
-  Percentage of Gamers: 7%
-  Ratio: 3.7
-  TA: '74'
+  Number of Gamers: 1099
+  Percentage of Gamers: 8%
+  Ratio: 3.51
+  TA: '70'
   Tags:
   - Online Mode
   - Versus
@@ -94,10 +95,10 @@ Base Game Achievements:
   Description: Win the Super Bowl in an online league
   GS: '80'
   Guide: false
-  Number of Gamers: 1169
-  Percentage of Gamers: 10%
-  Ratio: 3.13
-  TA: '250'
+  Number of Gamers: 1620
+  Percentage of Gamers: 12%
+  Ratio: 2.89
+  TA: '231'
   Tags:
   - Online Mode
   - Versus
@@ -105,10 +106,10 @@ Base Game Achievements:
   Description: Reveal a rookie's X-Factor potential
   GS: '30'
   Guide: true
-  Number of Gamers: 1168
-  Percentage of Gamers: 10%
-  Ratio: 3.13
-  TA: '94'
+  Number of Gamers: 1593
+  Percentage of Gamers: 12%
+  Ratio: 2.91
+  TA: '87'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -116,10 +117,10 @@ Base Game Achievements:
   Description: Draft a rookie with a Hidden Dev Trait
   GS: '30'
   Guide: true
-  Number of Gamers: 3484
-  Percentage of Gamers: 30%
-  Ratio: 1.81
-  TA: '54'
+  Number of Gamers: 4390
+  Percentage of Gamers: 32%
+  Ratio: 1.75
+  TA: '52'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -127,43 +128,43 @@ Base Game Achievements:
   Description: Win a free agent bidding war for a 90+ OVR player
   GS: '60'
   Guide: true
-  Number of Gamers: 1644
-  Percentage of Gamers: 14%
-  Ratio: 2.64
-  TA: '158'
+  Number of Gamers: 2232
+  Percentage of Gamers: 16%
+  Ratio: 2.46
+  TA: '147'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: Dealmaker
   Description: Re-sign a 90+ OVR player
   GS: '60'
-  Guide: false
-  Number of Gamers: 2763
-  Percentage of Gamers: 24%
-  Ratio: 2.03
-  TA: '122'
+  Guide: true
+  Number of Gamers: 3515
+  Percentage of Gamers: 26%
+  Ratio: 1.96
+  TA: '117'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: MVP
   Description: Win MVP with one of your players
   GS: '80'
-  Guide: false
-  Number of Gamers: 1269
-  Percentage of Gamers: 11%
-  Ratio: 3.0
-  TA: '240'
+  Guide: true
+  Number of Gamers: 1843
+  Percentage of Gamers: 14%
+  Ratio: 2.71
+  TA: '217'
   Tags:
   - Offline Game Mode
   - Single Player
 - Achievement Name: ROTY
   Description: Win Rookie of the Year with one of your players
   GS: '80'
-  Guide: false
-  Number of Gamers: 1732
-  Percentage of Gamers: 15%
-  Ratio: 2.57
-  TA: '205'
+  Guide: true
+  Number of Gamers: 2382
+  Percentage of Gamers: 18%
+  Ratio: 2.38
+  TA: '190'
   Tags:
   - Offline Game Mode
   - Single Player
@@ -171,10 +172,10 @@ Base Game Achievements:
   Description: Reach max level with your Avatar in the QB Position
   GS: '30'
   Guide: false
-  Number of Gamers: 14
+  Number of Gamers: 20
   Percentage of Gamers: 0%
-  Ratio: 28.61
-  TA: '858'
+  Ratio: 26.03
+  TA: '781'
   Tags:
   - Online Mode
   - Single Player
@@ -182,10 +183,10 @@ Base Game Achievements:
   Description: Reach max level with your Avatar in the RB Position
   GS: '30'
   Guide: false
-  Number of Gamers: 13
+  Number of Gamers: 17
   Percentage of Gamers: 0%
-  Ratio: 29.69
-  TA: '890'
+  Ratio: 28.24
+  TA: '847'
   Tags:
   - Online Mode
   - Single Player
@@ -193,10 +194,10 @@ Base Game Achievements:
   Description: Reach max level with your Avatar in the WR Position
   GS: '30'
   Guide: false
-  Number of Gamers: 10
+  Number of Gamers: 12
   Percentage of Gamers: 0%
-  Ratio: 33.85
-  TA: 1,015
+  Ratio: 33.61
+  TA: 1,008
   Tags:
   - Online Mode
   - Single Player
@@ -204,10 +205,10 @@ Base Game Achievements:
   Description: Reach max level with your Avatar in the CB Position
   GS: '30'
   Guide: false
-  Number of Gamers: 12
+  Number of Gamers: 14
   Percentage of Gamers: 0%
-  Ratio: 30.9
-  TA: '927'
+  Ratio: 31.11
+  TA: '933'
   Tags:
   - Online Mode
   - Single Player
@@ -215,10 +216,10 @@ Base Game Achievements:
   Description: Reach max level with your Avatar in the LB Position
   GS: '30'
   Guide: false
-  Number of Gamers: 9
+  Number of Gamers: 10
   Percentage of Gamers: 0%
-  Ratio: 35.69
-  TA: 1,070
+  Ratio: 36.82
+  TA: 1,104
   Tags:
   - Online Mode
   - Single Player
@@ -226,22 +227,23 @@ Base Game Achievements:
   Description: User uses a Tendency Counter on a play that results in a turnover
   GS: '20'
   Guide: false
-  Number of Gamers: 21
+  Number of Gamers: 29
   Percentage of Gamers: 0%
-  Ratio: 23.36
-  TA: '467'
+  Ratio: 21.62
+  TA: '432'
   Tags:
   - Online/Offline
   - Single Player
   - Versus
+  - Buggy
 - Achievement Name: Flawless Victory
   Description: Win a game holding your opponent to zero
   GS: '30'
   Guide: true
-  Number of Gamers: 6130
-  Percentage of Gamers: 53%
+  Number of Gamers: 7268
+  Percentage of Gamers: 54%
   Ratio: 1.36
-  TA: '41'
+  TA: '40'
   Tags:
   - Online/Offline
   - Single Player
@@ -251,9 +253,9 @@ Base Game Achievements:
   Description: With your defense record for sacks on the opposing quarterback
   GS: '30'
   Guide: true
-  Number of Gamers: 6490
-  Percentage of Gamers: 57%
-  Ratio: 1.32
+  Number of Gamers: 7875
+  Percentage of Gamers: 58%
+  Ratio: 1.31
   TA: '39'
   Tags:
   - Online/Offline
@@ -263,11 +265,11 @@ Base Game Achievements:
 - Achievement Name: Teach him how to stunt
   Description: Record a sack using a play that stunts the defensive line
   GS: '30'
-  Guide: false
-  Number of Gamers: 1485
+  Guide: true
+  Number of Gamers: 1795
   Percentage of Gamers: 13%
-  Ratio: 2.77
-  TA: '83'
+  Ratio: 2.74
+  TA: '82'
   Tags:
   - Online/Offline
   - Single Player
@@ -276,10 +278,10 @@ Base Game Achievements:
 - Achievement Name: Down but not out
   Description: Win a game where you were behind at the start of the fourth quarter
   GS: '20'
-  Guide: false
-  Number of Gamers: 5899
-  Percentage of Gamers: 51%
-  Ratio: 1.39
+  Guide: true
+  Number of Gamers: 7248
+  Percentage of Gamers: 53%
+  Ratio: 1.36
   TA: '27'
   Tags:
   - Online/Offline
@@ -291,10 +293,10 @@ Base Game Achievements:
     sacks in a game
   GS: '30'
   Guide: false
-  Number of Gamers: 4202
-  Percentage of Gamers: 37%
-  Ratio: 1.65
-  TA: '49'
+  Number of Gamers: 5228
+  Percentage of Gamers: 39%
+  Ratio: 1.61
+  TA: '48'
   Tags:
   - Online/Offline
   - Single Player
@@ -330,36 +332,36 @@ Base Game Achievements:
 - Achievement Name: G14 classified secret achievement
   Description: Force a fumble using the strip ball mechanic
   GS: '60'
-  Guide: false
-  Number of Gamers: 1019
+  Guide: true
+  Number of Gamers: 1276
   Percentage of Gamers: 9%
-  Ratio: 3.35
-  TA: '201'
+  Ratio: 3.25
+  TA: '195'
   Tags:
   - Online/Offline
   - Single Player
   - Cooperative
   - Versus
-Base Ratio: 7.653
-Base TA: 7653
+Base Ratio: 7.397
+Base TA: 7397
 Delisted: false
 Developer: EA Orlando
 Game Name: EA SPORTS Madden NFL 26
 Genres: Sports, American Football
 Install Size: 64010.00000000001
 Number of Completions: 0
-Number of Gamers: 11476
+Number of Gamers: 13561
 Overall Completion Time:
 - -1
 - -1
 Overall GS: 1000
-Overall Ratio: 7.653
-Overall TA: 7653
+Overall Ratio: 7.397
+Overall TA: 7397
 PDU: 0
 Percentage Completed: 0.0
 Publisher: Electronic Arts
 Release Date: 14 August 2025
 Server Closure: false
-Site Rating: 3.23
+Site Rating: 3.4
 Update Achievements: []
 Walkthrough: false
