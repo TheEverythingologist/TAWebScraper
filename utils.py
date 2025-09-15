@@ -18,6 +18,6 @@ class Utils:
     
     pyautogui.FAILSAFE = True
     def stay_awake():
-    pyautogui.moveRel(0, 15)
-    pyautogui.press('left')
-    pyautogui.moveRel(0, -15)
+        pyautogui.moveRel(0, 15)
+        pyautogui.press('left')
+        pyautogui.moveRel(0, -15)

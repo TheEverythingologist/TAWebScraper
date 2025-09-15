@@ -1,7 +1,8 @@
 import yaml
+import os
 
 class TagDict:
-    yaml_path = "C:/Users/TKD12/OneDrive/Desktop/CodingRepos/TAWebScraper/tagdict.yaml"
+    yaml_path = f"{os.getcwd()}/tagdict.yaml"
 
     def __init__(self):
         self.tagdict = None

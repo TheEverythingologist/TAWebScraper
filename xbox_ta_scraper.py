@@ -12,7 +12,7 @@ import yaml
 def check_game_for_scan_need(game_box_object: GameBox):
     # We use objects now
     game_file = f"game_data/{game_box_object.game_name_url}.yaml"
-    # If the game is unreleased, don't bother scanning it.
+    # If the game is unreleased or has no TA score, don't bother scanning it.
     if game_box_object.ratio == '-' or game_box_object.ta_score == "0":
         # Don't scan a game that hasn't been released has no TA score or no ratio.
         game_box_object.ta_score = 'Unreleased'
@@ -27,6 +27,7 @@ def check_game_for_scan_need(game_box_object: GameBox):
         try:    
             previous_ta = game_yaml_data['Overall TA']
         except TypeError:
+            # Sometimes games have buggy pages. This catches those games and forces a rescan.
             print(f"\nError with {game_file} \n Removing the file and rescanning.")
             os.remove(game_file)
             return True
@@ -88,13 +89,7 @@ def main():
                     game.output_to_yaml(path=game_data_path)
                 except AttributeError:
                     print(f"Troublesome game: {game_box_obj.game_url}")
-        # Add data to the pandas dataframe, NOTE I think this code is deprecated
-        # if game_box_obj.ta_score != 'Unreleased':
-        #     game_data_path = f"game_data/{game_box_obj.game_name_url}.yaml"
-        #     with open(game_data_path, 'r') as game_file:
-        #         game_data = yaml.safe_load(game_file)
-        #         game_row = format_game_row(game_data)
-      
+
     # We get here once we have iterated all other games. This is for the all games output
     df_overall = pd.DataFrame(columns=utils.columns_list)
     print(f"All scans completed. Games scanned = {games_scanned}\nDumping ALL game data to csv")
