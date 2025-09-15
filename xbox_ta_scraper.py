@@ -88,6 +88,7 @@ def main():
                 try:
                     game.output_to_yaml(path=game_data_path)
                 except AttributeError:
+                    # TODO need to add logging for improved traceability
                     print(f"Troublesome game: {game_box_obj.game_url}")
 
     # We get here once we have iterated all other games. This is for the all games output

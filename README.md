@@ -27,10 +27,11 @@ Currently, the script is designed with delays built in to stagger requests and b
 A simple way to tell if your IP address is being flagged as throttling is to check `https://www.trueachievements.com/games.aspx`. If no games load, your IP address 
 is currently being flagged and you will need to change IP addresses to run the script or simply wait.
 
-**Please be considerate of TA servers and do NOT run this script more than once every 24 hours.**
+This project is for **educational and personal use only**.  
+Please do **not use this script to overload or damage TrueAchievements' servers**.  
+The author is not responsible for any violation of TrueAchievements’ Terms of Service.
 
-Additionally, `game_data/` is regularly updated on the github repo to reflect recent data to prevent superfluous rescans and page requests. 
-Please perform a git pull to check for the latest data before running the script.
+**Please be considerate of TA servers and do NOT run this script more than once every 24 hours.**
 
 ### Criteria for Rescan
 Games are rescanned if and only if any of the following criteria are met:
